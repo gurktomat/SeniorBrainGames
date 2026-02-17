@@ -1,0 +1,79 @@
+{
+  "id": "fifties-nostalgia",
+  "title": "The Fabulous 1950s",
+  "description": "How well do you remember the decade of sock hops, drive-ins, and rock 'n' roll?",
+  "questions": [
+    {
+      "id": "50s-1",
+      "question": "Which Elvis Presley song topped the charts in 1956?",
+      "options": ["Jailhouse Rock", "Heartbreak Hotel", "Blue Suede Shoes", "Love Me Tender"],
+      "correctAnswer": 1,
+      "hint": "It was his first #1 hit on the Billboard pop charts.",
+      "decade": "1950s",
+      "category": "music"
+    },
+    {
+      "id": "50s-2",
+      "question": "What TV show featured Lucille Ball and Desi Arnaz?",
+      "options": ["The Honeymooners", "Father Knows Best", "I Love Lucy", "Leave It to Beaver"],
+      "correctAnswer": 2,
+      "hint": "The show's name includes a declaration of affection.",
+      "decade": "1950s",
+      "category": "tv"
+    },
+    {
+      "id": "50s-3",
+      "question": "What toy was introduced by Wham-O in 1958 and became a massive craze?",
+      "options": ["Slinky", "Hula Hoop", "Frisbee", "Mr. Potato Head"],
+      "correctAnswer": 1,
+      "hint": "You spin it around your waist!",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "50s-4",
+      "question": "Which movie starring James Dean was released in 1955?",
+      "options": ["East of Eden", "Rebel Without a Cause", "Giant", "All of the above"],
+      "correctAnswer": 3,
+      "hint": "It's a trick question — he was a busy actor that year!",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "50s-5",
+      "question": "What event in 1957 marked the beginning of the Space Age?",
+      "options": ["First moon landing", "Sputnik launched by the Soviet Union", "NASA was founded", "First American in space"],
+      "correctAnswer": 1,
+      "hint": "It was a small satellite that made a big impact.",
+      "decade": "1950s",
+      "category": "history"
+    },
+    {
+      "id": "50s-6",
+      "question": "Who was the U.S. President for most of the 1950s?",
+      "options": ["Harry Truman", "Dwight D. Eisenhower", "John F. Kennedy", "Richard Nixon"],
+      "correctAnswer": 1,
+      "hint": "He was also a famous World War II general.",
+      "decade": "1950s",
+      "category": "history"
+    },
+    {
+      "id": "50s-7",
+      "question": "What was the name of the popular 1950s dance performed to rock 'n' roll music?",
+      "options": ["The Twist", "The Jitterbug", "The Sock Hop", "The Bop"],
+      "correctAnswer": 1,
+      "hint": "This energetic swing dance was all the rage at dances.",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "50s-8",
+      "question": "Which classic Chuck Berry song was released in 1958?",
+      "options": ["Roll Over Beethoven", "Maybellene", "Johnny B. Goode", "Sweet Little Sixteen"],
+      "correctAnswer": 2,
+      "hint": "The song is about a country boy who could play guitar like ringing a bell.",
+      "decade": "1950s",
+      "category": "music"
+    }
+  ]
+}

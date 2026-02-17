@@ -1,0 +1,79 @@
+{
+  "id": "sixties-nostalgia",
+  "title": "The Swinging 1960s",
+  "description": "Peace, love, and how much do you remember? Test your knowledge of the groovy '60s!",
+  "questions": [
+    {
+      "id": "60s-1",
+      "question": "Which band led the 'British Invasion' when they appeared on The Ed Sullivan Show in 1964?",
+      "options": ["The Rolling Stones", "The Beatles", "The Who", "The Kinks"],
+      "correctAnswer": 1,
+      "hint": "73 million Americans tuned in to watch them perform.",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-2",
+      "question": "What iconic outdoor music festival took place in 1969?",
+      "options": ["Monterey Pop Festival", "Woodstock", "Isle of Wight Festival", "Altamont Free Concert"],
+      "correctAnswer": 1,
+      "hint": "Three days of peace and music in upstate New York.",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-3",
+      "question": "Who gave the famous 'I Have a Dream' speech in 1963?",
+      "options": ["Malcolm X", "Martin Luther King Jr.", "John F. Kennedy", "Robert F. Kennedy"],
+      "correctAnswer": 1,
+      "hint": "He spoke at the March on Washington.",
+      "decade": "1960s",
+      "category": "history"
+    },
+    {
+      "id": "60s-4",
+      "question": "What TV show featured a family of castaways on a deserted island?",
+      "options": ["Gilligan's Island", "The Brady Bunch", "Lost in Space", "Bewitched"],
+      "correctAnswer": 0,
+      "hint": "Just sit right back and you'll hear a tale...",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "60s-5",
+      "question": "Which astronaut was the first American to walk on the moon in 1969?",
+      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Alan Shepard"],
+      "correctAnswer": 2,
+      "hint": "One small step for man...",
+      "decade": "1960s",
+      "category": "history"
+    },
+    {
+      "id": "60s-6",
+      "question": "What was the name of the popular spy movie series starring Sean Connery?",
+      "options": ["Mission: Impossible", "The Man from U.N.C.L.E.", "James Bond", "Get Smart"],
+      "correctAnswer": 2,
+      "hint": "The name is Bond...",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "60s-7",
+      "question": "What fashion item became a symbol of 1960s youth culture?",
+      "options": ["Bell-bottoms", "Miniskirt", "Platform shoes", "Leisure suit"],
+      "correctAnswer": 1,
+      "hint": "Designer Mary Quant is often credited with popularizing it.",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "60s-8",
+      "question": "Which classic film starring Julie Andrews won the Academy Award for Best Picture in 1965?",
+      "options": ["Mary Poppins", "The Sound of Music", "My Fair Lady", "Doctor Zhivago"],
+      "correctAnswer": 1,
+      "hint": "The hills are alive...",
+      "decade": "1960s",
+      "category": "movies"
+    }
+  ]
+}

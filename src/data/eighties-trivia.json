@@ -1,0 +1,79 @@
+{
+  "id": "eighties-nostalgia",
+  "title": "The Awesome '80s",
+  "description": "Big hair, bigger music, and blockbuster movies — how much do you remember from the 1980s?",
+  "questions": [
+    {
+      "id": "80s-1",
+      "question": "What 1982 movie featured a lovable alien who wanted to 'phone home'?",
+      "options": ["Close Encounters of the Third Kind", "E.T. the Extra-Terrestrial", "Alien", "Cocoon"],
+      "correctAnswer": 1,
+      "hint": "Directed by Steven Spielberg, it became the highest-grossing film of its time.",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "80s-2",
+      "question": "Which TV show's theme song started with 'Thank you for being a friend'?",
+      "options": ["Cheers", "The Golden Girls", "Dynasty", "Dallas"],
+      "correctAnswer": 1,
+      "hint": "Four women sharing a house in Miami.",
+      "decade": "1980s",
+      "category": "tv"
+    },
+    {
+      "id": "80s-3",
+      "question": "What was the name of the first music television channel, launched in 1981?",
+      "options": ["VH1", "MTV", "BET", "CMT"],
+      "correctAnswer": 1,
+      "hint": "I want my ___!",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-4",
+      "question": "Which 1985 movie featured a time-traveling DeLorean?",
+      "options": ["The Terminator", "Back to the Future", "Ghostbusters", "Bill & Ted's Excellent Adventure"],
+      "correctAnswer": 1,
+      "hint": "Great Scott! When this baby hits 88 miles per hour...",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "80s-5",
+      "question": "Who performed the hit song 'Like a Virgin' in 1984?",
+      "options": ["Cyndi Lauper", "Whitney Houston", "Madonna", "Pat Benatar"],
+      "correctAnswer": 2,
+      "hint": "The 'Material Girl' herself.",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-6",
+      "question": "What popular puzzle toy, invented by Erno Rubik, was a 1980s sensation?",
+      "options": ["Simon", "Rubik's Cube", "Trivial Pursuit", "Cabbage Patch Kids"],
+      "correctAnswer": 1,
+      "hint": "A colorful cube with six faces to solve.",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "80s-7",
+      "question": "Which U.S. President served throughout most of the 1980s?",
+      "options": ["Jimmy Carter", "George H.W. Bush", "Ronald Reagan", "Gerald Ford"],
+      "correctAnswer": 2,
+      "hint": "He was a former Hollywood actor.",
+      "decade": "1980s",
+      "category": "history"
+    },
+    {
+      "id": "80s-8",
+      "question": "What historic event occurred in Berlin in November 1989?",
+      "options": ["German reunification", "The fall of the Berlin Wall", "End of the Cold War declared", "Gorbachev's resignation"],
+      "correctAnswer": 1,
+      "hint": "A wall that divided a city for 28 years finally came down.",
+      "decade": "1980s",
+      "category": "history"
+    }
+  ]
+}
