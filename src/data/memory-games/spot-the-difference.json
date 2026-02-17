@@ -1,0 +1,114 @@
+{
+  "id": "spot-the-difference",
+  "title": "Spot the Difference",
+  "description": "Look carefully at the items, then spot what changed!",
+  "gameCategory": "memory-games",
+  "gameType": "spot-difference",
+  "rounds": [
+    {
+      "id": "sd-1",
+      "original": ["🍎", "🍊", "🍋", "🍇", "🍓"],
+      "changed": ["🍎", "🍊", "🍋", "🍇", "🫐"],
+      "changedIndex": 4,
+      "hint": "Look at the last fruit..."
+    },
+    {
+      "id": "sd-2",
+      "original": ["🐶", "🐱", "🐭", "🐰", "🐸"],
+      "changed": ["🐶", "🐱", "🐹", "🐰", "🐸"],
+      "changedIndex": 2,
+      "hint": "One of the small animals looks different..."
+    },
+    {
+      "id": "sd-3",
+      "original": ["⭐", "🌙", "☀️", "🌈", "⚡"],
+      "changed": ["⭐", "🌙", "☀️", "🌦️", "⚡"],
+      "changedIndex": 3,
+      "hint": "Something in the sky changed..."
+    },
+    {
+      "id": "sd-4",
+      "original": ["🚗", "🚌", "🚲", "✈️", "🚂"],
+      "changed": ["🚗", "🚌", "🛵", "✈️", "🚂"],
+      "changedIndex": 2,
+      "hint": "One of the two-wheeled vehicles changed..."
+    },
+    {
+      "id": "sd-5",
+      "original": ["🎸", "🎹", "🥁", "🎺", "🎻", "🪗"],
+      "changed": ["🎸", "🎹", "🥁", "🎺", "🎻", "🪈"],
+      "changedIndex": 5,
+      "hint": "Check the last instrument..."
+    },
+    {
+      "id": "sd-6",
+      "original": ["🌺", "🌻", "🌷", "🌹", "💐", "🌼"],
+      "changed": ["🌺", "🌻", "🌷", "🏵️", "💐", "🌼"],
+      "changedIndex": 3,
+      "hint": "One flower looks a bit different..."
+    },
+    {
+      "id": "sd-7",
+      "original": ["🍰", "🧁", "🍩", "🍪", "🎂", "🍫"],
+      "changed": ["🍰", "🧁", "🍩", "🍪", "🎂", "🍬"],
+      "changedIndex": 5,
+      "hint": "The last sweet treat changed..."
+    },
+    {
+      "id": "sd-8",
+      "original": ["🐦", "🦅", "🦆", "🦉", "🦜", "🐧", "🦩"],
+      "changed": ["🐦", "🦅", "🦆", "🦉", "🦜", "🐧", "🦢"],
+      "changedIndex": 6,
+      "hint": "Look at the tall birds at the end..."
+    },
+    {
+      "id": "sd-9",
+      "original": ["🏀", "⚽", "🎾", "🏐", "🏈", "⚾"],
+      "changed": ["🏀", "⚽", "🎾", "🏐", "🏉", "⚾"],
+      "changedIndex": 4,
+      "hint": "Two balls look quite similar..."
+    },
+    {
+      "id": "sd-10",
+      "original": ["👒", "🧢", "🎩", "👑", "⛑️", "🎓", "🪖"],
+      "changed": ["👒", "🧢", "🎩", "👑", "⛑️", "🎓", "🧑‍✈️"],
+      "changedIndex": 6,
+      "hint": "The last headwear is tricky..."
+    },
+    {
+      "id": "sd-11",
+      "original": ["🍕", "🍔", "🌭", "🥪", "🌮", "🍟", "🥨"],
+      "changed": ["🍕", "🍔", "🌭", "🥙", "🌮", "🍟", "🥨"],
+      "changedIndex": 3,
+      "hint": "One of the wrapped foods changed..."
+    },
+    {
+      "id": "sd-12",
+      "original": ["🐕", "🐩", "🦮", "🐕‍🦺", "🐶", "🐺", "🦊", "🐾"],
+      "changed": ["🐕", "🐩", "🦮", "🐕‍🦺", "🐶", "🐺", "🐺", "🐾"],
+      "changedIndex": 6,
+      "hint": "Two canines look the same now..."
+    },
+    {
+      "id": "sd-13",
+      "original": ["🔴", "🟠", "🟡", "🟢", "🔵", "🟣", "🟤", "⚫"],
+      "changed": ["🔴", "🟠", "🟡", "🟢", "🔵", "🟣", "🟤", "⚪"],
+      "changedIndex": 7,
+      "hint": "Light and dark are opposites..."
+    },
+    {
+      "id": "sd-14",
+      "original": ["🇫🇷", "🇩🇪", "🇮🇹", "🇪🇸", "🇬🇧", "🇯🇵", "🇧🇷"],
+      "changed": ["🇫🇷", "🇩🇪", "🇮🇹", "🇪🇸", "🇬🇧", "🇯🇵", "🇵🇹"],
+      "changedIndex": 6,
+      "hint": "One South American flag became European..."
+    },
+    {
+      "id": "sd-15",
+      "original": ["🕐", "🕑", "🕒", "🕓", "🕔", "🕕", "🕖", "🕗"],
+      "changed": ["🕐", "🕑", "🕒", "🕓", "🕔", "🕕", "🕖", "🕘"],
+      "changedIndex": 7,
+      "hint": "The time jumped ahead..."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "word-association",
+  "title": "Word Association",
+  "description": "Find the word that connects the group!",
+  "gameCategory": "word-games",
+  "gameType": "word-association",
+  "puzzles": [
+    {
+      "id": "wa-1",
+      "words": ["Red", "Blue", "Green", "Yellow"],
+      "options": ["Colors", "Feelings", "Foods", "Animals"],
+      "correctAnswer": 0,
+      "explanation": "Red, blue, green, and yellow are all colors."
+    },
+    {
+      "id": "wa-2",
+      "words": ["Piano", "Guitar", "Violin", "Drums"],
+      "options": ["Furniture", "Musical Instruments", "Toys", "Tools"],
+      "correctAnswer": 1,
+      "explanation": "Piano, guitar, violin, and drums are all musical instruments."
+    },
+    {
+      "id": "wa-3",
+      "words": ["Rose", "Tulip", "Daisy", "Sunflower"],
+      "options": ["Trees", "Vegetables", "Flowers", "Herbs"],
+      "correctAnswer": 2,
+      "explanation": "Rose, tulip, daisy, and sunflower are all types of flowers."
+    },
+    {
+      "id": "wa-4",
+      "words": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "options": ["Stars", "Greek Gods", "Planets", "Constellations"],
+      "correctAnswer": 2,
+      "explanation": "Mercury, Venus, Mars, and Jupiter are all planets in our solar system."
+    },
+    {
+      "id": "wa-5",
+      "words": ["Tennis", "Golf", "Soccer", "Basketball"],
+      "options": ["Hobbies", "Sports", "Games", "Exercises"],
+      "correctAnswer": 1,
+      "explanation": "Tennis, golf, soccer, and basketball are all sports."
+    },
+    {
+      "id": "wa-6",
+      "words": ["Oak", "Maple", "Pine", "Birch"],
+      "options": ["Flowers", "Trees", "Shrubs", "Grasses"],
+      "correctAnswer": 1,
+      "explanation": "Oak, maple, pine, and birch are all types of trees."
+    },
+    {
+      "id": "wa-7",
+      "words": ["Shakespeare", "Dickens", "Twain", "Austen"],
+      "options": ["Scientists", "Authors", "Composers", "Painters"],
+      "correctAnswer": 1,
+      "explanation": "Shakespeare, Dickens, Twain, and Austen are all famous authors."
+    },
+    {
+      "id": "wa-8",
+      "words": ["Diamond", "Heart", "Club", "Spade"],
+      "options": ["Shapes", "Gems", "Card Suits", "Symbols"],
+      "correctAnswer": 2,
+      "explanation": "Diamond, heart, club, and spade are the four suits in a standard deck of playing cards."
+    },
+    {
+      "id": "wa-9",
+      "words": ["Spring", "Summer", "Autumn", "Winter"],
+      "options": ["Months", "Seasons", "Holidays", "Weather"],
+      "correctAnswer": 1,
+      "explanation": "Spring, summer, autumn, and winter are the four seasons of the year."
+    },
+    {
+      "id": "wa-10",
+      "words": ["Cinnamon", "Pepper", "Ginger", "Nutmeg"],
+      "options": ["Vegetables", "Fruits", "Spices", "Herbs"],
+      "correctAnswer": 2,
+      "explanation": "Cinnamon, pepper, ginger, and nutmeg are all common cooking spices."
+    },
+    {
+      "id": "wa-11",
+      "words": ["Eagle", "Sparrow", "Robin", "Hawk"],
+      "options": ["Insects", "Fish", "Birds", "Mammals"],
+      "correctAnswer": 2,
+      "explanation": "Eagle, sparrow, robin, and hawk are all types of birds."
+    },
+    {
+      "id": "wa-12",
+      "words": ["Cotton", "Silk", "Wool", "Linen"],
+      "options": ["Fabrics", "Plants", "Colors", "Textures"],
+      "correctAnswer": 0,
+      "explanation": "Cotton, silk, wool, and linen are all types of fabric."
+    },
+    {
+      "id": "wa-13",
+      "words": ["Hammer", "Screwdriver", "Wrench", "Pliers"],
+      "options": ["Weapons", "Machines", "Tools", "Hardware"],
+      "correctAnswer": 2,
+      "explanation": "Hammer, screwdriver, wrench, and pliers are all hand tools."
+    },
+    {
+      "id": "wa-14",
+      "words": ["Thames", "Nile", "Amazon", "Mississippi"],
+      "options": ["Lakes", "Oceans", "Mountains", "Rivers"],
+      "correctAnswer": 3,
+      "explanation": "Thames, Nile, Amazon, and Mississippi are all famous rivers."
+    },
+    {
+      "id": "wa-15",
+      "words": ["Waltz", "Tango", "Foxtrot", "Samba"],
+      "options": ["Songs", "Dances", "Exercises", "Sports"],
+      "correctAnswer": 1,
+      "explanation": "Waltz, tango, foxtrot, and samba are all types of dances."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "eighties-nostalgia",
+  "title": "1980s Pop Culture Flashback",
+  "description": "MTV, Pac-Man, and big hair — test your memory of the totally awesome 1980s!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "80s-pop-1",
+      "question": "What music television channel launched on August 1, 1981, with the words 'Ladies and gentlemen, rock and roll'?",
+      "options": ["VH1", "MTV", "BET", "CMT"],
+      "correctAnswer": 1,
+      "explanation": "MTV launched with 'Video Killed the Radio Star' by the Buggles as its very first music video. It revolutionized the music industry by making visuals as important as sound.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-pop-2",
+      "question": "Which arcade video game, featuring a yellow circle eating dots, became a worldwide sensation in 1980?",
+      "options": ["Space Invaders", "Donkey Kong", "Pac-Man", "Asteroids"],
+      "correctAnswer": 2,
+      "explanation": "Pac-Man generated over $2.5 billion in quarters by the 1990s. It was the first game to appeal to both male and female players and spawned massive merchandising.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "80s-pop-3",
+      "question": "Which 1982 Steven Spielberg film features a boy who befriends an alien stranded on Earth?",
+      "options": ["Close Encounters of the Third Kind", "E.T. the Extra-Terrestrial", "Cocoon", "Flight of the Navigator"],
+      "correctAnswer": 1,
+      "explanation": "E.T. became the highest-grossing film of all time upon release, surpassing Star Wars. The film's flying bicycle silhouette became one of cinema's most iconic images.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "80s-pop-4",
+      "question": "Which U.S. President served two terms during most of the 1980s and was a former Hollywood actor?",
+      "options": ["Jimmy Carter", "George H.W. Bush", "Ronald Reagan", "Gerald Ford"],
+      "correctAnswer": 2,
+      "explanation": "Ronald Reagan served as the 40th President from 1981 to 1989. Before politics, he appeared in over 50 films and served as president of the Screen Actors Guild.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "history"
+    },
+    {
+      "id": "80s-pop-5",
+      "question": "What was the best-selling album of all time, released by Michael Jackson in 1982?",
+      "options": ["Bad", "Off the Wall", "Thriller", "Dangerous"],
+      "correctAnswer": 2,
+      "explanation": "Thriller has sold an estimated 70 million copies worldwide. Its 14-minute title track music video, directed by John Landis, redefined what a music video could be.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-pop-6",
+      "question": "Which 1985 movie trilogy starter features Marty McFly traveling through time in a DeLorean?",
+      "options": ["The Terminator", "Back to the Future", "Bill & Ted's Excellent Adventure", "Time Bandits"],
+      "correctAnswer": 1,
+      "explanation": "Back to the Future, starring Michael J. Fox and Christopher Lloyd, was the highest-grossing film of 1985. The DeLorean time machine became an enduring pop culture icon.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "80s-pop-7",
+      "question": "Which charity single, recorded by dozens of pop stars to aid African famine relief, was released in 1985?",
+      "options": ["Do They Know It's Christmas?", "We Are the World", "That's What Friends Are For", "Hands Across America"],
+      "correctAnswer": 1,
+      "explanation": "We Are the World was written by Michael Jackson and Lionel Richie and recorded by 46 music stars including Bruce Springsteen, Stevie Wonder, and Bob Dylan. It raised over $63 million.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-pop-8",
+      "question": "What puzzle toy, invented by Erno Rubik, became one of the biggest fads of the early 1980s?",
+      "options": ["Simon", "Rubik's Cube", "Trivial Pursuit", "Lite-Brite"],
+      "correctAnswer": 1,
+      "explanation": "The Rubik's Cube sold over 100 million units in its first two years. It has over 43 quintillion possible configurations but can always be solved in 20 moves or fewer.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "80s-pop-9",
+      "question": "Which 1980s TV show followed the wealthy Carrington family in Denver, Colorado?",
+      "options": ["Dallas", "Falcon Crest", "Dynasty", "Knots Landing"],
+      "correctAnswer": 2,
+      "explanation": "Dynasty ran from 1981 to 1989 and starred John Forsythe and Linda Evans. Joan Collins joined as the scheming Alexis in season two and became the show's biggest star.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "tv"
+    },
+    {
+      "id": "80s-pop-10",
+      "question": "What home video game console, released by Nintendo in 1985, revived the video game industry after a major crash?",
+      "options": ["Atari 2600", "Sega Genesis", "Nintendo Entertainment System (NES)", "ColecoVision"],
+      "correctAnswer": 2,
+      "explanation": "The NES, bundled with Super Mario Bros., sold over 61 million units and single-handedly saved the video game industry from the devastating 1983 crash.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "80s-pop-11",
+      "question": "Which 1980s fashion trend involved pushing up the sleeves of a blazer or sport coat?",
+      "options": ["Power dressing", "The Miami Vice look", "Preppy style", "New Wave fashion"],
+      "correctAnswer": 1,
+      "explanation": "Don Johnson's Sonny Crockett on Miami Vice popularized the pastel T-shirt under a linen blazer with pushed-up sleeves look, influencing men's fashion throughout the decade.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "80s-pop-12",
+      "question": "Which 1986 space disaster involved the explosion of a NASA space shuttle shortly after launch?",
+      "options": ["Columbia", "Discovery", "Challenger", "Atlantis"],
+      "correctAnswer": 2,
+      "explanation": "The Space Shuttle Challenger broke apart 73 seconds after launch on January 28, 1986, killing all seven crew members including teacher Christa McAuliffe. Millions watched live on television.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "history"
+    },
+    {
+      "id": "80s-pop-13",
+      "question": "Which iconic 1980s movie featured a group of kids searching for pirate treasure to save their neighborhood?",
+      "options": ["Stand by Me", "The Goonies", "Explorers", "The Monster Squad"],
+      "correctAnswer": 1,
+      "explanation": "The Goonies, produced by Steven Spielberg and directed by Richard Donner, became a beloved cult classic. Sean Astin, Josh Brolin, and Corey Feldman starred as the adventurous kids.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "80s-pop-14",
+      "question": "What was the name of the 1985 benefit concert organized by Bob Geldof to raise money for Ethiopian famine relief?",
+      "options": ["Farm Aid", "Live Aid", "Band Aid", "Rock Aid"],
+      "correctAnswer": 1,
+      "explanation": "Live Aid was held simultaneously at Wembley Stadium in London and JFK Stadium in Philadelphia, broadcast to an estimated 1.9 billion viewers in 150 countries.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "music"
+    },
+    {
+      "id": "80s-pop-15",
+      "question": "Which television show, debuting in 1986, featured the Tanner family and an alien named ALF?",
+      "options": ["Family Ties", "Growing Pains", "ALF", "Perfect Strangers"],
+      "correctAnswer": 2,
+      "explanation": "ALF (which stood for 'Alien Life Form') aired from 1986 to 1990. The wise-cracking alien puppet from the planet Melmac became a pop culture sensation and merchandising juggernaut.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "tv"
+    }
+  ]
+}

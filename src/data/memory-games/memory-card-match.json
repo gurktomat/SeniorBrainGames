@@ -1,0 +1,54 @@
+{
+  "id": "memory-card-match",
+  "title": "Memory Card Match",
+  "description": "Flip cards to find matching pairs! Test your memory with this classic game.",
+  "gameCategory": "memory-games",
+  "gameType": "memory-cards",
+  "levels": [
+    {
+      "id": "easy",
+      "name": "Easy (6 pairs)",
+      "gridSize": "small",
+      "pairs": [
+        { "emoji": "🌸", "label": "Flower" },
+        { "emoji": "🌟", "label": "Star" },
+        { "emoji": "🎵", "label": "Music" },
+        { "emoji": "🦋", "label": "Butterfly" },
+        { "emoji": "🍎", "label": "Apple" },
+        { "emoji": "☀️", "label": "Sun" }
+      ]
+    },
+    {
+      "id": "medium",
+      "name": "Medium (8 pairs)",
+      "gridSize": "medium",
+      "pairs": [
+        { "emoji": "🌸", "label": "Flower" },
+        { "emoji": "🌟", "label": "Star" },
+        { "emoji": "🎵", "label": "Music" },
+        { "emoji": "🦋", "label": "Butterfly" },
+        { "emoji": "🍎", "label": "Apple" },
+        { "emoji": "☀️", "label": "Sun" },
+        { "emoji": "🐱", "label": "Cat" },
+        { "emoji": "🌈", "label": "Rainbow" }
+      ]
+    },
+    {
+      "id": "hard",
+      "name": "Hard (10 pairs)",
+      "gridSize": "large",
+      "pairs": [
+        { "emoji": "🌸", "label": "Flower" },
+        { "emoji": "🌟", "label": "Star" },
+        { "emoji": "🎵", "label": "Music" },
+        { "emoji": "🦋", "label": "Butterfly" },
+        { "emoji": "🍎", "label": "Apple" },
+        { "emoji": "☀️", "label": "Sun" },
+        { "emoji": "🐱", "label": "Cat" },
+        { "emoji": "🌈", "label": "Rainbow" },
+        { "emoji": "🎨", "label": "Art" },
+        { "emoji": "🏠", "label": "House" }
+      ]
+    }
+  ]
+}

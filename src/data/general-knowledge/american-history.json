@@ -1,0 +1,143 @@
+{
+  "id": "american-history",
+  "title": "American History Highlights",
+  "description": "Journey through key moments in American history, from the Revolution to the Space Age.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "amhistory-1",
+      "question": "In what year did the United States declare its independence from Great Britain?",
+      "options": ["1774", "1775", "1776", "1778"],
+      "correctAnswer": 2,
+      "explanation": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776, primarily authored by Thomas Jefferson.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-2",
+      "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+      "options": ["The Santa Maria", "The Mayflower", "The Nina", "The Endeavour"],
+      "correctAnswer": 1,
+      "explanation": "The Mayflower carried 102 passengers from England to Plymouth, Massachusetts. The voyage took about 66 days across the Atlantic Ocean.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-3",
+      "question": "Who gave the famous 'I Have a Dream' speech during the civil rights movement?",
+      "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "John Lewis"],
+      "correctAnswer": 1,
+      "explanation": "Martin Luther King Jr. delivered the 'I Have a Dream' speech on August 28, 1963, at the March on Washington. Over 250,000 people attended the historic event.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-4",
+      "question": "The Civil War was fought primarily over which issue?",
+      "options": ["Taxation", "Territory expansion", "Slavery", "Trade with Europe"],
+      "correctAnswer": 2,
+      "explanation": "The American Civil War (1861-1865) was fought primarily over the issue of slavery and whether it would expand into new territories and states.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-5",
+      "question": "What event triggered the United States' entry into World War II?",
+      "options": ["The sinking of the Lusitania", "The invasion of Poland", "The attack on Pearl Harbor", "The Battle of Britain"],
+      "correctAnswer": 2,
+      "explanation": "Japan's surprise attack on Pearl Harbor, Hawaii, on December 7, 1941, led the U.S. to declare war. President Roosevelt called it 'a date which will live in infamy.'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-6",
+      "question": "Which amendment to the Constitution gave women the right to vote?",
+      "options": ["15th Amendment", "18th Amendment", "19th Amendment", "21st Amendment"],
+      "correctAnswer": 2,
+      "explanation": "The 19th Amendment was ratified on August 18, 1920, granting women the right to vote after decades of activism by suffragists like Susan B. Anthony and Elizabeth Cady Stanton.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-7",
+      "question": "What was the name of the program that sent American astronauts to the Moon?",
+      "options": ["Mercury Program", "Gemini Program", "Apollo Program", "Space Shuttle Program"],
+      "correctAnswer": 2,
+      "explanation": "The Apollo Program ran from 1961 to 1972. Apollo 11 successfully landed the first humans on the Moon in July 1969. In total, 12 astronauts walked on the lunar surface.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-8",
+      "question": "Who was the commanding general of the Continental Army during the American Revolution?",
+      "options": ["Benjamin Franklin", "Thomas Jefferson", "George Washington", "John Adams"],
+      "correctAnswer": 2,
+      "explanation": "George Washington commanded the Continental Army from 1775 to 1783. His leadership during the harsh winter at Valley Forge became legendary.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-9",
+      "question": "What famous speech begins with 'Four score and seven years ago'?",
+      "options": ["The Emancipation Proclamation", "The Gettysburg Address", "The Inaugural Address of JFK", "The Declaration of Independence"],
+      "correctAnswer": 1,
+      "explanation": "Abraham Lincoln delivered the Gettysburg Address on November 19, 1863. The speech was only about 270 words long but is considered one of the greatest speeches in American history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-10",
+      "question": "Rosa Parks became a civil rights icon when she refused to give up her seat on a bus in which city?",
+      "options": ["Atlanta, Georgia", "Birmingham, Alabama", "Montgomery, Alabama", "Memphis, Tennessee"],
+      "correctAnswer": 2,
+      "explanation": "On December 1, 1955, Rosa Parks refused to give up her bus seat to a white passenger in Montgomery, Alabama. Her arrest sparked the Montgomery Bus Boycott, a pivotal moment in the civil rights movement.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-11",
+      "question": "Which territory did the United States purchase from Russia in 1867?",
+      "options": ["Hawaii", "Alaska", "Puerto Rico", "The Virgin Islands"],
+      "correctAnswer": 1,
+      "explanation": "The U.S. purchased Alaska from Russia for $7.2 million, about 2 cents per acre. Critics initially called it 'Seward's Folly' after Secretary of State William Seward, but it proved to be an incredible bargain.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-12",
+      "question": "What was the significance of the Battle of Gettysburg in 1863?",
+      "options": ["It was the first battle of the Civil War", "It was the turning point of the Civil War", "It ended the Civil War", "It was the largest naval battle"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Gettysburg (July 1-3, 1863) is widely considered the turning point of the Civil War. The Union victory ended General Lee's second invasion of the North.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-13",
+      "question": "The Gold Rush of 1849 drew thousands of settlers to which state?",
+      "options": ["Nevada", "Colorado", "Alaska", "California"],
+      "correctAnswer": 3,
+      "explanation": "The California Gold Rush began in 1848 when gold was found at Sutter's Mill. By 1849, about 300,000 people had migrated to California, earning them the nickname 'forty-niners.'",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-14",
+      "question": "Which act, signed in 1964, outlawed discrimination based on race, color, religion, sex, or national origin?",
+      "options": ["The Voting Rights Act", "The Civil Rights Act", "The Equal Rights Amendment", "The Fair Housing Act"],
+      "correctAnswer": 1,
+      "explanation": "The Civil Rights Act of 1964, signed by President Lyndon B. Johnson, was landmark legislation that ended segregation in public places and banned employment discrimination.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "amhistory-15",
+      "question": "What document begins with the words 'We the People of the United States'?",
+      "options": ["The Declaration of Independence", "The Bill of Rights", "The Constitution", "The Articles of Confederation"],
+      "correctAnswer": 2,
+      "explanation": "The United States Constitution begins with those famous words. It was signed on September 17, 1787, at the Constitutional Convention in Philadelphia and remains the supreme law of the land.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

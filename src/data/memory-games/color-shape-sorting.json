@@ -1,0 +1,165 @@
+{
+  "id": "color-shape-sorting",
+  "title": "Color & Shape Sorting",
+  "description": "Sort items into the correct categories as quickly as you can!",
+  "gameCategory": "memory-games",
+  "gameType": "sorting",
+  "rounds": [
+    {
+      "id": "sort-1",
+      "title": "Fruits vs Vegetables",
+      "items": [
+        { "label": "Apple", "emoji": "🍎" },
+        { "label": "Carrot", "emoji": "🥕" },
+        { "label": "Banana", "emoji": "🍌" },
+        { "label": "Broccoli", "emoji": "🥦" },
+        { "label": "Grape", "emoji": "🍇" },
+        { "label": "Tomato", "emoji": "🍅" }
+      ],
+      "categories": ["Fruit", "Vegetable"],
+      "correctMapping": [0, 1, 0, 1, 0, 0]
+    },
+    {
+      "id": "sort-2",
+      "title": "Land Animals vs Sea Animals",
+      "items": [
+        { "label": "Dog", "emoji": "🐶" },
+        { "label": "Fish", "emoji": "🐟" },
+        { "label": "Cat", "emoji": "🐱" },
+        { "label": "Whale", "emoji": "🐋" },
+        { "label": "Horse", "emoji": "🐴" },
+        { "label": "Octopus", "emoji": "🐙" },
+        { "label": "Dolphin", "emoji": "🐬" },
+        { "label": "Elephant", "emoji": "🐘" }
+      ],
+      "categories": ["Land Animal", "Sea Animal"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 1, 0]
+    },
+    {
+      "id": "sort-3",
+      "title": "Hot vs Cold",
+      "items": [
+        { "label": "Fire", "emoji": "🔥" },
+        { "label": "Snowflake", "emoji": "❄️" },
+        { "label": "Sun", "emoji": "☀️" },
+        { "label": "Ice Cream", "emoji": "🍦" },
+        { "label": "Chili Pepper", "emoji": "🌶️" },
+        { "label": "Penguin", "emoji": "🐧" },
+        { "label": "Volcano", "emoji": "🌋" },
+        { "label": "Ice Cube", "emoji": "🧊" }
+      ],
+      "categories": ["Hot", "Cold"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-4",
+      "title": "Day vs Night",
+      "items": [
+        { "label": "Sun", "emoji": "☀️" },
+        { "label": "Moon", "emoji": "🌙" },
+        { "label": "Rooster", "emoji": "🐓" },
+        { "label": "Owl", "emoji": "🦉" },
+        { "label": "Sunrise", "emoji": "🌅" },
+        { "label": "Stars", "emoji": "⭐" },
+        { "label": "Rainbow", "emoji": "🌈" },
+        { "label": "Bat", "emoji": "🦇" }
+      ],
+      "categories": ["Day", "Night"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-5",
+      "title": "Sweet vs Savory",
+      "items": [
+        { "label": "Cake", "emoji": "🎂" },
+        { "label": "Pizza", "emoji": "🍕" },
+        { "label": "Cookie", "emoji": "🍪" },
+        { "label": "Hamburger", "emoji": "🍔" },
+        { "label": "Candy", "emoji": "🍬" },
+        { "label": "French Fries", "emoji": "🍟" },
+        { "label": "Chocolate", "emoji": "🍫" },
+        { "label": "Hot Dog", "emoji": "🌭" }
+      ],
+      "categories": ["Sweet", "Savory"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-6",
+      "title": "Things That Fly vs Things That Swim",
+      "items": [
+        { "label": "Eagle", "emoji": "🦅" },
+        { "label": "Shark", "emoji": "🦈" },
+        { "label": "Airplane", "emoji": "✈️" },
+        { "label": "Submarine", "emoji": "🛟" },
+        { "label": "Butterfly", "emoji": "🦋" },
+        { "label": "Turtle", "emoji": "🐢" },
+        { "label": "Helicopter", "emoji": "🚁" },
+        { "label": "Jellyfish", "emoji": "🪼" }
+      ],
+      "categories": ["Flies", "Swims"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-7",
+      "title": "Musical Instruments vs Sports Equipment",
+      "items": [
+        { "label": "Guitar", "emoji": "🎸" },
+        { "label": "Basketball", "emoji": "🏀" },
+        { "label": "Piano", "emoji": "🎹" },
+        { "label": "Tennis Racket", "emoji": "🎾" },
+        { "label": "Drums", "emoji": "🥁" },
+        { "label": "Soccer Ball", "emoji": "⚽" },
+        { "label": "Violin", "emoji": "🎻" },
+        { "label": "Baseball", "emoji": "⚾" }
+      ],
+      "categories": ["Musical Instrument", "Sports Equipment"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-8",
+      "title": "Things in the Kitchen vs Things in the Garden",
+      "items": [
+        { "label": "Pot", "emoji": "🍲" },
+        { "label": "Flower", "emoji": "🌸" },
+        { "label": "Fork", "emoji": "🍴" },
+        { "label": "Tree", "emoji": "🌳" },
+        { "label": "Cup", "emoji": "☕" },
+        { "label": "Butterfly", "emoji": "🦋" },
+        { "label": "Plate", "emoji": "🍽️" },
+        { "label": "Ladybug", "emoji": "🐞" }
+      ],
+      "categories": ["Kitchen", "Garden"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-9",
+      "title": "Summer vs Winter",
+      "items": [
+        { "label": "Beach", "emoji": "🏖️" },
+        { "label": "Snowman", "emoji": "⛄" },
+        { "label": "Sunglasses", "emoji": "🕶️" },
+        { "label": "Scarf", "emoji": "🧣" },
+        { "label": "Watermelon", "emoji": "🍉" },
+        { "label": "Hot Cocoa", "emoji": "☕" }
+      ],
+      "categories": ["Summer", "Winter"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "sort-10",
+      "title": "Things with Wheels vs Things without Wheels",
+      "items": [
+        { "label": "Car", "emoji": "🚗" },
+        { "label": "Boat", "emoji": "🚤" },
+        { "label": "Bicycle", "emoji": "🚲" },
+        { "label": "Canoe", "emoji": "🛶" },
+        { "label": "Bus", "emoji": "🚌" },
+        { "label": "Hot Air Balloon", "emoji": "🎈" },
+        { "label": "Skateboard", "emoji": "🛹" },
+        { "label": "Rocket", "emoji": "🚀" }
+      ],
+      "categories": ["Has Wheels", "No Wheels"],
+      "correctMapping": [0, 1, 0, 1, 0, 1, 0, 1]
+    }
+  ]
+}

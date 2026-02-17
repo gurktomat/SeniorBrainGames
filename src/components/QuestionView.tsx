@@ -14,29 +14,31 @@ export default function QuestionView({
   const [showHint, setShowHint] = useState(false);
 
   const handleSelect = (index: number) => {
-    if (selected !== null) return; // already answered
+    if (selected !== null) return;
     setSelected(index);
     onAnswer(index);
   };
 
+  const correct = selected !== null && selected === question.correctAnswer;
+
   return (
     <div>
-      <h2 className="mb-6 text-xl font-semibold leading-relaxed text-gray-900 sm:text-2xl">
+      <h2 className="mb-6 text-xl font-semibold leading-relaxed text-foreground sm:text-2xl">
         {question.question}
       </h2>
 
-      <div className="mb-6 flex flex-col gap-3">
+      <div className="mb-6 flex flex-col gap-3" role="group" aria-label="Answer options">
         {question.options.map((option, i) => {
           let style =
-            "border-2 border-gray-200 bg-white text-gray-900 hover:border-blue-400 hover:bg-blue-50";
+            "border-2 border-border bg-surface text-foreground hover:border-primary hover:bg-primary/5";
 
           if (selected !== null) {
             if (i === question.correctAnswer) {
-              style = "border-2 border-green-500 bg-green-50 text-green-900";
-            } else if (i === selected && !isCorrect(selected, question)) {
-              style = "border-2 border-red-400 bg-red-50 text-red-900";
+              style = "border-2 border-success bg-success/10 text-foreground";
+            } else if (i === selected && !correct) {
+              style = "border-2 border-error bg-error/10 text-foreground";
             } else {
-              style = "border-2 border-gray-200 bg-gray-50 text-gray-400";
+              style = "border-2 border-border bg-background text-text-muted";
             }
           }
 
@@ -45,7 +47,8 @@ export default function QuestionView({
               key={i}
               onClick={() => handleSelect(i)}
               disabled={selected !== null}
-              className={`w-full cursor-pointer rounded-xl px-5 py-4 text-left text-lg font-medium transition-all focus:outline-none focus:ring-4 focus:ring-blue-300 ${style} ${
+              aria-label={`Option ${String.fromCharCode(65 + i)}: ${option}`}
+              className={`w-full cursor-pointer rounded-xl px-5 py-4 text-left text-lg font-medium transition-all focus:outline-none focus:ring-4 focus:ring-primary/30 ${style} ${
                 selected !== null ? "cursor-default" : ""
               }`}
             >
@@ -61,35 +64,38 @@ export default function QuestionView({
       {question.hint && selected === null && (
         <button
           onClick={() => setShowHint(true)}
-          className="text-lg text-blue-600 underline hover:text-blue-800 focus:outline-none focus:ring-2 focus:ring-blue-300"
+          className="text-lg text-primary underline hover:text-primary-dark focus:outline-none focus:ring-2 focus:ring-primary/30"
         >
           {showHint ? "" : "Need a hint?"}
         </button>
       )}
 
       {showHint && selected === null && (
-        <p className="mt-2 rounded-lg bg-yellow-50 p-4 text-lg text-yellow-800">
-          💡 {question.hint}
+        <p className="mt-2 rounded-lg bg-secondary/15 p-4 text-lg text-foreground">
+          {question.hint}
         </p>
       )}
 
       {selected !== null && (
-        <p
+        <div
+          role="status"
+          aria-live="polite"
           className={`mt-4 rounded-lg p-4 text-lg font-semibold ${
-            isCorrect(selected, question)
-              ? "bg-green-50 text-green-800"
-              : "bg-red-50 text-red-800"
+            correct ? "bg-success/10 text-foreground" : "bg-error/10 text-foreground"
           }`}
         >
-          {isCorrect(selected, question)
-            ? "Correct! Well done!"
-            : `Not quite — the answer is: ${question.options[question.correctAnswer]}`}
-        </p>
+          <p>
+            {correct
+              ? "Correct! Well done!"
+              : `Not quite — the answer is: ${question.options[question.correctAnswer]}`}
+          </p>
+          {question.explanation && (
+            <p className="mt-2 text-base font-normal text-text-muted">
+              {question.explanation}
+            </p>
+          )}
+        </div>
       )}
     </div>
   );
-}
-
-function isCorrect(selected: number, question: Question): boolean {
-  return selected === question.correctAnswer;
 }

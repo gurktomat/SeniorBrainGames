@@ -1,0 +1,143 @@
+{
+  "id": "food-cooking",
+  "title": "Food & Cooking",
+  "description": "From Italian classics to American favorites, test your knowledge of cuisine, cooking, and food origins.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "food-1",
+      "question": "What country is pizza originally from?",
+      "options": ["France", "Greece", "Italy", "Spain"],
+      "correctAnswer": 2,
+      "explanation": "Modern pizza originated in Naples, Italy, in the 18th century. The classic Margherita pizza was reportedly created in 1889 in honor of Queen Margherita of Italy.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-2",
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Lime", "Onion"],
+      "correctAnswer": 1,
+      "explanation": "Guacamole is made primarily from mashed avocados. The dish originated with the Aztecs in Mexico and the name comes from the Aztec word 'ahuacamolli.'",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-3",
+      "question": "Which spice is known as the most expensive in the world by weight?",
+      "options": ["Vanilla", "Cinnamon", "Saffron", "Cardamom"],
+      "correctAnswer": 2,
+      "explanation": "Saffron is the most expensive spice because each flower produces only three tiny threads, and it takes about 75,000 flowers to produce one pound of saffron.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-4",
+      "question": "What type of pasta is shaped like little bow ties?",
+      "options": ["Penne", "Farfalle", "Rigatoni", "Fusilli"],
+      "correctAnswer": 1,
+      "explanation": "Farfalle is the bow tie-shaped pasta. The name comes from the Italian word for 'butterflies.' It originated in the Lombardia and Emilia-Romagna regions of Italy.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-5",
+      "question": "What is the primary grain used to make traditional Japanese sake?",
+      "options": ["Wheat", "Barley", "Rice", "Corn"],
+      "correctAnswer": 2,
+      "explanation": "Sake is a Japanese alcoholic beverage made by fermenting polished rice. It has been brewed in Japan for over 2,000 years.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-6",
+      "question": "What cooking technique involves briefly plunging food into boiling water, then into ice water?",
+      "options": ["Poaching", "Blanching", "Braising", "Searing"],
+      "correctAnswer": 1,
+      "explanation": "Blanching is used to partially cook vegetables, loosen skins on tomatoes or peaches, and preserve color and texture. The ice water stops the cooking process immediately.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-7",
+      "question": "Which American city is famous for its deep-dish pizza?",
+      "options": ["New York", "Chicago", "Detroit", "Philadelphia"],
+      "correctAnswer": 1,
+      "explanation": "Chicago is famous for its deep-dish pizza, which features a thick, buttery crust pressed into a deep pan with layers of cheese, toppings, and chunky tomato sauce on top.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-8",
+      "question": "What vitamin is citrus fruit, like oranges and lemons, particularly high in?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 2,
+      "explanation": "Citrus fruits are rich in Vitamin C, which supports the immune system. British sailors were once called 'limeys' because they ate limes to prevent scurvy on long voyages.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-9",
+      "question": "Which herb is the key ingredient in traditional Italian pesto sauce?",
+      "options": ["Oregano", "Parsley", "Basil", "Rosemary"],
+      "correctAnswer": 2,
+      "explanation": "Traditional pesto alla genovese is made with fresh basil, garlic, pine nuts, Parmesan cheese, and olive oil. It originated in Genoa, in the Liguria region of Italy.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-10",
+      "question": "What is the term for cooking meat slowly in its own fat?",
+      "options": ["Braising", "Confit", "Roasting", "Grilling"],
+      "correctAnswer": 1,
+      "explanation": "Confit is a French cooking method where meat (traditionally duck or goose) is slowly cooked in its own fat at a low temperature, resulting in incredibly tender meat.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-11",
+      "question": "Which country is the world's largest producer of coffee?",
+      "options": ["Colombia", "Vietnam", "Ethiopia", "Brazil"],
+      "correctAnswer": 3,
+      "explanation": "Brazil has been the world's largest coffee producer for over 150 years, producing about one-third of the world's coffee supply.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-12",
+      "question": "What is the name of the classic French soup made with onions and topped with melted cheese on bread?",
+      "options": ["Vichyssoise", "Bouillabaisse", "French onion soup", "Potage"],
+      "correctAnswer": 2,
+      "explanation": "French onion soup (soupe a l'oignon) features caramelized onions in beef broth, topped with a crouton and melted Gruyere cheese. It dates back to at least the 18th century.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-13",
+      "question": "What is the main ingredient in hummus?",
+      "options": ["Lentils", "Black beans", "Chickpeas", "White beans"],
+      "correctAnswer": 2,
+      "explanation": "Hummus is made primarily from cooked, mashed chickpeas blended with tahini, lemon juice, garlic, and olive oil. It has been eaten in the Middle East for centuries.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-14",
+      "question": "What does 'al dente' mean when cooking pasta?",
+      "options": ["Overcooked and soft", "Firm to the bite", "Cold and crispy", "Drowned in sauce"],
+      "correctAnswer": 1,
+      "explanation": "Al dente is Italian for 'to the tooth,' meaning pasta should be cooked until it is still slightly firm when bitten. This is considered the ideal texture in Italian cooking.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-15",
+      "question": "Which nut is used to make marzipan?",
+      "options": ["Walnut", "Cashew", "Almond", "Hazelnut"],
+      "correctAnswer": 2,
+      "explanation": "Marzipan is a confection made from ground almonds, sugar, and sometimes egg whites. It has been popular in European baking and candy-making since the Middle Ages.",
+      "difficulty": "hard",
+      "category": "food"
+    }
+  ]
+}

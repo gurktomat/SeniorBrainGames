@@ -1,0 +1,143 @@
+{
+  "id": "us-presidents",
+  "title": "U.S. Presidents",
+  "description": "How well do you know the leaders of the United States? Test your presidential knowledge!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "presidents-1",
+      "question": "Who was the first President of the United States?",
+      "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "correctAnswer": 2,
+      "explanation": "George Washington served as the first president from 1789 to 1797. He is often called the 'Father of His Country.'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "presidents-2",
+      "question": "Which president is famous for the quote 'Ask not what your country can do for you'?",
+      "options": ["Franklin D. Roosevelt", "John F. Kennedy", "Dwight D. Eisenhower", "Lyndon B. Johnson"],
+      "correctAnswer": 1,
+      "explanation": "John F. Kennedy spoke these famous words during his inaugural address on January 20, 1961, inspiring a generation of Americans to public service.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "presidents-3",
+      "question": "Which president issued the Emancipation Proclamation, freeing enslaved people in Confederate states?",
+      "options": ["Ulysses S. Grant", "Andrew Johnson", "Abraham Lincoln", "James Buchanan"],
+      "correctAnswer": 2,
+      "explanation": "Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring enslaved people in Confederate states to be free.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "presidents-4",
+      "question": "Which president led the country during most of World War II?",
+      "options": ["Harry S. Truman", "Franklin D. Roosevelt", "Dwight D. Eisenhower", "Herbert Hoover"],
+      "correctAnswer": 1,
+      "explanation": "Franklin D. Roosevelt led the U.S. through most of WWII but died in April 1945, just months before the war ended. He served an unprecedented four terms.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "presidents-5",
+      "question": "Who was the first president to live in the White House?",
+      "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+      "correctAnswer": 1,
+      "explanation": "John Adams moved into the White House in November 1800. George Washington never lived there, as it was not completed during his presidency.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "presidents-6",
+      "question": "Which president is known for the Louisiana Purchase, which doubled the size of the United States?",
+      "options": ["James Monroe", "Thomas Jefferson", "Andrew Jackson", "James Madison"],
+      "correctAnswer": 1,
+      "explanation": "Thomas Jefferson purchased the Louisiana Territory from France in 1803 for about $15 million, roughly 4 cents per acre.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "presidents-7",
+      "question": "Which president resigned from office due to the Watergate scandal?",
+      "options": ["Lyndon B. Johnson", "Gerald Ford", "Richard Nixon", "Jimmy Carter"],
+      "correctAnswer": 2,
+      "explanation": "Richard Nixon resigned on August 9, 1974, becoming the only U.S. president to resign from office. Gerald Ford then became president.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "presidents-8",
+      "question": "Which president's wife was known as 'Lady Bird'?",
+      "options": ["Dwight D. Eisenhower's", "Lyndon B. Johnson's", "Richard Nixon's", "Gerald Ford's"],
+      "correctAnswer": 1,
+      "explanation": "Claudia 'Lady Bird' Johnson was the wife of President Lyndon B. Johnson. She was a champion of environmental beautification and the Highway Beautification Act.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "presidents-9",
+      "question": "Before becoming president, Dwight D. Eisenhower was famous for his role as what?",
+      "options": ["A senator", "A Supreme Allied Commander in WWII", "A Supreme Court Justice", "A governor"],
+      "correctAnswer": 1,
+      "explanation": "Eisenhower served as Supreme Allied Commander in Europe during WWII, leading the D-Day invasion of Normandy in June 1944.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "presidents-10",
+      "question": "Theodore Roosevelt was the youngest person to become president. How old was he when he took office?",
+      "options": ["39", "42", "45", "48"],
+      "correctAnswer": 1,
+      "explanation": "Theodore Roosevelt became president at age 42 after the assassination of William McKinley in 1901. He remains the youngest person to hold the office.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "presidents-11",
+      "question": "Which president established the National Park Service in 1916?",
+      "options": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+      "correctAnswer": 1,
+      "explanation": "Woodrow Wilson signed the National Park Service Organic Act in 1916. However, Theodore Roosevelt is often credited with greatly expanding the national parks system before that.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "presidents-12",
+      "question": "Which two presidents both died on July 4, 1826, the 50th anniversary of the Declaration of Independence?",
+      "options": ["Washington and Hamilton", "Jefferson and Adams", "Madison and Monroe", "Jefferson and Madison"],
+      "correctAnswer": 1,
+      "explanation": "Thomas Jefferson and John Adams both died on July 4, 1826, exactly 50 years after the adoption of the Declaration of Independence. They had been both rivals and friends.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "presidents-13",
+      "question": "Which president famously said, 'The only thing we have to fear is fear itself'?",
+      "options": ["Harry S. Truman", "Franklin D. Roosevelt", "Woodrow Wilson", "Herbert Hoover"],
+      "correctAnswer": 1,
+      "explanation": "Franklin D. Roosevelt spoke these words in his first inaugural address in 1933, during the depths of the Great Depression, rallying the nation's spirits.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "presidents-14",
+      "question": "Who was the tallest U.S. president, standing at 6 feet 4 inches?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Lyndon B. Johnson"],
+      "correctAnswer": 2,
+      "explanation": "Abraham Lincoln stood at 6 feet 4 inches, making him the tallest U.S. president in history. His height and stovepipe hat made him an unmistakable figure.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "presidents-15",
+      "question": "Which president was a former Hollywood actor before entering politics?",
+      "options": ["Gerald Ford", "Ronald Reagan", "George H.W. Bush", "Richard Nixon"],
+      "correctAnswer": 1,
+      "explanation": "Ronald Reagan appeared in over 50 films before entering politics. He served as Governor of California before becoming the 40th president in 1981.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

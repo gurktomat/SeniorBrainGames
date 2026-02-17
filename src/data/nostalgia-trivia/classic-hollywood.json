@@ -1,0 +1,158 @@
+{
+  "id": "classic-hollywood",
+  "title": "Classic Hollywood: Golden Age Movies",
+  "description": "From Casablanca to Hitchcock thrillers — how well do you know Hollywood's Golden Age?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "hollywood-1",
+      "question": "In 'Casablanca' (1942), which actor says the famous line, 'Here's looking at you, kid'?",
+      "options": ["Cary Grant", "James Stewart", "Humphrey Bogart", "Clark Gable"],
+      "correctAnswer": 2,
+      "explanation": "Humphrey Bogart's Rick Blaine delivered this iconic line to Ingrid Bergman's Ilsa. It's consistently ranked among the greatest movie quotes of all time.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-2",
+      "question": "Who played Dorothy in 'The Wizard of Oz' (1939)?",
+      "options": ["Shirley Temple", "Judy Garland", "Debbie Reynolds", "Deanna Durbin"],
+      "correctAnswer": 1,
+      "explanation": "Judy Garland was just 16 when she starred as Dorothy. Her performance of 'Over the Rainbow' became one of the most beloved songs in cinema history.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-3",
+      "question": "Which Alfred Hitchcock film features a terrifying shower scene with Janet Leigh?",
+      "options": ["Vertigo", "Rear Window", "Psycho", "The Birds"],
+      "correctAnswer": 2,
+      "explanation": "The shower scene in Psycho (1960) is one of the most famous sequences in film history. It took seven days to shoot the 45-second scene, using 70 camera setups.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-4",
+      "question": "Which actress starred alongside Cary Grant in 'North by Northwest' (1959)?",
+      "options": ["Grace Kelly", "Eva Marie Saint", "Kim Novak", "Doris Day"],
+      "correctAnswer": 1,
+      "explanation": "Eva Marie Saint played the mysterious Eve Kendall. The film's crop duster chase and Mount Rushmore climax are among Hitchcock's most thrilling sequences.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-5",
+      "question": "What 1950 film noir classic features Gloria Swanson as faded silent-film star Norma Desmond?",
+      "options": ["All About Eve", "Sunset Boulevard", "The Maltese Falcon", "Double Indemnity"],
+      "correctAnswer": 1,
+      "explanation": "In Sunset Boulevard, Norma Desmond's line 'All right, Mr. DeMille, I'm ready for my close-up' became one of the most quoted lines in movie history.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-6",
+      "question": "Which classic Western starred John Wayne as a cattle driver on the Chisholm Trail?",
+      "options": ["The Searchers", "Stagecoach", "Red River", "True Grit"],
+      "correctAnswer": 2,
+      "explanation": "Red River (1948) is considered one of the greatest Westerns ever made. It was the first time John Wayne played a morally complex, sometimes villainous character.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-7",
+      "question": "In 'Singin' in the Rain' (1952), who performs the iconic title number dancing with an umbrella?",
+      "options": ["Fred Astaire", "Donald O'Connor", "Gene Kelly", "Danny Kaye"],
+      "correctAnswer": 2,
+      "explanation": "Gene Kelly choreographed and performed the joyful rain dance sequence. He actually filmed it while running a 103-degree fever.",
+      "difficulty": "easy",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-8",
+      "question": "Which 1962 epic film starred Peter O'Toole in the title role and won seven Academy Awards?",
+      "options": ["Ben-Hur", "Lawrence of Arabia", "Spartacus", "Cleopatra"],
+      "correctAnswer": 1,
+      "explanation": "Lawrence of Arabia, directed by David Lean, is renowned for its stunning desert cinematography. It was Peter O'Toole's breakout role.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-9",
+      "question": "Which actress famously stood over a subway grate with her white dress blowing in 'The Seven Year Itch' (1955)?",
+      "options": ["Jayne Mansfield", "Marilyn Monroe", "Brigitte Bardot", "Elizabeth Taylor"],
+      "correctAnswer": 1,
+      "explanation": "Marilyn Monroe's billowing white dress became one of the most iconic images in pop culture history. The actual filming took place on Lexington Avenue in New York City.",
+      "difficulty": "easy",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-10",
+      "question": "What was the first feature-length movie to win the Academy Award for Best Picture in color?",
+      "options": ["The Wizard of Oz", "Gone with the Wind", "An American in Paris", "Ben-Hur"],
+      "correctAnswer": 1,
+      "explanation": "Gone with the Wind (1939) was the first color film to win Best Picture. It won a then-record eight competitive Academy Awards.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-11",
+      "question": "Which legendary director made 'Rear Window' (1954), starring James Stewart and Grace Kelly?",
+      "options": ["Billy Wilder", "John Ford", "Alfred Hitchcock", "Orson Welles"],
+      "correctAnswer": 2,
+      "explanation": "Hitchcock filmed the entire movie from the perspective of Stewart's apartment, creating one of cinema's greatest suspense films from a single location.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-12",
+      "question": "In the 1946 classic 'It's a Wonderful Life,' who played George Bailey?",
+      "options": ["Henry Fonda", "James Stewart", "Gary Cooper", "Spencer Tracy"],
+      "correctAnswer": 1,
+      "explanation": "James Stewart's portrayal of George Bailey became his personal favorite role. Though the film was initially a box-office disappointment, it later became a beloved holiday classic.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-13",
+      "question": "Which 1961 film musical, starring Natalie Wood, is a modern retelling of Romeo and Juliet set in New York City?",
+      "options": ["My Fair Lady", "The Sound of Music", "West Side Story", "Guys and Dolls"],
+      "correctAnswer": 2,
+      "explanation": "West Side Story won ten Academy Awards, including Best Picture. It transplanted Shakespeare's tragedy into the world of rival street gangs in 1950s Manhattan.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-14",
+      "question": "Which 1944 film noir, directed by Billy Wilder, stars Fred MacMurray and Barbara Stanwyck plotting a murder for insurance money?",
+      "options": ["The Big Sleep", "Double Indemnity", "The Third Man", "Laura"],
+      "correctAnswer": 1,
+      "explanation": "Double Indemnity is considered one of the finest film noirs ever made. The sharp dialogue was co-written by Wilder and crime novelist Raymond Chandler.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "movies"
+    },
+    {
+      "id": "hollywood-15",
+      "question": "Which actress starred as Maria von Trapp in 'The Sound of Music' (1965)?",
+      "options": ["Audrey Hepburn", "Julie Andrews", "Deborah Kerr", "Doris Day"],
+      "correctAnswer": 1,
+      "explanation": "Julie Andrews brought Maria to life in one of the highest-grossing films of the 1960s. She had already won the Best Actress Oscar the previous year for Mary Poppins.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "movies"
+    }
+  ]
+}

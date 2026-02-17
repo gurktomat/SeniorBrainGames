@@ -5,9 +5,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # SeniorBrainGames.org
 
 ## Tech Stack
-- Next.js with TypeScript
+- Next.js 16 with TypeScript
 - Deployed on Vercel
-- Tailwind CSS for styling
+- Tailwind CSS v4 for styling
+- Google Fonts: Merriweather (headings) + Source Sans 3 (body)
 
 ## Commands
 - `bun dev` — Start dev server (Turbopack)
@@ -21,20 +22,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Mobile-first responsive design
 - Minimum 18px font size for accessibility
 - WCAG AA contrast compliance required
+- Use CSS variables from globals.css for colors (--color-primary, --color-secondary, etc.)
+- Use Tailwind theme classes: text-primary, bg-surface, border-border, etc.
+- Headings use Merriweather font via inline style: `style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}`
 
 ## Architecture
-- /app — Next.js app router pages
-- /components — Reusable React components
-- /data — JSON quiz data files
-- /lib — Utility functions and types
+- /app — Next.js app router pages with 4 category routes
+- /components — Reusable React components and game engines
+- /data — JSON quiz/game data organized by category subdirectory
+- /lib — Utility functions, types, quiz registry, and storage
 
-## Quiz Engine
-- Quiz data lives in /src/data/ as JSON files (one per decade)
-- Types defined in /src/lib/types.ts (Question, Quiz, QuizResult)
-- Quiz registry in /src/lib/quizzes.ts — add new quizzes here
-- QuizEngine component manages quiz state (current question, answers, results)
-- Static params generated from quiz registry for /quiz/[id] routes
+## Game Categories & Routes
+- `/nostalgia-trivia` — 8 nostalgia quizzes (1950s-1980s)
+- `/general-knowledge` — 8 general knowledge quizzes
+- `/word-games` — 6 word games (scramble, proverbs, synonyms, definitions, spelling, association)
+- `/memory-games` — 6 memory games (card match, spot difference, what's missing, patterns, picture quiz, sorting)
+- `/daily-challenge` — 5-question daily quiz (force-dynamic, localStorage tracking)
 
-## Current Sprint
-- Building initial quiz engine
-- Creating nostalgia trivia content (1950s-1980s)
+## Data Organization
+- `/src/data/nostalgia-trivia/` — 8 quiz JSON files
+- `/src/data/general-knowledge/` — 8 quiz JSON files
+- `/src/data/word-games/` — 6 game JSON files (mixed formats)
+- `/src/data/memory-games/` — 6 game JSON files (mixed formats)
+
+## Game Engines
+- `QuizEngine` — Standard multiple-choice quiz (used by trivia, general knowledge, synonym, definition, picture quiz)
+- `WordScrambleEngine` — Text input unscramble game
+- `ProverbEngine` — Fill-in-the-blank proverb completion
+- `SpellingBeeEngine` — Text input spelling game
+- `WordAssociationEngine` — Multiple choice word grouping
+- `MemoryCardEngine` — Emoji-based card flip matching (3 difficulty levels)
+- `SpotDifferenceEngine` — Memorize-then-find-change game
+- `WhatsMissingEngine` — Memorize-then-identify-missing game
+- `PatternEngine` — Number/shape sequence completion
+- `SortingEngine` — Tap-to-sort category assignment
+
+## Key Files
+- `src/lib/types.ts` — All TypeScript types (Question, Quiz, GameCategory, game-specific types)
+- `src/lib/quizzes.ts` — Quiz registry with getQuizzesByCategory(), getQuizBySlug(), getDailyChallenge()
+- `src/lib/storage.ts` — localStorage utilities for streaks and daily completion
+- `src/app/globals.css` — Design system CSS variables and Tailwind theme

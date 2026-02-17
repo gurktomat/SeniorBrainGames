@@ -1,0 +1,144 @@
+{
+  "id": "picture-quiz",
+  "title": "Picture Quiz",
+  "description": "Test your knowledge of famous sights, symbols, and objects!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "pq-1",
+      "question": "Which famous landmark features a large copper statue of a robed woman holding a torch?",
+      "options": ["Eiffel Tower", "Statue of Liberty", "Big Ben", "Colosseum"],
+      "correctAnswer": 1,
+      "explanation": "The Statue of Liberty was a gift from France, dedicated in 1886.",
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-2",
+      "question": "Which building has a large glass pyramid in front of it?",
+      "options": ["Buckingham Palace", "The White House", "The Louvre Museum", "The Vatican"],
+      "correctAnswer": 2,
+      "explanation": "The glass pyramid at the Louvre in Paris was designed by architect I.M. Pei and opened in 1989.",
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-3",
+      "question": "Which famous painting shows a woman with a mysterious smile and no eyebrows?",
+      "options": ["The Starry Night", "Girl with a Pearl Earring", "Mona Lisa", "The Scream"],
+      "correctAnswer": 2,
+      "explanation": "The Mona Lisa was painted by Leonardo da Vinci and hangs in the Louvre Museum in Paris.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "pq-4",
+      "question": "Which country's flag features a red maple leaf on a white background with red bars on each side?",
+      "options": ["Japan", "Switzerland", "Canada", "Denmark"],
+      "correctAnswer": 2,
+      "explanation": "The Canadian flag, known as the Maple Leaf, was adopted in 1965.",
+      "difficulty": "easy",
+      "category": "flags"
+    },
+    {
+      "id": "pq-5",
+      "question": "Which landmark is a massive ancient amphitheater in Rome with arched openings?",
+      "options": ["The Parthenon", "The Colosseum", "Stonehenge", "The Acropolis"],
+      "correctAnswer": 1,
+      "explanation": "The Colosseum in Rome could hold up to 80,000 spectators and was completed in 80 AD.",
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-6",
+      "question": "Which famous structure is a tall iron lattice tower located on the Champ de Mars in Paris?",
+      "options": ["Leaning Tower of Pisa", "Big Ben", "Eiffel Tower", "CN Tower"],
+      "correctAnswer": 2,
+      "explanation": "The Eiffel Tower was built by Gustave Eiffel for the 1889 World's Fair.",
+      "difficulty": "easy",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-7",
+      "question": "Which painting depicts a swirling night sky with bright stars over a village?",
+      "options": ["The Starry Night", "Water Lilies", "Sunflowers", "The Persistence of Memory"],
+      "correctAnswer": 0,
+      "explanation": "The Starry Night was painted by Vincent van Gogh in 1889 while at an asylum in France.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "pq-8",
+      "question": "Which world wonder is a white marble mausoleum located in Agra, India?",
+      "options": ["Angkor Wat", "Taj Mahal", "Hagia Sophia", "Petra"],
+      "correctAnswer": 1,
+      "explanation": "The Taj Mahal was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal, completed around 1653.",
+      "difficulty": "medium",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-9",
+      "question": "Which country's flag features a circle of gold stars on a blue background?",
+      "options": ["United States", "Australia", "European Union", "Brazil"],
+      "correctAnswer": 2,
+      "explanation": "The European Union flag features 12 gold stars in a circle, symbolizing unity and harmony.",
+      "difficulty": "medium",
+      "category": "flags"
+    },
+    {
+      "id": "pq-10",
+      "question": "Which famous clock tower is attached to the Palace of Westminster in London?",
+      "options": ["Clock of Rouen", "Big Ben", "Prague Astronomical Clock", "Zytglogge"],
+      "correctAnswer": 1,
+      "explanation": "Big Ben is actually the nickname for the Great Bell inside the Elizabeth Tower at the Palace of Westminster.",
+      "difficulty": "medium",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-11",
+      "question": "Which painting shows melting clocks draped over a barren landscape?",
+      "options": ["The Starry Night", "The Persistence of Memory", "Guernica", "The Birth of Venus"],
+      "correctAnswer": 1,
+      "explanation": "The Persistence of Memory was painted by Salvador Dali in 1931, and is one of the most famous surrealist works.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "pq-12",
+      "question": "Which ancient monument consists of a ring of massive standing stones on Salisbury Plain in England?",
+      "options": ["The Parthenon", "Machu Picchu", "Stonehenge", "The Great Wall"],
+      "correctAnswer": 2,
+      "explanation": "Stonehenge is believed to have been constructed from 3000 BC to 2000 BC.",
+      "difficulty": "medium",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-13",
+      "question": "Which famous structure is a large orange-red suspension bridge spanning the Golden Gate strait in California?",
+      "options": ["Brooklyn Bridge", "Tower Bridge", "Golden Gate Bridge", "Sydney Harbour Bridge"],
+      "correctAnswer": 2,
+      "explanation": "The Golden Gate Bridge was completed in 1937 and its distinctive International Orange color helps it stand out against fog.",
+      "difficulty": "hard",
+      "category": "landmarks"
+    },
+    {
+      "id": "pq-14",
+      "question": "Which painting by Sandro Botticelli depicts a goddess emerging from the sea on a giant shell?",
+      "options": ["The Birth of Venus", "Primavera", "The Kiss", "Olympia"],
+      "correctAnswer": 0,
+      "explanation": "The Birth of Venus was painted around 1485 and shows Venus arriving at the shore after her birth from sea foam.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "pq-15",
+      "question": "Which country's flag is the only national flag that is not rectangular, featuring two stacked triangles?",
+      "options": ["Bhutan", "Switzerland", "Nepal", "Vatican City"],
+      "correctAnswer": 2,
+      "explanation": "Nepal's flag consists of two stacked triangles, making it the only non-rectangular national flag in the world.",
+      "difficulty": "hard",
+      "category": "flags"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "word-scramble",
+  "title": "Word Scramble",
+  "description": "Unscramble the letters to find the hidden word!",
+  "gameCategory": "word-games",
+  "gameType": "word-scramble",
+  "puzzles": [
+    {
+      "id": "ws-1",
+      "scrambled": "PLPAE",
+      "answer": "APPLE",
+      "hint": "A common fruit",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ws-2",
+      "scrambled": "HRICA",
+      "answer": "CHAIR",
+      "hint": "You sit on this",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ws-3",
+      "scrambled": "OEUSH",
+      "answer": "HOUSE",
+      "hint": "A place to live",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ws-4",
+      "scrambled": "ADBER",
+      "answer": "BREAD",
+      "hint": "A baked staple food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ws-5",
+      "scrambled": "TANIR",
+      "answer": "TRAIN",
+      "hint": "Travels on tracks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ws-6",
+      "scrambled": "DAGERN",
+      "answer": "GARDEN",
+      "hint": "Where flowers grow",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ws-7",
+      "scrambled": "HENTICK",
+      "answer": "KITCHEN",
+      "hint": "Room where you cook",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ws-8",
+      "scrambled": "BALIRSRY",
+      "answer": "LIBRARY",
+      "hint": "A place full of books",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ws-9",
+      "scrambled": "LOWFRE",
+      "answer": "FLOWER",
+      "hint": "A beautiful plant bloom",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ws-10",
+      "scrambled": "REPTUP",
+      "answer": "PUPPET",
+      "hint": "A toy controlled by strings",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ws-11",
+      "scrambled": "PHEELANT",
+      "answer": "ELEPHANT",
+      "hint": "The largest land animal",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ws-12",
+      "scrambled": "RATELUFI",
+      "answer": "GRATEFUL",
+      "hint": "Feeling thankful",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ws-13",
+      "scrambled": "DARCLENA",
+      "answer": "CALENDAR",
+      "hint": "Shows days and months",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ws-14",
+      "scrambled": "FATERSBAK",
+      "answer": "BREAKFAST",
+      "hint": "The first meal of the day",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ws-15",
+      "scrambled": "TERFYLBUT",
+      "answer": "BUTTERFLY",
+      "hint": "A colorful winged insect",
+      "difficulty": "hard"
+    }
+  ]
+}

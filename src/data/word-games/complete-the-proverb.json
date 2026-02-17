@@ -1,0 +1,129 @@
+{
+  "id": "complete-the-proverb",
+  "title": "Complete the Proverb",
+  "description": "Can you finish these well-known proverbs and sayings?",
+  "gameCategory": "word-games",
+  "gameType": "proverb",
+  "questions": [
+    {
+      "id": "prov-1",
+      "proverb": "A stitch in time saves ___",
+      "blank": "nine",
+      "options": ["five", "nine", "time", "ten"],
+      "correctAnswer": 1,
+      "explanation": "This proverb means that fixing a problem early prevents it from becoming worse."
+    },
+    {
+      "id": "prov-2",
+      "proverb": "Actions speak louder than ___",
+      "blank": "words",
+      "options": ["thoughts", "deeds", "words", "silence"],
+      "correctAnswer": 2,
+      "explanation": "What you do matters more than what you say."
+    },
+    {
+      "id": "prov-3",
+      "proverb": "The early bird catches the ___",
+      "blank": "worm",
+      "options": ["fish", "worm", "seed", "fly"],
+      "correctAnswer": 1,
+      "explanation": "Those who act promptly have an advantage over others."
+    },
+    {
+      "id": "prov-4",
+      "proverb": "Don't count your chickens before they ___",
+      "blank": "hatch",
+      "options": ["hatch", "grow", "run", "eat"],
+      "correctAnswer": 0,
+      "explanation": "Don't assume something will happen before it actually does."
+    },
+    {
+      "id": "prov-5",
+      "proverb": "A penny saved is a penny ___",
+      "blank": "earned",
+      "options": ["spent", "lost", "earned", "found"],
+      "correctAnswer": 2,
+      "explanation": "Money that you save is just as valuable as money that you earn."
+    },
+    {
+      "id": "prov-6",
+      "proverb": "When in Rome, do as the ___ do",
+      "blank": "Romans",
+      "options": ["locals", "Romans", "people", "tourists"],
+      "correctAnswer": 1,
+      "explanation": "Adapt your behavior to match the customs of the place you are visiting."
+    },
+    {
+      "id": "prov-7",
+      "proverb": "Every cloud has a silver ___",
+      "blank": "lining",
+      "options": ["edge", "lining", "light", "side"],
+      "correctAnswer": 1,
+      "explanation": "Even in bad situations, there is usually something positive to be found."
+    },
+    {
+      "id": "prov-8",
+      "proverb": "You can't teach an old dog new ___",
+      "blank": "tricks",
+      "options": ["tricks", "games", "lessons", "habits"],
+      "correctAnswer": 0,
+      "explanation": "It can be difficult to change long-established habits or learn new skills later in life."
+    },
+    {
+      "id": "prov-9",
+      "proverb": "The pen is mightier than the ___",
+      "blank": "sword",
+      "options": ["gun", "sword", "fist", "shield"],
+      "correctAnswer": 1,
+      "explanation": "Writing and communication can be more powerful than physical force."
+    },
+    {
+      "id": "prov-10",
+      "proverb": "An apple a day keeps the ___ away",
+      "blank": "doctor",
+      "options": ["dentist", "cold", "doctor", "hunger"],
+      "correctAnswer": 2,
+      "explanation": "Eating healthy food helps you stay well and avoid illness."
+    },
+    {
+      "id": "prov-11",
+      "proverb": "A bird in the hand is worth two in the ___",
+      "blank": "bush",
+      "options": ["tree", "sky", "bush", "nest"],
+      "correctAnswer": 2,
+      "explanation": "It's better to hold onto what you have than to risk losing it by trying to get something better."
+    },
+    {
+      "id": "prov-12",
+      "proverb": "Rome wasn't built in a ___",
+      "blank": "day",
+      "options": ["week", "year", "day", "hurry"],
+      "correctAnswer": 2,
+      "explanation": "Important achievements take time and patience to accomplish."
+    },
+    {
+      "id": "prov-13",
+      "proverb": "Two wrongs don't make a ___",
+      "blank": "right",
+      "options": ["right", "left", "fight", "friend"],
+      "correctAnswer": 0,
+      "explanation": "Responding to a bad action with another bad action doesn't make things better."
+    },
+    {
+      "id": "prov-14",
+      "proverb": "Where there's smoke, there's ___",
+      "blank": "fire",
+      "options": ["heat", "fire", "danger", "trouble"],
+      "correctAnswer": 1,
+      "explanation": "If there are signs of a problem, the problem likely exists."
+    },
+    {
+      "id": "prov-15",
+      "proverb": "All that glitters is not ___",
+      "blank": "gold",
+      "options": ["silver", "real", "gold", "shiny"],
+      "correctAnswer": 2,
+      "explanation": "Things that look attractive on the surface may not be as valuable as they appear."
+    }
+  ]
+}

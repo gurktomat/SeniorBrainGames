@@ -1,0 +1,158 @@
+{
+  "id": "sixties-music",
+  "title": "1960s Music Legends",
+  "description": "From the British Invasion to Woodstock — how well do you remember the sounds that defined the Sixties?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "60s-music-1",
+      "question": "Which Beatles album, released in 1967, is often called the greatest rock album ever made?",
+      "options": ["Revolver", "Abbey Road", "Sgt. Pepper's Lonely Hearts Club Band", "The White Album"],
+      "correctAnswer": 2,
+      "explanation": "Sgt. Pepper's Lonely Hearts Club Band was a groundbreaking concept album that spent 27 weeks at number one in the UK and 15 weeks at number one in the US.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-2",
+      "question": "What Motown group sang 'My Girl' in 1964?",
+      "options": ["The Four Tops", "The Temptations", "The Miracles", "The Supremes"],
+      "correctAnswer": 1,
+      "explanation": "The Temptations took 'My Girl' to number one on the Billboard Hot 100 in 1965. It was written and produced by Smokey Robinson and Ronald White.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-3",
+      "question": "Which legendary music festival took place on a dairy farm in Bethel, New York, in August 1969?",
+      "options": ["Monterey Pop Festival", "Woodstock", "Isle of Wight Festival", "Altamont Free Concert"],
+      "correctAnswer": 1,
+      "explanation": "Woodstock attracted over 400,000 people for three days of peace and music, featuring acts like Jimi Hendrix, Janis Joplin, and The Who.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-4",
+      "question": "What was the Rolling Stones' first US number-one hit single?",
+      "options": ["Paint It Black", "(I Can't Get No) Satisfaction", "Get Off of My Cloud", "Time Is on My Side"],
+      "correctAnswer": 1,
+      "explanation": "(I Can't Get No) Satisfaction reached number one in 1965 and became the song that made the Rolling Stones international superstars.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-5",
+      "question": "Which folk singer wrote and performed 'Blowin' in the Wind'?",
+      "options": ["Pete Seeger", "Joan Baez", "Bob Dylan", "Woody Guthrie"],
+      "correctAnswer": 2,
+      "explanation": "Bob Dylan wrote 'Blowin' in the Wind' in 1962. It became an anthem of the civil rights and anti-war movements of the 1960s.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-6",
+      "question": "What city was home to the Motown record label?",
+      "options": ["Chicago", "Memphis", "Detroit", "Philadelphia"],
+      "correctAnswer": 2,
+      "explanation": "Berry Gordy Jr. founded Motown Records in Detroit in 1959. The name 'Motown' is short for 'Motor Town,' Detroit's nickname for its auto industry.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-7",
+      "question": "Which Beatles song was the first to hit number one in the United States in 1964?",
+      "options": ["She Loves You", "I Want to Hold Your Hand", "Love Me Do", "Please Please Me"],
+      "correctAnswer": 1,
+      "explanation": "I Want to Hold Your Hand reached number one on February 1, 1964, launching Beatlemania in America and the entire British Invasion.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-8",
+      "question": "Which Supremes hit begins with the lyrics 'Stop! In the name of love'?",
+      "options": ["Baby Love", "Where Did Our Love Go", "Stop! In the Name of Love", "You Can't Hurry Love"],
+      "correctAnswer": 2,
+      "explanation": "Stop! In the Name of Love was the Supremes' fourth consecutive number-one hit in 1965. Diana Ross's iconic hand-out gesture became legendary.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-9",
+      "question": "Which guitarist famously played 'The Star-Spangled Banner' at Woodstock?",
+      "options": ["Eric Clapton", "Carlos Santana", "Jimi Hendrix", "Jimmy Page"],
+      "correctAnswer": 2,
+      "explanation": "Jimi Hendrix closed out Woodstock on Monday morning, August 18, 1969, with a legendary electric guitar rendition of the national anthem.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-10",
+      "question": "What was the Beach Boys' 1966 album that rivaled Sgt. Pepper's in musical innovation?",
+      "options": ["Surfer Girl", "Pet Sounds", "Surfin' USA", "Today!"],
+      "correctAnswer": 1,
+      "explanation": "Pet Sounds, masterminded by Brian Wilson, used unconventional instruments and complex arrangements. Paul McCartney has called it his favorite album of all time.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-11",
+      "question": "Which singer, known as 'The Queen of Soul,' released 'Respect' in 1967?",
+      "options": ["Etta James", "Aretha Franklin", "Tina Turner", "Diana Ross"],
+      "correctAnswer": 1,
+      "explanation": "Aretha Franklin's version of 'Respect' (originally by Otis Redding) became a feminist and civil rights anthem and earned her two Grammy Awards.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-12",
+      "question": "What 1967 event in San Francisco is considered the start of the 'Summer of Love'?",
+      "options": ["Altamont Free Concert", "Monterey Pop Festival", "Human Be-In", "Fillmore West Opening"],
+      "correctAnswer": 2,
+      "explanation": "The Human Be-In, held in Golden Gate Park on January 14, 1967, drew 20,000-30,000 people and set the stage for the Summer of Love that followed.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-13",
+      "question": "Which Simon & Garfunkel song was featured on the soundtrack of 'The Graduate' (1967)?",
+      "options": ["Bridge Over Troubled Water", "The Sound of Silence", "Mrs. Robinson", "Scarborough Fair"],
+      "correctAnswer": 2,
+      "explanation": "Mrs. Robinson was written specifically for the film and became Simon & Garfunkel's first and only number-one single on the Billboard Hot 100.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-14",
+      "question": "Which musician died in a 1967 plane crash, cutting short a career that included hits like '(Sittin' On) The Dock of the Bay'?",
+      "options": ["Sam Cooke", "Otis Redding", "Marvin Gaye", "Jackie Wilson"],
+      "correctAnswer": 1,
+      "explanation": "Otis Redding died on December 10, 1967. '(Sittin' On) The Dock of the Bay' was released posthumously in 1968 and became his biggest hit, reaching number one.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "music"
+    },
+    {
+      "id": "60s-music-15",
+      "question": "What was the name of the concert venue in San Francisco that became the epicenter of psychedelic rock?",
+      "options": ["The Whisky a Go Go", "CBGB", "The Fillmore", "The Cavern Club"],
+      "correctAnswer": 2,
+      "explanation": "The Fillmore, managed by legendary promoter Bill Graham, hosted Jefferson Airplane, the Grateful Dead, Jimi Hendrix, and virtually every major 1960s rock act.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "music"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "whats-missing",
+  "title": "What's Missing?",
+  "description": "Study the items carefully, then figure out which one disappeared!",
+  "gameCategory": "memory-games",
+  "gameType": "whats-missing",
+  "rounds": [
+    {
+      "id": "wm-1",
+      "items": ["🍎", "🍌", "🍊", "🍇", "🍓"],
+      "missingIndex": 2,
+      "options": ["🍊", "🍋", "🍑", "🥝"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wm-2",
+      "items": ["🐶", "🐱", "🐰", "🐸", "🐻"],
+      "missingIndex": 3,
+      "options": ["🐭", "🐸", "🐵", "🦊"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-3",
+      "items": ["🚗", "🚌", "🚲", "✈️", "🚂"],
+      "missingIndex": 0,
+      "options": ["🚕", "🚗", "🏎️", "🚙"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-4",
+      "items": ["⭐", "🌙", "☀️", "🌈", "⚡"],
+      "missingIndex": 1,
+      "options": ["💫", "🌙", "🌟", "✨"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-5",
+      "items": ["🎸", "🎹", "🥁", "🎺", "🎻"],
+      "missingIndex": 4,
+      "options": ["🪕", "🎻", "🪗", "🎼"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-6",
+      "items": ["🌺", "🌻", "🌷", "🌹", "🌼", "💐"],
+      "missingIndex": 2,
+      "options": ["🌸", "🌷", "🏵️", "💮"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-7",
+      "items": ["🔨", "🪛", "🔧", "🪚", "🔩", "🪜"],
+      "missingIndex": 3,
+      "options": ["🪓", "🪚", "🔨", "🪠"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-8",
+      "items": ["🏀", "⚽", "🎾", "🏈", "⚾", "🏐"],
+      "missingIndex": 5,
+      "options": ["🥎", "🏏", "🏐", "🎱"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wm-9",
+      "items": ["🦁", "🐘", "🦒", "🦓", "🐊", "🦏"],
+      "missingIndex": 1,
+      "options": ["🦛", "🐃", "🐘", "🐪"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wm-10",
+      "items": ["🍕", "🍔", "🌭", "🥪", "🌮", "🍟"],
+      "missingIndex": 4,
+      "options": ["🥨", "🧆", "🥙", "🌮"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wm-11",
+      "items": ["👒", "🧢", "🎩", "👑", "⛑️", "🎓", "🪖"],
+      "missingIndex": 3,
+      "options": ["💎", "👑", "🏅", "💍"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-12",
+      "items": ["🐟", "🐠", "🐡", "🦈", "🐙", "🦑", "🦐"],
+      "missingIndex": 4,
+      "options": ["🦞", "🐙", "🦀", "🐚"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-13",
+      "items": ["🍰", "🧁", "🍩", "🍪", "🎂", "🍫", "🍬"],
+      "missingIndex": 5,
+      "options": ["🍭", "🍫", "🍮", "🧇"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wm-14",
+      "items": ["📱", "💻", "🖥️", "⌨️", "🖱️", "🖨️", "📷"],
+      "missingIndex": 6,
+      "options": ["📺", "📻", "📷", "🔌"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wm-15",
+      "items": ["🪑", "🛋️", "🛏️", "🪞", "🚪", "🪟", "🛁", "🧹"],
+      "missingIndex": 3,
+      "options": ["🧴", "🪞", "🧊", "🪤"],
+      "correctAnswer": 1
+    }
+  ]
+}

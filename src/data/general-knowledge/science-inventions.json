@@ -1,0 +1,143 @@
+{
+  "id": "science-inventions",
+  "title": "Science & Inventions",
+  "description": "Discover how much you know about famous inventions, scientific discoveries, and the brilliant minds behind them.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "science-1",
+      "question": "Who is credited with inventing the practical electric light bulb?",
+      "options": ["Nikola Tesla", "Benjamin Franklin", "Thomas Edison", "Alexander Graham Bell"],
+      "correctAnswer": 2,
+      "explanation": "Thomas Edison developed the first commercially practical incandescent light bulb in 1879. He tested thousands of materials before finding the right filament.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "science-2",
+      "question": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Guglielmo Marconi", "Alexander Graham Bell", "Samuel Morse"],
+      "correctAnswer": 2,
+      "explanation": "Alexander Graham Bell patented the telephone in 1876. His first words spoken over it were to his assistant: 'Mr. Watson, come here, I want to see you.'",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "science-3",
+      "question": "The Wright brothers made their famous first powered flight in which year?",
+      "options": ["1895", "1899", "1903", "1910"],
+      "correctAnswer": 2,
+      "explanation": "Wilbur and Orville Wright made the first successful powered airplane flight on December 17, 1903, at Kitty Hawk, North Carolina. The flight lasted just 12 seconds.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "science-4",
+      "question": "What did Alexander Fleming accidentally discover in 1928?",
+      "options": ["Aspirin", "Insulin", "Penicillin", "X-rays"],
+      "correctAnswer": 2,
+      "explanation": "Alexander Fleming discovered penicillin when he noticed that mold had killed bacteria in a petri dish he had left uncovered. This discovery revolutionized medicine.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "science-5",
+      "question": "What force keeps us on the ground and was famously associated with a falling apple?",
+      "options": ["Magnetism", "Friction", "Gravity", "Inertia"],
+      "correctAnswer": 2,
+      "explanation": "Gravity is the force that attracts objects toward each other. The story goes that Isaac Newton developed his theory of gravity after watching an apple fall from a tree.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "science-6",
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Stephen Hawking"],
+      "correctAnswer": 1,
+      "explanation": "Albert Einstein published his special theory of relativity in 1905 and his general theory of relativity in 1915. His famous equation E=mc2 changed our understanding of physics.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "science-7",
+      "question": "What invention by Johannes Gutenberg around 1440 revolutionized the spread of knowledge?",
+      "options": ["The telescope", "The printing press", "The compass", "The clock"],
+      "correctAnswer": 1,
+      "explanation": "Gutenberg's movable-type printing press allowed books to be produced quickly and cheaply. It transformed education, religion, and culture across Europe.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "science-8",
+      "question": "Which scientist is known for her pioneering research on radioactivity?",
+      "options": ["Rosalind Franklin", "Marie Curie", "Dorothy Hodgkin", "Lise Meitner"],
+      "correctAnswer": 1,
+      "explanation": "Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different sciences (Physics in 1903 and Chemistry in 1911).",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "science-9",
+      "question": "What does DNA stand for?",
+      "options": ["Deoxyribonucleic acid", "Dinitro acid", "Dynamic nucleic acid", "Dual nitrogen acid"],
+      "correctAnswer": 0,
+      "explanation": "DNA stands for deoxyribonucleic acid. It carries the genetic instructions for the development and functioning of all known living organisms.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "science-10",
+      "question": "Who invented the World Wide Web?",
+      "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Vint Cerf"],
+      "correctAnswer": 2,
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland. He also created the first web browser and web server.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "science-11",
+      "question": "What did Louis Pasteur develop that has saved millions of lives from infectious disease?",
+      "options": ["Antibiotics", "Pasteurization and vaccines", "Blood transfusions", "Anesthesia"],
+      "correctAnswer": 1,
+      "explanation": "Louis Pasteur developed pasteurization to kill harmful bacteria in beverages and also created vaccines for rabies and anthrax. His work founded the field of microbiology.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "science-12",
+      "question": "Which element on the periodic table has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oganesson", "Oxygen", "Gold"],
+      "correctAnswer": 2,
+      "explanation": "Oxygen has the chemical symbol 'O' and is the third most abundant element in the universe. It makes up about 21% of Earth's atmosphere.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "science-13",
+      "question": "What year did Neil Armstrong become the first person to walk on the Moon?",
+      "options": ["1965", "1967", "1969", "1971"],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong set foot on the Moon on July 20, 1969, during the Apollo 11 mission. His famous words were, 'That's one small step for man, one giant leap for mankind.'",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "science-14",
+      "question": "Who is considered the 'father of modern computing'?",
+      "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"],
+      "correctAnswer": 0,
+      "explanation": "Alan Turing is widely considered the father of modern computing and artificial intelligence. During WWII, he helped crack the German Enigma code, which was crucial to Allied victory.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "science-15",
+      "question": "What was the name of the first artificial satellite launched into space?",
+      "options": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Luna 1"],
+      "correctAnswer": 2,
+      "explanation": "Sputnik 1 was launched by the Soviet Union on October 4, 1957. It was a 23-inch metal sphere that orbited Earth and kicked off the Space Age and the space race.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}
