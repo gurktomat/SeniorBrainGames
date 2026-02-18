@@ -5,6 +5,7 @@ import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import SortingEngine from "@/components/SortingEngine";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
+import JsonLd from "@/components/JsonLd";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
@@ -37,13 +38,37 @@ export async function generateMetadata({
   const { slug } = await params;
   const quiz = getQuizBySlug("general-knowledge", slug);
   if (quiz) {
-    return { title: quiz.title, description: quiz.description };
+    return {
+      title: quiz.title,
+      description: quiz.description,
+      openGraph: { title: quiz.title, description: quiz.description },
+    };
   }
   const special = specialGames[slug];
   if (special) {
-    return { title: special.title, description: special.description };
+    return {
+      title: special.title,
+      description: special.description,
+      openGraph: { title: special.title, description: special.description },
+    };
   }
   return {};
+}
+
+function Breadcrumb({ slug, title }: { slug: string; title: string }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
+          { "@type": "ListItem", position: 2, name: "General Knowledge", item: "https://seniorbraingames.org/general-knowledge" },
+          { "@type": "ListItem", position: 3, name: title, item: `https://seniorbraingames.org/general-knowledge/${slug}` },
+        ],
+      }}
+    />
+  );
 }
 
 export default async function GeneralKnowledgeQuizPage({
@@ -56,38 +81,48 @@ export default async function GeneralKnowledgeQuizPage({
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("general-knowledge", slug);
   if (quiz) {
-    return <QuizEngine quiz={quiz} />;
+    return (
+      <>
+        <Breadcrumb slug={slug} title={quiz.title} />
+        <QuizEngine quiz={quiz} />
+      </>
+    );
   }
 
   // Special game engines
+  const special = specialGames[slug];
+  if (!special) notFound();
+
+  const breadcrumb = <Breadcrumb slug={slug} title={special.title} />;
+
   switch (slug) {
     case "true-or-false":
       return (
-        <TrueOrFalseEngine
-          title={trueOrFalseData.title}
-          statements={trueOrFalseData.statements}
-        />
+        <>
+          {breadcrumb}
+          <TrueOrFalseEngine title={trueOrFalseData.title} statements={trueOrFalseData.statements} />
+        </>
       );
     case "who-am-i":
       return (
-        <WhoAmIEngine
-          title={whoAmIData.title}
-          puzzles={whoAmIData.puzzles}
-        />
+        <>
+          {breadcrumb}
+          <WhoAmIEngine title={whoAmIData.title} puzzles={whoAmIData.puzzles} />
+        </>
       );
     case "science-sorting":
       return (
-        <SortingEngine
-          title={scienceSortingData.title}
-          rounds={scienceSortingData.rounds}
-        />
+        <>
+          {breadcrumb}
+          <SortingEngine title={scienceSortingData.title} rounds={scienceSortingData.rounds} />
+        </>
       );
     case "history-timeline":
       return (
-        <TimelineSortEngine
-          title={historyTimelineData.title}
-          rounds={historyTimelineData.rounds}
-        />
+        <>
+          {breadcrumb}
+          <TimelineSortEngine title={historyTimelineData.title} rounds={historyTimelineData.rounds} />
+        </>
       );
     default:
       notFound();

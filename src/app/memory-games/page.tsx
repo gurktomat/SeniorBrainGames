@@ -4,6 +4,7 @@ import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import QuizCard from "@/components/QuizCard";
 import { GameIcon } from "@/lib/gameIcons";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "Memory Games — Card Match, Patterns, Sorting & More",
@@ -105,8 +106,31 @@ export default function MemoryGames() {
   const quizzes = getQuizzesByCategory("memory-games");
   const info = categoryInfo["memory-games"];
 
+  const allGames = [
+    ...specialGames.map((g) => ({ id: g.id, title: g.title })),
+    ...quizzes.map((q) => ({ id: q.id, title: q.title })),
+  ];
+
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: info.title,
+          description: info.description,
+          url: "https://seniorbraingames.org/memory-games",
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: allGames.map((g, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              url: `https://seniorbraingames.org/memory-games/${g.id}`,
+              name: g.title,
+            })),
+          },
+        }}
+      />
       <div className="mb-12 px-6 py-12 text-center" style={{ background: "linear-gradient(135deg, #16A34A15 0%, #F8F9FC 100%)" }}>
         <div className="mx-auto max-w-3xl">
           <span className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ background: "#16A34A", color: "white" }}>

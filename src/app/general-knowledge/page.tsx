@@ -4,6 +4,7 @@ import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import { GameIcon } from "@/lib/gameIcons";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "General Knowledge Quizzes — Science, History, Geography & More",
@@ -42,8 +43,31 @@ export default function GeneralKnowledge() {
   const quizzes = getQuizzesByCategory("general-knowledge");
   const info = categoryInfo["general-knowledge"];
 
+  const allGames = [
+    ...specialGames.map((g) => ({ id: g.id, title: g.title })),
+    ...quizzes.map((q) => ({ id: q.id, title: q.title })),
+  ];
+
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: info.title,
+          description: info.description,
+          url: "https://seniorbraingames.org/general-knowledge",
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: allGames.map((g, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              url: `https://seniorbraingames.org/general-knowledge/${g.id}`,
+              name: g.title,
+            })),
+          },
+        }}
+      />
       <div className="mb-12 px-6 py-12 text-center" style={{ background: "linear-gradient(135deg, #0891B215 0%, #F8F9FC 100%)" }}>
         <div className="mx-auto max-w-3xl">
           <span className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ background: "#0891B2", color: "white" }}>

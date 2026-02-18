@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
+import JsonLd from "@/components/JsonLd";
 import WordScrambleEngine from "@/components/WordScrambleEngine";
 import ProverbEngine from "@/components/ProverbEngine";
 import SpellingBeeEngine from "@/components/SpellingBeeEngine";
@@ -70,13 +71,37 @@ export async function generateMetadata({
   const { slug } = await params;
   const quiz = getQuizBySlug("word-games", slug);
   if (quiz) {
-    return { title: quiz.title, description: quiz.description };
+    return {
+      title: quiz.title,
+      description: quiz.description,
+      openGraph: { title: quiz.title, description: quiz.description },
+    };
   }
   const special = specialGames[slug];
   if (special) {
-    return { title: special.title, description: special.description };
+    return {
+      title: special.title,
+      description: special.description,
+      openGraph: { title: special.title, description: special.description },
+    };
   }
   return {};
+}
+
+function Breadcrumb({ slug, title }: { slug: string; title: string }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
+          { "@type": "ListItem", position: 2, name: "Word Games", item: "https://seniorbraingames.org/word-games" },
+          { "@type": "ListItem", position: 3, name: title, item: `https://seniorbraingames.org/word-games/${slug}` },
+        ],
+      }}
+    />
+  );
 }
 
 export default async function WordGamePage({
@@ -89,116 +114,51 @@ export default async function WordGamePage({
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("word-games", slug);
   if (quiz) {
-    return <QuizEngine quiz={quiz} />;
+    return (
+      <>
+        <Breadcrumb slug={slug} title={quiz.title} />
+        <QuizEngine quiz={quiz} />
+      </>
+    );
   }
 
   // Special game engines
+  const special = specialGames[slug];
+  if (!special) notFound();
+
+  const breadcrumb = <Breadcrumb slug={slug} title={special.title} />;
+
   switch (slug) {
     case "word-scramble":
-      return (
-        <WordScrambleEngine
-          title={wordScrambleData.title}
-          puzzles={wordScrambleData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<WordScrambleEngine title={wordScrambleData.title} puzzles={wordScrambleData.puzzles} /></>);
     case "complete-the-proverb":
-      return (
-        <ProverbEngine
-          title={proverbData.title}
-          questions={proverbData.questions}
-        />
-      );
+      return (<>{breadcrumb}<ProverbEngine title={proverbData.title} questions={proverbData.questions} /></>);
     case "spelling-bee":
-      return (
-        <SpellingBeeEngine
-          title={spellingData.title}
-          words={spellingData.words}
-        />
-      );
+      return (<>{breadcrumb}<SpellingBeeEngine title={spellingData.title} words={spellingData.words} /></>);
     case "word-association":
-      return (
-        <WordAssociationEngine
-          title={wordAssocData.title}
-          puzzles={wordAssocData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<WordAssociationEngine title={wordAssocData.title} puzzles={wordAssocData.puzzles} /></>);
     case "crossword-classic":
-      return (
-        <CrosswordEngine
-          title={crosswordData.title}
-          puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]}
-        />
-      );
+      return (<>{breadcrumb}<CrosswordEngine title={crosswordData.title} puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></>);
     case "word-search":
-      return (
-        <WordSearchEngine
-          title={wordSearchData.title}
-          puzzles={wordSearchData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<WordSearchEngine title={wordSearchData.title} puzzles={wordSearchData.puzzles} /></>);
     case "hangman":
-      return (
-        <HangmanEngine
-          title={hangmanData.title}
-          words={hangmanData.words}
-        />
-      );
+      return (<>{breadcrumb}<HangmanEngine title={hangmanData.title} words={hangmanData.words} /></>);
     case "word-ladder":
-      return (
-        <WordLadderEngine
-          title={wordLadderData.title}
-          puzzles={wordLadderData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<WordLadderEngine title={wordLadderData.title} puzzles={wordLadderData.puzzles} /></>);
     case "cryptogram":
-      return (
-        <CryptogramEngine
-          title={cryptogramData.title}
-          puzzles={cryptogramData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<CryptogramEngine title={cryptogramData.title} puzzles={cryptogramData.puzzles} /></>);
     case "anagram-challenge":
-      return (
-        <AnagramEngine
-          title={anagramData.title}
-          rounds={anagramData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<AnagramEngine title={anagramData.title} rounds={anagramData.rounds} /></>);
     case "missing-vowels":
-      return (
-        <MissingVowelsEngine
-          title={missingVowelsData.title}
-          rounds={missingVowelsData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<MissingVowelsEngine title={missingVowelsData.title} rounds={missingVowelsData.rounds} /></>);
     case "emoji-decoder":
-      return (
-        <EmojiDecoderEngine
-          title={emojiDecoderData.title}
-          rounds={emojiDecoderData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<EmojiDecoderEngine title={emojiDecoderData.title} rounds={emojiDecoderData.rounds} /></>);
     case "riddle-challenge":
-      return (
-        <RiddleEngine
-          title={riddleData.title}
-          riddles={riddleData.riddles}
-        />
-      );
+      return (<>{breadcrumb}<RiddleEngine title={riddleData.title} riddles={riddleData.riddles} /></>);
     case "famous-first-lines":
-      return (
-        <FirstLinesEngine
-          title={firstLinesData.title}
-          lines={firstLinesData.lines}
-        />
-      );
+      return (<>{breadcrumb}<FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></>);
     case "grammar-true-or-false":
-      return (
-        <TrueOrFalseEngine
-          title={grammarTFData.title}
-          statements={grammarTFData.statements}
-        />
-      );
+      return (<>{breadcrumb}<TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></>);
     default:
       notFound();
   }

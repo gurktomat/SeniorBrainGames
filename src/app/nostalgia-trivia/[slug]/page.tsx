@@ -5,6 +5,7 @@ import TimelineSortEngine from "@/components/TimelineSortEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import SortingEngine from "@/components/SortingEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
+import JsonLd from "@/components/JsonLd";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
@@ -37,13 +38,37 @@ export async function generateMetadata({
   const { slug } = await params;
   const quiz = getQuizBySlug("nostalgia-trivia", slug);
   if (quiz) {
-    return { title: quiz.title, description: quiz.description };
+    return {
+      title: quiz.title,
+      description: quiz.description,
+      openGraph: { title: quiz.title, description: quiz.description },
+    };
   }
   const special = specialGames[slug];
   if (special) {
-    return { title: special.title, description: special.description };
+    return {
+      title: special.title,
+      description: special.description,
+      openGraph: { title: special.title, description: special.description },
+    };
   }
   return {};
+}
+
+function Breadcrumb({ slug, title }: { slug: string; title: string }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
+          { "@type": "ListItem", position: 2, name: "Nostalgia Trivia", item: "https://seniorbraingames.org/nostalgia-trivia" },
+          { "@type": "ListItem", position: 3, name: title, item: `https://seniorbraingames.org/nostalgia-trivia/${slug}` },
+        ],
+      }}
+    />
+  );
 }
 
 export default async function NostalgiaQuizPage({
@@ -56,38 +81,48 @@ export default async function NostalgiaQuizPage({
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("nostalgia-trivia", slug);
   if (quiz) {
-    return <QuizEngine quiz={quiz} />;
+    return (
+      <>
+        <Breadcrumb slug={slug} title={quiz.title} />
+        <QuizEngine quiz={quiz} />
+      </>
+    );
   }
 
   // Special game engines
+  const special = specialGames[slug];
+  if (!special) notFound();
+
+  const breadcrumb = <Breadcrumb slug={slug} title={special.title} />;
+
   switch (slug) {
     case "timeline-sort":
       return (
-        <TimelineSortEngine
-          title={timelineSortData.title}
-          rounds={timelineSortData.rounds}
-        />
+        <>
+          {breadcrumb}
+          <TimelineSortEngine title={timelineSortData.title} rounds={timelineSortData.rounds} />
+        </>
       );
     case "nostalgia-fact-or-fiction":
       return (
-        <TrueOrFalseEngine
-          title={nostalgiaFactOrFictionData.title}
-          statements={nostalgiaFactOrFictionData.statements}
-        />
+        <>
+          {breadcrumb}
+          <TrueOrFalseEngine title={nostalgiaFactOrFictionData.title} statements={nostalgiaFactOrFictionData.statements} />
+        </>
       );
     case "decade-sorting":
       return (
-        <SortingEngine
-          title={decadeSortingData.title}
-          rounds={decadeSortingData.rounds}
-        />
+        <>
+          {breadcrumb}
+          <SortingEngine title={decadeSortingData.title} rounds={decadeSortingData.rounds} />
+        </>
       );
     case "nostalgia-who-am-i":
       return (
-        <WhoAmIEngine
-          title={nostalgiaWhoAmIData.title}
-          puzzles={nostalgiaWhoAmIData.puzzles}
-        />
+        <>
+          {breadcrumb}
+          <WhoAmIEngine title={nostalgiaWhoAmIData.title} puzzles={nostalgiaWhoAmIData.puzzles} />
+        </>
       );
     default:
       notFound();

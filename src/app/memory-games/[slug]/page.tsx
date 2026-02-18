@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
+import JsonLd from "@/components/JsonLd";
 import MemoryCardEngine from "@/components/MemoryCardEngine";
 import SpotDifferenceEngine from "@/components/SpotDifferenceEngine";
 import WhatsMissingEngine from "@/components/WhatsMissingEngine";
@@ -67,13 +68,37 @@ export async function generateMetadata({
   const { slug } = await params;
   const quiz = getQuizBySlug("memory-games", slug);
   if (quiz) {
-    return { title: quiz.title, description: quiz.description };
+    return {
+      title: quiz.title,
+      description: quiz.description,
+      openGraph: { title: quiz.title, description: quiz.description },
+    };
   }
   const special = specialGames[slug];
   if (special) {
-    return { title: special.title, description: special.description };
+    return {
+      title: special.title,
+      description: special.description,
+      openGraph: { title: special.title, description: special.description },
+    };
   }
   return {};
+}
+
+function Breadcrumb({ slug, title }: { slug: string; title: string }) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
+          { "@type": "ListItem", position: 2, name: "Memory Games", item: "https://seniorbraingames.org/memory-games" },
+          { "@type": "ListItem", position: 3, name: title, item: `https://seniorbraingames.org/memory-games/${slug}` },
+        ],
+      }}
+    />
+  );
 }
 
 export default async function MemoryGamePage({
@@ -86,109 +111,49 @@ export default async function MemoryGamePage({
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("memory-games", slug);
   if (quiz) {
-    return <QuizEngine quiz={quiz} />;
+    return (
+      <>
+        <Breadcrumb slug={slug} title={quiz.title} />
+        <QuizEngine quiz={quiz} />
+      </>
+    );
   }
 
   // Special game engines
+  const special = specialGames[slug];
+  if (!special) notFound();
+
+  const breadcrumb = <Breadcrumb slug={slug} title={special.title} />;
+
   switch (slug) {
     case "memory-card-match":
-      return (
-        <MemoryCardEngine
-          title={memoryCardData.title}
-          levels={memoryCardData.levels}
-        />
-      );
+      return (<>{breadcrumb}<MemoryCardEngine title={memoryCardData.title} levels={memoryCardData.levels} /></>);
     case "spot-the-difference":
-      return (
-        <SpotDifferenceEngine
-          title={spotDiffData.title}
-          rounds={spotDiffData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<SpotDifferenceEngine title={spotDiffData.title} rounds={spotDiffData.rounds} /></>);
     case "whats-missing":
-      return (
-        <WhatsMissingEngine
-          title={whatsMissingData.title}
-          rounds={whatsMissingData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<WhatsMissingEngine title={whatsMissingData.title} rounds={whatsMissingData.rounds} /></>);
     case "pattern-recognition":
-      return (
-        <PatternEngine
-          title={patternData.title}
-          puzzles={patternData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<PatternEngine title={patternData.title} puzzles={patternData.puzzles} /></>);
     case "color-shape-sorting":
-      return (
-        <SortingEngine
-          title={sortingData.title}
-          rounds={sortingData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<SortingEngine title={sortingData.title} rounds={sortingData.rounds} /></>);
     case "sudoku-puzzles":
-      return (
-        <SudokuEngine
-          title={sudokuData.title}
-          puzzles={sudokuData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<SudokuEngine title={sudokuData.title} puzzles={sudokuData.puzzles} /></>);
     case "sliding-puzzle":
-      return (
-        <SlidingPuzzleEngine
-          title={slidingPuzzleData.title}
-          puzzles={slidingPuzzleData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<SlidingPuzzleEngine title={slidingPuzzleData.title} puzzles={slidingPuzzleData.puzzles} /></>);
     case "sequence-memory":
-      return (
-        <SequenceMemoryEngine
-          title={sequenceMemoryData.title}
-          levels={sequenceMemoryData.levels}
-        />
-      );
+      return (<>{breadcrumb}<SequenceMemoryEngine title={sequenceMemoryData.title} levels={sequenceMemoryData.levels} /></>);
     case "matching-pairs":
-      return (
-        <MatchingPairsEngine
-          title={matchingPairsData.title}
-          rounds={matchingPairsData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<MatchingPairsEngine title={matchingPairsData.title} rounds={matchingPairsData.rounds} /></>);
     case "math-challenge":
-      return (
-        <MathChallengeEngine
-          title={mathChallengeData.title}
-          levels={mathChallengeData.levels}
-        />
-      );
+      return (<>{breadcrumb}<MathChallengeEngine title={mathChallengeData.title} levels={mathChallengeData.levels} /></>);
     case "number-memory":
-      return (
-        <NumberMemoryEngine
-          title={numberMemoryData.title}
-          rounds={numberMemoryData.rounds}
-        />
-      );
+      return (<>{breadcrumb}<NumberMemoryEngine title={numberMemoryData.title} rounds={numberMemoryData.rounds} /></>);
     case "estimation-game":
-      return (
-        <EstimationEngine
-          title={estimationData.title}
-          questions={estimationData.questions}
-        />
-      );
+      return (<>{breadcrumb}<EstimationEngine title={estimationData.title} questions={estimationData.questions} /></>);
     case "memory-true-or-false":
-      return (
-        <TrueOrFalseEngine
-          title={memoryTrueOrFalseData.title}
-          statements={memoryTrueOrFalseData.statements}
-        />
-      );
+      return (<>{breadcrumb}<TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></>);
     case "what-am-i":
-      return (
-        <WhoAmIEngine
-          title={whatAmIData.title}
-          puzzles={whatAmIData.puzzles}
-        />
-      );
+      return (<>{breadcrumb}<WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></>);
     default:
       notFound();
   }

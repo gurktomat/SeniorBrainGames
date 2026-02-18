@@ -3,6 +3,7 @@ import { Music, Layers, Shuffle, MapPin } from "lucide-react";
 import { categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import StreakBanner from "@/components/StreakBanner";
+import JsonLd from "@/components/JsonLd";
 import type { GameCategory } from "@/lib/types";
 
 const categories: { key: GameCategory; iconBg: string }[] = [
@@ -49,6 +50,16 @@ const stats = [
 export default function Home() {
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: "SeniorBrainGames",
+          url: "https://seniorbraingames.org",
+          description:
+            "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
+        }}
+      />
       <StreakBanner />
 
       {/* Hero section — full bleed gradient */}

@@ -4,6 +4,7 @@ import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import { GameIcon } from "@/lib/gameIcons";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
@@ -42,8 +43,31 @@ export default function NostalgiaTrivia() {
   const quizzes = getQuizzesByCategory("nostalgia-trivia");
   const info = categoryInfo["nostalgia-trivia"];
 
+  const allGames = [
+    ...specialGames.map((g) => ({ id: g.id, title: g.title })),
+    ...quizzes.map((q) => ({ id: q.id, title: q.title })),
+  ];
+
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: info.title,
+          description: info.description,
+          url: "https://seniorbraingames.org/nostalgia-trivia",
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: allGames.map((g, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              url: `https://seniorbraingames.org/nostalgia-trivia/${g.id}`,
+              name: g.title,
+            })),
+          },
+        }}
+      />
       <div className="mb-12 px-6 py-12 text-center" style={{ background: "linear-gradient(135deg, #3B6FC015 0%, #F8F9FC 100%)" }}>
         <div className="mx-auto max-w-3xl">
           <span className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ background: "#3B6FC0", color: "white" }}>

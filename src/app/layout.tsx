@@ -20,16 +20,49 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://seniorbraingames.org"),
   title: {
     default: "SeniorBrainGames — Fun Brain Games for Seniors",
     template: "%s | SeniorBrainGames",
   },
   description:
     "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
+  keywords: [
+    "brain games for seniors",
+    "senior brain games",
+    "trivia for seniors",
+    "memory games for seniors",
+    "word games for seniors",
+    "cognitive exercises",
+    "free brain games",
+    "nostalgia trivia",
+    "mind games for elderly",
+    "senior puzzles",
+  ],
+  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     locale: "en_US",
+    url: "/",
     siteName: "SeniorBrainGames",
+    title: "SeniorBrainGames — Fun Brain Games for Seniors",
+    description:
+      "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "SeniorBrainGames — Keep Your Mind Sharp & Active",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "SeniorBrainGames — Fun Brain Games for Seniors",
+    description:
+      "Free brain games designed for seniors. Trivia, word games, memory challenges, and more.",
+    images: ["/og-image.png"],
   },
 };
 
