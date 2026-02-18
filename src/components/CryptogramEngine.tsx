@@ -118,6 +118,7 @@ function CryptogramPuzzleView({
   const [validation, setValidation] = useState<Record<string, "correct" | "wrong" | "none">>({});
 
   const hiddenInputRef = useRef<HTMLInputElement>(null);
+  const gameRef = useRef<HTMLDivElement>(null);
 
   // Check if puzzle is complete
   const checkCompletion = useCallback(
@@ -152,6 +153,9 @@ function CryptogramPuzzleView({
       const upper = plainLetter.toUpperCase();
       if (!/^[A-Z]$/.test(upper)) return;
 
+      let nextSelected: string | null = null;
+      let didComplete = false;
+
       setUserMapping((prev) => {
         const updated = { ...prev };
 
@@ -169,37 +173,44 @@ function CryptogramPuzzleView({
         }
         updated[selectedCipherLetter] = upper;
 
-        // Clear validation on change
-        setValidation({});
-
         // Check completion
         if (checkCompletion(updated)) {
-          setTimeout(() => setPhase("complete"), 400);
+          didComplete = true;
+        }
+
+        // Auto-advance to next unassigned cipher letter in text order
+        const orderedLetters: string[] = [];
+        const seen = new Set<string>();
+        for (const ch of puzzle.encoded) {
+          if (/[A-Z]/.test(ch) && !seen.has(ch)) {
+            orderedLetters.push(ch);
+            seen.add(ch);
+          }
+        }
+        const currentIdx = orderedLetters.indexOf(selectedCipherLetter);
+        for (let offset = 1; offset <= orderedLetters.length; offset++) {
+          const nextIdx = (currentIdx + offset) % orderedLetters.length;
+          const nextLetter = orderedLetters[nextIdx];
+          if (!updated[nextLetter] && nextLetter !== selectedCipherLetter) {
+            nextSelected = nextLetter;
+            break;
+          }
         }
 
         return updated;
       });
 
-      // Auto-advance to next unassigned cipher letter in text order
-      const orderedLetters: string[] = [];
-      const seen = new Set<string>();
-      for (const ch of puzzle.encoded) {
-        if (/[A-Z]/.test(ch) && !seen.has(ch)) {
-          orderedLetters.push(ch);
-          seen.add(ch);
-        }
+      setValidation({});
+
+      if (nextSelected) {
+        setSelectedCipherLetter(nextSelected);
       }
-      const currentIdx = orderedLetters.indexOf(selectedCipherLetter);
-      for (let offset = 1; offset <= orderedLetters.length; offset++) {
-        const nextIdx = (currentIdx + offset) % orderedLetters.length;
-        const nextLetter = orderedLetters[nextIdx];
-        if (!userMapping[nextLetter] && nextLetter !== selectedCipherLetter) {
-          setSelectedCipherLetter(nextLetter);
-          return;
-        }
+
+      if (didComplete) {
+        setTimeout(() => setPhase("complete"), 400);
       }
     },
-    [selectedCipherLetter, phase, userMapping, checkCompletion, puzzle.encoded],
+    [selectedCipherLetter, phase, checkCompletion, puzzle.encoded],
   );
 
   // Clear the assignment for the selected cipher letter
@@ -250,6 +261,12 @@ function CryptogramPuzzleView({
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
       if (phase !== "playing") return;
+
+      // Only intercept when focus is within the game area or body (not nav, other UI)
+      const target = e.target as HTMLElement;
+      const isInGame = gameRef.current?.contains(target);
+      const isBody = target === document.body || target === document.documentElement;
+      if (!isInGame && !isBody) return;
 
       if (e.key === "Tab") {
         e.preventDefault();
@@ -325,6 +342,8 @@ function CryptogramPuzzleView({
     const target = unsolved[Math.floor(Math.random() * unsolved.length)];
     const correctPlain = reverseCipher[target];
 
+    let didComplete = false;
+
     setHintsUsed((h) => h + 1);
     setUserMapping((prev) => {
       const updated = { ...prev };
@@ -336,16 +355,19 @@ function CryptogramPuzzleView({
       }
       updated[target] = correctPlain;
 
-      setValidation((v) => ({ ...v, [target]: "correct" }));
-
       if (checkCompletion(updated)) {
-        setTimeout(() => setPhase("complete"), 600);
+        didComplete = true;
       }
 
       return updated;
     });
 
+    setValidation((v) => ({ ...v, [target]: "correct" }));
     setSelectedCipherLetter(target);
+
+    if (didComplete) {
+      setTimeout(() => setPhase("complete"), 600);
+    }
   }, [hintsUsed, phase, cipherLettersInPuzzle, userMapping, reverseCipher, checkCompletion]);
 
   const handleClear = useCallback(() => {
@@ -408,7 +430,7 @@ function CryptogramPuzzleView({
   // ─── Render ─────────────────────────────────────────────────────────────────
 
   return (
-    <div className="mx-auto w-full max-w-4xl px-4 py-6 sm:px-6">
+    <div ref={gameRef} className="mx-auto w-full max-w-4xl px-4 py-6 sm:px-6">
       {/* Header */}
       <div className="mb-4 flex items-center justify-between">
         <div>
@@ -470,8 +492,6 @@ function CryptogramPuzzleView({
 
                 const cipherLetter = cell.char;
                 const isSelected = selectedCipherLetter === cipherLetter;
-                const isSameGroup =
-                  selectedCipherLetter !== null && selectedCipherLetter === cipherLetter;
                 const userGuess = userMapping[cipherLetter] || "";
                 const letterValidation = validation[cipherLetter] || "none";
 
@@ -496,8 +516,6 @@ function CryptogramPuzzleView({
                   if (letterValidation === "none") {
                     borderClass = "border-primary";
                   }
-                } else if (isSameGroup) {
-                  bgClass = "bg-primary-50/50";
                 }
 
                 return (
@@ -621,8 +639,8 @@ function CryptogramPuzzleView({
         autoComplete="off"
         autoCorrect="off"
         spellCheck={false}
-        className="absolute opacity-0"
-        style={{ fontSize: "16px", width: 0, height: 0 }}
+        className="fixed opacity-0"
+        style={{ fontSize: "16px", width: "1px", height: "1px", top: "-100px", left: "0" }}
         onInput={(e) => {
           const input = e.currentTarget;
           const val = input.value;
