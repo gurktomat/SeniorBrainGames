@@ -1,0 +1,189 @@
+{
+  "id": "retro-tv-themes",
+  "title": "Retro TV Theme Songs",
+  "description": "Can you match these iconic theme song clues to the right TV show?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tvt-1",
+      "question": "Which show's theme begins: 'Here's the story of a lovely lady who was bringing up three very lovely girls'?",
+      "options": ["The Partridge Family", "The Brady Bunch", "Family Ties", "Eight Is Enough"],
+      "correctAnswer": 1,
+      "explanation": "The Brady Bunch (1969-1974) had one of the most recognizable theme songs in TV history, describing the blended Brady family.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-2",
+      "question": "Which show featured a theme song with the lyrics 'Just sit right back and you'll hear a tale'?",
+      "options": ["Gilligan's Island", "The Love Boat", "Fantasy Island", "McHale's Navy"],
+      "correctAnswer": 0,
+      "explanation": "Gilligan's Island (1964-1967) opened with 'The Ballad of Gilligan's Isle,' telling the story of the fateful three-hour tour.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-3",
+      "question": "Which show's theme included the lyrics 'Making your way in the world today takes everything you've got'?",
+      "options": ["Happy Days", "Cheers", "Seinfeld", "Friends"],
+      "correctAnswer": 1,
+      "explanation": "The Cheers theme song 'Where Everybody Knows Your Name' by Gary Portnoy became iconic during the show's run (1982-1993).",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-4",
+      "question": "Which Western show's theme starts with 'Rollin', rollin', rollin''?",
+      "options": ["Bonanza", "Gunsmoke", "Rawhide", "The Lone Ranger"],
+      "correctAnswer": 2,
+      "explanation": "Rawhide (1959-1965) featured the famous theme performed by Frankie Laine, later popularized in the movie The Blues Brothers.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-5",
+      "question": "Which show's theme includes the famous 'dun dun' sound effect that became instantly recognizable?",
+      "options": ["Dragnet", "Hawaii Five-O", "Law & Order", "The Twilight Zone"],
+      "correctAnswer": 0,
+      "explanation": "Dragnet (1951-1959) featured the iconic 'Dum-de-dum-dum' musical intro that became one of TV's most parodied themes.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-6",
+      "question": "Which show's theme included 'Come and listen to my story about a man named Jed'?",
+      "options": ["Green Acres", "Petticoat Junction", "The Beverly Hillbillies", "Hee Haw"],
+      "correctAnswer": 2,
+      "explanation": "The Beverly Hillbillies (1962-1971) theme, 'The Ballad of Jed Clampett,' told the story of a poor mountaineer who struck oil.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-7",
+      "question": "Which show began with the phrase 'Space: the final frontier'?",
+      "options": ["Lost in Space", "Star Trek", "Battlestar Galactica", "The Twilight Zone"],
+      "correctAnswer": 1,
+      "explanation": "Star Trek (1966-1969) opened with William Shatner's narration: 'Space: the final frontier. These are the voyages of the starship Enterprise.'",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-8",
+      "question": "Which show's theme song was 'Those Were the Days' sung by the cast?",
+      "options": ["Happy Days", "All in the Family", "The Jeffersons", "Laverne & Shirley"],
+      "correctAnswer": 1,
+      "explanation": "All in the Family (1971-1979) opened with Archie and Edith Bunker singing 'Those Were the Days' at the piano.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-9",
+      "question": "Which show's theme promised 'We're gonna make our dreams come true'?",
+      "options": ["Happy Days", "Mork & Mindy", "Laverne & Shirley", "Three's Company"],
+      "correctAnswer": 2,
+      "explanation": "Laverne & Shirley (1976-1983) featured the upbeat theme 'Making Our Dreams Come True' by Cyndi Grecco.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-10",
+      "question": "Which show had an instrumental theme that featured a driving drum beat and horns, becoming the signature of 1970s cop shows?",
+      "options": ["Starsky & Hutch", "Hawaii Five-O", "Kojak", "The Rockford Files"],
+      "correctAnswer": 1,
+      "explanation": "Hawaii Five-O (1968-1980) had one of the most iconic instrumental themes in TV history, composed by Morton Stevens.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-11",
+      "question": "Which show's theme sang about 'movin' on up to the East Side'?",
+      "options": ["Good Times", "The Jeffersons", "Sanford and Son", "What's Happening!!"],
+      "correctAnswer": 1,
+      "explanation": "The Jeffersons (1975-1985) theme 'Movin' On Up' celebrated George and Louise Jefferson's move to a 'deluxe apartment in the sky.'",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-12",
+      "question": "Which show featured the William Tell Overture as its theme music?",
+      "options": ["Zorro", "The Lone Ranger", "Daniel Boone", "Davy Crockett"],
+      "correctAnswer": 1,
+      "explanation": "The Lone Ranger (1949-1957) used Rossini's William Tell Overture as its iconic theme, becoming forever linked with the masked hero.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-13",
+      "question": "Which show's theme included 'Love, exciting and new, come aboard, we're expecting you'?",
+      "options": ["Fantasy Island", "The Love Boat", "Gilligan's Island", "Cruise"],
+      "correctAnswer": 1,
+      "explanation": "The Love Boat (1977-1987) had the romantic theme song performed by Jack Jones that became a pop culture staple.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-14",
+      "question": "Which show opened with a narrator saying 'You are about to enter another dimension'?",
+      "options": ["The Outer Limits", "The Twilight Zone", "Night Gallery", "Alfred Hitchcock Presents"],
+      "correctAnswer": 1,
+      "explanation": "The Twilight Zone (1959-1964) featured Rod Serling's memorable narration and the eerie 'do-do-do-do' theme by Marius Constant.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-15",
+      "question": "Which show had a theme that included 'Sunday, Monday, Happy Days'?",
+      "options": ["The Fonz Show", "Happy Days", "Joanie Loves Chachi", "Grease"],
+      "correctAnswer": 1,
+      "explanation": "Happy Days (1974-1984) featured the theme 'Happy Days' by Pratt & McClain, though it originally used 'Rock Around the Clock.'",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-16",
+      "question": "Which show's theme featured a catchy bass line and was performed by Quincy Jones?",
+      "options": ["The Cosby Show", "Sanford and Son", "The A-Team", "Miami Vice"],
+      "correctAnswer": 1,
+      "explanation": "Sanford and Son (1972-1977) featured the memorable 'The Streetbeater' theme by Quincy Jones with its distinctive bass guitar riff.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-17",
+      "question": "Which show's theme included 'Believe it or not, I'm walking on air'?",
+      "options": ["Mork & Mindy", "The Greatest American Hero", "Superman", "Wonder Woman"],
+      "correctAnswer": 1,
+      "explanation": "The Greatest American Hero (1981-1983) featured 'Believe It or Not' by Joey Scarbury, which became a top-3 hit.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-18",
+      "question": "Which show featured whistling in its theme and was set in a small North Carolina town?",
+      "options": ["The Waltons", "The Andy Griffith Show", "Mayberry R.F.D.", "Hee Haw"],
+      "correctAnswer": 1,
+      "explanation": "The Andy Griffith Show (1960-1968) featured the iconic whistled theme 'The Fishin' Hole,' with Andy and Opie walking to the fishing hole.",
+      "difficulty": "easy",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-19",
+      "question": "Which show's theme began with 'Boy, the way Glenn Miller played'?",
+      "options": ["The Honeymooners", "I Love Lucy", "All in the Family", "M*A*S*H"],
+      "correctAnswer": 2,
+      "explanation": "All in the Family's 'Those Were the Days' began with nostalgic references to Glenn Miller's music and simpler times.",
+      "difficulty": "medium",
+      "category": "tv"
+    },
+    {
+      "id": "tvt-20",
+      "question": "Which war-themed show had a theme song called 'Suicide Is Painless'?",
+      "options": ["Hogan's Heroes", "M*A*S*H", "Gomer Pyle", "Combat!"],
+      "correctAnswer": 1,
+      "explanation": "M*A*S*H (1972-1983) used an instrumental version of 'Suicide Is Painless,' originally written for the 1970 film by Johnny Mandel.",
+      "difficulty": "medium",
+      "category": "tv"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "word-connections",
+  "title": "Word Connections",
+  "description": "Find the word that connects all the others in each group!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wc-1",
+      "question": "What word connects: Cake, Cream, Cube, Age?",
+      "options": ["Sugar", "Ice", "Old", "Sweet"],
+      "correctAnswer": 1,
+      "explanation": "ICE connects them all: Ice cake, ice cream, ice cube, ice age.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-2",
+      "question": "What word connects: Light, Beam, Rise, Flower?",
+      "options": ["Moon", "Sun", "Star", "Day"],
+      "correctAnswer": 1,
+      "explanation": "SUN connects them all: Sunlight, sunbeam, sunrise, sunflower.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-3",
+      "question": "What word connects: Storm, Flake, Ball, Man?",
+      "options": ["Ice", "Snow", "Fire", "Rain"],
+      "correctAnswer": 1,
+      "explanation": "SNOW connects them all: Snowstorm, snowflake, snowball, snowman.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-4",
+      "question": "What word connects: Boat, Guard, Long, Style?",
+      "options": ["Life", "Time", "Old", "Water"],
+      "correctAnswer": 0,
+      "explanation": "LIFE connects them all: Lifeboat, lifeguard, lifelong, lifestyle.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-5",
+      "question": "What word connects: Fall, Proof, Melon, Works?",
+      "options": ["Fire", "Water", "Rain", "Stone"],
+      "correctAnswer": 1,
+      "explanation": "WATER connects them all: Waterfall, waterproof, watermelon, waterworks.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-6",
+      "question": "What word connects: Fly, Cup, Milk, Fingers?",
+      "options": ["Butter", "Sugar", "Honey", "Cream"],
+      "correctAnswer": 0,
+      "explanation": "BUTTER connects them all: Butterfly, buttercup, buttermilk, butterfingers.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-7",
+      "question": "What word connects: Berry, Bird, Jack, Out?",
+      "options": ["Blue", "Black", "Red", "Green"],
+      "correctAnswer": 1,
+      "explanation": "BLACK connects them all: Blackberry, blackbird, blackjack, blackout.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-8",
+      "question": "What word connects: Ache, Band, Line, Quarters?",
+      "options": ["Head", "Back", "Side", "Top"],
+      "correctAnswer": 0,
+      "explanation": "HEAD connects them all: Headache, headband, headline, headquarters.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-9",
+      "question": "What word connects: Bell, Knob, Step, Way?",
+      "options": ["Front", "Door", "Back", "Side"],
+      "correctAnswer": 1,
+      "explanation": "DOOR connects them all: Doorbell, doorknob, doorstep, doorway.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-10",
+      "question": "What word connects: Bow, Coat, Drop, Storm?",
+      "options": ["Snow", "Rain", "Wind", "Sun"],
+      "correctAnswer": 1,
+      "explanation": "RAIN connects them all: Rainbow, raincoat, raindrop, rainstorm.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-11",
+      "question": "What word connects: Light, House, Place, Side?",
+      "options": ["Fire", "Lake", "Home", "Road"],
+      "correctAnswer": 0,
+      "explanation": "FIRE connects them all: Firelight, firehouse, fireplace, fireside.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-12",
+      "question": "What word connects: Shine, Light, Stone, Beam?",
+      "options": ["Sun", "Star", "Moon", "Lamp"],
+      "correctAnswer": 2,
+      "explanation": "MOON connects them all: Moonshine, moonlight, moonstone, moonbeam.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-13",
+      "question": "What word connects: Guard, Saving, Span, Expectancy?",
+      "options": ["Time", "Life", "Body", "Health"],
+      "correctAnswer": 1,
+      "explanation": "LIFE connects them all: Lifeguard, lifesaving, lifespan, life expectancy.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-14",
+      "question": "What word connects: Mark, Worm, Shelf, Store?",
+      "options": ["Book", "Page", "Word", "Paper"],
+      "correctAnswer": 0,
+      "explanation": "BOOK connects them all: Bookmark, bookworm, bookshelf, bookstore.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-15",
+      "question": "What word connects: Print, Nail, Tip, Point?",
+      "options": ["Hand", "Finger", "Pen", "Foot"],
+      "correctAnswer": 1,
+      "explanation": "FINGER connects them all: Fingerprint, fingernail, fingertip, fingerpoint (to finger-point).",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-16",
+      "question": "What word connects: Shine, Burn, Set, Screen?",
+      "options": ["Moon", "Star", "Sun", "Fire"],
+      "correctAnswer": 2,
+      "explanation": "SUN connects them all: Sunshine, sunburn, sunset, sunscreen.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-17",
+      "question": "What word connects: Chair, Pit, Rest, Band?",
+      "options": ["Arm", "Leg", "Hand", "Head"],
+      "correctAnswer": 0,
+      "explanation": "ARM connects them all: Armchair, armpit, armrest, armband.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-18",
+      "question": "What word connects: Lash, Brow, Lid, Shadow?",
+      "options": ["Face", "Eye", "Skin", "Hair"],
+      "correctAnswer": 1,
+      "explanation": "EYE connects them all: Eyelash, eyebrow, eyelid, eye shadow.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-19",
+      "question": "What word connects: Work, Sick, Ward, Coming?",
+      "options": ["School", "Home", "Out", "Away"],
+      "correctAnswer": 1,
+      "explanation": "HOME connects them all: Homework, homesick, homeward, homecoming.",
+      "difficulty": "easy",
+      "category": "word"
+    },
+    {
+      "id": "wc-20",
+      "question": "What word connects: Yard, Bone, Pack, Lash?",
+      "options": ["Dog", "Back", "Whip", "Skin"],
+      "correctAnswer": 1,
+      "explanation": "BACK connects them all: Backyard, backbone, backpack, backlash.",
+      "difficulty": "easy",
+      "category": "word"
+    }
+  ]
+}

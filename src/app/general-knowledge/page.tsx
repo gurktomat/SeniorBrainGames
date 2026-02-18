@@ -24,6 +24,12 @@ const specialGames = [
     description: "Guess the famous person from progressive clues — fewer clues means more points!",
     count: "15 Puzzles",
   },
+  {
+    id: "science-sorting",
+    title: "Science Sorting",
+    description: "Sort items into the correct science categories!",
+    count: "10 Rounds",
+  },
 ];
 
 export default function GeneralKnowledge() {

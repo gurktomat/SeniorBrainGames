@@ -14,6 +14,8 @@ import AnagramEngine from "@/components/AnagramEngine";
 import MissingVowelsEngine from "@/components/MissingVowelsEngine";
 import EmojiDecoderEngine from "@/components/EmojiDecoderEngine";
 import RiddleEngine from "@/components/RiddleEngine";
+import FirstLinesEngine from "@/components/FirstLinesEngine";
+import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
@@ -29,6 +31,8 @@ import anagramData from "@/data/word-games/anagram-challenge.json";
 import missingVowelsData from "@/data/word-games/missing-vowels.json";
 import emojiDecoderData from "@/data/word-games/emoji-decoder.json";
 import riddleData from "@/data/word-games/riddle-challenge.json";
+import firstLinesData from "@/data/word-games/famous-first-lines.json";
+import grammarTFData from "@/data/word-games/grammar-true-or-false.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -44,6 +48,8 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "missing-vowels": { title: "Missing Vowels", description: "The vowels have been removed — can you figure out the original phrase?" },
   "emoji-decoder": { title: "Emoji Decoder", description: "Decode emoji sequences into movies, songs, and phrases!" },
   "riddle-challenge": { title: "Riddle Challenge", description: "Can you solve these classic riddles? Type your answer and see if you're right!" },
+  "famous-first-lines": { title: "Famous First Lines", description: "Guess the book from its famous opening line!" },
+  "grammar-true-or-false": { title: "Grammar True or False", description: "Is this sentence grammatically correct? Test your grammar knowledge!" },
 };
 
 export function generateStaticParams() {
@@ -177,6 +183,20 @@ export default async function WordGamePage({
         <RiddleEngine
           title={riddleData.title}
           riddles={riddleData.riddles}
+        />
+      );
+    case "famous-first-lines":
+      return (
+        <FirstLinesEngine
+          title={firstLinesData.title}
+          lines={firstLinesData.lines}
+        />
+      );
+    case "grammar-true-or-false":
+      return (
+        <TrueOrFalseEngine
+          title={grammarTFData.title}
+          statements={grammarTFData.statements}
         />
       );
     default:

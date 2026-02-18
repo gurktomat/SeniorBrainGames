@@ -19,6 +19,7 @@ import classicBoardGames from "@/data/nostalgia-trivia/classic-board-games.json"
 import classicSitcomCatchphrases from "@/data/nostalgia-trivia/classic-sitcom-catchphrases.json";
 import famousCouples from "@/data/nostalgia-trivia/famous-couples.json";
 import classicMovieQuotes from "@/data/nostalgia-trivia/classic-movie-quotes.json";
+import retroTvThemes from "@/data/nostalgia-trivia/retro-tv-themes.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -38,6 +39,8 @@ import musicalInstruments from "@/data/general-knowledge/musical-instruments.jso
 import worldReligionsMythology from "@/data/general-knowledge/world-religions-mythology.json";
 import famousInventions from "@/data/general-knowledge/famous-inventions.json";
 import ancientModernWonders from "@/data/general-knowledge/ancient-modern-wonders.json";
+import famousDuos from "@/data/general-knowledge/famous-duos.json";
+import everydayScience from "@/data/general-knowledge/everyday-science.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -59,6 +62,8 @@ import triviaRecall from "@/data/memory-games/trivia-recall.json";
 import visualClues from "@/data/memory-games/visual-clues.json";
 import beforeAndAfter from "@/data/memory-games/before-and-after.json";
 import connectionPuzzle from "@/data/memory-games/connection-puzzle.json";
+import brainTeasers from "@/data/memory-games/brain-teasers.json";
+import wordConnections from "@/data/memory-games/word-connections.json";
 
 const nostalgiaTrivia: Quiz[] = [
   fiftiesNostalgia as Quiz,
@@ -79,6 +84,7 @@ const nostalgiaTrivia: Quiz[] = [
   classicSitcomCatchphrases as Quiz,
   famousCouples as Quiz,
   classicMovieQuotes as Quiz,
+  retroTvThemes as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -99,6 +105,8 @@ const generalKnowledge: Quiz[] = [
   worldReligionsMythology as Quiz,
   famousInventions as Quiz,
   ancientModernWonders as Quiz,
+  famousDuos as Quiz,
+  everydayScience as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -122,6 +130,8 @@ const memoryGameQuizzes: Quiz[] = [
   visualClues as Quiz,
   beforeAndAfter as Quiz,
   connectionPuzzle as Quiz,
+  brainTeasers as Quiz,
+  wordConnections as Quiz,
 ];
 
 const allQuizzes: Quiz[] = [
@@ -240,15 +250,19 @@ export const specialGameSlugs: Record<string, string[]> = {
     "missing-vowels",
     "emoji-decoder",
     "riddle-challenge",
+    "famous-first-lines",
+    "grammar-true-or-false",
   ],
   "nostalgia-trivia": [
     "timeline-sort",
     "nostalgia-fact-or-fiction",
     "decade-sorting",
+    "nostalgia-who-am-i",
   ],
   "general-knowledge": [
     "true-or-false",
     "who-am-i",
+    "science-sorting",
   ],
   "memory-games": [
     "memory-card-match",
@@ -261,5 +275,6 @@ export const specialGameSlugs: Record<string, string[]> = {
     "sequence-memory",
     "matching-pairs",
     "math-challenge",
+    "number-memory",
   ],
 };

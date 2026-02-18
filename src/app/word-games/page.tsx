@@ -90,6 +90,18 @@ const specialGames = [
     description: "Can you solve these classic riddles? Type your answer and see if you're right!",
     count: "20 Riddles",
   },
+  {
+    id: "famous-first-lines",
+    title: "Famous First Lines",
+    description: "Guess the book from its famous opening line!",
+    count: "15 Lines",
+  },
+  {
+    id: "grammar-true-or-false",
+    title: "Grammar True or False",
+    description: "Is this sentence grammatically correct? Test your grammar knowledge!",
+    count: "20 Statements",
+  },
 ];
 
 export default function WordGames() {

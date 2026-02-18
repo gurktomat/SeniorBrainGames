@@ -4,16 +4,19 @@ import QuizEngine from "@/components/QuizEngine";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import SortingEngine from "@/components/SortingEngine";
+import WhoAmIEngine from "@/components/WhoAmIEngine";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
 import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
 import decadeSortingData from "@/data/nostalgia-trivia/decade-sorting.json";
+import nostalgiaWhoAmIData from "@/data/nostalgia-trivia/nostalgia-who-am-i.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "timeline-sort": { title: "Timeline Sort", description: "Put historical events in the correct chronological order!" },
   "nostalgia-fact-or-fiction": { title: "Nostalgia Fact or Fiction", description: "Can you tell which nostalgic facts from the 1950s–1980s are true and which are made up?" },
   "decade-sorting": { title: "Decade Sorting", description: "Sort pop culture items into their correct decade!" },
+  "nostalgia-who-am-i": { title: "Nostalgia Who Am I?", description: "Guess the pop culture icon from progressive clues!" },
 };
 
 export function generateStaticParams() {
@@ -77,6 +80,13 @@ export default async function NostalgiaQuizPage({
         <SortingEngine
           title={decadeSortingData.title}
           rounds={decadeSortingData.rounds}
+        />
+      );
+    case "nostalgia-who-am-i":
+      return (
+        <WhoAmIEngine
+          title={nostalgiaWhoAmIData.title}
+          puzzles={nostalgiaWhoAmIData.puzzles}
         />
       );
     default:

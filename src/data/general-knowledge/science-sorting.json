@@ -1,0 +1,149 @@
+{
+  "id": "science-sorting",
+  "title": "Science Sorting",
+  "description": "Sort items into the correct science categories!",
+  "gameCategory": "general-knowledge",
+  "gameType": "sorting",
+  "rounds": [
+    {
+      "id": "ssort-1",
+      "title": "Elements vs. Compounds",
+      "items": [
+        { "label": "Oxygen", "emoji": "O" },
+        { "label": "Water", "emoji": "H2O" },
+        { "label": "Gold", "emoji": "Au" },
+        { "label": "Salt", "emoji": "NaCl" },
+        { "label": "Iron", "emoji": "Fe" },
+        { "label": "Carbon Dioxide", "emoji": "CO2" }
+      ],
+      "categories": ["Element", "Compound"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-2",
+      "title": "Planets vs. Stars",
+      "items": [
+        { "label": "Mars", "emoji": "🔴" },
+        { "label": "The Sun", "emoji": "☀️" },
+        { "label": "Jupiter", "emoji": "🟤" },
+        { "label": "Polaris", "emoji": "⭐" },
+        { "label": "Venus", "emoji": "🟡" },
+        { "label": "Sirius", "emoji": "✨" }
+      ],
+      "categories": ["Planet", "Star"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-3",
+      "title": "Mammals vs. Reptiles",
+      "items": [
+        { "label": "Dolphin", "emoji": "🐬" },
+        { "label": "Crocodile", "emoji": "🐊" },
+        { "label": "Bat", "emoji": "🦇" },
+        { "label": "Turtle", "emoji": "🐢" },
+        { "label": "Whale", "emoji": "🐋" },
+        { "label": "Gecko", "emoji": "🦎" }
+      ],
+      "categories": ["Mammal", "Reptile"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-4",
+      "title": "Renewable vs. Non-Renewable Energy",
+      "items": [
+        { "label": "Solar Power", "emoji": "☀️" },
+        { "label": "Coal", "emoji": "⬛" },
+        { "label": "Wind Power", "emoji": "💨" },
+        { "label": "Natural Gas", "emoji": "🔥" },
+        { "label": "Hydroelectric", "emoji": "💧" },
+        { "label": "Oil", "emoji": "🛢️" }
+      ],
+      "categories": ["Renewable", "Non-Renewable"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-5",
+      "title": "Acids vs. Bases",
+      "items": [
+        { "label": "Lemon Juice", "emoji": "🍋" },
+        { "label": "Baking Soda", "emoji": "🧁" },
+        { "label": "Vinegar", "emoji": "🫗" },
+        { "label": "Soap", "emoji": "🧼" },
+        { "label": "Orange Juice", "emoji": "🍊" },
+        { "label": "Bleach", "emoji": "🧴" }
+      ],
+      "categories": ["Acid", "Base"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-6",
+      "title": "Solids vs. Gases (at room temperature)",
+      "items": [
+        { "label": "Iron", "emoji": "🔩" },
+        { "label": "Helium", "emoji": "🎈" },
+        { "label": "Diamond", "emoji": "💎" },
+        { "label": "Nitrogen", "emoji": "🌬️" },
+        { "label": "Copper", "emoji": "🟤" },
+        { "label": "Oxygen", "emoji": "💨" }
+      ],
+      "categories": ["Solid", "Gas"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-7",
+      "title": "Herbivores vs. Carnivores",
+      "items": [
+        { "label": "Cow", "emoji": "🐄" },
+        { "label": "Lion", "emoji": "🦁" },
+        { "label": "Rabbit", "emoji": "🐰" },
+        { "label": "Eagle", "emoji": "🦅" },
+        { "label": "Horse", "emoji": "🐴" },
+        { "label": "Shark", "emoji": "🦈" }
+      ],
+      "categories": ["Herbivore", "Carnivore"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-8",
+      "title": "Conductors vs. Insulators",
+      "items": [
+        { "label": "Copper Wire", "emoji": "🔌" },
+        { "label": "Rubber", "emoji": "🟤" },
+        { "label": "Aluminum", "emoji": "🥫" },
+        { "label": "Glass", "emoji": "🪟" },
+        { "label": "Silver", "emoji": "🥈" },
+        { "label": "Wood", "emoji": "🪵" }
+      ],
+      "categories": ["Conductor", "Insulator"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-9",
+      "title": "Physical Changes vs. Chemical Changes",
+      "items": [
+        { "label": "Ice Melting", "emoji": "🧊" },
+        { "label": "Wood Burning", "emoji": "🔥" },
+        { "label": "Cutting Paper", "emoji": "✂️" },
+        { "label": "Rusting Iron", "emoji": "🟫" },
+        { "label": "Boiling Water", "emoji": "♨️" },
+        { "label": "Baking a Cake", "emoji": "🎂" }
+      ],
+      "categories": ["Physical Change", "Chemical Change"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "ssort-10",
+      "title": "Vertebrates vs. Invertebrates",
+      "items": [
+        { "label": "Dog", "emoji": "🐕" },
+        { "label": "Jellyfish", "emoji": "🪼" },
+        { "label": "Frog", "emoji": "🐸" },
+        { "label": "Octopus", "emoji": "🐙" },
+        { "label": "Eagle", "emoji": "🦅" },
+        { "label": "Butterfly", "emoji": "🦋" }
+      ],
+      "categories": ["Vertebrate", "Invertebrate"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    }
+  ]
+}

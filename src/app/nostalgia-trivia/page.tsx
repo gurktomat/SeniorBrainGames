@@ -30,6 +30,12 @@ const specialGames = [
     description: "Sort pop culture items into their correct decade!",
     count: "10 Rounds",
   },
+  {
+    id: "nostalgia-who-am-i",
+    title: "Nostalgia Who Am I?",
+    description: "Guess the pop culture icon from progressive clues!",
+    count: "15 Puzzles",
+  },
 ];
 
 export default function NostalgiaTrivia() {

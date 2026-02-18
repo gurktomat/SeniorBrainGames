@@ -1,0 +1,125 @@
+{
+  "title": "Grammar True or False",
+  "statements": [
+    {
+      "id": "gtf-1",
+      "statement": "'Their going to the store' is grammatically correct.",
+      "answer": false,
+      "explanation": "It should be 'They're going to the store.' 'Their' is possessive, while 'they're' is a contraction of 'they are.'"
+    },
+    {
+      "id": "gtf-2",
+      "statement": "'The dog wagged its tail happily' is grammatically correct.",
+      "answer": true,
+      "explanation": "'Its' (without an apostrophe) is the correct possessive form. 'It's' means 'it is.'"
+    },
+    {
+      "id": "gtf-3",
+      "statement": "'Between you and I' is grammatically correct.",
+      "answer": false,
+      "explanation": "It should be 'between you and me.' After prepositions like 'between,' we use object pronouns (me, him, her), not subject pronouns (I, he, she)."
+    },
+    {
+      "id": "gtf-4",
+      "statement": "'She did well on the exam' is grammatically correct.",
+      "answer": true,
+      "explanation": "'Well' is correct here as an adverb modifying the verb 'did.' 'Good' is an adjective and would be incorrect in this position."
+    },
+    {
+      "id": "gtf-5",
+      "statement": "'Each of the students have their own desk' is grammatically correct.",
+      "answer": false,
+      "explanation": "'Each' is singular, so it should be 'Each of the students has his or her own desk.' The verb must agree with 'each,' not 'students.'"
+    },
+    {
+      "id": "gtf-6",
+      "statement": "'Who did you call?' is grammatically correct.",
+      "answer": false,
+      "explanation": "Strictly speaking, it should be 'Whom did you call?' because 'whom' is the object of the verb 'call.' However, 'who' is widely accepted in informal speech."
+    },
+    {
+      "id": "gtf-7",
+      "statement": "'The team is playing well today' is grammatically correct.",
+      "answer": true,
+      "explanation": "In American English, collective nouns like 'team' typically take singular verbs, so 'is' is correct."
+    },
+    {
+      "id": "gtf-8",
+      "statement": "'I could care less' means you don't care at all.",
+      "answer": false,
+      "explanation": "The correct expression is 'I couldn't care less,' meaning you care so little it's impossible to care any less. 'I could care less' literally means you still have some caring left."
+    },
+    {
+      "id": "gtf-9",
+      "statement": "'Fewer than ten items' is correct when referring to countable things.",
+      "answer": true,
+      "explanation": "'Fewer' is used for countable nouns (items, people, dollars), while 'less' is used for uncountable nouns (water, time, money as a concept)."
+    },
+    {
+      "id": "gtf-10",
+      "statement": "'The data shows a clear trend' is grammatically correct.",
+      "answer": true,
+      "explanation": "While 'data' was historically plural (datum being singular), modern usage widely accepts 'data' with a singular verb, especially in everyday English."
+    },
+    {
+      "id": "gtf-11",
+      "statement": "'Me and John went to the park' is grammatically correct.",
+      "answer": false,
+      "explanation": "It should be 'John and I went to the park.' When used as a subject, 'I' is correct. A good test: remove 'John and' — you'd say 'I went,' not 'Me went.'"
+    },
+    {
+      "id": "gtf-12",
+      "statement": "'She is taller than me' is grammatically correct.",
+      "answer": true,
+      "explanation": "While 'She is taller than I' is technically more formal, 'She is taller than me' is accepted in standard modern English usage."
+    },
+    {
+      "id": "gtf-13",
+      "statement": "'There is a lot of books on the shelf' is grammatically correct.",
+      "answer": false,
+      "explanation": "It should be 'There are a lot of books on the shelf.' The verb must agree with 'books' (plural), not 'lot.'"
+    },
+    {
+      "id": "gtf-14",
+      "statement": "A sentence should never end with a preposition.",
+      "answer": false,
+      "explanation": "This is a common myth! Ending a sentence with a preposition is perfectly acceptable in English. 'What are you looking for?' is correct and natural."
+    },
+    {
+      "id": "gtf-15",
+      "statement": "'The committee have reached their decision' is correct in British English.",
+      "answer": true,
+      "explanation": "In British English, collective nouns like 'committee' often take plural verbs when emphasizing the individual members. American English typically uses singular verbs."
+    },
+    {
+      "id": "gtf-16",
+      "statement": "'Irregardless' is a standard English word.",
+      "answer": false,
+      "explanation": "'Irregardless' is considered nonstandard. The correct word is 'regardless.' The prefix 'ir-' creates a double negative with the suffix '-less.'"
+    },
+    {
+      "id": "gtf-17",
+      "statement": "'The weather affects my mood' uses 'affects' correctly.",
+      "answer": true,
+      "explanation": "'Affect' is typically a verb meaning 'to influence,' while 'effect' is typically a noun meaning 'result.' Here, 'affects' (verb) is correct."
+    },
+    {
+      "id": "gtf-18",
+      "statement": "You should always use 'which' instead of 'that' in formal writing.",
+      "answer": false,
+      "explanation": "'That' introduces restrictive (essential) clauses, while 'which' introduces non-restrictive (extra info) clauses. Both have distinct, important roles."
+    },
+    {
+      "id": "gtf-19",
+      "statement": "'Neither the cat nor the dogs were hungry' is grammatically correct.",
+      "answer": true,
+      "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. Since 'dogs' is plural and closest to the verb, 'were' is correct."
+    },
+    {
+      "id": "gtf-20",
+      "statement": "'He literally exploded with anger' is used correctly.",
+      "answer": false,
+      "explanation": "'Literally' means 'in a literal sense' — actually, truly. Since he didn't physically explode, the correct word would be 'figuratively,' or simply omit 'literally.'"
+    }
+  ]
+}

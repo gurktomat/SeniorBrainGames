@@ -75,6 +75,12 @@ const specialGames = [
     description: "Exercise your mental math skills with fun arithmetic puzzles!",
     count: "3 Levels",
   },
+  {
+    id: "number-memory",
+    title: "Number Memory",
+    description: "Flash a number sequence, then recall it from memory!",
+    count: "15 Rounds",
+  },
 ];
 
 export default function MemoryGames() {

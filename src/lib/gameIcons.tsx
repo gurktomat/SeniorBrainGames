@@ -10,6 +10,8 @@ import {
   CheckCircle, Clock, Smile, Wrench, MessageCircle, PenTool, HeartHandshake,
   HelpingHand, ScrollText, Scale, CalendarRange, Clapperboard as Clapperboard2,
   Castle, Languages,
+  BookOpenText, Binary, UserCheck, PenLine, FlaskConical, UsersRound,
+  MonitorPlay, Beaker, BrainCircuit, Link,
   type LucideIcon,
 } from "lucide-react";
 
@@ -111,6 +113,18 @@ const iconMap: Record<string, LucideIcon> = {
   "classic-movie-quotes": Clapperboard2,
   "ancient-modern-wonders": Castle,
   "foreign-words": Languages,
+
+  // Batch 9 games
+  "famous-first-lines": BookOpenText,
+  "number-memory": Binary,
+  "nostalgia-who-am-i": UserCheck,
+  "grammar-true-or-false": PenLine,
+  "science-sorting": FlaskConical,
+  "famous-duos": UsersRound,
+  "retro-tv-themes": MonitorPlay,
+  "everyday-science": Beaker,
+  "brain-teasers": BrainCircuit,
+  "word-connections": Link,
 };
 
 export function GameIcon({
