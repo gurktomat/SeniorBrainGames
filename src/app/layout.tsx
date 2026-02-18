@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Script from "next/script";
 import { Merriweather, Source_Sans_3 } from "next/font/google";
 import Navigation from "@/components/Navigation";
 import "./globals.css";
@@ -39,6 +40,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-JNTGNX70MF"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-JNTGNX70MF');
+          `}
+        </Script>
+      </head>
       <body
         className={`${merriweather.variable} ${sourceSans.variable} antialiased`}
         style={{
