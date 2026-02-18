@@ -18,6 +18,18 @@ const specialGames = [
     description: "Put historical events in the correct chronological order!",
     count: "10 Rounds",
   },
+  {
+    id: "nostalgia-fact-or-fiction",
+    title: "Nostalgia Fact or Fiction",
+    description: "Can you tell which nostalgic facts from the 1950s–1980s are true and which are made up?",
+    count: "20 Statements",
+  },
+  {
+    id: "decade-sorting",
+    title: "Decade Sorting",
+    description: "Sort pop culture items into their correct decade!",
+    count: "10 Rounds",
+  },
 ];
 
 export default function NostalgiaTrivia() {

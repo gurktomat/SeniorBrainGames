@@ -18,6 +18,12 @@ const specialGames = [
     description: "Test your knowledge — is this statement true or false?",
     count: "20 Statements",
   },
+  {
+    id: "who-am-i",
+    title: "Who Am I?",
+    description: "Guess the famous person from progressive clues — fewer clues means more points!",
+    count: "15 Puzzles",
+  },
 ];
 
 export default function GeneralKnowledge() {

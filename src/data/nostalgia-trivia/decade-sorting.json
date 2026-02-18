@@ -1,0 +1,149 @@
+{
+  "id": "decade-sorting",
+  "title": "Decade Sorting",
+  "description": "Sort pop culture items into their correct decade!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "sorting",
+  "rounds": [
+    {
+      "id": "ds-1",
+      "title": "TV Shows by Decade",
+      "items": [
+        { "label": "I Love Lucy", "emoji": "📺" },
+        { "label": "The Brady Bunch", "emoji": "👨‍👩‍👧‍👦" },
+        { "label": "Dallas", "emoji": "🤠" },
+        { "label": "Leave It to Beaver", "emoji": "🏠" },
+        { "label": "All in the Family", "emoji": "🛋️" },
+        { "label": "The A-Team", "emoji": "🚐" }
+      ],
+      "categories": ["1950s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 2, 0, 1, 2]
+    },
+    {
+      "id": "ds-2",
+      "title": "Hit Songs by Decade",
+      "items": [
+        { "label": "Rock Around the Clock", "emoji": "🎵" },
+        { "label": "Bohemian Rhapsody", "emoji": "🎸" },
+        { "label": "Billie Jean", "emoji": "🕺" },
+        { "label": "Hey Jude", "emoji": "🎤" },
+        { "label": "Stayin' Alive", "emoji": "🪩" },
+        { "label": "Like a Virgin", "emoji": "💃" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 2, 3, 1, 2, 3]
+    },
+    {
+      "id": "ds-3",
+      "title": "Toys & Games by Decade",
+      "items": [
+        { "label": "Mr. Potato Head", "emoji": "🥔" },
+        { "label": "G.I. Joe", "emoji": "🪖" },
+        { "label": "Simon", "emoji": "🔴" },
+        { "label": "Cabbage Patch Kids", "emoji": "👶" },
+        { "label": "Barbie Doll", "emoji": "👱‍♀️" },
+        { "label": "Transformers", "emoji": "🤖" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 2, 3, 0, 3]
+    },
+    {
+      "id": "ds-4",
+      "title": "Movies by Decade",
+      "items": [
+        { "label": "Singin' in the Rain", "emoji": "☔" },
+        { "label": "The Sound of Music", "emoji": "🎶" },
+        { "label": "Jaws", "emoji": "🦈" },
+        { "label": "E.T.", "emoji": "👽" },
+        { "label": "Psycho", "emoji": "🔪" },
+        { "label": "Back to the Future", "emoji": "⚡" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 2, 3, 1, 3]
+    },
+    {
+      "id": "ds-5",
+      "title": "Fashion Trends by Decade",
+      "items": [
+        { "label": "Poodle Skirts", "emoji": "👗" },
+        { "label": "Bell-Bottoms", "emoji": "👖" },
+        { "label": "Leg Warmers", "emoji": "🧦" },
+        { "label": "Go-Go Boots", "emoji": "👢" },
+        { "label": "Leather Jackets", "emoji": "🧥" },
+        { "label": "Neon Colors", "emoji": "🌈" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 2, 3, 1, 0, 3]
+    },
+    {
+      "id": "ds-6",
+      "title": "Inventions & Technology by Decade",
+      "items": [
+        { "label": "Color Television", "emoji": "📺" },
+        { "label": "Cassette Tape", "emoji": "📼" },
+        { "label": "Personal Computer", "emoji": "💻" },
+        { "label": "Microwave Oven", "emoji": "🍽️" },
+        { "label": "VCR", "emoji": "📹" },
+        { "label": "Satellite TV", "emoji": "📡" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 3, 1, 2, 3]
+    },
+    {
+      "id": "ds-7",
+      "title": "Famous People by Decade of Fame",
+      "items": [
+        { "label": "Marilyn Monroe", "emoji": "⭐" },
+        { "label": "The Beatles", "emoji": "🎸" },
+        { "label": "Farrah Fawcett", "emoji": "💇‍♀️" },
+        { "label": "Madonna", "emoji": "🎤" },
+        { "label": "James Dean", "emoji": "🎬" },
+        { "label": "Michael Jackson", "emoji": "🕺" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 2, 3, 0, 3]
+    },
+    {
+      "id": "ds-8",
+      "title": "Cars by Decade",
+      "items": [
+        { "label": "Chevrolet Bel Air", "emoji": "🚗" },
+        { "label": "Ford Mustang", "emoji": "🏎️" },
+        { "label": "AMC Pacer", "emoji": "🚙" },
+        { "label": "DeLorean DMC-12", "emoji": "🚘" },
+        { "label": "Volkswagen Beetle", "emoji": "🪲" },
+        { "label": "Pontiac Firebird", "emoji": "🔥" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 1, 2, 3, 1, 2]
+    },
+    {
+      "id": "ds-9",
+      "title": "Dance Crazes by Decade",
+      "items": [
+        { "label": "The Twist", "emoji": "💃" },
+        { "label": "Disco", "emoji": "🪩" },
+        { "label": "Breakdancing", "emoji": "🤸" },
+        { "label": "The Jive", "emoji": "🕺" },
+        { "label": "The Hustle", "emoji": "🎵" },
+        { "label": "Moonwalk", "emoji": "🌙" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [1, 2, 3, 0, 2, 3]
+    },
+    {
+      "id": "ds-10",
+      "title": "Candy & Snacks by Decade",
+      "items": [
+        { "label": "Pez Dispensers", "emoji": "🍬" },
+        { "label": "Pop Rocks", "emoji": "💥" },
+        { "label": "Nerds", "emoji": "🟣" },
+        { "label": "Swedish Fish", "emoji": "🐟" },
+        { "label": "Ring Pops", "emoji": "💍" },
+        { "label": "Fruit Roll-Ups", "emoji": "🍓" }
+      ],
+      "categories": ["1950s", "1960s", "1970s", "1980s"],
+      "correctMapping": [0, 2, 3, 1, 2, 3]
+    }
+  ]
+}

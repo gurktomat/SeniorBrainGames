@@ -1,0 +1,189 @@
+{
+  "id": "foreign-words",
+  "title": "Foreign Words in English",
+  "description": "How well do you know the foreign words and phrases we use every day in English?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fw-1",
+      "question": "What language does the word 'kindergarten' come from?",
+      "options": ["Dutch", "Swedish", "German", "Danish"],
+      "correctAnswer": 2,
+      "explanation": "Kindergarten is German for 'children's garden.' It was coined by Friedrich Froebel in 1840 for his early education program.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-2",
+      "question": "The word 'tsunami' comes from which language?",
+      "options": ["Chinese", "Korean", "Hawaiian", "Japanese"],
+      "correctAnswer": 3,
+      "explanation": "Tsunami is Japanese, combining 'tsu' (harbor) and 'nami' (wave), literally meaning 'harbor wave.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-3",
+      "question": "What does the French phrase 'déjà vu' literally mean?",
+      "options": ["Already seen", "Never forgotten", "Seen before", "Double vision"],
+      "correctAnswer": 0,
+      "explanation": "'Déjà vu' literally translates to 'already seen' in French, describing the feeling of having experienced something before.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-4",
+      "question": "From which language did English borrow the word 'safari'?",
+      "options": ["Hindi", "Arabic", "Swahili", "Zulu"],
+      "correctAnswer": 2,
+      "explanation": "Safari comes from Swahili, meaning 'journey' or 'expedition,' originally derived from the Arabic word 'safar' (travel).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-5",
+      "question": "The musical term 'piano' comes from Italian. What does it literally mean?",
+      "options": ["Beautiful", "Soft", "Musical", "Strings"],
+      "correctAnswer": 1,
+      "explanation": "The full Italian name is 'pianoforte,' meaning 'soft-loud,' because it could play notes at different volumes unlike the harpsichord.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-6",
+      "question": "Which language gave us the word 'ketchup'?",
+      "options": ["Spanish", "Chinese (Hokkien)", "Portuguese", "French"],
+      "correctAnswer": 1,
+      "explanation": "Ketchup likely comes from the Hokkien Chinese word 'kê-tsiap,' a fermented fish sauce. The tomato version is an American adaptation.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fw-7",
+      "question": "What does the Latin phrase 'carpe diem' mean?",
+      "options": ["Live and learn", "Seize the day", "Time flies", "To each their own"],
+      "correctAnswer": 1,
+      "explanation": "'Carpe diem' means 'seize the day' and comes from a poem by Horace (65-8 BC), urging people to make the most of the present.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-8",
+      "question": "The word 'shampoo' was borrowed from which language?",
+      "options": ["Arabic", "Persian", "Hindi", "Turkish"],
+      "correctAnswer": 2,
+      "explanation": "Shampoo comes from the Hindi word 'champo,' meaning 'to press or massage,' brought to English during the British colonial era in India.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-9",
+      "question": "What is the origin of the word 'robot'?",
+      "options": ["German", "Russian", "Czech", "Polish"],
+      "correctAnswer": 2,
+      "explanation": "Robot comes from the Czech word 'robota' (forced labor). It was introduced by Karel Čapek in his 1920 play R.U.R.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-10",
+      "question": "The word 'algebra' comes from which language?",
+      "options": ["Greek", "Arabic", "Latin", "Sanskrit"],
+      "correctAnswer": 1,
+      "explanation": "Algebra comes from the Arabic 'al-jabr' (restoration), from the title of a 9th-century book by mathematician al-Khwarizmi.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-11",
+      "question": "What does the French expression 'RSVP' stand for?",
+      "options": ["Répondez s'il vous plaît", "Reçu sans vérification préalable", "Retour sans valeur postale", "Rencontre spéciale très prochaine"],
+      "correctAnswer": 0,
+      "explanation": "RSVP stands for 'Répondez s'il vous plaît,' meaning 'Please respond' in French.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-12",
+      "question": "From which language does the word 'chocolate' originate?",
+      "options": ["Spanish", "Nahuatl (Aztec)", "Portuguese", "Mayan"],
+      "correctAnswer": 1,
+      "explanation": "Chocolate comes from the Nahuatl (Aztec) word 'xocolatl,' likely meaning 'bitter water,' referring to the original unsweetened drink.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-13",
+      "question": "The word 'pajamas' was borrowed from which language?",
+      "options": ["Arabic", "Turkish", "Hindi/Urdu", "Malay"],
+      "correctAnswer": 2,
+      "explanation": "Pajamas comes from the Hindi/Urdu 'pai-jama' (leg garment), adopted by the British in India and brought back to the West.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fw-14",
+      "question": "What does the German word 'wanderlust' literally mean?",
+      "options": ["Desire to wander", "Lost in wonder", "Love of nature", "Dream of travel"],
+      "correctAnswer": 0,
+      "explanation": "Wanderlust combines 'wandern' (to wander/hike) and 'Lust' (desire), literally meaning 'desire to wander.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-15",
+      "question": "The word 'typhoon' has roots in which language?",
+      "options": ["Japanese", "Chinese", "Filipino", "Thai"],
+      "correctAnswer": 1,
+      "explanation": "Typhoon comes from the Chinese 'tai fung' (great wind), possibly influenced by the Greek 'Typhon' (a mythological monster).",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fw-16",
+      "question": "What language gave us the word 'lemon'?",
+      "options": ["Arabic", "Greek", "Spanish", "Italian"],
+      "correctAnswer": 0,
+      "explanation": "Lemon entered English via Old French from Arabic 'laymun,' which in turn came from Persian 'limun.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fw-17",
+      "question": "The word 'bungalow' comes from which language?",
+      "options": ["Japanese", "Malay", "Hindi/Bengali", "Thai"],
+      "correctAnswer": 2,
+      "explanation": "Bungalow comes from the Hindi 'bangla,' meaning 'of or belonging to Bengal,' referring to one-story houses in that region.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fw-18",
+      "question": "What does the Italian word 'al fresco' literally mean?",
+      "options": ["Under the sun", "In the fresh (air)", "Outdoors forever", "Near the garden"],
+      "correctAnswer": 1,
+      "explanation": "Al fresco means 'in the fresh (air)' in Italian, used in English to describe dining outdoors.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fw-19",
+      "question": "Which language gave English the word 'boondocks'?",
+      "options": ["Spanish", "Hawaiian", "Tagalog (Filipino)", "Samoan"],
+      "correctAnswer": 2,
+      "explanation": "Boondocks comes from the Tagalog word 'bundok' (mountain), picked up by American soldiers during the Philippine-American War.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fw-20",
+      "question": "The word 'yacht' was borrowed from which language?",
+      "options": ["French", "Dutch", "Norwegian", "Swedish"],
+      "correctAnswer": 1,
+      "explanation": "Yacht comes from the Dutch 'jacht' (short for 'jachtschip,' meaning 'hunting ship'), originally a fast, light sailing vessel.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

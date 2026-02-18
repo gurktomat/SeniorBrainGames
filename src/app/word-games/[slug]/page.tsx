@@ -13,6 +13,7 @@ import CryptogramEngine from "@/components/CryptogramEngine";
 import AnagramEngine from "@/components/AnagramEngine";
 import MissingVowelsEngine from "@/components/MissingVowelsEngine";
 import EmojiDecoderEngine from "@/components/EmojiDecoderEngine";
+import RiddleEngine from "@/components/RiddleEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
@@ -27,6 +28,7 @@ import cryptogramData from "@/data/word-games/cryptogram.json";
 import anagramData from "@/data/word-games/anagram-challenge.json";
 import missingVowelsData from "@/data/word-games/missing-vowels.json";
 import emojiDecoderData from "@/data/word-games/emoji-decoder.json";
+import riddleData from "@/data/word-games/riddle-challenge.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -41,6 +43,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "anagram-challenge": { title: "Anagram Challenge", description: "Unscramble themed anagram puzzles — each round has a different theme!" },
   "missing-vowels": { title: "Missing Vowels", description: "The vowels have been removed — can you figure out the original phrase?" },
   "emoji-decoder": { title: "Emoji Decoder", description: "Decode emoji sequences into movies, songs, and phrases!" },
+  "riddle-challenge": { title: "Riddle Challenge", description: "Can you solve these classic riddles? Type your answer and see if you're right!" },
 };
 
 export function generateStaticParams() {
@@ -167,6 +170,13 @@ export default async function WordGamePage({
         <EmojiDecoderEngine
           title={emojiDecoderData.title}
           rounds={emojiDecoderData.rounds}
+        />
+      );
+    case "riddle-challenge":
+      return (
+        <RiddleEngine
+          title={riddleData.title}
+          riddles={riddleData.riddles}
         />
       );
     default:

@@ -8,6 +8,8 @@ import {
   Layers, Eye, CircleOff, Shapes, Palette, Grid3x3, Move, Zap, Link2,
   Image, Users, Ban, Brain, RotateCcw, Asterisk, Dices, Sun,
   CheckCircle, Clock, Smile, Wrench, MessageCircle, PenTool, HeartHandshake,
+  HelpingHand, ScrollText, Scale, CalendarRange, Clapperboard as Clapperboard2,
+  Castle, Languages,
   type LucideIcon,
 } from "lucide-react";
 
@@ -100,6 +102,15 @@ const iconMap: Record<string, LucideIcon> = {
   "classic-sitcom-catchphrases": MessageCircle,
   "grammar-punctuation": PenTool,
   "famous-couples": HeartHandshake,
+
+  // Batch 8 games
+  "who-am-i": HelpingHand,
+  "riddle-challenge": ScrollText,
+  "nostalgia-fact-or-fiction": Scale,
+  "decade-sorting": CalendarRange,
+  "classic-movie-quotes": Clapperboard2,
+  "ancient-modern-wonders": Castle,
+  "foreign-words": Languages,
 };
 
 export function GameIcon({

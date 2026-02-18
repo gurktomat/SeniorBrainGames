@@ -2,12 +2,18 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
+import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
+import SortingEngine from "@/components/SortingEngine";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
+import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
+import decadeSortingData from "@/data/nostalgia-trivia/decade-sorting.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "timeline-sort": { title: "Timeline Sort", description: "Put historical events in the correct chronological order!" },
+  "nostalgia-fact-or-fiction": { title: "Nostalgia Fact or Fiction", description: "Can you tell which nostalgic facts from the 1950s–1980s are true and which are made up?" },
+  "decade-sorting": { title: "Decade Sorting", description: "Sort pop culture items into their correct decade!" },
 };
 
 export function generateStaticParams() {
@@ -57,6 +63,20 @@ export default async function NostalgiaQuizPage({
         <TimelineSortEngine
           title={timelineSortData.title}
           rounds={timelineSortData.rounds}
+        />
+      );
+    case "nostalgia-fact-or-fiction":
+      return (
+        <TrueOrFalseEngine
+          title={nostalgiaFactOrFictionData.title}
+          statements={nostalgiaFactOrFictionData.statements}
+        />
+      );
+    case "decade-sorting":
+      return (
+        <SortingEngine
+          title={decadeSortingData.title}
+          rounds={decadeSortingData.rounds}
         />
       );
     default:

@@ -18,6 +18,7 @@ import classicSports from "@/data/nostalgia-trivia/classic-sports.json";
 import classicBoardGames from "@/data/nostalgia-trivia/classic-board-games.json";
 import classicSitcomCatchphrases from "@/data/nostalgia-trivia/classic-sitcom-catchphrases.json";
 import famousCouples from "@/data/nostalgia-trivia/famous-couples.json";
+import classicMovieQuotes from "@/data/nostalgia-trivia/classic-movie-quotes.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -36,6 +37,7 @@ import worldOceansRivers from "@/data/general-knowledge/world-oceans-rivers.json
 import musicalInstruments from "@/data/general-knowledge/musical-instruments.json";
 import worldReligionsMythology from "@/data/general-knowledge/world-religions-mythology.json";
 import famousInventions from "@/data/general-knowledge/famous-inventions.json";
+import ancientModernWonders from "@/data/general-knowledge/ancient-modern-wonders.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -47,6 +49,7 @@ import commonlyConfused from "@/data/word-games/commonly-confused.json";
 import vocabularyBuilder from "@/data/word-games/vocabulary-builder.json";
 import figuresOfSpeech from "@/data/word-games/figures-of-speech.json";
 import grammarPunctuation from "@/data/word-games/grammar-punctuation.json";
+import foreignWords from "@/data/word-games/foreign-words.json";
 
 // Memory Games (quiz-format ones)
 import pictureQuiz from "@/data/memory-games/picture-quiz.json";
@@ -75,6 +78,7 @@ const nostalgiaTrivia: Quiz[] = [
   classicBoardGames as Quiz,
   classicSitcomCatchphrases as Quiz,
   famousCouples as Quiz,
+  classicMovieQuotes as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -94,6 +98,7 @@ const generalKnowledge: Quiz[] = [
   musicalInstruments as Quiz,
   worldReligionsMythology as Quiz,
   famousInventions as Quiz,
+  ancientModernWonders as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -106,6 +111,7 @@ const wordGameQuizzes: Quiz[] = [
   vocabularyBuilder as Quiz,
   figuresOfSpeech as Quiz,
   grammarPunctuation as Quiz,
+  foreignWords as Quiz,
 ];
 
 const memoryGameQuizzes: Quiz[] = [
@@ -233,12 +239,16 @@ export const specialGameSlugs: Record<string, string[]> = {
     "anagram-challenge",
     "missing-vowels",
     "emoji-decoder",
+    "riddle-challenge",
   ],
   "nostalgia-trivia": [
     "timeline-sort",
+    "nostalgia-fact-or-fiction",
+    "decade-sorting",
   ],
   "general-knowledge": [
     "true-or-false",
+    "who-am-i",
   ],
   "memory-games": [
     "memory-card-match",

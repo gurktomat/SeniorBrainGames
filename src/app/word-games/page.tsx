@@ -84,6 +84,12 @@ const specialGames = [
     description: "Decode emoji sequences into movies, songs, and phrases!",
     count: "10 Rounds",
   },
+  {
+    id: "riddle-challenge",
+    title: "Riddle Challenge",
+    description: "Can you solve these classic riddles? Type your answer and see if you're right!",
+    count: "20 Riddles",
+  },
 ];
 
 export default function WordGames() {

@@ -1,0 +1,189 @@
+{
+  "id": "ancient-modern-wonders",
+  "title": "Ancient & Modern Wonders",
+  "description": "Test your knowledge of the world's most magnificent structures and landmarks!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "amw-1",
+      "question": "Which of the Seven Wonders of the Ancient World is still standing today?",
+      "options": ["Colossus of Rhodes", "Great Pyramid of Giza", "Hanging Gardens of Babylon", "Lighthouse of Alexandria"],
+      "correctAnswer": 1,
+      "explanation": "The Great Pyramid of Giza is the only one of the original Seven Wonders still largely intact, built around 2560 BC.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-2",
+      "question": "In which country is Machu Picchu located?",
+      "options": ["Bolivia", "Ecuador", "Peru", "Colombia"],
+      "correctAnswer": 2,
+      "explanation": "Machu Picchu is a 15th-century Incan citadel situated high in the Andes Mountains of Peru.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-3",
+      "question": "Which ancient wonder was a giant statue that stood at the entrance to a harbor on a Greek island?",
+      "options": ["Statue of Zeus", "Colossus of Rhodes", "Venus de Milo", "Sphinx of Giza"],
+      "correctAnswer": 1,
+      "explanation": "The Colossus of Rhodes was a 100-foot bronze statue of the sun god Helios, erected in 280 BC on the island of Rhodes.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-4",
+      "question": "The Taj Mahal was built as a monument to what?",
+      "options": ["A military victory", "A religious leader", "A beloved wife", "A royal coronation"],
+      "correctAnswer": 2,
+      "explanation": "Emperor Shah Jahan built the Taj Mahal in Agra, India as a mausoleum for his beloved wife Mumtaz Mahal, who died in 1631.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-5",
+      "question": "Which of these is one of the New Seven Wonders of the World?",
+      "options": ["Eiffel Tower", "Statue of Liberty", "Christ the Redeemer", "Sydney Opera House"],
+      "correctAnswer": 2,
+      "explanation": "Christ the Redeemer in Rio de Janeiro, Brazil was voted one of the New Seven Wonders of the World in 2007.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-6",
+      "question": "What was the Lighthouse of Alexandria also known as?",
+      "options": ["Pharos of Alexandria", "Tower of the Nile", "Beacon of Egypt", "Light of the Mediterranean"],
+      "correctAnswer": 0,
+      "explanation": "The Pharos of Alexandria was one of the tallest man-made structures in the ancient world, standing about 330 feet tall.",
+      "difficulty": "hard",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-7",
+      "question": "The Colosseum in Rome could hold approximately how many spectators?",
+      "options": ["25,000", "50,000", "80,000", "120,000"],
+      "correctAnswer": 2,
+      "explanation": "The Colosseum, completed in 80 AD, could hold between 50,000 and 80,000 spectators for gladiatorial contests and public spectacles.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-8",
+      "question": "Which ancient city was carved directly into red sandstone cliffs?",
+      "options": ["Carthage", "Pompeii", "Petra", "Troy"],
+      "correctAnswer": 2,
+      "explanation": "Petra in modern-day Jordan was carved into rose-red sandstone cliffs by the Nabataeans over 2,000 years ago.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-9",
+      "question": "How long is the Great Wall of China?",
+      "options": ["About 1,500 miles", "About 5,500 miles", "About 13,000 miles", "About 20,000 miles"],
+      "correctAnswer": 2,
+      "explanation": "Including all its branches, the Great Wall stretches approximately 13,171 miles (21,196 km), built over many centuries.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-10",
+      "question": "The Hanging Gardens of Babylon were supposedly built in which modern-day country?",
+      "options": ["Iran", "Syria", "Iraq", "Turkey"],
+      "correctAnswer": 2,
+      "explanation": "Ancient Babylon was located near modern-day Hillah in Iraq, though the existence of the gardens is still debated by historians.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-11",
+      "question": "Which wonder was a massive temple built to honor the Greek goddess Artemis?",
+      "options": ["Parthenon", "Temple of Artemis at Ephesus", "Temple of Apollo at Delphi", "Temple of Hera at Olympia"],
+      "correctAnswer": 1,
+      "explanation": "The Temple of Artemis at Ephesus (in modern-day Turkey) was one of the Seven Wonders, rebuilt three times before its final destruction.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-12",
+      "question": "The Panama Canal connects which two bodies of water?",
+      "options": ["Pacific Ocean and Indian Ocean", "Atlantic Ocean and Pacific Ocean", "Caribbean Sea and Gulf of Mexico", "Mediterranean Sea and Red Sea"],
+      "correctAnswer": 1,
+      "explanation": "The Panama Canal, completed in 1914, connects the Atlantic and Pacific Oceans through a 50-mile waterway across Panama.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-13",
+      "question": "Angkor Wat in Cambodia is the world's largest what?",
+      "options": ["Palace", "Religious monument", "Pyramid", "Fortress"],
+      "correctAnswer": 1,
+      "explanation": "Angkor Wat is the world's largest religious monument, originally built as a Hindu temple in the 12th century.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-14",
+      "question": "Which modern wonder was designed by Gustave Eiffel and completed in 1889?",
+      "options": ["Statue of Liberty", "Eiffel Tower", "Brooklyn Bridge", "Crystal Palace"],
+      "correctAnswer": 1,
+      "explanation": "The Eiffel Tower was built for the 1889 World's Fair in Paris. Originally controversial, it became France's most iconic landmark.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-15",
+      "question": "The ancient city of Chichen Itza is located in which country?",
+      "options": ["Guatemala", "Mexico", "Honduras", "Belize"],
+      "correctAnswer": 1,
+      "explanation": "Chichen Itza is a large Mayan archaeological site on the Yucatan Peninsula of Mexico, famous for the pyramid of Kukulkan.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-16",
+      "question": "Which ancient wonder was a giant seated statue made of ivory and gold?",
+      "options": ["Colossus of Rhodes", "Statue of Zeus at Olympia", "Sphinx of Giza", "Venus de Milo"],
+      "correctAnswer": 1,
+      "explanation": "The Statue of Zeus at Olympia was a 40-foot chryselephantine (ivory and gold) sculpture created by the sculptor Phidias around 435 BC.",
+      "difficulty": "hard",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-17",
+      "question": "The Terracotta Army was discovered near which Chinese city?",
+      "options": ["Beijing", "Shanghai", "Xi'an", "Guangzhou"],
+      "correctAnswer": 2,
+      "explanation": "The Terracotta Army of over 8,000 life-sized figures was discovered near Xi'an in 1974, guarding the tomb of Emperor Qin Shi Huang.",
+      "difficulty": "medium",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-18",
+      "question": "What is the Mausoleum at Halicarnassus named after?",
+      "options": ["The architect who built it", "The city where it stood", "King Mausolus who was buried there", "The Greek god of the underworld"],
+      "correctAnswer": 2,
+      "explanation": "The word 'mausoleum' itself comes from King Mausolus of Caria, whose elaborate tomb was built around 350 BC.",
+      "difficulty": "hard",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-19",
+      "question": "The Moai statues are found on which island?",
+      "options": ["Madagascar", "Hawaii", "Easter Island", "Fiji"],
+      "correctAnswer": 2,
+      "explanation": "Nearly 900 giant Moai statues were carved by the Rapa Nui people on Easter Island (Rapa Nui) between 1250 and 1500 AD.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    },
+    {
+      "id": "amw-20",
+      "question": "Which modern engineering wonder is the world's tallest building as of 2024?",
+      "options": ["Shanghai Tower", "One World Trade Center", "Burj Khalifa", "Taipei 101"],
+      "correctAnswer": 2,
+      "explanation": "The Burj Khalifa in Dubai stands at 2,717 feet (828 meters) and has held the record for world's tallest building since its completion in 2010.",
+      "difficulty": "easy",
+      "category": "general-knowledge"
+    }
+  ]
+}
