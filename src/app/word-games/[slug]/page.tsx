@@ -5,18 +5,21 @@ import WordScrambleEngine from "@/components/WordScrambleEngine";
 import ProverbEngine from "@/components/ProverbEngine";
 import SpellingBeeEngine from "@/components/SpellingBeeEngine";
 import WordAssociationEngine from "@/components/WordAssociationEngine";
+import CrosswordEngine from "@/components/CrosswordEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
 import proverbData from "@/data/word-games/complete-the-proverb.json";
 import spellingData from "@/data/word-games/spelling-bee.json";
 import wordAssocData from "@/data/word-games/word-association.json";
+import crosswordData from "@/data/word-games/crossword-classic.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
   "complete-the-proverb": { title: "Complete the Proverb", description: "Can you finish these well-known proverbs and sayings?" },
   "spelling-bee": { title: "Spelling Bee", description: "Test your spelling skills with commonly misspelled words!" },
   "word-association": { title: "Word Association", description: "Find the word that connects the group!" },
+  "crossword-classic": { title: "Classic Crossword", description: "Solve classic crossword puzzles — fill the grid using the across and down clues!" },
 };
 
 export function generateStaticParams() {
@@ -87,6 +90,13 @@ export default async function WordGamePage({
         <WordAssociationEngine
           title={wordAssocData.title}
           puzzles={wordAssocData.puzzles}
+        />
+      );
+    case "crossword-classic":
+      return (
+        <CrosswordEngine
+          title={crosswordData.title}
+          puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]}
         />
       );
     default:

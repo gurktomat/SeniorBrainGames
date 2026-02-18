@@ -186,6 +186,28 @@ export interface SortingGame {
   rounds: SortingRound[];
 }
 
+// Crossword types
+export type CrosswordDirection = "across" | "down";
+
+export interface CrosswordClue {
+  number: number;
+  direction: CrosswordDirection;
+  clue: string;
+}
+
+export interface CrosswordPuzzle {
+  id: string;
+  title: string;
+  description: string;
+  gameCategory: "word-games";
+  gameType: "crossword";
+  rows: number;
+  cols: number;
+  /** Array of strings, one per row. "#" = black cell, A-Z = solution letter */
+  grid: string[];
+  clues: CrosswordClue[];
+}
+
 // Union type for all game data
 export type GameData =
   | Quiz
@@ -197,4 +219,5 @@ export type GameData =
   | SpotDifferenceGame
   | WhatsMissingGame
   | PatternGame
-  | SortingGame;
+  | SortingGame
+  | CrosswordPuzzle;

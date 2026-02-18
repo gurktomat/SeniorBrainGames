@@ -9,6 +9,12 @@ import classicTv from "@/data/nostalgia-trivia/classic-tv.json";
 import sixtiesNostalgia from "@/data/nostalgia-trivia/sixties-nostalgia.json";
 import eightiesNostalgia from "@/data/nostalgia-trivia/eighties-nostalgia.json";
 import classicCommercials from "@/data/nostalgia-trivia/classic-commercials.json";
+import classicCars from "@/data/nostalgia-trivia/classic-cars.json";
+import vintageToys from "@/data/nostalgia-trivia/vintage-toys.json";
+import classicRadio from "@/data/nostalgia-trivia/classic-radio.json";
+import decadeFashions from "@/data/nostalgia-trivia/decade-fashions.json";
+import classicCartoons from "@/data/nostalgia-trivia/classic-cartoons.json";
+import classicSports from "@/data/nostalgia-trivia/classic-sports.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -19,13 +25,31 @@ import foodCooking from "@/data/general-knowledge/food-cooking.json";
 import scienceInventions from "@/data/general-knowledge/science-inventions.json";
 import americanHistory from "@/data/general-knowledge/american-history.json";
 import humanBodyHealth from "@/data/general-knowledge/human-body-health.json";
+import worldCapitals from "@/data/general-knowledge/world-capitals.json";
+import famousScientists from "@/data/general-knowledge/famous-scientists.json";
+import spaceAstronomy from "@/data/general-knowledge/space-astronomy.json";
+import famousLiterature from "@/data/general-knowledge/famous-literature.json";
+import worldOceansRivers from "@/data/general-knowledge/world-oceans-rivers.json";
+import musicalInstruments from "@/data/general-knowledge/musical-instruments.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
 import whatsTheWord from "@/data/word-games/whats-the-word.json";
+import antonymChallenge from "@/data/word-games/antonym-challenge.json";
+import idiomOrigins from "@/data/word-games/idiom-origins.json";
+import rhymeTime from "@/data/word-games/rhyme-time.json";
+import commonlyConfused from "@/data/word-games/commonly-confused.json";
+import vocabularyBuilder from "@/data/word-games/vocabulary-builder.json";
+import figuresOfSpeech from "@/data/word-games/figures-of-speech.json";
 
 // Memory Games (quiz-format ones)
 import pictureQuiz from "@/data/memory-games/picture-quiz.json";
+import famousFaces from "@/data/memory-games/famous-faces.json";
+import oddOneOut from "@/data/memory-games/odd-one-out.json";
+import triviaRecall from "@/data/memory-games/trivia-recall.json";
+import visualClues from "@/data/memory-games/visual-clues.json";
+import beforeAndAfter from "@/data/memory-games/before-and-after.json";
+import connectionPuzzle from "@/data/memory-games/connection-puzzle.json";
 
 const nostalgiaTrivia: Quiz[] = [
   fiftiesNostalgia as Quiz,
@@ -36,6 +60,12 @@ const nostalgiaTrivia: Quiz[] = [
   sixtiesNostalgia as Quiz,
   eightiesNostalgia as Quiz,
   classicCommercials as Quiz,
+  classicCars as Quiz,
+  vintageToys as Quiz,
+  classicRadio as Quiz,
+  decadeFashions as Quiz,
+  classicCartoons as Quiz,
+  classicSports as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -47,14 +77,34 @@ const generalKnowledge: Quiz[] = [
   scienceInventions as Quiz,
   americanHistory as Quiz,
   humanBodyHealth as Quiz,
+  worldCapitals as Quiz,
+  famousScientists as Quiz,
+  spaceAstronomy as Quiz,
+  famousLiterature as Quiz,
+  worldOceansRivers as Quiz,
+  musicalInstruments as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
   synonymChallenge as Quiz,
   whatsTheWord as Quiz,
+  antonymChallenge as Quiz,
+  idiomOrigins as Quiz,
+  rhymeTime as Quiz,
+  commonlyConfused as Quiz,
+  vocabularyBuilder as Quiz,
+  figuresOfSpeech as Quiz,
 ];
 
-const memoryGameQuizzes: Quiz[] = [pictureQuiz as Quiz];
+const memoryGameQuizzes: Quiz[] = [
+  pictureQuiz as Quiz,
+  famousFaces as Quiz,
+  oddOneOut as Quiz,
+  triviaRecall as Quiz,
+  visualClues as Quiz,
+  beforeAndAfter as Quiz,
+  connectionPuzzle as Quiz,
+];
 
 const allQuizzes: Quiz[] = [
   ...nostalgiaTrivia,
@@ -130,28 +180,28 @@ export const categoryInfo: Record<
     title: "Nostalgia Trivia",
     description:
       "Travel back in time with trivia from the 1950s through the 1980s. Test your memory of music, movies, TV, and culture!",
-    icon: "📻",
+    icon: "radio",
     slug: "nostalgia-trivia",
   },
   "general-knowledge": {
     title: "General Knowledge",
     description:
       "Challenge yourself with questions about geography, history, science, nature, and more!",
-    icon: "🌍",
+    icon: "globe",
     slug: "general-knowledge",
   },
   "word-games": {
     title: "Word Games",
     description:
       "Scrambles, proverbs, synonyms, and more — give your vocabulary a workout!",
-    icon: "📝",
+    icon: "type",
     slug: "word-games",
   },
   "memory-games": {
     title: "Memory Games",
     description:
       "Card matching, pattern recognition, and visual puzzles to sharpen your memory!",
-    icon: "🧩",
+    icon: "brain",
     slug: "memory-games",
   },
 };
@@ -163,6 +213,7 @@ export const specialGameSlugs: Record<string, string[]> = {
     "complete-the-proverb",
     "spelling-bee",
     "word-association",
+    "crossword-classic",
   ],
   "memory-games": [
     "memory-card-match",
