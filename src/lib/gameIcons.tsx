@@ -6,7 +6,7 @@ import {
   Shuffle, Quote, SpellCheck, Network, Hash, Search, UserX, ArrowUpDown, Lock,
   Equal, HelpCircle, ArrowLeftRight, BookMarked, CircleHelp, GraduationCap, MessageSquare,
   Layers, Eye, CircleOff, Shapes, Palette, Grid3x3, Move, Zap, Link2,
-  Image, Users, Ban, Brain, type LucideIcon,
+  Image, Users, Ban, Brain, RotateCcw, Asterisk, Dices, Sun, type LucideIcon,
 } from "lucide-react";
 
 const iconMap: Record<string, LucideIcon> = {
@@ -79,6 +79,16 @@ const iconMap: Record<string, LucideIcon> = {
   "before-and-after": ArrowLeftRight,
   "connection-puzzle": Puzzle,
   "math-challenge": Hash,
+
+  // Additional Word Games
+  "anagram-challenge": RotateCcw,
+  "missing-vowels": Asterisk,
+
+  // Additional Nostalgia Trivia
+  "classic-board-games": Dices,
+
+  // Additional General Knowledge
+  "world-religions-mythology": Sun,
 };
 
 export function GameIcon({

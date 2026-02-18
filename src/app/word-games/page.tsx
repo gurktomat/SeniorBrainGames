@@ -66,6 +66,18 @@ const specialGames = [
     description: "Decode the secret message by figuring out the letter substitutions!",
     count: "10 Puzzles",
   },
+  {
+    id: "anagram-challenge",
+    title: "Anagram Challenge",
+    description: "Unscramble themed anagram puzzles — each round has a different theme!",
+    count: "10 Rounds",
+  },
+  {
+    id: "missing-vowels",
+    title: "Missing Vowels",
+    description: "The vowels have been removed — can you figure out the original phrase?",
+    count: "10 Rounds",
+  },
 ];
 
 export default function WordGames() {

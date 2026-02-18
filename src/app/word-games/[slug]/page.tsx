@@ -10,6 +10,8 @@ import WordSearchEngine from "@/components/WordSearchEngine";
 import HangmanEngine from "@/components/HangmanEngine";
 import WordLadderEngine from "@/components/WordLadderEngine";
 import CryptogramEngine from "@/components/CryptogramEngine";
+import AnagramEngine from "@/components/AnagramEngine";
+import MissingVowelsEngine from "@/components/MissingVowelsEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
@@ -21,6 +23,8 @@ import wordSearchData from "@/data/word-games/word-search.json";
 import hangmanData from "@/data/word-games/hangman.json";
 import wordLadderData from "@/data/word-games/word-ladder.json";
 import cryptogramData from "@/data/word-games/cryptogram.json";
+import anagramData from "@/data/word-games/anagram-challenge.json";
+import missingVowelsData from "@/data/word-games/missing-vowels.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -32,6 +36,8 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "hangman": { title: "Hangman", description: "Guess the word one letter at a time before you run out of lives!" },
   "word-ladder": { title: "Word Ladder", description: "Change one letter at a time to transform the start word into the end word!" },
   "cryptogram": { title: "Cryptogram", description: "Decode the secret message by figuring out the letter substitutions!" },
+  "anagram-challenge": { title: "Anagram Challenge", description: "Unscramble themed anagram puzzles — each round has a different theme!" },
+  "missing-vowels": { title: "Missing Vowels", description: "The vowels have been removed — can you figure out the original phrase?" },
 };
 
 export function generateStaticParams() {
@@ -137,6 +143,20 @@ export default async function WordGamePage({
         <CryptogramEngine
           title={cryptogramData.title}
           puzzles={cryptogramData.puzzles}
+        />
+      );
+    case "anagram-challenge":
+      return (
+        <AnagramEngine
+          title={anagramData.title}
+          rounds={anagramData.rounds}
+        />
+      );
+    case "missing-vowels":
+      return (
+        <MissingVowelsEngine
+          title={missingVowelsData.title}
+          rounds={missingVowelsData.rounds}
         />
       );
     default:

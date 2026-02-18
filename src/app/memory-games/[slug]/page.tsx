@@ -10,6 +10,7 @@ import SudokuEngine from "@/components/SudokuEngine";
 import SlidingPuzzleEngine from "@/components/SlidingPuzzleEngine";
 import SequenceMemoryEngine from "@/components/SequenceMemoryEngine";
 import MatchingPairsEngine from "@/components/MatchingPairsEngine";
+import MathChallengeEngine from "@/components/MathChallengeEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import memoryCardData from "@/data/memory-games/memory-card-match.json";
@@ -21,6 +22,7 @@ import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
 import slidingPuzzleData from "@/data/memory-games/sliding-puzzle.json";
 import sequenceMemoryData from "@/data/memory-games/sequence-memory.json";
 import matchingPairsData from "@/data/memory-games/matching-pairs.json";
+import mathChallengeData from "@/data/memory-games/math-challenge.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "memory-card-match": { title: "Memory Card Match", description: "Flip cards to find matching pairs!" },
@@ -32,6 +34,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "sliding-puzzle": { title: "Sliding Puzzle", description: "Slide the tiles into the correct order!" },
   "sequence-memory": { title: "Sequence Memory", description: "Watch the colors light up, then repeat the sequence from memory!" },
   "matching-pairs": { title: "Matching Pairs", description: "Match each item on the left with its partner on the right!" },
+  "math-challenge": { title: "Math Challenge", description: "Exercise your mental math skills with fun arithmetic puzzles!" },
 };
 
 export function generateStaticParams() {
@@ -137,6 +140,13 @@ export default async function MemoryGamePage({
         <MatchingPairsEngine
           title={matchingPairsData.title}
           rounds={matchingPairsData.rounds}
+        />
+      );
+    case "math-challenge":
+      return (
+        <MathChallengeEngine
+          title={mathChallengeData.title}
+          levels={mathChallengeData.levels}
         />
       );
     default:

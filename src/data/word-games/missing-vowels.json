@@ -1,0 +1,99 @@
+{
+  "id": "missing-vowels",
+  "title": "Missing Vowels",
+  "description": "The vowels have been removed — can you figure out the original phrase?",
+  "gameCategory": "word-games",
+  "gameType": "missing-vowels",
+  "rounds": [
+    {
+      "id": "classic-foods",
+      "theme": "Classic Foods",
+      "phrases": [
+        { "display": "CH_C_L_T_  C_K_", "answer": "CHOCOLATE CAKE", "hint": "A rich, sweet dessert" },
+        { "display": "FR__D  CH_CK_N", "answer": "FRIED CHICKEN", "hint": "A Southern comfort food favorite" },
+        { "display": "SP_GH_TT_  _ND  M__TB_LLS", "answer": "SPAGHETTI AND MEATBALLS", "hint": "An Italian-American classic" }
+      ]
+    },
+    {
+      "id": "famous-people",
+      "theme": "Famous People",
+      "phrases": [
+        { "display": "_LB_RT  __NST__N", "answer": "ALBERT EINSTEIN", "hint": "Famous physicist with wild hair" },
+        { "display": "M_R_LYN  M_NR__", "answer": "MARILYN MONROE", "hint": "Iconic Hollywood blonde" },
+        { "display": "N__L  _RMSTR_NG", "answer": "NEIL ARMSTRONG", "hint": "First person to walk on the moon" }
+      ]
+    },
+    {
+      "id": "us-states",
+      "theme": "US States",
+      "phrases": [
+        { "display": "C_L_F_RN__", "answer": "CALIFORNIA", "hint": "The Golden State on the west coast" },
+        { "display": "M_SS_CH_S_TTS", "answer": "MASSACHUSETTS", "hint": "Home of Boston and the Pilgrims" },
+        { "display": "P_NNSYLV_N__", "answer": "PENNSYLVANIA", "hint": "The Keystone State" }
+      ]
+    },
+    {
+      "id": "classic-movies",
+      "theme": "Classic Movies",
+      "phrases": [
+        { "display": "TH_  W_Z_RD  _F  _Z", "answer": "THE WIZARD OF OZ", "hint": "Follow the yellow brick road" },
+        { "display": "C_S_BL_NC_", "answer": "CASABLANCA", "hint": "Here's looking at you, kid" },
+        { "display": "G_N_  W_TH  TH_  W_ND", "answer": "GONE WITH THE WIND", "hint": "Frankly my dear, I don't give a damn" }
+      ]
+    },
+    {
+      "id": "famous-songs",
+      "theme": "Famous Songs",
+      "phrases": [
+        { "display": "Y_ST_RD_Y", "answer": "YESTERDAY", "hint": "A classic Beatles ballad" },
+        { "display": "B_H_M__N  RH_PS_DY", "answer": "BOHEMIAN RHAPSODY", "hint": "Is this the real life? By Queen" },
+        { "display": "_M_G_N_", "answer": "IMAGINE", "hint": "John Lennon's most famous solo song" }
+      ]
+    },
+    {
+      "id": "sports-teams",
+      "theme": "Sports Teams",
+      "phrases": [
+        { "display": "N_W  Y_RK  Y_NK__S", "answer": "NEW YORK YANKEES", "hint": "Baseball's most famous franchise" },
+        { "display": "GR__N  B_Y  P_CK_RS", "answer": "GREEN BAY PACKERS", "hint": "An NFL team from Wisconsin" },
+        { "display": "L_S  _NG_L_S  L_K_RS", "answer": "LOS ANGELES LAKERS", "hint": "Famous NBA basketball team in purple and gold" }
+      ]
+    },
+    {
+      "id": "animals",
+      "theme": "Animals",
+      "phrases": [
+        { "display": "B_LD  __GL_", "answer": "BALD EAGLE", "hint": "America's national bird" },
+        { "display": "P_L_R  B__R", "answer": "POLAR BEAR", "hint": "A white bear of the Arctic" },
+        { "display": "H_MPB_CK  WH_L_", "answer": "HUMPBACK WHALE", "hint": "A large ocean mammal known for its songs" }
+      ]
+    },
+    {
+      "id": "household-items",
+      "theme": "Household Items",
+      "phrases": [
+        { "display": "V_C__M  CL__N_R", "answer": "VACUUM CLEANER", "hint": "It sucks up dirt from the floor" },
+        { "display": "D_SHW_SH_R", "answer": "DISHWASHER", "hint": "Cleans your plates automatically" },
+        { "display": "R_FR_G_R_T_R", "answer": "REFRIGERATOR", "hint": "Keeps your food cold" }
+      ]
+    },
+    {
+      "id": "classic-tv",
+      "theme": "Classic TV",
+      "phrases": [
+        { "display": "_ L_V_  L_CY", "answer": "I LOVE LUCY", "hint": "Lucille Ball's iconic 1950s sitcom" },
+        { "display": "TH_  _NDY  GR_FF_TH  SH_W", "answer": "THE ANDY GRIFFITH SHOW", "hint": "Set in the fictional town of Mayberry" },
+        { "display": "TH_  H_N_YM__N_RS", "answer": "THE HONEYMOONERS", "hint": "Jackie Gleason's classic Brooklyn comedy" }
+      ]
+    },
+    {
+      "id": "world-cities",
+      "theme": "World Cities",
+      "phrases": [
+        { "display": "S_N  FR_NC_SC_", "answer": "SAN FRANCISCO", "hint": "Famous for the Golden Gate Bridge" },
+        { "display": "J_R_S_L_M", "answer": "JERUSALEM", "hint": "A holy city for three major religions" },
+        { "display": "B__N_S  __R_S", "answer": "BUENOS AIRES", "hint": "Capital of Argentina" }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,7 @@ import classicRadio from "@/data/nostalgia-trivia/classic-radio.json";
 import decadeFashions from "@/data/nostalgia-trivia/decade-fashions.json";
 import classicCartoons from "@/data/nostalgia-trivia/classic-cartoons.json";
 import classicSports from "@/data/nostalgia-trivia/classic-sports.json";
+import classicBoardGames from "@/data/nostalgia-trivia/classic-board-games.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -31,6 +32,7 @@ import spaceAstronomy from "@/data/general-knowledge/space-astronomy.json";
 import famousLiterature from "@/data/general-knowledge/famous-literature.json";
 import worldOceansRivers from "@/data/general-knowledge/world-oceans-rivers.json";
 import musicalInstruments from "@/data/general-knowledge/musical-instruments.json";
+import worldReligionsMythology from "@/data/general-knowledge/world-religions-mythology.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -66,6 +68,7 @@ const nostalgiaTrivia: Quiz[] = [
   decadeFashions as Quiz,
   classicCartoons as Quiz,
   classicSports as Quiz,
+  classicBoardGames as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -83,6 +86,7 @@ const generalKnowledge: Quiz[] = [
   famousLiterature as Quiz,
   worldOceansRivers as Quiz,
   musicalInstruments as Quiz,
+  worldReligionsMythology as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -218,6 +222,8 @@ export const specialGameSlugs: Record<string, string[]> = {
     "hangman",
     "word-ladder",
     "cryptogram",
+    "anagram-challenge",
+    "missing-vowels",
   ],
   "memory-games": [
     "memory-card-match",
@@ -229,5 +235,6 @@ export const specialGameSlugs: Record<string, string[]> = {
     "sliding-puzzle",
     "sequence-memory",
     "matching-pairs",
+    "math-challenge",
   ],
 };

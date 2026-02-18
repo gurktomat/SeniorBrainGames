@@ -69,6 +69,12 @@ const specialGames = [
     description: "Match each item on the left with its partner on the right!",
     count: "10 Rounds",
   },
+  {
+    id: "math-challenge",
+    title: "Math Challenge",
+    description: "Exercise your mental math skills with fun arithmetic puzzles!",
+    count: "3 Levels",
+  },
 ];
 
 export default function MemoryGames() {

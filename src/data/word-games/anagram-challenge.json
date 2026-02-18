@@ -1,0 +1,119 @@
+{
+  "id": "anagram-challenge",
+  "title": "Anagram Challenge",
+  "description": "Unscramble themed anagram puzzles — each round has a different theme!",
+  "gameCategory": "word-games",
+  "gameType": "anagram-challenge",
+  "rounds": [
+    {
+      "id": "animals",
+      "theme": "Animals",
+      "words": [
+        { "scrambled": "PNAAETRH", "answer": "PANTHER", "hint": "A large black cat" },
+        { "scrambled": "FGIRFAE", "answer": "GIRAFFE", "hint": "The tallest animal on Earth" },
+        { "scrambled": "PLDHONI", "answer": "DOLPHIN", "hint": "A smart ocean mammal" },
+        { "scrambled": "GUENPNI", "answer": "PENGUIN", "hint": "A tuxedo-wearing bird" },
+        { "scrambled": "EALETPHN", "answer": "ELEPHANT", "hint": "The largest land animal" }
+      ]
+    },
+    {
+      "id": "countries",
+      "theme": "Countries",
+      "words": [
+        { "scrambled": "RANCFE", "answer": "FRANCE", "hint": "Home of the Eiffel Tower" },
+        { "scrambled": "ZARLIB", "answer": "BRAZIL", "hint": "Largest country in South America" },
+        { "scrambled": "DESWNE", "answer": "SWEDEN", "hint": "Scandinavian nation famous for IKEA" },
+        { "scrambled": "ANADAC", "answer": "CANADA", "hint": "Maple leaf flag" },
+        { "scrambled": "GEYTP", "answer": "EGYPT", "hint": "Land of the pyramids" }
+      ]
+    },
+    {
+      "id": "food",
+      "theme": "Food",
+      "words": [
+        { "scrambled": "AGALASN", "answer": "LASAGNA", "hint": "A layered Italian pasta dish" },
+        { "scrambled": "CBELOICR", "answer": "BROCCOLI", "hint": "A green tree-shaped vegetable" },
+        { "scrambled": "ALCETCHO", "answer": "CHOCOLATE", "hint": "A sweet treat made from cacao" },
+        { "scrambled": "CRENPAC", "answer": "PANCAKE", "hint": "A flat breakfast food with syrup" },
+        { "scrambled": "AUGESAS", "answer": "SAUSAGE", "hint": "A seasoned meat in a casing" }
+      ]
+    },
+    {
+      "id": "flowers",
+      "theme": "Flowers",
+      "words": [
+        { "scrambled": "SUNFLWROE", "answer": "SUNFLOWER", "hint": "A tall yellow flower that faces the sun" },
+        { "scrambled": "CIHROD", "answer": "ORCHID", "hint": "An exotic tropical flower" },
+        { "scrambled": "FIDFDALO", "answer": "DAFFODIL", "hint": "A bright yellow spring flower" },
+        { "scrambled": "VALEEDNR", "answer": "LAVENDER", "hint": "A fragrant purple flower" },
+        { "scrambled": "RNACOITN", "answer": "CARNATION", "hint": "A ruffled flower popular on Mother's Day" }
+      ]
+    },
+    {
+      "id": "us-states",
+      "theme": "US States",
+      "words": [
+        { "scrambled": "LOFRAID", "answer": "FLORIDA", "hint": "The Sunshine State" },
+        { "scrambled": "AGOGIRE", "answer": "GEORGIA", "hint": "The Peach State" },
+        { "scrambled": "NAAOTMN", "answer": "MONTANA", "hint": "Big Sky Country" },
+        { "scrambled": "ZARINOA", "answer": "ARIZONA", "hint": "Home of the Grand Canyon" },
+        { "scrambled": "RGINVIAI", "answer": "VIRGINIA", "hint": "Named for the Virgin Queen Elizabeth I" }
+      ]
+    },
+    {
+      "id": "instruments",
+      "theme": "Instruments",
+      "words": [
+        { "scrambled": "PRUMETT", "answer": "TRUMPET", "hint": "A brass instrument with three valves" },
+        { "scrambled": "VNOILI", "answer": "VIOLIN", "hint": "A small stringed instrument played with a bow" },
+        { "scrambled": "RICLNTAE", "answer": "CLARINET", "hint": "A single-reed woodwind instrument" },
+        { "scrambled": "ROMTONBE", "answer": "TROMBONE", "hint": "A brass instrument with a slide" },
+        { "scrambled": "KELULUE", "answer": "UKULELE", "hint": "A small four-stringed Hawaiian instrument" }
+      ]
+    },
+    {
+      "id": "sports",
+      "theme": "Sports",
+      "words": [
+        { "scrambled": "LABSABEL", "answer": "BASEBALL", "hint": "America's pastime" },
+        { "scrambled": "LABOLVYLE", "answer": "VOLLEYBALL", "hint": "A net sport played on sand or indoors" },
+        { "scrambled": "MABIDTNO", "answer": "BADMINTON", "hint": "A racquet sport with a shuttlecock" },
+        { "scrambled": "GIWLNOB", "answer": "BOWLING", "hint": "Knock down ten pins with a ball" },
+        { "scrambled": "CRTIECK", "answer": "CRICKET", "hint": "A bat-and-ball sport popular in England and India" }
+      ]
+    },
+    {
+      "id": "vegetables",
+      "theme": "Vegetables",
+      "words": [
+        { "scrambled": "LIUCFLOWER", "answer": "CAULIFLOWER", "hint": "A white relative of broccoli" },
+        { "scrambled": "KACRIHTO", "answer": "ARTICHOKE", "hint": "A thistle-like vegetable with edible leaves" },
+        { "scrambled": "UUCMECRB", "answer": "CUCUMBER", "hint": "Cool as a..." },
+        { "scrambled": "PAPREGSA", "answer": "ASPARAGUS", "hint": "Long green spears often roasted or grilled" },
+        { "scrambled": "NACSHIP", "answer": "SPINACH", "hint": "Popeye's favorite food" }
+      ]
+    },
+    {
+      "id": "cities",
+      "theme": "Cities",
+      "words": [
+        { "scrambled": "DNLNOO", "answer": "LONDON", "hint": "Capital of the United Kingdom" },
+        { "scrambled": "OKYOT", "answer": "TOKYO", "hint": "Capital of Japan" },
+        { "scrambled": "SYENDY", "answer": "SYDNEY", "hint": "Famous for its opera house" },
+        { "scrambled": "TORONOT", "answer": "TORONTO", "hint": "Canada's largest city" },
+        { "scrambled": "CHIGOCA", "answer": "CHICAGO", "hint": "The Windy City" }
+      ]
+    },
+    {
+      "id": "household",
+      "theme": "Household Items",
+      "words": [
+        { "scrambled": "RTOTSAE", "answer": "TOASTER", "hint": "Makes bread crispy and golden" },
+        { "scrambled": "PMETOCUR", "answer": "COMPUTER", "hint": "An electronic device for work and browsing" },
+        { "scrambled": "REBIRND", "answer": "BLENDER", "hint": "Makes smoothies and soups" },
+        { "scrambled": "SHWARIED", "answer": "DISHWARE", "hint": "Plates and bowls used at the dinner table" },
+        { "scrambled": "KBEOTL", "answer": "BLANKET", "hint": "Keeps you warm in bed" }
+      ]
+    }
+  ]
+}
