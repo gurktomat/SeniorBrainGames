@@ -1,0 +1,188 @@
+{
+  "id": "famous-inventions",
+  "title": "Famous Inventions & Inventors",
+  "description": "Test your knowledge of groundbreaking inventions and the brilliant minds behind them.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "inv-1",
+      "question": "Who is credited with inventing the telephone in 1876?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+      "correctAnswer": 1,
+      "explanation": "Alexander Graham Bell was awarded the first patent for the telephone in 1876, though others like Elisha Gray were working on similar devices.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-2",
+      "question": "What did Johannes Gutenberg invent around 1440 that revolutionized communication?",
+      "options": ["The telescope", "The printing press", "The compass", "The typewriter"],
+      "correctAnswer": 1,
+      "explanation": "Gutenberg's movable-type printing press made books affordable and accessible, sparking a revolution in literacy and knowledge sharing.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-3",
+      "question": "Who invented the World Wide Web in 1989?",
+      "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Vint Cerf"],
+      "correctAnswer": 2,
+      "explanation": "Tim Berners-Lee, a British scientist at CERN, invented the World Wide Web, creating HTML, URLs, and HTTP.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-4",
+      "question": "What everyday item did Percy Spencer accidentally invent after noticing a chocolate bar melting in his pocket?",
+      "options": ["The toaster oven", "The microwave oven", "The electric stove", "The heat lamp"],
+      "correctAnswer": 1,
+      "explanation": "In 1945, Percy Spencer was working with radar equipment when he noticed a chocolate bar had melted, leading to the invention of the microwave oven.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-5",
+      "question": "Who is credited with inventing the first practical light bulb?",
+      "options": ["Benjamin Franklin", "Nikola Tesla", "Thomas Edison", "Michael Faraday"],
+      "correctAnswer": 2,
+      "explanation": "While others created earlier versions, Thomas Edison developed the first commercially practical incandescent light bulb in 1879.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-6",
+      "question": "The Wright Brothers made their famous first powered flight in which year?",
+      "options": ["1895", "1903", "1910", "1899"],
+      "correctAnswer": 1,
+      "explanation": "Orville and Wilbur Wright achieved the first sustained, controlled, powered flight on December 17, 1903, at Kitty Hawk, North Carolina.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-7",
+      "question": "What life-saving medicine did Alexander Fleming discover in 1928?",
+      "options": ["Aspirin", "Insulin", "Penicillin", "Morphine"],
+      "correctAnswer": 2,
+      "explanation": "Fleming discovered penicillin when he noticed mold killing bacteria in a petri dish, leading to the first antibiotic and saving millions of lives.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-8",
+      "question": "Who invented the cotton gin in 1793?",
+      "options": ["Eli Whitney", "Robert Fulton", "Samuel Morse", "Cyrus McCormick"],
+      "correctAnswer": 0,
+      "explanation": "Eli Whitney's cotton gin mechanized the process of separating cotton fibers from seeds, dramatically increasing cotton production.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-9",
+      "question": "What did Nikola Tesla primarily champion that now powers most of the world?",
+      "options": ["Direct current (DC)", "Alternating current (AC)", "Solar power", "Nuclear energy"],
+      "correctAnswer": 1,
+      "explanation": "Tesla championed alternating current (AC) electrical systems, which proved more efficient for long-distance power transmission than Edison's DC system.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-10",
+      "question": "Who invented the first successful vaccine, and what disease did it target?",
+      "options": ["Louis Pasteur — rabies", "Edward Jenner — smallpox", "Jonas Salk — polio", "Robert Koch — tuberculosis"],
+      "correctAnswer": 1,
+      "explanation": "Edward Jenner created the first vaccine in 1796 using cowpox to immunize against smallpox, pioneering the field of immunology.",
+      "difficulty": "hard",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-11",
+      "question": "What communication device did Samuel Morse help develop in the 1830s?",
+      "options": ["The telephone", "The radio", "The telegraph", "The fax machine"],
+      "correctAnswer": 2,
+      "explanation": "Samuel Morse co-developed the electric telegraph and created Morse code, revolutionizing long-distance communication.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-12",
+      "question": "Who invented dynamite in 1867?",
+      "options": ["Alfred Nobel", "Robert Oppenheimer", "Fritz Haber", "Niels Bohr"],
+      "correctAnswer": 0,
+      "explanation": "Alfred Nobel invented dynamite and later used his fortune to establish the Nobel Prizes, perhaps as a way to leave a more positive legacy.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-13",
+      "question": "What did Louis Braille invent in 1824 at the age of 15?",
+      "options": ["The hearing aid", "A reading system for the blind", "Sign language", "The white cane"],
+      "correctAnswer": 1,
+      "explanation": "Louis Braille, who was blind himself, created the Braille system of raised dots that allows blind people to read and write.",
+      "difficulty": "easy",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-14",
+      "question": "Who is credited with inventing the first practical sewing machine?",
+      "options": ["Isaac Singer", "Elias Howe", "Walter Hunt", "Barthélemy Thimonnier"],
+      "correctAnswer": 1,
+      "explanation": "Elias Howe patented the first practical sewing machine in 1846, using a lockstitch design. Isaac Singer later improved and popularized it.",
+      "difficulty": "hard",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-15",
+      "question": "What did George Washington Carver famously develop hundreds of uses for?",
+      "options": ["Corn", "Peanuts", "Cotton", "Soybeans"],
+      "correctAnswer": 1,
+      "explanation": "George Washington Carver developed over 300 products from peanuts, including dyes, plastics, and fuel, promoting agricultural diversity in the South.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-16",
+      "question": "Who invented the phonograph, the first device to record and play back sound?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Emile Berliner", "Nikola Tesla"],
+      "correctAnswer": 1,
+      "explanation": "Thomas Edison invented the phonograph in 1877. His first recording was 'Mary Had a Little Lamb.'",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-17",
+      "question": "What material did Charles Goodyear discover how to vulcanize in 1839?",
+      "options": ["Plastic", "Rubber", "Steel", "Nylon"],
+      "correctAnswer": 1,
+      "explanation": "Goodyear discovered that heating rubber with sulfur made it durable and elastic, a process called vulcanization that made rubber commercially useful.",
+      "difficulty": "hard",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-18",
+      "question": "Who invented the first practical zipper?",
+      "options": ["Gideon Sundback", "Whitcomb Judson", "Elias Howe", "Walter Hunt"],
+      "correctAnswer": 0,
+      "explanation": "Swedish-American Gideon Sundback designed the modern zipper in 1913, improving on earlier 'clasp locker' designs.",
+      "difficulty": "hard",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-19",
+      "question": "What household appliance did James Dyson reinvent using cyclone technology?",
+      "options": ["The washing machine", "The dishwasher", "The vacuum cleaner", "The air conditioner"],
+      "correctAnswer": 2,
+      "explanation": "James Dyson created the first bagless vacuum cleaner using cyclonic separation in 1983, after 5,127 prototypes.",
+      "difficulty": "medium",
+      "category": "inventions"
+    },
+    {
+      "id": "inv-20",
+      "question": "Who invented the safety elevator, making tall buildings practical?",
+      "options": ["Elisha Otis", "Andrew Carnegie", "Henry Bessemer", "Gustave Eiffel"],
+      "correctAnswer": 0,
+      "explanation": "Elisha Otis invented the safety elevator in 1852, with a mechanism to prevent the car from falling if the cable broke, making skyscrapers possible.",
+      "difficulty": "hard",
+      "category": "inventions"
+    }
+  ]
+}

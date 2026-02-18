@@ -1,0 +1,188 @@
+{
+  "id": "grammar-punctuation",
+  "title": "Grammar & Punctuation",
+  "description": "Test your command of English grammar and punctuation with these tricky questions!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "gp-1",
+      "question": "Which sentence uses the correct form of 'their/there/they're'?",
+      "options": ["Their going to the store.", "They're going to the store.", "There going to the store.", "Theyre going to the store."],
+      "correctAnswer": 1,
+      "explanation": "'They're' is a contraction of 'they are.' 'Their' shows possession, and 'there' indicates a place.",
+      "difficulty": "easy",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-2",
+      "question": "What is the correct way to make the word 'fox' possessive?",
+      "options": ["foxs'", "fox's", "foxes", "foxs"],
+      "correctAnswer": 1,
+      "explanation": "For singular nouns, add an apostrophe followed by 's' to show possession: the fox's tail.",
+      "difficulty": "easy",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-3",
+      "question": "Which sentence is punctuated correctly?",
+      "options": ["Let's eat Grandma!", "Let's eat, Grandma!", "Lets eat Grandma!", "Lets eat, Grandma!"],
+      "correctAnswer": 1,
+      "explanation": "A comma before a name in direct address is essential — it's the difference between an invitation to dinner and something far worse!",
+      "difficulty": "easy",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-4",
+      "question": "What is the plural of 'crisis'?",
+      "options": ["Crisises", "Crises", "Crisis's", "Crisies"],
+      "correctAnswer": 1,
+      "explanation": "'Crisis' comes from Greek. Words ending in '-is' typically form their plural by changing to '-es': crisis → crises, thesis → theses.",
+      "difficulty": "medium",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-5",
+      "question": "Which word correctly completes the sentence: 'The book had a strong ___ on readers'?",
+      "options": ["affect", "effect", "effact", "afect"],
+      "correctAnswer": 1,
+      "explanation": "'Effect' is typically a noun meaning result or impact. 'Affect' is typically a verb meaning to influence.",
+      "difficulty": "medium",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-6",
+      "question": "When should a semicolon be used?",
+      "options": ["Before a list", "To join two independent clauses", "After a greeting", "Before a quotation"],
+      "correctAnswer": 1,
+      "explanation": "A semicolon connects two independent clauses that are closely related: 'I love reading; my sister prefers painting.'",
+      "difficulty": "medium",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-7",
+      "question": "Which sentence correctly uses 'who' vs. 'whom'?",
+      "options": ["Who did you give the book to?", "Whom did you give the book to?", "Whom is calling?", "Who's did you pick?"],
+      "correctAnswer": 1,
+      "explanation": "'Whom' is used as an object. Try replacing with he/him: 'You gave the book to him' = whom. 'He is calling' = who.",
+      "difficulty": "hard",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-8",
+      "question": "What is wrong with this sentence: 'The dog wagged it's tail happily'?",
+      "options": ["'dog' should be capitalized", "'it's' should be 'its'", "'happily' is misspelled", "Nothing is wrong"],
+      "correctAnswer": 1,
+      "explanation": "'Its' (no apostrophe) shows possession. 'It's' is a contraction of 'it is' or 'it has.' The dog wagged its tail.",
+      "difficulty": "easy",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-9",
+      "question": "Which sentence uses the correct comparative form?",
+      "options": ["She is more taller than her sister.", "She is taller than her sister.", "She is most tall than her sister.", "She is tallest than her sister."],
+      "correctAnswer": 1,
+      "explanation": "Short adjectives use '-er' for comparisons (taller, faster). 'More' is used with longer adjectives (more beautiful). Never combine both.",
+      "difficulty": "easy",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-10",
+      "question": "Where does the period go when a sentence ends with a quotation?",
+      "options": ["Before the closing quotation mark", "After the closing quotation mark", "Either place is correct", "No period is needed"],
+      "correctAnswer": 0,
+      "explanation": "In American English, periods and commas always go inside the closing quotation mark: She said, 'Hello.'",
+      "difficulty": "medium",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-11",
+      "question": "Which is correct: 'fewer' or 'less' in '10 ___ items'?",
+      "options": ["10 less items", "10 fewer items", "Either is correct", "10 lesser items"],
+      "correctAnswer": 1,
+      "explanation": "'Fewer' is used with countable nouns (fewer books, fewer people). 'Less' is used with uncountable nouns (less water, less time).",
+      "difficulty": "medium",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-12",
+      "question": "What type of sentence is 'Wow, that was amazing!'?",
+      "options": ["Interrogative", "Declarative", "Exclamatory", "Imperative"],
+      "correctAnswer": 2,
+      "explanation": "Exclamatory sentences express strong emotion and end with an exclamation mark. Declarative sentences state facts, interrogative sentences ask questions.",
+      "difficulty": "easy",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-13",
+      "question": "What is a dangling modifier?",
+      "options": ["A modifier at the end of a sentence", "A modifier that doesn't clearly refer to any word", "A modifier with a hyphen", "A modifier in parentheses"],
+      "correctAnswer": 1,
+      "explanation": "A dangling modifier doesn't logically modify anything in the sentence. Example: 'Walking to school, the flowers were beautiful' — the flowers weren't walking!",
+      "difficulty": "hard",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-14",
+      "question": "Which sentence correctly uses a colon?",
+      "options": ["I need: eggs, milk, and bread.", "I need three things: eggs, milk, and bread.", "I need three: things eggs milk and bread.", "I: need eggs, milk, and bread."],
+      "correctAnswer": 1,
+      "explanation": "A colon follows a complete sentence and introduces a list, explanation, or elaboration. The text before the colon must be a complete thought.",
+      "difficulty": "medium",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-15",
+      "question": "What is the Oxford comma?",
+      "options": ["A comma before 'and' in a list of three or more", "A comma after 'Oxford'", "A British-only punctuation mark", "A comma used in formal letters"],
+      "correctAnswer": 0,
+      "explanation": "The Oxford (or serial) comma is placed before 'and' or 'or' in a list: 'red, white, and blue.' It prevents ambiguity.",
+      "difficulty": "medium",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-16",
+      "question": "Which is the correct past tense of 'lie' (to recline)?",
+      "options": ["Lied", "Laid", "Lay", "Layed"],
+      "correctAnswer": 2,
+      "explanation": "The past tense of 'lie' (to recline) is 'lay.' Confusingly, 'lay' (to place) has the past tense 'laid.' 'Lied' is the past tense of 'lie' (to fib).",
+      "difficulty": "hard",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-17",
+      "question": "What is the correct possessive form of 'children'?",
+      "options": ["Childrens'", "Children's", "Childrens", "Children'"],
+      "correctAnswer": 1,
+      "explanation": "For irregular plurals that don't end in 's' (children, women, men), add apostrophe + s: children's, women's.",
+      "difficulty": "easy",
+      "category": "punctuation"
+    },
+    {
+      "id": "gp-18",
+      "question": "Which word is an example of a conjunction?",
+      "options": ["Quickly", "Beautiful", "However", "Because"],
+      "correctAnswer": 3,
+      "explanation": "'Because' is a subordinating conjunction that connects a dependent clause to an independent clause. 'However' is a conjunctive adverb.",
+      "difficulty": "medium",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-19",
+      "question": "What is the subjunctive mood used for?",
+      "options": ["Giving commands", "Expressing wishes, demands, or hypothetical situations", "Asking questions", "Describing past events"],
+      "correctAnswer": 1,
+      "explanation": "The subjunctive expresses wishes, demands, or hypothetical situations: 'If I were rich' (not 'was'), 'I suggest he be careful' (not 'is').",
+      "difficulty": "hard",
+      "category": "grammar"
+    },
+    {
+      "id": "gp-20",
+      "question": "Which sentence avoids the split infinitive?",
+      "options": ["To boldly go where no one has gone before.", "To go boldly where no one has gone before.", "To go bold where no one has gone before.", "To be bold going where no one has gone before."],
+      "correctAnswer": 1,
+      "explanation": "A split infinitive places an adverb between 'to' and the verb. While widely accepted now, 'to go boldly' avoids splitting 'to go.'",
+      "difficulty": "hard",
+      "category": "grammar"
+    }
+  ]
+}

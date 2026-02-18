@@ -1,0 +1,95 @@
+{
+  "title": "Emoji Decoder",
+  "rounds": [
+    {
+      "id": "ed-1",
+      "theme": "Classic Movies",
+      "puzzles": [
+        { "emojis": "🦁👑", "answer": "The Lion King", "hint": "Disney animated royalty" },
+        { "emojis": "👻👨‍🔬🚫", "answer": "Ghostbusters", "hint": "Who ya gonna call?" },
+        { "emojis": "🧙‍♂️💍🌋", "answer": "Lord of the Rings", "hint": "One ring to rule them all" }
+      ]
+    },
+    {
+      "id": "ed-2",
+      "theme": "Famous Songs",
+      "puzzles": [
+        { "emojis": "🌧️💜", "answer": "Purple Rain", "hint": "Prince's iconic hit" },
+        { "emojis": "🏨🇺🇸🌴", "answer": "Hotel California", "hint": "Eagles classic you can check out but never leave" },
+        { "emojis": "💃🌙", "answer": "Dancing in the Moonlight", "hint": "King Harvest's feel-good tune" }
+      ]
+    },
+    {
+      "id": "ed-3",
+      "theme": "TV Shows",
+      "puzzles": [
+        { "emojis": "👫👫👫☕", "answer": "Friends", "hint": "Six pals in New York" },
+        { "emojis": "⭐🚀🖖", "answer": "Star Trek", "hint": "To boldly go where no one has gone before" },
+        { "emojis": "🏝️🚢💀", "answer": "Gilligan's Island", "hint": "A three-hour tour gone wrong" }
+      ]
+    },
+    {
+      "id": "ed-4",
+      "theme": "Fairy Tales & Stories",
+      "puzzles": [
+        { "emojis": "❄️👸⛄", "answer": "Frozen", "hint": "Let it go!" },
+        { "emojis": "🐻🔒👧", "answer": "Goldilocks", "hint": "Just right" },
+        { "emojis": "🧜‍♀️🌊🏰", "answer": "The Little Mermaid", "hint": "Part of your world" }
+      ]
+    },
+    {
+      "id": "ed-5",
+      "theme": "Common Phrases",
+      "puzzles": [
+        { "emojis": "🍰👶", "answer": "Piece of cake", "hint": "Something very easy" },
+        { "emojis": "🐘🏠", "answer": "Elephant in the room", "hint": "An obvious problem no one discusses" },
+        { "emojis": "⏰💣", "answer": "Time bomb", "hint": "A ticking threat" }
+      ]
+    },
+    {
+      "id": "ed-6",
+      "theme": "Classic Movies II",
+      "puzzles": [
+        { "emojis": "🦈🏊", "answer": "Jaws", "hint": "You're gonna need a bigger boat" },
+        { "emojis": "🌹💀🚢", "answer": "Titanic", "hint": "I'm the king of the world!" },
+        { "emojis": "🤠🐎🌅", "answer": "The Good The Bad and The Ugly", "hint": "Clint Eastwood spaghetti western" }
+      ]
+    },
+    {
+      "id": "ed-7",
+      "theme": "Famous Songs II",
+      "puzzles": [
+        { "emojis": "🌈🔝", "answer": "Over the Rainbow", "hint": "Somewhere... bluebirds fly" },
+        { "emojis": "🎸😭", "answer": "While My Guitar Gently Weeps", "hint": "George Harrison's Beatles masterpiece" },
+        { "emojis": "💎🌌", "answer": "Lucy in the Sky with Diamonds", "hint": "Beatles psychedelic classic" }
+      ]
+    },
+    {
+      "id": "ed-8",
+      "theme": "Food & Drink Expressions",
+      "puzzles": [
+        { "emojis": "🍒🔝", "answer": "Cherry on top", "hint": "The finishing touch" },
+        { "emojis": "☕🫖🌪️", "answer": "Tempest in a teapot", "hint": "Making a big fuss about nothing" },
+        { "emojis": "🥒😎", "answer": "Cool as a cucumber", "hint": "Staying calm under pressure" }
+      ]
+    },
+    {
+      "id": "ed-9",
+      "theme": "Classic Movies III",
+      "puzzles": [
+        { "emojis": "🧙‍♂️🌪️👠💚", "answer": "The Wizard of Oz", "hint": "Follow the yellow brick road" },
+        { "emojis": "🐦🔪🚿", "answer": "Psycho", "hint": "Hitchcock's most terrifying shower scene" },
+        { "emojis": "🎩🎶☔", "answer": "Singin' in the Rain", "hint": "What a glorious feeling!" }
+      ]
+    },
+    {
+      "id": "ed-10",
+      "theme": "TV Shows II",
+      "puzzles": [
+        { "emojis": "🏥😷❤️", "answer": "Grey's Anatomy", "hint": "Meredith's medical drama" },
+        { "emojis": "👨‍👩‍👦‍👦🏠🔨", "answer": "Home Improvement", "hint": "Tim Allen's tool time" },
+        { "emojis": "🍕🛋️😂", "answer": "Seinfeld", "hint": "A show about nothing" }
+      ]
+    }
+  ]
+}

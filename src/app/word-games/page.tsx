@@ -78,6 +78,12 @@ const specialGames = [
     description: "The vowels have been removed — can you figure out the original phrase?",
     count: "10 Rounds",
   },
+  {
+    id: "emoji-decoder",
+    title: "Emoji Decoder",
+    description: "Decode emoji sequences into movies, songs, and phrases!",
+    count: "10 Rounds",
+  },
 ];
 
 export default function WordGames() {

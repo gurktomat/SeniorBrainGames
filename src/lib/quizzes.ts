@@ -16,6 +16,8 @@ import decadeFashions from "@/data/nostalgia-trivia/decade-fashions.json";
 import classicCartoons from "@/data/nostalgia-trivia/classic-cartoons.json";
 import classicSports from "@/data/nostalgia-trivia/classic-sports.json";
 import classicBoardGames from "@/data/nostalgia-trivia/classic-board-games.json";
+import classicSitcomCatchphrases from "@/data/nostalgia-trivia/classic-sitcom-catchphrases.json";
+import famousCouples from "@/data/nostalgia-trivia/famous-couples.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -33,6 +35,7 @@ import famousLiterature from "@/data/general-knowledge/famous-literature.json";
 import worldOceansRivers from "@/data/general-knowledge/world-oceans-rivers.json";
 import musicalInstruments from "@/data/general-knowledge/musical-instruments.json";
 import worldReligionsMythology from "@/data/general-knowledge/world-religions-mythology.json";
+import famousInventions from "@/data/general-knowledge/famous-inventions.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -43,6 +46,7 @@ import rhymeTime from "@/data/word-games/rhyme-time.json";
 import commonlyConfused from "@/data/word-games/commonly-confused.json";
 import vocabularyBuilder from "@/data/word-games/vocabulary-builder.json";
 import figuresOfSpeech from "@/data/word-games/figures-of-speech.json";
+import grammarPunctuation from "@/data/word-games/grammar-punctuation.json";
 
 // Memory Games (quiz-format ones)
 import pictureQuiz from "@/data/memory-games/picture-quiz.json";
@@ -69,6 +73,8 @@ const nostalgiaTrivia: Quiz[] = [
   classicCartoons as Quiz,
   classicSports as Quiz,
   classicBoardGames as Quiz,
+  classicSitcomCatchphrases as Quiz,
+  famousCouples as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -87,6 +93,7 @@ const generalKnowledge: Quiz[] = [
   worldOceansRivers as Quiz,
   musicalInstruments as Quiz,
   worldReligionsMythology as Quiz,
+  famousInventions as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -98,6 +105,7 @@ const wordGameQuizzes: Quiz[] = [
   commonlyConfused as Quiz,
   vocabularyBuilder as Quiz,
   figuresOfSpeech as Quiz,
+  grammarPunctuation as Quiz,
 ];
 
 const memoryGameQuizzes: Quiz[] = [
@@ -224,6 +232,13 @@ export const specialGameSlugs: Record<string, string[]> = {
     "cryptogram",
     "anagram-challenge",
     "missing-vowels",
+    "emoji-decoder",
+  ],
+  "nostalgia-trivia": [
+    "timeline-sort",
+  ],
+  "general-knowledge": [
+    "true-or-false",
   ],
   "memory-games": [
     "memory-card-match",

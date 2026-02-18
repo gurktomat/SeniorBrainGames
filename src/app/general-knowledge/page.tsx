@@ -1,13 +1,24 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
+import { GameIcon } from "@/lib/gameIcons";
 
 export const metadata: Metadata = {
   title: "General Knowledge Quizzes — Science, History, Geography & More",
   description:
     "Test your general knowledge with fun quizzes about geography, history, science, nature, food, and more!",
 };
+
+const specialGames = [
+  {
+    id: "true-or-false",
+    title: "True or False",
+    description: "Test your knowledge — is this statement true or false?",
+    count: "20 Statements",
+  },
+];
 
 export default function GeneralKnowledge() {
   const quizzes = getQuizzesByCategory("general-knowledge");
@@ -32,6 +43,31 @@ export default function GeneralKnowledge() {
 
       <div className="mx-auto max-w-6xl px-6 pb-16">
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {specialGames.map((game) => (
+            <Link
+              key={game.id}
+              href={`/general-knowledge/${game.id}`}
+              className="card-enterprise group flex flex-col p-6"
+            >
+              <GameIcon gameId={game.id} color="#0891B2" />
+              <h2
+                className="mb-2 text-lg font-bold text-foreground"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {game.title}
+              </h2>
+              <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
+              <div className="flex items-center justify-between">
+                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                  {game.count}
+                </span>
+                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+                  Play &rarr;
+                </span>
+              </div>
+            </Link>
+          ))}
+
           {quizzes.map((quiz) => (
             <QuizCard key={quiz.id} quiz={quiz} basePath="/general-knowledge" iconColor="#0891B2" />
           ))}

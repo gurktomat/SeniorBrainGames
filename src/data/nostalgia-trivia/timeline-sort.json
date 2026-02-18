@@ -1,0 +1,115 @@
+{
+  "title": "Timeline Sort",
+  "rounds": [
+    {
+      "id": "ts-1",
+      "theme": "Space Exploration Milestones",
+      "events": [
+        { "text": "Sputnik 1 launched", "year": 1957 },
+        { "text": "Yuri Gagarin orbits Earth", "year": 1961 },
+        { "text": "Moon landing (Apollo 11)", "year": 1969 },
+        { "text": "First Space Shuttle launch", "year": 1981 },
+        { "text": "Hubble Space Telescope deployed", "year": 1990 }
+      ]
+    },
+    {
+      "id": "ts-2",
+      "theme": "Iconic TV Show Premieres",
+      "events": [
+        { "text": "I Love Lucy premieres", "year": 1951 },
+        { "text": "The Twilight Zone premieres", "year": 1959 },
+        { "text": "Star Trek premieres", "year": 1966 },
+        { "text": "M*A*S*H premieres", "year": 1972 },
+        { "text": "Cheers premieres", "year": 1982 }
+      ]
+    },
+    {
+      "id": "ts-3",
+      "theme": "Rock & Roll Landmarks",
+      "events": [
+        { "text": "Elvis records 'That's All Right'", "year": 1954 },
+        { "text": "Buddy Holly's 'The Day the Music Died'", "year": 1959 },
+        { "text": "The Beatles appear on Ed Sullivan", "year": 1964 },
+        { "text": "Woodstock Festival", "year": 1969 },
+        { "text": "John Lennon assassinated", "year": 1980 }
+      ]
+    },
+    {
+      "id": "ts-4",
+      "theme": "Presidential Moments",
+      "events": [
+        { "text": "JFK inaugurated", "year": 1961 },
+        { "text": "JFK assassinated in Dallas", "year": 1963 },
+        { "text": "Nixon resigns over Watergate", "year": 1974 },
+        { "text": "Reagan inaugurated", "year": 1981 },
+        { "text": "Berlin Wall falls", "year": 1989 }
+      ]
+    },
+    {
+      "id": "ts-5",
+      "theme": "Classic Movie Releases",
+      "events": [
+        { "text": "The Wizard of Oz released", "year": 1939 },
+        { "text": "Casablanca released", "year": 1942 },
+        { "text": "West Side Story released", "year": 1961 },
+        { "text": "The Godfather released", "year": 1972 },
+        { "text": "Star Wars released", "year": 1977 }
+      ]
+    },
+    {
+      "id": "ts-6",
+      "theme": "Inventions That Changed Daily Life",
+      "events": [
+        { "text": "First commercial color TV sold", "year": 1954 },
+        { "text": "First push-button telephone introduced", "year": 1963 },
+        { "text": "First handheld calculator sold", "year": 1970 },
+        { "text": "Sony Walkman released", "year": 1979 },
+        { "text": "First commercially available cell phone", "year": 1984 }
+      ]
+    },
+    {
+      "id": "ts-7",
+      "theme": "Civil Rights & Social Change",
+      "events": [
+        { "text": "Brown v. Board of Education ruling", "year": 1954 },
+        { "text": "Rosa Parks refuses to give up her seat", "year": 1955 },
+        { "text": "March on Washington ('I Have a Dream')", "year": 1963 },
+        { "text": "Civil Rights Act signed", "year": 1964 },
+        { "text": "Martin Luther King Jr. assassinated", "year": 1968 }
+      ]
+    },
+    {
+      "id": "ts-8",
+      "theme": "Sports History",
+      "events": [
+        { "text": "Roger Bannister breaks 4-minute mile", "year": 1954 },
+        { "text": "Muhammad Ali wins first heavyweight title", "year": 1964 },
+        { "text": "First Super Bowl played", "year": 1967 },
+        { "text": "Hank Aaron breaks Babe Ruth's home run record", "year": 1974 },
+        { "text": "Miracle on Ice (USA hockey beats USSR)", "year": 1980 }
+      ]
+    },
+    {
+      "id": "ts-9",
+      "theme": "Musical Moments",
+      "events": [
+        { "text": "Frank Sinatra releases 'My Way'", "year": 1969 },
+        { "text": "ABBA wins Eurovision with 'Waterloo'", "year": 1974 },
+        { "text": "Saturday Night Fever soundtrack released", "year": 1977 },
+        { "text": "Michael Jackson releases 'Thriller'", "year": 1982 },
+        { "text": "Live Aid concerts held", "year": 1985 }
+      ]
+    },
+    {
+      "id": "ts-10",
+      "theme": "Toy & Game Crazes",
+      "events": [
+        { "text": "Mr. Potato Head released", "year": 1952 },
+        { "text": "Barbie doll introduced", "year": 1959 },
+        { "text": "G.I. Joe action figure launched", "year": 1964 },
+        { "text": "Rubik's Cube becomes a worldwide craze", "year": 1980 },
+        { "text": "Cabbage Patch Kids mania", "year": 1983 }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,23 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
-import { getQuizzesByCategory, getQuizBySlug } from "@/lib/quizzes";
+import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
+import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
+
+import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
+
+const specialGames: Record<string, { title: string; description: string }> = {
+  "true-or-false": { title: "True or False", description: "Test your knowledge — is this statement true or false?" },
+};
 
 export function generateStaticParams() {
-  return getQuizzesByCategory("general-knowledge").map((quiz) => ({
-    slug: quiz.id,
+  const quizSlugs = getQuizzesByCategory("general-knowledge").map((q) => ({
+    slug: q.id,
   }));
+  const gameSlugs = (specialGameSlugs["general-knowledge"] || []).map((s) => ({
+    slug: s,
+  }));
+  return [...quizSlugs, ...gameSlugs];
 }
 
 export async function generateMetadata({
@@ -16,11 +27,14 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params;
   const quiz = getQuizBySlug("general-knowledge", slug);
-  if (!quiz) return {};
-  return {
-    title: quiz.title,
-    description: quiz.description,
-  };
+  if (quiz) {
+    return { title: quiz.title, description: quiz.description };
+  }
+  const special = specialGames[slug];
+  if (special) {
+    return { title: special.title, description: special.description };
+  }
+  return {};
 }
 
 export default async function GeneralKnowledgeQuizPage({
@@ -29,11 +43,23 @@ export default async function GeneralKnowledgeQuizPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const quiz = getQuizBySlug("general-knowledge", slug);
 
-  if (!quiz) {
-    notFound();
+  // Check if it's a regular quiz
+  const quiz = getQuizBySlug("general-knowledge", slug);
+  if (quiz) {
+    return <QuizEngine quiz={quiz} />;
   }
 
-  return <QuizEngine quiz={quiz} />;
+  // Special game engines
+  switch (slug) {
+    case "true-or-false":
+      return (
+        <TrueOrFalseEngine
+          title={trueOrFalseData.title}
+          statements={trueOrFalseData.statements}
+        />
+      );
+    default:
+      notFound();
+  }
 }

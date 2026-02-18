@@ -1,13 +1,24 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
+import { GameIcon } from "@/lib/gameIcons";
 
 export const metadata: Metadata = {
   title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
   description:
     "Travel back in time with fun nostalgia trivia quizzes! Test your memory of music, movies, TV shows, and culture from the 1950s through the 1980s.",
 };
+
+const specialGames = [
+  {
+    id: "timeline-sort",
+    title: "Timeline Sort",
+    description: "Put historical events in the correct chronological order!",
+    count: "10 Rounds",
+  },
+];
 
 export default function NostalgiaTrivia() {
   const quizzes = getQuizzesByCategory("nostalgia-trivia");
@@ -32,6 +43,31 @@ export default function NostalgiaTrivia() {
 
       <div className="mx-auto max-w-6xl px-6 pb-16">
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {specialGames.map((game) => (
+            <Link
+              key={game.id}
+              href={`/nostalgia-trivia/${game.id}`}
+              className="card-enterprise group flex flex-col p-6"
+            >
+              <GameIcon gameId={game.id} color="#3B6FC0" />
+              <h2
+                className="mb-2 text-lg font-bold text-foreground"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {game.title}
+              </h2>
+              <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
+              <div className="flex items-center justify-between">
+                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                  {game.count}
+                </span>
+                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+                  Play &rarr;
+                </span>
+              </div>
+            </Link>
+          ))}
+
           {quizzes.map((quiz) => (
             <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" iconColor="#3B6FC0" />
           ))}

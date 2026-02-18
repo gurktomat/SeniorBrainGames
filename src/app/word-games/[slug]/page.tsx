@@ -12,6 +12,7 @@ import WordLadderEngine from "@/components/WordLadderEngine";
 import CryptogramEngine from "@/components/CryptogramEngine";
 import AnagramEngine from "@/components/AnagramEngine";
 import MissingVowelsEngine from "@/components/MissingVowelsEngine";
+import EmojiDecoderEngine from "@/components/EmojiDecoderEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
@@ -25,6 +26,7 @@ import wordLadderData from "@/data/word-games/word-ladder.json";
 import cryptogramData from "@/data/word-games/cryptogram.json";
 import anagramData from "@/data/word-games/anagram-challenge.json";
 import missingVowelsData from "@/data/word-games/missing-vowels.json";
+import emojiDecoderData from "@/data/word-games/emoji-decoder.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -38,6 +40,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "cryptogram": { title: "Cryptogram", description: "Decode the secret message by figuring out the letter substitutions!" },
   "anagram-challenge": { title: "Anagram Challenge", description: "Unscramble themed anagram puzzles — each round has a different theme!" },
   "missing-vowels": { title: "Missing Vowels", description: "The vowels have been removed — can you figure out the original phrase?" },
+  "emoji-decoder": { title: "Emoji Decoder", description: "Decode emoji sequences into movies, songs, and phrases!" },
 };
 
 export function generateStaticParams() {
@@ -157,6 +160,13 @@ export default async function WordGamePage({
         <MissingVowelsEngine
           title={missingVowelsData.title}
           rounds={missingVowelsData.rounds}
+        />
+      );
+    case "emoji-decoder":
+      return (
+        <EmojiDecoderEngine
+          title={emojiDecoderData.title}
+          rounds={emojiDecoderData.rounds}
         />
       );
     default:

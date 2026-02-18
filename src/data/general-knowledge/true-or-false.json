@@ -1,0 +1,125 @@
+{
+  "title": "True or False",
+  "statements": [
+    {
+      "id": "tf-1",
+      "statement": "The Great Wall of China is visible from space with the naked eye.",
+      "answer": false,
+      "explanation": "This is a common myth. The Great Wall is very long but too narrow to be seen from space without aid. Astronauts have confirmed this."
+    },
+    {
+      "id": "tf-2",
+      "statement": "Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still edible.",
+      "answer": true,
+      "explanation": "Honey's low moisture content and acidic pH create an inhospitable environment for bacteria, so it can last indefinitely if sealed properly."
+    },
+    {
+      "id": "tf-3",
+      "statement": "Goldfish have a memory span of only three seconds.",
+      "answer": false,
+      "explanation": "Goldfish can actually remember things for months. Scientists have trained goldfish to navigate mazes and respond to signals over long periods."
+    },
+    {
+      "id": "tf-4",
+      "statement": "The human body contains more bacterial cells than human cells.",
+      "answer": true,
+      "explanation": "Recent estimates suggest the ratio is roughly 1.3 bacterial cells for every human cell, with most bacteria residing in the gut."
+    },
+    {
+      "id": "tf-5",
+      "statement": "Lightning never strikes the same place twice.",
+      "answer": false,
+      "explanation": "Lightning frequently strikes the same place multiple times. The Empire State Building, for example, is struck about 20-25 times per year."
+    },
+    {
+      "id": "tf-6",
+      "statement": "Octopuses have three hearts.",
+      "answer": true,
+      "explanation": "Octopuses have two branchial hearts that pump blood to the gills and one systemic heart that pumps blood to the rest of the body."
+    },
+    {
+      "id": "tf-7",
+      "statement": "Mount Everest is the tallest mountain on Earth when measured from base to peak.",
+      "answer": false,
+      "explanation": "Mauna Kea in Hawaii is taller from base to peak at about 33,500 feet, but most of it is underwater. Everest is the highest above sea level."
+    },
+    {
+      "id": "tf-8",
+      "statement": "Bananas are berries, but strawberries are not.",
+      "answer": true,
+      "explanation": "Botanically, a berry develops from a single ovary. Bananas qualify, but strawberries are 'accessory fruits' formed from the receptacle."
+    },
+    {
+      "id": "tf-9",
+      "statement": "The Sahara Desert is the largest desert in the world.",
+      "answer": false,
+      "explanation": "Antarctica is technically the largest desert, as a desert is defined by low precipitation. The Sahara is the largest hot desert."
+    },
+    {
+      "id": "tf-10",
+      "statement": "Humans share about 60% of their DNA with bananas.",
+      "answer": true,
+      "explanation": "Humans and bananas share roughly 60% of the same genes. Many fundamental cellular processes are common across all living things."
+    },
+    {
+      "id": "tf-11",
+      "statement": "Thomas Edison invented the light bulb.",
+      "answer": false,
+      "explanation": "Edison improved upon existing designs and made the light bulb commercially practical, but Humphry Davy and others created earlier versions."
+    },
+    {
+      "id": "tf-12",
+      "statement": "A group of flamingos is called a 'flamboyance.'",
+      "answer": true,
+      "explanation": "Yes! A group of flamingos is indeed called a flamboyance, which suits their vibrant pink appearance perfectly."
+    },
+    {
+      "id": "tf-13",
+      "statement": "Water drains in opposite directions in the Northern and Southern Hemispheres due to the Coriolis effect.",
+      "answer": false,
+      "explanation": "The Coriolis effect is too weak to influence water draining in a sink or toilet. The direction depends on the basin's shape and water movement."
+    },
+    {
+      "id": "tf-14",
+      "statement": "Venus is the hottest planet in our solar system, even though Mercury is closer to the Sun.",
+      "answer": true,
+      "explanation": "Venus's thick atmosphere of carbon dioxide creates an extreme greenhouse effect, making its surface temperature about 900°F (475°C)."
+    },
+    {
+      "id": "tf-15",
+      "statement": "Humans use only 10% of their brains.",
+      "answer": false,
+      "explanation": "Brain scans show that we use virtually every part of the brain, and most of the brain is active most of the time."
+    },
+    {
+      "id": "tf-16",
+      "statement": "Scotland's national animal is the unicorn.",
+      "answer": true,
+      "explanation": "The unicorn has been a Scottish heraldic symbol since the 12th century. It was chosen because in Celtic mythology, the unicorn symbolized purity and power."
+    },
+    {
+      "id": "tf-17",
+      "statement": "Sound travels faster through water than through air.",
+      "answer": true,
+      "explanation": "Sound travels about 4.3 times faster in water than in air because water molecules are packed more closely together."
+    },
+    {
+      "id": "tf-18",
+      "statement": "The Amazon River is the longest river in the world.",
+      "answer": false,
+      "explanation": "The Nile River in Africa is generally considered the longest river at about 4,130 miles. The Amazon is the largest by volume of water."
+    },
+    {
+      "id": "tf-19",
+      "statement": "A jiffy is an actual unit of time, not just a figure of speech.",
+      "answer": true,
+      "explanation": "In physics, a jiffy is 1/100th of a second. In computing, it refers to the duration of one tick of the system timer."
+    },
+    {
+      "id": "tf-20",
+      "statement": "Napoleon Bonaparte was unusually short for his time.",
+      "answer": false,
+      "explanation": "Napoleon was about 5'7\", which was average or slightly above average for Frenchmen in the early 1800s. The myth arose from confusion between French and English inches."
+    }
+  ]
+}
