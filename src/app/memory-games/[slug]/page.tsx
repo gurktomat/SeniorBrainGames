@@ -12,6 +12,9 @@ import SequenceMemoryEngine from "@/components/SequenceMemoryEngine";
 import MatchingPairsEngine from "@/components/MatchingPairsEngine";
 import MathChallengeEngine from "@/components/MathChallengeEngine";
 import NumberMemoryEngine from "@/components/NumberMemoryEngine";
+import EstimationEngine from "@/components/EstimationEngine";
+import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
+import WhoAmIEngine from "@/components/WhoAmIEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import memoryCardData from "@/data/memory-games/memory-card-match.json";
@@ -25,6 +28,9 @@ import sequenceMemoryData from "@/data/memory-games/sequence-memory.json";
 import matchingPairsData from "@/data/memory-games/matching-pairs.json";
 import mathChallengeData from "@/data/memory-games/math-challenge.json";
 import numberMemoryData from "@/data/memory-games/number-memory.json";
+import estimationData from "@/data/memory-games/estimation-game.json";
+import memoryTrueOrFalseData from "@/data/memory-games/memory-true-or-false.json";
+import whatAmIData from "@/data/memory-games/what-am-i.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "memory-card-match": { title: "Memory Card Match", description: "Flip cards to find matching pairs!" },
@@ -38,6 +44,9 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "matching-pairs": { title: "Matching Pairs", description: "Match each item on the left with its partner on the right!" },
   "math-challenge": { title: "Math Challenge", description: "Exercise your mental math skills with fun arithmetic puzzles!" },
   "number-memory": { title: "Number Memory", description: "Flash a number sequence, then recall it from memory!" },
+  "estimation-game": { title: "Estimation Game", description: "How close can you guess? Test your estimation skills with fun number questions!" },
+  "memory-true-or-false": { title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!" },
+  "what-am-i": { title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!" },
 };
 
 export function generateStaticParams() {
@@ -157,6 +166,27 @@ export default async function MemoryGamePage({
         <NumberMemoryEngine
           title={numberMemoryData.title}
           rounds={numberMemoryData.rounds}
+        />
+      );
+    case "estimation-game":
+      return (
+        <EstimationEngine
+          title={estimationData.title}
+          questions={estimationData.questions}
+        />
+      );
+    case "memory-true-or-false":
+      return (
+        <TrueOrFalseEngine
+          title={memoryTrueOrFalseData.title}
+          statements={memoryTrueOrFalseData.statements}
+        />
+      );
+    case "what-am-i":
+      return (
+        <WhoAmIEngine
+          title={whatAmIData.title}
+          puzzles={whatAmIData.puzzles}
         />
       );
     default:

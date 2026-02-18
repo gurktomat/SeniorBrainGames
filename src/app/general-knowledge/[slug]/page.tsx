@@ -4,16 +4,19 @@ import QuizEngine from "@/components/QuizEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import SortingEngine from "@/components/SortingEngine";
+import TimelineSortEngine from "@/components/TimelineSortEngine";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
 import whoAmIData from "@/data/general-knowledge/who-am-i.json";
 import scienceSortingData from "@/data/general-knowledge/science-sorting.json";
+import historyTimelineData from "@/data/general-knowledge/history-timeline.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "true-or-false": { title: "True or False", description: "Test your knowledge — is this statement true or false?" },
   "who-am-i": { title: "Who Am I?", description: "Guess the famous person from progressive clues — fewer clues means more points!" },
   "science-sorting": { title: "Science Sorting", description: "Sort items into the correct science categories!" },
+  "history-timeline": { title: "History Timeline", description: "Put world history events in the correct chronological order!" },
 };
 
 export function generateStaticParams() {
@@ -77,6 +80,13 @@ export default async function GeneralKnowledgeQuizPage({
         <SortingEngine
           title={scienceSortingData.title}
           rounds={scienceSortingData.rounds}
+        />
+      );
+    case "history-timeline":
+      return (
+        <TimelineSortEngine
+          title={historyTimelineData.title}
+          rounds={historyTimelineData.rounds}
         />
       );
     default:

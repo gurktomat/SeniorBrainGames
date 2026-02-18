@@ -81,6 +81,24 @@ const specialGames = [
     description: "Flash a number sequence, then recall it from memory!",
     count: "15 Rounds",
   },
+  {
+    id: "estimation-game",
+    title: "Estimation Game",
+    description: "How close can you guess? Test your estimation skills with fun number questions!",
+    count: "15 Questions",
+  },
+  {
+    id: "memory-true-or-false",
+    title: "Memory True or False",
+    description: "Test what you know about the brain, memory, and psychology!",
+    count: "20 Statements",
+  },
+  {
+    id: "what-am-i",
+    title: "What Am I?",
+    description: "Guess the everyday object from progressive clues — fewer clues means more points!",
+    count: "15 Puzzles",
+  },
 ];
 
 export default function MemoryGames() {

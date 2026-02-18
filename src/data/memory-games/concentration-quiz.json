@@ -1,0 +1,148 @@
+{
+  "id": "concentration-quiz",
+  "title": "Concentration Quiz",
+  "description": "Pay close attention! These tricky questions test your focus, attention to detail, and careful reading skills.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "cq-1",
+      "question": "A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?",
+      "options": ["8", "9", "17", "0"],
+      "correctAnswer": 1,
+      "explanation": "'All but 9' means 9 remain. It's easy to instinctively subtract 9 from 17, but read carefully!"
+    },
+    {
+      "id": "cq-2",
+      "question": "How many months in a year have 28 days?",
+      "options": ["1", "2", "6", "12"],
+      "correctAnswer": 3,
+      "explanation": "All 12 months have at least 28 days! The question doesn't ask which months have exactly 28 days."
+    },
+    {
+      "id": "cq-3",
+      "question": "If you're running a race and you pass the person in 2nd place, what place are you in now?",
+      "options": ["1st place", "2nd place", "3rd place", "It depends"],
+      "correctAnswer": 1,
+      "explanation": "If you pass the person in 2nd place, you take their position — so you're now in 2nd place, not 1st."
+    },
+    {
+      "id": "cq-4",
+      "question": "A doctor gives you 3 pills and tells you to take one every 30 minutes. How many minutes will it take to finish all the pills?",
+      "options": ["30 minutes", "60 minutes", "90 minutes", "120 minutes"],
+      "correctAnswer": 1,
+      "explanation": "You take the first pill immediately (0 min), the second at 30 minutes, and the third at 60 minutes. Total: 60 minutes."
+    },
+    {
+      "id": "cq-5",
+      "question": "Which is heavier: a pound of feathers or a pound of gold?",
+      "options": ["Feathers", "Gold", "They weigh the same", "Depends on the feathers"],
+      "correctAnswer": 2,
+      "explanation": "A pound is a pound! Both weigh exactly one pound, regardless of the material."
+    },
+    {
+      "id": "cq-6",
+      "question": "If there are 6 apples in a basket and you take away 4, how many apples do YOU have?",
+      "options": ["2", "4", "6", "0"],
+      "correctAnswer": 1,
+      "explanation": "You took 4 apples, so you have 4. The question asks how many you have, not how many are left in the basket."
+    },
+    {
+      "id": "cq-7",
+      "question": "Some months have 30 days, some have 31 days. How many months have exactly 30 days?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 0,
+      "explanation": "Exactly 4 months have 30 days: April, June, September, and November."
+    },
+    {
+      "id": "cq-8",
+      "question": "Is it legal for a man to marry his widow's sister?",
+      "options": ["Yes, always", "Only in some states", "No, never", "He can't — he's dead"],
+      "correctAnswer": 3,
+      "explanation": "If a man has a widow, that means he has passed away. A deceased person cannot marry anyone!"
+    },
+    {
+      "id": "cq-9",
+      "question": "Before Mount Everest was discovered, what was the tallest mountain in the world?",
+      "options": ["K2", "Kangchenjunga", "Mount Everest", "It was unknown"],
+      "correctAnswer": 2,
+      "explanation": "Mount Everest was still the tallest mountain — it just hadn't been discovered yet! The discovery didn't change the mountain's height."
+    },
+    {
+      "id": "cq-10",
+      "question": "What word is spelled incorrectly in every dictionary?",
+      "options": ["Pneumonia", "Incorrectly", "Mischievous", "Accommodate"],
+      "correctAnswer": 1,
+      "explanation": "The word 'incorrectly' is always spelled I-N-C-O-R-R-E-C-T-L-Y — which is, by definition, 'incorrectly'!"
+    },
+    {
+      "id": "cq-11",
+      "question": "If a red house is made of red bricks and a blue house is made of blue bricks, what is a greenhouse made of?",
+      "options": ["Green bricks", "Green wood", "Glass", "Recycled materials"],
+      "correctAnswer": 2,
+      "explanation": "A greenhouse is made of glass! It's not actually green — it's a structure for growing plants."
+    },
+    {
+      "id": "cq-12",
+      "question": "Two fathers and two sons go fishing. Each catches one fish. They bring home exactly 3 fish. How is that possible?",
+      "options": ["One fish escaped", "They're lying", "One is grandfather, father, and son", "Two fish were the same"],
+      "correctAnswer": 2,
+      "explanation": "There are only 3 people: a grandfather, his son (who is also a father), and his grandson. Two fathers + two sons = 3 people."
+    },
+    {
+      "id": "cq-13",
+      "question": "How many times can you subtract 5 from 25?",
+      "options": ["1 time", "5 times", "4 times", "Infinite times"],
+      "correctAnswer": 0,
+      "explanation": "Only once! After you subtract 5 from 25 the first time, you have 20 — and you're no longer subtracting from 25."
+    },
+    {
+      "id": "cq-14",
+      "question": "Which weighs more: 100 pounds of rocks or 100 pounds of cotton?",
+      "options": ["Rocks", "Cotton", "They weigh the same", "Depends on the type of rock"],
+      "correctAnswer": 2,
+      "explanation": "100 pounds is 100 pounds, regardless of what material it is. They weigh exactly the same!"
+    },
+    {
+      "id": "cq-15",
+      "question": "If you have a bowl with six oranges and you take away two, how many oranges do you have?",
+      "options": ["Two", "Four", "Six", "None"],
+      "correctAnswer": 0,
+      "explanation": "You took two oranges, so you have two oranges. The bowl still has four, but you have two."
+    },
+    {
+      "id": "cq-16",
+      "question": "What gets wetter the more it dries?",
+      "options": ["A sponge", "A towel", "Hair", "The ground"],
+      "correctAnswer": 1,
+      "explanation": "A towel gets wetter as it dries other things. The more you use it to dry, the wetter it becomes!"
+    },
+    {
+      "id": "cq-17",
+      "question": "A plane crashes exactly on the border of the United States and Canada. Where do they bury the survivors?",
+      "options": ["United States", "Canada", "Both countries", "You don't bury survivors"],
+      "correctAnswer": 3,
+      "explanation": "You don't bury survivors — they're still alive! The question is designed to make you focus on the border detail."
+    },
+    {
+      "id": "cq-18",
+      "question": "If it takes 5 machines 5 minutes to make 5 widgets, how many minutes does it take 100 machines to make 100 widgets?",
+      "options": ["5 minutes", "20 minutes", "100 minutes", "500 minutes"],
+      "correctAnswer": 0,
+      "explanation": "Each machine makes one widget in 5 minutes. So 100 machines working simultaneously would make 100 widgets in 5 minutes."
+    },
+    {
+      "id": "cq-19",
+      "question": "How many animals of each kind did Moses take on the Ark?",
+      "options": ["1", "2", "7", "It was Noah, not Moses"],
+      "correctAnswer": 3,
+      "explanation": "It was Noah who built the Ark, not Moses! This is a classic attention trick — many people answer '2' without catching the name swap."
+    },
+    {
+      "id": "cq-20",
+      "question": "A clerk at a butcher shop stands five feet ten inches tall and wears size 13 sneakers. What does he weigh?",
+      "options": ["180 pounds", "200 pounds", "220 pounds", "Meat"],
+      "correctAnswer": 3,
+      "explanation": "He works at a butcher shop — he weighs meat! The question is about what he weighs (as in his job), not how much he weighs."
+    }
+  ]
+}

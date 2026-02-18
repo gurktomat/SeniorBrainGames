@@ -30,6 +30,12 @@ const specialGames = [
     description: "Sort items into the correct science categories!",
     count: "10 Rounds",
   },
+  {
+    id: "history-timeline",
+    title: "History Timeline",
+    description: "Put world history events in the correct chronological order!",
+    count: "10 Rounds",
+  },
 ];
 
 export default function GeneralKnowledge() {

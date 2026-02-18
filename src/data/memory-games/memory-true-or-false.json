@@ -1,0 +1,125 @@
+{
+  "title": "Memory True or False",
+  "statements": [
+    {
+      "id": "mtf-1",
+      "statement": "Humans only use 10% of their brain.",
+      "answer": false,
+      "explanation": "This is a popular myth. Brain scans show that we use virtually every part of the brain, and most of the brain is active most of the time."
+    },
+    {
+      "id": "mtf-2",
+      "statement": "Short-term memory can typically hold about 7 items at once.",
+      "answer": true,
+      "explanation": "Psychologist George Miller's famous 1956 paper described the 'magical number seven, plus or minus two' as the capacity of short-term memory."
+    },
+    {
+      "id": "mtf-3",
+      "statement": "The brain consumes about 20% of the body's total energy despite being only 2% of body weight.",
+      "answer": true,
+      "explanation": "The brain is an energy-hungry organ, using roughly 20 watts of power — about the same as a dim light bulb."
+    },
+    {
+      "id": "mtf-4",
+      "statement": "Memory always gets worse as you age — there's nothing you can do about it.",
+      "answer": false,
+      "explanation": "While some memory decline is normal with aging, regular mental exercise, physical activity, and social engagement can help maintain and even improve memory."
+    },
+    {
+      "id": "mtf-5",
+      "statement": "Sleep plays a critical role in consolidating memories.",
+      "answer": true,
+      "explanation": "During sleep, the brain replays and strengthens memories formed during the day, moving them from short-term to long-term storage."
+    },
+    {
+      "id": "mtf-6",
+      "statement": "Your brain stops developing new neurons (brain cells) after childhood.",
+      "answer": false,
+      "explanation": "Research has shown that neurogenesis — the creation of new neurons — continues in certain brain areas throughout adulthood, particularly in the hippocampus."
+    },
+    {
+      "id": "mtf-7",
+      "statement": "Deja vu may be caused by a small glitch in memory processing in the brain.",
+      "answer": true,
+      "explanation": "Scientists believe deja vu occurs when there's a brief delay in signal transfer between brain regions, making a new experience feel like a memory."
+    },
+    {
+      "id": "mtf-8",
+      "statement": "Multitasking is an efficient way to get things done because the brain processes multiple tasks simultaneously.",
+      "answer": false,
+      "explanation": "The brain actually switches rapidly between tasks rather than doing them simultaneously. This 'task switching' reduces efficiency and increases errors."
+    },
+    {
+      "id": "mtf-9",
+      "statement": "Strong emotions can make memories more vivid and long-lasting.",
+      "answer": true,
+      "explanation": "The amygdala, which processes emotions, works with the hippocampus to create stronger memory traces for emotional events — which is why we remember significant moments so clearly."
+    },
+    {
+      "id": "mtf-10",
+      "statement": "Left-brained people are always more logical, while right-brained people are always more creative.",
+      "answer": false,
+      "explanation": "Brain imaging studies show that people use both hemispheres roughly equally. The idea of strict left-brain/right-brain personality types is an oversimplification."
+    },
+    {
+      "id": "mtf-11",
+      "statement": "The hippocampus is a key brain region involved in forming new memories.",
+      "answer": true,
+      "explanation": "The hippocampus acts as the brain's memory center, converting short-term memories into long-term ones. Damage to it can cause severe memory problems."
+    },
+    {
+      "id": "mtf-12",
+      "statement": "Listening to classical music (the 'Mozart Effect') permanently increases intelligence.",
+      "answer": false,
+      "explanation": "The original 1993 study only showed a small, temporary improvement in spatial reasoning. Subsequent research has not confirmed any lasting IQ boost from listening to Mozart."
+    },
+    {
+      "id": "mtf-13",
+      "statement": "Mnemonics — memory tricks like acronyms and rhymes — have been used since ancient Greek times.",
+      "answer": true,
+      "explanation": "The ancient Greeks developed the 'method of loci' (memory palace technique), and the word 'mnemonic' comes from Mnemosyne, the Greek goddess of memory."
+    },
+    {
+      "id": "mtf-14",
+      "statement": "Stress always harms memory and never helps it.",
+      "answer": false,
+      "explanation": "Moderate short-term stress can actually sharpen focus and enhance memory formation. It's chronic, prolonged stress that damages memory by raising cortisol levels."
+    },
+    {
+      "id": "mtf-15",
+      "statement": "The brain can process an image in as little as 13 milliseconds.",
+      "answer": true,
+      "explanation": "MIT researchers found that the brain can identify images seen for as little as 13 milliseconds, much faster than the blink of an eye."
+    },
+    {
+      "id": "mtf-16",
+      "statement": "Photographic memory (total recall of visual details) is a scientifically proven ability in some adults.",
+      "answer": false,
+      "explanation": "True 'photographic memory' (eidetic memory in adults) has never been proven in controlled scientific studies. Some people have exceptional memories, but not literally photographic ones."
+    },
+    {
+      "id": "mtf-17",
+      "statement": "Regular physical exercise can improve memory and cognitive function.",
+      "answer": true,
+      "explanation": "Exercise increases blood flow to the brain and promotes the growth of new brain cells, particularly in the hippocampus. Studies show it can improve memory at any age."
+    },
+    {
+      "id": "mtf-18",
+      "statement": "Your brain is more active at night while you're sleeping than during the day.",
+      "answer": true,
+      "explanation": "During REM sleep, the brain is extremely active — processing information, consolidating memories, and performing essential maintenance functions."
+    },
+    {
+      "id": "mtf-19",
+      "statement": "Brain games and puzzles can completely prevent Alzheimer's disease.",
+      "answer": false,
+      "explanation": "While mental stimulation is beneficial and may help build 'cognitive reserve,' there is no guaranteed way to prevent Alzheimer's. It involves complex genetic and environmental factors."
+    },
+    {
+      "id": "mtf-20",
+      "statement": "The human brain contains approximately 86 billion neurons.",
+      "answer": true,
+      "explanation": "A 2009 study by Brazilian neuroscientist Suzana Herculano-Houzel determined the human brain has about 86 billion neurons, each connecting to thousands of others."
+    }
+  ]
+}

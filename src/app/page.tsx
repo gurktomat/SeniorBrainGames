@@ -40,7 +40,7 @@ const popularGames = [
 ];
 
 const stats = [
-  { label: "Brain Games", value: "90" },
+  { label: "Brain Games", value: "100" },
   { label: "Questions", value: "1000+" },
   { label: "Categories", value: "4" },
   { label: "Daily Challenges", value: "365" },

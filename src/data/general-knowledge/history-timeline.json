@@ -1,0 +1,115 @@
+{
+  "title": "History Timeline",
+  "rounds": [
+    {
+      "id": "ht-1",
+      "theme": "Ancient Civilizations",
+      "events": [
+        { "text": "Great Pyramid of Giza completed", "year": -2560 },
+        { "text": "Founding of Rome", "year": -753 },
+        { "text": "Birth of Democracy in Athens", "year": -508 },
+        { "text": "Alexander the Great conquers Persia", "year": -331 },
+        { "text": "Fall of the Roman Republic", "year": -27 }
+      ]
+    },
+    {
+      "id": "ht-2",
+      "theme": "World War Milestones",
+      "events": [
+        { "text": "Assassination of Archduke Franz Ferdinand", "year": 1914 },
+        { "text": "Treaty of Versailles signed", "year": 1919 },
+        { "text": "Germany invades Poland", "year": 1939 },
+        { "text": "D-Day invasion at Normandy", "year": 1944 },
+        { "text": "Atomic bombs dropped on Japan", "year": 1945 }
+      ]
+    },
+    {
+      "id": "ht-3",
+      "theme": "Exploration & Discovery",
+      "events": [
+        { "text": "Marco Polo reaches China", "year": 1275 },
+        { "text": "Columbus reaches the Americas", "year": 1492 },
+        { "text": "Magellan's expedition circumnavigates the globe", "year": 1522 },
+        { "text": "Captain Cook reaches Australia", "year": 1770 },
+        { "text": "Roald Amundsen reaches the South Pole", "year": 1911 }
+      ]
+    },
+    {
+      "id": "ht-4",
+      "theme": "Revolutions That Changed the World",
+      "events": [
+        { "text": "English Glorious Revolution", "year": 1688 },
+        { "text": "American Declaration of Independence", "year": 1776 },
+        { "text": "French Revolution begins", "year": 1789 },
+        { "text": "Haitian Revolution succeeds", "year": 1804 },
+        { "text": "Russian Revolution", "year": 1917 }
+      ]
+    },
+    {
+      "id": "ht-5",
+      "theme": "Great Inventions",
+      "events": [
+        { "text": "Gutenberg invents the printing press", "year": 1440 },
+        { "text": "James Watt improves the steam engine", "year": 1769 },
+        { "text": "Alexander Graham Bell patents the telephone", "year": 1876 },
+        { "text": "Wright Brothers' first flight", "year": 1903 },
+        { "text": "First electronic computer (ENIAC) built", "year": 1945 }
+      ]
+    },
+    {
+      "id": "ht-6",
+      "theme": "Fall of Empires",
+      "events": [
+        { "text": "Fall of the Western Roman Empire", "year": 476 },
+        { "text": "Fall of Constantinople (Byzantine Empire)", "year": 1453 },
+        { "text": "Napoleon exiled to Elba", "year": 1814 },
+        { "text": "Ottoman Empire dissolved", "year": 1922 },
+        { "text": "Fall of the Berlin Wall", "year": 1989 }
+      ]
+    },
+    {
+      "id": "ht-7",
+      "theme": "Civil Rights Landmarks",
+      "events": [
+        { "text": "Abolition of slavery in Britain", "year": 1833 },
+        { "text": "13th Amendment abolishes slavery in the US", "year": 1865 },
+        { "text": "Women gain the right to vote in the US", "year": 1920 },
+        { "text": "Brown v. Board of Education ruling", "year": 1954 },
+        { "text": "Civil Rights Act signed", "year": 1964 }
+      ]
+    },
+    {
+      "id": "ht-8",
+      "theme": "Medical Breakthroughs",
+      "events": [
+        { "text": "Edward Jenner develops smallpox vaccine", "year": 1796 },
+        { "text": "Louis Pasteur proves germ theory", "year": 1861 },
+        { "text": "Alexander Fleming discovers penicillin", "year": 1928 },
+        { "text": "Jonas Salk develops polio vaccine", "year": 1955 },
+        { "text": "First human heart transplant", "year": 1967 }
+      ]
+    },
+    {
+      "id": "ht-9",
+      "theme": "Cold War Events",
+      "events": [
+        { "text": "Iron Curtain speech by Churchill", "year": 1946 },
+        { "text": "Korean War begins", "year": 1950 },
+        { "text": "Cuban Missile Crisis", "year": 1962 },
+        { "text": "Vietnam War ends", "year": 1975 },
+        { "text": "Soviet Union dissolves", "year": 1991 }
+      ]
+    },
+    {
+      "id": "ht-10",
+      "theme": "Renaissance & Enlightenment",
+      "events": [
+        { "text": "Dante writes The Divine Comedy", "year": 1320 },
+        { "text": "Leonardo da Vinci paints the Mona Lisa", "year": 1503 },
+        { "text": "Shakespeare writes Hamlet", "year": 1600 },
+        { "text": "Isaac Newton publishes Principia", "year": 1687 },
+        { "text": "Mozart composes his first symphony", "year": 1764 }
+      ]
+    }
+  ]
+}

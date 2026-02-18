@@ -12,6 +12,8 @@ import {
   Castle, Languages,
   BookOpenText, Binary, UserCheck, PenLine, FlaskConical, UsersRound,
   MonitorPlay, Beaker, BrainCircuit, Link,
+  Target, Hourglass, CircleDot, Package, Scroll, Calculator, Award,
+  Volume2, Crosshair, ListOrdered,
   type LucideIcon,
 } from "lucide-react";
 
@@ -125,6 +127,18 @@ const iconMap: Record<string, LucideIcon> = {
   "everyday-science": Beaker,
   "brain-teasers": BrainCircuit,
   "word-connections": Link,
+
+  // Batch 10 games
+  "estimation-game": Target,
+  "history-timeline": Hourglass,
+  "memory-true-or-false": CircleDot,
+  "what-am-i": Package,
+  "world-history": Scroll,
+  "math-numbers": Calculator,
+  "retro-movie-stars": Award,
+  "classic-jingles": Volume2,
+  "concentration-quiz": Crosshair,
+  "number-patterns": ListOrdered,
 };
 
 export function GameIcon({
