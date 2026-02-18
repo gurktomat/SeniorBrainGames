@@ -39,7 +39,6 @@ export const metadata: Metadata = {
     "mind games for elderly",
     "senior puzzles",
   ],
-  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     locale: "en_US",

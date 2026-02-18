@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Music, Layers, Shuffle, MapPin } from "lucide-react";
 import { categoryInfo } from "@/lib/quizzes";
@@ -5,6 +6,10 @@ import CategoryIcon from "@/components/CategoryIcon";
 import StreakBanner from "@/components/StreakBanner";
 import JsonLd from "@/components/JsonLd";
 import type { GameCategory } from "@/lib/types";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const categories: { key: GameCategory; iconBg: string }[] = [
   { key: "nostalgia-trivia", iconBg: "#3B6FC0" },

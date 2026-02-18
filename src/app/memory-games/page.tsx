@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "Memory Games — Card Match, Patterns, Sorting & More",
   description:
     "Sharpen your memory with fun games! Card matching, pattern recognition, spot the difference, and more cognitive exercises.",
+  alternates: { canonical: "/memory-games" },
 };
 
 const specialGames = [

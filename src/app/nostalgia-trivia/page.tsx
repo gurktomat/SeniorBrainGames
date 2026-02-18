@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
   description:
     "Travel back in time with fun nostalgia trivia quizzes! Test your memory of music, movies, TV shows, and culture from the 1950s through the 1980s.",
+  alternates: { canonical: "/nostalgia-trivia" },
 };
 
 const specialGames = [

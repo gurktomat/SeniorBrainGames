@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "Word Games — Scrambles, Proverbs, Synonyms & More",
   description:
     "Challenge your vocabulary with fun word games! Word scrambles, proverbs, synonym challenges, spelling bees, and more.",
+  alternates: { canonical: "/word-games" },
 };
 
 const specialGames = [

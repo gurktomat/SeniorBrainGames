@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "General Knowledge Quizzes — Science, History, Geography & More",
   description:
     "Test your general knowledge with fun quizzes about geography, history, science, nature, food, and more!",
+  alternates: { canonical: "/general-knowledge" },
 };
 
 const specialGames = [

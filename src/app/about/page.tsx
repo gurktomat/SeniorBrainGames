@@ -1,14 +1,53 @@
 import type { Metadata } from "next";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "About SeniorBrainGames",
   description:
     "Learn about SeniorBrainGames — our mission to keep minds sharp with fun, free brain games designed for seniors.",
+  alternates: { canonical: "/about" },
 };
+
+const faqs = [
+  {
+    question: "Are the brain games really free?",
+    answer: "Yes! All 100 brain games on SeniorBrainGames are completely free. No sign-up, no account, no hidden fees — just visit and play.",
+  },
+  {
+    question: "Do brain games help seniors stay sharp?",
+    answer: "Research suggests that regular mental stimulation through puzzles, trivia, and games can help maintain cognitive function as we age. While brain games are not a medical treatment, they provide enjoyable mental exercise.",
+  },
+  {
+    question: "What types of games are available?",
+    answer: "We offer 4 categories: Nostalgia Trivia (1950s–1980s pop culture), General Knowledge (science, history, geography), Word Games (scrambles, crosswords, riddles), and Memory Games (card matching, patterns, puzzles).",
+  },
+  {
+    question: "Do I need to create an account?",
+    answer: "No account is needed. You can start playing instantly. Your daily challenge streak is tracked locally in your browser.",
+  },
+  {
+    question: "Is the site accessible for people with vision difficulties?",
+    answer: "Yes. We use large text (minimum 18px), high contrast colors that meet WCAG AA standards, clear navigation, and full keyboard support so everyone can enjoy the games comfortably.",
+  },
+];
 
 export default function AboutPage() {
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: faq.answer,
+            },
+          })),
+        }}
+      />
       <div className="px-6 py-12 text-center" style={{ background: "var(--gradient-warm)" }}>
         <div className="mx-auto max-w-3xl">
           <h1
@@ -71,6 +110,18 @@ export default function AboutPage() {
             All games are completely free and require no sign-up or account. Just
             visit, play, and enjoy!
           </p>
+
+          <h2 className="text-2xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
+            Frequently Asked Questions
+          </h2>
+          <div className="space-y-6">
+            {faqs.map((faq) => (
+              <div key={faq.question}>
+                <h3 className="mb-2 text-xl font-bold text-foreground">{faq.question}</h3>
+                <p className="text-text-muted">{faq.answer}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>

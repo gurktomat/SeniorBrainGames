@@ -71,6 +71,7 @@ export async function generateMetadata({
     return {
       title: quiz.title,
       description: quiz.description,
+      alternates: { canonical: `/memory-games/${slug}` },
       openGraph: { title: quiz.title, description: quiz.description },
     };
   }
@@ -79,25 +80,43 @@ export async function generateMetadata({
     return {
       title: special.title,
       description: special.description,
+      alternates: { canonical: `/memory-games/${slug}` },
       openGraph: { title: special.title, description: special.description },
     };
   }
   return {};
 }
 
-function Breadcrumb({ slug, title }: { slug: string; title: string }) {
+function GameStructuredData({ slug, title, description }: { slug: string; title: string; description: string }) {
+  const url = `https://seniorbraingames.org/memory-games/${slug}`;
   return (
-    <JsonLd
-      data={{
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
-          { "@type": "ListItem", position: 2, name: "Memory Games", item: "https://seniorbraingames.org/memory-games" },
-          { "@type": "ListItem", position: 3, name: title, item: `https://seniorbraingames.org/memory-games/${slug}` },
-        ],
-      }}
-    />
+    <>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://seniorbraingames.org" },
+            { "@type": "ListItem", position: 2, name: "Memory Games", item: "https://seniorbraingames.org/memory-games" },
+            { "@type": "ListItem", position: 3, name: title, item: url },
+          ],
+        }}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "WebApplication",
+          name: title,
+          description,
+          url,
+          applicationCategory: "Game",
+          genre: "Brain Game",
+          audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
+          isAccessibleForFree: true,
+          inLanguage: "en",
+        }}
+      />
+    </>
   );
 }
 
@@ -113,7 +132,7 @@ export default async function MemoryGamePage({
   if (quiz) {
     return (
       <>
-        <Breadcrumb slug={slug} title={quiz.title} />
+        <GameStructuredData slug={slug} title={quiz.title} description={quiz.description} />
         <QuizEngine quiz={quiz} />
       </>
     );
@@ -123,7 +142,7 @@ export default async function MemoryGamePage({
   const special = specialGames[slug];
   if (!special) notFound();
 
-  const breadcrumb = <Breadcrumb slug={slug} title={special.title} />;
+  const breadcrumb = <GameStructuredData slug={slug} title={special.title} description={special.description} />;
 
   switch (slug) {
     case "memory-card-match":
