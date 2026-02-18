@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
+import QuizCard from "@/components/QuizCard";
+import { GameIcon } from "@/lib/gameIcons";
 
 export const metadata: Metadata = {
   title: "Word Games — Scrambles, Proverbs, Synonyms & More",
@@ -95,6 +97,7 @@ export default function WordGames() {
               href={`/word-games/${game.id}`}
               className="card-enterprise group flex flex-col p-6"
             >
+              <GameIcon gameId={game.id} color="#E8983E" />
               <h2
                 className="mb-2 text-lg font-bold text-foreground"
                 style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -114,27 +117,7 @@ export default function WordGames() {
           ))}
 
           {quizzes.map((quiz) => (
-            <Link
-              key={quiz.id}
-              href={`/word-games/${quiz.id}`}
-              className="card-enterprise group flex flex-col p-6"
-            >
-              <h2
-                className="mb-2 text-lg font-bold text-foreground"
-                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-              >
-                {quiz.title}
-              </h2>
-              <p className="mb-4 flex-1 text-base text-text-muted">{quiz.description}</p>
-              <div className="flex items-center justify-between">
-                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
-                  {quiz.questions.length} Questions
-                </span>
-                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
-                  Play &rarr;
-                </span>
-              </div>
-            </Link>
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/word-games" iconColor="#E8983E" />
           ))}
         </div>
       </div>

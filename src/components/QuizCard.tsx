@@ -1,18 +1,22 @@
 import Link from "next/link";
 import type { Quiz } from "@/lib/types";
+import { GameIcon } from "@/lib/gameIcons";
 
 export default function QuizCard({
   quiz,
   basePath,
+  iconColor,
 }: {
   quiz: Quiz;
   basePath: string;
+  iconColor: string;
 }) {
   return (
     <Link
       href={`${basePath}/${quiz.id}`}
       className="card-enterprise group flex flex-col p-6"
     >
+      <GameIcon gameId={quiz.id} color={iconColor} />
       <h2
         className="mb-2 text-lg font-bold text-foreground"
         style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}

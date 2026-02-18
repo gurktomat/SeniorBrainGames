@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Tech Stack
 - Next.js 16 with TypeScript
-- Deployed on Vercel
+- Self-hosted via nginx + PM2 (run `pm2 restart seniorbraingames` after `bun run build` to deploy)
 - Tailwind CSS v4 for styling
 - Google Fonts: Merriweather (headings) + Source Sans 3 (body)
 

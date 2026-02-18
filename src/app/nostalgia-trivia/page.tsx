@@ -33,7 +33,7 @@ export default function NostalgiaTrivia() {
       <div className="mx-auto max-w-6xl px-6 pb-16">
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {quizzes.map((quiz) => (
-            <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" />
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" iconColor="#3B6FC0" />
           ))}
         </div>
       </div>

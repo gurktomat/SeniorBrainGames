@@ -33,7 +33,7 @@ export default function GeneralKnowledge() {
       <div className="mx-auto max-w-6xl px-6 pb-16">
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {quizzes.map((quiz) => (
-            <QuizCard key={quiz.id} quiz={quiz} basePath="/general-knowledge" />
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/general-knowledge" iconColor="#0891B2" />
           ))}
         </div>
       </div>
