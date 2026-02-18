@@ -34,7 +34,7 @@ export default function ShareButton({
   return (
     <button
       onClick={handleShare}
-      className="w-full cursor-pointer rounded-xl border-2 border-secondary bg-secondary/10 px-8 py-4 text-lg font-semibold text-foreground transition-colors hover:bg-secondary/20 focus:outline-none focus:ring-4 focus:ring-secondary/30 sm:w-auto"
+      className="w-full cursor-pointer rounded-xl border-2 border-secondary bg-secondary/10 px-6 py-3.5 text-base font-bold text-foreground transition-all duration-200 hover:bg-secondary/20 focus:outline-none focus:ring-4 focus:ring-secondary/20 sm:w-auto"
       aria-label="Share your score"
     >
       {copied ? "Copied!" : "Share Score"}

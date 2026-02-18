@@ -1,0 +1,158 @@
+{
+  "id": "classic-radio",
+  "title": "Classic Radio Shows & Serials",
+  "description": "Before TV took over, radio was king! Test your knowledge of the golden age of radio entertainment.",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "radio-1",
+      "question": "The Shadow, one of radio's most famous characters, opened each episode with what iconic line?",
+      "options": ["'Good evening, friends'", "'Who knows what evil lurks in the hearts of men?'", "'Return with us now to those thrilling days'", "'The story you are about to hear is true'"],
+      "correctAnswer": 1,
+      "explanation": "The famous opening was followed by 'The Shadow knows!' The show ran from 1937 to 1954, with Orson Welles voicing the Shadow in the early years.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-2",
+      "question": "On 'Fibber McGee and Molly,' what running gag happened every time Fibber opened a certain door in his house?",
+      "options": ["A monster would growl", "An avalanche of junk would crash out of the closet", "His neighbor would pop in unexpectedly", "The phone would ring"],
+      "correctAnswer": 1,
+      "explanation": "The famous hall closet gag became one of radio's most beloved recurring jokes. Sound effects artists spent hours creating the elaborate cascade of crashing objects.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-3",
+      "question": "The Lone Ranger radio show began each episode with what famous musical piece?",
+      "options": ["Beethoven's Fifth Symphony", "The William Tell Overture", "Ride of the Valkyries", "Stars and Stripes Forever"],
+      "correctAnswer": 1,
+      "explanation": "Rossini's William Tell Overture became synonymous with the Lone Ranger. The show debuted on WXYZ Detroit in 1933 and ran on radio until 1954.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "music"
+    },
+    {
+      "id": "radio-4",
+      "question": "Orson Welles' 1938 radio broadcast of 'The War of the Worlds' caused widespread panic because listeners believed what was actually happening?",
+      "options": ["A massive earthquake", "A Martian invasion of Earth", "A German bombing raid", "A volcanic eruption"],
+      "correctAnswer": 1,
+      "explanation": "The October 30, 1938 Mercury Theatre broadcast was so realistic that some listeners tuning in late believed Martians were actually invading Grover's Mill, New Jersey.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-5",
+      "question": "George Burns and Gracie Allen's popular radio show relied on what comedic dynamic between the two?",
+      "options": ["George played the fool while Gracie was the straight woman", "Both played zany characters", "Gracie played the scatterbrained wife while George was the straight man", "They constantly argued and bickered"],
+      "correctAnswer": 2,
+      "explanation": "Gracie Allen's brilliantly ditzy logic and George Burns' bemused reactions became one of comedy's greatest partnerships. Their radio show ran from 1932 to 1950 before moving to TV.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-6",
+      "question": "On 'The Jack Benny Program,' what was Jack Benny's most famous comedic character trait?",
+      "options": ["His terrible singing", "His extreme stinginess", "His constant sneezing", "His fear of the dark"],
+      "correctAnswer": 1,
+      "explanation": "Jack Benny's legendary cheapskate persona produced classic bits, including the famous robbery scene: 'Your money or your life!' followed by a long pause, then 'I'm thinking it over!'",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-7",
+      "question": "The radio show 'Amos 'n' Andy' was so popular in the early 1930s that some movie theaters would do what during broadcast time?",
+      "options": ["Close their doors entirely", "Stop the movie and play the radio show over speakers", "Offer free tickets for the next day", "Play the show before the feature film"],
+      "correctAnswer": 1,
+      "explanation": "At the height of its popularity around 1930, 'Amos 'n' Andy' drew an estimated 40 million listeners. Some theaters paused films to pipe in the broadcast so audiences wouldn't stay home.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-8",
+      "question": "The Green Hornet radio show, which debuted in 1936, featured a hero whose secret identity was Britt Reid. What was his relation to another famous radio hero?",
+      "options": ["He was the son of the Lone Ranger", "He was the grandnephew of the Lone Ranger", "He was the brother of the Shadow", "He was the cousin of Buck Rogers"],
+      "correctAnswer": 1,
+      "explanation": "Britt Reid was written as the grandnephew of the Lone Ranger (John Reid). Both shows were created by George W. Trendle and originated from radio station WXYZ in Detroit.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-9",
+      "question": "The horror radio show 'Inner Sanctum Mysteries' opened each episode with what distinctive sound effect?",
+      "options": ["A wolf howling", "A creaking door", "Thunder crashing", "Chains rattling"],
+      "correctAnswer": 1,
+      "explanation": "The eerie sound of a slowly creaking door became one of radio's most recognizable openings. 'Inner Sanctum Mysteries' aired from 1941 to 1952 and was hosted by Raymond Edward Johnson.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-10",
+      "question": "The radio version of 'Dragnet' began with what famous four-note musical motif?",
+      "options": ["Dum-da-dum-dum", "Da-da-da-dum", "Bum-bum-bum-bah", "Dun-dun-dun-dun"],
+      "correctAnswer": 0,
+      "explanation": "Walter Schumann composed the iconic 'Dum-da-dum-dum' theme. 'Dragnet,' starring Jack Webb as Sergeant Joe Friday, debuted on radio in 1949 and became famous for its realistic police procedural style.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-11",
+      "question": "Eve Arden starred as a witty high school English teacher in which popular radio comedy that ran from 1948 to 1957?",
+      "options": ["The Goldbergs", "Our Miss Brooks", "My Friend Irma", "The Aldrich Family"],
+      "correctAnswer": 1,
+      "explanation": "Eve Arden's portrayal of the sharp-tongued Connie Brooks was so popular on radio that it successfully transitioned to a TV series and a 1956 feature film.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-12",
+      "question": "Before becoming one of the longest-running TV shows in history, 'Gunsmoke' originated as a radio program in what year?",
+      "options": ["1947", "1949", "1952", "1955"],
+      "correctAnswer": 2,
+      "explanation": "Gunsmoke debuted on CBS Radio on April 26, 1952, with William Conrad voicing Marshal Matt Dillon. When it moved to TV in 1955, James Arness took over the role.",
+      "difficulty": "hard",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-13",
+      "question": "Abbott and Costello's most famous comedy routine, first performed on radio, involved confusion over the names of players on a baseball team. What was it called?",
+      "options": ["'Play Ball!'", "'Who's on First?'", "'Take Me Out to the Ball Game'", "'The Baseball Mix-Up'"],
+      "correctAnswer": 1,
+      "explanation": "'Who's on First?' debuted on the Kate Smith Hour radio show in 1938. The routine, built on wordplay with players named 'Who,' 'What,' and 'I Don't Know,' is considered the greatest comedy bit of all time.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-14",
+      "question": "The radio anthology series 'Suspense' was known by what dramatic nickname?",
+      "options": ["'Radio's Outstanding Theater of Thrills'", "'The Scariest Show on Earth'", "'Theater of Terror'", "'Tales to Make You Tremble'"],
+      "correctAnswer": 0,
+      "explanation": "Billed as 'Radio's Outstanding Theater of Thrills,' Suspense aired from 1942 to 1962 and featured major Hollywood stars including Orson Welles, Humphrey Bogart, and Lucille Ball.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "radio-15",
+      "question": "The mystery radio show 'The Whistler' featured an anonymous narrator who introduced each story by saying he knew what?",
+      "options": ["'The secrets of the night'", "'Many things, for I walk by night'", "'What lies behind every locked door'", "'The truth that hides in shadows'"],
+      "correctAnswer": 1,
+      "explanation": "The Whistler's eerie opening — 'I am the Whistler, and I know many things, for I walk by night' — captivated listeners from 1942 to 1955. The show specialized in ironic twist endings.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "culture"
+    }
+  ]
+}

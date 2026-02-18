@@ -82,9 +82,7 @@ export default function MemoryCardEngine({
           setTimeout(() => {
             setCards((prev) =>
               prev.map((c) =>
-                c.id === firstId || c.id === secondId
-                  ? { ...c, matched: true }
-                  : c,
+                c.id === firstId || c.id === secondId ? { ...c, matched: true } : c,
               ),
             );
             setFlippedIds([]);
@@ -100,9 +98,7 @@ export default function MemoryCardEngine({
           setTimeout(() => {
             setCards((prev) =>
               prev.map((c) =>
-                c.id === firstId || c.id === secondId
-                  ? { ...c, flipped: false }
-                  : c,
+                c.id === firstId || c.id === secondId ? { ...c, flipped: false } : c,
               ),
             );
             setFlippedIds([]);
@@ -130,22 +126,17 @@ export default function MemoryCardEngine({
 
   if (!selectedLevel) {
     return (
-      <div className="mx-auto w-full max-w-2xl">
-        <h1
-          className="mb-6 text-2xl font-bold text-foreground"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
+      <div className="mx-auto w-full max-w-2xl px-6 py-8">
+        <h1 className="mb-6 text-2xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
           {title}
         </h1>
-        <p className="mb-6 text-lg text-text-muted">Choose a difficulty level:</p>
+        <p className="mb-6 text-base text-text-muted">Choose a difficulty level:</p>
         <div className="flex flex-col gap-4">
           {levels.map((level) => (
             <button
               key={level.id}
               onClick={() => startLevel(level)}
-              className="w-full cursor-pointer rounded-xl border-2 border-border bg-surface px-6 py-5 text-left text-xl font-semibold text-foreground transition-all hover:border-primary hover:bg-primary/5 focus:outline-none focus:ring-4 focus:ring-primary/30"
+              className="card-enterprise w-full cursor-pointer px-6 py-5 text-left text-xl font-semibold text-foreground"
             >
               {level.name}
             </button>
@@ -157,30 +148,17 @@ export default function MemoryCardEngine({
 
   if (finished) {
     return (
-      <div className="mx-auto w-full max-w-2xl text-center">
-        <div className="rounded-2xl bg-surface p-8 shadow-sm">
-          <h2
-            className="mb-2 text-3xl font-bold text-foreground"
-            style={{
-              fontFamily: "var(--font-merriweather), var(--font-heading)",
-            }}
-          >
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
+          <h2 className="mb-2 text-3xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
             All Pairs Found!
           </h2>
-          <p className="mb-6 text-xl text-text-muted">
-            You completed it in {moves} moves
-          </p>
-          <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
-            <button
-              onClick={() => startLevel(selectedLevel)}
-              className="cursor-pointer rounded-xl bg-primary px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-primary/30"
-            >
+          <p className="mb-6 text-lg text-text-muted">You completed it in {moves} moves</p>
+          <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
+            <button onClick={() => startLevel(selectedLevel)} className="btn-primary focus:outline-none focus:ring-4 focus:ring-primary/20">
               Play Again
             </button>
-            <button
-              onClick={() => setSelectedLevel(null)}
-              className="cursor-pointer rounded-xl border-2 border-border px-8 py-4 text-lg font-semibold text-foreground transition-colors hover:bg-background focus:outline-none focus:ring-4 focus:ring-primary/30"
-            >
+            <button onClick={() => setSelectedLevel(null)} className="btn-secondary focus:outline-none focus:ring-4 focus:ring-primary/20">
               Choose Level
             </button>
           </div>
@@ -197,21 +175,16 @@ export default function MemoryCardEngine({
         : "grid-cols-4 sm:grid-cols-5";
 
   return (
-    <div className="mx-auto w-full max-w-2xl">
+    <div className="mx-auto w-full max-w-2xl px-6 py-8">
       <div className="mb-6 flex items-center justify-between">
-        <h1
-          className="text-2xl font-bold text-foreground"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
+        <h1 className="text-xl font-bold text-foreground sm:text-2xl" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
           {title}
         </h1>
         <div className="flex items-center gap-4">
-          <span className="text-lg text-text-muted">
+          <span className="text-sm text-text-muted">
             Pairs: {matchedPairs}/{selectedLevel.pairs.length}
           </span>
-          <span className="rounded-full bg-primary/10 px-4 py-2 text-lg font-semibold text-primary">
+          <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
             Moves: {moves}
           </span>
         </div>
@@ -223,25 +196,20 @@ export default function MemoryCardEngine({
             key={card.id}
             onClick={() => handleCardClick(card.id)}
             disabled={card.flipped || card.matched}
-            aria-label={
-              card.flipped || card.matched
-                ? card.label
-                : "Hidden card"
-            }
-            className={`aspect-square cursor-pointer rounded-xl text-4xl transition-all duration-300 focus:outline-none focus:ring-4 focus:ring-primary/30 ${
+            aria-label={card.flipped || card.matched ? card.label : "Hidden card"}
+            className={`aspect-square cursor-pointer rounded-xl text-4xl transition-all duration-300 focus:outline-none focus:ring-4 focus:ring-primary/20 ${
               card.matched
-                ? "border-2 border-success/30 bg-success/10"
+                ? "border border-success/30 bg-success/10"
                 : card.flipped
                   ? "border-2 border-primary bg-surface"
-                  : "border-2 border-border bg-primary/10 hover:bg-primary/20"
+                  : "border border-border bg-primary-50 hover:bg-primary-100"
             }`}
+            style={!card.flipped && !card.matched ? { boxShadow: "var(--shadow-sm)" } : undefined}
           >
             {card.flipped || card.matched ? (
-              <span role="img" aria-label={card.label}>
-                {card.emoji}
-              </span>
+              <span role="img" aria-label={card.label}>{card.emoji}</span>
             ) : (
-              <span className="text-2xl text-primary/40">?</span>
+              <span className="text-2xl text-primary/30">?</span>
             )}
           </button>
         ))}

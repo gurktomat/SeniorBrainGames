@@ -1,0 +1,28 @@
+{
+  "id": "sliding-puzzle",
+  "title": "Sliding Puzzle",
+  "description": "Slide the tiles into the correct order!",
+  "puzzles": [
+    {
+      "id": "sliding-easy",
+      "title": "Easy (3\u00d73)",
+      "description": "A gentle 8-tile puzzle to get started",
+      "size": 3,
+      "tiles": [1, 2, 3, 4, 5, 6, 7, 0, 8]
+    },
+    {
+      "id": "sliding-medium",
+      "title": "Medium (4\u00d74)",
+      "description": "A classic 15-tile puzzle",
+      "size": 4,
+      "tiles": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 0, 12, 13, 14, 11, 15]
+    },
+    {
+      "id": "sliding-hard",
+      "title": "Hard (4\u00d74)",
+      "description": "A more scrambled 15-tile challenge",
+      "size": 4,
+      "tiles": [5, 1, 2, 4, 9, 6, 3, 8, 13, 10, 7, 12, 0, 14, 11, 15]
+    }
+  ]
+}

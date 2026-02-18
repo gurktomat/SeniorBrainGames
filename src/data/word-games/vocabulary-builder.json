@@ -1,0 +1,144 @@
+{
+  "id": "vocabulary-builder",
+  "title": "Vocabulary Builder",
+  "description": "Expand your word knowledge! Can you pick the correct definition for these interesting words?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vocab-1",
+      "question": "What does the word 'ephemeral' mean?",
+      "options": ["Extremely large", "Lasting for a very short time", "Related to outer space", "Highly respected"],
+      "correctAnswer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. A butterfly's life or morning dew are examples of ephemeral things.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "vocab-2",
+      "question": "What does the word 'ubiquitous' mean?",
+      "options": ["Extremely rare", "Found everywhere", "Very mysterious", "Highly dangerous"],
+      "correctAnswer": 1,
+      "explanation": "'Ubiquitous' means present, appearing, or found everywhere. Smartphones have become ubiquitous in modern life.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "vocab-3",
+      "question": "What does the word 'benevolent' mean?",
+      "options": ["Well-meaning and kindly", "Angry and hostile", "Shy and reserved", "Clever and witty"],
+      "correctAnswer": 0,
+      "explanation": "'Benevolent' means well-meaning and kindly. It comes from the Latin 'bene' (well) and 'volent' (wishing).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-4",
+      "question": "What does the word 'resilient' mean?",
+      "options": ["Easily broken", "Able to recover quickly from difficulties", "Very quiet and shy", "Extremely old"],
+      "correctAnswer": 1,
+      "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions. It suggests toughness and adaptability.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "vocab-5",
+      "question": "What does the word 'pragmatic' mean?",
+      "options": ["Overly emotional", "Dealing with things in a practical way", "Extremely artistic", "Very talkative"],
+      "correctAnswer": 1,
+      "explanation": "'Pragmatic' means dealing with things sensibly and realistically, based on practical rather than theoretical considerations.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-6",
+      "question": "What does the word 'eloquent' mean?",
+      "options": ["Unable to speak clearly", "Fluent and persuasive in speech or writing", "Very quiet", "Physically graceful"],
+      "correctAnswer": 1,
+      "explanation": "'Eloquent' means fluent or persuasive in speaking or writing. An eloquent speaker can move an audience with their words.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-7",
+      "question": "What does the word 'meticulous' mean?",
+      "options": ["Careless and sloppy", "Showing great attention to detail", "Very musical", "Extremely fast"],
+      "correctAnswer": 1,
+      "explanation": "'Meticulous' means showing great attention to detail and being very careful and precise in one's work.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-8",
+      "question": "What does the word 'gregarious' mean?",
+      "options": ["Fond of company and sociable", "Preferring to be alone", "Extremely greedy", "Very tall"],
+      "correctAnswer": 0,
+      "explanation": "'Gregarious' means fond of company and enjoying being with others. It comes from the Latin 'grex' meaning flock or herd.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "vocab-9",
+      "question": "What does the word 'candid' mean?",
+      "options": ["Secretive and dishonest", "Sweet like candy", "Truthful and straightforward", "Running for political office"],
+      "correctAnswer": 2,
+      "explanation": "'Candid' means truthful and straightforward, or frank. A candid photograph is one taken informally without posing.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "vocab-10",
+      "question": "What does the word 'tenacious' mean?",
+      "options": ["Extremely lazy", "Tending to keep a firm hold or persist", "Very gentle", "Easily frightened"],
+      "correctAnswer": 1,
+      "explanation": "'Tenacious' means holding firmly to something, whether a physical grip or an idea. It implies persistence and determination.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-11",
+      "question": "What does the word 'amiable' mean?",
+      "options": ["Unfriendly and cold", "Friendly, pleasant, and likable", "Very ambitious", "Easily amused"],
+      "correctAnswer": 1,
+      "explanation": "'Amiable' means having a friendly and pleasant manner. It comes from the Latin 'amicabilis' meaning friendly.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "vocab-12",
+      "question": "What does the word 'prudent' mean?",
+      "options": ["Acting with care and thought for the future", "Being overly proud", "Very old-fashioned", "Extremely rude"],
+      "correctAnswer": 0,
+      "explanation": "'Prudent' means acting with or showing care and thought for the future. A prudent person avoids unnecessary risks.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "vocab-13",
+      "question": "What does the word 'vivacious' mean?",
+      "options": ["Dull and boring", "Attractively lively and animated", "Very hungry", "Extremely loud"],
+      "correctAnswer": 1,
+      "explanation": "'Vivacious' means attractively lively and animated. It comes from the Latin 'vivax' meaning lively, related to 'vivere' (to live).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "vocab-14",
+      "question": "What does the word 'diligent' mean?",
+      "options": ["Lazy and careless", "Having or showing care in one's work", "Very intelligent", "Extremely brave"],
+      "correctAnswer": 1,
+      "explanation": "'Diligent' means having or showing care and conscientiousness in one's work or duties. A diligent student studies regularly.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "vocab-15",
+      "question": "What does the word 'astute' mean?",
+      "options": ["Having sharp judgment and insight", "Very rude and blunt", "Extremely quiet", "Physically strong"],
+      "correctAnswer": 0,
+      "explanation": "'Astute' means having the ability to accurately assess situations and turn them to one's advantage. It implies shrewdness and perceptiveness.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

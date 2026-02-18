@@ -1,0 +1,240 @@
+{
+  "id": "math-challenge",
+  "title": "Math Challenge",
+  "description": "Exercise your mental math skills with fun arithmetic puzzles!",
+  "gameCategory": "memory-games",
+  "gameType": "math-challenge",
+  "levels": [
+    {
+      "id": "math-easy",
+      "title": "Easy Math",
+      "description": "Simple addition and subtraction",
+      "problems": [
+        {
+          "id": "e1",
+          "question": "25 + 17 = ?",
+          "options": [42, 32, 52, 38],
+          "correctAnswer": 0,
+          "explanation": "25 + 17 = 42"
+        },
+        {
+          "id": "e2",
+          "question": "63 - 28 = ?",
+          "options": [45, 35, 25, 31],
+          "correctAnswer": 1,
+          "explanation": "63 - 28 = 35"
+        },
+        {
+          "id": "e3",
+          "question": "44 + 39 = ?",
+          "options": [73, 93, 83, 63],
+          "correctAnswer": 2,
+          "explanation": "44 + 39 = 83"
+        },
+        {
+          "id": "e4",
+          "question": "81 - 36 = ?",
+          "options": [55, 45, 35, 47],
+          "correctAnswer": 1,
+          "explanation": "81 - 36 = 45"
+        },
+        {
+          "id": "e5",
+          "question": "56 + 27 = ?",
+          "options": [83, 73, 93, 79],
+          "correctAnswer": 0,
+          "explanation": "56 + 27 = 83"
+        },
+        {
+          "id": "e6",
+          "question": "92 - 47 = ?",
+          "options": [55, 35, 45, 43],
+          "correctAnswer": 2,
+          "explanation": "92 - 47 = 45"
+        },
+        {
+          "id": "e7",
+          "question": "38 + 45 = ?",
+          "options": [73, 83, 93, 78],
+          "correctAnswer": 1,
+          "explanation": "38 + 45 = 83"
+        },
+        {
+          "id": "e8",
+          "question": "70 - 33 = ?",
+          "options": [47, 27, 37, 43],
+          "correctAnswer": 2,
+          "explanation": "70 - 33 = 37"
+        },
+        {
+          "id": "e9",
+          "question": "29 + 54 = ?",
+          "options": [83, 73, 93, 87],
+          "correctAnswer": 0,
+          "explanation": "29 + 54 = 83"
+        },
+        {
+          "id": "e10",
+          "question": "85 - 49 = ?",
+          "options": [46, 26, 36, 34],
+          "correctAnswer": 2,
+          "explanation": "85 - 49 = 36"
+        }
+      ]
+    },
+    {
+      "id": "math-medium",
+      "title": "Medium Math",
+      "description": "Multiplication and mixed operations",
+      "problems": [
+        {
+          "id": "m1",
+          "question": "12 \u00d7 8 = ?",
+          "options": [86, 96, 106, 88],
+          "correctAnswer": 1,
+          "explanation": "12 \u00d7 8 = 96"
+        },
+        {
+          "id": "m2",
+          "question": "15 \u00d7 6 = ?",
+          "options": [80, 100, 90, 75],
+          "correctAnswer": 2,
+          "explanation": "15 \u00d7 6 = 90"
+        },
+        {
+          "id": "m3",
+          "question": "7 \u00d7 13 = ?",
+          "options": [91, 81, 101, 87],
+          "correctAnswer": 0,
+          "explanation": "7 \u00d7 13 = 91"
+        },
+        {
+          "id": "m4",
+          "question": "45 + 67 = ?",
+          "options": [112, 102, 122, 108],
+          "correctAnswer": 0,
+          "explanation": "45 + 67 = 112"
+        },
+        {
+          "id": "m5",
+          "question": "9 \u00d7 11 = ?",
+          "options": [89, 109, 99, 91],
+          "correctAnswer": 2,
+          "explanation": "9 \u00d7 11 = 99"
+        },
+        {
+          "id": "m6",
+          "question": "125 - 68 = ?",
+          "options": [67, 47, 57, 63],
+          "correctAnswer": 2,
+          "explanation": "125 - 68 = 57"
+        },
+        {
+          "id": "m7",
+          "question": "14 \u00d7 7 = ?",
+          "options": [98, 88, 108, 94],
+          "correctAnswer": 0,
+          "explanation": "14 \u00d7 7 = 98"
+        },
+        {
+          "id": "m8",
+          "question": "8 \u00d7 16 = ?",
+          "options": [118, 128, 138, 124],
+          "correctAnswer": 1,
+          "explanation": "8 \u00d7 16 = 128"
+        },
+        {
+          "id": "m9",
+          "question": "156 - 79 = ?",
+          "options": [87, 67, 77, 83],
+          "correctAnswer": 2,
+          "explanation": "156 - 79 = 77"
+        },
+        {
+          "id": "m10",
+          "question": "11 \u00d7 12 = ?",
+          "options": [122, 142, 132, 128],
+          "correctAnswer": 2,
+          "explanation": "11 \u00d7 12 = 132"
+        }
+      ]
+    },
+    {
+      "id": "math-hard",
+      "title": "Hard Math",
+      "description": "Division, multi-step, and larger numbers",
+      "problems": [
+        {
+          "id": "h1",
+          "question": "144 \u00f7 12 = ?",
+          "options": [14, 12, 11, 13],
+          "correctAnswer": 1,
+          "explanation": "144 \u00f7 12 = 12"
+        },
+        {
+          "id": "h2",
+          "question": "25 \u00d7 16 = ?",
+          "options": [350, 400, 450, 375],
+          "correctAnswer": 1,
+          "explanation": "25 \u00d7 16 = 400"
+        },
+        {
+          "id": "h3",
+          "question": "256 \u00f7 8 = ?",
+          "options": [28, 36, 32, 24],
+          "correctAnswer": 2,
+          "explanation": "256 \u00f7 8 = 32"
+        },
+        {
+          "id": "h4",
+          "question": "17 \u00d7 23 = ?",
+          "options": [381, 401, 391, 371],
+          "correctAnswer": 2,
+          "explanation": "17 \u00d7 23 = 391"
+        },
+        {
+          "id": "h5",
+          "question": "450 \u00f7 15 = ?",
+          "options": [25, 35, 30, 20],
+          "correctAnswer": 2,
+          "explanation": "450 \u00f7 15 = 30"
+        },
+        {
+          "id": "h6",
+          "question": "33 \u00d7 11 = ?",
+          "options": [343, 363, 383, 353],
+          "correctAnswer": 1,
+          "explanation": "33 \u00d7 11 = 363"
+        },
+        {
+          "id": "h7",
+          "question": "1000 - 467 = ?",
+          "options": [543, 523, 533, 567],
+          "correctAnswer": 2,
+          "explanation": "1000 - 467 = 533"
+        },
+        {
+          "id": "h8",
+          "question": "225 \u00f7 15 = ?",
+          "options": [13, 17, 15, 12],
+          "correctAnswer": 2,
+          "explanation": "225 \u00f7 15 = 15"
+        },
+        {
+          "id": "h9",
+          "question": "48 \u00d7 7 = ?",
+          "options": [326, 346, 336, 316],
+          "correctAnswer": 2,
+          "explanation": "48 \u00d7 7 = 336"
+        },
+        {
+          "id": "h10",
+          "question": "999 - 573 = ?",
+          "options": [436, 416, 426, 446],
+          "correctAnswer": 2,
+          "explanation": "999 - 573 = 426"
+        }
+      ]
+    }
+  ]
+}

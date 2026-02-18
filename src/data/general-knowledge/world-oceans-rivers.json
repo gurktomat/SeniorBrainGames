@@ -1,0 +1,143 @@
+{
+  "id": "world-oceans-rivers",
+  "title": "Oceans, Rivers & Lakes",
+  "description": "Dive into geography! Test your knowledge of the world's great bodies of water.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "water-1",
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Pacific Ocean covers about 63 million square miles — more than all the land on Earth combined. It was named by explorer Ferdinand Magellan, meaning 'peaceful sea.'",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "water-2",
+      "question": "The Amazon River flows through which continent?",
+      "options": ["Africa", "Asia", "North America", "South America"],
+      "correctAnswer": 3,
+      "explanation": "The Amazon flows through South America, primarily Brazil and Peru. It carries more water than any other river — about 20% of all fresh water that flows into the world's oceans.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "water-3",
+      "question": "Which river is traditionally considered the longest in the world?",
+      "options": ["Amazon", "Mississippi", "Nile", "Yangtze"],
+      "correctAnswer": 2,
+      "explanation": "The Nile River stretches approximately 4,130 miles through northeastern Africa. It flows through 11 countries and was the lifeblood of ancient Egyptian civilization.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "water-4",
+      "question": "How many Great Lakes are there on the border of the United States and Canada?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": 2,
+      "explanation": "The five Great Lakes are Superior, Michigan, Huron, Erie, and Ontario. Together, they contain about 21% of the world's surface fresh water.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "water-5",
+      "question": "Why is the Dead Sea called 'dead'?",
+      "options": ["It has no fish or aquatic life", "It is completely dry", "It is frozen year-round", "It has no waves"],
+      "correctAnswer": 0,
+      "explanation": "The Dead Sea is so salty (about 10 times saltier than the ocean) that almost no organisms can survive in it. Its high salt content also makes swimmers float effortlessly.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "water-6",
+      "question": "Lake Baikal in Russia holds what remarkable distinction?",
+      "options": ["It is the largest lake by area", "It is the deepest lake in the world", "It is the warmest lake", "It is the highest lake"],
+      "correctAnswer": 1,
+      "explanation": "Lake Baikal is the deepest lake on Earth at over 5,300 feet deep. It contains about 20% of the world's unfrozen surface fresh water and is over 25 million years old.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-7",
+      "question": "The Mississippi River empties into which body of water?",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Gulf of Mexico", "Caribbean Sea"],
+      "correctAnswer": 2,
+      "explanation": "The Mississippi River flows south for about 2,340 miles and empties into the Gulf of Mexico near New Orleans. It drains water from 31 US states and two Canadian provinces.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-8",
+      "question": "The Mediterranean Sea is bordered by how many continents?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 2,
+      "explanation": "The Mediterranean Sea is bordered by three continents: Europe to the north, Africa to the south, and Asia to the east. Its name comes from Latin meaning 'middle of the Earth.'",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-9",
+      "question": "Niagara Falls sits on the border between which two countries?",
+      "options": ["United States and Mexico", "United States and Canada", "Canada and Greenland", "United States and Cuba"],
+      "correctAnswer": 1,
+      "explanation": "Niagara Falls straddles the border of Ontario, Canada, and New York, USA. About 750,000 gallons of water flow over the falls every second during peak daytime hours.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-10",
+      "question": "The Panama Canal connects which two oceans?",
+      "options": ["Atlantic and Indian", "Atlantic and Pacific", "Pacific and Indian", "Pacific and Arctic"],
+      "correctAnswer": 1,
+      "explanation": "The Panama Canal connects the Atlantic and Pacific Oceans across the Isthmus of Panama. Completed in 1914, it saved ships from having to sail around the southern tip of South America.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-11",
+      "question": "The Mariana Trench is the deepest point in the ocean. In which ocean is it located?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Mariana Trench in the western Pacific reaches nearly 36,000 feet deep at its lowest point, Challenger Deep. That's deeper than Mount Everest is tall.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "water-12",
+      "question": "The Suez Canal connects the Mediterranean Sea to which body of water?",
+      "options": ["Black Sea", "Red Sea", "Persian Gulf", "Caspian Sea"],
+      "correctAnswer": 1,
+      "explanation": "The Suez Canal, opened in 1869, connects the Mediterranean Sea to the Red Sea through Egypt. It eliminated the need for ships to navigate around Africa.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "water-13",
+      "question": "Lake Victoria, the largest lake in Africa, borders which three countries?",
+      "options": ["Kenya, Uganda, Tanzania", "Egypt, Sudan, Ethiopia", "Nigeria, Cameroon, Chad", "South Africa, Mozambique, Zimbabwe"],
+      "correctAnswer": 0,
+      "explanation": "Lake Victoria borders Kenya, Uganda, and Tanzania. It is the world's second-largest freshwater lake by area and is a major source of the Nile River.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "water-14",
+      "question": "The River Thames flows through which famous city?",
+      "options": ["Paris", "Dublin", "London", "Edinburgh"],
+      "correctAnswer": 2,
+      "explanation": "The Thames flows 215 miles through southern England and through the heart of London. It has been a vital trade route since Roman times and is home to the famous Tower Bridge.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "water-15",
+      "question": "The Danube River, the second longest in Europe, flows through how many countries?",
+      "options": ["5", "7", "10", "12"],
+      "correctAnswer": 2,
+      "explanation": "The Danube flows through 10 countries — more than any other river in the world. It passes through four European capital cities: Vienna, Bratislava, Budapest, and Belgrade.",
+      "difficulty": "hard",
+      "category": "geography"
+    }
+  ]
+}

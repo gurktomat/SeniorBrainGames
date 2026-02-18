@@ -1,0 +1,158 @@
+{
+  "id": "classic-cars",
+  "title": "Classic Cars & Automobiles",
+  "description": "From tail fins to muscle cars — how well do you remember the iconic automobiles of the 1950s through 1980s?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "cars-1",
+      "question": "The 1957 Chevrolet Bel Air is often considered one of the most iconic cars of its era. What body style made it especially popular with families?",
+      "options": ["Convertible", "Two-door hardtop sport coupe", "Four-door sedan", "Station wagon"],
+      "correctAnswer": 1,
+      "explanation": "The 1957 Bel Air's two-door hardtop sport coupe, with its distinctive chrome trim and tailfins, became the most sought-after model. Only about 166,000 were produced that year.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-2",
+      "question": "In what year was the Ford Mustang first introduced to the public?",
+      "options": ["1962", "1964", "1966", "1968"],
+      "correctAnswer": 1,
+      "explanation": "The Ford Mustang debuted on April 17, 1964, at the New York World's Fair. It was such a hit that Ford sold over 22,000 on the first day alone.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-3",
+      "question": "What year did the first Chevrolet Corvette roll off the assembly line?",
+      "options": ["1949", "1951", "1953", "1955"],
+      "correctAnswer": 2,
+      "explanation": "The first Corvette was produced on June 30, 1953, in Flint, Michigan. Only 300 were made that year, all in Polo White with red interiors.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-4",
+      "question": "The Volkswagen Beetle earned many nicknames over the years. Which advertising campaign in the 1960s helped make it a bestseller in America?",
+      "options": ["'The People's Car'", "'Think Small'", "'Fahrvergnugen'", "'Drivers Wanted'"],
+      "correctAnswer": 1,
+      "explanation": "The 'Think Small' campaign by Doyle Dane Bernbach in 1959 revolutionized advertising with its minimalist style. It's often ranked as the greatest ad campaign of the 20th century.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-5",
+      "question": "Which American car brand became famous for its dramatic tail fins in the late 1950s, reaching their most extreme height in 1959?",
+      "options": ["Buick", "Chrysler", "Cadillac", "Lincoln"],
+      "correctAnswer": 2,
+      "explanation": "Cadillac's 1959 models featured the tallest tail fins ever put on a production car, inspired by the twin tails of the P-38 Lightning fighter plane. Designer Harley Earl championed the look.",
+      "difficulty": "easy",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-6",
+      "question": "The AMC Gremlin, one of America's first subcompact cars, was introduced on what notable date in 1970?",
+      "options": ["New Year's Day", "April Fools' Day", "Independence Day", "Labor Day"],
+      "correctAnswer": 1,
+      "explanation": "AMC deliberately launched the Gremlin on April 1, 1970. Despite being mocked for its chopped-off rear end, it sold well as gas prices rose in the 1970s.",
+      "difficulty": "hard",
+      "decade": "1970s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-7",
+      "question": "The Pontiac GTO is widely considered the first true American muscle car. In what year was it introduced?",
+      "options": ["1962", "1964", "1966", "1968"],
+      "correctAnswer": 1,
+      "explanation": "The 1964 Pontiac GTO was the brainchild of engineer John DeLorean. It put a powerful 389 V8 engine into a midsize car, launching the muscle car era.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-8",
+      "question": "The DeLorean DMC-12, famous for its gull-wing doors and stainless steel body, was manufactured in which country?",
+      "options": ["United States", "England", "Northern Ireland", "Italy"],
+      "correctAnswer": 2,
+      "explanation": "The DeLorean was built in Dunmurry, Northern Ireland. Though the company went bankrupt in 1982, the car gained immortality as the time machine in 'Back to the Future.'",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-9",
+      "question": "Which actor's iconic car in 'Smokey and the Bandit' made the Pontiac Trans Am a cultural sensation in 1977?",
+      "options": ["Steve McQueen", "Burt Reynolds", "Paul Newman", "Clint Eastwood"],
+      "correctAnswer": 1,
+      "explanation": "Burt Reynolds drove a black and gold 1977 Pontiac Trans Am in 'Smokey and the Bandit.' Demand for the Trans Am skyrocketed after the film, with sales increasing by over 50%.",
+      "difficulty": "easy",
+      "decade": "1970s",
+      "category": "movies"
+    },
+    {
+      "id": "cars-10",
+      "question": "Henry Ford's Model T, produced from 1908 to 1927, was famously available in 'any color so long as it is' what?",
+      "options": ["Black", "Blue", "Green", "Red"],
+      "correctAnswer": 0,
+      "explanation": "Henry Ford's famous quip referred to the years 1914-1925 when only black was offered. Earlier Model Ts actually came in several colors including green, blue, and red.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "history"
+    },
+    {
+      "id": "cars-11",
+      "question": "The Ford Thunderbird was originally introduced in 1955 as what type of vehicle?",
+      "options": ["Family sedan", "Two-seat personal luxury car", "Station wagon", "Pickup truck"],
+      "correctAnswer": 1,
+      "explanation": "The original 1955-1957 Thunderbird was a sporty two-seater designed to compete with the Corvette. It shifted to a four-seat design in 1958, becoming more of a luxury cruiser.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-12",
+      "question": "The 1968 Dodge Charger became a pop culture icon largely thanks to a famous car chase scene in which movie?",
+      "options": ["The French Connection", "Bullitt", "Vanishing Point", "Gone in 60 Seconds"],
+      "correctAnswer": 1,
+      "explanation": "The 1968 Dodge Charger was the villain's car in the legendary chase scene in 'Bullitt' (1968), racing against Steve McQueen's Ford Mustang GT through the streets of San Francisco.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "cars-13",
+      "question": "MG sports cars, beloved by American enthusiasts in the 1950s and 1960s, were manufactured in which country?",
+      "options": ["Germany", "Italy", "England", "France"],
+      "correctAnswer": 2,
+      "explanation": "MG (Morris Garages) was a British manufacturer based in Abingdon, England. The MGA and MGB models were especially popular with American buyers who loved affordable open-top motoring.",
+      "difficulty": "easy",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-14",
+      "question": "Preston Tucker's revolutionary 1948 Tucker Torpedo featured a center headlight that did what?",
+      "options": ["Changed color with speed", "Turned with the steering wheel", "Blinked to warn other drivers", "Retracted into the hood"],
+      "correctAnswer": 1,
+      "explanation": "The Tucker 48's center 'Cyclops Eye' headlight turned with the steering wheel to illuminate curves. Only 51 Tucker cars were ever produced before the company folded.",
+      "difficulty": "hard",
+      "decade": "1940s",
+      "category": "culture"
+    },
+    {
+      "id": "cars-15",
+      "question": "In the 1960s and 1970s, what style of Chrysler vehicle became a symbol of the classic American family road trip?",
+      "options": ["Minivan", "Wood-paneled station wagon", "Convertible", "Hatchback"],
+      "correctAnswer": 1,
+      "explanation": "Chrysler's wood-paneled Town & Country station wagons were the quintessential family car. The iconic faux-wood side panels became a symbol of suburban American life.",
+      "difficulty": "hard",
+      "decade": "1970s",
+      "category": "culture"
+    }
+  ]
+}

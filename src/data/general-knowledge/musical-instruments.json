@@ -1,0 +1,143 @@
+{
+  "id": "musical-instruments",
+  "title": "Musical Instruments & Music History",
+  "description": "From classical symphony to jazz and rock — test your knowledge of musical instruments and music history!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "music-hist-1",
+      "question": "Around what year was the piano invented?",
+      "options": ["Around 1500", "Around 1600", "Around 1700", "Around 1800"],
+      "correctAnswer": 2,
+      "explanation": "The piano was invented around 1700 by Bartolomeo Cristofori in Italy. He called it the 'pianoforte' because unlike the harpsichord, it could play both soft (piano) and loud (forte) notes.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-2",
+      "question": "Which of these instruments is NOT part of the violin family?",
+      "options": ["Viola", "Cello", "Double bass", "Oboe"],
+      "correctAnswer": 3,
+      "explanation": "The oboe is a woodwind instrument, not a string instrument. The violin family consists of the violin, viola, cello, and double bass, all played with a bow.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-3",
+      "question": "How many strings does a standard acoustic guitar have?",
+      "options": ["4", "5", "6", "8"],
+      "correctAnswer": 2,
+      "explanation": "A standard guitar has 6 strings. The strings are typically tuned to E, A, D, G, B, and E from lowest to highest. Bass guitars, by contrast, usually have 4 strings.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-4",
+      "question": "Who invented the saxophone?",
+      "options": ["John Philip Sousa", "Adolphe Sax", "Antonio Stradivari", "Louis Armstrong"],
+      "correctAnswer": 1,
+      "explanation": "Belgian instrument maker Adolphe Sax invented the saxophone in the early 1840s and patented it in 1846. He designed it to bridge the gap between brass and woodwind instruments.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-5",
+      "question": "The trumpet is a key instrument in which genre of American music?",
+      "options": ["Country", "Jazz", "Bluegrass", "Folk"],
+      "correctAnswer": 1,
+      "explanation": "The trumpet is central to jazz music, with legends like Louis Armstrong and Miles Davis defining the genre. Armstrong's innovative style in the 1920s helped make jazz a worldwide phenomenon.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-6",
+      "question": "What is the large drum that produces a deep, booming sound in an orchestra called?",
+      "options": ["Snare drum", "Timpani", "Bongo", "Tom-tom"],
+      "correctAnswer": 1,
+      "explanation": "Timpani, also called kettledrums, are large copper drums that can be tuned to specific pitches. A standard orchestra typically uses four timpani, and they've been used in orchestras since the 17th century.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-7",
+      "question": "A pipe organ produces sound by sending air through what?",
+      "options": ["Strings", "Reeds", "Pipes of various sizes", "Membranes"],
+      "correctAnswer": 2,
+      "explanation": "Pipe organs produce sound by pushing air through pipes that vary in size from a few inches to over 30 feet long. The largest pipe organ in the world, at Boardwalk Hall in Atlantic City, has over 33,000 pipes.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-8",
+      "question": "Antonio Stradivari was a famous maker of which instrument?",
+      "options": ["Piano", "Violin", "Flute", "Guitar"],
+      "correctAnswer": 1,
+      "explanation": "Stradivari crafted violins, violas, and cellos in Cremona, Italy, during the late 1600s and early 1700s. His instruments are considered the finest ever made, with some selling for over $15 million.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-9",
+      "question": "The harmonica is also known by what other name?",
+      "options": ["Mouth organ", "Jaw harp", "Penny whistle", "Melodica"],
+      "correctAnswer": 0,
+      "explanation": "The harmonica is commonly called a mouth organ because the player blows and draws air through it. It became hugely popular in blues music, with players like Little Walter and Sonny Boy Williamson.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-10",
+      "question": "The banjo is believed to have originated from instruments brought to America from which continent?",
+      "options": ["Europe", "Asia", "Africa", "South America"],
+      "correctAnswer": 2,
+      "explanation": "The banjo evolved from African stringed instruments brought to America by enslaved people. It became central to American folk, bluegrass, and country music by the 19th century.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-11",
+      "question": "A classical symphony orchestra is traditionally divided into how many main sections?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "explanation": "An orchestra has four main sections: strings, woodwinds, brass, and percussion. The strings section is the largest, making up more than half of a typical orchestra.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-12",
+      "question": "Ludwig van Beethoven continued composing music even after losing which sense?",
+      "options": ["Sight", "Hearing", "Touch", "Taste"],
+      "correctAnswer": 1,
+      "explanation": "Beethoven began losing his hearing in his late 20s and was almost completely deaf by 1814. He composed some of his greatest works, including his Ninth Symphony, while profoundly deaf.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-13",
+      "question": "At what age did Wolfgang Amadeus Mozart begin composing music?",
+      "options": ["3", "5", "8", "10"],
+      "correctAnswer": 1,
+      "explanation": "Mozart began composing at age 5 and wrote his first symphony at age 8. Despite dying at just 35, he composed over 600 works, including 41 symphonies and 27 piano concertos.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-14",
+      "question": "In standard music notation, how many lines make up a musical staff?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": 2,
+      "explanation": "A standard musical staff has 5 lines and 4 spaces, each representing a different musical pitch. The modern five-line staff became standard in the 16th century.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "music-hist-15",
+      "question": "Tchaikovsky composed which famous ballet that is traditionally performed during the Christmas season?",
+      "options": ["Swan Lake", "Sleeping Beauty", "The Nutcracker", "Giselle"],
+      "correctAnswer": 2,
+      "explanation": "'The Nutcracker' premiered in 1892 in St. Petersburg, Russia. Its 'Dance of the Sugar Plum Fairy' features the celesta, a keyboard instrument Tchaikovsky specifically chose for its magical, bell-like sound.",
+      "difficulty": "hard",
+      "category": "music"
+    }
+  ]
+}

@@ -23,7 +23,8 @@ export default function StreakBanner() {
 
   return (
     <div
-      className="mb-6 rounded-xl bg-secondary/15 px-6 py-4 text-center text-lg font-semibold text-foreground"
+      className="border-b border-secondary/20 px-6 py-3 text-center text-base font-bold text-foreground"
+      style={{ background: "var(--gradient-warm)" }}
       role="status"
     >
       You&apos;ve played {streak} days in a row! Keep the streak going!

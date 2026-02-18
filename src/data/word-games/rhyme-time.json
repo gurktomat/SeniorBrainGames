@@ -1,0 +1,144 @@
+{
+  "id": "rhyme-time",
+  "title": "Rhyme Time",
+  "description": "Find the word that rhymes with the given word! A fun phonics challenge.",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rhyme-1",
+      "question": "Which word rhymes with 'night'?",
+      "options": ["Knit", "Flight", "Neat", "Not"],
+      "correctAnswer": 1,
+      "explanation": "'Flight' rhymes with 'night' — both end with the '-ight' sound.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-2",
+      "question": "Which word rhymes with 'bear'?",
+      "options": ["Beer", "Share", "Bar", "Bore"],
+      "correctAnswer": 1,
+      "explanation": "'Share' rhymes with 'bear' — both end with the '-air' sound.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-3",
+      "question": "Which word rhymes with 'moon'?",
+      "options": ["Moan", "Mine", "Tune", "Main"],
+      "correctAnswer": 2,
+      "explanation": "'Tune' rhymes with 'moon' — both end with the '-oon' sound.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-4",
+      "question": "Which word rhymes with 'cake'?",
+      "options": ["Cook", "Lake", "Kick", "Chalk"],
+      "correctAnswer": 1,
+      "explanation": "'Lake' rhymes with 'cake' — both end with the '-ake' sound.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-5",
+      "question": "Which word rhymes with 'tree'?",
+      "options": ["True", "Tray", "Free", "Throw"],
+      "correctAnswer": 2,
+      "explanation": "'Free' rhymes with 'tree' — both end with the '-ee' sound.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-6",
+      "question": "Which word rhymes with 'gold'?",
+      "options": ["Gild", "Bold", "Glad", "Guild"],
+      "correctAnswer": 1,
+      "explanation": "'Bold' rhymes with 'gold' — both end with the '-old' sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-7",
+      "question": "Which word rhymes with 'rain'?",
+      "options": ["Rein", "Run", "Train", "Rune"],
+      "correctAnswer": 2,
+      "explanation": "'Train' rhymes with 'rain' — both end with the '-ain' sound. ('Rein' also rhymes, but 'train' is the best match here.)",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-8",
+      "question": "Which word rhymes with 'bright'?",
+      "options": ["Breath", "Brought", "Sight", "Broth"],
+      "correctAnswer": 2,
+      "explanation": "'Sight' rhymes with 'bright' — both end with the '-ight' sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-9",
+      "question": "Which word rhymes with 'house'?",
+      "options": ["Horse", "Mouse", "Hose", "Moose"],
+      "correctAnswer": 1,
+      "explanation": "'Mouse' rhymes with 'house' — both end with the '-ouse' sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-10",
+      "question": "Which word rhymes with 'chair'?",
+      "options": ["Choir", "Cheer", "Stair", "Char"],
+      "correctAnswer": 2,
+      "explanation": "'Stair' rhymes with 'chair' — both end with the '-air' sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-11",
+      "question": "Which word rhymes with 'boat'?",
+      "options": ["Boot", "Bout", "Coat", "Bit"],
+      "correctAnswer": 2,
+      "explanation": "'Coat' rhymes with 'boat' — both end with the '-oat' sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-12",
+      "question": "Which word rhymes with 'star'?",
+      "options": ["Stir", "Store", "Car", "Sir"],
+      "correctAnswer": 2,
+      "explanation": "'Car' rhymes with 'star' — both end with the '-ar' sound.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-13",
+      "question": "Which word rhymes with 'ring'?",
+      "options": ["Rang", "Rung", "Sing", "Wrong"],
+      "correctAnswer": 2,
+      "explanation": "'Sing' rhymes with 'ring' — both end with the '-ing' sound.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-14",
+      "question": "Which word rhymes with 'day'?",
+      "options": ["Dew", "Die", "Play", "Do"],
+      "correctAnswer": 2,
+      "explanation": "'Play' rhymes with 'day' — both end with the '-ay' sound.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "rhyme-15",
+      "question": "Which word rhymes with 'ball'?",
+      "options": ["Bell", "Bull", "Tall", "Bowl"],
+      "correctAnswer": 2,
+      "explanation": "'Tall' rhymes with 'ball' — both end with the '-all' sound.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

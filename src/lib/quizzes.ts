@@ -214,6 +214,10 @@ export const specialGameSlugs: Record<string, string[]> = {
     "spelling-bee",
     "word-association",
     "crossword-classic",
+    "word-search",
+    "hangman",
+    "word-ladder",
+    "cryptogram",
   ],
   "memory-games": [
     "memory-card-match",
@@ -221,5 +225,9 @@ export const specialGameSlugs: Record<string, string[]> = {
     "whats-missing",
     "pattern-recognition",
     "color-shape-sorting",
+    "sudoku-puzzles",
+    "sliding-puzzle",
+    "sequence-memory",
+    "matching-pairs",
   ],
 };

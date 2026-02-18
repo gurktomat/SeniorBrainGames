@@ -30,7 +30,7 @@ export default function QuestionView({
       <div className="mb-6 flex flex-col gap-3" role="group" aria-label="Answer options">
         {question.options.map((option, i) => {
           let style =
-            "border-2 border-border bg-surface text-foreground hover:border-primary hover:bg-primary/5";
+            "border border-border bg-surface text-foreground hover:border-primary-200 hover:bg-primary-50";
 
           if (selected !== null) {
             if (i === question.correctAnswer) {
@@ -38,7 +38,7 @@ export default function QuestionView({
             } else if (i === selected && !correct) {
               style = "border-2 border-error bg-error/10 text-foreground";
             } else {
-              style = "border-2 border-border bg-background text-text-muted";
+              style = "border border-border bg-background text-text-muted";
             }
           }
 
@@ -48,12 +48,13 @@ export default function QuestionView({
               onClick={() => handleSelect(i)}
               disabled={selected !== null}
               aria-label={`Option ${String.fromCharCode(65 + i)}: ${option}`}
-              className={`w-full cursor-pointer rounded-xl px-5 py-4 text-left text-lg font-medium transition-all focus:outline-none focus:ring-4 focus:ring-primary/30 ${style} ${
+              className={`w-full cursor-pointer rounded-xl px-5 py-4 text-left text-lg font-medium transition-all duration-200 focus:outline-none focus:ring-4 focus:ring-primary/20 ${style} ${
                 selected !== null ? "cursor-default" : ""
               }`}
+              style={selected === null ? { boxShadow: "var(--shadow-sm)" } : undefined}
             >
-              <span className="mr-3 inline-block w-8 text-center font-bold">
-                {String.fromCharCode(65 + i)}.
+              <span className="mr-3 inline-flex h-8 w-8 items-center justify-center rounded-lg bg-primary-50 text-sm font-bold text-primary">
+                {String.fromCharCode(65 + i)}
               </span>
               {option}
             </button>
@@ -64,14 +65,14 @@ export default function QuestionView({
       {question.hint && selected === null && (
         <button
           onClick={() => setShowHint(true)}
-          className="text-lg text-primary underline hover:text-primary-dark focus:outline-none focus:ring-2 focus:ring-primary/30"
+          className="text-base font-semibold text-primary underline-offset-2 hover:text-primary-dark hover:underline focus:outline-none focus:ring-2 focus:ring-primary/20"
         >
           {showHint ? "" : "Need a hint?"}
         </button>
       )}
 
       {showHint && selected === null && (
-        <p className="mt-2 rounded-lg bg-secondary/15 p-4 text-lg text-foreground">
+        <p className="mt-2 rounded-xl border border-secondary-light/30 bg-warm-bg p-4 text-base text-foreground">
           {question.hint}
         </p>
       )}
@@ -80,8 +81,8 @@ export default function QuestionView({
         <div
           role="status"
           aria-live="polite"
-          className={`mt-4 rounded-lg p-4 text-lg font-semibold ${
-            correct ? "bg-success/10 text-foreground" : "bg-error/10 text-foreground"
+          className={`mt-4 rounded-xl p-4 text-lg font-semibold ${
+            correct ? "border border-success/20 bg-success/10 text-foreground" : "border border-error/20 bg-error/10 text-foreground"
           }`}
         >
           <p>

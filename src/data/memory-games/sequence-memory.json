@@ -1,0 +1,37 @@
+{
+  "id": "sequence-memory",
+  "title": "Sequence Memory",
+  "description": "Watch the sequence of colors light up, then repeat it from memory!",
+  "levels": [
+    {
+      "id": "seq-easy",
+      "title": "Easy (4 Colors)",
+      "description": "Start with 4 colors \u2014 how long a sequence can you remember?",
+      "colorCount": 4,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow"],
+      "startLength": 2,
+      "maxLength": 10
+    },
+    {
+      "id": "seq-medium",
+      "title": "Medium (5 Colors)",
+      "description": "5 colors make it trickier \u2014 stay focused!",
+      "colorCount": 5,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308", "#A855F7"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow", "Purple"],
+      "startLength": 2,
+      "maxLength": 12
+    },
+    {
+      "id": "seq-hard",
+      "title": "Hard (6 Colors)",
+      "description": "6 colors and longer sequences \u2014 a real memory challenge!",
+      "colorCount": 6,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308", "#A855F7", "#F97316"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange"],
+      "startLength": 3,
+      "maxLength": 15
+    }
+  ]
+}

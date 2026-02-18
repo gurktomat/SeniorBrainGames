@@ -40,6 +40,30 @@ const specialGames = [
     description: "Solve classic crossword puzzles — fill the grid using the across and down clues!",
     count: "3 Puzzles",
   },
+  {
+    id: "word-search",
+    title: "Word Search",
+    description: "Find all the hidden words in the grid — look across and down!",
+    count: "3 Puzzles",
+  },
+  {
+    id: "hangman",
+    title: "Hangman",
+    description: "Guess the word one letter at a time before you run out of lives!",
+    count: "30 Words",
+  },
+  {
+    id: "word-ladder",
+    title: "Word Ladder",
+    description: "Change one letter at a time to transform the start word into the end word!",
+    count: "10 Puzzles",
+  },
+  {
+    id: "cryptogram",
+    title: "Cryptogram",
+    description: "Decode the secret message by figuring out the letter substitutions!",
+    count: "10 Puzzles",
+  },
 ];
 
 export default function WordGames() {

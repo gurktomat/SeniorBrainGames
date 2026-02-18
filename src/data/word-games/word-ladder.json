@@ -1,0 +1,89 @@
+{
+  "id": "word-ladder",
+  "title": "Word Ladder",
+  "description": "Change one letter at a time to transform the start word into the end word!",
+  "gameCategory": "word-games",
+  "gameType": "word-ladder",
+  "puzzles": [
+    {
+      "id": "ladder-1",
+      "title": "Cold to Warm",
+      "startWord": "COLD",
+      "endWord": "WARM",
+      "solution": ["COLD", "CORD", "WORD", "WARD", "WARM"],
+      "hint": "Try changing the L to an R"
+    },
+    {
+      "id": "ladder-2",
+      "title": "Head to Tail",
+      "startWord": "HEAD",
+      "endWord": "TAIL",
+      "solution": ["HEAD", "HEAL", "TEAL", "TELL", "TALL", "TAIL"],
+      "hint": "Start by HEALing"
+    },
+    {
+      "id": "ladder-3",
+      "title": "Boat to Mast",
+      "startWord": "BOAT",
+      "endWord": "MAST",
+      "solution": ["BOAT", "MOAT", "MAST"],
+      "hint": "Cross the MOAT"
+    },
+    {
+      "id": "ladder-4",
+      "title": "Cats to Dogs",
+      "startWord": "CATS",
+      "endWord": "DOGS",
+      "solution": ["CATS", "COTS", "DOTS", "DOGS"],
+      "hint": "Sleep on some COTS"
+    },
+    {
+      "id": "ladder-5",
+      "title": "Mine to Gold",
+      "startWord": "MINE",
+      "endWord": "GOLD",
+      "solution": ["MINE", "MILE", "MILD", "MOLD", "GOLD"],
+      "hint": "Walk a MILE first"
+    },
+    {
+      "id": "ladder-6",
+      "title": "Five to Four",
+      "startWord": "FIVE",
+      "endWord": "FOUR",
+      "solution": ["FIVE", "FIRE", "FORE", "FOUR"],
+      "hint": "Light a FIRE"
+    },
+    {
+      "id": "ladder-7",
+      "title": "Hand to Foot",
+      "startWord": "HAND",
+      "endWord": "FOOT",
+      "solution": ["HAND", "BAND", "BOND", "BOON", "BOOT", "FOOT"],
+      "hint": "Join a BAND"
+    },
+    {
+      "id": "ladder-8",
+      "title": "Make to Done",
+      "startWord": "MAKE",
+      "endWord": "DONE",
+      "solution": ["MAKE", "MARE", "DARE", "DONE"],
+      "hint": "Ride a MARE"
+    },
+    {
+      "id": "ladder-9",
+      "title": "Lake to Pond",
+      "startWord": "LAKE",
+      "endWord": "POND",
+      "solution": ["LAKE", "LANE", "PANE", "PONE", "POND"],
+      "hint": "Take the LANE"
+    },
+    {
+      "id": "ladder-10",
+      "title": "Sick to Well",
+      "startWord": "SICK",
+      "endWord": "WELL",
+      "solution": ["SICK", "SILK", "SILL", "WILL", "WELL"],
+      "hint": "Wrap yourself in SILK"
+    }
+  ]
+}

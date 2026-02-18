@@ -11,18 +11,23 @@ export default function QuizCard({
   return (
     <Link
       href={`${basePath}/${quiz.id}`}
-      className="block rounded-2xl border-2 border-border bg-surface p-6 shadow-sm transition-all hover:border-primary hover:shadow-md focus:outline-none focus:ring-4 focus:ring-primary/30 active:scale-[0.98]"
+      className="card-enterprise group flex flex-col p-6"
     >
       <h2
-        className="mb-2 text-xl font-bold text-foreground"
+        className="mb-2 text-lg font-bold text-foreground"
         style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
       >
         {quiz.title}
       </h2>
-      <p className="mb-4 text-lg text-text-muted">{quiz.description}</p>
-      <span className="inline-block rounded-full bg-primary/10 px-4 py-2 text-base font-semibold text-primary">
-        {quiz.questions.length} Questions
-      </span>
+      <p className="mb-4 flex-1 text-base text-text-muted">{quiz.description}</p>
+      <div className="flex items-center justify-between">
+        <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+          {quiz.questions.length} Questions
+        </span>
+        <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+          Play &rarr;
+        </span>
+      </div>
     </Link>
   );
 }

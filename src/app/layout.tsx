@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Merriweather, Source_Sans_3 } from "next/font/google";
 import Navigation from "@/components/Navigation";
 import "./globals.css";
@@ -48,33 +49,50 @@ export default function RootLayout({
           Skip to content
         </a>
         <Navigation />
-        <main id="main-content" className="mx-auto max-w-5xl px-4 py-8">
+        <main id="main-content">
           {children}
         </main>
-        <footer className="mt-12 border-t border-border bg-surface py-8">
-          <div className="mx-auto max-w-5xl px-4">
-            <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-between">
-              <p className="text-lg font-semibold text-foreground">
-                SeniorBrainGames.org
-              </p>
-              <nav aria-label="Footer navigation" className="flex gap-6">
-                <a
-                  href="/about"
-                  className="text-base text-text-muted hover:text-primary transition-colors"
+        <footer className="mt-16 border-t border-border bg-surface">
+          <div className="mx-auto max-w-6xl px-6 py-12">
+            <div className="grid gap-8 sm:grid-cols-3">
+              <div>
+                <p
+                  className="mb-2 text-lg font-bold text-foreground"
+                  style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
                 >
-                  About
-                </a>
-                <a
-                  href="/privacy"
-                  className="text-base text-text-muted hover:text-primary transition-colors"
-                >
-                  Privacy
-                </a>
-              </nav>
+                  SeniorBrainGames
+                </p>
+                <p className="text-base text-text-muted">
+                  Keep your mind sharp with fun, free brain games designed for everyone.
+                </p>
+              </div>
+              <div>
+                <p className="mb-3 text-sm font-bold uppercase tracking-wider text-text-muted">
+                  Categories
+                </p>
+                <nav aria-label="Footer categories" className="flex flex-col gap-2">
+                  <Link href="/nostalgia-trivia" className="text-base text-text-muted transition-colors hover:text-primary">Nostalgia Trivia</Link>
+                  <Link href="/general-knowledge" className="text-base text-text-muted transition-colors hover:text-primary">General Knowledge</Link>
+                  <Link href="/word-games" className="text-base text-text-muted transition-colors hover:text-primary">Word Games</Link>
+                  <Link href="/memory-games" className="text-base text-text-muted transition-colors hover:text-primary">Memory Games</Link>
+                </nav>
+              </div>
+              <div>
+                <p className="mb-3 text-sm font-bold uppercase tracking-wider text-text-muted">
+                  Site
+                </p>
+                <nav aria-label="Footer navigation" className="flex flex-col gap-2">
+                  <Link href="/daily-challenge" className="text-base text-text-muted transition-colors hover:text-primary">Daily Challenge</Link>
+                  <Link href="/about" className="text-base text-text-muted transition-colors hover:text-primary">About</Link>
+                  <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
+                </nav>
+              </div>
             </div>
-            <p className="mt-4 text-center text-base text-text-muted">
-              Keep your mind sharp with fun brain games!
-            </p>
+            <div className="mt-10 border-t border-border pt-6 text-center">
+              <p className="text-sm text-text-muted">
+                &copy; {new Date().getFullYear()} SeniorBrainGames.org. Free brain games for a sharper mind.
+              </p>
+            </div>
           </div>
         </footer>
       </body>

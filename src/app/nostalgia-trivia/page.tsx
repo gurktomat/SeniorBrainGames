@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
+import CategoryIcon from "@/components/CategoryIcon";
 
 export const metadata: Metadata = {
   title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
@@ -14,23 +15,27 @@ export default function NostalgiaTrivia() {
 
   return (
     <div>
-      <div className="mb-8 text-center">
-        <p className="mb-2 text-4xl">{info.icon}</p>
-        <h1
-          className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
-          {info.title}
-        </h1>
-        <p className="text-xl text-text-muted">{info.description}</p>
+      <div className="mb-12 px-6 py-12 text-center" style={{ background: "linear-gradient(135deg, #3B6FC015 0%, #F8F9FC 100%)" }}>
+        <div className="mx-auto max-w-3xl">
+          <span className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ background: "#3B6FC0", color: "white" }}>
+            <CategoryIcon name={info.icon} size={28} strokeWidth={1.75} />
+          </span>
+          <h1
+            className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            {info.title}
+          </h1>
+          <p className="text-lg text-text-muted">{info.description}</p>
+        </div>
       </div>
 
-      <div className="grid gap-6 sm:grid-cols-2">
-        {quizzes.map((quiz) => (
-          <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" />
-        ))}
+      <div className="mx-auto max-w-6xl px-6 pb-16">
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {quizzes.map((quiz) => (
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" />
+          ))}
+        </div>
       </div>
     </div>
   );

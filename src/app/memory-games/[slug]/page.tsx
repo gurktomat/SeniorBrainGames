@@ -6,6 +6,10 @@ import SpotDifferenceEngine from "@/components/SpotDifferenceEngine";
 import WhatsMissingEngine from "@/components/WhatsMissingEngine";
 import PatternEngine from "@/components/PatternEngine";
 import SortingEngine from "@/components/SortingEngine";
+import SudokuEngine from "@/components/SudokuEngine";
+import SlidingPuzzleEngine from "@/components/SlidingPuzzleEngine";
+import SequenceMemoryEngine from "@/components/SequenceMemoryEngine";
+import MatchingPairsEngine from "@/components/MatchingPairsEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import memoryCardData from "@/data/memory-games/memory-card-match.json";
@@ -13,6 +17,10 @@ import spotDiffData from "@/data/memory-games/spot-the-difference.json";
 import whatsMissingData from "@/data/memory-games/whats-missing.json";
 import patternData from "@/data/memory-games/pattern-recognition.json";
 import sortingData from "@/data/memory-games/color-shape-sorting.json";
+import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
+import slidingPuzzleData from "@/data/memory-games/sliding-puzzle.json";
+import sequenceMemoryData from "@/data/memory-games/sequence-memory.json";
+import matchingPairsData from "@/data/memory-games/matching-pairs.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "memory-card-match": { title: "Memory Card Match", description: "Flip cards to find matching pairs!" },
@@ -20,6 +28,10 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "whats-missing": { title: "What's Missing?", description: "Study the items carefully, then figure out which one disappeared!" },
   "pattern-recognition": { title: "Pattern Recognition", description: "Find the pattern and choose what comes next!" },
   "color-shape-sorting": { title: "Color & Shape Sorting", description: "Sort items into the correct categories!" },
+  "sudoku-puzzles": { title: "Sudoku", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!" },
+  "sliding-puzzle": { title: "Sliding Puzzle", description: "Slide the tiles into the correct order!" },
+  "sequence-memory": { title: "Sequence Memory", description: "Watch the colors light up, then repeat the sequence from memory!" },
+  "matching-pairs": { title: "Matching Pairs", description: "Match each item on the left with its partner on the right!" },
 };
 
 export function generateStaticParams() {
@@ -97,6 +109,34 @@ export default async function MemoryGamePage({
         <SortingEngine
           title={sortingData.title}
           rounds={sortingData.rounds}
+        />
+      );
+    case "sudoku-puzzles":
+      return (
+        <SudokuEngine
+          title={sudokuData.title}
+          puzzles={sudokuData.puzzles}
+        />
+      );
+    case "sliding-puzzle":
+      return (
+        <SlidingPuzzleEngine
+          title={slidingPuzzleData.title}
+          puzzles={slidingPuzzleData.puzzles}
+        />
+      );
+    case "sequence-memory":
+      return (
+        <SequenceMemoryEngine
+          title={sequenceMemoryData.title}
+          levels={sequenceMemoryData.levels}
+        />
+      );
+    case "matching-pairs":
+      return (
+        <MatchingPairsEngine
+          title={matchingPairsData.title}
+          rounds={matchingPairsData.rounds}
         />
       );
     default:

@@ -49,21 +49,21 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
   }
 
   return (
-    <div className="mx-auto w-full max-w-2xl">
+    <div className="mx-auto w-full max-w-2xl px-6 py-8">
       <div className="mb-6 flex items-center justify-between">
         <h1
-          className="text-2xl font-bold text-foreground"
+          className="text-xl font-bold text-foreground sm:text-2xl"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
         >
           {quiz.title}
         </h1>
-        <span className="rounded-full bg-primary/10 px-4 py-2 text-lg font-semibold text-primary">
+        <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
           {currentIndex + 1} / {quiz.questions.length}
         </span>
       </div>
 
       <div
-        className="mb-8 h-3 w-full overflow-hidden rounded-full bg-border"
+        className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border"
         role="progressbar"
         aria-valuenow={currentIndex + 1}
         aria-valuemin={1}
@@ -71,7 +71,7 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
         aria-label={`Question ${currentIndex + 1} of ${quiz.questions.length}`}
       >
         <div
-          className="h-full rounded-full bg-primary transition-all duration-500"
+          className="progress-bar-gradient h-full transition-all duration-500"
           style={{
             width: `${((currentIndex + 1) / quiz.questions.length) * 100}%`,
           }}

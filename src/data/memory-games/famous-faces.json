@@ -1,0 +1,144 @@
+{
+  "id": "famous-faces",
+  "title": "Famous Faces",
+  "description": "Can you identify these famous people from their descriptions? Test your memory of iconic figures!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "faces-1",
+      "question": "Which famous person is known for their iconic white dress blowing up over a subway grate in the 1955 film 'The Seven Year Itch'?",
+      "options": ["Audrey Hepburn", "Marilyn Monroe", "Grace Kelly", "Elizabeth Taylor"],
+      "correctAnswer": 1,
+      "explanation": "Marilyn Monroe's white halter dress scene became one of the most iconic images in cinema history.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "faces-2",
+      "question": "Which famous scientist is known for his wild white hair, theory of relativity, and the equation E=mc²?",
+      "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+      "correctAnswer": 2,
+      "explanation": "Albert Einstein's distinctive appearance and groundbreaking physics made him the most recognizable scientist in history.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "faces-3",
+      "question": "Which monarch reigned for over 70 years, was crowned in 1953, and was known for her colorful matching outfits and handbags?",
+      "options": ["Queen Victoria", "Queen Elizabeth II", "Queen Mary", "Queen Anne"],
+      "correctAnswer": 1,
+      "explanation": "Queen Elizabeth II became the longest-reigning British monarch, serving from 1952 until her death in 2022.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "faces-4",
+      "question": "Which U.S. President is remembered for his tall stovepipe hat, beard, and delivering the Gettysburg Address?",
+      "options": ["George Washington", "Theodore Roosevelt", "Abraham Lincoln", "Ulysses S. Grant"],
+      "correctAnswer": 2,
+      "explanation": "Abraham Lincoln's towering height of 6'4\" and distinctive top hat made him instantly recognizable. He led the nation through the Civil War.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "faces-5",
+      "question": "Which actress is remembered for her role as Holly Golightly in 'Breakfast at Tiffany's,' often pictured in a little black dress and pearls?",
+      "options": ["Audrey Hepburn", "Katharine Hepburn", "Ingrid Bergman", "Sophia Loren"],
+      "correctAnswer": 0,
+      "explanation": "Audrey Hepburn became a fashion icon and beloved actress, also known for her humanitarian work with UNICEF.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "faces-6",
+      "question": "Which silent film star is known for his 'Little Tramp' character, bowler hat, small mustache, baggy pants, and cane?",
+      "options": ["Buster Keaton", "Harold Lloyd", "Charlie Chaplin", "Laurel Hardy"],
+      "correctAnswer": 2,
+      "explanation": "Charlie Chaplin's 'Little Tramp' character became one of the most recognized images in film history during the silent era.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-7",
+      "question": "Which civil rights leader is famous for his 'I Have a Dream' speech delivered at the Lincoln Memorial in 1963?",
+      "options": ["Malcolm X", "Martin Luther King Jr.", "Jesse Jackson", "Frederick Douglass"],
+      "correctAnswer": 1,
+      "explanation": "Martin Luther King Jr. delivered his iconic speech during the March on Washington, becoming a defining moment of the civil rights movement.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-8",
+      "question": "Which member of the British royal family was known as 'The People's Princess' and was famous for her humanitarian work and her iconic sapphire engagement ring?",
+      "options": ["Princess Margaret", "Princess Diana", "Sarah Ferguson", "Princess Anne"],
+      "correctAnswer": 1,
+      "explanation": "Princess Diana captured the world's heart with her compassion and style. Her sapphire ring later became Kate Middleton's engagement ring.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-9",
+      "question": "Which rock and roll legend was known as 'The King,' famous for his hip-swiveling dance moves and living at Graceland in Memphis?",
+      "options": ["Chuck Berry", "Jerry Lee Lewis", "Elvis Presley", "Little Richard"],
+      "correctAnswer": 2,
+      "explanation": "Elvis Presley revolutionized popular music and became one of the most significant cultural icons of the 20th century.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-10",
+      "question": "Which British Prime Minister is known for his 'V for Victory' hand sign, ever-present cigar, and leading Britain through World War II?",
+      "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Anthony Eden"],
+      "correctAnswer": 1,
+      "explanation": "Winston Churchill's defiant leadership and rousing speeches rallied the British people during their darkest hours in WWII.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-11",
+      "question": "Which Mexican artist is famous for her vibrant self-portraits, unibrow, floral headpieces, and paintings that explored identity and pain?",
+      "options": ["Georgia O'Keeffe", "Frida Kahlo", "Leonora Carrington", "Remedios Varo"],
+      "correctAnswer": 1,
+      "explanation": "Frida Kahlo created deeply personal artwork influenced by Mexican folk art. Her distinctive appearance became iconic worldwide.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "faces-12",
+      "question": "Which U.S. President, known for his youthful charm and the Camelot era, gave the famous 'Ich bin ein Berliner' speech in 1963?",
+      "options": ["Dwight D. Eisenhower", "Lyndon B. Johnson", "John F. Kennedy", "Richard Nixon"],
+      "correctAnswer": 2,
+      "explanation": "John F. Kennedy was the 35th U.S. President. His presidency and tragic assassination in 1963 remain defining moments in American history.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "faces-13",
+      "question": "Which Nobel Peace Prize winner is known for wearing a white sari with blue trim and founding the Missionaries of Charity in Calcutta?",
+      "options": ["Florence Nightingale", "Mother Teresa", "Clara Barton", "Malala Yousafzai"],
+      "correctAnswer": 1,
+      "explanation": "Mother Teresa dedicated her life to serving the poorest of the poor in India and was canonized as a saint in 2016.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "faces-14",
+      "question": "Which entertainment pioneer created a beloved cartoon mouse, built a famous theme park in California, and won 22 Academy Awards?",
+      "options": ["Walt Disney", "Jim Henson", "Steven Spielberg", "George Lucas"],
+      "correctAnswer": 0,
+      "explanation": "Walt Disney created Mickey Mouse in 1928 and opened Disneyland in 1955. He holds the record for the most Academy Awards won by an individual.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "faces-15",
+      "question": "Which astronaut is famous for saying 'That's one small step for man, one giant leap for mankind' when becoming the first person to walk on the Moon?",
+      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Alan Shepard"],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong made history on July 20, 1969, when he became the first human to set foot on the Moon during the Apollo 11 mission.",
+      "difficulty": "hard",
+      "category": "memory"
+    }
+  ]
+}

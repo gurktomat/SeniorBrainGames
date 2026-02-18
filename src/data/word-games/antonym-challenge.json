@@ -1,0 +1,144 @@
+{
+  "id": "antonym-challenge",
+  "title": "Antonym Challenge",
+  "description": "Find the word that means the OPPOSITE of the given word!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ant-1",
+      "question": "Which word is an antonym for 'ancient'?",
+      "options": ["Historic", "Modern", "Aged", "Timeless"],
+      "correctAnswer": 1,
+      "explanation": "'Modern' means relating to the present time, making it the opposite of 'ancient,' which refers to something very old.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ant-2",
+      "question": "Which word is an antonym for 'bold'?",
+      "options": ["Brave", "Daring", "Timid", "Fierce"],
+      "correctAnswer": 2,
+      "explanation": "'Timid' means lacking courage or confidence, which is the direct opposite of 'bold.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ant-3",
+      "question": "Which word is an antonym for 'generous'?",
+      "options": ["Kind", "Stingy", "Wealthy", "Charitable"],
+      "correctAnswer": 1,
+      "explanation": "'Stingy' means unwilling to give or spend, making it the opposite of 'generous.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ant-4",
+      "question": "Which word is an antonym for 'humble'?",
+      "options": ["Modest", "Shy", "Arrogant", "Quiet"],
+      "correctAnswer": 2,
+      "explanation": "'Arrogant' means having an exaggerated sense of one's own importance, the opposite of being 'humble.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ant-5",
+      "question": "Which word is an antonym for 'rigid'?",
+      "options": ["Stiff", "Flexible", "Solid", "Firm"],
+      "correctAnswer": 1,
+      "explanation": "'Flexible' means capable of bending easily, which is the direct opposite of 'rigid.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ant-6",
+      "question": "Which word is an antonym for 'tranquil'?",
+      "options": ["Peaceful", "Serene", "Chaotic", "Calm"],
+      "correctAnswer": 2,
+      "explanation": "'Chaotic' means in a state of complete disorder, the opposite of the peaceful state described by 'tranquil.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-7",
+      "question": "Which word is an antonym for 'abundant'?",
+      "options": ["Plentiful", "Ample", "Scarce", "Overflowing"],
+      "correctAnswer": 2,
+      "explanation": "'Scarce' means insufficient or in short supply, making it the opposite of 'abundant.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-8",
+      "question": "Which word is an antonym for 'vague'?",
+      "options": ["Unclear", "Fuzzy", "Precise", "Hazy"],
+      "correctAnswer": 2,
+      "explanation": "'Precise' means exact and clearly defined, the opposite of 'vague,' which means unclear or uncertain.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-9",
+      "question": "Which word is an antonym for 'trivial'?",
+      "options": ["Minor", "Significant", "Petty", "Small"],
+      "correctAnswer": 1,
+      "explanation": "'Significant' means important or noteworthy, which is the opposite of 'trivial,' meaning of little value.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-10",
+      "question": "Which word is an antonym for 'fragile'?",
+      "options": ["Delicate", "Breakable", "Sturdy", "Brittle"],
+      "correctAnswer": 2,
+      "explanation": "'Sturdy' means strong and well-built, the direct opposite of 'fragile,' which means easily broken.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-11",
+      "question": "Which word is an antonym for 'expand'?",
+      "options": ["Enlarge", "Contract", "Stretch", "Inflate"],
+      "correctAnswer": 1,
+      "explanation": "'Contract' means to shrink or become smaller, the opposite of 'expand,' which means to grow larger.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ant-12",
+      "question": "Which word is an antonym for 'shallow'?",
+      "options": ["Surface", "Profound", "Thin", "Flat"],
+      "correctAnswer": 1,
+      "explanation": "'Profound' means very deep or intense, making it the opposite of 'shallow,' which means lacking depth.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ant-13",
+      "question": "Which word is an antonym for 'optimistic'?",
+      "options": ["Hopeful", "Cheerful", "Pessimistic", "Confident"],
+      "correctAnswer": 2,
+      "explanation": "'Pessimistic' means expecting the worst outcome, the direct opposite of 'optimistic,' which means expecting the best.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ant-14",
+      "question": "Which word is an antonym for 'permanent'?",
+      "options": ["Lasting", "Temporary", "Enduring", "Eternal"],
+      "correctAnswer": 1,
+      "explanation": "'Temporary' means lasting for only a limited time, the opposite of 'permanent,' which means lasting indefinitely.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ant-15",
+      "question": "Which word is an antonym for 'artificial'?",
+      "options": ["Synthetic", "Fabricated", "Manufactured", "Natural"],
+      "correctAnswer": 3,
+      "explanation": "'Natural' means existing in or derived from nature, the opposite of 'artificial,' which means made by humans.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

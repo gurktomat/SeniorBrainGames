@@ -23,13 +23,16 @@ export default function Navigation() {
   };
 
   return (
-    <header className="border-b border-border bg-surface sticky top-0 z-50">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
+    <header className="glass-nav sticky top-0 z-50 border-b border-border/60">
+      <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link
           href="/"
-          className="text-2xl font-bold text-primary font-heading"
+          className="flex items-center gap-2 text-xl font-bold text-primary transition-colors hover:text-primary-dark"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
         >
+          <span className="flex h-9 w-9 items-center justify-center rounded-lg text-lg" style={{ background: "var(--gradient-primary)" }}>
+            <span className="text-white">B</span>
+          </span>
           SeniorBrainGames
         </Link>
 
@@ -40,11 +43,12 @@ export default function Navigation() {
               <li key={link.href}>
                 <Link
                   href={link.href}
-                  className={`rounded-lg px-3 py-2 text-base font-medium transition-colors ${
+                  className={`rounded-lg px-3 py-2 text-[15px] font-semibold transition-all duration-200 ${
                     isActive(link.href)
-                      ? "bg-primary text-white"
-                      : "text-foreground hover:bg-primary/10 hover:text-primary"
+                      ? "text-white shadow-sm"
+                      : "text-text-muted hover:bg-primary-50 hover:text-primary"
                   }`}
+                  style={isActive(link.href) ? { background: "var(--gradient-primary)" } : undefined}
                 >
                   {link.label}
                 </Link>
@@ -56,14 +60,14 @@ export default function Navigation() {
         {/* Mobile hamburger */}
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="flex h-12 w-12 items-center justify-center rounded-lg text-foreground hover:bg-primary/10 lg:hidden"
+          className="flex h-11 w-11 items-center justify-center rounded-lg text-foreground transition-colors hover:bg-primary-50 lg:hidden"
           aria-expanded={isOpen}
           aria-controls="mobile-menu"
           aria-label={isOpen ? "Close menu" : "Open menu"}
         >
           <svg
-            width="28"
-            height="28"
+            width="24"
+            height="24"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
@@ -79,9 +83,9 @@ export default function Navigation() {
               </>
             ) : (
               <>
-                <line x1="3" y1="6" x2="21" y2="6" />
-                <line x1="3" y1="12" x2="21" y2="12" />
-                <line x1="3" y1="18" x2="21" y2="18" />
+                <line x1="4" y1="6" x2="20" y2="6" />
+                <line x1="4" y1="12" x2="20" y2="12" />
+                <line x1="4" y1="18" x2="20" y2="18" />
               </>
             )}
           </svg>
@@ -93,7 +97,7 @@ export default function Navigation() {
         <nav
           id="mobile-menu"
           aria-label="Mobile navigation"
-          className="border-t border-border bg-surface px-4 py-2 lg:hidden"
+          className="border-t border-border/60 bg-surface px-6 py-3 lg:hidden"
         >
           <ul className="flex flex-col gap-1">
             {navLinks.map((link) => (
@@ -101,11 +105,12 @@ export default function Navigation() {
                 <Link
                   href={link.href}
                   onClick={() => setIsOpen(false)}
-                  className={`block rounded-lg px-4 py-3 text-lg font-medium transition-colors ${
+                  className={`block rounded-lg px-4 py-3 text-lg font-semibold transition-all duration-200 ${
                     isActive(link.href)
-                      ? "bg-primary text-white"
-                      : "text-foreground hover:bg-primary/10 hover:text-primary"
+                      ? "text-white"
+                      : "text-foreground hover:bg-primary-50 hover:text-primary"
                   }`}
+                  style={isActive(link.href) ? { background: "var(--gradient-primary)" } : undefined}
                 >
                   {link.label}
                 </Link>

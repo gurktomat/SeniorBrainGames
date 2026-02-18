@@ -24,7 +24,7 @@ export default function DailyChallengeClient({ quiz }: { quiz: Quiz }) {
 
   const handleClick = useCallback(() => {
     setTimeout(() => {
-      const resultsEl = document.querySelector('[class*="text-6xl"]');
+      const resultsEl = document.querySelector('[class*="text-5xl"]') || document.querySelector('[class*="text-4xl"]');
       if (resultsEl && !hasNotified.current) {
         markDailyCompleted();
         updateStreak();
@@ -36,7 +36,7 @@ export default function DailyChallengeClient({ quiz }: { quiz: Quiz }) {
   return (
     <div>
       {completed && (
-        <div className="mb-6 rounded-xl bg-success/10 px-6 py-4 text-center text-lg font-semibold text-foreground">
+        <div className="border-b border-success/20 px-6 py-4 text-center text-base font-bold text-foreground" style={{ background: "linear-gradient(135deg, #16A34A10 0%, #F8F9FC 100%)" }}>
           You&apos;ve already completed today&apos;s challenge! Come back
           tomorrow for a new one.
         </div>

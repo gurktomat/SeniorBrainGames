@@ -1,0 +1,144 @@
+{
+  "id": "trivia-recall",
+  "title": "Trivia Recall",
+  "description": "How sharp is your memory? Answer these recall-based trivia questions that test what you remember!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "recall-1",
+      "question": "How many states are there in the United States of America?",
+      "options": ["48", "50", "51", "52"],
+      "correctAnswer": 1,
+      "explanation": "The United States has 50 states. The last two to join were Alaska and Hawaii, both admitted in 1959.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "recall-2",
+      "question": "How many letters are in the English alphabet?",
+      "options": ["24", "25", "26", "27"],
+      "correctAnswer": 2,
+      "explanation": "The English alphabet has 26 letters, from A to Z.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "recall-3",
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "recall-4",
+      "question": "How many planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": 1,
+      "explanation": "There are 8 planets in our solar system. Pluto was reclassified as a dwarf planet in 2006.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "recall-5",
+      "question": "How many colors are in a rainbow?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "A rainbow has 7 colors: red, orange, yellow, green, blue, indigo, and violet (ROYGBIV).",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "recall-6",
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "explanation": "A hexagon has 6 sides. The prefix 'hex' comes from the Greek word for six.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-7",
+      "question": "How many justices serve on the United States Supreme Court?",
+      "options": ["7", "9", "11", "13"],
+      "correctAnswer": 1,
+      "explanation": "The U.S. Supreme Court has 9 justices: one Chief Justice and eight Associate Justices.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-8",
+      "question": "How many original colonies formed the United States?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": 3,
+      "explanation": "There were 13 original colonies, which is why the American flag has 13 stripes.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-9",
+      "question": "How many cards are in a standard deck of playing cards?",
+      "options": ["48", "50", "52", "54"],
+      "correctAnswer": 2,
+      "explanation": "A standard deck has 52 playing cards, divided into 4 suits of 13 cards each.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-10",
+      "question": "How many rings are in the Olympic symbol?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "explanation": "The Olympic symbol has 5 interlocking rings, representing the five continents united by the Olympic movement.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-11",
+      "question": "How many signs are there in the zodiac?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": 2,
+      "explanation": "There are 12 zodiac signs, starting with Aries and ending with Pisces, each covering roughly one month.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "recall-12",
+      "question": "How many bones are in the adult human body?",
+      "options": ["186", "196", "206", "216"],
+      "correctAnswer": 2,
+      "explanation": "An adult human body has 206 bones. Babies are born with about 270 bones, but many fuse together as they grow.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "recall-13",
+      "question": "How many amendments make up the Bill of Rights in the U.S. Constitution?",
+      "options": ["5", "8", "10", "12"],
+      "correctAnswer": 2,
+      "explanation": "The Bill of Rights consists of the first 10 amendments to the U.S. Constitution, ratified in 1791.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "recall-14",
+      "question": "How many Great Lakes are there in North America?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "explanation": "There are 5 Great Lakes: Superior, Michigan, Huron, Erie, and Ontario. Remember them with the acronym HOMES.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "recall-15",
+      "question": "How many strings does a standard acoustic guitar have?",
+      "options": ["4", "5", "6", "8"],
+      "correctAnswer": 2,
+      "explanation": "A standard guitar has 6 strings. A bass guitar typically has 4 strings, while some specialty guitars have 12.",
+      "difficulty": "hard",
+      "category": "memory"
+    }
+  ]
+}

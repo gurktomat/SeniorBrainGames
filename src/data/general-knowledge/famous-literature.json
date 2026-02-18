@@ -1,0 +1,143 @@
+{
+  "id": "famous-literature",
+  "title": "Famous Authors & Literature",
+  "description": "From Shakespeare to Hemingway — how well do you know the world's greatest books and authors?",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "lit-1",
+      "question": "Who wrote the tragic love story 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Geoffrey Chaucer"],
+      "correctAnswer": 1,
+      "explanation": "Shakespeare wrote 'Romeo and Juliet' around 1594-1596. It remains one of the most performed plays in the world and has inspired countless adaptations.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "lit-2",
+      "question": "In Shakespeare's 'Hamlet,' what is the famous opening line of Hamlet's most well-known soliloquy?",
+      "options": ["'All the world's a stage'", "'To be, or not to be'", "'Out, out, brief candle'", "'What's in a name?'"],
+      "correctAnswer": 1,
+      "explanation": "'To be, or not to be, that is the question' is perhaps the most famous line in all of English literature. The soliloquy explores themes of life, death, and existence.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "lit-3",
+      "question": "Charles Dickens wrote 'A Tale of Two Cities.' Which two cities does it refer to?",
+      "options": ["New York and Boston", "London and Paris", "Rome and Venice", "Berlin and Vienna"],
+      "correctAnswer": 1,
+      "explanation": "'A Tale of Two Cities' (1859) is set during the French Revolution. Its opening line — 'It was the best of times, it was the worst of times' — is one of the most famous in literature.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-4",
+      "question": "What was the real name of the American author known as Mark Twain?",
+      "options": ["Samuel Clemens", "Henry James", "Ralph Waldo Emerson", "Nathaniel Hawthorne"],
+      "correctAnswer": 0,
+      "explanation": "Samuel Langhorne Clemens adopted the pen name Mark Twain, a riverboat term meaning 'two fathoms deep.' He wrote 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn.'",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-5",
+      "question": "Which novel by Jane Austen begins with the line 'It is a truth universally acknowledged'?",
+      "options": ["Sense and Sensibility", "Emma", "Pride and Prejudice", "Persuasion"],
+      "correctAnswer": 2,
+      "explanation": "'Pride and Prejudice' (1813) opens with one of the most iconic sentences in English literature. Austen completed the novel when she was just 21 years old.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-6",
+      "question": "Ernest Hemingway wrote which of these novels?",
+      "options": ["The Great Gatsby", "The Old Man and the Sea", "Of Mice and Men", "Catch-22"],
+      "correctAnswer": 1,
+      "explanation": "'The Old Man and the Sea' (1952) tells the story of an aging Cuban fisherman. It won the Pulitzer Prize in 1953 and helped Hemingway win the Nobel Prize in Literature in 1954.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "lit-7",
+      "question": "F. Scott Fitzgerald is best known for writing which classic American novel?",
+      "options": ["The Sun Also Rises", "The Great Gatsby", "Farewell to Arms", "The Catcher in the Rye"],
+      "correctAnswer": 1,
+      "explanation": "'The Great Gatsby' (1925) captures the glamour and emptiness of the Jazz Age. Though it received mixed reviews initially, it is now considered one of the greatest American novels.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "lit-8",
+      "question": "Who wrote the classic novel 'To Kill a Mockingbird'?",
+      "options": ["Flannery O'Connor", "Harper Lee", "Toni Morrison", "Maya Angelou"],
+      "correctAnswer": 1,
+      "explanation": "Harper Lee published 'To Kill a Mockingbird' in 1960. Set in the American South, it addresses racial injustice and won the Pulitzer Prize. Lee published only one other novel in her lifetime.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "lit-9",
+      "question": "J.R.R. Tolkien is the author of which fantasy epic?",
+      "options": ["The Chronicles of Narnia", "The Lord of the Rings", "Harry Potter", "A Game of Thrones"],
+      "correctAnswer": 1,
+      "explanation": "Tolkien published 'The Lord of the Rings' in three volumes between 1954 and 1955. He created entire languages for the world of Middle-earth, drawing on his expertise as a linguistics professor at Oxford.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-10",
+      "question": "Agatha Christie holds the Guinness World Record for being the best-selling what?",
+      "options": ["Poet", "Fiction writer", "Playwright", "Children's author"],
+      "correctAnswer": 1,
+      "explanation": "Agatha Christie is the best-selling fiction writer of all time, with over 2 billion copies sold worldwide. She created the beloved detectives Hercule Poirot and Miss Marple.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-11",
+      "question": "Which poem by Edgar Allan Poe features a talking bird that repeats 'Nevermore'?",
+      "options": ["The Tell-Tale Heart", "The Raven", "Annabel Lee", "The Bells"],
+      "correctAnswer": 1,
+      "explanation": "'The Raven' was published in 1845 and made Poe a household name. The poem's dark, melodic style and haunting refrain of 'Nevermore' made it an instant sensation.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "lit-12",
+      "question": "Emily Brontë wrote which classic novel set on the Yorkshire moors?",
+      "options": ["Jane Eyre", "Wuthering Heights", "Middlemarch", "Tess of the d'Urbervilles"],
+      "correctAnswer": 1,
+      "explanation": "'Wuthering Heights' (1847) was Emily Brontë's only novel. It was published under the pen name Ellis Bell and tells the passionate, turbulent story of Heathcliff and Catherine.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "lit-13",
+      "question": "The ancient Greek poet Homer is credited with writing 'The Odyssey.' What is it about?",
+      "options": ["The Trojan War battles", "Odysseus's long journey home after the Trojan War", "The founding of Rome", "The creation of the Greek gods"],
+      "correctAnswer": 1,
+      "explanation": "'The Odyssey' follows the hero Odysseus on his 10-year journey home after the Trojan War. It's one of the oldest works of Western literature, composed around the 8th century BC.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "lit-14",
+      "question": "Who wrote the novel 'Moby Dick' about an obsessive hunt for a white whale?",
+      "options": ["Herman Melville", "Nathaniel Hawthorne", "Jack London", "Joseph Conrad"],
+      "correctAnswer": 0,
+      "explanation": "Herman Melville published 'Moby Dick' in 1851. It was a commercial failure during his lifetime but is now considered one of the greatest American novels ever written.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "lit-15",
+      "question": "Who wrote the dystopian novel '1984,' which introduced concepts like 'Big Brother' and 'thoughtcrime'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "H.G. Wells"],
+      "correctAnswer": 2,
+      "explanation": "George Orwell published '1984' in 1949, depicting a totalitarian society under constant surveillance. The novel's terms like 'Big Brother' and 'Orwellian' have become part of everyday language.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

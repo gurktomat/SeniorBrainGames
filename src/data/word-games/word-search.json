@@ -1,0 +1,102 @@
+{
+  "id": "word-search",
+  "title": "Word Search",
+  "description": "Find all the hidden words in the grid!",
+  "gameCategory": "word-games",
+  "gameType": "word-search",
+  "puzzles": [
+    {
+      "id": "nature-words",
+      "title": "Nature Words",
+      "description": "Find words related to the natural world",
+      "grid": [
+        "MHFLOWERPJBD",
+        "OKTWSGNQXLVF",
+        "UPGARDENHMCY",
+        "NWJBXKDQSTFL",
+        "TGRIVERLAKEN",
+        "AXDHCPWJMBQS",
+        "IFSUNSETKLVH",
+        "NCQWDGPRXJBY",
+        "KLBREEZETNHW",
+        "DSJFPVCEMXGQ",
+        "HWOCEANBKDLF",
+        "MEADOWJTSPVN"
+      ],
+      "words": [
+        { "word": "MOUNTAIN", "startRow": 0, "startCol": 0, "endRow": 7, "endCol": 0 },
+        { "word": "FLOWER", "startRow": 0, "startCol": 2, "endRow": 0, "endCol": 7 },
+        { "word": "GARDEN", "startRow": 2, "startCol": 2, "endRow": 2, "endCol": 7 },
+        { "word": "RIVER", "startRow": 4, "startCol": 2, "endRow": 4, "endCol": 6 },
+        { "word": "LAKE", "startRow": 4, "startCol": 7, "endRow": 4, "endCol": 10 },
+        { "word": "SUNSET", "startRow": 6, "startCol": 2, "endRow": 6, "endCol": 7 },
+        { "word": "TREE", "startRow": 6, "startCol": 7, "endRow": 9, "endCol": 7 },
+        { "word": "BREEZE", "startRow": 8, "startCol": 2, "endRow": 8, "endCol": 7 },
+        { "word": "OCEAN", "startRow": 10, "startCol": 2, "endRow": 10, "endCol": 6 },
+        { "word": "MEADOW", "startRow": 11, "startCol": 0, "endRow": 11, "endCol": 5 }
+      ]
+    },
+    {
+      "id": "kitchen-cooking",
+      "title": "Kitchen & Cooking",
+      "description": "Find words related to cooking and the kitchen",
+      "grid": [
+        "DKRECIPEWHJG",
+        "NFVHQMBXTLSP",
+        "BUTTERJPLATE",
+        "OGNKDXWEHQFV",
+        "WHSPOONPMBJL",
+        "LDXQKVFPGWNT",
+        "PNFLOURESJHK",
+        "JWQMTGBRXDVN",
+        "SUGARHOVENWF",
+        "VBDKNJQLPTMX",
+        "SAUCEWHGKFDJ",
+        "XLNTHPMQBVGW"
+      ],
+      "words": [
+        { "word": "RECIPE", "startRow": 0, "startCol": 2, "endRow": 0, "endCol": 7 },
+        { "word": "BUTTER", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 5 },
+        { "word": "PLATE", "startRow": 2, "startCol": 7, "endRow": 2, "endCol": 11 },
+        { "word": "BOWL", "startRow": 2, "startCol": 0, "endRow": 5, "endCol": 0 },
+        { "word": "SPOON", "startRow": 4, "startCol": 2, "endRow": 4, "endCol": 6 },
+        { "word": "PEPPER", "startRow": 2, "startCol": 7, "endRow": 7, "endCol": 7 },
+        { "word": "FLOUR", "startRow": 6, "startCol": 2, "endRow": 6, "endCol": 6 },
+        { "word": "SUGAR", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 4 },
+        { "word": "OVEN", "startRow": 8, "startCol": 6, "endRow": 8, "endCol": 9 },
+        { "word": "SAUCE", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 4 }
+      ]
+    },
+    {
+      "id": "around-the-house",
+      "title": "Around the House",
+      "description": "Find words for things found around the home",
+      "grid": [
+        "WINDOWGKJBHF",
+        "TVHQJNDCLOCK",
+        "CARPETMHWBGJ",
+        "TABLEFKANQDV",
+        "MIRRORWIBHJG",
+        "NDKGVQBRFWTJ",
+        "PILLOWHNDKQV",
+        "GWFBHJTMKNDX",
+        "CLOSETVSHELF",
+        "DKNWQGJBVTMH",
+        "LAMPFNHWQKGD",
+        "VJQHBKTNWFDG"
+      ],
+      "words": [
+        { "word": "WINDOW", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 5 },
+        { "word": "CLOCK", "startRow": 1, "startCol": 7, "endRow": 1, "endCol": 11 },
+        { "word": "CARPET", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 5 },
+        { "word": "TABLE", "startRow": 3, "startCol": 0, "endRow": 3, "endCol": 4 },
+        { "word": "MIRROR", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 5 },
+        { "word": "CHAIR", "startRow": 1, "startCol": 7, "endRow": 5, "endCol": 7 },
+        { "word": "PILLOW", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 5 },
+        { "word": "CLOSET", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 5 },
+        { "word": "SHELF", "startRow": 8, "startCol": 7, "endRow": 8, "endCol": 11 },
+        { "word": "LAMP", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 3 }
+      ]
+    }
+  ]
+}

@@ -30,8 +30,7 @@ export default function SpellingBeeEngine({
     (e: React.FormEvent) => {
       e.preventDefault();
       if (result !== null) return;
-      const isCorrect =
-        guess.trim().toUpperCase() === word.word.toUpperCase();
+      const isCorrect = guess.trim().toUpperCase() === word.word.toUpperCase();
       setResult(isCorrect ? "correct" : "wrong");
       if (isCorrect) setScore((s) => s + 1);
 
@@ -61,27 +60,15 @@ export default function SpellingBeeEngine({
   if (finished) {
     const percentage = Math.round((score / words.length) * 100);
     return (
-      <div className="mx-auto w-full max-w-2xl text-center">
-        <div className="rounded-2xl bg-surface p-8 shadow-sm">
-          <h2
-            className="mb-2 text-3xl font-bold text-foreground"
-            style={{
-              fontFamily: "var(--font-merriweather), var(--font-heading)",
-            }}
-          >
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
+          <h2 className="mb-2 text-3xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
             Game Complete!
           </h2>
-          <p className="mb-6 text-xl text-text-muted">{title}</p>
-          <span className="text-6xl font-bold text-primary">
-            {percentage}%
-          </span>
-          <p className="mt-2 text-xl text-foreground">
-            {score} out of {words.length} correct
-          </p>
-          <button
-            onClick={handleRestart}
-            className="mt-8 cursor-pointer rounded-xl bg-primary px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-primary/30"
-          >
+          <p className="mb-6 text-lg text-text-muted">{title}</p>
+          <span className="text-5xl font-bold text-primary">{percentage}%</span>
+          <p className="mt-2 text-lg text-foreground">{score} out of {words.length} correct</p>
+          <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
           </button>
         </div>
@@ -90,44 +77,25 @@ export default function SpellingBeeEngine({
   }
 
   return (
-    <div className="mx-auto w-full max-w-2xl">
+    <div className="mx-auto w-full max-w-2xl px-6 py-8">
       <div className="mb-6 flex items-center justify-between">
-        <h1
-          className="text-2xl font-bold text-foreground"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
+        <h1 className="text-xl font-bold text-foreground sm:text-2xl" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
           {title}
         </h1>
-        <span className="rounded-full bg-primary/10 px-4 py-2 text-lg font-semibold text-primary">
+        <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
           {currentIndex + 1} / {words.length}
         </span>
       </div>
 
-      <div
-        className="mb-8 h-3 w-full overflow-hidden rounded-full bg-border"
-        role="progressbar"
-        aria-valuenow={currentIndex + 1}
-        aria-valuemin={1}
-        aria-valuemax={words.length}
-      >
-        <div
-          className="h-full rounded-full bg-primary transition-all duration-500"
-          style={{
-            width: `${((currentIndex + 1) / words.length) * 100}%`,
-          }}
-        />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={words.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / words.length) * 100}%` }} />
       </div>
 
-      <div className="rounded-2xl bg-surface p-8 shadow-sm text-center">
-        <p className="mb-2 text-base text-text-muted">Spell this word:</p>
+      <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>
+        <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-text-muted">Spell this word</p>
         <p className="mb-6 text-xl text-foreground">{word.definition}</p>
 
-        <form
-          onSubmit={handleSubmit}
-          className="flex flex-col items-center gap-4"
-        >
+        <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4">
           <input
             type="text"
             value={guess}
@@ -138,46 +106,29 @@ export default function SpellingBeeEngine({
             autoCapitalize="off"
             autoCorrect="off"
             spellCheck={false}
-            className="w-full max-w-xs rounded-xl border-2 border-border bg-background px-5 py-4 text-center text-xl font-semibold text-foreground focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/30"
+            className="w-full max-w-xs rounded-xl border border-border bg-background px-5 py-4 text-center text-xl font-semibold text-foreground transition-colors focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/20"
             aria-label="Spell the word"
           />
-          <button
-            type="submit"
-            disabled={result !== null || guess.trim() === ""}
-            className="cursor-pointer rounded-xl bg-primary px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-primary/30 disabled:opacity-50"
-          >
+          <button type="submit" disabled={result !== null || guess.trim() === ""} className="btn-primary disabled:opacity-50 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Submit
           </button>
         </form>
 
         {!showHint && result === null && (
-          <button
-            onClick={() => setShowHint(true)}
-            className="mt-4 text-lg text-primary underline hover:text-primary-dark"
-          >
+          <button onClick={() => setShowHint(true)} className="mt-4 text-base font-semibold text-primary hover:text-primary-dark hover:underline">
             Need a hint?
           </button>
         )}
 
         {showHint && result === null && (
-          <p className="mt-4 rounded-lg bg-secondary/15 p-4 text-lg text-foreground">
+          <p className="mt-4 rounded-xl border border-secondary-light/30 bg-warm-bg p-4 text-base text-foreground">
             {word.hint}
           </p>
         )}
 
         {result !== null && (
-          <div
-            role="status"
-            aria-live="polite"
-            className={`mt-4 rounded-lg p-4 text-lg font-semibold ${
-              result === "correct"
-                ? "bg-success/10 text-foreground"
-                : "bg-error/10 text-foreground"
-            }`}
-          >
-            {result === "correct"
-              ? "Correct spelling!"
-              : `The correct spelling is: ${word.word}`}
+          <div role="status" aria-live="polite" className={`mt-4 rounded-xl border p-4 text-lg font-semibold ${result === "correct" ? "border-success/20 bg-success/10 text-foreground" : "border-error/20 bg-error/10 text-foreground"}`}>
+            {result === "correct" ? "Correct spelling!" : `The correct spelling is: ${word.word}`}
           </div>
         )}
       </div>

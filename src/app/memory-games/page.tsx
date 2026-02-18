@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
+import CategoryIcon from "@/components/CategoryIcon";
 
 export const metadata: Metadata = {
   title: "Memory Games — Card Match, Patterns, Sorting & More",
@@ -42,6 +43,30 @@ const specialGames = [
     description: "Sort items into the correct categories as quickly as you can!",
     count: "10 Rounds",
   },
+  {
+    id: "sudoku-puzzles",
+    title: "Sudoku",
+    description: "Fill the grid so every row, column, and 3×3 box contains the numbers 1-9!",
+    count: "3 Puzzles",
+  },
+  {
+    id: "sliding-puzzle",
+    title: "Sliding Puzzle",
+    description: "Slide the tiles into the correct order — a classic brain teaser!",
+    count: "3 Levels",
+  },
+  {
+    id: "sequence-memory",
+    title: "Sequence Memory",
+    description: "Watch the colors light up, then repeat the sequence from memory!",
+    count: "3 Levels",
+  },
+  {
+    id: "matching-pairs",
+    title: "Matching Pairs",
+    description: "Match each item on the left with its partner on the right!",
+    count: "10 Rounds",
+  },
 ];
 
 export default function MemoryGames() {
@@ -50,61 +75,71 @@ export default function MemoryGames() {
 
   return (
     <div>
-      <div className="mb-8 text-center">
-        <p className="mb-2 text-4xl">{info.icon}</p>
-        <h1
-          className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
-          {info.title}
-        </h1>
-        <p className="text-xl text-text-muted">{info.description}</p>
+      <div className="mb-12 px-6 py-12 text-center" style={{ background: "linear-gradient(135deg, #16A34A15 0%, #F8F9FC 100%)" }}>
+        <div className="mx-auto max-w-3xl">
+          <span className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ background: "#16A34A", color: "white" }}>
+            <CategoryIcon name={info.icon} size={28} strokeWidth={1.75} />
+          </span>
+          <h1
+            className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            {info.title}
+          </h1>
+          <p className="text-lg text-text-muted">{info.description}</p>
+        </div>
       </div>
 
-      <div className="grid gap-6 sm:grid-cols-2">
-        {specialGames.map((game) => (
-          <Link
-            key={game.id}
-            href={`/memory-games/${game.id}`}
-            className="block rounded-2xl border-2 border-border bg-surface p-6 shadow-sm transition-all hover:border-primary hover:shadow-md focus:outline-none focus:ring-4 focus:ring-primary/30 active:scale-[0.98]"
-          >
-            <h2
-              className="mb-2 text-xl font-bold text-foreground"
-              style={{
-                fontFamily: "var(--font-merriweather), var(--font-heading)",
-              }}
+      <div className="mx-auto max-w-6xl px-6 pb-16">
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {specialGames.map((game) => (
+            <Link
+              key={game.id}
+              href={`/memory-games/${game.id}`}
+              className="card-enterprise group flex flex-col p-6"
             >
-              {game.title}
-            </h2>
-            <p className="mb-4 text-lg text-text-muted">{game.description}</p>
-            <span className="inline-block rounded-full bg-primary/10 px-4 py-2 text-base font-semibold text-primary">
-              {game.count}
-            </span>
-          </Link>
-        ))}
+              <h2
+                className="mb-2 text-lg font-bold text-foreground"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {game.title}
+              </h2>
+              <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
+              <div className="flex items-center justify-between">
+                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                  {game.count}
+                </span>
+                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+                  Play &rarr;
+                </span>
+              </div>
+            </Link>
+          ))}
 
-        {quizzes.map((quiz) => (
-          <Link
-            key={quiz.id}
-            href={`/memory-games/${quiz.id}`}
-            className="block rounded-2xl border-2 border-border bg-surface p-6 shadow-sm transition-all hover:border-primary hover:shadow-md focus:outline-none focus:ring-4 focus:ring-primary/30 active:scale-[0.98]"
-          >
-            <h2
-              className="mb-2 text-xl font-bold text-foreground"
-              style={{
-                fontFamily: "var(--font-merriweather), var(--font-heading)",
-              }}
+          {quizzes.map((quiz) => (
+            <Link
+              key={quiz.id}
+              href={`/memory-games/${quiz.id}`}
+              className="card-enterprise group flex flex-col p-6"
             >
-              {quiz.title}
-            </h2>
-            <p className="mb-4 text-lg text-text-muted">{quiz.description}</p>
-            <span className="inline-block rounded-full bg-primary/10 px-4 py-2 text-base font-semibold text-primary">
-              {quiz.questions.length} Questions
-            </span>
-          </Link>
-        ))}
+              <h2
+                className="mb-2 text-lg font-bold text-foreground"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {quiz.title}
+              </h2>
+              <p className="mb-4 flex-1 text-base text-text-muted">{quiz.description}</p>
+              <div className="flex items-center justify-between">
+                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                  {quiz.questions.length} Questions
+                </span>
+                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+                  Play &rarr;
+                </span>
+              </div>
+            </Link>
+          ))}
+        </div>
       </div>
     </div>
   );

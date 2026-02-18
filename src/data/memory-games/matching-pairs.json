@@ -1,0 +1,157 @@
+{
+  "id": "matching-pairs",
+  "title": "Matching Pairs",
+  "description": "Match each item on the left with its partner on the right!",
+  "rounds": [
+    {
+      "id": "countries-capitals",
+      "title": "Countries & Capitals",
+      "description": "Match each country with its capital city",
+      "pairs": [
+        { "left": "France", "right": "Paris" },
+        { "left": "Japan", "right": "Tokyo" },
+        { "left": "Brazil", "right": "Brasilia" },
+        { "left": "Egypt", "right": "Cairo" },
+        { "left": "Australia", "right": "Canberra" },
+        { "left": "Canada", "right": "Ottawa" },
+        { "left": "Italy", "right": "Rome" },
+        { "left": "India", "right": "New Delhi" }
+      ]
+    },
+    {
+      "id": "famous-inventors",
+      "title": "Famous Inventors",
+      "description": "Match each inventor with their famous invention",
+      "pairs": [
+        { "left": "Thomas Edison", "right": "Light Bulb" },
+        { "left": "Alexander Graham Bell", "right": "Telephone" },
+        { "left": "Wright Brothers", "right": "Airplane" },
+        { "left": "Johannes Gutenberg", "right": "Printing Press" },
+        { "left": "James Watt", "right": "Steam Engine" },
+        { "left": "Eli Whitney", "right": "Cotton Gin" },
+        { "left": "Samuel Morse", "right": "Telegraph" },
+        { "left": "Louis Pasteur", "right": "Pasteurization" }
+      ]
+    },
+    {
+      "id": "animals-sounds",
+      "title": "Animals & Sounds",
+      "description": "Match each animal with the sound it makes",
+      "pairs": [
+        { "left": "Dog", "right": "Bark" },
+        { "left": "Cat", "right": "Meow" },
+        { "left": "Cow", "right": "Moo" },
+        { "left": "Duck", "right": "Quack" },
+        { "left": "Rooster", "right": "Crow" },
+        { "left": "Sheep", "right": "Baa" },
+        { "left": "Horse", "right": "Neigh" },
+        { "left": "Pig", "right": "Oink" }
+      ]
+    },
+    {
+      "id": "us-states-capitals",
+      "title": "U.S. States & Capitals",
+      "description": "Match each U.S. state with its capital city",
+      "pairs": [
+        { "left": "California", "right": "Sacramento" },
+        { "left": "Texas", "right": "Austin" },
+        { "left": "New York", "right": "Albany" },
+        { "left": "Florida", "right": "Tallahassee" },
+        { "left": "Illinois", "right": "Springfield" },
+        { "left": "Ohio", "right": "Columbus" },
+        { "left": "Pennsylvania", "right": "Harrisburg" },
+        { "left": "Georgia", "right": "Atlanta" }
+      ]
+    },
+    {
+      "id": "fairy-tales-characters",
+      "title": "Fairy Tales & Characters",
+      "description": "Match each fairy tale character with their iconic detail",
+      "pairs": [
+        { "left": "Cinderella", "right": "Glass Slipper" },
+        { "left": "Snow White", "right": "Seven Dwarfs" },
+        { "left": "Goldilocks", "right": "Three Bears" },
+        { "left": "Rapunzel", "right": "Long Hair" },
+        { "left": "Jack", "right": "Beanstalk" },
+        { "left": "Hansel", "right": "Breadcrumbs" },
+        { "left": "Red Riding Hood", "right": "Big Bad Wolf" },
+        { "left": "Sleeping Beauty", "right": "Spinning Wheel" }
+      ]
+    },
+    {
+      "id": "food-countries",
+      "title": "Food & Countries",
+      "description": "Match each famous dish with the country it comes from",
+      "pairs": [
+        { "left": "Pizza", "right": "Italy" },
+        { "left": "Sushi", "right": "Japan" },
+        { "left": "Tacos", "right": "Mexico" },
+        { "left": "Croissant", "right": "France" },
+        { "left": "Bratwurst", "right": "Germany" },
+        { "left": "Paella", "right": "Spain" },
+        { "left": "Dim Sum", "right": "China" },
+        { "left": "Falafel", "right": "Middle East" }
+      ]
+    },
+    {
+      "id": "authors-books",
+      "title": "Authors & Books",
+      "description": "Match each author with their famous novel",
+      "pairs": [
+        { "left": "Charles Dickens", "right": "A Tale of Two Cities" },
+        { "left": "Mark Twain", "right": "Tom Sawyer" },
+        { "left": "Jane Austen", "right": "Pride and Prejudice" },
+        { "left": "Herman Melville", "right": "Moby Dick" },
+        { "left": "F. Scott Fitzgerald", "right": "The Great Gatsby" },
+        { "left": "Harper Lee", "right": "To Kill a Mockingbird" },
+        { "left": "Ernest Hemingway", "right": "The Old Man and the Sea" },
+        { "left": "Louisa May Alcott", "right": "Little Women" }
+      ]
+    },
+    {
+      "id": "planets-order",
+      "title": "Planets & Order",
+      "description": "Match each planet with its position from the Sun",
+      "pairs": [
+        { "left": "Mercury", "right": "1st from Sun" },
+        { "left": "Venus", "right": "2nd from Sun" },
+        { "left": "Earth", "right": "3rd from Sun" },
+        { "left": "Mars", "right": "4th from Sun" },
+        { "left": "Jupiter", "right": "5th from Sun" },
+        { "left": "Saturn", "right": "6th from Sun" },
+        { "left": "Uranus", "right": "7th from Sun" },
+        { "left": "Neptune", "right": "8th from Sun" }
+      ]
+    },
+    {
+      "id": "instruments-families",
+      "title": "Musical Instruments & Families",
+      "description": "Match each instrument with its musical family",
+      "pairs": [
+        { "left": "Violin", "right": "Strings" },
+        { "left": "Trumpet", "right": "Brass" },
+        { "left": "Flute", "right": "Woodwind" },
+        { "left": "Drum", "right": "Percussion" },
+        { "left": "Piano", "right": "Keyboard" },
+        { "left": "Guitar", "right": "Strings" },
+        { "left": "Trombone", "right": "Brass" },
+        { "left": "Clarinet", "right": "Woodwind" }
+      ]
+    },
+    {
+      "id": "symbols-meanings",
+      "title": "Symbols & Meanings",
+      "description": "Match each symbol with what it represents",
+      "pairs": [
+        { "left": "\u2665", "right": "Love" },
+        { "left": "\u262e", "right": "Peace" },
+        { "left": "\u266b", "right": "Music" },
+        { "left": "\u2600", "right": "Sunshine" },
+        { "left": "\u2b50", "right": "Star" },
+        { "left": "\u260e", "right": "Phone" },
+        { "left": "\u2709", "right": "Mail" },
+        { "left": "\u2693", "right": "Anchor" }
+      ]
+    }
+  ]
+}

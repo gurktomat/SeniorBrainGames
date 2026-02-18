@@ -1,0 +1,144 @@
+{
+  "id": "visual-clues",
+  "title": "Visual Clues",
+  "description": "Can you identify objects, places, and things from their visual descriptions?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "visual-1",
+      "question": "I have 88 keys, but I don't open any doors. I am black and white. What am I?",
+      "options": ["Typewriter", "Piano", "Calculator", "Computer Keyboard"],
+      "correctAnswer": 1,
+      "explanation": "A piano has 88 keys — 52 white keys and 36 black keys. It's one of the most popular musical instruments in the world.",
+      "difficulty": "easy",
+      "category": "visual"
+    },
+    {
+      "id": "visual-2",
+      "question": "I stand on a tall pole, I display three colors — red, yellow, and green — and I tell you when to stop and go. What am I?",
+      "options": ["A flagpole", "A traffic light", "A lighthouse", "A street sign"],
+      "correctAnswer": 1,
+      "explanation": "Traffic lights use red (stop), yellow (caution), and green (go) to direct vehicle and pedestrian traffic safely.",
+      "difficulty": "easy",
+      "category": "visual"
+    },
+    {
+      "id": "visual-3",
+      "question": "I have a magnetic needle that always points north. I show the directions N, S, E, and W. What am I?",
+      "options": ["A map", "A compass", "A GPS device", "A weather vane"],
+      "correctAnswer": 1,
+      "explanation": "A compass uses a magnetized needle that aligns with Earth's magnetic field to always point toward magnetic north.",
+      "difficulty": "easy",
+      "category": "visual"
+    },
+    {
+      "id": "visual-4",
+      "question": "I have 12 numbers on my face, at least two hands, and I hang on the wall or sit on a table. What am I?",
+      "options": ["A calendar", "A clock", "A telephone", "A thermometer"],
+      "correctAnswer": 1,
+      "explanation": "A clock displays the numbers 1 through 12 and uses hour and minute hands (and sometimes a second hand) to tell the time.",
+      "difficulty": "easy",
+      "category": "visual"
+    },
+    {
+      "id": "visual-5",
+      "question": "I have 64 squares in a pattern of black and white. Kings and queens move across my surface. What am I?",
+      "options": ["A crossword puzzle", "A checkerboard", "A chess board", "A tile floor"],
+      "correctAnswer": 2,
+      "explanation": "A chess board has 64 squares arranged in an 8x8 grid of alternating dark and light colors, where pieces like kings and queens compete.",
+      "difficulty": "easy",
+      "category": "visual"
+    },
+    {
+      "id": "visual-6",
+      "question": "I am orange, round, and bouncy. I go through a hoop that's 10 feet high. What am I?",
+      "options": ["A tennis ball", "A soccer ball", "A basketball", "A volleyball"],
+      "correctAnswer": 2,
+      "explanation": "A basketball is the distinctive orange ball used in the sport where players shoot through a hoop mounted 10 feet above the court.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-7",
+      "question": "I have four strings and you play me with a bow. You rest me under your chin. What am I?",
+      "options": ["A guitar", "A cello", "A violin", "A ukulele"],
+      "correctAnswer": 2,
+      "explanation": "A violin has four strings and is played with a bow while being held under the chin. It is the smallest and highest-pitched string instrument in the orchestra.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-8",
+      "question": "I am tall and stand near the coast. I shine a bright beam of light to warn ships at night. What am I?",
+      "options": ["A skyscraper", "A lighthouse", "A watchtower", "A windmill"],
+      "correctAnswer": 1,
+      "explanation": "Lighthouses are tall coastal structures that project powerful beams of light to guide ships and warn them of dangerous shorelines.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-9",
+      "question": "I am a long tube with a lens at one end. I sit on a tripod and help you see the stars. What am I?",
+      "options": ["A microscope", "A telescope", "A periscope", "A camera"],
+      "correctAnswer": 1,
+      "explanation": "A telescope uses lenses or mirrors in a tube, often mounted on a tripod, to magnify distant celestial objects like stars and planets.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-10",
+      "question": "I am a sphere that shows all the continents and oceans. I spin on a tilted axis. What am I?",
+      "options": ["A map", "A globe", "A compass", "An atlas"],
+      "correctAnswer": 1,
+      "explanation": "A globe is a spherical model of the Earth that shows continents and oceans, mounted on a tilted axis to represent Earth's 23.5-degree tilt.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-11",
+      "question": "I am a thin glass tube filled with liquid that rises and falls. I measure temperature in degrees. What am I?",
+      "options": ["A barometer", "A thermometer", "A test tube", "A stethoscope"],
+      "correctAnswer": 1,
+      "explanation": "A thermometer uses liquid (traditionally mercury) in a glass tube that expands and contracts to measure temperature in degrees.",
+      "difficulty": "medium",
+      "category": "visual"
+    },
+    {
+      "id": "visual-12",
+      "question": "I have two glass chambers connected by a narrow neck. Sand flows through me to measure time. What am I?",
+      "options": ["A sundial", "An hourglass", "A water clock", "A metronome"],
+      "correctAnswer": 1,
+      "explanation": "An hourglass uses sand flowing between two glass chambers to measure a fixed period of time, typically one hour in the original design.",
+      "difficulty": "hard",
+      "category": "visual"
+    },
+    {
+      "id": "visual-13",
+      "question": "I have a canopy, a long handle, and metal ribs that open and close. I protect you from rain. What am I?",
+      "options": ["A tent", "A parasol", "An umbrella", "A raincoat"],
+      "correctAnswer": 2,
+      "explanation": "An umbrella has a fabric canopy supported by metal ribs on a central handle, designed to shield you from rain or sun.",
+      "difficulty": "hard",
+      "category": "visual"
+    },
+    {
+      "id": "visual-14",
+      "question": "I have letter keys, a moving carriage, and an ink ribbon. I was used for writing before computers. What am I?",
+      "options": ["A printing press", "A typewriter", "A telegraph", "A fax machine"],
+      "correctAnswer": 1,
+      "explanation": "A typewriter uses keys that strike an ink ribbon to print letters on paper, with a carriage that moves across as you type.",
+      "difficulty": "hard",
+      "category": "visual"
+    },
+    {
+      "id": "visual-15",
+      "question": "I have two lenses side by side, a strap to hang around your neck, and a focus wheel. I help you see far-away things. What am I?",
+      "options": ["Eyeglasses", "A microscope", "Binoculars", "A magnifying glass"],
+      "correctAnswer": 2,
+      "explanation": "Binoculars have two parallel lenses with a focus wheel for adjustment and a neck strap, allowing you to magnify distant objects for both eyes.",
+      "difficulty": "hard",
+      "category": "visual"
+    }
+  ]
+}

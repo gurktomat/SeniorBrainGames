@@ -208,6 +208,42 @@ export interface CrosswordPuzzle {
   clues: CrosswordClue[];
 }
 
+// Word Search types
+export interface WordSearchWord {
+  word: string;
+  startRow: number;
+  startCol: number;
+  endRow: number;
+  endCol: number;
+}
+
+// Hangman types
+export interface HangmanWord {
+  id: string;
+  word: string;
+  hint: string;
+  category: string;
+}
+
+// Sudoku types
+export interface SudokuPuzzleData {
+  id: string;
+  title: string;
+  description: string;
+  difficulty: Difficulty;
+  grid: number[][];
+  solution: number[][];
+}
+
+// Sliding Puzzle types
+export interface SlidingPuzzleData {
+  id: string;
+  title: string;
+  description: string;
+  size: number;
+  tiles: number[];
+}
+
 // Union type for all game data
 export type GameData =
   | Quiz
@@ -220,4 +256,6 @@ export type GameData =
   | WhatsMissingGame
   | PatternGame
   | SortingGame
-  | CrosswordPuzzle;
+  | CrosswordPuzzle
+  | SudokuPuzzleData
+  | SlidingPuzzleData;

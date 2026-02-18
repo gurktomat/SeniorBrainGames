@@ -70,27 +70,15 @@ export default function SortingEngine({
   if (finished) {
     const percentage = Math.round((score / rounds.length) * 100);
     return (
-      <div className="mx-auto w-full max-w-2xl text-center">
-        <div className="rounded-2xl bg-surface p-8 shadow-sm">
-          <h2
-            className="mb-2 text-3xl font-bold text-foreground"
-            style={{
-              fontFamily: "var(--font-merriweather), var(--font-heading)",
-            }}
-          >
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
+          <h2 className="mb-2 text-3xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
             Game Complete!
           </h2>
-          <p className="mb-6 text-xl text-text-muted">{title}</p>
-          <span className="text-6xl font-bold text-primary">
-            {percentage}%
-          </span>
-          <p className="mt-2 text-xl text-foreground">
-            {score} out of {rounds.length} rounds perfect
-          </p>
-          <button
-            onClick={handleRestart}
-            className="mt-8 cursor-pointer rounded-xl bg-primary px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-primary/30"
-          >
+          <p className="mb-6 text-lg text-text-muted">{title}</p>
+          <span className="text-5xl font-bold text-primary">{percentage}%</span>
+          <p className="mt-2 text-lg text-foreground">{score} out of {rounds.length} rounds perfect</p>
+          <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
           </button>
         </div>
@@ -99,41 +87,23 @@ export default function SortingEngine({
   }
 
   return (
-    <div className="mx-auto w-full max-w-2xl">
+    <div className="mx-auto w-full max-w-2xl px-6 py-8">
       <div className="mb-6 flex items-center justify-between">
-        <h1
-          className="text-2xl font-bold text-foreground"
-          style={{
-            fontFamily: "var(--font-merriweather), var(--font-heading)",
-          }}
-        >
+        <h1 className="text-xl font-bold text-foreground sm:text-2xl" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
           {title}
         </h1>
-        <span className="rounded-full bg-primary/10 px-4 py-2 text-lg font-semibold text-primary">
+        <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
           {currentIndex + 1} / {rounds.length}
         </span>
       </div>
 
-      <div
-        className="mb-8 h-3 w-full overflow-hidden rounded-full bg-border"
-        role="progressbar"
-        aria-valuenow={currentIndex + 1}
-        aria-valuemin={1}
-        aria-valuemax={rounds.length}
-      >
-        <div
-          className="h-full rounded-full bg-primary transition-all duration-500"
-          style={{
-            width: `${((currentIndex + 1) / rounds.length) * 100}%`,
-          }}
-        />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={rounds.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / rounds.length) * 100}%` }} />
       </div>
 
-      <div className="rounded-2xl bg-surface p-6 shadow-sm">
-        <h2 className="mb-4 text-xl font-semibold text-foreground text-center">
-          {round.title}
-        </h2>
-        <p className="mb-6 text-base text-text-muted text-center">
+      <div className="rounded-2xl border border-border bg-surface p-6" style={{ boxShadow: "var(--shadow-md)" }}>
+        <h2 className="mb-2 text-center text-lg font-bold text-foreground">{round.title}</h2>
+        <p className="mb-6 text-center text-sm text-text-muted">
           Tap each item, then tap the category it belongs to.
         </p>
 
@@ -144,15 +114,15 @@ export default function SortingEngine({
             if (checked) {
               itemStyle =
                 assigned === round.correctMapping[itemIdx]
-                  ? "border-success bg-success/10"
-                  : "border-error bg-error/10";
+                  ? "border-success bg-success/5"
+                  : "border-error bg-error/5";
             } else if (assigned !== undefined) {
-              itemStyle = "border-primary bg-primary/5";
+              itemStyle = "border-primary bg-primary-50";
             }
 
             return (
-              <div key={itemIdx} className={`flex items-center justify-between rounded-xl border-2 px-4 py-3 ${itemStyle}`}>
-                <span className="text-xl">
+              <div key={itemIdx} className={`flex items-center justify-between rounded-xl border px-4 py-3 transition-all duration-200 ${itemStyle}`}>
+                <span className="text-lg">
                   <span className="mr-3 text-2xl">{item.emoji}</span>
                   {item.label}
                 </span>
@@ -162,11 +132,12 @@ export default function SortingEngine({
                       key={catIdx}
                       onClick={() => handleAssign(itemIdx, catIdx)}
                       disabled={checked}
-                      className={`cursor-pointer rounded-lg px-3 py-2 text-base font-medium transition-all focus:outline-none focus:ring-2 focus:ring-primary/30 ${
+                      className={`cursor-pointer rounded-lg px-3 py-2 text-sm font-bold transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary/20 ${
                         assigned === catIdx
-                          ? "bg-primary text-white"
-                          : "bg-border/50 text-text-muted hover:bg-primary/10 hover:text-primary"
+                          ? "text-white"
+                          : "bg-background text-text-muted hover:bg-primary-50 hover:text-primary"
                       }`}
+                      style={assigned === catIdx ? { background: "var(--gradient-primary)" } : undefined}
                       aria-label={`Assign ${item.label} to ${cat}`}
                     >
                       {cat}
@@ -179,11 +150,7 @@ export default function SortingEngine({
         </div>
 
         {!checked && (
-          <button
-            onClick={handleCheck}
-            disabled={!allAssigned}
-            className="w-full cursor-pointer rounded-xl bg-primary px-8 py-4 text-lg font-semibold text-white transition-colors hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-primary/30 disabled:opacity-50"
-          >
+          <button onClick={handleCheck} disabled={!allAssigned} className="btn-primary w-full disabled:opacity-50 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Check Answers
           </button>
         )}
@@ -192,17 +159,13 @@ export default function SortingEngine({
           <div
             role="status"
             aria-live="polite"
-            className={`rounded-lg p-4 text-lg font-semibold text-center ${
-              round.items.every(
-                (_, i) => assignments[i] === round.correctMapping[i],
-              )
-                ? "bg-success/10 text-foreground"
-                : "bg-error/10 text-foreground"
+            className={`rounded-xl border p-4 text-center text-lg font-semibold ${
+              round.items.every((_, i) => assignments[i] === round.correctMapping[i])
+                ? "border-success/20 bg-success/10 text-foreground"
+                : "border-error/20 bg-error/10 text-foreground"
             }`}
           >
-            {round.items.every(
-              (_, i) => assignments[i] === round.correctMapping[i],
-            )
+            {round.items.every((_, i) => assignments[i] === round.correctMapping[i])
               ? "All correct! Great sorting!"
               : "Some items were in the wrong category."}
           </div>

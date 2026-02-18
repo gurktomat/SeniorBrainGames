@@ -1,0 +1,158 @@
+{
+  "id": "decade-fashions",
+  "title": "Fashion Through the Decades",
+  "description": "From poodle skirts to bell-bottoms to shoulder pads — how well do you know the fashion trends of each era?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "fashion-1",
+      "question": "Poodle skirts became a fashion craze among teenage girls in the 1950s. What type of fabric were they typically made from?",
+      "options": ["Denim", "Felt", "Silk", "Cotton"],
+      "correctAnswer": 1,
+      "explanation": "Poodle skirts were made from felt because it was inexpensive and didn't need hemming. Juli Lynne Charlot created the first one in 1947 as a last-minute Christmas party outfit.",
+      "difficulty": "medium",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-2",
+      "question": "Saddle shoes, the two-toned oxford shoes popular with 1950s teenagers, were most commonly what two colors?",
+      "options": ["Black and red", "Brown and tan", "White and black", "Blue and white"],
+      "correctAnswer": 2,
+      "explanation": "The classic saddle shoe combination was white with a black 'saddle' across the middle. They became a staple of 1950s teen fashion, often paired with bobby socks.",
+      "difficulty": "easy",
+      "decade": "1950s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-3",
+      "question": "The towering beehive hairdo, popularized in the early 1960s, was created by a stylist from which city?",
+      "options": ["New York", "Paris", "Chicago", "Los Angeles"],
+      "correctAnswer": 2,
+      "explanation": "Margaret Vinci Heldt, a Chicago hairstylist, created the beehive in 1960 for Modern Beauty Salon magazine. She was inspired by a fez hat she owned. The style became an icon of the era.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-4",
+      "question": "Go-go boots, the knee-high fashion boots of the 1960s, were popularized by which fashion designer?",
+      "options": ["Coco Chanel", "Andre Courreges", "Mary Quant", "Yves Saint Laurent"],
+      "correctAnswer": 1,
+      "explanation": "French designer Andre Courreges introduced the white, low-heeled go-go boot in 1964 as part of his futuristic fashion collection. Nancy Sinatra's 'These Boots Are Made for Walkin'' cemented them in pop culture.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-5",
+      "question": "The miniskirt, one of the most revolutionary fashion items of the 1960s, is most associated with which British designer?",
+      "options": ["Vivienne Westwood", "Mary Quant", "Jean Muir", "Zandra Rhodes"],
+      "correctAnswer": 1,
+      "explanation": "Mary Quant is credited with popularizing the miniskirt from her London boutique, Bazaar, in the mid-1960s. She named it after her favorite car, the Mini Cooper.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-6",
+      "question": "Bell-bottom pants became mainstream fashion in the 1970s, but they originally came from what source?",
+      "options": ["British rock bands", "US Navy sailor uniforms", "French haute couture", "Mexican folk costumes"],
+      "correctAnswer": 1,
+      "explanation": "Bell-bottoms originated with US Navy sailors in the early 1800s. The wide legs could be rolled up for swabbing decks and made it easier to remove pants quickly if a sailor fell overboard.",
+      "difficulty": "medium",
+      "decade": "1970s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-7",
+      "question": "The leisure suit, a symbol of 1970s fashion, was typically made from what synthetic fabric?",
+      "options": ["Nylon", "Rayon", "Polyester", "Acrylic"],
+      "correctAnswer": 2,
+      "explanation": "Leisure suits were almost always made from polyester, which contributed to both their popularity (easy care, wrinkle-free) and their eventual downfall as the fabric became associated with tackiness.",
+      "difficulty": "easy",
+      "decade": "1970s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-8",
+      "question": "Tie-dye clothing became a symbol of the counterculture movement in the late 1960s. Which music festival in 1969 helped make tie-dye a mainstream fashion statement?",
+      "options": ["Monterey Pop Festival", "Woodstock", "Altamont", "Isle of Wight Festival"],
+      "correctAnswer": 1,
+      "explanation": "Woodstock in August 1969 brought tie-dye into the national spotlight. The ancient fabric dyeing technique became a visual shorthand for peace, love, and the hippie movement.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-9",
+      "question": "Platform shoes reached peak popularity in the 1970s. How tall were the soles on some of the most extreme disco-era platforms?",
+      "options": ["2 inches", "4 inches", "6 inches", "8 inches"],
+      "correctAnswer": 2,
+      "explanation": "Some disco-era platform shoes had soles up to 6 inches high. Both men and women wore them, and they became essential footwear at clubs like Studio 54.",
+      "difficulty": "medium",
+      "decade": "1970s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-10",
+      "question": "Mood rings, the color-changing jewelry fad of the 1970s, contained what type of special material?",
+      "options": ["Mercury", "Liquid crystals", "Phosphorescent paint", "Temperature-sensitive dye"],
+      "correctAnswer": 1,
+      "explanation": "Mood rings contained thermochromic liquid crystals that changed color in response to body temperature. Inventor Josh Reynolds introduced them in 1975, and they became an instant craze.",
+      "difficulty": "medium",
+      "decade": "1970s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-11",
+      "question": "Power suits with exaggerated shoulder pads became a defining fashion trend of the 1980s. Which TV show is often credited with popularizing the look?",
+      "options": ["Dallas", "Dynasty", "Knots Landing", "Falcon Crest"],
+      "correctAnswer": 1,
+      "explanation": "Joan Collins' glamorous power suits on 'Dynasty' (1981-1989) helped define 1980s fashion. Costume designer Nolan Miller created increasingly dramatic shoulder-padded outfits for the show.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "tv"
+    },
+    {
+      "id": "fashion-12",
+      "question": "Leg warmers became a mainstream fashion trend in the early 1980s after appearing in which popular movie?",
+      "options": ["Dirty Dancing", "Flashdance", "Footloose", "Fame"],
+      "correctAnswer": 1,
+      "explanation": "Jennifer Beals wore leg warmers in 'Flashdance' (1983), launching them from dance studios into everyday fashion. The film's influence on fashion extended to off-the-shoulder sweatshirts as well.",
+      "difficulty": "easy",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "fashion-13",
+      "question": "Members Only jackets, the iconic 1980s fashion staple, were originally manufactured by which company?",
+      "options": ["Ralph Lauren", "Europe Craft Imports", "Calvin Klein", "Pierre Cardin"],
+      "correctAnswer": 1,
+      "explanation": "Europe Craft Imports launched the Members Only jacket in 1980. With its signature epaulets and snap-tab collar, it became one of the decade's most recognizable fashion items, selling millions.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "culture"
+    },
+    {
+      "id": "fashion-14",
+      "question": "Ray-Ban Wayfarer sunglasses, first introduced in 1956, saw a massive resurgence in the 1980s after appearing in which Tom Cruise film?",
+      "options": ["Top Gun", "Risky Business", "The Color of Money", "Cocktail"],
+      "correctAnswer": 1,
+      "explanation": "Tom Cruise wore Ray-Ban Wayfarers in 'Risky Business' (1983), boosting sales from 18,000 pairs a year to over 1.5 million. He later boosted Ray-Ban Aviator sales with 'Top Gun.'",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "movies"
+    },
+    {
+      "id": "fashion-15",
+      "question": "In the 1950s, pearl necklaces became a symbol of elegance and were closely associated with which First Lady?",
+      "options": ["Eleanor Roosevelt", "Bess Truman", "Mamie Eisenhower", "Jackie Kennedy"],
+      "correctAnswer": 2,
+      "explanation": "Mamie Eisenhower was rarely seen without her signature pearl necklaces, helping make them a must-have accessory for well-dressed women in the 1950s. Her style influenced fashion across America.",
+      "difficulty": "hard",
+      "decade": "1950s",
+      "category": "culture"
+    }
+  ]
+}

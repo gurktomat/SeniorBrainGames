@@ -1,0 +1,158 @@
+{
+  "id": "classic-cartoons",
+  "title": "Classic Cartoons & Animation",
+  "description": "From Saturday morning cartoons to primetime animation — test your knowledge of beloved animated shows and characters!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "cartoons-1",
+      "question": "The Flintstones, which premiered in 1960, made TV history as the first animated series to do what?",
+      "options": ["Air in color", "Win an Emmy Award", "Air in a primetime slot", "Feature a celebrity guest voice"],
+      "correctAnswer": 2,
+      "explanation": "The Flintstones was the first animated series to air in a primetime evening slot on a major network. It ran on ABC from 1960 to 1966 and was originally sponsored by Winston cigarettes.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-2",
+      "question": "The Jetsons was set in what year in the future?",
+      "options": ["2001", "2062", "2099", "2162"],
+      "correctAnswer": 1,
+      "explanation": "The Jetsons was set in the year 2062, exactly 100 years from its 1962 premiere. Despite being iconic, the original run was only one season of 24 episodes before being revived in the 1980s.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-3",
+      "question": "In Looney Tunes, what was Bugs Bunny's famous catchphrase when greeting his adversaries?",
+      "options": ["'That's all, folks!'", "'What's up, Doc?'", "'Ain't I a stinker?'", "'Of course you realize, this means war'"],
+      "correctAnswer": 1,
+      "explanation": "Bugs Bunny first said 'What's up, Doc?' in the 1940 cartoon 'A Wild Hare,' directed by Tex Avery. Voice actor Mel Blanc gave Bugs his distinctive Brooklyn-Bronx accent.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-4",
+      "question": "Tom and Jerry, the cat-and-mouse duo, were created by which animation team at MGM?",
+      "options": ["Tex Avery and Bob Clampett", "William Hanna and Joseph Barbera", "Walt Disney and Ub Iwerks", "Max and Dave Fleischer"],
+      "correctAnswer": 1,
+      "explanation": "William Hanna and Joseph Barbera created Tom and Jerry at MGM in 1940. The series won seven Academy Awards for Best Animated Short Film, more than any other theatrical animated series.",
+      "difficulty": "medium",
+      "decade": "1940s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-5",
+      "question": "What was the name of the Great Dane in 'Scooby-Doo, Where Are You!' who was always hungry and easily frightened?",
+      "options": ["Scooby-Doo", "Scrappy-Doo", "Scooby-Dum", "Astro"],
+      "correctAnswer": 0,
+      "explanation": "Scooby-Doo's full name is Scoobert Doo. The show premiered on CBS in 1969, and the character was originally going to be a sheepdog named 'Too Much' before being redesigned as a Great Dane.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-6",
+      "question": "In 'The Adventures of Rocky and Bullwinkle,' what were the names of the two villains from the fictional country of Pottsylvania?",
+      "options": ["Ivan and Olga", "Boris and Natasha", "Viktor and Svetlana", "Sergei and Katya"],
+      "correctAnswer": 1,
+      "explanation": "Boris Badenov and Natasha Fatale were the bumbling Cold War-era villains. The show (1959-1964) was known for its clever wordplay and satirical humor that entertained both children and adults.",
+      "difficulty": "easy",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-7",
+      "question": "Popeye the Sailor gained his superhuman strength by eating what food?",
+      "options": ["Carrots", "Spinach", "Beans", "Potatoes"],
+      "correctAnswer": 1,
+      "explanation": "Popeye's spinach-eating habit boosted real spinach sales by 33% in the 1930s. The character first appeared in a comic strip in 1929 before becoming an animated cartoon star.",
+      "difficulty": "easy",
+      "decade": "1940s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-8",
+      "question": "The Pink Panther character originally appeared in the opening credits of a 1963 live-action film. Who starred in that movie?",
+      "options": ["Cary Grant", "Peter Sellers", "David Niven", "Jack Lemmon"],
+      "correctAnswer": 1,
+      "explanation": "The animated Pink Panther was created by Friz Freleng for the opening credits of the 1963 Peter Sellers film. The character became so popular that he got his own animated TV series in 1969.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "movies"
+    },
+    {
+      "id": "cartoons-9",
+      "question": "Hanna-Barbera Productions revolutionized TV animation by using what cost-saving technique?",
+      "options": ["Computer animation", "Limited animation with repeated backgrounds", "Live-action backgrounds with animated characters", "Rotoscoping from live footage"],
+      "correctAnswer": 1,
+      "explanation": "Hanna-Barbera pioneered limited animation, reusing backgrounds and minimizing character movement to produce cartoons affordably for television. This technique made shows like Yogi Bear and The Flintstones possible.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-10",
+      "question": "Yogi Bear lived in which fictional national park?",
+      "options": ["Yosemite Park", "Jellystone Park", "Yellowrock Park", "Bearstone Park"],
+      "correctAnswer": 1,
+      "explanation": "Yogi Bear lived in Jellystone Park, a play on Yellowstone. He was 'smarter than the average bear' and constantly tried to steal picnic baskets, much to the frustration of Ranger Smith.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-11",
+      "question": "The anime-influenced cartoon 'Speed Racer' originated in which country before coming to American television in 1967?",
+      "options": ["China", "South Korea", "Japan", "Philippines"],
+      "correctAnswer": 2,
+      "explanation": "Speed Racer (originally 'Mach GoGoGo') was created by Tatsuo Yoshida in Japan in 1966. The American dubbed version became a hit, introducing many children to Japanese animation style.",
+      "difficulty": "medium",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-12",
+      "question": "In the 1964 animated series 'Jonny Quest,' what was the name of Jonny's father, a famous scientist?",
+      "options": ["Dr. Zin", "Dr. Benton Quest", "Dr. Race Bannon", "Dr. Howard Quest"],
+      "correctAnswer": 1,
+      "explanation": "Dr. Benton Quest was one of the world's most brilliant scientists, and his bodyguard Race Bannon helped protect the family. The show was notable for its realistic, adventure-oriented animation style.",
+      "difficulty": "hard",
+      "decade": "1960s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-13",
+      "question": "He-Man and the Masters of the Universe debuted in 1983. What was He-Man's secret identity?",
+      "options": ["Adam of Grayskull", "Prince Adam", "Prince Eric", "Adam Randor"],
+      "correctAnswer": 1,
+      "explanation": "Prince Adam of Eternia transformed into He-Man by raising his Power Sword and declaring 'By the power of Grayskull!' The show was created primarily to sell Mattel's toy line.",
+      "difficulty": "medium",
+      "decade": "1980s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-14",
+      "question": "The Smurfs, who became a massive TV hit in the 1980s, were originally created in 1958 as characters in a comic strip from which country?",
+      "options": ["France", "Belgium", "Netherlands", "Germany"],
+      "correctAnswer": 1,
+      "explanation": "Belgian cartoonist Peyo (Pierre Culliford) created the Smurfs (Les Schtroumpfs) in 1958. The NBC animated series debuted in 1981 and ran for nine seasons, becoming a Saturday morning staple.",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "tv"
+    },
+    {
+      "id": "cartoons-15",
+      "question": "In the 1985 cartoon 'ThunderCats,' what was the name of the magical sword wielded by the hero Lion-O?",
+      "options": ["The Sword of Power", "The Sword of Omens", "The Thunder Sword", "The Sword of Thundera"],
+      "correctAnswer": 1,
+      "explanation": "Lion-O wielded the Sword of Omens, which contained the Eye of Thundera and gave him 'sight beyond sight.' The show ran from 1985 to 1989 and featured the battle cry 'ThunderCats, HO!'",
+      "difficulty": "hard",
+      "decade": "1980s",
+      "category": "tv"
+    }
+  ]
+}

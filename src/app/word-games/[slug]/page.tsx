@@ -6,6 +6,10 @@ import ProverbEngine from "@/components/ProverbEngine";
 import SpellingBeeEngine from "@/components/SpellingBeeEngine";
 import WordAssociationEngine from "@/components/WordAssociationEngine";
 import CrosswordEngine from "@/components/CrosswordEngine";
+import WordSearchEngine from "@/components/WordSearchEngine";
+import HangmanEngine from "@/components/HangmanEngine";
+import WordLadderEngine from "@/components/WordLadderEngine";
+import CryptogramEngine from "@/components/CryptogramEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
 import wordScrambleData from "@/data/word-games/word-scramble.json";
@@ -13,6 +17,10 @@ import proverbData from "@/data/word-games/complete-the-proverb.json";
 import spellingData from "@/data/word-games/spelling-bee.json";
 import wordAssocData from "@/data/word-games/word-association.json";
 import crosswordData from "@/data/word-games/crossword-classic.json";
+import wordSearchData from "@/data/word-games/word-search.json";
+import hangmanData from "@/data/word-games/hangman.json";
+import wordLadderData from "@/data/word-games/word-ladder.json";
+import cryptogramData from "@/data/word-games/cryptogram.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -20,6 +28,10 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "spelling-bee": { title: "Spelling Bee", description: "Test your spelling skills with commonly misspelled words!" },
   "word-association": { title: "Word Association", description: "Find the word that connects the group!" },
   "crossword-classic": { title: "Classic Crossword", description: "Solve classic crossword puzzles — fill the grid using the across and down clues!" },
+  "word-search": { title: "Word Search", description: "Find all the hidden words in the grid — look across and down!" },
+  "hangman": { title: "Hangman", description: "Guess the word one letter at a time before you run out of lives!" },
+  "word-ladder": { title: "Word Ladder", description: "Change one letter at a time to transform the start word into the end word!" },
+  "cryptogram": { title: "Cryptogram", description: "Decode the secret message by figuring out the letter substitutions!" },
 };
 
 export function generateStaticParams() {
@@ -97,6 +109,34 @@ export default async function WordGamePage({
         <CrosswordEngine
           title={crosswordData.title}
           puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]}
+        />
+      );
+    case "word-search":
+      return (
+        <WordSearchEngine
+          title={wordSearchData.title}
+          puzzles={wordSearchData.puzzles}
+        />
+      );
+    case "hangman":
+      return (
+        <HangmanEngine
+          title={hangmanData.title}
+          words={hangmanData.words}
+        />
+      );
+    case "word-ladder":
+      return (
+        <WordLadderEngine
+          title={wordLadderData.title}
+          puzzles={wordLadderData.puzzles}
+        />
+      );
+    case "cryptogram":
+      return (
+        <CryptogramEngine
+          title={cryptogramData.title}
+          puzzles={cryptogramData.puzzles}
         />
       );
     default:
