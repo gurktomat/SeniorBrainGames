@@ -1,11 +1,12 @@
 import { getAllQuizzes, categoryInfo } from "./quizzes";
+import { getAllArticles } from "./blog";
 import type { GameCategory } from "./types";
 
 export interface GameEntry {
   id: string;
   title: string;
   description: string;
-  category: GameCategory;
+  category: GameCategory | "blog";
   categoryLabel: string;
   href: string;
 }
@@ -71,5 +72,13 @@ export const allGames: GameEntry[] = [
     category: q.gameCategory,
     categoryLabel: categoryInfo[q.gameCategory].title,
     href: `/${q.gameCategory}/${q.id}`,
+  })),
+  ...getAllArticles().map((a) => ({
+    id: a.slug,
+    title: a.title,
+    description: a.description,
+    category: "blog" as const,
+    categoryLabel: "Blog",
+    href: `/blog/${a.slug}`,
   })),
 ];
