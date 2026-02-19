@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface WordEntry {
   word: string;
@@ -28,6 +29,7 @@ export default function WordSearchEngine({
   title: string;
   puzzles: WordSearchPuzzleData[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [puzzleIndex, setPuzzleIndex] = useState(0);
 
   // Key-based remount: when puzzleIndex changes, WordSearchPuzzleView remounts with fresh state
@@ -35,9 +37,9 @@ export default function WordSearchEngine({
     <WordSearchPuzzleView
       key={puzzleIndex}
       title={title}
-      puzzle={puzzles[puzzleIndex]}
+      puzzle={shuffledPuzzles[puzzleIndex]}
       puzzleIndex={puzzleIndex}
-      totalPuzzles={puzzles.length}
+      totalPuzzles={shuffledPuzzles.length}
       onNextPuzzle={() => setPuzzleIndex((i) => i + 1)}
       onRestart={() => setPuzzleIndex(0)}
     />

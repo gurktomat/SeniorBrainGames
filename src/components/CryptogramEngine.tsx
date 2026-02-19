@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo, useEffect, useRef } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface CryptogramPuzzleData {
   id: string;
@@ -23,6 +24,7 @@ export default function CryptogramEngine({
   title: string;
   puzzles: CryptogramPuzzleData[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [puzzleIndex, setPuzzleIndex] = useState(0);
 
   // Key-based remount: when puzzleIndex changes, inner view remounts with fresh state
@@ -30,9 +32,9 @@ export default function CryptogramEngine({
     <CryptogramPuzzleView
       key={puzzleIndex}
       title={title}
-      puzzle={puzzles[puzzleIndex]}
+      puzzle={shuffledPuzzles[puzzleIndex]}
       puzzleIndex={puzzleIndex}
-      totalPuzzles={puzzles.length}
+      totalPuzzles={shuffledPuzzles.length}
       onNextPuzzle={() => setPuzzleIndex((i) => i + 1)}
       onRestart={() => setPuzzleIndex(0)}
     />

@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Riddle {
   id: string;
@@ -24,6 +25,7 @@ export default function RiddleEngine({
   title: string;
   riddles: Riddle[];
 }) {
+  const shuffledRiddles = useMemo(() => shuffleArray(riddles), [riddles]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [showHint, setShowHint] = useState(false);
@@ -31,7 +33,7 @@ export default function RiddleEngine({
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const riddle = riddles[currentIndex];
+  const riddle = shuffledRiddles[currentIndex];
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -42,7 +44,7 @@ export default function RiddleEngine({
       if (isCorrect) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < riddles.length) {
+        if (currentIndex + 1 < shuffledRiddles.length) {
           setCurrentIndex((i) => i + 1);
           setGuess("");
           setShowHint(false);
@@ -52,7 +54,7 @@ export default function RiddleEngine({
         }
       }, 2000);
     },
-    [guess, riddle, result, currentIndex, riddles.length],
+    [guess, riddle, result, currentIndex, shuffledRiddles.length],
   );
 
   const handleRestart = () => {
@@ -65,7 +67,7 @@ export default function RiddleEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / riddles.length) * 100);
+    const percentage = Math.round((score / shuffledRiddles.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -74,7 +76,7 @@ export default function RiddleEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {riddles.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledRiddles.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -91,12 +93,12 @@ export default function RiddleEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {riddles.length}
+          {currentIndex + 1} / {shuffledRiddles.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={riddles.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / riddles.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledRiddles.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledRiddles.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

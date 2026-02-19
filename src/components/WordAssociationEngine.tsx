@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Puzzle {
   id: string;
@@ -18,12 +19,13 @@ export default function WordAssociationEngine({
   title: string;
   puzzles: Puzzle[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const puzzle = puzzles[currentIndex];
+  const puzzle = shuffledPuzzles[currentIndex];
   const correct = selected !== null && selected === puzzle.correctAnswer;
 
   const handleSelect = useCallback(
@@ -33,7 +35,7 @@ export default function WordAssociationEngine({
       if (index === puzzle.correctAnswer) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < puzzles.length) {
+        if (currentIndex + 1 < shuffledPuzzles.length) {
           setCurrentIndex((i) => i + 1);
           setSelected(null);
         } else {
@@ -41,7 +43,7 @@ export default function WordAssociationEngine({
         }
       }, 1500);
     },
-    [selected, puzzle.correctAnswer, currentIndex, puzzles.length],
+    [selected, puzzle.correctAnswer, currentIndex, shuffledPuzzles.length],
   );
 
   const handleRestart = () => {
@@ -52,7 +54,7 @@ export default function WordAssociationEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / puzzles.length) * 100);
+    const percentage = Math.round((score / shuffledPuzzles.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -61,7 +63,7 @@ export default function WordAssociationEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {puzzles.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledPuzzles.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -78,12 +80,12 @@ export default function WordAssociationEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {puzzles.length}
+          {currentIndex + 1} / {shuffledPuzzles.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={puzzles.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / puzzles.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledPuzzles.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledPuzzles.length) * 100}%` }} />
       </div>
 
       <div className="mb-6">

@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface SpellingWord {
   id: string;
@@ -18,6 +19,7 @@ export default function SpellingBeeEngine({
   title: string;
   words: SpellingWord[];
 }) {
+  const shuffledWords = useMemo(() => shuffleArray(words), [words]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [showHint, setShowHint] = useState(false);
@@ -25,7 +27,7 @@ export default function SpellingBeeEngine({
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const word = words[currentIndex];
+  const word = shuffledWords[currentIndex];
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -36,7 +38,7 @@ export default function SpellingBeeEngine({
       if (isCorrect) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < words.length) {
+        if (currentIndex + 1 < shuffledWords.length) {
           setCurrentIndex((i) => i + 1);
           setGuess("");
           setShowHint(false);
@@ -46,7 +48,7 @@ export default function SpellingBeeEngine({
         }
       }, 2000);
     },
-    [guess, word, result, currentIndex, words.length],
+    [guess, word, result, currentIndex, shuffledWords.length],
   );
 
   const handleRestart = () => {
@@ -59,7 +61,7 @@ export default function SpellingBeeEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / words.length) * 100);
+    const percentage = Math.round((score / shuffledWords.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -68,7 +70,7 @@ export default function SpellingBeeEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {words.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledWords.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -85,12 +87,12 @@ export default function SpellingBeeEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {words.length}
+          {currentIndex + 1} / {shuffledWords.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={words.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / words.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledWords.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledWords.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

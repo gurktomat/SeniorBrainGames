@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo, useEffect } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface SudokuPuzzleData {
   id: string;
@@ -33,15 +34,16 @@ export default function SudokuEngine({
   title: string;
   puzzles: SudokuPuzzleData[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [puzzleIndex, setPuzzleIndex] = useState(0);
 
   return (
     <SudokuPuzzleView
       key={puzzleIndex}
       title={title}
-      puzzle={puzzles[puzzleIndex]}
+      puzzle={shuffledPuzzles[puzzleIndex]}
       puzzleIndex={puzzleIndex}
-      totalPuzzles={puzzles.length}
+      totalPuzzles={shuffledPuzzles.length}
       onNextPuzzle={() => setPuzzleIndex((i) => i + 1)}
       onRestart={() => setPuzzleIndex(0)}
     />

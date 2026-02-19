@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface TimelineEvent {
   text: string;
@@ -21,15 +22,16 @@ export default function TimelineSortEngine({
   title: string;
   rounds: Round[];
 }) {
+  const shuffledRounds = useMemo(() => shuffleArray(rounds), [rounds]);
   const [roundIndex, setRoundIndex] = useState(0);
 
   return (
     <TimelineRoundView
       key={roundIndex}
       title={title}
-      round={rounds[roundIndex]}
+      round={shuffledRounds[roundIndex]}
       roundIndex={roundIndex}
-      totalRounds={rounds.length}
+      totalRounds={shuffledRounds.length}
       onNextRound={() => setRoundIndex((i) => i + 1)}
       onRestart={() => setRoundIndex(0)}
     />
@@ -51,14 +53,10 @@ function TimelineRoundView({
   onNextRound: () => void;
   onRestart: () => void;
 }) {
-  const shuffled = useMemo(() => {
-    const arr = round.events.map((e, i) => ({ ...e, originalIndex: i }));
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
-  }, [round.events]);
+  const shuffled = useMemo(
+    () => shuffleArray(round.events.map((e, i) => ({ ...e, originalIndex: i }))),
+    [round.events],
+  );
 
   const [selected, setSelected] = useState<number[]>([]);
   const [result, setResult] = useState<"correct" | "wrong" | null>(null);

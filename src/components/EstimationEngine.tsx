@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface EstimationQuestion {
   id: string;
@@ -25,13 +26,14 @@ export default function EstimationEngine({
   title: string;
   questions: EstimationQuestion[];
 }) {
+  const shuffledQuestions = useMemo(() => shuffleArray(questions), [questions]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [result, setResult] = useState<"correct" | "close" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const question = questions[currentIndex];
+  const question = shuffledQuestions[currentIndex];
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -45,7 +47,7 @@ export default function EstimationEngine({
       else if (rating === "close") setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < questions.length) {
+        if (currentIndex + 1 < shuffledQuestions.length) {
           setCurrentIndex((i) => i + 1);
           setGuess("");
           setResult(null);
@@ -54,7 +56,7 @@ export default function EstimationEngine({
         }
       }, 3000);
     },
-    [guess, question, result, currentIndex, questions.length],
+    [guess, question, result, currentIndex, shuffledQuestions.length],
   );
 
   const handleRestart = () => {
@@ -66,7 +68,7 @@ export default function EstimationEngine({
   };
 
   if (finished) {
-    const maxScore = questions.length * 2;
+    const maxScore = shuffledQuestions.length * 2;
     const percentage = Math.round((score / maxScore) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
@@ -94,12 +96,12 @@ export default function EstimationEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {questions.length}
+          {currentIndex + 1} / {shuffledQuestions.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={questions.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / questions.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledQuestions.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledQuestions.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

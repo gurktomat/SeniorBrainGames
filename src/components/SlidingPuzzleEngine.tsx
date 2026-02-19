@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -95,15 +96,16 @@ export default function SlidingPuzzleEngine({
   title: string;
   puzzles: SlidingPuzzleData[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [puzzleIndex, setPuzzleIndex] = useState(0);
 
   return (
     <SlidingPuzzleView
       key={puzzleIndex}
       title={title}
-      puzzle={puzzles[puzzleIndex]}
+      puzzle={shuffledPuzzles[puzzleIndex]}
       puzzleIndex={puzzleIndex}
-      totalPuzzles={puzzles.length}
+      totalPuzzles={shuffledPuzzles.length}
       onNextPuzzle={() => setPuzzleIndex((i) => i + 1)}
       onRestart={() => setPuzzleIndex(0)}
     />

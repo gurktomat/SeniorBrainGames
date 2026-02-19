@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Puzzle {
   emojis: string;
@@ -29,15 +30,16 @@ export default function EmojiDecoderEngine({
   title: string;
   rounds: Round[];
 }) {
+  const shuffledRounds = useMemo(() => shuffleArray(rounds), [rounds]);
   const [roundIndex, setRoundIndex] = useState(0);
 
   return (
     <EmojiRoundView
       key={roundIndex}
       title={title}
-      round={rounds[roundIndex]}
+      round={shuffledRounds[roundIndex]}
       roundIndex={roundIndex}
-      totalRounds={rounds.length}
+      totalRounds={shuffledRounds.length}
       onNextRound={() => setRoundIndex((i) => i + 1)}
       onRestart={() => setRoundIndex(0)}
     />
@@ -59,7 +61,7 @@ function EmojiRoundView({
   onNextRound: () => void;
   onRestart: () => void;
 }) {
-  const puzzles = round.puzzles;
+  const puzzles = useMemo(() => shuffleArray(round.puzzles), [round.puzzles]);
   const total = puzzles.length;
 
   const [currentPuzzle, setCurrentPuzzle] = useState(0);

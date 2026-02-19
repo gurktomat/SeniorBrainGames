@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface WhoAmIPuzzle {
   id: string;
@@ -23,6 +24,7 @@ export default function WhoAmIEngine({
   title: string;
   puzzles: WhoAmIPuzzle[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [cluesRevealed, setCluesRevealed] = useState(1);
   const [guess, setGuess] = useState("");
@@ -30,11 +32,11 @@ export default function WhoAmIEngine({
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const puzzle = puzzles[currentIndex];
+  const puzzle = shuffledPuzzles[currentIndex];
   const maxClues = puzzle.clues.length;
 
   const advance = useCallback(() => {
-    if (currentIndex + 1 < puzzles.length) {
+    if (currentIndex + 1 < shuffledPuzzles.length) {
       setCurrentIndex((i) => i + 1);
       setCluesRevealed(1);
       setGuess("");
@@ -42,7 +44,7 @@ export default function WhoAmIEngine({
     } else {
       setFinished(true);
     }
-  }, [currentIndex, puzzles.length]);
+  }, [currentIndex, shuffledPuzzles.length]);
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -74,7 +76,7 @@ export default function WhoAmIEngine({
     setFinished(false);
   };
 
-  const maxScore = puzzles.length * maxClues;
+  const maxScore = shuffledPuzzles.length * maxClues;
 
   if (finished) {
     const percentage = Math.round((score / maxScore) * 100);
@@ -103,12 +105,12 @@ export default function WhoAmIEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {puzzles.length}
+          {currentIndex + 1} / {shuffledPuzzles.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={puzzles.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / puzzles.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledPuzzles.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledPuzzles.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

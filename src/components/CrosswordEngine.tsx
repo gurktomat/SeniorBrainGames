@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo, useRef, useEffect } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 import type { CrosswordDirection, CrosswordClue } from "@/lib/types";
 import {
   initializeGrid,
@@ -38,6 +39,7 @@ export default function CrosswordEngine({
   title: string;
   puzzles: CrosswordPuzzleData[];
 }) {
+  const shuffledPuzzles = useMemo(() => shuffleArray(puzzles), [puzzles]);
   const [puzzleIndex, setPuzzleIndex] = useState(0);
 
   // Key-based remount: when puzzleIndex changes, CrosswordPuzzleView remounts with fresh state
@@ -45,9 +47,9 @@ export default function CrosswordEngine({
     <CrosswordPuzzleView
       key={puzzleIndex}
       title={title}
-      puzzle={puzzles[puzzleIndex]}
+      puzzle={shuffledPuzzles[puzzleIndex]}
       puzzleIndex={puzzleIndex}
-      totalPuzzles={puzzles.length}
+      totalPuzzles={shuffledPuzzles.length}
       onNextPuzzle={() => setPuzzleIndex((i) => i + 1)}
       onRestart={() => setPuzzleIndex(0)}
     />

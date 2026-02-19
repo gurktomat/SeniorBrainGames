@@ -1,16 +1,22 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import type { Quiz, QuizResult } from "@/lib/types";
 import QuestionView from "./QuestionView";
 import ResultsView from "./ResultsView";
+import { shuffleArray } from "@/lib/shuffle";
 
 export default function QuizEngine({ quiz }: { quiz: Quiz }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<QuizResult["answers"]>([]);
   const [finished, setFinished] = useState(false);
 
-  const question = quiz.questions[currentIndex];
+  const shuffledQuiz = useMemo(
+    () => ({ ...quiz, questions: shuffleArray(quiz.questions) }),
+    [quiz],
+  );
+
+  const question = shuffledQuiz.questions[currentIndex];
 
   const handleAnswer = useCallback(
     (selectedAnswer: number) => {
@@ -21,13 +27,13 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
       ];
       setAnswers(newAnswers);
 
-      if (currentIndex + 1 < quiz.questions.length) {
+      if (currentIndex + 1 < shuffledQuiz.questions.length) {
         setTimeout(() => setCurrentIndex((i) => i + 1), 1200);
       } else {
         setTimeout(() => setFinished(true), 1200);
       }
     },
-    [answers, currentIndex, question, quiz.questions.length],
+    [answers, currentIndex, question, shuffledQuiz.questions.length],
   );
 
   const handleRestart = useCallback(() => {
@@ -38,13 +44,13 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
 
   if (finished) {
     const result: QuizResult = {
-      quizId: quiz.id,
-      totalQuestions: quiz.questions.length,
+      quizId: shuffledQuiz.id,
+      totalQuestions: shuffledQuiz.questions.length,
       correctAnswers: answers.filter((a) => a.correct).length,
       answers,
     };
     return (
-      <ResultsView result={result} quiz={quiz} onRestart={handleRestart} />
+      <ResultsView result={result} quiz={shuffledQuiz} onRestart={handleRestart} />
     );
   }
 
@@ -55,10 +61,10 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
           className="text-xl font-bold text-foreground sm:text-2xl"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
         >
-          {quiz.title}
+          {shuffledQuiz.title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {quiz.questions.length}
+          {currentIndex + 1} / {shuffledQuiz.questions.length}
         </span>
       </div>
 
@@ -67,13 +73,13 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
         role="progressbar"
         aria-valuenow={currentIndex + 1}
         aria-valuemin={1}
-        aria-valuemax={quiz.questions.length}
-        aria-label={`Question ${currentIndex + 1} of ${quiz.questions.length}`}
+        aria-valuemax={shuffledQuiz.questions.length}
+        aria-label={`Question ${currentIndex + 1} of ${shuffledQuiz.questions.length}`}
       >
         <div
           className="progress-bar-gradient h-full transition-all duration-500"
           style={{
-            width: `${((currentIndex + 1) / quiz.questions.length) * 100}%`,
+            width: `${((currentIndex + 1) / shuffledQuiz.questions.length) * 100}%`,
           }}
         />
       </div>

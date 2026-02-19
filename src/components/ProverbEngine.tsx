@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface ProverbQuestion {
   id: string;
@@ -19,12 +20,13 @@ export default function ProverbEngine({
   title: string;
   questions: ProverbQuestion[];
 }) {
+  const shuffledQuestions = useMemo(() => shuffleArray(questions), [questions]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const q = questions[currentIndex];
+  const q = shuffledQuestions[currentIndex];
   const correct = selected !== null && selected === q.correctAnswer;
 
   const handleSelect = useCallback(
@@ -34,7 +36,7 @@ export default function ProverbEngine({
       if (index === q.correctAnswer) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < questions.length) {
+        if (currentIndex + 1 < shuffledQuestions.length) {
           setCurrentIndex((i) => i + 1);
           setSelected(null);
         } else {
@@ -42,7 +44,7 @@ export default function ProverbEngine({
         }
       }, 1500);
     },
-    [selected, q.correctAnswer, currentIndex, questions.length],
+    [selected, q.correctAnswer, currentIndex, shuffledQuestions.length],
   );
 
   const handleRestart = () => {
@@ -53,7 +55,7 @@ export default function ProverbEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / questions.length) * 100);
+    const percentage = Math.round((score / shuffledQuestions.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -62,7 +64,7 @@ export default function ProverbEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {questions.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledQuestions.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -79,12 +81,12 @@ export default function ProverbEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {questions.length}
+          {currentIndex + 1} / {shuffledQuestions.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={questions.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / questions.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledQuestions.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledQuestions.length) * 100}%` }} />
       </div>
 
       <div className="mb-6">

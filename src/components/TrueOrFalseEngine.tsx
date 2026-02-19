@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Statement {
   id: string;
@@ -17,12 +18,13 @@ export default function TrueOrFalseEngine({
   title: string;
   statements: Statement[];
 }) {
+  const shuffledStatements = useMemo(() => shuffleArray(statements), [statements]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [result, setResult] = useState<"correct" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const item = statements[currentIndex];
+  const item = shuffledStatements[currentIndex];
 
   const handleAnswer = useCallback(
     (chosen: boolean) => {
@@ -33,7 +35,7 @@ export default function TrueOrFalseEngine({
 
       setTimeout(
         () => {
-          if (currentIndex + 1 < statements.length) {
+          if (currentIndex + 1 < shuffledStatements.length) {
             setCurrentIndex((i) => i + 1);
             setResult(null);
           } else {
@@ -43,7 +45,7 @@ export default function TrueOrFalseEngine({
         isCorrect ? 1500 : 2000,
       );
     },
-    [result, item, currentIndex, statements.length],
+    [result, item, currentIndex, shuffledStatements.length],
   );
 
   const handleRestart = () => {
@@ -54,7 +56,7 @@ export default function TrueOrFalseEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / statements.length) * 100);
+    const percentage = Math.round((score / shuffledStatements.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div
@@ -70,7 +72,7 @@ export default function TrueOrFalseEngine({
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
           <p className="mt-2 text-lg text-foreground">
-            {score} out of {statements.length} correct
+            {score} out of {shuffledStatements.length} correct
           </p>
           <StarRating />
           <button
@@ -97,7 +99,7 @@ export default function TrueOrFalseEngine({
           className="rounded-full px-4 py-1.5 text-sm font-bold text-white"
           style={{ background: "var(--gradient-primary)" }}
         >
-          {currentIndex + 1} / {statements.length}
+          {currentIndex + 1} / {shuffledStatements.length}
         </span>
       </div>
 
@@ -106,11 +108,11 @@ export default function TrueOrFalseEngine({
         role="progressbar"
         aria-valuenow={currentIndex + 1}
         aria-valuemin={1}
-        aria-valuemax={statements.length}
+        aria-valuemax={shuffledStatements.length}
       >
         <div
           className="progress-bar-gradient h-full transition-all duration-500"
-          style={{ width: `${((currentIndex + 1) / statements.length) * 100}%` }}
+          style={{ width: `${((currentIndex + 1) / shuffledStatements.length) * 100}%` }}
         />
       </div>
 

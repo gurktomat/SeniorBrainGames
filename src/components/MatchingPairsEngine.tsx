@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback, useRef } from "react";
+import { useState, useCallback, useRef, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Pair {
   left: string;
@@ -15,16 +16,6 @@ interface Round {
   pairs: Pair[];
 }
 
-function shuffleIndices(length: number): number[] {
-  const indices = Array.from({ length }, (_, i) => i);
-  // Fisher-Yates shuffle
-  for (let i = indices.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [indices[i], indices[j]] = [indices[j], indices[i]];
-  }
-  return indices;
-}
-
 // ─── Main Engine ──────────────────────────────────────────────────────────────
 
 export default function MatchingPairsEngine({
@@ -34,6 +25,7 @@ export default function MatchingPairsEngine({
   title: string;
   rounds: Round[];
 }) {
+  const shuffledRounds = useMemo(() => shuffleArray(rounds), [rounds]);
   const [roundIndex, setRoundIndex] = useState(0);
 
   // Key-based remount: when roundIndex changes, MatchingPairsRoundView remounts with fresh state
@@ -41,9 +33,9 @@ export default function MatchingPairsEngine({
     <MatchingPairsRoundView
       key={roundIndex}
       title={title}
-      round={rounds[roundIndex]}
+      round={shuffledRounds[roundIndex]}
       roundIndex={roundIndex}
-      totalRounds={rounds.length}
+      totalRounds={shuffledRounds.length}
       onNextRound={() => setRoundIndex((i) => i + 1)}
       onRestart={() => setRoundIndex(0)}
     />
@@ -71,7 +63,7 @@ function MatchingPairsRoundView({
 
   // Shuffle the right column on mount (lazy initializer runs once)
   const [shuffledRightIndices] = useState<number[]>(() =>
-    shuffleIndices(round.pairs.length),
+    shuffleArray(Array.from({ length: round.pairs.length }, (_, i) => i)),
   );
 
   const [matchedPairs, setMatchedPairs] = useState<Set<number>>(new Set());

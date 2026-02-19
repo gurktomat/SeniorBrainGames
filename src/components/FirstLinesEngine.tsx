@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface FirstLine {
   id: string;
@@ -25,6 +26,7 @@ export default function FirstLinesEngine({
   title: string;
   lines: FirstLine[];
 }) {
+  const shuffledLines = useMemo(() => shuffleArray(lines), [lines]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [showHint, setShowHint] = useState(false);
@@ -32,7 +34,7 @@ export default function FirstLinesEngine({
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
-  const item = lines[currentIndex];
+  const item = shuffledLines[currentIndex];
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -43,7 +45,7 @@ export default function FirstLinesEngine({
       if (isCorrect) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < lines.length) {
+        if (currentIndex + 1 < shuffledLines.length) {
           setCurrentIndex((i) => i + 1);
           setGuess("");
           setShowHint(false);
@@ -53,7 +55,7 @@ export default function FirstLinesEngine({
         }
       }, 2500);
     },
-    [guess, item, result, currentIndex, lines.length],
+    [guess, item, result, currentIndex, shuffledLines.length],
   );
 
   const handleRestart = () => {
@@ -66,7 +68,7 @@ export default function FirstLinesEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / lines.length) * 100);
+    const percentage = Math.round((score / shuffledLines.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -75,7 +77,7 @@ export default function FirstLinesEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {lines.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledLines.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -92,12 +94,12 @@ export default function FirstLinesEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {lines.length}
+          {currentIndex + 1} / {shuffledLines.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={lines.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / lines.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledLines.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledLines.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

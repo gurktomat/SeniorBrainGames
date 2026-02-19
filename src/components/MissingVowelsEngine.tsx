@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Phrase {
   display: string;
@@ -22,15 +23,16 @@ export default function MissingVowelsEngine({
   title: string;
   rounds: Round[];
 }) {
+  const shuffledRounds = useMemo(() => shuffleArray(rounds), [rounds]);
   const [roundIndex, setRoundIndex] = useState(0);
 
   return (
     <MissingVowelsRoundView
       key={roundIndex}
       title={title}
-      round={rounds[roundIndex]}
+      round={shuffledRounds[roundIndex]}
       roundIndex={roundIndex}
-      totalRounds={rounds.length}
+      totalRounds={shuffledRounds.length}
       onNextRound={() => setRoundIndex((i) => i + 1)}
       onRestart={() => setRoundIndex(0)}
     />
@@ -52,7 +54,7 @@ function MissingVowelsRoundView({
   onNextRound: () => void;
   onRestart: () => void;
 }) {
-  const phrases = round.phrases;
+  const phrases = useMemo(() => shuffleArray(round.phrases), [round.phrases]);
   const total = phrases.length;
 
   const [currentPhrase, setCurrentPhrase] = useState(0);

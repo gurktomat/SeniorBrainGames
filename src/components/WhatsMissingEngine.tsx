@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useCallback, useEffect, useRef } from "react";
+import { useState, useCallback, useEffect, useRef, useMemo } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface Round {
   id: string;
@@ -18,6 +19,7 @@ export default function WhatsMissingEngine({
   title: string;
   rounds: Round[];
 }) {
+  const shuffledRounds = useMemo(() => shuffleArray(rounds), [rounds]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [phase, setPhase] = useState<"memorize" | "guess">("memorize");
   const [selected, setSelected] = useState<number | null>(null);
@@ -26,7 +28,7 @@ export default function WhatsMissingEngine({
   const [countdown, setCountdown] = useState(5);
   const countRef = useRef(5);
 
-  const round = rounds[currentIndex];
+  const round = shuffledRounds[currentIndex];
 
   useEffect(() => {
     if (phase !== "memorize") return;
@@ -51,7 +53,7 @@ export default function WhatsMissingEngine({
       if (index === round.correctAnswer) setScore((s) => s + 1);
 
       setTimeout(() => {
-        if (currentIndex + 1 < rounds.length) {
+        if (currentIndex + 1 < shuffledRounds.length) {
           setCurrentIndex((i) => i + 1);
           setSelected(null);
           setPhase("memorize");
@@ -60,7 +62,7 @@ export default function WhatsMissingEngine({
         }
       }, 1500);
     },
-    [selected, phase, round.correctAnswer, currentIndex, rounds.length],
+    [selected, phase, round.correctAnswer, currentIndex, shuffledRounds.length],
   );
 
   const handleRestart = () => {
@@ -72,7 +74,7 @@ export default function WhatsMissingEngine({
   };
 
   if (finished) {
-    const percentage = Math.round((score / rounds.length) * 100);
+    const percentage = Math.round((score / shuffledRounds.length) * 100);
     return (
       <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
         <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
@@ -81,7 +83,7 @@ export default function WhatsMissingEngine({
           </h2>
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
-          <p className="mt-2 text-lg text-foreground">{score} out of {rounds.length} correct</p>
+          <p className="mt-2 text-lg text-foreground">{score} out of {shuffledRounds.length} correct</p>
           <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
@@ -103,12 +105,12 @@ export default function WhatsMissingEngine({
           {title}
         </h1>
         <span className="rounded-full px-4 py-1.5 text-sm font-bold text-white" style={{ background: "var(--gradient-primary)" }}>
-          {currentIndex + 1} / {rounds.length}
+          {currentIndex + 1} / {shuffledRounds.length}
         </span>
       </div>
 
-      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={rounds.length}>
-        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / rounds.length) * 100}%` }} />
+      <div className="mb-8 h-2 w-full overflow-hidden rounded-full bg-border" role="progressbar" aria-valuenow={currentIndex + 1} aria-valuemin={1} aria-valuemax={shuffledRounds.length}>
+        <div className="progress-bar-gradient h-full transition-all duration-500" style={{ width: `${((currentIndex + 1) / shuffledRounds.length) * 100}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border bg-surface p-8 text-center" style={{ boxShadow: "var(--shadow-md)" }}>

@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo, useEffect } from "react";
 import StarRating from "./StarRating";
+import { shuffleArray } from "@/lib/shuffle";
 
 interface HangmanWord {
   id: string;
@@ -27,6 +28,7 @@ export default function HangmanEngine({
   title: string;
   words: HangmanWord[];
 }) {
+  const shuffledWords = useMemo(() => shuffleArray(words), [words]);
   const [wordIndex, setWordIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [totalPlayed, setTotalPlayed] = useState(0);
@@ -42,12 +44,12 @@ export default function HangmanEngine({
   }, []);
 
   const handleNextWord = useCallback(() => {
-    if (wordIndex + 1 < words.length) {
+    if (wordIndex + 1 < shuffledWords.length) {
       setWordIndex((i) => i + 1);
     } else {
       setAllComplete(true);
     }
-  }, [wordIndex, words.length]);
+  }, [wordIndex, shuffledWords.length]);
 
   const handleRestart = useCallback(() => {
     setWordIndex(0);
@@ -91,9 +93,9 @@ export default function HangmanEngine({
     <HangmanWordView
       key={wordIndex}
       title={title}
-      wordData={words[wordIndex]}
+      wordData={shuffledWords[wordIndex]}
       wordIndex={wordIndex}
-      totalWords={words.length}
+      totalWords={shuffledWords.length}
       score={score}
       onWon={handleWordWon}
       onLost={handleWordLost}
