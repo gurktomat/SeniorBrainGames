@@ -52,6 +52,7 @@ const specialGames: { id: string; title: string; description: string; category: 
   { id: "estimation-game", title: "Estimation Game", description: "How close can you guess? Test your estimation skills with fun number questions!", category: "memory-games" },
   { id: "memory-true-or-false", title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!", category: "memory-games" },
   { id: "what-am-i", title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!", category: "memory-games" },
+  { id: "minesweeper", title: "Minesweeper", description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!", category: "memory-games" },
 ];
 
 export const allGames: GameEntry[] = [

@@ -13,7 +13,7 @@ import {
   BookOpenText, Binary, UserCheck, PenLine, FlaskConical, UsersRound,
   MonitorPlay, Beaker, BrainCircuit, Link,
   Target, Hourglass, CircleDot, Package, Scroll, Calculator, Award,
-  Volume2, Crosshair, ListOrdered,
+  Volume2, Crosshair, ListOrdered, Bomb,
   type LucideIcon,
 } from "lucide-react";
 
@@ -139,6 +139,7 @@ const iconMap: Record<string, LucideIcon> = {
   "classic-jingles": Volume2,
   "concentration-quiz": Crosshair,
   "number-patterns": ListOrdered,
+  "minesweeper": Bomb,
 };
 
 export function GameIcon({

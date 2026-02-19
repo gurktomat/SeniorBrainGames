@@ -19,6 +19,7 @@ import NumberMemoryEngine from "@/components/NumberMemoryEngine";
 import EstimationEngine from "@/components/EstimationEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
+import MinesweeperEngine from "@/components/MinesweeperEngine";
 import { Printer } from "lucide-react";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 import { getGameRating } from "@/lib/db";
@@ -55,6 +56,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "estimation-game": { title: "Estimation Game", description: "How close can you guess? Test your estimation skills with fun number questions!" },
   "memory-true-or-false": { title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!" },
   "what-am-i": { title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!" },
+  "minesweeper": { title: "Minesweeper", description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!" },
 };
 
 const allCategoryGames = [
@@ -213,6 +215,8 @@ export default async function MemoryGamePage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></PageShell>);
     case "what-am-i":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></PageShell>);
+    case "minesweeper":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MinesweeperEngine title="Minesweeper" /></PageShell>);
     default:
       notFound();
   }

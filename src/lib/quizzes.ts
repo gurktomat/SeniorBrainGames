@@ -292,5 +292,6 @@ export const specialGameSlugs: Record<string, string[]> = {
     "estimation-game",
     "memory-true-or-false",
     "what-am-i",
+    "minesweeper",
   ],
 };

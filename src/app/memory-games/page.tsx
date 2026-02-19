@@ -105,6 +105,12 @@ const specialGames = [
     description: "Guess the everyday object from progressive clues — fewer clues means more points!",
     count: "15 Puzzles",
   },
+  {
+    id: "minesweeper",
+    title: "Minesweeper",
+    description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!",
+    count: "3 Levels",
+  },
 ];
 
 export default async function MemoryGames() {
