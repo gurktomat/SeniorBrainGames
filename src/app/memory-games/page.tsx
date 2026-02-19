@@ -202,7 +202,7 @@ export default async function MemoryGames() {
               href={`/memory-games/${game.id}`}
               className="card-enterprise group relative flex flex-col p-6"
             >
-              {game.id === "sudoku-puzzles" && (
+              {(game.id === "sudoku-puzzles" || game.id === "sudoku-challenge") && (
                 <span
                   className="absolute right-4 top-4 flex items-center gap-1 rounded-full bg-purple-50 px-2.5 py-1 text-xs font-bold text-purple-700"
                   title="Printable version available"

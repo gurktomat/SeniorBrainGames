@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
-import PrintButton from "@/components/printable/PrintButton";
+import PrintPageButton from "@/components/printable/PrintPageButton";
 import PrintableCrossword from "@/components/printable/PrintableCrossword";
 import PrintableWordSearch from "@/components/printable/PrintableWordSearch";
 import PrintableSudoku from "@/components/printable/PrintableSudoku";
@@ -16,12 +16,19 @@ import PrintableLogicGrid from "@/components/printable/PrintableLogicGrid";
 import PrintableMaze from "@/components/printable/PrintableMaze";
 
 import crosswordData from "@/data/word-games/crossword-classic.json";
+import crosswordNatureScienceData from "@/data/word-games/crossword-nature-science.json";
 import wordSearchData from "@/data/word-games/word-search.json";
+import wordSearchAnimalsData from "@/data/word-games/word-search-animals.json";
 import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
+import sudokuChallengeData from "@/data/memory-games/sudoku-challenge.json";
 import wordScrambleData from "@/data/word-games/word-scramble.json";
+import foodWordScrambleData from "@/data/word-games/food-word-scramble.json";
 import riddleData from "@/data/word-games/riddle-challenge.json";
+import nostalgiaRiddleData from "@/data/nostalgia-trivia/nostalgia-riddles.json";
 import wordLadderData from "@/data/word-games/word-ladder.json";
+import wordLadderChallengeData from "@/data/word-games/word-ladder-challenge.json";
 import cryptogramData from "@/data/word-games/cryptogram.json";
+import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
 import logicGridData from "@/data/printable/logic-grid-puzzles.json";
 import mazeData from "@/data/printable/mazes.json";
 
@@ -50,6 +57,21 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     title: "Crossword — Around the World",
     description: "A printable geography-themed crossword puzzle with answer key.",
   },
+  "crossword-nature-science-1": {
+    type: "crossword",
+    title: "Crossword — Nature & Science 1",
+    description: "A printable nature and science themed crossword puzzle with answer key.",
+  },
+  "crossword-nature-science-2": {
+    type: "crossword",
+    title: "Crossword — Nature & Science 2",
+    description: "A printable nature and science themed crossword puzzle with answer key.",
+  },
+  "crossword-nature-science-3": {
+    type: "crossword",
+    title: "Crossword — Nature & Science 3",
+    description: "A printable nature and science themed crossword puzzle with answer key.",
+  },
   // Word Search (1 per puzzle)
   "word-search-nature-words": {
     type: "word-search",
@@ -65,6 +87,21 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     type: "word-search",
     title: "Word Search — Around the House",
     description: "A printable household-themed word search puzzle with answer key.",
+  },
+  "word-search-animals-1": {
+    type: "word-search",
+    title: "Word Search — Animals 1",
+    description: "A printable animal-themed word search puzzle with answer key.",
+  },
+  "word-search-animals-2": {
+    type: "word-search",
+    title: "Word Search — Animals 2",
+    description: "A printable animal-themed word search puzzle with answer key.",
+  },
+  "word-search-animals-3": {
+    type: "word-search",
+    title: "Word Search — Animals 3",
+    description: "A printable animal-themed word search puzzle with answer key.",
   },
   // Sudoku (1 per puzzle)
   "sudoku-easy": {
@@ -82,6 +119,21 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     title: "Sudoku — Hard",
     description: "A printable hard sudoku puzzle with solution.",
   },
+  "sudoku-challenge-1": {
+    type: "sudoku",
+    title: "Sudoku — Challenge 1",
+    description: "A printable sudoku challenge puzzle with solution.",
+  },
+  "sudoku-challenge-2": {
+    type: "sudoku",
+    title: "Sudoku — Challenge 2",
+    description: "A printable sudoku challenge puzzle with solution.",
+  },
+  "sudoku-challenge-3": {
+    type: "sudoku",
+    title: "Sudoku — Challenge 3",
+    description: "A printable sudoku challenge puzzle with solution.",
+  },
   // Word Scramble (5 per sheet)
   "word-scramble-sheet-1": {
     type: "word-scramble",
@@ -97,6 +149,21 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     type: "word-scramble",
     title: "Word Scramble — Sheet 3 (Hard)",
     description: "5 hard printable word scramble puzzles with hints and answer key.",
+  },
+  "food-scramble-sheet-1": {
+    type: "word-scramble",
+    title: "Food Word Scramble — Sheet 1",
+    description: "5 printable food-themed word scramble puzzles with hints and answer key.",
+  },
+  "food-scramble-sheet-2": {
+    type: "word-scramble",
+    title: "Food Word Scramble — Sheet 2",
+    description: "5 printable food-themed word scramble puzzles with hints and answer key.",
+  },
+  "food-scramble-sheet-3": {
+    type: "word-scramble",
+    title: "Food Word Scramble — Sheet 3",
+    description: "5 printable food-themed word scramble puzzles with hints and answer key.",
   },
   // Riddles (5 per sheet)
   "riddles-sheet-1": {
@@ -119,6 +186,26 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     title: "Riddles — Sheet 4",
     description: "5 printable riddles with hints and answer key.",
   },
+  "nostalgia-riddles-sheet-1": {
+    type: "riddles",
+    title: "Nostalgia Riddles — Sheet 1",
+    description: "5 printable nostalgia-themed riddles with hints and answer key.",
+  },
+  "nostalgia-riddles-sheet-2": {
+    type: "riddles",
+    title: "Nostalgia Riddles — Sheet 2",
+    description: "5 printable nostalgia-themed riddles with hints and answer key.",
+  },
+  "nostalgia-riddles-sheet-3": {
+    type: "riddles",
+    title: "Nostalgia Riddles — Sheet 3",
+    description: "5 printable nostalgia-themed riddles with hints and answer key.",
+  },
+  "nostalgia-riddles-sheet-4": {
+    type: "riddles",
+    title: "Nostalgia Riddles — Sheet 4",
+    description: "5 printable nostalgia-themed riddles with hints and answer key.",
+  },
   // Word Ladder (5 per sheet)
   "word-ladder-sheet-1": {
     type: "word-ladder",
@@ -129,6 +216,16 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     type: "word-ladder",
     title: "Word Ladder — Sheet 2",
     description: "5 printable word ladder puzzles with hints and answer key.",
+  },
+  "word-ladder-challenge-sheet-1": {
+    type: "word-ladder",
+    title: "Word Ladder Challenge — Sheet 1",
+    description: "5 printable word ladder challenge puzzles with hints and answer key.",
+  },
+  "word-ladder-challenge-sheet-2": {
+    type: "word-ladder",
+    title: "Word Ladder Challenge — Sheet 2",
+    description: "5 printable word ladder challenge puzzles with hints and answer key.",
   },
   // Cryptograms (1 per puzzle, reuse existing data)
   "cryptogram-1": {
@@ -145,6 +242,21 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     type: "cryptogram",
     title: "Cryptogram — Puzzle 3",
     description: "A printable cryptogram puzzle — decode the substitution cipher to reveal a famous quote.",
+  },
+  "poetry-cryptogram-1": {
+    type: "cryptogram",
+    title: "Poetry Cryptogram — Puzzle 1",
+    description: "A printable poetry cryptogram puzzle — decode the substitution cipher to reveal a famous poem line.",
+  },
+  "poetry-cryptogram-2": {
+    type: "cryptogram",
+    title: "Poetry Cryptogram — Puzzle 2",
+    description: "A printable poetry cryptogram puzzle — decode the substitution cipher to reveal a famous poem line.",
+  },
+  "poetry-cryptogram-3": {
+    type: "cryptogram",
+    title: "Poetry Cryptogram — Puzzle 3",
+    description: "A printable poetry cryptogram puzzle — decode the substitution cipher to reveal a famous poem line.",
   },
   // Logic Grid Puzzles
   "logic-grid-1": {
@@ -203,28 +315,40 @@ export async function generateMetadata({
 }
 
 // Map slug → crossword puzzle index
-const crosswordMap: Record<string, number> = {
-  "crossword-everyday-words": 0,
-  "crossword-classic-movies-music": 1,
-  "crossword-around-the-world": 2,
+const crosswordMap: Record<string, { data: typeof crosswordData; index: number }> = {
+  "crossword-everyday-words": { data: crosswordData, index: 0 },
+  "crossword-classic-movies-music": { data: crosswordData, index: 1 },
+  "crossword-around-the-world": { data: crosswordData, index: 2 },
+  "crossword-nature-science-1": { data: crosswordNatureScienceData, index: 0 },
+  "crossword-nature-science-2": { data: crosswordNatureScienceData, index: 1 },
+  "crossword-nature-science-3": { data: crosswordNatureScienceData, index: 2 },
 };
 
-const wordSearchMap: Record<string, number> = {
-  "word-search-nature-words": 0,
-  "word-search-kitchen-cooking": 1,
-  "word-search-around-the-house": 2,
+const wordSearchMap: Record<string, { data: typeof wordSearchData; index: number }> = {
+  "word-search-nature-words": { data: wordSearchData, index: 0 },
+  "word-search-kitchen-cooking": { data: wordSearchData, index: 1 },
+  "word-search-around-the-house": { data: wordSearchData, index: 2 },
+  "word-search-animals-1": { data: wordSearchAnimalsData, index: 0 },
+  "word-search-animals-2": { data: wordSearchAnimalsData, index: 1 },
+  "word-search-animals-3": { data: wordSearchAnimalsData, index: 2 },
 };
 
-const sudokuMap: Record<string, number> = {
-  "sudoku-easy": 0,
-  "sudoku-medium": 1,
-  "sudoku-hard": 2,
+const sudokuMap: Record<string, { data: typeof sudokuData; index: number }> = {
+  "sudoku-easy": { data: sudokuData, index: 0 },
+  "sudoku-medium": { data: sudokuData, index: 1 },
+  "sudoku-hard": { data: sudokuData, index: 2 },
+  "sudoku-challenge-1": { data: sudokuChallengeData, index: 0 },
+  "sudoku-challenge-2": { data: sudokuChallengeData, index: 1 },
+  "sudoku-challenge-3": { data: sudokuChallengeData, index: 2 },
 };
 
-const cryptogramMap: Record<string, number> = {
-  "cryptogram-1": 0,
-  "cryptogram-2": 1,
-  "cryptogram-3": 2,
+const cryptogramMap: Record<string, { data: typeof cryptogramData; index: number }> = {
+  "cryptogram-1": { data: cryptogramData, index: 0 },
+  "cryptogram-2": { data: cryptogramData, index: 1 },
+  "cryptogram-3": { data: cryptogramData, index: 2 },
+  "poetry-cryptogram-1": { data: cryptogramPoetryData, index: 0 },
+  "poetry-cryptogram-2": { data: cryptogramPoetryData, index: 1 },
+  "poetry-cryptogram-3": { data: cryptogramPoetryData, index: 2 },
 };
 
 const logicGridMap: Record<string, number> = {
@@ -245,40 +369,47 @@ function PuzzleContent({ slug }: { slug: string }) {
 
   switch (config.type) {
     case "crossword": {
-      const puzzle = crosswordData.puzzles[crosswordMap[slug]] as React.ComponentProps<typeof PrintableCrossword>["puzzle"];
+      const entry = crosswordMap[slug];
+      const puzzle = entry.data.puzzles[entry.index] as React.ComponentProps<typeof PrintableCrossword>["puzzle"];
       return <PrintableCrossword puzzle={puzzle} />;
     }
     case "word-search": {
-      const puzzle = wordSearchData.puzzles[wordSearchMap[slug]];
+      const entry = wordSearchMap[slug];
+      const puzzle = entry.data.puzzles[entry.index];
       return <PrintableWordSearch puzzle={puzzle} />;
     }
     case "sudoku": {
-      const puzzle = sudokuData.puzzles[sudokuMap[slug]];
+      const entry = sudokuMap[slug];
+      const puzzle = entry.data.puzzles[entry.index];
       return <PrintableSudoku puzzle={puzzle} />;
     }
     case "word-scramble": {
       const sheetNum = parseInt(slug.split("-").pop()!, 10);
       const perSheet = 5;
       const start = (sheetNum - 1) * perSheet;
-      const puzzles = wordScrambleData.puzzles.slice(start, start + perSheet);
+      const source = slug.startsWith("food-scramble") ? foodWordScrambleData : wordScrambleData;
+      const puzzles = source.puzzles.slice(start, start + perSheet);
       return <PrintableWordScramble title={config.title} puzzles={puzzles} />;
     }
     case "riddles": {
       const sheetNum = parseInt(slug.split("-").pop()!, 10);
       const perSheet = 5;
       const start = (sheetNum - 1) * perSheet;
-      const riddles = riddleData.riddles.slice(start, start + perSheet);
+      const source = slug.startsWith("nostalgia-riddles") ? nostalgiaRiddleData : riddleData;
+      const riddles = source.riddles.slice(start, start + perSheet);
       return <PrintableRiddles title={config.title} riddles={riddles} />;
     }
     case "word-ladder": {
       const sheetNum = parseInt(slug.split("-").pop()!, 10);
       const perSheet = 5;
       const start = (sheetNum - 1) * perSheet;
-      const puzzles = wordLadderData.puzzles.slice(start, start + perSheet);
+      const source = slug.startsWith("word-ladder-challenge") ? wordLadderChallengeData : wordLadderData;
+      const puzzles = source.puzzles.slice(start, start + perSheet);
       return <PrintableWordLadder title={config.title} puzzles={puzzles} />;
     }
     case "cryptogram": {
-      const puzzle = cryptogramData.puzzles[cryptogramMap[slug]];
+      const entry = cryptogramMap[slug];
+      const puzzle = entry.data.puzzles[entry.index];
       return <PrintableCryptogram puzzle={puzzle} />;
     }
     case "logic-grid": {
@@ -331,24 +462,26 @@ export default async function PrintablePuzzlePage({
             <ArrowLeft className="h-4 w-4" />
             All Printable Puzzles
           </Link>
-          <PrintButton />
+          <PrintPageButton />
         </div>
 
-        {/* Print header */}
-        <div className="mb-8 flex items-start justify-between">
-          <h1
-            className="text-2xl font-bold text-primary sm:text-3xl"
-            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-          >
-            {config.title}
-          </h1>
-          <span className="hidden text-sm text-text-muted print:block">
-            seniorbraingames.org
-          </span>
-        </div>
+        <div id="printable-area">
+          {/* Print header */}
+          <div className="mb-8 flex items-start justify-between">
+            <h1
+              className="text-2xl font-bold text-primary sm:text-3xl"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              {config.title}
+            </h1>
+            <span className="hidden text-sm text-text-muted print:block">
+              seniorbraingames.org
+            </span>
+          </div>
 
-        {/* Puzzle + answer key (with page break between) */}
-        <PuzzleContent slug={slug} />
+          {/* Puzzle + answer key (with page break between) */}
+          <PuzzleContent slug={slug} />
+        </div>
       </section>
     </>
   );

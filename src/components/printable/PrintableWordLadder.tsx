@@ -10,9 +10,11 @@ interface WordLadderPuzzle {
 export default function PrintableWordLadder({
   title,
   puzzles,
+  showAnswers,
 }: {
   title: string;
   puzzles: WordLadderPuzzle[];
+  showAnswers?: boolean;
 }) {
   return (
     <>
@@ -69,34 +71,38 @@ export default function PrintableWordLadder({
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {title}
+            </h2>
 
-        <ol className="space-y-4 text-base">
-          {puzzles.map((p, i) => (
-            <li key={p.id}>
-              <div className="flex gap-3">
-                <span className="font-bold text-primary">{i + 1}.</span>
-                <div>
-                  <p className="mb-1 font-medium">{p.title}</p>
-                  <p
-                    className="font-bold tracking-widest"
-                    style={{ fontFamily: "monospace" }}
-                  >
-                    {p.solution.join(" → ")}
-                  </p>
-                </div>
-              </div>
-            </li>
-          ))}
-        </ol>
-      </div>
+            <ol className="space-y-4 text-base">
+              {puzzles.map((p, i) => (
+                <li key={p.id}>
+                  <div className="flex gap-3">
+                    <span className="font-bold text-primary">{i + 1}.</span>
+                    <div>
+                      <p className="mb-1 font-medium">{p.title}</p>
+                      <p
+                        className="font-bold tracking-widest"
+                        style={{ fontFamily: "monospace" }}
+                      >
+                        {p.solution.join(" → ")}
+                      </p>
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </>
+      )}
     </>
   );
 }

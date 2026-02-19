@@ -1,15 +1,36 @@
-"use client";
+import Link from "next/link";
+import { Printer, FileText } from "lucide-react";
 
-import { Printer } from "lucide-react";
+const btnBase =
+  "inline-flex items-center gap-2 rounded-xl px-5 py-3 text-lg font-semibold shadow-md transition-all hover:shadow-lg";
 
-export default function PrintButton() {
+export default function PrintButton({
+  category,
+  slug,
+}: {
+  category: string;
+  slug: string;
+}) {
+  const base = `/${category}/${slug}/print`;
+
   return (
-    <button
-      onClick={() => window.print()}
-      className="no-print inline-flex items-center gap-2 rounded-xl bg-primary px-5 py-3 text-lg font-semibold text-white shadow-md transition-all hover:bg-primary-dark hover:shadow-lg"
-    >
-      <Printer className="h-5 w-5" />
-      Print Puzzle
-    </button>
+    <div className="no-print flex flex-wrap gap-3">
+      <Link
+        href={base}
+        target="_blank"
+        className={`${btnBase} bg-primary text-white hover:bg-primary-dark`}
+      >
+        <Printer className="h-5 w-5" />
+        Print
+      </Link>
+      <Link
+        href={`${base}?answers=true`}
+        target="_blank"
+        className={`${btnBase} bg-emerald-600 text-white hover:bg-emerald-700`}
+      >
+        <FileText className="h-5 w-5" />
+        Print with Answers
+      </Link>
+    </div>
   );
 }

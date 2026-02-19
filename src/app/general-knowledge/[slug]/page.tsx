@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
+import PrintButton from "@/components/printable/PrintButton";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import SortingEngine from "@/components/SortingEngine";
@@ -125,11 +126,22 @@ function GameStructuredData({ slug, title, description, rating }: { slug: string
   );
 }
 
+const printableSlugs = new Set([
+  ...getQuizzesByCategory("general-knowledge").map((q) => q.id),
+  "true-or-false",
+  "science-true-or-false",
+]);
+
 function PageShell({ slug, title, description, rating, children }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null; children: React.ReactNode }) {
   return (
     <>
       <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "General Knowledge", href: "/general-knowledge" }, { label: title }]} />
+      {printableSlugs.has(slug) && (
+        <div className="mx-auto mt-4 flex max-w-3xl justify-end px-6">
+          <PrintButton category="general-knowledge" slug={slug} />
+        </div>
+      )}
       {children}
       <RelatedGames category="general-knowledge" categoryLabel="General Knowledge" currentSlug={slug} games={allCategoryGames} />
     </>

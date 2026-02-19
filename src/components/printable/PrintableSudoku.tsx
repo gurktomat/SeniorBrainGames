@@ -35,7 +35,7 @@ function SudokuGrid({ grid, showAll }: { grid: number[][]; showAll?: boolean }) 
   );
 }
 
-export default function PrintableSudoku({ puzzle }: { puzzle: SudokuPuzzle }) {
+export default function PrintableSudoku({ puzzle, showAnswers }: { puzzle: SudokuPuzzle; showAnswers?: boolean }) {
   return (
     <>
       {/* Puzzle */}
@@ -55,17 +55,21 @@ export default function PrintableSudoku({ puzzle }: { puzzle: SudokuPuzzle }) {
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {puzzle.title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {puzzle.title}
+            </h2>
 
-        <SudokuGrid grid={puzzle.solution} showAll />
-      </div>
+            <SudokuGrid grid={puzzle.solution} showAll />
+          </div>
+        </>
+      )}
     </>
   );
 }

@@ -142,6 +142,7 @@ const specialGames = [
 
 const printableGames = new Set([
   "crossword-classic", "word-search", "word-scramble", "riddle-challenge", "word-ladder",
+  "crossword-nature-science", "word-search-animals", "food-word-scramble", "cryptogram-poetry", "word-ladder-challenge",
 ]);
 
 export default async function WordGames() {

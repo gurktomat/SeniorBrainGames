@@ -29,7 +29,7 @@ function getLetterFrequency(encoded: string): { letter: string; count: number }[
     .map(([letter, count]) => ({ letter, count }));
 }
 
-export default function PrintableCryptogram({ puzzle }: { puzzle: CryptogramPuzzle }) {
+export default function PrintableCryptogram({ puzzle, showAnswers }: { puzzle: CryptogramPuzzle; showAnswers?: boolean }) {
   const hints = getHints(puzzle.cipher, puzzle.plaintext);
   const letterFreq = getLetterFrequency(puzzle.encoded);
 
@@ -113,59 +113,62 @@ export default function PrintableCryptogram({ puzzle }: { puzzle: CryptogramPuzz
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {puzzle.title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {puzzle.title}
+            </h2>
 
-        <div className="mb-6">
-          <p className="mb-1 text-sm font-semibold text-text-muted">Decoded Quote:</p>
-          <p className="text-xl font-bold" style={{ fontFamily: "monospace" }}>
-            &ldquo;{puzzle.plaintext}&rdquo;
-          </p>
-          <p className="mt-1 text-base text-text-muted">&mdash; {puzzle.author}</p>
-        </div>
-
-        <div>
-          <p className="mb-2 text-sm font-semibold text-text-muted">Full Substitution Key:</p>
-          <div
-            className="inline-block rounded border border-gray-300"
-            style={{ fontFamily: "monospace" }}
-          >
-            <div className="flex border-b border-gray-300 bg-gray-50">
-              <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
-                Cipher
-              </span>
-              {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
-                // Only show letters that appear in the encoded text
-                const appears = puzzle.encoded.includes(letter);
-                return appears ? (
-                  <span key={letter} className="px-1.5 py-1 text-center text-sm font-bold" style={{ width: 26 }}>
-                    {letter}
-                  </span>
-                ) : null;
-              })}
+            <div className="mb-6">
+              <p className="mb-1 text-sm font-semibold text-text-muted">Decoded Quote:</p>
+              <p className="text-xl font-bold" style={{ fontFamily: "monospace" }}>
+                &ldquo;{puzzle.plaintext}&rdquo;
+              </p>
+              <p className="mt-1 text-base text-text-muted">&mdash; {puzzle.author}</p>
             </div>
-            <div className="flex">
-              <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
-                Plain
-              </span>
-              {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
-                const appears = puzzle.encoded.includes(letter);
-                return appears ? (
-                  <span key={letter} className="px-1.5 py-1 text-center text-sm" style={{ width: 26 }}>
-                    {reverseCipher[letter] || "?"}
+
+            <div>
+              <p className="mb-2 text-sm font-semibold text-text-muted">Full Substitution Key:</p>
+              <div
+                className="inline-block rounded border border-gray-300"
+                style={{ fontFamily: "monospace" }}
+              >
+                <div className="flex border-b border-gray-300 bg-gray-50">
+                  <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
+                    Cipher
                   </span>
-                ) : null;
-              })}
+                  {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
+                    const appears = puzzle.encoded.includes(letter);
+                    return appears ? (
+                      <span key={letter} className="px-1.5 py-1 text-center text-sm font-bold" style={{ width: 26 }}>
+                        {letter}
+                      </span>
+                    ) : null;
+                  })}
+                </div>
+                <div className="flex">
+                  <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
+                    Plain
+                  </span>
+                  {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
+                    const appears = puzzle.encoded.includes(letter);
+                    return appears ? (
+                      <span key={letter} className="px-1.5 py-1 text-center text-sm" style={{ width: 26 }}>
+                        {reverseCipher[letter] || "?"}
+                      </span>
+                    ) : null;
+                  })}
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
+        </>
+      )}
     </>
   );
 }

@@ -8,9 +8,11 @@ interface WordScramblePuzzle {
 export default function PrintableWordScramble({
   title,
   puzzles,
+  showAnswers,
 }: {
   title: string;
   puzzles: WordScramblePuzzle[];
+  showAnswers?: boolean;
 }) {
   return (
     <>
@@ -50,25 +52,29 @@ export default function PrintableWordScramble({
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {title}
+            </h2>
 
-        <ol className="space-y-2 text-base">
-          {puzzles.map((p, i) => (
-            <li key={p.id} className="flex items-baseline gap-3">
-              <span className="font-bold text-primary">{i + 1}.</span>
-              <span className="font-mono font-bold">{p.answer}</span>
-              <span className="text-text-muted">({p.scrambled})</span>
-            </li>
-          ))}
-        </ol>
-      </div>
+            <ol className="space-y-2 text-base">
+              {puzzles.map((p, i) => (
+                <li key={p.id} className="flex items-baseline gap-3">
+                  <span className="font-bold text-primary">{i + 1}.</span>
+                  <span className="font-mono font-bold">{p.answer}</span>
+                  <span className="text-text-muted">({p.scrambled})</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </>
+      )}
     </>
   );
 }

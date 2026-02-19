@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Star } from "lucide-react";
+import { Star, Printer } from "lucide-react";
 import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
@@ -137,8 +137,16 @@ export default async function NostalgiaTrivia() {
             <Link
               key={game.id}
               href={`/nostalgia-trivia/${game.id}`}
-              className="card-enterprise group flex flex-col p-6"
+              className="card-enterprise group relative flex flex-col p-6"
             >
+              {game.id === "nostalgia-riddles" && (
+                <span
+                  className="absolute right-4 top-4 flex items-center gap-1 rounded-full bg-purple-50 px-2.5 py-1 text-xs font-bold text-purple-700"
+                  title="Printable version available"
+                >
+                  <Printer size={12} /> Printable
+                </span>
+              )}
               <GameIcon gameId={game.id} color="#3B6FC0" />
               <h2
                 className="mb-2 text-lg font-bold text-foreground"

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
+import PrintButton from "@/components/printable/PrintButton";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import SortingEngine from "@/components/SortingEngine";
@@ -129,11 +130,22 @@ function GameStructuredData({ slug, title, description, rating }: { slug: string
   );
 }
 
+const printableSlugs = new Set([
+  ...getQuizzesByCategory("nostalgia-trivia").map((q) => q.id),
+  "nostalgia-riddles",
+  "nostalgia-fact-or-fiction",
+]);
+
 function PageShell({ slug, title, description, rating, children }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null; children: React.ReactNode }) {
   return (
     <>
       <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "Nostalgia Trivia", href: "/nostalgia-trivia" }, { label: title }]} />
+      {printableSlugs.has(slug) && (
+        <div className="mx-auto mt-4 flex max-w-3xl justify-end px-6">
+          <PrintButton category="nostalgia-trivia" slug={slug} />
+        </div>
+      )}
       {children}
       <RelatedGames category="nostalgia-trivia" categoryLabel="Nostalgia Trivia" currentSlug={slug} games={allCategoryGames} />
     </>

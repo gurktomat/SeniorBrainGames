@@ -8,9 +8,11 @@ interface Riddle {
 export default function PrintableRiddles({
   title,
   riddles,
+  showAnswers,
 }: {
   title: string;
   riddles: Riddle[];
+  showAnswers?: boolean;
 }) {
   return (
     <>
@@ -45,24 +47,28 @@ export default function PrintableRiddles({
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {title}
+            </h2>
 
-        <ol className="space-y-2 text-base">
-          {riddles.map((r, i) => (
-            <li key={r.id} className="flex gap-3">
-              <span className="font-bold text-primary">{i + 1}.</span>
-              <span className="font-bold capitalize">{r.answer}</span>
-            </li>
-          ))}
-        </ol>
-      </div>
+            <ol className="space-y-2 text-base">
+              {riddles.map((r, i) => (
+                <li key={r.id} className="flex gap-3">
+                  <span className="font-bold text-primary">{i + 1}.</span>
+                  <span className="font-bold capitalize">{r.answer}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </>
+      )}
     </>
   );
 }

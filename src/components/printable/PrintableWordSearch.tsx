@@ -27,7 +27,7 @@ function getWordCells(word: WordSearchWord): Set<string> {
   return cells;
 }
 
-export default function PrintableWordSearch({ puzzle }: { puzzle: WordSearchPuzzle }) {
+export default function PrintableWordSearch({ puzzle, showAnswers }: { puzzle: WordSearchPuzzle; showAnswers?: boolean }) {
   const allWordCells = new Set<string>();
   for (const w of puzzle.words) {
     for (const key of getWordCells(w)) {
@@ -75,42 +75,46 @@ export default function PrintableWordSearch({ puzzle }: { puzzle: WordSearchPuzz
       </div>
 
       {/* Page break + Answer Key */}
-      <div className="print-page-break" />
-      <div className="print-no-break">
-        <h2
-          className="mb-4 text-2xl font-bold text-primary"
-          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-        >
-          Answer Key &mdash; {puzzle.title}
-        </h2>
+      {showAnswers !== false && (
+        <>
+          <div className="print-page-break" />
+          <div className="print-no-break">
+            <h2
+              className="mb-4 text-2xl font-bold text-primary"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Answer Key &mdash; {puzzle.title}
+            </h2>
 
-        <div className="inline-block rounded border border-gray-300 p-2" style={{ fontFamily: "monospace" }}>
-          {puzzle.grid.map((row, r) => (
-            <div key={r} className="flex">
-              {row.split("").map((ch, c) => (
-                <span
-                  key={c}
-                  className="inline-flex items-center justify-center text-lg"
-                  style={{
-                    width: 32,
-                    height: 32,
-                    fontWeight: allWordCells.has(`${r},${c}`) ? 800 : 300,
-                    opacity: allWordCells.has(`${r},${c}`) ? 1 : 0.35,
-                  }}
-                >
-                  {ch}
-                </span>
+            <div className="inline-block rounded border border-gray-300 p-2" style={{ fontFamily: "monospace" }}>
+              {puzzle.grid.map((row, r) => (
+                <div key={r} className="flex">
+                  {row.split("").map((ch, c) => (
+                    <span
+                      key={c}
+                      className="inline-flex items-center justify-center text-lg"
+                      style={{
+                        width: 32,
+                        height: 32,
+                        fontWeight: allWordCells.has(`${r},${c}`) ? 800 : 300,
+                        opacity: allWordCells.has(`${r},${c}`) ? 1 : 0.35,
+                      }}
+                    >
+                      {ch}
+                    </span>
+                  ))}
+                </div>
               ))}
             </div>
-          ))}
-        </div>
 
-        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-base font-bold">
-          {puzzle.words.map((w) => (
-            <span key={w.word}>{w.word}</span>
-          ))}
-        </div>
-      </div>
+            <div className="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-base font-bold">
+              {puzzle.words.map((w) => (
+                <span key={w.word}>{w.word}</span>
+              ))}
+            </div>
+          </div>
+        </>
+      )}
     </>
   );
 }
