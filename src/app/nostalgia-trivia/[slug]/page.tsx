@@ -9,6 +9,9 @@ import JsonLd from "@/components/JsonLd";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedGames from "@/components/RelatedGames";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
+import { getGameRating } from "@/lib/db";
+
+export const revalidate = 300;
 
 import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
 import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
@@ -64,8 +67,29 @@ export async function generateMetadata({
   return {};
 }
 
-function GameStructuredData({ slug, title, description }: { slug: string; title: string; description: string }) {
+function GameStructuredData({ slug, title, description, rating }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null }) {
   const url = `https://seniorbraingames.org/nostalgia-trivia/${slug}`;
+  const webApp: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    name: title,
+    description,
+    url,
+    applicationCategory: "Game",
+    genre: "Brain Game",
+    audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
+    isAccessibleForFree: true,
+    inLanguage: "en",
+  };
+  if (rating && rating.ratingCount >= 5) {
+    webApp.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: rating.avgRating,
+      ratingCount: rating.ratingCount,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
   return (
     <>
       <JsonLd
@@ -79,28 +103,15 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
           ],
         }}
       />
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "WebApplication",
-          name: title,
-          description,
-          url,
-          applicationCategory: "Game",
-          genre: "Brain Game",
-          audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
-          isAccessibleForFree: true,
-          inLanguage: "en",
-        }}
-      />
+      <JsonLd data={webApp} />
     </>
   );
 }
 
-function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+function PageShell({ slug, title, description, rating, children }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null; children: React.ReactNode }) {
   return (
     <>
-      <GameStructuredData slug={slug} title={title} description={description} />
+      <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "Nostalgia Trivia", href: "/nostalgia-trivia" }, { label: title }]} />
       {children}
       <RelatedGames category="nostalgia-trivia" categoryLabel="Nostalgia Trivia" currentSlug={slug} games={allCategoryGames} />
@@ -114,12 +125,13 @@ export default async function NostalgiaQuizPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const rating = await getGameRating(slug);
 
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("nostalgia-trivia", slug);
   if (quiz) {
     return (
-      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
+      <PageShell slug={slug} title={quiz.title} description={quiz.description} rating={rating}>
         <QuizEngine quiz={quiz} />
       </PageShell>
     );
@@ -132,25 +144,25 @@ export default async function NostalgiaQuizPage({
   switch (slug) {
     case "timeline-sort":
       return (
-        <PageShell slug={slug} title={special.title} description={special.description}>
+        <PageShell slug={slug} title={special.title} description={special.description} rating={rating}>
           <TimelineSortEngine title={timelineSortData.title} rounds={timelineSortData.rounds} />
         </PageShell>
       );
     case "nostalgia-fact-or-fiction":
       return (
-        <PageShell slug={slug} title={special.title} description={special.description}>
+        <PageShell slug={slug} title={special.title} description={special.description} rating={rating}>
           <TrueOrFalseEngine title={nostalgiaFactOrFictionData.title} statements={nostalgiaFactOrFictionData.statements} />
         </PageShell>
       );
     case "decade-sorting":
       return (
-        <PageShell slug={slug} title={special.title} description={special.description}>
+        <PageShell slug={slug} title={special.title} description={special.description} rating={rating}>
           <SortingEngine title={decadeSortingData.title} rounds={decadeSortingData.rounds} />
         </PageShell>
       );
     case "nostalgia-who-am-i":
       return (
-        <PageShell slug={slug} title={special.title} description={special.description}>
+        <PageShell slug={slug} title={special.title} description={special.description} rating={rating}>
           <WhoAmIEngine title={nostalgiaWhoAmIData.title} puzzles={nostalgiaWhoAmIData.puzzles} />
         </PageShell>
       );

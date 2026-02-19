@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useRef } from "react";
+import StarRating from "./StarRating";
 
 interface Pair {
   left: string;
@@ -223,6 +224,7 @@ function MatchingPairsRoundView({
           <p className="mb-6 text-base text-text-muted">
             Matched all pairs in {attempts} attempt{attempts !== 1 ? "s" : ""}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {roundIndex + 1 < totalRounds ? (
               <button

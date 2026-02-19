@@ -4,6 +4,9 @@ import QuizEngine from "@/components/QuizEngine";
 import JsonLd from "@/components/JsonLd";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedGames from "@/components/RelatedGames";
+import { getGameRating } from "@/lib/db";
+
+export const revalidate = 300;
 import WordScrambleEngine from "@/components/WordScrambleEngine";
 import ProverbEngine from "@/components/ProverbEngine";
 import SpellingBeeEngine from "@/components/SpellingBeeEngine";
@@ -97,8 +100,29 @@ export async function generateMetadata({
   return {};
 }
 
-function GameStructuredData({ slug, title, description }: { slug: string; title: string; description: string }) {
+function GameStructuredData({ slug, title, description, rating }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null }) {
   const url = `https://seniorbraingames.org/word-games/${slug}`;
+  const webApp: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    name: title,
+    description,
+    url,
+    applicationCategory: "Game",
+    genre: "Brain Game",
+    audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
+    isAccessibleForFree: true,
+    inLanguage: "en",
+  };
+  if (rating && rating.ratingCount >= 5) {
+    webApp.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: rating.avgRating,
+      ratingCount: rating.ratingCount,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
   return (
     <>
       <JsonLd
@@ -112,28 +136,15 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
           ],
         }}
       />
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "WebApplication",
-          name: title,
-          description,
-          url,
-          applicationCategory: "Game",
-          genre: "Brain Game",
-          audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
-          isAccessibleForFree: true,
-          inLanguage: "en",
-        }}
-      />
+      <JsonLd data={webApp} />
     </>
   );
 }
 
-function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+function PageShell({ slug, title, description, rating, children }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null; children: React.ReactNode }) {
   return (
     <>
-      <GameStructuredData slug={slug} title={title} description={description} />
+      <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "Word Games", href: "/word-games" }, { label: title }]} />
       {children}
       <RelatedGames category="word-games" categoryLabel="Word Games" currentSlug={slug} games={allCategoryGames} />
@@ -147,12 +158,13 @@ export default async function WordGamePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const rating = await getGameRating(slug);
 
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("word-games", slug);
   if (quiz) {
     return (
-      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
+      <PageShell slug={slug} title={quiz.title} description={quiz.description} rating={rating}>
         <QuizEngine quiz={quiz} />
       </PageShell>
     );
@@ -164,35 +176,35 @@ export default async function WordGamePage({
 
   switch (slug) {
     case "word-scramble":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WordScrambleEngine title={wordScrambleData.title} puzzles={wordScrambleData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordScrambleEngine title={wordScrambleData.title} puzzles={wordScrambleData.puzzles} /></PageShell>);
     case "complete-the-proverb":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><ProverbEngine title={proverbData.title} questions={proverbData.questions} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><ProverbEngine title={proverbData.title} questions={proverbData.questions} /></PageShell>);
     case "spelling-bee":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SpellingBeeEngine title={spellingData.title} words={spellingData.words} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpellingBeeEngine title={spellingData.title} words={spellingData.words} /></PageShell>);
     case "word-association":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WordAssociationEngine title={wordAssocData.title} puzzles={wordAssocData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordAssociationEngine title={wordAssocData.title} puzzles={wordAssocData.puzzles} /></PageShell>);
     case "crossword-classic":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><CrosswordEngine title={crosswordData.title} puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><CrosswordEngine title={crosswordData.title} puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></PageShell>);
     case "word-search":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WordSearchEngine title={wordSearchData.title} puzzles={wordSearchData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordSearchEngine title={wordSearchData.title} puzzles={wordSearchData.puzzles} /></PageShell>);
     case "hangman":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><HangmanEngine title={hangmanData.title} words={hangmanData.words} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><HangmanEngine title={hangmanData.title} words={hangmanData.words} /></PageShell>);
     case "word-ladder":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WordLadderEngine title={wordLadderData.title} puzzles={wordLadderData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordLadderEngine title={wordLadderData.title} puzzles={wordLadderData.puzzles} /></PageShell>);
     case "cryptogram":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><CryptogramEngine title={cryptogramData.title} puzzles={cryptogramData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><CryptogramEngine title={cryptogramData.title} puzzles={cryptogramData.puzzles} /></PageShell>);
     case "anagram-challenge":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><AnagramEngine title={anagramData.title} rounds={anagramData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><AnagramEngine title={anagramData.title} rounds={anagramData.rounds} /></PageShell>);
     case "missing-vowels":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><MissingVowelsEngine title={missingVowelsData.title} rounds={missingVowelsData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MissingVowelsEngine title={missingVowelsData.title} rounds={missingVowelsData.rounds} /></PageShell>);
     case "emoji-decoder":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><EmojiDecoderEngine title={emojiDecoderData.title} rounds={emojiDecoderData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><EmojiDecoderEngine title={emojiDecoderData.title} rounds={emojiDecoderData.rounds} /></PageShell>);
     case "riddle-challenge":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><RiddleEngine title={riddleData.title} riddles={riddleData.riddles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><RiddleEngine title={riddleData.title} riddles={riddleData.riddles} /></PageShell>);
     case "famous-first-lines":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></PageShell>);
     case "grammar-true-or-false":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></PageShell>);
     default:
       notFound();
   }

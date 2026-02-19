@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect, useRef } from "react";
+import StarRating from "./StarRating";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -485,6 +486,7 @@ function SequenceLevelView({
           <p className="mb-6 text-base text-text-muted">
             Remembered a sequence of {maxLength} colors — outstanding!
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {levelIndex + 1 < totalLevels ? (
               <button

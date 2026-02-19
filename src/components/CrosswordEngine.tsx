@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useRef, useEffect } from "react";
+import StarRating from "./StarRating";
 import type { CrosswordDirection, CrosswordClue } from "@/lib/types";
 import {
   initializeGrid,
@@ -326,6 +327,7 @@ function CrosswordPuzzleView({
               ? "Solved without any hints — outstanding!"
               : `Solved with ${3 - hintsRemaining} hint${3 - hintsRemaining > 1 ? "s" : ""} used.`}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

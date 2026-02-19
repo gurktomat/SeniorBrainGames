@@ -19,6 +19,9 @@ import EstimationEngine from "@/components/EstimationEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
+import { getGameRating } from "@/lib/db";
+
+export const revalidate = 300;
 
 import memoryCardData from "@/data/memory-games/memory-card-match.json";
 import spotDiffData from "@/data/memory-games/spot-the-difference.json";
@@ -94,8 +97,29 @@ export async function generateMetadata({
   return {};
 }
 
-function GameStructuredData({ slug, title, description }: { slug: string; title: string; description: string }) {
+function GameStructuredData({ slug, title, description, rating }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null }) {
   const url = `https://seniorbraingames.org/memory-games/${slug}`;
+  const webApp: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    name: title,
+    description,
+    url,
+    applicationCategory: "Game",
+    genre: "Brain Game",
+    audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
+    isAccessibleForFree: true,
+    inLanguage: "en",
+  };
+  if (rating && rating.ratingCount >= 5) {
+    webApp.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: rating.avgRating,
+      ratingCount: rating.ratingCount,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
   return (
     <>
       <JsonLd
@@ -109,28 +133,15 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
           ],
         }}
       />
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "WebApplication",
-          name: title,
-          description,
-          url,
-          applicationCategory: "Game",
-          genre: "Brain Game",
-          audience: { "@type": "PeopleAudience", suggestedMinAge: 50 },
-          isAccessibleForFree: true,
-          inLanguage: "en",
-        }}
-      />
+      <JsonLd data={webApp} />
     </>
   );
 }
 
-function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+function PageShell({ slug, title, description, rating, children }: { slug: string; title: string; description: string; rating?: { avgRating: number; ratingCount: number } | null; children: React.ReactNode }) {
   return (
     <>
-      <GameStructuredData slug={slug} title={title} description={description} />
+      <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "Memory Games", href: "/memory-games" }, { label: title }]} />
       {children}
       <RelatedGames category="memory-games" categoryLabel="Memory Games" currentSlug={slug} games={allCategoryGames} />
@@ -144,12 +155,13 @@ export default async function MemoryGamePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const rating = await getGameRating(slug);
 
   // Check if it's a regular quiz
   const quiz = getQuizBySlug("memory-games", slug);
   if (quiz) {
     return (
-      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
+      <PageShell slug={slug} title={quiz.title} description={quiz.description} rating={rating}>
         <QuizEngine quiz={quiz} />
       </PageShell>
     );
@@ -161,33 +173,33 @@ export default async function MemoryGamePage({
 
   switch (slug) {
     case "memory-card-match":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><MemoryCardEngine title={memoryCardData.title} levels={memoryCardData.levels} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MemoryCardEngine title={memoryCardData.title} levels={memoryCardData.levels} /></PageShell>);
     case "spot-the-difference":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SpotDifferenceEngine title={spotDiffData.title} rounds={spotDiffData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpotDifferenceEngine title={spotDiffData.title} rounds={spotDiffData.rounds} /></PageShell>);
     case "whats-missing":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WhatsMissingEngine title={whatsMissingData.title} rounds={whatsMissingData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhatsMissingEngine title={whatsMissingData.title} rounds={whatsMissingData.rounds} /></PageShell>);
     case "pattern-recognition":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><PatternEngine title={patternData.title} puzzles={patternData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><PatternEngine title={patternData.title} puzzles={patternData.puzzles} /></PageShell>);
     case "color-shape-sorting":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SortingEngine title={sortingData.title} rounds={sortingData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SortingEngine title={sortingData.title} rounds={sortingData.rounds} /></PageShell>);
     case "sudoku-puzzles":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SudokuEngine title={sudokuData.title} puzzles={sudokuData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SudokuEngine title={sudokuData.title} puzzles={sudokuData.puzzles} /></PageShell>);
     case "sliding-puzzle":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SlidingPuzzleEngine title={slidingPuzzleData.title} puzzles={slidingPuzzleData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SlidingPuzzleEngine title={slidingPuzzleData.title} puzzles={slidingPuzzleData.puzzles} /></PageShell>);
     case "sequence-memory":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><SequenceMemoryEngine title={sequenceMemoryData.title} levels={sequenceMemoryData.levels} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SequenceMemoryEngine title={sequenceMemoryData.title} levels={sequenceMemoryData.levels} /></PageShell>);
     case "matching-pairs":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><MatchingPairsEngine title={matchingPairsData.title} rounds={matchingPairsData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MatchingPairsEngine title={matchingPairsData.title} rounds={matchingPairsData.rounds} /></PageShell>);
     case "math-challenge":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><MathChallengeEngine title={mathChallengeData.title} levels={mathChallengeData.levels} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MathChallengeEngine title={mathChallengeData.title} levels={mathChallengeData.levels} /></PageShell>);
     case "number-memory":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><NumberMemoryEngine title={numberMemoryData.title} rounds={numberMemoryData.rounds} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><NumberMemoryEngine title={numberMemoryData.title} rounds={numberMemoryData.rounds} /></PageShell>);
     case "estimation-game":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><EstimationEngine title={estimationData.title} questions={estimationData.questions} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><EstimationEngine title={estimationData.title} questions={estimationData.questions} /></PageShell>);
     case "memory-true-or-false":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></PageShell>);
     case "what-am-i":
-      return (<PageShell slug={slug} title={special.title} description={special.description}><WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></PageShell>);
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></PageShell>);
     default:
       notFound();
   }

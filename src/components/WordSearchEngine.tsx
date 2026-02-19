@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo } from "react";
+import StarRating from "./StarRating";
 
 interface WordEntry {
   word: string;
@@ -256,6 +257,7 @@ function WordSearchPuzzleView({
               ? "Found every word without hints — outstanding!"
               : `Found all words with ${hintsUsed} hint${hintsUsed > 1 ? "s" : ""} used.`}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

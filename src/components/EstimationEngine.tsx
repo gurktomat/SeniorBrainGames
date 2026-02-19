@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import StarRating from "./StarRating";
 
 interface EstimationQuestion {
   id: string;
@@ -77,6 +78,7 @@ export default function EstimationEngine({
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
           <p className="mt-2 text-lg text-foreground">{score} out of {maxScore} points</p>
           <p className="mt-1 text-base text-text-muted">2 pts for spot-on, 1 pt for close</p>
+          <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
           </button>

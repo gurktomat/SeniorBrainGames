@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Star } from "lucide-react";
 import QuizCard from "@/components/QuizCard";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import { GameIcon } from "@/lib/gameIcons";
 import JsonLd from "@/components/JsonLd";
+import { getCategoryRatings } from "@/lib/db";
+
+export const revalidate = 300;
 
 export const metadata: Metadata = {
   title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
@@ -40,8 +44,9 @@ const specialGames = [
   },
 ];
 
-export default function NostalgiaTrivia() {
+export default async function NostalgiaTrivia() {
   const quizzes = getQuizzesByCategory("nostalgia-trivia");
+  const ratings = await getCategoryRatings("nostalgia-trivia");
   const info = categoryInfo["nostalgia-trivia"];
 
   const allGames = [
@@ -101,9 +106,17 @@ export default function NostalgiaTrivia() {
               </h2>
               <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
               <div className="flex items-center justify-between">
-                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
-                  {game.count}
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                    {game.count}
+                  </span>
+                  {ratings[game.id] && ratings[game.id].ratingCount >= 3 && (
+                    <span className="flex items-center gap-1 text-sm text-text-muted">
+                      <Star size={14} fill="#f59e0b" stroke="#f59e0b" />
+                      {ratings[game.id].avgRating}
+                    </span>
+                  )}
+                </div>
                 <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
                   Play &rarr;
                 </span>
@@ -112,7 +125,7 @@ export default function NostalgiaTrivia() {
           ))}
 
           {quizzes.map((quiz) => (
-            <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" iconColor="#3B6FC0" />
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/nostalgia-trivia" iconColor="#3B6FC0" rating={ratings[quiz.id]} />
           ))}
         </div>
       </div>

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect, useRef } from "react";
+import StarRating from "./StarRating";
 
 interface CryptogramPuzzleData {
   id: string;
@@ -405,6 +406,7 @@ function CryptogramPuzzleView({
               ? "Solved without any hints -- outstanding!"
               : `Solved with ${hintsUsed} hint${hintsUsed > 1 ? "s" : ""} used.`}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect } from "react";
+import StarRating from "./StarRating";
 
 interface SudokuPuzzleData {
   id: string;
@@ -343,6 +344,7 @@ function SudokuPuzzleView({
               ? "Solved without any hints — outstanding!"
               : `Solved with ${3 - hintsRemaining} hint${3 - hintsRemaining > 1 ? "s" : ""} used.`}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

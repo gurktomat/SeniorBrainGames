@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import StarRating from "./StarRating";
 
 interface Phrase {
   display: string;
@@ -110,6 +111,7 @@ function MissingVowelsRoundView({
           <p className="mt-2 text-lg text-foreground">
             {score} out of {total} correct
           </p>
+          <StarRating />
           <div className="mt-8 flex flex-col items-center gap-3">
             {roundIndex + 1 < totalRounds ? (
               <button

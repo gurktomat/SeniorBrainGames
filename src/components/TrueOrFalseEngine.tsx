@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import StarRating from "./StarRating";
 
 interface Statement {
   id: string;
@@ -71,6 +72,7 @@ export default function TrueOrFalseEngine({
           <p className="mt-2 text-lg text-foreground">
             {score} out of {statements.length} correct
           </p>
+          <StarRating />
           <button
             onClick={handleRestart}
             className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20"

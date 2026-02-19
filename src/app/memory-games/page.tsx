@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Star } from "lucide-react";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import QuizCard from "@/components/QuizCard";
 import { GameIcon } from "@/lib/gameIcons";
 import JsonLd from "@/components/JsonLd";
+import { getCategoryRatings } from "@/lib/db";
+
+export const revalidate = 300;
 
 export const metadata: Metadata = {
   title: "Memory Games — Card Match, Patterns, Sorting & More",
@@ -103,8 +107,9 @@ const specialGames = [
   },
 ];
 
-export default function MemoryGames() {
+export default async function MemoryGames() {
   const quizzes = getQuizzesByCategory("memory-games");
+  const ratings = await getCategoryRatings("memory-games");
   const info = categoryInfo["memory-games"];
 
   const allGames = [
@@ -164,9 +169,17 @@ export default function MemoryGames() {
               </h2>
               <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
               <div className="flex items-center justify-between">
-                <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
-                  {game.count}
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+                    {game.count}
+                  </span>
+                  {ratings[game.id] && ratings[game.id].ratingCount >= 3 && (
+                    <span className="flex items-center gap-1 text-sm text-text-muted">
+                      <Star size={14} fill="#f59e0b" stroke="#f59e0b" />
+                      {ratings[game.id].avgRating}
+                    </span>
+                  )}
+                </div>
                 <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
                   Play &rarr;
                 </span>
@@ -175,7 +188,7 @@ export default function MemoryGames() {
           ))}
 
           {quizzes.map((quiz) => (
-            <QuizCard key={quiz.id} quiz={quiz} basePath="/memory-games" iconColor="#16A34A" />
+            <QuizCard key={quiz.id} quiz={quiz} basePath="/memory-games" iconColor="#16A34A" rating={ratings[quiz.id]} />
           ))}
         </div>
       </div>

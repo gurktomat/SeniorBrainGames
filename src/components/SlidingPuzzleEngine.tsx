@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo } from "react";
+import StarRating from "./StarRating";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -198,6 +199,7 @@ function SlidingPuzzleView({
             <span className="font-bold text-primary">{moves}</span>{" "}
             move{moves !== 1 ? "s" : ""}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

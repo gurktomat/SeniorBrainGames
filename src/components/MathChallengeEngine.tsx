@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useRef, useEffect } from "react";
+import StarRating from "./StarRating";
 
 interface Problem {
   id: string;
@@ -161,6 +162,7 @@ function MathLevelView({
                 ? "Great job!"
                 : "Keep practicing!"}
           </p>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {levelIndex + 1 < totalLevels ? (
               <button

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect } from "react";
+import StarRating from "./StarRating";
 
 interface HangmanWord {
   id: string;
@@ -73,6 +74,7 @@ export default function HangmanEngine({
           <p className="mb-6 text-lg text-text-muted">
             You got {score} out of {totalPlayed} words correct!
           </p>
+          <StarRating />
           <button
             onClick={handleRestart}
             className="btn-primary focus:outline-none focus:ring-4 focus:ring-primary/20"

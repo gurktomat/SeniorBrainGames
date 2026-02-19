@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useRef, useEffect } from "react";
+import StarRating from "./StarRating";
 
 interface WordLadderPuzzle {
   id: string;
@@ -218,6 +219,7 @@ function WordLadderPuzzleView({
             ))}
           </div>
 
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {puzzleIndex + 1 < totalPuzzles ? (
               <button

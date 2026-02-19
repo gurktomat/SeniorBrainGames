@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { Quiz, QuizResult } from "@/lib/types";
 import ShareButton from "./ShareButton";
+import StarRating from "./StarRating";
 
 export default function ResultsView({
   result,
@@ -67,7 +68,9 @@ export default function ResultsView({
         <p className="mb-2 text-lg text-foreground">
           {result.correctAnswers} out of {result.totalQuestions} correct
         </p>
-        <p className="mb-8 text-lg font-medium text-text-muted">{message}</p>
+        <p className="mb-4 text-lg font-medium text-text-muted">{message}</p>
+
+        <StarRating />
 
         <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
           <button

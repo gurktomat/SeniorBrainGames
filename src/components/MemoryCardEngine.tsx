@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useEffect } from "react";
+import StarRating from "./StarRating";
 
 interface Pair {
   emoji: string;
@@ -154,6 +155,7 @@ export default function MemoryCardEngine({
             All Pairs Found!
           </h2>
           <p className="mb-6 text-lg text-text-muted">You completed it in {moves} moves</p>
+          <StarRating />
           <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
             <button onClick={() => startLevel(selectedLevel)} className="btn-primary focus:outline-none focus:ring-4 focus:ring-primary/20">
               Play Again

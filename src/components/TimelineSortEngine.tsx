@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo } from "react";
+import StarRating from "./StarRating";
 
 interface TimelineEvent {
   text: string;
@@ -139,6 +140,7 @@ function TimelineRoundView({
               );
             })}
           </div>
+          <StarRating />
           <div className="flex flex-col items-center gap-3">
             {roundIndex + 1 < totalRounds ? (
               <button

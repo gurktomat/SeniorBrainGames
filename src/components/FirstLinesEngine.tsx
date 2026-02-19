@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import StarRating from "./StarRating";
 
 interface FirstLine {
   id: string;
@@ -75,6 +76,7 @@ export default function FirstLinesEngine({
           <p className="mb-6 text-lg text-text-muted">{title}</p>
           <span className="text-5xl font-bold text-primary">{percentage}%</span>
           <p className="mt-2 text-lg text-foreground">{score} out of {lines.length} correct</p>
+          <StarRating />
           <button onClick={handleRestart} className="btn-primary mt-8 focus:outline-none focus:ring-4 focus:ring-primary/20">
             Play Again
           </button>
