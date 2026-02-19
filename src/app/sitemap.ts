@@ -35,5 +35,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       })),
   );
 
-  return [...staticPages, ...quizPages, ...gamePages];
+  // Printable puzzles
+  const printableSlugs = [
+    "crossword-everyday-words", "crossword-classic-movies-music", "crossword-around-the-world",
+    "word-search-nature-words", "word-search-kitchen-cooking", "word-search-around-the-house",
+    "sudoku-easy", "sudoku-medium", "sudoku-hard",
+    "word-scramble-sheet-1", "word-scramble-sheet-2", "word-scramble-sheet-3",
+    "riddles-sheet-1", "riddles-sheet-2", "riddles-sheet-3", "riddles-sheet-4",
+    "word-ladder-sheet-1", "word-ladder-sheet-2",
+  ];
+  const printablePages = [
+    { url: `${baseUrl}/printable-puzzles`, changeFrequency: "monthly" as const, priority: 0.8, lastModified },
+    ...printableSlugs.map((slug) => ({
+      url: `${baseUrl}/printable-puzzles/${slug}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+      lastModified,
+    })),
+  ];
+
+  return [...staticPages, ...quizPages, ...gamePages, ...printablePages];
 }

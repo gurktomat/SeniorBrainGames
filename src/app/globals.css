@@ -265,3 +265,36 @@ h1, h2, h3, h4, h5, h6 {
 .section-warm {
   background: var(--gradient-warm);
 }
+
+/* Print styles */
+@media print {
+  @page {
+    margin: 0.75in;
+    size: letter;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 14px;
+  }
+
+  .glass-nav,
+  .skip-to-content,
+  .no-print {
+    display: none !important;
+  }
+
+  .print-page-break {
+    page-break-before: always;
+  }
+
+  .print-no-break {
+    page-break-inside: avoid;
+  }
+
+  /* Show print-only elements */
+  .print\:block {
+    display: block !important;
+  }
+}

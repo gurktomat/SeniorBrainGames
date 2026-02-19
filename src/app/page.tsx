@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Music, Layers, Shuffle, MapPin } from "lucide-react";
+import { Music, Layers, Shuffle, MapPin, Printer } from "lucide-react";
 import { categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import StreakBanner from "@/components/StreakBanner";
@@ -126,6 +126,34 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Printable Puzzles Announcement */}
+      <section className="mx-auto max-w-6xl px-6 pt-14 pb-2">
+        <Link
+          href="/printable-puzzles"
+          className="card-enterprise group flex items-center gap-5 p-5 sm:p-6"
+          style={{ background: "linear-gradient(135deg, #1B496508 0%, #E8983E10 100%)" }}
+        >
+          <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-secondary text-white">
+            <Printer size={24} strokeWidth={2} />
+          </span>
+          <div className="flex-1">
+            <p className="mb-0.5 text-xs font-bold uppercase tracking-widest text-secondary">New</p>
+            <h3
+              className="mb-1 text-lg font-bold text-foreground sm:text-xl"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            >
+              Printable Puzzles
+            </h3>
+            <p className="text-base text-text-muted">
+              18 free puzzle sheets &mdash; crosswords, word search, sudoku, and more. Print or save as PDF!
+            </p>
+          </div>
+          <span className="hidden text-sm font-bold text-primary sm:block">
+            Browse &rarr;
+          </span>
+        </Link>
+      </section>
+
       {/* Browse Categories */}
       <section className="mx-auto max-w-6xl px-6 py-16">
         <div className="mb-10 text-center">
@@ -171,6 +199,35 @@ export default function Home() {
               </Link>
             );
           })}
+
+          {/* Printable Puzzles card */}
+          <Link
+            href="/printable-puzzles"
+            className="card-enterprise group relative overflow-hidden p-6 sm:col-span-2"
+          >
+            <div
+              className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl text-white"
+              style={{ background: "#7C3AED" }}
+              aria-hidden="true"
+            >
+              <Printer size={24} strokeWidth={2} />
+            </div>
+            <h3
+              className="mb-2 text-xl font-bold text-foreground"
+              style={{
+                fontFamily: "var(--font-merriweather), var(--font-heading)",
+              }}
+            >
+              Printable Puzzles
+            </h3>
+            <p className="text-base text-text-muted">
+              18 free puzzle sheets with answer keys &mdash; crosswords, word search, sudoku, word scramble, riddles, and word ladders. Print or save as PDF!
+            </p>
+            <div className="mt-4 flex items-center gap-1 text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+              Browse Puzzles
+              <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fillRule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clipRule="evenodd" /></svg>
+            </div>
+          </Link>
         </div>
       </section>
 

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import QuizEngine from "@/components/QuizEngine";
 import JsonLd from "@/components/JsonLd";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -18,6 +19,7 @@ import NumberMemoryEngine from "@/components/NumberMemoryEngine";
 import EstimationEngine from "@/components/EstimationEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
+import { Printer } from "lucide-react";
 import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 import { getGameRating } from "@/lib/db";
 
@@ -143,6 +145,17 @@ function PageShell({ slug, title, description, rating, children }: { slug: strin
     <>
       <GameStructuredData slug={slug} title={title} description={description} rating={rating} />
       <Breadcrumbs items={[{ label: "Memory Games", href: "/memory-games" }, { label: title }]} />
+      {slug === "sudoku-puzzles" && (
+        <div className="mx-auto mt-4 max-w-3xl px-6">
+          <Link
+            href="/printable-puzzles"
+            className="inline-flex items-center gap-2 rounded-lg bg-primary-50 px-4 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary-100"
+          >
+            <Printer className="h-4 w-4" />
+            Printable versions available
+          </Link>
+        </div>
+      )}
       {children}
       <RelatedGames category="memory-games" categoryLabel="Memory Games" currentSlug={slug} games={allCategoryGames} />
     </>

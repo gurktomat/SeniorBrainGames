@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Star } from "lucide-react";
+import { Star, Printer } from "lucide-react";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import QuizCard from "@/components/QuizCard";
@@ -110,6 +110,10 @@ const specialGames = [
   },
 ];
 
+const printableGames = new Set([
+  "crossword-classic", "word-search", "word-scramble", "riddle-challenge", "word-ladder",
+]);
+
 export default async function WordGames() {
   const quizzes = getQuizzesByCategory("word-games");
   const ratings = await getCategoryRatings("word-games");
@@ -161,8 +165,16 @@ export default async function WordGames() {
             <Link
               key={game.id}
               href={`/word-games/${game.id}`}
-              className="card-enterprise group flex flex-col p-6"
+              className="card-enterprise group relative flex flex-col p-6"
             >
+              {printableGames.has(game.id) && (
+                <span
+                  className="absolute right-4 top-4 flex items-center gap-1 rounded-full bg-purple-50 px-2.5 py-1 text-xs font-bold text-purple-700"
+                  title="Printable version available"
+                >
+                  <Printer size={12} /> Printable
+                </span>
+              )}
               <GameIcon gameId={game.id} color="#E8983E" />
               <h2
                 className="mb-2 text-lg font-bold text-foreground"

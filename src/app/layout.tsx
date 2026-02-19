@@ -120,7 +120,7 @@ export default function RootLayout({
         <main id="main-content">
           {children}
         </main>
-        <footer className="mt-16 border-t border-border bg-surface">
+        <footer className="no-print mt-16 border-t border-border bg-surface">
           <div className="mx-auto max-w-6xl px-6 py-12">
             <div className="grid gap-8 sm:grid-cols-3">
               <div>
@@ -153,6 +153,7 @@ export default function RootLayout({
                   <Link href="/daily-challenge" className="text-base text-text-muted transition-colors hover:text-primary">Daily Challenge</Link>
                   <Link href="/about" className="text-base text-text-muted transition-colors hover:text-primary">About</Link>
                   <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
+                  <Link href="/printable-puzzles" className="text-base text-text-muted transition-colors hover:text-primary">Printable Puzzles</Link>
                 </nav>
               </div>
             </div>
