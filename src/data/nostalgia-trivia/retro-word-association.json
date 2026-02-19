@@ -1,0 +1,114 @@
+{
+  "id": "retro-word-association",
+  "title": "Retro Word Association",
+  "description": "Find the word that connects the retro-themed group!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "word-association",
+  "puzzles": [
+    {
+      "id": "rwa-1",
+      "words": ["Vinyl", "45", "LP", "Turntable"],
+      "options": ["Records", "Radio", "Television", "Tapes"],
+      "correctAnswer": 0,
+      "explanation": "All these words are associated with vinyl records — 45s and LPs were record formats, and a turntable plays them."
+    },
+    {
+      "id": "rwa-2",
+      "words": ["Big Screen", "Convertible", "Popcorn", "Speaker Box"],
+      "options": ["Cinema", "Drive-In", "Car Show", "Concert"],
+      "correctAnswer": 1,
+      "explanation": "You'd watch on a big screen from your convertible, eat popcorn, and hang a speaker box on your car window at a drive-in movie."
+    },
+    {
+      "id": "rwa-3",
+      "words": ["Dial", "Party Line", "Operator", "Cord"],
+      "options": ["Telegraph", "Rotary Phone", "Switchboard", "Radio"],
+      "correctAnswer": 1,
+      "explanation": "Rotary phones had a dial, shared party lines, needed operators to connect calls, and had a coiled cord."
+    },
+    {
+      "id": "rwa-4",
+      "words": ["Poodle Skirt", "Saddle Shoes", "Bobby Socks", "Rock Around the Clock"],
+      "options": ["Prom", "Sock Hop", "Broadway", "Parade"],
+      "correctAnswer": 1,
+      "explanation": "Poodle skirts, saddle shoes, and bobby socks were the classic outfit for a 1950s sock hop dance."
+    },
+    {
+      "id": "rwa-5",
+      "words": ["Nickel", "Neon", "Selection Buttons", "45 RPM"],
+      "options": ["Arcade", "Jukebox", "Vending Machine", "Pinball"],
+      "correctAnswer": 1,
+      "explanation": "You'd drop a nickel into a neon-lit jukebox, press the selection buttons, and it would play a 45 RPM record."
+    },
+    {
+      "id": "rwa-6",
+      "words": ["Antenna", "AM/FM", "Batteries", "Portable"],
+      "options": ["Walkie-Talkie", "Television", "Transistor Radio", "Flashlight"],
+      "correctAnswer": 2,
+      "explanation": "Transistor radios were portable, battery-powered AM/FM devices with small antennas."
+    },
+    {
+      "id": "rwa-7",
+      "words": ["Ribbon", "Carriage Return", "Keys", "Carbon Paper"],
+      "options": ["Typewriter", "Printing Press", "Cash Register", "Piano"],
+      "correctAnswer": 0,
+      "explanation": "Typewriters used an ink ribbon, had a carriage return lever, letter keys, and often used carbon paper for copies."
+    },
+    {
+      "id": "rwa-8",
+      "words": ["Rabbit Ears", "Test Pattern", "Three Channels", "Knob"],
+      "options": ["Black & White TV", "Radio", "Projector", "Telephone"],
+      "correctAnswer": 0,
+      "explanation": "Early black and white TVs had rabbit ear antennas, showed test patterns, had only a few channels, and used knobs to change them."
+    },
+    {
+      "id": "rwa-9",
+      "words": ["Counter Stools", "Milkshake", "Chrome", "Burger"],
+      "options": ["Drive-In", "Diner", "Cafeteria", "Barbecue"],
+      "correctAnswer": 1,
+      "explanation": "Classic 1950s diners had spinning counter stools, served milkshakes, featured lots of chrome, and were famous for burgers."
+    },
+    {
+      "id": "rwa-10",
+      "words": ["Wood Paneling", "Tailgate", "Family Road Trip", "Way Back Seat"],
+      "options": ["Minivan", "Station Wagon", "Pickup Truck", "Sedan"],
+      "correctAnswer": 1,
+      "explanation": "Station wagons were known for their wood paneling, rear tailgates, family road trips, and the rear-facing 'way back' seat."
+    },
+    {
+      "id": "rwa-11",
+      "words": ["Disco Ball", "Wheels", "Limbo", "Couples Skate"],
+      "options": ["Dance Hall", "Roller Rink", "Bowling Alley", "Ice Rink"],
+      "correctAnswer": 1,
+      "explanation": "Roller rinks had disco balls, skating wheels, limbo contests, and couples skate sessions."
+    },
+    {
+      "id": "rwa-12",
+      "words": ["Quarters", "Pac-Man", "High Score", "Joystick"],
+      "options": ["Arcade", "Casino", "Carnival", "Pinball"],
+      "correctAnswer": 0,
+      "explanation": "Arcades were where you'd spend quarters playing Pac-Man, chase high scores, and use joysticks."
+    },
+    {
+      "id": "rwa-13",
+      "words": ["Flippers", "Bumpers", "Tilt", "Silver Ball"],
+      "options": ["Bowling", "Pinball", "Foosball", "Billiards"],
+      "correctAnswer": 1,
+      "explanation": "Pinball machines have flippers, bumpers, a tilt mechanism, and a silver ball."
+    },
+    {
+      "id": "rwa-14",
+      "words": ["Instant", "Shake It", "White Border", "Flash"],
+      "options": ["Polaroid", "Darkroom", "Film Reel", "Slide Show"],
+      "correctAnswer": 0,
+      "explanation": "Polaroid cameras produced instant photos with white borders that people would shake, and had a bright flash."
+    },
+    {
+      "id": "rwa-15",
+      "words": ["Jar", "One Cent", "Taffy", "Root Beer Barrel"],
+      "options": ["Bake Sale", "Penny Candy", "Ice Cream Shop", "General Store"],
+      "correctAnswer": 1,
+      "explanation": "Penny candy came in jars, cost just one cent each, and included treats like taffy and root beer barrels."
+    }
+  ]
+}

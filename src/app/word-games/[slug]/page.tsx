@@ -41,6 +41,11 @@ import emojiDecoderData from "@/data/word-games/emoji-decoder.json";
 import riddleData from "@/data/word-games/riddle-challenge.json";
 import firstLinesData from "@/data/word-games/famous-first-lines.json";
 import grammarTFData from "@/data/word-games/grammar-true-or-false.json";
+import crosswordNatureScienceData from "@/data/word-games/crossword-nature-science.json";
+import wordSearchAnimalsData from "@/data/word-games/word-search-animals.json";
+import foodWordScrambleData from "@/data/word-games/food-word-scramble.json";
+import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
+import wordLadderChallengeData from "@/data/word-games/word-ladder-challenge.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -58,6 +63,11 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "riddle-challenge": { title: "Riddle Challenge", description: "Can you solve these classic riddles? Type your answer and see if you're right!" },
   "famous-first-lines": { title: "Famous First Lines", description: "Guess the book from its famous opening line!" },
   "grammar-true-or-false": { title: "Grammar True or False", description: "Is this sentence grammatically correct? Test your grammar knowledge!" },
+  "crossword-nature-science": { title: "Nature & Science Crossword", description: "Solve crossword puzzles themed around nature and science!" },
+  "word-search-animals": { title: "Animal Word Search", description: "Find animal names hidden in the grid!" },
+  "food-word-scramble": { title: "Food Word Scramble", description: "Unscramble the letters to find the food or cooking word!" },
+  "cryptogram-poetry": { title: "Poetry Cryptogram", description: "Decode famous poetry lines by figuring out the letter substitutions!" },
+  "word-ladder-challenge": { title: "Word Ladder Challenge", description: "Change one letter at a time to climb from the start word to the end word!" },
 };
 
 const allCategoryGames = [
@@ -222,6 +232,16 @@ export default async function WordGamePage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></PageShell>);
     case "grammar-true-or-false":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></PageShell>);
+    case "crossword-nature-science":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><CrosswordEngine title={crosswordNatureScienceData.title} puzzles={crosswordNatureScienceData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></PageShell>);
+    case "word-search-animals":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordSearchEngine title={wordSearchAnimalsData.title} puzzles={wordSearchAnimalsData.puzzles} /></PageShell>);
+    case "food-word-scramble":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordScrambleEngine title={foodWordScrambleData.title} puzzles={foodWordScrambleData.puzzles} /></PageShell>);
+    case "cryptogram-poetry":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><CryptogramEngine title={cryptogramPoetryData.title} puzzles={cryptogramPoetryData.puzzles} /></PageShell>);
+    case "word-ladder-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordLadderEngine title={wordLadderChallengeData.title} puzzles={wordLadderChallengeData.puzzles} /></PageShell>);
     default:
       notFound();
   }

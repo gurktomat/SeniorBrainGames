@@ -173,6 +173,33 @@ const iconMap: Record<string, LucideIcon> = {
   "what-comes-next": FastForward,
   "category-sort": FolderTree,
   "two-truths-one-lie": ShieldQuestion,
+
+  // Batch 13 — 25 new games
+  "crossword-nature-science": Hash,
+  "word-search-animals": Search,
+  "food-word-scramble": Shuffle,
+  "cryptogram-poetry": Lock,
+  "word-ladder-challenge": ArrowUpDown,
+  "nostalgia-hangman": UserX,
+  "nostalgia-riddles": ScrollText,
+  "vintage-spelling-bee": SpellCheck,
+  "old-time-sayings": Quote,
+  "retro-word-association": Network,
+  "nostalgia-matching": Link2,
+  "nostalgia-estimation": Target,
+  "science-true-or-false": CheckCircle,
+  "what-in-the-world": Globe,
+  "inventions-timeline": Hourglass,
+  "animal-kingdom-sorting": PawPrint,
+  "mental-math": Calculator,
+  "logic-patterns": Shapes,
+  "observation-challenge": Eye,
+  "nature-card-match": Layers,
+  "color-sequence-challenge": Zap,
+  "number-recall-challenge": Binary,
+  "whats-changed": CircleOff,
+  "sudoku-challenge": Grid3x3,
+  "sliding-puzzle-challenge": Move,
 };
 
 export function GameIcon({

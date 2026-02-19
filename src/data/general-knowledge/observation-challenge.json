@@ -1,0 +1,114 @@
+{
+  "id": "observation-challenge",
+  "title": "Observation Challenge",
+  "description": "Study the items carefully, then spot what changed!",
+  "gameCategory": "general-knowledge",
+  "gameType": "spot-difference",
+  "rounds": [
+    {
+      "id": "oc-1",
+      "original": ["🏠", "🏢", "🏫", "🏥", "🏪"],
+      "changed": ["🏠", "🏢", "🏫", "🏥", "🏬"],
+      "changedIndex": 4,
+      "hint": "Look at the last building..."
+    },
+    {
+      "id": "oc-2",
+      "original": ["🚗", "🚕", "🚙", "🚌", "🚎"],
+      "changed": ["🚗", "🚕", "🚐", "🚌", "🚎"],
+      "changedIndex": 2,
+      "hint": "One of the middle vehicles looks different..."
+    },
+    {
+      "id": "oc-3",
+      "original": ["🇺🇸", "🇬🇧", "🇫🇷", "🇩🇪", "🇮🇹", "🇪🇸"],
+      "changed": ["🇺🇸", "🇬🇧", "🇫🇷", "🇩🇪", "🇮🇹", "🇵🇹"],
+      "changedIndex": 5,
+      "hint": "Check the last flag carefully..."
+    },
+    {
+      "id": "oc-4",
+      "original": ["🍕", "🍔", "🌮", "🍣", "🍜"],
+      "changed": ["🍕", "🍔", "🌯", "🍣", "🍜"],
+      "changedIndex": 2,
+      "hint": "One of the wrapped foods changed..."
+    },
+    {
+      "id": "oc-5",
+      "original": ["🐶", "🐱", "🐹", "🐰", "🐻", "🐼"],
+      "changed": ["🐶", "🐱", "🐹", "🐰", "🧸", "🐼"],
+      "changedIndex": 4,
+      "hint": "Is that the same bear?"
+    },
+    {
+      "id": "oc-6",
+      "original": ["⚽", "🏀", "🏈", "⚾", "🎾", "🏐"],
+      "changed": ["⚽", "🏀", "🏈", "🥎", "🎾", "🏐"],
+      "changedIndex": 3,
+      "hint": "Look closely at the ball colors..."
+    },
+    {
+      "id": "oc-7",
+      "original": ["☀️", "⛅", "🌧️", "❄️", "🌪️"],
+      "changed": ["☀️", "🌤️", "🌧️", "❄️", "🌪️"],
+      "changedIndex": 1,
+      "hint": "The clouds look slightly different..."
+    },
+    {
+      "id": "oc-8",
+      "original": ["🔨", "🪛", "🔧", "🪚", "🪠", "🔩"],
+      "changed": ["🔨", "🪛", "🔧", "🪚", "🪠", "🔗"],
+      "changedIndex": 5,
+      "hint": "Check the last metal item..."
+    },
+    {
+      "id": "oc-9",
+      "original": ["🎸", "🎹", "🥁", "🎺", "🎻"],
+      "changed": ["🎸", "🎹", "🥁", "📯", "🎻"],
+      "changedIndex": 3,
+      "hint": "One of the brass instruments changed..."
+    },
+    {
+      "id": "oc-10",
+      "original": ["🌹", "🌷", "🌻", "🌺", "💐", "🌼"],
+      "changed": ["🌹", "🌷", "🌻", "🏵️", "💐", "🌼"],
+      "changedIndex": 3,
+      "hint": "One flower looks a bit different..."
+    },
+    {
+      "id": "oc-11",
+      "original": ["🍎", "🍊", "🍋", "🍇", "🍓", "🍑"],
+      "changed": ["🍎", "🍊", "🍋", "🍇", "🍒", "🍑"],
+      "changedIndex": 4,
+      "hint": "Look at the red fruits carefully..."
+    },
+    {
+      "id": "oc-12",
+      "original": ["🐙", "🦑", "🦀", "🐠", "🐡", "🦈"],
+      "changed": ["🐙", "🦑", "🦞", "🐠", "🐡", "🦈"],
+      "changedIndex": 2,
+      "hint": "One of the crustaceans looks different..."
+    },
+    {
+      "id": "oc-13",
+      "original": ["🌍", "🌙", "⭐", "☄️", "🪐", "🌞"],
+      "changed": ["🌍", "🌙", "🌟", "☄️", "🪐", "🌞"],
+      "changedIndex": 2,
+      "hint": "One of the bright objects in space changed..."
+    },
+    {
+      "id": "oc-14",
+      "original": ["👒", "🧢", "🎩", "👑", "⛑️", "🪖"],
+      "changed": ["👒", "🧢", "🎩", "👑", "⛑️", "🎓"],
+      "changedIndex": 5,
+      "hint": "Check the last piece of headwear..."
+    },
+    {
+      "id": "oc-15",
+      "original": ["🛋️", "🪑", "🛏️", "🪞", "🚪", "🖼️", "🕰️"],
+      "changed": ["🛋️", "🪑", "🛏️", "🪟", "🚪", "🖼️", "🕰️"],
+      "changedIndex": 3,
+      "hint": "Something you look through changed..."
+    }
+  ]
+}

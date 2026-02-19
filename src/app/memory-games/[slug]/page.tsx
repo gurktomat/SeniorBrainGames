@@ -40,6 +40,12 @@ import numberMemoryData from "@/data/memory-games/number-memory.json";
 import estimationData from "@/data/memory-games/estimation-game.json";
 import memoryTrueOrFalseData from "@/data/memory-games/memory-true-or-false.json";
 import whatAmIData from "@/data/memory-games/what-am-i.json";
+import natureCardMatchData from "@/data/memory-games/nature-card-match.json";
+import colorSequenceChallengeData from "@/data/memory-games/color-sequence-challenge.json";
+import numberRecallChallengeData from "@/data/memory-games/number-recall-challenge.json";
+import whatsChangedData from "@/data/memory-games/whats-changed.json";
+import sudokuChallengeData from "@/data/memory-games/sudoku-challenge.json";
+import slidingPuzzleChallengeData from "@/data/memory-games/sliding-puzzle-challenge.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "memory-card-match": { title: "Memory Card Match", description: "Flip cards to find matching pairs!" },
@@ -57,6 +63,12 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "memory-true-or-false": { title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!" },
   "what-am-i": { title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!" },
   "minesweeper": { title: "Minesweeper", description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!" },
+  "nature-card-match": { title: "Nature Card Match", description: "Match nature-themed cards by flipping pairs!" },
+  "color-sequence-challenge": { title: "Color Sequence Challenge", description: "Watch the colors flash, then repeat the sequence from memory!" },
+  "number-recall-challenge": { title: "Number Recall Challenge", description: "Flash a number sequence, then recall it from memory!" },
+  "whats-changed": { title: "What's Changed?", description: "Study the items carefully, then figure out which one disappeared!" },
+  "sudoku-challenge": { title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!" },
+  "sliding-puzzle-challenge": { title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!" },
 };
 
 const allCategoryGames = [
@@ -217,6 +229,18 @@ export default async function MemoryGamePage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></PageShell>);
     case "minesweeper":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MinesweeperEngine title="Minesweeper" /></PageShell>);
+    case "nature-card-match":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MemoryCardEngine title={natureCardMatchData.title} levels={natureCardMatchData.levels} /></PageShell>);
+    case "color-sequence-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SequenceMemoryEngine title={colorSequenceChallengeData.title} levels={colorSequenceChallengeData.levels} /></PageShell>);
+    case "number-recall-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><NumberMemoryEngine title={numberRecallChallengeData.title} rounds={numberRecallChallengeData.rounds} /></PageShell>);
+    case "whats-changed":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhatsMissingEngine title={whatsChangedData.title} rounds={whatsChangedData.rounds} /></PageShell>);
+    case "sudoku-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SudokuEngine title={sudokuChallengeData.title} puzzles={sudokuChallengeData.puzzles} /></PageShell>);
+    case "sliding-puzzle-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SlidingPuzzleEngine title={slidingPuzzleChallengeData.title} puzzles={slidingPuzzleChallengeData.puzzles} /></PageShell>);
     default:
       notFound();
   }

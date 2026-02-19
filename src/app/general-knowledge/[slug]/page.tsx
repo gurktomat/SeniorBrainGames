@@ -5,6 +5,9 @@ import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import SortingEngine from "@/components/SortingEngine";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
+import MathChallengeEngine from "@/components/MathChallengeEngine";
+import PatternEngine from "@/components/PatternEngine";
+import SpotDifferenceEngine from "@/components/SpotDifferenceEngine";
 import JsonLd from "@/components/JsonLd";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedGames from "@/components/RelatedGames";
@@ -17,12 +20,26 @@ import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
 import whoAmIData from "@/data/general-knowledge/who-am-i.json";
 import scienceSortingData from "@/data/general-knowledge/science-sorting.json";
 import historyTimelineData from "@/data/general-knowledge/history-timeline.json";
+import scienceTrueOrFalseData from "@/data/general-knowledge/science-true-or-false.json";
+import whatInTheWorldData from "@/data/general-knowledge/what-in-the-world.json";
+import inventionsTimelineData from "@/data/general-knowledge/inventions-timeline.json";
+import animalKingdomSortingData from "@/data/general-knowledge/animal-kingdom-sorting.json";
+import mentalMathData from "@/data/general-knowledge/mental-math.json";
+import logicPatternsData from "@/data/general-knowledge/logic-patterns.json";
+import observationChallengeData from "@/data/general-knowledge/observation-challenge.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "true-or-false": { title: "True or False", description: "Test your knowledge — is this statement true or false?" },
   "who-am-i": { title: "Who Am I?", description: "Guess the famous person from progressive clues — fewer clues means more points!" },
   "science-sorting": { title: "Science Sorting", description: "Sort items into the correct science categories!" },
   "history-timeline": { title: "History Timeline", description: "Put world history events in the correct chronological order!" },
+  "science-true-or-false": { title: "Science True or False", description: "Is this science fact true or false? Test your scientific knowledge!" },
+  "what-in-the-world": { title: "What in the World?", description: "Guess the famous landmark or place from progressive clues!" },
+  "inventions-timeline": { title: "Inventions Timeline", description: "Put great inventions in the correct chronological order!" },
+  "animal-kingdom-sorting": { title: "Animal Kingdom Sorting", description: "Sort animals into the correct categories!" },
+  "mental-math": { title: "Mental Math", description: "Challenge your mental arithmetic skills!" },
+  "logic-patterns": { title: "Logic Patterns", description: "Find the pattern and choose what comes next in the sequence!" },
+  "observation-challenge": { title: "Observation Challenge", description: "Study the items carefully, then spot what changed!" },
 };
 
 const allCategoryGames = [
@@ -166,6 +183,20 @@ export default async function GeneralKnowledgeQuizPage({
           <TimelineSortEngine title={historyTimelineData.title} rounds={historyTimelineData.rounds} />
         </PageShell>
       );
+    case "science-true-or-false":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TrueOrFalseEngine title={scienceTrueOrFalseData.title} statements={scienceTrueOrFalseData.statements} /></PageShell>);
+    case "what-in-the-world":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WhoAmIEngine title={whatInTheWorldData.title} puzzles={whatInTheWorldData.puzzles} /></PageShell>);
+    case "inventions-timeline":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><TimelineSortEngine title={inventionsTimelineData.title} rounds={inventionsTimelineData.rounds} /></PageShell>);
+    case "animal-kingdom-sorting":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SortingEngine title={animalKingdomSortingData.title} rounds={animalKingdomSortingData.rounds} /></PageShell>);
+    case "mental-math":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MathChallengeEngine title={mentalMathData.title} levels={mentalMathData.levels} /></PageShell>);
+    case "logic-patterns":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><PatternEngine title={logicPatternsData.title} puzzles={logicPatternsData.puzzles} /></PageShell>);
+    case "observation-challenge":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpotDifferenceEngine title={observationChallengeData.title} rounds={observationChallengeData.rounds} /></PageShell>);
     default:
       notFound();
   }

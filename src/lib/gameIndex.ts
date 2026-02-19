@@ -54,6 +54,36 @@ const specialGames: { id: string; title: string; description: string; category: 
   { id: "memory-true-or-false", title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!", category: "memory-games" },
   { id: "what-am-i", title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!", category: "memory-games" },
   { id: "minesweeper", title: "Minesweeper", description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!", category: "memory-games" },
+  // Batch 13 — 25 new games
+  // Word Games (5)
+  { id: "crossword-nature-science", title: "Nature & Science Crossword", description: "Solve crossword puzzles themed around nature and science!", category: "word-games" },
+  { id: "word-search-animals", title: "Animal Word Search", description: "Find animal names hidden in the grid!", category: "word-games" },
+  { id: "food-word-scramble", title: "Food Word Scramble", description: "Unscramble the letters to find the food or cooking word!", category: "word-games" },
+  { id: "cryptogram-poetry", title: "Poetry Cryptogram", description: "Decode famous poetry lines by figuring out the letter substitutions!", category: "word-games" },
+  { id: "word-ladder-challenge", title: "Word Ladder Challenge", description: "Change one letter at a time to climb from the start word to the end word!", category: "word-games" },
+  // Nostalgia Trivia (7)
+  { id: "nostalgia-hangman", title: "Nostalgia Hangman", description: "Guess classic TV shows, movies, and songs one letter at a time!", category: "nostalgia-trivia" },
+  { id: "nostalgia-riddles", title: "Nostalgia Riddles", description: "Can you solve these riddles about retro items and events?", category: "nostalgia-trivia" },
+  { id: "vintage-spelling-bee", title: "Vintage Spelling Bee", description: "Spell these vintage and retro words correctly!", category: "nostalgia-trivia" },
+  { id: "old-time-sayings", title: "Old-Time Sayings", description: "Complete these classic old-time proverbs and sayings!", category: "nostalgia-trivia" },
+  { id: "retro-word-association", title: "Retro Word Association", description: "Find the word that connects the retro-themed group!", category: "nostalgia-trivia" },
+  { id: "nostalgia-matching", title: "Nostalgia Matching", description: "Match classic actors to their shows, songs to their artists, and more!", category: "nostalgia-trivia" },
+  { id: "nostalgia-estimation", title: "Nostalgia Estimation", description: "How close can you guess? Test your knowledge of nostalgia facts and figures!", category: "nostalgia-trivia" },
+  // General Knowledge (7)
+  { id: "science-true-or-false", title: "Science True or False", description: "Is this science fact true or false? Test your scientific knowledge!", category: "general-knowledge" },
+  { id: "what-in-the-world", title: "What in the World?", description: "Guess the famous landmark or place from progressive clues!", category: "general-knowledge" },
+  { id: "inventions-timeline", title: "Inventions Timeline", description: "Put great inventions in the correct chronological order!", category: "general-knowledge" },
+  { id: "animal-kingdom-sorting", title: "Animal Kingdom Sorting", description: "Sort animals into the correct categories!", category: "general-knowledge" },
+  { id: "mental-math", title: "Mental Math", description: "Challenge your mental arithmetic skills!", category: "general-knowledge" },
+  { id: "logic-patterns", title: "Logic Patterns", description: "Find the pattern and choose what comes next in the sequence!", category: "general-knowledge" },
+  { id: "observation-challenge", title: "Observation Challenge", description: "Study the items carefully, then spot what changed!", category: "general-knowledge" },
+  // Memory Games (6)
+  { id: "nature-card-match", title: "Nature Card Match", description: "Match nature-themed cards by flipping pairs!", category: "memory-games" },
+  { id: "color-sequence-challenge", title: "Color Sequence Challenge", description: "Watch the colors flash, then repeat the sequence from memory!", category: "memory-games" },
+  { id: "number-recall-challenge", title: "Number Recall Challenge", description: "Flash a number sequence, then recall it from memory!", category: "memory-games" },
+  { id: "whats-changed", title: "What's Changed?", description: "Study the items carefully, then figure out which one disappeared!", category: "memory-games" },
+  { id: "sudoku-challenge", title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!", category: "memory-games" },
+  { id: "sliding-puzzle-challenge", title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!", category: "memory-games" },
 ];
 
 export const allGames: GameEntry[] = [

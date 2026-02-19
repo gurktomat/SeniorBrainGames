@@ -1,0 +1,125 @@
+{
+  "title": "Science True or False",
+  "statements": [
+    {
+      "id": "stf-1",
+      "statement": "Light travels faster than sound.",
+      "answer": true,
+      "explanation": "Light travels at about 186,000 miles per second, while sound travels at about 767 miles per hour. That's why you see lightning before hearing thunder."
+    },
+    {
+      "id": "stf-2",
+      "statement": "Water boils at 100 degrees Celsius at sea level.",
+      "answer": true,
+      "explanation": "At standard atmospheric pressure (sea level), water boils at exactly 100 degrees Celsius (212 degrees Fahrenheit). At higher altitudes, it boils at lower temperatures."
+    },
+    {
+      "id": "stf-3",
+      "statement": "Humans use only 10% of their brain.",
+      "answer": false,
+      "explanation": "This is a popular myth. Brain imaging studies show that we use virtually all parts of our brain, and most of the brain is active almost all of the time."
+    },
+    {
+      "id": "stf-4",
+      "statement": "Sound cannot travel through a vacuum.",
+      "answer": true,
+      "explanation": "Sound waves require a medium (solid, liquid, or gas) to travel through. In the vacuum of space, there are no molecules to carry sound waves, so it is completely silent."
+    },
+    {
+      "id": "stf-5",
+      "statement": "Lightning never strikes the same place twice.",
+      "answer": false,
+      "explanation": "Lightning frequently strikes the same place multiple times. Tall structures like the Empire State Building are struck about 20 to 25 times per year."
+    },
+    {
+      "id": "stf-6",
+      "statement": "Diamonds are made from compressed coal.",
+      "answer": false,
+      "explanation": "While both diamonds and coal are forms of carbon, diamonds formed deep in the Earth's mantle over a billion years ago, long before the ancient plants that eventually became coal even existed."
+    },
+    {
+      "id": "stf-7",
+      "statement": "The Earth's core is hotter than the surface of the Sun.",
+      "answer": true,
+      "explanation": "The Earth's inner core reaches temperatures of about 9,800 degrees Fahrenheit (5,400 degrees Celsius), while the Sun's surface is about 9,940 degrees Fahrenheit (5,500 degrees Celsius). They're very close, but some estimates put the core even hotter."
+    },
+    {
+      "id": "stf-8",
+      "statement": "Goldfish have a three-second memory.",
+      "answer": false,
+      "explanation": "This is a widespread myth. Studies have shown that goldfish can remember things for months. Scientists have trained goldfish to navigate mazes and respond to certain signals weeks later."
+    },
+    {
+      "id": "stf-9",
+      "statement": "Bananas are slightly radioactive.",
+      "answer": true,
+      "explanation": "Bananas contain potassium-40, a naturally occurring radioactive isotope. The amount is tiny and completely harmless. You would need to eat about 10 million bananas at once for radiation to be dangerous."
+    },
+    {
+      "id": "stf-10",
+      "statement": "Electrons are larger than protons.",
+      "answer": false,
+      "explanation": "Protons are about 1,836 times more massive than electrons. Electrons are one of the smallest subatomic particles with an extremely tiny mass."
+    },
+    {
+      "id": "stf-11",
+      "statement": "Venus is the hottest planet in our solar system, even though Mercury is closer to the Sun.",
+      "answer": true,
+      "explanation": "Venus has a thick atmosphere of carbon dioxide that traps heat in a runaway greenhouse effect, making its surface temperature about 900 degrees Fahrenheit (475 degrees Celsius) — hotter than Mercury."
+    },
+    {
+      "id": "stf-12",
+      "statement": "Glass is a liquid that flows very slowly over time.",
+      "answer": false,
+      "explanation": "This is a common myth often supported by old cathedral windows being thicker at the bottom. Glass is actually an amorphous solid. The uneven thickness in old windows is due to the manufacturing process of the era."
+    },
+    {
+      "id": "stf-13",
+      "statement": "Oxygen makes up about 21% of Earth's atmosphere.",
+      "answer": true,
+      "explanation": "Earth's atmosphere is roughly 78% nitrogen and 21% oxygen, with the remaining 1% consisting of argon, carbon dioxide, water vapor, and other trace gases."
+    },
+    {
+      "id": "stf-14",
+      "statement": "Antibiotics are effective against viruses.",
+      "answer": false,
+      "explanation": "Antibiotics only work against bacterial infections. Viruses have a completely different structure and reproduction method. Antiviral medications are used to treat viral infections."
+    },
+    {
+      "id": "stf-15",
+      "statement": "A day on Venus is longer than a year on Venus.",
+      "answer": true,
+      "explanation": "Venus rotates on its axis so slowly that one full rotation (a day) takes about 243 Earth days, while it only takes about 225 Earth days to orbit the Sun (a year)."
+    },
+    {
+      "id": "stf-16",
+      "statement": "Dropping a penny from the Empire State Building could kill a person below.",
+      "answer": false,
+      "explanation": "A penny only weighs about one gram and has a flat shape that creates air resistance. Its terminal velocity is only about 30-50 mph — enough to sting but nowhere near enough to be lethal."
+    },
+    {
+      "id": "stf-17",
+      "statement": "Hot water freezes faster than cold water under certain conditions.",
+      "answer": true,
+      "explanation": "This is known as the Mpemba effect. Under certain specific conditions, hot water can indeed freeze faster than cold water. While the exact mechanisms are still debated, the phenomenon has been repeatedly observed."
+    },
+    {
+      "id": "stf-18",
+      "statement": "The Sahara Desert is the largest desert on Earth.",
+      "answer": false,
+      "explanation": "Antarctica is actually the largest desert on Earth. A desert is defined by its low precipitation, not its temperature. Antarctica receives very little precipitation, making it a cold desert larger than the Sahara."
+    },
+    {
+      "id": "stf-19",
+      "statement": "Sharks are older than trees.",
+      "answer": true,
+      "explanation": "Sharks have been around for about 400 million years, while the earliest trees appeared around 350 million years ago. Sharks predate trees by about 50 million years."
+    },
+    {
+      "id": "stf-20",
+      "statement": "The human body has more bones as an adult than as a baby.",
+      "answer": false,
+      "explanation": "Babies are born with about 270 bones, but many of these fuse together as we grow. By adulthood, we have only 206 bones. For example, the skull starts as several separate plates that gradually fuse."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "animal-kingdom-sorting",
+  "title": "Animal Kingdom Sorting",
+  "description": "Sort animals into the correct categories!",
+  "gameCategory": "general-knowledge",
+  "gameType": "sorting",
+  "rounds": [
+    {
+      "id": "aks-1",
+      "title": "Mammals vs Reptiles",
+      "items": [
+        { "label": "Dog", "emoji": "🐕" },
+        { "label": "Snake", "emoji": "🐍" },
+        { "label": "Cat", "emoji": "🐱" },
+        { "label": "Lizard", "emoji": "🦎" },
+        { "label": "Whale", "emoji": "🐋" },
+        { "label": "Turtle", "emoji": "🐢" }
+      ],
+      "categories": ["Mammal", "Reptile"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-2",
+      "title": "Birds vs Insects",
+      "items": [
+        { "label": "Eagle", "emoji": "🦅" },
+        { "label": "Butterfly", "emoji": "🦋" },
+        { "label": "Parrot", "emoji": "🦜" },
+        { "label": "Ant", "emoji": "🐜" },
+        { "label": "Penguin", "emoji": "🐧" },
+        { "label": "Bee", "emoji": "🐝" }
+      ],
+      "categories": ["Bird", "Insect"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-3",
+      "title": "Predators vs Herbivores",
+      "items": [
+        { "label": "Lion", "emoji": "🦁" },
+        { "label": "Cow", "emoji": "🐄" },
+        { "label": "Shark", "emoji": "🦈" },
+        { "label": "Rabbit", "emoji": "🐇" },
+        { "label": "Wolf", "emoji": "🐺" },
+        { "label": "Deer", "emoji": "🦌" }
+      ],
+      "categories": ["Predator", "Herbivore"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-4",
+      "title": "Land vs Sea Animals",
+      "items": [
+        { "label": "Elephant", "emoji": "🐘" },
+        { "label": "Dolphin", "emoji": "🐬" },
+        { "label": "Horse", "emoji": "🐴" },
+        { "label": "Octopus", "emoji": "🐙" },
+        { "label": "Giraffe", "emoji": "🦒" },
+        { "label": "Jellyfish", "emoji": "🪼" }
+      ],
+      "categories": ["Land", "Sea"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-5",
+      "title": "Venomous vs Non-Venomous",
+      "items": [
+        { "label": "Cobra", "emoji": "🐍" },
+        { "label": "Elephant", "emoji": "🐘" },
+        { "label": "Scorpion", "emoji": "🦂" },
+        { "label": "Penguin", "emoji": "🐧" },
+        { "label": "Black Widow Spider", "emoji": "🕷️" },
+        { "label": "Panda", "emoji": "🐼" }
+      ],
+      "categories": ["Venomous", "Non-Venomous"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-6",
+      "title": "Warm-Blooded vs Cold-Blooded",
+      "items": [
+        { "label": "Bear", "emoji": "🐻" },
+        { "label": "Frog", "emoji": "🐸" },
+        { "label": "Robin", "emoji": "🐦" },
+        { "label": "Crocodile", "emoji": "🐊" },
+        { "label": "Rabbit", "emoji": "🐇" },
+        { "label": "Iguana", "emoji": "🦎" }
+      ],
+      "categories": ["Warm-Blooded", "Cold-Blooded"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-7",
+      "title": "Nocturnal vs Diurnal",
+      "items": [
+        { "label": "Owl", "emoji": "🦉" },
+        { "label": "Rooster", "emoji": "🐓" },
+        { "label": "Bat", "emoji": "🦇" },
+        { "label": "Butterfly", "emoji": "🦋" },
+        { "label": "Raccoon", "emoji": "🦝" },
+        { "label": "Eagle", "emoji": "🦅" }
+      ],
+      "categories": ["Nocturnal", "Diurnal"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-8",
+      "title": "Endangered vs Common",
+      "items": [
+        { "label": "Giant Panda", "emoji": "🐼" },
+        { "label": "House Cat", "emoji": "🐱" },
+        { "label": "Snow Leopard", "emoji": "🐆" },
+        { "label": "Pigeon", "emoji": "🐦" },
+        { "label": "Gorilla", "emoji": "🦍" },
+        { "label": "Chicken", "emoji": "🐔" }
+      ],
+      "categories": ["Endangered", "Common"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-9",
+      "title": "Fastest vs Slowest",
+      "items": [
+        { "label": "Cheetah", "emoji": "🐆" },
+        { "label": "Sloth", "emoji": "🦥" },
+        { "label": "Peregrine Falcon", "emoji": "🦅" },
+        { "label": "Snail", "emoji": "🐌" },
+        { "label": "Sailfish", "emoji": "🐟" },
+        { "label": "Tortoise", "emoji": "🐢" }
+      ],
+      "categories": ["Fastest", "Slowest"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "aks-10",
+      "title": "Largest vs Smallest",
+      "items": [
+        { "label": "Blue Whale", "emoji": "🐋" },
+        { "label": "Hummingbird", "emoji": "🐦" },
+        { "label": "African Elephant", "emoji": "🐘" },
+        { "label": "Ladybug", "emoji": "🐞" },
+        { "label": "Giraffe", "emoji": "🦒" },
+        { "label": "Mouse", "emoji": "🐁" }
+      ],
+      "categories": ["Largest", "Smallest"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    }
+  ]
+}

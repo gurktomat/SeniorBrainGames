@@ -1,0 +1,89 @@
+{
+  "id": "word-ladder-challenge",
+  "title": "Word Ladder Challenge",
+  "description": "Change one letter at a time to climb from the start word to the end word!",
+  "gameCategory": "word-games",
+  "gameType": "word-ladder",
+  "puzzles": [
+    {
+      "id": "wlc-1",
+      "title": "Head to Tail",
+      "startWord": "HEAD",
+      "endWord": "TAIL",
+      "solution": ["HEAD", "HEAL", "TEAL", "TELL", "TALL", "TAIL"],
+      "hint": "Try healing first"
+    },
+    {
+      "id": "wlc-2",
+      "title": "Love to Hate",
+      "startWord": "LOVE",
+      "endWord": "HATE",
+      "solution": ["LOVE", "LIVE", "HIVE", "HAVE", "HATE"],
+      "hint": "Think about where bees live"
+    },
+    {
+      "id": "wlc-3",
+      "title": "Warm to Cool",
+      "startWord": "WARM",
+      "endWord": "COOL",
+      "solution": ["WARM", "WORM", "WORN", "CORN", "COIN", "COIL", "COOL"],
+      "hint": "Start by changing the A to an O"
+    },
+    {
+      "id": "wlc-4",
+      "title": "Fish to Bird",
+      "startWord": "FISH",
+      "endWord": "BIRD",
+      "solution": ["FISH", "FIST", "GIST", "GIRT", "GIRD", "BIRD"],
+      "hint": "Make a fist first"
+    },
+    {
+      "id": "wlc-5",
+      "title": "Rice to Cake",
+      "startWord": "RICE",
+      "endWord": "CAKE",
+      "solution": ["RICE", "MICE", "MACE", "MAKE", "CAKE"],
+      "hint": "Think of a small rodent"
+    },
+    {
+      "id": "wlc-6",
+      "title": "Send to Mail",
+      "startWord": "SEND",
+      "endWord": "MAIL",
+      "solution": ["SEND", "SAND", "SAID", "MAID", "MAIL"],
+      "hint": "Start with something sandy"
+    },
+    {
+      "id": "wlc-7",
+      "title": "Lead to Gold",
+      "startWord": "LEAD",
+      "endWord": "GOLD",
+      "solution": ["LEAD", "LOAD", "GOAD", "GOLD"],
+      "hint": "Carry a heavy load"
+    },
+    {
+      "id": "wlc-8",
+      "title": "East to West",
+      "startWord": "EAST",
+      "endWord": "WEST",
+      "solution": ["EAST", "LAST", "LEST", "WEST"],
+      "hint": "Think about what comes last"
+    },
+    {
+      "id": "wlc-9",
+      "title": "Read to Book",
+      "startWord": "READ",
+      "endWord": "BOOK",
+      "solution": ["READ", "ROAD", "ROOD", "ROOK", "BOOK"],
+      "hint": "Take the road first"
+    },
+    {
+      "id": "wlc-10",
+      "title": "Dawn to Dusk",
+      "startWord": "DAWN",
+      "endWord": "DUSK",
+      "solution": ["DAWN", "DARN", "DARK", "DIRK", "DISK", "DUSK"],
+      "hint": "Try darning a sock"
+    }
+  ]
+}

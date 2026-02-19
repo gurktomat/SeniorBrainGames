@@ -1,0 +1,115 @@
+{
+  "title": "Inventions Timeline",
+  "rounds": [
+    {
+      "id": "it-1",
+      "theme": "Communication Inventions",
+      "events": [
+        { "text": "Printing press invented by Gutenberg", "year": 1440 },
+        { "text": "Telegraph patented by Morse", "year": 1837 },
+        { "text": "Telephone invented by Bell", "year": 1876 },
+        { "text": "First radio broadcast", "year": 1920 },
+        { "text": "First email sent", "year": 1971 }
+      ]
+    },
+    {
+      "id": "it-2",
+      "theme": "Transportation Milestones",
+      "events": [
+        { "text": "Hot air balloon flight by the Montgolfier brothers", "year": 1783 },
+        { "text": "First steam locomotive by Trevithick", "year": 1804 },
+        { "text": "Karl Benz patents the first automobile", "year": 1886 },
+        { "text": "Wright brothers achieve powered flight", "year": 1903 },
+        { "text": "First commercial jet airliner service (de Havilland Comet)", "year": 1952 }
+      ]
+    },
+    {
+      "id": "it-3",
+      "theme": "Medical Breakthroughs",
+      "events": [
+        { "text": "Edward Jenner develops the smallpox vaccine", "year": 1796 },
+        { "text": "Ether first used as surgical anesthesia", "year": 1846 },
+        { "text": "X-rays discovered by Wilhelm Roentgen", "year": 1895 },
+        { "text": "Alexander Fleming discovers penicillin", "year": 1928 },
+        { "text": "First successful human heart transplant", "year": 1967 }
+      ]
+    },
+    {
+      "id": "it-4",
+      "theme": "Household Appliances",
+      "events": [
+        { "text": "Sewing machine patented by Elias Howe", "year": 1846 },
+        { "text": "First practical electric vacuum cleaner", "year": 1901 },
+        { "text": "Electric washing machine introduced", "year": 1908 },
+        { "text": "Home refrigerator becomes widely available", "year": 1927 },
+        { "text": "Microwave oven introduced for home use", "year": 1967 }
+      ]
+    },
+    {
+      "id": "it-5",
+      "theme": "Entertainment Inventions",
+      "events": [
+        { "text": "Phonograph invented by Edison", "year": 1877 },
+        { "text": "First public movie screening by the Lumiere brothers", "year": 1895 },
+        { "text": "First regular television broadcasts begin", "year": 1936 },
+        { "text": "First home video game console (Magnavox Odyssey)", "year": 1972 },
+        { "text": "Compact disc (CD) introduced", "year": 1982 }
+      ]
+    },
+    {
+      "id": "it-6",
+      "theme": "Computing Milestones",
+      "events": [
+        { "text": "Charles Babbage designs the Analytical Engine", "year": 1837 },
+        { "text": "ENIAC, the first general-purpose computer, is completed", "year": 1945 },
+        { "text": "First microprocessor (Intel 4004) released", "year": 1971 },
+        { "text": "Apple Macintosh introduces the graphical user interface to consumers", "year": 1984 },
+        { "text": "World Wide Web made publicly available", "year": 1991 }
+      ]
+    },
+    {
+      "id": "it-7",
+      "theme": "Photography and Film",
+      "events": [
+        { "text": "First permanent photograph taken by Niepce", "year": 1826 },
+        { "text": "Kodak introduces the handheld camera", "year": 1888 },
+        { "text": "First feature-length talking film (The Jazz Singer)", "year": 1927 },
+        { "text": "Polaroid instant camera released", "year": 1948 },
+        { "text": "First consumer digital camera (Dycam Model 1)", "year": 1990 }
+      ]
+    },
+    {
+      "id": "it-8",
+      "theme": "Energy Innovations",
+      "events": [
+        { "text": "James Watt improves the steam engine", "year": 1769 },
+        { "text": "First practical electric light bulb by Edison", "year": 1879 },
+        { "text": "First hydroelectric power plant opens (Niagara Falls)", "year": 1895 },
+        { "text": "First nuclear power plant generates electricity", "year": 1951 },
+        { "text": "First practical silicon solar cell developed at Bell Labs", "year": 1954 }
+      ]
+    },
+    {
+      "id": "it-9",
+      "theme": "Food and Agriculture",
+      "events": [
+        { "text": "Nicolas Appert invents canning for food preservation", "year": 1810 },
+        { "text": "Pasteurization process developed by Louis Pasteur", "year": 1864 },
+        { "text": "Mechanical refrigeration for food transport", "year": 1876 },
+        { "text": "Clarence Birdseye develops flash-freezing for food", "year": 1924 },
+        { "text": "First genetically modified food approved for sale", "year": 1994 }
+      ]
+    },
+    {
+      "id": "it-10",
+      "theme": "Space Exploration",
+      "events": [
+        { "text": "Robert Goddard launches the first liquid-fueled rocket", "year": 1926 },
+        { "text": "Sputnik becomes the first artificial satellite in orbit", "year": 1957 },
+        { "text": "Yuri Gagarin becomes the first human in space", "year": 1961 },
+        { "text": "Apollo 11 lands the first humans on the Moon", "year": 1969 },
+        { "text": "International Space Station receives its first crew", "year": 2000 }
+      ]
+    }
+  ]
+}

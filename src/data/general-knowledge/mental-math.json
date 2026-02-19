@@ -1,0 +1,240 @@
+{
+  "id": "mental-math",
+  "title": "Mental Math",
+  "description": "Challenge your mental arithmetic skills!",
+  "gameCategory": "general-knowledge",
+  "gameType": "math-challenge",
+  "levels": [
+    {
+      "id": "mm-easy",
+      "title": "Easy",
+      "description": "Simple addition and subtraction",
+      "problems": [
+        {
+          "id": "mme-1",
+          "question": "15 + 28 = ?",
+          "options": [43, 33, 53, 38],
+          "correctAnswer": 0,
+          "explanation": "15 + 28 = 43"
+        },
+        {
+          "id": "mme-2",
+          "question": "74 - 37 = ?",
+          "options": [47, 37, 27, 41],
+          "correctAnswer": 1,
+          "explanation": "74 - 37 = 37"
+        },
+        {
+          "id": "mme-3",
+          "question": "52 + 39 = ?",
+          "options": [81, 91, 89, 101],
+          "correctAnswer": 1,
+          "explanation": "52 + 39 = 91"
+        },
+        {
+          "id": "mme-4",
+          "question": "86 - 49 = ?",
+          "options": [47, 27, 37, 43],
+          "correctAnswer": 2,
+          "explanation": "86 - 49 = 37"
+        },
+        {
+          "id": "mme-5",
+          "question": "33 + 48 = ?",
+          "options": [71, 81, 91, 78],
+          "correctAnswer": 1,
+          "explanation": "33 + 48 = 81"
+        },
+        {
+          "id": "mme-6",
+          "question": "100 - 63 = ?",
+          "options": [47, 27, 37, 43],
+          "correctAnswer": 2,
+          "explanation": "100 - 63 = 37"
+        },
+        {
+          "id": "mme-7",
+          "question": "67 + 25 = ?",
+          "options": [82, 92, 102, 88],
+          "correctAnswer": 1,
+          "explanation": "67 + 25 = 92"
+        },
+        {
+          "id": "mme-8",
+          "question": "95 - 58 = ?",
+          "options": [47, 37, 27, 43],
+          "correctAnswer": 1,
+          "explanation": "95 - 58 = 37"
+        },
+        {
+          "id": "mme-9",
+          "question": "46 + 77 = ?",
+          "options": [113, 123, 133, 119],
+          "correctAnswer": 1,
+          "explanation": "46 + 77 = 123"
+        },
+        {
+          "id": "mme-10",
+          "question": "150 - 86 = ?",
+          "options": [74, 64, 54, 68],
+          "correctAnswer": 1,
+          "explanation": "150 - 86 = 64"
+        }
+      ]
+    },
+    {
+      "id": "mm-medium",
+      "title": "Medium",
+      "description": "Multiplication and larger numbers",
+      "problems": [
+        {
+          "id": "mmm-1",
+          "question": "12 x 15 = ?",
+          "options": [160, 170, 180, 190],
+          "correctAnswer": 2,
+          "explanation": "12 x 15 = 180"
+        },
+        {
+          "id": "mmm-2",
+          "question": "144 / 12 = ?",
+          "options": [10, 11, 12, 14],
+          "correctAnswer": 2,
+          "explanation": "144 / 12 = 12"
+        },
+        {
+          "id": "mmm-3",
+          "question": "25 x 16 = ?",
+          "options": [350, 375, 400, 425],
+          "correctAnswer": 2,
+          "explanation": "25 x 16 = 400"
+        },
+        {
+          "id": "mmm-4",
+          "question": "225 + 178 = ?",
+          "options": [393, 403, 413, 383],
+          "correctAnswer": 1,
+          "explanation": "225 + 178 = 403"
+        },
+        {
+          "id": "mmm-5",
+          "question": "17 x 8 = ?",
+          "options": [126, 136, 146, 156],
+          "correctAnswer": 1,
+          "explanation": "17 x 8 = 136"
+        },
+        {
+          "id": "mmm-6",
+          "question": "500 - 237 = ?",
+          "options": [273, 253, 263, 243],
+          "correctAnswer": 2,
+          "explanation": "500 - 237 = 263"
+        },
+        {
+          "id": "mmm-7",
+          "question": "14 x 14 = ?",
+          "options": [186, 196, 206, 176],
+          "correctAnswer": 1,
+          "explanation": "14 x 14 = 196"
+        },
+        {
+          "id": "mmm-8",
+          "question": "360 / 15 = ?",
+          "options": [22, 24, 26, 28],
+          "correctAnswer": 1,
+          "explanation": "360 / 15 = 24"
+        },
+        {
+          "id": "mmm-9",
+          "question": "33 x 11 = ?",
+          "options": [343, 353, 363, 373],
+          "correctAnswer": 2,
+          "explanation": "33 x 11 = 363"
+        },
+        {
+          "id": "mmm-10",
+          "question": "19 x 7 = ?",
+          "options": [123, 133, 143, 113],
+          "correctAnswer": 1,
+          "explanation": "19 x 7 = 133"
+        }
+      ]
+    },
+    {
+      "id": "mm-hard",
+      "title": "Hard",
+      "description": "Multi-step problems and percentages",
+      "problems": [
+        {
+          "id": "mmh-1",
+          "question": "What is 25% of 240?",
+          "options": [50, 55, 60, 65],
+          "correctAnswer": 2,
+          "explanation": "25% of 240 = 240 / 4 = 60"
+        },
+        {
+          "id": "mmh-2",
+          "question": "(15 x 12) - 47 = ?",
+          "options": [123, 133, 143, 153],
+          "correctAnswer": 1,
+          "explanation": "15 x 12 = 180, then 180 - 47 = 133"
+        },
+        {
+          "id": "mmh-3",
+          "question": "What is 15% of 300?",
+          "options": [35, 40, 45, 50],
+          "correctAnswer": 2,
+          "explanation": "10% of 300 = 30, 5% = 15, so 15% = 30 + 15 = 45"
+        },
+        {
+          "id": "mmh-4",
+          "question": "48 x 25 = ?",
+          "options": [1100, 1150, 1200, 1250],
+          "correctAnswer": 2,
+          "explanation": "48 x 25 = 48 x 100 / 4 = 4800 / 4 = 1200"
+        },
+        {
+          "id": "mmh-5",
+          "question": "(99 + 87) / 3 = ?",
+          "options": [56, 58, 62, 64],
+          "correctAnswer": 2,
+          "explanation": "99 + 87 = 186, then 186 / 3 = 62"
+        },
+        {
+          "id": "mmh-6",
+          "question": "What is 20% of 450?",
+          "options": [80, 85, 90, 95],
+          "correctAnswer": 2,
+          "explanation": "20% of 450 = 450 / 5 = 90"
+        },
+        {
+          "id": "mmh-7",
+          "question": "125 x 8 = ?",
+          "options": [900, 950, 1000, 1050],
+          "correctAnswer": 2,
+          "explanation": "125 x 8 = 1000 (125 is 1/8 of 1000)"
+        },
+        {
+          "id": "mmh-8",
+          "question": "(250 + 175) x 2 = ?",
+          "options": [800, 825, 850, 875],
+          "correctAnswer": 2,
+          "explanation": "250 + 175 = 425, then 425 x 2 = 850"
+        },
+        {
+          "id": "mmh-9",
+          "question": "What is 30% of 170?",
+          "options": [41, 46, 51, 56],
+          "correctAnswer": 2,
+          "explanation": "10% of 170 = 17, so 30% = 17 x 3 = 51"
+        },
+        {
+          "id": "mmh-10",
+          "question": "1,000 - (16 x 34) = ?",
+          "options": [436, 446, 456, 466],
+          "correctAnswer": 2,
+          "explanation": "16 x 34 = 544, then 1000 - 544 = 456"
+        }
+      ]
+    }
+  ]
+}

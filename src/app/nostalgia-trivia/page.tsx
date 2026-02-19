@@ -42,6 +42,48 @@ const specialGames = [
     description: "Guess the pop culture icon from progressive clues!",
     count: "15 Puzzles",
   },
+  {
+    id: "nostalgia-hangman",
+    title: "Nostalgia Hangman",
+    description: "Guess classic TV shows, movies, and songs one letter at a time!",
+    count: "30 Words",
+  },
+  {
+    id: "nostalgia-riddles",
+    title: "Nostalgia Riddles",
+    description: "Can you solve these riddles about retro items and events?",
+    count: "20 Riddles",
+  },
+  {
+    id: "vintage-spelling-bee",
+    title: "Vintage Spelling Bee",
+    description: "Spell these vintage and retro words correctly!",
+    count: "15 Words",
+  },
+  {
+    id: "old-time-sayings",
+    title: "Old-Time Sayings",
+    description: "Complete these classic old-time proverbs and sayings!",
+    count: "15 Sayings",
+  },
+  {
+    id: "retro-word-association",
+    title: "Retro Word Association",
+    description: "Find the word that connects the retro-themed group!",
+    count: "15 Puzzles",
+  },
+  {
+    id: "nostalgia-matching",
+    title: "Nostalgia Matching",
+    description: "Match classic actors to their shows, songs to their artists, and more!",
+    count: "10 Rounds",
+  },
+  {
+    id: "nostalgia-estimation",
+    title: "Nostalgia Estimation",
+    description: "How close can you guess? Test your knowledge of nostalgia facts and figures!",
+    count: "15 Questions",
+  },
 ];
 
 export default async function NostalgiaTrivia() {

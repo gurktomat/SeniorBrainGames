@@ -1,0 +1,37 @@
+{
+  "id": "color-sequence-challenge",
+  "title": "Color Sequence Challenge",
+  "description": "Watch the colors flash, then repeat the sequence from memory!",
+  "levels": [
+    {
+      "id": "csc-easy",
+      "title": "Easy (4 Colors)",
+      "description": "Start with 4 colors and short sequences",
+      "colorCount": 4,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow"],
+      "startLength": 3,
+      "maxLength": 8
+    },
+    {
+      "id": "csc-medium",
+      "title": "Medium (6 Colors)",
+      "description": "Six colors make it trickier to remember",
+      "colorCount": 6,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308", "#A855F7", "#F97316"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange"],
+      "startLength": 3,
+      "maxLength": 12
+    },
+    {
+      "id": "csc-hard",
+      "title": "Hard (8 Colors)",
+      "description": "Eight colors for the ultimate sequence memory test",
+      "colorCount": 8,
+      "colors": ["#EF4444", "#3B82F6", "#22C55E", "#EAB308", "#A855F7", "#F97316", "#EC4899", "#14B8A6"],
+      "colorNames": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange", "Pink", "Teal"],
+      "startLength": 2,
+      "maxLength": 15
+    }
+  ]
+}

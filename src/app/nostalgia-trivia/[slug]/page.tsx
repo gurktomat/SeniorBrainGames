@@ -5,6 +5,13 @@ import TimelineSortEngine from "@/components/TimelineSortEngine";
 import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import SortingEngine from "@/components/SortingEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
+import HangmanEngine from "@/components/HangmanEngine";
+import RiddleEngine from "@/components/RiddleEngine";
+import SpellingBeeEngine from "@/components/SpellingBeeEngine";
+import ProverbEngine from "@/components/ProverbEngine";
+import WordAssociationEngine from "@/components/WordAssociationEngine";
+import MatchingPairsEngine from "@/components/MatchingPairsEngine";
+import EstimationEngine from "@/components/EstimationEngine";
 import JsonLd from "@/components/JsonLd";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedGames from "@/components/RelatedGames";
@@ -17,12 +24,26 @@ import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
 import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
 import decadeSortingData from "@/data/nostalgia-trivia/decade-sorting.json";
 import nostalgiaWhoAmIData from "@/data/nostalgia-trivia/nostalgia-who-am-i.json";
+import nostalgiaHangmanData from "@/data/nostalgia-trivia/nostalgia-hangman.json";
+import nostalgiaRiddlesData from "@/data/nostalgia-trivia/nostalgia-riddles.json";
+import vintageSpellingData from "@/data/nostalgia-trivia/vintage-spelling-bee.json";
+import oldTimeSayingsData from "@/data/nostalgia-trivia/old-time-sayings.json";
+import retroWordAssocData from "@/data/nostalgia-trivia/retro-word-association.json";
+import nostalgiaMatchingData from "@/data/nostalgia-trivia/nostalgia-matching.json";
+import nostalgiaEstimationData from "@/data/nostalgia-trivia/nostalgia-estimation.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "timeline-sort": { title: "Timeline Sort", description: "Put historical events in the correct chronological order!" },
   "nostalgia-fact-or-fiction": { title: "Nostalgia Fact or Fiction", description: "Can you tell which nostalgic facts from the 1950s–1980s are true and which are made up?" },
   "decade-sorting": { title: "Decade Sorting", description: "Sort pop culture items into their correct decade!" },
   "nostalgia-who-am-i": { title: "Nostalgia Who Am I?", description: "Guess the pop culture icon from progressive clues!" },
+  "nostalgia-hangman": { title: "Nostalgia Hangman", description: "Guess classic TV shows, movies, and songs one letter at a time!" },
+  "nostalgia-riddles": { title: "Nostalgia Riddles", description: "Can you solve these riddles about retro items and events?" },
+  "vintage-spelling-bee": { title: "Vintage Spelling Bee", description: "Spell these vintage and retro words correctly!" },
+  "old-time-sayings": { title: "Old-Time Sayings", description: "Complete these classic old-time proverbs and sayings!" },
+  "retro-word-association": { title: "Retro Word Association", description: "Find the word that connects the retro-themed group!" },
+  "nostalgia-matching": { title: "Nostalgia Matching", description: "Match classic actors to their shows, songs to their artists, and more!" },
+  "nostalgia-estimation": { title: "Nostalgia Estimation", description: "How close can you guess? Test your knowledge of nostalgia facts and figures!" },
 };
 
 const allCategoryGames = [
@@ -166,6 +187,20 @@ export default async function NostalgiaQuizPage({
           <WhoAmIEngine title={nostalgiaWhoAmIData.title} puzzles={nostalgiaWhoAmIData.puzzles} />
         </PageShell>
       );
+    case "nostalgia-hangman":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><HangmanEngine title={nostalgiaHangmanData.title} words={nostalgiaHangmanData.words} /></PageShell>);
+    case "nostalgia-riddles":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><RiddleEngine title={nostalgiaRiddlesData.title} riddles={nostalgiaRiddlesData.riddles} /></PageShell>);
+    case "vintage-spelling-bee":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpellingBeeEngine title={vintageSpellingData.title} words={vintageSpellingData.words} /></PageShell>);
+    case "old-time-sayings":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><ProverbEngine title={oldTimeSayingsData.title} questions={oldTimeSayingsData.questions} /></PageShell>);
+    case "retro-word-association":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordAssociationEngine title={retroWordAssocData.title} puzzles={retroWordAssocData.puzzles} /></PageShell>);
+    case "nostalgia-matching":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MatchingPairsEngine title={nostalgiaMatchingData.title} rounds={nostalgiaMatchingData.rounds} /></PageShell>);
+    case "nostalgia-estimation":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><EstimationEngine title={nostalgiaEstimationData.title} questions={nostalgiaEstimationData.questions} /></PageShell>);
     default:
       notFound();
   }

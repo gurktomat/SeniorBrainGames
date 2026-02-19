@@ -1,0 +1,54 @@
+{
+  "id": "nature-card-match",
+  "title": "Nature Card Match",
+  "description": "Match nature-themed cards by flipping pairs!",
+  "gameCategory": "memory-games",
+  "gameType": "memory-cards",
+  "levels": [
+    {
+      "id": "nature-easy",
+      "name": "Easy (6 pairs)",
+      "gridSize": "small",
+      "pairs": [
+        {"emoji": "🌸", "label": "Cherry Blossom"},
+        {"emoji": "🌻", "label": "Sunflower"},
+        {"emoji": "🌺", "label": "Hibiscus"},
+        {"emoji": "🌷", "label": "Tulip"},
+        {"emoji": "🌹", "label": "Rose"},
+        {"emoji": "🍀", "label": "Four Leaf Clover"}
+      ]
+    },
+    {
+      "id": "nature-medium",
+      "name": "Medium (8 pairs)",
+      "gridSize": "medium",
+      "pairs": [
+        {"emoji": "🦋", "label": "Butterfly"},
+        {"emoji": "🐝", "label": "Bee"},
+        {"emoji": "🐞", "label": "Ladybug"},
+        {"emoji": "🌈", "label": "Rainbow"},
+        {"emoji": "🍄", "label": "Mushroom"},
+        {"emoji": "🌵", "label": "Cactus"},
+        {"emoji": "🍂", "label": "Fallen Leaf"},
+        {"emoji": "❄️", "label": "Snowflake"}
+      ]
+    },
+    {
+      "id": "nature-hard",
+      "name": "Hard (10 pairs)",
+      "gridSize": "large",
+      "pairs": [
+        {"emoji": "🦌", "label": "Deer"},
+        {"emoji": "🦅", "label": "Eagle"},
+        {"emoji": "🐺", "label": "Wolf"},
+        {"emoji": "🦉", "label": "Owl"},
+        {"emoji": "🐿️", "label": "Squirrel"},
+        {"emoji": "🦊", "label": "Fox"},
+        {"emoji": "🐻", "label": "Bear"},
+        {"emoji": "🦆", "label": "Duck"},
+        {"emoji": "🐸", "label": "Frog"},
+        {"emoji": "🦎", "label": "Lizard"}
+      ]
+    }
+  ]
+}

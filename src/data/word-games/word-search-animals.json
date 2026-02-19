@@ -1,0 +1,98 @@
+{
+  "id": "word-search-animals",
+  "title": "Animal Word Search",
+  "description": "Find animal names hidden in the grid!",
+  "gameCategory": "word-games",
+  "gameType": "word-search",
+  "puzzles": [
+    {
+      "id": "safari-animals",
+      "title": "Safari Animals",
+      "description": "Find animals you might see on an African safari",
+      "grid": [
+        "ELEPHANTKWDF",
+        "BMQJVCHEETAH",
+        "GIRAFFEXNPSK",
+        "WDTHGLEOPARD",
+        "ZEBRAJQVMXHN",
+        "KTSLPWBFDGRJ",
+        "LIONHXVKQWTM",
+        "DPWGSBQNRFXA",
+        "HIPPOTKMDSLW",
+        "VNRDFGXJBQKP",
+        "RHINOWSLTMVA",
+        "JKTBQXNDFPGH"
+      ],
+      "words": [
+        { "word": "ELEPHANT", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 7 },
+        { "word": "CHEETAH", "startRow": 1, "startCol": 5, "endRow": 1, "endCol": 11 },
+        { "word": "GIRAFFE", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 6 },
+        { "word": "LEOPARD", "startRow": 3, "startCol": 5, "endRow": 3, "endCol": 11 },
+        { "word": "ZEBRA", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 4 },
+        { "word": "LION", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 3 },
+        { "word": "HIPPO", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 4 },
+        { "word": "RHINO", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 4 }
+      ]
+    },
+    {
+      "id": "ocean-creatures",
+      "title": "Ocean Creatures",
+      "description": "Find creatures that live in the ocean",
+      "grid": [
+        "JELLYFISHBMW",
+        "PKDGVNTSHARK",
+        "SEAHORSEFQBN",
+        "MWRDKJTURTLE",
+        "STARFISHGVPX",
+        "BNKWDTQGJMHR",
+        "DOLPHINXKSVW",
+        "FTRGBMKJPDNA",
+        "OCTOPUSQHWFB",
+        "KJDNVRWTXGPM",
+        "WHALESKBNDJF",
+        "GPMTXVRHDQBK"
+      ],
+      "words": [
+        { "word": "JELLYFISH", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 8 },
+        { "word": "SHARK", "startRow": 1, "startCol": 7, "endRow": 1, "endCol": 11 },
+        { "word": "SEAHORSE", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 7 },
+        { "word": "TURTLE", "startRow": 3, "startCol": 6, "endRow": 3, "endCol": 11 },
+        { "word": "STARFISH", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 7 },
+        { "word": "DOLPHIN", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 6 },
+        { "word": "OCTOPUS", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 6 },
+        { "word": "WHALE", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 4 }
+      ]
+    },
+    {
+      "id": "farm-animals",
+      "title": "Farm Animals",
+      "description": "Find animals you would see on a farm",
+      "grid": [
+        "CHICKENBHWGT",
+        "MDFVRJQNOPIG",
+        "ROOSTERWRKBD",
+        "XJKPLVNFSCOW",
+        "DONKEYHQETMB",
+        "VTPGWRNJDUCK",
+        "TURKEYFBXHLM",
+        "HKDVNWQGJRPS",
+        "SHEEPXTMBKDF",
+        "NWGBVDJRTQXK",
+        "GOATKNHPMVSW",
+        "DPXFJTRBKQMH"
+      ],
+      "words": [
+        { "word": "CHICKEN", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 6 },
+        { "word": "HORSE", "startRow": 0, "startCol": 8, "endRow": 4, "endCol": 8 },
+        { "word": "PIG", "startRow": 1, "startCol": 9, "endRow": 1, "endCol": 11 },
+        { "word": "ROOSTER", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 6 },
+        { "word": "COW", "startRow": 3, "startCol": 9, "endRow": 3, "endCol": 11 },
+        { "word": "DONKEY", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 5 },
+        { "word": "DUCK", "startRow": 5, "startCol": 8, "endRow": 5, "endCol": 11 },
+        { "word": "TURKEY", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 5 },
+        { "word": "SHEEP", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 4 },
+        { "word": "GOAT", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 3 }
+      ]
+    }
+  ]
+}

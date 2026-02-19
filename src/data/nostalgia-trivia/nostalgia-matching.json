@@ -1,0 +1,127 @@
+{
+  "id": "nostalgia-matching",
+  "title": "Nostalgia Matching",
+  "description": "Match classic actors to their shows, songs to their artists, and more!",
+  "rounds": [
+    {
+      "id": "nm-actors-shows",
+      "title": "TV Actors & Their Shows",
+      "description": "Match the classic TV actor to their show",
+      "pairs": [
+        { "left": "Lucille Ball", "right": "I Love Lucy" },
+        { "left": "Andy Griffith", "right": "The Andy Griffith Show" },
+        { "left": "Carroll O'Connor", "right": "All in the Family" },
+        { "left": "Mary Tyler Moore", "right": "The Mary Tyler Moore Show" },
+        { "left": "Alan Alda", "right": "M*A*S*H" }
+      ]
+    },
+    {
+      "id": "nm-songs-artists-50s",
+      "title": "Hit Songs & Artists (50s)",
+      "description": "Match the 1950s hit song to its artist",
+      "pairs": [
+        { "left": "Hound Dog", "right": "Elvis Presley" },
+        { "left": "Johnny B. Goode", "right": "Chuck Berry" },
+        { "left": "Tutti Frutti", "right": "Little Richard" },
+        { "left": "Great Balls of Fire", "right": "Jerry Lee Lewis" },
+        { "left": "That'll Be the Day", "right": "Buddy Holly" }
+      ]
+    },
+    {
+      "id": "nm-songs-artists-60s",
+      "title": "Hit Songs & Artists (60s)",
+      "description": "Match the 1960s hit song to its artist",
+      "pairs": [
+        { "left": "Respect", "right": "Aretha Franklin" },
+        { "left": "Hey Jude", "right": "The Beatles" },
+        { "left": "My Girl", "right": "The Temptations" },
+        { "left": "(I Can't Get No) Satisfaction", "right": "The Rolling Stones" },
+        { "left": "California Dreamin'", "right": "The Mamas & the Papas" }
+      ]
+    },
+    {
+      "id": "nm-songs-artists-70s",
+      "title": "Hit Songs & Artists (70s)",
+      "description": "Match the 1970s hit song to its artist",
+      "pairs": [
+        { "left": "Bohemian Rhapsody", "right": "Queen" },
+        { "left": "Stayin' Alive", "right": "Bee Gees" },
+        { "left": "Hotel California", "right": "Eagles" },
+        { "left": "Dancing Queen", "right": "ABBA" },
+        { "left": "Imagine", "right": "John Lennon" }
+      ]
+    },
+    {
+      "id": "nm-movie-stars-films",
+      "title": "Movie Stars & Films",
+      "description": "Match the classic movie star to their iconic film",
+      "pairs": [
+        { "left": "Humphrey Bogart", "right": "Casablanca" },
+        { "left": "Audrey Hepburn", "right": "Breakfast at Tiffany's" },
+        { "left": "Marlon Brando", "right": "The Godfather" },
+        { "left": "Julie Andrews", "right": "The Sound of Music" },
+        { "left": "John Wayne", "right": "True Grit" }
+      ]
+    },
+    {
+      "id": "nm-characters-catchphrases",
+      "title": "TV Characters & Catchphrases",
+      "description": "Match the TV character to their famous catchphrase",
+      "pairs": [
+        { "left": "Ralph Kramden", "right": "To the moon, Alice!" },
+        { "left": "Archie Bunker", "right": "Stifle yourself!" },
+        { "left": "Ricky Ricardo", "right": "Lucy, you got some 'splainin' to do!" },
+        { "left": "Sergeant Schultz", "right": "I know nothing!" },
+        { "left": "Fred Sanford", "right": "I'm coming, Elizabeth!" }
+      ]
+    },
+    {
+      "id": "nm-brands-slogans",
+      "title": "Brands & Slogans",
+      "description": "Match the classic brand to its vintage slogan",
+      "pairs": [
+        { "left": "Coca-Cola", "right": "It's the Real Thing" },
+        { "left": "Alka-Seltzer", "right": "Plop, Plop, Fizz, Fizz" },
+        { "left": "Timex", "right": "Takes a Licking and Keeps on Ticking" },
+        { "left": "Clairol", "right": "Does She or Doesn't She?" },
+        { "left": "Morton Salt", "right": "When It Rains, It Pours" }
+      ]
+    },
+    {
+      "id": "nm-cars-decades",
+      "title": "Cars & Decades",
+      "description": "Match the iconic car to the decade it became famous",
+      "pairs": [
+        { "left": "Chevrolet Bel Air", "right": "1950s" },
+        { "left": "Ford Mustang", "right": "1960s" },
+        { "left": "Volkswagen Beetle", "right": "1960s-70s" },
+        { "left": "Pontiac Firebird Trans Am", "right": "1970s" },
+        { "left": "DeLorean DMC-12", "right": "1980s" }
+      ]
+    },
+    {
+      "id": "nm-inventors-inventions",
+      "title": "Inventors & Inventions",
+      "description": "Match the mid-century inventor to their invention",
+      "pairs": [
+        { "left": "Philo Farnsworth", "right": "Electronic Television" },
+        { "left": "Percy Spencer", "right": "Microwave Oven" },
+        { "left": "Chester Carlson", "right": "Xerox Photocopier" },
+        { "left": "Earl Tupper", "right": "Tupperware" },
+        { "left": "Jack Kilby", "right": "Integrated Circuit" }
+      ]
+    },
+    {
+      "id": "nm-presidents-decades",
+      "title": "Presidents & Decades",
+      "description": "Match the U.S. President to the decade they are most associated with",
+      "pairs": [
+        { "left": "Dwight D. Eisenhower", "right": "1950s" },
+        { "left": "John F. Kennedy", "right": "1960s" },
+        { "left": "Richard Nixon", "right": "1970s" },
+        { "left": "Ronald Reagan", "right": "1980s" },
+        { "left": "Harry S. Truman", "right": "1940s-50s" }
+      ]
+    }
+  ]
+}

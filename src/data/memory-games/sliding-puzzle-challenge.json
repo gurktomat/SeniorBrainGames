@@ -1,0 +1,28 @@
+{
+  "id": "sliding-puzzle-challenge",
+  "title": "Sliding Puzzle Challenge",
+  "description": "Slide the numbered tiles into the correct order!",
+  "puzzles": [
+    {
+      "id": "spc-easy",
+      "title": "Easy (3×3)",
+      "description": "A warm-up 8-tile puzzle",
+      "size": 3,
+      "tiles": [1, 2, 3, 4, 0, 5, 7, 8, 6]
+    },
+    {
+      "id": "spc-medium",
+      "title": "Medium (3×3)",
+      "description": "A trickier 8-tile arrangement",
+      "size": 3,
+      "tiles": [2, 8, 3, 1, 6, 4, 7, 0, 5]
+    },
+    {
+      "id": "spc-hard",
+      "title": "Hard (4×4)",
+      "description": "The ultimate 15-tile sliding challenge!",
+      "size": 4,
+      "tiles": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 13, 14, 15, 12]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "logic-patterns",
+  "title": "Logic Patterns",
+  "description": "Find the pattern and choose what comes next!",
+  "gameCategory": "general-knowledge",
+  "gameType": "pattern",
+  "puzzles": [
+    {
+      "id": "lp-1",
+      "sequence": ["3", "6", "9", "12", "?"],
+      "options": ["14", "15", "16", "18"],
+      "correctAnswer": 1,
+      "explanation": "Each number increases by 3: 3, 6, 9, 12, 15.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "lp-2",
+      "sequence": ["🔴", "🔵", "🔴", "🔵", "?"],
+      "options": ["🟢", "🔵", "🔴", "🟡"],
+      "correctAnswer": 2,
+      "explanation": "The colors alternate: red, blue, red, blue, red.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "lp-3",
+      "sequence": ["10", "20", "30", "40", "?"],
+      "options": ["45", "50", "55", "60"],
+      "correctAnswer": 1,
+      "explanation": "Each number increases by 10: 10, 20, 30, 40, 50.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "lp-4",
+      "sequence": ["⬛", "⬜", "⬛", "⬜", "⬛", "?"],
+      "options": ["⬛", "⬜", "🟫", "🟥"],
+      "correctAnswer": 1,
+      "explanation": "The pattern alternates between black and white squares: black, white, black, white, black, white.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "lp-5",
+      "sequence": ["100", "90", "80", "70", "?"],
+      "options": ["65", "55", "50", "60"],
+      "correctAnswer": 3,
+      "explanation": "Each number decreases by 10: 100, 90, 80, 70, 60.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "lp-6",
+      "sequence": ["2", "4", "8", "16", "?"],
+      "options": ["24", "30", "32", "36"],
+      "correctAnswer": 2,
+      "explanation": "Each number is doubled (multiplied by 2): 2, 4, 8, 16, 32.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "lp-7",
+      "sequence": ["1", "1", "2", "3", "5", "?"],
+      "options": ["7", "8", "10", "6"],
+      "correctAnswer": 1,
+      "explanation": "This is the Fibonacci sequence \u2014 each number is the sum of the two before it: 3 + 5 = 8.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "lp-8",
+      "sequence": ["🔺", "🔺🔺", "🔺🔺🔺", "🔺🔺🔺🔺", "?"],
+      "options": ["🔺🔺🔺", "🔺🔺🔺🔺🔺", "🔻🔻🔻🔻🔻", "🔺🔺🔺🔺🔺🔺"],
+      "correctAnswer": 1,
+      "explanation": "One more triangle is added each time: 1, 2, 3, 4, 5 triangles.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "lp-9",
+      "sequence": ["1", "4", "9", "16", "?"],
+      "options": ["20", "22", "25", "30"],
+      "correctAnswer": 2,
+      "explanation": "These are perfect squares: 1\u00b2=1, 2\u00b2=4, 3\u00b2=9, 4\u00b2=16, 5\u00b2=25.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "lp-10",
+      "sequence": ["5", "10", "8", "16", "14", "?"],
+      "options": ["24", "26", "28", "30"],
+      "correctAnswer": 2,
+      "explanation": "The pattern alternates: double, then subtract 2. 5\u00d72=10, 10-2=8, 8\u00d72=16, 16-2=14, 14\u00d72=28.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "lp-11",
+      "sequence": ["1", "8", "27", "64", "?"],
+      "options": ["100", "125", "150", "216"],
+      "correctAnswer": 1,
+      "explanation": "These are perfect cubes: 1\u00b3=1, 2\u00b3=8, 3\u00b3=27, 4\u00b3=64, 5\u00b3=125.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "lp-12",
+      "sequence": ["2", "6", "12", "20", "30", "?"],
+      "options": ["40", "42", "44", "36"],
+      "correctAnswer": 1,
+      "explanation": "The differences increase by 2 each time: +4, +6, +8, +10, +12. So 30 + 12 = 42. These are also n\u00d7(n+1): 1\u00d72, 2\u00d73, 3\u00d74, 4\u00d75, 5\u00d76, 6\u00d77.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "lp-13",
+      "sequence": ["🟢", "🟡", "🔴", "🟢", "🟡", "?"],
+      "options": ["🟢", "🟡", "🔴", "🔵"],
+      "correctAnswer": 2,
+      "explanation": "The pattern repeats in groups of three: green, yellow, red, green, yellow, red.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "lp-14",
+      "sequence": ["3", "5", "9", "17", "33", "?"],
+      "options": ["49", "57", "65", "61"],
+      "correctAnswer": 2,
+      "explanation": "Each number is doubled then subtract 1: 3\u00d72-1=5, 5\u00d72-1=9, 9\u00d72-1=17, 17\u00d72-1=33, 33\u00d72-1=65.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "lp-15",
+      "sequence": ["1", "2", "4", "7", "11", "?"],
+      "options": ["14", "15", "16", "17"],
+      "correctAnswer": 2,
+      "explanation": "The differences increase by 1 each time: +1, +2, +3, +4, +5. So 11 + 5 = 16. These are triangular numbers plus 1.",
+      "difficulty": "hard"
+    }
+  ]
+}

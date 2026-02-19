@@ -1,0 +1,114 @@
+{
+  "id": "food-word-scramble",
+  "title": "Food Word Scramble",
+  "description": "Unscramble the letters to find the food or cooking word!",
+  "gameCategory": "word-games",
+  "gameType": "word-scramble",
+  "puzzles": [
+    {
+      "id": "fws-1",
+      "scrambled": "ZAPIZ",
+      "answer": "PIZZA",
+      "hint": "A popular Italian dish with cheese and toppings",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fws-2",
+      "scrambled": "FINMUF",
+      "answer": "MUFFIN",
+      "hint": "A small sweet cake, often with blueberries",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fws-3",
+      "scrambled": "KACPANE",
+      "answer": "PANCAKE",
+      "hint": "A flat breakfast item cooked on a griddle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-4",
+      "scrambled": "TIUSCIB",
+      "answer": "BISCUIT",
+      "hint": "A flaky baked bread roll, popular in the South",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-5",
+      "scrambled": "LETZREP",
+      "answer": "PRETZEL",
+      "hint": "A twisted baked snack, often salted",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-6",
+      "scrambled": "DRATCUS",
+      "answer": "CUSTARD",
+      "hint": "A creamy dessert made with eggs and milk",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-7",
+      "scrambled": "HWIDCNAS",
+      "answer": "SANDWICH",
+      "hint": "Two slices of bread with filling in between",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-8",
+      "scrambled": "DACOVAO",
+      "answer": "AVOCADO",
+      "hint": "A green fruit used in guacamole",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-9",
+      "scrambled": "ROOMHUMS",
+      "answer": "MUSHROOM",
+      "hint": "A fungus used as a topping on pizza",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-10",
+      "scrambled": "LICCORBO",
+      "answer": "BROCCOLI",
+      "hint": "A green vegetable that looks like a small tree",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-11",
+      "scrambled": "HAGETTIPS",
+      "answer": "SPAGHETTI",
+      "hint": "Long thin pasta, often served with meatballs",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-12",
+      "scrambled": "LOCHTOCAE",
+      "answer": "CHOCOLATE",
+      "hint": "A sweet treat made from cocoa beans",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-13",
+      "scrambled": "MANCONIN",
+      "answer": "CINNAMON",
+      "hint": "A warm spice used in baking and hot drinks",
+      "difficulty": "hard"
+    },
+    {
+      "id": "fws-14",
+      "scrambled": "GAANLAS",
+      "answer": "LASAGNA",
+      "hint": "A layered Italian pasta dish baked in the oven",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fws-15",
+      "scrambled": "SHOGULA",
+      "answer": "GOULASH",
+      "hint": "A hearty Hungarian stew with paprika",
+      "difficulty": "medium"
+    }
+  ]
+}

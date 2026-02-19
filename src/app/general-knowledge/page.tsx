@@ -42,6 +42,48 @@ const specialGames = [
     description: "Put world history events in the correct chronological order!",
     count: "10 Rounds",
   },
+  {
+    id: "science-true-or-false",
+    title: "Science True or False",
+    description: "Is this science fact true or false? Test your scientific knowledge!",
+    count: "20 Statements",
+  },
+  {
+    id: "what-in-the-world",
+    title: "What in the World?",
+    description: "Guess the famous landmark or place from progressive clues!",
+    count: "15 Puzzles",
+  },
+  {
+    id: "inventions-timeline",
+    title: "Inventions Timeline",
+    description: "Put great inventions in the correct chronological order!",
+    count: "10 Rounds",
+  },
+  {
+    id: "animal-kingdom-sorting",
+    title: "Animal Kingdom Sorting",
+    description: "Sort animals into the correct categories!",
+    count: "10 Rounds",
+  },
+  {
+    id: "mental-math",
+    title: "Mental Math",
+    description: "Challenge your mental arithmetic skills!",
+    count: "3 Levels",
+  },
+  {
+    id: "logic-patterns",
+    title: "Logic Patterns",
+    description: "Find the pattern and choose what comes next in the sequence!",
+    count: "15 Puzzles",
+  },
+  {
+    id: "observation-challenge",
+    title: "Observation Challenge",
+    description: "Study the items carefully, then spot what changed!",
+    count: "15 Rounds",
+  },
 ];
 
 export default async function GeneralKnowledge() {

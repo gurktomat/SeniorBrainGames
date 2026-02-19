@@ -108,6 +108,36 @@ const specialGames = [
     description: "Is this sentence grammatically correct? Test your grammar knowledge!",
     count: "20 Statements",
   },
+  {
+    id: "crossword-nature-science",
+    title: "Nature & Science Crossword",
+    description: "Solve crossword puzzles themed around nature and science!",
+    count: "3 Puzzles",
+  },
+  {
+    id: "word-search-animals",
+    title: "Animal Word Search",
+    description: "Find animal names hidden in the grid!",
+    count: "3 Puzzles",
+  },
+  {
+    id: "food-word-scramble",
+    title: "Food Word Scramble",
+    description: "Unscramble the letters to find the food or cooking word!",
+    count: "15 Puzzles",
+  },
+  {
+    id: "cryptogram-poetry",
+    title: "Poetry Cryptogram",
+    description: "Decode famous poetry lines by figuring out the letter substitutions!",
+    count: "10 Puzzles",
+  },
+  {
+    id: "word-ladder-challenge",
+    title: "Word Ladder Challenge",
+    description: "Change one letter at a time to climb from the start word to the end word!",
+    count: "10 Puzzles",
+  },
 ];
 
 const printableGames = new Set([

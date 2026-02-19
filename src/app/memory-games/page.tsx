@@ -111,6 +111,42 @@ const specialGames = [
     description: "Classic mine-clearing puzzle — reveal all safe cells without hitting a mine!",
     count: "3 Levels",
   },
+  {
+    id: "nature-card-match",
+    title: "Nature Card Match",
+    description: "Match nature-themed cards by flipping pairs!",
+    count: "3 Levels",
+  },
+  {
+    id: "color-sequence-challenge",
+    title: "Color Sequence Challenge",
+    description: "Watch the colors flash, then repeat the sequence from memory!",
+    count: "3 Levels",
+  },
+  {
+    id: "number-recall-challenge",
+    title: "Number Recall Challenge",
+    description: "Flash a number sequence, then recall it from memory!",
+    count: "20 Rounds",
+  },
+  {
+    id: "whats-changed",
+    title: "What's Changed?",
+    description: "Study the items carefully, then figure out which one disappeared!",
+    count: "15 Rounds",
+  },
+  {
+    id: "sudoku-challenge",
+    title: "Sudoku Challenge",
+    description: "Fill the grid so every row, column, and 3×3 box contains 1-9!",
+    count: "3 Puzzles",
+  },
+  {
+    id: "sliding-puzzle-challenge",
+    title: "Sliding Puzzle Challenge",
+    description: "Slide the numbered tiles into the correct order!",
+    count: "3 Levels",
+  },
 ];
 
 export default async function MemoryGames() {
