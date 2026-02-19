@@ -1,0 +1,143 @@
+{
+  "id": "word-origins",
+  "title": "Word Origins",
+  "description": "Where do our everyday words come from? Discover the surprising origins and etymologies of common English words in this fascinating quiz!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "origin-1",
+      "question": "The word 'salary' comes from the Latin word 'salarium,' which is related to what substance?",
+      "options": ["Gold", "Salt", "Bread", "Water"],
+      "correctAnswer": 1,
+      "explanation": "The word 'salary' derives from the Latin 'salarium,' which is connected to 'sal' meaning salt. Roman soldiers were sometimes given allowances to buy salt, a highly valued commodity in the ancient world.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-2",
+      "question": "What language does the word 'ketchup' originally come from?",
+      "options": ["French", "Spanish", "Chinese (Hokkien)", "Italian"],
+      "correctAnswer": 2,
+      "explanation": "Ketchup traces back to the Hokkien Chinese word 'kê-tsiap,' a fermented fish sauce. It was brought to Europe by traders in the 17th century and evolved into the tomato-based condiment we know today.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-3",
+      "question": "The word 'disaster' literally means 'bad star' and comes from which language?",
+      "options": ["Latin", "Greek", "Italian", "French"],
+      "correctAnswer": 2,
+      "explanation": "Disaster comes from the Italian 'disastro,' combining 'dis-' (bad) and 'astro' (star). It reflects the old belief that catastrophes were caused by unfavorable positions of the stars and planets.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-4",
+      "question": "The word 'robot' was coined in a 1920 play by a writer from which country?",
+      "options": ["Russia", "Germany", "Czechoslovakia", "Japan"],
+      "correctAnswer": 2,
+      "explanation": "The word 'robot' was introduced by Czech writer Karel Capek in his 1920 play 'R.U.R.' (Rossum's Universal Robots). It derives from the Czech word 'robota,' meaning forced labor or drudgery.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-5",
+      "question": "The word 'quarantine' comes from the Italian words for what number of days?",
+      "options": ["Seven", "Fourteen", "Thirty", "Forty"],
+      "correctAnswer": 3,
+      "explanation": "Quarantine comes from the Italian 'quarantina,' meaning a period of forty days. During the Black Death in the 14th century, ships arriving in Venice had to anchor offshore for 40 days before passengers could disembark.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-6",
+      "question": "What does the word 'avocado' trace back to in the Nahuatl (Aztec) language?",
+      "options": ["Green fruit", "Butter pear", "Testicle", "Tree egg"],
+      "correctAnswer": 2,
+      "explanation": "The word 'avocado' comes from the Nahuatl word 'ahuacatl,' which literally means testicle, likely due to the fruit's shape. Spanish conquistadors adapted it to 'aguacate,' which eventually became 'avocado' in English.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-7",
+      "question": "The word 'candidate' comes from the Latin 'candidatus,' referring to what?",
+      "options": ["A public speaker", "Someone wearing white", "A person who kneels", "A man of honor"],
+      "correctAnswer": 1,
+      "explanation": "In ancient Rome, those seeking public office wore bright white togas to symbolize purity and fitness for office. The Latin 'candidatus' means 'clothed in white,' from 'candidus' (white, bright).",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-8",
+      "question": "Which language gives us the word 'tsunami'?",
+      "options": ["Chinese", "Hawaiian", "Japanese", "Indonesian"],
+      "correctAnswer": 2,
+      "explanation": "Tsunami is a Japanese word combining 'tsu' (harbor) and 'nami' (wave), literally meaning 'harbor wave.' Fishermen who found their harbors devastated upon returning from sea coined the term, as the waves were not noticeable in open water.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-9",
+      "question": "The word 'sarcasm' comes from a Greek word that literally means what?",
+      "options": ["Sharp tongue", "To tear flesh", "Bitter laughter", "Double meaning"],
+      "correctAnswer": 1,
+      "explanation": "Sarcasm derives from the Greek 'sarkazein,' meaning 'to tear flesh' or 'to bite the lips in rage,' from 'sarx' (flesh). The idea is that sarcastic remarks are so cutting they tear at a person like teeth ripping flesh.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-10",
+      "question": "The word 'clue' originally referred to what object in English?",
+      "options": ["A magnifying glass", "A ball of thread", "A footprint", "A signpost"],
+      "correctAnswer": 1,
+      "explanation": "The word 'clue' comes from 'clew,' an old English word for a ball of thread or yarn. It alludes to the Greek myth of Theseus, who used a ball of thread to find his way out of the Minotaur's labyrinth.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-11",
+      "question": "The word 'magazine' originally came from an Arabic word meaning what?",
+      "options": ["Stories", "Warehouse", "Paper", "Knowledge"],
+      "correctAnswer": 1,
+      "explanation": "Magazine comes from the Arabic 'makhazin,' meaning storehouses or warehouses. It first entered English referring to a storage place for arms and ammunition, then came to mean a publication that was a 'storehouse' of information.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-12",
+      "question": "The word 'checkmate' in chess comes from the Persian phrase 'shah mat,' which means what?",
+      "options": ["The king surrenders", "The king is dead", "The king is trapped", "The king falls"],
+      "correctAnswer": 1,
+      "explanation": "Checkmate derives from the Persian 'shah mat,' meaning 'the king is dead' (or more precisely, 'the king is helpless'). Chess itself spread from India to Persia, and many chess terms retain their Persian or Arabic origins.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-13",
+      "question": "The word 'whiskey' comes from the Gaelic 'uisce beatha,' which translates to what?",
+      "options": ["Golden spirit", "Fire drink", "Water of life", "Strong brew"],
+      "correctAnswer": 2,
+      "explanation": "Whiskey derives from the Irish and Scottish Gaelic 'uisce beatha,' meaning 'water of life.' The Latin equivalent, 'aqua vitae,' was also used for distilled spirits throughout medieval Europe.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-14",
+      "question": "The word 'alphabet' is formed from the first two letters of which language?",
+      "options": ["Latin", "Greek", "Hebrew", "Phoenician"],
+      "correctAnswer": 1,
+      "explanation": "The word 'alphabet' comes from the first two letters of the Greek alphabet: alpha and beta. The Greeks in turn adapted their letter names from the Phoenician letters aleph and beth.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "origin-15",
+      "question": "The word 'shampoo' entered English from which language, originally meaning 'to press or massage'?",
+      "options": ["Japanese", "Arabic", "Hindi", "Turkish"],
+      "correctAnswer": 2,
+      "explanation": "Shampoo comes from the Hindi word 'champo,' an imperative form of 'champna' meaning to press or massage. The practice of head massage with oils was introduced to Europe by colonial travelers returning from India in the 18th century.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    }
+  ]
+}

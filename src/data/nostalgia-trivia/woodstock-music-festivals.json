@@ -1,0 +1,148 @@
+{
+  "id": "woodstock-music-festivals",
+  "title": "Woodstock & Music Festivals",
+  "description": "How much do you remember about Woodstock, the Summer of Love, and the legendary music festivals that defined a generation?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "fest-1",
+      "question": "In what year did the original Woodstock Music & Art Fair take place?",
+      "options": ["1967", "1968", "1969", "1970"],
+      "correctAnswer": 2,
+      "explanation": "The original Woodstock festival was held August 15–18, 1969, on a dairy farm in Bethel, New York.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "fest-2",
+      "question": "Which guitarist famously closed Woodstock with a rendition of 'The Star-Spangled Banner'?",
+      "options": ["Eric Clapton", "Jimi Hendrix", "Carlos Santana", "Pete Townshend"],
+      "correctAnswer": 1,
+      "explanation": "Jimi Hendrix performed his iconic, distortion-laden version of 'The Star-Spangled Banner' on Monday morning, August 18, 1969, as the festival's closing act.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "fest-3",
+      "question": "Woodstock was originally planned for the town of Woodstock, NY, but was actually held on a farm in which nearby town?",
+      "options": ["Saugerties", "Bethel", "Kingston", "New Paltz"],
+      "correctAnswer": 1,
+      "explanation": "After being turned away from other sites, the festival was held on Max Yasgur's dairy farm in Bethel, New York, about 60 miles southwest of the town of Woodstock.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "fest-4",
+      "question": "The Monterey International Pop Festival, held in June 1967, is often credited with launching which artist's career in America?",
+      "options": ["The Beatles", "Jimi Hendrix", "Bob Dylan", "The Rolling Stones"],
+      "correctAnswer": 1,
+      "explanation": "Jimi Hendrix's electrifying performance at Monterey Pop — where he famously set his guitar on fire — introduced him to a wide American audience and launched his stateside career.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "fest-5",
+      "question": "Approximately how many people attended the original Woodstock festival?",
+      "options": ["100,000", "250,000", "400,000", "750,000"],
+      "correctAnswer": 2,
+      "explanation": "An estimated 400,000 people descended on Max Yasgur's farm for Woodstock, far exceeding the organizers' expectations of around 50,000 attendees.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "fest-6",
+      "question": "Which band's performance at Woodstock featured an extended drum solo and is considered one of the breakout moments of the festival?",
+      "options": ["The Who", "Santana", "Creedence Clearwater Revival", "Jefferson Airplane"],
+      "correctAnswer": 1,
+      "explanation": "Santana's performance, featuring the percussive showcase 'Soul Sacrifice,' was a breakout moment that helped launch Carlos Santana and his band to international fame.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "fest-7",
+      "question": "The tragic events at the Altamont Free Concert in December 1969 involved violence by members of which group acting as security?",
+      "options": ["Local police", "Hells Angels", "National Guard", "Private security firm"],
+      "correctAnswer": 1,
+      "explanation": "The Hells Angels motorcycle club was hired as security for the Altamont Free Concert. A concertgoer named Meredith Hunter was stabbed and killed by a Hells Angel during the Rolling Stones' set.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "fest-8",
+      "question": "Which song did Richie Havens perform as an improvised encore that became one of Woodstock's most iconic moments?",
+      "options": ["\"Blowin' in the Wind\"", "\"Freedom\"", "\"Here Comes the Sun\"", "\"A Change Is Gonna Come\""],
+      "correctAnswer": 1,
+      "explanation": "Richie Havens, the opening act at Woodstock, improvised the song 'Freedom' (based on the spiritual 'Motherless Child') when he ran out of prepared material during an extended set.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "fest-9",
+      "question": "The 'Summer of Love' in 1967 was primarily centered in which San Francisco neighborhood?",
+      "options": ["The Mission", "North Beach", "Haight-Ashbury", "The Castro"],
+      "correctAnswer": 2,
+      "explanation": "The Haight-Ashbury district of San Francisco became the epicenter of the Summer of Love in 1967, drawing an estimated 100,000 young people to the neighborhood.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "fest-10",
+      "question": "Which of these artists famously refused to perform at Woodstock, despite being invited?",
+      "options": ["Janis Joplin", "Led Zeppelin", "Joe Cocker", "Crosby, Stills, Nash & Young"],
+      "correctAnswer": 1,
+      "explanation": "Led Zeppelin's manager Peter Grant turned down the Woodstock invitation, reportedly because he didn't want the band to be just another act on a large bill. The band played a scheduled concert in New Jersey that same weekend.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "fest-11",
+      "question": "Who were the principal organizers of the Woodstock festival?",
+      "options": [
+        "Bill Graham and Chet Helms",
+        "Michael Lang, Artie Kornfeld, Joel Rosenman, and John P. Roberts",
+        "Jerry Garcia and Phil Lesh",
+        "Albert Grossman and Brian Epstein"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Woodstock was organized by Michael Lang, Artie Kornfeld, Joel Rosenman, and John P. Roberts. Lang and Kornfeld had the creative vision, while Rosenman and Roberts provided the financing.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "fest-12",
+      "question": "The 1970 Isle of Wight Festival drew an enormous crowd estimated at how many people, making it one of the largest gatherings of the era?",
+      "options": ["200,000", "400,000", "600,000", "1,000,000"],
+      "correctAnswer": 2,
+      "explanation": "The 1970 Isle of Wight Festival attracted an estimated 600,000 people, making it one of the largest human gatherings in history at the time. Performers included Jimi Hendrix, The Who, and The Doors.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "fest-13",
+      "question": "Which documentary film about Woodstock won the Academy Award for Best Documentary Feature in 1970?",
+      "options": ["\"Monterey Pop\"", "\"Woodstock\"", "\"Gimme Shelter\"", "\"Don't Look Back\""],
+      "correctAnswer": 1,
+      "explanation": "The documentary 'Woodstock' (directed by Michael Wadleigh and edited by a team that included a young Martin Scorsese) won the Academy Award for Best Documentary Feature at the 1970 ceremony.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "fest-14",
+      "question": "At the Monterey Pop Festival in 1967, which artist stunned the crowd by performing 'Ball and Chain' and became an overnight sensation?",
+      "options": ["Grace Slick", "Joni Mitchell", "Janis Joplin", "Mama Cass Elliot"],
+      "correctAnswer": 2,
+      "explanation": "Janis Joplin's raw, powerful performance of 'Ball and Chain' with Big Brother and the Holding Company at Monterey Pop is considered one of the greatest live performances in rock history and launched her to fame.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "fest-15",
+      "question": "What was the name of the dairy farmer who allowed the Woodstock festival to be held on his property?",
+      "options": ["Max Yasgur", "Walter Goldstein", "Henry Fonda", "Sam Perkins"],
+      "correctAnswer": 0,
+      "explanation": "Max Yasgur leased his 600-acre dairy farm in Bethel, New York, to the Woodstock organizers. He famously addressed the crowd, telling them they had proven that peace and music could coexist.",
+      "difficulty": "hard",
+      "category": "music"
+    }
+  ]
+}

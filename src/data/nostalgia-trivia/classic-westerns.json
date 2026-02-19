@@ -1,0 +1,143 @@
+{
+  "id": "classic-westerns",
+  "title": "Classic Westerns",
+  "description": "Saddle up for trivia about legendary Western TV shows and movies — from Gunsmoke and Bonanza to John Wayne and Clint Eastwood!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "western-1",
+      "question": "Which actor played Marshal Matt Dillon on the long-running TV series 'Gunsmoke'?",
+      "options": ["James Arness", "John Wayne", "Clint Walker", "Hugh O'Brian"],
+      "correctAnswer": 0,
+      "explanation": "James Arness starred as Marshal Matt Dillon on Gunsmoke from 1955 to 1975, making it one of the longest-running primetime live-action series in American TV history.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "western-2",
+      "question": "What was the name of the Cartwright family ranch on the TV series 'Bonanza'?",
+      "options": ["Shiloh Ranch", "The Ponderosa", "Doubleback Ranch", "Big Valley"],
+      "correctAnswer": 1,
+      "explanation": "The Cartwright family — Ben, Adam, Hoss, and Little Joe — lived on the Ponderosa ranch near Virginia City, Nevada. Bonanza aired from 1959 to 1973.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "western-3",
+      "question": "What was the name of the Lone Ranger's faithful horse?",
+      "options": ["Trigger", "Champion", "Silver", "Scout"],
+      "correctAnswer": 2,
+      "explanation": "The Lone Ranger's white stallion was named Silver, famously summoned with the cry 'Hi-yo, Silver, away!' Scout was Tonto's horse.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "western-4",
+      "question": "In the 1952 film 'High Noon,' who played Marshal Will Kane?",
+      "options": ["Henry Fonda", "Gary Cooper", "Randolph Scott", "Kirk Douglas"],
+      "correctAnswer": 1,
+      "explanation": "Gary Cooper won the Academy Award for Best Actor for his portrayal of Marshal Will Kane, who must face a gang of outlaws alone when the townspeople refuse to help.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "western-5",
+      "question": "Which John Wayne film won him his only Academy Award for Best Actor?",
+      "options": ["The Searchers", "True Grit", "The Shootist", "Stagecoach"],
+      "correctAnswer": 1,
+      "explanation": "John Wayne won the Best Actor Oscar in 1970 for his role as one-eyed U.S. Marshal Rooster Cogburn in 'True Grit' (1969).",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "western-6",
+      "question": "On 'Have Gun – Will Travel,' what was the name of the refined gunfighter played by Richard Boone?",
+      "options": ["Maverick", "Paladin", "Cheyenne", "Rowdy"],
+      "correctAnswer": 1,
+      "explanation": "Richard Boone played Paladin, a cultured and well-educated gunfighter-for-hire who operated out of the Hotel Carlton in San Francisco. The show aired from 1957 to 1963.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "western-7",
+      "question": "Before becoming a major film star, Clint Eastwood played Rowdy Yates on which TV Western?",
+      "options": ["Wagon Train", "The Virginian", "Rawhide", "Laramie"],
+      "correctAnswer": 2,
+      "explanation": "Clint Eastwood played trail hand Rowdy Yates on 'Rawhide' from 1959 to 1965. The show's iconic theme song featured the lyric 'Rollin', rollin', rollin'.'",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "western-8",
+      "question": "In 'The Good, the Bad and the Ugly' (1966), which character did Clint Eastwood play?",
+      "options": ["The Bad (Angel Eyes)", "The Ugly (Tuco)", "The Good (Blondie)", "The Stranger"],
+      "correctAnswer": 2,
+      "explanation": "Clint Eastwood played 'The Good,' also known as Blondie or 'The Man with No Name.' Lee Van Cleef played 'The Bad' (Angel Eyes) and Eli Wallach played 'The Ugly' (Tuco).",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "western-9",
+      "question": "Which actress played the saloon owner Miss Kitty Russell on 'Gunsmoke'?",
+      "options": ["Amanda Blake", "Barbara Stanwyck", "Dale Evans", "Ann-Margret"],
+      "correctAnswer": 0,
+      "explanation": "Amanda Blake portrayed Miss Kitty Russell, owner of the Long Branch Saloon in Dodge City, for 19 seasons of Gunsmoke from 1955 to 1974.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "western-10",
+      "question": "What was the name of Tonto's companion, the Lone Ranger, in his civilian identity?",
+      "options": ["Dan Reid", "John Reid", "Britt Reid", "James Reid"],
+      "correctAnswer": 1,
+      "explanation": "The Lone Ranger's true identity was John Reid, a former Texas Ranger who was the sole survivor of an ambush by the Butch Cavendish gang. Britt Reid (The Green Hornet) was his grand-nephew.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "western-11",
+      "question": "Which director helmed the classic 1956 Western 'The Searchers' starring John Wayne?",
+      "options": ["Howard Hawks", "John Ford", "Anthony Mann", "John Huston"],
+      "correctAnswer": 1,
+      "explanation": "John Ford directed 'The Searchers,' widely regarded as one of the greatest Westerns ever made. Ford and Wayne collaborated on many films, including 'Stagecoach' and 'The Man Who Shot Liberty Valance.'",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "western-12",
+      "question": "Which Italian director created the 'Dollars Trilogy' of Spaghetti Westerns starring Clint Eastwood?",
+      "options": ["Federico Fellini", "Sergio Corbucci", "Sergio Leone", "Bernardo Bertolucci"],
+      "correctAnswer": 2,
+      "explanation": "Sergio Leone directed 'A Fistful of Dollars' (1964), 'For a Few Dollars More' (1965), and 'The Good, the Bad and the Ugly' (1966), collectively known as the Dollars Trilogy.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "western-13",
+      "question": "In the 1939 film 'Stagecoach,' what was the name of John Wayne's outlaw character?",
+      "options": ["Tom Doniphon", "The Ringo Kid", "Ethan Edwards", "Cole Thornton"],
+      "correctAnswer": 1,
+      "explanation": "'Stagecoach' was the breakthrough role for John Wayne, playing the Ringo Kid, an escaped prisoner seeking revenge on the men who murdered his family. The film was directed by John Ford.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "western-14",
+      "question": "Which of these actors was NOT one of 'The Magnificent Seven' in the 1960 film?",
+      "options": ["Steve McQueen", "Charles Bronson", "Clint Eastwood", "James Coburn"],
+      "correctAnswer": 2,
+      "explanation": "Clint Eastwood was not in 'The Magnificent Seven.' The seven were played by Yul Brynner, Steve McQueen, James Coburn, Charles Bronson, Robert Vaughn, Brad Dexter, and Horst Buchholz.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "western-15",
+      "question": "Who composed the iconic musical scores for Sergio Leone's Spaghetti Westerns, including the famous theme from 'The Good, the Bad and the Ugly'?",
+      "options": ["John Williams", "Ennio Morricone", "Elmer Bernstein", "Dimitri Tiomkin"],
+      "correctAnswer": 1,
+      "explanation": "Ennio Morricone composed the legendary scores for Leone's Westerns. His haunting, innovative music — featuring whistling, electric guitars, and chanting — became synonymous with the genre.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

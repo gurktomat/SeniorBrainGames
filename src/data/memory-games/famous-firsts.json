@@ -1,0 +1,144 @@
+{
+  "id": "famous-firsts",
+  "title": "Famous Firsts",
+  "description": "Who was the first to climb Everest? The first woman in space? Test your memory of groundbreaking historic firsts from around the world!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "first-1",
+      "question": "Who was the first person to walk on the Moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Yuri Gagarin"],
+      "correctAnswer": 1,
+      "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission. His famous words were: 'That's one small step for man, one giant leap for mankind.'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "first-2",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Bessie Coleman", "Amelia Earhart", "Harriet Quimby", "Jacqueline Cochran"],
+      "correctAnswer": 1,
+      "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean on May 20–21, 1932, flying from Newfoundland to Northern Ireland in about 15 hours.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "first-3",
+      "question": "Who was the first person to reach the summit of Mount Everest?",
+      "options": ["George Mallory", "Edmund Hillary", "Reinhold Messner", "Tenzing Norgay"],
+      "correctAnswer": 1,
+      "explanation": "Sir Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa from Nepal, became the first confirmed climbers to reach the summit of Mount Everest on May 29, 1953. Hillary is traditionally credited as the first to step on the summit.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "first-4",
+      "question": "Who was the first person to break the sound barrier in level flight?",
+      "options": ["Howard Hughes", "Chuck Yeager", "Amelia Earhart", "Charles Lindbergh"],
+      "correctAnswer": 1,
+      "explanation": "Chuck Yeager broke the sound barrier on October 14, 1947, flying the Bell X-1 rocket plane at Mach 1.06 over Edwards Air Force Base in California.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "first-5",
+      "question": "Who was the first human to travel into outer space?",
+      "options": ["Alan Shepard", "John Glenn", "Yuri Gagarin", "Valentina Tereshkova"],
+      "correctAnswer": 2,
+      "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, completing one orbit of the Earth aboard the Vostok 1 spacecraft.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "first-6",
+      "question": "Who was the first woman in space?",
+      "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Svetlana Savitskaya"],
+      "correctAnswer": 1,
+      "explanation": "Soviet cosmonaut Valentina Tereshkova became the first woman in space on June 16, 1963, orbiting the Earth 48 times aboard Vostok 6 over nearly three days.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "first-7",
+      "question": "Who was the first person to swim across the English Channel?",
+      "options": ["Gertrude Ederle", "Matthew Webb", "Florence Chadwick", "Lord Byron"],
+      "correctAnswer": 1,
+      "explanation": "Captain Matthew Webb of England became the first person to swim across the English Channel on August 25, 1875, completing the crossing from Dover to Calais in about 21 hours and 45 minutes.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "first-8",
+      "question": "Who invented the first practical telephone?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+      "correctAnswer": 2,
+      "explanation": "Alexander Graham Bell was awarded the first patent for the telephone on March 7, 1876. He made the first successful telephone call to his assistant Thomas Watson, saying 'Mr. Watson, come here. I want to see you.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "first-9",
+      "question": "What was the first country to grant women the right to vote in national elections?",
+      "options": ["United States", "United Kingdom", "New Zealand", "Australia"],
+      "correctAnswer": 2,
+      "explanation": "New Zealand became the first self-governing country to grant all women the right to vote in national elections on September 19, 1893, thanks in large part to the efforts of suffragist Kate Sheppard.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "first-10",
+      "question": "Who performed the first successful human heart transplant?",
+      "options": ["Michael DeBakey", "Christiaan Barnard", "Denton Cooley", "Norman Shumway"],
+      "correctAnswer": 1,
+      "explanation": "Dr. Christiaan Barnard performed the first successful human-to-human heart transplant on December 3, 1967, at Groote Schuur Hospital in Cape Town, South Africa. The patient, Louis Washkansky, survived for 18 days.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "first-11",
+      "question": "What was the first commercially broadcast color television program in the United States?",
+      "options": ["I Love Lucy", "The Colgate Comedy Hour", "Premiere by CBS", "The Ed Sullivan Show"],
+      "correctAnswer": 2,
+      "explanation": "CBS broadcast the first commercial color TV program, called 'Premiere,' on June 25, 1951. However, very few people owned color TV sets at the time. Widespread color broadcasting didn't begin until the mid-1960s.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "first-12",
+      "question": "Who was the first person to reach the South Pole?",
+      "options": ["Robert Falcon Scott", "Ernest Shackleton", "Roald Amundsen", "Richard Byrd"],
+      "correctAnswer": 2,
+      "explanation": "Norwegian explorer Roald Amundsen and his team were the first to reach the South Pole on December 14, 1911, beating British explorer Robert Falcon Scott's team by about five weeks.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "first-13",
+      "question": "Who was the first African American to play in Major League Baseball in the modern era?",
+      "options": ["Satchel Paige", "Jackie Robinson", "Hank Aaron", "Willie Mays"],
+      "correctAnswer": 1,
+      "explanation": "Jackie Robinson broke baseball's color barrier on April 15, 1947, when he took the field for the Brooklyn Dodgers. His courage and talent paved the way for the integration of professional sports in America.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "first-14",
+      "question": "Who made the first nonstop solo flight across the Atlantic Ocean?",
+      "options": ["Charles Lindbergh", "Amelia Earhart", "Wiley Post", "Howard Hughes"],
+      "correctAnswer": 0,
+      "explanation": "Charles Lindbergh completed the first nonstop solo transatlantic flight on May 20–21, 1927, flying his plane the Spirit of St. Louis from New York to Paris in 33.5 hours.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "first-15",
+      "question": "What was the first man-made satellite launched into Earth's orbit?",
+      "options": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Telstar 1"],
+      "correctAnswer": 2,
+      "explanation": "The Soviet Union launched Sputnik 1, the first artificial satellite, on October 4, 1957. It was a 58 cm (23 in) polished metal sphere that orbited the Earth for three months, marking the start of the Space Age.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

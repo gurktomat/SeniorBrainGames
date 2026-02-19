@@ -1,0 +1,218 @@
+{
+  "id": "two-truths-one-lie",
+  "title": "Two Truths & One Lie",
+  "description": "Can you spot the false statement? Two of these facts are true and one is a lie — use your knowledge and reasoning to find the fib!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "truth-1",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Honey never spoils — edible honey has been found in ancient Egyptian tombs",
+        "Bananas are technically classified as berries",
+        "Strawberries are the only fruit with seeds on the outside",
+        "Peanuts are not true nuts — they are legumes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strawberries are NOT the only fruit with seeds on the outside. In fact, what we call 'seeds' on a strawberry are actually small dry fruits called achenes, and other fruits like figs share similar characteristics. The other statements are true: honey does not spoil, bananas are botanically berries, and peanuts are legumes.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "truth-2",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Octopuses have three hearts",
+        "A group of flamingos is called a flamboyance",
+        "Dolphins sleep with one eye open",
+        "Elephants are the only animals that cannot jump"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Elephants are NOT the only animals that cannot jump. Hippos, rhinos, and sloths also cannot jump. The other facts are all true: octopuses have three hearts (two pump blood to the gills, one to the rest of the body), a group of flamingos is indeed called a flamboyance, and dolphins sleep with one brain hemisphere at a time, keeping one eye open.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "truth-3",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Venus is the hottest planet in our solar system",
+        "A day on Venus is longer than a year on Venus",
+        "Saturn is the only planet in our solar system that could float in water",
+        "Mercury is the closest planet to the Sun and also the hottest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mercury IS the closest planet to the Sun, but it is NOT the hottest. Venus is the hottest planet due to its thick atmosphere creating a runaway greenhouse effect. The other statements are true: Venus is indeed the hottest planet, a day on Venus (243 Earth days) is longer than its year (225 Earth days), and Saturn's density is low enough that it would theoretically float in water.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "truth-4",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Australia is wider than the Moon's diameter",
+        "Africa is larger than the combined area of the United States, China, and India",
+        "Russia spans 11 time zones",
+        "Brazil borders every other country in South America"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Brazil does NOT border every country in South America. It does not share a border with Ecuador or Chile. The other facts are true: Australia is about 4,000 km wide while the Moon's diameter is about 3,474 km; Africa's area of 30.3 million sq km exceeds the combined area of the US, China, and India; and Russia does span 11 time zones.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "truth-5",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Goldfish have a memory span of only about three seconds",
+        "Cows have best friends and get stressed when separated",
+        "Cats have fewer toes on their back paws than their front paws",
+        "A snail can sleep for up to three years"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The idea that goldfish have a three-second memory is a popular myth. Studies have shown goldfish can remember things for months and can even be trained to respond to certain signals. The other statements are true: cows do form close bonds and show stress when separated, cats have 5 toes on each front paw but only 4 on each back paw, and snails can enter a dormant state lasting up to three years.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "truth-6",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "The Great Wall of China is visible from space with the naked eye",
+        "Oxford University is older than the Aztec Empire",
+        "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid",
+        "The Ottoman Empire still existed when Harvard University was founded"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Wall of China is NOT visible from space with the naked eye — this is a long-standing myth debunked by multiple astronauts, including those on the International Space Station. The other facts are true: Oxford began teaching around 1096 while the Aztec Empire was founded in 1428; Cleopatra lived around 30 BC, about 2,000 years before the Moon landing but 2,500 years after the Great Pyramid was built; and the Ottoman Empire (1299–1922) was well established when Harvard was founded in 1636.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "truth-7",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Scotland's national animal is the unicorn",
+        "The shortest war in history lasted 38 minutes",
+        "Napoleon Bonaparte was unusually short for his time",
+        "In Switzerland, it is illegal to own just one guinea pig"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Napoleon was NOT unusually short. He was about 5'7\" (170 cm), which was average or slightly above average for a Frenchman of his era. The myth stems from British propaganda and confusion between French and English measurement units. The other facts are true: Scotland's national animal is the unicorn, the Anglo-Zanzibar War of 1896 lasted about 38 minutes, and Switzerland does require guinea pigs to be kept in pairs due to animal welfare laws.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "truth-8",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Sharks existed before trees evolved on Earth",
+        "Glass is actually a slow-moving liquid, not a solid",
+        "Lightning strikes the Earth about 100 times per second",
+        "Sound travels faster through steel than through air"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glass is NOT a slow-moving liquid. This is a widespread myth, often supported by the observation that old windows are thicker at the bottom. Glass is an amorphous solid, and the uneven thickness in old windows is due to the manufacturing process, not flowing. The other facts are true: sharks evolved about 450 million years ago while trees appeared around 350 million years ago, lightning does strike about 100 times per second globally, and sound travels much faster through steel than through air.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "truth-9",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Wombat droppings are cube-shaped",
+        "A jiffy is an actual unit of time used in science",
+        "The dot over the letters 'i' and 'j' is called a tittle",
+        "The word 'alphabet' comes from the first and last Greek letters: alpha and omega"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The word 'alphabet' comes from 'alpha' and 'beta,' the first two letters of the Greek alphabet — not alpha and omega. Omega is the LAST letter of the Greek alphabet. The other statements are true: wombat droppings are indeed cube-shaped, a jiffy is a real unit of time used in physics and computing, and the dot over 'i' and 'j' is officially called a tittle.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "truth-10",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Humans share about 60% of their DNA with bananas",
+        "Your stomach lining replaces itself roughly every few days",
+        "Fingernails grow faster than toenails",
+        "Humans are born with 206 bones, the same number as adults"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Humans are NOT born with 206 bones. Babies are born with approximately 270 to 300 bones, many of which are made of cartilage and gradually fuse together as the child grows, eventually resulting in the 206 bones found in an adult skeleton. The other facts are true: humans share about 60% of DNA with bananas, the stomach lining regenerates every few days to protect itself from digestive acids, and fingernails do grow faster than toenails.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "truth-11",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Alaska is simultaneously the most northern, most western, and most eastern US state",
+        "Maine is the closest US state to Africa",
+        "There are more public libraries in the US than McDonald's restaurants",
+        "The state of Wyoming has only two escalators"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maine is NOT the closest US state to Africa. That distinction belongs to Florida, which is closer to the western bulge of Africa (specifically Morocco or Western Sahara depending on measurement). The other facts are true: Alaska's Aleutian Islands cross the 180th meridian making it technically the easternmost state too, there are roughly 17,000 public libraries vs. about 13,000 McDonald's in the US, and Wyoming famously has only two escalators, both in the city of Casper.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "truth-12",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Honey bees can recognize and remember human faces",
+        "A blue whale's heart is roughly the size of a small car",
+        "Crows can remember individual human faces and hold grudges for years",
+        "Koalas have fingerprints nearly identical to human fingerprints"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A blue whale's heart is large — roughly the size of a golf cart or small desk — but it is NOT the size of a small car. That is a common exaggeration. The other facts are true: honey bees have been shown in studies to recognize and remember human faces, crows are well documented to remember human faces for years and can communicate threats to other crows, and koalas do have fingerprints that are remarkably similar to human fingerprints, sometimes even confusing forensic investigators.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "truth-13",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Ketchup was once sold as medicine in the 1830s",
+        "White chocolate contains no actual cocoa solids",
+        "Wasabi served in most restaurants outside Japan is actually dyed horseradish",
+        "Sushi means 'raw fish' in Japanese"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sushi does NOT mean 'raw fish' in Japanese. The word 'sushi' actually refers to the vinegared rice, not the fish. Sushi can be made with cooked ingredients or even no fish at all. Sashimi is the term for sliced raw fish. The other facts are true: ketchup was marketed as a cure for ailments in the 1830s, white chocolate is made from cocoa butter and contains no cocoa solids, and most wasabi outside Japan is indeed colored horseradish.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "truth-14",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "The inventor of the Pringles can is buried in one",
+        "Vikings wore horned helmets in battle",
+        "A group of porcupines is called a prickle",
+        "Oxford English Dictionary once included a fake word with no meaning for over 70 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vikings did NOT wear horned helmets. This is a myth popularized by 19th-century romanticized artwork and later by operas and movies. Actual Viking helmets were simple rounded metal or leather caps, sometimes with a nose guard. The other facts are true: Fredric Baur, the inventor of the Pringles can, was indeed buried in one per his wishes; a group of porcupines is called a prickle; and the word 'dord' (a ghost word with no meaning) appeared in the Oxford English Dictionary for decades before being discovered and removed.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "truth-15",
+      "question": "Which of these statements is FALSE?",
+      "options": [
+        "Vending machines statistically cause more deaths per year in the US than sharks do",
+        "If you could fold a piece of paper 42 times, it would reach the Moon",
+        "The human nose can detect over one trillion different scents",
+        "Mount Everest is the tallest mountain ever measured on Earth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "While Mount Everest has the highest peak above sea level at 8,849 meters, it is NOT the tallest mountain when measured from base to summit. Mauna Kea in Hawaii, measured from its base on the ocean floor, is over 10,000 meters tall — making it the tallest mountain on Earth by that measure. The other facts are true: vending machines do cause more deaths per year than sharks, folding a paper 42 times would theoretically produce a thickness exceeding the Earth-Moon distance, and a 2014 study published in Science found the human nose can distinguish over one trillion scents.",
+      "difficulty": "hard",
+      "category": "logic"
+    }
+  ]
+}

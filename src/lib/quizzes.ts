@@ -22,6 +22,12 @@ import classicMovieQuotes from "@/data/nostalgia-trivia/classic-movie-quotes.jso
 import retroTvThemes from "@/data/nostalgia-trivia/retro-tv-themes.json";
 import retroMovieStars from "@/data/nostalgia-trivia/retro-movie-stars.json";
 import classicJingles from "@/data/nostalgia-trivia/classic-jingles.json";
+import finishTheLyric from "@/data/nostalgia-trivia/finish-the-lyric.json";
+import nameTheDecade from "@/data/nostalgia-trivia/name-the-decade.json";
+import classicGameShows from "@/data/nostalgia-trivia/classic-game-shows.json";
+import classicDinersDriveIns from "@/data/nostalgia-trivia/classic-diners-drive-ins.json";
+import woodstockMusicFestivals from "@/data/nostalgia-trivia/woodstock-music-festivals.json";
+import classicWesterns from "@/data/nostalgia-trivia/classic-westerns.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -45,6 +51,12 @@ import famousDuos from "@/data/general-knowledge/famous-duos.json";
 import everydayScience from "@/data/general-knowledge/everyday-science.json";
 import worldHistory from "@/data/general-knowledge/world-history.json";
 import mathNumbers from "@/data/general-knowledge/math-numbers.json";
+import famousQuotes from "@/data/general-knowledge/famous-quotes.json";
+import bibleKnowledge from "@/data/general-knowledge/bible-knowledge.json";
+import birdsBirdwatching from "@/data/general-knowledge/birds-birdwatching.json";
+import flowersGardening from "@/data/general-knowledge/flowers-gardening.json";
+import travelGeographyUsa from "@/data/general-knowledge/travel-geography-usa.json";
+import weatherNaturalPhenomena from "@/data/general-knowledge/weather-natural-phenomena.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -57,6 +69,12 @@ import vocabularyBuilder from "@/data/word-games/vocabulary-builder.json";
 import figuresOfSpeech from "@/data/word-games/figures-of-speech.json";
 import grammarPunctuation from "@/data/word-games/grammar-punctuation.json";
 import foreignWords from "@/data/word-games/foreign-words.json";
+import oldTimeExpressions from "@/data/word-games/old-time-expressions.json";
+import wordOrigins from "@/data/word-games/word-origins.json";
+import proverbsSayings from "@/data/word-games/proverbs-sayings.json";
+import compoundWords from "@/data/word-games/compound-words.json";
+import abbreviationsAcronyms from "@/data/word-games/abbreviations-acronyms.json";
+import completeThePhrase from "@/data/word-games/complete-the-phrase.json";
 
 // Memory Games (quiz-format ones)
 import pictureQuiz from "@/data/memory-games/picture-quiz.json";
@@ -70,6 +88,12 @@ import brainTeasers from "@/data/memory-games/brain-teasers.json";
 import wordConnections from "@/data/memory-games/word-connections.json";
 import concentrationQuiz from "@/data/memory-games/concentration-quiz.json";
 import numberPatterns from "@/data/memory-games/number-patterns.json";
+import famousFirsts from "@/data/memory-games/famous-firsts.json";
+import logicDeduction from "@/data/memory-games/logic-deduction.json";
+import sequenceOrder from "@/data/memory-games/sequence-order.json";
+import whatComesNext from "@/data/memory-games/what-comes-next.json";
+import categorySort from "@/data/memory-games/category-sort.json";
+import twoTruthsOneLie from "@/data/memory-games/two-truths-one-lie.json";
 
 const nostalgiaTrivia: Quiz[] = [
   fiftiesNostalgia as Quiz,
@@ -93,6 +117,12 @@ const nostalgiaTrivia: Quiz[] = [
   retroTvThemes as Quiz,
   retroMovieStars as Quiz,
   classicJingles as Quiz,
+  finishTheLyric as Quiz,
+  nameTheDecade as Quiz,
+  classicGameShows as Quiz,
+  classicDinersDriveIns as Quiz,
+  woodstockMusicFestivals as Quiz,
+  classicWesterns as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -117,6 +147,12 @@ const generalKnowledge: Quiz[] = [
   everydayScience as Quiz,
   worldHistory as Quiz,
   mathNumbers as Quiz,
+  famousQuotes as Quiz,
+  bibleKnowledge as Quiz,
+  birdsBirdwatching as Quiz,
+  flowersGardening as Quiz,
+  travelGeographyUsa as Quiz,
+  weatherNaturalPhenomena as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -130,6 +166,12 @@ const wordGameQuizzes: Quiz[] = [
   figuresOfSpeech as Quiz,
   grammarPunctuation as Quiz,
   foreignWords as Quiz,
+  oldTimeExpressions as Quiz,
+  wordOrigins as Quiz,
+  proverbsSayings as Quiz,
+  compoundWords as Quiz,
+  abbreviationsAcronyms as Quiz,
+  completeThePhrase as Quiz,
 ];
 
 const memoryGameQuizzes: Quiz[] = [
@@ -144,6 +186,12 @@ const memoryGameQuizzes: Quiz[] = [
   wordConnections as Quiz,
   concentrationQuiz as Quiz,
   numberPatterns as Quiz,
+  famousFirsts as Quiz,
+  logicDeduction as Quiz,
+  sequenceOrder as Quiz,
+  whatComesNext as Quiz,
+  categorySort as Quiz,
+  twoTruthsOneLie as Quiz,
 ];
 
 const allQuizzes: Quiz[] = [

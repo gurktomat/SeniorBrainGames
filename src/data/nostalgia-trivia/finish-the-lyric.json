@@ -1,0 +1,143 @@
+{
+  "id": "finish-the-lyric",
+  "title": "Finish the Lyric",
+  "description": "Can you complete these famous song lyrics from the golden age of music? Fill in the missing words from beloved hits of the 50s through the 80s!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "lyric-1",
+      "question": "The Beatles, 1967: \"All you need is ___\"",
+      "options": ["Love", "Time", "Hope", "Faith"],
+      "correctAnswer": 0,
+      "explanation": "\"All You Need Is Love\" was released by The Beatles in 1967 and became an anthem of the Summer of Love.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "lyric-2",
+      "question": "Bobby McFerrin, 1988: \"Don't worry, be ___\"",
+      "options": ["Free", "Happy", "Strong", "Brave"],
+      "correctAnswer": 1,
+      "explanation": "\"Don't Worry, Be Happy\" by Bobby McFerrin was the first a cappella song to reach number one on the Billboard Hot 100 in 1988.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "lyric-3",
+      "question": "Frank Sinatra, 1969: \"I did it ___\"",
+      "options": ["My Way", "For You", "Alone", "Once More"],
+      "correctAnswer": 0,
+      "explanation": "\"My Way\" became Frank Sinatra's signature song. The English lyrics were written by Paul Anka, adapted from a French song.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "lyric-4",
+      "question": "Queen, 1977: \"We will, we will ___ you\"",
+      "options": ["Love", "Find", "Rock", "Move"],
+      "correctAnswer": 2,
+      "explanation": "\"We Will Rock You\" by Queen was written by Brian May and became one of the most recognizable stadium anthems in rock history.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "lyric-5",
+      "question": "Louis Armstrong, 1967: \"And I think to myself, what a wonderful ___\"",
+      "options": ["Life", "World", "Day", "Time"],
+      "correctAnswer": 1,
+      "explanation": "\"What a Wonderful World\" was recorded by Louis Armstrong in 1967. Though initially not a hit in the US, it became one of the most beloved songs of all time.",
+      "difficulty": "easy",
+      "category": "music"
+    },
+    {
+      "id": "lyric-6",
+      "question": "The Supremes, 1966: \"You can't hurry love, no, you'll just have to ___\"",
+      "options": ["Wait", "Hope", "Pray", "Dream"],
+      "correctAnswer": 0,
+      "explanation": "\"You Can't Hurry Love\" by The Supremes reached number one on the Billboard Hot 100 in 1966. It was written by the legendary Motown team of Holland-Dozier-Holland.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "lyric-7",
+      "question": "Simon & Garfunkel, 1964: \"Hello darkness, my old ___\"",
+      "options": ["Love", "Fear", "Friend", "Foe"],
+      "correctAnswer": 2,
+      "explanation": "\"The Sound of Silence\" by Simon & Garfunkel was originally released in 1964 and became a massive hit when re-released with electric instruments in 1966.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "lyric-8",
+      "question": "The Drifters, 1962: \"Save the last ___ for me\"",
+      "options": ["Song", "Rose", "Kiss", "Dance"],
+      "correctAnswer": 3,
+      "explanation": "\"Save the Last Dance for Me\" by The Drifters was actually released in 1960 and topped the charts. It was written by Doc Pomus and Mort Shuman.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "lyric-9",
+      "question": "Otis Redding, 1968: \"Sittin' on the dock of the ___\"",
+      "options": ["Bay", "Lake", "River", "Sea"],
+      "correctAnswer": 0,
+      "explanation": "\"(Sittin' On) The Dock of the Bay\" was released posthumously in 1968 after Otis Redding's tragic death in a plane crash. It became the first posthumous number-one single in US chart history.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "lyric-10",
+      "question": "Journey, 1981: \"Don't stop ___\"",
+      "options": ["Dreaming", "Believing", "Trying", "Running"],
+      "correctAnswer": 1,
+      "explanation": "\"Don't Stop Believin'\" by Journey, released in 1981, has become one of the top-selling digital singles in history, experiencing a resurgence decades after its release.",
+      "difficulty": "medium",
+      "category": "music"
+    },
+    {
+      "id": "lyric-11",
+      "question": "The Animals, 1964: \"There is a house in New ___\"",
+      "options": ["York City", "Orleans", "England", "Jersey"],
+      "correctAnswer": 1,
+      "explanation": "\"The House of the Rising Sun\" by The Animals, about a place in New Orleans, became a number-one hit in 1964 and is considered one of the first folk-rock songs.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "lyric-12",
+      "question": "Etta James, 1960: \"At last, my love has come ___\"",
+      "options": ["Home", "Along", "Around", "True"],
+      "correctAnswer": 1,
+      "explanation": "\"At Last\" by Etta James was released in 1960 and has become one of the most iconic love songs in American music history, frequently played at weddings.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "lyric-13",
+      "question": "The Righteous Brothers, 1964: \"You've lost that ___ feelin'\"",
+      "options": ["Warm and Tender", "Sweet and Gentle", "Lovin'", "Special"],
+      "correctAnswer": 2,
+      "explanation": "\"You've Lost That Lovin' Feelin'\" was produced by Phil Spector and became one of the most-played songs on American radio in the 20th century.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "lyric-14",
+      "question": "Bill Withers, 1972: \"Lean on me, when you're not ___\"",
+      "options": ["Feeling Good", "Standing Tall", "Strong", "Yourself"],
+      "correctAnswer": 2,
+      "explanation": "\"Lean on Me\" by Bill Withers reached number one in 1972. Withers was inspired by his childhood in a West Virginia coal-mining town where neighbors helped each other.",
+      "difficulty": "hard",
+      "category": "music"
+    },
+    {
+      "id": "lyric-15",
+      "question": "Ben E. King, 1961: \"When the night has come, and the land is ___\"",
+      "options": ["Still", "Dark", "Cold", "Bare"],
+      "correctAnswer": 1,
+      "explanation": "\"Stand by Me\" by Ben E. King was released in 1961. The song was inspired by a gospel song and has been covered more than 400 times by various artists.",
+      "difficulty": "hard",
+      "category": "music"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "classic-diners-drive-ins",
+  "title": "Classic Diners & Drive-Ins",
+  "description": "Relive the golden age of roadside dining! Test your knowledge of soda fountains, jukeboxes, carhops, and the diner culture that defined American life in the 1950s and 60s.",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "diner-1",
+      "question": "What was the name of the server who brought food to your car at a drive-in restaurant?",
+      "options": ["Waitress", "Carhop", "Curb girl", "Drive-up server"],
+      "correctAnswer": 1,
+      "explanation": "Carhops were the servers at drive-in restaurants who brought food directly to customers waiting in their cars. The name likely came from the way they would hop onto the running boards of cars.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-2",
+      "question": "What coin-operated machine was a staple in nearly every diner booth during the 1950s?",
+      "options": ["Pinball machine", "Gumball machine", "Jukebox", "Slot machine"],
+      "correctAnswer": 2,
+      "explanation": "Tabletop jukebox selectors (called Seeburg Wall-O-Matics) were placed right in diner booths, allowing customers to pick songs for a nickel or dime while they ate.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-3",
+      "question": "What classic diner beverage was made by mixing flavored syrup with carbonated water at a counter?",
+      "options": ["Root beer float", "Soda fountain drink", "Milkshake", "Egg cream"],
+      "correctAnswer": 1,
+      "explanation": "Soda fountains were a central feature of diners and drugstores, where a 'soda jerk' would mix carbonated water with flavored syrups to create drinks right at the counter.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-4",
+      "question": "Which fast-food chain, founded in 1919, became famous for its frosty mugs of root beer served by carhops?",
+      "options": ["Steak 'n Shake", "Sonic Drive-In", "A&W", "Dog n Suds"],
+      "correctAnswer": 2,
+      "explanation": "A&W was founded by Roy Allen in 1919 in Lodi, California. The name came from partners Allen and Frank Wright. Their frosty mugs of root beer became an American icon.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-5",
+      "question": "What was the person behind the soda fountain counter commonly called?",
+      "options": ["Soda jerk", "Fountain master", "Counter boy", "Pop man"],
+      "correctAnswer": 0,
+      "explanation": "The term 'soda jerk' came from the jerking motion used to pull the tap handles on the soda fountain to dispense carbonated water. It was a common job for young people in the 1940s and 50s.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-6",
+      "question": "What restaurant chain was known for its orange-roofed buildings and 28 flavors of ice cream?",
+      "options": ["Dairy Queen", "Friendly's", "Howard Johnson's", "Baskin-Robbins"],
+      "correctAnswer": 2,
+      "explanation": "Howard Johnson's, often called HoJo's, was famous for its distinctive orange roofs and 28 flavors of ice cream. At its peak in the 1960s and 70s, it was the largest restaurant chain in the United States.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "diner-7",
+      "question": "In classic diner slang, what did a server mean by ordering 'Adam and Eve on a raft'?",
+      "options": ["Bacon and eggs on a plate", "Two poached eggs on toast", "Ham and cheese on rye", "Two scoops of ice cream on pie"],
+      "correctAnswer": 1,
+      "explanation": "'Adam and Eve on a raft' was diner shorthand for two poached eggs on toast. If the cook was told to 'wreck 'em,' it meant to scramble the eggs instead.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "diner-8",
+      "question": "Which drive-in restaurant chain, still operating today, is known for its carhops who sometimes wear roller skates?",
+      "options": ["Checkers", "Sonic Drive-In", "Culver's", "Whataburger"],
+      "correctAnswer": 1,
+      "explanation": "Sonic Drive-In, founded in 1953 in Shawnee, Oklahoma (originally called Top Hat Drive-In), is the largest drive-in restaurant chain in the United States and is known for its skating carhops.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "diner-9",
+      "question": "What popular diner dessert consists of ice cream topped with syrup, whipped cream, nuts, and a cherry?",
+      "options": ["Banana split", "Ice cream sundae", "Parfait", "Baked Alaska"],
+      "correctAnswer": 1,
+      "explanation": "The ice cream sundae became a classic diner staple. Its origins are debated, but it was a soda fountain favorite by the early 1900s and remained a beloved treat throughout the diner era.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "diner-10",
+      "question": "What was the first drive-in movie theater in the United States, and in what year did it open?",
+      "options": ["The Autoscope in Texas, 1930", "Camden Drive-In in New Jersey, 1933", "The Motor-Vu in Utah, 1935", "Shankweiler's in Pennsylvania, 1934"],
+      "correctAnswer": 1,
+      "explanation": "The first drive-in movie theater was opened by Richard Hollingshead on June 6, 1933, in Camden, New Jersey. It could accommodate about 400 cars and charged 25 cents per car plus 25 cents per person.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "diner-11",
+      "question": "What type of prefabricated structure, originally made from old railroad dining cars, gave the American 'diner' its name?",
+      "options": ["Trolley cars", "Railroad dining cars", "Pullman sleeper cars", "Cabooses"],
+      "correctAnswer": 1,
+      "explanation": "The word 'diner' comes from railroad dining cars. Early lunch wagons were modeled after these cars, and by the 1920s, manufacturers were building prefabricated restaurants that resembled them, which became known as diners.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "diner-12",
+      "question": "In diner lingo, what did 'burn one all the way' mean?",
+      "options": ["A well-done steak", "A chocolate milkshake with everything", "A hamburger with all toppings", "Toast burned on both sides"],
+      "correctAnswer": 2,
+      "explanation": "'Burn one all the way' was diner shorthand for a hamburger with all available toppings — lettuce, tomato, onion, pickles, and condiments. 'Burn one' meant a hamburger on the grill.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "diner-13",
+      "question": "Which iconic diner manufacturer, based in New Jersey, built stainless steel diners from the 1940s through the 1990s and is considered the most famous diner builder in America?",
+      "options": ["DeRaffele Manufacturing", "Kullman Industries", "Fodero Dining Car Company", "Jerry O'Mahony Inc."],
+      "correctAnswer": 1,
+      "explanation": "Kullman Industries, founded in 1927 in Newark, New Jersey, became the most prolific diner manufacturer in the country. They built thousands of stainless steel diners that became symbols of Americana.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "diner-14",
+      "question": "What was the name of the speaker system that allowed customers to order from their cars at drive-in restaurants?",
+      "options": ["The TeleTray", "The Auto-Dine", "The Ordaphone", "The Electro-Hops"],
+      "correctAnswer": 0,
+      "explanation": "Various intercom and speaker systems were developed for drive-ins, but the original two-way speaker concept was popularized in the late 1940s and 50s. Companies like TeleTray and Aut-O-Hop developed systems that let customers place orders without a carhop coming to the car.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "diner-15",
+      "question": "What classic diner item, invented in the 1920s, involves two hamburger patties with a special sauce, and inspired the McDonald's Big Mac?",
+      "options": ["The Dagwood", "The Big Boy double-deck hamburger", "The Club Burger", "The Stacker"],
+      "correctAnswer": 1,
+      "explanation": "Bob Wian created the Big Boy double-deck hamburger in 1936 at his diner in Glendale, California. The Big Boy restaurant chain it spawned, with its iconic chubby mascot, became one of America's most recognizable diner brands.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "sequence-order",
+  "title": "Sequence & Order",
+  "description": "Put events, steps, or items in the correct chronological or logical order — test your sequential thinking!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "seq-1",
+      "question": "Which of these events happened FIRST?",
+      "options": ["First Moon Landing", "World War II Ends", "JFK Assassination", "Berlin Wall Falls"],
+      "correctAnswer": 1,
+      "explanation": "World War II ended in 1945. JFK was assassinated in 1963, the Moon landing was in 1969, and the Berlin Wall fell in 1989.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "seq-2",
+      "question": "When making a basic loaf of bread, which step comes FIRST?",
+      "options": ["Knead the dough", "Let the dough rise", "Mix flour and yeast", "Shape the loaf"],
+      "correctAnswer": 2,
+      "explanation": "The correct order is: mix flour and yeast, knead the dough, let the dough rise, then shape the loaf before baking.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "seq-3",
+      "question": "In the life cycle of a butterfly, what stage comes AFTER the caterpillar?",
+      "options": ["Egg", "Adult butterfly", "Chrysalis (pupa)", "Larva"],
+      "correctAnswer": 2,
+      "explanation": "The butterfly life cycle is: egg, larva (caterpillar), chrysalis (pupa), and then adult butterfly. The chrysalis stage comes directly after the caterpillar.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "seq-4",
+      "question": "Which planet is CLOSEST to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correctAnswer": 2,
+      "explanation": "The order of planets from the Sun is: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Mercury is the closest.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "seq-5",
+      "question": "Which of these U.S. holidays comes FIRST in the calendar year?",
+      "options": ["Memorial Day", "Independence Day", "Presidents' Day", "Labor Day"],
+      "correctAnswer": 2,
+      "explanation": "Presidents' Day is in February, Memorial Day is in May, Independence Day is July 4th, and Labor Day is in September.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "seq-6",
+      "question": "Which of these inventions came LAST?",
+      "options": ["Telephone (1876)", "Television (1927)", "Personal Computer (1975)", "Light Bulb (1879)"],
+      "correctAnswer": 2,
+      "explanation": "The telephone was invented in 1876, the light bulb in 1879, television was demonstrated in 1927, and the first personal computer (Altair 8800) arrived in 1975.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "seq-7",
+      "question": "In the water cycle, what process comes AFTER evaporation?",
+      "options": ["Collection", "Precipitation", "Condensation", "Runoff"],
+      "correctAnswer": 2,
+      "explanation": "The water cycle follows this order: evaporation, condensation (water vapor forms clouds), precipitation (rain/snow falls), and then collection/runoff.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "seq-8",
+      "question": "Which of these wars happened FIRST?",
+      "options": ["Korean War", "Vietnam War", "World War I", "Persian Gulf War"],
+      "correctAnswer": 2,
+      "explanation": "World War I was 1914-1918, the Korean War was 1950-1953, the Vietnam War escalated in the 1960s-1975, and the Persian Gulf War was 1990-1991.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "seq-9",
+      "question": "When cooking a Thanksgiving turkey, what is the correct order?",
+      "options": [
+        "Season, preheat oven, roast, let rest",
+        "Preheat oven, roast, season, let rest",
+        "Roast, season, preheat oven, let rest",
+        "Preheat oven, season, let rest, roast"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The correct process is to season/prepare the turkey first, preheat the oven, roast the turkey, and then let it rest before carving to allow the juices to redistribute.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "seq-10",
+      "question": "Place these Olympic host cities in chronological order. Which came SECOND?",
+      "options": ["Tokyo (1964)", "Rome (1960)", "Mexico City (1968)", "Munich (1972)"],
+      "correctAnswer": 0,
+      "explanation": "The chronological order is: Rome (1960), Tokyo (1964), Mexico City (1968), Munich (1972). Tokyo 1964 was the second of these four.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "seq-11",
+      "question": "Which of these U.S. Presidents served FIRST?",
+      "options": ["Theodore Roosevelt", "Abraham Lincoln", "Andrew Jackson", "Ulysses S. Grant"],
+      "correctAnswer": 2,
+      "explanation": "Andrew Jackson served 1829-1837 (7th President), Lincoln 1861-1865 (16th), Grant 1869-1877 (18th), and Theodore Roosevelt 1901-1909 (26th).",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "seq-12",
+      "question": "In the scientific method, what step comes AFTER forming a hypothesis?",
+      "options": ["Analyze results", "Make an observation", "Conduct an experiment", "Draw a conclusion"],
+      "correctAnswer": 2,
+      "explanation": "The scientific method follows: make an observation, form a hypothesis, conduct an experiment, analyze results, and draw a conclusion. Experimentation comes right after the hypothesis.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "seq-13",
+      "question": "Which of these events in the American space program happened LAST?",
+      "options": ["First American in space (1961)", "Apollo 11 Moon landing (1969)", "First Space Shuttle launch (1981)", "Gemini 4 spacewalk (1965)"],
+      "correctAnswer": 2,
+      "explanation": "Alan Shepard's flight was in 1961, Ed White's spacewalk on Gemini 4 was in 1965, Apollo 11 landed on the Moon in 1969, and the first Space Shuttle Columbia launched in 1981.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "seq-14",
+      "question": "What is the correct order of operations in mathematics (PEMDAS)?",
+      "options": [
+        "Parentheses, Exponents, Multiply/Divide, Add/Subtract",
+        "Parentheses, Add/Subtract, Multiply/Divide, Exponents",
+        "Exponents, Parentheses, Add/Subtract, Multiply/Divide",
+        "Multiply/Divide, Add/Subtract, Parentheses, Exponents"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PEMDAS stands for Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right). This is the standard mathematical order of operations.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "seq-15",
+      "question": "Which of these constitutional amendments was ratified FIRST?",
+      "options": ["19th Amendment (Women's Suffrage)", "13th Amendment (Abolition of Slavery)", "15th Amendment (Right to Vote Regardless of Race)", "18th Amendment (Prohibition)"],
+      "correctAnswer": 1,
+      "explanation": "The 13th Amendment was ratified in 1865, the 15th in 1870, the 18th in 1919, and the 19th in 1920. The 13th Amendment abolishing slavery came first.",
+      "difficulty": "hard",
+      "category": "logic"
+    }
+  ]
+}

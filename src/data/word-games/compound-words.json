@@ -1,0 +1,144 @@
+{
+  "id": "compound-words",
+  "title": "Compound Words",
+  "description": "Can you find the word that combines with two others to form compound words? A fun test of vocabulary and lateral thinking!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "compound-1",
+      "question": "What single word can follow 'SUN' and precede 'HOUSE' to make two compound words?",
+      "options": ["Light", "Flower", "Fire", "Beam"],
+      "correctAnswer": 0,
+      "explanation": "LIGHT makes SUNLIGHT and LIGHTHOUSE.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-2",
+      "question": "What single word can follow 'RAIN' and precede 'TIE' to make two compound words?",
+      "options": ["Cloud", "Drop", "Coat", "Bow"],
+      "correctAnswer": 3,
+      "explanation": "BOW makes RAINBOW and BOWTIE.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-3",
+      "question": "What single word can follow 'FIRE' and precede 'OUT' to make two compound words?",
+      "options": ["Work", "Fly", "Side", "Truck"],
+      "correctAnswer": 0,
+      "explanation": "WORK makes FIREWORK and WORKOUT.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-4",
+      "question": "What single word can follow 'BOOK' and precede 'HOLE' to make two compound words?",
+      "options": ["Case", "Shelf", "Worm", "Mark"],
+      "correctAnswer": 2,
+      "explanation": "WORM makes BOOKWORM and WORMHOLE.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-5",
+      "question": "What single word can follow 'SNOW' and precede 'GAME' to make two compound words?",
+      "options": ["Ball", "Flake", "Man", "Storm"],
+      "correctAnswer": 0,
+      "explanation": "BALL makes SNOWBALL and BALLGAME.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-6",
+      "question": "What single word can follow 'WATER' and precede 'OUT' to make two compound words?",
+      "options": ["Proof", "Fall", "Slide", "Drop"],
+      "correctAnswer": 1,
+      "explanation": "FALL makes WATERFALL and FALLOUT.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-7",
+      "question": "What single word can follow 'DOOR' and precede 'FATHER' to make two compound words?",
+      "options": ["Bell", "Step", "Knob", "Way"],
+      "correctAnswer": 1,
+      "explanation": "STEP makes DOORSTEP and STEPFATHER.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-8",
+      "question": "What single word can follow 'OVER' and precede 'FALL' to make two compound words?",
+      "options": ["Night", "Flow", "Time", "Cast"],
+      "correctAnswer": 0,
+      "explanation": "NIGHT makes OVERNIGHT and NIGHTFALL.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-9",
+      "question": "What single word can follow 'LAND' and precede 'DOWN' to make two compound words?",
+      "options": ["Lord", "Mark", "Slide", "Fall"],
+      "correctAnswer": 1,
+      "explanation": "MARK makes LANDMARK and MARKDOWN.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-10",
+      "question": "What single word can follow 'QUARTER' and precede 'STOP' to make two compound words?",
+      "options": ["Final", "Back", "Half", "End"],
+      "correctAnswer": 1,
+      "explanation": "BACK makes QUARTERBACK and BACKSTOP.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-11",
+      "question": "What single word can follow 'CAMP' and precede 'PLACE' to make two compound words?",
+      "options": ["Fire", "Ground", "Site", "Out"],
+      "correctAnswer": 0,
+      "explanation": "FIRE makes CAMPFIRE and FIREPLACE.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-12",
+      "question": "What single word can follow 'GRAND' and precede 'POINT' to make two compound words?",
+      "options": ["Stand", "Father", "Piano", "Master"],
+      "correctAnswer": 0,
+      "explanation": "STAND makes GRANDSTAND and STANDPOINT.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-13",
+      "question": "What single word can follow 'FINGER' and precede 'OUT' to make two compound words?",
+      "options": ["Nail", "Tip", "Print", "Point"],
+      "correctAnswer": 2,
+      "explanation": "PRINT makes FINGERPRINT and PRINTOUT.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-14",
+      "question": "What single word can follow 'HORSE' and precede 'FIRE' to make two compound words?",
+      "options": ["Shoe", "Back", "Play", "Whip"],
+      "correctAnswer": 1,
+      "explanation": "BACK makes HORSEBACK and BACKFIRE.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "compound-15",
+      "question": "What single word can follow 'BLUE' and precede 'BATH' to make two compound words?",
+      "options": ["Bird", "Berry", "Bell", "Jay"],
+      "correctAnswer": 0,
+      "explanation": "BIRD makes BLUEBIRD and BIRDBATH.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    }
+  ]
+}

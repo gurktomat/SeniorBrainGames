@@ -14,6 +14,11 @@ import {
   MonitorPlay, Beaker, BrainCircuit, Link,
   Target, Hourglass, CircleDot, Package, Scroll, Calculator, Award,
   Volume2, Crosshair, ListOrdered, Bomb,
+  Mic, CalendarDays, MessageSquareQuote, Church, History, FileSearch, Medal, Sparkles,
+  MonitorSmartphone, CookingPot, Tent, Lasso,
+  Bird, Flower2, MapPin, CloudLightning,
+  BookType, Combine, FileText, PencilLine,
+  ArrowDown01, FastForward, FolderTree, ShieldQuestion,
   type LucideIcon,
 } from "lucide-react";
 
@@ -140,6 +145,34 @@ const iconMap: Record<string, LucideIcon> = {
   "concentration-quiz": Crosshair,
   "number-patterns": ListOrdered,
   "minesweeper": Bomb,
+
+  // Batch 11 games
+  "finish-the-lyric": Mic,
+  "name-the-decade": CalendarDays,
+  "famous-quotes": MessageSquareQuote,
+  "bible-knowledge": Church,
+  "old-time-expressions": History,
+  "word-origins": FileSearch,
+  "famous-firsts": Medal,
+  "logic-deduction": Sparkles,
+
+  // Batch 12 games
+  "classic-game-shows": MonitorSmartphone,
+  "classic-diners-drive-ins": CookingPot,
+  "woodstock-music-festivals": Tent,
+  "classic-westerns": Lasso,
+  "birds-birdwatching": Bird,
+  "flowers-gardening": Flower2,
+  "travel-geography-usa": MapPin,
+  "weather-natural-phenomena": CloudLightning,
+  "proverbs-sayings": BookType,
+  "compound-words": Combine,
+  "abbreviations-acronyms": FileText,
+  "complete-the-phrase": PencilLine,
+  "sequence-order": ArrowDown01,
+  "what-comes-next": FastForward,
+  "category-sort": FolderTree,
+  "two-truths-one-lie": ShieldQuestion,
 };
 
 export function GameIcon({

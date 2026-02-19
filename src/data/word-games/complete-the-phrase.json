@@ -1,0 +1,143 @@
+{
+  "id": "complete-the-phrase",
+  "title": "Complete the Phrase",
+  "description": "Fill in the missing word from well-known phrases, clichés, and expressions — how many can you complete?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "phrase-1",
+      "question": "Complete the phrase: \"Break a ___\"",
+      "options": ["Leg", "Record", "Sweat", "Rule"],
+      "correctAnswer": 0,
+      "explanation": "\"Break a leg\" is a common way to wish someone good luck, especially in theater.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-2",
+      "question": "Complete the phrase: \"Bite the ___\"",
+      "options": ["Dust", "Hand", "Tongue", "Bullet"],
+      "correctAnswer": 3,
+      "explanation": "\"Bite the bullet\" means to endure a painful or difficult situation with courage.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-3",
+      "question": "Complete the phrase: \"Hit the nail on the ___\"",
+      "options": ["Wall", "Head", "Dot", "Mark"],
+      "correctAnswer": 1,
+      "explanation": "\"Hit the nail on the head\" means to describe exactly what is causing a situation or problem.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-4",
+      "question": "Complete the phrase: \"A penny for your ___\"",
+      "options": ["Time", "Trouble", "Thoughts", "Worries"],
+      "correctAnswer": 2,
+      "explanation": "\"A penny for your thoughts\" is a way of asking someone what they are thinking about.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-5",
+      "question": "Complete the phrase: \"Let the cat out of the ___\"",
+      "options": ["House", "Bag", "Box", "Room"],
+      "correctAnswer": 1,
+      "explanation": "\"Let the cat out of the bag\" means to accidentally reveal a secret.",
+      "difficulty": "easy",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-6",
+      "question": "Complete the phrase: \"Burning the midnight ___\"",
+      "options": ["Candle", "Oil", "Lamp", "Fire"],
+      "correctAnswer": 1,
+      "explanation": "\"Burning the midnight oil\" means staying up very late to work or study.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-7",
+      "question": "Complete the phrase: \"The ball is in your ___\"",
+      "options": ["Hands", "Court", "Field", "Favor"],
+      "correctAnswer": 1,
+      "explanation": "\"The ball is in your court\" means it is your turn to take action or make a decision.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-8",
+      "question": "Complete the phrase: \"Barking up the wrong ___\"",
+      "options": ["Alley", "Tree", "Path", "Trail"],
+      "correctAnswer": 1,
+      "explanation": "\"Barking up the wrong tree\" means to pursue a mistaken or misguided course of action.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-9",
+      "question": "Complete the phrase: \"Don't put all your eggs in one ___\"",
+      "options": ["Nest", "Pan", "Basket", "Bowl"],
+      "correctAnswer": 2,
+      "explanation": "\"Don't put all your eggs in one basket\" means to avoid risking everything on a single venture.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-10",
+      "question": "Complete the phrase: \"A blessing in ___\"",
+      "options": ["Secret", "Hiding", "Disguise", "Waiting"],
+      "correctAnswer": 2,
+      "explanation": "\"A blessing in disguise\" refers to something that seems bad at first but turns out to be good.",
+      "difficulty": "medium",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-11",
+      "question": "Complete the phrase: \"Burning your ___ at both ends\"",
+      "options": ["Rope", "Wick", "Candle", "Fuse"],
+      "correctAnswer": 2,
+      "explanation": "\"Burning your candle at both ends\" means exhausting yourself by doing too much, especially staying up late and getting up early.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-12",
+      "question": "Complete the phrase: \"A storm in a ___\"",
+      "options": ["Glass", "Teacup", "Bucket", "Bottle"],
+      "correctAnswer": 1,
+      "explanation": "\"A storm in a teacup\" means making a big fuss over a trivial matter.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-13",
+      "question": "Complete the phrase: \"Run it up the ___\"",
+      "options": ["Ladder", "Flagpole", "Wall", "Chain"],
+      "correctAnswer": 1,
+      "explanation": "\"Run it up the flagpole\" means to test an idea by presenting it to others for their reactions.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-14",
+      "question": "Complete the phrase: \"Read the riot ___\"",
+      "options": ["Law", "Rules", "Act", "Order"],
+      "correctAnswer": 2,
+      "explanation": "\"Read the riot act\" means to give someone a severe warning or reprimand about their behavior.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    },
+    {
+      "id": "phrase-15",
+      "question": "Complete the phrase: \"Turn over a new ___\"",
+      "options": ["Page", "Leaf", "Chapter", "Stone"],
+      "correctAnswer": 1,
+      "explanation": "\"Turn over a new leaf\" means to make a fresh start or change one's behavior for the better.",
+      "difficulty": "hard",
+      "category": "vocabulary"
+    }
+  ]
+}

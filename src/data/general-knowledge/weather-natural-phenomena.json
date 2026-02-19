@@ -1,0 +1,143 @@
+{
+  "id": "weather-natural-phenomena",
+  "title": "Weather & Natural Phenomena",
+  "description": "Test your knowledge of weather patterns, famous storms, rainbows, earthquakes, volcanoes, and the science behind natural events!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "weather-1",
+      "question": "What is the name of the scale used to measure wind speed, ranging from 0 (calm) to 12 (hurricane force)?",
+      "options": ["Richter Scale", "Saffir-Simpson Scale", "Beaufort Scale", "Fujita Scale"],
+      "correctAnswer": 2,
+      "explanation": "The Beaufort Scale was developed in 1805 by Sir Francis Beaufort of the Royal Navy. It classifies wind speed from Force 0 (calm, less than 1 mph) to Force 12 (hurricane, 73+ mph).",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "weather-2",
+      "question": "How many colors are in a rainbow?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "A rainbow contains 7 colors: red, orange, yellow, green, blue, indigo, and violet. They always appear in this order because each color has a different wavelength of light that refracts at a slightly different angle.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "weather-3",
+      "question": "What weather instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Anemometer", "Barometer", "Hygrometer"],
+      "correctAnswer": 2,
+      "explanation": "A barometer measures atmospheric pressure, which is a key indicator for weather forecasting. Falling pressure often signals approaching storms, while rising pressure typically indicates fair weather.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "weather-4",
+      "question": "What type of cloud is flat, gray, and often covers the entire sky like a blanket?",
+      "options": ["Cumulus", "Stratus", "Cirrus", "Cumulonimbus"],
+      "correctAnswer": 1,
+      "explanation": "Stratus clouds form in uniform, flat layers and often produce light drizzle or mist. The name comes from the Latin word 'stratum,' meaning a layer or sheet spread out.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "weather-5",
+      "question": "What causes thunder?",
+      "options": ["Clouds colliding with each other", "The rapid expansion of air heated by lightning", "Strong winds in the upper atmosphere", "Rain hitting the ground at high speed"],
+      "correctAnswer": 1,
+      "explanation": "Thunder is caused by the rapid expansion of air surrounding a lightning bolt. Lightning superheats the air to around 30,000 Kelvin (about 54,000 degrees Fahrenheit), causing it to expand explosively and create a shockwave we hear as thunder.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "weather-6",
+      "question": "The Fujita Scale (now Enhanced Fujita Scale) is used to rate the intensity of which type of storm?",
+      "options": ["Hurricanes", "Tornadoes", "Thunderstorms", "Blizzards"],
+      "correctAnswer": 1,
+      "explanation": "The Enhanced Fujita (EF) Scale rates tornado intensity from EF0 (65-85 mph winds) to EF5 (over 200 mph winds). It was developed by Dr. Tetsuya Theodore Fujita at the University of Chicago and updated in 2007.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "weather-7",
+      "question": "What is the 'Ring of Fire'?",
+      "options": ["A type of solar flare", "A zone of frequent earthquakes and volcanoes around the Pacific Ocean", "The outer edge of a hurricane", "A volcanic crater in Iceland"],
+      "correctAnswer": 1,
+      "explanation": "The Ring of Fire is a 25,000-mile horseshoe-shaped zone around the Pacific Ocean where about 75% of the world's volcanoes are found and roughly 90% of earthquakes occur, due to the movement of tectonic plates.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "weather-8",
+      "question": "What is the eye of a hurricane?",
+      "options": ["The strongest part of the storm with the highest winds", "A calm, clear area at the center of the storm", "The area where the hurricane first forms", "The outer rain bands of the storm"],
+      "correctAnswer": 1,
+      "explanation": "The eye of a hurricane is a calm, often clear area at the center, typically 20-40 miles in diameter. It is surrounded by the eyewall, which contains the storm's most intense winds and heaviest rainfall.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "weather-9",
+      "question": "What causes the aurora borealis (Northern Lights)?",
+      "options": ["Moonlight reflecting off polar ice", "Charged particles from the Sun interacting with Earth's atmosphere", "Volcanic gases in the upper atmosphere", "Light refracting through ice crystals in clouds"],
+      "correctAnswer": 1,
+      "explanation": "The aurora borealis occurs when charged particles from the Sun (solar wind) collide with gases in Earth's atmosphere, guided by Earth's magnetic field toward the poles. Oxygen produces green and red light, while nitrogen creates blue and purple hues.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "weather-10",
+      "question": "The Richter Scale measures the magnitude of what natural event?",
+      "options": ["Tornadoes", "Volcanic eruptions", "Earthquakes", "Tsunamis"],
+      "correctAnswer": 2,
+      "explanation": "The Richter Scale, developed in 1935 by Charles F. Richter, measures earthquake magnitude on a logarithmic scale. Each whole number increase represents roughly 31.6 times more energy released. Scientists now primarily use the Moment Magnitude Scale for large earthquakes.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "weather-11",
+      "question": "Which U.S. city was devastated by Hurricane Katrina in 2005?",
+      "options": ["Miami, Florida", "Houston, Texas", "New Orleans, Louisiana", "Galveston, Texas"],
+      "correctAnswer": 2,
+      "explanation": "Hurricane Katrina struck the Gulf Coast on August 29, 2005, causing catastrophic flooding in New Orleans when the levee system failed. It was one of the deadliest and costliest natural disasters in U.S. history, causing over 1,800 deaths.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "weather-12",
+      "question": "What is the term for a massive ocean wave caused by an underwater earthquake or volcanic eruption?",
+      "options": ["Tidal wave", "Rogue wave", "Tsunami", "Storm surge"],
+      "correctAnswer": 2,
+      "explanation": "A tsunami is a series of enormous waves generated by sudden displacement of the ocean floor, usually from earthquakes. The word comes from the Japanese words 'tsu' (harbor) and 'nami' (wave). In open ocean, tsunamis can travel over 500 mph.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "weather-13",
+      "question": "Which U.S. state is known as 'Tornado Alley' and experiences the most tornadoes annually?",
+      "options": ["Kansas", "Oklahoma", "Texas", "Nebraska"],
+      "correctAnswer": 2,
+      "explanation": "Texas records the most tornadoes of any U.S. state, averaging around 150 per year, due to its large size and location where warm Gulf air meets cool northern air. 'Tornado Alley' stretches across several Great Plains states, but Texas leads in total count.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "weather-14",
+      "question": "The 1883 eruption of which volcano was one of the loudest sounds ever recorded in human history, heard nearly 3,000 miles away?",
+      "options": ["Mount Vesuvius", "Mount St. Helens", "Krakatoa", "Mount Pinatubo"],
+      "correctAnswer": 2,
+      "explanation": "The eruption of Krakatoa in Indonesia on August 27, 1883, produced the loudest sound in recorded history, heard as far as Australia and Rodrigues Island near Mauritius. It generated tsunamis up to 120 feet tall and ejected so much ash that global temperatures dropped.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "weather-15",
+      "question": "What type of high-altitude, wispy cloud is made entirely of ice crystals and often indicates fair weather?",
+      "options": ["Stratus", "Cumulus", "Cirrus", "Nimbostratus"],
+      "correctAnswer": 2,
+      "explanation": "Cirrus clouds form above 20,000 feet where temperatures are below freezing, so they are composed entirely of ice crystals. Their thin, wispy appearance comes from the Latin word 'cirrus' meaning a curl of hair. While they usually indicate fair weather, thickening cirrus clouds can signal an approaching warm front.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

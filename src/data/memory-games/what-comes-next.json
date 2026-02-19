@@ -1,0 +1,143 @@
+{
+  "id": "what-comes-next",
+  "title": "What Comes Next?",
+  "description": "Given a pattern or sequence of words, numbers, or concepts, can you figure out what comes next? A fun test of pattern recognition!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "next-1",
+      "question": "What comes next in this sequence: Monday, Wednesday, Friday, ___?",
+      "options": ["Saturday", "Sunday", "Tuesday", "Thursday"],
+      "correctAnswer": 1,
+      "explanation": "The pattern skips every other day, so after Friday comes Sunday.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "next-2",
+      "question": "What comes next: Red, Orange, Yellow, Green, ___?",
+      "options": ["Purple", "Indigo", "Blue", "Violet"],
+      "correctAnswer": 2,
+      "explanation": "These are the colors of the rainbow in order (ROY G BIV). After Green comes Blue.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "next-3",
+      "question": "What comes next: Do, Re, Mi, Fa, ___?",
+      "options": ["La", "Ti", "Sol", "Si"],
+      "correctAnswer": 2,
+      "explanation": "These are the solfege musical notes in order. After Fa comes Sol.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "next-4",
+      "question": "What comes next: January, March, May, July, ___?",
+      "options": ["August", "September", "October", "November"],
+      "correctAnswer": 1,
+      "explanation": "The pattern lists every other month. After July (month 7), skipping August, the next is September (month 9).",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "next-5",
+      "question": "What comes next in this letter sequence: A, E, I, O, ___?",
+      "options": ["P", "S", "U", "Y"],
+      "correctAnswer": 2,
+      "explanation": "These are the vowels of the English alphabet in order. After O comes U.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "next-6",
+      "question": "What comes next: Mercury, Venus, Earth, Mars, ___?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correctAnswer": 1,
+      "explanation": "These are the planets in order from the Sun. After Mars comes Jupiter.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "next-7",
+      "question": "What comes next in this letter pattern: Z, Y, X, W, V, ___?",
+      "options": ["S", "T", "U", "R"],
+      "correctAnswer": 2,
+      "explanation": "The alphabet is being listed backwards. After V comes U.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "next-8",
+      "question": "What comes next: Spring, Summer, Autumn, Winter, ___?",
+      "options": ["Autumn", "Summer", "Winter", "Spring"],
+      "correctAnswer": 3,
+      "explanation": "The four seasons repeat in a cycle. After Winter, the cycle begins again with Spring.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "next-9",
+      "question": "What comes next: Penny, Nickel, Dime, ___?",
+      "options": ["Half Dollar", "Silver Dollar", "Quarter", "Two Bits"],
+      "correctAnswer": 2,
+      "explanation": "These are U.S. coins in ascending order of value: 1¢, 5¢, 10¢, 25¢ (Quarter).",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "next-10",
+      "question": "What comes next in this pattern: AB, CD, EF, GH, ___?",
+      "options": ["HI", "IJ", "JK", "KL"],
+      "correctAnswer": 1,
+      "explanation": "The alphabet is being listed in consecutive pairs: AB, CD, EF, GH, IJ.",
+      "difficulty": "medium",
+      "category": "logic"
+    },
+    {
+      "id": "next-11",
+      "question": "What comes next: Hydrogen, Helium, Lithium, Beryllium, ___?",
+      "options": ["Carbon", "Boron", "Nitrogen", "Oxygen"],
+      "correctAnswer": 1,
+      "explanation": "These are the first elements of the periodic table in order by atomic number. Element 5 is Boron.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "next-12",
+      "question": "What comes next in this letter pattern: A, C, F, J, ___?",
+      "options": ["M", "N", "O", "P"],
+      "correctAnswer": 2,
+      "explanation": "The gaps between letters increase by 1 each time: A (+2) C (+3) F (+4) J (+5) O. Counting positions: 1, 3, 6, 10, 15 — and the 15th letter is O.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "next-13",
+      "question": "What comes next: King, Queen, Rook, Bishop, ___?",
+      "options": ["Pawn", "Ace", "Knight", "Jack"],
+      "correctAnswer": 2,
+      "explanation": "These are chess pieces listed in descending order of value. After Bishop comes Knight.",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "next-14",
+      "question": "What comes next in this pattern: Alpha, Bravo, Charlie, Delta, ___?",
+      "options": ["Eagle", "Echo", "Foxtrot", "Epsilon"],
+      "correctAnswer": 1,
+      "explanation": "This is the NATO phonetic alphabet. After Delta (D) comes Echo (E).",
+      "difficulty": "hard",
+      "category": "logic"
+    },
+    {
+      "id": "next-15",
+      "question": "What comes next: Ace, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, ___?",
+      "options": ["Ace", "King", "Joker", "Knave"],
+      "correctAnswer": 1,
+      "explanation": "These are the 13 cards in a standard suit, in order. After Queen comes King.",
+      "difficulty": "hard",
+      "category": "logic"
+    }
+  ]
+}

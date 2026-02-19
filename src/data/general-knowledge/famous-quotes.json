@@ -1,0 +1,143 @@
+{
+  "id": "famous-quotes",
+  "title": "Famous Quotes & Sayings",
+  "description": "Who said these famous words? Match iconic quotes to the historical figures, leaders, and thinkers who said them!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "quote-1",
+      "question": "Who said: \"I have a dream that my children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character\"?",
+      "options": ["Malcolm X", "Martin Luther King Jr.", "Frederick Douglass", "Jesse Jackson"],
+      "correctAnswer": 1,
+      "explanation": "Martin Luther King Jr. delivered this iconic line during his 'I Have a Dream' speech at the March on Washington on August 28, 1963, before a crowd of over 250,000 people.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "quote-2",
+      "question": "Who said: \"The only thing we have to fear is fear itself\"?",
+      "options": ["Winston Churchill", "Theodore Roosevelt", "Franklin D. Roosevelt", "Harry Truman"],
+      "correctAnswer": 2,
+      "explanation": "Franklin D. Roosevelt spoke these words during his first inaugural address on March 4, 1933, as the nation faced the depths of the Great Depression.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "quote-3",
+      "question": "Who said: \"That's one small step for man, one giant leap for mankind\"?",
+      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Alan Shepard"],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong spoke these famous words on July 20, 1969, as he became the first human to set foot on the Moon during the Apollo 11 mission.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "quote-4",
+      "question": "Who said: \"To be, or not to be, that is the question\"?",
+      "options": ["Geoffrey Chaucer", "Christopher Marlowe", "William Shakespeare", "John Milton"],
+      "correctAnswer": 2,
+      "explanation": "William Shakespeare wrote this famous line for the character Hamlet in his play 'Hamlet,' believed to have been written around 1600. It is the opening of Hamlet's soliloquy in Act 3, Scene 1.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "quote-5",
+      "question": "Who said: \"I think, therefore I am\"?",
+      "options": ["Socrates", "Aristotle", "René Descartes", "Immanuel Kant"],
+      "correctAnswer": 2,
+      "explanation": "René Descartes wrote 'Cogito, ergo sum' in his 1637 work 'Discourse on the Method.' It became a foundational element of Western philosophy, establishing the certainty of one's own existence through the act of thinking.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "quote-6",
+      "question": "Who said: \"We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets\"?",
+      "options": ["Charles de Gaulle", "Winston Churchill", "Dwight D. Eisenhower", "Franklin D. Roosevelt"],
+      "correctAnswer": 1,
+      "explanation": "Winston Churchill delivered this defiant speech to the House of Commons on June 4, 1940, following the evacuation of Allied soldiers from Dunkirk during World War II.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "quote-7",
+      "question": "Who said: \"Injustice anywhere is a threat to justice everywhere\"?",
+      "options": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King Jr.", "Desmond Tutu"],
+      "correctAnswer": 2,
+      "explanation": "Martin Luther King Jr. wrote this in his 'Letter from Birmingham Jail' in April 1963, while imprisoned for participating in nonviolent demonstrations against segregation.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "quote-8",
+      "question": "Who said: \"Ask not what your country can do for you — ask what you can do for your country\"?",
+      "options": ["Abraham Lincoln", "John F. Kennedy", "Ronald Reagan", "Theodore Roosevelt"],
+      "correctAnswer": 1,
+      "explanation": "John F. Kennedy spoke these words during his inaugural address on January 20, 1961. The speech inspired a generation of Americans to engage in public service.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "quote-9",
+      "question": "Who said: \"Be the change that you wish to see in the world\"?",
+      "options": ["Mother Teresa", "Mahatma Gandhi", "Dalai Lama", "Nelson Mandela"],
+      "correctAnswer": 1,
+      "explanation": "This quote is widely attributed to Mahatma Gandhi, the leader of India's nonviolent independence movement. It paraphrases his philosophy expressed in his writings about personal transformation as the basis for social change.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "quote-10",
+      "question": "Who said: \"Imagination is more important than knowledge\"?",
+      "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+      "correctAnswer": 2,
+      "explanation": "Albert Einstein made this statement in an interview published in The Saturday Evening Post in 1929. He believed that imagination was the key to scientific discovery and progress.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "quote-11",
+      "question": "Who said: \"Give me liberty, or give me death!\"?",
+      "options": ["Benjamin Franklin", "Thomas Jefferson", "Patrick Henry", "Samuel Adams"],
+      "correctAnswer": 2,
+      "explanation": "Patrick Henry delivered this famous speech on March 23, 1775, to the Second Virginia Convention, urging the colony to mobilize for armed resistance against British rule.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "quote-12",
+      "question": "Who said: \"In the middle of difficulty lies opportunity\"?",
+      "options": ["Winston Churchill", "Albert Einstein", "Benjamin Franklin", "Thomas Edison"],
+      "correctAnswer": 1,
+      "explanation": "Albert Einstein is credited with this quote, reflecting his belief that challenges are the breeding ground for new ideas and breakthroughs in science and life.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "quote-13",
+      "question": "Who said: \"The unexamined life is not worth living\"?",
+      "options": ["Plato", "Socrates", "Aristotle", "Epicurus"],
+      "correctAnswer": 1,
+      "explanation": "Socrates spoke these words during his trial in 399 BC, as recorded by his student Plato in 'The Apology.' He chose death rather than abandoning his philosophical mission of self-examination.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "quote-14",
+      "question": "Who said: \"Mr. Gorbachev, tear down this wall!\"?",
+      "options": ["George H.W. Bush", "Ronald Reagan", "Margaret Thatcher", "Helmut Kohl"],
+      "correctAnswer": 1,
+      "explanation": "Ronald Reagan delivered this challenge to Soviet leader Mikhail Gorbachev during a speech at the Brandenburg Gate in West Berlin on June 12, 1987. The Berlin Wall fell two years later in November 1989.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "quote-15",
+      "question": "Who said: \"I came, I saw, I conquered\"?",
+      "options": ["Alexander the Great", "Julius Caesar", "Napoleon Bonaparte", "Augustus Caesar"],
+      "correctAnswer": 1,
+      "explanation": "Julius Caesar reportedly said 'Veni, vidi, vici' in 47 BC after his swift victory at the Battle of Zela against King Pharnaces II of Pontus, boasting of how quickly and decisively he had won.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}
