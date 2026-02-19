@@ -2,17 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
-import { Printer, Grid3X3, Search, Hash, Shuffle, HelpCircle, Footprints } from "lucide-react";
+import { Printer, Grid3X3, Search, Hash, Shuffle, HelpCircle, Footprints, Lock, Table2, Route } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Printable Puzzles — Free Puzzle Sheets for Seniors",
   description:
-    "Free printable puzzles for seniors: crosswords, word search, sudoku, word scramble, riddles, and word ladders. Print or save as PDF — no account needed!",
+    "Free printable puzzles for seniors: crosswords, word search, sudoku, word scramble, riddles, word ladders, cryptograms, logic grid puzzles, and mazes. Print or save as PDF — no account needed!",
   alternates: { canonical: "/printable-puzzles" },
   openGraph: {
     title: "Printable Puzzles — Free Puzzle Sheets for Seniors",
     description:
-      "Free printable puzzles for seniors: crosswords, word search, sudoku, word scramble, riddles, and word ladders.",
+      "Free printable puzzles for seniors: crosswords, word search, sudoku, word scramble, riddles, word ladders, cryptograms, logic grids, and mazes.",
   },
 };
 
@@ -87,6 +87,36 @@ const sections: PuzzleSection[] = [
     puzzles: [
       { slug: "word-ladder-sheet-1", label: "Ladders 1–5" },
       { slug: "word-ladder-sheet-2", label: "Ladders 6–10" },
+    ],
+  },
+  {
+    title: "Cryptograms",
+    description: "Crack the substitution cipher to reveal a famous quote.",
+    icon: <Lock className="h-6 w-6" />,
+    puzzles: [
+      { slug: "cryptogram-1", label: "Cryptogram 1" },
+      { slug: "cryptogram-2", label: "Cryptogram 2" },
+      { slug: "cryptogram-3", label: "Cryptogram 3" },
+    ],
+  },
+  {
+    title: "Logic Grid Puzzles",
+    description: "Use clues and elimination to match every item in the grid.",
+    icon: <Table2 className="h-6 w-6" />,
+    puzzles: [
+      { slug: "logic-grid-1", label: "The Garden Club (Easy)" },
+      { slug: "logic-grid-2", label: "Movie Night (Medium)" },
+      { slug: "logic-grid-3", label: "The Bake Sale (Hard)" },
+    ],
+  },
+  {
+    title: "Mazes",
+    description: "Find the path from start to finish through the maze.",
+    icon: <Route className="h-6 w-6" />,
+    puzzles: [
+      { slug: "maze-easy", label: "Easy" },
+      { slug: "maze-medium", label: "Medium" },
+      { slug: "maze-hard", label: "Hard" },
     ],
   },
 ];

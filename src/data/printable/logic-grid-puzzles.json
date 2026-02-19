@@ -1,0 +1,83 @@
+{
+  "puzzles": [
+    {
+      "id": "logic-grid-1",
+      "title": "The Garden Club",
+      "difficulty": "easy",
+      "scenario": "Four friends in a garden club each planted a different flower in a different month this spring. Use the clues to figure out who planted what and when.",
+      "categories": ["Person", "Flower", "Month"],
+      "options": {
+        "Person": ["Alice", "Bob", "Carol", "David"],
+        "Flower": ["Tulips", "Roses", "Daisies", "Sunflowers"],
+        "Month": ["March", "April", "May", "June"]
+      },
+      "clues": [
+        "Alice planted her flower in March.",
+        "The person who planted Roses did so in May.",
+        "Carol planted Sunflowers in June.",
+        "Bob did not plant Tulips.",
+        "David planted exactly one month before Carol."
+      ],
+      "solution": [
+        { "Person": "Alice", "Flower": "Tulips", "Month": "March" },
+        { "Person": "Bob", "Flower": "Daisies", "Month": "April" },
+        { "Person": "David", "Flower": "Roses", "Month": "May" },
+        { "Person": "Carol", "Flower": "Sunflowers", "Month": "June" }
+      ]
+    },
+    {
+      "id": "logic-grid-2",
+      "title": "Movie Night",
+      "difficulty": "medium",
+      "scenario": "Four friends each watched a different movie genre on a different day this week. Use the clues to match each person to their genre and day.",
+      "categories": ["Person", "Genre", "Day"],
+      "options": {
+        "Person": ["Frank", "Grace", "Henry", "Iris"],
+        "Genre": ["Comedy", "Drama", "Action", "Mystery"],
+        "Day": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      "clues": [
+        "Frank watched his movie the day before the person who watched Drama.",
+        "Grace watched a movie on Wednesday.",
+        "The Comedy was watched on Monday.",
+        "Henry did not watch Action or Comedy.",
+        "Iris watched her movie the day after Grace.",
+        "Iris did not watch Action."
+      ],
+      "solution": [
+        { "Person": "Frank", "Genre": "Comedy", "Day": "Monday" },
+        { "Person": "Henry", "Genre": "Drama", "Day": "Tuesday" },
+        { "Person": "Grace", "Genre": "Action", "Day": "Wednesday" },
+        { "Person": "Iris", "Genre": "Mystery", "Day": "Thursday" }
+      ]
+    },
+    {
+      "id": "logic-grid-3",
+      "title": "The Bake Sale",
+      "difficulty": "hard",
+      "scenario": "Five neighbors are preparing for the annual bake sale. Each person baked a different treat and decorated it with a different topping. Use the clues to figure out who baked what with which topping.",
+      "categories": ["Person", "Treat", "Topping"],
+      "options": {
+        "Person": ["Karen", "Leo", "Maria", "Nick", "Olivia"],
+        "Treat": ["Cookies", "Brownies", "Cupcakes", "Pie", "Muffins"],
+        "Topping": ["Sprinkles", "Frosting", "Powdered Sugar", "Chocolate Chips", "Caramel"]
+      },
+      "clues": [
+        "Karen baked Cupcakes.",
+        "The person who baked Pie used Caramel as a topping.",
+        "Leo did not use Sprinkles or Frosting.",
+        "Maria used Frosting but did not bake Brownies.",
+        "Nick baked Muffins with Chocolate Chips.",
+        "Olivia did not bake Cookies.",
+        "Olivia used Powdered Sugar."
+      ],
+      "solution": [
+        { "Person": "Karen", "Treat": "Cupcakes", "Topping": "Sprinkles" },
+        { "Person": "Leo", "Treat": "Pie", "Topping": "Caramel" },
+        { "Person": "Maria", "Treat": "Cookies", "Topping": "Frosting" },
+        { "Person": "Nick", "Treat": "Muffins", "Topping": "Chocolate Chips" },
+        { "Person": "Olivia", "Treat": "Brownies", "Topping": "Powdered Sugar" }
+      ]
+    }
+  ]
+}

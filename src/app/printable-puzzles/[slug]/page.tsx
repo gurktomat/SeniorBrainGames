@@ -11,6 +11,9 @@ import PrintableSudoku from "@/components/printable/PrintableSudoku";
 import PrintableWordScramble from "@/components/printable/PrintableWordScramble";
 import PrintableRiddles from "@/components/printable/PrintableRiddles";
 import PrintableWordLadder from "@/components/printable/PrintableWordLadder";
+import PrintableCryptogram from "@/components/printable/PrintableCryptogram";
+import PrintableLogicGrid from "@/components/printable/PrintableLogicGrid";
+import PrintableMaze from "@/components/printable/PrintableMaze";
 
 import crosswordData from "@/data/word-games/crossword-classic.json";
 import wordSearchData from "@/data/word-games/word-search.json";
@@ -18,8 +21,11 @@ import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
 import wordScrambleData from "@/data/word-games/word-scramble.json";
 import riddleData from "@/data/word-games/riddle-challenge.json";
 import wordLadderData from "@/data/word-games/word-ladder.json";
+import cryptogramData from "@/data/word-games/cryptogram.json";
+import logicGridData from "@/data/printable/logic-grid-puzzles.json";
+import mazeData from "@/data/printable/mazes.json";
 
-type PuzzleType = "crossword" | "word-search" | "sudoku" | "word-scramble" | "riddles" | "word-ladder";
+type PuzzleType = "crossword" | "word-search" | "sudoku" | "word-scramble" | "riddles" | "word-ladder" | "cryptogram" | "logic-grid" | "maze";
 
 interface PuzzleConfig {
   type: PuzzleType;
@@ -124,6 +130,54 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     title: "Word Ladder — Sheet 2",
     description: "5 printable word ladder puzzles with hints and answer key.",
   },
+  // Cryptograms (1 per puzzle, reuse existing data)
+  "cryptogram-1": {
+    type: "cryptogram",
+    title: "Cryptogram — Puzzle 1",
+    description: "A printable cryptogram puzzle — decode the substitution cipher to reveal a famous quote.",
+  },
+  "cryptogram-2": {
+    type: "cryptogram",
+    title: "Cryptogram — Puzzle 2",
+    description: "A printable cryptogram puzzle — decode the substitution cipher to reveal a famous quote.",
+  },
+  "cryptogram-3": {
+    type: "cryptogram",
+    title: "Cryptogram — Puzzle 3",
+    description: "A printable cryptogram puzzle — decode the substitution cipher to reveal a famous quote.",
+  },
+  // Logic Grid Puzzles
+  "logic-grid-1": {
+    type: "logic-grid",
+    title: "Logic Grid — The Garden Club",
+    description: "A printable logic grid puzzle — use clues to match people, flowers, and months.",
+  },
+  "logic-grid-2": {
+    type: "logic-grid",
+    title: "Logic Grid — Movie Night",
+    description: "A printable logic grid puzzle — use clues to match people, genres, and days.",
+  },
+  "logic-grid-3": {
+    type: "logic-grid",
+    title: "Logic Grid — The Bake Sale",
+    description: "A printable logic grid puzzle — use clues to match people, treats, and toppings.",
+  },
+  // Mazes
+  "maze-easy": {
+    type: "maze",
+    title: "Maze — Easy",
+    description: "A printable easy maze puzzle with solution path.",
+  },
+  "maze-medium": {
+    type: "maze",
+    title: "Maze — Medium",
+    description: "A printable medium-difficulty maze puzzle with solution path.",
+  },
+  "maze-hard": {
+    type: "maze",
+    title: "Maze — Hard",
+    description: "A printable hard maze puzzle with solution path.",
+  },
 };
 
 const allSlugs = Object.keys(puzzleConfigs);
@@ -167,6 +221,24 @@ const sudokuMap: Record<string, number> = {
   "sudoku-hard": 2,
 };
 
+const cryptogramMap: Record<string, number> = {
+  "cryptogram-1": 0,
+  "cryptogram-2": 1,
+  "cryptogram-3": 2,
+};
+
+const logicGridMap: Record<string, number> = {
+  "logic-grid-1": 0,
+  "logic-grid-2": 1,
+  "logic-grid-3": 2,
+};
+
+const mazeMap: Record<string, number> = {
+  "maze-easy": 0,
+  "maze-medium": 1,
+  "maze-hard": 2,
+};
+
 function PuzzleContent({ slug }: { slug: string }) {
   const config = puzzleConfigs[slug];
   if (!config) return null;
@@ -204,6 +276,18 @@ function PuzzleContent({ slug }: { slug: string }) {
       const start = (sheetNum - 1) * perSheet;
       const puzzles = wordLadderData.puzzles.slice(start, start + perSheet);
       return <PrintableWordLadder title={config.title} puzzles={puzzles} />;
+    }
+    case "cryptogram": {
+      const puzzle = cryptogramData.puzzles[cryptogramMap[slug]];
+      return <PrintableCryptogram puzzle={puzzle} />;
+    }
+    case "logic-grid": {
+      const puzzle = logicGridData.puzzles[logicGridMap[slug]] as unknown as React.ComponentProps<typeof PrintableLogicGrid>["puzzle"];
+      return <PrintableLogicGrid puzzle={puzzle} />;
+    }
+    case "maze": {
+      const puzzle = mazeData.puzzles[mazeMap[slug]] as React.ComponentProps<typeof PrintableMaze>["puzzle"];
+      return <PrintableMaze puzzle={puzzle} />;
     }
   }
 }
