@@ -1,5 +1,8 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import GamePrintLayout from "@/components/printable/GamePrintLayout";
+
+export const metadata: Metadata = { robots: "noindex, nofollow" };
 import PrintableQuiz from "@/components/printable/PrintableQuiz";
 import PrintableTrueOrFalse from "@/components/printable/PrintableTrueOrFalse";
 import PrintableCrossword from "@/components/printable/PrintableCrossword";
