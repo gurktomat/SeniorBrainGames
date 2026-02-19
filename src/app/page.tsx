@@ -1,16 +1,22 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Music, Layers, Shuffle, MapPin, Printer } from "lucide-react";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo, getAllQuizzes, specialGameSlugs } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
 import StreakBanner from "@/components/StreakBanner";
 import JsonLd from "@/components/JsonLd";
 import type { GameCategory } from "@/lib/types";
 import { getAllArticles } from "@/lib/blog";
+import { getTopRatedGames } from "@/lib/db";
+import { GameIcon, categoryColors } from "@/lib/gameIcons";
+import { allGames } from "@/lib/gameIndex";
+import { printablePuzzleCount } from "@/lib/printablePuzzles";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
 };
+
+export const revalidate = 3600;
 
 const categories: { key: GameCategory; iconBg: string }[] = [
   { key: "nostalgia-trivia", iconBg: "#3B6FC0" },
@@ -46,14 +52,29 @@ const popularGames = [
   },
 ];
 
+const gameCount =
+  getAllQuizzes().length +
+  Object.values(specialGameSlugs).flat().length;
+const questionCount = getAllQuizzes().reduce(
+  (sum, q) => sum + q.questions.length,
+  0,
+);
 const stats = [
-  { label: "Brain Games", value: "101" },
-  { label: "Questions", value: "1000+" },
+  { label: "Brain Games", value: String(gameCount) },
+  { label: "Questions", value: questionCount + "+" },
   { label: "Categories", value: "4" },
-  { label: "Daily Challenges", value: "365" },
+  { label: "Printable Puzzles", value: String(printablePuzzleCount) },
 ];
 
-export default function Home() {
+export default async function Home() {
+  const topRatedRaw = await getTopRatedGames(4);
+  const topRated = topRatedRaw
+    .map((game) => {
+      const entry = allGames.find((g) => g.id === game.slug);
+      if (!entry) return null;
+      return { ...game, entry };
+    })
+    .filter((g) => g !== null);
   return (
     <div>
       <JsonLd
@@ -146,7 +167,7 @@ export default function Home() {
               Printable Puzzles
             </h3>
             <p className="text-base text-text-muted">
-              27 free puzzle sheets &mdash; crosswords, word search, sudoku, and more. Print or save as PDF!
+              {printablePuzzleCount} free puzzle sheets &mdash; crosswords, word search, sudoku, and more. Print or save as PDF!
             </p>
           </div>
           <span className="hidden text-sm font-bold text-primary sm:block">
@@ -222,7 +243,7 @@ export default function Home() {
               Printable Puzzles
             </h3>
             <p className="text-base text-text-muted">
-              27 free puzzle sheets with answer keys &mdash; crosswords, word search, sudoku, word scramble, riddles, word ladders, cryptograms, logic grids, and mazes. Print or save as PDF!
+              {printablePuzzleCount} free puzzle sheets with answer keys &mdash; crosswords, word search, sudoku, word scramble, riddles, word ladders, cryptograms, logic grids, and mazes. Print or save as PDF!
             </p>
             <div className="mt-4 flex items-center gap-1 text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
               Browse Puzzles
@@ -265,6 +286,47 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Top Rated Games */}
+      {topRated.length > 0 && (
+        <section className="mx-auto max-w-6xl px-6 py-16">
+          <div className="mb-10 text-center">
+            <h2
+              className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
+              style={{
+                fontFamily: "var(--font-merriweather), var(--font-heading)",
+              }}
+            >
+              Top Rated Games
+            </h2>
+            <p className="text-lg text-text-muted">Highest-rated games by our players</p>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {topRated.map((game) => {
+              const color = categoryColors[game.category] ?? "#6366f1";
+              return (
+                <Link
+                  key={game.slug}
+                  href={game.entry.href}
+                  className="card-enterprise group flex flex-col items-center p-6 text-center"
+                >
+                  <GameIcon gameId={game.slug} color={color} size={28} />
+                  <h3 className="mb-1 text-base font-bold text-foreground">
+                    {game.entry.title}
+                  </h3>
+                  <p className="mb-2 text-sm text-text-muted">{game.entry.categoryLabel}</p>
+                  <p className="flex items-center gap-1 text-sm font-semibold text-amber-500">
+                    <span>★</span> {game.avgRating.toFixed(1)}
+                    <span className="font-normal text-text-muted">
+                      ({game.ratingCount})
+                    </span>
+                  </p>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
       {/* Why Brain Games */}
       <section className="mx-auto max-w-6xl px-6 py-16">

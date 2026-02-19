@@ -31,6 +31,28 @@ export async function getGameRating(
   }
 }
 
+export async function getTopRatedGames(
+  limit: number = 4,
+): Promise<{ slug: string; category: string; avgRating: number; ratingCount: number }[]> {
+  try {
+    const rows = await sql`
+      SELECT game_slug, category, avg_rating, rating_count
+      FROM game_rating_aggregates
+      WHERE rating_count >= 3
+      ORDER BY avg_rating DESC, rating_count DESC
+      LIMIT ${limit}
+    `;
+    return rows.map((row) => ({
+      slug: String(row.game_slug),
+      category: String(row.category),
+      avgRating: Number(row.avg_rating),
+      ratingCount: Number(row.rating_count),
+    }));
+  } catch {
+    return [];
+  }
+}
+
 export async function getCategoryRatings(
   category: string,
 ): Promise<Record<string, { avgRating: number; ratingCount: number }>> {
