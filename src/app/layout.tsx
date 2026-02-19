@@ -146,6 +146,7 @@ export default function RootLayout({
                   <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
                   <Link href="/printable-puzzles" className="text-base text-text-muted transition-colors hover:text-primary">Printable Puzzles</Link>
                   <Link href="/blog" className="text-base text-text-muted transition-colors hover:text-primary">Blog</Link>
+                  <Link href="/faq" className="text-base text-text-muted transition-colors hover:text-primary">FAQ</Link>
                 </nav>
               </div>
             </div>

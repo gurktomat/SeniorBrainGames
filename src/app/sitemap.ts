@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/daily-challenge`, changeFrequency: "daily" as const, priority: 0.8, lastModified },
     { url: `${baseUrl}/about`, changeFrequency: "monthly" as const, priority: 0.5, lastModified },
     { url: `${baseUrl}/privacy`, changeFrequency: "monthly" as const, priority: 0.3, lastModified },
+    { url: `${baseUrl}/faq`, changeFrequency: "monthly" as const, priority: 0.5, lastModified },
   ];
 
   // Quiz pages
