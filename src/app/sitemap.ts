@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllQuizzes, specialGameSlugs } from "@/lib/quizzes";
+import { getAllArticles } from "@/lib/blog";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://seniorbraingames.org";
@@ -43,6 +44,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "word-scramble-sheet-1", "word-scramble-sheet-2", "word-scramble-sheet-3",
     "riddles-sheet-1", "riddles-sheet-2", "riddles-sheet-3", "riddles-sheet-4",
     "word-ladder-sheet-1", "word-ladder-sheet-2",
+    "cryptogram-1", "cryptogram-2", "cryptogram-3",
+    "logic-grid-1", "logic-grid-2", "logic-grid-3",
+    "maze-easy", "maze-medium", "maze-hard",
   ];
   const printablePages = [
     { url: `${baseUrl}/printable-puzzles`, changeFrequency: "monthly" as const, priority: 0.8, lastModified },
@@ -54,5 +58,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ];
 
-  return [...staticPages, ...quizPages, ...gamePages, ...printablePages];
+  // Blog pages
+  const blogPages = [
+    { url: `${baseUrl}/blog`, changeFrequency: "weekly" as const, priority: 0.8, lastModified },
+    ...getAllArticles().map((article) => ({
+      url: `${baseUrl}/blog/${article.slug}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+      lastModified,
+    })),
+  ];
+
+  return [...staticPages, ...quizPages, ...gamePages, ...printablePages, ...blogPages];
 }

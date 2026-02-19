@@ -6,6 +6,7 @@ import CategoryIcon from "@/components/CategoryIcon";
 import StreakBanner from "@/components/StreakBanner";
 import JsonLd from "@/components/JsonLd";
 import type { GameCategory } from "@/lib/types";
+import { getAllArticles } from "@/lib/blog";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -145,7 +146,7 @@ export default function Home() {
               Printable Puzzles
             </h3>
             <p className="text-base text-text-muted">
-              18 free puzzle sheets &mdash; crosswords, word search, sudoku, and more. Print or save as PDF!
+              27 free puzzle sheets &mdash; crosswords, word search, sudoku, and more. Print or save as PDF!
             </p>
           </div>
           <span className="hidden text-sm font-bold text-primary sm:block">
@@ -221,7 +222,7 @@ export default function Home() {
               Printable Puzzles
             </h3>
             <p className="text-base text-text-muted">
-              18 free puzzle sheets with answer keys &mdash; crosswords, word search, sudoku, word scramble, riddles, and word ladders. Print or save as PDF!
+              27 free puzzle sheets with answer keys &mdash; crosswords, word search, sudoku, word scramble, riddles, word ladders, cryptograms, logic grids, and mazes. Print or save as PDF!
             </p>
             <div className="mt-4 flex items-center gap-1 text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
               Browse Puzzles
@@ -301,6 +302,54 @@ export default function Home() {
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* From the Blog */}
+      <section className="mx-auto max-w-6xl px-6 pb-16">
+        <div className="mb-10 text-center">
+          <h2
+            className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
+            style={{
+              fontFamily: "var(--font-merriweather), var(--font-heading)",
+            }}
+          >
+            From the Blog
+          </h2>
+          <p className="text-lg text-text-muted">Tips and research on keeping your mind sharp</p>
+        </div>
+        <div className="grid gap-6 sm:grid-cols-3">
+          {getAllArticles().slice(0, 3).map((article) => (
+            <Link
+              key={article.slug}
+              href={`/blog/${article.slug}`}
+              className="card-enterprise group p-6"
+            >
+              <div className="mb-2 text-sm text-text-muted">
+                {new Date(article.date).toLocaleDateString("en-US", {
+                  month: "long",
+                  day: "numeric",
+                  year: "numeric",
+                })}
+              </div>
+              <h3
+                className="mb-2 text-lg font-bold text-foreground group-hover:text-primary"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {article.title}
+              </h3>
+              <p className="text-sm text-text-muted line-clamp-2">{article.description}</p>
+            </Link>
+          ))}
+        </div>
+        <div className="mt-6 text-center">
+          <Link
+            href="/blog"
+            className="inline-flex items-center gap-1 text-base font-bold text-primary hover:underline"
+          >
+            View all articles
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fillRule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clipRule="evenodd" /></svg>
+          </Link>
         </div>
       </section>
     </div>

@@ -12,6 +12,7 @@ const navLinks = [
   { href: "/word-games", label: "Word Games" },
   { href: "/memory-games", label: "Memory Games" },
   { href: "/daily-challenge", label: "Daily Challenge" },
+  { href: "/blog", label: "Blog" },
 ];
 
 export default function Navigation() {

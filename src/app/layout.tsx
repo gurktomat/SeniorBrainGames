@@ -57,21 +57,12 @@ export const metadata: Metadata = {
     title: "SeniorBrainGames — Fun Brain Games for Seniors",
     description:
       "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "SeniorBrainGames — Keep Your Mind Sharp & Active",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "SeniorBrainGames — Fun Brain Games for Seniors",
     description:
       "Free brain games designed for seniors. Trivia, word games, memory challenges, and more.",
-    images: ["/og-image.png"],
   },
 };
 
@@ -154,6 +145,7 @@ export default function RootLayout({
                   <Link href="/about" className="text-base text-text-muted transition-colors hover:text-primary">About</Link>
                   <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
                   <Link href="/printable-puzzles" className="text-base text-text-muted transition-colors hover:text-primary">Printable Puzzles</Link>
+                  <Link href="/blog" className="text-base text-text-muted transition-colors hover:text-primary">Blog</Link>
                 </nav>
               </div>
             </div>
