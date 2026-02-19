@@ -6,6 +6,8 @@ import WhoAmIEngine from "@/components/WhoAmIEngine";
 import SortingEngine from "@/components/SortingEngine";
 import TimelineSortEngine from "@/components/TimelineSortEngine";
 import JsonLd from "@/components/JsonLd";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import RelatedGames from "@/components/RelatedGames";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
@@ -19,6 +21,11 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "science-sorting": { title: "Science Sorting", description: "Sort items into the correct science categories!" },
   "history-timeline": { title: "History Timeline", description: "Put world history events in the correct chronological order!" },
 };
+
+const allCategoryGames = [
+  ...Object.entries(specialGames).map(([id, g]) => ({ id, title: g.title })),
+  ...getQuizzesByCategory("general-knowledge").map((q) => ({ id: q.id, title: q.title })),
+];
 
 export function generateStaticParams() {
   const quizSlugs = getQuizzesByCategory("general-knowledge").map((q) => ({
@@ -90,6 +97,17 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
   );
 }
 
+function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+  return (
+    <>
+      <GameStructuredData slug={slug} title={title} description={description} />
+      <Breadcrumbs items={[{ label: "General Knowledge", href: "/general-knowledge" }, { label: title }]} />
+      {children}
+      <RelatedGames category="general-knowledge" categoryLabel="General Knowledge" currentSlug={slug} games={allCategoryGames} />
+    </>
+  );
+}
+
 export default async function GeneralKnowledgeQuizPage({
   params,
 }: {
@@ -101,10 +119,9 @@ export default async function GeneralKnowledgeQuizPage({
   const quiz = getQuizBySlug("general-knowledge", slug);
   if (quiz) {
     return (
-      <>
-        <GameStructuredData slug={slug} title={quiz.title} description={quiz.description} />
+      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
         <QuizEngine quiz={quiz} />
-      </>
+      </PageShell>
     );
   }
 
@@ -112,36 +129,30 @@ export default async function GeneralKnowledgeQuizPage({
   const special = specialGames[slug];
   if (!special) notFound();
 
-  const breadcrumb = <GameStructuredData slug={slug} title={special.title} description={special.description} />;
-
   switch (slug) {
     case "true-or-false":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <TrueOrFalseEngine title={trueOrFalseData.title} statements={trueOrFalseData.statements} />
-        </>
+        </PageShell>
       );
     case "who-am-i":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <WhoAmIEngine title={whoAmIData.title} puzzles={whoAmIData.puzzles} />
-        </>
+        </PageShell>
       );
     case "science-sorting":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <SortingEngine title={scienceSortingData.title} rounds={scienceSortingData.rounds} />
-        </>
+        </PageShell>
       );
     case "history-timeline":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <TimelineSortEngine title={historyTimelineData.title} rounds={historyTimelineData.rounds} />
-        </>
+        </PageShell>
       );
     default:
       notFound();

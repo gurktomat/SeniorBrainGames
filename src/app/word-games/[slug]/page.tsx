@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
 import JsonLd from "@/components/JsonLd";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import RelatedGames from "@/components/RelatedGames";
 import WordScrambleEngine from "@/components/WordScrambleEngine";
 import ProverbEngine from "@/components/ProverbEngine";
 import SpellingBeeEngine from "@/components/SpellingBeeEngine";
@@ -52,6 +54,11 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "famous-first-lines": { title: "Famous First Lines", description: "Guess the book from its famous opening line!" },
   "grammar-true-or-false": { title: "Grammar True or False", description: "Is this sentence grammatically correct? Test your grammar knowledge!" },
 };
+
+const allCategoryGames = [
+  ...Object.entries(specialGames).map(([id, g]) => ({ id, title: g.title })),
+  ...getQuizzesByCategory("word-games").map((q) => ({ id: q.id, title: q.title })),
+];
 
 export function generateStaticParams() {
   const quizSlugs = getQuizzesByCategory("word-games").map((q) => ({
@@ -123,6 +130,17 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
   );
 }
 
+function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+  return (
+    <>
+      <GameStructuredData slug={slug} title={title} description={description} />
+      <Breadcrumbs items={[{ label: "Word Games", href: "/word-games" }, { label: title }]} />
+      {children}
+      <RelatedGames category="word-games" categoryLabel="Word Games" currentSlug={slug} games={allCategoryGames} />
+    </>
+  );
+}
+
 export default async function WordGamePage({
   params,
 }: {
@@ -134,10 +152,9 @@ export default async function WordGamePage({
   const quiz = getQuizBySlug("word-games", slug);
   if (quiz) {
     return (
-      <>
-        <GameStructuredData slug={slug} title={quiz.title} description={quiz.description} />
+      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
         <QuizEngine quiz={quiz} />
-      </>
+      </PageShell>
     );
   }
 
@@ -145,39 +162,37 @@ export default async function WordGamePage({
   const special = specialGames[slug];
   if (!special) notFound();
 
-  const breadcrumb = <GameStructuredData slug={slug} title={special.title} description={special.description} />;
-
   switch (slug) {
     case "word-scramble":
-      return (<>{breadcrumb}<WordScrambleEngine title={wordScrambleData.title} puzzles={wordScrambleData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WordScrambleEngine title={wordScrambleData.title} puzzles={wordScrambleData.puzzles} /></PageShell>);
     case "complete-the-proverb":
-      return (<>{breadcrumb}<ProverbEngine title={proverbData.title} questions={proverbData.questions} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><ProverbEngine title={proverbData.title} questions={proverbData.questions} /></PageShell>);
     case "spelling-bee":
-      return (<>{breadcrumb}<SpellingBeeEngine title={spellingData.title} words={spellingData.words} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SpellingBeeEngine title={spellingData.title} words={spellingData.words} /></PageShell>);
     case "word-association":
-      return (<>{breadcrumb}<WordAssociationEngine title={wordAssocData.title} puzzles={wordAssocData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WordAssociationEngine title={wordAssocData.title} puzzles={wordAssocData.puzzles} /></PageShell>);
     case "crossword-classic":
-      return (<>{breadcrumb}<CrosswordEngine title={crosswordData.title} puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><CrosswordEngine title={crosswordData.title} puzzles={crosswordData.puzzles as React.ComponentProps<typeof CrosswordEngine>["puzzles"]} /></PageShell>);
     case "word-search":
-      return (<>{breadcrumb}<WordSearchEngine title={wordSearchData.title} puzzles={wordSearchData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WordSearchEngine title={wordSearchData.title} puzzles={wordSearchData.puzzles} /></PageShell>);
     case "hangman":
-      return (<>{breadcrumb}<HangmanEngine title={hangmanData.title} words={hangmanData.words} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><HangmanEngine title={hangmanData.title} words={hangmanData.words} /></PageShell>);
     case "word-ladder":
-      return (<>{breadcrumb}<WordLadderEngine title={wordLadderData.title} puzzles={wordLadderData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WordLadderEngine title={wordLadderData.title} puzzles={wordLadderData.puzzles} /></PageShell>);
     case "cryptogram":
-      return (<>{breadcrumb}<CryptogramEngine title={cryptogramData.title} puzzles={cryptogramData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><CryptogramEngine title={cryptogramData.title} puzzles={cryptogramData.puzzles} /></PageShell>);
     case "anagram-challenge":
-      return (<>{breadcrumb}<AnagramEngine title={anagramData.title} rounds={anagramData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><AnagramEngine title={anagramData.title} rounds={anagramData.rounds} /></PageShell>);
     case "missing-vowels":
-      return (<>{breadcrumb}<MissingVowelsEngine title={missingVowelsData.title} rounds={missingVowelsData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><MissingVowelsEngine title={missingVowelsData.title} rounds={missingVowelsData.rounds} /></PageShell>);
     case "emoji-decoder":
-      return (<>{breadcrumb}<EmojiDecoderEngine title={emojiDecoderData.title} rounds={emojiDecoderData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><EmojiDecoderEngine title={emojiDecoderData.title} rounds={emojiDecoderData.rounds} /></PageShell>);
     case "riddle-challenge":
-      return (<>{breadcrumb}<RiddleEngine title={riddleData.title} riddles={riddleData.riddles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><RiddleEngine title={riddleData.title} riddles={riddleData.riddles} /></PageShell>);
     case "famous-first-lines":
-      return (<>{breadcrumb}<FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><FirstLinesEngine title={firstLinesData.title} lines={firstLinesData.lines} /></PageShell>);
     case "grammar-true-or-false":
-      return (<>{breadcrumb}<TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><TrueOrFalseEngine title={grammarTFData.title} statements={grammarTFData.statements} /></PageShell>);
     default:
       notFound();
   }

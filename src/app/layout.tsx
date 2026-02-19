@@ -1,8 +1,9 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import Script from "next/script";
 import { Merriweather, Source_Sans_3 } from "next/font/google";
 import Navigation from "@/components/Navigation";
+import JsonLd from "@/components/JsonLd";
 import "./globals.css";
 
 const merriweather = Merriweather({
@@ -18,6 +19,10 @@ const sourceSans = Source_Sans_3({
   weight: ["300", "400", "600", "700"],
   display: "swap",
 });
+
+export const viewport: Viewport = {
+  themeColor: "#1B4965",
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://seniorbraingames.org"),
@@ -39,6 +44,11 @@ export const metadata: Metadata = {
     "mind games for elderly",
     "senior puzzles",
   ],
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "SeniorBrainGames",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -92,6 +102,17 @@ export default function RootLayout({
           fontFamily: "var(--font-source-sans), var(--font-body)",
         }}
       >
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            name: "SeniorBrainGames",
+            url: "https://seniorbraingames.org",
+            logo: "https://seniorbraingames.org/og-image.png",
+            description:
+              "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
+          }}
+        />
         <a href="#main-content" className="skip-to-content">
           Skip to content
         </a>

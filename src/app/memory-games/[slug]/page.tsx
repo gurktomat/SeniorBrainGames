@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import QuizEngine from "@/components/QuizEngine";
 import JsonLd from "@/components/JsonLd";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import RelatedGames from "@/components/RelatedGames";
 import MemoryCardEngine from "@/components/MemoryCardEngine";
 import SpotDifferenceEngine from "@/components/SpotDifferenceEngine";
 import WhatsMissingEngine from "@/components/WhatsMissingEngine";
@@ -49,6 +51,11 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "memory-true-or-false": { title: "Memory True or False", description: "Test what you know about the brain, memory, and psychology!" },
   "what-am-i": { title: "What Am I?", description: "Guess the everyday object from progressive clues — fewer clues means more points!" },
 };
+
+const allCategoryGames = [
+  ...Object.entries(specialGames).map(([id, g]) => ({ id, title: g.title })),
+  ...getQuizzesByCategory("memory-games").map((q) => ({ id: q.id, title: q.title })),
+];
 
 export function generateStaticParams() {
   const quizSlugs = getQuizzesByCategory("memory-games").map((q) => ({
@@ -120,6 +127,17 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
   );
 }
 
+function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+  return (
+    <>
+      <GameStructuredData slug={slug} title={title} description={description} />
+      <Breadcrumbs items={[{ label: "Memory Games", href: "/memory-games" }, { label: title }]} />
+      {children}
+      <RelatedGames category="memory-games" categoryLabel="Memory Games" currentSlug={slug} games={allCategoryGames} />
+    </>
+  );
+}
+
 export default async function MemoryGamePage({
   params,
 }: {
@@ -131,10 +149,9 @@ export default async function MemoryGamePage({
   const quiz = getQuizBySlug("memory-games", slug);
   if (quiz) {
     return (
-      <>
-        <GameStructuredData slug={slug} title={quiz.title} description={quiz.description} />
+      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
         <QuizEngine quiz={quiz} />
-      </>
+      </PageShell>
     );
   }
 
@@ -142,37 +159,35 @@ export default async function MemoryGamePage({
   const special = specialGames[slug];
   if (!special) notFound();
 
-  const breadcrumb = <GameStructuredData slug={slug} title={special.title} description={special.description} />;
-
   switch (slug) {
     case "memory-card-match":
-      return (<>{breadcrumb}<MemoryCardEngine title={memoryCardData.title} levels={memoryCardData.levels} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><MemoryCardEngine title={memoryCardData.title} levels={memoryCardData.levels} /></PageShell>);
     case "spot-the-difference":
-      return (<>{breadcrumb}<SpotDifferenceEngine title={spotDiffData.title} rounds={spotDiffData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SpotDifferenceEngine title={spotDiffData.title} rounds={spotDiffData.rounds} /></PageShell>);
     case "whats-missing":
-      return (<>{breadcrumb}<WhatsMissingEngine title={whatsMissingData.title} rounds={whatsMissingData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WhatsMissingEngine title={whatsMissingData.title} rounds={whatsMissingData.rounds} /></PageShell>);
     case "pattern-recognition":
-      return (<>{breadcrumb}<PatternEngine title={patternData.title} puzzles={patternData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><PatternEngine title={patternData.title} puzzles={patternData.puzzles} /></PageShell>);
     case "color-shape-sorting":
-      return (<>{breadcrumb}<SortingEngine title={sortingData.title} rounds={sortingData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SortingEngine title={sortingData.title} rounds={sortingData.rounds} /></PageShell>);
     case "sudoku-puzzles":
-      return (<>{breadcrumb}<SudokuEngine title={sudokuData.title} puzzles={sudokuData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SudokuEngine title={sudokuData.title} puzzles={sudokuData.puzzles} /></PageShell>);
     case "sliding-puzzle":
-      return (<>{breadcrumb}<SlidingPuzzleEngine title={slidingPuzzleData.title} puzzles={slidingPuzzleData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SlidingPuzzleEngine title={slidingPuzzleData.title} puzzles={slidingPuzzleData.puzzles} /></PageShell>);
     case "sequence-memory":
-      return (<>{breadcrumb}<SequenceMemoryEngine title={sequenceMemoryData.title} levels={sequenceMemoryData.levels} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><SequenceMemoryEngine title={sequenceMemoryData.title} levels={sequenceMemoryData.levels} /></PageShell>);
     case "matching-pairs":
-      return (<>{breadcrumb}<MatchingPairsEngine title={matchingPairsData.title} rounds={matchingPairsData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><MatchingPairsEngine title={matchingPairsData.title} rounds={matchingPairsData.rounds} /></PageShell>);
     case "math-challenge":
-      return (<>{breadcrumb}<MathChallengeEngine title={mathChallengeData.title} levels={mathChallengeData.levels} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><MathChallengeEngine title={mathChallengeData.title} levels={mathChallengeData.levels} /></PageShell>);
     case "number-memory":
-      return (<>{breadcrumb}<NumberMemoryEngine title={numberMemoryData.title} rounds={numberMemoryData.rounds} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><NumberMemoryEngine title={numberMemoryData.title} rounds={numberMemoryData.rounds} /></PageShell>);
     case "estimation-game":
-      return (<>{breadcrumb}<EstimationEngine title={estimationData.title} questions={estimationData.questions} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><EstimationEngine title={estimationData.title} questions={estimationData.questions} /></PageShell>);
     case "memory-true-or-false":
-      return (<>{breadcrumb}<TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><TrueOrFalseEngine title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} /></PageShell>);
     case "what-am-i":
-      return (<>{breadcrumb}<WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></>);
+      return (<PageShell slug={slug} title={special.title} description={special.description}><WhoAmIEngine title={whatAmIData.title} puzzles={whatAmIData.puzzles} /></PageShell>);
     default:
       notFound();
   }

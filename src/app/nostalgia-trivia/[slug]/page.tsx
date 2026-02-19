@@ -6,6 +6,8 @@ import TrueOrFalseEngine from "@/components/TrueOrFalseEngine";
 import SortingEngine from "@/components/SortingEngine";
 import WhoAmIEngine from "@/components/WhoAmIEngine";
 import JsonLd from "@/components/JsonLd";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import RelatedGames from "@/components/RelatedGames";
 import { getQuizzesByCategory, getQuizBySlug, specialGameSlugs } from "@/lib/quizzes";
 
 import timelineSortData from "@/data/nostalgia-trivia/timeline-sort.json";
@@ -19,6 +21,11 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "decade-sorting": { title: "Decade Sorting", description: "Sort pop culture items into their correct decade!" },
   "nostalgia-who-am-i": { title: "Nostalgia Who Am I?", description: "Guess the pop culture icon from progressive clues!" },
 };
+
+const allCategoryGames = [
+  ...Object.entries(specialGames).map(([id, g]) => ({ id, title: g.title })),
+  ...getQuizzesByCategory("nostalgia-trivia").map((q) => ({ id: q.id, title: q.title })),
+];
 
 export function generateStaticParams() {
   const quizSlugs = getQuizzesByCategory("nostalgia-trivia").map((q) => ({
@@ -90,6 +97,17 @@ function GameStructuredData({ slug, title, description }: { slug: string; title:
   );
 }
 
+function PageShell({ slug, title, description, children }: { slug: string; title: string; description: string; children: React.ReactNode }) {
+  return (
+    <>
+      <GameStructuredData slug={slug} title={title} description={description} />
+      <Breadcrumbs items={[{ label: "Nostalgia Trivia", href: "/nostalgia-trivia" }, { label: title }]} />
+      {children}
+      <RelatedGames category="nostalgia-trivia" categoryLabel="Nostalgia Trivia" currentSlug={slug} games={allCategoryGames} />
+    </>
+  );
+}
+
 export default async function NostalgiaQuizPage({
   params,
 }: {
@@ -101,10 +119,9 @@ export default async function NostalgiaQuizPage({
   const quiz = getQuizBySlug("nostalgia-trivia", slug);
   if (quiz) {
     return (
-      <>
-        <GameStructuredData slug={slug} title={quiz.title} description={quiz.description} />
+      <PageShell slug={slug} title={quiz.title} description={quiz.description}>
         <QuizEngine quiz={quiz} />
-      </>
+      </PageShell>
     );
   }
 
@@ -112,36 +129,30 @@ export default async function NostalgiaQuizPage({
   const special = specialGames[slug];
   if (!special) notFound();
 
-  const breadcrumb = <GameStructuredData slug={slug} title={special.title} description={special.description} />;
-
   switch (slug) {
     case "timeline-sort":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <TimelineSortEngine title={timelineSortData.title} rounds={timelineSortData.rounds} />
-        </>
+        </PageShell>
       );
     case "nostalgia-fact-or-fiction":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <TrueOrFalseEngine title={nostalgiaFactOrFictionData.title} statements={nostalgiaFactOrFictionData.statements} />
-        </>
+        </PageShell>
       );
     case "decade-sorting":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <SortingEngine title={decadeSortingData.title} rounds={decadeSortingData.rounds} />
-        </>
+        </PageShell>
       );
     case "nostalgia-who-am-i":
       return (
-        <>
-          {breadcrumb}
+        <PageShell slug={slug} title={special.title} description={special.description}>
           <WhoAmIEngine title={nostalgiaWhoAmIData.title} puzzles={nostalgiaWhoAmIData.puzzles} />
-        </>
+        </PageShell>
       );
     default:
       notFound();

@@ -63,6 +63,14 @@ export default function Home() {
           url: "https://seniorbraingames.org",
           description:
             "Free brain games designed for seniors. Trivia, word games, memory challenges, and more. Keep your mind sharp with fun, engaging activities!",
+          potentialAction: {
+            "@type": "SearchAction",
+            target: {
+              "@type": "EntryPoint",
+              urlTemplate: "https://seniorbraingames.org/?q={search_term_string}",
+            },
+            "query-input": "required name=search_term_string",
+          },
         }}
       />
       <StreakBanner />
