@@ -32,11 +32,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - /data — JSON quiz/game data organized by category subdirectory
 - /lib — Utility functions, types, quiz registry, and storage
 
-## Game Categories & Routes (362 games total)
-- `/nostalgia-trivia` — 90 games (11 special + 79 quiz)
-- `/general-knowledge` — 90 games (12 special + 78 quiz)
-- `/word-games` — 90 games (22 special + 68 quiz)
-- `/memory-games` — 92 games (22 special + 70 quiz)
+## Game Categories & Routes (462 games total)
+- `/nostalgia-trivia` — 115 games (11 special + 104 quiz)
+- `/general-knowledge` — 115 games (12 special + 103 quiz)
+- `/word-games` — 115 games (22 special + 93 quiz)
+- `/memory-games` — 117 games (22 special + 95 quiz)
 - `/daily-challenge` — 5-question daily quiz (force-dynamic, localStorage tracking)
 
 ## Data Organization
