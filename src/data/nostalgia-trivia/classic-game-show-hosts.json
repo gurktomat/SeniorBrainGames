@@ -1,0 +1,98 @@
+{
+  "id": "classic-game-show-hosts",
+  "title": "Classic Game Show Hosts",
+  "description": "Famous TV game show hosts and their shows",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-game-show-hosts-1",
+      "question": "Which beloved host of 'The Price Is Right' invited contestants to 'Come on down!' for 35 years?",
+      "options": ["Monty Hall", "Bob Barker", "Chuck Barris", "Wink Martindale"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-2",
+      "question": "Alex Trebek hosted which iconic quiz show from 1984 until his passing in 2020?",
+      "options": ["Wheel of Fortune", "Jeopardy!", "Who Wants to Be a Millionaire", "Family Feud"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-3",
+      "question": "Which game show host was famous for saying 'Survey says!' on 'Family Feud'?",
+      "options": ["Bob Eubanks", "Richard Dawson", "Gene Rayburn", "Allen Ludden"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-4",
+      "question": "Monty Hall was the original host of which game show where contestants chose between three doors?",
+      "options": ["The Price Is Right", "Truth or Consequences", "Let's Make a Deal", "Beat the Clock"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-game-show-hosts-5",
+      "question": "Which host of 'Wheel of Fortune' began hosting the show in 1981 alongside Vanna White?",
+      "options": ["Pat Sajak", "Chuck Woolery", "Bert Convy", "Jim Perry"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-game-show-hosts-6",
+      "question": "Gene Rayburn was the long-running host of which comedy-filled panel game show?",
+      "options": ["Hollywood Squares", "The Match Game", "To Tell the Truth", "What's My Line?"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-7",
+      "question": "Which host was known for kissing female contestants on 'Family Feud'?",
+      "options": ["Steve Harvey", "Richard Dawson", "Louie Anderson", "Ray Combs"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-8",
+      "question": "Allen Ludden hosted which word-based game show where celebrities gave one-word clues?",
+      "options": ["Scrabble", "Lingo", "Password", "Concentration"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-game-show-hosts-9",
+      "question": "Which comedian hosted 'The Gong Show,' a talent contest known for its outrageous acts?",
+      "options": ["Chuck Barris", "Rip Taylor", "Soupy Sales", "Arte Johnson"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-game-show-hosts-10",
+      "question": "Peter Marshall was the host of which game show featuring celebrities in a giant tic-tac-toe board?",
+      "options": ["Match Game", "Tattletales", "Hollywood Squares", "Card Sharks"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-game-show-hosts-11",
+      "question": "Bob Eubanks hosted which long-running game show where newlywed couples answered personal questions?",
+      "options": ["Love Connection", "The Dating Game", "The Newlywed Game", "Three's a Crowd"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-game-show-hosts-12",
+      "question": "Which game show host always reminded pet owners to 'have your pets spayed or neutered' at the end of each episode?",
+      "options": ["Alex Trebek", "Bob Barker", "Pat Sajak", "Regis Philbin"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-13",
+      "question": "Jim Lange was the original host of which show where a bachelorette questioned three hidden bachelors?",
+      "options": ["Love Connection", "The Dating Game", "Singled Out", "Blind Date"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-14",
+      "question": "Which suave host of 'To Tell the Truth' was known for the phrase 'Will the real ___ please stand up?'",
+      "options": ["Gary Moore", "Bud Collyer", "Bill Cullen", "Jack Barry"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-game-show-hosts-15",
+      "question": "Bill Cullen, one of TV's most prolific game show hosts, got his start on which long-running panel show in the 1950s?",
+      "options": ["I've Got a Secret", "The Price Is Right", "To Tell the Truth", "What's My Line?"],
+      "correctAnswer": 1
+    }
+  ]
+}

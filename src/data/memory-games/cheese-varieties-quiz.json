@@ -1,0 +1,98 @@
+{
+  "id": "cheese-varieties-quiz",
+  "title": "Cheese Varieties Quiz",
+  "description": "Identify cheeses from descriptions and countries",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "cheese-varieties-quiz-1",
+      "question": "This Italian cheese is known as the 'King of Cheeses.' It is a hard, granular cheese aged for at least 12 months and is often grated over pasta dishes. What cheese is this?",
+      "options": ["Pecorino Romano", "Parmigiano-Reggiano", "Grana Padano", "Asiago"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-2",
+      "question": "This soft French cheese has a white, bloomy rind and a creamy interior that becomes runnier as it ripens. It is named after a region southeast of Paris. What cheese is this?",
+      "options": ["Camembert", "Brie", "Brillat-Savarin", "Coulommiers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-3",
+      "question": "This famous Swiss cheese has large holes (called 'eyes'), a mild nutty flavor, and is one of the most recognized cheeses in the world. What cheese is this?",
+      "options": ["Gruy\u00e8re", "Emmental", "Appenzeller", "Raclette"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-4",
+      "question": "This English blue cheese is crumbly with blue-green veins running through a white interior. It has been made in the village of the same name since the early 1700s. What cheese is this?",
+      "options": ["Roquefort", "Gorgonzola", "Stilton", "Danish Blue"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-5",
+      "question": "This Dutch cheese has a distinctive round shape coated in red or yellow wax. It has a mild, slightly nutty and sweet flavor and is one of the most exported cheeses in the world. What cheese is this?",
+      "options": ["Gouda", "Edam", "Leyden", "Maasdam"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-6",
+      "question": "This Italian cheese is made from fresh mozzarella that is stretched into a pouch and filled with cream and shredded cheese. When cut open, the creamy filling spills out. What cheese is this?",
+      "options": ["Ricotta", "Mascarpone", "Burrata", "Stracciatella"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-7",
+      "question": "This French blue cheese is made from sheep's milk and aged in the limestone caves of southern France. It is considered one of the world's oldest known cheeses. What cheese is this?",
+      "options": ["Stilton", "Gorgonzola", "Roquefort", "Bleu d'Auvergne"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-8",
+      "question": "This fresh Italian cheese is traditionally made from water buffalo milk. It has a soft, moist texture and a mild, milky flavor. It is essential for authentic Neapolitan pizza. What cheese is this?",
+      "options": ["Ricotta", "Burrata", "Mozzarella", "Provolone"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-9",
+      "question": "This rich, creamy Swiss cheese is traditionally melted and scraped over potatoes, pickles, and cured meats. Its name comes from the French word meaning 'to scrape.' What cheese is this?",
+      "options": ["Fondue", "Gruy\u00e8re", "Raclette", "Emmental"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-10",
+      "question": "This sharp, crumbly English cheese has been made since the 12th century. It ranges from mild to extra sharp depending on aging and is the most popular cheese in Britain. What cheese is this?",
+      "options": ["Stilton", "Cheddar", "Red Leicester", "Cheshire"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-11",
+      "question": "This Spanish cheese is made from Manchega sheep's milk and has a firm, compact texture with a buttery, tangy flavor. It is often served with quince paste. What cheese is this?",
+      "options": ["Iberico", "Mahon", "Manchego", "Idiazabal"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-12",
+      "question": "This creamy Italian cheese is a key ingredient in tiramisu. It has a thick, velvety texture similar to clotted cream and a slightly sweet, milky taste. What cheese is this?",
+      "options": ["Ricotta", "Cream Cheese", "Mascarpone", "Burrata"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-13",
+      "question": "This Swiss cheese has a dense, slightly grainy texture with a rich, nutty flavor. It is the traditional cheese used in fondue and is named after a town in the canton of Fribourg. What cheese is this?",
+      "options": ["Emmental", "Appenzeller", "Gruy\u00e8re", "T\u00eate de Moine"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cheese-varieties-quiz-14",
+      "question": "This soft, tangy cheese from Normandy, France, has a white rind similar to Brie but comes in smaller rounds with a stronger, earthier flavor. It was famously supplied to French troops in World War I. What cheese is this?",
+      "options": ["Brie", "Camembert", "Pont-l'\u00c9v\u00eaque", "Livarot"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cheese-varieties-quiz-15",
+      "question": "This Italian blue cheese from Lombardy has a creamy texture and ranges from mild (dolce) to sharp (piccante). It is often crumbled into salads or melted into risotto. What cheese is this?",
+      "options": ["Roquefort", "Stilton", "Gorgonzola", "Taleggio"],
+      "correctAnswer": 2
+    }
+  ]
+}

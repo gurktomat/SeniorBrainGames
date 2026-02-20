@@ -1,0 +1,98 @@
+{
+  "id": "world-glaciers",
+  "title": "World Glaciers",
+  "description": "Famous glaciers and ice formations around the world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-glaciers-1",
+      "question": "In which country would you find the Perito Moreno Glacier, one of the few advancing glaciers in the world?",
+      "options": ["Chile", "Argentina", "Peru", "Bolivia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-glaciers-2",
+      "question": "The Vatnajökull glacier is the largest ice cap in Europe. In which country is it located?",
+      "options": ["Norway", "Sweden", "Iceland", "Greenland"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-3",
+      "question": "Which glacier on Mount Kilimanjaro has been shrinking dramatically and may disappear entirely?",
+      "options": ["Furtwängler Glacier", "Rebmann Glacier", "Credner Glacier", "Decken Glacier"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-glaciers-4",
+      "question": "The Lambert Glacier, the world's largest glacier by area, is found on which continent?",
+      "options": ["North America", "Asia", "Antarctica", "Europe"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-5",
+      "question": "Which famous glacier in Alaska is a popular cruise ship destination and was named after a naturalist?",
+      "options": ["Mendenhall Glacier", "Hubbard Glacier", "Muir Glacier", "Columbia Glacier"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-6",
+      "question": "The Aletsch Glacier, the longest glacier in the Alps, is located in which country?",
+      "options": ["Austria", "France", "Italy", "Switzerland"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-glaciers-7",
+      "question": "What is the name of the vast ice sheet that covers approximately 80% of Greenland?",
+      "options": ["Greenland Ice Sheet", "Arctic Ice Cap", "Jakobshavn Glacier", "Petermann Ice Shield"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-glaciers-8",
+      "question": "The Fox and Franz Josef glaciers are popular tourist attractions in which country?",
+      "options": ["Canada", "Norway", "New Zealand", "Chile"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-9",
+      "question": "Which type of glacier flows down from mountains through valleys, resembling frozen rivers?",
+      "options": ["Piedmont glacier", "Tidewater glacier", "Valley glacier", "Cirque glacier"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-10",
+      "question": "The Siachen Glacier, often called the highest battlefield in the world, is located in which mountain range?",
+      "options": ["Hindu Kush", "Karakoram", "Himalayas", "Pamirs"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-glaciers-11",
+      "question": "What is the term for the large chunks of ice that break off from glaciers and fall into the ocean?",
+      "options": ["Ice floes", "Calving", "Seracs", "Moraines"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-glaciers-12",
+      "question": "Glacier National Park, famous for its shrinking glaciers, is located in which U.S. state?",
+      "options": ["Alaska", "Washington", "Montana", "Colorado"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-13",
+      "question": "The Mer de Glace, or 'Sea of Ice,' is the largest glacier in France and is found near which famous peak?",
+      "options": ["Mont Blanc", "Matterhorn", "Monte Rosa", "Eiger"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-glaciers-14",
+      "question": "What is a moraine?",
+      "options": ["A glacial lake", "A crevasse in a glacier", "Debris deposited by a glacier", "A type of ice formation"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-glaciers-15",
+      "question": "The Jakobshavn Glacier in Greenland is believed to have produced the iceberg that sank which famous ship?",
+      "options": ["Lusitania", "Britannic", "Titanic", "Andrea Doria"],
+      "correctAnswer": 2
+    }
+  ]
+}

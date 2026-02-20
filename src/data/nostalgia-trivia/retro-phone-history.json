@@ -1,0 +1,98 @@
+{
+  "id": "retro-phone-history",
+  "title": "Retro Phone History",
+  "description": "Rotary phones, party lines, phone booths, and operators",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "retro-phone-history-1",
+      "question": "On a rotary phone, how did you dial a number?",
+      "options": ["Press buttons in sequence", "Turn a dial with finger holes for each digit", "Crank a handle on the side", "Speak the number to an operator"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-2",
+      "question": "What was a 'party line' in telephone history?",
+      "options": ["A phone number for reaching party planners", "A shared telephone line used by multiple households", "A special line for conference calls", "A toll-free entertainment hotline"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-3",
+      "question": "Before direct dialing, who would you speak to when you picked up the phone to make a call?",
+      "options": ["A receptionist", "A telephone operator", "An answering service", "A dispatcher"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-4",
+      "question": "What was the standard color of the classic Bell System rotary telephone found in most American homes?",
+      "options": ["White", "Black", "Brown", "Beige"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-5",
+      "question": "How much did a local call from a pay phone typically cost in the 1960s and 1970s?",
+      "options": ["A nickel (5 cents)", "A dime (10 cents)", "A quarter (25 cents)", "Fifty cents"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-6",
+      "question": "What iconic glass-enclosed structure, found on street corners, allowed people to make phone calls in public?",
+      "options": ["Call center", "Phone booth", "Telegraph office", "Communication kiosk"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-7",
+      "question": "Which comic book superhero famously used a phone booth as a changing room?",
+      "options": ["Batman", "Spider-Man", "Superman", "The Flash"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-phone-history-8",
+      "question": "What type of long-distance call required operator assistance and was charged at a premium rate?",
+      "options": ["Local call", "Person-to-person call", "Party line call", "Conference call"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-9",
+      "question": "What thick book, delivered to every household, contained the phone numbers of everyone in your local area?",
+      "options": ["The Yellow Pages", "The phone book (telephone directory)", "The White Pages only", "The caller ID log"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-10",
+      "question": "The 'Princess phone,' introduced by AT&T in 1959, was marketed primarily to which demographic?",
+      "options": ["Business executives", "Teenage girls and women", "Elderly customers", "College students"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-phone-history-11",
+      "question": "What was the long, coiled cord that connected the handset to the base of a telephone called?",
+      "options": ["Extension cord", "Phone line", "Handset cord (coiled cord)", "Telephone wire"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-phone-history-12",
+      "question": "Before area codes, telephone numbers in many cities included a word prefix based on the exchange name. What is an example?",
+      "options": ["Main-4567", "Pennsylvania 6-5000", "Central-9876", "All of the above"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-phone-history-13",
+      "question": "What kitchen appliance-colored phone, with a very long cord, became popular so people could walk around while talking?",
+      "options": ["Wall phone with extra-long cord", "Cordless phone", "Speakerphone", "Car phone"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-phone-history-14",
+      "question": "Which telephone company monopoly, broken up in 1984, was commonly known as 'Ma Bell'?",
+      "options": ["Sprint", "MCI", "AT&T (American Telephone & Telegraph)", "GTE"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-phone-history-15",
+      "question": "What service could you call to hear the exact time announced, often known as the 'time lady'?",
+      "options": ["The weather line", "Time and temperature service", "The operator", "The clock tower"],
+      "correctAnswer": 1
+    }
+  ]
+}

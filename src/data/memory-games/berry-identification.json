@@ -1,0 +1,98 @@
+{
+  "id": "berry-identification",
+  "title": "Berry Identification",
+  "description": "Identify berries and small fruits from descriptions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "berry-identification-1",
+      "question": "Which small, dark purple berry grows wild in forests across North America and Europe, stains fingers and lips, and is a key ingredient in many pies and jams?",
+      "options": ["Blackberry", "Elderberry", "Blueberry", "Huckleberry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-2",
+      "question": "Which red, heart-shaped fruit grows close to the ground on runners, has seeds on the outside of its skin, and is a symbol of Venus, the goddess of love?",
+      "options": ["Raspberry", "Cranberry", "Cherry", "Strawberry"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "berry-identification-3",
+      "question": "Which tart, red berry grows in bogs and is traditionally served as a sauce alongside turkey at Thanksgiving dinner in the United States?",
+      "options": ["Lingonberry", "Cranberry", "Red Currant", "Barberry"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-4",
+      "question": "Which berry is made up of many small drupelets clustered together, is hollow when picked from the stem, and comes in red, black, and golden varieties?",
+      "options": ["Blackberry", "Mulberry", "Raspberry", "Boysenberry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-5",
+      "question": "Which dark, almost black berry grows on thorny canes, is larger than a raspberry, and stays attached to its white core when picked?",
+      "options": ["Black Currant", "Blackberry", "Elderberry", "Mulberry"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-6",
+      "question": "Which small, round berry grows in clusters on a tree, comes in red, white, and black varieties, and is used to make the French liqueur cassis?",
+      "options": ["Gooseberry", "Currant", "Elderberry", "Lingonberry"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-7",
+      "question": "Which small, dark berry grows in flat clusters on a shrub, must be cooked before eating, and is traditionally used to make wine and syrup?",
+      "options": ["Mulberry", "Chokeberry", "Elderberry", "Sloe Berry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-8",
+      "question": "Which tart, green berry has translucent skin with visible veins, grows on a thorny bush, and is popular in British desserts like 'fool' and crumbles?",
+      "options": ["Green Grape", "Gooseberry", "Kiwi Berry", "Green Currant"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-9",
+      "question": "Which small, bright red berry grows wild across Scandinavia, is closely related to the cranberry, and is served as a jam with Swedish meatballs?",
+      "options": ["Red Currant", "Cranberry", "Lingonberry", "Barberry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-10",
+      "question": "Which berry looks similar to a blackberry, grows on a tree rather than a bush, and falls to the ground when ripe, often staining sidewalks purple?",
+      "options": ["Elderberry", "Boysenberry", "Mulberry", "Blackberry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-11",
+      "question": "Which small, dark blue berry is native to the Pacific Northwest, closely resembles a blueberry, and was a staple food for Native American tribes?",
+      "options": ["Bilberry", "Huckleberry", "Blueberry", "Saskatoon Berry"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-12",
+      "question": "Which bright orange berry grows on thorny bushes, is extremely rich in vitamin C, and is used to make oils, juices, and supplements?",
+      "options": ["Cloudberry", "Sea Buckthorn", "Goji Berry", "Physalis"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "berry-identification-13",
+      "question": "Which small, elongated red berry is native to China, is often sold dried, and has been marketed as a 'superfood' rich in antioxidants?",
+      "options": ["Barberry", "Acai Berry", "Goji Berry", "Schisandra Berry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-14",
+      "question": "Which golden-orange berry grows in Arctic and subarctic regions, resembles a soft golden raspberry, and is considered a delicacy in Scandinavian countries?",
+      "options": ["Sea Buckthorn", "Salmonberry", "Cloudberry", "Golden Raspberry"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "berry-identification-15",
+      "question": "Which small, round berry from the acai palm grows in the Amazon rainforest, has a deep purple color, and became a worldwide health food trend in smoothie bowls?",
+      "options": ["Goji Berry", "Maqui Berry", "Acai Berry", "Elderberry"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "demonyms-quiz",
+  "title": "Demonyms Quiz",
+  "description": "What do you call people from different places?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "demonyms-quiz-1",
+      "question": "What do you call a person from Glasgow?",
+      "options": ["Glasgower", "Glaswegian", "Glasgonian", "Glasgovite"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-2",
+      "question": "What is the demonym for someone from Manchester?",
+      "options": ["Manchesterian", "Manchurian", "Mancunian", "Mancastrian"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "demonyms-quiz-3",
+      "question": "What do you call someone from Liverpool?",
+      "options": ["Liverpudlian", "Liverpoolian", "Liverbird", "Liverpolean"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "demonyms-quiz-4",
+      "question": "People from Naples, Italy are known as what?",
+      "options": ["Naplesian", "Napolitano", "Neapolitan", "Naplite"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "demonyms-quiz-5",
+      "question": "What is the correct term for someone from Cambridge?",
+      "options": ["Cambridgian", "Cantabrigian", "Cambridger", "Cantabrian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-6",
+      "question": "What do you call a person from Monaco?",
+      "options": ["Monacoian", "Monacoan", "Monégasque", "Monacite"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "demonyms-quiz-7",
+      "question": "Someone from the city of Birmingham, England is called a what?",
+      "options": ["Birminghammer", "Brummie", "Birmite", "Birminghamian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-8",
+      "question": "What is the demonym for a person from Halifax?",
+      "options": ["Halifaxian", "Haligonian", "Halifaxer", "Halite"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-9",
+      "question": "What do you call someone from Newcastle upon Tyne?",
+      "options": ["Newcastleite", "Novocastrian", "Geordie", "Newcastlian"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "demonyms-quiz-10",
+      "question": "People from the Netherlands are properly called what?",
+      "options": ["Netherlandish", "Hollanders", "Dutch", "Nethers"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "demonyms-quiz-11",
+      "question": "What is the demonym for someone from Oxford?",
+      "options": ["Oxfordian", "Oxonian", "Oxfordite", "Oxbridgian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-12",
+      "question": "What do you call a person from Aberdeen?",
+      "options": ["Aberdeenite", "Aberdonian", "Aberdeener", "Aberdenian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-13",
+      "question": "Someone from the island of Cyprus is called a what?",
+      "options": ["Cyprian", "Cypriot", "Cyprusian", "Cyprean"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-14",
+      "question": "What is the demonym for someone from Sunderland?",
+      "options": ["Sunderlander", "Mackem", "Sunderlandian", "Sunderer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "demonyms-quiz-15",
+      "question": "What do you call a person from Buenos Aires?",
+      "options": ["Buenos Airean", "Porteño", "Buenasian", "Airesian"],
+      "correctAnswer": 1
+    }
+  ]
+}

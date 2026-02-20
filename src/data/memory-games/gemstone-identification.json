@@ -1,98 +1,98 @@
 {
   "id": "gemstone-identification",
   "title": "Gemstone Identification",
-  "description": "Identify gemstones from descriptions and properties",
+  "description": "Identify gemstones from descriptions",
   "gameCategory": "memory-games",
   "questions": [
     {
       "id": "gemstone-identification-1",
-      "question": "Which precious gemstone is the hardest natural substance on Earth, rating 10 on the Mohs scale?",
-      "options": ["Ruby", "Sapphire", "Diamond", "Topaz"],
+      "question": "Which precious gemstone is the hardest natural substance on Earth, scores 10 on the Mohs scale, and is traditionally associated with engagement rings?",
+      "options": ["Sapphire", "Ruby", "Diamond", "Emerald"],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-2",
-      "question": "Which green gemstone was Cleopatra's favorite, is known for its inclusions called 'jardins,' and is the birthstone for May?",
+      "question": "Which deep red gemstone is a variety of the mineral corundum, was called the 'king of gems' in ancient India, and is the birthstone for July?",
+      "options": ["Garnet", "Ruby", "Red Spinel", "Carnelian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "gemstone-identification-3",
+      "question": "Which green gemstone gets its color from chromium and vanadium, was Cleopatra's favorite gem, and is the birthstone for May?",
       "options": ["Peridot", "Jade", "Emerald", "Tsavorite"],
       "correctAnswer": 2
     },
     {
-      "id": "gemstone-identification-3",
-      "question": "Which gemstone is a variety of corundum, comes in every color except red, and is the birthstone for September?",
-      "options": ["Sapphire", "Tanzanite", "Topaz", "Amethyst"],
-      "correctAnswer": 0
-    },
-    {
       "id": "gemstone-identification-4",
-      "question": "Which red gemstone is also a variety of corundum and has historically been called the 'king of gems'?",
-      "options": ["Garnet", "Red Spinel", "Ruby", "Red Tourmaline"],
-      "correctAnswer": 2
+      "question": "Which blue gemstone is a variety of corundum, is the birthstone for September, and was believed by medieval clergy to symbolize heaven?",
+      "options": ["Tanzanite", "Sapphire", "Lapis Lazuli", "Aquamarine"],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-5",
-      "question": "Which iridescent gemstone is formed inside mollusks and is the only gem created by a living organism?",
+      "question": "Which iridescent gemstone is formed inside the shells of mollusks, comes in white, black, and golden varieties, and is the birthstone for June?",
       "options": ["Moonstone", "Opal", "Pearl", "Mother of Pearl"],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-6",
-      "question": "Which gemstone displays a stunning play of color with rainbow-like flashes and is the national gemstone of Australia?",
+      "question": "Which gemstone displays a spectacular play of color with flashes of rainbow hues, is the national gemstone of Australia, and is the birthstone for October?",
       "options": ["Labradorite", "Moonstone", "Opal", "Fire Agate"],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-7",
-      "question": "Which purple gemstone is a variety of quartz and was once considered as valuable as diamonds?",
-      "options": ["Tanzanite", "Iolite", "Amethyst", "Purple Sapphire"],
+      "question": "Which purple variety of quartz was believed by the ancient Greeks to prevent intoxication, and is the birthstone for February?",
+      "options": ["Tanzanite", "Charoite", "Amethyst", "Iolite"],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-8",
-      "question": "Which blue-violet gemstone was discovered in Tanzania in 1967 and is found nowhere else on Earth?",
-      "options": ["Lapis Lazuli", "Sapphire", "Iolite", "Tanzanite"],
-      "correctAnswer": 3
+      "question": "Which pale blue to blue-green gemstone is named after seawater, belongs to the beryl family alongside emerald, and is the birthstone for March?",
+      "options": ["Blue Topaz", "Aquamarine", "Turquoise", "Larimar"],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-9",
-      "question": "Which golden-yellow gemstone is fossilized tree resin, sometimes containing preserved ancient insects?",
-      "options": ["Citrine", "Topaz", "Amber", "Yellow Sapphire"],
+      "question": "Which opaque blue-green gemstone has been mined for thousands of years, was sacred to the ancient Egyptians, and is the birthstone for December?",
+      "options": ["Lapis Lazuli", "Aquamarine", "Turquoise", "Sodalite"],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-10",
-      "question": "Which deep blue gemstone has been prized since antiquity, was ground into ultramarine pigment by Renaissance painters, and often contains flecks of golden pyrite?",
-      "options": ["Blue Sapphire", "Lapis Lazuli", "Sodalite", "Azurite"],
-      "correctAnswer": 1
+      "question": "Which deep blue gemstone, often flecked with golden pyrite, was ground into powder to create the precious pigment ultramarine used by Renaissance painters?",
+      "options": ["Sapphire", "Sodalite", "Azurite", "Lapis Lazuli"],
+      "correctAnswer": 3
     },
     {
       "id": "gemstone-identification-11",
-      "question": "Which gemstone is known for its cat's-eye effect, comes in honey-brown to greenish colors, and is believed to bring good luck?",
-      "options": ["Tiger's Eye", "Chrysoberyl Cat's Eye", "Hawk's Eye", "Moonstone"],
+      "question": "Which yellowish-green gemstone is found in volcanic rock and meteorites, was called the 'gem of the sun' by ancient Egyptians, and is the birthstone for August?",
+      "options": ["Citrine", "Peridot", "Chrysoberyl", "Yellow Sapphire"],
       "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-12",
-      "question": "Which gemstone appears green in daylight but changes to red under incandescent light, and is named after a Russian tsar?",
-      "options": ["Alexandrite", "Color-change Sapphire", "Andalusite", "Chrome Tourmaline"],
-      "correctAnswer": 0
+      "question": "Which gemstone is highly prized in Chinese culture, comes in green, white, and lavender varieties, and has been carved into jewelry and figurines for over 5,000 years?",
+      "options": ["Emerald", "Malachite", "Jade", "Aventurine"],
+      "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-13",
-      "question": "Which light green gemstone is sometimes called 'the evening emerald,' is found in volcanic rock, and is the birthstone for August?",
-      "options": ["Green Tourmaline", "Peridot", "Jade", "Chrome Diopside"],
-      "correctAnswer": 1
+      "question": "Which violet-blue gemstone was discovered in Tanzania in 1967, is found nowhere else on Earth, and is one thousand times rarer than diamond?",
+      "options": ["Iolite", "Sapphire", "Tanzanite", "Amethyst"],
+      "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-14",
-      "question": "Which gemstone comes in virtually every color, has varieties called 'watermelon' and 'Paraiba,' and has strong pleochroism?",
-      "options": ["Garnet", "Spinel", "Tourmaline", "Zircon"],
-      "correctAnswer": 2
+      "question": "Which golden-yellow variety of quartz shares its name with a citrus fruit, is often confused with yellow topaz, and is the birthstone for November?",
+      "options": ["Amber", "Citrine", "Yellow Beryl", "Golden Topaz"],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-15",
-      "question": "Which ornamental stone has been carved and revered in China for thousands of years, comes in nephrite and jadeite varieties, and symbolizes purity and wisdom?",
-      "options": ["Malachite", "Aventurine", "Jade", "Serpentine"],
-      "correctAnswer": 2
+      "question": "Which deep red gemstone is the birthstone for January, was used as a talisman by travelers in the Middle Ages, and comes in varieties including pyrope, almandine, and grossular?",
+      "options": ["Ruby", "Garnet", "Red Tourmaline", "Carnelian"],
+      "correctAnswer": 1
     }
   ]
 }

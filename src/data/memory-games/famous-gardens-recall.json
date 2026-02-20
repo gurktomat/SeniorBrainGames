@@ -1,0 +1,98 @@
+{
+  "id": "famous-gardens-recall",
+  "title": "Famous Gardens",
+  "description": "Recall facts about famous gardens around the world",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-gardens-recall-1",
+      "question": "Which elaborate gardens were created for King Louis XIV in the 17th century, feature over 50 fountains, and are considered the finest example of French formal garden design?",
+      "options": ["Luxembourg Gardens", "Tuileries Garden", "Gardens of Versailles", "Jardin des Plantes"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-2",
+      "question": "Which English garden, located in London, is home to the world's largest collection of living plants and was designated a UNESCO World Heritage Site in 2003?",
+      "options": ["Hyde Park", "Hampton Court Gardens", "Royal Botanic Gardens, Kew", "Chelsea Physic Garden"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-3",
+      "question": "Which famous garden in Giverny, France, was created by an Impressionist painter and features a Japanese-style water garden with a green footbridge and water lilies?",
+      "options": ["Jardin du Luxembourg", "Monet's Garden", "Jardin Majorelle", "Bagatelle Garden"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-4",
+      "question": "Which ancient wonder of the world was a series of tiered gardens reportedly built in present-day Iraq, though their existence has never been definitively proven?",
+      "options": ["Gardens of Babylon", "Hanging Gardens of Babylon", "Shalimar Gardens", "Gardens of Semiramis"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-5",
+      "question": "Which Japanese garden in Kanazawa is considered one of the 'Three Great Gardens of Japan' and features a famous two-legged stone lantern called Kotoji-toro?",
+      "options": ["Korakuen", "Kenrokuen", "Ritsurin Garden", "Kairakuen"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-6",
+      "question": "Which garden in Marrakech, Morocco, is famous for its striking cobalt blue buildings, was restored by Yves Saint Laurent, and houses the Berber Museum?",
+      "options": ["Menara Gardens", "Agdal Gardens", "Jardin Majorelle", "Andalusian Gardens"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-7",
+      "question": "Which futuristic garden attraction in Singapore features giant tree-like structures up to 50 meters tall, called Supertrees, with vertical gardens and solar cells?",
+      "options": ["Singapore Botanic Gardens", "Gardens by the Bay", "HortPark", "Jurong Lake Gardens"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-8",
+      "question": "Which Italian garden on Lake Como is famous for its terraced hillside design, Renaissance statues, and spectacular views of the lake and Alps?",
+      "options": ["Villa d'Este", "Boboli Gardens", "Villa Carlotta", "Villa Balbianello"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-9",
+      "question": "Which South African garden, established in 1913, is set against the eastern slopes of Table Mountain and showcases indigenous plants of the Cape Floral Region?",
+      "options": ["Durban Botanic Gardens", "Kirstenbosch National Botanical Garden", "Harold Porter Garden", "Stellenbosch University Garden"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-10",
+      "question": "Which vast garden complex in Mughal India, located near Agra along the Yamuna River, surrounds one of the most famous buildings in the world?",
+      "options": ["Shalimar Gardens", "Nishat Bagh", "Taj Mahal Gardens", "Lodi Gardens"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-11",
+      "question": "Which Canadian garden on Vancouver Island is built in a former limestone quarry and features a stunning Sunken Garden that draws nearly a million visitors annually?",
+      "options": ["VanDusen Botanical Garden", "Butchart Gardens", "Montreal Botanical Garden", "Royal Botanical Gardens"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-12",
+      "question": "Which garden in Florence, Italy, is located behind the Pitti Palace, features Renaissance sculptures and fountains, and inspired many European royal gardens?",
+      "options": ["Villa Borghese", "Boboli Gardens", "Villa d'Este", "Giardino Bardini"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-gardens-recall-13",
+      "question": "Which Dutch garden, open only in spring, displays approximately 7 million flower bulbs annually and is one of the world's largest flower gardens?",
+      "options": ["Keukenhof", "Hortus Botanicus Amsterdam", "Paleis Het Loo Gardens", "Appeltern Gardens"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-gardens-recall-14",
+      "question": "Which English cottage garden in the Cotswolds was designed by Arts and Crafts movement architects and features a series of 'outdoor rooms' defined by hedges and walls?",
+      "options": ["Sissinghurst Castle Garden", "Great Dixter", "Hidcote Manor Garden", "Stourhead"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-gardens-recall-15",
+      "question": "Which botanical garden in Rio de Janeiro was founded in 1808 by King John VI of Portugal and is famous for its avenue of towering royal palm trees?",
+      "options": ["Inhotim", "Sitio Roberto Burle Marx", "Rio de Janeiro Botanical Garden", "Parque Lage"],
+      "correctAnswer": 2
+    }
+  ]
+}

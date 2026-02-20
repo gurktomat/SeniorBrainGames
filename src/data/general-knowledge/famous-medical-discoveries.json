@@ -1,0 +1,98 @@
+{
+  "id": "famous-medical-discoveries",
+  "title": "Famous Medical Discoveries",
+  "description": "Breakthrough medical discoveries and their discoverers",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-medical-discoveries-1",
+      "question": "Who is credited with discovering penicillin in 1928?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Joseph Lister", "Robert Koch"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-2",
+      "question": "Edward Jenner developed the first vaccine in 1796 to prevent which disease?",
+      "options": ["Polio", "Measles", "Smallpox", "Typhoid"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-medical-discoveries-3",
+      "question": "Who discovered X-rays in 1895?",
+      "options": ["Wilhelm Röntgen", "Marie Curie", "Niels Bohr", "Max Planck"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-medical-discoveries-4",
+      "question": "Which scientists are credited with discovering the structure of DNA in 1953?",
+      "options": ["Linus Pauling and Erwin Chargaff", "James Watson and Francis Crick", "Gregor Mendel and Thomas Morgan", "Rosalind Franklin and Maurice Wilkins"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-5",
+      "question": "Who developed the first successful polio vaccine in 1955?",
+      "options": ["Albert Sabin", "Jonas Salk", "John Enders", "Thomas Francis"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-6",
+      "question": "What did William Harvey describe in his groundbreaking 1628 publication?",
+      "options": ["The nervous system", "The circulation of blood", "The lymphatic system", "The digestive process"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-7",
+      "question": "Who is known as the 'father of modern surgery' for pioneering antiseptic surgical techniques?",
+      "options": ["Ignaz Semmelweis", "Joseph Lister", "Ambroise Paré", "William Halsted"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-8",
+      "question": "Frederick Banting and Charles Best are celebrated for discovering which life-saving substance in 1921?",
+      "options": ["Aspirin", "Morphine", "Insulin", "Adrenaline"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-medical-discoveries-9",
+      "question": "Louis Pasteur's germ theory of disease led him to develop a vaccine for which deadly illness in 1885?",
+      "options": ["Cholera", "Rabies", "Tuberculosis", "Anthrax"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-10",
+      "question": "Which physician introduced the practice of handwashing in hospitals in the 1840s, dramatically reducing maternal mortality?",
+      "options": ["Robert Koch", "Ignaz Semmelweis", "Florence Nightingale", "John Snow"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-11",
+      "question": "What medical imaging technology was invented by Godfrey Hounsfield and Allan Cormack in the 1970s?",
+      "options": ["MRI scanner", "Ultrasound", "CT scanner", "PET scanner"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-medical-discoveries-12",
+      "question": "Who discovered that malaria was transmitted by mosquitoes, winning the Nobel Prize in 1902?",
+      "options": ["Patrick Manson", "Ronald Ross", "Carlos Finlay", "Walter Reed"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-13",
+      "question": "Which Scottish physician pioneered the use of chloroform as an anesthetic during childbirth in the 1840s?",
+      "options": ["James Young Simpson", "Crawford Long", "William Morton", "John Snow"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-medical-discoveries-14",
+      "question": "Robert Koch's postulates helped establish the bacterial cause of which disease in 1882?",
+      "options": ["Cholera", "Tuberculosis", "Typhoid", "Plague"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-medical-discoveries-15",
+      "question": "Who performed the world's first successful human heart transplant in 1967?",
+      "options": ["Michael DeBakey", "Denton Cooley", "Christiaan Barnard", "Norman Shumway"],
+      "correctAnswer": 2
+    }
+  ]
+}

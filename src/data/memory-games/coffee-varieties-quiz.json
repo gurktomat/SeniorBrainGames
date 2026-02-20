@@ -1,0 +1,98 @@
+{
+  "id": "coffee-varieties-quiz",
+  "title": "Coffee Varieties Quiz",
+  "description": "Identify coffee types, origins, and preparation",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "coffee-varieties-quiz-1",
+      "question": "This Italian coffee drink is made by forcing hot water through finely ground coffee under high pressure, producing a small, concentrated shot with a layer of crema on top. What drink is this?",
+      "options": ["Americano", "Espresso", "Ristretto", "Lungo"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-2",
+      "question": "This popular coffee drink combines espresso with steamed milk and a small amount of milk foam on top. Its name comes from the Italian word for 'milk.' What drink is this?",
+      "options": ["Cappuccino", "Latte", "Flat White", "Macchiato"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-3",
+      "question": "This classic Italian coffee drink is made of equal parts espresso, steamed milk, and milk foam. It is traditionally a morning beverage in Italy. What drink is this?",
+      "options": ["Latte", "Cappuccino", "Mocha", "Macchiato"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-4",
+      "question": "This coffee drink is made by adding hot water to espresso, creating a full cup with a similar strength to drip coffee but a different flavor profile. American soldiers in Italy popularized it during World War II. What drink is this?",
+      "options": ["Long Black", "Americano", "Lungo", "Drip Coffee"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-5",
+      "question": "This indulgent coffee drink combines espresso with chocolate syrup and steamed milk, often topped with whipped cream. It is named after the Yemeni port city of Mocha. What drink is this?",
+      "options": ["Latte", "Affogato", "Caf\u00e9 Mocha", "Bicerin"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "coffee-varieties-quiz-6",
+      "question": "This Italian coffee drink means 'stained' or 'spotted.' It is an espresso with just a small dollop of foamed milk on top. What drink is this?",
+      "options": ["Cortado", "Macchiato", "Ristretto", "Espresso"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-7",
+      "question": "This brewing method uses a glass or plastic cylinder with a metal mesh plunger to steep coarsely ground coffee in hot water, then press the grounds to the bottom. What brewing method is this?",
+      "options": ["Pour Over", "French Press", "AeroPress", "Percolator"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-8",
+      "question": "This coffee species accounts for about 60-70% of global production. It grows best at higher altitudes and is generally considered to have a smoother, more complex flavor than Robusta. What species is this?",
+      "options": ["Robusta", "Liberica", "Arabica", "Excelsa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "coffee-varieties-quiz-9",
+      "question": "This famous coffee-growing region in Jamaica's Blue Mountains produces one of the world's most expensive and sought-after coffees, known for its mild flavor and lack of bitterness. What coffee is this?",
+      "options": ["Kona Coffee", "Jamaica Blue Mountain", "Colombian Supremo", "Hawaiian Ka'u"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-10",
+      "question": "This Italian dessert combines coffee with ice cream. A shot of hot espresso is poured over a scoop of vanilla gelato. Its name means 'drowned' in Italian. What is this?",
+      "options": ["Caf\u00e9 Mocha", "Bicerin", "Affogato", "Granita"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "coffee-varieties-quiz-11",
+      "question": "This coffee from Ethiopia is often considered the birthplace variety of all coffee. Legend says a goat herder named Kaldi discovered it when his goats ate the berries. What coffee origin is this?",
+      "options": ["Yemen", "Ethiopia", "Kenya", "Rwanda"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-12",
+      "question": "This elegant brewing method involves pouring hot water in a slow, circular motion over coffee grounds in a cone-shaped filter. It produces a clean, flavorful cup. What brewing method is this?",
+      "options": ["French Press", "Siphon", "Pour Over", "Cold Brew"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "coffee-varieties-quiz-13",
+      "question": "This coffee preparation involves steeping coarsely ground coffee in cold water for 12 to 24 hours. The result is a smooth, less acidic concentrate. What brewing method is this?",
+      "options": ["Iced Coffee", "Cold Brew", "Nitro Coffee", "Japanese Iced Coffee"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "coffee-varieties-quiz-14",
+      "question": "This small stovetop device, invented in Italy in 1933 by Alfonso Bialetti, brews coffee by pushing boiling water through ground coffee using steam pressure. What device is this?",
+      "options": ["Percolator", "Espresso Machine", "Moka Pot", "Ibrik"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "coffee-varieties-quiz-15",
+      "question": "This Spanish coffee drink is made with equal parts espresso and warm steamed milk, served in a small glass. It is similar to a small latte but with less milk. What drink is this?",
+      "options": ["Macchiato", "Cortado", "Caf\u00e9 con Leche", "Piccolo"],
+      "correctAnswer": 1
+    }
+  ]
+}

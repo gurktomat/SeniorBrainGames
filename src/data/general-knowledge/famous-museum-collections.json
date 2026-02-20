@@ -1,0 +1,98 @@
+{
+  "id": "famous-museum-collections",
+  "title": "Famous Museum Collections",
+  "description": "Great museums and their signature collections",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-museum-collections-1",
+      "question": "The Mona Lisa, arguably the world's most famous painting, is housed in which museum?",
+      "options": ["Uffizi Gallery", "The Louvre", "National Gallery", "Prado Museum"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-museum-collections-2",
+      "question": "The Rosetta Stone, key to deciphering Egyptian hieroglyphics, is a prized exhibit at which museum?",
+      "options": ["Egyptian Museum in Cairo", "The Louvre", "British Museum", "Metropolitan Museum of Art"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-3",
+      "question": "Which Washington, D.C. museum complex, the world's largest, is free to visit and includes 21 museums?",
+      "options": ["National Gallery of Art", "Smithsonian Institution", "Library of Congress", "Kennedy Center"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-museum-collections-4",
+      "question": "The Hermitage Museum in Saint Petersburg, Russia, is housed in which former royal residence?",
+      "options": ["Kremlin Palace", "Peterhof Palace", "Winter Palace", "Catherine Palace"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-5",
+      "question": "Which Florence museum is home to Botticelli's 'The Birth of Venus' and 'Primavera'?",
+      "options": ["Palazzo Pitti", "Uffizi Gallery", "Accademia Gallery", "Bargello Museum"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-museum-collections-6",
+      "question": "Michelangelo's statue of David, standing over 14 feet tall, can be seen at which museum in Florence?",
+      "options": ["Uffizi Gallery", "Bargello Museum", "Galleria dell'Accademia", "Palazzo Vecchio"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-7",
+      "question": "The Metropolitan Museum of Art in New York City is commonly known by what nickname?",
+      "options": ["The National", "The Metro", "The Met", "The Grand"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-8",
+      "question": "Which Madrid museum houses one of the world's finest collections of European art, including works by Velázquez and Goya?",
+      "options": ["Reina Sofía", "Thyssen-Bornemisza", "Prado Museum", "Guggenheim Bilbao"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-9",
+      "question": "The terracotta warriors, discovered in 1974, are displayed near which Chinese city?",
+      "options": ["Beijing", "Shanghai", "Xi'an", "Guangzhou"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-10",
+      "question": "Which Amsterdam museum houses the largest collection of works by Vincent van Gogh?",
+      "options": ["Rijksmuseum", "Stedelijk Museum", "Anne Frank House", "Van Gogh Museum"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-museum-collections-11",
+      "question": "The Hope Diamond, one of the world's most famous gemstones, is on display at which museum?",
+      "options": ["American Museum of Natural History", "Smithsonian National Museum of Natural History", "Field Museum", "British Museum"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-museum-collections-12",
+      "question": "Picasso's famous anti-war painting 'Guernica' is displayed at which Madrid museum?",
+      "options": ["Prado Museum", "Thyssen-Bornemisza", "Reina Sofía", "Royal Palace"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-13",
+      "question": "The Egyptian Museum in Cairo is renowned for its collection of treasures from which pharaoh's tomb?",
+      "options": ["Ramesses II", "Cleopatra", "Tutankhamun", "Akhenaten"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-14",
+      "question": "Which New York museum, designed by Frank Lloyd Wright, is known for its spiral rotunda and modern art collection?",
+      "options": ["MoMA", "Whitney Museum", "Solomon R. Guggenheim Museum", "Brooklyn Museum"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-museum-collections-15",
+      "question": "The Rijksmuseum in Amsterdam is home to which iconic Rembrandt painting?",
+      "options": ["The Starry Night", "Girl with a Pearl Earring", "The Night Watch", "The Anatomy Lesson"],
+      "correctAnswer": 2
+    }
+  ]
+}

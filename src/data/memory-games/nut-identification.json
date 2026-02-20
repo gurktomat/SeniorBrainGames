@@ -1,0 +1,98 @@
+{
+  "id": "nut-identification",
+  "title": "Nut Identification",
+  "description": "Identify nuts and seeds from descriptions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "nut-identification-1",
+      "question": "Which nut grows inside a hard, round shell with a fuzzy green husk, falls from tall trees in autumn, and is a favorite of squirrels?",
+      "options": ["Hazelnut", "Walnut", "Pecan", "Hickory Nut"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nut-identification-2",
+      "question": "Which nut has a smooth, oblong shell, grows primarily in the southern United States, and is the key ingredient in a classic American pie?",
+      "options": ["Walnut", "Pecan", "Macadamia", "Chestnut"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nut-identification-3",
+      "question": "Which nut has a pale green color, a slightly sweet flavor, and splits open along one seam when ripe — a feature that is considered good luck in some Middle Eastern cultures?",
+      "options": ["Cashew", "Pine Nut", "Pistachio", "Almond"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-4",
+      "question": "Which nut is actually a seed that grows on the outside of a tropical fruit, has a kidney-bean shape, and must be carefully processed to remove its toxic shell?",
+      "options": ["Macadamia", "Brazil Nut", "Cashew", "Pine Nut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-5",
+      "question": "Which large, triangular nut grows in the Amazon rainforest inside a heavy, coconut-like pod that contains 12 to 20 nuts, and is extremely rich in selenium?",
+      "options": ["Coconut", "Macadamia", "Brazil Nut", "Candlenut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-6",
+      "question": "Which round, extremely hard-shelled nut is native to Australia, has a rich, buttery flavor, and is one of the most expensive nuts in the world?",
+      "options": ["Macadamia", "Hazelnut", "Pecan", "Cashew"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nut-identification-7",
+      "question": "Which small, round nut is also called a filbert, grows in clusters on shrubs, and is the key flavor in Nutella chocolate spread?",
+      "options": ["Chestnut", "Acorn", "Hazelnut", "Walnut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-8",
+      "question": "Which nut grows inside a spiny husk, can be roasted over an open fire, and was historically ground into flour by many European and Native American cultures?",
+      "options": ["Walnut", "Acorn", "Chestnut", "Hickory Nut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-9",
+      "question": "Which nut is technically a legume, grows underground rather than on a tree, and is one of the most widely consumed nuts in the world?",
+      "options": ["Cashew", "Peanut", "Soybean", "Chickpea"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nut-identification-10",
+      "question": "Which tear-drop shaped nut comes in sweet and bitter varieties, is the base of marzipan, and is widely grown in California's Central Valley?",
+      "options": ["Pistachio", "Pine Nut", "Almond", "Pecan"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-11",
+      "question": "Which small, cream-colored seed is harvested from the cones of certain pine trees, has a delicate, buttery taste, and is essential in Italian pesto sauce?",
+      "options": ["Sunflower Seed", "Sesame Seed", "Hemp Seed", "Pine Nut"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nut-identification-12",
+      "question": "Which large, brown, hairy-shelled fruit contains white flesh and water inside, and is technically a drupe rather than a true nut?",
+      "options": ["Brazil Nut", "Coconut", "Macadamia", "Breadfruit"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nut-identification-13",
+      "question": "Which small, flat, oval seed has been cultivated for over 5,000 years, comes in black and white varieties, and is commonly sprinkled on hamburger buns?",
+      "options": ["Poppy Seed", "Flax Seed", "Sesame Seed", "Chia Seed"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nut-identification-14",
+      "question": "Which flat, green seed comes from inside a pumpkin, is also known as a pepita, and is a popular snack in Mexican cuisine?",
+      "options": ["Sunflower Seed", "Pumpkin Seed", "Watermelon Seed", "Squash Seed"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nut-identification-15",
+      "question": "Which striped, teardrop-shaped seed grows in the large flower head of a tall yellow plant and is the most popular snack seed at baseball games in America?",
+      "options": ["Pumpkin Seed", "Safflower Seed", "Sunflower Seed", "Flax Seed"],
+      "correctAnswer": 2
+    }
+  ]
+}

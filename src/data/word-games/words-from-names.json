@@ -1,0 +1,98 @@
+{
+  "id": "words-from-names",
+  "title": "Words From Names",
+  "description": "Everyday words derived from people's names",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "words-from-names-1",
+      "question": "The word 'boycott' comes from Captain Charles Boycott. What was his occupation?",
+      "options": ["Naval commander", "Land agent in Ireland", "Prison warden", "Tax collector"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-2",
+      "question": "The diesel engine is named after Rudolf Diesel. What nationality was he?",
+      "options": ["Swedish", "Austrian", "German", "Dutch"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-from-names-3",
+      "question": "The word 'cardigan' comes from the 7th Earl of Cardigan. What is he most famous for?",
+      "options": ["Inventing the spinning jenny", "Leading the Charge of the Light Brigade", "Discovering penicillin", "Founding a university"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-4",
+      "question": "The 'sandwich' is named after the Earl of Sandwich. Why did he supposedly want bread around his meat?",
+      "options": ["To keep his hands clean while playing cards", "To eat while riding horses", "To save money on plates", "To pack meals for soldiers"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-from-names-5",
+      "question": "Wellington boots are named after the Duke of Wellington. What major battle did he win?",
+      "options": ["Battle of Hastings", "Battle of Trafalgar", "Battle of Waterloo", "Battle of the Somme"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-from-names-6",
+      "question": "The word 'shrapnel' comes from General Henry Shrapnel. What did he invent?",
+      "options": ["A type of rifle", "An explosive artillery shell", "A military uniform", "A bulletproof vest"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-7",
+      "question": "Louis Braille gave his name to the Braille reading system. What was his nationality?",
+      "options": ["Belgian", "Swiss", "French", "Italian"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-from-names-8",
+      "question": "The 'leotard' is named after Jules Léotard. What was his profession?",
+      "options": ["Ballet dancer", "Trapeze artist", "Fencer", "Gymnast"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-9",
+      "question": "The word 'maverick' comes from Samuel Maverick. Why was he notable?",
+      "options": ["He was a famous outlaw", "He refused to brand his cattle", "He invented a card game", "He was an eccentric inventor"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-10",
+      "question": "The sideburns hairstyle is named after which American Civil War general?",
+      "options": ["Ulysses S. Grant", "Ambrose Burnside", "Robert E. Lee", "William Sherman"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-11",
+      "question": "The word 'nicotine' is derived from Jean Nicot. What was his role?",
+      "options": ["A chemist", "A French ambassador who introduced tobacco to France", "A tobacco farmer", "A doctor who studied poisons"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-12",
+      "question": "The saxophone is named after Adolphe Sax. What country was he from?",
+      "options": ["France", "Germany", "Belgium", "Austria"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-from-names-13",
+      "question": "The word 'mesmerise' comes from Franz Mesmer. What did he practise?",
+      "options": ["Magic tricks", "Hypnosis and animal magnetism", "Fortune telling", "Alchemy"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-14",
+      "question": "The 'dunce cap' is ironically named after John Duns Scotus. What was he?",
+      "options": ["A court jester", "A brilliant medieval scholar", "A strict schoolteacher", "A foolish king"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-from-names-15",
+      "question": "The word 'guillotine' comes from Joseph-Ignace Guillotin. What did he actually advocate for?",
+      "options": ["Mass executions", "A more humane method of execution", "Abolishing the death penalty entirely", "Public trials"],
+      "correctAnswer": 1
+    }
+  ]
+}

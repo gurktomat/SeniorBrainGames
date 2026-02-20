@@ -1,0 +1,98 @@
+{
+  "id": "constellation-quiz",
+  "title": "Constellation Quiz",
+  "description": "Identify constellations and star patterns",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "constellation-quiz-1",
+      "question": "This constellation is one of the most recognizable in the night sky, featuring three bright stars in a row forming a 'belt.' It represents a hunter from Greek mythology. What constellation is this?",
+      "options": ["Sagittarius", "Orion", "Hercules", "Perseus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-2",
+      "question": "This constellation contains the North Star (Polaris) at the tip of its 'handle' and is also known as the Little Dipper. What constellation is this?",
+      "options": ["Ursa Major", "Ursa Minor", "Cassiopeia", "Draco"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-3",
+      "question": "This large constellation is also called the Great Bear and contains the famous Big Dipper asterism, which is used to find the North Star. What constellation is this?",
+      "options": ["Ursa Minor", "Ursa Major", "Leo", "Lupus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-4",
+      "question": "This W-shaped constellation is named after a vain queen from Greek mythology. It is visible year-round from northern latitudes and sits opposite the Big Dipper. What constellation is this?",
+      "options": ["Andromeda", "Cassiopeia", "Lyra", "Corona Borealis"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-5",
+      "question": "This zodiac constellation is represented by a lion and contains the bright star Regulus. It is best seen in the spring sky. What constellation is this?",
+      "options": ["Aries", "Taurus", "Leo", "Sagittarius"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "constellation-quiz-6",
+      "question": "This constellation represents a scorpion and features the bright red supergiant star Antares at its heart. It is prominent in summer skies. What constellation is this?",
+      "options": ["Scorpius", "Cancer", "Draco", "Hydra"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "constellation-quiz-7",
+      "question": "This small constellation contains the bright star Vega, one of the brightest stars in the night sky. It represents a stringed musical instrument. What constellation is this?",
+      "options": ["Cygnus", "Aquila", "Lyra", "Hercules"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "constellation-quiz-8",
+      "question": "This constellation is shaped like a cross and is also known as the Northern Cross. Its brightest star is Deneb. It represents a swan flying along the Milky Way. What constellation is this?",
+      "options": ["Aquila", "Cygnus", "Corvus", "Columba"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-9",
+      "question": "This zodiac constellation represents twins and contains two bright stars named Castor and Pollux. It is best seen in winter. What constellation is this?",
+      "options": ["Libra", "Pisces", "Gemini", "Aquarius"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "constellation-quiz-10",
+      "question": "This zodiac constellation represents a bull and contains the bright orange star Aldebaran as well as the Pleiades star cluster. What constellation is this?",
+      "options": ["Aries", "Taurus", "Capricornus", "Leo"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-11",
+      "question": "This famous southern constellation has four bright stars forming a cross shape. It is featured on the flags of Australia and New Zealand. What constellation is this?",
+      "options": ["Centaurus", "Crux", "Vela", "Carina"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-12",
+      "question": "This constellation represents an eagle and contains the bright star Altair. Together with Vega and Deneb, Altair forms the Summer Triangle. What constellation is this?",
+      "options": ["Corvus", "Phoenix", "Aquila", "Pavo"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "constellation-quiz-13",
+      "question": "This constellation is named after the winged horse of Greek mythology. It contains the Great Square asterism, made of four stars forming a large square shape. What constellation is this?",
+      "options": ["Centaurus", "Pegasus", "Monoceros", "Equuleus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-14",
+      "question": "This zodiac constellation is represented by a water bearer and is best known for the Aquarid meteor showers. It is a large but faint constellation. What constellation is this?",
+      "options": ["Pisces", "Aquarius", "Eridanus", "Cetus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "constellation-quiz-15",
+      "question": "This constellation represents a dragon and winds between the Big and Little Dippers. It was once home to the north pole star thousands of years ago. What constellation is this?",
+      "options": ["Serpens", "Hydra", "Draco", "Lacerta"],
+      "correctAnswer": 2
+    }
+  ]
+}

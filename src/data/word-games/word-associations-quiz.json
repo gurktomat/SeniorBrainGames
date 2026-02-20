@@ -1,0 +1,98 @@
+{
+  "id": "word-associations-quiz",
+  "title": "Word Associations Quiz",
+  "description": "Find the common link between word groups",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "word-associations-quiz-1",
+      "question": "What do the words 'spring,' 'fall,' and 'bank' have in common?",
+      "options": ["They are all verbs", "They each have multiple unrelated meanings", "They all relate to money", "They are all seasons"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-2",
+      "question": "What links the words 'bark,' 'trunk,' and 'limb'?",
+      "options": ["They all relate to dogs", "They can all refer to parts of a tree and parts of the body", "They are all types of wood", "They are all verbs"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-3",
+      "question": "What word can precede 'light,' 'shine,' and 'burn'?",
+      "options": ["Fire", "Sun", "Star", "Moon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-4",
+      "question": "What connects 'diamond,' 'club,' and 'heart'?",
+      "options": ["They are all precious stones", "They are all playing card suits", "They are all shapes", "They are all red"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-5",
+      "question": "What word can follow 'black,' 'blue,' and 'straw'?",
+      "options": ["Bird", "Berry", "Color", "Sky"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-6",
+      "question": "What do 'bass,' 'bow,' and 'lead' have in common?",
+      "options": ["They are all musical terms", "They are all types of fish", "They are all heteronyms — words spelled the same but pronounced differently", "They all rhyme"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-associations-quiz-7",
+      "question": "What word can precede 'cake,' 'shake,' and 'milk'?",
+      "options": ["Butter", "Cheese", "Cream", "Sugar"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-associations-quiz-8",
+      "question": "What links 'mercury,' 'mars,' and 'jupiter'?",
+      "options": ["They are all metals", "They are all planets and Roman gods", "They are all stars", "They are all months"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-9",
+      "question": "What word can follow 'arm,' 'high,' and 'rocking'?",
+      "options": ["Chair", "Band", "Table", "Rest"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-associations-quiz-10",
+      "question": "What do 'crane,' 'swallow,' and 'martin' have in common?",
+      "options": ["They are all verbs", "They are all types of birds and common words or names", "They are all tools", "They are all colors"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-11",
+      "question": "What word can precede 'bone,' 'meal,' and 'cake'?",
+      "options": ["Fish", "Corn", "Oat", "Rice"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-12",
+      "question": "What links 'date,' 'current,' and 'olive'?",
+      "options": ["They are all adjectives", "They are all things that can be found in a calendar", "They are all fruits", "They all relate to electricity"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-associations-quiz-13",
+      "question": "What word can follow 'water,' 'land,' and 'bench'?",
+      "options": ["Mark", "Scape", "Side", "Lord"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-associations-quiz-14",
+      "question": "What do 'pupil,' 'iris,' and 'lens' have in common?",
+      "options": ["They are all flower parts", "They are all parts of the eye", "They are all school terms", "They are all camera parts only"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-associations-quiz-15",
+      "question": "What word can precede 'house,' 'knife,' and 'basket'?",
+      "options": ["Steak", "Pen", "Work", "Bread"],
+      "correctAnswer": 0
+    }
+  ]
+}

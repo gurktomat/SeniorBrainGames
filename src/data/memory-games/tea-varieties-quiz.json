@@ -1,0 +1,98 @@
+{
+  "id": "tea-varieties-quiz",
+  "title": "Tea Varieties Quiz",
+  "description": "Identify tea types, origins, and brewing methods",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "tea-varieties-quiz-1",
+      "question": "This classic British tea is a bold, full-bodied black tea traditionally served with milk. It is named after a 19th-century British Prime Minister. What tea is this?",
+      "options": ["English Breakfast", "Earl Grey", "Darjeeling", "Assam"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "tea-varieties-quiz-2",
+      "question": "This delicate Japanese green tea is made from shade-grown leaves that are stone-ground into a fine, bright green powder. It is used in traditional Japanese tea ceremonies. What tea is this?",
+      "options": ["Sencha", "Gyokuro", "Matcha", "Genmaicha"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-3",
+      "question": "This Indian black tea is grown in the foothills of the Himalayas and is often called the 'Champagne of Teas.' It has a light, muscatel flavor. What tea is this?",
+      "options": ["Assam", "Ceylon", "Darjeeling", "Nilgiri"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-4",
+      "question": "This Chinese tea is partially oxidized, placing it between green and black tea. Its name means 'black dragon' and it comes in a wide range of flavors. What tea is this?",
+      "options": ["Pu-erh", "Oolong", "White Tea", "Jasmine Tea"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "tea-varieties-quiz-5",
+      "question": "This robust black tea from the Assam region of India forms the base of most English Breakfast blends. It has a malty, strong flavor that stands up well to milk. What tea is this?",
+      "options": ["Darjeeling", "Ceylon", "Assam", "Keemun"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-6",
+      "question": "This Chinese tea is aged and fermented, sometimes for decades. It has an earthy, smooth flavor and is pressed into cakes or bricks for storage. What tea is this?",
+      "options": ["Oolong", "Lapsang Souchong", "Pu-erh", "Gunpowder"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-7",
+      "question": "This distinctive Chinese black tea is dried over smoking pine wood fires, giving it a bold, smoky flavor that people either love or find overpowering. What tea is this?",
+      "options": ["Keemun", "Pu-erh", "Lapsang Souchong", "Yunnan"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-8",
+      "question": "This popular North African tea preparation combines Chinese gunpowder green tea with fresh spearmint leaves and generous amounts of sugar. It is poured from a height to create a froth. What tea is this?",
+      "options": ["Moroccan Mint Tea", "Turkish Tea", "Persian Tea", "Kashmiri Chai"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "tea-varieties-quiz-9",
+      "question": "This Japanese green tea is blended with roasted brown rice, giving it a warm, toasty, nutty flavor. It is sometimes called 'popcorn tea' because some rice pops during roasting. What tea is this?",
+      "options": ["Sencha", "Hojicha", "Genmaicha", "Kukicha"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-10",
+      "question": "This tea from Sri Lanka (formerly Ceylon) has a bright, citrusy flavor and is enjoyed worldwide. The country's highland regions produce some of the finest examples. What tea is this?",
+      "options": ["Darjeeling", "Assam", "Ceylon", "Nilgiri"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "tea-varieties-quiz-11",
+      "question": "This South African herbal tea is naturally caffeine-free and comes from a plant in the fynbos region. It has a sweet, slightly nutty flavor and is rich in antioxidants. What tea is this?",
+      "options": ["Honeybush", "Rooibos", "Hibiscus", "Chamomile"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "tea-varieties-quiz-12",
+      "question": "This the least processed type of true tea, made from young buds and leaves that are simply dried. It has a subtle, delicate, slightly sweet flavor. What tea is this?",
+      "options": ["Green Tea", "White Tea", "Yellow Tea", "Oolong"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "tea-varieties-quiz-13",
+      "question": "This Indian spiced tea is made by simmering black tea with milk and a blend of spices typically including cardamom, cinnamon, ginger, and cloves. What tea is this?",
+      "options": ["Masala Chai", "Kashmiri Chai", "Darjeeling", "Assam"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "tea-varieties-quiz-14",
+      "question": "This Chinese green tea gets its name from the tightly rolled pellet shape of its leaves, which resemble gunpowder grains. It has a slightly smoky, bold flavor. What tea is this?",
+      "options": ["Dragon Well", "Gunpowder Tea", "Bi Luo Chun", "Mao Feng"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "tea-varieties-quiz-15",
+      "question": "This fragrant Chinese tea is made by scenting green or white tea leaves with fresh jasmine blossoms over several nights. It has a sweet, floral aroma. What tea is this?",
+      "options": ["Rose Tea", "Chrysanthemum Tea", "Jasmine Tea", "Osmanthus Tea"],
+      "correctAnswer": 2
+    }
+  ]
+}

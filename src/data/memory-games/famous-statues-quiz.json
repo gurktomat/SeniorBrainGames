@@ -1,0 +1,98 @@
+{
+  "id": "famous-statues-quiz",
+  "title": "Famous Statues",
+  "description": "Recall facts about famous statues and monuments",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-statues-quiz-1",
+      "question": "Which colossal statue overlooking Rio de Janeiro stands atop Corcovado Mountain, is 30 meters tall, and depicts a religious figure with outstretched arms?",
+      "options": ["Statue of Liberty", "Christ the Redeemer", "The Motherland Calls", "Angel of the North"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-2",
+      "question": "Which famous copper statue was a gift from France to the United States in 1886, stands on Liberty Island, and holds a torch and a tablet inscribed with a date?",
+      "options": ["Christ the Redeemer", "Lincoln Memorial", "Statue of Liberty", "Statue of Freedom"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-3",
+      "question": "Which ancient Greek marble sculpture, currently in the Louvre Museum, depicts a winged female figure and was discovered on the island of Samothrace in 1863?",
+      "options": ["Venus de Milo", "Winged Victory of Samothrace", "Discobolus", "Laocoön and His Sons"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-4",
+      "question": "Which Renaissance marble statue by Michelangelo, standing over 14 feet tall, depicts a biblical hero before his battle with Goliath and is housed in Florence?",
+      "options": ["The Pietà", "Moses", "David", "The Thinker"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-5",
+      "question": "Which bronze sculpture by Auguste Rodin shows a seated nude male figure resting his chin on his hand, deep in contemplation?",
+      "options": ["The Kiss", "The Thinker", "David", "The Burghers of Calais"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-6",
+      "question": "Which ancient limestone monument in Egypt has the body of a lion and the head of a human, and has guarded the Giza pyramid complex for over 4,500 years?",
+      "options": ["Colossus of Memnon", "Great Sphinx of Giza", "Abu Simbel", "Ramesses II Statue"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-7",
+      "question": "Which group of nearly 1,000 mysterious stone statues, called moai, were carved by the Rapa Nui people on a remote island in the southeastern Pacific Ocean?",
+      "options": ["Stonehenge Statues", "Olmec Heads", "Easter Island Moai", "Tiki Statues"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-8",
+      "question": "Which seated marble statue in Washington, D.C., depicts the 16th President of the United States inside a Greek temple-style memorial?",
+      "options": ["Jefferson Memorial", "Washington Monument", "Lincoln Memorial", "Mount Rushmore"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-9",
+      "question": "Which colossal monument in South Dakota features the carved faces of four U.S. presidents — Washington, Jefferson, Roosevelt, and Lincoln — on a granite cliff?",
+      "options": ["Stone Mountain", "Crazy Horse Memorial", "Mount Rushmore", "Lincoln Memorial"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-10",
+      "question": "Which small bronze statue in Copenhagen, Denmark, sits on a rock by the waterside and was inspired by a fairy tale by Hans Christian Andersen?",
+      "options": ["Manneken Pis", "The Little Mermaid", "The Angel of the North", "The Atomium"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-11",
+      "question": "Which ancient Greek statue, now in the Louvre, depicts the goddess Aphrodite and is famous for its missing arms?",
+      "options": ["Winged Victory of Samothrace", "Aphrodite of Knidos", "Venus de Milo", "Diana of Versailles"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-12",
+      "question": "Which massive statue in Volgograd, Russia, commemorates the Battle of Stalingrad, depicts a woman raising a sword, and stands 85 meters tall?",
+      "options": ["Worker and Kolkhoz Woman", "The Motherland Calls", "Peter the Great Statue", "Monument to the Conquerors of Space"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-13",
+      "question": "Which 20-meter-tall steel sculpture of an angel with outstretched wings stands beside a motorway in Gateshead, England, and was designed by Antony Gormley?",
+      "options": ["The Kelpies", "Angel of the North", "Another Place", "Cloud Gate"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-statues-quiz-14",
+      "question": "Which bronze statue of a small boy urinating into a fountain is a famous landmark and symbol of the city of Brussels, Belgium?",
+      "options": ["The Little Mermaid", "The Thinker", "Manneken Pis", "David"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-statues-quiz-15",
+      "question": "Which Michelangelo sculpture in St. Peter's Basilica in Vatican City depicts the Virgin Mary holding the body of Jesus after the Crucifixion?",
+      "options": ["David", "Moses", "The Pietà", "The Last Judgment"],
+      "correctAnswer": 2
+    }
+  ]
+}

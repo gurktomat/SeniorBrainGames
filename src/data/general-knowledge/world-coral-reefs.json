@@ -1,0 +1,98 @@
+{
+  "id": "world-coral-reefs",
+  "title": "World Coral Reefs",
+  "description": "Famous coral reefs and marine ecosystems",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-coral-reefs-1",
+      "question": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
+      "options": ["Indonesia", "Philippines", "Australia", "Fiji"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-2",
+      "question": "Coral reefs are sometimes called the 'rainforests of the sea' because they support what?",
+      "options": ["Large trees", "Enormous biodiversity", "High rainfall", "Dense vegetation"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-3",
+      "question": "The Belize Barrier Reef, a UNESCO World Heritage Site, is the largest barrier reef in which hemisphere?",
+      "options": ["Eastern", "Southern", "Northern", "Western"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-coral-reefs-4",
+      "question": "Coral bleaching occurs when corals expel the algae living in their tissues, primarily due to what environmental stress?",
+      "options": ["Strong winds", "Rising water temperatures", "Increased rainfall", "Lower salinity"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-5",
+      "question": "The Red Sea is known for having some of the world's most pristine coral reefs. Which two continents does it separate?",
+      "options": ["Europe and Asia", "Asia and Australia", "Africa and Asia", "Africa and Europe"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-6",
+      "question": "An atoll is a ring-shaped coral reef that encircles what?",
+      "options": ["An island", "A lagoon", "A volcano", "A harbor"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-7",
+      "question": "The Maldives, a nation of coral atolls in the Indian Ocean, faces which major threat from climate change?",
+      "options": ["Extreme cold", "Rising sea levels", "Drought", "Volcanic eruptions"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-8",
+      "question": "What is the primary building material that coral polyps use to construct reefs?",
+      "options": ["Silica", "Calcium carbonate", "Iron oxide", "Calcium phosphate"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-9",
+      "question": "The 'Coral Triangle,' the global center of marine biodiversity, spans the waters of six countries in which region?",
+      "options": ["Caribbean", "Indo-Pacific", "Mediterranean", "North Atlantic"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-10",
+      "question": "Approximately what percentage of marine fish species depend on coral reefs at some point in their life cycle?",
+      "options": ["5%", "10%", "25%", "50%"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-11",
+      "question": "The Great Barrier Reef stretches approximately how many miles along the Australian coastline?",
+      "options": ["500 miles", "1,000 miles", "1,400 miles", "2,000 miles"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-12",
+      "question": "Which type of relationship do corals have with the tiny algae (zooxanthellae) that live within them?",
+      "options": ["Parasitic", "Competitive", "Symbiotic", "Predatory"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-13",
+      "question": "Coral reefs cover less than 1% of the ocean floor but support approximately what fraction of all marine species?",
+      "options": ["One-tenth", "One-quarter", "One-third", "One-half"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-coral-reefs-14",
+      "question": "The Mesoamerican Reef, the second-largest barrier reef in the world, extends along the coast of which region?",
+      "options": ["West Africa", "Southeast Asia", "Central America and Mexico", "Northern Australia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-coral-reefs-15",
+      "question": "Charles Darwin proposed a theory about the formation of which type of coral reef structure?",
+      "options": ["Fringing reefs", "Barrier reefs", "Atolls", "Patch reefs"],
+      "correctAnswer": 2
+    }
+  ]
+}

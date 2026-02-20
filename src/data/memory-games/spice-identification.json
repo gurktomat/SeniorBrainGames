@@ -1,0 +1,98 @@
+{
+  "id": "spice-identification",
+  "title": "Spice Identification",
+  "description": "Identify spices from descriptions and origins",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "spice-identification-1",
+      "question": "This warm, sweet spice comes from the inner bark of a tropical tree. It is rolled into sticks or ground into powder and is essential in apple pie and cinnamon rolls. What spice is this?",
+      "options": ["Allspice", "Nutmeg", "Cinnamon", "Clove"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-2",
+      "question": "This bright yellow-orange spice comes from a root related to ginger. It is a key ingredient in curry powder and gives mustard its color. What spice is this?",
+      "options": ["Saffron", "Turmeric", "Curry Powder", "Annatto"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-3",
+      "question": "This is the world's most expensive spice by weight, made from the hand-picked stigmas of a crocus flower. It adds a golden color and delicate flavor to paella and risotto. What spice is this?",
+      "options": ["Turmeric", "Saffron", "Annatto", "Safflower"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-4",
+      "question": "This small, dried flower bud has an intensely warm, sweet flavor and is often studded into hams during the holidays. It also helps numb toothache pain. What spice is this?",
+      "options": ["Allspice", "Star Anise", "Clove", "Cardamom"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-5",
+      "question": "This round, brown seed has a warm, nutty flavor and is traditionally grated fresh over eggnog and b\u00e9chamel sauce. It comes with a lacy red covering called mace. What spice is this?",
+      "options": ["Allspice", "Coriander", "Nutmeg", "Clove"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-6",
+      "question": "This spice from the Caribbean tastes like a combination of cinnamon, clove, and nutmeg, which is how it got its English name. Jamaican jerk seasoning depends on it. What spice is this?",
+      "options": ["Allspice", "Five-Spice", "Mixed Spice", "Mace"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "spice-identification-7",
+      "question": "This small green or black pod from India and Guatemala is called the 'Queen of Spices.' It has a complex, citrusy-sweet flavor and is essential in chai tea. What spice is this?",
+      "options": ["Fennel Seed", "Cardamom", "Coriander", "Cumin"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-8",
+      "question": "This earthy, warm spice comes in small crescent-shaped seeds and is essential in Mexican, Indian, and Middle Eastern cooking. It is a key ingredient in chili powder. What spice is this?",
+      "options": ["Coriander", "Cumin", "Caraway", "Fennel Seed"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-9",
+      "question": "This spice is made from dried, ground hot peppers and was brought to Hungary from the Americas. It ranges from sweet to hot and gives goulash its characteristic red color. What spice is this?",
+      "options": ["Cayenne", "Chili Powder", "Paprika", "Red Pepper Flakes"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-10",
+      "question": "This pungent, knobby root is used fresh, dried, or powdered in cooking worldwide. It helps settle upset stomachs and adds warmth to stir-fries and gingerbread. What spice is this?",
+      "options": ["Galangal", "Turmeric", "Ginger", "Horseradish"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-11",
+      "question": "This beautiful star-shaped spice from China has a strong licorice flavor and is one of the key ingredients in Chinese five-spice powder. It is also used in pho broth. What spice is this?",
+      "options": ["Anise Seed", "Fennel Seed", "Star Anise", "Licorice Root"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-12",
+      "question": "This small round seed has a mild, slightly citrusy flavor and is the dried fruit of the cilantro plant. It is used in pickling spice blends and Indian curries. What spice is this?",
+      "options": ["Cumin", "Coriander", "Caraway", "Fennel Seed"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-13",
+      "question": "This spice is the second most common spice in the world after salt. It comes from dried berries that are ground into a pungent powder. Tellicherry is a prized variety. What spice is this?",
+      "options": ["White Pepper", "Black Pepper", "Szechuan Pepper", "Long Pepper"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spice-identification-14",
+      "question": "This tiny black seed has a slightly onion-like, nutty flavor and is sometimes called black cumin or kalonji. It is commonly sprinkled on Indian naan bread. What spice is this?",
+      "options": ["Black Sesame", "Poppy Seed", "Nigella Seed", "Mustard Seed"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "spice-identification-15",
+      "question": "This warm, slightly sweet spice comes from the seeds of a plant in the carrot family. It is essential in rye bread and sauerkraut, especially in German and Austrian cooking. What spice is this?",
+      "options": ["Cumin", "Dill Seed", "Caraway", "Anise"],
+      "correctAnswer": 2
+    }
+  ]
+}

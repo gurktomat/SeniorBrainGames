@@ -1,0 +1,98 @@
+{
+  "id": "flower-identification",
+  "title": "Flower Identification",
+  "description": "Identify flowers from descriptions of their appearance",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "flower-identification-1",
+      "question": "This tall flower has a large, round head filled with seeds and always turns to face the sun. Its bright yellow petals surround a dark brown center. What flower is this?",
+      "options": ["Daisy", "Sunflower", "Marigold", "Black-Eyed Susan"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-2",
+      "question": "Known as the 'Queen of Flowers,' this bloom comes in many colors and has layered, velvety petals with sharp thorns on its stem. What flower is this?",
+      "options": ["Peony", "Carnation", "Rose", "Dahlia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "flower-identification-3",
+      "question": "This spring bulb flower has a cup-shaped bloom and comes in nearly every color. It is strongly associated with the Netherlands. What flower is this?",
+      "options": ["Crocus", "Tulip", "Hyacinth", "Daffodil"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-4",
+      "question": "This cheerful spring flower has a trumpet-shaped center surrounded by six petals, typically in bright yellow or white. Its botanical name is Narcissus. What flower is this?",
+      "options": ["Buttercup", "Daffodil", "Primrose", "Forsythia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-5",
+      "question": "This elegant flower grows from a bulb and has six curved-back petals, often spotted with dark markings. It produces a strong, sweet fragrance. What flower is this?",
+      "options": ["Lily", "Iris", "Orchid", "Amaryllis"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "flower-identification-6",
+      "question": "This distinctive flower has three upright petals called 'standards' and three drooping petals called 'falls,' and is named after the Greek goddess of the rainbow. What flower is this?",
+      "options": ["Gladiolus", "Lily", "Iris", "Crocus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "flower-identification-7",
+      "question": "This fragrant purple flower grows in dense spikes on slender stems and is widely used in sachets, soaps, and essential oils. It thrives in Mediterranean climates. What flower is this?",
+      "options": ["Lilac", "Lavender", "Wisteria", "Heather"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-8",
+      "question": "This large, showy flower has ruffled, layered petals and is often called the 'King of Flowers' in Chinese culture. It blooms in late spring and can be white, pink, or red. What flower is this?",
+      "options": ["Peony", "Camellia", "Chrysanthemum", "Carnation"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "flower-identification-9",
+      "question": "This small woodland flower has five delicate blue petals with a yellow center and is associated with remembrance and true love. What flower is this?",
+      "options": ["Bluebell", "Forget-Me-Not", "Periwinkle", "Cornflower"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-10",
+      "question": "This exotic flower has a complex shape that often resembles a face or an insect. It grows on every continent except Antarctica and has over 25,000 species. What flower is this?",
+      "options": ["Bird of Paradise", "Orchid", "Passion Flower", "Protea"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-11",
+      "question": "This cottage garden favorite has tall spikes of bell-shaped flowers in pink, purple, or white. Despite its beauty, all parts of the plant are poisonous. What flower is this?",
+      "options": ["Delphinium", "Foxglove", "Hollyhock", "Snapdragon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-12",
+      "question": "This simple, cheerful flower has a yellow center disk surrounded by white ray petals. Children often make chains from them in meadows. What flower is this?",
+      "options": ["Chamomile", "Daisy", "Aster", "Feverfew"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "flower-identification-13",
+      "question": "This tropical flower has a distinctive shape resembling a bird in flight, with orange and blue petals emerging from a green bract. What flower is this?",
+      "options": ["Hibiscus", "Plumeria", "Bird of Paradise", "Heliconia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "flower-identification-14",
+      "question": "This fall-blooming flower has many thin, layered petals and is the symbol of the Japanese Imperial Family. It comes in yellow, white, red, and purple. What flower is this?",
+      "options": ["Aster", "Dahlia", "Chrysanthemum", "Zinnia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "flower-identification-15",
+      "question": "This fragrant shrub produces clusters of tiny, four-petaled flowers in spring, most commonly in shades of purple or white. Its scent is one of the most beloved of spring. What flower is this?",
+      "options": ["Jasmine", "Lilac", "Hydrangea", "Viburnum"],
+      "correctAnswer": 1
+    }
+  ]
+}

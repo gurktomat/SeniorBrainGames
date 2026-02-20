@@ -1,0 +1,98 @@
+{
+  "id": "butterfly-identification",
+  "title": "Butterfly Identification",
+  "description": "Identify butterflies and moths from descriptions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "butterfly-identification-1",
+      "question": "This iconic orange and black butterfly migrates thousands of miles from Canada to Mexico each fall. Its caterpillars feed exclusively on milkweed. What butterfly is this?",
+      "options": ["Painted Lady", "Monarch", "Viceroy", "Gulf Fritillary"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-2",
+      "question": "This large moth has distinctive eyespots on each of its four wings and a wingspan of up to 6 inches, making it one of the largest moths in North America. What moth is this?",
+      "options": ["Luna Moth", "Cecropia Moth", "Polyphemus Moth", "Atlas Moth"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "butterfly-identification-3",
+      "question": "This striking pale green moth has long, sweeping tails on its hindwings and flies only at night. It lives for about one week as an adult and has no mouth. What moth is this?",
+      "options": ["Luna Moth", "Emerald Moth", "Io Moth", "Sphinx Moth"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterfly-identification-4",
+      "question": "This small butterfly has bright blue upper wings but grayish-brown underwings. Males are more vividly blue than females. It is common across Europe. What butterfly is this?",
+      "options": ["Morpho Butterfly", "Common Blue", "Holly Blue", "Karner Blue"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-5",
+      "question": "This butterfly closely mimics the Monarch in color and pattern but can be distinguished by a black line crossing its hindwings. What butterfly is this?",
+      "options": ["Queen Butterfly", "Viceroy", "Gulf Fritillary", "Painted Lady"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-6",
+      "question": "This common butterfly has orange-brown wings with black spots and is one of the most widespread butterflies in the world, found on every continent except Antarctica and South America. What butterfly is this?",
+      "options": ["Comma Butterfly", "Painted Lady", "Red Admiral", "Tortoiseshell"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-7",
+      "question": "This large tropical butterfly has brilliant iridescent blue wings on top, but when it closes its wings, the brown underside with eyespots provides camouflage. What butterfly is this?",
+      "options": ["Ulysses Butterfly", "Blue Morpho", "Blue Clipper", "Common Blue"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-8",
+      "question": "This butterfly has dark wings with striking red-orange bands and white spots near the wing tips. It is commonly seen in gardens across Europe and North America. What butterfly is this?",
+      "options": ["Painted Lady", "Monarch", "Red Admiral", "Comma Butterfly"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "butterfly-identification-9",
+      "question": "This distinctive butterfly has black wings with rows of pale yellow spots and red and blue markings on the hindwings. Its caterpillars resemble bird droppings for camouflage. What butterfly is this?",
+      "options": ["Black Swallowtail", "Tiger Swallowtail", "Spicebush Swallowtail", "Pipevine Swallowtail"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterfly-identification-10",
+      "question": "This large yellow butterfly has black tiger-like stripes across its wings and is one of the most recognizable butterflies in eastern North America. What butterfly is this?",
+      "options": ["Clouded Sulphur", "Eastern Tiger Swallowtail", "Orange Sulphur", "Giant Swallowtail"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-11",
+      "question": "This small white butterfly with black wing tips is one of the most common butterflies in gardens and is sometimes considered a pest because its caterpillars eat cabbage. What butterfly is this?",
+      "options": ["Cabbage White", "Orange Tip", "Wood White", "Clouded Yellow"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterfly-identification-12",
+      "question": "This moth hovers like a hummingbird while feeding on flowers with its long proboscis. It has brown and orange wings that beat rapidly. What moth is this?",
+      "options": ["Sphinx Moth", "Hummingbird Hawk-Moth", "Clearwing Moth", "Oleander Hawk-Moth"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-13",
+      "question": "This butterfly has ragged-edged wings that look like dead leaves when closed, providing excellent camouflage. Its upper wings are orange with dark markings. What butterfly is this?",
+      "options": ["Comma Butterfly", "Mourning Cloak", "Question Mark Butterfly", "Tortoiseshell"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterfly-identification-14",
+      "question": "This large, dark butterfly has a border of creamy yellow along its wing edges and rows of iridescent blue spots. It is one of the longest-lived butterflies, surviving up to 11 months. What butterfly is this?",
+      "options": ["Black Swallowtail", "Mourning Cloak", "Red Admiral", "Spicebush Swallowtail"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterfly-identification-15",
+      "question": "The world's largest moth, with a wingspan up to 12 inches, has reddish-brown wings with triangular clear 'windows' near the tips. It is found in tropical Asia. What moth is this?",
+      "options": ["Cecropia Moth", "Luna Moth", "Atlas Moth", "Emperor Moth"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "wine-regions-quiz",
+  "title": "Wine Regions",
+  "description": "Match wines to their famous regions and countries",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "wine-regions-quiz-1",
+      "question": "Which French region is world-famous for producing Pinot Noir and Chardonnay wines, and classifies its vineyards under the prestigious Grand Cru system?",
+      "options": ["Bordeaux", "Burgundy", "Champagne", "Loire Valley"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-regions-quiz-2",
+      "question": "Which Italian wine region is home to Chianti, Brunello di Montalcino, and Vino Nobile di Montepulciano, all made primarily from the Sangiovese grape?",
+      "options": ["Piedmont", "Veneto", "Tuscany", "Sicily"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-3",
+      "question": "Which Spanish region is famous for its Tempranillo-based red wines that are aged in oak barrels and labeled as Crianza, Reserva, or Gran Reserva?",
+      "options": ["Ribera del Duero", "Rioja", "Priorat", "Penedès"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-regions-quiz-4",
+      "question": "Champagne, the world's most famous sparkling wine, can only legally bear that name if it comes from which country?",
+      "options": ["Italy", "Spain", "France", "Germany"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-5",
+      "question": "Which California wine region gained worldwide recognition after its wines beat top French wines in the famous 1976 'Judgment of Paris' blind tasting?",
+      "options": ["Sonoma Valley", "Napa Valley", "Paso Robles", "Santa Barbara"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-regions-quiz-6",
+      "question": "Which Portuguese city gives its name to a famous fortified wine that is aged in cellars along the Douro River?",
+      "options": ["Lisbon", "Madeira", "Porto", "Coimbra"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-7",
+      "question": "Which country is the world's largest producer of Malbec wine, particularly from a high-altitude region at the foot of the Andes?",
+      "options": ["Chile", "Argentina", "Uruguay", "Brazil"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-regions-quiz-8",
+      "question": "Which French wine region, located along the Atlantic coast, is known for its prestigious red blends of Cabernet Sauvignon and Merlot?",
+      "options": ["Rhône Valley", "Burgundy", "Alsace", "Bordeaux"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wine-regions-quiz-9",
+      "question": "Which New Zealand region became world-famous in the 1990s for its vibrant, zesty Sauvignon Blanc wines?",
+      "options": ["Hawke's Bay", "Central Otago", "Marlborough", "Wairarapa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-10",
+      "question": "Which German wine region along the Rhine River is known for producing some of the world's finest Riesling wines, from bone-dry to lusciously sweet?",
+      "options": ["Mosel", "Rheingau", "Pfalz", "Baden"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-regions-quiz-11",
+      "question": "Which South African wine region near Cape Town is one of the oldest wine-producing areas in the New World, dating back to 1659?",
+      "options": ["Stellenbosch", "Franschhoek", "Constantia", "Paarl"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wine-regions-quiz-12",
+      "question": "Which Italian region produces Prosecco, the popular sparkling wine made from the Glera grape in the hills north of Venice?",
+      "options": ["Lombardy", "Piedmont", "Veneto", "Friuli"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-13",
+      "question": "Which Australian wine region is particularly famous for its bold, full-bodied Shiraz wines and is located in South Australia?",
+      "options": ["Hunter Valley", "Margaret River", "Barossa Valley", "Yarra Valley"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-14",
+      "question": "Sherry, a fortified wine made using the solera aging system, comes exclusively from which region of southern Spain?",
+      "options": ["Málaga", "Montilla", "Jerez", "Valencia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-regions-quiz-15",
+      "question": "Which French wine region, located in the southern Rhône Valley, is known for its GSM blends (Grenache, Syrah, Mourvèdre) and the famous Châteauneuf-du-Pape appellation?",
+      "options": ["Languedoc", "Provence", "Rhône Valley", "Côtes de Gascogne"],
+      "correctAnswer": 2
+    }
+  ]
+}

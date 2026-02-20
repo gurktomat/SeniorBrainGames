@@ -1,0 +1,98 @@
+{
+  "id": "language-trivia",
+  "title": "Language Trivia",
+  "description": "Fun and surprising facts about the English language",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "language-trivia-1",
+      "question": "What is the longest word in English that can be typed using only the top row of a keyboard?",
+      "options": ["Prototype", "Typewriter", "Territory", "Quarterly"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-2",
+      "question": "What is the most commonly used letter in the English language?",
+      "options": ["T", "A", "E", "S"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "language-trivia-3",
+      "question": "A word that reads the same backwards and forwards (like 'racecar') is called a what?",
+      "options": ["Anagram", "Palindrome", "Homophone", "Acronym"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-4",
+      "question": "The dot over the letters 'i' and 'j' has a special name. What is it?",
+      "options": ["A pip", "A tittle", "A speck", "A jot"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-5",
+      "question": "What is the shortest complete sentence in English?",
+      "options": ["I am.", "Go!", "I go.", "Do."],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-6",
+      "question": "The '#' symbol is commonly called a hashtag today, but what is its traditional name?",
+      "options": ["Number sign", "Pound sign", "Octothorpe", "All of these"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "language-trivia-7",
+      "question": "What is the only English word that ends in the letters '-mt'?",
+      "options": ["Dreamt", "Attempt", "Exempt", "Warmth"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "language-trivia-8",
+      "question": "The English word 'set' is notable for having the most what in the Oxford English Dictionary?",
+      "options": ["Letters", "Syllables", "Definitions", "Synonyms"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "language-trivia-9",
+      "question": "Which of these words contains all five vowels (a, e, i, o, u) exactly once?",
+      "options": ["Beautiful", "Education", "Automobile", "Sequential"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-10",
+      "question": "What is the name for a word that imitates a sound, like 'buzz' or 'hiss'?",
+      "options": ["Homonym", "Onomatopoeia", "Synonym", "Antonym"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-11",
+      "question": "The '&' symbol (ampersand) was once considered the 27th letter of the English alphabet. What phrase gave it its name?",
+      "options": ["And per se and", "Ample sand", "And person and", "Amper stand"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "language-trivia-12",
+      "question": "Which common English word has no true rhyme?",
+      "options": ["Purple", "Silver", "Orange", "All of these"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "language-trivia-13",
+      "question": "What is the term for two words that are spelled the same but have different meanings, like 'bat' (animal) and 'bat' (cricket)?",
+      "options": ["Homophones", "Antonyms", "Homonyms", "Synonyms"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "language-trivia-14",
+      "question": "The sentence 'The quick brown fox jumps over the lazy dog' is special because it is a what?",
+      "options": ["Palindrome", "Pangram", "Anagram", "Tongue twister"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "language-trivia-15",
+      "question": "Approximately how many words does the average educated adult English speaker know?",
+      "options": ["5,000-10,000", "10,000-20,000", "20,000-35,000", "50,000-100,000"],
+      "correctAnswer": 2
+    }
+  ]
+}

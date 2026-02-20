@@ -1,0 +1,98 @@
+{
+  "id": "classic-tv-cowboys",
+  "title": "Classic TV Cowboys",
+  "description": "Western TV heroes and their shows",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-tv-cowboys-1",
+      "question": "Which actor played Marshal Matt Dillon on 'Gunsmoke,' the longest-running primetime live-action series in TV history?",
+      "options": ["John Wayne", "James Arness", "Hugh O'Brian", "Clint Eastwood"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-2",
+      "question": "On 'Bonanza,' what was the name of the Cartwright family's massive ranch near Virginia City, Nevada?",
+      "options": ["Big Sky Ranch", "The Ponderosa", "Shiloh Ranch", "High Chaparral"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-3",
+      "question": "Which Western hero, played by Clayton Moore, wore a mask and rode a white horse named Silver?",
+      "options": ["Zorro", "The Lone Ranger", "The Cisco Kid", "Hopalong Cassidy"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-4",
+      "question": "What was the name of the Lone Ranger's faithful Native American companion?",
+      "options": ["Cochise", "Geronimo", "Tonto", "Little Bear"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-tv-cowboys-5",
+      "question": "Which singing cowboy, known for his Christmas classic 'Rudolph the Red-Nosed Reindeer,' also had his own TV show?",
+      "options": ["Roy Rogers", "Gene Autry", "Tex Ritter", "Rex Allen"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-6",
+      "question": "On 'Bonanza,' which actor played the family patriarch Ben Cartwright?",
+      "options": ["Lorne Greene", "Dan Blocker", "Michael Landon", "Pernell Roberts"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-tv-cowboys-7",
+      "question": "Which TV Western featured a bounty hunter named Josh Randall who carried a sawed-off Winchester rifle called 'Mare's Leg'?",
+      "options": ["Have Gun Will Travel", "Wanted: Dead or Alive", "The Rifleman", "Bat Masterson"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-8",
+      "question": "Chuck Connors starred as Lucas McCain, a widowed rancher with a rapid-fire Winchester, on which TV Western?",
+      "options": ["The Rifleman", "Branded", "The Big Valley", "Laramie"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-tv-cowboys-9",
+      "question": "Which suave TV cowboy, played by Richard Boone, carried a business card reading 'Have Gun Will Travel'?",
+      "options": ["Bat Masterson", "Paladin", "Maverick", "Rowdy Yates"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-10",
+      "question": "Roy Rogers was known as the 'King of the Cowboys.' What was the name of his famous palomino horse?",
+      "options": ["Champion", "Trigger", "Silver", "Buttermilk"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-11",
+      "question": "Which young actor, who later starred in 'Little House on the Prairie,' played Little Joe Cartwright on 'Bonanza'?",
+      "options": ["Pernell Roberts", "Dan Blocker", "Michael Landon", "David Canary"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-tv-cowboys-12",
+      "question": "On 'Gunsmoke,' what was the name of the saloon in Dodge City where much of the action took place?",
+      "options": ["The Silver Spur", "The Long Branch Saloon", "The Golden Nugget", "The Red Dog Saloon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-13",
+      "question": "Which TV Western starred James Garner as a charming, card-playing cowboy who preferred to talk his way out of trouble?",
+      "options": ["Cheyenne", "Maverick", "Sugarfoot", "Lawman"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-14",
+      "question": "William Boyd played which cowboy character, dressed in black, who was one of the first TV Western stars in the late 1940s?",
+      "options": ["Wild Bill Hickok", "Hopalong Cassidy", "The Cisco Kid", "Buffalo Bill"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-tv-cowboys-15",
+      "question": "A young Clint Eastwood got his big break playing Rowdy Yates on which TV Western about a cattle drive?",
+      "options": ["Wagon Train", "Rawhide", "The Virginian", "Laramie"],
+      "correctAnswer": 1
+    }
+  ]
+}

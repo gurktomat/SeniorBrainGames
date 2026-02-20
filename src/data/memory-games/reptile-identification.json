@@ -1,0 +1,98 @@
+{
+  "id": "reptile-identification",
+  "title": "Reptile Identification",
+  "description": "Identify reptiles and amphibians from descriptions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "reptile-identification-1",
+      "question": "This large reptile has a broad, U-shaped snout and is found in the southeastern United States and China. Unlike its relative, it is generally less aggressive toward humans. What reptile is this?",
+      "options": ["Crocodile", "Alligator", "Caiman", "Gharial"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-2",
+      "question": "This colorful lizard can change its skin color and has eyes that move independently of each other. It catches insects by shooting out its long, sticky tongue. What reptile is this?",
+      "options": ["Iguana", "Gecko", "Chameleon", "Anole"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-3",
+      "question": "This large amphibian goes through a dramatic transformation from a water-dwelling tadpole with gills to a land-dwelling adult with legs. The American variety can grow quite large. What amphibian is this?",
+      "options": ["Toad", "Salamander", "Bullfrog", "Tree Frog"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-4",
+      "question": "This slow-moving reptile carries its home on its back. The Gal\u00e1pagos variety can live over 100 years and weigh over 400 pounds. What reptile is this?",
+      "options": ["Turtle", "Tortoise", "Terrapin", "Box Turtle"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-5",
+      "question": "This venomous snake has a distinctive triangular head and a rattle on its tail that it shakes as a warning. It is found only in the Americas. What reptile is this?",
+      "options": ["Copperhead", "Cottonmouth", "Rattlesnake", "Viper"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-6",
+      "question": "This large lizard from Indonesia is the world's heaviest living lizard, growing up to 10 feet long. It has a venomous bite and a keen sense of smell. What reptile is this?",
+      "options": ["Monitor Lizard", "Komodo Dragon", "Gila Monster", "Tegu"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-7",
+      "question": "This brightly colored amphibian from Central and South American rainforests secretes toxins through its skin. Indigenous people once used the toxin on blowgun darts. What amphibian is this?",
+      "options": ["Tree Frog", "Fire Salamander", "Poison Dart Frog", "Mantella Frog"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-8",
+      "question": "This small lizard is known for its ability to climb smooth surfaces, including glass, using specialized toe pads. Many species are nocturnal and some can vocalize. What reptile is this?",
+      "options": ["Anole", "Skink", "Gecko", "Chameleon"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-9",
+      "question": "This large, non-venomous snake from South America is one of the heaviest snakes in the world. It is an excellent swimmer and kills its prey by constriction. What reptile is this?",
+      "options": ["Boa Constrictor", "Burmese Python", "Green Anaconda", "Reticulated Python"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-10",
+      "question": "This amphibian looks like a lizard but has smooth, moist skin instead of scales. Some species can regenerate lost limbs. The spotted variety is common in eastern North America. What amphibian is this?",
+      "options": ["Newt", "Salamander", "Skink", "Gecko"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-11",
+      "question": "This marine reptile returns to sandy beaches to lay eggs. Some species travel thousands of miles across oceans, and several are endangered. The loggerhead and green are well-known species. What reptile is this?",
+      "options": ["Marine Iguana", "Saltwater Crocodile", "Sea Turtle", "Sea Snake"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-12",
+      "question": "This venomous lizard from the American Southwest is one of only a few venomous lizards in the world. It has a stout body with distinctive black and orange or pink bead-like scales. What reptile is this?",
+      "options": ["Komodo Dragon", "Gila Monster", "Beaded Lizard", "Monitor Lizard"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-13",
+      "question": "This iconic reptile from the American Southeast has a V-shaped snout and visible lower teeth when its mouth is closed, distinguishing it from its American cousin. What reptile is this?",
+      "options": ["Alligator", "Caiman", "American Crocodile", "Gharial"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptile-identification-14",
+      "question": "This Australian lizard has a large frill of skin around its neck that it spreads out when threatened, making it look much larger and more intimidating. What reptile is this?",
+      "options": ["Bearded Dragon", "Frilled Lizard", "Thorny Devil", "Blue-Tongued Skink"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptile-identification-15",
+      "question": "This amphibian resembles a frog but has dry, bumpy skin and shorter legs. It is often found in gardens and secretes a mild toxin from glands behind its eyes. What amphibian is this?",
+      "options": ["Tree Frog", "Bullfrog", "Toad", "Salamander"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "world-straits",
+  "title": "World Straits",
+  "description": "Famous straits and narrow waterways around the world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-straits-1",
+      "question": "The Strait of Gibraltar connects the Atlantic Ocean to which sea?",
+      "options": ["Black Sea", "Red Sea", "Mediterranean Sea", "Caspian Sea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-2",
+      "question": "The Strait of Hormuz is a critical chokepoint for the global oil trade. It connects the Persian Gulf to which body of water?",
+      "options": ["Arabian Sea", "Gulf of Oman", "Red Sea", "Indian Ocean"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-3",
+      "question": "The Strait of Malacca, one of the world's busiest shipping lanes, lies between the Malay Peninsula and which island?",
+      "options": ["Borneo", "Java", "Sumatra", "Sulawesi"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-4",
+      "question": "The Bosphorus Strait divides which city between Europe and Asia?",
+      "options": ["Athens", "Cairo", "Istanbul", "Beirut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-5",
+      "question": "The Strait of Magellan is located at the southern tip of which continent?",
+      "options": ["Africa", "Australia", "South America", "Antarctica"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-6",
+      "question": "The English Channel, the strait between England and France, is known in French as what?",
+      "options": ["Le Passage", "La Manche", "Le Détroit", "La Mer Étroite"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-7",
+      "question": "The Strait of Messina separates mainland Italy from which island?",
+      "options": ["Sardinia", "Corsica", "Sicily", "Malta"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-8",
+      "question": "Drake Passage, one of the roughest waterways in the world, lies between South America and which continent?",
+      "options": ["Africa", "Australia", "Antarctica", "North America"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-9",
+      "question": "The Bering Strait separates Alaska from which country?",
+      "options": ["Canada", "Japan", "Russia", "China"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-10",
+      "question": "The Dardanelles Strait, known in ancient times as the Hellespont, is located in which country?",
+      "options": ["Greece", "Turkey", "Egypt", "Italy"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-11",
+      "question": "The Strait of Taiwan separates Taiwan from mainland China. Approximately how wide is it at its narrowest point?",
+      "options": ["30 miles", "80 miles", "150 miles", "250 miles"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-12",
+      "question": "The Torres Strait lies between Australia and which nearby island nation?",
+      "options": ["Indonesia", "New Zealand", "Papua New Guinea", "Fiji"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-straits-13",
+      "question": "The Strait of Dover is the narrowest part of the English Channel. Approximately how wide is it?",
+      "options": ["11 miles", "21 miles", "41 miles", "61 miles"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-14",
+      "question": "The Strait of Bonifacio separates the islands of Corsica and Sardinia. These islands belong to which two countries?",
+      "options": ["Spain and Portugal", "France and Italy", "Greece and Turkey", "Croatia and Montenegro"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-straits-15",
+      "question": "The Strait of Mozambique separates Madagascar from the southeastern coast of which continent?",
+      "options": ["Asia", "Australia", "Africa", "South America"],
+      "correctAnswer": 2
+    }
+  ]
+}

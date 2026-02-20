@@ -1,0 +1,98 @@
+{
+  "id": "verbal-reasoning",
+  "title": "Verbal Reasoning",
+  "description": "Word analogies and relationships",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "verbal-reasoning-1",
+      "question": "Hot is to cold as tall is to ___?",
+      "options": ["Big", "Short", "High", "Long"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-2",
+      "question": "Author is to book as composer is to ___?",
+      "options": ["Orchestra", "Music", "Piano", "Singer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-3",
+      "question": "Puppy is to dog as kitten is to ___?",
+      "options": ["Feline", "Cat", "Pet", "Fur"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-4",
+      "question": "Which word does NOT belong in this group: Apple, Banana, Carrot, Orange?",
+      "options": ["Apple", "Banana", "Carrot", "Orange"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "verbal-reasoning-5",
+      "question": "Pen is to write as knife is to ___?",
+      "options": ["Sharp", "Fork", "Cut", "Kitchen"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "verbal-reasoning-6",
+      "question": "Eye is to see as ear is to ___?",
+      "options": ["Sound", "Hear", "Loud", "Music"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-7",
+      "question": "Which word does NOT belong: Sparrow, Eagle, Robin, Salmon?",
+      "options": ["Sparrow", "Eagle", "Robin", "Salmon"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "verbal-reasoning-8",
+      "question": "Glove is to hand as sock is to ___?",
+      "options": ["Shoe", "Foot", "Leg", "Toe"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-9",
+      "question": "If APPLE is coded as 1-16-16-12-5, what does 3-1-20 spell?",
+      "options": ["DOG", "CAT", "BAT", "CUT"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-10",
+      "question": "Chapter is to book as scene is to ___?",
+      "options": ["Film", "Actor", "Stage", "Play"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "verbal-reasoning-11",
+      "question": "Flock is to sheep as pack is to ___?",
+      "options": ["Cats", "Wolves", "Fish", "Cows"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-12",
+      "question": "Which word is the odd one out: Huge, Enormous, Tiny, Gigantic?",
+      "options": ["Huge", "Enormous", "Tiny", "Gigantic"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "verbal-reasoning-13",
+      "question": "Bark is to tree as skin is to ___?",
+      "options": ["Bone", "Human", "Fur", "Body"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-14",
+      "question": "If all Bloops are Razzles, and all Razzles are Lazzles, then all Bloops are definitely ___?",
+      "options": ["Razzles only", "Lazzles", "Neither", "Cannot be determined"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "verbal-reasoning-15",
+      "question": "Steering wheel is to car as rudder is to ___?",
+      "options": ["Aeroplane", "Ship", "Bicycle", "Train"],
+      "correctAnswer": 1
+    }
+  ]
+}

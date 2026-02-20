@@ -1,0 +1,98 @@
+{
+  "id": "classic-sci-fi-movies",
+  "title": "Classic Sci-Fi Movies",
+  "description": "Iconic science fiction films from the 1950s-1980s",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-sci-fi-movies-1",
+      "question": "In the 1951 film 'The Day the Earth Stood Still,' what is the name of the alien visitor who comes to Earth with a warning?",
+      "options": ["Zoltar", "Klaatu", "Gort", "Morbius"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-2",
+      "question": "Which 1956 science fiction film features alien seed pods that replace humans with emotionless duplicates?",
+      "options": ["The Thing from Another World", "Invasion of the Body Snatchers", "It Came from Outer Space", "The Blob"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-3",
+      "question": "What is the name of the sentient computer that turns against the crew in Stanley Kubrick's '2001: A Space Odyssey' (1968)?",
+      "options": ["WOPR", "HAL 9000", "Colossus", "MU-TH-UR"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-4",
+      "question": "In the original 1968 'Planet of the Apes,' which actor starred as astronaut George Taylor?",
+      "options": ["Kirk Douglas", "Charlton Heston", "Gregory Peck", "Burt Lancaster"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-5",
+      "question": "Which 1953 film, based on an H.G. Wells novel, depicts a Martian invasion of Earth with heat-ray-wielding war machines?",
+      "options": ["When Worlds Collide", "The War of the Worlds", "Earth vs. the Flying Saucers", "Invaders from Mars"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-6",
+      "question": "What year was the original 'Star Wars' (later subtitled 'A New Hope') released in theaters?",
+      "options": ["1975", "1976", "1977", "1978"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-sci-fi-movies-7",
+      "question": "In the 1954 film 'Them!,' what type of creatures have been mutated by atomic radiation into giant monsters?",
+      "options": ["Spiders", "Ants", "Scorpions", "Grasshoppers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-8",
+      "question": "Which director created the 1982 science fiction classic 'Blade Runner,' starring Harrison Ford?",
+      "options": ["James Cameron", "Ridley Scott", "Steven Spielberg", "George Lucas"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-9",
+      "question": "In 'Close Encounters of the Third Kind' (1977), what five-note musical sequence is used to communicate with the aliens?",
+      "options": ["D-E-C-C-G", "G-A-F-F-C", "C-D-A-A-E", "Re-Mi-Do-Do-Sol"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-sci-fi-movies-10",
+      "question": "Which 1958 film features a gelatinous alien creature that grows larger as it consumes people in a small town?",
+      "options": ["The Fly", "The Blob", "The Crawling Eye", "Attack of the 50 Foot Woman"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-11",
+      "question": "What was the name of the time-traveling DeLorean inventor in 'Back to the Future' (1985)?",
+      "options": ["Dr. Emmett Brown", "Dr. Victor Frankenstein", "Dr. Henry Jones", "Dr. David Bowman"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-sci-fi-movies-12",
+      "question": "In Ridley Scott's 'Alien' (1979), what is the name of the spaceship whose crew encounters the deadly xenomorph?",
+      "options": ["Sulaco", "Nostromo", "Prometheus", "Discovery One"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-13",
+      "question": "Which 1956 sci-fi film is set on the distant planet Altair IV and features Robby the Robot?",
+      "options": ["This Island Earth", "Forbidden Planet", "The Mysterians", "Journey to the Seventh Planet"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-sci-fi-movies-14",
+      "question": "In the 1982 film 'E.T. the Extra-Terrestrial,' what candy does Elliott use to lure E.T. out of hiding?",
+      "options": ["M&M's", "Skittles", "Reese's Pieces", "Jelly Beans"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-sci-fi-movies-15",
+      "question": "Which 1979 science fiction film featured the tagline 'In space, no one can hear you scream'?",
+      "options": ["Star Trek: The Motion Picture", "Alien", "The Black Hole", "Moonraker"],
+      "correctAnswer": 1
+    }
+  ]
+}

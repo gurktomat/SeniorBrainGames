@@ -1,0 +1,98 @@
+{
+  "id": "vintage-cameras",
+  "title": "Vintage Cameras",
+  "description": "Classic cameras, film brands, and photography history",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-cameras-1",
+      "question": "Which company introduced the Brownie camera in 1900, making photography affordable for everyday people?",
+      "options": ["Leica", "Kodak", "Polaroid", "Canon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-2",
+      "question": "What type of instant camera did Edwin Land introduce in 1948, producing prints that developed before your eyes?",
+      "options": ["Kodak Instamatic", "Polaroid Land Camera", "Argus C3", "Hasselblad 500C"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-3",
+      "question": "Which iconic 35mm film brand was known for its yellow boxes and the slogan 'Kodak moment'?",
+      "options": ["Fujifilm", "Ilford", "Kodak", "Agfa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-cameras-4",
+      "question": "The Kodak Instamatic, introduced in 1963, used what easy-to-load film format?",
+      "options": ["110 cartridge", "126 cartridge", "35mm cassette", "Disc film"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-5",
+      "question": "Which German camera brand produced the legendary M-series rangefinder cameras favored by photojournalists?",
+      "options": ["Zeiss", "Voigtlander", "Leica", "Rollei"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-cameras-6",
+      "question": "What did photographers use in the early days of photography to produce a bright burst of light for indoor photos?",
+      "options": ["Flash powder", "Neon tubes", "Arc lamps", "Candle arrays"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-cameras-7",
+      "question": "Which camera brand introduced the popular SX-70, a folding instant camera, in 1972?",
+      "options": ["Kodak", "Polaroid", "Minolta", "Nikon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-8",
+      "question": "What was the name of Kodak's disc-shaped film format introduced in 1982 that fit into ultra-thin cameras?",
+      "options": ["Kodak Pocket Film", "Kodak Disc Film", "Kodak Micro Film", "Kodak Circle Film"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-9",
+      "question": "The twin-lens reflex (TLR) Rolleiflex camera was primarily designed to use what film size?",
+      "options": ["35mm", "120 medium format", "4x5 sheet film", "110 cartridge"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-10",
+      "question": "Which disposable camera brand became hugely popular at weddings and parties in the 1980s and 1990s?",
+      "options": ["Fuji QuickSnap", "Kodak FunSaver", "Polaroid Snap", "Agfa LeBox"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-11",
+      "question": "What was the standard number of exposures on a typical roll of 35mm film?",
+      "options": ["12 or 20", "24 or 36", "48 or 60", "6 or 8"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-12",
+      "question": "Which type of camera used a bellows that folded out from the body and was common in the early 1900s?",
+      "options": ["Box camera", "Folding camera", "Press camera", "Stereo camera"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-13",
+      "question": "The Argus C3, nicknamed 'The Brick' for its shape, was one of the best-selling cameras in which country?",
+      "options": ["Germany", "Japan", "United States", "England"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-cameras-14",
+      "question": "What was the small, cube-shaped flash attachment that sat on top of cameras in the 1960s and 1970s called?",
+      "options": ["Flash bar", "Flashcube", "Flash bulb", "Flash disc"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-cameras-15",
+      "question": "Which Swedish camera brand was used by NASA astronauts to photograph the Moon during the Apollo missions?",
+      "options": ["Leica", "Nikon", "Hasselblad", "Mamiya"],
+      "correctAnswer": 2
+    }
+  ]
+}

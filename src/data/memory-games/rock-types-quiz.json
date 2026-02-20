@@ -1,0 +1,98 @@
+{
+  "id": "rock-types-quiz",
+  "title": "Rock Types Quiz",
+  "description": "Identify rock types and geological formations",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "rock-types-quiz-1",
+      "question": "This hard, coarse-grained igneous rock is made of quartz, feldspar, and mica. It is commonly used for kitchen countertops and building facades. What rock is this?",
+      "options": ["Marble", "Granite", "Basalt", "Limestone"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rock-types-quiz-2",
+      "question": "This metamorphic rock was once limestone but was transformed by heat and pressure into a smooth, often white stone prized by sculptors like Michelangelo. What rock is this?",
+      "options": ["Quartzite", "Marble", "Slate", "Gneiss"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rock-types-quiz-3",
+      "question": "This dark, fine-grained igneous rock forms from rapidly cooled lava and makes up most of the ocean floor. The Giant's Causeway in Ireland is made of columns of this rock. What rock is this?",
+      "options": ["Obsidian", "Granite", "Basalt", "Pumice"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rock-types-quiz-4",
+      "question": "This volcanic glass forms when lava cools so rapidly that crystals cannot form. It is typically jet black and was used by ancient peoples for tools and weapons. What rock is this?",
+      "options": ["Basalt", "Flint", "Obsidian", "Onyx"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rock-types-quiz-5",
+      "question": "This sedimentary rock is made primarily of calcium carbonate from ancient marine organisms. It is used in cement and many famous buildings, including the Great Pyramid of Giza. What rock is this?",
+      "options": ["Sandstone", "Limestone", "Chalk", "Shale"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rock-types-quiz-6",
+      "question": "This fine-grained metamorphic rock splits easily into flat sheets and has been used for centuries as roofing tiles and chalkboards. What rock is this?",
+      "options": ["Shale", "Slate", "Schist", "Phyllite"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rock-types-quiz-7",
+      "question": "This lightweight volcanic rock is so full of gas bubbles that it actually floats on water. It is commonly used as an abrasive for smoothing skin. What rock is this?",
+      "options": ["Pumice", "Chalk", "Tufa", "Scoria"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rock-types-quiz-8",
+      "question": "This sedimentary rock is composed of sand-sized grains cemented together. Its red and orange varieties create stunning formations in places like the Grand Canyon. What rock is this?",
+      "options": ["Limestone", "Siltstone", "Conglomerate", "Sandstone"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rock-types-quiz-9",
+      "question": "This sedimentary rock is made of fine clay particles and often contains fossils. It is the most common sedimentary rock on Earth. What rock is this?",
+      "options": ["Mudstone", "Shale", "Siltstone", "Slate"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rock-types-quiz-10",
+      "question": "This extremely hard metamorphic rock forms when sandstone is subjected to intense heat and pressure. It is almost entirely made of quartz. What rock is this?",
+      "options": ["Quartzite", "Marble", "Gneiss", "Granite"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rock-types-quiz-11",
+      "question": "This type of sedimentary rock forms when water evaporates, leaving behind dissolved minerals. Rock salt and gypsum are common examples. What type of rock is this?",
+      "options": ["Clastic rock", "Organic rock", "Evaporite", "Chemical rock"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rock-types-quiz-12",
+      "question": "This banded metamorphic rock has alternating layers of light and dark minerals, giving it a striped appearance. It forms under extreme heat and pressure deep in the Earth. What rock is this?",
+      "options": ["Schist", "Slate", "Gneiss", "Phyllite"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rock-types-quiz-13",
+      "question": "This soft, white sedimentary rock is actually a form of limestone made from the shells of tiny marine organisms called coccoliths. The White Cliffs of Dover are made of it. What rock is this?",
+      "options": ["Chalk", "Gypsum", "Talc", "Kaolin"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rock-types-quiz-14",
+      "question": "This sedimentary rock is made of rounded pebbles and stones cemented together in a matrix of sand or clay. It looks like natural concrete. What rock is this?",
+      "options": ["Breccia", "Sandstone", "Conglomerate", "Tillite"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rock-types-quiz-15",
+      "question": "This hard, dark sedimentary rock fractures with sharp edges and was widely used for making Stone Age tools, arrowheads, and starting fires. What rock is this?",
+      "options": ["Obsidian", "Chert", "Flint", "Basalt"],
+      "correctAnswer": 2
+    }
+  ]
+}

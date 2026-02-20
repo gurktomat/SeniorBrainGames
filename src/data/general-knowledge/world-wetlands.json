@@ -1,0 +1,98 @@
+{
+  "id": "world-wetlands",
+  "title": "World Wetlands",
+  "description": "Marshes, swamps, and wetland ecosystems worldwide",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-wetlands-1",
+      "question": "The Everglades, one of the world's most famous wetlands, is located in which U.S. state?",
+      "options": ["Louisiana", "Georgia", "Florida", "South Carolina"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-2",
+      "question": "The Pantanal, the world's largest tropical wetland, is primarily located in which country?",
+      "options": ["Argentina", "Brazil", "Colombia", "Venezuela"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-wetlands-3",
+      "question": "The Ramsar Convention, an international treaty for wetland conservation, is named after a city in which country?",
+      "options": ["Switzerland", "India", "Iran", "Egypt"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-4",
+      "question": "The Okavango Delta, a vast inland wetland, is located in which African country?",
+      "options": ["Namibia", "Zimbabwe", "Botswana", "Zambia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-5",
+      "question": "What type of wetland is characterized by acidic water, sphagnum moss, and peat formation?",
+      "options": ["Marsh", "Swamp", "Bog", "Fen"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-6",
+      "question": "The Sundarbans, the world's largest mangrove forest, spans the delta of which major rivers?",
+      "options": ["Mekong and Irrawaddy", "Ganges and Brahmaputra", "Indus and Narmada", "Yangtze and Yellow"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-wetlands-7",
+      "question": "The Camargue, a famous wetland known for its white horses and pink flamingos, is located in which country?",
+      "options": ["Spain", "Italy", "France", "Portugal"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-8",
+      "question": "Which wetland ecosystem acts as a natural 'sponge,' helping to reduce the impact of flooding?",
+      "options": ["Only marshes", "Only swamps", "Only bogs", "All types of wetlands"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-wetlands-9",
+      "question": "The Mesopotamian Marshes, home to the ancient Marsh Arabs, are located primarily in which modern country?",
+      "options": ["Syria", "Iraq", "Iran", "Turkey"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-wetlands-10",
+      "question": "The Kakadu wetlands, a UNESCO World Heritage Site known for Aboriginal rock art, are in which country?",
+      "options": ["New Zealand", "Papua New Guinea", "Indonesia", "Australia"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-wetlands-11",
+      "question": "What is the primary difference between a swamp and a marsh?",
+      "options": ["Swamps have trees; marshes have grasses", "Marshes are larger than swamps", "Swamps are saltwater; marshes are freshwater", "There is no difference"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-wetlands-12",
+      "question": "The Norfolk Broads, a network of rivers and lakes popular for boating, is a wetland in which country?",
+      "options": ["Ireland", "Scotland", "Netherlands", "England"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-wetlands-13",
+      "question": "The Sudd, one of the world's largest wetlands, is formed by the overflow of which major river?",
+      "options": ["Congo River", "Niger River", "White Nile", "Zambezi River"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-wetlands-14",
+      "question": "World Wetlands Day is celebrated annually on which date?",
+      "options": ["January 15", "February 2", "March 22", "April 22"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-wetlands-15",
+      "question": "The Doñana National Park, one of Europe's most important wetlands for migratory birds, is located in which country?",
+      "options": ["Portugal", "France", "Italy", "Spain"],
+      "correctAnswer": 3
+    }
+  ]
+}

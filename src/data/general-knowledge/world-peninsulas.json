@@ -1,0 +1,98 @@
+{
+  "id": "world-peninsulas",
+  "title": "World Peninsulas",
+  "description": "Famous peninsulas and their geography",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-peninsulas-1",
+      "question": "Which peninsula is home to the countries of Spain and Portugal?",
+      "options": ["Italian Peninsula", "Iberian Peninsula", "Balkan Peninsula", "Scandinavian Peninsula"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-peninsulas-2",
+      "question": "The Scandinavian Peninsula is primarily shared by which two countries?",
+      "options": ["Denmark and Finland", "Norway and Sweden", "Sweden and Finland", "Norway and Denmark"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-peninsulas-3",
+      "question": "Italy is located on which peninsula, shaped like a boot?",
+      "options": ["Iberian Peninsula", "Balkan Peninsula", "Italian Peninsula", "Anatolian Peninsula"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-4",
+      "question": "The Arabian Peninsula is the world's largest peninsula. Which country occupies most of it?",
+      "options": ["Iraq", "Yemen", "Saudi Arabia", "Oman"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-5",
+      "question": "The Yucatan Peninsula, known for Mayan ruins, is located in which country?",
+      "options": ["Guatemala", "Belize", "Mexico", "Honduras"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-6",
+      "question": "Which peninsula separates the Sea of Japan from the Yellow Sea?",
+      "options": ["Malay Peninsula", "Korean Peninsula", "Kamchatka Peninsula", "Indochina Peninsula"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-peninsulas-7",
+      "question": "The Balkan Peninsula includes which of these countries?",
+      "options": ["Switzerland", "Austria", "Greece", "Hungary"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-8",
+      "question": "The Sinai Peninsula connects which two continents?",
+      "options": ["Europe and Asia", "Africa and Asia", "Asia and Australia", "Africa and Europe"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-peninsulas-9",
+      "question": "Florida is a large peninsula that extends into which body of water?",
+      "options": ["Atlantic Ocean only", "Gulf of Mexico only", "Both the Atlantic Ocean and Gulf of Mexico", "Caribbean Sea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-10",
+      "question": "The Kamchatka Peninsula, known for its volcanoes, belongs to which country?",
+      "options": ["Japan", "China", "Russia", "Alaska (USA)"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-11",
+      "question": "The Malay Peninsula is the southernmost point of mainland Asia. Which strait lies at its tip?",
+      "options": ["Strait of Hormuz", "Strait of Malacca", "Strait of Gibraltar", "Taiwan Strait"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-peninsulas-12",
+      "question": "The Jutland Peninsula forms the mainland of which European country?",
+      "options": ["Netherlands", "Belgium", "Denmark", "Germany"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-13",
+      "question": "Cape York Peninsula is located in the northeastern part of which country?",
+      "options": ["South Africa", "New Zealand", "Australia", "Papua New Guinea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-14",
+      "question": "The Anatolian Peninsula, also known as Asia Minor, makes up the majority of which modern country?",
+      "options": ["Greece", "Iran", "Turkey", "Syria"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-peninsulas-15",
+      "question": "The Baja California Peninsula is a long, narrow strip of land belonging to which country?",
+      "options": ["United States", "Mexico", "Guatemala", "Cuba"],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "world-rainforests",
+  "title": "World Rainforests",
+  "description": "Tropical and temperate rainforests of the world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-rainforests-1",
+      "question": "The Amazon Rainforest, the world's largest tropical rainforest, is primarily located in which country?",
+      "options": ["Colombia", "Peru", "Brazil", "Venezuela"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-2",
+      "question": "Approximately what percentage of the world's plant and animal species are found in tropical rainforests?",
+      "options": ["About 10%", "About 25%", "About 50%", "About 75%"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-3",
+      "question": "The Congo Rainforest, the second-largest tropical rainforest, is located on which continent?",
+      "options": ["South America", "Asia", "Africa", "Australia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-4",
+      "question": "Which layer of the rainforest receives the most sunlight and is home to birds and butterflies?",
+      "options": ["Forest floor", "Understory", "Canopy", "Emergent layer"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-rainforests-5",
+      "question": "The Daintree Rainforest, one of the world's oldest rainforests, is located in which country?",
+      "options": ["New Zealand", "Indonesia", "Australia", "Papua New Guinea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-6",
+      "question": "Which Southeast Asian island is home to one of the world's oldest rainforests, estimated to be 130 million years old?",
+      "options": ["Java", "Sumatra", "Borneo", "Sulawesi"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-7",
+      "question": "Rainforests are sometimes called the 'lungs of the Earth' because they produce large amounts of what gas?",
+      "options": ["Nitrogen", "Carbon dioxide", "Oxygen", "Hydrogen"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-8",
+      "question": "The Amazon River, which flows through the Amazon Rainforest, empties into which ocean?",
+      "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-9",
+      "question": "Temperate rainforests, unlike tropical ones, are found in regions with what kind of climate?",
+      "options": ["Hot and dry", "Cool and wet", "Cold and dry", "Warm and seasonal"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-rainforests-10",
+      "question": "The Pacific Northwest of the United States is home to temperate rainforests in which state?",
+      "options": ["California", "Oregon", "Washington", "Both Oregon and Washington"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-rainforests-11",
+      "question": "Which animal, found only in the rainforests of Madagascar, is the world's smallest primate?",
+      "options": ["Pygmy marmoset", "Mouse lemur", "Tarsier", "Bush baby"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-rainforests-12",
+      "question": "Deforestation of the Amazon Rainforest is primarily driven by which human activity?",
+      "options": ["Mining", "Cattle ranching", "Road building", "Logging"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-rainforests-13",
+      "question": "The Tongass National Forest, the largest national forest in the United States, is a temperate rainforest located in which state?",
+      "options": ["Hawaii", "Washington", "Alaska", "Oregon"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-rainforests-14",
+      "question": "Which common household product ingredient, often linked to rainforest deforestation, is found in about 50% of supermarket products?",
+      "options": ["Soy", "Palm oil", "Cocoa", "Coffee"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-rainforests-15",
+      "question": "The cloud forests of Central and South America are a type of rainforest found at what kind of elevation?",
+      "options": ["Sea level", "Low elevation", "High elevation", "Below sea level"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "rhyming-pairs",
+  "title": "Rhyming Pairs",
+  "description": "Complete famous rhyming word pairs",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "rhyming-pairs-1",
+      "question": "Complete the rhyming pair: 'brain ___'",
+      "options": ["Pain", "Train", "Drain", "Rain"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-2",
+      "question": "Complete the rhyming pair: 'helter ___'",
+      "options": ["Smelter", "Shelter", "Skelter", "Welter"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-3",
+      "question": "Complete the rhyming pair: 'willy ___'",
+      "options": ["Nilly", "Billy", "Silly", "Hilly"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rhyming-pairs-4",
+      "question": "Complete the rhyming pair: 'hustle and ___'",
+      "options": ["Tussle", "Muscle", "Bustle", "Rustle"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-5",
+      "question": "Complete the rhyming pair: 'nitty ___'",
+      "options": ["Witty", "Gritty", "Pretty", "Kitty"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyming-pairs-6",
+      "question": "Complete the rhyming pair: 'fuddy ___'",
+      "options": ["Buddy", "Muddy", "Duddy", "Studdy"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-7",
+      "question": "Complete the rhyming pair: 'namby ___'",
+      "options": ["Bamby", "Pamby", "Gamby", "Hamby"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyming-pairs-8",
+      "question": "Complete the rhyming pair: 'hoity ___'",
+      "options": ["Loity", "Moity", "Toity", "Doity"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-9",
+      "question": "Complete the rhyming pair: 'hanky ___'",
+      "options": ["Panky", "Cranky", "Swanky", "Tanky"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rhyming-pairs-10",
+      "question": "Complete the rhyming pair: 'razzle ___'",
+      "options": ["Frazzle", "Dazzle", "Gazzle", "Tazzle"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyming-pairs-11",
+      "question": "Complete the rhyming pair: 'hocus ___'",
+      "options": ["Focus", "Locus", "Pocus", "Crocus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-12",
+      "question": "Complete the rhyming pair: 'hurly ___'",
+      "options": ["Curly", "Surly", "Burly", "Early"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyming-pairs-13",
+      "question": "Complete the rhyming pair: 'higgledy ___'",
+      "options": ["Piggledy", "Wiggledy", "Jiggledy", "Diggledy"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rhyming-pairs-14",
+      "question": "Complete the rhyming pair: 'easy ___'",
+      "options": ["Breezy", "Peasy", "Sneezy", "Queasy"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyming-pairs-15",
+      "question": "Complete the rhyming pair: 'teeny ___'",
+      "options": ["Meany", "Beany", "Weeny", "Genie"],
+      "correctAnswer": 2
+    }
+  ]
+}

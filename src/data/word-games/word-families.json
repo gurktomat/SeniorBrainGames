@@ -1,0 +1,98 @@
+{
+  "id": "word-families",
+  "title": "Word Families",
+  "description": "Groups of related words sharing common roots",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "word-families-1",
+      "question": "The words 'spectacle,' 'inspect,' and 'spectator' all share a Latin root meaning what?",
+      "options": ["To hear", "To look or see", "To touch", "To speak"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-2",
+      "question": "Which root do 'portable,' 'transport,' and 'export' have in common?",
+      "options": ["Port — meaning to carry", "Port — meaning harbor", "Port — meaning door", "Port — meaning left side"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-families-3",
+      "question": "'Dictate,' 'predict,' and 'verdict' all share the Latin root 'dict' meaning:",
+      "options": ["To write", "To say or speak", "To judge", "To lead"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-4",
+      "question": "The words 'manual,' 'manuscript,' and 'manufacture' share a root related to:",
+      "options": ["Feet", "Mind", "Hand", "Heart"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-families-5",
+      "question": "Which word does NOT belong in the same family as 'aquarium' and 'aquatic'?",
+      "options": ["Aqueduct", "Aquamarine", "Adequate", "Aquifer"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-families-6",
+      "question": "The root 'chrono' in 'chronological,' 'chronicle,' and 'synchronize' means:",
+      "options": ["Color", "Time", "Sound", "Circle"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-7",
+      "question": "'Benevolent,' 'benefit,' and 'benediction' all contain a root meaning:",
+      "options": ["Bad", "Good or well", "Below", "Bent"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-8",
+      "question": "The words 'telegram,' 'telephone,' and 'television' share the Greek prefix 'tele' meaning:",
+      "options": ["Small", "Many", "Far or distant", "Fast"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-families-9",
+      "question": "'Scribe,' 'describe,' and 'prescription' share a root meaning:",
+      "options": ["To read", "To write", "To print", "To erase"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-10",
+      "question": "Which word belongs to the same family as 'biology' and 'biography'?",
+      "options": ["Bicycle", "Binoculars", "Biopsy", "Bilateral"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-families-11",
+      "question": "The root 'aud' in 'auditorium,' 'audience,' and 'audio' means:",
+      "options": ["To see", "To speak", "To hear", "To feel"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-families-12",
+      "question": "'Rupture,' 'erupt,' and 'interrupt' share a root meaning:",
+      "options": ["To flow", "To break", "To build", "To join"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-13",
+      "question": "The words 'vocal,' 'invoke,' and 'advocate' share a root related to:",
+      "options": ["Voice or calling", "Flying", "Emptiness", "Strength"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-families-14",
+      "question": "'Credible,' 'credit,' and 'incredible' share the Latin root 'cred' meaning:",
+      "options": ["To run", "To believe", "To grow", "To create"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-families-15",
+      "question": "Which word family does 'pedestrian' belong to, based on its root 'ped'?",
+      "options": ["Words about children", "Words about feet or walking", "Words about education", "Words about speed"],
+      "correctAnswer": 1
+    }
+  ]
+}
