@@ -1,0 +1,173 @@
+{
+  "id": "world-mountains",
+  "title": "World Mountains",
+  "description": "Famous peaks and mountaineering history",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-mountains-1",
+      "question": "What is the tallest mountain in the world, measured from sea level?",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Mount Everest",
+        "Lhotse"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-mountains-2",
+      "question": "Who, along with Tenzing Norgay, was the first confirmed person to reach the summit of Mount Everest in 1953?",
+      "options": [
+        "George Mallory",
+        "Edmund Hillary",
+        "Reinhold Messner",
+        "Maurice Herzog"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-3",
+      "question": "Which mountain is the tallest in Africa and stands as a freestanding volcanic mountain?",
+      "options": [
+        "Mount Kenya",
+        "Mount Stanley",
+        "Mount Kilimanjaro",
+        "Mount Meru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-mountains-4",
+      "question": "What is the highest mountain in North America?",
+      "options": [
+        "Mount Logan",
+        "Mount Rainier",
+        "Denali",
+        "Mount Whitney"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-mountains-5",
+      "question": "K2, the second tallest mountain in the world, is located on the border of which two countries?",
+      "options": [
+        "Nepal and Tibet",
+        "Pakistan and China",
+        "India and Nepal",
+        "Afghanistan and Pakistan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-6",
+      "question": "Which mountain, an icon of Switzerland, has a distinctive pyramid-shaped peak?",
+      "options": [
+        "Mont Blanc",
+        "Eiger",
+        "Jungfrau",
+        "Matterhorn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-mountains-7",
+      "question": "What is the tallest mountain in Europe, located in the Caucasus range?",
+      "options": [
+        "Mont Blanc",
+        "Mount Elbrus",
+        "Matterhorn",
+        "Monte Rosa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-8",
+      "question": "Which Japanese mountain is both a sacred site and an active volcano, standing at 3,776 meters?",
+      "options": [
+        "Mount Aso",
+        "Mount Fuji",
+        "Mount Kita",
+        "Mount Hotaka"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-9",
+      "question": "Which South American peak is the highest mountain outside of Asia?",
+      "options": [
+        "Cotopaxi",
+        "Huascaran",
+        "Ojos del Salado",
+        "Aconcagua"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-mountains-10",
+      "question": "Which mountain is the highest peak in the Alps and sits on the border of France and Italy?",
+      "options": [
+        "Matterhorn",
+        "Mont Blanc",
+        "Monte Rosa",
+        "Eiger"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-11",
+      "question": "Which mountaineer was the first to climb Mount Everest without supplemental oxygen in 1978?",
+      "options": [
+        "Edmund Hillary",
+        "Reinhold Messner",
+        "Chris Bonington",
+        "Jim Whittaker"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-12",
+      "question": "What is the highest mountain in Australia's mainland?",
+      "options": [
+        "Mount Kosciuszko",
+        "Mount Bogong",
+        "Mount Townsend",
+        "Mount Ossa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-mountains-13",
+      "question": "Which Himalayan peak is the third highest in the world and straddles the border of Nepal and India?",
+      "options": [
+        "Lhotse",
+        "Makalu",
+        "Kangchenjunga",
+        "Cho Oyu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-mountains-14",
+      "question": "What is the name of the famous north face of a Swiss mountain, known as one of the most dangerous climbs in the Alps?",
+      "options": [
+        "Matterhorn North Face",
+        "Eiger North Face",
+        "Jungfrau North Face",
+        "Mont Blanc North Face"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-mountains-15",
+      "question": "Which volcanic mountain in Washington State erupted catastrophically on May 18, 1980?",
+      "options": [
+        "Mount Rainier",
+        "Mount Hood",
+        "Mount St. Helens",
+        "Mount Baker"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

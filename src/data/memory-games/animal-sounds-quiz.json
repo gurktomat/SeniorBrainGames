@@ -1,0 +1,173 @@
+{
+  "id": "animal-sounds-quiz",
+  "title": "Animal Sounds Quiz",
+  "description": "Match animals to their characteristic sounds and behaviors",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "animal-sounds-quiz-1",
+      "question": "What sound does a rooster make early in the morning?",
+      "options": [
+        "Cluck",
+        "Crow",
+        "Caw",
+        "Chirp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-2",
+      "question": "Which animal is known for its distinctive 'hoot' sound at night?",
+      "options": [
+        "Bat",
+        "Owl",
+        "Fox",
+        "Raccoon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-3",
+      "question": "What is the term for the sound a horse makes?",
+      "options": [
+        "Bray",
+        "Moo",
+        "Neigh",
+        "Bleat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-4",
+      "question": "Which animal is famous for trumpeting?",
+      "options": [
+        "Rhinoceros",
+        "Hippopotamus",
+        "Elephant",
+        "Giraffe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-5",
+      "question": "What sound does a cricket make on warm summer nights?",
+      "options": [
+        "Buzz",
+        "Hum",
+        "Chirp",
+        "Click"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-6",
+      "question": "Which animal is known for its laugh-like call in the African savanna?",
+      "options": [
+        "Zebra",
+        "Hyena",
+        "Wildebeest",
+        "Baboon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-7",
+      "question": "What is the term for the sound a donkey makes?",
+      "options": [
+        "Neigh",
+        "Whinny",
+        "Bray",
+        "Bleat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-8",
+      "question": "Which bird is famous for its ability to mimic human speech?",
+      "options": [
+        "Crow",
+        "Parrot",
+        "Mynah",
+        "Starling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-9",
+      "question": "What sound does a rattlesnake make as a warning?",
+      "options": [
+        "Hiss",
+        "Rattle",
+        "Click",
+        "Whistle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-10",
+      "question": "Which animal communicates through songs that can travel great distances underwater?",
+      "options": [
+        "Dolphin",
+        "Shark",
+        "Humpback Whale",
+        "Seal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-11",
+      "question": "What is the term for the sound a sheep makes?",
+      "options": [
+        "Moo",
+        "Bray",
+        "Cluck",
+        "Bleat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "animal-sounds-quiz-12",
+      "question": "Which Australian bird is known for a call that sounds like human laughter?",
+      "options": [
+        "Emu",
+        "Kookaburra",
+        "Cockatoo",
+        "Lyrebird"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-sounds-quiz-13",
+      "question": "What sound does a cat make when content and relaxed?",
+      "options": [
+        "Meow",
+        "Hiss",
+        "Purr",
+        "Yowl"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-14",
+      "question": "Which insect is known for its buzzing sound made by rapid wing beats?",
+      "options": [
+        "Ant",
+        "Butterfly",
+        "Bee",
+        "Ladybug"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-sounds-quiz-15",
+      "question": "What is the term for the loud, deep sound a lion makes?",
+      "options": [
+        "Growl",
+        "Roar",
+        "Howl",
+        "Bark"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

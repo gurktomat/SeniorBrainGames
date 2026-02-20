@@ -1,0 +1,173 @@
+{
+  "id": "word-definitions-quiz",
+  "title": "Word Definitions Quiz",
+  "description": "Match unusual words to their correct definitions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "word-definitions-quiz-1",
+      "question": "What does the word 'ubiquitous' mean?",
+      "options": [
+        "Extremely rare",
+        "Found everywhere",
+        "Very small",
+        "Completely unique"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-2",
+      "question": "What does 'ephemeral' mean?",
+      "options": [
+        "Lasting a very short time",
+        "Extremely beautiful",
+        "Very ancient",
+        "Completely transparent"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-definitions-quiz-3",
+      "question": "What does 'serendipity' mean?",
+      "options": [
+        "A state of deep sadness",
+        "A fortunate accident",
+        "A type of dance",
+        "A rare gemstone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-4",
+      "question": "What does 'quintessential' mean?",
+      "options": [
+        "Relating to five things",
+        "The most perfect example",
+        "Very old-fashioned",
+        "Extremely important"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-5",
+      "question": "What does 'pragmatic' mean?",
+      "options": [
+        "Overly dramatic",
+        "Dealing with things practically",
+        "Highly emotional",
+        "Very scholarly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-6",
+      "question": "What does 'loquacious' mean?",
+      "options": [
+        "Extremely quiet",
+        "Very talkative",
+        "Deeply thoughtful",
+        "Highly intelligent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-7",
+      "question": "What does 'benevolent' mean?",
+      "options": [
+        "Well-meaning and kindly",
+        "Extremely wealthy",
+        "Very powerful",
+        "Highly educated"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "word-definitions-quiz-8",
+      "question": "What does 'cacophony' mean?",
+      "options": [
+        "Beautiful music",
+        "A harsh mixture of sounds",
+        "A type of telephone",
+        "A large celebration"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-9",
+      "question": "What does 'sanguine' mean?",
+      "options": [
+        "Pessimistic and gloomy",
+        "Related to blood",
+        "Optimistic and positive",
+        "Extremely angry"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "word-definitions-quiz-10",
+      "question": "What does 'obsequious' mean?",
+      "options": [
+        "Following in a sequence",
+        "Excessively obedient or attentive",
+        "Very observant",
+        "Stubbornly defiant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-11",
+      "question": "What does 'gregarious' mean?",
+      "options": [
+        "Very lonely",
+        "Fond of company and sociable",
+        "Extremely greedy",
+        "Highly aggressive"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-12",
+      "question": "What does 'pernicious' mean?",
+      "options": [
+        "Very precise",
+        "Having a harmful effect",
+        "Extremely persistent",
+        "Deeply perceptive"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-13",
+      "question": "What does 'mellifluous' mean?",
+      "options": [
+        "Having a rough texture",
+        "Sweet-sounding and pleasant",
+        "Relating to honey bees",
+        "Very melodramatic"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-14",
+      "question": "What does 'fastidious' mean?",
+      "options": [
+        "Moving very quickly",
+        "Very attentive to detail",
+        "Extremely stubborn",
+        "Deeply fascinated"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "word-definitions-quiz-15",
+      "question": "What does 'magnanimous' mean?",
+      "options": [
+        "Having great physical strength",
+        "Very generous and forgiving",
+        "Extremely magnetic",
+        "Highly magnificent"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

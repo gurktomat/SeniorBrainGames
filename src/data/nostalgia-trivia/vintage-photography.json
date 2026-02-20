@@ -1,0 +1,173 @@
+{
+  "id": "vintage-photography",
+  "title": "Vintage Photography",
+  "description": "Classic cameras, film photography, and iconic photos",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-photography-1",
+      "question": "Which camera company introduced the Brownie camera in 1900, making photography accessible to everyday people?",
+      "options": [
+        "Leica",
+        "Nikon",
+        "Kodak",
+        "Canon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-2",
+      "question": "What type of instant camera, introduced by Polaroid in 1948, produced photos that developed before your eyes?",
+      "options": [
+        "Disposable camera",
+        "Instant camera",
+        "Box camera",
+        "Rangefinder camera"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-3",
+      "question": "What was the name of Kodak's popular slide film known for its vivid color reproduction?",
+      "options": [
+        "Kodacolor",
+        "Kodachrome",
+        "Ektachrome",
+        "Tri-X"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-4",
+      "question": "Which photographer is famous for capturing the iconic 1945 V-J Day kiss in Times Square?",
+      "options": [
+        "Ansel Adams",
+        "Alfred Eisenstaedt",
+        "Robert Capa",
+        "Henri Cartier-Bresson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-5",
+      "question": "What size of film became the standard for most consumer cameras from the 1960s onward?",
+      "options": [
+        "110 film",
+        "120 film",
+        "35mm film",
+        "127 film"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-6",
+      "question": "What darkroom chemical was used to make the image appear on photographic paper during developing?",
+      "options": [
+        "Fixer",
+        "Stop bath",
+        "Developer",
+        "Bleach"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-7",
+      "question": "Which American photographer was famous for his stunning black-and-white landscapes of Yosemite and the American West?",
+      "options": [
+        "Dorothea Lange",
+        "Ansel Adams",
+        "Edward Weston",
+        "Walker Evans"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-8",
+      "question": "What was the small, pocket-sized Kodak camera format introduced in 1972 called?",
+      "options": [
+        "Kodak Disc",
+        "Kodak Pocket Instamatic",
+        "Kodak Brownie Junior",
+        "Kodak Star"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-9",
+      "question": "What iconic Dorothea Lange photograph from 1936 became a symbol of the Great Depression?",
+      "options": [
+        "American Gothic",
+        "Migrant Mother",
+        "The Dust Bowl",
+        "Breadline"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-10",
+      "question": "What device was used to view 3D images on circular disks featuring scenes from tourist attractions and cartoons?",
+      "options": [
+        "Stereoscope",
+        "View-Master",
+        "Magic lantern",
+        "Kinetoscope"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-11",
+      "question": "What was the special light used in darkrooms that wouldn't expose photographic paper?",
+      "options": [
+        "Red light",
+        "Safelight",
+        "Black light",
+        "Fluorescent light"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-12",
+      "question": "Which German camera brand produced the legendary M-series rangefinder cameras favored by photojournalists?",
+      "options": [
+        "Zeiss",
+        "Rollei",
+        "Leica",
+        "Voigtlander"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-13",
+      "question": "What attachment that produced a bright burst of light replaced flashbulbs on cameras in the 1970s?",
+      "options": [
+        "Flash cube",
+        "LED panel",
+        "Electronic flash (strobe)",
+        "Magnesium flash"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-14",
+      "question": "What was the process called where you dropped off your film at a store and picked up prints later?",
+      "options": [
+        "Film processing",
+        "Photo finishing",
+        "Print developing",
+        "Image rendering"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-15",
+      "question": "What type of camera used two lenses stacked vertically and produced square format images on 120 film?",
+      "options": [
+        "Single-lens reflex",
+        "Rangefinder",
+        "Twin-lens reflex",
+        "Folding camera"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

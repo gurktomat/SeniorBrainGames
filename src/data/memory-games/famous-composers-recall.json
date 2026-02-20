@@ -1,0 +1,173 @@
+{
+  "id": "famous-composers-recall",
+  "title": "Famous Composers Recall",
+  "description": "Match composers to their famous works",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-composers-recall-1",
+      "question": "Who composed 'The Four Seasons,' a set of four violin concertos?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Antonio Vivaldi",
+        "George Frideric Handel",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-2",
+      "question": "Who composed the famous 'Moonlight Sonata'?",
+      "options": [
+        "Fr\u00e9d\u00e9ric Chopin",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Robert Schumann"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-3",
+      "question": "Who composed 'The Nutcracker' ballet?",
+      "options": [
+        "Igor Stravinsky",
+        "Sergei Prokofiev",
+        "Pyotr Ilyich Tchaikovsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-composers-recall-4",
+      "question": "Who composed the opera 'The Marriage of Figaro'?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Gioachino Rossini"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-composers-recall-5",
+      "question": "Who composed 'Messiah,' which includes the famous 'Hallelujah' chorus?",
+      "options": [
+        "Johann Sebastian Bach",
+        "George Frideric Handel",
+        "Antonio Vivaldi",
+        "Henry Purcell"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-6",
+      "question": "Who composed 'The Blue Danube' waltz?",
+      "options": [
+        "Franz Schubert",
+        "Johannes Brahms",
+        "Johann Strauss II",
+        "Gustav Mahler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-composers-recall-7",
+      "question": "Who composed the 'Brandenburg Concertos'?",
+      "options": [
+        "Johann Sebastian Bach",
+        "George Frideric Handel",
+        "Antonio Vivaldi",
+        "Georg Philipp Telemann"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-composers-recall-8",
+      "question": "Who composed 'Rhapsody in Blue,' blending classical and jazz?",
+      "options": [
+        "Aaron Copland",
+        "Leonard Bernstein",
+        "George Gershwin",
+        "Cole Porter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-composers-recall-9",
+      "question": "Who composed the opera 'Carmen'?",
+      "options": [
+        "Giacomo Puccini",
+        "Giuseppe Verdi",
+        "Georges Bizet",
+        "Claude Debussy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-composers-recall-10",
+      "question": "Who composed 'Clair de Lune,' a beloved piano piece?",
+      "options": [
+        "Maurice Ravel",
+        "Claude Debussy",
+        "Erik Satie",
+        "Fr\u00e9d\u00e9ric Chopin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-11",
+      "question": "Who composed 'The Planets' orchestral suite?",
+      "options": [
+        "Edward Elgar",
+        "Gustav Holst",
+        "Ralph Vaughan Williams",
+        "Benjamin Britten"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-12",
+      "question": "Who composed the 'Minute Waltz' and many other celebrated piano works?",
+      "options": [
+        "Franz Liszt",
+        "Fr\u00e9d\u00e9ric Chopin",
+        "Robert Schumann",
+        "Felix Mendelssohn"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-13",
+      "question": "Who composed the opera 'Aida,' set in ancient Egypt?",
+      "options": [
+        "Giacomo Puccini",
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Gioachino Rossini"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-composers-recall-14",
+      "question": "Who composed 'Bol\u00e9ro,' known for its slowly building single melody?",
+      "options": [
+        "Claude Debussy",
+        "Camille Saint-Sa\u00ebns",
+        "Maurice Ravel",
+        "Hector Berlioz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-composers-recall-15",
+      "question": "Who composed 'Ride of the Valkyries' from the opera cycle 'Der Ring des Nibelungen'?",
+      "options": [
+        "Gustav Mahler",
+        "Richard Strauss",
+        "Richard Wagner",
+        "Anton Bruckner"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

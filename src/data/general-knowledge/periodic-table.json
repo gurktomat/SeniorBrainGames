@@ -1,0 +1,173 @@
+{
+  "id": "periodic-table",
+  "title": "Periodic Table",
+  "description": "Chemical elements, symbols, and properties",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "periodic-table-1",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-2",
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-3",
+      "question": "What is the most abundant element in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-4",
+      "question": "Which element is represented by the symbol 'Fe'?",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Fermium",
+        "Francium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-5",
+      "question": "What is the lightest element on the periodic table?",
+      "options": [
+        "Helium",
+        "Lithium",
+        "Hydrogen",
+        "Boron"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-6",
+      "question": "Which noble gas is used to fill party balloons to make them float?",
+      "options": [
+        "Neon",
+        "Argon",
+        "Xenon",
+        "Helium"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "periodic-table-7",
+      "question": "What element does the symbol 'Na' represent?",
+      "options": [
+        "Nitrogen",
+        "Sodium",
+        "Neon",
+        "Nickel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-8",
+      "question": "Which element is essential for making steel when combined with iron?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Carbon",
+        "Tin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-9",
+      "question": "What is the chemical symbol for silver?",
+      "options": [
+        "Si",
+        "Sr",
+        "Ag",
+        "Sv"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-10",
+      "question": "Which element, atomic number 6, is the basis of all organic life?",
+      "options": [
+        "Calcium",
+        "Chlorine",
+        "Carbon",
+        "Cobalt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-11",
+      "question": "What is the only metal that is liquid at standard room temperature?",
+      "options": [
+        "Gallium",
+        "Mercury",
+        "Cesium",
+        "Bromine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-12",
+      "question": "Which element has the symbol 'K'?",
+      "options": [
+        "Krypton",
+        "Potassium",
+        "Calcium",
+        "Phosphorus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-13",
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-14",
+      "question": "Which element is the main component of table salt along with chlorine?",
+      "options": [
+        "Potassium",
+        "Calcium",
+        "Sodium",
+        "Magnesium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-15",
+      "question": "What is the heaviest naturally occurring element?",
+      "options": [
+        "Lead",
+        "Uranium",
+        "Plutonium",
+        "Radium"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

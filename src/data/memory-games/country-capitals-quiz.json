@@ -1,0 +1,173 @@
+{
+  "id": "country-capitals-quiz",
+  "title": "Country Capitals Quiz",
+  "description": "Match countries to their capital cities",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "country-capitals-quiz-1",
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-2",
+      "question": "What is the capital city of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "country-capitals-quiz-3",
+      "question": "What is the capital city of Brazil?",
+      "options": [
+        "Rio de Janeiro",
+        "S\u00e3o Paulo",
+        "Bras\u00edlia",
+        "Salvador"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-4",
+      "question": "What is the capital city of Turkey?",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Izmir",
+        "Antalya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "country-capitals-quiz-5",
+      "question": "What is the capital city of Switzerland?",
+      "options": [
+        "Zurich",
+        "Geneva",
+        "Bern",
+        "Basel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-6",
+      "question": "What is the capital city of New Zealand?",
+      "options": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Queenstown"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-7",
+      "question": "What is the capital city of South Africa?",
+      "options": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban",
+        "Pretoria"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "country-capitals-quiz-8",
+      "question": "What is the capital city of India?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Bangalore"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-9",
+      "question": "What is the capital city of Morocco?",
+      "options": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat",
+        "Fez"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-10",
+      "question": "What is the capital city of Myanmar?",
+      "options": [
+        "Yangon",
+        "Mandalay",
+        "Naypyidaw",
+        "Bagan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-11",
+      "question": "What is the capital city of Nigeria?",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Ibadan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "country-capitals-quiz-12",
+      "question": "What is the capital city of Pakistan?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-13",
+      "question": "What is the capital city of Vietnam?",
+      "options": [
+        "Ho Chi Minh City",
+        "Hanoi",
+        "Da Nang",
+        "Hue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "country-capitals-quiz-14",
+      "question": "What is the capital city of the Philippines?",
+      "options": [
+        "Cebu",
+        "Davao",
+        "Manila",
+        "Quezon City"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-capitals-quiz-15",
+      "question": "What is the capital city of Egypt?",
+      "options": [
+        "Alexandria",
+        "Cairo",
+        "Luxor",
+        "Giza"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

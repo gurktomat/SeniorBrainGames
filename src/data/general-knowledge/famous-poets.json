@@ -1,0 +1,173 @@
+{
+  "id": "famous-poets",
+  "title": "Famous Poets",
+  "description": "Renowned poets and their most famous works",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-poets-1",
+      "question": "Who wrote the epic poem 'Paradise Lost'?",
+      "options": [
+        "William Shakespeare",
+        "John Milton",
+        "Geoffrey Chaucer",
+        "Edmund Spenser"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-2",
+      "question": "Which American poet wrote 'The Road Not Taken' and 'Stopping by Woods on a Snowy Evening'?",
+      "options": [
+        "Walt Whitman",
+        "Robert Frost",
+        "Emily Dickinson",
+        "Carl Sandburg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-3",
+      "question": "Who is the author of 'I Know Why the Caged Bird Sings' and the poem 'Still I Rise'?",
+      "options": [
+        "Langston Hughes",
+        "Gwendolyn Brooks",
+        "Maya Angelou",
+        "Nikki Giovanni"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-poets-4",
+      "question": "Which English Romantic poet wrote 'Ode to a Nightingale' and 'Ode on a Grecian Urn'?",
+      "options": [
+        "Lord Byron",
+        "Percy Bysshe Shelley",
+        "John Keats",
+        "William Wordsworth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-poets-5",
+      "question": "Who wrote the collection 'Leaves of Grass', celebrating American democracy and nature?",
+      "options": [
+        "Henry Wadsworth Longfellow",
+        "Walt Whitman",
+        "Ralph Waldo Emerson",
+        "Edgar Allan Poe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-6",
+      "question": "Which poet penned 'The Raven' and is known for his dark, mysterious works?",
+      "options": [
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Edgar Allan Poe",
+        "Henry David Thoreau"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-poets-7",
+      "question": "Which 13th-century Persian poet wrote the 'Masnavi', one of the greatest works of mystical poetry?",
+      "options": [
+        "Hafez",
+        "Omar Khayyam",
+        "Rumi",
+        "Ferdowsi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-poets-8",
+      "question": "Who wrote the famous poem 'Do Not Go Gentle into That Good Night'?",
+      "options": [
+        "W.B. Yeats",
+        "Dylan Thomas",
+        "T.S. Eliot",
+        "Seamus Heaney"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-9",
+      "question": "Which Scottish poet wrote 'Auld Lang Syne', traditionally sung on New Year's Eve?",
+      "options": [
+        "Walter Scott",
+        "Robert Burns",
+        "Robert Louis Stevenson",
+        "James Macpherson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-10",
+      "question": "Who wrote 'The Waste Land', one of the most influential poems of the 20th century?",
+      "options": [
+        "Ezra Pound",
+        "T.S. Eliot",
+        "W.H. Auden",
+        "Wallace Stevens"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-11",
+      "question": "Which reclusive American poet wrote nearly 1,800 poems, most published only after her death in 1886?",
+      "options": [
+        "Sylvia Plath",
+        "Elizabeth Bishop",
+        "Emily Dickinson",
+        "Edna St. Vincent Millay"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-poets-12",
+      "question": "Who wrote the epic poem 'The Divine Comedy', describing a journey through Hell, Purgatory, and Paradise?",
+      "options": [
+        "Petrarch",
+        "Dante Alighieri",
+        "Virgil",
+        "Giovanni Boccaccio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-13",
+      "question": "Which poet wrote 'I Wandered Lonely as a Cloud', inspired by a field of daffodils?",
+      "options": [
+        "Samuel Taylor Coleridge",
+        "William Wordsworth",
+        "John Keats",
+        "Percy Bysshe Shelley"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-14",
+      "question": "Which Harlem Renaissance poet wrote 'A Dream Deferred' and 'The Negro Speaks of Rivers'?",
+      "options": [
+        "Countee Cullen",
+        "Langston Hughes",
+        "Claude McKay",
+        "James Weldon Johnson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-poets-15",
+      "question": "Who wrote the long narrative poem 'The Canterbury Tales' in Middle English?",
+      "options": [
+        "Geoffrey Chaucer",
+        "William Langland",
+        "John Gower",
+        "Thomas Malory"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

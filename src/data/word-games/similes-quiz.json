@@ -1,0 +1,173 @@
+{
+  "id": "similes-quiz",
+  "title": "Similes Quiz",
+  "description": "Complete or identify similes (as brave as a lion, etc.)",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "similes-quiz-1",
+      "question": "Complete the simile: 'As busy as a ___.'",
+      "options": [
+        "Bird",
+        "Bee",
+        "Bear",
+        "Bat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-2",
+      "question": "Complete the simile: 'As light as a ___.'",
+      "options": [
+        "Cloud",
+        "Feather",
+        "Leaf",
+        "Balloon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-3",
+      "question": "Complete the simile: 'As cool as a ___.'",
+      "options": [
+        "Breeze",
+        "Cucumber",
+        "Lake",
+        "Shade"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-4",
+      "question": "What does the simile 'She ran like the wind' mean?",
+      "options": [
+        "She ran in circles",
+        "She ran very fast",
+        "She ran gracefully",
+        "She ran outdoors"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-5",
+      "question": "Complete the simile: 'As strong as an ___.'",
+      "options": [
+        "Eagle",
+        "Elephant",
+        "Ox",
+        "Ape"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "similes-quiz-6",
+      "question": "Which of the following is a simile?",
+      "options": [
+        "Time is money",
+        "He is a rock",
+        "She sings like an angel",
+        "The world is a stage"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "similes-quiz-7",
+      "question": "Complete the simile: 'As blind as a ___.'",
+      "options": [
+        "Mole",
+        "Bat",
+        "Mouse",
+        "Cat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-8",
+      "question": "Complete the simile: 'As stubborn as a ___.'",
+      "options": [
+        "Bull",
+        "Mule",
+        "Goat",
+        "Ram"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-9",
+      "question": "What does 'sleeping like a log' mean?",
+      "options": [
+        "Sleeping outdoors",
+        "Sleeping very deeply",
+        "Sleeping on the floor",
+        "Sleeping for a short time"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-10",
+      "question": "Complete the simile: 'As white as ___.'",
+      "options": [
+        "Milk",
+        "Snow",
+        "Cotton",
+        "Paper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-11",
+      "question": "Complete the simile: 'As quiet as a ___.'",
+      "options": [
+        "Lamb",
+        "Mouse",
+        "Cat",
+        "Rabbit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-12",
+      "question": "What makes a simile different from a metaphor?",
+      "options": [
+        "A simile is longer",
+        "A simile uses 'like' or 'as'",
+        "A simile is always about animals",
+        "A simile is always positive"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-13",
+      "question": "Complete the simile: 'As old as the ___.'",
+      "options": [
+        "Mountains",
+        "Hills",
+        "Trees",
+        "Sea"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-14",
+      "question": "Complete the simile: 'As fit as a ___.'",
+      "options": [
+        "Horse",
+        "Fiddle",
+        "Fox",
+        "Fighter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "similes-quiz-15",
+      "question": "Complete the simile: 'As clear as ___.'",
+      "options": [
+        "Water",
+        "Glass",
+        "A bell",
+        "Day"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "sports-records-quiz",
+  "title": "Sports Records Quiz",
+  "description": "Famous sports records and record holders",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sports-records-quiz-1",
+      "question": "Who holds the record for the most home runs in a single MLB season with 73?",
+      "options": [
+        "Mark McGwire",
+        "Sammy Sosa",
+        "Barry Bonds",
+        "Babe Ruth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-2",
+      "question": "Which swimmer holds the record for the most Olympic gold medals with 23?",
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Ian Thorpe",
+        "Ryan Lochte"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-records-quiz-3",
+      "question": "Who holds the record for the most points scored in a single NBA game with 100?",
+      "options": [
+        "Michael Jordan",
+        "Kobe Bryant",
+        "Wilt Chamberlain",
+        "LeBron James"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-4",
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Argentina",
+        "Brazil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-records-quiz-5",
+      "question": "Who holds the men's world record for the 100-meter dash at 9.58 seconds?",
+      "options": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Tyson Gay",
+        "Asafa Powell"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-records-quiz-6",
+      "question": "Which tennis player has won the most Grand Slam singles titles in men's tennis with 24?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-7",
+      "question": "Who holds the NHL record for the most career goals with 894?",
+      "options": [
+        "Gordie Howe",
+        "Wayne Gretzky",
+        "Mario Lemieux",
+        "Bobby Orr"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-records-quiz-8",
+      "question": "Which NFL team won the most consecutive Super Bowls?",
+      "options": [
+        "Dallas Cowboys",
+        "San Francisco 49ers",
+        "New England Patriots",
+        "Pittsburgh Steelers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-9",
+      "question": "Who holds the record for the most career Grand Slam titles in women's tennis with 24?",
+      "options": [
+        "Steffi Graf",
+        "Serena Williams",
+        "Margaret Court",
+        "Martina Navratilova"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-10",
+      "question": "Which boxer retired with a perfect 50-0 professional record?",
+      "options": [
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Floyd Mayweather Jr.",
+        "Sugar Ray Robinson"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-11",
+      "question": "Who holds the record for the most career strikeouts as a pitcher in MLB with 5,714?",
+      "options": [
+        "Roger Clemens",
+        "Randy Johnson",
+        "Nolan Ryan",
+        "Steve Carlton"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-12",
+      "question": "Which golfer holds the record for the most Masters Tournament wins with 6?",
+      "options": [
+        "Tiger Woods",
+        "Arnold Palmer",
+        "Jack Nicklaus",
+        "Ben Hogan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-13",
+      "question": "Who holds the women's world record for the 100-meter dash at 10.49 seconds?",
+      "options": [
+        "Marion Jones",
+        "Florence Griffith-Joyner",
+        "Shelly-Ann Fraser-Pryce",
+        "Elaine Thompson-Herah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-records-quiz-14",
+      "question": "Which MLB player holds the record for the longest consecutive games played streak at 2,632?",
+      "options": [
+        "Lou Gehrig",
+        "Pete Rose",
+        "Cal Ripken Jr.",
+        "Joe DiMaggio"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-records-quiz-15",
+      "question": "Who holds the record for the most career rushing yards in the NFL?",
+      "options": [
+        "Walter Payton",
+        "Barry Sanders",
+        "Emmitt Smith",
+        "Jim Brown"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

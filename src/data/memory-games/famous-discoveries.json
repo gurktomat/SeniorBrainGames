@@ -1,0 +1,173 @@
+{
+  "id": "famous-discoveries",
+  "title": "Famous Discoveries",
+  "description": "Match scientific discoveries to their discoverers",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-discoveries-1",
+      "question": "Who discovered penicillin in 1928?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Joseph Lister",
+        "Robert Koch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-2",
+      "question": "Which scientist discovered the law of gravity?",
+      "options": [
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-discoveries-3",
+      "question": "Who discovered the structure of DNA along with James Watson?",
+      "options": [
+        "Rosalind Franklin",
+        "Francis Crick",
+        "Linus Pauling",
+        "Maurice Wilkins"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-4",
+      "question": "Which scientist discovered radioactivity?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Wilhelm R\u00f6ntgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-5",
+      "question": "Who is credited with discovering electricity through his famous kite experiment?",
+      "options": [
+        "Thomas Edison",
+        "Benjamin Franklin",
+        "Nikola Tesla",
+        "Alessandro Volta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-6",
+      "question": "Which scientist discovered the planets orbit the Sun, not the Earth?",
+      "options": [
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-7",
+      "question": "Who developed the first successful polio vaccine?",
+      "options": [
+        "Albert Sabin",
+        "Jonas Salk",
+        "Edward Jenner",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-8",
+      "question": "Which scientist discovered the element radium along with her husband Pierre?",
+      "options": [
+        "Lise Meitner",
+        "Marie Curie",
+        "Ir\u00e8ne Joliot-Curie",
+        "Dorothy Hodgkin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-9",
+      "question": "Who discovered that the Earth revolves around the Sun using a telescope?",
+      "options": [
+        "Nicolaus Copernicus",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Edmund Halley"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-discoveries-10",
+      "question": "Which scientist is credited with discovering the theory of evolution by natural selection?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Alfred Russel Wallace"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-11",
+      "question": "Who discovered X-rays in 1895?",
+      "options": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Wilhelm R\u00f6ntgen",
+        "Max Planck"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-discoveries-12",
+      "question": "Which scientist discovered the circulation of blood in the human body?",
+      "options": [
+        "Andreas Vesalius",
+        "William Harvey",
+        "Hippocrates",
+        "Galen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-13",
+      "question": "Who discovered the first antibiotic treatment for bacterial infections using sulfonamides?",
+      "options": [
+        "Alexander Fleming",
+        "Gerhard Domagk",
+        "Paul Ehrlich",
+        "Selman Waksman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-discoveries-14",
+      "question": "Which scientist discovered the electron?",
+      "options": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "J.J. Thomson",
+        "James Chadwick"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-discoveries-15",
+      "question": "Who is credited with discovering the vaccination principle using cowpox to prevent smallpox?",
+      "options": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

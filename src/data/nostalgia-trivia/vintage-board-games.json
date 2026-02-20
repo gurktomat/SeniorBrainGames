@@ -1,0 +1,173 @@
+{
+  "id": "vintage-board-games",
+  "title": "Vintage Board Games",
+  "description": "Classic board games from decades past",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-board-games-1",
+      "question": "In the original Monopoly game, what is the most expensive property on the board?",
+      "options": [
+        "Park Place",
+        "Boardwalk",
+        "Marvin Gardens",
+        "Pennsylvania Avenue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-2",
+      "question": "What year was the board game Clue (originally called Cluedo) first published?",
+      "options": [
+        "1939",
+        "1949",
+        "1955",
+        "1962"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-3",
+      "question": "In the game of Life, what do players spin to move their car along the board?",
+      "options": [
+        "A die",
+        "A spinner wheel",
+        "A deck of cards",
+        "A coin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-4",
+      "question": "Which classic game has players remove wooden blocks from a tower without toppling it?",
+      "options": [
+        "Kerplunk",
+        "Jenga",
+        "Don't Break the Ice",
+        "Pick-Up Sticks"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-5",
+      "question": "What is the name of the detective players are trying to identify in Clue?",
+      "options": [
+        "There is no detective \u2014 players find the murderer",
+        "Inspector Plum",
+        "Detective Brown",
+        "Sherlock White"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-board-games-6",
+      "question": "In Scrabble, how many points is the letter 'Z' worth?",
+      "options": [
+        "8",
+        "10",
+        "5",
+        "12"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-7",
+      "question": "Which Milton Bradley game featured a plastic hippopotamus that gobbled up marbles?",
+      "options": [
+        "Don't Spill the Beans",
+        "Hungry Hungry Hippos",
+        "Mouse Trap",
+        "Crocodile Dentist"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-8",
+      "question": "What classic strategy game involves capturing your opponent's pieces by jumping over them?",
+      "options": [
+        "Chess",
+        "Backgammon",
+        "Checkers",
+        "Othello"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-board-games-9",
+      "question": "In Trivial Pursuit, what color wedge represents the Science & Nature category?",
+      "options": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Yellow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-10",
+      "question": "Which 1965 Milton Bradley game had players build an elaborate Rube Goldberg-style contraption?",
+      "options": [
+        "Operation",
+        "Mouse Trap",
+        "Kerplunk",
+        "Don't Break the Ice"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-11",
+      "question": "In the original Candy Land, what is the final destination on the board?",
+      "options": [
+        "Candy Castle",
+        "Gum Drop Mountain",
+        "Lollipop Palace",
+        "Sugar Plum Tree"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-board-games-12",
+      "question": "What Parker Brothers game involves buying and selling stocks?",
+      "options": [
+        "Payday",
+        "Acquire",
+        "Stock Ticker",
+        "Easy Money"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-board-games-13",
+      "question": "Which game requires players to carefully remove a patient's ailments without setting off a buzzer?",
+      "options": [
+        "Don't Break the Ice",
+        "Operation",
+        "Perfection",
+        "Mouse Trap"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-board-games-14",
+      "question": "In Risk, what is the objective of the game?",
+      "options": [
+        "Accumulate the most gold",
+        "Build the largest army",
+        "Conquer the world by occupying all territories",
+        "Control the most sea routes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-board-games-15",
+      "question": "Which classic game uses a spring-loaded die popper in a plastic dome?",
+      "options": [
+        "Sorry!",
+        "Aggravation",
+        "Trouble",
+        "Parcheesi"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

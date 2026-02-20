@@ -1,0 +1,173 @@
+{
+  "id": "ocean-creatures-quiz",
+  "title": "Ocean Creatures Quiz",
+  "description": "Identify sea creatures and marine life facts",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "ocean-creatures-quiz-1",
+      "question": "Which ocean creature is the largest animal ever to have lived on Earth?",
+      "options": [
+        "Great White Shark",
+        "Blue Whale",
+        "Giant Squid",
+        "Whale Shark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-2",
+      "question": "Which sea creature has three hearts and blue blood?",
+      "options": [
+        "Jellyfish",
+        "Starfish",
+        "Octopus",
+        "Sea Urchin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-creatures-quiz-3",
+      "question": "Which marine animal is known for using tools, such as rocks to open shellfish?",
+      "options": [
+        "Dolphin",
+        "Sea Otter",
+        "Walrus",
+        "Seal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-4",
+      "question": "What type of creature is a seahorse?",
+      "options": [
+        "Mammal",
+        "Crustacean",
+        "Fish",
+        "Reptile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-creatures-quiz-5",
+      "question": "Which ocean creature can regenerate its arms if they are lost?",
+      "options": [
+        "Crab",
+        "Lobster",
+        "Starfish",
+        "Shrimp"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-creatures-quiz-6",
+      "question": "Which marine animal has the longest migration of any mammal?",
+      "options": [
+        "Blue Whale",
+        "Humpback Whale",
+        "Gray Whale",
+        "Sea Turtle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-creatures-quiz-7",
+      "question": "Which type of fish can inflate itself into a ball shape as a defense mechanism?",
+      "options": [
+        "Clownfish",
+        "Pufferfish",
+        "Angelfish",
+        "Swordfish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-8",
+      "question": "Which ocean creature produces pearls?",
+      "options": [
+        "Clam",
+        "Oyster",
+        "Mussel",
+        "Scallop"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-9",
+      "question": "Which marine animal is known for its incredible intelligence and ability to change color?",
+      "options": [
+        "Dolphin",
+        "Cuttlefish",
+        "Manatee",
+        "Seahorse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-10",
+      "question": "What is the name of the symbiotic fish that lives among sea anemone tentacles?",
+      "options": [
+        "Clownfish",
+        "Damselfish",
+        "Wrasse",
+        "Goby"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ocean-creatures-quiz-11",
+      "question": "Which is the fastest fish in the ocean?",
+      "options": [
+        "Marlin",
+        "Sailfish",
+        "Tuna",
+        "Swordfish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-12",
+      "question": "Which sea creature is actually a colony of organisms rather than a single animal?",
+      "options": [
+        "Jellyfish",
+        "Portuguese Man o' War",
+        "Sea Cucumber",
+        "Coral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-13",
+      "question": "Which marine mammal is sometimes called a 'sea cow'?",
+      "options": [
+        "Walrus",
+        "Seal",
+        "Manatee",
+        "Sea Lion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-creatures-quiz-14",
+      "question": "Which ocean creature is considered biologically immortal, able to revert to its juvenile form?",
+      "options": [
+        "Lobster",
+        "Turritopsis dohrnii jellyfish",
+        "Sea Turtle",
+        "Giant Clam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-creatures-quiz-15",
+      "question": "Which shark species is the largest fish in the world?",
+      "options": [
+        "Great White Shark",
+        "Hammerhead Shark",
+        "Whale Shark",
+        "Basking Shark"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

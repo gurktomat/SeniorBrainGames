@@ -1,0 +1,173 @@
+{
+  "id": "currency-countries",
+  "title": "Currency Countries",
+  "description": "Match currencies to their countries",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "currency-countries-1",
+      "question": "Which country uses the 'Yen' as its currency?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-2",
+      "question": "Which country uses the 'Rupee' as its primary currency?",
+      "options": [
+        "Indonesia",
+        "India",
+        "Iran",
+        "Iraq"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "currency-countries-3",
+      "question": "The 'Peso' is the currency of which of these countries?",
+      "options": [
+        "Brazil",
+        "Portugal",
+        "Mexico",
+        "Spain"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-4",
+      "question": "Which country uses the 'Baht' as its currency?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Cambodia",
+        "Malaysia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "currency-countries-5",
+      "question": "The 'Franc' is still used as a currency in which of these countries?",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland",
+        "Luxembourg"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-6",
+      "question": "Which country uses the 'Real' as its currency?",
+      "options": [
+        "Argentina",
+        "Portugal",
+        "Brazil",
+        "Chile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-7",
+      "question": "The 'Krona' is the currency of which Scandinavian country?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Finland",
+        "Sweden"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "currency-countries-8",
+      "question": "Which country uses the 'Won' as its currency?",
+      "options": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Taiwan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-9",
+      "question": "The 'Rand' is the currency of which country?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "South Africa",
+        "Egypt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-10",
+      "question": "Which country uses the 'Zloty' as its currency?",
+      "options": [
+        "Czech Republic",
+        "Hungary",
+        "Poland",
+        "Romania"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-11",
+      "question": "The 'Shekel' is the currency of which country?",
+      "options": [
+        "Saudi Arabia",
+        "Israel",
+        "Turkey",
+        "Lebanon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "currency-countries-12",
+      "question": "Which country uses the 'Ringgit' as its currency?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Malaysia",
+        "Singapore"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-13",
+      "question": "The 'Lira' was historically the currency of which European country before the Euro?",
+      "options": [
+        "Spain",
+        "Greece",
+        "Italy",
+        "Portugal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-14",
+      "question": "Which country uses the 'Forint' as its currency?",
+      "options": [
+        "Romania",
+        "Bulgaria",
+        "Hungary",
+        "Slovakia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "currency-countries-15",
+      "question": "The 'Dirham' is the currency of which country?",
+      "options": [
+        "Saudi Arabia",
+        "Qatar",
+        "United Arab Emirates",
+        "Kuwait"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

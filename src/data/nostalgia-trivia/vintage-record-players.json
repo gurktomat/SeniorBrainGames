@@ -1,0 +1,173 @@
+{
+  "id": "vintage-record-players",
+  "title": "Vintage Record Players",
+  "description": "Vinyl records, turntables, and music history",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-record-players-1",
+      "question": "What speed (in RPM) does a standard full-size vinyl LP record play at?",
+      "options": [
+        "45 RPM",
+        "33 1/3 RPM",
+        "78 RPM",
+        "16 RPM"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-2",
+      "question": "What speed does a standard 7-inch single record play at?",
+      "options": [
+        "33 1/3 RPM",
+        "45 RPM",
+        "78 RPM",
+        "16 RPM"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-3",
+      "question": "What material were most 78 RPM records made from before vinyl became standard?",
+      "options": [
+        "Bakelite",
+        "Shellac",
+        "Rubber",
+        "Celluloid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-4",
+      "question": "Which company introduced the 33 1/3 RPM long-playing record in 1948?",
+      "options": [
+        "RCA Victor",
+        "Columbia Records",
+        "Decca Records",
+        "Capitol Records"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-5",
+      "question": "What is the term for the groove at the end of a record that causes the needle to repeat?",
+      "options": [
+        "The lead-out groove",
+        "The dead groove",
+        "The lock groove",
+        "The run-off groove"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-record-players-6",
+      "question": "What was the name of the portable record player that was popular with teenagers in the 1950s and 1960s?",
+      "options": [
+        "The Victrola",
+        "The Hi-Fi",
+        "The Dansette",
+        "The Gramophone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-record-players-7",
+      "question": "What is the component of a turntable that holds the needle and rides in the record grooves?",
+      "options": [
+        "The tonearm",
+        "The cartridge",
+        "The stylus",
+        "The platter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-8",
+      "question": "Which Beatles album, released in 1967, is considered a landmark in LP album art and concept?",
+      "options": [
+        "Abbey Road",
+        "Revolver",
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "The White Album"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-record-players-9",
+      "question": "What does 'Hi-Fi' stand for in the context of vintage audio equipment?",
+      "options": [
+        "High Filter",
+        "High Fidelity",
+        "High Frequency",
+        "High Finish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-10",
+      "question": "What was a 'record changer' designed to do?",
+      "options": [
+        "Clean vinyl records automatically",
+        "Play multiple records in a stack automatically",
+        "Convert 78 RPM records to 33 RPM",
+        "Switch between mono and stereo playback"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-11",
+      "question": "Which famous record label had a distinctive yellow and orange 'target' label design?",
+      "options": [
+        "Columbia",
+        "Capitol",
+        "RCA Victor",
+        "Atlantic"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-12",
+      "question": "What was the small plastic insert placed in the center of 45 RPM records to adapt them for standard turntable spindles?",
+      "options": [
+        "A record plug",
+        "A 45 adapter",
+        "A spindle cap",
+        "A center ring"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-13",
+      "question": "Which album is often credited as the best-selling vinyl LP of all time?",
+      "options": [
+        "The Beatles - Abbey Road",
+        "Pink Floyd - The Dark Side of the Moon",
+        "Michael Jackson - Thriller",
+        "Eagles - Their Greatest Hits"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-record-players-14",
+      "question": "What was Edison's original cylinder-based sound recording device called?",
+      "options": [
+        "The gramophone",
+        "The phonograph",
+        "The turntable",
+        "The stereograph"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-record-players-15",
+      "question": "What was the RCA Victor mascot, a dog listening to a gramophone, named?",
+      "options": [
+        "Spot",
+        "Nipper",
+        "Rex",
+        "Victor"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

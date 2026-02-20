@@ -1,0 +1,173 @@
+{
+  "id": "famous-inventions-recall",
+  "title": "Famous Inventions Recall",
+  "description": "Match inventions to their inventors",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-inventions-recall-1",
+      "question": "Who is credited with inventing the telephone?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-2",
+      "question": "Who invented the printing press around 1440?",
+      "options": [
+        "Leonardo da Vinci",
+        "Johannes Gutenberg",
+        "Galileo Galilei",
+        "William Caxton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-3",
+      "question": "Who is credited with inventing the light bulb for practical use?",
+      "options": [
+        "Benjamin Franklin",
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Michael Faraday"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-inventions-recall-4",
+      "question": "Who invented the World Wide Web?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Vint Cerf"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-inventions-recall-5",
+      "question": "Who invented the cotton gin in 1793?",
+      "options": [
+        "Eli Whitney",
+        "Samuel Morse",
+        "Robert Fulton",
+        "Cyrus McCormick"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-inventions-recall-6",
+      "question": "Who is credited with developing the first successful airplane?",
+      "options": [
+        "Charles Lindbergh",
+        "The Wright Brothers",
+        "Samuel Langley",
+        "Alberto Santos-Dumont"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-7",
+      "question": "Who invented the first practical steam engine used in mining?",
+      "options": [
+        "James Watt",
+        "Thomas Newcomen",
+        "Robert Fulton",
+        "George Stephenson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-8",
+      "question": "Who invented the phonograph in 1877?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Emile Berliner",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-9",
+      "question": "Who is credited with inventing the telescope for astronomical use?",
+      "options": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-10",
+      "question": "Who invented dynamite in 1867?",
+      "options": [
+        "Alfred Nobel",
+        "Samuel Colt",
+        "Richard Gatling",
+        "Robert Oppenheimer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-inventions-recall-11",
+      "question": "Who invented the sewing machine for practical use?",
+      "options": [
+        "Elias Howe",
+        "Isaac Singer",
+        "Walter Hunt",
+        "Barth\u00e9lemy Thimonnier"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-inventions-recall-12",
+      "question": "Who invented the smallpox vaccine in 1796?",
+      "options": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Jonas Salk",
+        "Robert Koch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-13",
+      "question": "Who invented the radio?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Heinrich Hertz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-inventions-recall-14",
+      "question": "Who invented the bifocal glasses?",
+      "options": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams",
+        "George Washington"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-inventions-recall-15",
+      "question": "Who invented the television system used for modern broadcasts?",
+      "options": [
+        "Philo Farnsworth",
+        "John Logie Baird",
+        "Guglielmo Marconi",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

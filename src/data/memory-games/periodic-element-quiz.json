@@ -1,0 +1,173 @@
+{
+  "id": "periodic-element-quiz",
+  "title": "Periodic Element Quiz",
+  "description": "Match element symbols to their names",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "periodic-element-quiz-1",
+      "question": "What element does the symbol 'Au' represent?",
+      "options": [
+        "Silver",
+        "Aluminum",
+        "Gold",
+        "Argon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-2",
+      "question": "What element does the symbol 'Fe' represent?",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Fermium",
+        "Francium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-3",
+      "question": "What element does the symbol 'Hg' represent?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Mercury",
+        "Hafnium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-4",
+      "question": "What element does the symbol 'Na' represent?",
+      "options": [
+        "Nitrogen",
+        "Neon",
+        "Sodium",
+        "Nickel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-5",
+      "question": "What element does the symbol 'Ag' represent?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Argon",
+        "Arsenic"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-6",
+      "question": "What element does the symbol 'K' represent?",
+      "options": [
+        "Krypton",
+        "Potassium",
+        "Calcium",
+        "Copper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-7",
+      "question": "What element does the symbol 'Pb' represent?",
+      "options": [
+        "Phosphorus",
+        "Platinum",
+        "Lead",
+        "Palladium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-8",
+      "question": "What element does the symbol 'Cu' represent?",
+      "options": [
+        "Curium",
+        "Cobalt",
+        "Carbon",
+        "Copper"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "periodic-element-quiz-9",
+      "question": "What element does the symbol 'Sn' represent?",
+      "options": [
+        "Silicon",
+        "Tin",
+        "Sulfur",
+        "Selenium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-10",
+      "question": "What element does the symbol 'W' represent?",
+      "options": [
+        "Water",
+        "Tungsten",
+        "Xenon",
+        "Zinc"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-11",
+      "question": "What element does the symbol 'Sb' represent?",
+      "options": [
+        "Strontium",
+        "Antimony",
+        "Scandium",
+        "Samarium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-element-quiz-12",
+      "question": "What element does the symbol 'He' represent?",
+      "options": [
+        "Hydrogen",
+        "Hassium",
+        "Helium",
+        "Holmium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-13",
+      "question": "What element does the symbol 'Ne' represent?",
+      "options": [
+        "Nitrogen",
+        "Neptunium",
+        "Neon",
+        "Nickel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-14",
+      "question": "What element does the symbol 'Pt' represent?",
+      "options": [
+        "Plutonium",
+        "Phosphorus",
+        "Platinum",
+        "Potassium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-element-quiz-15",
+      "question": "What element does the symbol 'Zn' represent?",
+      "options": [
+        "Zirconium",
+        "Zinc",
+        "Xenon",
+        "Osmium"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

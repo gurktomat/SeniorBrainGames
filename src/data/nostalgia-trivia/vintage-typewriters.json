@@ -1,0 +1,173 @@
+{
+  "id": "vintage-typewriters",
+  "title": "Vintage Typewriters",
+  "description": "Typewriter history, brands, and the pre-computer era",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-typewriters-1",
+      "question": "Which company manufactured the first commercially successful typewriter in 1874?",
+      "options": [
+        "Underwood",
+        "Remington",
+        "Royal",
+        "Smith Corona"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-2",
+      "question": "What is the name of the standard keyboard layout used on most typewriters and still used today?",
+      "options": [
+        "AZERTY",
+        "DVORAK",
+        "QWERTY",
+        "ABCDEF"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-typewriters-3",
+      "question": "What component on a typewriter holds the paper and moves across as you type?",
+      "options": [
+        "The ribbon spool",
+        "The carriage",
+        "The platen",
+        "The type bar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-4",
+      "question": "What did a typist do when they heard the bell ring on a typewriter?",
+      "options": [
+        "Changed the ribbon",
+        "Returned the carriage to start a new line",
+        "Turned off the machine",
+        "Inserted a new sheet of paper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-5",
+      "question": "What inked fabric strip fed through the typewriter to transfer ink to paper?",
+      "options": [
+        "The carbon strip",
+        "The ink pad",
+        "The typewriter ribbon",
+        "The roller"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-typewriters-6",
+      "question": "Which IBM electric typewriter, introduced in 1961, used a ball-shaped typing element instead of individual type bars?",
+      "options": [
+        "IBM Executive",
+        "IBM Selectric",
+        "IBM Wheelwriter",
+        "IBM Correcting"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-7",
+      "question": "What white fluid or tape was used to cover up typing mistakes before correction ribbons?",
+      "options": [
+        "White-Out or Liquid Paper",
+        "Rubber cement",
+        "Paste",
+        "Correction gel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-typewriters-8",
+      "question": "What thin blue paper was placed between sheets to make duplicate copies while typing?",
+      "options": [
+        "Tracing paper",
+        "Carbon paper",
+        "Wax paper",
+        "Tissue paper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-9",
+      "question": "Which famous American author was known for writing his manuscripts on a typewriter and was one of the first to submit a typed manuscript to a publisher?",
+      "options": [
+        "Ernest Hemingway",
+        "Mark Twain",
+        "F. Scott Fitzgerald",
+        "John Steinbeck"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-10",
+      "question": "What was the rubber cylinder called that the paper wrapped around on a typewriter?",
+      "options": [
+        "The drum",
+        "The roller",
+        "The platen",
+        "The spool"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-typewriters-11",
+      "question": "Which popular portable typewriter brand was a favorite of journalists and writers for decades?",
+      "options": [
+        "Olivetti",
+        "Smith Corona",
+        "Brother",
+        "Olympia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-12",
+      "question": "What typing speed test phrase contains every letter of the alphabet?",
+      "options": [
+        "Now is the time for all good men",
+        "The quick brown fox jumps over the lazy dog",
+        "Practice makes perfect typing",
+        "A stitch in time saves nine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-13",
+      "question": "What lever on the side of the typewriter was pushed to return the carriage and advance to the next line?",
+      "options": [
+        "The tab key",
+        "The carriage return lever",
+        "The margin release",
+        "The shift lock"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-typewriters-14",
+      "question": "What common office job title described someone whose primary role was typing documents?",
+      "options": [
+        "Clerk",
+        "Secretary",
+        "Typist",
+        "Stenographer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-typewriters-15",
+      "question": "Which Italian typewriter brand became famous for its sleek, modern designs in the mid-20th century?",
+      "options": [
+        "Hermes",
+        "Olivetti",
+        "Adler",
+        "Facit"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}
