@@ -1,0 +1,98 @@
+{
+  "id": "cloud-types-quiz",
+  "title": "Cloud Types Quiz",
+  "description": "Identify cloud types and weather associations",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "cloud-types-quiz-1",
+      "question": "Which type of cloud is tall, towering, and associated with thunderstorms, heavy rain, and sometimes hail?",
+      "options": ["Nimbostratus", "Cumulonimbus", "Cumulus", "Stratocumulus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-2",
+      "question": "Which thin, wispy clouds form at very high altitudes and are made almost entirely of ice crystals?",
+      "options": ["Altostratus", "Stratus", "Cirrus", "Altocumulus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-3",
+      "question": "Which type of cloud forms a low, gray, uniform layer that often covers the entire sky and may produce light drizzle?",
+      "options": ["Stratus", "Nimbostratus", "Altostratus", "Fog"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cloud-types-quiz-4",
+      "question": "What are the white, fluffy, flat-bottomed clouds that appear on fair-weather days often called?",
+      "options": ["Stratocumulus", "Altocumulus", "Cumulus", "Cirrocumulus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-5",
+      "question": "Which cloud type forms a thick, dark layer that brings continuous rain or snow for extended periods?",
+      "options": ["Cumulonimbus", "Nimbostratus", "Stratus", "Stratocumulus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-6",
+      "question": "What does the prefix 'cirro-' indicate about a cloud's altitude?",
+      "options": ["Low altitude", "Mid-level altitude", "High altitude", "Ground level"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-7",
+      "question": "Which mid-level clouds appear as gray or white patches or layers, often in rounded masses or rolls?",
+      "options": ["Cirrocumulus", "Stratocumulus", "Altocumulus", "Cumulus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-8",
+      "question": "Which type of cloud can produce a halo around the sun or moon and forms a thin, whitish veil at high altitudes?",
+      "options": ["Cirrus", "Cirrostratus", "Altostratus", "Stratus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-9",
+      "question": "What is fog technically classified as?",
+      "options": ["A cumulus cloud at ground level", "A stratus cloud at ground level", "Water vapor", "A nimbus cloud at ground level"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-10",
+      "question": "Which rare, lens-shaped clouds form near mountains and are sometimes mistaken for UFOs?",
+      "options": ["Mammatus clouds", "Lenticular clouds", "Noctilucent clouds", "Pileus clouds"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-11",
+      "question": "What does the Latin root 'nimbus' in a cloud name indicate?",
+      "options": ["High altitude", "Ice crystals", "Rain-producing", "Flat shape"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-12",
+      "question": "Which clouds appear as small, white, high-altitude patches in rows and are sometimes called a 'mackerel sky'?",
+      "options": ["Altocumulus", "Cirrocumulus", "Stratocumulus", "Cirrus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cloud-types-quiz-13",
+      "question": "Which low-level clouds appear as a layer of rounded masses or rolls and are the most common cloud type worldwide?",
+      "options": ["Stratus", "Cumulus", "Stratocumulus", "Altocumulus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-14",
+      "question": "Which dramatic pouch-like cloud formations hang from the underside of a cloud base and often signal severe weather?",
+      "options": ["Lenticular clouds", "Shelf clouds", "Mammatus clouds", "Wall clouds"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cloud-types-quiz-15",
+      "question": "At what approximate altitude range do mid-level 'alto' clouds typically form?",
+      "options": ["Below 6,500 feet", "6,500 to 20,000 feet", "20,000 to 40,000 feet", "Above 40,000 feet"],
+      "correctAnswer": 1
+    }
+  ]
+}

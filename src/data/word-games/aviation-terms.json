@@ -1,0 +1,98 @@
+{
+  "id": "aviation-terms",
+  "title": "Aviation Terms",
+  "description": "Flight, aircraft, and aviation vocabulary",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "aviation-terms-1",
+      "question": "What is the aviation term for the body of an aircraft?",
+      "options": ["Nacelle", "Fuselage", "Empennage", "Cowling"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-2",
+      "question": "What does 'yaw' refer to in aviation?",
+      "options": ["Tilting the nose up or down", "Rotation around the vertical axis", "Rolling side to side", "Increasing altitude rapidly"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-3",
+      "question": "What is the 'empennage' of an aircraft?",
+      "options": ["The engine housing", "The landing gear assembly", "The tail section", "The cockpit instrument panel"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-terms-4",
+      "question": "What are 'ailerons' used for on an airplane?",
+      "options": ["Slowing the aircraft on landing", "Controlling roll movement", "Increasing engine thrust", "Adjusting cabin pressure"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-5",
+      "question": "What does the term 'ceiling' mean in aviation weather reports?",
+      "options": ["Maximum altitude an aircraft can reach", "Height of the lowest cloud layer covering more than half the sky", "The top of the aircraft cabin", "Maximum passenger capacity"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-6",
+      "question": "What is a 'holding pattern' in aviation?",
+      "options": ["A maintenance procedure for grounded aircraft", "A maneuver where an aircraft flies a racetrack-shaped path while waiting to land", "The way luggage is secured in the cargo hold", "A formation used by military jets"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-7",
+      "question": "What does 'MAYDAY' signify in aviation communication?",
+      "options": ["A routine position report", "A request for weather information", "A life-threatening emergency", "Permission to take off"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-terms-8",
+      "question": "What is the 'black box' in an aircraft technically called?",
+      "options": ["Data Management Unit", "Flight Data Recorder", "Telemetry Module", "Navigation Computer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-9",
+      "question": "What does 'taxiing' mean in aviation?",
+      "options": ["Flying at low altitude", "Moving an aircraft on the ground under its own power", "Refueling the aircraft", "Descending through clouds"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-10",
+      "question": "What is 'turbulence' caused by in aviation?",
+      "options": ["Engine malfunction", "Irregular air currents and atmospheric disturbances", "Faulty wing design", "Excessive passenger weight"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-11",
+      "question": "What is the 'cockpit' also known as in modern aviation?",
+      "options": ["The bridge", "The flight deck", "The control tower", "The helm"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-12",
+      "question": "What are 'flaps' on an aircraft wing used for?",
+      "options": ["Steering the aircraft left and right", "Increasing lift at lower speeds during takeoff and landing", "Storing fuel reserves", "Communicating with ground control"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-13",
+      "question": "What does the term 'knot' measure in aviation?",
+      "options": ["Engine temperature", "Fuel consumption rate", "Speed (one nautical mile per hour)", "Altitude above sea level"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-terms-14",
+      "question": "What is a 'hangar' in aviation?",
+      "options": ["A flight path between two airports", "A large enclosed building for housing aircraft", "A device that measures air pressure", "A type of runway lighting"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-terms-15",
+      "question": "What does 'Roger' mean in aviation radio communication?",
+      "options": ["Please repeat your message", "I am ready for takeoff", "Message received and understood", "Request denied"],
+      "correctAnswer": 2
+    }
+  ]
+}

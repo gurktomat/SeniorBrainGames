@@ -1,0 +1,98 @@
+{
+  "id": "dog-breeds-quiz",
+  "title": "Dog Breeds Quiz",
+  "description": "Identify dog breeds from descriptions and characteristics",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "dog-breeds-quiz-1",
+      "question": "Which large, friendly breed has a golden coat, loves water, and is one of America's most popular family dogs?",
+      "options": ["Labrador Retriever", "Golden Retriever", "Irish Setter", "Cocker Spaniel"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-2",
+      "question": "Which breed is known for its wrinkled face, curled tail, flat nose, and compact, muscular body?",
+      "options": ["Bulldog", "Pug", "Boston Terrier", "French Bulldog"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-3",
+      "question": "Which herding breed is known for its intelligence, black and white coat, and incredible ability to herd sheep?",
+      "options": ["Australian Shepherd", "Shetland Sheepdog", "Border Collie", "German Shepherd"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-4",
+      "question": "Which breed has a distinctive spotted coat, was historically used as a carriage dog, and is associated with firehouses?",
+      "options": ["English Setter", "Pointer", "Dalmatian", "Catahoula Leopard Dog"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-5",
+      "question": "Which small, long-bodied breed was originally bred to hunt badgers in their burrows and comes in standard and miniature sizes?",
+      "options": ["Basset Hound", "Corgi", "Dachshund", "Beagle"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-6",
+      "question": "Which large working breed has a thick double coat, wolf-like appearance, and was originally bred to pull sleds in Alaska?",
+      "options": ["Siberian Husky", "Alaskan Malamute", "Samoyed", "Akita"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-7",
+      "question": "Which gentle giant breed can weigh over 150 pounds, has a massive head with droopy jowls, and is known as a 'nanny dog' for its patience with children?",
+      "options": ["Great Dane", "Saint Bernard", "Newfoundland", "Mastiff"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-8",
+      "question": "Which small breed has a fluffy white coat, was a favorite of French royalty, and is known for its cheerful, playful personality?",
+      "options": ["Maltese", "Bichon Frise", "West Highland White Terrier", "Pomeranian"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-9",
+      "question": "Which breed has long, droopy ears, a keen sense of smell, and a mournful howl, and was originally bred to track rabbits?",
+      "options": ["Bloodhound", "Basset Hound", "Beagle", "Foxhound"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-10",
+      "question": "Which elegant breed is the fastest dog in the world, has a slender build, and was historically used for coursing game?",
+      "options": ["Whippet", "Saluki", "Greyhound", "Afghan Hound"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-11",
+      "question": "Which breed has a blue-black tongue, a lion-like mane of fur, and originated in China over 2,000 years ago?",
+      "options": ["Shar-Pei", "Akita", "Chow Chow", "Tibetan Mastiff"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-12",
+      "question": "Which curly-coated breed comes in standard, miniature, and toy sizes, is hypoallergenic, and is known for its exceptional intelligence?",
+      "options": ["Bichon Frise", "Portuguese Water Dog", "Poodle", "Lagotto Romagnolo"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dog-breeds-quiz-13",
+      "question": "Which powerful breed was developed in Germany as a guard dog, has a black and rust coat, and is named after a tax collector?",
+      "options": ["Rottweiler", "Doberman Pinscher", "German Shepherd", "Boxer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-14",
+      "question": "Which short-legged herding breed is closely associated with British royalty, particularly Queen Elizabeth II?",
+      "options": ["Cardigan Welsh Corgi", "Pembroke Welsh Corgi", "Shetland Sheepdog", "Jack Russell Terrier"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dog-breeds-quiz-15",
+      "question": "Which large, loyal breed from Japan has a thick double coat, a curled tail, and became world-famous through the story of Hachiko?",
+      "options": ["Shiba Inu", "Akita", "Hokkaido", "Kai Ken"],
+      "correctAnswer": 1
+    }
+  ]
+}

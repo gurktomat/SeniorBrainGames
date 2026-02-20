@@ -1,0 +1,98 @@
+{
+  "id": "instrument-sounds-quiz",
+  "title": "Instrument Sounds Quiz",
+  "description": "Match musical instruments to their descriptions and families",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "instrument-sounds-quiz-1",
+      "question": "Which brass instrument has a slide mechanism instead of valves and is known for its rich, warm tone in jazz and orchestras?",
+      "options": ["Trumpet", "French Horn", "Trombone", "Tuba"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-2",
+      "question": "Which woodwind instrument uses a single reed, has a distinctive warm tone, and is a staple of jazz music?",
+      "options": ["Oboe", "Clarinet", "Flute", "Bassoon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "instrument-sounds-quiz-3",
+      "question": "Which large stringed instrument is played upright, provides the bass foundation in an orchestra, and can be bowed or plucked?",
+      "options": ["Cello", "Viola", "Double Bass", "Harp"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-4",
+      "question": "Which percussion instrument consists of a set of tuned metal bars arranged like a piano keyboard and is struck with mallets?",
+      "options": ["Xylophone", "Glockenspiel", "Marimba", "Vibraphone"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "instrument-sounds-quiz-5",
+      "question": "Which instrument uses a double reed, has a nasal and penetrating tone, and often plays the tuning note 'A' for the orchestra?",
+      "options": ["Clarinet", "Bassoon", "Oboe", "English Horn"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-6",
+      "question": "Which keyboard instrument produces sound by plucking strings with quills rather than striking them with hammers?",
+      "options": ["Piano", "Organ", "Harpsichord", "Clavichord"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-7",
+      "question": "Which instrument family does the saxophone belong to, despite being made of brass?",
+      "options": ["Brass", "Woodwind", "Percussion", "String"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "instrument-sounds-quiz-8",
+      "question": "Which large brass instrument produces the lowest notes in the brass section and rests in the player's lap?",
+      "options": ["Baritone Horn", "French Horn", "Trombone", "Tuba"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "instrument-sounds-quiz-9",
+      "question": "Which stringed instrument is slightly larger than a violin, has a deeper and warmer tone, and is held under the chin?",
+      "options": ["Viola", "Cello", "Mandolin", "Ukulele"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "instrument-sounds-quiz-10",
+      "question": "Which percussion instrument consists of two large copper bowls with drumheads that can be tuned to specific pitches?",
+      "options": ["Bongo Drums", "Snare Drum", "Timpani", "Bass Drum"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-11",
+      "question": "Which instrument is sometimes called the 'king of instruments,' can fill a cathedral with sound, and is played using keyboards and pedals to control pipes?",
+      "options": ["Grand Piano", "Pipe Organ", "Harpsichord", "Accordion"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "instrument-sounds-quiz-12",
+      "question": "Which woodwind instrument is the highest-pitched member of the standard orchestra and is played by blowing across an embouchure hole?",
+      "options": ["Piccolo", "Flute", "Oboe", "Clarinet"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "instrument-sounds-quiz-13",
+      "question": "Which stringed instrument has 47 strings, a large triangular frame, and is played by plucking with the fingers?",
+      "options": ["Lyre", "Zither", "Concert Harp", "Dulcimer"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "instrument-sounds-quiz-14",
+      "question": "Which brass instrument is coiled in a circular shape, has a wide bell, and produces a mellow, rounded tone often used in classical music?",
+      "options": ["Trumpet", "Tuba", "Cornet", "French Horn"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "instrument-sounds-quiz-15",
+      "question": "Which instrument uses free metal reeds activated by air from a bellows squeezed by the player's arm?",
+      "options": ["Harmonica", "Accordion", "Bagpipes", "Melodica"],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "map-symbols-quiz",
+  "title": "Map Symbols Quiz",
+  "description": "Identify common map symbols and cartography terms",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "map-symbols-quiz-1",
+      "question": "On a topographic map, what do closely spaced contour lines indicate?",
+      "options": ["A flat plain", "A steep slope", "A river valley", "A lake"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-2",
+      "question": "What color is typically used to represent bodies of water on most maps?",
+      "options": ["Green", "Brown", "Blue", "White"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "map-symbols-quiz-3",
+      "question": "What does a small airplane symbol on a map usually represent?",
+      "options": ["A military base", "An airport", "A bird sanctuary", "A wind farm"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-4",
+      "question": "On a road map, what does a dashed line typically indicate?",
+      "options": ["A highway", "A railroad", "An unpaved or secondary road", "A state border"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "map-symbols-quiz-5",
+      "question": "What is the term for the ratio between a distance on a map and the actual distance on the ground?",
+      "options": ["Legend", "Scale", "Projection", "Grid reference"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-6",
+      "question": "What does a small tent symbol typically represent on a map?",
+      "options": ["A hotel", "A campground", "A rest area", "A picnic area"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-7",
+      "question": "What is the part of a map that explains what the symbols mean called?",
+      "options": ["The index", "The compass rose", "The legend or key", "The title block"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "map-symbols-quiz-8",
+      "question": "On a weather map, what does a blue line with triangles represent?",
+      "options": ["A warm front", "A cold front", "A stationary front", "An occluded front"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-9",
+      "question": "What color typically represents forests or vegetation on a topographic map?",
+      "options": ["Brown", "Blue", "Red", "Green"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "map-symbols-quiz-10",
+      "question": "What does a crossed pickaxe and hammer symbol indicate on a map?",
+      "options": ["A construction site", "A mine or quarry", "A blacksmith shop", "A geological survey point"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-11",
+      "question": "What is the symbol that shows cardinal directions on a map called?",
+      "options": ["The directional arrow", "The compass rose", "The orientation star", "The north indicator"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-12",
+      "question": "On a nautical chart, what does an anchor symbol indicate?",
+      "options": ["A shipwreck", "A fishing area", "An anchorage", "A marina"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "map-symbols-quiz-13",
+      "question": "What do brown contour lines on a topographic map represent?",
+      "options": ["Roads", "Elevation changes", "Property boundaries", "Rivers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-14",
+      "question": "What does a small cross or plus sign typically represent on a map?",
+      "options": ["A hospital", "A church", "A crossroads", "A cemetery"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "map-symbols-quiz-15",
+      "question": "What type of map projection keeps the shapes of land masses accurate but distorts their size?",
+      "options": ["Mercator projection", "Robinson projection", "Conformal projection", "Equal-area projection"],
+      "correctAnswer": 2
+    }
+  ]
+}

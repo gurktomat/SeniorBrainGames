@@ -1,0 +1,98 @@
+{
+  "id": "printing-terms",
+  "title": "Printing Terms",
+  "description": "Typography and printing press vocabulary",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "printing-terms-1",
+      "question": "What is a 'font' in printing and typography?",
+      "options": ["The ink used in printing", "A set of characters in a particular size and style of typeface", "The paper used for printing", "The printing press itself"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-2",
+      "question": "What does 'serif' refer to in typography?",
+      "options": ["The space between lines of text", "A small decorative stroke at the end of a letter's main strokes", "Bold text formatting", "The size of a character"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-3",
+      "question": "What is 'kerning' in typography?",
+      "options": ["The process of inking a printing plate", "Adjusting the spacing between individual letter pairs", "Cutting paper to the correct size", "Aligning text to both margins"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-4",
+      "question": "What does 'CMYK' stand for in printing?",
+      "options": ["Color Mode Yellow Key", "Cyan, Magenta, Yellow, Key (Black)", "Custom Mix Yield Kit", "Central Matrix Yield Key"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-5",
+      "question": "What is a 'galley proof' in printing?",
+      "options": ["The final printed version of a book", "A preliminary version of printed text for proofreading", "The metal tray that holds type", "A decorative border around text"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-6",
+      "question": "What does 'leading' (pronounced 'ledding') refer to?",
+      "options": ["The first paragraph of an article", "The vertical spacing between lines of type", "The use of lead-based ink", "The main headline of a page"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-7",
+      "question": "What is a 'colophon' in publishing?",
+      "options": ["The table of contents", "A statement at the end of a book giving production details", "The book's front cover design", "A type of binding technique"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-8",
+      "question": "What is 'movable type'?",
+      "options": ["Text that scrolls across a screen", "Individual letter blocks that can be rearranged for printing", "A typeface that slants to the right", "A rotating printing cylinder"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-9",
+      "question": "What does 'bleed' mean in printing?",
+      "options": ["Ink that smudges on the page", "When printed content extends beyond the trim edge of the page", "A fault in the printing press", "The fading of ink over time"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-10",
+      "question": "What is 'lithography'?",
+      "options": ["Carving letters into stone", "A printing process based on the principle that oil and water do not mix", "Printing with wooden blocks", "Engraving on metal plates"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-11",
+      "question": "What is an 'em dash' in typography?",
+      "options": ["A thin space between words", "A long dash the width of the letter M, used for punctuation", "A type of bullet point", "A footnote marker"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-12",
+      "question": "What does 'typesetting' mean?",
+      "options": ["Designing a new typeface", "The process of arranging text for printing", "Cleaning the printing press", "Binding pages into a book"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-13",
+      "question": "What is a 'gutter' in page layout?",
+      "options": ["The bottom margin of a page", "The inner margin between two facing pages", "A decorative line at the top of a page", "The space reserved for page numbers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-14",
+      "question": "What is 'embossing' in printing?",
+      "options": ["Printing in multiple colors", "Creating a raised design on paper by pressing it from behind", "Adding a glossy coating to paper", "Printing on both sides of a sheet"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "printing-terms-15",
+      "question": "Who is credited with inventing the movable type printing press in Europe?",
+      "options": ["William Caxton", "Johannes Gutenberg", "Benjamin Franklin", "Aldus Manutius"],
+      "correctAnswer": 1
+    }
+  ]
+}

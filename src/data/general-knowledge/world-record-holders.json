@@ -1,0 +1,144 @@
+{
+  "id": "world-record-holders",
+  "title": "World Record Holders",
+  "description": "Amazing world records and record holders",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "world-record-holders-1",
+      "question": "Who holds the record for the fastest 100-meter sprint, clocking 9.58 seconds in 2009?",
+      "options": ["Carl Lewis", "Tyson Gay", "Usain Bolt", "Yohan Blake"],
+      "correctAnswer": 2,
+      "explanation": "Usain Bolt of Jamaica set the world record of 9.58 seconds in the 100-meter dash at the 2009 World Championships in Berlin, Germany. This record still stands today.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-2",
+      "question": "What is the Guinness World Record for the longest human lifespan ever verified?",
+      "options": ["118 years", "120 years", "122 years", "125 years"],
+      "correctAnswer": 2,
+      "explanation": "Jeanne Calment of France holds the verified record for the longest human lifespan at 122 years and 164 days. She lived from February 21, 1875, to August 4, 1997.",
+      "difficulty": "medium",
+      "category": "general"
+    },
+    {
+      "id": "world-record-holders-3",
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": ["Germany", "Italy", "Argentina", "Brazil"],
+      "correctAnswer": 3,
+      "explanation": "Brazil has won the FIFA World Cup a record five times (1958, 1962, 1970, 1994, and 2002), more than any other nation in the history of the tournament.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-4",
+      "question": "Who holds the record for the most Olympic gold medals won by an individual?",
+      "options": ["Carl Lewis", "Paavo Nurmi", "Michael Phelps", "Usain Bolt"],
+      "correctAnswer": 2,
+      "explanation": "American swimmer Michael Phelps holds the all-time record with 23 Olympic gold medals (and 28 total medals), earned across five Olympic Games from 2000 to 2016.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-5",
+      "question": "What is the tallest building in the world as of 2025?",
+      "options": ["Shanghai Tower", "Makkah Royal Clock Tower", "Burj Khalifa", "One World Trade Center"],
+      "correctAnswer": 2,
+      "explanation": "The Burj Khalifa in Dubai, United Arab Emirates, stands at 2,717 feet (828 meters) tall with 163 floors. It has held the record for the world's tallest building since its completion in 2010.",
+      "difficulty": "easy",
+      "category": "architecture"
+    },
+    {
+      "id": "world-record-holders-6",
+      "question": "Who held the record for the most home runs in a single MLB season with 73?",
+      "options": ["Babe Ruth", "Mark McGwire", "Barry Bonds", "Sammy Sosa"],
+      "correctAnswer": 2,
+      "explanation": "Barry Bonds set the single-season home run record with 73 home runs in 2001 while playing for the San Francisco Giants, breaking Mark McGwire's 1998 record of 70.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-7",
+      "question": "What is the record for the fastest circumnavigation of the globe by a commercial aircraft?",
+      "options": ["About 24 hours", "About 37 hours", "About 48 hours", "About 67 hours"],
+      "correctAnswer": 3,
+      "explanation": "In 1995, an Air France Concorde set the record for the fastest circumnavigation by a commercial aircraft at approximately 31 hours and 27 minutes, including refueling stops. The approximately 48-hour figure refers to a westbound record.",
+      "difficulty": "hard",
+      "category": "aviation"
+    },
+    {
+      "id": "world-record-holders-8",
+      "question": "Which mountain climber holds the record for the most summits of Mount Everest?",
+      "options": ["Tenzing Norgay", "Reinhold Messner", "Kami Rita Sherpa", "Edmund Hillary"],
+      "correctAnswer": 2,
+      "explanation": "Kami Rita Sherpa of Nepal holds the record for the most Everest summits with 30 successful ascents as of 2024. He first summited Everest in 1994 and continues to guide expeditions.",
+      "difficulty": "medium",
+      "category": "adventure"
+    },
+    {
+      "id": "world-record-holders-9",
+      "question": "What is the world record for the longest non-stop commercial flight by distance?",
+      "options": ["New York to Singapore", "London to Sydney", "Dallas to Melbourne", "Auckland to Doha"],
+      "correctAnswer": 0,
+      "explanation": "Singapore Airlines operates the longest non-stop commercial flight from New York (JFK) to Singapore (SIN), covering approximately 9,537 miles (15,349 km) in about 18.5 hours.",
+      "difficulty": "hard",
+      "category": "aviation"
+    },
+    {
+      "id": "world-record-holders-10",
+      "question": "Who was the first person to break the sound barrier in level flight?",
+      "options": ["Amelia Earhart", "Chuck Yeager", "John Glenn", "Neil Armstrong"],
+      "correctAnswer": 1,
+      "explanation": "On October 14, 1947, U.S. Air Force Captain Chuck Yeager broke the sound barrier in the Bell X-1 rocket plane named 'Glamorous Glennis,' reaching Mach 1.06 at an altitude of 45,000 feet.",
+      "difficulty": "medium",
+      "category": "aviation"
+    },
+    {
+      "id": "world-record-holders-11",
+      "question": "Which book holds the record as the best-selling single book of all time (excluding religious texts)?",
+      "options": ["Harry Potter and the Philosopher's Stone", "Don Quixote", "A Tale of Two Cities", "The Lord of the Rings"],
+      "correctAnswer": 1,
+      "explanation": "Don Quixote by Miguel de Cervantes, first published in 1605, is widely considered the best-selling novel of all time with an estimated 500 million copies sold worldwide.",
+      "difficulty": "hard",
+      "category": "general"
+    },
+    {
+      "id": "world-record-holders-12",
+      "question": "What is the deepest any human has ever dived in a single breath (free diving)?",
+      "options": ["About 200 feet", "About 330 feet", "About 400 feet", "About 500 feet"],
+      "correctAnswer": 2,
+      "explanation": "The world record for constant weight free diving is approximately 400 feet (122 meters), achieved by professional free divers. This requires years of training and remarkable breath-holding ability.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-13",
+      "question": "Which athlete holds the record for the most Grand Slam singles titles in tennis history?",
+      "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Serena Williams"],
+      "correctAnswer": 2,
+      "explanation": "Novak Djokovic holds the record for the most Grand Slam men's singles titles with 24 as of 2024, surpassing Rafael Nadal's 22 and Roger Federer's 20.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-record-holders-14",
+      "question": "What is the record for the longest bridge in the world?",
+      "options": ["Hong Kong-Zhuhai-Macau Bridge", "Danyang-Kunshan Grand Bridge", "Causeway Bridge (Louisiana)", "Akashi Kaikyo Bridge"],
+      "correctAnswer": 1,
+      "explanation": "The Danyang-Kunshan Grand Bridge in China is the longest bridge in the world at 102.4 miles (164.8 km). It carries the Beijing-Shanghai High-Speed Railway across the Yangtze River Delta.",
+      "difficulty": "hard",
+      "category": "architecture"
+    },
+    {
+      "id": "world-record-holders-15",
+      "question": "Who holds the record for the most weeks at world number one in men's professional golf?",
+      "options": ["Jack Nicklaus", "Tiger Woods", "Greg Norman", "Nick Faldo"],
+      "correctAnswer": 1,
+      "explanation": "Tiger Woods holds the record for the most cumulative weeks at world number one in men's golf with 683 weeks. He first reached number one in June 1997 at the age of 21.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

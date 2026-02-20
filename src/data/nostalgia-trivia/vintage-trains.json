@@ -1,0 +1,98 @@
+{
+  "id": "vintage-trains",
+  "title": "Vintage Trains",
+  "description": "Classic trains, rail travel, and railroad history",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-trains-1",
+      "question": "On May 10, 1869, the First Transcontinental Railroad was completed at Promontory Summit in which state?",
+      "options": ["Nevada", "Utah", "Wyoming", "Colorado"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-2",
+      "question": "Which famous luxury train ran between Paris and Istanbul, inspiring an Agatha Christie novel?",
+      "options": ["The Flying Scotsman", "The Orient Express", "The Blue Train", "The Golden Arrow"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-3",
+      "question": "What was the name of the famous New York Central Railroad streamlined locomotive designed by Henry Dreyfuss in 1938?",
+      "options": ["The Super Chief", "The 20th Century Limited", "The Broadway Limited", "The Hiawatha"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-4",
+      "question": "Which railroad company operated the famous 'Super Chief' luxury train between Chicago and Los Angeles?",
+      "options": ["Union Pacific", "Southern Pacific", "Atchison, Topeka and Santa Fe", "Burlington Northern"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-trains-5",
+      "question": "What type of locomotive, powered by steam from burning coal or wood, dominated American railroads until the mid-20th century?",
+      "options": ["Diesel locomotive", "Electric locomotive", "Steam locomotive", "Gas turbine locomotive"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-trains-6",
+      "question": "Which president signed the Pacific Railroad Act of 1862, authorizing the construction of the transcontinental railroad?",
+      "options": ["Ulysses S. Grant", "Andrew Johnson", "Abraham Lincoln", "James Buchanan"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-trains-7",
+      "question": "What famous railroad worker, celebrated in American folk songs, is said to have died racing against a steam drill?",
+      "options": ["Paul Bunyan", "John Henry", "Casey Jones", "Pecos Bill"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-8",
+      "question": "What was the name of the engineer killed in a famous 1900 train wreck who became an American folk hero?",
+      "options": ["John Henry", "Casey Jones", "Jim Crow", "Cornelius Vanderbilt"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-9",
+      "question": "Which famous New York City train station, opened in 1913, features a stunning Beaux-Arts main concourse?",
+      "options": ["Penn Station", "Grand Central Terminal", "Union Station", "Pennsylvania Station"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-10",
+      "question": "The Pullman sleeping car, which revolutionized long-distance rail travel, was invented by which businessman?",
+      "options": ["Cornelius Vanderbilt", "George Pullman", "Andrew Carnegie", "Jay Gould"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-11",
+      "question": "Which classic board game, first published in 1935, features railroad properties like Reading and B&O?",
+      "options": ["Risk", "Clue", "Monopoly", "The Game of Life"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-trains-12",
+      "question": "What was the common name for hoboes who illegally rode freight trains during the Great Depression?",
+      "options": ["Rail runners", "Boxcar riders", "Freight hoppers", "Tramps"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-13",
+      "question": "Which famous British steam locomotive set a world speed record of 126 mph in 1938?",
+      "options": ["The Flying Scotsman", "The Mallard", "The Rocket", "The Royal Scot"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-trains-14",
+      "question": "Amtrak, the national passenger railroad service, began operations in what year?",
+      "options": ["1965", "1967", "1971", "1975"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-trains-15",
+      "question": "Which famous train robbery of 1963, which took place in England, netted the thieves over 2.6 million pounds?",
+      "options": ["The Gold Train Heist", "The Great Train Robbery", "The London Express Heist", "The Royal Mail Robbery"],
+      "correctAnswer": 1
+    }
+  ]
+}

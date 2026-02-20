@@ -1,0 +1,98 @@
+{
+  "id": "famous-trials",
+  "title": "Famous Trials",
+  "description": "Historic court cases and trials that changed history",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-trials-1",
+      "question": "In 1925, teacher John Scopes was put on trial in Tennessee for teaching what subject in school?",
+      "options": ["Communism", "Evolution", "Atheism", "Civil disobedience"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-2",
+      "question": "The Nuremberg Trials held after World War II prosecuted leaders of which regime?",
+      "options": ["Imperial Japan", "Fascist Italy", "Nazi Germany", "Soviet Union"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-3",
+      "question": "In the landmark 1954 case Brown v. Board of Education, the Supreme Court ruled against what practice?",
+      "options": ["Poll taxes", "Racial segregation in public schools", "Interracial marriage bans", "Voting age restrictions"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-4",
+      "question": "Which Italian astronomer was tried by the Roman Inquisition in 1633 for supporting heliocentrism?",
+      "options": ["Copernicus", "Kepler", "Galileo Galilei", "Giordano Bruno"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-5",
+      "question": "The Salem Witch Trials of 1692 took place in which American colony?",
+      "options": ["Virginia", "Pennsylvania", "Massachusetts", "Connecticut"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-6",
+      "question": "Which French military officer was wrongfully convicted of treason in 1894, sparking a major political scandal?",
+      "options": ["Alfred Dreyfus", "Charles de Gaulle", "Philippe Pétain", "Ferdinand Foch"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-trials-7",
+      "question": "The O.J. Simpson murder trial verdict was delivered in which year?",
+      "options": ["1993", "1994", "1995", "1996"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-8",
+      "question": "Which ancient philosopher was sentenced to death by drinking hemlock in 399 BC?",
+      "options": ["Plato", "Aristotle", "Socrates", "Pythagoras"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-9",
+      "question": "The Rosenberg trial in 1951 involved charges of passing secrets about what to the Soviet Union?",
+      "options": ["Radar technology", "The atomic bomb", "Submarine designs", "Cryptography codes"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-10",
+      "question": "In 1966, the Supreme Court case Miranda v. Arizona established what requirement for police?",
+      "options": ["Search warrants", "Reading suspects their rights", "Providing a lawyer at arrest", "Recording interrogations"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-11",
+      "question": "Oscar Wilde was put on trial in 1895 in London on charges related to what?",
+      "options": ["Fraud", "Treason", "Gross indecency", "Libel"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-trials-12",
+      "question": "The trial of which king of England in 1649 led to his execution and the establishment of a republic?",
+      "options": ["Henry VIII", "Charles I", "James II", "Richard III"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-13",
+      "question": "Which Italian-American anarchists were controversially tried and executed in 1927 for murder?",
+      "options": ["Sacco and Vanzetti", "Bonnie and Clyde", "Leopold and Loeb", "Rosenberg and Sobell"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-trials-14",
+      "question": "The Watergate scandal trials stemmed from a break-in at the headquarters of which political party?",
+      "options": ["Republican Party", "Democratic Party", "Libertarian Party", "Green Party"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-trials-15",
+      "question": "Joan of Arc was tried for heresy and burned at the stake in 1431 in which French city?",
+      "options": ["Paris", "Lyon", "Rouen", "Orléans"],
+      "correctAnswer": 2
+    }
+  ]
+}

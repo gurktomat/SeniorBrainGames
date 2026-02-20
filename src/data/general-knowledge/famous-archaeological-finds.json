@@ -1,0 +1,98 @@
+{
+  "id": "famous-archaeological-finds",
+  "title": "Famous Archaeological Finds",
+  "description": "Major archaeological discoveries",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-archaeological-finds-1",
+      "question": "Howard Carter discovered the nearly intact tomb of which Egyptian pharaoh in 1922?",
+      "options": ["Ramesses II", "Cleopatra", "Tutankhamun", "Nefertiti"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-2",
+      "question": "The Rosetta Stone, key to deciphering Egyptian hieroglyphics, was discovered by soldiers of which country?",
+      "options": ["England", "France", "Italy", "Germany"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-3",
+      "question": "The Terracotta Army, thousands of life-sized clay soldiers, was discovered in 1974 near which Chinese city?",
+      "options": ["Beijing", "Shanghai", "Xi'an", "Chengdu"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-4",
+      "question": "The Dead Sea Scrolls, ancient Jewish texts, were first discovered in 1947 by whom?",
+      "options": ["British archaeologists", "Bedouin shepherds", "Israeli soldiers", "American researchers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-5",
+      "question": "Heinrich Schliemann is famous for excavating the ancient city of Troy, located in modern-day which country?",
+      "options": ["Greece", "Turkey", "Egypt", "Iraq"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-6",
+      "question": "The ancient city of Pompeii was preserved by the eruption of which volcano in 79 AD?",
+      "options": ["Mount Etna", "Mount Vesuvius", "Mount Stromboli", "Mount Olympus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-7",
+      "question": "'Lucy,' a 3.2-million-year-old Australopithecus skeleton, was discovered in 1974 in which African country?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "South Africa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-8",
+      "question": "The Sutton Hoo ship burial, one of the greatest Anglo-Saxon finds, was discovered in 1939 in which country?",
+      "options": ["Ireland", "Scotland", "England", "Wales"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-9",
+      "question": "Machu Picchu was brought to international attention in 1911 by which American explorer?",
+      "options": ["Theodore Roosevelt", "Hiram Bingham III", "Percy Fawcett", "Alexander von Humboldt"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-10",
+      "question": "The Lascaux cave paintings in France are estimated to be approximately how old?",
+      "options": ["5,000 years", "10,000 years", "17,000 years", "50,000 years"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-11",
+      "question": "Ötzi the Iceman, a naturally mummified man from around 3300 BC, was found in the Alps between which two countries?",
+      "options": ["France and Switzerland", "Austria and Italy", "Germany and Austria", "Switzerland and Italy"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-12",
+      "question": "The ancient Minoan palace of Knossos was excavated by Arthur Evans on which Greek island?",
+      "options": ["Rhodes", "Crete", "Santorini", "Corfu"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-13",
+      "question": "The Olduvai Gorge, where Louis and Mary Leakey made major discoveries about early human evolution, is in which country?",
+      "options": ["Kenya", "Ethiopia", "Tanzania", "South Africa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-archaeological-finds-14",
+      "question": "The tomb of China's first emperor, Qin Shi Huang, is famous for containing which remarkable discovery?",
+      "options": ["Golden chariots", "The Terracotta Army", "Jade burial suits", "Ancient gunpowder weapons"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-archaeological-finds-15",
+      "question": "The Antikythera mechanism, often called the world's first analog computer, was recovered from a shipwreck near which country?",
+      "options": ["Italy", "Egypt", "Turkey", "Greece"],
+      "correctAnswer": 3
+    }
+  ]
+}

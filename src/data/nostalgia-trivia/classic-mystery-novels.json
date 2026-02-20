@@ -1,0 +1,98 @@
+{
+  "id": "classic-mystery-novels",
+  "title": "Classic Mystery Novels",
+  "description": "Whodunit books and famous mystery authors",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-mystery-novels-1",
+      "question": "Which British author created the famous detective Hercule Poirot?",
+      "options": ["Dorothy L. Sayers", "Agatha Christie", "P.D. James", "Ruth Rendell"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-2",
+      "question": "What is the name of Sir Arthur Conan Doyle's famous detective who lived at 221B Baker Street?",
+      "options": ["Hercule Poirot", "Philip Marlowe", "Sherlock Holmes", "Inspector Morse"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-mystery-novels-3",
+      "question": "In Agatha Christie's 'And Then There Were None,' how many guests are invited to the mysterious island?",
+      "options": ["Eight", "Ten", "Twelve", "Six"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-4",
+      "question": "Which hard-boiled detective, created by Raymond Chandler, appeared in 'The Big Sleep'?",
+      "options": ["Sam Spade", "Philip Marlowe", "Mike Hammer", "Nick Charles"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-5",
+      "question": "Dashiell Hammett created which detective who appeared in 'The Maltese Falcon'?",
+      "options": ["Philip Marlowe", "Nero Wolfe", "Sam Spade", "Lew Archer"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-mystery-novels-6",
+      "question": "What elderly amateur detective did Agatha Christie create as a counterpart to Hercule Poirot?",
+      "options": ["Mrs. Marple", "Miss Marple", "Mrs. Hudson", "Lady Bracknell"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-7",
+      "question": "Which author created the overweight, orchid-loving detective Nero Wolfe?",
+      "options": ["Erle Stanley Gardner", "Rex Stout", "Ellery Queen", "John D. MacDonald"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-8",
+      "question": "Erle Stanley Gardner was famous for writing mysteries featuring which fictional defense attorney?",
+      "options": ["Atticus Finch", "Perry Mason", "Nero Wolfe", "Rumpole"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-9",
+      "question": "In the board game 'Clue' (Cluedo), which room is NOT one of the original rooms?",
+      "options": ["Library", "Conservatory", "Garage", "Billiard Room"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-mystery-novels-10",
+      "question": "Which mystery novel by Agatha Christie is the best-selling mystery book of all time?",
+      "options": ["Murder on the Orient Express", "And Then There Were None", "The Murder of Roger Ackroyd", "Death on the Nile"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-11",
+      "question": "What pen name did cousins Frederic Dannay and Manfred Bennington Lee write under?",
+      "options": ["Ed McBain", "Ellery Queen", "Ross Macdonald", "Nicholas Blake"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-12",
+      "question": "Which classic mystery author created Lord Peter Wimsey, an aristocratic amateur detective?",
+      "options": ["Agatha Christie", "Dorothy L. Sayers", "Ngaio Marsh", "Margery Allingham"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-13",
+      "question": "What fictional detective was known for saying 'Just the facts, ma'am' on the TV show 'Dragnet'?",
+      "options": ["Columbo", "Joe Friday", "Kojak", "Mannix"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-mystery-novels-14",
+      "question": "G.K. Chesterton created which unlikely detective, a Catholic clergyman who solved crimes?",
+      "options": ["Father Dowling", "Brother Cadfael", "Father Brown", "Father Knox"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-mystery-novels-15",
+      "question": "Which Agatha Christie novel features a shocking twist where the narrator turns out to be the murderer?",
+      "options": ["Murder on the Orient Express", "The Murder of Roger Ackroyd", "And Then There Were None", "Death on the Nile"],
+      "correctAnswer": 1
+    }
+  ]
+}

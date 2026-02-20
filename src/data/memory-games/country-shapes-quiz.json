@@ -1,0 +1,98 @@
+{
+  "id": "country-shapes-quiz",
+  "title": "Country Shapes Quiz",
+  "description": "Identify countries from descriptions of their shape and location",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "country-shapes-quiz-1",
+      "question": "Which country is shaped like a boot, extending into the Mediterranean Sea?",
+      "options": ["Greece", "Spain", "Italy", "Portugal"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-2",
+      "question": "Which South American country is a long, narrow strip along the western coast, stretching over 2,600 miles?",
+      "options": ["Peru", "Argentina", "Chile", "Ecuador"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-3",
+      "question": "Which country is sometimes described as shaped like a hexagon?",
+      "options": ["Germany", "Poland", "France", "Romania"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-4",
+      "question": "Which island nation southeast of India is often described as shaped like a teardrop or a pear?",
+      "options": ["Maldives", "Sri Lanka", "Madagascar", "Mauritius"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "country-shapes-quiz-5",
+      "question": "Which African country is shaped like a horn, jutting out into the Indian Ocean at the easternmost point of Africa?",
+      "options": ["Eritrea", "Djibouti", "Ethiopia", "Somalia"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "country-shapes-quiz-6",
+      "question": "Which Southeast Asian country is shaped like the letter 'S' and stretches along the eastern coast of the Indochinese Peninsula?",
+      "options": ["Thailand", "Cambodia", "Vietnam", "Laos"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-7",
+      "question": "Which country, the world's largest, spans across both Europe and Asia?",
+      "options": ["China", "Canada", "Russia", "India"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-8",
+      "question": "Which Nordic country has a long, narrow shape resembling a skiing figure, with a coastline full of fjords?",
+      "options": ["Sweden", "Finland", "Denmark", "Norway"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "country-shapes-quiz-9",
+      "question": "Which Asian country is an archipelago of four main islands, stretching in a curved arc?",
+      "options": ["Philippines", "Indonesia", "Japan", "Taiwan"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-10",
+      "question": "Which small European country is shaped roughly like a triangle and is completely landlocked by France, Germany, and Belgium?",
+      "options": ["Liechtenstein", "Luxembourg", "Andorra", "San Marino"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "country-shapes-quiz-11",
+      "question": "Which Central American country is narrow with coasts on both the Caribbean Sea and the Pacific Ocean, and contains a famous canal?",
+      "options": ["Costa Rica", "Honduras", "Nicaragua", "Panama"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "country-shapes-quiz-12",
+      "question": "Which large African country has a roughly rectangular shape and is the continent's biggest country by area?",
+      "options": ["Sudan", "Democratic Republic of the Congo", "Algeria", "Libya"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-13",
+      "question": "Which European country is a peninsula connected to France, surrounded by the Mediterranean Sea and the Atlantic Ocean?",
+      "options": ["Italy", "Greece", "Spain", "Portugal"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-14",
+      "question": "Which country consists of two main islands and is located southeast of Australia?",
+      "options": ["Fiji", "Tasmania", "New Zealand", "Papua New Guinea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "country-shapes-quiz-15",
+      "question": "Which South Asian country is roughly triangular, narrowing to a point in the south, and is bordered by the Arabian Sea and the Bay of Bengal?",
+      "options": ["Pakistan", "Bangladesh", "India", "Myanmar"],
+      "correctAnswer": 2
+    }
+  ]
+}

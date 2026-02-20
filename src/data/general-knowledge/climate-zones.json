@@ -1,0 +1,144 @@
+{
+  "id": "climate-zones",
+  "title": "Climate Zones",
+  "description": "Earth's climate regions and weather patterns",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "climate-zones-1",
+      "question": "Which climate zone is characterized by warm temperatures and high rainfall year-round, typically found near the equator?",
+      "options": ["Mediterranean", "Tropical rainforest", "Subtropical", "Temperate"],
+      "correctAnswer": 1,
+      "explanation": "The tropical rainforest climate, found near the equator, features consistently warm temperatures (typically 77-82°F / 25-28°C) and heavy rainfall throughout the year, often exceeding 80 inches annually.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-2",
+      "question": "What is the term for the climate classification system most widely used by geographers?",
+      "options": ["Thornthwaite system", "Bergeron classification", "Köppen climate classification", "Holdridge life zones"],
+      "correctAnswer": 2,
+      "explanation": "The Köppen climate classification, developed by Russian-German climatologist Wladimir Köppen in 1884, is the most widely used system. It divides climates into five main groups based on temperature and precipitation.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-3",
+      "question": "Which type of climate is characterized by hot, dry summers and mild, wet winters?",
+      "options": ["Tropical savanna", "Mediterranean", "Humid subtropical", "Oceanic"],
+      "correctAnswer": 1,
+      "explanation": "The Mediterranean climate features hot, dry summers and cool, wet winters. It is found around the Mediterranean Sea, parts of California, central Chile, and southwestern Australia.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-4",
+      "question": "What is the driest place on Earth?",
+      "options": ["Sahara Desert", "Atacama Desert", "McMurdo Dry Valleys, Antarctica", "Death Valley, USA"],
+      "correctAnswer": 2,
+      "explanation": "The McMurdo Dry Valleys in Antarctica are considered the driest place on Earth. Some areas have received no rain for nearly 2 million years. Despite being cold, these valleys are technically a desert.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-5",
+      "question": "What weather phenomenon is caused by the periodic warming of sea surface temperatures in the central Pacific Ocean?",
+      "options": ["Monsoon", "El Niño", "Hurricane season", "Polar vortex"],
+      "correctAnswer": 1,
+      "explanation": "El Niño is the warm phase of the El Niño-Southern Oscillation (ENSO), causing warmer-than-usual sea surface temperatures in the central and eastern Pacific. It can affect weather patterns worldwide.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-6",
+      "question": "Which climate zone covers the largest area of Earth's surface?",
+      "options": ["Tropical", "Arid (desert)", "Temperate", "Polar"],
+      "correctAnswer": 1,
+      "explanation": "Arid and semi-arid climates cover about 33% of Earth's land surface, making them the most extensive climate zone. This includes hot deserts like the Sahara and cold deserts like the Gobi.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-7",
+      "question": "What causes the seasons on Earth?",
+      "options": ["Earth's distance from the Sun", "Earth's axial tilt", "The Moon's gravitational pull", "Changes in solar energy output"],
+      "correctAnswer": 1,
+      "explanation": "Seasons are caused by Earth's axial tilt of approximately 23.5 degrees. As Earth orbits the Sun, different hemispheres are tilted toward or away from the Sun, creating seasonal changes.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-8",
+      "question": "What is the tundra climate primarily characterized by?",
+      "options": ["Hot summers and cold winters", "Permafrost and very short growing seasons", "Heavy rainfall and dense forests", "Mild temperatures year-round"],
+      "correctAnswer": 1,
+      "explanation": "The tundra climate features permafrost (permanently frozen ground), extremely short growing seasons, and average temperatures below 50°F (10°C) even in the warmest month. It supports only low-growing vegetation.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-9",
+      "question": "Which wind pattern brings monsoon rains to South Asia?",
+      "options": ["Trade winds", "Westerlies", "Seasonal reversal of wind direction", "Polar easterlies"],
+      "correctAnswer": 2,
+      "explanation": "Monsoons are caused by the seasonal reversal of wind direction. In summer, winds blow from the ocean toward the heated land, carrying moisture that produces heavy rainfall across South Asia.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-10",
+      "question": "Cherrapunji in India is famous for being one of the wettest places on Earth. Approximately how much rain does it receive annually?",
+      "options": ["About 100 inches", "About 250 inches", "About 460 inches", "About 700 inches"],
+      "correctAnswer": 2,
+      "explanation": "Cherrapunji (Sohra) in Meghalaya, India, receives an average of about 460 inches (11,700 mm) of rain annually, making it one of the wettest places on Earth. Most of this falls during the monsoon season.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-11",
+      "question": "What is an 'urban heat island'?",
+      "options": ["A volcanic island in a city harbor", "A city area significantly warmer than surrounding rural areas", "A tropical island with a large city", "A heated greenhouse in an urban park"],
+      "correctAnswer": 1,
+      "explanation": "An urban heat island is a metropolitan area that is significantly warmer than surrounding rural areas due to human activities, buildings, roads, and reduced vegetation. Cities can be 2-5°F warmer than nearby countryside.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-12",
+      "question": "Which layer of Earth's atmosphere contains the ozone layer that protects us from UV radiation?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctAnswer": 1,
+      "explanation": "The stratosphere, extending from about 7 to 31 miles (12-50 km) above Earth, contains the ozone layer. This layer of ozone gas absorbs most of the Sun's harmful ultraviolet radiation.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-13",
+      "question": "What type of climate does the Amazon Basin primarily have?",
+      "options": ["Tropical monsoon", "Tropical wet (rainforest)", "Tropical savanna", "Humid subtropical"],
+      "correctAnswer": 1,
+      "explanation": "The Amazon Basin has a tropical wet (rainforest) climate with consistently high temperatures and abundant rainfall throughout the year. Annual rainfall typically exceeds 60 inches (1,500 mm).",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-14",
+      "question": "What is the jet stream?",
+      "options": ["A warm ocean current", "A narrow band of strong winds high in the atmosphere", "A type of tropical storm", "Water vapor rising from the ocean"],
+      "correctAnswer": 1,
+      "explanation": "The jet stream is a narrow band of very strong winds in the upper atmosphere, typically at 30,000-40,000 feet altitude. It flows from west to east and significantly influences weather patterns and storm tracks.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "climate-zones-15",
+      "question": "Which continent has the most diverse range of climate zones?",
+      "options": ["Africa", "Asia", "North America", "South America"],
+      "correctAnswer": 1,
+      "explanation": "Asia has the most diverse range of climate zones of any continent, spanning from arctic tundra in Siberia to tropical rainforests in Southeast Asia, and from deserts in the Middle East to monsoon regions in South Asia.",
+      "difficulty": "medium",
+      "category": "geography"
+    }
+  ]
+}

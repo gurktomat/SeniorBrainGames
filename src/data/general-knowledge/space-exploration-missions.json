@@ -1,0 +1,98 @@
+{
+  "id": "space-exploration-missions",
+  "title": "Space Exploration Missions",
+  "description": "Milestones in space travel and exploration",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "space-exploration-missions-1",
+      "question": "Which Soviet cosmonaut became the first human in space on April 12, 1961?",
+      "options": ["Valentina Tereshkova", "Yuri Gagarin", "Alexei Leonov", "Gherman Titov"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-2",
+      "question": "Apollo 11 successfully landed on the Moon in 1969. Who was the first person to set foot on the lunar surface?",
+      "options": ["Buzz Aldrin", "Michael Collins", "Neil Armstrong", "John Glenn"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-exploration-missions-3",
+      "question": "Which NASA space telescope, launched in 1990, has provided some of the most detailed images of distant galaxies?",
+      "options": ["Kepler Space Telescope", "Spitzer Space Telescope", "James Webb Space Telescope", "Hubble Space Telescope"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-exploration-missions-4",
+      "question": "The Voyager 1 spacecraft, launched in 1977, became the first human-made object to enter what region of space?",
+      "options": ["The asteroid belt", "Interstellar space", "The Kuiper Belt", "The Oort Cloud"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-5",
+      "question": "Which space station, operated by the Soviet Union, was the first modular space station and orbited from 1986 to 2001?",
+      "options": ["Skylab", "Salyut 7", "Mir", "Tiangong"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-exploration-missions-6",
+      "question": "The Challenger disaster of January 1986 occurred how long after the Space Shuttle launched?",
+      "options": ["10 seconds", "73 seconds", "3 minutes", "8 minutes"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-7",
+      "question": "Which Mars rover, active from 2004 to 2018, far exceeded its planned 90-day mission?",
+      "options": ["Spirit", "Curiosity", "Opportunity", "Perseverance"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-exploration-missions-8",
+      "question": "Who was the first American woman in space, flying aboard the Space Shuttle Challenger in 1983?",
+      "options": ["Mae Jemison", "Sally Ride", "Christa McAuliffe", "Peggy Whitson"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-9",
+      "question": "The International Space Station (ISS) has been continuously occupied by astronauts since which year?",
+      "options": ["1998", "2000", "2002", "2004"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-10",
+      "question": "Apollo 13, the 'successful failure,' experienced an oxygen tank explosion in which year?",
+      "options": ["1969", "1970", "1971", "1972"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-11",
+      "question": "The Cassini spacecraft spent 13 years studying which planet and its rings before plunging into its atmosphere in 2017?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-12",
+      "question": "Which was the first American satellite launched into orbit in January 1958?",
+      "options": ["Vanguard 1", "Explorer 1", "Mercury 1", "Pioneer 1"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-13",
+      "question": "Sputnik 1, the first artificial satellite, was launched by which country in October 1957?",
+      "options": ["United States", "Soviet Union", "Germany", "France"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-exploration-missions-14",
+      "question": "The New Horizons spacecraft provided the first close-up images of which dwarf planet in 2015?",
+      "options": ["Ceres", "Eris", "Pluto", "Makemake"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-exploration-missions-15",
+      "question": "Which astronaut holds the record for spending the most total time in space among American astronauts, with 665 days?",
+      "options": ["Scott Kelly", "Peggy Whitson", "Frank Rubio", "Mark Vande Hei"],
+      "correctAnswer": 2
+    }
+  ]
+}

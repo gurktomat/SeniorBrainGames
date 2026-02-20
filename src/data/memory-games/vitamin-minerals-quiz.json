@@ -1,0 +1,98 @@
+{
+  "id": "vitamin-minerals-quiz",
+  "title": "Vitamins & Minerals Quiz",
+  "description": "Match vitamins and minerals to their functions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "vitamin-minerals-quiz-1",
+      "question": "Which vitamin is essential for healthy vision, immune function, and is found abundantly in carrots and sweet potatoes?",
+      "options": ["Vitamin C", "Vitamin A", "Vitamin E", "Vitamin K"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vitamin-minerals-quiz-2",
+      "question": "Which vitamin does your body produce when your skin is exposed to sunlight, and is crucial for calcium absorption and bone health?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin K"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-3",
+      "question": "Which vitamin is a powerful antioxidant, supports the immune system, and is found in citrus fruits, strawberries, and bell peppers?",
+      "options": ["Vitamin A", "Vitamin B6", "Vitamin E", "Vitamin C"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vitamin-minerals-quiz-4",
+      "question": "Which mineral is the most abundant in the human body and is essential for strong bones and teeth?",
+      "options": ["Iron", "Calcium", "Magnesium", "Phosphorus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vitamin-minerals-quiz-5",
+      "question": "Which mineral is essential for oxygen transport in red blood cells, and a deficiency can cause anemia and fatigue?",
+      "options": ["Zinc", "Copper", "Iron", "Manganese"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-6",
+      "question": "Which B vitamin is crucial for red blood cell formation and nervous system function, and is found primarily in animal products like meat, eggs, and dairy?",
+      "options": ["Vitamin B6", "Vitamin B12", "Folate (B9)", "Niacin (B3)"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vitamin-minerals-quiz-7",
+      "question": "Which vitamin plays a key role in blood clotting and is found in leafy green vegetables like kale and spinach?",
+      "options": ["Vitamin K", "Vitamin E", "Vitamin A", "Vitamin C"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vitamin-minerals-quiz-8",
+      "question": "Which mineral is important for muscle and nerve function, helps regulate blood sugar, and is found in nuts, seeds, and dark chocolate?",
+      "options": ["Calcium", "Potassium", "Magnesium", "Sodium"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-9",
+      "question": "Which mineral is essential for thyroid hormone production and is added to table salt to prevent deficiency?",
+      "options": ["Selenium", "Iodine", "Zinc", "Fluoride"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vitamin-minerals-quiz-10",
+      "question": "Which mineral helps regulate fluid balance and blood pressure, and is abundant in bananas, potatoes, and avocados?",
+      "options": ["Sodium", "Calcium", "Potassium", "Chloride"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-11",
+      "question": "Which vitamin is a fat-soluble antioxidant that protects cell membranes and is found in nuts, seeds, and vegetable oils?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vitamin-minerals-quiz-12",
+      "question": "Which B vitamin is especially important during pregnancy for preventing neural tube defects in the developing baby?",
+      "options": ["Thiamine (B1)", "Riboflavin (B2)", "Folate (B9)", "Biotin (B7)"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-13",
+      "question": "Which mineral supports immune function and wound healing, is important for taste and smell, and is found in oysters, beef, and pumpkin seeds?",
+      "options": ["Iron", "Copper", "Zinc", "Selenium"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vitamin-minerals-quiz-14",
+      "question": "A severe deficiency of Vitamin C, causing bleeding gums, weakness, and joint pain, is known by what historical name?",
+      "options": ["Rickets", "Beriberi", "Pellagra", "Scurvy"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vitamin-minerals-quiz-15",
+      "question": "Which mineral strengthens tooth enamel, helps prevent cavities, and is commonly added to municipal water supplies?",
+      "options": ["Calcium", "Phosphorus", "Fluoride", "Iodine"],
+      "correctAnswer": 2
+    }
+  ]
+}

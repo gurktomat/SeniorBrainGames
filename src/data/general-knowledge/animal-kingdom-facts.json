@@ -1,0 +1,144 @@
+{
+  "id": "animal-kingdom-facts",
+  "title": "Animal Kingdom Facts",
+  "description": "Interesting and surprising animal facts",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "animal-kingdom-facts-1",
+      "question": "How many hearts does an octopus have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctAnswer": 2,
+      "explanation": "An octopus has three hearts. Two branchial hearts pump blood to the gills, while the third systemic heart pumps oxygenated blood to the rest of the body.",
+      "difficulty": "easy",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-2",
+      "question": "Which animal has the longest lifespan of any mammal?",
+      "options": ["African elephant", "Blue whale", "Bowhead whale", "Galápagos tortoise"],
+      "correctAnswer": 2,
+      "explanation": "The bowhead whale can live over 200 years, making it the longest-lived mammal. The Galápagos tortoise, while long-lived, is a reptile, not a mammal.",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-3",
+      "question": "What is a group of flamingos called?",
+      "options": ["A flock", "A flamboyance", "A colony", "A parade"],
+      "correctAnswer": 1,
+      "explanation": "A group of flamingos is called a flamboyance, a fitting name given their striking pink plumage and dramatic group displays.",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-4",
+      "question": "Which is the only mammal capable of true sustained flight?",
+      "options": ["Flying squirrel", "Sugar glider", "Bat", "Colugo"],
+      "correctAnswer": 2,
+      "explanation": "Bats are the only mammals capable of true sustained flight. Flying squirrels, sugar gliders, and colugos can only glide, not truly fly.",
+      "difficulty": "easy",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-5",
+      "question": "How far can a wolf howl be heard under ideal conditions?",
+      "options": ["Up to 2 miles", "Up to 5 miles", "Up to 10 miles", "Up to 15 miles"],
+      "correctAnswer": 2,
+      "explanation": "Under ideal conditions, a wolf's howl can be heard up to 10 miles (16 km) away. Wolves howl to communicate with pack members and mark territory.",
+      "difficulty": "hard",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-6",
+      "question": "Which animal's fingerprints are virtually indistinguishable from human fingerprints?",
+      "options": ["Chimpanzee", "Gorilla", "Koala", "Orangutan"],
+      "correctAnswer": 2,
+      "explanation": "Koala fingerprints are so similar to human fingerprints that they can be confused even under a microscope. This is a remarkable case of convergent evolution.",
+      "difficulty": "hard",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-7",
+      "question": "What color is a polar bear's skin underneath its white fur?",
+      "options": ["White", "Pink", "Black", "Gray"],
+      "correctAnswer": 2,
+      "explanation": "A polar bear's skin is actually black, which helps absorb heat from the sun. Their fur appears white but is actually transparent and hollow.",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-8",
+      "question": "Which bird can fly backwards?",
+      "options": ["Kingfisher", "Hummingbird", "Swift", "Swallow"],
+      "correctAnswer": 1,
+      "explanation": "Hummingbirds are the only birds that can fly backwards. Their unique ball-and-socket shoulder joint allows their wings to rotate 180 degrees, enabling flight in any direction.",
+      "difficulty": "easy",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-9",
+      "question": "How long can a crocodile go without eating?",
+      "options": ["Up to 3 months", "Up to 6 months", "Up to 1 year", "Up to 2 years"],
+      "correctAnswer": 3,
+      "explanation": "Crocodiles can survive up to 2 years without eating. Their cold-blooded metabolism allows them to conserve energy remarkably well during periods of food scarcity.",
+      "difficulty": "hard",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-10",
+      "question": "Which animal has the highest blood pressure of any living creature?",
+      "options": ["Elephant", "Blue whale", "Giraffe", "Horse"],
+      "correctAnswer": 2,
+      "explanation": "The giraffe has the highest blood pressure of any animal, about twice that of humans. This is necessary to pump blood up its long neck to its brain.",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-11",
+      "question": "What percentage of a cat's bones are in its tail?",
+      "options": ["About 5%", "About 10%", "About 15%", "About 20%"],
+      "correctAnswer": 1,
+      "explanation": "About 10% of a cat's bones are in its tail. A cat's tail typically contains 19 to 23 vertebrae, while their entire body has about 230 bones.",
+      "difficulty": "hard",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-12",
+      "question": "Which insect can carry objects 50 times its own body weight?",
+      "options": ["Honey bee", "Ant", "Beetle", "Grasshopper"],
+      "correctAnswer": 1,
+      "explanation": "Ants can carry objects 50 times their own body weight. Their muscles are thicker relative to their body size compared to larger animals, giving them extraordinary strength.",
+      "difficulty": "easy",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-13",
+      "question": "What is unique about a starfish's (sea star's) stomach?",
+      "options": ["It has two stomachs", "It can push its stomach outside its body", "It can digest rocks", "It glows in the dark"],
+      "correctAnswer": 1,
+      "explanation": "A sea star can push its stomach outside its body to digest food externally. It wraps its stomach around prey and digests it before pulling the stomach back inside.",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-14",
+      "question": "How many times per second can a housefly beat its wings?",
+      "options": ["About 50 times", "About 100 times", "About 200 times", "About 500 times"],
+      "correctAnswer": 2,
+      "explanation": "A housefly beats its wings approximately 200 times per second. This incredibly rapid wing movement is what produces the buzzing sound we hear.",
+      "difficulty": "hard",
+      "category": "biology"
+    },
+    {
+      "id": "animal-kingdom-facts-15",
+      "question": "Which sea creature has the largest eyes in the animal kingdom?",
+      "options": ["Blue whale", "Giant squid", "Colossal squid", "Great white shark"],
+      "correctAnswer": 2,
+      "explanation": "The colossal squid has the largest eyes in the animal kingdom, measuring up to 11 inches (27 cm) in diameter — about the size of a dinner plate. These enormous eyes help it see in the deep, dark ocean.",
+      "difficulty": "hard",
+      "category": "biology"
+    }
+  ]
+}

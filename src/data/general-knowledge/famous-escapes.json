@@ -1,0 +1,144 @@
+{
+  "id": "famous-escapes",
+  "title": "Famous Escapes",
+  "description": "Daring prison breaks and escapes in history",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-escapes-1",
+      "question": "In 1962, Frank Morris and the Anglin brothers attempted a famous escape from which prison?",
+      "options": ["Sing Sing", "San Quentin", "Alcatraz", "Leavenworth"],
+      "correctAnswer": 2,
+      "explanation": "In June 1962, Frank Morris and brothers John and Clarence Anglin escaped from Alcatraz Federal Penitentiary using a raft made from raincoats. Their fate remains unknown to this day.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-2",
+      "question": "Which famous World War II escape involved Allied prisoners tunneling out of a German POW camp?",
+      "options": ["The Colditz Escape", "The Great Escape", "The Wooden Horse", "The Tunnel of Freedom"],
+      "correctAnswer": 1,
+      "explanation": "The Great Escape from Stalag Luft III in March 1944 saw 76 Allied airmen escape through tunnels nicknamed Tom, Dick, and Harry. Sadly, 73 were recaptured and 50 were executed by the Gestapo.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-3",
+      "question": "Giacomo Casanova is famous for escaping from which prison in 1756?",
+      "options": ["The Bastille", "The Tower of London", "The Leads (Piombi) in Venice", "Château d'If"],
+      "correctAnswer": 2,
+      "explanation": "Casanova escaped from the Leads (I Piombi), the notorious lead-roofed prison in the Doge's Palace in Venice, in 1756. He broke through the ceiling and crossed the palace roof to freedom.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-4",
+      "question": "Which fictional character is famous for escaping from the Château d'If?",
+      "options": ["Jean Valjean", "The Scarlet Pimpernel", "Edmond Dantès", "Robin Hood"],
+      "correctAnswer": 2,
+      "explanation": "Edmond Dantès, the protagonist of Alexandre Dumas' 'The Count of Monte Cristo' (1844), escapes from the island prison of Château d'If after 14 years of imprisonment.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-5",
+      "question": "Harry Houdini was famous for escaping from what?",
+      "options": ["Prisons only", "Handcuffs, straitjackets, and underwater containers", "Burning buildings", "Moving trains"],
+      "correctAnswer": 1,
+      "explanation": "Harry Houdini (1874-1926) was legendary for escaping from handcuffs, straitjackets, locked containers, and even being submerged underwater in sealed boxes. He became the world's most famous escape artist.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-6",
+      "question": "In 1986, which country did an East German family famously escape to by flying over the Berlin Wall in a homemade hot air balloon?",
+      "options": ["France", "West Germany", "Austria", "Switzerland"],
+      "correctAnswer": 1,
+      "explanation": "In 1979, the Strelzyk and Wetzel families famously escaped East Germany to West Germany in a homemade hot air balloon, flying at altitudes up to 8,000 feet across the border.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-7",
+      "question": "Which notorious French prison was stormed by revolutionaries on July 14, 1789?",
+      "options": ["Conciergerie", "The Bastille", "Mont-Saint-Michel", "Devil's Island"],
+      "correctAnswer": 1,
+      "explanation": "The storming of the Bastille on July 14, 1789, was a pivotal event of the French Revolution. The fortress-prison symbolized royal tyranny, and its fall became France's national day.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-8",
+      "question": "Which prisoner famously escaped from Devil's Island, the French penal colony in South America?",
+      "options": ["Alfred Dreyfus", "Henri Charrière (Papillon)", "Napoleon Bonaparte", "Louis Riel"],
+      "correctAnswer": 1,
+      "explanation": "Henri Charrière, nicknamed Papillon (Butterfly), claimed to have escaped from Devil's Island in French Guiana. His 1969 autobiography 'Papillon' became a bestseller and was adapted into a famous film.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-9",
+      "question": "During the American Civil War, which Confederate prison was the site of the largest successful Union escape?",
+      "options": ["Andersonville", "Libby Prison", "Castle Thunder", "Belle Isle"],
+      "correctAnswer": 1,
+      "explanation": "In February 1864, 109 Union officers tunneled out of Libby Prison in Richmond, Virginia, in the largest successful prison escape of the Civil War. Fifty-nine reached Union lines safely.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-10",
+      "question": "Which British castle was used as a high-security POW camp in World War II, famous for its many escape attempts?",
+      "options": ["Windsor Castle", "Edinburgh Castle", "Colditz Castle", "Tower of London"],
+      "correctAnswer": 2,
+      "explanation": "Colditz Castle (Oflag IV-C) in Germany held Allied officers considered escape risks. Despite its reputation as escape-proof, over 30 prisoners successfully escaped, making it one of WWII's most famous POW camps.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-11",
+      "question": "What method did 'El Chapo' Guzmán use to escape from Mexico's Altiplano prison in 2015?",
+      "options": ["Disguised as a guard", "A mile-long tunnel from his cell", "Hidden in a laundry cart", "A helicopter from the yard"],
+      "correctAnswer": 1,
+      "explanation": "Joaquín 'El Chapo' Guzmán escaped through a mile-long tunnel that opened right under the shower area of his cell. The tunnel was equipped with a motorcycle on rails, ventilation, and lighting.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-12",
+      "question": "In 1943, which Danish operation rescued nearly the entire Jewish population of Denmark by ferrying them to neutral Sweden?",
+      "options": ["Operation Market Garden", "The Danish Rescue", "Operation Dynamo", "The White Buses"],
+      "correctAnswer": 1,
+      "explanation": "The Danish Rescue of October 1943 was a remarkable operation in which Danish citizens ferried approximately 7,200 of Denmark's 7,800 Jews to safety in neutral Sweden, saving them from Nazi deportation.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-13",
+      "question": "Which ancient Greek story tells of a father and son who escaped imprisonment by flying with wings made of feathers and wax?",
+      "options": ["Perseus and Andromeda", "Theseus and the Minotaur", "Daedalus and Icarus", "Odysseus and Telemachus"],
+      "correctAnswer": 2,
+      "explanation": "In Greek mythology, the master craftsman Daedalus built wings of feathers and wax for himself and his son Icarus to escape King Minos' labyrinth in Crete. Icarus flew too close to the sun, melting his wings.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-14",
+      "question": "What was the code name for the 1979 CIA operation to rescue six American diplomats from Tehran, Iran?",
+      "options": ["Operation Eagle Claw", "The Canadian Caper (Argo)", "Operation Desert One", "Operation Cyclone"],
+      "correctAnswer": 1,
+      "explanation": "The Canadian Caper, dramatized in the 2012 film 'Argo,' was the joint CIA-Canadian operation that rescued six U.S. diplomats from Iran during the hostage crisis by disguising them as a Canadian film crew.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-escapes-15",
+      "question": "The 'Wooden Horse' escape during World War II involved prisoners vaulting over a wooden horse to disguise what activity?",
+      "options": ["Cutting through wire fences", "Digging a tunnel", "Climbing the wall", "Passing secret messages"],
+      "correctAnswer": 1,
+      "explanation": "In the Wooden Horse escape from Stalag Luft III in 1943, prisoners used a vaulting horse placed near the camp's perimeter fence. While prisoners exercised over it, others hidden inside dug a tunnel underneath.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

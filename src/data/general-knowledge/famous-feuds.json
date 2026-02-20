@@ -1,0 +1,144 @@
+{
+  "id": "famous-feuds",
+  "title": "Famous Feuds",
+  "description": "Historic rivalries and feuds between people and families",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-feuds-1",
+      "question": "The Hatfields and McCoys are perhaps America's most famous feuding families. In which U.S. states did they live?",
+      "options": ["Tennessee and Kentucky", "West Virginia and Kentucky", "Virginia and North Carolina", "Alabama and Mississippi"],
+      "correctAnswer": 1,
+      "explanation": "The Hatfield-McCoy feud took place along the Tug Fork of the Big Sandy River, which forms the border between West Virginia (Hatfields) and Kentucky (McCoys). The feud lasted from about 1863 to 1891.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-2",
+      "question": "Which two powerful Italian families had a famous rivalry that inspired Shakespeare's 'Romeo and Juliet'?",
+      "options": ["Medici and Borgia", "Montague and Capulet", "Sforza and Visconti", "Colonna and Orsini"],
+      "correctAnswer": 1,
+      "explanation": "Shakespeare's 'Romeo and Juliet' features the feuding Montague and Capulet families of Verona. While these are fictional names, the story may have been inspired by real medieval Italian family conflicts.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-3",
+      "question": "The brothers who founded Adidas and Puma had a famous feud. What was their surname?",
+      "options": ["Müller", "Dassler", "Fischer", "Schmidt"],
+      "correctAnswer": 1,
+      "explanation": "Adolf (Adi) and Rudolf Dassler were brothers who ran a shoe company together in Germany. After a bitter falling out during WWII, Adi founded Adidas and Rudolf founded Puma, both headquartered in the same town of Herzogenaurach.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-4",
+      "question": "Which two famous American politicians had a bitter rivalry that culminated in a deadly duel in 1804?",
+      "options": ["Jefferson and Adams", "Hamilton and Burr", "Jackson and Clay", "Lincoln and Douglas"],
+      "correctAnswer": 1,
+      "explanation": "Alexander Hamilton and Aaron Burr's political rivalry ended in a duel on July 11, 1804, at Weehawken, New Jersey. Burr fatally shot Hamilton, who died the next day.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-5",
+      "question": "The Wars of the Roses was a feudal conflict between which two English royal houses?",
+      "options": ["Tudor and Stuart", "Plantagenet and Tudor", "Lancaster and York", "Windsor and Hanover"],
+      "correctAnswer": 2,
+      "explanation": "The Wars of the Roses (1455-1487) was a series of civil wars between the House of Lancaster (red rose) and the House of York (white rose) for control of the English throne.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-6",
+      "question": "Which two famous composers had a well-known rivalry in 18th-century Vienna?",
+      "options": ["Bach and Handel", "Mozart and Salieri", "Beethoven and Schubert", "Haydn and Gluck"],
+      "correctAnswer": 1,
+      "explanation": "Wolfgang Amadeus Mozart and Antonio Salieri were contemporaries in Vienna whose rivalry became legendary, though it was greatly dramatized in the play and film 'Amadeus.' Their actual relationship was more nuanced than pure rivalry.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-7",
+      "question": "Which famous American newspaper magnates engaged in a ruthless circulation war known as 'Yellow Journalism'?",
+      "options": ["Rupert Murdoch and Ted Turner", "William Randolph Hearst and Joseph Pulitzer", "Henry Luce and DeWitt Wallace", "Horace Greeley and James Gordon Bennett"],
+      "correctAnswer": 1,
+      "explanation": "William Randolph Hearst (New York Journal) and Joseph Pulitzer (New York World) waged a fierce circulation war in the 1890s. Their sensationalized reporting became known as 'Yellow Journalism' and helped push the U.S. into the Spanish-American War.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-8",
+      "question": "The Guelphs and Ghibellines were rival factions in which country during the Middle Ages?",
+      "options": ["France", "England", "Italy", "Spain"],
+      "correctAnswer": 2,
+      "explanation": "The Guelphs (supporting the Pope) and Ghibellines (supporting the Holy Roman Emperor) were rival factions in medieval Italy. Their conflict shaped Italian politics for centuries and features prominently in Dante's works.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-9",
+      "question": "Which two tech company founders had a famous decades-long rivalry in the personal computer industry?",
+      "options": ["Jeff Bezos and Elon Musk", "Steve Jobs and Bill Gates", "Larry Page and Mark Zuckerberg", "Michael Dell and Steve Wozniak"],
+      "correctAnswer": 1,
+      "explanation": "Steve Jobs (Apple) and Bill Gates (Microsoft) had a legendary rivalry spanning decades. Despite their competitive tension over operating systems and personal computing, they maintained a complex relationship of both rivalry and respect.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-10",
+      "question": "Which two famous boxing rivals fought three times, including the 'Thrilla in Manila'?",
+      "options": ["Mike Tyson and Evander Holyfield", "Muhammad Ali and Joe Frazier", "Sugar Ray Leonard and Roberto Durán", "Floyd Mayweather and Manny Pacquiao"],
+      "correctAnswer": 1,
+      "explanation": "Muhammad Ali and Joe Frazier fought three epic bouts between 1971 and 1975. Their rivalry defined heavyweight boxing, culminating in the 'Thrilla in Manila' in 1975, often called the greatest fight ever.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-11",
+      "question": "The feud between Queen Elizabeth I of England and Mary, Queen of Scots, ended with what outcome?",
+      "options": ["A peace treaty", "Mary's execution", "Elizabeth's abdication", "Mary's exile to France"],
+      "correctAnswer": 1,
+      "explanation": "Mary, Queen of Scots, who had a claim to the English throne, was held prisoner by Elizabeth I for 19 years before being convicted of plotting against Elizabeth and executed in 1587.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-12",
+      "question": "Which two famous rappers had an East Coast-West Coast feud in the 1990s?",
+      "options": ["Jay-Z and Nas", "Eminem and Machine Gun Kelly", "Tupac Shakur and The Notorious B.I.G.", "Dr. Dre and Suge Knight"],
+      "correctAnswer": 2,
+      "explanation": "Tupac Shakur (West Coast) and The Notorious B.I.G. (Biggie Smalls, East Coast) were at the center of a rap feud in the mid-1990s. Both were tragically killed in separate drive-by shootings in 1996 and 1997.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-13",
+      "question": "What long-running political feud existed between U.S. Presidents John Adams and Thomas Jefferson?",
+      "options": ["They disagreed over slavery only", "They had opposing visions for the new nation's government", "They feuded over land rights", "They competed for the same woman"],
+      "correctAnswer": 1,
+      "explanation": "Adams (Federalist) favored a strong central government while Jefferson (Democratic-Republican) championed states' rights. Their feud lasted years, but remarkably, they reconciled in old age and both died on July 4, 1826.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-14",
+      "question": "Which famous literary feud saw Mark Twain openly criticize which other American author's writing?",
+      "options": ["Edgar Allan Poe", "James Fenimore Cooper", "Herman Melville", "Nathaniel Hawthorne"],
+      "correctAnswer": 1,
+      "explanation": "Mark Twain wrote a scathing essay called 'Fenimore Cooper's Literary Offences' (1895) criticizing James Fenimore Cooper's 'The Deerslayer' and 'The Last of the Mohicans' for literary violations and inaccuracies.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-feuds-15",
+      "question": "The Campbell and MacDonald clans in Scotland had a centuries-long feud. What infamous 1692 event marked its darkest chapter?",
+      "options": ["The Battle of Culloden", "The Massacre of Glencoe", "The Highland Clearances", "The Jacobite Rising"],
+      "correctAnswer": 1,
+      "explanation": "The Massacre of Glencoe on February 13, 1692, saw government soldiers (many of them Campbells) kill 38 members of the MacDonald clan while being hosted as guests. It remains one of the most notorious events in Scottish history.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

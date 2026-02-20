@@ -1,0 +1,98 @@
+{
+  "id": "world-national-parks",
+  "title": "World National Parks",
+  "description": "Famous national parks globally",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-national-parks-1",
+      "question": "Yellowstone, established in 1872, is widely considered the world's first national park. In which U.S. state is most of it located?",
+      "options": ["Montana", "Idaho", "Wyoming", "Colorado"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-2",
+      "question": "The Serengeti National Park, famous for its annual wildebeest migration, is located in which African country?",
+      "options": ["Kenya", "Tanzania", "South Africa", "Uganda"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-3",
+      "question": "Banff National Park, Canada's oldest national park, is located in which province?",
+      "options": ["British Columbia", "Alberta", "Saskatchewan", "Ontario"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-4",
+      "question": "Which national park in Arizona is known for its layered red rock formations revealing millions of years of geological history?",
+      "options": ["Zion National Park", "Bryce Canyon", "Grand Canyon National Park", "Arches National Park"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-5",
+      "question": "Kruger National Park, one of Africa's largest game reserves, is located in which country?",
+      "options": ["Botswana", "Zimbabwe", "South Africa", "Namibia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-6",
+      "question": "The Galápagos National Park protects unique wildlife on islands belonging to which country?",
+      "options": ["Peru", "Ecuador", "Colombia", "Chile"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-7",
+      "question": "Which U.S. national park is home to the tallest trees on Earth, the coastal redwoods?",
+      "options": ["Sequoia National Park", "Yosemite National Park", "Redwood National Park", "Olympic National Park"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-8",
+      "question": "Torres del Paine National Park, known for its dramatic granite peaks, is in which South American country?",
+      "options": ["Argentina", "Chile", "Peru", "Bolivia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-9",
+      "question": "Plitvice Lakes National Park, famous for its cascading lakes, is located in which European country?",
+      "options": ["Slovenia", "Bosnia", "Croatia", "Montenegro"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-10",
+      "question": "Which national park in Tanzania encompasses the highest peak in Africa?",
+      "options": ["Serengeti National Park", "Kilimanjaro National Park", "Ngorongoro Conservation Area", "Tarangire National Park"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-11",
+      "question": "Fiordland National Park, known for Milford Sound, is located in which country?",
+      "options": ["Norway", "Iceland", "New Zealand", "Canada"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-12",
+      "question": "The Great Smoky Mountains National Park, the most visited in the U.S., straddles the border of which two states?",
+      "options": ["Virginia and West Virginia", "North Carolina and Tennessee", "Georgia and South Carolina", "Kentucky and Virginia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-national-parks-13",
+      "question": "Jiuzhaigou Valley National Park, famous for its colorful lakes, is located in which country?",
+      "options": ["Japan", "South Korea", "China", "Vietnam"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-14",
+      "question": "Which U.S. national park contains the geyser known as Old Faithful?",
+      "options": ["Glacier National Park", "Grand Teton National Park", "Yellowstone National Park", "Rocky Mountain National Park"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-national-parks-15",
+      "question": "Kakadu National Park, home to ancient Aboriginal rock art, is located in which country?",
+      "options": ["Papua New Guinea", "Indonesia", "New Zealand", "Australia"],
+      "correctAnswer": 3
+    }
+  ]
+}

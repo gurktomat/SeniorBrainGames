@@ -1,0 +1,98 @@
+{
+  "id": "spoonerisms-quiz",
+  "title": "Spoonerisms Quiz",
+  "description": "Identify or correct funny spoonerisms where initial sounds of words get swapped",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "spoonerisms-quiz-1",
+      "question": "The spoonerism 'a blushing crow' is a mix-up of which phrase?",
+      "options": ["A brushing claw", "A crushing blow", "A blushing glow", "A rushing flow"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-2",
+      "question": "What was the intended phrase when someone said 'you have hissed all my mystery lectures'?",
+      "options": ["You have kissed all my history lectures", "You have missed all my history lectures", "You have listed all my mystery lectures", "You have dissed all my history lectures"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-3",
+      "question": "The spoonerism 'a well-boiled icicle' is a mix-up of what phrase?",
+      "options": ["A well-soiled article", "A well-oiled bicycle", "A well-foiled obstacle", "A well-coiled popsicle"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-4",
+      "question": "If someone says 'let me sew you to your sheet,' what did they actually mean?",
+      "options": ["Let me sew you a new sheet", "Let me show you to your seat", "Let me stew you some wheat", "Let me few you to your fleet"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-5",
+      "question": "What is the correct phrase for the spoonerism 'a lack of pies'?",
+      "options": ["A stack of lies", "A pack of lies", "A rack of pies", "A back of flies"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-6",
+      "question": "The spoonerism 'fight in your race' should actually be which phrase?",
+      "options": ["Might in your place", "Right in your face", "Light in your space", "Sight in your grace"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-7",
+      "question": "What common phrase becomes 'belly jeans' when spoonerized?",
+      "options": ["Smelly beans", "Jelly beans", "Telly screens", "Deli greens"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-8",
+      "question": "The spoonerism 'tease my ears' is a mix-up of which phrase?",
+      "options": ["Please my dears", "Ease my tears", "Seize my years", "Freeze my beers"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-9",
+      "question": "If someone says 'a nosey little cook,' what phrase were they trying to say?",
+      "options": ["A cozy little nook", "A rosy little brook", "A dozy little rook", "A posy little hook"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "spoonerisms-quiz-10",
+      "question": "What is the correct version of the spoonerism 'go and shake a tower'?",
+      "options": ["Go and bake a flower", "Go and take a shower", "Go and make a power", "Go and wake a mower"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-11",
+      "question": "The spoonerism 'a half-warmed fish' was meant to be which phrase?",
+      "options": ["A half-formed wish", "A half-charmed bliss", "A half-armed fist", "A half-farmed dish"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "spoonerisms-quiz-12",
+      "question": "What does 'save the wails' become when the spoonerism is corrected?",
+      "options": ["Pave the trails", "Wave the sails", "Brave the rails", "Wave the tails"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-13",
+      "question": "The spoonerism 'tons of soil' is a swap of which phrase?",
+      "options": ["Bons of toil", "Sons of toil", "Cons of foil", "Dons of coil"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-14",
+      "question": "If someone accidentally says 'bad salad,' which common phrase did they spoonerize?",
+      "options": ["Mad ballad", "Sad ballad", "Glad pallid", "Pad valid"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "spoonerisms-quiz-15",
+      "question": "The spoonerism 'flutter by' is a charming swap of which word?",
+      "options": ["Gutter fly", "Butter fly", "Cutter shy", "Mutter sly"],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "famous-duels",
+  "title": "Famous Duels",
+  "description": "Historic duels and rivalries",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-duels-1",
+      "question": "In 1804, which two American political figures fought a famous duel that resulted in one's death?",
+      "options": ["Thomas Jefferson and John Adams", "Aaron Burr and Alexander Hamilton", "Andrew Jackson and Charles Dickinson", "James Monroe and John Adams"],
+      "correctAnswer": 1,
+      "explanation": "On July 11, 1804, Vice President Aaron Burr shot and mortally wounded former Treasury Secretary Alexander Hamilton in a duel at Weehawken, New Jersey. Hamilton died the following day.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-2",
+      "question": "Which famous Russian poet was killed in a duel in 1837?",
+      "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Alexander Pushkin", "Anton Chekhov"],
+      "correctAnswer": 2,
+      "explanation": "Alexander Pushkin, considered the father of Russian literature, was mortally wounded in a duel with Georges-Charles de Heeckeren d'Anthès on January 27, 1837. The duel was fought over Pushkin's wife.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-3",
+      "question": "Before becoming president, Andrew Jackson was known for fighting in approximately how many duels?",
+      "options": ["3 duels", "5 duels", "13 duels", "Over 100 duels"],
+      "correctAnswer": 2,
+      "explanation": "Andrew Jackson reportedly participated in as many as 13 duels during his lifetime. He carried bullets in his body from at least two of these encounters for the rest of his life.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-4",
+      "question": "In what country did the tradition of formal dueling with swords originate during the Renaissance?",
+      "options": ["France", "Italy", "Spain", "England"],
+      "correctAnswer": 1,
+      "explanation": "The formalized code of dueling originated in Italy during the Renaissance, particularly through the publication of dueling codes of honor. The practice then spread throughout Europe in the 16th century.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-5",
+      "question": "Which French mathematician was killed in a duel at the age of 20, the night after writing down groundbreaking mathematical discoveries?",
+      "options": ["Blaise Pascal", "Pierre de Fermat", "Évariste Galois", "Henri Poincaré"],
+      "correctAnswer": 2,
+      "explanation": "Évariste Galois was killed in a duel on May 30, 1832, at age 20. The night before, he frantically wrote down his mathematical theories, which became foundational to modern algebra (Galois theory).",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-6",
+      "question": "What weapon was traditionally used in the most famous American duels of the 18th and 19th centuries?",
+      "options": ["Swords", "Rifles", "Flintlock pistols", "Sabers"],
+      "correctAnswer": 2,
+      "explanation": "Flintlock pistols were the weapon of choice for American duels. Pairs of matched dueling pistols were specially made for the purpose, designed to be as identical as possible to ensure fairness.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-7",
+      "question": "What was the role of a 'second' in a formal duel?",
+      "options": ["The backup fighter if the first fell", "A witness and negotiator who tried to resolve the dispute", "The person who fired the starting shot", "The doctor who tended the wounded"],
+      "correctAnswer": 1,
+      "explanation": "A 'second' served as an assistant, witness, and negotiator. Their primary duty was to try to resolve the dispute without violence. They also ensured the duel was conducted honorably and fairly.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-8",
+      "question": "Which legendary Wild West gunfight took place at (near) the O.K. Corral in Tombstone, Arizona?",
+      "options": ["The Lincoln County War", "The Earp-Clanton shootout", "The James-Younger gang standoff", "The Dodge City War"],
+      "correctAnswer": 1,
+      "explanation": "The Gunfight at the O.K. Corral on October 26, 1881, pitted Wyatt Earp, his brothers Virgil and Morgan, and Doc Holliday against the Clanton-McLaury gang. The entire fight lasted about 30 seconds.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-9",
+      "question": "Which country was the last in Western Europe to officially ban dueling?",
+      "options": ["France", "Germany", "Italy", "Spain"],
+      "correctAnswer": 0,
+      "explanation": "France was among the last Western European nations where dueling persisted into the 20th century. The last known fatal duel in France occurred in 1967 between two politicians, Gaston Defferre and René Ribière.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-10",
+      "question": "In the famous rivalry between Thomas Edison and Nikola Tesla, what was the central disagreement?",
+      "options": ["Who invented the telephone", "AC versus DC electrical systems", "Who invented the lightbulb", "Radio wave technology"],
+      "correctAnswer": 1,
+      "explanation": "The 'War of Currents' pitted Edison's direct current (DC) system against Tesla's alternating current (AC) system. Tesla's AC system ultimately prevailed as it could transmit electricity over much longer distances.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-11",
+      "question": "Which famous French Cardinal was known for banning dueling in France in the 17th century?",
+      "options": ["Cardinal Mazarin", "Cardinal Richelieu", "Cardinal de Retz", "Cardinal Fleury"],
+      "correctAnswer": 1,
+      "explanation": "Cardinal Richelieu, chief minister to King Louis XIII, issued strict edicts against dueling in the 1620s. Despite the ban, dueling continued among the French nobility, as depicted in 'The Three Musketeers.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-12",
+      "question": "Which English playwright and spy was killed in a fight (possibly a duel) in 1593 at the age of 29?",
+      "options": ["Ben Jonson", "Christopher Marlowe", "John Webster", "Thomas Kyd"],
+      "correctAnswer": 1,
+      "explanation": "Christopher Marlowe, author of 'Doctor Faustus' and contemporary of Shakespeare, was stabbed to death on May 30, 1593, in Deptford, England. The circumstances remain debated by historians.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-13",
+      "question": "In Japanese samurai culture, what was the formal name for a duel between two warriors?",
+      "options": ["Seppuku", "Bushido", "Ketto", "Harakiri"],
+      "correctAnswer": 2,
+      "explanation": "Ketto was the Japanese term for a formal duel between samurai. The most famous is probably the 1612 duel between Miyamoto Musashi and Sasaki Kojiro on Ganryu Island.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-14",
+      "question": "Which legendary Japanese swordsman is said to have fought over 60 duels without ever losing?",
+      "options": ["Sasaki Kojiro", "Oda Nobunaga", "Miyamoto Musashi", "Tokugawa Ieyasu"],
+      "correctAnswer": 2,
+      "explanation": "Miyamoto Musashi (c. 1584-1645) is said to have fought in over 60 duels, winning them all. He later wrote 'The Book of Five Rings,' a classic text on martial arts strategy and philosophy.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-duels-15",
+      "question": "What U.S. President, while serving as a general, nearly fought a duel with the military governor of California during the Mexican-American War?",
+      "options": ["Ulysses S. Grant", "Zachary Taylor", "Abraham Lincoln", "James K. Polk"],
+      "correctAnswer": 0,
+      "explanation": "Ulysses S. Grant had several encounters with conflict during his military career. Abraham Lincoln, interestingly, also nearly fought a duel with James Shields in 1842 with broadswords before it was called off.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "classic-adventure-movies",
+  "title": "Classic Adventure Movies",
+  "description": "Epic adventure films from the golden era",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-adventure-movies-1",
+      "question": "Which 1939 adventure film, starring Errol Flynn, is considered one of the greatest swashbuckler films ever made?",
+      "options": ["The Sea Hawk", "Captain Blood", "The Adventures of Robin Hood", "The Mark of Zorro"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-2",
+      "question": "In the 1962 epic 'Lawrence of Arabia,' who played the title role of T.E. Lawrence?",
+      "options": ["Charlton Heston", "Peter O'Toole", "Richard Burton", "Gregory Peck"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-3",
+      "question": "Which 1959 epic adventure film won 11 Academy Awards, a record that stood for decades?",
+      "options": ["Spartacus", "The Ten Commandments", "Ben-Hur", "Cleopatra"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-4",
+      "question": "What actor starred as Indiana Jones in 'Raiders of the Lost Ark' (1981)?",
+      "options": ["Tom Selleck", "Harrison Ford", "Kurt Russell", "Mel Gibson"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-5",
+      "question": "Which 1954 adventure film, based on Jules Verne's novel, featured Kirk Douglas singing and battling a giant squid?",
+      "options": ["Journey to the Center of the Earth", "Around the World in 80 Days", "20,000 Leagues Under the Sea", "The Time Machine"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-6",
+      "question": "What 1956 Cecil B. DeMille epic starred Charlton Heston as Moses?",
+      "options": ["Ben-Hur", "El Cid", "The Ten Commandments", "The Robe"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-7",
+      "question": "Which 1963 adventure comedy featured a huge ensemble cast racing to find buried treasure?",
+      "options": ["The Great Race", "Those Magnificent Men in Their Flying Machines", "It's a Mad, Mad, Mad, Mad World", "Around the World in 80 Days"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-8",
+      "question": "What classic adventure film, based on a Robert Louis Stevenson novel, features a one-legged pirate named Long John Silver?",
+      "options": ["Captain Blood", "The Black Swan", "Treasure Island", "Mutiny on the Bounty"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-9",
+      "question": "Which 1975 Steven Spielberg film about a great white shark terrorizing a beach town became the first summer blockbuster?",
+      "options": ["The Deep", "Jaws", "Orca", "The Poseidon Adventure"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-10",
+      "question": "What 1960 adventure film starred Steve McQueen, Yul Brynner, and five other gunslingers defending a Mexican village?",
+      "options": ["The Good, the Bad and the Ugly", "The Magnificent Seven", "Butch Cassidy and the Sundance Kid", "True Grit"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-11",
+      "question": "Which 1935 adventure film starred Clark Gable and Charles Laughton in a story about a naval rebellion?",
+      "options": ["Treasure Island", "Captain Blood", "Mutiny on the Bounty", "The Sea Hawk"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-adventure-movies-12",
+      "question": "What 1977 science fiction adventure film, directed by George Lucas, featured Luke Skywalker, Han Solo, and Princess Leia?",
+      "options": ["Close Encounters of the Third Kind", "Star Wars", "Star Trek: The Motion Picture", "Superman"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-13",
+      "question": "Which actor played Tarzan in a series of popular adventure films starting in 1932?",
+      "options": ["Buster Crabbe", "Johnny Weissmuller", "Gordon Scott", "Lex Barker"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-adventure-movies-14",
+      "question": "What 1956 film adaptation of a Jules Verne novel followed Phileas Fogg's journey 'Around the World in 80 Days' and won Best Picture?",
+      "options": ["Around the World in 80 Days", "Journey to the Center of the Earth", "Five Weeks in a Balloon", "Master of the World"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-adventure-movies-15",
+      "question": "Which 1965 David Lean epic, starring Omar Sharif and Julie Christie, is set against the backdrop of the Russian Revolution?",
+      "options": ["Lawrence of Arabia", "The Bridge on the River Kwai", "Doctor Zhivago", "A Passage to India"],
+      "correctAnswer": 2
+    }
+  ]
+}

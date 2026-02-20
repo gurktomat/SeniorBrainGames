@@ -1,0 +1,98 @@
+{
+  "id": "classic-cartoon-characters",
+  "title": "Classic Cartoon Characters",
+  "description": "Iconic cartoon characters through the decades",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-cartoon-characters-1",
+      "question": "What was the name of Mickey Mouse's first synchronized sound cartoon, released in 1928?",
+      "options": ["Plane Crazy", "Steamboat Willie", "The Barn Dance", "Fantasia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-2",
+      "question": "Which Looney Tunes character is known for saying 'What's up, Doc?'",
+      "options": ["Daffy Duck", "Porky Pig", "Bugs Bunny", "Elmer Fudd"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-cartoon-characters-3",
+      "question": "What cartoon cat endlessly chased a clever mouse in a series of animated shorts starting in 1940?",
+      "options": ["Sylvester", "Felix the Cat", "Tom (from Tom and Jerry)", "Garfield"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-cartoon-characters-4",
+      "question": "Which Hanna-Barbera cartoon, premiering in 1960, featured a modern Stone Age family?",
+      "options": ["The Jetsons", "The Flintstones", "Top Cat", "Yogi Bear"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-5",
+      "question": "What is the name of Popeye's love interest in the classic cartoons?",
+      "options": ["Betty Boop", "Olive Oyl", "Daisy Mae", "Sweet Pea"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-6",
+      "question": "Which cartoon character, created by Tex Avery for Warner Bros., is a fast-running bird that constantly outsmarts Wile E. Coyote?",
+      "options": ["Speedy Gonzales", "Road Runner", "Tweety Bird", "Woody Woodpecker"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-7",
+      "question": "What was the name of Fred Flintstone's best friend and neighbor?",
+      "options": ["Barney Rubble", "Bam-Bam", "Mr. Slate", "The Great Gazoo"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-cartoon-characters-8",
+      "question": "Which cartoon bear was 'smarter than the average bear' and lived in Jellystone Park?",
+      "options": ["Baloo", "Paddington", "Smokey Bear", "Yogi Bear"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-cartoon-characters-9",
+      "question": "In the Peanuts comic strip and TV specials, what is the name of Charlie Brown's pet beagle?",
+      "options": ["Pluto", "Odie", "Snoopy", "Goofy"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-cartoon-characters-10",
+      "question": "Which Hanna-Barbera cartoon featured a Great Dane and a group of teenagers solving mysteries?",
+      "options": ["Jonny Quest", "Speed Buggy", "Scooby-Doo, Where Are You!", "The Funky Phantom"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-cartoon-characters-11",
+      "question": "What was the name of the spinach-eating sailor man created by E.C. Segar in 1929?",
+      "options": ["Bluto", "Popeye", "Sindbad", "Barnacle Bill"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-12",
+      "question": "Which space-age family cartoon, created by Hanna-Barbera in 1962, was set in the future?",
+      "options": ["The Flintstones", "The Jetsons", "Space Ghost", "Jonny Quest"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-13",
+      "question": "What Looney Tunes character stammered 'Th-th-th-that's all, folks!' at the end of cartoons?",
+      "options": ["Daffy Duck", "Elmer Fudd", "Bugs Bunny", "Porky Pig"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-cartoon-characters-14",
+      "question": "Which cat-and-bird duo from Looney Tunes featured a lisping cat chasing a small yellow canary?",
+      "options": ["Tom and Jerry", "Sylvester and Tweety", "Heckle and Jeckle", "Chip and Dale"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-cartoon-characters-15",
+      "question": "What schoolteacher cartoon character, featured in a series of educational shorts for Disney, was known for his absent-mindedness?",
+      "options": ["Goofy", "Professor Ludwig Von Drake", "Mr. Magoo", "Professor Owl"],
+      "correctAnswer": 2
+    }
+  ]
+}

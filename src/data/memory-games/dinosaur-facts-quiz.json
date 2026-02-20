@@ -1,0 +1,98 @@
+{
+  "id": "dinosaur-facts-quiz",
+  "title": "Dinosaur Facts Quiz",
+  "description": "Match dinosaurs to their characteristics and era",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "dinosaur-facts-quiz-1",
+      "question": "Which massive dinosaur was one of the largest land animals ever, had a very long neck and tail, and was an herbivore from the Late Jurassic period?",
+      "options": ["Stegosaurus", "Brachiosaurus", "Triceratops", "Ankylosaurus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-2",
+      "question": "Which fearsome predator from the Late Cretaceous period had tiny arms, enormous jaws, and is often called the 'king of the dinosaurs'?",
+      "options": ["Allosaurus", "Spinosaurus", "Velociraptor", "Tyrannosaurus Rex"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dinosaur-facts-quiz-3",
+      "question": "Which herbivore had three horns on its face, a large bony frill, and lived during the Late Cretaceous period?",
+      "options": ["Stegosaurus", "Pachycephalosaurus", "Triceratops", "Styracosaurus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-4",
+      "question": "Which dinosaur had large bony plates along its back and spikes on its tail, and lived during the Late Jurassic period?",
+      "options": ["Ankylosaurus", "Stegosaurus", "Iguanodon", "Parasaurolophus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-5",
+      "question": "Which small, feathered dinosaur from the Late Cretaceous was a swift predator with a sickle-shaped claw on each foot?",
+      "options": ["Compsognathus", "Velociraptor", "Deinonychus", "Archaeopteryx"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-6",
+      "question": "Which flying reptile (not technically a dinosaur) had a wingspan of up to 36 feet, making it one of the largest flying animals ever?",
+      "options": ["Pteranodon", "Quetzalcoatlus", "Dimorphodon", "Rhamphorhynchus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-7",
+      "question": "Which duck-billed dinosaur had a distinctive long, curved crest on its head that may have been used to produce sounds?",
+      "options": ["Edmontosaurus", "Maiasaura", "Parasaurolophus", "Corythosaurus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-8",
+      "question": "Which heavily armored dinosaur had a large club at the end of its tail and lived during the Late Cretaceous period?",
+      "options": ["Stegosaurus", "Ankylosaurus", "Nodosaurus", "Polacanthus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-9",
+      "question": "Which dinosaur is often considered the earliest known bird, had feathered wings, and lived during the Late Jurassic period?",
+      "options": ["Velociraptor", "Microraptor", "Archaeopteryx", "Confuciusornis"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-10",
+      "question": "Which large predatory dinosaur from North Africa had a sail-like structure on its back and may have been semi-aquatic?",
+      "options": ["Carnotaurus", "Giganotosaurus", "Spinosaurus", "Baryonyx"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-11",
+      "question": "During which geological era did dinosaurs first appear on Earth?",
+      "options": ["Paleozoic Era", "Triassic Period of the Mesozoic Era", "Jurassic Period of the Mesozoic Era", "Cretaceous Period of the Mesozoic Era"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-12",
+      "question": "Which dinosaur's name means 'terrible lizard' and was the term coined in 1842 by Sir Richard Owen to describe these ancient reptiles?",
+      "options": ["Megalosaurus", "Dinosauria (the group name)", "Iguanodon", "Hylaeosaurus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dinosaur-facts-quiz-13",
+      "question": "Which dome-headed dinosaur is believed to have used its thick skull for head-butting contests?",
+      "options": ["Triceratops", "Stygimoloch", "Pachycephalosaurus", "Dracorex"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-14",
+      "question": "Approximately how many years ago did the mass extinction event occur that wiped out the non-avian dinosaurs?",
+      "options": ["250 million years ago", "145 million years ago", "66 million years ago", "35 million years ago"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dinosaur-facts-quiz-15",
+      "question": "Which dinosaur, whose name means 'good mother lizard,' was one of the first found with evidence of nesting behavior and parental care?",
+      "options": ["Oviraptor", "Maiasaura", "Protoceratops", "Citipati"],
+      "correctAnswer": 1
+    }
+  ]
+}

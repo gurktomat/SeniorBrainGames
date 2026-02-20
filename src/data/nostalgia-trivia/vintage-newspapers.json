@@ -1,0 +1,98 @@
+{
+  "id": "vintage-newspapers",
+  "title": "Vintage Newspapers",
+  "description": "Historic headlines and newspaper history",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-newspapers-1",
+      "question": "Which newspaper famously ran the premature headline 'Dewey Defeats Truman' in 1948?",
+      "options": ["New York Times", "Chicago Daily Tribune", "Washington Post", "Los Angeles Times"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-2",
+      "question": "Two reporters from which newspaper broke the Watergate story that led to President Nixon's resignation?",
+      "options": ["New York Times", "Washington Post", "Chicago Tribune", "Los Angeles Times"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-3",
+      "question": "What were the names of the two Washington Post reporters who investigated the Watergate scandal?",
+      "options": ["Bernstein and Woodward", "Cronkite and Rather", "Murrow and Friendly", "Bradlee and Graham"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-newspapers-4",
+      "question": "The New York Daily News ran the famous front-page photo of Ruth Snyder's execution in 1928 with what one-word headline?",
+      "options": ["Guilty", "Dead!", "Justice", "Executed"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-5",
+      "question": "William Randolph Hearst, a powerful newspaper publisher, is widely believed to have inspired which Orson Welles film?",
+      "options": ["The Magnificent Ambersons", "Citizen Kane", "The Third Man", "Touch of Evil"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-6",
+      "question": "Which New York newspaper, founded in 1851, adopted the motto 'All the News That's Fit to Print'?",
+      "options": ["New York Post", "New York Herald", "New York Times", "New York Daily News"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-newspapers-7",
+      "question": "The Pentagon Papers, secret government documents about the Vietnam War, were first published in 1971 by which newspaper?",
+      "options": ["Washington Post", "New York Times", "Wall Street Journal", "Boston Globe"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-8",
+      "question": "Which type of sensationalist journalism, named after a cartoon character, was practiced by Hearst and Pulitzer in the 1890s?",
+      "options": ["Red journalism", "Yellow journalism", "Tabloid journalism", "Muckraking"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-9",
+      "question": "On July 21, 1969, newspapers worldwide reported on which historic event with headlines like 'Man Walks on Moon'?",
+      "options": ["First satellite launch", "Apollo 11 moon landing", "First space shuttle launch", "Gemini spacewalk"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-10",
+      "question": "The New York Sun's 1897 editorial responding to a little girl's letter created which famous phrase about Santa Claus?",
+      "options": ["Believe in the magic", "Yes, Virginia, there is a Santa Claus", "Santa is real", "Keep the faith, Virginia"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-11",
+      "question": "What was the name of the comic strip section that became a beloved feature of Sunday newspapers?",
+      "options": ["The Comics Page", "The Sunday Funnies", "The Cartoon Corner", "The Laugh Section"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-12",
+      "question": "After the Titanic sank in 1912, many newspapers initially reported what inaccurate claim?",
+      "options": ["The ship was unsinkable", "All passengers were saved", "The iceberg was man-made", "The ship reached New York safely"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-13",
+      "question": "Which newspaper magnate competed with William Randolph Hearst in the circulation wars of the 1890s?",
+      "options": ["Adolph Ochs", "Joseph Pulitzer", "Henry Luce", "Robert McCormick"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-newspapers-14",
+      "question": "The phrase 'Extra! Extra! Read all about it!' was traditionally shouted by which newspaper workers?",
+      "options": ["Editors", "Reporters", "Newsboys", "Printers"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-newspapers-15",
+      "question": "The famous VJ Day headline 'Japan Surrenders' appeared in newspapers on August 15 of which year?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -55,6 +55,31 @@ import retroSchoolDays from "@/data/nostalgia-trivia/retro-school-days.json";
 import vintageHolidayTraditions from "@/data/nostalgia-trivia/vintage-holiday-traditions.json";
 import classicSoapOperas from "@/data/nostalgia-trivia/classic-soap-operas.json";
 import famousTvCatchphrases from "@/data/nostalgia-trivia/famous-tv-catchphrases.json";
+import classicJazzMusic from "@/data/nostalgia-trivia/classic-jazz-music.json";
+import vintageTelevisionAds from "@/data/nostalgia-trivia/vintage-television-ads.json";
+import retroCampingOutdoors from "@/data/nostalgia-trivia/retro-camping-outdoors.json";
+import classicRomanceMovies from "@/data/nostalgia-trivia/classic-romance-movies.json";
+import vintageTrains from "@/data/nostalgia-trivia/vintage-trains.json";
+import retroToysDolls from "@/data/nostalgia-trivia/retro-toys-dolls.json";
+import classicHorrorMovies from "@/data/nostalgia-trivia/classic-horror-movies.json";
+import vintageNewspapers from "@/data/nostalgia-trivia/vintage-newspapers.json";
+import retroBicycles from "@/data/nostalgia-trivia/retro-bicycles.json";
+import classicComedyDuos from "@/data/nostalgia-trivia/classic-comedy-duos.json";
+import vintageJewelryFashion from "@/data/nostalgia-trivia/vintage-jewelry-fashion.json";
+import classicChristmasSpecials from "@/data/nostalgia-trivia/classic-christmas-specials.json";
+import retroBeachCulture from "@/data/nostalgia-trivia/retro-beach-culture.json";
+import classicAnimatedMovies from "@/data/nostalgia-trivia/classic-animated-movies.json";
+import vintageKitchenGadgets from "@/data/nostalgia-trivia/vintage-kitchen-gadgets.json";
+import classicMysteryNovels from "@/data/nostalgia-trivia/classic-mystery-novels.json";
+import retroStateFairs from "@/data/nostalgia-trivia/retro-state-fairs.json";
+import classicSwingMusic from "@/data/nostalgia-trivia/classic-swing-music.json";
+import vintageLunchBoxes from "@/data/nostalgia-trivia/vintage-lunch-boxes.json";
+import retroDriveInRestaurants from "@/data/nostalgia-trivia/retro-drive-in-restaurants.json";
+import classicCartoonCharacters from "@/data/nostalgia-trivia/classic-cartoon-characters.json";
+import vintagePostcards from "@/data/nostalgia-trivia/vintage-postcards.json";
+import retroPetTrends from "@/data/nostalgia-trivia/retro-pet-trends.json";
+import classicAdventureMovies from "@/data/nostalgia-trivia/classic-adventure-movies.json";
+import vintageRadios from "@/data/nostalgia-trivia/vintage-radios.json";
 import classicCountryMusic from "@/data/nostalgia-trivia/classic-country-music.json";
 import vintageBoardGames from "@/data/nostalgia-trivia/vintage-board-games.json";
 import retroCandyBars from "@/data/nostalgia-trivia/retro-candy-bars.json";
@@ -135,6 +160,31 @@ import famousMonuments from "@/data/general-knowledge/famous-monuments.json";
 import earthScience from "@/data/general-knowledge/earth-science.json";
 import mythologyLegends from "@/data/general-knowledge/mythology-legends.json";
 import famousLibrariesMuseums from "@/data/general-knowledge/famous-libraries-museums.json";
+import worldHeritageSites from "@/data/general-knowledge/world-heritage-sites.json";
+import famousTrials from "@/data/general-knowledge/famous-trials.json";
+import worldCanals from "@/data/general-knowledge/world-canals.json";
+import famousLastWords from "@/data/general-knowledge/famous-last-words.json";
+import worldCaves from "@/data/general-knowledge/world-caves.json";
+import famousSiblings from "@/data/general-knowledge/famous-siblings.json";
+import worldLakes from "@/data/general-knowledge/world-lakes.json";
+import famousHistoricalEvents from "@/data/general-knowledge/famous-historical-events.json";
+import worldNationalParks from "@/data/general-knowledge/world-national-parks.json";
+import famousRobberies from "@/data/general-knowledge/famous-robberies.json";
+import spaceExplorationMissions from "@/data/general-knowledge/space-exploration-missions.json";
+import famousHoaxes from "@/data/general-knowledge/famous-hoaxes.json";
+import famousArchaeologicalFinds from "@/data/general-knowledge/famous-archaeological-finds.json";
+import animalKingdomFacts from "@/data/general-knowledge/animal-kingdom-facts.json";
+import plantKingdomFacts from "@/data/general-knowledge/plant-kingdom-facts.json";
+import oceanDepths from "@/data/general-knowledge/ocean-depths.json";
+import climateZones from "@/data/general-knowledge/climate-zones.json";
+import famousEscapes from "@/data/general-knowledge/famous-escapes.json";
+import worldRecordHolders from "@/data/general-knowledge/world-record-holders.json";
+import famousDuels from "@/data/general-knowledge/famous-duels.json";
+import worldTradeRoutes from "@/data/general-knowledge/world-trade-routes.json";
+import famousCodesCiphers from "@/data/general-knowledge/famous-codes-ciphers.json";
+import solarSystemFacts from "@/data/general-knowledge/solar-system-facts.json";
+import famousFeuds from "@/data/general-knowledge/famous-feuds.json";
+import worldLighthouses from "@/data/general-knowledge/world-lighthouses.json";
 import desertLandscapes from "@/data/general-knowledge/desert-landscapes.json";
 import volcanicWonders from "@/data/general-knowledge/volcanic-wonders.json";
 import famousRivers from "@/data/general-knowledge/famous-rivers.json";
@@ -205,6 +255,31 @@ import sportsLingo from "@/data/word-games/sports-lingo.json";
 import kitchenVocabulary from "@/data/word-games/kitchen-vocabulary.json";
 import travelVocabulary from "@/data/word-games/travel-vocabulary.json";
 import natureVocabulary from "@/data/word-games/nature-vocabulary.json";
+import spoonerismQuiz from "@/data/word-games/spoonerisms-quiz.json";
+import malapropismQuiz from "@/data/word-games/malapropisms-quiz.json";
+import cockneyRhymingSlang from "@/data/word-games/cockney-rhyming-slang.json";
+import australianSlang from "@/data/word-games/australian-slang.json";
+import southernExpressions from "@/data/word-games/southern-expressions.json";
+import theaterVocabulary from "@/data/word-games/theater-vocabulary.json";
+import wineVocabulary from "@/data/word-games/wine-vocabulary.json";
+import architectureTerms from "@/data/word-games/architecture-terms.json";
+import musicTheoryTerms from "@/data/word-games/music-theory-terms.json";
+import photographyTerms from "@/data/word-games/photography-terms.json";
+import cookingTechniques from "@/data/word-games/cooking-techniques.json";
+import danceVocabulary from "@/data/word-games/dance-vocabulary.json";
+import geologyVocabulary from "@/data/word-games/geology-vocabulary.json";
+import aviationTerms from "@/data/word-games/aviation-terms.json";
+import botanicalTerms from "@/data/word-games/botanical-terms.json";
+import zoologyTerms from "@/data/word-games/zoology-terms.json";
+import archaeologyTerms from "@/data/word-games/archaeology-terms.json";
+import printingTerms from "@/data/word-games/printing-terms.json";
+import maritimeExpressions from "@/data/word-games/maritime-expressions.json";
+import horseRidingTerms from "@/data/word-games/horse-riding-terms.json";
+import chessVocabulary from "@/data/word-games/chess-vocabulary.json";
+import textileTerms from "@/data/word-games/textile-terms.json";
+import weatherVocabulary from "@/data/word-games/weather-vocabulary.json";
+import irishExpressions from "@/data/word-games/irish-expressions.json";
+import scottishWords from "@/data/word-games/scottish-words.json";
 import alliterationQuiz from "@/data/word-games/alliteration-quiz.json";
 import oxymoronsQuiz from "@/data/word-games/oxymorons-quiz.json";
 import similesQuiz from "@/data/word-games/similes-quiz.json";
@@ -252,6 +327,31 @@ import twoTruthsOneLie from "@/data/memory-games/two-truths-one-lie.json";
 import rememberTheYear from "@/data/memory-games/remember-the-year.json";
 import everydayMemoryTest from "@/data/memory-games/everyday-memory-test.json";
 import rapidRecall from "@/data/memory-games/rapid-recall.json";
+import stateFlagsQuiz from "@/data/memory-games/state-flags-quiz.json";
+import birdIdentification from "@/data/memory-games/bird-identification.json";
+import treeIdentification from "@/data/memory-games/tree-identification.json";
+import cloudTypesQuiz from "@/data/memory-games/cloud-types-quiz.json";
+import instrumentSoundsQuiz from "@/data/memory-games/instrument-sounds-quiz.json";
+import gemstoneIdentification from "@/data/memory-games/gemstone-identification.json";
+import dogBreedsQuiz from "@/data/memory-games/dog-breeds-quiz.json";
+import catBreedsQuiz from "@/data/memory-games/cat-breeds-quiz.json";
+import dinosaurFactsQuiz from "@/data/memory-games/dinosaur-facts-quiz.json";
+import spaceMissionsRecall from "@/data/memory-games/space-missions-recall.json";
+import vitaminMineralsQuiz from "@/data/memory-games/vitamin-minerals-quiz.json";
+import boneNamesQuiz from "@/data/memory-games/bone-names-quiz.json";
+import organFunctionsQuiz from "@/data/memory-games/organ-functions-quiz.json";
+import mapSymbolsQuiz from "@/data/memory-games/map-symbols-quiz.json";
+import artMovementsQuiz from "@/data/memory-games/art-movements-quiz.json";
+import fabricTypesQuiz from "@/data/memory-games/fabric-types-quiz.json";
+import carLogosQuiz from "@/data/memory-games/car-logos-quiz.json";
+import countryShapesQuiz from "@/data/memory-games/country-shapes-quiz.json";
+import famousBattlesRecall from "@/data/memory-games/famous-battles-recall.json";
+import olympicHostCities from "@/data/memory-games/olympic-host-cities.json";
+import weatherSymbolsQuiz from "@/data/memory-games/weather-symbols-quiz.json";
+import musicNotesQuiz from "@/data/memory-games/music-notes-quiz.json";
+import danceStylesQuiz from "@/data/memory-games/dance-styles-quiz.json";
+import worldCapitalsExtreme from "@/data/memory-games/world-capitals-extreme.json";
+import famousPaintingsRecall from "@/data/memory-games/famous-paintings-recall.json";
 import historicalDates from "@/data/memory-games/historical-dates.json";
 import flagIdentification from "@/data/memory-games/flag-identification.json";
 import animalClassification from "@/data/memory-games/animal-classification.json";
@@ -383,6 +483,31 @@ const nostalgiaTrivia: Quiz[] = [
   retroJukeboxes as Quiz,
   classicMusicals as Quiz,
   classicWesternsTv as Quiz,
+  classicJazzMusic as Quiz,
+  vintageTelevisionAds as Quiz,
+  retroCampingOutdoors as Quiz,
+  classicRomanceMovies as Quiz,
+  vintageTrains as Quiz,
+  retroToysDolls as Quiz,
+  classicHorrorMovies as Quiz,
+  vintageNewspapers as Quiz,
+  retroBicycles as Quiz,
+  classicComedyDuos as Quiz,
+  vintageJewelryFashion as Quiz,
+  classicChristmasSpecials as Quiz,
+  retroBeachCulture as Quiz,
+  classicAnimatedMovies as Quiz,
+  vintageKitchenGadgets as Quiz,
+  classicMysteryNovels as Quiz,
+  retroStateFairs as Quiz,
+  classicSwingMusic as Quiz,
+  vintageLunchBoxes as Quiz,
+  retroDriveInRestaurants as Quiz,
+  classicCartoonCharacters as Quiz,
+  vintagePostcards as Quiz,
+  retroPetTrends as Quiz,
+  classicAdventureMovies as Quiz,
+  vintageRadios as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -464,6 +589,31 @@ const generalKnowledge: Quiz[] = [
   worldReligions as Quiz,
   famousInventionsHistory as Quiz,
   worldCapitalsAdvanced as Quiz,
+  worldHeritageSites as Quiz,
+  famousTrials as Quiz,
+  worldCanals as Quiz,
+  famousLastWords as Quiz,
+  worldCaves as Quiz,
+  famousSiblings as Quiz,
+  worldLakes as Quiz,
+  famousHistoricalEvents as Quiz,
+  worldNationalParks as Quiz,
+  famousRobberies as Quiz,
+  spaceExplorationMissions as Quiz,
+  famousHoaxes as Quiz,
+  famousArchaeologicalFinds as Quiz,
+  animalKingdomFacts as Quiz,
+  plantKingdomFacts as Quiz,
+  oceanDepths as Quiz,
+  climateZones as Quiz,
+  famousEscapes as Quiz,
+  worldRecordHolders as Quiz,
+  famousDuels as Quiz,
+  worldTradeRoutes as Quiz,
+  famousCodesCiphers as Quiz,
+  solarSystemFacts as Quiz,
+  famousFeuds as Quiz,
+  worldLighthouses as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -535,6 +685,31 @@ const wordGameQuizzes: Quiz[] = [
   desertVocabulary as Quiz,
   mythologyWords as Quiz,
   geographyVocabulary as Quiz,
+  spoonerismQuiz as Quiz,
+  malapropismQuiz as Quiz,
+  cockneyRhymingSlang as Quiz,
+  australianSlang as Quiz,
+  southernExpressions as Quiz,
+  theaterVocabulary as Quiz,
+  wineVocabulary as Quiz,
+  architectureTerms as Quiz,
+  musicTheoryTerms as Quiz,
+  photographyTerms as Quiz,
+  cookingTechniques as Quiz,
+  danceVocabulary as Quiz,
+  geologyVocabulary as Quiz,
+  aviationTerms as Quiz,
+  botanicalTerms as Quiz,
+  zoologyTerms as Quiz,
+  archaeologyTerms as Quiz,
+  printingTerms as Quiz,
+  maritimeExpressions as Quiz,
+  horseRidingTerms as Quiz,
+  chessVocabulary as Quiz,
+  textileTerms as Quiz,
+  weatherVocabulary as Quiz,
+  irishExpressions as Quiz,
+  scottishWords as Quiz,
 ];
 
 const memoryGameQuizzes: Quiz[] = [
@@ -608,6 +783,31 @@ const memoryGameQuizzes: Quiz[] = [
   numberFactsQuiz as Quiz,
   scienceSymbolsQuiz as Quiz,
   famousDuosRecall as Quiz,
+  stateFlagsQuiz as Quiz,
+  birdIdentification as Quiz,
+  treeIdentification as Quiz,
+  cloudTypesQuiz as Quiz,
+  instrumentSoundsQuiz as Quiz,
+  gemstoneIdentification as Quiz,
+  dogBreedsQuiz as Quiz,
+  catBreedsQuiz as Quiz,
+  dinosaurFactsQuiz as Quiz,
+  spaceMissionsRecall as Quiz,
+  vitaminMineralsQuiz as Quiz,
+  boneNamesQuiz as Quiz,
+  organFunctionsQuiz as Quiz,
+  mapSymbolsQuiz as Quiz,
+  artMovementsQuiz as Quiz,
+  fabricTypesQuiz as Quiz,
+  carLogosQuiz as Quiz,
+  countryShapesQuiz as Quiz,
+  famousBattlesRecall as Quiz,
+  olympicHostCities as Quiz,
+  weatherSymbolsQuiz as Quiz,
+  musicNotesQuiz as Quiz,
+  danceStylesQuiz as Quiz,
+  worldCapitalsExtreme as Quiz,
+  famousPaintingsRecall as Quiz,
 ];
 
 const allQuizzes: Quiz[] = [

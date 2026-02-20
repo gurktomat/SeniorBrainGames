@@ -1,0 +1,98 @@
+{
+  "id": "music-notes-quiz",
+  "title": "Music Notes Quiz",
+  "description": "Musical notation, scales, and rhythm knowledge",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "music-notes-quiz-1",
+      "question": "How many lines does a standard musical staff have?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-2",
+      "question": "In music, what does the treble clef symbol indicate?",
+      "options": ["Notes in the lower register", "Notes in the higher register", "The tempo of the piece", "The key signature"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-3",
+      "question": "How many beats does a whole note receive in standard 4/4 time?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "music-notes-quiz-4",
+      "question": "What is the musical term for gradually getting louder?",
+      "options": ["Diminuendo", "Fortissimo", "Crescendo", "Pianissimo"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "music-notes-quiz-5",
+      "question": "How many semitones (half steps) are in a standard octave?",
+      "options": ["8", "10", "12", "14"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "music-notes-quiz-6",
+      "question": "What does the musical notation 'pp' (pianissimo) mean?",
+      "options": ["Very fast", "Very slow", "Very soft", "Very loud"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "music-notes-quiz-7",
+      "question": "What symbol in music notation indicates a period of silence?",
+      "options": ["A fermata", "A rest", "A tie", "A slur"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-8",
+      "question": "In music, what does 'allegro' indicate about the tempo?",
+      "options": ["Slow and stately", "Moderate walking pace", "Fast and lively", "Very slow"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "music-notes-quiz-9",
+      "question": "What are the notes on the lines of the treble clef from bottom to top (E, G, B, D, F)?",
+      "options": ["Every Good Boy Does Fine", "Every Great Bird Dances Free", "Even Good Boys Dance Freely", "Each Good Bee Draws Flowers"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "music-notes-quiz-10",
+      "question": "A sharp symbol in music notation tells you to do what to a note?",
+      "options": ["Play it louder", "Raise it by a half step", "Lower it by a half step", "Hold it longer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-11",
+      "question": "What is the term for the speed or pace at which a piece of music is played?",
+      "options": ["Rhythm", "Tempo", "Dynamics", "Pitch"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-12",
+      "question": "How many beats does an eighth note receive in 4/4 time?",
+      "options": ["One quarter beat", "One half beat", "One beat", "Two beats"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-13",
+      "question": "What does a dot placed after a note do to its duration?",
+      "options": ["Doubles it", "Increases it by half", "Decreases it by half", "Has no effect"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "music-notes-quiz-14",
+      "question": "The bass clef is also known by what other name?",
+      "options": ["G clef", "C clef", "F clef", "D clef"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "music-notes-quiz-15",
+      "question": "What is the Italian musical term for a moderate tempo, often described as 'walking pace'?",
+      "options": ["Adagio", "Andante", "Presto", "Largo"],
+      "correctAnswer": 1
+    }
+  ]
+}

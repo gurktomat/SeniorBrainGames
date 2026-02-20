@@ -1,0 +1,98 @@
+{
+  "id": "famous-robberies",
+  "title": "Famous Robberies",
+  "description": "Notorious heists and thefts in history",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-robberies-1",
+      "question": "The Great Train Robbery of 1963 took place in which country, netting the thieves over 2.6 million pounds?",
+      "options": ["United States", "France", "England", "Italy"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-robberies-2",
+      "question": "Which famous painting was stolen from the Louvre in 1911 by Vincenzo Peruggia?",
+      "options": ["The Starry Night", "Mona Lisa", "Girl with a Pearl Earring", "The Birth of Venus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-3",
+      "question": "The Brink's robbery of 1950, one of the largest in U.S. history at the time, took place in which city?",
+      "options": ["New York", "Chicago", "Boston", "Philadelphia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-robberies-4",
+      "question": "In 2003, diamonds worth an estimated $100 million were stolen from a vault in which Belgian city?",
+      "options": ["Brussels", "Antwerp", "Bruges", "Ghent"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-5",
+      "question": "D.B. Cooper hijacked a plane in 1971 and parachuted away with $200,000. The flight departed from which city?",
+      "options": ["San Francisco", "Portland", "Seattle", "Los Angeles"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-6",
+      "question": "The Isabella Stewart Gardner Museum heist of 1990, the largest art theft in history, occurred in which city?",
+      "options": ["New York", "Washington, D.C.", "Boston", "Philadelphia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-robberies-7",
+      "question": "Butch Cassidy and the Sundance Kid were members of which famous outlaw gang?",
+      "options": ["The James-Younger Gang", "The Wild Bunch", "The Dalton Gang", "The Hole-in-the-Wall Gang"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-8",
+      "question": "The Hatton Garden safe deposit burglary of 2015, carried out by elderly thieves, took place in which city?",
+      "options": ["Paris", "London", "Amsterdam", "Dublin"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-9",
+      "question": "In which year did the famous Lufthansa heist at JFK Airport take place, later depicted in the film 'Goodfellas'?",
+      "options": ["1975", "1978", "1981", "1984"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-10",
+      "question": "Jesse James and his gang were most active robbing banks and trains in which region of the United States?",
+      "options": ["The Northeast", "The Midwest and South", "The West Coast", "The Southwest"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-11",
+      "question": "The Banco Central burglary of 2005, where thieves tunneled into a vault, took place in which country?",
+      "options": ["Argentina", "Mexico", "Brazil", "Colombia"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-robberies-12",
+      "question": "Which famous gem, now in the Smithsonian, was rumored to be stolen from a Hindu idol in India centuries ago?",
+      "options": ["The Star of India", "The Hope Diamond", "The Koh-i-Noor", "The Cullinan Diamond"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-13",
+      "question": "The 'Mona Lisa' was missing for how many years after being stolen from the Louvre in 1911?",
+      "options": ["Six months", "One year", "Two years", "Five years"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-robberies-14",
+      "question": "Bonnie Parker and Clyde Barrow's crime spree during the Great Depression ended in which year when they were ambushed?",
+      "options": ["1932", "1934", "1936", "1938"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-robberies-15",
+      "question": "The Securitas depot robbery of 2006, the UK's largest cash robbery at the time, netted approximately how much?",
+      "options": ["£10 million", "£25 million", "£53 million", "£100 million"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "bone-names-quiz",
+  "title": "Bone Names Quiz",
+  "description": "Identify bones of the human body",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bone-names-quiz-1",
+      "question": "What is the largest and strongest bone in the human body, located in the upper leg?",
+      "options": ["Tibia", "Humerus", "Femur", "Pelvis"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-2",
+      "question": "What is the smallest bone in the human body, found in the middle ear?",
+      "options": ["Stapes (Stirrup)", "Incus (Anvil)", "Malleus (Hammer)", "Hyoid"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bone-names-quiz-3",
+      "question": "Which bone protects the brain and forms the dome of the skull?",
+      "options": ["Mandible", "Cranium", "Vertebrae", "Sternum"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-4",
+      "question": "What is the common name for the clavicle, which connects the shoulder blade to the breastbone?",
+      "options": ["Shoulder Blade", "Collarbone", "Breastbone", "Wishbone"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-5",
+      "question": "Which bone is commonly known as the kneecap?",
+      "options": ["Fibula", "Tibia", "Patella", "Talus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-6",
+      "question": "Which flat, T-shaped bone in the center of the chest connects to the ribs and is also called the breastbone?",
+      "options": ["Clavicle", "Scapula", "Sternum", "Manubrium"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-7",
+      "question": "How many vertebrae make up the normal adult human spinal column?",
+      "options": ["24", "26", "33", "30"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-8",
+      "question": "Which bone in the forearm is on the thumb side and rotates around the other forearm bone?",
+      "options": ["Ulna", "Radius", "Humerus", "Carpal"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-9",
+      "question": "What is the medical name for the shoulder blade, a flat triangular bone on the upper back?",
+      "options": ["Clavicle", "Scapula", "Sternum", "Acromion"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-10",
+      "question": "Which bone is the only bone in the human body that does not articulate (connect) with any other bone?",
+      "options": ["Coccyx", "Patella", "Hyoid", "Stapes"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-11",
+      "question": "How many pairs of ribs does a typical human have?",
+      "options": ["10 pairs", "11 pairs", "12 pairs", "13 pairs"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-12",
+      "question": "Which bone is the larger of the two bones in the lower leg and bears most of the body's weight?",
+      "options": ["Fibula", "Femur", "Tibia", "Talus"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bone-names-quiz-13",
+      "question": "What is the common name for the mandible, the largest and strongest bone of the face?",
+      "options": ["Cheekbone", "Jawbone", "Brow Bone", "Nasal Bone"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-14",
+      "question": "Approximately how many bones are in an adult human body?",
+      "options": ["186", "206", "256", "306"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bone-names-quiz-15",
+      "question": "Which group of small bones forms the wrist and allows for the complex movements of the hand?",
+      "options": ["Metacarpals", "Phalanges", "Carpals", "Tarsals"],
+      "correctAnswer": 2
+    }
+  ]
+}

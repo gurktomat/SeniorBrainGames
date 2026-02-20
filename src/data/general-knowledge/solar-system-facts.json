@@ -1,0 +1,144 @@
+{
+  "id": "solar-system-facts",
+  "title": "Solar System Facts",
+  "description": "Planets, moons, and solar system knowledge",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "solar-system-facts-1",
+      "question": "Which planet in our solar system is the largest?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correctAnswer": 1,
+      "explanation": "Jupiter is the largest planet in our solar system. It has a diameter of about 86,881 miles (139,822 km) — more than 11 times the diameter of Earth. You could fit over 1,300 Earths inside Jupiter.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-2",
+      "question": "How many officially recognized planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": 1,
+      "explanation": "There are 8 officially recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2006.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-3",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Venus", "Jupiter", "Mars", "Mercury"],
+      "correctAnswer": 2,
+      "explanation": "Mars is called the Red Planet because of the iron oxide (rust) on its surface, which gives it a distinctive reddish appearance visible even from Earth with the naked eye.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-4",
+      "question": "Which moon in our solar system is the largest?",
+      "options": ["Titan (Saturn)", "Europa (Jupiter)", "Ganymede (Jupiter)", "Triton (Neptune)"],
+      "correctAnswer": 2,
+      "explanation": "Ganymede, a moon of Jupiter, is the largest moon in the solar system. With a diameter of about 3,273 miles (5,268 km), it is even larger than the planet Mercury.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-5",
+      "question": "What is Saturn's most distinctive feature?",
+      "options": ["Its Great Red Spot", "Its extensive ring system", "Its blue color", "Its many volcanoes"],
+      "correctAnswer": 1,
+      "explanation": "Saturn is famous for its spectacular ring system, which is made up of billions of particles of ice, rock, and dust ranging in size from tiny grains to house-sized chunks. The rings span up to 175,000 miles wide.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-6",
+      "question": "Approximately how long does it take light from the Sun to reach Earth?",
+      "options": ["About 30 seconds", "About 8 minutes", "About 1 hour", "About 24 hours"],
+      "correctAnswer": 1,
+      "explanation": "Light from the Sun takes approximately 8 minutes and 20 seconds to reach Earth, traveling at 186,000 miles per second across the roughly 93-million-mile distance between the two.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-7",
+      "question": "Which planet rotates on its side, with an axial tilt of about 98 degrees?",
+      "options": ["Neptune", "Pluto", "Uranus", "Venus"],
+      "correctAnswer": 2,
+      "explanation": "Uranus has an extreme axial tilt of about 98 degrees, essentially rolling around the Sun on its side. Scientists believe a massive collision early in its history may have knocked it sideways.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-8",
+      "question": "What is the Great Red Spot on Jupiter?",
+      "options": ["A massive volcano", "A giant storm", "An impact crater", "A red-colored continent"],
+      "correctAnswer": 1,
+      "explanation": "The Great Red Spot is a persistent anticyclonic storm on Jupiter that has been observed for at least 350 years. It is so large that Earth could fit inside it, with winds reaching 400 mph.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-9",
+      "question": "Which planet has the shortest day (fastest rotation) in our solar system?",
+      "options": ["Mercury", "Earth", "Jupiter", "Mars"],
+      "correctAnswer": 2,
+      "explanation": "Jupiter has the shortest day of all the planets, rotating once on its axis in just under 10 hours. Despite being the largest planet, its rapid spin causes it to bulge noticeably at its equator.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-10",
+      "question": "Which of Jupiter's moons is believed to have a liquid water ocean beneath its icy surface?",
+      "options": ["Io", "Callisto", "Europa", "Ganymede"],
+      "correctAnswer": 2,
+      "explanation": "Europa is believed to harbor a vast ocean of liquid water beneath its icy crust, making it one of the most promising places in the solar system to search for extraterrestrial life.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-11",
+      "question": "What is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correctAnswer": 1,
+      "explanation": "Venus is the hottest planet with surface temperatures averaging about 867°F (464°C). Though Mercury is closer to the Sun, Venus's thick atmosphere of carbon dioxide creates an extreme greenhouse effect.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-12",
+      "question": "What is the asteroid belt, and where is it located?",
+      "options": ["Between Earth and Mars", "Between Mars and Jupiter", "Between Jupiter and Saturn", "Beyond Neptune"],
+      "correctAnswer": 1,
+      "explanation": "The asteroid belt is a region of space between Mars and Jupiter containing millions of rocky objects. Despite what movies suggest, the objects are spread so far apart that spacecraft pass through easily.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-13",
+      "question": "Which planet has the longest year (orbit around the Sun)?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": 3,
+      "explanation": "Neptune has the longest year of the eight planets, taking about 165 Earth years to complete one orbit around the Sun. Since its discovery in 1846, it completed its first full observed orbit in 2011.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-14",
+      "question": "What is the tallest known mountain in the solar system?",
+      "options": ["Mount Everest (Earth)", "Maxwell Montes (Venus)", "Olympus Mons (Mars)", "Rheasilvia Peak (Vesta)"],
+      "correctAnswer": 2,
+      "explanation": "Olympus Mons on Mars is the tallest known mountain in the solar system at about 72,000 feet (22 km) high — nearly three times the height of Mount Everest. It is a massive shield volcano.",
+      "difficulty": "medium",
+      "category": "astronomy"
+    },
+    {
+      "id": "solar-system-facts-15",
+      "question": "What are comets primarily made of?",
+      "options": ["Rock and metal", "Ice, dust, and rocky material", "Gas and plasma", "Pure water ice"],
+      "correctAnswer": 1,
+      "explanation": "Comets are often described as 'dirty snowballs.' They consist primarily of ice (water, carbon dioxide, ammonia, methane), dust, and rocky material. When they approach the Sun, the ice vaporizes, creating the characteristic glowing tail.",
+      "difficulty": "easy",
+      "category": "astronomy"
+    }
+  ]
+}

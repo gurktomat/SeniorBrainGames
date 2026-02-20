@@ -1,0 +1,98 @@
+{
+  "id": "fabric-types-quiz",
+  "title": "Fabric Types Quiz",
+  "description": "Identify fabrics and textiles from descriptions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "fabric-types-quiz-1",
+      "question": "Which fabric is made from the cocoon of silkworms?",
+      "options": ["Linen", "Cotton", "Silk", "Rayon"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-2",
+      "question": "Denim, the fabric used in blue jeans, is traditionally made from which fiber?",
+      "options": ["Polyester", "Cotton", "Wool", "Nylon"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fabric-types-quiz-3",
+      "question": "Which luxury fabric comes from the undercoat of a specific breed of goat?",
+      "options": ["Angora", "Cashmere", "Mohair", "Alpaca"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fabric-types-quiz-4",
+      "question": "Linen is derived from the fibers of which plant?",
+      "options": ["Cotton plant", "Hemp plant", "Flax plant", "Bamboo"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-5",
+      "question": "Which synthetic fabric, invented by DuPont in 1935, was first used to make stockings?",
+      "options": ["Polyester", "Acrylic", "Spandex", "Nylon"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fabric-types-quiz-6",
+      "question": "What is the term for fabric with a raised, soft surface created by cutting loops in the weave?",
+      "options": ["Satin", "Velvet", "Chiffon", "Organza"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fabric-types-quiz-7",
+      "question": "Which Scottish fabric pattern features crisscrossing horizontal and vertical bands of color?",
+      "options": ["Houndstooth", "Paisley", "Tartan (plaid)", "Herringbone"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-8",
+      "question": "Tweed is a rough, warm fabric that originated in which country?",
+      "options": ["England", "Ireland", "Scotland", "Wales"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-9",
+      "question": "Which lightweight, sheer fabric is often used for evening gowns and scarves?",
+      "options": ["Flannel", "Canvas", "Chiffon", "Corduroy"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-10",
+      "question": "What type of fabric has distinctive raised ridges or 'wales' running along its surface?",
+      "options": ["Corduroy", "Chambray", "Calico", "Crepe"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fabric-types-quiz-11",
+      "question": "Which fabric is known for its smooth, glossy surface on one side and dull finish on the other?",
+      "options": ["Taffeta", "Satin", "Muslin", "Burlap"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fabric-types-quiz-12",
+      "question": "Mohair fiber comes from which type of animal?",
+      "options": ["Alpaca", "Cashmere goat", "Angora goat", "Merino sheep"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-13",
+      "question": "Which heavy, durable fabric was historically used for sails and tents?",
+      "options": ["Silk", "Canvas", "Lace", "Georgette"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fabric-types-quiz-14",
+      "question": "What is the stretchy synthetic fabric, also known as Lycra, commonly used in athletic wear?",
+      "options": ["Polyester", "Nylon", "Spandex", "Acrylic"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fabric-types-quiz-15",
+      "question": "Which traditional Japanese fabric-dyeing technique uses wax to create patterns?",
+      "options": ["Shibori", "Batik", "Ikat", "Tie-dye"],
+      "correctAnswer": 1
+    }
+  ]
+}
