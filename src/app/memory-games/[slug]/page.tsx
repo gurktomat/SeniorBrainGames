@@ -45,6 +45,7 @@ import numberRecallChallengeData from "@/data/memory-games/number-recall-challen
 import whatsChangedData from "@/data/memory-games/whats-changed.json";
 import sudokuChallengeData from "@/data/memory-games/sudoku-challenge.json";
 import slidingPuzzleChallengeData from "@/data/memory-games/sliding-puzzle-challenge.json";
+import famousPairsMatchingData from "@/data/memory-games/famous-pairs-matching.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "memory-card-match": { title: "Memory Card Match", description: "Flip cards to find matching pairs!" },
@@ -68,6 +69,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "whats-changed": { title: "What's Changed?", description: "Study the items carefully, then figure out which one disappeared!" },
   "sudoku-challenge": { title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!" },
   "sliding-puzzle-challenge": { title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!" },
+  "famous-pairs-matching": { title: "Famous Pairs Matching", description: "Match famous duos, partners, and sidekicks from TV, music, and history!" },
 };
 
 const allCategoryGames = [
@@ -240,6 +242,8 @@ export default async function MemoryGamePage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SudokuEngine title={sudokuChallengeData.title} puzzles={sudokuChallengeData.puzzles} /></PageShell>);
     case "sliding-puzzle-challenge":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SlidingPuzzleEngine title={slidingPuzzleChallengeData.title} puzzles={slidingPuzzleChallengeData.puzzles} /></PageShell>);
+    case "famous-pairs-matching":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><MatchingPairsEngine title={famousPairsMatchingData.title} rounds={famousPairsMatchingData.rounds} /></PageShell>);
     default:
       notFound();
   }

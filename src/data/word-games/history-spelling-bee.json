@@ -1,0 +1,114 @@
+{
+  "id": "history-spelling-bee",
+  "title": "History Spelling Bee",
+  "description": "Spell historical terms, famous names, and landmark words correctly!",
+  "gameCategory": "word-games",
+  "gameType": "spelling",
+  "words": [
+    {
+      "id": "hspell-1",
+      "word": "PHARAOH",
+      "definition": "An ancient Egyptian ruler",
+      "hint": "Ends in '-aoh', not '-ow'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "hspell-2",
+      "word": "RENAISSANCE",
+      "definition": "The period of European cultural rebirth from the 14th to 17th century",
+      "hint": "Contains 'aissance' at the end",
+      "difficulty": "hard"
+    },
+    {
+      "id": "hspell-3",
+      "word": "COLOSSEUM",
+      "definition": "The famous ancient Roman amphitheater",
+      "hint": "One L, two S's",
+      "difficulty": "medium"
+    },
+    {
+      "id": "hspell-4",
+      "word": "PARLIAMENT",
+      "definition": "The legislative body of government in many countries",
+      "hint": "Contains 'lia' in the middle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "hspell-5",
+      "word": "GETTYSBURG",
+      "definition": "Site of a pivotal 1863 Civil War battle in Pennsylvania",
+      "hint": "Double T, ends in '-burg'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "hspell-6",
+      "word": "VERSAILLES",
+      "definition": "The famous French palace and site of the 1919 peace treaty",
+      "hint": "Ends in '-ailles'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "hspell-7",
+      "word": "CONSTITUTION",
+      "definition": "The fundamental law of a nation establishing its government",
+      "hint": "Starts with 'consti-'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "hspell-8",
+      "word": "DECLARATION",
+      "definition": "A formal announcement, as in the Declaration of Independence",
+      "hint": "Contains '-clara-' in the middle",
+      "difficulty": "easy"
+    },
+    {
+      "id": "hspell-9",
+      "word": "ARCHAEOLOGY",
+      "definition": "The study of human history through excavation of artifacts",
+      "hint": "Starts with 'archae-', not 'arche-'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "hspell-10",
+      "word": "REVOLUTION",
+      "definition": "A forcible overthrow of a government or social order",
+      "hint": "Ends in '-ution'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "hspell-11",
+      "word": "INDEPENDENCE",
+      "definition": "The state of being free from outside control",
+      "hint": "Ends in '-ence', not '-ance'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "hspell-12",
+      "word": "MEDIEVAL",
+      "definition": "Relating to the Middle Ages, roughly 500-1500 AD",
+      "hint": "Contains 'die' in the middle",
+      "difficulty": "medium"
+    },
+    {
+      "id": "hspell-13",
+      "word": "MESOPOTAMIA",
+      "definition": "An ancient region between the Tigris and Euphrates rivers",
+      "hint": "Starts with 'Meso-' meaning middle",
+      "difficulty": "hard"
+    },
+    {
+      "id": "hspell-14",
+      "word": "EMPEROR",
+      "definition": "The ruler of an empire",
+      "hint": "Ends in '-eror', not '-erer'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "hspell-15",
+      "word": "CIVILIZATION",
+      "definition": "An advanced state of human society with culture and government",
+      "hint": "Contains '-liza-' in the middle",
+      "difficulty": "medium"
+    }
+  ]
+}

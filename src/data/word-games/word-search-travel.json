@@ -1,0 +1,98 @@
+{
+  "id": "word-search-travel",
+  "title": "Travel Word Search",
+  "description": "Find travel and geography words hidden in the grid!",
+  "gameCategory": "word-games",
+  "gameType": "word-search",
+  "puzzles": [
+    {
+      "id": "travel-destinations",
+      "title": "Travel Destinations",
+      "description": "Find famous travel destinations and landmarks",
+      "grid": [
+        "AIRPORTQJBHF",
+        "TVHQJNDSUITC",
+        "PASSPORTMWBG",
+        "HOTELFJKANDV",
+        "TICKETRWIBHJ",
+        "NDKGVQBCFWTJ",
+        "LUGGAGEHNDKQ",
+        "GWFBHJTMKNRX",
+        "CRUISEVSHELF",
+        "DKNWQGJBVTMH",
+        "BEACHFNHWQKG",
+        "VJQHBKTRESRT"
+      ],
+      "words": [
+        { "word": "AIRPORT", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 6 },
+        { "word": "SUITCASE", "startRow": 1, "startCol": 7, "endRow": 8, "endCol": 7 },
+        { "word": "PASSPORT", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 7 },
+        { "word": "HOTEL", "startRow": 3, "startCol": 0, "endRow": 3, "endCol": 4 },
+        { "word": "TICKET", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 5 },
+        { "word": "LUGGAGE", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 6 },
+        { "word": "CRUISE", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 5 },
+        { "word": "BEACH", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 4 },
+        { "word": "RESORT", "startRow": 11, "startCol": 7, "endRow": 11, "endCol": 11 }
+      ]
+    },
+    {
+      "id": "world-landmarks",
+      "title": "World Landmarks",
+      "description": "Find famous landmarks from around the world",
+      "grid": [
+        "PYRAMIDQJBHF",
+        "TVHQJNDTOWER",
+        "BRIDGEMHWBGJ",
+        "CASTLEFKANQD",
+        "TEMPLEQWIBHJ",
+        "NDKGVQBRFWTJ",
+        "PALACENHDKQV",
+        "GWFBHJTMKNDX",
+        "STATUEVSHELF",
+        "DKNWQGJBVTMH",
+        "MUSEUMANWQKG",
+        "VJQHBKTNWFDG"
+      ],
+      "words": [
+        { "word": "PYRAMID", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 6 },
+        { "word": "TOWER", "startRow": 1, "startCol": 7, "endRow": 1, "endCol": 11 },
+        { "word": "BRIDGE", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 5 },
+        { "word": "CASTLE", "startRow": 3, "startCol": 0, "endRow": 3, "endCol": 5 },
+        { "word": "TEMPLE", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 5 },
+        { "word": "PALACE", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 5 },
+        { "word": "STATUE", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 5 },
+        { "word": "MUSEUM", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 5 }
+      ]
+    },
+    {
+      "id": "geography-terms",
+      "title": "Geography Terms",
+      "description": "Find geography and travel-related terms",
+      "grid": [
+        "ISLANDHQJBHF",
+        "TVHQJNDOCEAN",
+        "VALLEYMHWBGJ",
+        "DESERTFKANQD",
+        "RIVERXQWIBHJ",
+        "NDKGVQBRFWTJ",
+        "HARBORNHDKQV",
+        "GWFBHJTMKNDX",
+        "VOLCANOVSHLF",
+        "DKNWQGJBVTMH",
+        "CANALNHWQKGD",
+        "GLACIERKWFDG"
+      ],
+      "words": [
+        { "word": "ISLAND", "startRow": 0, "startCol": 0, "endRow": 0, "endCol": 5 },
+        { "word": "OCEAN", "startRow": 1, "startCol": 7, "endRow": 1, "endCol": 11 },
+        { "word": "VALLEY", "startRow": 2, "startCol": 0, "endRow": 2, "endCol": 5 },
+        { "word": "DESERT", "startRow": 3, "startCol": 0, "endRow": 3, "endCol": 5 },
+        { "word": "RIVER", "startRow": 4, "startCol": 0, "endRow": 4, "endCol": 4 },
+        { "word": "HARBOR", "startRow": 6, "startCol": 0, "endRow": 6, "endCol": 5 },
+        { "word": "VOLCANO", "startRow": 8, "startCol": 0, "endRow": 8, "endCol": 6 },
+        { "word": "CANAL", "startRow": 10, "startCol": 0, "endRow": 10, "endCol": 4 },
+        { "word": "GLACIER", "startRow": 11, "startCol": 0, "endRow": 11, "endCol": 6 }
+      ]
+    }
+  ]
+}

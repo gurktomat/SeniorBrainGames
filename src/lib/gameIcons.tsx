@@ -18,7 +18,7 @@ import {
   MonitorSmartphone, CookingPot, Tent, Lasso,
   Bird, Flower2, MapPin, CloudLightning,
   BookType, Combine, FileText, PencilLine,
-  ArrowDown01, FastForward, FolderTree, ShieldQuestion,
+  ArrowDown01, FastForward, FolderTree, ShieldQuestion, Ear, Repeat, BookHeart, Armchair, Map, Timer,
   type LucideIcon,
 } from "lucide-react";
 
@@ -173,6 +173,8 @@ const iconMap: Record<string, LucideIcon> = {
   "what-comes-next": FastForward,
   "category-sort": FolderTree,
   "two-truths-one-lie": ShieldQuestion,
+  "remember-the-year": Clock,
+  "everyday-memory-test": Eye,
 
   // Batch 13 — 25 new games
   "crossword-nature-science": Hash,
@@ -200,6 +202,18 @@ const iconMap: Record<string, LucideIcon> = {
   "whats-changed": CircleOff,
   "sudoku-challenge": Grid3x3,
   "sliding-puzzle-challenge": Move,
+
+  // Batch 14 — 10 new games
+  "homophones-challenge": Ear,
+  "double-meanings": Repeat,
+  "history-spelling-bee": SpellCheck,
+  "word-search-travel": Map,
+  "classic-childrens-books": BookHeart,
+  "vintage-household-items": Armchair,
+  "famous-speeches": Mic,
+  "geography-sorting": Globe,
+  "famous-pairs-matching": Link2,
+  "rapid-recall": Timer,
 };
 
 export function GameIcon({

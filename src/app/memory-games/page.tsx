@@ -147,6 +147,12 @@ const specialGames = [
     description: "Slide the numbered tiles into the correct order!",
     count: "3 Levels",
   },
+  {
+    id: "famous-pairs-matching",
+    title: "Famous Pairs Matching",
+    description: "Match famous duos, partners, and sidekicks from TV, music, and history!",
+    count: "10 Rounds",
+  },
 ];
 
 export default async function MemoryGames() {

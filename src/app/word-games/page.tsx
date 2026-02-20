@@ -138,6 +138,18 @@ const specialGames = [
     description: "Change one letter at a time to climb from the start word to the end word!",
     count: "10 Puzzles",
   },
+  {
+    id: "history-spelling-bee",
+    title: "History Spelling Bee",
+    description: "Spell historical terms, famous names, and landmark words correctly!",
+    count: "15 Words",
+  },
+  {
+    id: "word-search-travel",
+    title: "Travel Word Search",
+    description: "Find travel and geography words hidden in the grid!",
+    count: "3 Puzzles",
+  },
 ];
 
 const printableGames = new Set([

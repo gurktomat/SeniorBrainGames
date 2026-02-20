@@ -1,0 +1,144 @@
+{
+  "id": "homophones-challenge",
+  "title": "Homophones Challenge",
+  "description": "Pick the correct homophone for each sentence — words that sound alike but have different meanings!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "homo-1",
+      "question": "______ going to the store later today.",
+      "options": ["There", "Their", "They're"],
+      "correctAnswer": 2,
+      "explanation": "'They're' is a contraction of 'they are.' 'There' refers to a place, and 'their' shows possession.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-2",
+      "question": "The dog wagged ______ tail happily.",
+      "options": ["it's", "its"],
+      "correctAnswer": 1,
+      "explanation": "'Its' is the possessive form. 'It's' is a contraction of 'it is.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-3",
+      "question": "She could hear the church ______ ringing in the distance.",
+      "options": ["bell", "belle"],
+      "correctAnswer": 0,
+      "explanation": "A 'bell' is a hollow metal instrument that rings. A 'belle' is a beautiful woman.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-4",
+      "question": "I need to ______ a letter to my friend.",
+      "options": ["right", "write", "rite"],
+      "correctAnswer": 1,
+      "explanation": "'Write' means to put words on paper. 'Right' means correct or a direction. 'Rite' is a ceremony.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-5",
+      "question": "The baker needed more ______ to make the bread.",
+      "options": ["flower", "flour"],
+      "correctAnswer": 1,
+      "explanation": "'Flour' is the powdery substance used in baking. 'Flower' is a plant blossom.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-6",
+      "question": "The ______ of the country addressed the nation.",
+      "options": ["principal", "principle"],
+      "correctAnswer": 0,
+      "explanation": "'Principal' means a person of authority or something of first importance. 'Principle' is a fundamental truth or rule.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-7",
+      "question": "The hikers walked through the narrow mountain ______.",
+      "options": ["pass", "past"],
+      "correctAnswer": 0,
+      "explanation": "A 'pass' is a narrow route through mountains. 'Past' refers to a time gone by.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-8",
+      "question": "The new law will ______ many people in the community.",
+      "options": ["affect", "effect"],
+      "correctAnswer": 0,
+      "explanation": "'Affect' is a verb meaning to influence. 'Effect' is usually a noun meaning result.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-9",
+      "question": "Please ______ the package at the front desk.",
+      "options": ["accept", "except"],
+      "correctAnswer": 0,
+      "explanation": "'Accept' means to receive or agree to. 'Except' means excluding or apart from.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-10",
+      "question": "The knight rode ______ the castle gates.",
+      "options": ["through", "threw"],
+      "correctAnswer": 0,
+      "explanation": "'Through' means moving in one side and out the other. 'Threw' is the past tense of 'throw.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-11",
+      "question": "The ship dropped its ______ in the harbor.",
+      "options": ["anchor", "anker"],
+      "correctAnswer": 0,
+      "explanation": "'Anchor' is the heavy device that holds a ship in place. 'Anker' is not a standard English word.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "homo-12",
+      "question": "She gave me a ______ of good advice.",
+      "options": ["piece", "peace"],
+      "correctAnswer": 0,
+      "explanation": "'Piece' means a portion or part. 'Peace' means freedom from disturbance.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-13",
+      "question": "The ______ on the stairs creaked under his weight.",
+      "options": ["stair", "stare"],
+      "correctAnswer": 0,
+      "explanation": "A 'stair' is a step. 'Stare' means to look fixedly at something.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "homo-14",
+      "question": "The doctor said the medicine would ______ her illness.",
+      "options": ["heal", "heel"],
+      "correctAnswer": 0,
+      "explanation": "'Heal' means to make healthy again. 'Heel' is the back part of the foot.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "homo-15",
+      "question": "He tried to ______ his way through the crowd.",
+      "options": ["wade", "weighed"],
+      "correctAnswer": 0,
+      "explanation": "'Wade' means to walk through water or a difficult situation. 'Weighed' is the past tense of 'weigh.'",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

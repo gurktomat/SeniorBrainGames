@@ -28,6 +28,8 @@ import classicGameShows from "@/data/nostalgia-trivia/classic-game-shows.json";
 import classicDinersDriveIns from "@/data/nostalgia-trivia/classic-diners-drive-ins.json";
 import woodstockMusicFestivals from "@/data/nostalgia-trivia/woodstock-music-festivals.json";
 import classicWesterns from "@/data/nostalgia-trivia/classic-westerns.json";
+import classicChildrensBooks from "@/data/nostalgia-trivia/classic-childrens-books.json";
+import vintageHouseholdItems from "@/data/nostalgia-trivia/vintage-household-items.json";
 
 // General Knowledge quizzes
 import famousLandmarks from "@/data/general-knowledge/famous-landmarks.json";
@@ -57,6 +59,7 @@ import birdsBirdwatching from "@/data/general-knowledge/birds-birdwatching.json"
 import flowersGardening from "@/data/general-knowledge/flowers-gardening.json";
 import travelGeographyUsa from "@/data/general-knowledge/travel-geography-usa.json";
 import weatherNaturalPhenomena from "@/data/general-knowledge/weather-natural-phenomena.json";
+import famousSpeeches from "@/data/general-knowledge/famous-speeches.json";
 
 // Word Games (quiz-format ones)
 import synonymChallenge from "@/data/word-games/synonym-challenge.json";
@@ -75,6 +78,8 @@ import proverbsSayings from "@/data/word-games/proverbs-sayings.json";
 import compoundWords from "@/data/word-games/compound-words.json";
 import abbreviationsAcronyms from "@/data/word-games/abbreviations-acronyms.json";
 import completeThePhrase from "@/data/word-games/complete-the-phrase.json";
+import homophonesChallenge from "@/data/word-games/homophones-challenge.json";
+import doubleMeanings from "@/data/word-games/double-meanings.json";
 
 // Memory Games (quiz-format ones)
 import pictureQuiz from "@/data/memory-games/picture-quiz.json";
@@ -94,6 +99,9 @@ import sequenceOrder from "@/data/memory-games/sequence-order.json";
 import whatComesNext from "@/data/memory-games/what-comes-next.json";
 import categorySort from "@/data/memory-games/category-sort.json";
 import twoTruthsOneLie from "@/data/memory-games/two-truths-one-lie.json";
+import rememberTheYear from "@/data/memory-games/remember-the-year.json";
+import everydayMemoryTest from "@/data/memory-games/everyday-memory-test.json";
+import rapidRecall from "@/data/memory-games/rapid-recall.json";
 
 const nostalgiaTrivia: Quiz[] = [
   fiftiesNostalgia as Quiz,
@@ -123,6 +131,8 @@ const nostalgiaTrivia: Quiz[] = [
   classicDinersDriveIns as Quiz,
   woodstockMusicFestivals as Quiz,
   classicWesterns as Quiz,
+  classicChildrensBooks as Quiz,
+  vintageHouseholdItems as Quiz,
 ];
 
 const generalKnowledge: Quiz[] = [
@@ -153,6 +163,7 @@ const generalKnowledge: Quiz[] = [
   flowersGardening as Quiz,
   travelGeographyUsa as Quiz,
   weatherNaturalPhenomena as Quiz,
+  famousSpeeches as Quiz,
 ];
 
 const wordGameQuizzes: Quiz[] = [
@@ -172,6 +183,8 @@ const wordGameQuizzes: Quiz[] = [
   compoundWords as Quiz,
   abbreviationsAcronyms as Quiz,
   completeThePhrase as Quiz,
+  homophonesChallenge as Quiz,
+  doubleMeanings as Quiz,
 ];
 
 const memoryGameQuizzes: Quiz[] = [
@@ -192,6 +205,9 @@ const memoryGameQuizzes: Quiz[] = [
   whatComesNext as Quiz,
   categorySort as Quiz,
   twoTruthsOneLie as Quiz,
+  rememberTheYear as Quiz,
+  everydayMemoryTest as Quiz,
+  rapidRecall as Quiz,
 ];
 
 const allQuizzes: Quiz[] = [
@@ -317,6 +333,8 @@ export const specialGameSlugs: Record<string, string[]> = {
     "food-word-scramble",
     "cryptogram-poetry",
     "word-ladder-challenge",
+    "history-spelling-bee",
+    "word-search-travel",
   ],
   "nostalgia-trivia": [
     "timeline-sort",
@@ -343,6 +361,7 @@ export const specialGameSlugs: Record<string, string[]> = {
     "mental-math",
     "logic-patterns",
     "observation-challenge",
+    "geography-sorting",
   ],
   "memory-games": [
     "memory-card-match",
@@ -366,5 +385,6 @@ export const specialGameSlugs: Record<string, string[]> = {
     "whats-changed",
     "sudoku-challenge",
     "sliding-puzzle-challenge",
+    "famous-pairs-matching",
   ],
 };

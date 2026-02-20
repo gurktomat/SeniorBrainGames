@@ -84,6 +84,12 @@ const specialGames = [
     description: "Study the items carefully, then spot what changed!",
     count: "15 Rounds",
   },
+  {
+    id: "geography-sorting",
+    title: "Geography Sorting",
+    description: "Sort countries, cities, and landmarks into their correct continents and regions!",
+    count: "10 Rounds",
+  },
 ];
 
 export default async function GeneralKnowledge() {

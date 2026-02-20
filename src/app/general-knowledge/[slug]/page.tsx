@@ -28,6 +28,7 @@ import animalKingdomSortingData from "@/data/general-knowledge/animal-kingdom-so
 import mentalMathData from "@/data/general-knowledge/mental-math.json";
 import logicPatternsData from "@/data/general-knowledge/logic-patterns.json";
 import observationChallengeData from "@/data/general-knowledge/observation-challenge.json";
+import geographySortingData from "@/data/general-knowledge/geography-sorting.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "true-or-false": { title: "True or False", description: "Test your knowledge — is this statement true or false?" },
@@ -41,6 +42,7 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "mental-math": { title: "Mental Math", description: "Challenge your mental arithmetic skills!" },
   "logic-patterns": { title: "Logic Patterns", description: "Find the pattern and choose what comes next in the sequence!" },
   "observation-challenge": { title: "Observation Challenge", description: "Study the items carefully, then spot what changed!" },
+  "geography-sorting": { title: "Geography Sorting", description: "Sort countries, cities, and landmarks into their correct continents and regions!" },
 };
 
 const allCategoryGames = [
@@ -209,6 +211,8 @@ export default async function GeneralKnowledgeQuizPage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><PatternEngine title={logicPatternsData.title} puzzles={logicPatternsData.puzzles} /></PageShell>);
     case "observation-challenge":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpotDifferenceEngine title={observationChallengeData.title} rounds={observationChallengeData.rounds} /></PageShell>);
+    case "geography-sorting":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SortingEngine title={geographySortingData.title} rounds={geographySortingData.rounds} /></PageShell>);
     default:
       notFound();
   }

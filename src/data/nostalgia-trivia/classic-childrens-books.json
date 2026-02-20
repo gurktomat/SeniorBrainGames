@@ -1,0 +1,144 @@
+{
+  "id": "classic-childrens-books",
+  "title": "Classic Children's Books",
+  "description": "How well do you remember these beloved children's books from the 1930s through the 1980s?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ccb-1",
+      "question": "In 'Charlotte's Web' (1952), what type of animal is Charlotte?",
+      "options": ["Ladybug", "Spider", "Butterfly", "Cricket"],
+      "correctAnswer": 1,
+      "explanation": "Charlotte is a grey spider who befriends Wilbur the pig and saves his life by writing words in her web.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-2",
+      "question": "What does the Very Hungry Caterpillar eat on Saturday in Eric Carle's 1969 classic?",
+      "options": ["One apple", "A variety of junk food", "Five oranges", "Three plums"],
+      "correctAnswer": 1,
+      "explanation": "On Saturday, the Very Hungry Caterpillar eats through a massive feast of junk food including cake, ice cream, and sausage.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-3",
+      "question": "In 'The Cat in the Hat' (1957), what are the names of the Cat's two helpers?",
+      "options": ["Tick and Tock", "Thing One and Thing Two", "This and That", "Left and Right"],
+      "correctAnswer": 1,
+      "explanation": "Thing One and Thing Two are the mischievous creatures who emerge from a red box and cause chaos.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-4",
+      "question": "Who wrote 'Where the Wild Things Are' (1963)?",
+      "options": ["Dr. Seuss", "Maurice Sendak", "Shel Silverstein", "Roald Dahl"],
+      "correctAnswer": 1,
+      "explanation": "Maurice Sendak wrote and illustrated this beloved tale of Max and his journey to the land of the Wild Things.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-5",
+      "question": "In 'Curious George' (1941), who captures George and brings him to the big city?",
+      "options": ["The Man in the Yellow Hat", "Professor Wiseman", "The Zookeeper", "Captain Jones"],
+      "correctAnswer": 0,
+      "explanation": "The Man in the Yellow Hat captures George in Africa and brings him to live in the city.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-6",
+      "question": "What is the name of the chocolate factory owner in Roald Dahl's 1964 novel?",
+      "options": ["Willy Wonka", "Charlie Bucket", "Augustus Gloop", "Mr. Salt"],
+      "correctAnswer": 0,
+      "explanation": "Willy Wonka is the eccentric candy maker who invites five children to tour his magical chocolate factory.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-7",
+      "question": "In 'Goodnight Moon' (1947), what color is the great room?",
+      "options": ["Blue", "Green", "Red", "Yellow"],
+      "correctAnswer": 1,
+      "explanation": "The 'great green room' is the iconic setting where the bunny says goodnight to everything around the room.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-8",
+      "question": "What type of animal is Babar, the star of Jean de Brunhoff's 1931 book?",
+      "options": ["Hippopotamus", "Elephant", "Rhinoceros", "Giraffe"],
+      "correctAnswer": 1,
+      "explanation": "Babar is a young elephant who travels to the city, becomes educated, and returns to become king of the elephants.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-9",
+      "question": "In 'The Giving Tree' (1964) by Shel Silverstein, what does the tree give the boy last?",
+      "options": ["Apples", "Branches", "A stump to sit on", "Shade"],
+      "correctAnswer": 2,
+      "explanation": "After giving away her apples, branches, and trunk, the old stump offers itself as a place for the old man to sit.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-10",
+      "question": "Which classic 1939 children's book features a shy little bunny who keeps running away from his mother?",
+      "options": ["Pat the Bunny", "The Runaway Bunny", "Velveteen Rabbit", "Peter Rabbit"],
+      "correctAnswer": 1,
+      "explanation": "'The Runaway Bunny' by Margaret Wise Brown tells of a little bunny who imagines running away, only for his mother to follow.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-11",
+      "question": "In 'Madeline' (1939), in which city does Madeline live with the other girls?",
+      "options": ["London", "Paris", "Rome", "Vienna"],
+      "correctAnswer": 1,
+      "explanation": "Madeline lives in an old house in Paris that is covered with vines, with eleven other little girls in two straight lines.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-12",
+      "question": "What kind of creature is Winnie-the-Pooh's friend Eeyore?",
+      "options": ["Pig", "Donkey", "Owl", "Rabbit"],
+      "correctAnswer": 1,
+      "explanation": "Eeyore is a gloomy grey donkey who is always losing his tail in A.A. Milne's beloved stories.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-13",
+      "question": "In 'James and the Giant Peach' (1961), what makes the peach grow to enormous size?",
+      "options": ["Sunlight", "Magic crocodile tongues", "Radioactive rain", "A wizard's spell"],
+      "correctAnswer": 1,
+      "explanation": "A mysterious old man gives James magical glowing green crocodile tongues that cause the peach to grow gigantic.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-14",
+      "question": "What is the name of the spider in 'James and the Giant Peach'?",
+      "options": ["Miss Spider", "Charlotte", "Arachne", "Silky"],
+      "correctAnswer": 0,
+      "explanation": "Miss Spider is one of the insect companions who lives inside the giant peach with James.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "ccb-15",
+      "question": "In 'The Phantom Tollbooth' (1961), what is the name of the bored boy who enters a magical land?",
+      "options": ["Max", "Milo", "Oliver", "Peter"],
+      "correctAnswer": 1,
+      "explanation": "Milo is the bored boy who drives through a magical tollbooth and enters the Lands Beyond.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

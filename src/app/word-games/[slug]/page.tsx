@@ -45,6 +45,8 @@ import wordSearchAnimalsData from "@/data/word-games/word-search-animals.json";
 import foodWordScrambleData from "@/data/word-games/food-word-scramble.json";
 import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
 import wordLadderChallengeData from "@/data/word-games/word-ladder-challenge.json";
+import historySpellingBeeData from "@/data/word-games/history-spelling-bee.json";
+import wordSearchTravelData from "@/data/word-games/word-search-travel.json";
 
 const specialGames: Record<string, { title: string; description: string }> = {
   "word-scramble": { title: "Word Scramble", description: "Unscramble the letters to find the hidden word!" },
@@ -67,6 +69,8 @@ const specialGames: Record<string, { title: string; description: string }> = {
   "food-word-scramble": { title: "Food Word Scramble", description: "Unscramble the letters to find the food or cooking word!" },
   "cryptogram-poetry": { title: "Poetry Cryptogram", description: "Decode famous poetry lines by figuring out the letter substitutions!" },
   "word-ladder-challenge": { title: "Word Ladder Challenge", description: "Change one letter at a time to climb from the start word to the end word!" },
+  "history-spelling-bee": { title: "History Spelling Bee", description: "Spell historical terms, famous names, and landmark words correctly!" },
+  "word-search-travel": { title: "Travel Word Search", description: "Find travel and geography words hidden in the grid!" },
 };
 
 const allCategoryGames = [
@@ -241,6 +245,10 @@ export default async function WordGamePage({
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><CryptogramEngine title={cryptogramPoetryData.title} puzzles={cryptogramPoetryData.puzzles} /></PageShell>);
     case "word-ladder-challenge":
       return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordLadderEngine title={wordLadderChallengeData.title} puzzles={wordLadderChallengeData.puzzles} /></PageShell>);
+    case "history-spelling-bee":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><SpellingBeeEngine title={historySpellingBeeData.title} words={historySpellingBeeData.words} /></PageShell>);
+    case "word-search-travel":
+      return (<PageShell slug={slug} title={special.title} description={special.description} rating={rating}><WordSearchEngine title={wordSearchTravelData.title} puzzles={wordSearchTravelData.puzzles} /></PageShell>);
     default:
       notFound();
   }

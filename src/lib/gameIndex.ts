@@ -84,6 +84,11 @@ const specialGames: { id: string; title: string; description: string; category: 
   { id: "whats-changed", title: "What's Changed?", description: "Study the items carefully, then figure out which one disappeared!", category: "memory-games" },
   { id: "sudoku-challenge", title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!", category: "memory-games" },
   { id: "sliding-puzzle-challenge", title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!", category: "memory-games" },
+  // Batch 14 — 4 new special games
+  { id: "history-spelling-bee", title: "History Spelling Bee", description: "Spell historical terms, famous names, and landmark words correctly!", category: "word-games" },
+  { id: "word-search-travel", title: "Travel Word Search", description: "Find travel and geography words hidden in the grid!", category: "word-games" },
+  { id: "geography-sorting", title: "Geography Sorting", description: "Sort countries, cities, and landmarks into their correct continents and regions!", category: "general-knowledge" },
+  { id: "famous-pairs-matching", title: "Famous Pairs Matching", description: "Match famous duos, partners, and sidekicks from TV, music, and history!", category: "memory-games" },
 ];
 
 export const allGames: GameEntry[] = [

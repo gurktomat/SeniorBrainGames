@@ -1,0 +1,157 @@
+{
+  "id": "famous-pairs-matching",
+  "title": "Famous Pairs Matching",
+  "description": "Match famous duos, partners, and sidekicks from TV, music, and history!",
+  "rounds": [
+    {
+      "id": "tv-duos",
+      "title": "Classic TV Duos",
+      "description": "Match each TV character with their famous partner",
+      "pairs": [
+        { "left": "Lucy", "right": "Ethel" },
+        { "left": "Laverne", "right": "Shirley" },
+        { "left": "Starsky", "right": "Hutch" },
+        { "left": "Abbott", "right": "Costello" },
+        { "left": "Fred", "right": "Barney" },
+        { "left": "Batman", "right": "Robin" },
+        { "left": "Sonny", "right": "Cher" },
+        { "left": "Tom", "right": "Jerry" }
+      ]
+    },
+    {
+      "id": "music-duos",
+      "title": "Music Duos",
+      "description": "Match these famous musical partners",
+      "pairs": [
+        { "left": "Simon", "right": "Garfunkel" },
+        { "left": "Lennon", "right": "McCartney" },
+        { "left": "Hall", "right": "Oates" },
+        { "left": "Ike", "right": "Tina Turner" },
+        { "left": "Captain", "right": "Tennille" },
+        { "left": "Brooks", "right": "Dunn" },
+        { "left": "Loggins", "right": "Messina" },
+        { "left": "The Everly", "right": "Brothers" }
+      ]
+    },
+    {
+      "id": "historical-pairs",
+      "title": "Historical Pairs",
+      "description": "Match these famous historical partners",
+      "pairs": [
+        { "left": "Lewis", "right": "Clark" },
+        { "left": "Bonnie", "right": "Clyde" },
+        { "left": "Romeo", "right": "Juliet" },
+        { "left": "Antony", "right": "Cleopatra" },
+        { "left": "Wright Brothers", "right": "Kitty Hawk" },
+        { "left": "Gilbert", "right": "Sullivan" },
+        { "left": "Orville", "right": "Wilbur" },
+        { "left": "Sears", "right": "Roebuck" }
+      ]
+    },
+    {
+      "id": "movie-duos",
+      "title": "Movie Duos",
+      "description": "Match each movie character with their famous partner",
+      "pairs": [
+        { "left": "Thelma", "right": "Louise" },
+        { "left": "Butch Cassidy", "right": "Sundance Kid" },
+        { "left": "Han Solo", "right": "Chewbacca" },
+        { "left": "Woody", "right": "Buzz Lightyear" },
+        { "left": "Shrek", "right": "Donkey" },
+        { "left": "Maverick", "right": "Goose" },
+        { "left": "Forrest Gump", "right": "Jenny" },
+        { "left": "Marty McFly", "right": "Doc Brown" }
+      ]
+    },
+    {
+      "id": "comedy-duos",
+      "title": "Comedy Duos",
+      "description": "Match these classic comedy partners",
+      "pairs": [
+        { "left": "Laurel", "right": "Hardy" },
+        { "left": "Burns", "right": "Allen" },
+        { "left": "Dean Martin", "right": "Jerry Lewis" },
+        { "left": "Cheech", "right": "Chong" },
+        { "left": "Penn", "right": "Teller" },
+        { "left": "Rowan", "right": "Martin" },
+        { "left": "Smothers", "right": "Brothers" },
+        { "left": "Bob Hope", "right": "Bing Crosby" }
+      ]
+    },
+    {
+      "id": "fictional-sidekicks",
+      "title": "Heroes & Sidekicks",
+      "description": "Match each hero with their famous sidekick",
+      "pairs": [
+        { "left": "Sherlock Holmes", "right": "Dr. Watson" },
+        { "left": "Don Quixote", "right": "Sancho Panza" },
+        { "left": "Lone Ranger", "right": "Tonto" },
+        { "left": "Peter Pan", "right": "Tinker Bell" },
+        { "left": "Winnie the Pooh", "right": "Piglet" },
+        { "left": "Scooby-Doo", "right": "Shaggy" },
+        { "left": "SpongeBob", "right": "Patrick" },
+        { "left": "Mickey Mouse", "right": "Donald Duck" }
+      ]
+    },
+    {
+      "id": "food-pairs",
+      "title": "Famous Food Pairs",
+      "description": "Match these classic food combinations",
+      "pairs": [
+        { "left": "Peanut Butter", "right": "Jelly" },
+        { "left": "Salt", "right": "Pepper" },
+        { "left": "Bacon", "right": "Eggs" },
+        { "left": "Bread", "right": "Butter" },
+        { "left": "Cookies", "right": "Milk" },
+        { "left": "Macaroni", "right": "Cheese" },
+        { "left": "Ham", "right": "Swiss" },
+        { "left": "Chips", "right": "Salsa" }
+      ]
+    },
+    {
+      "id": "political-pairs",
+      "title": "Political Pairs",
+      "description": "Match these famous political partners",
+      "pairs": [
+        { "left": "Washington", "right": "Adams" },
+        { "left": "Lincoln", "right": "Johnson" },
+        { "left": "Roosevelt", "right": "Truman" },
+        { "left": "Kennedy", "right": "Johnson" },
+        { "left": "Reagan", "right": "Bush" },
+        { "left": "Clinton", "right": "Gore" },
+        { "left": "Nixon", "right": "Agnew" },
+        { "left": "Eisenhower", "right": "Nixon" }
+      ]
+    },
+    {
+      "id": "literary-pairs",
+      "title": "Literary Pairs",
+      "description": "Match these famous literary characters",
+      "pairs": [
+        { "left": "Huck Finn", "right": "Tom Sawyer" },
+        { "left": "Elizabeth Bennet", "right": "Mr. Darcy" },
+        { "left": "Scarlett O'Hara", "right": "Rhett Butler" },
+        { "left": "Frodo", "right": "Samwise" },
+        { "left": "Jay Gatsby", "right": "Daisy Buchanan" },
+        { "left": "Jane Eyre", "right": "Mr. Rochester" },
+        { "left": "Ebenezer Scrooge", "right": "Bob Cratchit" },
+        { "left": "Dr. Jekyll", "right": "Mr. Hyde" }
+      ]
+    },
+    {
+      "id": "brand-pairs",
+      "title": "Famous Brand Pairs",
+      "description": "Match these iconic brand names",
+      "pairs": [
+        { "left": "Ben", "right": "Jerry's" },
+        { "left": "Procter", "right": "Gamble" },
+        { "left": "Johnson", "right": "Johnson" },
+        { "left": "Hewlett", "right": "Packard" },
+        { "left": "Smith", "right": "Wesson" },
+        { "left": "Black", "right": "Decker" },
+        { "left": "Rolls", "right": "Royce" },
+        { "left": "Abercrombie", "right": "Fitch" }
+      ]
+    }
+  ]
+}

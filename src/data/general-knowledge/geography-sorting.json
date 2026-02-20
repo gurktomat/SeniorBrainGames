@@ -1,0 +1,149 @@
+{
+  "id": "geography-sorting",
+  "title": "Geography Sorting",
+  "description": "Sort countries, cities, and landmarks into their correct continents and regions!",
+  "gameCategory": "general-knowledge",
+  "gameType": "sorting",
+  "rounds": [
+    {
+      "id": "gsort-1",
+      "title": "Europe vs. Asia",
+      "items": [
+        { "label": "France", "emoji": "🇫🇷" },
+        { "label": "Japan", "emoji": "🇯🇵" },
+        { "label": "Germany", "emoji": "🇩🇪" },
+        { "label": "Thailand", "emoji": "🇹🇭" },
+        { "label": "Italy", "emoji": "🇮🇹" },
+        { "label": "India", "emoji": "🇮🇳" }
+      ],
+      "categories": ["Europe", "Asia"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-2",
+      "title": "North America vs. South America",
+      "items": [
+        { "label": "Canada", "emoji": "🇨🇦" },
+        { "label": "Brazil", "emoji": "🇧🇷" },
+        { "label": "Mexico", "emoji": "🇲🇽" },
+        { "label": "Argentina", "emoji": "🇦🇷" },
+        { "label": "United States", "emoji": "🇺🇸" },
+        { "label": "Colombia", "emoji": "🇨🇴" }
+      ],
+      "categories": ["North America", "South America"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-3",
+      "title": "Africa vs. Europe",
+      "items": [
+        { "label": "Egypt", "emoji": "🇪🇬" },
+        { "label": "Spain", "emoji": "🇪🇸" },
+        { "label": "Kenya", "emoji": "🇰🇪" },
+        { "label": "Greece", "emoji": "🇬🇷" },
+        { "label": "Nigeria", "emoji": "🇳🇬" },
+        { "label": "Sweden", "emoji": "🇸🇪" }
+      ],
+      "categories": ["Africa", "Europe"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-4",
+      "title": "Islands vs. Landlocked Countries",
+      "items": [
+        { "label": "Iceland", "emoji": "🏝️" },
+        { "label": "Switzerland", "emoji": "🏔️" },
+        { "label": "Cuba", "emoji": "🏝️" },
+        { "label": "Austria", "emoji": "🏔️" },
+        { "label": "Madagascar", "emoji": "🏝️" },
+        { "label": "Bolivia", "emoji": "🏔️" }
+      ],
+      "categories": ["Island Nation", "Landlocked"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-5",
+      "title": "Capital Cities: Europe vs. Asia",
+      "items": [
+        { "label": "London", "emoji": "🏛️" },
+        { "label": "Tokyo", "emoji": "🏯" },
+        { "label": "Paris", "emoji": "🗼" },
+        { "label": "Beijing", "emoji": "🏯" },
+        { "label": "Berlin", "emoji": "🏛️" },
+        { "label": "Bangkok", "emoji": "🏯" }
+      ],
+      "categories": ["European Capital", "Asian Capital"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-6",
+      "title": "Rivers: Americas vs. Rest of World",
+      "items": [
+        { "label": "Amazon", "emoji": "🌊" },
+        { "label": "Nile", "emoji": "🌊" },
+        { "label": "Mississippi", "emoji": "🌊" },
+        { "label": "Danube", "emoji": "🌊" },
+        { "label": "Colorado", "emoji": "🌊" },
+        { "label": "Ganges", "emoji": "🌊" }
+      ],
+      "categories": ["Americas", "Rest of World"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-7",
+      "title": "Deserts vs. Mountain Ranges",
+      "items": [
+        { "label": "Sahara", "emoji": "🏜️" },
+        { "label": "Himalayas", "emoji": "🏔️" },
+        { "label": "Gobi", "emoji": "🏜️" },
+        { "label": "Andes", "emoji": "🏔️" },
+        { "label": "Kalahari", "emoji": "🏜️" },
+        { "label": "Alps", "emoji": "🏔️" }
+      ],
+      "categories": ["Desert", "Mountain Range"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-8",
+      "title": "Northern Hemisphere vs. Southern Hemisphere",
+      "items": [
+        { "label": "Norway", "emoji": "🇳🇴" },
+        { "label": "Australia", "emoji": "🇦🇺" },
+        { "label": "Russia", "emoji": "🇷🇺" },
+        { "label": "New Zealand", "emoji": "🇳🇿" },
+        { "label": "Canada", "emoji": "🇨🇦" },
+        { "label": "Chile", "emoji": "🇨🇱" }
+      ],
+      "categories": ["Northern Hemisphere", "Southern Hemisphere"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-9",
+      "title": "Oceans vs. Seas",
+      "items": [
+        { "label": "Pacific", "emoji": "🌊" },
+        { "label": "Mediterranean", "emoji": "🌊" },
+        { "label": "Atlantic", "emoji": "🌊" },
+        { "label": "Caribbean", "emoji": "🌊" },
+        { "label": "Indian", "emoji": "🌊" },
+        { "label": "Red Sea", "emoji": "🌊" }
+      ],
+      "categories": ["Ocean", "Sea"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": "gsort-10",
+      "title": "Landmarks: Natural vs. Man-Made",
+      "items": [
+        { "label": "Grand Canyon", "emoji": "🏜️" },
+        { "label": "Great Wall of China", "emoji": "🧱" },
+        { "label": "Victoria Falls", "emoji": "💧" },
+        { "label": "Eiffel Tower", "emoji": "🗼" },
+        { "label": "Mount Everest", "emoji": "🏔️" },
+        { "label": "Colosseum", "emoji": "🏛️" }
+      ],
+      "categories": ["Natural", "Man-Made"],
+      "correctMapping": [0, 1, 0, 1, 0, 1]
+    }
+  ]
+}

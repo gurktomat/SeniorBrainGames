@@ -1,0 +1,144 @@
+{
+  "id": "double-meanings",
+  "title": "Double Meanings",
+  "description": "Identify words that have two very different meanings — one word, two definitions!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "dbl-1",
+      "question": "Which word can mean both 'the outer covering of a tree' and 'the sound a dog makes'?",
+      "options": ["Trunk", "Bark", "Leaf", "Howl"],
+      "correctAnswer": 1,
+      "explanation": "'Bark' refers to both the protective outer layer of a tree and the sharp cry of a dog.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-2",
+      "question": "Which word can mean both 'a flying mammal' and 'a piece of sports equipment used in baseball'?",
+      "options": ["Bat", "Club", "Stick", "Fly"],
+      "correctAnswer": 0,
+      "explanation": "'Bat' is both a nocturnal flying mammal and a wooden club used to hit a baseball.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-3",
+      "question": "Which word can mean both 'a financial institution' and 'the side of a river'?",
+      "options": ["Shore", "Bank", "Fund", "Creek"],
+      "correctAnswer": 1,
+      "explanation": "'Bank' refers to both a place where money is kept and the sloping land beside a river.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-4",
+      "question": "Which word can mean both 'a device to tell time' and 'to observe or guard'?",
+      "options": ["Clock", "Watch", "Guard", "Timer"],
+      "correctAnswer": 1,
+      "explanation": "'Watch' is both a timepiece worn on the wrist and the act of observing carefully.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-5",
+      "question": "Which word can mean both 'a stringed instrument' and 'a graceful curve'?",
+      "options": ["Harp", "Bow", "Lyre", "Arch"],
+      "correctAnswer": 1,
+      "explanation": "'Bow' can refer to a weapon/instrument accessory and also a decorative curve or knot.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-6",
+      "question": "Which word can mean both 'a container for liquids' and 'to throw something forcefully'?",
+      "options": ["Jug", "Pitcher", "Toss", "Bottle"],
+      "correctAnswer": 1,
+      "explanation": "'Pitcher' is both a container for pouring drinks and the player who throws the ball in baseball.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-7",
+      "question": "Which word can mean both 'the organ of sight' and 'the center of a storm'?",
+      "options": ["Pupil", "Iris", "Eye", "Core"],
+      "correctAnswer": 2,
+      "explanation": "'Eye' refers to the organ we see with and also the calm center of a hurricane.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-8",
+      "question": "Which word can mean both 'a royal staff' and 'a playing card suit in some games'?",
+      "options": ["Crown", "Scepter", "Club", "Ace"],
+      "correctAnswer": 2,
+      "explanation": "'Club' is both a suit in a deck of cards and a heavy stick or organization.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-9",
+      "question": "Which word can mean both 'a type of fish' and 'a low, deep sound'?",
+      "options": ["Trout", "Bass", "Carp", "Drum"],
+      "correctAnswer": 1,
+      "explanation": "'Bass' refers to both a freshwater fish and the lowest range of musical sound.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-10",
+      "question": "Which word can mean both 'a writing instrument' and 'an enclosure for animals'?",
+      "options": ["Quill", "Pen", "Cage", "Marker"],
+      "correctAnswer": 1,
+      "explanation": "'Pen' is both a tool for writing with ink and a small enclosure for farm animals.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-11",
+      "question": "Which word can mean both 'a heavenly body' and 'a famous performer'?",
+      "options": ["Sun", "Star", "Moon", "Icon"],
+      "correctAnswer": 1,
+      "explanation": "'Star' refers to both a luminous celestial body and a celebrated person in entertainment.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-12",
+      "question": "Which word can mean both 'a baby bear' and 'a young member of the Scouts'?",
+      "options": ["Kit", "Pup", "Cub", "Joey"],
+      "correctAnswer": 2,
+      "explanation": "'Cub' is the name for a young bear or lion, and also a junior Scout.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "dbl-13",
+      "question": "Which word can mean both 'to press clothes smooth' and 'a type of metal'?",
+      "options": ["Steel", "Press", "Iron", "Smooth"],
+      "correctAnswer": 2,
+      "explanation": "'Iron' is both a metallic element and an appliance used to press wrinkles out of clothing.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "dbl-14",
+      "question": "Which word can mean both 'a unit of weight' and 'to hit repeatedly'?",
+      "options": ["Ounce", "Pound", "Ton", "Strike"],
+      "correctAnswer": 1,
+      "explanation": "'Pound' is a unit of weight (16 ounces) and also means to strike heavily and repeatedly.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "dbl-15",
+      "question": "Which word can mean both 'a type of tree' and 'the flat inner surface of your hand'?",
+      "options": ["Oak", "Pine", "Palm", "Elm"],
+      "correctAnswer": 2,
+      "explanation": "'Palm' refers to both a tropical tree and the inner surface of the hand.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}
