@@ -1,0 +1,144 @@
+{
+  "id": "archaic-words",
+  "title": "Archaic Words",
+  "description": "Can you decipher these old-fashioned English words?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "aw-1",
+      "question": "What does the archaic word 'fortnight' mean?",
+      "options": ["A castle", "Two weeks", "A type of armor", "Midnight"],
+      "correctAnswer": 1,
+      "explanation": "'Fortnight' means a period of two weeks (fourteen nights). It comes from the Old English 'feowertyne niht.' While archaic in American English, it is still commonly used in British English.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "aw-2",
+      "question": "In old English, what does 'thee' mean?",
+      "options": ["We", "They", "You (as an object)", "Me"],
+      "correctAnswer": 2,
+      "explanation": "'Thee' is the archaic second person singular pronoun used as an object, equivalent to modern 'you.' For example, 'I love thee' means 'I love you.' 'Thou' was the subject form.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "aw-3",
+      "question": "What does the archaic word 'hither' mean?",
+      "options": ["Over there", "To this place", "Upward", "Yesterday"],
+      "correctAnswer": 1,
+      "explanation": "'Hither' means 'to this place' or 'here.' As in 'Come hither' meaning 'Come here.' It's related to 'thither' (to that place) and 'whither' (to which place).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "aw-4",
+      "question": "What does 'fare thee well' mean?",
+      "options": ["Pay your bill", "Goodbye, may you do well", "Travel quickly", "Be quiet"],
+      "correctAnswer": 1,
+      "explanation": "'Fare thee well' is an archaic way of saying goodbye, literally meaning 'may you journey well' or 'may things go well with you.' It is the origin of our modern word 'farewell.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "aw-5",
+      "question": "What does the old word 'morrow' mean?",
+      "options": ["Sadness", "The following day", "A deep valley", "A type of bird"],
+      "correctAnswer": 1,
+      "explanation": "'Morrow' means the following day or morning. 'Good morrow' was a common greeting meaning 'good morning.' Shakespeare used it frequently: 'Parting is such sweet sorrow, that I shall say good night till it be morrow.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "aw-6",
+      "question": "What does the archaic word 'perchance' mean?",
+      "options": ["By accident", "Perhaps or maybe", "By permission", "Completely"],
+      "correctAnswer": 1,
+      "explanation": "'Perchance' means 'perhaps' or 'by chance.' It is famously used in Shakespeare's Hamlet: 'To sleep, perchance to dream.' The word combines 'per' (through) and 'chance.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "aw-7",
+      "question": "What does the archaic word 'forsooth' mean?",
+      "options": ["In truth / indeed", "In secret", "Forever", "In sorrow"],
+      "correctAnswer": 0,
+      "explanation": "'Forsooth' means 'in truth' or 'indeed.' It was used as an intensifier in Middle English. The word combines 'for' and 'sooth' (truth), so it literally means 'for truth.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "aw-8",
+      "question": "What does the archaic word 'betwixt' mean?",
+      "options": ["Twisted", "Between", "Beside", "Beyond"],
+      "correctAnswer": 1,
+      "explanation": "'Betwixt' is an archaic form of 'between.' The phrase 'betwixt and between' (meaning neither one thing nor the other) is sometimes still used today as a deliberate archaism.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "aw-9",
+      "question": "What does the archaic word 'ere' mean?",
+      "options": ["After", "Before", "During", "Always"],
+      "correctAnswer": 1,
+      "explanation": "'Ere' means 'before' in terms of time. As in 'ere long' (before long) or Shakespeare's 'Ere the bat hath flown' (before the bat has flown). It comes from Old English 'aer.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "aw-10",
+      "question": "What does the archaic word 'prithee' mean?",
+      "options": ["I praise you", "I pray thee (please)", "I pity you", "Be proud"],
+      "correctAnswer": 1,
+      "explanation": "'Prithee' is a contraction of 'I pray thee,' meaning 'please' or 'I ask you.' It was commonly used from the 16th to 18th centuries as a polite way to make a request.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "aw-11",
+      "question": "What does the archaic word 'verily' mean?",
+      "options": ["Very much", "Truly or certainly", "Carefully", "Quickly"],
+      "correctAnswer": 1,
+      "explanation": "'Verily' means 'truly,' 'certainly,' or 'in truth.' It comes from the Middle English 'verrai' (true), related to the Latin 'verus.' It appears frequently in the King James Bible.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "aw-12",
+      "question": "What does the archaic word 'sennight' mean?",
+      "options": ["A week (seven nights)", "A watchman", "A senator", "Evening time"],
+      "correctAnswer": 0,
+      "explanation": "'Sennight' means a week, literally 'seven nights.' Just as 'fortnight' means fourteen nights, 'sennight' was the Old English way of counting a week. It fell out of use by the 18th century.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "aw-13",
+      "question": "What does the archaic word 'anon' mean?",
+      "options": ["Anonymously", "Soon or shortly", "Again", "Forever"],
+      "correctAnswer": 1,
+      "explanation": "'Anon' means 'soon' or 'shortly,' as in 'I'll be with you anon.' It comes from Old English 'on an' meaning 'in one (moment).' Despite looking similar, it is unrelated to 'anonymous.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "aw-14",
+      "question": "What does the archaic word 'pottage' mean?",
+      "options": ["A type of pottery", "A thick soup or stew", "A small cottage", "A garden plot"],
+      "correctAnswer": 1,
+      "explanation": "'Pottage' is an archaic word for a thick soup or stew, usually made with vegetables and sometimes meat. In the Bible, Esau famously sold his birthright for a 'mess of pottage.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "aw-15",
+      "question": "What does the archaic word 'varlet' mean?",
+      "options": ["A small violin", "A type of horse", "A rascal or attendant", "A precious stone"],
+      "correctAnswer": 2,
+      "explanation": "'Varlet' originally meant a young man serving as an attendant to a knight. Over time, its meaning shifted to mean a dishonest or unprincipled person — a rascal or rogue.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

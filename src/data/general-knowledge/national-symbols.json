@@ -1,0 +1,144 @@
+{
+  "id": "national-symbols",
+  "title": "National Symbols",
+  "description": "Can you match these national symbols to their countries?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ns-1",
+      "question": "The bald eagle is the national bird of which country?",
+      "options": ["Canada", "United States", "Mexico", "Russia"],
+      "correctAnswer": 1,
+      "explanation": "The bald eagle has been the national emblem of the United States since 1782, chosen for its long life, great strength, and majestic appearance.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "ns-2",
+      "question": "Which country has the maple leaf as its national symbol?",
+      "options": ["Finland", "Norway", "Canada", "Japan"],
+      "correctAnswer": 2,
+      "explanation": "The maple leaf has been a symbol of Canada since the 18th century and has appeared on the Canadian flag since 1965.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "ns-3",
+      "question": "The kangaroo and emu appear on which country's coat of arms?",
+      "options": ["New Zealand", "South Africa", "Australia", "Papua New Guinea"],
+      "correctAnswer": 2,
+      "explanation": "Australia's coat of arms features a kangaroo and an emu, both chosen because they are animals that cannot walk backward, symbolizing a nation moving forward.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "ns-4",
+      "question": "What flower is the national symbol of Japan?",
+      "options": ["Lotus", "Chrysanthemum", "Sakura", "Orchid"],
+      "correctAnswer": 1,
+      "explanation": "The chrysanthemum is the official seal and symbol of the Japanese Imperial Family. The cherry blossom (sakura) is also culturally significant but the chrysanthemum is the imperial symbol.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "ns-5",
+      "question": "Which country's national animal is the giant panda?",
+      "options": ["Japan", "India", "China", "Thailand"],
+      "correctAnswer": 2,
+      "explanation": "The giant panda is China's national animal and has been used as a symbol of Chinese diplomacy ('panda diplomacy') since the 1950s.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "ns-6",
+      "question": "The shamrock is a symbol of which country?",
+      "options": ["Scotland", "Ireland", "Wales", "England"],
+      "correctAnswer": 1,
+      "explanation": "The shamrock is a well-known symbol of Ireland. According to legend, Saint Patrick used the three-leafed plant to explain the Holy Trinity to the Irish people.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "ns-7",
+      "question": "Which country features a dragon on its national flag?",
+      "options": ["Mongolia", "Bhutan", "Nepal", "Vietnam"],
+      "correctAnswer": 1,
+      "explanation": "Bhutan's flag features a white dragon called the Druk (Thunder Dragon). The country's name in the local Dzongkha language means 'Land of the Thunder Dragon.'",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "ns-8",
+      "question": "The fleur-de-lis is historically associated with which country?",
+      "options": ["Spain", "Italy", "France", "Belgium"],
+      "correctAnswer": 2,
+      "explanation": "The fleur-de-lis (lily flower) has been associated with French royalty since the 12th century and remains a symbol of France today.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "ns-9",
+      "question": "Which country has the Bengal tiger as its national animal?",
+      "options": ["Bangladesh", "India", "Myanmar", "Nepal"],
+      "correctAnswer": 1,
+      "explanation": "India adopted the Bengal tiger as its national animal in 1973, replacing the lion. The tiger represents grace, strength, agility, and power.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "ns-10",
+      "question": "The kiwi bird is the national symbol of which country?",
+      "options": ["Australia", "Fiji", "New Zealand", "Samoa"],
+      "correctAnswer": 2,
+      "explanation": "The kiwi is a flightless bird native to New Zealand and is so closely associated with the country that New Zealanders themselves are often called 'Kiwis.'",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "ns-11",
+      "question": "Which country uses the cedar tree as its national emblem, featured on its flag?",
+      "options": ["Syria", "Jordan", "Lebanon", "Cyprus"],
+      "correctAnswer": 2,
+      "explanation": "Lebanon features a green cedar tree on its flag. The cedars of Lebanon are mentioned numerous times in the Bible and have been a symbol of the region for thousands of years.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "ns-12",
+      "question": "The springbok is the national animal of which country?",
+      "options": ["Kenya", "Tanzania", "South Africa", "Namibia"],
+      "correctAnswer": 2,
+      "explanation": "The springbok, a type of antelope, is the national animal of South Africa. The South African rugby team is famously named the 'Springboks.'",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "ns-13",
+      "question": "Which country's national flower is the tulip?",
+      "options": ["Netherlands", "Turkey", "Belgium", "Denmark"],
+      "correctAnswer": 0,
+      "explanation": "While tulips originally came from Central Asia and were cultivated in the Ottoman Empire, the tulip became the national flower of the Netherlands, which is world-famous for its tulip fields.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "ns-14",
+      "question": "The quetzal bird is the national symbol of which Central American country?",
+      "options": ["Costa Rica", "Honduras", "Guatemala", "Panama"],
+      "correctAnswer": 2,
+      "explanation": "The resplendent quetzal is the national bird of Guatemala. The country's currency is also named after this bird, and the quetzal was sacred to the ancient Maya and Aztec peoples.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "ns-15",
+      "question": "Which country features an eagle eating a snake on its flag?",
+      "options": ["Albania", "Mexico", "Egypt", "Serbia"],
+      "correctAnswer": 1,
+      "explanation": "Mexico's flag features an eagle perched on a prickly pear cactus, devouring a snake. This image is based on an Aztec legend about the founding of Tenochtitlan.",
+      "difficulty": "hard",
+      "category": "geography"
+    }
+  ]
+}

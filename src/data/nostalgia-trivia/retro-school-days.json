@@ -1,0 +1,144 @@
+{
+  "id": "retro-school-days",
+  "title": "Retro School Days",
+  "description": "How well do you remember school life from the 1950s through 1970s?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rsd-1",
+      "question": "What purple-inked duplication machine was commonly used by teachers to make handouts before photocopiers?",
+      "options": ["Xerox machine", "Mimeograph machine", "Printing press", "Carbon copier"],
+      "correctAnswer": 1,
+      "explanation": "The mimeograph machine (often called a 'ditto machine') was the standard way teachers made copies. Students loved the fresh, slightly damp purple-inked pages and their distinctive smell.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-2",
+      "question": "What did students practice during 'duck and cover' drills in the 1950s and 1960s?",
+      "options": ["Fire evacuation", "Hiding under desks in case of nuclear attack", "Tornado safety", "Earthquake preparation"],
+      "correctAnswer": 1,
+      "explanation": "Duck and cover drills taught students to hide under their desks and cover their heads in case of a nuclear attack. The drills were a regular part of school life during the Cold War era.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-3",
+      "question": "What glass bottle of milk was delivered to classrooms for students during the 1950s and 1960s?",
+      "options": ["A quart jug", "A half-pint carton or bottle", "A full gallon", "A thermos"],
+      "correctAnswer": 1,
+      "explanation": "Half-pint bottles or cartons of milk were delivered to classrooms daily. Students would drink their milk during a mid-morning break, and milk monitors were responsible for distribution.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-4",
+      "question": "What writing instrument were students required to learn to use in cursive writing class?",
+      "options": ["Ballpoint pen", "Fountain pen or cartridge pen", "Pencil only", "Felt-tip marker"],
+      "correctAnswer": 1,
+      "explanation": "Many schools required fountain pens or cartridge pens for cursive writing practice. Students learned to write in flowing script, often using special penmanship workbooks like the Palmer Method.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-5",
+      "question": "What educational TV show featuring a gentle host in a cardigan was often shown in classrooms?",
+      "options": ["Captain Kangaroo", "Mister Rogers' Neighborhood", "Sesame Street", "The Electric Company"],
+      "correctAnswer": 1,
+      "explanation": "Mister Rogers' Neighborhood, hosted by Fred Rogers, aired from 1968 to 2001. His calm, gentle approach to teaching children about feelings and the world was beloved by generations.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-6",
+      "question": "What was the standard punishment for misbehaving students in many 1950s and 1960s classrooms?",
+      "options": ["Detention only", "Writing sentences on the chalkboard", "Call to parents", "Loss of recess with a warning"],
+      "correctAnswer": 1,
+      "explanation": "Writing sentences on the chalkboard (such as 'I will not talk in class' repeated 50 or 100 times) was a common punishment. Some teachers also used a ruler on the knuckles or sent students to the principal's office for paddling.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-7",
+      "question": "What yellow vehicle became the standard way American children got to school starting in the 1940s?",
+      "options": ["Yellow taxi", "School bus", "Station wagon", "Trolley"],
+      "correctAnswer": 1,
+      "explanation": "The yellow school bus became standardized after a 1939 conference led by Dr. Frank Cyr established the iconic 'National School Bus Glossy Yellow' color. By the 1950s, the yellow school bus was a fixture of American life.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-8",
+      "question": "What lunchbox material was most popular for school children in the 1950s and 1960s?",
+      "options": ["Paper bag", "Metal with a thermos", "Plastic container", "Woven basket"],
+      "correctAnswer": 1,
+      "explanation": "Metal lunchboxes, usually decorated with popular TV shows or cartoon characters, were the standard in the 1950s and 1960s. They came with a matching thermos and are now valuable collectibles.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-9",
+      "question": "What was the SRA Reading Laboratory, a popular classroom fixture of the 1960s and 1970s?",
+      "options": ["A special reading room", "A boxed set of color-coded reading cards", "A filmstrip about reading", "A reading workbook series"],
+      "correctAnswer": 1,
+      "explanation": "The SRA (Science Research Associates) Reading Laboratory was a box of color-coded reading cards organized by difficulty level. Students worked through the colors at their own pace, a revolutionary self-paced learning system.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-10",
+      "question": "What classroom technology involved a strip of film with accompanying audio played from a record?",
+      "options": ["Movie projector", "Filmstrip projector", "Slide carousel", "Overhead projector"],
+      "correctAnswer": 1,
+      "explanation": "Filmstrip projectors were a classroom staple from the 1940s through the 1980s. Teachers would advance the filmstrip frame by frame, often synchronized with a recorded narration that beeped to signal the next frame.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-11",
+      "question": "What was the 'Weekly Reader,' distributed to students from the 1920s through the 2000s?",
+      "options": ["A graded classroom newspaper", "A reading workbook", "A comic book for schools", "A TV guide for educational programs"],
+      "correctAnswer": 0,
+      "explanation": "The Weekly Reader was a classroom newspaper published for different grade levels. It covered current events, science, and social studies in age-appropriate language and was a fixture in American classrooms for decades.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-12",
+      "question": "What was a 'geography bee' or 'spelling bee' winner traditionally awarded in many schools?",
+      "options": ["A cash prize", "A trophy and advancement to regional competition", "Extra recess time", "A blue ribbon only"],
+      "correctAnswer": 1,
+      "explanation": "School spelling bees traditionally awarded a trophy to the winner, who then advanced to district, regional, and potentially the National Spelling Bee. The National Bee has been held since 1925.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-13",
+      "question": "What classroom supply, made by a company that shared its name with a crayon brand, was used to hold supplies in a yellow-green box?",
+      "options": ["Crayola", "Dixon Ticonderoga", "Faber-Castell", "Binney & Smith"],
+      "correctAnswer": 0,
+      "explanation": "Crayola, a brand of Binney & Smith, has been the standard classroom crayon since 1903. The iconic yellow-green box with the chevron design and the distinctive waxy smell are nostalgic for generations of students.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-14",
+      "question": "What did the 'Palmer Method,' taught in schools from the early 1900s through the 1960s, teach students?",
+      "options": ["Arithmetic", "Handwriting and penmanship", "Public speaking", "Physical fitness"],
+      "correctAnswer": 1,
+      "explanation": "The Palmer Method was a handwriting system emphasizing arm movement rather than finger movement to produce flowing cursive writing. It was the dominant handwriting instruction method in American schools for decades.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rsd-15",
+      "question": "What was 'new math,' a controversial education reform introduced in the 1960s?",
+      "options": ["Teaching math with calculators", "A curriculum emphasizing abstract concepts like set theory", "Teaching metric system exclusively", "A computer-based math program"],
+      "correctAnswer": 1,
+      "explanation": "New math was a curriculum reform in the 1960s that introduced abstract mathematical concepts like set theory, modular arithmetic, and number bases to elementary students. Many parents were baffled, leading to the famous Tom Lehrer song satirizing it.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

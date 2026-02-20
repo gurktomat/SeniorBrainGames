@@ -1,0 +1,144 @@
+{
+  "id": "famous-bridges",
+  "title": "Famous Bridges",
+  "description": "How well do you know the famous bridges of the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fbr-1",
+      "question": "In which city would you find the Golden Gate Bridge?",
+      "options": ["Los Angeles", "San Francisco", "Seattle", "San Diego"],
+      "correctAnswer": 1,
+      "explanation": "The Golden Gate Bridge spans the Golden Gate strait, connecting San Francisco to Marin County, California. Completed in 1937, it was the longest suspension bridge in the world at the time.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-2",
+      "question": "The Tower Bridge, with its distinctive twin towers, is a famous landmark in which city?",
+      "options": ["Paris", "London", "Edinburgh", "Dublin"],
+      "correctAnswer": 1,
+      "explanation": "Tower Bridge is a combined bascule and suspension bridge in London, England, built between 1886 and 1894. It crosses the River Thames close to the Tower of London, from which it takes its name.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-3",
+      "question": "The Brooklyn Bridge connects Brooklyn to which other New York City borough?",
+      "options": ["Queens", "The Bronx", "Manhattan", "Staten Island"],
+      "correctAnswer": 2,
+      "explanation": "The Brooklyn Bridge connects Brooklyn and Manhattan over the East River. Completed in 1883, it was the first steel-wire suspension bridge and the longest suspension bridge in the world at the time of its opening.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-4",
+      "question": "Which famous bridge in Sydney, Australia, is nicknamed 'The Coathanger'?",
+      "options": ["Anzac Bridge", "Gladesville Bridge", "Sydney Harbour Bridge", "Pyrmont Bridge"],
+      "correctAnswer": 2,
+      "explanation": "The Sydney Harbour Bridge, opened in 1932, is nicknamed 'The Coathanger' because of its distinctive arch-based design. It is the world's largest steel arch bridge and carries rail, vehicular, bicycle, and pedestrian traffic.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-5",
+      "question": "The Ponte Vecchio, a medieval stone bridge lined with shops, is located in which Italian city?",
+      "options": ["Rome", "Venice", "Florence", "Milan"],
+      "correctAnswer": 2,
+      "explanation": "The Ponte Vecchio (Old Bridge) spans the Arno River in Florence, Italy. Built in 1345, it is the only bridge in Florence to survive World War II and is famous for the shops built along it, now mostly jewelers.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-6",
+      "question": "The Rialto Bridge is a famous landmark in which Italian city known for its canals?",
+      "options": ["Naples", "Florence", "Venice", "Genoa"],
+      "correctAnswer": 2,
+      "explanation": "The Rialto Bridge is the oldest and most famous bridge spanning the Grand Canal in Venice, Italy. The current stone bridge was completed in 1591 and features shops along its span.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-7",
+      "question": "The Akashi Kaikyo Bridge in Japan held the record as the world's longest suspension bridge. Approximately how long is its main span?",
+      "options": ["991 meters", "1,280 meters", "1,991 meters", "2,500 meters"],
+      "correctAnswer": 2,
+      "explanation": "The Akashi Kaikyo Bridge, completed in 1998, has a main span of 1,991 meters (6,532 feet), making it one of the longest suspension bridges in the world. It connects Kobe to Awaji Island across the Akashi Strait.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-8",
+      "question": "Which famous bridge in Prague is decorated with 30 baroque statues and crosses the Vltava River?",
+      "options": ["Chain Bridge", "Charles Bridge", "Liberty Bridge", "Margaret Bridge"],
+      "correctAnswer": 1,
+      "explanation": "The Charles Bridge (Karluv Most) in Prague, Czech Republic, was built in 1357 under the direction of King Charles IV. The 621-meter bridge is decorated with 30 baroque statues installed between 1683 and 1714.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-9",
+      "question": "What color is the Golden Gate Bridge?",
+      "options": ["Gold", "Red", "International Orange", "Rust Brown"],
+      "correctAnswer": 2,
+      "explanation": "The Golden Gate Bridge is painted 'International Orange,' a color chosen by consulting architect Irving Morrow. The color was selected because it complements the natural surroundings, is visible in fog, and enhances the bridge's Art Deco design.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-10",
+      "question": "The Chain Bridge, the first permanent bridge across the Danube, is located in which European capital?",
+      "options": ["Vienna", "Budapest", "Belgrade", "Bratislava"],
+      "correctAnswer": 1,
+      "explanation": "The Széchenyi Chain Bridge was the first permanent bridge to connect Buda and Pest across the Danube River, opening in 1849. It is one of the most iconic landmarks of Budapest, Hungary.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-11",
+      "question": "Which French engineer designed the internal framework of the Statue of Liberty and built a famous tower?",
+      "options": ["Le Corbusier", "Gustave Eiffel", "Eugène Freyssinet", "Hector Guimard"],
+      "correctAnswer": 1,
+      "explanation": "Gustave Eiffel, famous for the Eiffel Tower, also designed the iron framework inside the Statue of Liberty. His engineering company was known for building bridges and metal structures across Europe and beyond.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-12",
+      "question": "The Millau Viaduct, the tallest bridge in the world, is located in which country?",
+      "options": ["Switzerland", "Italy", "France", "Spain"],
+      "correctAnswer": 2,
+      "explanation": "The Millau Viaduct in southern France, designed by Norman Foster, is the tallest bridge in the world with a structural height of 343 meters (1,125 feet). Completed in 2004, it spans the Tarn River valley.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-13",
+      "question": "The Danyang-Kunshan Grand Bridge in China holds the record as the world's longest bridge. Approximately how long is it?",
+      "options": ["55 kilometers", "105 kilometers", "165 kilometers", "200 kilometers"],
+      "correctAnswer": 2,
+      "explanation": "The Danyang-Kunshan Grand Bridge in China is approximately 164.8 kilometers (102.4 miles) long, making it the longest bridge in the world. It carries the Beijing-Shanghai High-Speed Railway and was completed in 2010.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-14",
+      "question": "Which suspension bridge, opened in 1998, connects Denmark and Sweden?",
+      "options": ["Great Belt Bridge", "Øresund Bridge", "Storebælt Bridge", "Öland Bridge"],
+      "correctAnswer": 1,
+      "explanation": "The Øresund Bridge (opened in 2000, not 1998) connects Copenhagen, Denmark, with Malmö, Sweden across the Øresund strait. It is actually a combined bridge-tunnel system, with the bridge portion being about 8 km long.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "fbr-15",
+      "question": "The Stari Most (Old Bridge) in Mostar, destroyed during the Bosnian War and later rebuilt, is located in which country?",
+      "options": ["Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro"],
+      "correctAnswer": 2,
+      "explanation": "The Stari Most is a rebuilt 16th-century Ottoman bridge in Mostar, Bosnia and Herzegovina. The original bridge, built in 1566, was destroyed in 1993 during the Bosnian War and was reconstructed and reopened in 2004 as a UNESCO World Heritage Site.",
+      "difficulty": "hard",
+      "category": "geography"
+    }
+  ]
+}

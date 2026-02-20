@@ -1,0 +1,144 @@
+{
+  "id": "earth-science",
+  "title": "Earth Science",
+  "description": "Test your knowledge of geology, weather, and our planet!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "es-1",
+      "question": "What is the outermost layer of the Earth called?",
+      "options": ["Mantle", "Core", "Crust", "Asthenosphere"],
+      "correctAnswer": 2,
+      "explanation": "The crust is the outermost layer of the Earth. It varies in thickness from about 3 miles under the oceans to about 25 miles under the continents.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "es-2",
+      "question": "What type of rock is formed from cooled lava or magma?",
+      "options": ["Sedimentary", "Metamorphic", "Igneous", "Limestone"],
+      "correctAnswer": 2,
+      "explanation": "Igneous rocks are formed when magma (underground) or lava (on the surface) cools and solidifies. Common examples include granite and basalt.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "es-3",
+      "question": "What scale is used to measure the magnitude of earthquakes?",
+      "options": ["Beaufort scale", "Richter scale", "Mohs scale", "Kelvin scale"],
+      "correctAnswer": 1,
+      "explanation": "The Richter scale (developed by Charles Richter in 1935) measures earthquake magnitude. Today, scientists more commonly use the moment magnitude scale, but 'Richter scale' remains the widely known term.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "es-4",
+      "question": "What percentage of the Earth's surface is covered by water?",
+      "options": ["About 51%", "About 61%", "About 71%", "About 81%"],
+      "correctAnswer": 2,
+      "explanation": "Approximately 71% of the Earth's surface is covered by water. The oceans hold about 96.5% of all Earth's water, with the Pacific Ocean being the largest.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "es-5",
+      "question": "What natural phenomenon is measured using the Beaufort scale?",
+      "options": ["Earthquakes", "Wind speed", "Rainfall", "Temperature"],
+      "correctAnswer": 1,
+      "explanation": "The Beaufort scale measures wind speed and was developed in 1805 by Sir Francis Beaufort of the Royal Navy. It ranges from 0 (calm) to 12 (hurricane force).",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "es-6",
+      "question": "What is the name of the supercontinent that existed approximately 335-175 million years ago?",
+      "options": ["Gondwana", "Laurasia", "Pangaea", "Rodinia"],
+      "correctAnswer": 2,
+      "explanation": "Pangaea was the supercontinent that existed during the late Paleozoic and early Mesozoic eras. It began to break apart about 175 million years ago, eventually forming the continents we know today.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "es-7",
+      "question": "What is the hardest natural mineral on Earth?",
+      "options": ["Quartz", "Topaz", "Corundum", "Diamond"],
+      "correctAnswer": 3,
+      "explanation": "Diamond is the hardest known natural mineral, rated 10 on the Mohs hardness scale. It is made of pure carbon arranged in a crystal structure and can only be scratched by another diamond.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "es-8",
+      "question": "What causes tides in the Earth's oceans?",
+      "options": ["Wind patterns", "Ocean currents", "Gravitational pull of the Moon and Sun", "Earth's rotation alone"],
+      "correctAnswer": 2,
+      "explanation": "Tides are primarily caused by the gravitational pull of the Moon, with a smaller contribution from the Sun. When the Moon and Sun align, they produce larger 'spring tides'; when at right angles, smaller 'neap tides.'",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "es-9",
+      "question": "The Ring of Fire, an area of frequent earthquakes and volcanic eruptions, encircles which ocean?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Ring of Fire encircles the Pacific Ocean, stretching from New Zealand along the eastern edge of Asia, north across the Aleutian Islands, and south along the west coast of the Americas. It contains about 75% of the world's active volcanoes.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "es-10",
+      "question": "What type of cloud is associated with thunderstorms and heavy precipitation?",
+      "options": ["Cirrus", "Stratus", "Cumulonimbus", "Altostratus"],
+      "correctAnswer": 2,
+      "explanation": "Cumulonimbus clouds are massive, towering clouds associated with thunderstorms, heavy rain, hail, lightning, and even tornadoes. They can extend from near ground level to over 40,000 feet in altitude.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "es-11",
+      "question": "What is the term for the point on the Earth's surface directly above where an earthquake originates?",
+      "options": ["Focus", "Epicenter", "Fault line", "Seismic zone"],
+      "correctAnswer": 1,
+      "explanation": "The epicenter is the point on the Earth's surface directly above the focus (or hypocenter), which is where the earthquake actually begins underground. The epicenter is typically where the strongest shaking is felt.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "es-12",
+      "question": "What geological process is responsible for the formation of the Himalayas?",
+      "options": ["Volcanic activity", "Continental drift and plate collision", "Erosion", "Glacial movement"],
+      "correctAnswer": 1,
+      "explanation": "The Himalayas were formed by the collision of the Indian tectonic plate with the Eurasian plate, which began about 50 million years ago. The mountains are still rising by about 5 mm per year.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "es-13",
+      "question": "What is the Mohorovicic discontinuity (Moho)?",
+      "options": ["The boundary between the crust and the mantle", "The center of the Earth", "A type of fault line", "The boundary between the mantle and the core"],
+      "correctAnswer": 0,
+      "explanation": "The Mohorovicic discontinuity (Moho) is the boundary between the Earth's crust and the mantle. Discovered by Croatian seismologist Andrija Mohorovicic in 1909, it is identified by a change in seismic wave velocity.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "es-14",
+      "question": "What phenomenon causes the Earth's magnetic poles to switch places over geological time?",
+      "options": ["Solar flares", "Geomagnetic reversal", "Continental drift", "Axial precession"],
+      "correctAnswer": 1,
+      "explanation": "Geomagnetic reversal is the phenomenon where the Earth's magnetic north and south poles switch places. This has happened hundreds of times over Earth's history, with the last reversal occurring about 780,000 years ago.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "es-15",
+      "question": "What is the approximate age of the Earth according to current scientific estimates?",
+      "options": ["2.5 billion years", "4.5 billion years", "6.5 billion years", "8.5 billion years"],
+      "correctAnswer": 1,
+      "explanation": "The Earth is approximately 4.5 billion years old (4.54 billion to be more precise), based on radiometric dating of meteorites and the oldest known rocks and minerals on Earth.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

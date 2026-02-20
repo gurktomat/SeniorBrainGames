@@ -1,0 +1,144 @@
+{
+  "id": "movie-year-quiz",
+  "title": "Movie Year Quiz",
+  "description": "Can you guess when these classic movies were released?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "myq-1",
+      "question": "In what year was 'The Wizard of Oz' released?",
+      "options": ["1935", "1937", "1939", "1941"],
+      "correctAnswer": 2,
+      "explanation": "'The Wizard of Oz' was released in 1939, starring Judy Garland. It is one of the most beloved films in cinema history.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "myq-2",
+      "question": "In what year was the original 'Star Wars' (Episode IV) released?",
+      "options": ["1975", "1977", "1979", "1980"],
+      "correctAnswer": 1,
+      "explanation": "The original 'Star Wars' (later subtitled 'A New Hope') was released in 1977 and became a massive cultural phenomenon.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "myq-3",
+      "question": "In what year was 'Jaws' released?",
+      "options": ["1973", "1974", "1975", "1976"],
+      "correctAnswer": 2,
+      "explanation": "'Jaws' was released in 1975, directed by Steven Spielberg. It is often considered the first summer blockbuster.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "myq-4",
+      "question": "In what year was 'E.T. the Extra-Terrestrial' released?",
+      "options": ["1980", "1981", "1982", "1983"],
+      "correctAnswer": 2,
+      "explanation": "'E.T. the Extra-Terrestrial' was released in 1982, directed by Steven Spielberg. It became the highest-grossing film of its time.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "myq-5",
+      "question": "In what year was 'Gone with the Wind' released?",
+      "options": ["1936", "1937", "1938", "1939"],
+      "correctAnswer": 3,
+      "explanation": "'Gone with the Wind' was released in 1939, the same year as 'The Wizard of Oz.' It won eight Academy Awards including Best Picture.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "myq-6",
+      "question": "In what year was 'The Godfather' released?",
+      "options": ["1970", "1971", "1972", "1973"],
+      "correctAnswer": 2,
+      "explanation": "'The Godfather' was released in 1972, directed by Francis Ford Coppola. It won the Academy Award for Best Picture.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "myq-7",
+      "question": "In what year was 'Casablanca' released?",
+      "options": ["1940", "1942", "1944", "1946"],
+      "correctAnswer": 1,
+      "explanation": "'Casablanca' was released in 1942, starring Humphrey Bogart and Ingrid Bergman. It won three Academy Awards including Best Picture.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "myq-8",
+      "question": "In what year was 'Schindler's List' released?",
+      "options": ["1991", "1993", "1995", "1997"],
+      "correctAnswer": 1,
+      "explanation": "'Schindler's List' was released in 1993, directed by Steven Spielberg. It won seven Academy Awards including Best Picture and Best Director.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "myq-9",
+      "question": "In what year was 'Titanic' released?",
+      "options": ["1995", "1996", "1997", "1998"],
+      "correctAnswer": 2,
+      "explanation": "'Titanic' was released in 1997, directed by James Cameron. It won 11 Academy Awards and was the highest-grossing film for over a decade.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "myq-10",
+      "question": "In what year was 'Psycho' by Alfred Hitchcock released?",
+      "options": ["1958", "1960", "1962", "1964"],
+      "correctAnswer": 1,
+      "explanation": "'Psycho' was released in 1960. Directed by Alfred Hitchcock, it is considered one of the greatest horror films ever made.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "myq-11",
+      "question": "In what year was 'Forrest Gump' released?",
+      "options": ["1992", "1993", "1994", "1995"],
+      "correctAnswer": 2,
+      "explanation": "'Forrest Gump' was released in 1994, starring Tom Hanks. It won six Academy Awards including Best Picture and Best Actor.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "myq-12",
+      "question": "In what year was 'The Sound of Music' released?",
+      "options": ["1963", "1964", "1965", "1966"],
+      "correctAnswer": 2,
+      "explanation": "'The Sound of Music' was released in 1965, starring Julie Andrews. It won five Academy Awards including Best Picture.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "myq-13",
+      "question": "In what year was 'Singin' in the Rain' released?",
+      "options": ["1950", "1952", "1954", "1956"],
+      "correctAnswer": 1,
+      "explanation": "'Singin' in the Rain' was released in 1952, starring Gene Kelly, Donald O'Connor, and Debbie Reynolds. It is considered one of the greatest musicals ever made.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "myq-14",
+      "question": "In what year was 'Back to the Future' released?",
+      "options": ["1983", "1984", "1985", "1986"],
+      "correctAnswer": 2,
+      "explanation": "'Back to the Future' was released in 1985, directed by Robert Zemeckis and starring Michael J. Fox. It became the highest-grossing film of 1985.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "myq-15",
+      "question": "In what year was '2001: A Space Odyssey' released?",
+      "options": ["1966", "1967", "1968", "1969"],
+      "correctAnswer": 2,
+      "explanation": "'2001: A Space Odyssey' was released in 1968, directed by Stanley Kubrick. It is widely regarded as one of the most influential films in cinema history.",
+      "difficulty": "hard",
+      "category": "recall"
+    }
+  ]
+}

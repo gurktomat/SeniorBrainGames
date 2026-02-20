@@ -1,0 +1,144 @@
+{
+  "id": "classic-detective-shows",
+  "title": "Classic Detective Shows",
+  "description": "Test your knowledge of classic TV detective and mystery shows!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cdts-1",
+      "question": "Which TV detective was famous for his rumpled raincoat, cigar, and the line 'Just one more thing...'?",
+      "options": ["Kojak", "Columbo", "Rockford", "Mannix"],
+      "correctAnswer": 1,
+      "explanation": "Peter Falk played Lieutenant Columbo from 1968 to 2003. His seemingly absent-minded detective, who always circled back with 'Just one more thing,' was actually a brilliant investigator.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-2",
+      "question": "What was the name of the detective show starring Tom Selleck set in Hawaii?",
+      "options": ["Hawaii Five-O", "Magnum, P.I.", "Jake and the Fatman", "The Rockford Files"],
+      "correctAnswer": 1,
+      "explanation": "Magnum, P.I. starred Tom Selleck as Thomas Magnum, a private investigator living in Hawaii. The show ran from 1980 to 1988 and was famous for Selleck's mustache and the red Ferrari 308.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-3",
+      "question": "Which detective show featured Jack Lord as Steve McGarrett and the famous line 'Book 'em, Danno'?",
+      "options": ["Barnaby Jones", "Hawaii Five-O", "Cannon", "The Streets of San Francisco"],
+      "correctAnswer": 1,
+      "explanation": "Hawaii Five-O ran from 1968 to 1980, making it one of the longest-running police shows of its era. Jack Lord's Steve McGarrett and his catchphrase became iconic parts of television history.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-4",
+      "question": "Who played the title role in the mystery series 'Murder, She Wrote'?",
+      "options": ["Helen Mirren", "Angela Lansbury", "Jean Stapleton", "Betty White"],
+      "correctAnswer": 1,
+      "explanation": "Angela Lansbury played mystery writer and amateur detective Jessica Fletcher in Murder, She Wrote from 1984 to 1996. Set in fictional Cabot Cove, Maine, the show was a massive hit with audiences.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-5",
+      "question": "Which bald detective, played by Telly Savalas, was known for sucking on a lollipop?",
+      "options": ["McCloud", "Kojak", "Ironside", "Baretta"],
+      "correctAnswer": 1,
+      "explanation": "Telly Savalas played Lieutenant Theo Kojak on the CBS series Kojak from 1973 to 1978. His lollipop habit (replacing his former smoking habit) and the phrase 'Who loves ya, baby?' became his trademarks.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-6",
+      "question": "Which detective show featured a cockatoo named Fred and the catchphrase 'Don't do the crime if you can't do the time'?",
+      "options": ["Starsky & Hutch", "Baretta", "The Mod Squad", "Adam-12"],
+      "correctAnswer": 1,
+      "explanation": "Baretta, starring Robert Blake, ran from 1975 to 1978. Tony Baretta was an unconventional plainclothes detective who kept a cockatoo named Fred. The show's theme song by Sammy Davis Jr. was a hit.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-7",
+      "question": "What was the name of Jim Rockford's answering machine, a running gag on The Rockford Files?",
+      "options": ["It played funny messages from callers at the start of each episode", "He never had an answering machine", "It was called 'Rocky'", "It always malfunctioned"],
+      "correctAnswer": 0,
+      "explanation": "Each episode of The Rockford Files (1974-1980) opened with Jim Rockford's answering machine playing a humorous message from various callers. James Garner starred as the laid-back private investigator.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-8",
+      "question": "Which detective show featured a wheelchair-bound former police chief played by Raymond Burr?",
+      "options": ["Ironside", "Cannon", "Perry Mason", "Longstreet"],
+      "correctAnswer": 0,
+      "explanation": "Ironside (1967-1975) starred Raymond Burr as Robert Ironside, a San Francisco police chief paralyzed by a sniper's bullet who continued to solve crimes from his wheelchair.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-9",
+      "question": "Which husband-and-wife detective team was featured in the 1970s-80s show 'Hart to Hart'?",
+      "options": ["Jonathan and Jennifer Hart", "Nick and Nora Charles", "David and Maddie Hayes", "Tommy and Tuppence Beresford"],
+      "correctAnswer": 0,
+      "explanation": "Robert Wagner and Stefanie Powers played the wealthy, glamorous Jonathan and Jennifer Hart in Hart to Hart (1979-1984). Their butler Max, played by Lionel Stander, narrated the opening.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-10",
+      "question": "Which actor played the suave British spy Simon Templar in the 1960s TV series 'The Saint'?",
+      "options": ["Sean Connery", "Patrick McGoohan", "Roger Moore", "David Niven"],
+      "correctAnswer": 2,
+      "explanation": "Roger Moore starred as Simon Templar in The Saint from 1962 to 1969. The role helped establish Moore as a leading man and eventually led to his casting as James Bond in 1973.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-11",
+      "question": "What was the profession of the main character in 'Quincy, M.E.' played by Jack Klugman?",
+      "options": ["Police detective", "District attorney", "Medical examiner", "Private investigator"],
+      "correctAnswer": 2,
+      "explanation": "Jack Klugman starred as Dr. Quincy, a Los Angeles County medical examiner who investigated suspicious deaths. The show ran from 1976 to 1983 and was ahead of its time in the forensic crime genre.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-12",
+      "question": "Which 1960s detective show featured a team of hip young undercover cops and the tagline 'One white, one black, one blonde'?",
+      "options": ["The Rookies", "The Mod Squad", "S.W.A.T.", "Adam-12"],
+      "correctAnswer": 1,
+      "explanation": "The Mod Squad (1968-1973) featured three young counterculture types — Pete, Linc, and Julie — recruited to work as undercover officers. It was groundbreaking for its diverse cast and youth-oriented approach.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-13",
+      "question": "Which detective show featured Dennis Weaver as a rural lawman who moves to New York City?",
+      "options": ["McCloud", "McMillan & Wife", "Banacek", "Hec Ramsey"],
+      "correctAnswer": 0,
+      "explanation": "McCloud (1970-1977) starred Dennis Weaver as Marshal Sam McCloud from Taos, New Mexico, assigned to the NYPD. The fish-out-of-water premise made for great comedy and crime-solving.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-14",
+      "question": "What was unique about the format of each Columbo episode?",
+      "options": ["It was filmed in real time", "The killer was revealed at the beginning, not the end", "Columbo narrated the entire episode", "Each episode had two possible endings"],
+      "correctAnswer": 1,
+      "explanation": "Columbo used an inverted detective story format — viewers saw the murder committed at the beginning. The suspense came from watching Columbo methodically unravel the killer's seemingly perfect alibi.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cdts-15",
+      "question": "Which 1975 detective show starred David Soul and Paul Michael Glaser as plainclothes cops who drove a red Ford Gran Torino?",
+      "options": ["CHiPs", "Starsky & Hutch", "The Streets of San Francisco", "Cagney & Lacey"],
+      "correctAnswer": 1,
+      "explanation": "Starsky & Hutch ran from 1975 to 1979 on ABC. The red Ford Gran Torino with the white vector stripe became one of TV's most famous cars, and their street informant Huggy Bear was a fan favorite.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

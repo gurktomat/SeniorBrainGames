@@ -1,0 +1,144 @@
+{
+  "id": "state-capitals-recall",
+  "title": "State Capitals Recall",
+  "description": "How well do you know the capital cities of U.S. states?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "scr-1",
+      "question": "What is the capital of California?",
+      "options": ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
+      "correctAnswer": 2,
+      "explanation": "Sacramento is the capital of California. Despite Los Angeles being the largest city, Sacramento has been the state capital since 1854.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "scr-2",
+      "question": "What is the capital of Texas?",
+      "options": ["Houston", "Dallas", "San Antonio", "Austin"],
+      "correctAnswer": 3,
+      "explanation": "Austin is the capital of Texas. It was named after Stephen F. Austin, known as the 'Father of Texas.'",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "scr-3",
+      "question": "What is the capital of New York?",
+      "options": ["New York City", "Buffalo", "Albany", "Syracuse"],
+      "correctAnswer": 2,
+      "explanation": "Albany is the capital of New York. Although New York City is the largest city, Albany has served as the state capital since 1797.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "scr-4",
+      "question": "What is the capital of Florida?",
+      "options": ["Miami", "Orlando", "Tampa", "Tallahassee"],
+      "correctAnswer": 3,
+      "explanation": "Tallahassee is the capital of Florida. It was chosen as the capital in 1824 because of its central location between the two major cities of the time.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "scr-5",
+      "question": "What is the capital of Illinois?",
+      "options": ["Chicago", "Springfield", "Peoria", "Rockford"],
+      "correctAnswer": 1,
+      "explanation": "Springfield is the capital of Illinois. It is also famous as the hometown of Abraham Lincoln before he became president.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "scr-6",
+      "question": "What is the capital of Pennsylvania?",
+      "options": ["Philadelphia", "Pittsburgh", "Harrisburg", "Allentown"],
+      "correctAnswer": 2,
+      "explanation": "Harrisburg is the capital of Pennsylvania. It sits on the Susquehanna River and has been the capital since 1812.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "scr-7",
+      "question": "What is the capital of Oregon?",
+      "options": ["Portland", "Eugene", "Salem", "Bend"],
+      "correctAnswer": 2,
+      "explanation": "Salem is the capital of Oregon. It became the capital when Oregon achieved statehood in 1859.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "scr-8",
+      "question": "What is the capital of Louisiana?",
+      "options": ["New Orleans", "Baton Rouge", "Shreveport", "Lafayette"],
+      "correctAnswer": 1,
+      "explanation": "Baton Rouge is the capital of Louisiana. The name means 'red stick' in French, referring to a cypress tree that marked the boundary between two tribal territories.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "scr-9",
+      "question": "What is the capital of Montana?",
+      "options": ["Billings", "Missoula", "Great Falls", "Helena"],
+      "correctAnswer": 3,
+      "explanation": "Helena is the capital of Montana. It was founded as a gold camp in 1864 and became the state capital in 1875.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "scr-10",
+      "question": "What is the capital of Kentucky?",
+      "options": ["Louisville", "Lexington", "Frankfort", "Bowling Green"],
+      "correctAnswer": 2,
+      "explanation": "Frankfort is the capital of Kentucky. It is one of the smallest state capitals in the U.S., with a population of about 28,000.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "scr-11",
+      "question": "What is the capital of South Dakota?",
+      "options": ["Sioux Falls", "Rapid City", "Pierre", "Aberdeen"],
+      "correctAnswer": 2,
+      "explanation": "Pierre is the capital of South Dakota. It is the second least populous state capital in the U.S. and is named after Pierre Chouteau Jr., a fur trader.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "scr-12",
+      "question": "What is the capital of Vermont?",
+      "options": ["Burlington", "Montpelier", "Rutland", "Brattleboro"],
+      "correctAnswer": 1,
+      "explanation": "Montpelier is the capital of Vermont. With a population of about 8,000, it is the least populous state capital in the United States.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "scr-13",
+      "question": "What is the capital of Missouri?",
+      "options": ["St. Louis", "Kansas City", "Springfield", "Jefferson City"],
+      "correctAnswer": 3,
+      "explanation": "Jefferson City is the capital of Missouri, named after President Thomas Jefferson. It is situated along the Missouri River.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "scr-14",
+      "question": "What is the capital of New Hampshire?",
+      "options": ["Manchester", "Nashua", "Concord", "Portsmouth"],
+      "correctAnswer": 2,
+      "explanation": "Concord is the capital of New Hampshire. The New Hampshire State House, built in 1819, is the oldest state house in which the legislature still meets in its original chambers.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "scr-15",
+      "question": "What is the capital of Nevada?",
+      "options": ["Las Vegas", "Reno", "Henderson", "Carson City"],
+      "correctAnswer": 3,
+      "explanation": "Carson City is the capital of Nevada. It was named after the famous frontiersman Kit Carson and has been the capital since Nevada became a state in 1864.",
+      "difficulty": "hard",
+      "category": "geography"
+    }
+  ]
+}

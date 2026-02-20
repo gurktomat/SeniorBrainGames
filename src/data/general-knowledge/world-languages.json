@@ -1,0 +1,144 @@
+{
+  "id": "world-languages",
+  "title": "World Languages",
+  "description": "How well do you know the languages of the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wl-1",
+      "question": "What is the most spoken language in the world by total number of speakers?",
+      "options": ["Spanish", "Mandarin Chinese", "English", "Hindi"],
+      "correctAnswer": 2,
+      "explanation": "English is the most spoken language in the world by total speakers (native + non-native), with approximately 1.5 billion speakers. Mandarin Chinese has the most native speakers.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wl-2",
+      "question": "Which language uses the Cyrillic alphabet?",
+      "options": ["Polish", "Turkish", "Russian", "Hungarian"],
+      "correctAnswer": 2,
+      "explanation": "Russian uses the Cyrillic alphabet, which was developed in the 9th century and is named after Saint Cyril, a Byzantine missionary. Other languages using Cyrillic include Bulgarian, Serbian, and Ukrainian.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wl-3",
+      "question": "What is the official language of Brazil?",
+      "options": ["Spanish", "Portuguese", "French", "Brazilian"],
+      "correctAnswer": 1,
+      "explanation": "Portuguese is the official language of Brazil due to its colonization by Portugal. Brazil is the largest Portuguese-speaking country in the world, with over 210 million speakers.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wl-4",
+      "question": "Which of these languages is written from right to left?",
+      "options": ["Hindi", "Greek", "Arabic", "Thai"],
+      "correctAnswer": 2,
+      "explanation": "Arabic is written and read from right to left. Other right-to-left languages include Hebrew, Persian (Farsi), and Urdu.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wl-5",
+      "question": "How many official languages does the United Nations have?",
+      "options": ["4", "5", "6", "8"],
+      "correctAnswer": 2,
+      "explanation": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish. These were chosen to represent the world's major linguistic groups.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wl-6",
+      "question": "Which country has the most official languages?",
+      "options": ["India", "South Africa", "Zimbabwe", "Bolivia"],
+      "correctAnswer": 2,
+      "explanation": "Zimbabwe has 16 official languages, including Shona, Ndebele, English, and 13 others recognized in its 2013 constitution. South Africa has 12 and Bolivia has 37 recognized languages but fewer official ones.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wl-7",
+      "question": "What language family does Finnish belong to?",
+      "options": ["Indo-European", "Uralic", "Slavic", "Germanic"],
+      "correctAnswer": 1,
+      "explanation": "Finnish belongs to the Uralic language family, along with Hungarian and Estonian. Despite being in Northern Europe, Finnish is not related to its Scandinavian neighbors' languages.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wl-8",
+      "question": "Which ancient language is considered the ancestor of French, Spanish, Italian, and Portuguese?",
+      "options": ["Greek", "Latin", "Sanskrit", "Celtic"],
+      "correctAnswer": 1,
+      "explanation": "Latin, the language of the Roman Empire, evolved into the Romance languages including French, Spanish, Italian, Portuguese, and Romanian.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wl-9",
+      "question": "What is the most widely spoken language in Africa?",
+      "options": ["Swahili", "Zulu", "Amharic", "Yoruba"],
+      "correctAnswer": 0,
+      "explanation": "Swahili (Kiswahili) is the most widely spoken language in Africa, with over 100 million speakers. It serves as a lingua franca in much of East Africa and is an official language of the African Union.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wl-10",
+      "question": "Which language has the most letters in its alphabet?",
+      "options": ["Russian", "Greek", "Khmer (Cambodian)", "Arabic"],
+      "correctAnswer": 2,
+      "explanation": "The Khmer (Cambodian) alphabet holds the Guinness World Record for the largest alphabet, with 74 letters. It is derived from the Indian Pallava script.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wl-11",
+      "question": "What writing system does Japanese use that was borrowed from Chinese?",
+      "options": ["Hiragana", "Katakana", "Kanji", "Romaji"],
+      "correctAnswer": 2,
+      "explanation": "Kanji are Chinese characters adopted for use in written Japanese. Japanese uses three writing systems: kanji (Chinese characters), hiragana, and katakana (both developed in Japan).",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wl-12",
+      "question": "Which constructed language was created in 1887 with the goal of being an easy-to-learn universal second language?",
+      "options": ["Elvish", "Klingon", "Esperanto", "Volapük"],
+      "correctAnswer": 2,
+      "explanation": "Esperanto was created in 1887 by L. L. Zamenhof, a Polish ophthalmologist. It was designed to be easy to learn and serve as a universal second language to foster world peace.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wl-13",
+      "question": "Which of these languages is a tonal language, where pitch changes the meaning of words?",
+      "options": ["Japanese", "Korean", "Mandarin Chinese", "Mongolian"],
+      "correctAnswer": 2,
+      "explanation": "Mandarin Chinese is a tonal language with four tones plus a neutral tone. The same syllable pronounced with different tones can have completely different meanings.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wl-14",
+      "question": "What is the oldest known written language still in use today?",
+      "options": ["Hebrew", "Chinese", "Greek", "Tamil"],
+      "correctAnswer": 1,
+      "explanation": "Chinese has the longest continuous history of any written language still in use, with characters dating back over 3,000 years to the Shang dynasty oracle bone inscriptions.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wl-15",
+      "question": "In which country would you most commonly hear the language Tagalog spoken?",
+      "options": ["Indonesia", "Malaysia", "Philippines", "Vietnam"],
+      "correctAnswer": 2,
+      "explanation": "Tagalog is one of the major languages of the Philippines and forms the basis of Filipino, the national language. It is spoken by about a quarter of the Philippine population as a first language.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

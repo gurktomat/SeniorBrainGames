@@ -1,0 +1,144 @@
+{
+  "id": "famous-battles",
+  "title": "Famous Battles",
+  "description": "Test your knowledge of history's most significant battles!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fbt-1",
+      "question": "The Battle of Waterloo in 1815 marked the final defeat of which military leader?",
+      "options": ["Alexander the Great", "Julius Caesar", "Napoleon Bonaparte", "Frederick the Great"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Waterloo on June 18, 1815, was Napoleon Bonaparte's final defeat. He was defeated by the Duke of Wellington's Allied army and Prussian forces under Blücher in present-day Belgium.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fbt-2",
+      "question": "D-Day, the largest seaborne invasion in history, took place on the beaches of which region?",
+      "options": ["Sicily", "Normandy", "Dunkirk", "Okinawa"],
+      "correctAnswer": 1,
+      "explanation": "D-Day occurred on June 6, 1944, when Allied forces landed on the beaches of Normandy, France. Over 156,000 troops crossed the English Channel, marking a turning point in World War II.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fbt-3",
+      "question": "The Battle of Gettysburg was a major turning point in which war?",
+      "options": ["American Revolution", "War of 1812", "American Civil War", "Mexican-American War"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Gettysburg (July 1-3, 1863) was the bloodiest battle of the American Civil War and is considered a major turning point. The Union victory ended Confederate General Robert E. Lee's invasion of the North.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fbt-4",
+      "question": "At which battle in 480 BC did 300 Spartans famously hold off a massive Persian army?",
+      "options": ["Marathon", "Salamis", "Thermopylae", "Plataea"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Thermopylae in 480 BC saw King Leonidas and 300 Spartans (along with several thousand other Greeks) make a famous last stand against the Persian army of Xerxes I at a narrow coastal pass.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fbt-5",
+      "question": "Which battle in 1066 resulted in William the Conqueror becoming King of England?",
+      "options": ["Battle of Crécy", "Battle of Hastings", "Battle of Agincourt", "Battle of Stamford Bridge"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Hastings on October 14, 1066, saw William, Duke of Normandy, defeat King Harold II of England. This Norman conquest fundamentally changed English culture, language, and governance.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fbt-6",
+      "question": "The Battle of Stalingrad (1942-1943) is considered the turning point of which conflict?",
+      "options": ["World War I", "World War II's Eastern Front", "Korean War", "Russian Civil War"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Stalingrad (August 1942 - February 1943) was a decisive Soviet victory against Nazi Germany on the Eastern Front of World War II. It is considered one of the bloodiest battles in history with nearly 2 million casualties.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fbt-7",
+      "question": "At which 1805 naval battle did Admiral Nelson defeat the combined French and Spanish fleets?",
+      "options": ["Battle of the Nile", "Battle of Trafalgar", "Battle of Jutland", "Battle of Midway"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Trafalgar on October 21, 1805, was a decisive British naval victory against Napoleon's fleet off the coast of Spain. Admiral Horatio Nelson was killed during the battle but secured British naval supremacy.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fbt-8",
+      "question": "Which 1942 naval battle is considered the turning point of the Pacific War?",
+      "options": ["Battle of Coral Sea", "Battle of Midway", "Battle of Leyte Gulf", "Battle of Philippine Sea"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Midway (June 4-7, 1942) was a decisive U.S. naval victory against Japan. The U.S. sank four Japanese aircraft carriers, shifting the balance of naval power in the Pacific to the Allies.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fbt-9",
+      "question": "The Battle of the Somme in 1916, one of the bloodiest battles in history, took place during which war?",
+      "options": ["Napoleonic Wars", "Franco-Prussian War", "World War I", "World War II"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of the Somme (July-November 1916) was one of the largest and deadliest battles of World War I. On the first day alone, the British Army suffered about 57,000 casualties.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fbt-10",
+      "question": "Which battle in 1776 was George Washington's famous surprise crossing of the Delaware River?",
+      "options": ["Battle of Bunker Hill", "Battle of Trenton", "Battle of Yorktown", "Battle of Saratoga"],
+      "correctAnswer": 1,
+      "explanation": "On Christmas night 1776, George Washington led his troops across the icy Delaware River to surprise Hessian forces at the Battle of Trenton, New Jersey. This critical victory boosted American morale during the Revolutionary War.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fbt-11",
+      "question": "The Battle of Agincourt in 1415, where English longbowmen defeated a larger French force, was part of which conflict?",
+      "options": ["Wars of the Roses", "Hundred Years' War", "Thirty Years' War", "Crusades"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Agincourt on October 25, 1415, was a major English victory during the Hundred Years' War. King Henry V's outnumbered army, relying heavily on longbowmen, defeated a much larger French force.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fbt-12",
+      "question": "At which 331 BC battle did Alexander the Great decisively defeat the Persian Empire?",
+      "options": ["Battle of Issus", "Battle of Granicus", "Battle of Gaugamela", "Battle of Hydaspes"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Gaugamela in 331 BC was Alexander the Great's decisive victory over Persian King Darius III. Despite being outnumbered, Alexander's superior tactics led to the fall of the Persian Empire.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fbt-13",
+      "question": "The Battle of Verdun in 1916, one of the longest and costliest battles in history, was primarily between which two nations?",
+      "options": ["Britain and Germany", "France and Germany", "Russia and Germany", "Italy and Austria-Hungary"],
+      "correctAnswer": 1,
+      "explanation": "The Battle of Verdun (February-December 1916) was primarily fought between France and Germany during World War I. It lasted 303 days and resulted in approximately 700,000 combined casualties.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fbt-14",
+      "question": "Which 1571 naval battle was the last major engagement between rowing vessels and ended Ottoman naval dominance in the Mediterranean?",
+      "options": ["Battle of Lepanto", "Battle of Actium", "Battle of Salamis", "Battle of Preveza"],
+      "correctAnswer": 0,
+      "explanation": "The Battle of Lepanto on October 7, 1571, saw a coalition of Christian states (the Holy League) defeat the Ottoman fleet. It was one of history's most decisive naval battles and the last major engagement between oared warships.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fbt-15",
+      "question": "The Battle of Cannae in 216 BC, considered one of the greatest tactical victories in military history, was won by which commander?",
+      "options": ["Scipio Africanus", "Julius Caesar", "Hannibal Barca", "Pyrrhus of Epirus"],
+      "correctAnswer": 2,
+      "explanation": "Carthaginian general Hannibal Barca won the Battle of Cannae in 216 BC against Rome using a brilliant double-envelopment tactic. Despite being outnumbered, Hannibal's forces surrounded and annihilated a much larger Roman army.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

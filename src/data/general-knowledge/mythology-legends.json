@@ -1,0 +1,144 @@
+{
+  "id": "mythology-legends",
+  "title": "Mythology & Legends",
+  "description": "How well do you know the myths and legends from around the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ml-1",
+      "question": "In Greek mythology, who is the king of the gods?",
+      "options": ["Poseidon", "Hades", "Zeus", "Apollo"],
+      "correctAnswer": 2,
+      "explanation": "Zeus is the king of the gods in Greek mythology, ruling from Mount Olympus. He is the god of the sky, lightning, and thunder, and the youngest son of the Titans Cronus and Rhea.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "ml-2",
+      "question": "In Norse mythology, what is the name of the mighty hammer wielded by Thor?",
+      "options": ["Gungnir", "Mjolnir", "Excalibur", "Gram"],
+      "correctAnswer": 1,
+      "explanation": "Mjolnir is Thor's legendary hammer in Norse mythology. Forged by the dwarven brothers Sindri and Brokkr, it was said to be so powerful it could level mountains and always returned to Thor's hand after being thrown.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "ml-3",
+      "question": "What mythical creature has the body of a lion and the head and wings of an eagle?",
+      "options": ["Chimera", "Sphinx", "Griffin", "Manticore"],
+      "correctAnswer": 2,
+      "explanation": "The griffin (or gryphon) is a legendary creature with the body of a lion and the head and wings of an eagle. It appears in myths from ancient Egypt, Persia, and Greece, symbolizing strength and vigilance.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "ml-4",
+      "question": "In Roman mythology, who is the equivalent of the Greek god Zeus?",
+      "options": ["Mars", "Jupiter", "Neptune", "Mercury"],
+      "correctAnswer": 1,
+      "explanation": "Jupiter is the Roman equivalent of Zeus, serving as the king of the gods and the god of the sky and thunder. The planet Jupiter was named after him because it is the largest in our solar system.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "ml-5",
+      "question": "King Arthur's legendary sword, pulled from a stone, is known by what name?",
+      "options": ["Durandal", "Excalibur", "Joyeuse", "Clarent"],
+      "correctAnswer": 1,
+      "explanation": "Excalibur is King Arthur's legendary sword. In some versions of the legend, Arthur pulls the sword from a stone to prove his right to be king; in others, it is given to him by the Lady of the Lake.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "ml-6",
+      "question": "In Greek mythology, who was sentenced to push a boulder up a hill for eternity, only for it to roll back down each time?",
+      "options": ["Prometheus", "Tantalus", "Sisyphus", "Atlas"],
+      "correctAnswer": 2,
+      "explanation": "Sisyphus was punished by the gods to roll an immense boulder up a hill, only for it to roll back down each time it neared the top, condemning him to an eternity of futile labor.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "ml-7",
+      "question": "In Hindu mythology, what is the name of the epic poem about Prince Rama's quest to rescue his wife Sita?",
+      "options": ["Mahabharata", "Bhagavad Gita", "Ramayana", "Vedas"],
+      "correctAnswer": 2,
+      "explanation": "The Ramayana is one of the great Hindu epics, telling the story of Prince Rama's journey to rescue his wife Sita from the demon king Ravana. It was composed by the sage Valmiki around 500 BC.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "ml-8",
+      "question": "In Egyptian mythology, which god has the head of a jackal and is associated with mummification and the afterlife?",
+      "options": ["Horus", "Osiris", "Ra", "Anubis"],
+      "correctAnswer": 3,
+      "explanation": "Anubis is the Egyptian god of mummification and the afterlife, often depicted with a jackal head. He was believed to guide the dead to the underworld and oversee the weighing of the heart ceremony.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "ml-9",
+      "question": "In Norse mythology, what is Ragnarok?",
+      "options": ["Thor's kingdom", "The World Tree", "The end of the world", "The rainbow bridge"],
+      "correctAnswer": 2,
+      "explanation": "Ragnarok is the prophesied end of the world in Norse mythology — a great battle in which many gods, including Odin and Thor, will perish. After the destruction, the world is expected to be reborn anew.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "ml-10",
+      "question": "In Greek mythology, what creature did the hero Theseus slay in the Labyrinth on Crete?",
+      "options": ["Medusa", "The Hydra", "The Minotaur", "Cerberus"],
+      "correctAnswer": 2,
+      "explanation": "Theseus slew the Minotaur, a creature with the body of a man and the head of a bull, in the Labyrinth beneath King Minos's palace on Crete. He found his way out using a thread given to him by Ariadne.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "ml-11",
+      "question": "In Japanese mythology, what is the name of the sun goddess and chief deity of the Shinto pantheon?",
+      "options": ["Tsukuyomi", "Susanoo", "Amaterasu", "Izanami"],
+      "correctAnswer": 2,
+      "explanation": "Amaterasu is the sun goddess and the most important deity in the Shinto religion. According to legend, she hid in a cave, plunging the world into darkness, until other gods lured her out with a mirror.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "ml-12",
+      "question": "In Celtic mythology, what is the name of the otherworldly island paradise, sometimes called the 'Land of the Young'?",
+      "options": ["Avalon", "Tir na nOg", "Valhalla", "Elysium"],
+      "correctAnswer": 1,
+      "explanation": "Tir na nOg (meaning 'Land of the Young' or 'Land of Youth') is a supernatural realm in Irish mythology where time stands still and inhabitants never age. It is one of the most famous realms in Celtic tradition.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "ml-13",
+      "question": "In Aztec mythology, Quetzalcoatl is depicted as what type of creature?",
+      "options": ["A jaguar warrior", "A feathered serpent", "An eagle god", "A fire demon"],
+      "correctAnswer": 1,
+      "explanation": "Quetzalcoatl, whose name means 'feathered serpent,' is one of the most important deities in Aztec and Mesoamerican mythology. He was the god of wind, air, and learning, and was associated with creation itself.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "ml-14",
+      "question": "In Greek mythology, who is the ferryman of the dead, transporting souls across the river Styx to the underworld?",
+      "options": ["Hermes", "Hades", "Charon", "Thanatos"],
+      "correctAnswer": 2,
+      "explanation": "Charon is the ferryman of Hades who carries the souls of the newly deceased across the rivers Styx and Acheron to the underworld. The ancient Greeks placed a coin (obol) in the mouths of the dead to pay his fare.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "ml-15",
+      "question": "In Finnish mythology, what is the Kalevala?",
+      "options": ["A dragon that guards treasure", "The national epic poem", "The god of thunder", "A magical sword"],
+      "correctAnswer": 1,
+      "explanation": "The Kalevala is the Finnish national epic, compiled by Elias Lonnrot from Finnish and Karelian oral folklore and mythology in the 19th century. It had a profound influence on Finnish national identity and inspired Tolkien's works.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

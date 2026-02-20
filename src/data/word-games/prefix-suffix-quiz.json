@@ -1,0 +1,144 @@
+{
+  "id": "prefix-suffix-quiz",
+  "title": "Prefix & Suffix Quiz",
+  "description": "Test your knowledge of common prefixes and suffixes!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ps-1",
+      "question": "What does the prefix 'anti-' mean?",
+      "options": ["Before", "Against", "After", "With"],
+      "correctAnswer": 1,
+      "explanation": "The prefix 'anti-' comes from Greek and means 'against' or 'opposite of,' as in antibiotic or antisocial.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ps-2",
+      "question": "Which suffix turns a verb into a noun meaning 'one who does'?",
+      "options": ["-ment", "-ness", "-er", "-ful"],
+      "correctAnswer": 2,
+      "explanation": "The suffix '-er' is added to verbs to create a noun meaning 'one who does' the action, such as teacher, singer, or builder.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ps-3",
+      "question": "What does the prefix 'pre-' mean in the word 'preview'?",
+      "options": ["After", "During", "Before", "Without"],
+      "correctAnswer": 2,
+      "explanation": "The prefix 'pre-' means 'before.' A preview is a viewing of something before it is officially released.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ps-4",
+      "question": "Which suffix means 'full of' or 'characterized by'?",
+      "options": ["-less", "-ous", "-ment", "-tion"],
+      "correctAnswer": 1,
+      "explanation": "The suffix '-ous' means 'full of' or 'characterized by,' as in joyous (full of joy) or dangerous (full of danger).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ps-5",
+      "question": "What does the prefix 'un-' do to a word?",
+      "options": ["Makes it plural", "Reverses or negates its meaning", "Makes it past tense", "Makes it a noun"],
+      "correctAnswer": 1,
+      "explanation": "The prefix 'un-' reverses or negates the meaning of the base word, as in unhappy, undo, or unclear.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ps-6",
+      "question": "What does the prefix 'bi-' mean?",
+      "options": ["One", "Three", "Half", "Two"],
+      "correctAnswer": 3,
+      "explanation": "The prefix 'bi-' means 'two,' as in bicycle (two wheels), bilingual (two languages), or biannual (twice a year).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ps-7",
+      "question": "Which suffix means 'without'?",
+      "options": ["-ful", "-less", "-able", "-ment"],
+      "correctAnswer": 1,
+      "explanation": "The suffix '-less' means 'without,' as in homeless (without a home) or careless (without care).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ps-8",
+      "question": "What does the prefix 'trans-' mean in 'transport'?",
+      "options": ["Under", "Over", "Across", "Into"],
+      "correctAnswer": 2,
+      "explanation": "The prefix 'trans-' means 'across' or 'beyond.' Transport literally means to carry across from one place to another.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ps-9",
+      "question": "Which suffix turns an adjective into a noun indicating a state or quality?",
+      "options": ["-ly", "-ness", "-ize", "-ful"],
+      "correctAnswer": 1,
+      "explanation": "The suffix '-ness' turns adjectives into nouns indicating a state or quality, as in happiness, kindness, or darkness.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ps-10",
+      "question": "What does the prefix 'sub-' mean?",
+      "options": ["Above", "Below or under", "Next to", "Inside"],
+      "correctAnswer": 1,
+      "explanation": "The prefix 'sub-' means 'below' or 'under,' as in submarine (under the sea), subway (under the way/road), or subterranean.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ps-11",
+      "question": "What does the prefix 'mis-' convey in 'misunderstand'?",
+      "options": ["Completely", "Wrongly or badly", "Again", "Not"],
+      "correctAnswer": 1,
+      "explanation": "The prefix 'mis-' means 'wrongly' or 'badly,' so misunderstand means to understand wrongly or incorrectly.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ps-12",
+      "question": "Which suffix means 'the act or process of'?",
+      "options": ["-tion", "-ly", "-er", "-ful"],
+      "correctAnswer": 0,
+      "explanation": "The suffix '-tion' (or '-sion') means 'the act or process of,' as in creation (the act of creating) or education (the process of educating).",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ps-13",
+      "question": "What does the prefix 'circum-' mean in 'circumnavigate'?",
+      "options": ["Through", "Around", "Between", "Beyond"],
+      "correctAnswer": 1,
+      "explanation": "The prefix 'circum-' means 'around.' To circumnavigate means to navigate or sail around something, typically the world.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ps-14",
+      "question": "Which suffix in 'magnify' means 'to make'?",
+      "options": ["-ify", "-ily", "-ity", "-ism"],
+      "correctAnswer": 0,
+      "explanation": "The suffix '-ify' (or '-fy') means 'to make' or 'to cause to become,' as in magnify (make larger), simplify (make simple), or purify (make pure).",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ps-15",
+      "question": "What does the prefix 'pseudo-' mean?",
+      "options": ["True", "New", "False or fake", "Old"],
+      "correctAnswer": 2,
+      "explanation": "The prefix 'pseudo-' comes from Greek and means 'false' or 'fake,' as in pseudonym (false name) or pseudoscience (false science).",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

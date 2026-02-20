@@ -1,0 +1,144 @@
+{
+  "id": "element-symbols",
+  "title": "Element Symbols",
+  "description": "Can you match chemical elements to their symbols?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "els-1",
+      "question": "What is the chemical symbol for Gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2,
+      "explanation": "Gold's chemical symbol is Au, derived from the Latin word 'aurum' meaning gold.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "els-2",
+      "question": "What element does the symbol 'O' represent?",
+      "options": ["Osmium", "Oganesson", "Oxygen", "Olivine"],
+      "correctAnswer": 2,
+      "explanation": "O is the chemical symbol for Oxygen, the element essential for human respiration. It makes up about 21% of Earth's atmosphere.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "els-3",
+      "question": "What is the chemical symbol for Iron?",
+      "options": ["Ir", "In", "Fe", "Io"],
+      "correctAnswer": 2,
+      "explanation": "Iron's chemical symbol is Fe, from the Latin word 'ferrum.' Iron is the most common element on Earth by mass.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "els-4",
+      "question": "Which element has the symbol 'Na'?",
+      "options": ["Nitrogen", "Neon", "Sodium", "Nickel"],
+      "correctAnswer": 2,
+      "explanation": "Na is the symbol for Sodium, from the Latin word 'natrium.' Sodium is an essential mineral found in table salt (NaCl).",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "els-5",
+      "question": "What is the chemical symbol for Carbon?",
+      "options": ["Ca", "C", "Co", "Cr"],
+      "correctAnswer": 1,
+      "explanation": "Carbon's symbol is simply C. It is the basis of organic chemistry and is found in all known living organisms.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "els-6",
+      "question": "What element does the symbol 'Ag' represent?",
+      "options": ["Argon", "Silver", "Aluminum", "Arsenic"],
+      "correctAnswer": 1,
+      "explanation": "Ag is the symbol for Silver, from the Latin word 'argentum.' Silver has been used in coins, jewelry, and photography.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "els-7",
+      "question": "Which element has the symbol 'K'?",
+      "options": ["Krypton", "Potassium", "Calcium", "Cadmium"],
+      "correctAnswer": 1,
+      "explanation": "K is the symbol for Potassium, from the Latin 'kalium.' Potassium is an essential mineral important for heart and muscle function.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "els-8",
+      "question": "What is the chemical symbol for Mercury?",
+      "options": ["Me", "Mr", "Hg", "Mc"],
+      "correctAnswer": 2,
+      "explanation": "Mercury's symbol is Hg, from the Latin 'hydrargyrum' meaning liquid silver. Mercury is the only metal that is liquid at room temperature.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "els-9",
+      "question": "Which element has the symbol 'Pb'?",
+      "options": ["Palladium", "Platinum", "Lead", "Phosphorus"],
+      "correctAnswer": 2,
+      "explanation": "Pb is the symbol for Lead, from the Latin word 'plumbum.' This is also the origin of the word 'plumbing,' as Romans used lead pipes.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "els-10",
+      "question": "What element does the symbol 'Cu' represent?",
+      "options": ["Curium", "Copper", "Cobalt", "Calcium"],
+      "correctAnswer": 1,
+      "explanation": "Cu is the symbol for Copper, from the Latin 'cuprum,' named after the island of Cyprus where it was mined in ancient times.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "els-11",
+      "question": "Which element has the symbol 'Sn'?",
+      "options": ["Silicon", "Tin", "Strontium", "Selenium"],
+      "correctAnswer": 1,
+      "explanation": "Sn is the symbol for Tin, from the Latin 'stannum.' Tin has been used since ancient times, notably in bronze (an alloy of tin and copper).",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "els-12",
+      "question": "What element does the symbol 'W' represent?",
+      "options": ["Tungsten", "Wolfram", "Both A and B are the same element", "Waste"],
+      "correctAnswer": 2,
+      "explanation": "W is the symbol for Tungsten, also known as Wolfram. The symbol comes from 'wolfram,' its older German name. Tungsten has the highest melting point of all elements.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "els-13",
+      "question": "Which element has the symbol 'Sb'?",
+      "options": ["Sulfur", "Antimony", "Stibium", "Samarium"],
+      "correctAnswer": 1,
+      "explanation": "Sb is the symbol for Antimony, from the Latin 'stibium.' Antimony has been known since ancient times and is used in flame-retardant materials.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "els-14",
+      "question": "What is the chemical symbol for Xenon?",
+      "options": ["X", "Xn", "Xe", "Xo"],
+      "correctAnswer": 2,
+      "explanation": "Xenon's chemical symbol is Xe. It is a noble gas used in specialized lighting, such as flash lamps and arc lamps in IMAX projectors.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "els-15",
+      "question": "Which element has the symbol 'Zr'?",
+      "options": ["Zinc", "Zirconium", "Zircon", "Zeolite"],
+      "correctAnswer": 1,
+      "explanation": "Zr is the symbol for Zirconium, a transition metal used in nuclear reactors due to its low absorption of neutrons. It is also used in dental crowns.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

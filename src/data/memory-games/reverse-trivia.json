@@ -1,0 +1,144 @@
+{
+  "id": "reverse-trivia",
+  "title": "Reverse Trivia",
+  "description": "Given the answer, can you guess the question?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rvt-1",
+      "question": "The answer is '206 bones.' What is the question?",
+      "options": ["How many bones in a cat?", "How many bones in an adult human body?", "How many bones in a horse?", "How many bones in a dog?"],
+      "correctAnswer": 1,
+      "explanation": "An adult human body has 206 bones. Babies are born with about 270 bones, but many fuse together as they grow.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-2",
+      "question": "The answer is 'Neil Armstrong.' What is the question?",
+      "options": ["Who was the first person in space?", "Who was the first person to walk on the Moon?", "Who designed the Apollo spacecraft?", "Who was the first American astronaut?"],
+      "correctAnswer": 1,
+      "explanation": "Neil Armstrong was the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-3",
+      "question": "The answer is 'The Pacific Ocean.' What is the question?",
+      "options": ["What is the deepest ocean?", "What is the largest ocean on Earth?", "What ocean borders Australia's west coast?", "What is the warmest ocean?"],
+      "correctAnswer": 1,
+      "explanation": "The Pacific Ocean is the largest ocean on Earth, covering about 63 million square miles — more than all the land area combined.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-4",
+      "question": "The answer is '1776.' What is the question?",
+      "options": ["When was the Constitution signed?", "When did the American Revolution end?", "When was the Declaration of Independence signed?", "When was the Boston Tea Party?"],
+      "correctAnswer": 2,
+      "explanation": "The Declaration of Independence was adopted on July 4, 1776, declaring the 13 American colonies free from British rule.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-5",
+      "question": "The answer is 'Au.' What is the question?",
+      "options": ["What is the chemical symbol for silver?", "What is the chemical symbol for gold?", "What is the chemical symbol for aluminum?", "What is the chemical symbol for copper?"],
+      "correctAnswer": 1,
+      "explanation": "Au is the chemical symbol for gold, derived from the Latin word 'aurum.'",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-6",
+      "question": "The answer is 'Mount Everest.' What is the question?",
+      "options": ["What is the tallest mountain in North America?", "What is the most dangerous mountain to climb?", "What is the tallest mountain on Earth?", "What mountain was first climbed in 1950?"],
+      "correctAnswer": 2,
+      "explanation": "Mount Everest, at 29,032 feet (8,849 meters), is the tallest mountain on Earth, located in the Himalayas on the border of Nepal and Tibet.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-7",
+      "question": "The answer is 'The Mona Lisa.' What is the question?",
+      "options": ["What is the most expensive painting ever sold?", "What painting hangs in the Uffizi Gallery?", "What is Leonardo da Vinci's most famous painting?", "What painting was stolen in 1920?"],
+      "correctAnswer": 2,
+      "explanation": "The Mona Lisa, painted by Leonardo da Vinci around 1503-1519, is his most famous painting and hangs in the Louvre Museum in Paris.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-8",
+      "question": "The answer is '88 keys.' What is the question?",
+      "options": ["How many keys on a typewriter?", "How many keys on a standard piano?", "How many keys on an organ?", "How many keys on an accordion?"],
+      "correctAnswer": 1,
+      "explanation": "A standard piano has 88 keys — 52 white keys and 36 black keys, covering just over 7 octaves.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-9",
+      "question": "The answer is 'Alexander Graham Bell.' What is the question?",
+      "options": ["Who invented the telegraph?", "Who invented the radio?", "Who invented the telephone?", "Who invented the light bulb?"],
+      "correctAnswer": 2,
+      "explanation": "Alexander Graham Bell is credited with inventing the first practical telephone in 1876.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-10",
+      "question": "The answer is 'Seven.' What is the question?",
+      "options": ["How many continents are there?", "How many oceans are there?", "How many wonders of the ancient world?", "Both A and C are correct"],
+      "correctAnswer": 3,
+      "explanation": "There are seven continents and seven wonders of the ancient world, so both questions have 'seven' as their answer.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-11",
+      "question": "The answer is 'The speed of light — approximately 186,000 miles per second.' What is the question?",
+      "options": ["What is the fastest speed achieved by a rocket?", "What is the fastest thing in the universe?", "What speed does electricity travel at?", "What is the speed of sound in a vacuum?"],
+      "correctAnswer": 1,
+      "explanation": "Light is the fastest thing in the universe, traveling at approximately 186,000 miles per second (about 300,000 km/s) in a vacuum.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-12",
+      "question": "The answer is 'The Sahara.' What is the question?",
+      "options": ["What is the driest place on Earth?", "What is the largest hot desert in the world?", "What desert is in South America?", "What is the oldest desert?"],
+      "correctAnswer": 1,
+      "explanation": "The Sahara Desert in Africa is the largest hot desert in the world, covering about 3.6 million square miles.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-13",
+      "question": "The answer is '1912.' What is the question?",
+      "options": ["When did World War I begin?", "When was the Eiffel Tower built?", "When did the Titanic sink?", "When did Arizona become a state?"],
+      "correctAnswer": 2,
+      "explanation": "The RMS Titanic sank on April 15, 1912, after hitting an iceberg during her maiden voyage from Southampton to New York City.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-14",
+      "question": "The answer is 'Helium.' What is the question?",
+      "options": ["What is the lightest element?", "What is the second element on the periodic table?", "What gas makes balloons float?", "All of the above are correct"],
+      "correctAnswer": 3,
+      "explanation": "Helium is the second element on the periodic table, the second lightest element (after hydrogen), and the gas commonly used to make balloons float.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "rvt-15",
+      "question": "The answer is 'The Great Wall of China.' What is the question?",
+      "options": ["What is the tallest structure ever built?", "What is the longest wall ever built?", "What was built in a single dynasty?", "What is the oldest structure in Asia?"],
+      "correctAnswer": 1,
+      "explanation": "The Great Wall of China is the longest wall ever built, stretching over 13,000 miles. It was constructed over many centuries by various Chinese dynasties.",
+      "difficulty": "hard",
+      "category": "recall"
+    }
+  ]
+}

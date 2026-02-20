@@ -1,0 +1,144 @@
+{
+  "id": "historical-dates",
+  "title": "Historical Dates",
+  "description": "Can you recall when these major historical events took place?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "hd-1",
+      "question": "In what year did the Declaration of Independence get signed?",
+      "options": ["1774", "1776", "1778", "1781"],
+      "correctAnswer": 1,
+      "explanation": "The Declaration of Independence was signed on July 4, 1776, declaring the thirteen American colonies free from British rule.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "hd-2",
+      "question": "When did World War I begin?",
+      "options": ["1912", "1914", "1916", "1918"],
+      "correctAnswer": 1,
+      "explanation": "World War I began in 1914 after the assassination of Archduke Franz Ferdinand of Austria, triggering a chain of alliances across Europe.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "hd-3",
+      "question": "In what year did the Titanic sink?",
+      "options": ["1905", "1910", "1912", "1915"],
+      "correctAnswer": 2,
+      "explanation": "The RMS Titanic sank on April 15, 1912, after hitting an iceberg during its maiden voyage from Southampton to New York City.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "hd-4",
+      "question": "When did humans first walk on the Moon?",
+      "options": ["1965", "1967", "1969", "1971"],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969, during the Apollo 11 mission.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "hd-5",
+      "question": "In what year did the Berlin Wall fall?",
+      "options": ["1987", "1989", "1991", "1993"],
+      "correctAnswer": 1,
+      "explanation": "The Berlin Wall fell on November 9, 1989, marking the beginning of German reunification and the end of the Cold War era in Europe.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "hd-6",
+      "question": "When was the Magna Carta signed?",
+      "options": ["1066", "1215", "1348", "1492"],
+      "correctAnswer": 1,
+      "explanation": "The Magna Carta was sealed by King John of England in 1215. It established key principles of law and individual rights.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "hd-7",
+      "question": "In what year did the French Revolution begin?",
+      "options": ["1776", "1783", "1789", "1799"],
+      "correctAnswer": 2,
+      "explanation": "The French Revolution began in 1789 with the storming of the Bastille on July 14, a pivotal moment in European history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "hd-8",
+      "question": "When did the Great Fire of London occur?",
+      "options": ["1612", "1666", "1707", "1745"],
+      "correctAnswer": 1,
+      "explanation": "The Great Fire of London swept through the city in September 1666, destroying much of the medieval City of London.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "hd-9",
+      "question": "In what year was the United Nations established?",
+      "options": ["1940", "1943", "1945", "1948"],
+      "correctAnswer": 2,
+      "explanation": "The United Nations was established on October 24, 1945, after World War II, with the goal of preventing future global conflicts.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "hd-10",
+      "question": "When did the Russian Revolution take place?",
+      "options": ["1905", "1912", "1917", "1922"],
+      "correctAnswer": 2,
+      "explanation": "The Russian Revolution of 1917 led to the fall of the Romanov dynasty and the rise of the Soviet Union under Bolshevik leadership.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "hd-11",
+      "question": "In what year was the Treaty of Westphalia signed, ending the Thirty Years' War?",
+      "options": ["1618", "1635", "1648", "1660"],
+      "correctAnswer": 2,
+      "explanation": "The Treaty of Westphalia was signed in 1648, ending the devastating Thirty Years' War and establishing the modern concept of state sovereignty.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "hd-12",
+      "question": "When was the Gutenberg printing press invented?",
+      "options": ["1390", "1420", "1440", "1470"],
+      "correctAnswer": 2,
+      "explanation": "Johannes Gutenberg invented his movable-type printing press around 1440, revolutionizing the spread of information across Europe.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "hd-13",
+      "question": "In what year did the Battle of Hastings take place?",
+      "options": ["1016", "1042", "1066", "1087"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Hastings occurred on October 14, 1066, when William the Conqueror defeated King Harold II to become King of England.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "hd-14",
+      "question": "When did the Ottoman Empire officially dissolve?",
+      "options": ["1912", "1918", "1922", "1926"],
+      "correctAnswer": 2,
+      "explanation": "The Ottoman Empire officially dissolved on November 1, 1922, when the Turkish Grand National Assembly abolished the sultanate.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "hd-15",
+      "question": "In what year was the Edict of Nantes issued, granting religious tolerance in France?",
+      "options": ["1558", "1572", "1598", "1610"],
+      "correctAnswer": 2,
+      "explanation": "The Edict of Nantes was signed by King Henry IV in 1598, granting French Protestants (Huguenots) substantial rights and freedoms.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

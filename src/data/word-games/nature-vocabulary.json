@@ -1,0 +1,144 @@
+{
+  "id": "nature-vocabulary",
+  "title": "Nature Vocabulary",
+  "description": "How well do you know words from the natural world?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "nv-1",
+      "question": "What does 'deciduous' mean when describing trees?",
+      "options": ["Trees that stay green all year", "Trees that shed their leaves annually", "Trees that grow in tropical climates", "Trees that produce fruit"],
+      "correctAnswer": 1,
+      "explanation": "'Deciduous' describes trees and shrubs that lose their leaves seasonally, typically in autumn. Examples include oaks, maples, and birches. The word comes from the Latin 'deciduus,' meaning 'falling down.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nv-2",
+      "question": "What is 'photosynthesis'?",
+      "options": ["The process of taking photographs of plants", "The process by which plants convert sunlight into food", "The way flowers attract bees", "The process of soil erosion"],
+      "correctAnswer": 1,
+      "explanation": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose (food) and oxygen. It occurs mainly in the leaves and is essential for life on Earth. The word means 'putting together with light.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nv-3",
+      "question": "What does 'hibernate' mean?",
+      "options": ["To migrate to a warmer climate", "To spend winter in a dormant, sleep-like state", "To build a nest in spring", "To search for food at night"],
+      "correctAnswer": 1,
+      "explanation": "To hibernate means to spend the winter in a dormant state with reduced body temperature, heart rate, and metabolism. Bears, groundhogs, and certain bats are well-known hibernators. The word comes from the Latin 'hibernare,' meaning 'to pass the winter.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nv-4",
+      "question": "What does the term 'habitat' refer to?",
+      "options": ["A type of animal behavior", "The natural home or environment of an animal or plant", "A zoo enclosure", "A type of garden design"],
+      "correctAnswer": 1,
+      "explanation": "A habitat is the natural environment in which an organism lives, including the physical conditions, climate, food sources, and other species present. Examples include forests, deserts, oceans, and wetlands. The word comes from Latin, meaning 'it dwells.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nv-5",
+      "question": "What does 'evergreen' mean when describing a plant?",
+      "options": ["A plant that only blooms in spring", "A plant that retains green leaves throughout the year", "A plant that grows extremely fast", "A plant that only grows in forests"],
+      "correctAnswer": 1,
+      "explanation": "An evergreen is a plant that retains its green leaves or needles throughout the entire year, unlike deciduous plants that shed their leaves seasonally. Pines, spruces, and firs are common examples of evergreen trees.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nv-6",
+      "question": "What does 'nocturnal' mean?",
+      "options": ["Active during the day", "Active at night", "Living in water", "Living underground"],
+      "correctAnswer": 1,
+      "explanation": "'Nocturnal' describes animals or organisms that are primarily active during the night. Owls, bats, and raccoons are examples of nocturnal animals. The word comes from the Latin 'nocturnalis,' meaning 'of the night.' Its opposite is 'diurnal.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nv-7",
+      "question": "What does 'ecosystem' mean?",
+      "options": ["A single species of animal", "A community of living organisms interacting with their environment", "A type of nature reserve", "A weather pattern"],
+      "correctAnswer": 1,
+      "explanation": "An ecosystem is a biological community of interacting organisms and their physical environment functioning as a system. It includes all living things (plants, animals, microorganisms) and non-living elements (water, soil, climate) in a given area.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nv-8",
+      "question": "What does 'metamorphosis' mean in nature?",
+      "options": ["A type of rock formation", "A dramatic transformation in form or structure during development", "A natural disaster", "A plant's growth toward sunlight"],
+      "correctAnswer": 1,
+      "explanation": "Metamorphosis is a biological process of dramatic transformation in an organism's body structure, appearance, and habits during its life cycle. The most familiar example is the transformation of a caterpillar into a butterfly. The word means 'change of form' in Greek.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nv-9",
+      "question": "What does 'pollination' refer to?",
+      "options": ["The process of water filtering through soil", "The transfer of pollen from one flower to another enabling fertilization", "The way trees absorb carbon dioxide", "The formation of rain clouds"],
+      "correctAnswer": 1,
+      "explanation": "Pollination is the process of transferring pollen from the male part (anther) of a flower to the female part (stigma) of the same or another flower, enabling fertilization and seed production. Bees, butterflies, birds, and wind are common pollinators.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nv-10",
+      "question": "What does the term 'erosion' mean?",
+      "options": ["The growth of new plant life", "The gradual wearing away of land by water, wind, or ice", "An earthquake", "The freezing of a river"],
+      "correctAnswer": 1,
+      "explanation": "Erosion is the natural process by which soil, rock, and other surface materials are gradually worn away and transported by water, wind, ice, or gravity. It shapes landscapes over time, creating features like valleys, canyons, and coastlines.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nv-11",
+      "question": "What does 'biodiversity' mean?",
+      "options": ["The study of human biology", "The variety of plant and animal life in a particular habitat or the world", "The process of genetic modification", "The classification of rocks and minerals"],
+      "correctAnswer": 1,
+      "explanation": "Biodiversity refers to the variety and variability of life forms within a given ecosystem, region, or the entire Earth. It includes diversity at the genetic, species, and ecosystem levels. High biodiversity is generally considered an indicator of a healthy ecosystem.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nv-12",
+      "question": "What does 'symbiosis' mean in biology?",
+      "options": ["Competition between two species", "A close, long-term biological interaction between two different species", "The extinction of a species", "The cloning of organisms"],
+      "correctAnswer": 1,
+      "explanation": "Symbiosis is a close, prolonged interaction between two different biological species. The relationship can be mutualistic (both benefit), parasitic (one benefits at the other's expense), or commensal (one benefits, the other is unaffected). The word comes from Greek, meaning 'living together.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nv-13",
+      "question": "What does 'canopy' refer to in a forest?",
+      "options": ["The forest floor covered in leaves", "The uppermost layer of branches and leaves in a forest", "A clearing in the middle of a forest", "The roots of trees underground"],
+      "correctAnswer": 1,
+      "explanation": "The canopy is the uppermost layer of a forest, formed by the crowns (tops) of the tallest trees. It acts as a roof over the forest, intercepting most of the sunlight and rainfall. In tropical rainforests, the canopy can be over 100 feet above the ground.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nv-14",
+      "question": "What does 'tundra' refer to?",
+      "options": ["A tropical rainforest", "A vast, flat, treeless Arctic region with permanently frozen subsoil", "A desert with sand dunes", "A grassland in Africa"],
+      "correctAnswer": 1,
+      "explanation": "Tundra is a biome characterized by extremely cold temperatures, a short growing season, and a lack of trees. The subsoil is permanently frozen (permafrost). It is found in Arctic regions and at high mountain elevations. The word comes from Finnish 'tunturi,' meaning 'treeless plain.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nv-15",
+      "question": "What does 'endemic' mean when describing a species?",
+      "options": ["A species found everywhere in the world", "A species native to and found only in a particular area", "A species that has gone extinct", "A species introduced by humans to a new area"],
+      "correctAnswer": 1,
+      "explanation": "'Endemic' describes a species that is native to and found exclusively in a particular geographic area. For example, lemurs are endemic to Madagascar, and many unique species are endemic to the Galapagos Islands. Endemic species are often especially vulnerable to extinction.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

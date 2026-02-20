@@ -1,0 +1,144 @@
+{
+  "id": "zodiac-trivia",
+  "title": "Zodiac Trivia",
+  "description": "How well do you know the zodiac signs and their traits?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "zt-1",
+      "question": "Which zodiac sign is represented by a lion?",
+      "options": ["Aries", "Taurus", "Leo", "Sagittarius"],
+      "correctAnswer": 2,
+      "explanation": "Leo is represented by the lion. Leo is the fifth sign of the zodiac and covers birthdays from July 23 to August 22.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "zt-2",
+      "question": "Which zodiac sign is represented by a pair of fish?",
+      "options": ["Aquarius", "Cancer", "Scorpio", "Pisces"],
+      "correctAnswer": 3,
+      "explanation": "Pisces is represented by two fish swimming in opposite directions. It is the twelfth and final sign of the zodiac (February 19 - March 20).",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "zt-3",
+      "question": "What is the first sign of the zodiac?",
+      "options": ["Aquarius", "Capricorn", "Aries", "Pisces"],
+      "correctAnswer": 2,
+      "explanation": "Aries is the first sign of the zodiac, covering birthdays from March 21 to April 19. It is represented by the ram.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "zt-4",
+      "question": "Which zodiac sign is symbolized by a bull?",
+      "options": ["Taurus", "Aries", "Capricorn", "Leo"],
+      "correctAnswer": 0,
+      "explanation": "Taurus is symbolized by the bull. It is the second sign of the zodiac, covering April 20 to May 20.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "zt-5",
+      "question": "Which zodiac sign is represented by twins?",
+      "options": ["Libra", "Pisces", "Gemini", "Aquarius"],
+      "correctAnswer": 2,
+      "explanation": "Gemini is represented by the twins Castor and Pollux from Greek mythology. It covers birthdays from May 21 to June 20.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "zt-6",
+      "question": "Which element is associated with the signs Aries, Leo, and Sagittarius?",
+      "options": ["Earth", "Water", "Air", "Fire"],
+      "correctAnswer": 3,
+      "explanation": "Aries, Leo, and Sagittarius are the three fire signs. Fire signs are typically associated with energy, passion, and enthusiasm.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "zt-7",
+      "question": "Which zodiac sign is represented by a water bearer?",
+      "options": ["Pisces", "Cancer", "Aquarius", "Scorpio"],
+      "correctAnswer": 2,
+      "explanation": "Aquarius is represented by the water bearer. Despite this water imagery, Aquarius is actually an air sign (January 20 - February 18).",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "zt-8",
+      "question": "Which zodiac sign is associated with the scales of justice?",
+      "options": ["Virgo", "Libra", "Sagittarius", "Aquarius"],
+      "correctAnswer": 1,
+      "explanation": "Libra is represented by the scales, symbolizing balance and justice. It covers September 23 to October 22.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "zt-9",
+      "question": "What animal represents Sagittarius?",
+      "options": ["Horse", "Centaur (archer)", "Goat", "Eagle"],
+      "correctAnswer": 1,
+      "explanation": "Sagittarius is represented by the centaur archer — a mythological creature that is half human, half horse, wielding a bow. It covers November 22 to December 21.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "zt-10",
+      "question": "Which zodiac sign is the only one represented by an inanimate object?",
+      "options": ["Virgo", "Gemini", "Libra", "Capricorn"],
+      "correctAnswer": 2,
+      "explanation": "Libra (the scales) is the only zodiac sign represented by an inanimate object. All other signs are represented by animals or human figures.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "zt-11",
+      "question": "Which planet traditionally rules the sign of Scorpio?",
+      "options": ["Mars", "Pluto", "Saturn", "Neptune"],
+      "correctAnswer": 0,
+      "explanation": "Mars is the traditional ruler of Scorpio. In modern astrology, Pluto is also considered a co-ruler, but Mars was the original ruling planet before Pluto's discovery.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "zt-12",
+      "question": "Which zodiac sign is symbolized by a sea-goat — a creature with the body of a goat and the tail of a fish?",
+      "options": ["Aries", "Taurus", "Capricorn", "Pisces"],
+      "correctAnswer": 2,
+      "explanation": "Capricorn is symbolized by the sea-goat, a mythological creature. This symbol represents the ability to navigate both the material and emotional worlds.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "zt-13",
+      "question": "Which three signs make up the earth element group?",
+      "options": ["Cancer, Scorpio, Pisces", "Taurus, Virgo, Capricorn", "Gemini, Libra, Aquarius", "Aries, Leo, Sagittarius"],
+      "correctAnswer": 1,
+      "explanation": "Taurus, Virgo, and Capricorn are the three earth signs. Earth signs are typically associated with practicality, stability, and material concerns.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "zt-14",
+      "question": "In astrology, what is the term for the sign that was on the eastern horizon at the time of your birth?",
+      "options": ["Sun sign", "Moon sign", "Rising sign (Ascendant)", "Midheaven"],
+      "correctAnswer": 2,
+      "explanation": "The rising sign, also called the Ascendant, is the zodiac sign that was rising on the eastern horizon at the exact time and location of your birth.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "zt-15",
+      "question": "Which zodiac sign is symbolized by a maiden or virgin and is associated with harvest?",
+      "options": ["Libra", "Virgo", "Cancer", "Gemini"],
+      "correctAnswer": 1,
+      "explanation": "Virgo is symbolized by the maiden and is associated with the harvest season (August 23 - September 22). The constellation is often linked to Demeter, the Greek goddess of the harvest.",
+      "difficulty": "hard",
+      "category": "recall"
+    }
+  ]
+}

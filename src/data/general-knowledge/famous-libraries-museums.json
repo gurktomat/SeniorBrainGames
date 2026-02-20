@@ -1,0 +1,144 @@
+{
+  "id": "famous-libraries-museums",
+  "title": "Famous Libraries & Museums",
+  "description": "Test your knowledge of the world's great libraries and museums!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "flm-1",
+      "question": "The Louvre, the world's largest and most visited art museum, is located in which city?",
+      "options": ["London", "Rome", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "explanation": "The Louvre is located in Paris, France. Originally a medieval fortress and royal palace, it became a public museum in 1793 and now houses over 380,000 objects, including the Mona Lisa.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "flm-2",
+      "question": "Which famous painting by Leonardo da Vinci is housed in the Louvre?",
+      "options": ["The Last Supper", "Mona Lisa", "The Birth of Venus", "Girl with a Pearl Earring"],
+      "correctAnswer": 1,
+      "explanation": "The Mona Lisa, painted by Leonardo da Vinci around 1503-1519, is the most famous painting in the Louvre and arguably the most recognized artwork in the world. It is displayed behind bulletproof glass.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "flm-3",
+      "question": "The Smithsonian Institution, the world's largest museum and research complex, is located in which city?",
+      "options": ["New York", "Washington, D.C.", "Chicago", "Philadelphia"],
+      "correctAnswer": 1,
+      "explanation": "The Smithsonian Institution is located in Washington, D.C. Founded in 1846, it comprises 21 museums, 21 libraries, and the National Zoo, and admission to all Smithsonian museums is free.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "flm-4",
+      "question": "The British Museum, home to the Rosetta Stone and the Elgin Marbles, is located in which city?",
+      "options": ["Edinburgh", "Manchester", "London", "Oxford"],
+      "correctAnswer": 2,
+      "explanation": "The British Museum is located in London, England. Established in 1753, it was the first public national museum in the world and houses a collection spanning two million years of human history.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "flm-5",
+      "question": "The Library of Congress, the largest library in the world by shelf space, is located in which country?",
+      "options": ["United Kingdom", "France", "United States", "China"],
+      "correctAnswer": 2,
+      "explanation": "The Library of Congress is located in Washington, D.C., United States. Founded in 1800, it holds more than 170 million items, including books, recordings, photographs, maps, and manuscripts.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "flm-6",
+      "question": "The Hermitage Museum, one of the largest and oldest museums in the world, is located in which Russian city?",
+      "options": ["Moscow", "St. Petersburg", "Novosibirsk", "Kazan"],
+      "correctAnswer": 1,
+      "explanation": "The Hermitage Museum is located in St. Petersburg, Russia. Founded in 1764 by Empress Catherine the Great, it occupies six historic buildings along the Palace Embankment and houses over 3 million items.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "flm-7",
+      "question": "Which museum in New York City is commonly known by the abbreviation 'MoMA'?",
+      "options": ["Metropolitan Museum of Art", "Museum of Modern Art", "Museum of Moving Arts", "Museum of Musical Arts"],
+      "correctAnswer": 1,
+      "explanation": "MoMA stands for the Museum of Modern Art, founded in 1929 in New York City. It is considered one of the most influential museums of modern and contemporary art in the world.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "flm-8",
+      "question": "The ancient Library of Alexandria, one of the most significant libraries of the ancient world, was located in which modern-day country?",
+      "options": ["Greece", "Turkey", "Egypt", "Iraq"],
+      "correctAnswer": 2,
+      "explanation": "The Library of Alexandria was located in Alexandria, Egypt. Founded in the 3rd century BC under the Ptolemaic dynasty, it aimed to collect all the world's knowledge. Its destruction is one of history's greatest cultural losses.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "flm-9",
+      "question": "The Uffizi Gallery, home to masterpieces by Botticelli and Raphael, is located in which Italian city?",
+      "options": ["Rome", "Venice", "Florence", "Milan"],
+      "correctAnswer": 2,
+      "explanation": "The Uffizi Gallery is located in Florence, Italy. Built in 1560 as offices (uffizi) for the Florentine magistrates, it became one of the first modern museums when the Medici family opened it to the public in 1769.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "flm-10",
+      "question": "The Vatican Museums are home to which famous ceiling painted by Michelangelo?",
+      "options": ["The Last Judgment only", "St. Peter's Basilica ceiling", "The Sistine Chapel ceiling", "The Raphael Rooms ceiling"],
+      "correctAnswer": 2,
+      "explanation": "The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is one of the most famous artworks in the world. It depicts scenes from the Book of Genesis, including the iconic 'Creation of Adam.'",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "flm-11",
+      "question": "The Bodleian Library, one of the oldest libraries in Europe, is part of which English university?",
+      "options": ["Cambridge", "Oxford", "London", "Edinburgh"],
+      "correctAnswer": 1,
+      "explanation": "The Bodleian Library is the main research library of the University of Oxford. Established in 1602 by Sir Thomas Bodley, it is one of the oldest libraries in Europe and holds over 13 million printed items.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "flm-12",
+      "question": "The Pergamon Museum, famous for its reconstruction of the Ishtar Gate of Babylon, is located in which city?",
+      "options": ["Vienna", "Berlin", "Munich", "Prague"],
+      "correctAnswer": 1,
+      "explanation": "The Pergamon Museum is located on Museum Island in Berlin, Germany. Opened in 1930, it houses monumental archaeological reconstructions including the Ishtar Gate of Babylon and the Pergamon Altar.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "flm-13",
+      "question": "Which museum in Cairo houses the largest collection of ancient Egyptian artifacts, including Tutankhamun's treasures?",
+      "options": ["The Grand Egyptian Museum", "The Egyptian Museum", "The Alexandria National Museum", "The Luxor Museum"],
+      "correctAnswer": 1,
+      "explanation": "The Egyptian Museum (also known as the Museum of Egyptian Antiquities) in Cairo has housed the world's largest collection of ancient Egyptian artifacts since 1902, including the famous golden mask of Tutankhamun.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "flm-14",
+      "question": "The Rijksmuseum, home to Rembrandt's 'The Night Watch,' is the national museum of which country?",
+      "options": ["Belgium", "Netherlands", "Denmark", "Sweden"],
+      "correctAnswer": 1,
+      "explanation": "The Rijksmuseum is the national museum of the Netherlands, located in Amsterdam. Founded in 1800, it is dedicated to Dutch arts and history. Rembrandt's masterpiece 'The Night Watch' (1642) is its most famous painting.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "flm-15",
+      "question": "The Trinity College Library in Dublin is famous for housing which medieval illuminated manuscript?",
+      "options": ["The Domesday Book", "The Dead Sea Scrolls", "The Book of Kells", "The Gutenberg Bible"],
+      "correctAnswer": 2,
+      "explanation": "The Book of Kells, an illuminated manuscript of the four Gospels created by Celtic monks around 800 AD, is housed in Trinity College Library in Dublin, Ireland. It is considered one of Ireland's greatest cultural treasures.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

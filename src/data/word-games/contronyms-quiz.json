@@ -1,0 +1,144 @@
+{
+  "id": "contronyms-quiz",
+  "title": "Contronyms Quiz",
+  "description": "Words that are their own opposites — can you figure out the meanings?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cny-1",
+      "question": "The word 'dust' is a contronym. What are its two opposite meanings?",
+      "options": ["To clean / To dirty", "To remove fine particles / To add fine particles", "To sweep / To mop", "To dry / To wet"],
+      "correctAnswer": 1,
+      "explanation": "'Dust' can mean to remove dust (as in dusting furniture) or to add a fine layer of particles (as in dusting a cake with powdered sugar). The same word, opposite actions!",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cny-2",
+      "question": "The word 'left' is a contronym. How can it have opposite meanings?",
+      "options": ["A direction / A political view", "Departed / Remaining", "Correct / Wrong", "Weak / Strong"],
+      "correctAnswer": 1,
+      "explanation": "'Left' can mean 'departed' (as in 'She left the building') or 'remaining' (as in 'There are two cookies left'). Two completely opposite meanings from the same word.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cny-3",
+      "question": "How is 'off' a contronym?",
+      "options": ["The alarm went off (activated) / Turn the alarm off (deactivated)", "Far away / Close by", "Old / New", "Correct / Incorrect"],
+      "correctAnswer": 0,
+      "explanation": "'Off' can mean activated ('The alarm went off') or deactivated ('Turn the alarm off'). This makes it one of the most confusing contronyms in English.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cny-4",
+      "question": "The word 'fast' is a contronym. What are its opposite meanings?",
+      "options": ["Quick / Slow", "Moving quickly / Stuck firmly in place", "Eating / Not eating", "Bright / Dark"],
+      "correctAnswer": 1,
+      "explanation": "'Fast' can mean 'moving quickly' (a fast car) or 'stuck firmly in place' (hold fast, colorfast). The 'firmly fixed' meaning is actually the older one, from Old English.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cny-5",
+      "question": "How is the word 'clip' a contronym?",
+      "options": ["To cut apart / To fasten together", "To run / To walk", "To speak / To be silent", "To open / To close"],
+      "correctAnswer": 0,
+      "explanation": "'Clip' can mean to cut apart (clip a coupon from the newspaper) or to fasten together (clip papers together with a paperclip). Completely opposite actions!",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cny-6",
+      "question": "The word 'sanction' is a contronym. What are its two opposite meanings?",
+      "options": ["To bless / To curse", "To approve / To penalize", "To build / To destroy", "To begin / To end"],
+      "correctAnswer": 1,
+      "explanation": "'Sanction' can mean to give official permission or approval ('The government sanctioned the project') or to impose a penalty ('Economic sanctions were placed on the country').",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cny-7",
+      "question": "How is the word 'overlook' a contronym?",
+      "options": ["To see from above / To fail to notice", "To look up / To look down", "To approve / To disapprove", "To oversee / To undermine"],
+      "correctAnswer": 0,
+      "explanation": "'Overlook' can mean to have a view from above ('The balcony overlooks the garden') or to fail to notice ('I overlooked that detail'). Seeing versus not seeing!",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cny-8",
+      "question": "The word 'bolt' is a contronym. What are its opposite meanings?",
+      "options": ["To tighten / To loosen", "To secure in place / To flee suddenly", "To heat / To cool", "To build / To demolish"],
+      "correctAnswer": 1,
+      "explanation": "'Bolt' can mean to secure something in place ('bolt the door') or to run away suddenly ('the horse bolted'). One meaning keeps things in place, the other involves rapid departure.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cny-9",
+      "question": "How is the word 'screen' a contronym?",
+      "options": ["To show / To hide", "To record / To erase", "To enlarge / To shrink", "To brighten / To darken"],
+      "correctAnswer": 0,
+      "explanation": "'Screen' can mean to show or display ('screen a movie') or to hide or protect from view ('screen the porch,' 'screen someone from danger'). Display versus conceal!",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cny-10",
+      "question": "The word 'weather' is a contronym. What are its opposite meanings?",
+      "options": ["Hot / Cold", "To endure / To wear away", "Sunny / Rainy", "Calm / Stormy"],
+      "correctAnswer": 1,
+      "explanation": "'Weather' can mean to endure or survive ('weather the storm') or to be worn away by exposure ('The rocks were weathered by wind and rain'). Surviving versus deteriorating!",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cny-11",
+      "question": "How is the word 'buckle' a contronym?",
+      "options": ["To fasten securely / To collapse or give way", "To ride / To walk", "To speak loudly / To whisper", "To agree / To disagree"],
+      "correctAnswer": 0,
+      "explanation": "'Buckle' can mean to fasten securely ('buckle your seatbelt') or to collapse under pressure ('The bridge buckled under the weight'). One holds things together, the other falls apart.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cny-12",
+      "question": "The word 'cleave' is a contronym. What are its two opposite meanings?",
+      "options": ["To build / To destroy", "To split apart / To cling to", "To heat / To freeze", "To praise / To criticize"],
+      "correctAnswer": 1,
+      "explanation": "'Cleave' can mean to split apart ('cleave the wood with an axe') or to cling to closely ('cleave to one's beliefs'). These opposite meanings come from two different Old English verbs that happened to merge into the same spelling.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cny-13",
+      "question": "How is the word 'garnish' a contronym?",
+      "options": ["To add to (decorate food) / To take away from (garnish wages)", "To cook / To serve raw", "To season / To leave bland", "To serve / To clear away"],
+      "correctAnswer": 0,
+      "explanation": "'Garnish' can mean to add a decorative element ('garnish the plate with parsley') or to take away through legal means ('garnish someone's wages'). Adding versus removing!",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cny-14",
+      "question": "The word 'rent' is a contronym. What are its opposite meanings?",
+      "options": ["To buy / To sell", "To pay to use something / To receive payment for its use", "To build / To tear down", "To save / To spend"],
+      "correctAnswer": 1,
+      "explanation": "'Rent' can mean to pay money to use something ('I rent an apartment') or to receive money by allowing someone to use your property ('I rent out my apartment'). Paying versus receiving!",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cny-15",
+      "question": "How is the word 'trim' a contronym?",
+      "options": ["To cut away / To add decoration to", "To grow / To shrink", "To open / To close", "To fill / To empty"],
+      "correctAnswer": 0,
+      "explanation": "'Trim' can mean to cut away excess ('trim the hedge') or to add decorative elements ('trim the Christmas tree'). Removing material versus adding ornamentation!",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

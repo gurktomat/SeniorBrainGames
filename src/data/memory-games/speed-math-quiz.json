@@ -1,0 +1,144 @@
+{
+  "id": "speed-math-quiz",
+  "title": "Speed Math Quiz",
+  "description": "How fast can you solve these mental math problems?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "smq-1",
+      "question": "What is 25 × 4?",
+      "options": ["90", "100", "110", "95"],
+      "correctAnswer": 1,
+      "explanation": "25 × 4 = 100. A quick trick: 25 × 4 is the same as 100, since four quarters make a dollar.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "smq-2",
+      "question": "What is 150 ÷ 6?",
+      "options": ["20", "30", "25", "35"],
+      "correctAnswer": 2,
+      "explanation": "150 ÷ 6 = 25. You can break this down: 120 ÷ 6 = 20, and 30 ÷ 6 = 5, so 20 + 5 = 25.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "smq-3",
+      "question": "What is 18 + 27 + 15?",
+      "options": ["55", "58", "60", "62"],
+      "correctAnswer": 2,
+      "explanation": "18 + 27 + 15 = 60. A helpful trick: 18 + 27 = 45, then 45 + 15 = 60.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "smq-4",
+      "question": "What is 9 × 11?",
+      "options": ["99", "101", "89", "109"],
+      "correctAnswer": 0,
+      "explanation": "9 × 11 = 99. One trick: 9 × 11 = (10 × 11) − 11 = 110 − 11 = 99.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "smq-5",
+      "question": "What is 200 − 87?",
+      "options": ["123", "113", "103", "133"],
+      "correctAnswer": 1,
+      "explanation": "200 − 87 = 113. Subtract 87 from 200: 200 − 80 = 120, then 120 − 7 = 113.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "smq-6",
+      "question": "What is 15% of 200?",
+      "options": ["20", "25", "30", "35"],
+      "correctAnswer": 2,
+      "explanation": "15% of 200 = 30. Calculate 10% (20) plus 5% (10) to get 30.",
+      "difficulty": "medium",
+      "category": "math"
+    },
+    {
+      "id": "smq-7",
+      "question": "What is 12 × 15?",
+      "options": ["160", "170", "180", "190"],
+      "correctAnswer": 2,
+      "explanation": "12 × 15 = 180. Break it down: 12 × 10 = 120, and 12 × 5 = 60, so 120 + 60 = 180.",
+      "difficulty": "medium",
+      "category": "math"
+    },
+    {
+      "id": "smq-8",
+      "question": "What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": 1,
+      "explanation": "The square root of 144 is 12, because 12 × 12 = 144.",
+      "difficulty": "medium",
+      "category": "math"
+    },
+    {
+      "id": "smq-9",
+      "question": "What is 3/4 expressed as a percentage?",
+      "options": ["60%", "70%", "80%", "75%"],
+      "correctAnswer": 3,
+      "explanation": "3/4 = 0.75 = 75%. Divide 3 by 4 to get 0.75, then multiply by 100.",
+      "difficulty": "medium",
+      "category": "math"
+    },
+    {
+      "id": "smq-10",
+      "question": "What is 456 + 389?",
+      "options": ["835", "845", "855", "825"],
+      "correctAnswer": 1,
+      "explanation": "456 + 389 = 845. Add 456 + 400 = 856, then subtract 11 to get 845.",
+      "difficulty": "medium",
+      "category": "math"
+    },
+    {
+      "id": "smq-11",
+      "question": "What is 17 × 13?",
+      "options": ["211", "221", "231", "201"],
+      "correctAnswer": 1,
+      "explanation": "17 × 13 = 221. Break it down: 17 × 10 = 170, and 17 × 3 = 51, so 170 + 51 = 221.",
+      "difficulty": "hard",
+      "category": "math"
+    },
+    {
+      "id": "smq-12",
+      "question": "What is 1,000 ÷ 8?",
+      "options": ["115", "120", "125", "130"],
+      "correctAnswer": 2,
+      "explanation": "1,000 ÷ 8 = 125. Think of it as 1000/8 = 500/4 = 250/2 = 125.",
+      "difficulty": "hard",
+      "category": "math"
+    },
+    {
+      "id": "smq-13",
+      "question": "What is 2³ × 3² (2 cubed times 3 squared)?",
+      "options": ["72", "64", "54", "48"],
+      "correctAnswer": 0,
+      "explanation": "2³ = 8 and 3² = 9. So 8 × 9 = 72.",
+      "difficulty": "hard",
+      "category": "math"
+    },
+    {
+      "id": "smq-14",
+      "question": "If a shirt costs $45 and is discounted by 20%, what is the sale price?",
+      "options": ["$38", "$36", "$40", "$34"],
+      "correctAnswer": 1,
+      "explanation": "20% of $45 = $9. So the sale price is $45 − $9 = $36.",
+      "difficulty": "hard",
+      "category": "math"
+    },
+    {
+      "id": "smq-15",
+      "question": "What is 999 × 5?",
+      "options": ["4,985", "4,990", "4,995", "5,005"],
+      "correctAnswer": 2,
+      "explanation": "999 × 5 = 4,995. A quick trick: 1,000 × 5 = 5,000, then subtract 5 to get 4,995.",
+      "difficulty": "hard",
+      "category": "math"
+    }
+  ]
+}

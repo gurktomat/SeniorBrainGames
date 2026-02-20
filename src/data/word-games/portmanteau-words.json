@@ -1,0 +1,144 @@
+{
+  "id": "portmanteau-words",
+  "title": "Portmanteau Words",
+  "description": "Identify words made by blending two words together!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "pw-1",
+      "question": "The word 'brunch' is a blend of which two words?",
+      "options": ["Bread + Lunch", "Breakfast + Lunch", "Bread + Munch", "Break + Crunch"],
+      "correctAnswer": 1,
+      "explanation": "'Brunch' is a blend of 'breakfast' and 'lunch,' referring to a late morning meal that combines elements of both. The word was first used in the 1890s in Britain.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "pw-2",
+      "question": "Which two words make up the portmanteau 'smog'?",
+      "options": ["Small + Fog", "Smoke + Fog", "Smooth + Bog", "Steam + Fog"],
+      "correctAnswer": 1,
+      "explanation": "'Smog' combines 'smoke' and 'fog.' It was coined in 1905 by Dr. Henry Antoine Des Voeux to describe the thick, polluted air in British cities.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "pw-3",
+      "question": "The word 'motel' is a blend of which two words?",
+      "options": ["Modern + Hotel", "Motor + Hotel", "Mobile + Hotel", "Modest + Hotel"],
+      "correctAnswer": 1,
+      "explanation": "'Motel' is a blend of 'motor' and 'hotel,' describing a roadside hotel designed for motorists. The term was first used in 1925 in San Luis Obispo, California.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "pw-4",
+      "question": "Which two words form the portmanteau 'email'?",
+      "options": ["Easy + Mail", "Electronic + Mail", "Express + Mail", "External + Mail"],
+      "correctAnswer": 1,
+      "explanation": "'Email' is a blend of 'electronic' and 'mail.' While the concept dates to the 1960s, the term 'email' became widely used in the 1990s with the rise of the internet.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "pw-5",
+      "question": "The word 'spork' combines which two words?",
+      "options": ["Spoon + Fork", "Spear + Fork", "Spoon + Cork", "Sport + Fork"],
+      "correctAnswer": 0,
+      "explanation": "'Spork' is a blend of 'spoon' and 'fork,' describing the hybrid utensil that combines features of both. The word has been in use since at least the early 1900s.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "pw-6",
+      "question": "Which two words make up the portmanteau 'blog'?",
+      "options": ["Blue + Log", "Web + Log", "Block + Log", "Bio + Log"],
+      "correctAnswer": 1,
+      "explanation": "'Blog' is a blend of 'web' and 'log.' The term 'weblog' was coined in 1997, and by 1999 the shortened form 'blog' had become the standard word.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "pw-7",
+      "question": "The word 'electrocute' is a portmanteau of which two words?",
+      "options": ["Electric + Cute", "Electric + Execute", "Electron + Cut", "Electric + Acute"],
+      "correctAnswer": 1,
+      "explanation": "'Electrocute' is a blend of 'electric' and 'execute.' It was coined in 1889 when New York introduced the electric chair as a method of execution.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "pw-8",
+      "question": "Which two words form the portmanteau 'chortle'?",
+      "options": ["Chuckle + Snort", "Choke + Rattle", "Cheer + Bottle", "Chuckle + Giggle"],
+      "correctAnswer": 0,
+      "explanation": "'Chortle' blends 'chuckle' and 'snort.' It was invented by Lewis Carroll in 'Through the Looking-Glass' (1871). Carroll also coined the term 'portmanteau' for this type of word blend.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "pw-9",
+      "question": "The word 'Tanzania' is a portmanteau of which two place names?",
+      "options": ["Tanga + Zambia", "Tanganyika + Zanzibar", "Tangier + Namibia", "Tamil + Zambia"],
+      "correctAnswer": 1,
+      "explanation": "'Tanzania' is a blend of 'Tanganyika' and 'Zanzibar.' When the two nations united in 1964, they combined their names to form Tanzania.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "pw-10",
+      "question": "Which two words make up the portmanteau 'infomercial'?",
+      "options": ["Information + Commercial", "Informal + Commercial", "Info + Miracle", "Infinite + Commercial"],
+      "correctAnswer": 0,
+      "explanation": "'Infomercial' combines 'information' and 'commercial,' describing a long-form television advertisement presented as informational content. The term emerged in the 1980s.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "pw-11",
+      "question": "The word 'sitcom' is a portmanteau of which two words?",
+      "options": ["Sitting + Comedy", "Situation + Comedy", "Site + Communication", "Simple + Comedy"],
+      "correctAnswer": 1,
+      "explanation": "'Sitcom' is a blend of 'situation' and 'comedy.' The term describes a genre of comedy centered on a fixed set of characters in a consistent setting, popular since the early days of television.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "pw-12",
+      "question": "Which two words form the portmanteau 'gerrymandering'?",
+      "options": ["German + Wandering", "Gerry + Salamander", "Jerry + Pandering", "Gerard + Meander"],
+      "correctAnswer": 1,
+      "explanation": "'Gerrymandering' combines 'Gerry' (Governor Elbridge Gerry) and 'salamander.' In 1812, a newly drawn electoral district in Massachusetts was said to resemble a salamander, leading to the political term.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "pw-13",
+      "question": "The word 'pixel' is a portmanteau of which two words?",
+      "options": ["Picture + Element", "Pin + Excel", "Pick + Axle", "Piece + Hexel"],
+      "correctAnswer": 0,
+      "explanation": "'Pixel' blends 'picture' and 'element.' Coined in the 1960s, it describes the smallest addressable element in a digital display or image.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "pw-14",
+      "question": "Which two words make up the portmanteau 'Oxbridge'?",
+      "options": ["Oxford + Cambridge", "Ox + Bridge", "Oxford + Breckinridge", "Oxbow + Bridge"],
+      "correctAnswer": 0,
+      "explanation": "'Oxbridge' is a blend of 'Oxford' and 'Cambridge,' used to refer to both prestigious English universities collectively. The term has been in use since the 1840s.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "pw-15",
+      "question": "The word 'podcast' is a portmanteau of which two words?",
+      "options": ["Pop + Broadcast", "iPod + Broadcast", "Pod + Cast", "Post + Broadcast"],
+      "correctAnswer": 1,
+      "explanation": "'Podcast' blends 'iPod' (Apple's media player) and 'broadcast.' The term was coined by journalist Ben Hammersley in 2004, though podcasts can be listened to on any device, not just iPods.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

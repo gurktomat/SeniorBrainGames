@@ -1,0 +1,144 @@
+{
+  "id": "retro-technology",
+  "title": "Retro Technology",
+  "description": "Test your knowledge of the gadgets and technology of yesteryear!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rt-1",
+      "question": "What was the name of the first commercially successful home video game console, released by Atari in 1977?",
+      "options": ["Atari Pong", "Atari 2600", "Atari 5200", "Atari Lynx"],
+      "correctAnswer": 1,
+      "explanation": "The Atari 2600 (originally called the Atari VCS) was released in 1977 and became the first widely successful home video game console, selling over 30 million units.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-2",
+      "question": "What device, introduced by Sony in 1979, revolutionized portable music listening?",
+      "options": ["Sony Discman", "Sony Walkman", "Sony Boombox", "Sony Hi-Fi"],
+      "correctAnswer": 1,
+      "explanation": "The Sony Walkman, introduced on July 1, 1979, changed how people listened to music by making it truly portable. It sold over 200 million units during its production run.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-3",
+      "question": "Which early home computer, introduced in 1977, was one of the 'Trinity' of personal computers along with the Apple II and TRS-80?",
+      "options": ["Commodore 64", "Commodore PET", "IBM PC", "Altair 8800"],
+      "correctAnswer": 1,
+      "explanation": "The Commodore PET (Personal Electronic Transactor) was introduced in 1977 and, along with the Apple II and TRS-80, formed what Byte Magazine called the '1977 Trinity' of personal computers.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-4",
+      "question": "What was the standard speed of a vinyl record album (LP)?",
+      "options": ["45 RPM", "33⅓ RPM", "78 RPM", "16 RPM"],
+      "correctAnswer": 1,
+      "explanation": "The LP (Long Playing) record spun at 33⅓ RPM and was introduced by Columbia Records in 1948. Singles were played at 45 RPM, while the older 78 RPM format was the standard before the LP era.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-5",
+      "question": "Which format won the 'videotape format war' of the late 1970s and early 1980s?",
+      "options": ["Betamax", "VHS", "Video 2000", "LaserDisc"],
+      "correctAnswer": 1,
+      "explanation": "VHS (Video Home System), developed by JVC, won the format war against Sony's Betamax despite many arguing Betamax had superior quality. Longer recording times and lower costs helped VHS dominate.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-6",
+      "question": "What year did color television broadcasts begin regularly in the United States?",
+      "options": ["1948", "1954", "1960", "1965"],
+      "correctAnswer": 1,
+      "explanation": "NBC began regular color broadcasts in 1954, though widespread adoption took years. By the mid-1960s, most prime-time programming was in color, and the last holdout, CBS, went fully color in 1965.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-7",
+      "question": "What was the name of the first mass-produced electronic calculator, introduced by Texas Instruments in 1967?",
+      "options": ["Cal-Tech", "Datamath", "Cal-Q-Later", "Exactra"],
+      "correctAnswer": 0,
+      "explanation": "The Cal-Tech prototype, developed by Texas Instruments in 1967, led to the first handheld calculators. TI later released the commercially successful Datamath (TI-2500) in 1972.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-8",
+      "question": "Which telephone feature, introduced in the 1960s, replaced operators for long-distance calls?",
+      "options": ["Rotary dialing", "Touch-tone dialing", "Direct distance dialing", "Speed dialing"],
+      "correctAnswer": 2,
+      "explanation": "Direct Distance Dialing (DDD) allowed customers to place long-distance calls without operator assistance. While it began in the 1950s, it became widespread in the 1960s, transforming telephone usage.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-9",
+      "question": "What was the Polaroid camera famous for?",
+      "options": ["Underwater photography", "Instant self-developing photos", "360-degree panoramas", "Extremely long zoom lenses"],
+      "correctAnswer": 1,
+      "explanation": "Polaroid cameras, first introduced in 1948 by Edwin Land, produced instant photos that developed before your eyes. The iconic white-bordered prints became a cultural symbol of casual photography.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-10",
+      "question": "Which IBM product, released in 1981, set the standard for personal computing?",
+      "options": ["IBM Selectric", "IBM PC", "IBM System/360", "IBM ThinkPad"],
+      "correctAnswer": 1,
+      "explanation": "The IBM PC (Model 5150), released on August 12, 1981, established the standard architecture that most personal computers would follow. Its open architecture allowed many companies to create compatible 'clones.'",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-11",
+      "question": "What was the name of the popular electronic game from 1978 that featured colored buttons you had to press in sequence?",
+      "options": ["Speak & Spell", "Simon", "Merlin", "Lite-Brite"],
+      "correctAnswer": 1,
+      "explanation": "Simon, created by Ralph Baer and Howard Morrison and manufactured by Milton Bradley, challenged players to repeat increasingly longer sequences of colored lights and sounds.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-12",
+      "question": "What company introduced the first commercially successful microwave oven for home use in 1967?",
+      "options": ["General Electric", "Amana", "Whirlpool", "Kenmore"],
+      "correctAnswer": 1,
+      "explanation": "Amana (a division of Raytheon) introduced the first popular countertop microwave oven in 1967. Raytheon had patented the technology in 1945 after an engineer noticed a candy bar melting near radar equipment.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-13",
+      "question": "What early word processing device was known as a 'memory typewriter' when IBM introduced it in 1964?",
+      "options": ["IBM Selectric", "IBM MT/ST", "IBM DisplayWriter", "IBM Composer"],
+      "correctAnswer": 1,
+      "explanation": "The IBM MT/ST (Magnetic Tape/Selectric Typewriter) was introduced in 1964 and could store typed text on magnetic tape for editing and reprinting, revolutionizing office work.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-14",
+      "question": "Which portable music format, introduced in 1963, featured a continuous loop of tape in a plastic cartridge?",
+      "options": ["Cassette tape", "8-track tape", "Reel-to-reel tape", "DAT tape"],
+      "correctAnswer": 1,
+      "explanation": "The 8-track tape cartridge was developed in 1964 by a consortium led by Bill Lear (of Learjet fame). It became the first widely adopted car music format and was hugely popular through the 1970s.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rt-15",
+      "question": "What was the name of the first widely available electronic handheld game, released by Mattel in 1977?",
+      "options": ["Mattel Football", "Game Boy", "Merlin", "Coleco Head-to-Head"],
+      "correctAnswer": 0,
+      "explanation": "Mattel Football (also called Mattel Auto Race, released just before it) was one of the first handheld electronic games. Its simple LED display and addictive gameplay made it a sensation in the late 1970s.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

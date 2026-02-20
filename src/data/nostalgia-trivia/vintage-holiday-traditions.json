@@ -1,0 +1,144 @@
+{
+  "id": "vintage-holiday-traditions",
+  "title": "Vintage Holiday Traditions",
+  "description": "How well do you remember holiday traditions from decades past?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vht-1",
+      "question": "What type of Christmas tree lights, containing a liquid that bubbled when heated, were popular in the 1940s and 1950s?",
+      "options": ["Twinkle lights", "Bubble lights", "Candle lights", "Neon lights"],
+      "correctAnswer": 1,
+      "explanation": "Bubble lights contained a tube of methylene chloride liquid that bubbled when heated by the bulb. Introduced in 1946, they were one of the most beloved Christmas decorations of the era.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-2",
+      "question": "Which classic TV special featuring animated characters first aired in 1964 and told the story of a reindeer?",
+      "options": ["Frosty the Snowman", "A Charlie Brown Christmas", "Rudolph the Red-Nosed Reindeer", "How the Grinch Stole Christmas"],
+      "correctAnswer": 2,
+      "explanation": "Rudolph the Red-Nosed Reindeer, produced using stop-motion animation by Rankin/Bass, first aired on NBC in 1964. It became the longest-running holiday special in television history.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-3",
+      "question": "What holiday catalog did children eagerly await each fall to circle their wished-for gifts?",
+      "options": ["The J.C. Penney Catalog", "The Sears Wish Book", "The Montgomery Ward Flyer", "The Woolworth's Guide"],
+      "correctAnswer": 1,
+      "explanation": "The Sears Wish Book was the most anticipated catalog of the holiday season. Children would spend hours going through its pages, circling toys and gifts they hoped to receive for Christmas.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-4",
+      "question": "What Bing Crosby song became the best-selling single of all time and is closely associated with Christmas?",
+      "options": ["Silver Bells", "White Christmas", "The Christmas Song", "Winter Wonderland"],
+      "correctAnswer": 1,
+      "explanation": "Bing Crosby's 'White Christmas,' written by Irving Berlin, was first performed in 1941 and has sold over 50 million copies. It remains the best-selling single of all time worldwide.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-5",
+      "question": "What metallic Christmas tree, often paired with a rotating color wheel, was popular in the 1960s?",
+      "options": ["Silver tinsel tree", "Aluminum Christmas tree", "Chrome tree", "Foil tree"],
+      "correctAnswer": 1,
+      "explanation": "Aluminum Christmas trees were a holiday craze in the early 1960s. Their shiny, artificial branches were illuminated by a separate rotating color wheel that bathed the tree in changing colors.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-6",
+      "question": "What 1965 animated TV special featured a boy who needed to find the true meaning of Christmas?",
+      "options": ["Rudolph the Red-Nosed Reindeer", "A Charlie Brown Christmas", "The Year Without a Santa Claus", "Santa Claus Is Comin' to Town"],
+      "correctAnswer": 1,
+      "explanation": "A Charlie Brown Christmas first aired on CBS in 1965. Charlie Brown's search for the meaning of Christmas, accompanied by Vince Guaraldi's jazz soundtrack, became an annual tradition watched by millions.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-7",
+      "question": "What thin, shiny strips of foil were draped strand by strand on Christmas trees before the 1970s?",
+      "options": ["Garland", "Tinsel icicles", "Ribbon", "Streamers"],
+      "correctAnswer": 1,
+      "explanation": "Tinsel icicles (originally made of lead foil, later aluminum or Mylar) were painstakingly hung strand by strand on tree branches. The shimmering effect was magical, though cleaning up was a chore.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-8",
+      "question": "What was traditionally found inside a Christmas stocking as a treat, along with small toys and candy?",
+      "options": ["A gold coin", "An orange in the toe", "A silver bell", "A candy cane only"],
+      "correctAnswer": 1,
+      "explanation": "Finding an orange in the toe of your Christmas stocking was a long-standing tradition dating back to when oranges were rare and expensive winter treats. It was said to represent the gold balls from the legend of St. Nicholas.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-9",
+      "question": "What holiday dessert, a dense cake loaded with candied fruit and nuts, was often given as a gift and became a running joke?",
+      "options": ["Yule log", "Fruitcake", "Plum pudding", "Panettone"],
+      "correctAnswer": 1,
+      "explanation": "Fruitcake was a traditional holiday gift that became the subject of countless jokes about being regifted or lasting forever. Johnny Carson famously joked there was only one fruitcake in the world, passed from family to family.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-10",
+      "question": "What did families commonly do on Easter morning before church in the 1950s and 1960s?",
+      "options": ["Watch the Easter parade on TV", "Dress in new spring outfits and Easter bonnets", "Have a neighborhood egg toss", "Plant a garden"],
+      "correctAnswer": 1,
+      "explanation": "Wearing new spring clothes and Easter bonnets to church on Easter morning was a cherished tradition. The Easter Parade, where people strolled in their finest spring outfits, was especially famous on Fifth Avenue in New York.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-11",
+      "question": "What 1947 film, starring Natalie Wood and Edmund Gwenn, became a beloved Christmas classic about believing in Santa Claus?",
+      "options": ["It's a Wonderful Life", "Miracle on 34th Street", "The Bishop's Wife", "Holiday Inn"],
+      "correctAnswer": 1,
+      "explanation": "Miracle on 34th Street told the story of a Macy's department store Santa who claims to be the real Kris Kringle. Edmund Gwenn won the Academy Award for Best Supporting Actor for his portrayal of Santa.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-12",
+      "question": "What holiday tradition involved going door to door singing Christmas songs in the neighborhood?",
+      "options": ["Christmas pageant", "Caroling", "Wassailing", "Mummering"],
+      "correctAnswer": 1,
+      "explanation": "Christmas caroling was a beloved neighborhood tradition where groups would go door to door singing holiday songs. Carolers were often rewarded with hot chocolate, cookies, or other treats by grateful homeowners.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-13",
+      "question": "What popular department store was known for its elaborate animated window displays during the holiday season?",
+      "options": ["Woolworth's", "Macy's", "Sears", "J.C. Penney"],
+      "correctAnswer": 1,
+      "explanation": "Macy's holiday window displays on 34th Street in New York became a must-see tradition. Families would travel from far away to see the elaborate animated scenes, a tradition that began in the early 1870s with R.H. Macy himself.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-14",
+      "question": "What mid-century tradition involved displaying Christmas cards by stringing them across doorways or on the wall?",
+      "options": ["Card garlands on ribbon or string", "Posting them on the refrigerator", "Keeping them in a basket", "Placing them in a scrapbook"],
+      "correctAnswer": 0,
+      "explanation": "Families would string received Christmas cards on ribbon or yarn across doorways, mantels, and walls as decorations. The tradition of sending Christmas cards dates to the 1840s, and mid-century families might receive dozens.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vht-15",
+      "question": "What Rankin/Bass holiday special, first airing in 1969, featured a villain named Burgermeister Meisterburger?",
+      "options": ["The Year Without a Santa Claus", "Santa Claus Is Comin' to Town", "Jack Frost", "Rudolph's Shiny New Year"],
+      "correctAnswer": 1,
+      "explanation": "Santa Claus Is Comin' to Town first aired in 1970 (production began in 1969) and told the origin story of Santa Claus. Fred Astaire narrated, and the stop-motion special featured the tyrannical Burgermeister Meisterburger who outlawed toys.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "retro-slang",
+  "title": "Retro Slang",
+  "description": "Can you decode these groovy slang terms from the 1950s through 1980s?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rs-1",
+      "question": "In 1950s slang, what did it mean if something was 'the bee's knees'?",
+      "options": ["It was annoying", "It was excellent or outstanding", "It was old-fashioned", "It was painful"],
+      "correctAnswer": 1,
+      "explanation": "'The bee's knees' was a popular expression meaning something was outstanding or excellent. While it originated in the 1920s, it remained in common use through the 1950s as high praise.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-2",
+      "question": "In 1960s hippie slang, what did 'far out' mean?",
+      "options": ["Very distant", "Excellent or amazing", "Confusing", "Unfashionable"],
+      "correctAnswer": 1,
+      "explanation": "'Far out' was a popular 1960s and 1970s expression of approval or amazement. It was heavily associated with the counterculture and hippie movements and could express wonder at something extraordinary.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-3",
+      "question": "If someone in the 1950s called you a 'square,' what did they mean?",
+      "options": ["You were honest", "You were strong", "You were boring and conventional", "You were smart"],
+      "correctAnswer": 2,
+      "explanation": "A 'square' was someone considered boring, conventional, or out of touch with current trends. The term was used heavily in the 1950s beat culture and 1960s counterculture to describe anyone seen as unhip.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-4",
+      "question": "In 1970s slang, what did 'keep on truckin'' mean?",
+      "options": ["Drive carefully", "Keep persevering and moving forward", "Follow the truck", "Work overtime"],
+      "correctAnswer": 1,
+      "explanation": "'Keep on truckin'' meant to keep going, persevere, and stay positive. Popularized by R. Crumb's underground comic in 1968, it became one of the most widespread slang phrases of the early 1970s.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-5",
+      "question": "What did the 1950s term 'cruisin' for a bruisin'' mean?",
+      "options": ["Looking for a fight", "Driving too fast", "Looking for trouble", "Getting a sunburn"],
+      "correctAnswer": 2,
+      "explanation": "'Cruisin' for a bruisin'' meant someone was looking for trouble or heading for a bad outcome. It was popular greaser slang in the 1950s and was used to warn someone their behavior would lead to consequences.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-6",
+      "question": "In 1980s slang, what did 'gag me with a spoon' express?",
+      "options": ["Hunger", "Disgust or disbelief", "Excitement", "Boredom"],
+      "correctAnswer": 1,
+      "explanation": "'Gag me with a spoon' was quintessential 1980s Valley Girl slang expressing disgust or disbelief. It was popularized by Frank Zappa's 1982 hit 'Valley Girl,' featuring his daughter Moon Unit.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-7",
+      "question": "What did the 1950s slang term 'daddy-o' refer to?",
+      "options": ["Your father", "A cool or hip man", "An older gentleman", "A jazz musician"],
+      "correctAnswer": 1,
+      "explanation": "'Daddy-o' was a casual, hip way to address a man, similar to 'dude' today. It originated in jazz culture and was popularized by the beat generation in the 1950s, conveying a sense of cool familiarity.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-8",
+      "question": "In 1960s slang, what did it mean to 'bug out'?",
+      "options": ["To leave quickly", "To study insects", "To go camping", "To get angry"],
+      "correctAnswer": 0,
+      "explanation": "'Bug out' meant to leave quickly or hurriedly. Originally military slang from the Korean War meaning to retreat hastily, it entered mainstream youth slang in the 1960s.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-9",
+      "question": "What did the 1970s expression 'dy-no-mite!' mean, popularized by a TV character?",
+      "options": ["Danger ahead", "Something explosive", "Something fantastic or exciting", "A warning"],
+      "correctAnswer": 2,
+      "explanation": "'Dy-no-mite!' was the catchphrase of J.J. Evans, played by Jimmie Walker on the TV show Good Times (1974-1979). It expressed excitement and enthusiasm and became one of the decade's most quoted phrases.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-10",
+      "question": "In 1950s greaser slang, what was a 'greaser'?",
+      "options": ["A mechanic", "A young man with slicked-back hair and a rebellious attitude", "A cook", "A fast driver"],
+      "correctAnswer": 1,
+      "explanation": "A 'greaser' was a young man who styled his hair with grease or pomade, wore leather jackets, and cultivated a rebellious image. The term referenced the hair grease used to achieve the signature ducktail hairstyle.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-11",
+      "question": "What did the 1980s term 'gnarly' originally mean in surfer slang?",
+      "options": ["Easy and relaxing", "Dangerous, challenging, or impressive", "Ugly", "Small"],
+      "correctAnswer": 1,
+      "explanation": "'Gnarly' originated in surfer culture to describe large, dangerous waves. By the 1980s, it had evolved to mean anything extreme, impressive, or cool, becoming a staple of California youth slang.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-12",
+      "question": "In 1960s slang, what was a 'fuzz'?",
+      "options": ["A fuzzy sweater", "A police officer", "A bad haircut", "A small mistake"],
+      "correctAnswer": 1,
+      "explanation": "'The fuzz' was 1960s slang for the police. The origin is debated — it may have come from the fuzzy appearance of static on police radios or from British slang. It was widely used in counterculture circles.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-13",
+      "question": "What did the 1970s term 'boogie' mean?",
+      "options": ["To dance", "To leave", "To eat", "To sleep"],
+      "correctAnswer": 0,
+      "explanation": "'Boogie' meant to dance, particularly to disco or funk music. Derived from 'boogie-woogie' (a style of blues piano), it became ubiquitous in the 1970s disco era with songs like 'Boogie Wonderland' and 'Boogie Nights.'",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-14",
+      "question": "In 1950s slang, what was a 'pad'?",
+      "options": ["A writing tablet", "A helicopter landing area", "A person's home or apartment", "A soft cushion"],
+      "correctAnswer": 2,
+      "explanation": "A 'pad' was beatnik slang for one's home or apartment, as in 'Come over to my pad.' The term originated in jazz and beat culture and was later adopted by the broader counterculture in the 1960s.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rs-15",
+      "question": "What did the 1980s expression 'totally tubular' mean?",
+      "options": ["Round and hollow", "Extremely cool or awesome", "Related to television", "Physically fit"],
+      "correctAnswer": 1,
+      "explanation": "'Totally tubular' was 1980s surfer-influenced slang meaning something was extremely cool or awesome. 'Tubular' came from the tube shape of a perfect wave. Combined with 'totally,' it became peak 80s enthusiasm.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

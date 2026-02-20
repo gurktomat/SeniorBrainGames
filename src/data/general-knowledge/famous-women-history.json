@@ -1,0 +1,144 @@
+{
+  "id": "famous-women-history",
+  "title": "Famous Women in History",
+  "description": "How well do you know the women who changed the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fwh-1",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean in 1932?",
+      "options": ["Bessie Coleman", "Amelia Earhart", "Harriet Quimby", "Jacqueline Cochran"],
+      "correctAnswer": 1,
+      "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean on May 20-21, 1932, departing from Newfoundland and landing in Northern Ireland.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fwh-2",
+      "question": "Marie Curie was the first woman to win a Nobel Prize. In which field did she win her first?",
+      "options": ["Chemistry", "Physics", "Medicine", "Peace"],
+      "correctAnswer": 1,
+      "explanation": "Marie Curie won her first Nobel Prize in Physics in 1903 for her research on radioactivity, shared with her husband Pierre Curie and Henri Becquerel.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fwh-3",
+      "question": "Which woman refused to give up her seat on a bus in Montgomery, Alabama, in 1955?",
+      "options": ["Coretta Scott King", "Rosa Parks", "Sojourner Truth", "Fannie Lou Hamer"],
+      "correctAnswer": 1,
+      "explanation": "Rosa Parks' act of civil disobedience on December 1, 1955, sparked the Montgomery Bus Boycott and became a pivotal moment in the American Civil Rights Movement.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fwh-4",
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Theresa May", "Margaret Thatcher", "Queen Victoria", "Emmeline Pankhurst"],
+      "correctAnswer": 1,
+      "explanation": "Margaret Thatcher became the first female Prime Minister of the United Kingdom in 1979, serving until 1990 — the longest-serving British PM of the 20th century.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fwh-5",
+      "question": "Florence Nightingale is considered the founder of which profession?",
+      "options": ["Teaching", "Social work", "Modern nursing", "Psychology"],
+      "correctAnswer": 2,
+      "explanation": "Florence Nightingale is widely regarded as the founder of modern nursing. Her work during the Crimean War in the 1850s transformed the field of healthcare.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fwh-6",
+      "question": "Which ancient Egyptian queen was the last active ruler of the Ptolemaic Kingdom?",
+      "options": ["Nefertiti", "Hatshepsut", "Cleopatra VII", "Ankhesenamun"],
+      "correctAnswer": 2,
+      "explanation": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt, ruling from 51 BC until her death in 30 BC, after which Egypt became a Roman province.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fwh-7",
+      "question": "Who wrote 'The Diary of a Young Girl,' a firsthand account of hiding during World War II?",
+      "options": ["Corrie ten Boom", "Anne Frank", "Hannah Arendt", "Miep Gies"],
+      "correctAnswer": 1,
+      "explanation": "Anne Frank wrote her famous diary while hiding with her family in Amsterdam during the Nazi occupation. Published posthumously in 1947, it became one of the most widely read books in the world.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fwh-8",
+      "question": "Which woman led French troops to several important victories during the Hundred Years' War?",
+      "options": ["Eleanor of Aquitaine", "Catherine de' Medici", "Marie Antoinette", "Joan of Arc"],
+      "correctAnswer": 3,
+      "explanation": "Joan of Arc, a peasant girl who claimed divine guidance, led French forces to a pivotal victory at the Siege of Orléans in 1429 during the Hundred Years' War.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fwh-9",
+      "question": "Who was the first woman in space, flying aboard Vostok 6 in 1963?",
+      "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Svetlana Savitskaya"],
+      "correctAnswer": 1,
+      "explanation": "Soviet cosmonaut Valentina Tereshkova became the first woman in space on June 16, 1963, orbiting the Earth 48 times over nearly three days aboard Vostok 6.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fwh-10",
+      "question": "Which suffragette leader co-founded the National Woman Suffrage Association in the United States?",
+      "options": ["Lucretia Mott", "Susan B. Anthony", "Elizabeth Cady Stanton", "Alice Paul"],
+      "correctAnswer": 2,
+      "explanation": "Elizabeth Cady Stanton co-founded the National Woman Suffrage Association in 1869 with Susan B. Anthony and was a leading figure in the early women's rights movement.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fwh-11",
+      "question": "Which woman became the first self-made female millionaire in the United States?",
+      "options": ["Hetty Green", "Madam C.J. Walker", "Helena Rubinstein", "Mary Kay Ash"],
+      "correctAnswer": 1,
+      "explanation": "Madam C.J. Walker (born Sarah Breedlove) is widely recognized as the first female self-made millionaire in America, building her fortune through a line of hair care products for Black women in the early 1900s.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fwh-12",
+      "question": "Who was the first woman to win the Fields Medal, the most prestigious award in mathematics, in 2014?",
+      "options": ["Emmy Noether", "Maryam Mirzakhani", "Karen Uhlenbeck", "Sophie Germain"],
+      "correctAnswer": 1,
+      "explanation": "Iranian mathematician Maryam Mirzakhani became the first woman to win the Fields Medal in 2014 for her work on the dynamics and geometry of Riemann surfaces.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fwh-13",
+      "question": "Which woman served as the pharaoh of Egypt for about 20 years during the 18th Dynasty?",
+      "options": ["Cleopatra VII", "Nefertiti", "Hatshepsut", "Sobekneferu"],
+      "correctAnswer": 2,
+      "explanation": "Hatshepsut ruled as pharaoh of Egypt for roughly 20 years (c. 1478-1458 BC) during the 18th Dynasty, one of the most successful pharaohs in Egyptian history.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fwh-14",
+      "question": "Ada Lovelace is often credited as the world's first what?",
+      "options": ["Female doctor", "Computer programmer", "Female astronomer", "Electrical engineer"],
+      "correctAnswer": 1,
+      "explanation": "Ada Lovelace, the daughter of Lord Byron, wrote the first algorithm intended for a machine — Charles Babbage's Analytical Engine — in the 1840s, making her the world's first computer programmer.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fwh-15",
+      "question": "Which woman won the Nobel Peace Prize in 1979 for her humanitarian work in India?",
+      "options": ["Aung San Suu Kyi", "Wangari Maathai", "Mother Teresa", "Rigoberta Menchú"],
+      "correctAnswer": 2,
+      "explanation": "Mother Teresa (born Anjezë Gonxhe Bojaxhiu) was awarded the Nobel Peace Prize in 1979 for her decades of work helping the poorest of the poor in Calcutta, India.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

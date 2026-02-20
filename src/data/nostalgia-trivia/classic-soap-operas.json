@@ -1,0 +1,144 @@
+{
+  "id": "classic-soap-operas",
+  "title": "Classic Soap Operas",
+  "description": "Test your knowledge of the great soap operas from TV's golden age!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cso-1",
+      "question": "Which soap opera, set in the fictional town of Pine Valley, premiered in 1970 and starred Susan Lucci?",
+      "options": ["General Hospital", "All My Children", "One Life to Live", "The Young and the Restless"],
+      "correctAnswer": 1,
+      "explanation": "All My Children premiered on ABC on January 5, 1970. Susan Lucci played the legendary villainess Erica Kane and was famously nominated for 18 Daytime Emmys before finally winning in 1999.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-2",
+      "question": "What prime-time soap opera featured the wealthy Ewing family and their Texas oil empire?",
+      "options": ["Dynasty", "Dallas", "Falcon Crest", "Knots Landing"],
+      "correctAnswer": 1,
+      "explanation": "Dallas ran from 1978 to 1991 on CBS. The Ewing family, led by patriarch Jock and scheming son J.R., captivated audiences worldwide. The show made Larry Hagman a household name.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-3",
+      "question": "Which daytime soap opera, the longest-running drama in TV history, featured the Hughes family?",
+      "options": ["As the World Turns", "Guiding Light", "Days of Our Lives", "The Edge of Night"],
+      "correctAnswer": 0,
+      "explanation": "As the World Turns premiered on CBS in 1956 and ran until 2010. Created by Irna Phillips, it centered on the Hughes and Lowell families in the fictional town of Oakdale, Illinois.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-4",
+      "question": "What was the famous opening narration of 'Days of Our Lives'?",
+      "options": ["'These are their stories...'", "'Like sands through the hourglass, so are the days of our lives'", "'The world keeps turning...'", "'In a world of love and betrayal...'"],
+      "correctAnswer": 1,
+      "explanation": "The iconic opening of Days of Our Lives, featuring an hourglass and the narration 'Like sands through the hourglass, so are the days of our lives,' has been used since 1965 when the show premiered on NBC.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-5",
+      "question": "Which prime-time soap featured the Carrington and Colby families and was known for its glamour?",
+      "options": ["Dallas", "Falcon Crest", "Dynasty", "The Colbys"],
+      "correctAnswer": 2,
+      "explanation": "Dynasty aired on ABC from 1981 to 1989. It featured the wealthy Carrington family of Denver and became famous for its over-the-top glamour, especially the iconic shoulder pads and catfights between Krystle and Alexis.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-6",
+      "question": "The 1981 'Who Shot J.R.?' cliffhanger on Dallas drew how many American viewers for the reveal?",
+      "options": ["50 million", "63 million", "76 million", "83 million"],
+      "correctAnswer": 3,
+      "explanation": "The 'Who Shot J.R.?' episode on November 21, 1980, drew an estimated 83 million viewers, making it the highest-rated single episode of a TV series at that time. Kristin Shepard was revealed as the shooter.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-7",
+      "question": "Which soap opera featured the iconic 1981 wedding of Luke and Laura, the most-watched event in soap opera history?",
+      "options": ["Days of Our Lives", "The Young and the Restless", "General Hospital", "All My Children"],
+      "correctAnswer": 2,
+      "explanation": "The wedding of Luke Spencer and Laura Webber on General Hospital on November 16-17, 1981, drew 30 million viewers. Played by Anthony Geary and Genie Francis, Luke and Laura became the most famous soap opera couple ever.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-8",
+      "question": "Which actress played the scheming Alexis Carrington Colby on Dynasty?",
+      "options": ["Linda Evans", "Joan Collins", "Heather Locklear", "Donna Mills"],
+      "correctAnswer": 1,
+      "explanation": "Joan Collins joined Dynasty in 1981 as Alexis Carrington Colby. Her portrayal of the glamorous, ruthless villainess made her an international star and helped Dynasty become the number-one rated show.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-9",
+      "question": "What soap opera, which began on radio in 1937 and moved to TV in 1952, held the record as the longest-running drama?",
+      "options": ["As the World Turns", "Search for Tomorrow", "Guiding Light", "The Secret Storm"],
+      "correctAnswer": 2,
+      "explanation": "Guiding Light began as a radio serial in 1937 and moved to television in 1952, running until 2009. Its 72-year run made it the longest-running drama in broadcast history.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-10",
+      "question": "Which soap opera spin-off of Dallas followed several characters who moved to a California cul-de-sac?",
+      "options": ["Falcon Crest", "Knots Landing", "The Colbys", "Melrose Place"],
+      "correctAnswer": 1,
+      "explanation": "Knots Landing premiered in 1979 as a spin-off of Dallas, following Gary Ewing (Ted Shackelford) and his wife Valene (Joan Van Ark) in a California coastal community. It ran for 14 seasons.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-11",
+      "question": "Who created the soap operas 'As the World Turns' and 'Guiding Light,' earning the title 'Queen of the Soaps'?",
+      "options": ["Agnes Nixon", "Irna Phillips", "Gloria Monty", "William J. Bell"],
+      "correctAnswer": 1,
+      "explanation": "Irna Phillips is widely regarded as the creator of the soap opera genre. She created Guiding Light, As the World Turns, and Another World, and mentored Agnes Nixon who went on to create her own soaps.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-12",
+      "question": "What was the fictional hospital at the center of General Hospital?",
+      "options": ["Pine Valley Hospital", "General Hospital of Port Charles", "Memorial Hospital", "Oakdale General"],
+      "correctAnswer": 1,
+      "explanation": "General Hospital is set in the fictional city of Port Charles, New York. The show premiered on ABC in 1963 and is the longest-running American soap opera still in production.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-13",
+      "question": "Which nighttime soap opera set in a California wine country was hosted by the presence of Angela Channing?",
+      "options": ["Knots Landing", "Dynasty", "Falcon Crest", "Flamingo Road"],
+      "correctAnswer": 2,
+      "explanation": "Falcon Crest (1981-1990) starred Jane Wyman as Angela Channing, the ruthless matriarch of a Tuscany Valley wine empire. The show was set in the fictional Tuscany Valley in California's wine country.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-14",
+      "question": "What soap opera storyline technique, now standard, did 'Dark Shadows' pioneer by introducing in 1966?",
+      "options": ["Love triangles", "Supernatural and gothic horror elements", "Time jumps", "Dream sequences"],
+      "correctAnswer": 1,
+      "explanation": "Dark Shadows (1966-1971) was revolutionary for introducing supernatural elements including vampires, ghosts, and time travel into the soap opera format. The vampire Barnabas Collins, played by Jonathan Frid, became a cult icon.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "cso-15",
+      "question": "Which soap opera character, played by Larry Hagman, was famous for the line 'Never give the sucker an even break'?",
+      "options": ["Blake Carrington", "J.R. Ewing", "Cliff Barnes", "Adam Chandler"],
+      "correctAnswer": 1,
+      "explanation": "J.R. Ewing, the scheming oil baron of Dallas, was one of television's greatest villains. Larry Hagman's portrayal made J.R. an international icon, and his cowboy hat and devious smile became symbols of 1980s television.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

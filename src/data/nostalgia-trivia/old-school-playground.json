@@ -1,0 +1,144 @@
+{
+  "id": "old-school-playground",
+  "title": "Old-School Playground",
+  "description": "How well do you remember the games and activities from the schoolyard?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "osp-1",
+      "question": "In the game of marbles, what was the large marble used to shoot at other marbles called?",
+      "options": ["Aggie", "Shooter", "Steely", "Cat's Eye"],
+      "correctAnswer": 1,
+      "explanation": "The shooter (also called a 'taw') was the larger marble players used to knock other marbles out of the ring. Marbles was one of the most popular playground games from the 1940s through the 1960s.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-2",
+      "question": "What playground game involved bouncing a small rubber ball while picking up small metal pieces?",
+      "options": ["Hopscotch", "Jacks", "Pickup Sticks", "Tiddlywinks"],
+      "correctAnswer": 1,
+      "explanation": "Jacks (or jackstones) required bouncing a small ball and scooping up an increasing number of small metal jacks before catching the ball. It was a favorite recess game, especially among girls.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-3",
+      "question": "In the jump rope rhyme 'Cinderella, dressed in yella,' what did Cinderella go upstairs to do?",
+      "options": ["Comb her hair", "Kiss a fella", "Find an umbrella", "Ring a bell-a"],
+      "correctAnswer": 1,
+      "explanation": "The classic jump rope rhyme went: 'Cinderella, dressed in yella, went upstairs to kiss a fella. Made a mistake and kissed a snake. How many doctors did it take?' Then children counted jumps.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-4",
+      "question": "What was the name of the schoolyard game where one person was 'It' and had to tag others who then became frozen?",
+      "options": ["Red Light, Green Light", "Freeze Tag", "Capture the Flag", "Sardines"],
+      "correctAnswer": 1,
+      "explanation": "Freeze Tag was a variation of regular tag where tagged players had to freeze in place until another free player tagged them to unfreeze them. The game ended when all players were frozen.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-5",
+      "question": "In the schoolyard rhyme game 'Miss Mary Mack,' what was she dressed in?",
+      "options": ["Red, red, red", "Blue, blue, blue", "Black, black, black", "White, white, white"],
+      "correctAnswer": 2,
+      "explanation": "'Miss Mary Mack, Mack, Mack, all dressed in black, black, black, with silver buttons, buttons, buttons, all down her back, back, back.' This hand-clapping rhyme has been a playground favorite for generations.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-6",
+      "question": "What schoolyard game involved hitting a small pointed stick into the air with a larger stick?",
+      "options": ["Stickball", "Mumbly Peg", "Shinny", "Peggy"],
+      "correctAnswer": 3,
+      "explanation": "Peggy (also called Tipcat) was a classic street game where players used a large stick to hit a smaller sharpened stick (the 'peg') into the air and then hit it as far as possible, similar to cricket or baseball.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-7",
+      "question": "Which playground game required drawing numbered squares on the ground and tossing a stone?",
+      "options": ["Four Square", "Hopscotch", "Box Ball", "Skully"],
+      "correctAnswer": 1,
+      "explanation": "Hopscotch involved tossing a stone into numbered squares drawn on the ground, then hopping through the pattern on one foot to retrieve it. Different regions had their own variations of the layout.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-8",
+      "question": "What was the name of the game where players formed a chain by linking arms and trying to break through another team's chain?",
+      "options": ["Crack the Whip", "Red Rover", "British Bulldog", "Chain Tag"],
+      "correctAnswer": 1,
+      "explanation": "Red Rover had two teams standing in lines holding hands. One team would call 'Red Rover, Red Rover, send [name] right over!' and that player would run and try to break through the opposing team's chain.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-9",
+      "question": "In the choosing game 'Eeny, meeny, miny, moe,' what did you catch by the toe in the original schoolyard version popular in the 1950s?",
+      "options": ["A monkey", "A tiger", "A piggy", "A rabbit"],
+      "correctAnswer": 1,
+      "explanation": "The widely known version goes 'Eeny, meeny, miny, moe, catch a tiger by the toe.' This counting-out rhyme was used by children to fairly select who would be 'It' in various playground games.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-10",
+      "question": "What playground equipment consisted of a long plank balanced on a central pivot?",
+      "options": ["Merry-go-round", "Seesaw", "Jungle gym", "Monkey bars"],
+      "correctAnswer": 1,
+      "explanation": "The seesaw (or teeter-totter) was a playground staple for decades. Two children sat on opposite ends and alternately went up and down. Many have been removed from modern playgrounds due to safety concerns.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-11",
+      "question": "Which schoolyard game involved throwing a ball against a wall and performing actions before catching it?",
+      "options": ["Wall Ball", "Sevensies", "Handball", "Stoop Ball"],
+      "correctAnswer": 1,
+      "explanation": "Sevensies (also called Sevens) was a ball game where players threw a ball against a wall and had to complete a series of increasingly difficult actions (clapping, spinning, touching the ground) before catching it.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-12",
+      "question": "What game, popular on city sidewalks, used a Spalding rubber ball bounced off front steps?",
+      "options": ["Boxball", "Stoopball", "Punchball", "Kickball"],
+      "correctAnswer": 1,
+      "explanation": "Stoopball was hugely popular in urban neighborhoods, especially in New York City. Players threw a Spalding (or 'Spaldeen') rubber ball against the stoop steps and earned points based on how far it bounced back.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-13",
+      "question": "In the game of Chinese Jump Rope, what was the elastic band typically made of?",
+      "options": ["Woven fabric", "Linked rubber bands", "Bungee cord", "Plastic tubing"],
+      "correctAnswer": 1,
+      "explanation": "Chinese Jump Rope (also called Elastics) used a long loop of linked rubber bands stretched between two players' ankles. The jumper performed increasingly complex patterns as the band was raised higher.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-14",
+      "question": "What game involved one player hiding their eyes and counting to 100 while others hid?",
+      "options": ["Sardines", "Kick the Can", "Hide and Seek", "Ghost in the Graveyard"],
+      "correctAnswer": 2,
+      "explanation": "Hide and Seek is one of the oldest and most universal children's games. The seeker counted at 'home base' while others hid, then called 'Ready or not, here I come!' before searching.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "osp-15",
+      "question": "Which playground game combined Hide and Seek with an element where the hidden person could 'free' others by kicking an object?",
+      "options": ["Capture the Flag", "Kick the Can", "Sardines", "Ghost in the Graveyard"],
+      "correctAnswer": 1,
+      "explanation": "Kick the Can combined elements of tag, hide and seek, and capture the flag. A 'can' was placed in the open, and hidden players tried to kick it before being tagged, which freed all captured players.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "famous-explorers",
+  "title": "Famous Explorers",
+  "description": "Test your knowledge of history's greatest explorers!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fex-1",
+      "question": "Who led the first expedition to successfully circumnavigate the globe?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Francis Drake"],
+      "correctAnswer": 2,
+      "explanation": "Ferdinand Magellan organized the Spanish expedition that departed in 1519. Although Magellan himself was killed in the Philippines in 1521, his crew completed the circumnavigation in 1522 under Juan Sebastián Elcano.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fex-2",
+      "question": "Which explorer is credited with 'discovering' America in 1492?",
+      "options": ["Amerigo Vespucci", "Christopher Columbus", "John Cabot", "Leif Erikson"],
+      "correctAnswer": 1,
+      "explanation": "Christopher Columbus, sailing for Spain, reached the Caribbean islands in 1492. Though Vikings had reached North America centuries earlier, Columbus's voyages led to lasting European contact with the Americas.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fex-3",
+      "question": "Who was the first person to reach the South Pole?",
+      "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "Richard Byrd"],
+      "correctAnswer": 1,
+      "explanation": "Norwegian explorer Roald Amundsen and his team reached the South Pole on December 14, 1911, beating Robert Falcon Scott's British expedition by about five weeks.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fex-4",
+      "question": "Which Portuguese explorer was the first European to reach India by sea?",
+      "options": ["Bartolomeu Dias", "Vasco da Gama", "Pedro Álvares Cabral", "Prince Henry the Navigator"],
+      "correctAnswer": 1,
+      "explanation": "Vasco da Gama reached Calicut, India, in 1498 after sailing around the Cape of Good Hope, establishing a sea route from Europe to Asia.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fex-5",
+      "question": "Lewis and Clark led an expedition to explore which part of the world?",
+      "options": ["The Arctic", "Western North America", "South America", "Central Africa"],
+      "correctAnswer": 1,
+      "explanation": "Meriwether Lewis and William Clark led the Corps of Discovery expedition (1804-1806) across the western portion of the United States, from St. Louis to the Pacific Ocean and back.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "fex-6",
+      "question": "Which explorer is known for his search for the source of the Nile River?",
+      "options": ["Henry Morton Stanley", "David Livingstone", "Richard Francis Burton", "Mungo Park"],
+      "correctAnswer": 2,
+      "explanation": "Sir Richard Francis Burton, along with John Hanning Speke, led expeditions in the 1850s to find the source of the Nile. Speke identified Lake Victoria as the source, though Burton disagreed.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fex-7",
+      "question": "Who led the first successful expedition to the summit of Mount Everest in 1953?",
+      "options": ["George Mallory", "Edmund Hillary and Tenzing Norgay", "Reinhold Messner", "John Hunt"],
+      "correctAnswer": 1,
+      "explanation": "New Zealander Edmund Hillary and Sherpa Tenzing Norgay reached the summit of Mount Everest on May 29, 1953, as part of a British expedition led by Colonel John Hunt.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fex-8",
+      "question": "Which explorer named the Pacific Ocean?",
+      "options": ["James Cook", "Ferdinand Magellan", "Francis Drake", "Vasco Núñez de Balboa"],
+      "correctAnswer": 1,
+      "explanation": "Ferdinand Magellan named the ocean 'Mar Pacifico' (Peaceful Sea) in 1520 because of the calm waters he encountered after navigating the stormy strait at the tip of South America.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fex-9",
+      "question": "Who was the famous journalist sent to find David Livingstone in Africa?",
+      "options": ["Richard Francis Burton", "Henry Morton Stanley", "Samuel Baker", "John Speke"],
+      "correctAnswer": 1,
+      "explanation": "Henry Morton Stanley was sent by the New York Herald in 1869 to find Dr. David Livingstone, who had been out of contact in Africa. Their meeting in 1871 produced the famous greeting, 'Dr. Livingstone, I presume?'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fex-10",
+      "question": "Which Viking explorer is believed to have reached North America around 1000 AD?",
+      "options": ["Erik the Red", "Leif Erikson", "Bjorn Ironside", "Harald Hardrada"],
+      "correctAnswer": 1,
+      "explanation": "Leif Erikson is believed to have been the first European to set foot on North American soil, around 1000 AD, establishing a settlement at Vinland (likely in Newfoundland, Canada).",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "fex-11",
+      "question": "Which explorer led three voyages to the Pacific and was killed in Hawaii in 1779?",
+      "options": ["Francis Drake", "Abel Tasman", "James Cook", "William Dampier"],
+      "correctAnswer": 2,
+      "explanation": "Captain James Cook made three voyages to the Pacific Ocean, mapping many areas for the first time. He was killed during a conflict with native Hawaiians at Kealakekua Bay in 1779.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fex-12",
+      "question": "Who was the first European to reach the Cape of Good Hope at the southern tip of Africa?",
+      "options": ["Vasco da Gama", "Bartolomeu Dias", "Prince Henry the Navigator", "Alfonso de Albuquerque"],
+      "correctAnswer": 1,
+      "explanation": "Portuguese explorer Bartolomeu Dias rounded the Cape of Good Hope in 1488, proving it was possible to sail from Europe to Asia around Africa. He originally named it the Cape of Storms.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fex-13",
+      "question": "Which Spanish conquistador conquered the Aztec Empire?",
+      "options": ["Francisco Pizarro", "Hernán Cortés", "Hernando de Soto", "Vasco Núñez de Balboa"],
+      "correctAnswer": 1,
+      "explanation": "Hernán Cortés arrived in Mexico in 1519 and conquered the Aztec Empire by 1521, capturing the capital city of Tenochtitlan and its ruler Montezuma II.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fex-14",
+      "question": "Who led the expedition that first reached the North Pole, a claim generally credited in 1909?",
+      "options": ["Roald Amundsen", "Robert Peary", "Fridtjof Nansen", "Frederick Cook"],
+      "correctAnswer": 1,
+      "explanation": "Robert Peary claimed to have reached the North Pole on April 6, 1909, with his assistant Matthew Henson and four Inuit men, though this claim has been debated by historians.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "fex-15",
+      "question": "Which explorer's failed Antarctic expedition aboard the Endurance became one of history's greatest survival stories?",
+      "options": ["Robert Falcon Scott", "Ernest Shackleton", "Douglas Mawson", "Roald Amundsen"],
+      "correctAnswer": 1,
+      "explanation": "Sir Ernest Shackleton's Imperial Trans-Antarctic Expedition (1914-1916) became a legendary survival story when the ship Endurance was crushed by ice, yet all 28 crew members were eventually rescued.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

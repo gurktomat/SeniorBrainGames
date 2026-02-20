@@ -1,0 +1,144 @@
+{
+  "id": "eponyms-quiz",
+  "title": "Eponyms Quiz",
+  "description": "Discover words that come from people's names!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ep-1",
+      "question": "The word 'sandwich' is named after which historical figure?",
+      "options": ["King George III", "The Earl of Sandwich", "Sir Walter Raleigh", "Benjamin Franklin"],
+      "correctAnswer": 1,
+      "explanation": "The sandwich is named after John Montagu, the 4th Earl of Sandwich (1718-1792). Legend has it he asked for meat between two slices of bread so he could eat without leaving the card table.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ep-2",
+      "question": "Which scientist gave their name to the unit of temperature 'Fahrenheit'?",
+      "options": ["Anders Celsius", "Daniel Gabriel Fahrenheit", "Lord Kelvin", "Isaac Newton"],
+      "correctAnswer": 1,
+      "explanation": "Daniel Gabriel Fahrenheit (1686-1736) was a Polish-German physicist who invented the mercury thermometer and developed the Fahrenheit temperature scale.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ep-3",
+      "question": "The word 'pasteurize' comes from which famous scientist?",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+      "correctAnswer": 2,
+      "explanation": "Pasteurization is named after French chemist Louis Pasteur (1822-1895), who developed the process of heating liquids to kill harmful bacteria, making milk and other beverages safer to drink.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ep-4",
+      "question": "Braille, the tactile writing system for the blind, is named after whom?",
+      "options": ["Helen Keller", "Louis Braille", "Alexander Graham Bell", "Thomas Edison"],
+      "correctAnswer": 1,
+      "explanation": "Braille is named after Louis Braille (1809-1852), a Frenchman who lost his sight as a child and developed the raised-dot reading and writing system at age 15.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ep-5",
+      "question": "The word 'diesel' (as in diesel engine) comes from whom?",
+      "options": ["Henry Ford", "Rudolf Diesel", "Karl Benz", "Gottlieb Daimler"],
+      "correctAnswer": 1,
+      "explanation": "The diesel engine is named after Rudolf Diesel (1858-1913), a German engineer who invented a more efficient internal combustion engine that used compression ignition rather than spark plugs.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ep-6",
+      "question": "The word 'boycott' comes from a person named Captain Boycott. What was he?",
+      "options": ["A military general", "A ship captain", "A land agent in Ireland", "A prison warden"],
+      "correctAnswer": 2,
+      "explanation": "Captain Charles Boycott (1832-1897) was a land agent in Ireland whose tenants refused to deal with him in 1880 over unfair rents. Their organized shunning of him gave English the word 'boycott.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ep-7",
+      "question": "Which military leader's name gave us the word 'sideburns'?",
+      "options": ["Ulysses S. Grant", "Ambrose Burnside", "Robert E. Lee", "Stonewall Jackson"],
+      "correctAnswer": 1,
+      "explanation": "Sideburns are named after American Civil War General Ambrose Burnside (1824-1881), who wore distinctive thick strips of facial hair. Originally called 'burnsides,' the syllables were later reversed.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ep-8",
+      "question": "The word 'saxophone' is named after which person?",
+      "options": ["John Philip Sousa", "Adolphe Sax", "Johann Sebastian Bach", "Wolfgang Mozart"],
+      "correctAnswer": 1,
+      "explanation": "The saxophone was invented by and named after Adolphe Sax (1814-1894), a Belgian instrument maker who patented the instrument in 1846.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ep-9",
+      "question": "The word 'nicotine' is derived from whose name?",
+      "options": ["Sir Walter Raleigh", "Jean Nicot", "Christopher Columbus", "Francis Drake"],
+      "correctAnswer": 1,
+      "explanation": "Nicotine is named after Jean Nicot (1530-1604), the French ambassador to Portugal who introduced tobacco to the French court and promoted it as a medicine.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ep-10",
+      "question": "The leotard garment is named after whom?",
+      "options": ["A fashion designer", "A French acrobat", "A ballet dancer", "A gymnast"],
+      "correctAnswer": 1,
+      "explanation": "The leotard is named after Jules Leotard (1838-1870), a French acrobat and trapeze artist who developed the one-piece, skin-tight garment to give himself more freedom of movement during performances.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ep-11",
+      "question": "The word 'shrapnel' is named after which person?",
+      "options": ["General Henry Shrapnel", "Private James Shrapnel", "Admiral Shrapnel", "Dr. William Shrapnel"],
+      "correctAnswer": 0,
+      "explanation": "Shrapnel is named after General Henry Shrapnel (1761-1842), a British Army officer who invented an artillery shell designed to burst in mid-air and scatter metal fragments over a wide area.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ep-12",
+      "question": "The word 'maverick' (meaning independent-minded person) comes from whom?",
+      "options": ["A Wild West outlaw", "A Texas rancher who didn't brand his cattle", "A rebellious politician", "A pirate captain"],
+      "correctAnswer": 1,
+      "explanation": "Maverick comes from Samuel Maverick (1803-1870), a Texas rancher who refused to brand his cattle. His unbranded calves became known as 'mavericks,' and the word came to mean anyone who goes their own way.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ep-13",
+      "question": "The word 'cardigan' (the sweater) is named after whom?",
+      "options": ["A Welsh town", "The 7th Earl of Cardigan", "A Scottish textile maker", "Queen Victoria's tailor"],
+      "correctAnswer": 1,
+      "explanation": "The cardigan is named after James Brudenell, the 7th Earl of Cardigan (1797-1868), who led the Charge of the Light Brigade. He reportedly wore a knitted waistcoat to keep warm during the Crimean War.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ep-14",
+      "question": "The word 'mesmerize' comes from which historical figure?",
+      "options": ["Franz Mesmer", "Sigmund Freud", "Carl Jung", "Ivan Pavlov"],
+      "correctAnswer": 0,
+      "explanation": "Mesmerize comes from Franz Anton Mesmer (1734-1815), a German physician who believed in 'animal magnetism' — that an invisible force could be used to heal. His techniques were a precursor to hypnosis.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ep-15",
+      "question": "The word 'dunce' (meaning a slow learner) ironically comes from the name of whom?",
+      "options": ["A court jester", "A brilliant medieval scholar", "A notorious criminal", "A fictional character"],
+      "correctAnswer": 1,
+      "explanation": "Dunce comes from John Duns Scotus (1266-1308), a brilliant medieval theologian and philosopher. When his followers resisted new ideas during the Renaissance, they were mockingly called 'Dunses' or 'dunces.'",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

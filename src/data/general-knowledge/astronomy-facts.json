@@ -1,0 +1,144 @@
+{
+  "id": "astronomy-facts",
+  "title": "Astronomy Facts",
+  "description": "Test your knowledge of the stars, planets, and cosmos!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "af-1",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1,
+      "explanation": "Mars is called the Red Planet because of the iron oxide (rust) on its surface, which gives it a reddish appearance when viewed from Earth.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "af-2",
+      "question": "What is the closest star to Earth?",
+      "options": ["Proxima Centauri", "Sirius", "The Sun", "Alpha Centauri A"],
+      "correctAnswer": 2,
+      "explanation": "The Sun is the closest star to Earth, at an average distance of about 93 million miles (150 million kilometers). The next closest star system is Alpha Centauri, about 4.37 light-years away.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "af-3",
+      "question": "How many planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": 1,
+      "explanation": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "af-4",
+      "question": "What is the name of our galaxy?",
+      "options": ["Andromeda", "The Milky Way", "Triangulum", "Whirlpool"],
+      "correctAnswer": 1,
+      "explanation": "Our solar system is located in the Milky Way galaxy, a barred spiral galaxy estimated to contain 100-400 billion stars and spanning about 100,000 light-years in diameter.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "af-5",
+      "question": "Which planet is the largest in our solar system?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctAnswer": 2,
+      "explanation": "Jupiter is the largest planet in our solar system, with a diameter of about 86,881 miles — more than 11 times that of Earth. It is so large that all other planets could fit inside it.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "af-6",
+      "question": "What phenomenon occurs when the Moon passes between the Sun and the Earth?",
+      "options": ["Lunar eclipse", "Solar eclipse", "Aurora borealis", "Solstice"],
+      "correctAnswer": 1,
+      "explanation": "A solar eclipse occurs when the Moon passes between the Sun and Earth, casting a shadow on Earth. During a total solar eclipse, the Moon completely blocks the Sun's face.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "af-7",
+      "question": "Which planet has the most extensive ring system in our solar system?",
+      "options": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+      "correctAnswer": 3,
+      "explanation": "Saturn has the most extensive and spectacular ring system in our solar system. The rings are made primarily of ice particles, with smaller amounts of rocky debris and dust.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "af-8",
+      "question": "What is a light-year a measurement of?",
+      "options": ["Time", "Brightness", "Distance", "Speed"],
+      "correctAnswer": 2,
+      "explanation": "A light-year is a unit of distance, not time. It is the distance that light travels in one year, approximately 5.88 trillion miles (9.46 trillion kilometers).",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "af-9",
+      "question": "Who was the first person to walk on the Moon?",
+      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Yuri Gagarin"],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission, famously saying: 'That's one small step for man, one giant leap for mankind.'",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "af-10",
+      "question": "What type of celestial object is Halley's Comet?",
+      "options": ["Asteroid", "Meteor", "Short-period comet", "Dwarf planet"],
+      "correctAnswer": 2,
+      "explanation": "Halley's Comet is a short-period comet that is visible from Earth every 75-79 years. It last appeared in 1986 and is expected to return in 2061.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "af-11",
+      "question": "What is the name of the boundary at the edge of our solar system where the solar wind is stopped by interstellar space?",
+      "options": ["Oort Cloud", "Kuiper Belt", "Heliosphere", "Heliopause"],
+      "correctAnswer": 3,
+      "explanation": "The heliopause is the boundary where the Sun's solar wind is stopped by the interstellar medium. Voyager 1 crossed this boundary in 2012, becoming the first human-made object to enter interstellar space.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "af-12",
+      "question": "Which moon of Jupiter is believed to have a subsurface ocean that could potentially harbor life?",
+      "options": ["Io", "Ganymede", "Callisto", "Europa"],
+      "correctAnswer": 3,
+      "explanation": "Europa, one of Jupiter's four Galilean moons, is believed to have a vast saltwater ocean beneath its icy surface. Scientists consider it one of the most promising places to search for extraterrestrial life.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "af-13",
+      "question": "What is the approximate age of the universe according to current scientific estimates?",
+      "options": ["4.6 billion years", "9.8 billion years", "13.8 billion years", "20.4 billion years"],
+      "correctAnswer": 2,
+      "explanation": "The universe is estimated to be approximately 13.8 billion years old, based on observations of the cosmic microwave background radiation and the expansion rate of the universe.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "af-14",
+      "question": "What is the densest type of stellar remnant, formed when a massive star collapses?",
+      "options": ["White dwarf", "Neutron star", "Red giant", "Black hole"],
+      "correctAnswer": 3,
+      "explanation": "A black hole is the densest type of stellar remnant, formed when a very massive star collapses under its own gravity. Its gravitational pull is so strong that nothing, not even light, can escape.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "af-15",
+      "question": "Which space telescope, launched in 1990, has provided some of the most detailed visible-light images of distant galaxies?",
+      "options": ["James Webb Space Telescope", "Spitzer Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory"],
+      "correctAnswer": 2,
+      "explanation": "The Hubble Space Telescope, launched on April 24, 1990, has revolutionized astronomy with its stunning visible-light images and has helped determine the age and expansion rate of the universe.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

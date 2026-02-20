@@ -1,0 +1,144 @@
+{
+  "id": "nautical-terms",
+  "title": "Nautical Terms",
+  "description": "How well do you know sailing and nautical vocabulary?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "nt-1",
+      "question": "What does the nautical term 'port' refer to?",
+      "options": ["The front of the ship", "The left side of the ship when facing forward", "The back of the ship", "The right side of the ship when facing forward"],
+      "correctAnswer": 1,
+      "explanation": "'Port' refers to the left side of a ship when you are facing the bow (front). It replaced the older term 'larboard' to avoid confusion with 'starboard.' Port is associated with the color red in navigation lights.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nt-2",
+      "question": "What is the 'bow' of a ship?",
+      "options": ["The bottom of the ship", "The front of the ship", "The top deck", "The captain's quarters"],
+      "correctAnswer": 1,
+      "explanation": "The bow is the forward-most part of a ship's hull. It is designed to reduce the resistance of the hull cutting through water and to improve the vessel's speed and efficiency.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nt-3",
+      "question": "What does 'starboard' mean?",
+      "options": ["The left side of the ship", "The right side of the ship when facing forward", "The upper deck", "The ship's steering wheel"],
+      "correctAnswer": 1,
+      "explanation": "'Starboard' refers to the right side of a ship when facing the bow. The term comes from the Old English 'steorbord,' meaning 'steering side,' as early ships were steered with a paddle on the right side. It is associated with the color green in navigation lights.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nt-4",
+      "question": "What is the 'stern' of a ship?",
+      "options": ["The front of the ship", "The mast", "The back or rear of the ship", "The anchor area"],
+      "correctAnswer": 2,
+      "explanation": "The stern is the rear or back end of a ship. It is the opposite of the bow. The word comes from the Old Norse 'stjorn,' meaning 'steering,' as early rudders were mounted at the stern.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nt-5",
+      "question": "What is an 'anchor' used for on a ship?",
+      "options": ["To steer the ship", "To hold the ship in place in the water", "To measure water depth", "To communicate with other ships"],
+      "correctAnswer": 1,
+      "explanation": "An anchor is a heavy device, typically made of metal, that is lowered to the sea floor to hold a ship in a fixed position. Anchors grip the bottom through their weight and design, preventing the vessel from drifting.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "nt-6",
+      "question": "What does 'knot' mean as a unit of speed at sea?",
+      "options": ["One kilometer per hour", "One nautical mile per hour", "One statute mile per hour", "Ten meters per second"],
+      "correctAnswer": 1,
+      "explanation": "A knot is a unit of speed equal to one nautical mile per hour (approximately 1.15 statute miles per hour or 1.852 kilometers per hour). The term comes from the practice of measuring speed by counting knots in a rope trailed behind the ship over a set time.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nt-7",
+      "question": "What is the 'hull' of a ship?",
+      "options": ["The sail system", "The main body or shell of the vessel", "The navigation room", "The anchor chain"],
+      "correctAnswer": 1,
+      "explanation": "The hull is the main structural body of a ship, the watertight shell that sits in the water. It provides buoyancy and supports the entire vessel. Hull design affects a ship's speed, stability, and cargo capacity.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nt-8",
+      "question": "What does 'galley' refer to on a ship?",
+      "options": ["The sleeping quarters", "The kitchen or cooking area", "The navigation bridge", "The cargo hold"],
+      "correctAnswer": 1,
+      "explanation": "The galley is the kitchen or cooking area on a ship. The term has been used since the days of ancient oar-powered warships (also called galleys). Ship galleys are designed to be compact and secure cooking equipment against the motion of the sea.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nt-9",
+      "question": "What does 'draft' (or 'draught') mean in nautical terms?",
+      "options": ["A gust of wind at sea", "The depth of water a ship needs to float", "A preliminary map of a voyage", "The air flow through the ship's cabins"],
+      "correctAnswer": 1,
+      "explanation": "A ship's draft is the vertical distance between the waterline and the bottom of the hull (the keel). It indicates the minimum depth of water a ship can safely navigate. A ship with a deep draft needs deeper water to avoid running aground.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nt-10",
+      "question": "What is the 'helm' of a ship?",
+      "options": ["The anchor mechanism", "The steering apparatus, including the wheel or tiller", "The lookout platform at the top of the mast", "The lowest deck of the ship"],
+      "correctAnswer": 1,
+      "explanation": "The helm is the steering mechanism of a ship, which can be a wheel, tiller, or other device used to control the rudder and direct the vessel's course. The person at the helm is called the helmsman.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "nt-11",
+      "question": "What does 'fathom' mean as a nautical measurement?",
+      "options": ["A unit of speed at sea", "A unit of depth equal to six feet", "A unit of wind speed", "A unit of distance equal to one mile"],
+      "correctAnswer": 1,
+      "explanation": "A fathom is a unit of length used to measure the depth of water, equal to six feet (1.83 meters). The word comes from the Old English 'faethm,' meaning 'outstretched arms,' as the measurement was originally based on the span of a person's arms.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nt-12",
+      "question": "What does 'leeward' mean?",
+      "options": ["Toward the wind", "Away from the wind; the sheltered side", "Straight ahead", "Toward the shore"],
+      "correctAnswer": 1,
+      "explanation": "'Leeward' refers to the direction away from the wind, or the sheltered side of something (such as a ship or island). It is the opposite of 'windward,' which faces the wind. The leeward side offers protection from the wind and waves.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nt-13",
+      "question": "What does 'keelhaul' historically mean?",
+      "options": ["To repair the keel of a ship", "To drag a person under the ship as punishment", "To turn a ship around", "To load cargo into the hull"],
+      "correctAnswer": 1,
+      "explanation": "Keelhauling was a severe form of punishment used at sea, in which a person was tied to a rope and dragged under the keel of the ship from one side to the other. The barnacles on the hull would cause terrible injuries. It was practiced by various navies from the 15th to 19th centuries.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nt-14",
+      "question": "What is a 'bulkhead' on a ship?",
+      "options": ["The main mast", "An upright wall or partition within the hull", "The loading ramp", "A decorative figurehead on the bow"],
+      "correctAnswer": 1,
+      "explanation": "A bulkhead is a vertical wall or partition inside a ship that divides the hull into separate compartments. Bulkheads strengthen the ship's structure and, importantly, can contain flooding—if one compartment is breached, the bulkheads prevent water from filling the entire vessel.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "nt-15",
+      "question": "What does 'to batten down the hatches' mean?",
+      "options": ["To open the ship's windows for ventilation", "To secure and prepare for difficult conditions", "To set sail immediately", "To drop anchor in a harbor"],
+      "correctAnswer": 1,
+      "explanation": "'To batten down the hatches' means to prepare for trouble or difficulty by securing everything. On a ship, hatches are openings in the deck, and battens are strips of wood used to fasten tarpaulins over them to keep water out during storms.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

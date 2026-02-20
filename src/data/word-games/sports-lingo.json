@@ -1,0 +1,144 @@
+{
+  "id": "sports-lingo",
+  "title": "Sports Lingo",
+  "description": "Can you decode these sports terms and expressions?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "spl-1",
+      "question": "In baseball, what is a 'home run'?",
+      "options": ["Running to first base", "A hit that allows the batter to circle all bases and score", "A run scored from stealing a base", "The final run of the game"],
+      "correctAnswer": 1,
+      "explanation": "A home run is a hit in baseball where the batter successfully circles all four bases and scores a run, typically by hitting the ball over the outfield fence. It is one of the most exciting plays in the sport.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "spl-2",
+      "question": "In basketball, what does 'slam dunk' mean?",
+      "options": ["A long-distance shot", "A shot where the player jumps and pushes the ball down through the hoop", "A bounce pass to a teammate", "A free throw attempt"],
+      "correctAnswer": 1,
+      "explanation": "A slam dunk is a type of basketball shot in which a player jumps and forcefully pushes the ball downward through the basket with one or both hands. The term is also used metaphorically to mean something that is a sure success.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "spl-3",
+      "question": "In tennis, what does 'love' mean as a score?",
+      "options": ["Fifteen points", "Zero points", "Match point", "A tied score"],
+      "correctAnswer": 1,
+      "explanation": "In tennis, 'love' means zero or no points. The origin is debated, but one popular theory suggests it comes from the French word 'l'oeuf' (the egg), as a zero resembles an egg. A score of 'love-love' means neither player has scored.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "spl-4",
+      "question": "What does the term 'hat trick' traditionally refer to?",
+      "options": ["A magic trick performed at halftime", "Scoring three goals in a single game", "Winning three games in a row", "A penalty kick in soccer"],
+      "correctAnswer": 1,
+      "explanation": "A hat trick is when a player scores three goals in a single game. The term originated in cricket in the 1850s, when a bowler who took three consecutive wickets was rewarded with a new hat. It is now commonly used in hockey and soccer.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "spl-5",
+      "question": "In golf, what is a 'birdie'?",
+      "options": ["A score of one over par on a hole", "A score of one under par on a hole", "A score of two under par on a hole", "A hole-in-one"],
+      "correctAnswer": 1,
+      "explanation": "A birdie in golf is a score of one stroke under par on a hole. For example, completing a par-4 hole in 3 strokes is a birdie. The term originated in the early 1900s in American golf slang, where 'bird' meant something excellent.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "spl-6",
+      "question": "In boxing, what does 'southpaw' mean?",
+      "options": ["A knockout punch", "A left-handed fighter", "A defensive stance", "The referee's position"],
+      "correctAnswer": 1,
+      "explanation": "A southpaw is a left-handed boxer who leads with the right hand and foot forward, using the stronger left hand for power punches. The term is also used in baseball for left-handed pitchers and has expanded to mean any left-handed person in sports.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "spl-7",
+      "question": "In football (soccer), what is an 'offside'?",
+      "options": ["When the ball goes out of bounds", "When an attacking player is closer to the goal line than the second-to-last defender when the ball is played", "When a player commits a foul", "When the goalkeeper leaves the penalty area"],
+      "correctAnswer": 1,
+      "explanation": "Offside is called when an attacking player is nearer to the opponent's goal line than both the ball and the second-to-last defender at the moment the ball is played to them. This rule prevents attackers from simply waiting near the opponent's goal.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "spl-8",
+      "question": "In swimming, what is a 'medley' event?",
+      "options": ["A race using only one stroke", "A race combining multiple swimming strokes", "A synchronized swimming routine", "A relay race with only two swimmers"],
+      "correctAnswer": 1,
+      "explanation": "A medley in swimming is an event that combines all four competitive strokes: butterfly, backstroke, breaststroke, and freestyle. In an individual medley, one swimmer uses all four strokes. In a medley relay, four different swimmers each swim one stroke.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "spl-9",
+      "question": "In cricket, what does 'wicket' refer to?",
+      "options": ["The ball used in the game", "The set of three stumps and two bails that the bowler aims at", "The field of play", "The batting helmet"],
+      "correctAnswer": 1,
+      "explanation": "A wicket in cricket is the set of three vertical stumps topped by two horizontal bails at each end of the pitch. The bowler aims to hit the wicket to dismiss the batsman. The term is also used to describe a dismissal itself.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "spl-10",
+      "question": "What does the expression 'down to the wire' mean in sports?",
+      "options": ["A race or competition decided at the very last moment", "A penalty for crossing a boundary line", "A type of fence around a playing field", "A radio broadcast of a game"],
+      "correctAnswer": 0,
+      "explanation": "'Down to the wire' means a contest that is not decided until the very end. The phrase comes from horse racing, where a wire was stretched across the finish line to help determine the winner. A race that was 'down to the wire' was extremely close.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "spl-11",
+      "question": "In golf, what is an 'albatross' (also called a double eagle)?",
+      "options": ["A score of one under par", "A score of two under par", "A score of three under par on a single hole", "A hole-in-one on a par-3"],
+      "correctAnswer": 2,
+      "explanation": "An albatross (or double eagle) is a score of three under par on a single hole. For example, completing a par-5 hole in just 2 strokes. It is an extremely rare achievement in golf, much rarer than a hole-in-one.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "spl-12",
+      "question": "In basketball, what does 'triple-double' mean?",
+      "options": ["Scoring 30 points in a game", "Accumulating double-digit numbers in three of five statistical categories in one game", "Making three consecutive three-point shots", "Playing three overtime periods"],
+      "correctAnswer": 1,
+      "explanation": "A triple-double occurs when a player accumulates double-digit totals (10 or more) in three of five statistical categories—points, rebounds, assists, steals, and blocks—in a single game. It is considered a mark of exceptional all-around performance.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "spl-13",
+      "question": "What does the term 'Grand Slam' mean in tennis?",
+      "options": ["Winning a single major tournament", "Winning all four major tournaments in a calendar year", "Winning five consecutive matches", "Scoring a perfect game without losing a point"],
+      "correctAnswer": 1,
+      "explanation": "A Grand Slam in tennis refers to winning all four major championships—the Australian Open, French Open, Wimbledon, and the US Open—within a single calendar year. Very few players have achieved this feat in the history of the sport.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "spl-14",
+      "question": "In horse racing, what is a 'furlong'?",
+      "options": ["A type of horse breed", "A unit of distance equal to one-eighth of a mile", "The starting gate", "A type of racing saddle"],
+      "correctAnswer": 1,
+      "explanation": "A furlong is a unit of distance equal to one-eighth of a mile (220 yards or approximately 201 meters). It is the standard unit used to measure race distances in horse racing. The word comes from 'furrow long,' the length of a furrow in a plowed field.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "spl-15",
+      "question": "In fencing, what does 'touche' (touché) mean?",
+      "options": ["A missed attack", "An acknowledgment that a hit has been scored", "A defensive parry", "The starting command for a match"],
+      "correctAnswer": 1,
+      "explanation": "'Touché' is used in fencing to acknowledge a valid hit or touch scored by an opponent. The French word means 'touched.' In everyday language, 'touché' is used to acknowledge that someone has made a clever or valid point in an argument.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

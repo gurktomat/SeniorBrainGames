@@ -1,0 +1,144 @@
+{
+  "id": "world-festivals",
+  "title": "World Festivals",
+  "description": "How well do you know festivals and celebrations around the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wf-1",
+      "question": "In which country did the Oktoberfest beer festival originate?",
+      "options": ["Austria", "Belgium", "Czech Republic", "Germany"],
+      "correctAnswer": 3,
+      "explanation": "Oktoberfest originated in Munich, Germany, in 1810 to celebrate the marriage of Crown Prince Ludwig to Princess Therese. It has since become the world's largest folk festival, attracting millions of visitors annually.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wf-2",
+      "question": "What is the name of the Hindu festival of lights?",
+      "options": ["Holi", "Diwali", "Navratri", "Pongal"],
+      "correctAnswer": 1,
+      "explanation": "Diwali, also known as Deepavali, is the Hindu festival of lights celebrated over five days. It symbolizes the victory of light over darkness and good over evil.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wf-3",
+      "question": "Which city is famous for its Carnival celebration featuring elaborate samba parades?",
+      "options": ["Havana", "Buenos Aires", "Rio de Janeiro", "Mexico City"],
+      "correctAnswer": 2,
+      "explanation": "Rio de Janeiro's Carnival is one of the world's most famous festivals, featuring elaborate samba parades at the Sambadrome, colorful costumes, and street parties throughout the city.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wf-4",
+      "question": "What do people traditionally throw during the Holi festival in India?",
+      "options": ["Water balloons", "Colored powder and water", "Flower petals", "Rice"],
+      "correctAnswer": 1,
+      "explanation": "Holi, known as the 'Festival of Colors,' involves throwing colored powders (gulal) and colored water at each other. It celebrates the arrival of spring and the triumph of good over evil.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wf-5",
+      "question": "Which country celebrates the Day of the Dead (Día de los Muertos)?",
+      "options": ["Spain", "Brazil", "Mexico", "Peru"],
+      "correctAnswer": 2,
+      "explanation": "Día de los Muertos is a Mexican holiday celebrated on November 1-2 where families honor their deceased loved ones with altars (ofrendas), marigolds, sugar skulls, and the favorite foods of the departed.",
+      "difficulty": "easy",
+      "category": "culture"
+    },
+    {
+      "id": "wf-6",
+      "question": "The Lantern Festival marks the end of which major celebration in China?",
+      "options": ["Mid-Autumn Festival", "Chinese New Year", "Dragon Boat Festival", "Qingming Festival"],
+      "correctAnswer": 1,
+      "explanation": "The Lantern Festival falls on the 15th day of the first lunar month, marking the end of Chinese New Year celebrations. People display colorful lanterns, solve riddles, and eat tangyuan (sweet rice balls).",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wf-7",
+      "question": "What happens at the La Tomatina festival in Buñol, Spain?",
+      "options": ["Bull running", "A massive tomato fight", "Wine stomping", "Cheese rolling"],
+      "correctAnswer": 1,
+      "explanation": "La Tomatina is held on the last Wednesday of August in Buñol, Spain, where participants throw overripe tomatoes at each other. The festival began in 1945 and uses approximately 150,000 tomatoes annually.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wf-8",
+      "question": "Which city hosts the world-famous Mardi Gras celebration in the United States?",
+      "options": ["New York", "San Francisco", "New Orleans", "Miami"],
+      "correctAnswer": 2,
+      "explanation": "New Orleans, Louisiana, is famous for its Mardi Gras celebrations, featuring elaborate parades, masked balls, and the tradition of throwing beads and doubloons. 'Mardi Gras' means 'Fat Tuesday' in French.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wf-9",
+      "question": "The Running of the Bulls (San Fermín festival) takes place in which Spanish city?",
+      "options": ["Madrid", "Barcelona", "Seville", "Pamplona"],
+      "correctAnswer": 3,
+      "explanation": "The Running of the Bulls takes place during the San Fermín festival in Pamplona, Spain, held annually from July 6-14. Participants run ahead of bulls through the streets to the bullring.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wf-10",
+      "question": "What is the Jewish festival that commemorates the miracle of oil lasting eight days?",
+      "options": ["Passover", "Yom Kippur", "Hanukkah", "Rosh Hashanah"],
+      "correctAnswer": 2,
+      "explanation": "Hanukkah (the Festival of Lights) commemorates the rededication of the Second Temple in Jerusalem, where one day's supply of sacred oil miraculously lasted for eight days. It is celebrated by lighting the menorah.",
+      "difficulty": "medium",
+      "category": "culture"
+    },
+    {
+      "id": "wf-11",
+      "question": "The Songkran water festival, where people splash water on each other, is the traditional New Year celebration of which country?",
+      "options": ["Cambodia", "Vietnam", "Thailand", "Laos"],
+      "correctAnswer": 2,
+      "explanation": "Songkran is the Thai New Year celebration held from April 13-15. Water splashing symbolizes purification and washing away bad fortune. It has become one of the world's biggest water fights.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wf-12",
+      "question": "The Edinburgh Festival Fringe is the world's largest arts festival. In which country is it held?",
+      "options": ["England", "Ireland", "Wales", "Scotland"],
+      "correctAnswer": 3,
+      "explanation": "The Edinburgh Festival Fringe takes place annually in Edinburgh, Scotland. Founded in 1947, it is the world's largest arts festival, featuring thousands of shows across comedy, theatre, dance, and music.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wf-13",
+      "question": "What Japanese festival involves large illuminated floats and celebrates the weaving and star legends?",
+      "options": ["Obon", "Tanabata", "Hanami", "Gion Matsuri"],
+      "correctAnswer": 1,
+      "explanation": "Tanabata (Star Festival) is celebrated on July 7th in Japan. It originates from a Chinese legend about two star-crossed lovers (represented by the stars Vega and Altair) who can only meet once a year.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wf-14",
+      "question": "The Carnival of Venice is famous for which tradition?",
+      "options": ["Gondola races", "Elaborate masked costumes", "Glass-blowing contests", "Opera performances"],
+      "correctAnswer": 1,
+      "explanation": "The Carnival of Venice is famous for its elaborate masks and costumes. The tradition dates back to the 12th century, and masks allowed Venetians to mingle freely regardless of social class.",
+      "difficulty": "hard",
+      "category": "culture"
+    },
+    {
+      "id": "wf-15",
+      "question": "The Up Helly Aa festival, which involves the burning of a Viking longship, is celebrated in which island group?",
+      "options": ["Faroe Islands", "Orkney Islands", "Shetland Islands", "Hebrides"],
+      "correctAnswer": 2,
+      "explanation": "Up Helly Aa is a fire festival held in the Shetland Islands of Scotland each January. The highlight is a torchlit procession that culminates in the burning of a full-sized replica Viking longship.",
+      "difficulty": "hard",
+      "category": "culture"
+    }
+  ]
+}

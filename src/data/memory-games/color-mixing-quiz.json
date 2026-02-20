@@ -1,0 +1,144 @@
+{
+  "id": "color-mixing-quiz",
+  "title": "Color Mixing Quiz",
+  "description": "Test your knowledge of color theory and mixing!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cmq-1",
+      "question": "What color do you get when you mix red and blue paint?",
+      "options": ["Green", "Orange", "Purple", "Brown"],
+      "correctAnswer": 2,
+      "explanation": "Mixing red and blue paint creates purple (or violet). These are two of the three primary colors in traditional color theory.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "cmq-2",
+      "question": "What color do you get when you mix red and yellow paint?",
+      "options": ["Orange", "Green", "Purple", "Brown"],
+      "correctAnswer": 0,
+      "explanation": "Mixing red and yellow paint creates orange. Orange is one of the three secondary colors in traditional color theory.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "cmq-3",
+      "question": "What are the three primary colors in traditional (subtractive) color mixing?",
+      "options": ["Red, Green, Blue", "Red, Yellow, Blue", "Cyan, Magenta, Yellow", "Red, Orange, Yellow"],
+      "correctAnswer": 1,
+      "explanation": "In traditional (artistic) color theory, the three primary colors are red, yellow, and blue. These colors cannot be made by mixing other colors together.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "cmq-4",
+      "question": "What color do you get when you mix blue and yellow paint?",
+      "options": ["Purple", "Orange", "Green", "Brown"],
+      "correctAnswer": 2,
+      "explanation": "Mixing blue and yellow paint creates green. Green is one of the three secondary colors.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "cmq-5",
+      "question": "What happens when you mix all three primary paint colors (red, yellow, blue) together?",
+      "options": ["White", "Black", "Brown or dark gray", "Purple"],
+      "correctAnswer": 2,
+      "explanation": "Mixing all three primary paint colors together typically produces a muddy brown or dark gray. This is because paint mixing is subtractive — each color absorbs more light.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "cmq-6",
+      "question": "In light mixing (additive color), what color do you get when you combine red and green light?",
+      "options": ["Brown", "Yellow", "Orange", "White"],
+      "correctAnswer": 1,
+      "explanation": "In additive color mixing (light), combining red and green light creates yellow. This is different from paint mixing and is used in TV and computer screens.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "cmq-7",
+      "question": "What is the complementary color of red on a standard color wheel?",
+      "options": ["Blue", "Yellow", "Green", "Orange"],
+      "correctAnswer": 2,
+      "explanation": "Green is the complementary color of red. Complementary colors are directly opposite each other on the color wheel and create high contrast when placed together.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "cmq-8",
+      "question": "What color do you get when you mix red and white paint?",
+      "options": ["Light red", "Pink", "Salmon", "Peach"],
+      "correctAnswer": 1,
+      "explanation": "Mixing red and white paint creates pink. Adding white to any color creates a 'tint' of that color, making it lighter and less saturated.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "cmq-9",
+      "question": "What is the term for adding black to a color to make it darker?",
+      "options": ["Tint", "Tone", "Shade", "Hue"],
+      "correctAnswer": 2,
+      "explanation": "Adding black to a color creates a 'shade.' Adding white creates a 'tint,' and adding gray creates a 'tone.'",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "cmq-10",
+      "question": "In printing (CMYK), what are the primary colors?",
+      "options": ["Red, Green, Blue", "Red, Yellow, Blue", "Cyan, Magenta, Yellow", "Orange, Green, Purple"],
+      "correctAnswer": 2,
+      "explanation": "In CMYK printing, the primary colors are Cyan, Magenta, and Yellow (with K for Key/Black). These are the subtractive primaries used in modern printing.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "cmq-11",
+      "question": "What color results from mixing orange and blue paint in equal amounts?",
+      "options": ["Green", "Purple", "Brown", "Gray"],
+      "correctAnswer": 2,
+      "explanation": "Mixing orange and blue (complementary colors) in equal amounts produces brown. Mixing complementary colors together always tends to neutralize them toward brown or gray.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "cmq-12",
+      "question": "In additive color mixing (light), what do you get when you combine all three primary colors (red, green, blue) at full intensity?",
+      "options": ["Black", "White", "Brown", "Gray"],
+      "correctAnswer": 1,
+      "explanation": "Combining red, green, and blue light at full intensity creates white light. This is the basis of RGB color used in screens and displays.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "cmq-13",
+      "question": "What is a 'triadic' color scheme?",
+      "options": ["Three shades of the same color", "Three colors equally spaced on the color wheel", "Three warm colors together", "Three primary colors only"],
+      "correctAnswer": 1,
+      "explanation": "A triadic color scheme uses three colors that are equally spaced around the color wheel (120 degrees apart), such as red, yellow, and blue.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "cmq-14",
+      "question": "What are 'warm' colors typically associated with?",
+      "options": ["Blue, green, purple", "Red, orange, yellow", "Black, white, gray", "Pink, lavender, cyan"],
+      "correctAnswer": 1,
+      "explanation": "Warm colors include red, orange, and yellow. They are associated with energy, warmth, and vibrancy, and tend to advance visually in a composition.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "cmq-15",
+      "question": "What is 'color value' in art and design?",
+      "options": ["How expensive a pigment is", "The lightness or darkness of a color", "The purity of a color", "The temperature of a color"],
+      "correctAnswer": 1,
+      "explanation": "Color value refers to the lightness or darkness of a color. It is one of the three properties of color, along with hue (the color itself) and saturation (intensity).",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "literary-vocabulary",
+  "title": "Literary Vocabulary",
+  "description": "How well do you know these words from classic literature?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "lv-1",
+      "question": "What does the word 'benevolent' mean?",
+      "options": ["Cruel", "Well-meaning and kindly", "Wealthy", "Confused"],
+      "correctAnswer": 1,
+      "explanation": "Benevolent means well-meaning and kindly. It comes from the Latin 'bene' (well) and 'volens' (wishing). It appears frequently in works by Charles Dickens.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "lv-2",
+      "question": "In literature, what does 'melancholy' describe?",
+      "options": ["A deep feeling of sadness", "Great excitement", "Mild annoyance", "Physical exhaustion"],
+      "correctAnswer": 0,
+      "explanation": "Melancholy describes a deep, persistent sadness or gloom. Shakespeare used this word extensively, most notably in describing Hamlet's disposition.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "lv-3",
+      "question": "What does 'eloquent' mean?",
+      "options": ["Quiet and reserved", "Fluent and persuasive in speech or writing", "Angry and confrontational", "Silly and childish"],
+      "correctAnswer": 1,
+      "explanation": "Eloquent means fluent, persuasive, and articulate in speaking or writing. Many literary heroes, such as Atticus Finch in 'To Kill a Mockingbird,' are described as eloquent.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "lv-4",
+      "question": "What does 'quixotic' mean, derived from the novel 'Don Quixote'?",
+      "options": ["Practical and sensible", "Exceedingly idealistic and unrealistic", "Lazy and unmotivated", "Brave and heroic"],
+      "correctAnswer": 1,
+      "explanation": "Quixotic means exceedingly idealistic, unrealistic, and impractical. It comes directly from Cervantes' character Don Quixote, who pursued impossible dreams.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "lv-5",
+      "question": "What is the meaning of the word 'protagonist'?",
+      "options": ["The villain of a story", "A minor character", "The main character in a story", "The narrator"],
+      "correctAnswer": 2,
+      "explanation": "A protagonist is the leading or main character in a literary work. The word comes from Greek 'protos' (first) and 'agonistes' (actor or combatant).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "lv-6",
+      "question": "What does 'ubiquitous' mean?",
+      "options": ["Rare and unusual", "Present everywhere at once", "Beautiful beyond words", "Extremely dangerous"],
+      "correctAnswer": 1,
+      "explanation": "Ubiquitous means present, appearing, or found everywhere. From the Latin 'ubique' meaning 'everywhere,' it is often used in literary criticism to describe recurring themes.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "lv-7",
+      "question": "In classic literature, what does 'verdant' describe?",
+      "options": ["Dry and barren", "Lush and green with vegetation", "Dark and stormy", "Cold and icy"],
+      "correctAnswer": 1,
+      "explanation": "Verdant means green with grass or rich vegetation. From the Latin 'viridis' (green), it is commonly used by authors like Thomas Hardy to describe pastoral landscapes.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "lv-8",
+      "question": "What does 'sycophant' mean?",
+      "options": ["A wise teacher", "A brave warrior", "A person who flatters someone important", "A traveling merchant"],
+      "correctAnswer": 2,
+      "explanation": "A sycophant is a person who acts obsequiously toward someone important to gain an advantage. The word appears in works from Shakespeare to modern literature.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "lv-9",
+      "question": "What does 'ephemeral' mean?",
+      "options": ["Lasting forever", "Lasting for a very short time", "Extremely powerful", "Deeply meaningful"],
+      "correctAnswer": 1,
+      "explanation": "Ephemeral means lasting for a very short time. From the Greek 'ephemeros' (lasting only a day), it is a favorite word of poets describing the fleeting nature of beauty or life.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "lv-10",
+      "question": "What is a 'soliloquy' in literature?",
+      "options": ["A poem about nature", "A speech by one character alone on stage", "A conversation between two characters", "A letter written by the author"],
+      "correctAnswer": 1,
+      "explanation": "A soliloquy is a speech in a drama in which a character talks to themselves, revealing their thoughts. Shakespeare's 'To be, or not to be' from Hamlet is the most famous example.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "lv-11",
+      "question": "What does 'verisimilitude' mean in literary criticism?",
+      "options": ["The use of verse in prose", "The appearance of being true or real", "A type of poetic meter", "The repetition of similar sounds"],
+      "correctAnswer": 1,
+      "explanation": "Verisimilitude refers to the appearance of being true or real. In literature, it describes how believable a work of fiction feels to the reader.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "lv-12",
+      "question": "What does the word 'bildungsroman' describe?",
+      "options": ["A romance novel", "A coming-of-age novel", "A historical biography", "A collection of short stories"],
+      "correctAnswer": 1,
+      "explanation": "A bildungsroman is a novel dealing with the moral and psychological growth of the main character from youth to adulthood. 'Great Expectations' by Dickens is a classic example.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "lv-13",
+      "question": "What does 'perspicacious' mean?",
+      "options": ["Sweating heavily", "Having a ready insight into things", "Being persistently annoying", "Speaking multiple languages"],
+      "correctAnswer": 1,
+      "explanation": "Perspicacious means having a ready insight into and understanding of things; shrewd. It comes from the Latin 'perspicax' meaning 'having the power of seeing through.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "lv-14",
+      "question": "What does 'denouement' refer to in a story?",
+      "options": ["The opening scene", "The climax of the action", "The final resolution of the plot", "The introduction of the villain"],
+      "correctAnswer": 2,
+      "explanation": "The denouement is the final part of a narrative in which the strands of the plot are drawn together and matters are resolved. It comes from the French word meaning 'untying.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "lv-15",
+      "question": "What does 'palimpsest' mean?",
+      "options": ["A type of ancient temple", "A manuscript page reused after earlier writing is erased", "A poetic form from medieval times", "A secret code used by monks"],
+      "correctAnswer": 1,
+      "explanation": "A palimpsest is a manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but traces of the original remain. It is also used metaphorically in literature.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

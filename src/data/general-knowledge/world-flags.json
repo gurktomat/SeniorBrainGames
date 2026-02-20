@@ -1,0 +1,144 @@
+{
+  "id": "world-flags",
+  "title": "World Flags",
+  "description": "Can you identify the flags of countries around the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wfl-1",
+      "question": "Which country's flag features a red circle on a white background?",
+      "options": ["South Korea", "Bangladesh", "Japan", "Turkey"],
+      "correctAnswer": 2,
+      "explanation": "Japan's flag, known as the Nisshoki or Hinomaru ('circle of the sun'), features a red circle centered on a white rectangular background. It has been the national flag since 1999 officially, though used much longer.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-2",
+      "question": "The Stars and Stripes is the nickname for which country's flag?",
+      "options": ["Australia", "United Kingdom", "United States", "New Zealand"],
+      "correctAnswer": 2,
+      "explanation": "The Stars and Stripes is the popular name for the flag of the United States. It features 50 stars representing the 50 states and 13 stripes representing the original 13 colonies.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-3",
+      "question": "Which country's flag is the only national flag that is not rectangular or square?",
+      "options": ["Switzerland", "Nepal", "Vatican City", "Bhutan"],
+      "correctAnswer": 1,
+      "explanation": "Nepal's flag is the only national flag in the world that is not rectangular or square. It consists of two stacked triangles, representing the Himalayan Mountains and the two main religions of the nation.",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-4",
+      "question": "Which European country's flag features a white cross on a red background?",
+      "options": ["Denmark", "Switzerland", "Finland", "Austria"],
+      "correctAnswer": 1,
+      "explanation": "Switzerland's flag features a bold white cross centered on a red square background. It is one of only two square sovereign-state flags in the world (the other being Vatican City).",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-5",
+      "question": "The Union Jack is the flag of which country?",
+      "options": ["Australia", "United Kingdom", "Canada", "South Africa"],
+      "correctAnswer": 1,
+      "explanation": "The Union Jack (or Union Flag) is the national flag of the United Kingdom. It combines the crosses of St. George (England), St. Andrew (Scotland), and St. Patrick (Ireland).",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-6",
+      "question": "Which country's flag features a maple leaf?",
+      "options": ["Ireland", "New Zealand", "Canada", "Lebanon"],
+      "correctAnswer": 2,
+      "explanation": "Canada's flag, adopted in 1965, features a red maple leaf on a white square flanked by two red vertical bands. The maple leaf has been a symbol of Canada since the 18th century.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-7",
+      "question": "Which country's flag features a green cedar tree on a white stripe between two red stripes?",
+      "options": ["Syria", "Lebanon", "Iraq", "Jordan"],
+      "correctAnswer": 1,
+      "explanation": "Lebanon's flag features a green cedar tree centered on a white stripe between two horizontal red stripes. The cedar of Lebanon is an ancient symbol of the country, mentioned in the Bible.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-8",
+      "question": "Which African country's flag features a green, yellow, and red tricolor — colors that have been adopted by many other African nations?",
+      "options": ["Nigeria", "Ghana", "Ethiopia", "Kenya"],
+      "correctAnswer": 2,
+      "explanation": "Ethiopia's green, yellow, and red flag is one of the oldest in Africa. These Pan-African colors have been adopted by many other African nations as symbols of African independence and unity.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-9",
+      "question": "Which country's flag features a blue Star of David on a white background with blue stripes?",
+      "options": ["Greece", "Israel", "Argentina", "Honduras"],
+      "correctAnswer": 1,
+      "explanation": "Israel's flag, adopted in 1948, features a blue Star of David (Magen David) between two horizontal blue stripes on a white background, inspired by the Jewish prayer shawl (tallit).",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-10",
+      "question": "Which Nordic country's flag features a blue cross outlined in white on a red background?",
+      "options": ["Sweden", "Finland", "Norway", "Iceland"],
+      "correctAnswer": 2,
+      "explanation": "Norway's flag features a dark blue Scandinavian cross outlined in white on a red background. It was adopted in 1821 and combines the colors of France (for liberty) with the Scandinavian cross tradition.",
+      "difficulty": "medium",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-11",
+      "question": "Which is the only country in the world whose flag features a building?",
+      "options": ["Vatican City", "Cambodia", "San Marino", "Portugal"],
+      "correctAnswer": 1,
+      "explanation": "Cambodia's flag features a depiction of Angkor Wat, the famous temple complex. It is the only national flag in the world that features a building as its central design element.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-12",
+      "question": "Which country's flag is the oldest continuously used national flag in the world?",
+      "options": ["United Kingdom", "France", "Denmark", "Netherlands"],
+      "correctAnswer": 2,
+      "explanation": "Denmark's flag, the Dannebrog, is recognized as the oldest continuously used national flag in the world. Legend dates it back to 1219, and it has been in continuous use since at least the 14th century.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-13",
+      "question": "Which country's flag uniquely features a dragon?",
+      "options": ["Wales", "Bhutan", "China", "Both Wales and Bhutan"],
+      "correctAnswer": 3,
+      "explanation": "Both Wales (the Red Dragon) and Bhutan (the Thunder Dragon) feature dragons on their flags. However, Wales is not a sovereign state, so Bhutan is the only sovereign nation with a dragon on its flag.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-14",
+      "question": "Which South American country's flag has different designs on its front and back sides?",
+      "options": ["Brazil", "Argentina", "Paraguay", "Chile"],
+      "correctAnswer": 2,
+      "explanation": "Paraguay is one of the few countries whose flag has different emblems on each side. The front features the national coat of arms, while the reverse displays the seal of the treasury.",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": "wfl-15",
+      "question": "Mozambique's flag is unique because it features what type of modern object?",
+      "options": ["A satellite dish", "An AK-47 rifle", "A computer", "A car"],
+      "correctAnswer": 1,
+      "explanation": "Mozambique's flag is the only national flag in the world to feature a modern firearm — an AK-47 assault rifle with a bayonet. It symbolizes the nation's struggle for independence.",
+      "difficulty": "hard",
+      "category": "geography"
+    }
+  ]
+}

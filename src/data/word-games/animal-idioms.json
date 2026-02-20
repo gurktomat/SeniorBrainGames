@@ -1,0 +1,144 @@
+{
+  "id": "animal-idioms",
+  "title": "Animal Idioms",
+  "description": "How well do you know idioms that feature animals?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ai-1",
+      "question": "What does the idiom 'let the cat out of the bag' mean?",
+      "options": ["To release a pet", "To reveal a secret", "To start a fight", "To pack for a trip"],
+      "correctAnswer": 1,
+      "explanation": "'Let the cat out of the bag' means to accidentally reveal a secret or surprise. The phrase may originate from medieval market fraud where a cat was substituted for a piglet in a bag.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ai-2",
+      "question": "If someone is described as 'the black sheep' of the family, what does that mean?",
+      "options": ["They are the youngest child", "They are considered the odd one out or disgrace", "They wear dark clothing", "They are the most successful"],
+      "correctAnswer": 1,
+      "explanation": "The 'black sheep' of the family is the member who is regarded as a disgrace or who doesn't fit in. Black wool was less valuable because it couldn't be dyed, making black sheep undesirable to shepherds.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ai-3",
+      "question": "What does it mean to 'have a bee in your bonnet'?",
+      "options": ["To wear a fancy hat", "To be obsessed with an idea", "To be stung by an insect", "To feel confused"],
+      "correctAnswer": 1,
+      "explanation": "To 'have a bee in your bonnet' means to be preoccupied or obsessed with a particular idea or topic. The image of a bee buzzing inside a hat conveys the persistent, nagging quality of the obsession.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ai-4",
+      "question": "What does the expression 'when pigs fly' mean?",
+      "options": ["When the weather changes", "When someone is dreaming", "Something that will never happen", "When animals escape a farm"],
+      "correctAnswer": 2,
+      "explanation": "'When pigs fly' is used to say that something is extremely unlikely or impossible. Since pigs cannot fly, the expression emphasizes that the event in question will never occur.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ai-5",
+      "question": "What does it mean to 'cry wolf'?",
+      "options": ["To howl loudly", "To be afraid of animals", "To raise a false alarm repeatedly", "To call for help sincerely"],
+      "correctAnswer": 2,
+      "explanation": "To 'cry wolf' means to raise a false alarm so often that when real danger comes, no one believes you. It comes from Aesop's fable about a shepherd boy who repeatedly lied about a wolf attacking his flock.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ai-6",
+      "question": "What does the idiom 'hold your horses' mean?",
+      "options": ["To go faster", "To be patient and wait", "To take care of livestock", "To prepare for a race"],
+      "correctAnswer": 1,
+      "explanation": "'Hold your horses' means to slow down, be patient, or wait a moment before acting. It originates from the literal act of restraining horses to prevent them from moving forward too quickly.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ai-7",
+      "question": "If someone says they are 'playing possum,' what are they doing?",
+      "options": ["Playing a card game", "Pretending to be dead or asleep", "Acting silly", "Hunting in the woods"],
+      "correctAnswer": 1,
+      "explanation": "'Playing possum' means pretending to be dead, asleep, or unaware of a situation. It comes from the opossum's defense mechanism of feigning death when threatened by a predator.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ai-8",
+      "question": "What does 'a little bird told me' mean?",
+      "options": ["A bird literally communicated something", "I heard it from a secret or unnamed source", "I read it in a nature magazine", "Someone whispered quietly"],
+      "correctAnswer": 1,
+      "explanation": "'A little bird told me' means you learned something from a source you don't want to reveal. The expression dates back centuries and may have biblical origins from Ecclesiastes 10:20.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ai-9",
+      "question": "What does the phrase 'the elephant in the room' refer to?",
+      "options": ["A large piece of furniture", "An obvious problem everyone is ignoring", "A powerful person in charge", "A surprising guest at a party"],
+      "correctAnswer": 1,
+      "explanation": "'The elephant in the room' refers to an obvious problem or controversial issue that everyone is aware of but no one wants to discuss. The metaphor highlights how something so large cannot truly be ignored.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ai-10",
+      "question": "What does 'barking up the wrong tree' mean?",
+      "options": ["Making a loud noise outdoors", "Pursuing a mistaken course of action", "Climbing incorrectly", "Choosing the wrong type of wood"],
+      "correctAnswer": 1,
+      "explanation": "'Barking up the wrong tree' means to make a false assumption or pursue a mistaken line of thinking. It comes from hunting dogs that would bark at the base of a tree where they mistakenly believed their quarry had fled.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ai-11",
+      "question": "What does the idiom 'to have an albatross around your neck' mean?",
+      "options": ["To wear expensive jewelry", "To carry a heavy burden of guilt or obligation", "To have good luck at sea", "To be an excellent swimmer"],
+      "correctAnswer": 1,
+      "explanation": "Having 'an albatross around your neck' means carrying a heavy burden of guilt or a persistent problem. It comes from Samuel Taylor Coleridge's poem 'The Rime of the Ancient Mariner,' where a sailor is forced to wear a dead albatross as punishment.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ai-12",
+      "question": "What does 'to bell the cat' mean?",
+      "options": ["To decorate a pet", "To undertake a dangerous task for the common good", "To play a musical instrument", "To catch a stray animal"],
+      "correctAnswer": 1,
+      "explanation": "'To bell the cat' means to take on a dangerous or risky task that will benefit others. It comes from Aesop's fable where mice proposed hanging a bell around a cat's neck to hear it coming, but none volunteered to do it.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ai-13",
+      "question": "What does the expression 'a red herring' mean?",
+      "options": ["A rare type of fish", "Something that misleads or distracts from the real issue", "A warning sign of danger", "An embarrassing mistake"],
+      "correctAnswer": 1,
+      "explanation": "A 'red herring' is something that misleads or distracts from the relevant issue. The term may come from the practice of using smoked herring (which turns red) to throw hunting dogs off a scent trail.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ai-14",
+      "question": "What does the idiom 'to take the bull by the horns' mean?",
+      "options": ["To visit a ranch", "To run away from danger", "To face a difficult situation directly and boldly", "To make a foolish decision"],
+      "correctAnswer": 2,
+      "explanation": "'To take the bull by the horns' means to confront a difficult or dangerous situation head-on with courage and determination. The imagery comes from the bold act of grabbing a bull directly by its horns to control it.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ai-15",
+      "question": "What does the phrase 'crocodile tears' refer to?",
+      "options": ["Tears caused by spicy food", "Genuine tears of sadness", "Insincere or fake displays of grief", "Tears from laughing too hard"],
+      "correctAnswer": 2,
+      "explanation": "'Crocodile tears' refers to a false or insincere display of emotion, especially grief. The expression comes from the ancient belief that crocodiles shed tears while eating their prey, appearing to weep over their victims.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

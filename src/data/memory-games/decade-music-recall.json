@@ -1,0 +1,144 @@
+{
+  "id": "decade-music-recall",
+  "title": "Decade Music Recall",
+  "description": "Can you place these hit songs in the right decade?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "dmr-1",
+      "question": "In which decade was 'Bohemian Rhapsody' by Queen released?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correctAnswer": 1,
+      "explanation": "'Bohemian Rhapsody' was released in 1975 as part of Queen's album 'A Night at the Opera.'",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-2",
+      "question": "In which decade did Elvis Presley release 'Jailhouse Rock'?",
+      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "correctAnswer": 1,
+      "explanation": "'Jailhouse Rock' was released in 1957 and became one of Elvis Presley's most iconic rock and roll hits.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-3",
+      "question": "In which decade was 'I Will Always Love You' a massive hit for Whitney Houston?",
+      "options": ["1970s", "1980s", "1990s", "2000s"],
+      "correctAnswer": 2,
+      "explanation": "Whitney Houston's version of 'I Will Always Love You' was released in 1992 for 'The Bodyguard' soundtrack. The song was originally written and recorded by Dolly Parton in 1973.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-4",
+      "question": "In which decade did The Beatles release 'Hey Jude'?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctAnswer": 1,
+      "explanation": "'Hey Jude' was released by The Beatles in 1968. It was written by Paul McCartney to comfort John Lennon's son Julian during his parents' divorce.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-5",
+      "question": "In which decade was 'Stayin' Alive' by the Bee Gees released?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correctAnswer": 1,
+      "explanation": "'Stayin' Alive' was released in 1977 as part of the 'Saturday Night Fever' soundtrack, becoming an anthem of the disco era.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-6",
+      "question": "In which decade was 'Billie Jean' by Michael Jackson released?",
+      "options": ["1970s", "1980s", "1990s", "2000s"],
+      "correctAnswer": 1,
+      "explanation": "'Billie Jean' was released in 1983 from Michael Jackson's legendary album 'Thriller.'",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-7",
+      "question": "In which decade did Simon & Garfunkel release 'Bridge Over Troubled Water'?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctAnswer": 2,
+      "explanation": "'Bridge Over Troubled Water' was released in January 1970 as the title track of Simon & Garfunkel's final studio album.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-8",
+      "question": "In which decade was 'Hotel California' by the Eagles first released?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correctAnswer": 1,
+      "explanation": "'Hotel California' was released in 1977 and won the Grammy Award for Record of the Year in 1978.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-9",
+      "question": "In which decade did Nirvana release 'Smells Like Teen Spirit'?",
+      "options": ["1970s", "1980s", "1990s", "2000s"],
+      "correctAnswer": 2,
+      "explanation": "'Smells Like Teen Spirit' was released in 1991 on Nirvana's album 'Nevermind,' and is often credited with launching the grunge movement into the mainstream.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-10",
+      "question": "In which decade was 'My Girl' by The Temptations released?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctAnswer": 1,
+      "explanation": "'My Girl' was released in 1964 by The Temptations. Written by Smokey Robinson, it became the group's first number-one hit.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-11",
+      "question": "In which decade was 'What a Wonderful World' by Louis Armstrong released?",
+      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "correctAnswer": 2,
+      "explanation": "'What a Wonderful World' was released in 1967. It initially wasn't a hit in the U.S. but became hugely popular after being featured in the 1987 film 'Good Morning, Vietnam.'",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-12",
+      "question": "In which decade was 'Take On Me' by a-ha released?",
+      "options": ["1970s", "1980s", "1990s", "2000s"],
+      "correctAnswer": 1,
+      "explanation": "'Take On Me' by Norwegian band a-ha was released in 1985. Its innovative music video combining live action and pencil-sketch animation became iconic.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-13",
+      "question": "In which decade was 'Respect' by Aretha Franklin released?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctAnswer": 1,
+      "explanation": "'Respect' was released by Aretha Franklin in 1967. Originally written by Otis Redding, Aretha's version became a feminist and civil rights anthem.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-14",
+      "question": "In which decade did Fleetwood Mac release 'Dreams'?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correctAnswer": 1,
+      "explanation": "'Dreams' by Fleetwood Mac was released in 1977 on the album 'Rumours.' It was the band's only number-one single in the United States.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "dmr-15",
+      "question": "In which decade was 'Unchained Melody' originally released by The Righteous Brothers?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctAnswer": 1,
+      "explanation": "'Unchained Melody' was recorded by The Righteous Brothers in 1965. The song gained renewed popularity in 1990 when it was featured in the film 'Ghost.'",
+      "difficulty": "hard",
+      "category": "recall"
+    }
+  ]
+}

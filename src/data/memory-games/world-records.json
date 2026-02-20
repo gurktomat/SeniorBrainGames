@@ -1,0 +1,144 @@
+{
+  "id": "world-records",
+  "title": "World Records",
+  "description": "How well do you know these amazing world records?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wr-1",
+      "question": "What is the tallest building in the world as of 2024?",
+      "options": ["Shanghai Tower", "Makkah Royal Clock Tower", "Burj Khalifa", "One World Trade Center"],
+      "correctAnswer": 2,
+      "explanation": "The Burj Khalifa in Dubai stands at 2,717 feet (828 meters) tall and has held the record as the world's tallest building since its completion in 2010.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "wr-2",
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+      "correctAnswer": 1,
+      "explanation": "The Nile River in Africa is generally considered the longest river in the world at approximately 4,130 miles (6,650 km), though some measurements suggest the Amazon may be longer.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "wr-3",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Pacific Ocean is the largest ocean, covering about 63 million square miles. It is larger than all of Earth's landmass combined.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "wr-4",
+      "question": "What country has the largest population in the world?",
+      "options": ["China", "India", "United States", "Indonesia"],
+      "correctAnswer": 1,
+      "explanation": "India surpassed China as the world's most populous country in 2023, with over 1.4 billion people.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "wr-5",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Pronghorn antelope", "Cheetah", "Greyhound"],
+      "correctAnswer": 2,
+      "explanation": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 mph (112 km/h) in short bursts covering distances up to 500 meters.",
+      "difficulty": "easy",
+      "category": "recall"
+    },
+    {
+      "id": "wr-6",
+      "question": "What is the deepest point in the world's oceans?",
+      "options": ["Puerto Rico Trench", "Tonga Trench", "Mariana Trench", "Java Trench"],
+      "correctAnswer": 2,
+      "explanation": "The Mariana Trench in the Pacific Ocean contains the Challenger Deep, the deepest known point at approximately 36,000 feet (about 11,000 meters) below sea level.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "wr-7",
+      "question": "What is the largest desert in the world (by total area)?",
+      "options": ["Sahara Desert", "Antarctic Desert", "Arabian Desert", "Gobi Desert"],
+      "correctAnswer": 1,
+      "explanation": "Antarctica is technically the world's largest desert at about 5.5 million square miles. A desert is defined by low precipitation, not temperature. The Sahara is the largest hot desert.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "wr-8",
+      "question": "Who holds the record for the most Olympic gold medals ever won?",
+      "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Mark Spitz"],
+      "correctAnswer": 2,
+      "explanation": "Michael Phelps holds the all-time record with 23 Olympic gold medals (and 28 total medals) earned across five Olympic Games from 2000 to 2016.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "wr-9",
+      "question": "What is the largest living organism on Earth by area?",
+      "options": ["Blue whale", "A honey fungus in Oregon", "Giant sequoia tree", "Great Barrier Reef"],
+      "correctAnswer": 1,
+      "explanation": "A honey fungus (Armillaria ostoyae) in Oregon's Blue Mountains covers about 2,385 acres (about 3.7 square miles), making it the largest known living organism by area.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "wr-10",
+      "question": "What is the hottest temperature ever recorded on Earth?",
+      "options": ["134°F (56.7°C)", "140°F (60°C)", "129°F (53.9°C)", "145°F (62.8°C)"],
+      "correctAnswer": 0,
+      "explanation": "The highest temperature ever recorded was 134°F (56.7°C) at Furnace Creek Ranch in Death Valley, California, on July 10, 1913.",
+      "difficulty": "medium",
+      "category": "recall"
+    },
+    {
+      "id": "wr-11",
+      "question": "What is the smallest country in the world by area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+      "correctAnswer": 2,
+      "explanation": "Vatican City is the smallest country in the world at just 0.17 square miles (0.44 square km). It is an independent city-state within Rome, Italy.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "wr-12",
+      "question": "What is the longest-running TV show in U.S. history (by number of episodes)?",
+      "options": ["The Simpsons", "Gunsmoke", "Saturday Night Live", "General Hospital"],
+      "correctAnswer": 3,
+      "explanation": "General Hospital, which premiered in 1963, holds the record for the most episodes of any American TV show, with over 15,000 episodes.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "wr-13",
+      "question": "What is the largest animal to have ever lived on Earth?",
+      "options": ["African elephant", "Tyrannosaurus Rex", "Blue whale", "Argentinosaurus"],
+      "correctAnswer": 2,
+      "explanation": "The blue whale is the largest animal to have ever lived on Earth, reaching lengths of up to 100 feet and weighing up to 200 tons — larger than any dinosaur.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "wr-14",
+      "question": "What is the oldest known living tree species?",
+      "options": ["Giant sequoia", "Bristlecone pine", "Baobab", "Yew tree"],
+      "correctAnswer": 1,
+      "explanation": "Bristlecone pines are the oldest known living trees. The oldest individual, named Methuselah, is over 4,850 years old, located in California's White Mountains.",
+      "difficulty": "hard",
+      "category": "recall"
+    },
+    {
+      "id": "wr-15",
+      "question": "What is the longest distance ever walked without stopping (Guinness World Record)?",
+      "options": ["100 miles", "250 miles", "350 miles", "500 miles"],
+      "correctAnswer": 2,
+      "explanation": "The Guinness World Record for the longest distance walked without stopping is approximately 350 miles (563 km), achieved over several days of continuous walking without sleep.",
+      "difficulty": "hard",
+      "category": "recall"
+    }
+  ]
+}

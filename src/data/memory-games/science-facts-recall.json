@@ -1,0 +1,144 @@
+{
+  "id": "science-facts-recall",
+  "title": "Science Facts Recall",
+  "description": "Test your recall of important science facts!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sfr-1",
+      "question": "What is the chemical formula for water?",
+      "options": ["CO2", "H2O", "NaCl", "O2"],
+      "correctAnswer": 1,
+      "explanation": "Water's chemical formula is H2O, meaning each molecule contains two hydrogen atoms and one oxygen atom.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "sfr-2",
+      "question": "What planet is known as the 'Red Planet'?",
+      "options": ["Jupiter", "Venus", "Mars", "Saturn"],
+      "correctAnswer": 2,
+      "explanation": "Mars is called the Red Planet because iron oxide (rust) on its surface gives it a distinctive reddish appearance.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "sfr-3",
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correctAnswer": 2,
+      "explanation": "Plants absorb carbon dioxide (CO2) and use sunlight to convert it into glucose and oxygen through photosynthesis.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "sfr-4",
+      "question": "How many planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": 1,
+      "explanation": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "sfr-5",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Quartz", "Topaz", "Diamond", "Ruby"],
+      "correctAnswer": 2,
+      "explanation": "Diamond is the hardest natural substance on Earth, rating 10 on the Mohs hardness scale. It is made of carbon atoms arranged in a crystal structure.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "sfr-6",
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "correctAnswer": 2,
+      "explanation": "The skin is the largest organ, covering about 20 square feet in adults and weighing about 8 pounds. It serves as the body's first line of defense.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "sfr-7",
+      "question": "What is the speed of light in a vacuum (approximately)?",
+      "options": ["186,000 miles per second", "186,000 miles per hour", "670 million miles per hour", "Both A and C"],
+      "correctAnswer": 3,
+      "explanation": "Light travels at approximately 186,000 miles per second, which equals about 670 million miles per hour. Both expressions describe the same speed.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "sfr-8",
+      "question": "What element does the symbol 'Fe' represent on the periodic table?",
+      "options": ["Fluorine", "Fermium", "Iron", "Francium"],
+      "correctAnswer": 2,
+      "explanation": "Fe is the chemical symbol for iron, derived from its Latin name 'ferrum.' Iron is essential for making hemoglobin in red blood cells.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "sfr-9",
+      "question": "How long does it take for light from the Sun to reach Earth?",
+      "options": ["About 8 seconds", "About 8 minutes", "About 80 minutes", "About 8 hours"],
+      "correctAnswer": 1,
+      "explanation": "Light from the Sun takes approximately 8 minutes and 20 seconds to reach Earth, traveling about 93 million miles.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "sfr-10",
+      "question": "What force keeps planets in orbit around the Sun?",
+      "options": ["Magnetic force", "Nuclear force", "Gravity", "Centrifugal force"],
+      "correctAnswer": 2,
+      "explanation": "Gravity is the force that keeps planets in orbit around the Sun. It was famously described by Isaac Newton and later refined by Einstein's general relativity.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "sfr-11",
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "correctAnswer": 3,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere. Oxygen is second at about 21%, with other gases making up the remaining 1%.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "sfr-12",
+      "question": "What is absolute zero in Fahrenheit?",
+      "options": ["-273°F", "-460°F", "-360°F", "-500°F"],
+      "correctAnswer": 1,
+      "explanation": "Absolute zero is -459.67°F (approximately -460°F), or -273.15°C, or 0 Kelvin. It is the lowest possible temperature where all molecular motion stops.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "sfr-13",
+      "question": "What particle in an atom has a negative charge?",
+      "options": ["Proton", "Neutron", "Electron", "Quark"],
+      "correctAnswer": 2,
+      "explanation": "Electrons carry a negative charge and orbit the nucleus of an atom. Protons carry a positive charge, and neutrons have no charge.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "sfr-14",
+      "question": "What is the process by which a solid turns directly into a gas called?",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+      "correctAnswer": 2,
+      "explanation": "Sublimation is the process where a solid changes directly into a gas without passing through the liquid phase. Dry ice (solid CO2) is a common example.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "sfr-15",
+      "question": "What scientist is credited with developing the theory of general relativity?",
+      "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Max Planck"],
+      "correctAnswer": 2,
+      "explanation": "Albert Einstein published his theory of general relativity in 1915. It describes gravity as a curvature of spacetime caused by mass and energy.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}

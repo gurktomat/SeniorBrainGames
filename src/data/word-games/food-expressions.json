@@ -1,0 +1,144 @@
+{
+  "id": "food-expressions",
+  "title": "Food Expressions",
+  "description": "How well do you know food-related idioms and sayings?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fe-1",
+      "question": "What does the expression 'piece of cake' mean?",
+      "options": ["A dessert portion", "Something very easy to do", "A birthday celebration", "A small reward"],
+      "correctAnswer": 1,
+      "explanation": "'Piece of cake' means something that is very easy to accomplish. The phrase likely originates from the idea that eating cake is a simple, enjoyable task requiring no effort.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fe-2",
+      "question": "What does 'spill the beans' mean?",
+      "options": ["To make a mess in the kitchen", "To reveal secret information", "To waste food", "To plant a garden"],
+      "correctAnswer": 1,
+      "explanation": "'Spill the beans' means to reveal a secret or disclose confidential information. One theory traces it to ancient Greek voting, where beans were used as ballots and spilling them would reveal the vote prematurely.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fe-3",
+      "question": "If someone is 'the apple of your eye,' what are they?",
+      "options": ["Someone who annoys you", "Someone you cherish above all others", "Someone with red cheeks", "Someone who sells fruit"],
+      "correctAnswer": 1,
+      "explanation": "'The apple of your eye' refers to a person you are extremely fond of and cherish deeply. The phrase appears in the Bible and originally referred to the pupil of the eye, considered precious and vital.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fe-4",
+      "question": "What does 'to bring home the bacon' mean?",
+      "options": ["To go grocery shopping", "To earn a living or achieve success", "To cook breakfast", "To win a pig at a fair"],
+      "correctAnswer": 1,
+      "explanation": "'To bring home the bacon' means to earn money for one's family or to achieve success. One origin story traces it to a 12th-century tradition in Dunmow, England, where a side of bacon was awarded to happily married couples.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fe-5",
+      "question": "What does 'cool as a cucumber' mean?",
+      "options": ["Refrigerated properly", "Very calm and composed", "Fashionably dressed", "Cold-natured"],
+      "correctAnswer": 1,
+      "explanation": "'Cool as a cucumber' means very calm, composed, and not easily upset. Cucumbers have a high water content and their interior remains cooler than the surrounding air, making the comparison fitting.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fe-6",
+      "question": "What does the expression 'to eat humble pie' mean?",
+      "options": ["To enjoy a simple meal", "To apologize and accept humiliation", "To diet strictly", "To eat leftover food"],
+      "correctAnswer": 1,
+      "explanation": "'To eat humble pie' means to make an apology and accept humiliation after being proven wrong. It derives from 'umble pie,' a medieval dish made from the innards (umbles) of a deer, considered inferior food.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fe-7",
+      "question": "What does 'not my cup of tea' mean?",
+      "options": ["I don't drink tea", "It's not something I enjoy or prefer", "The tea belongs to someone else", "I'm allergic to tea"],
+      "correctAnswer": 1,
+      "explanation": "'Not my cup of tea' means something that is not to one's taste or liking. The expression originated in British culture, where tea is a staple, and choosing one's preferred type of tea is a matter of personal taste.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fe-8",
+      "question": "What does 'to have egg on your face' mean?",
+      "options": ["To need to wash up", "To be embarrassed by a mistake", "To have eaten sloppily", "To be wearing stage makeup"],
+      "correctAnswer": 1,
+      "explanation": "'To have egg on your face' means to be embarrassed as a result of your own actions or statements being proven wrong. It evokes the messy, undignified image of having egg smeared on one's face.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fe-9",
+      "question": "What does the phrase 'the best thing since sliced bread' mean?",
+      "options": ["A new bakery product", "An excellent innovation or idea", "Something from the 1920s", "A cooking technique"],
+      "correctAnswer": 1,
+      "explanation": "'The best thing since sliced bread' is used to describe something that is considered an outstanding innovation. Pre-sliced bread was first sold in 1928 and was considered a remarkable convenience.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fe-10",
+      "question": "What does 'to butter someone up' mean?",
+      "options": ["To cook for someone", "To flatter someone to gain a favor", "To massage someone", "To make someone slip and fall"],
+      "correctAnswer": 1,
+      "explanation": "'To butter someone up' means to flatter or praise someone excessively, usually to gain something in return. The phrase may come from an ancient Indian custom of throwing balls of clarified butter at statues of gods to seek favor.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fe-11",
+      "question": "What does the expression 'to have a lot on your plate' mean?",
+      "options": ["To eat a large meal", "To have many tasks or responsibilities", "To be a messy eater", "To host a dinner party"],
+      "correctAnswer": 1,
+      "explanation": "'To have a lot on your plate' means to be burdened with many tasks, obligations, or problems to deal with. The metaphor compares a full plate of food to a full schedule of responsibilities.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fe-12",
+      "question": "What does 'to be in a pickle' mean?",
+      "options": ["To be in a jar", "To be in a difficult or messy situation", "To be preserved for later", "To be sour-tempered"],
+      "correctAnswer": 1,
+      "explanation": "'To be in a pickle' means to be in a difficult, troublesome, or awkward situation. Shakespeare used the phrase in 'The Tempest.' Being stuck in brine (pickle solution) would indeed be an unpleasant predicament.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fe-13",
+      "question": "What does the idiom 'to go bananas' mean?",
+      "options": ["To go grocery shopping", "To eat healthy food", "To become wildly excited or crazy", "To slip and fall"],
+      "correctAnswer": 2,
+      "explanation": "'To go bananas' means to become wildly excited, crazy, or angry. The phrase became popular in the 1960s and may be linked to the excited behavior of monkeys and apes when given bananas.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fe-14",
+      "question": "What does 'a hard nut to crack' mean?",
+      "options": ["A stale snack", "A difficult problem or person to deal with", "A strong jawbone", "An old recipe"],
+      "correctAnswer": 1,
+      "explanation": "'A hard nut to crack' refers to a difficult problem to solve or a person who is hard to understand or persuade. Just as some nuts have tough shells that are difficult to open, some challenges resist easy solutions.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fe-15",
+      "question": "What does the phrase 'to take something with a grain of salt' mean?",
+      "options": ["To season food properly", "To view something with skepticism", "To preserve food for later", "To add flavor to a story"],
+      "correctAnswer": 1,
+      "explanation": "'To take something with a grain of salt' means to regard a statement with mild skepticism or not to take it literally. The phrase may derive from Pliny the Elder's suggestion that a grain of salt could serve as an antidote to poison.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

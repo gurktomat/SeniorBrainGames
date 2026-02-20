@@ -1,0 +1,144 @@
+{
+  "id": "vintage-comic-strips",
+  "title": "Vintage Comic Strips",
+  "description": "Test your knowledge of classic newspaper comic strips!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vcs-1",
+      "question": "What is the name of Charlie Brown's pet beagle in the comic strip 'Peanuts'?",
+      "options": ["Odie", "Snoopy", "Goofy", "Pluto"],
+      "correctAnswer": 1,
+      "explanation": "Snoopy, Charlie Brown's imaginative beagle, first appeared in Peanuts on October 4, 1950. Created by Charles M. Schulz, Snoopy became one of the most beloved comic strip characters of all time.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-2",
+      "question": "Which comic strip, created by Mort Walker in 1950, followed the misadventures of a lazy Army private?",
+      "options": ["Sad Sack", "Beetle Bailey", "G.I. Joe", "Private Murphy"],
+      "correctAnswer": 1,
+      "explanation": "Beetle Bailey debuted on September 4, 1950. The strip followed the titular character's efforts to avoid work at Camp Swampy and became one of the longest-running comic strips in history.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-3",
+      "question": "In the comic strip 'Blondie,' what is Dagwood Bumstead's favorite food creation?",
+      "options": ["Pizza", "A towering sandwich", "Hot dogs", "Pancakes"],
+      "correctAnswer": 1,
+      "explanation": "Dagwood's enormous multi-layered sandwiches became so iconic that the term 'Dagwood sandwich' entered the dictionary. The comic strip, created by Chic Young in 1930, ran for over 90 years.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-4",
+      "question": "Which comic strip featured a sailor with a fondness for spinach who first appeared in 1929?",
+      "options": ["Barnacle Bill", "Popeye", "Hagar the Horrible", "Snuffy Smith"],
+      "correctAnswer": 1,
+      "explanation": "Popeye first appeared in E.C. Segar's 'Thimble Theatre' comic strip on January 17, 1929. His spinach-fueled strength became so popular that spinach consumption reportedly increased 33% in the United States.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-5",
+      "question": "What was the name of Dick Tracy's iconic two-way communication device?",
+      "options": ["Two-Way Radio", "Wrist TV", "Two-Way Wrist Radio", "Walkie-Talkie Watch"],
+      "correctAnswer": 2,
+      "explanation": "Dick Tracy's Two-Way Wrist Radio, introduced in the strip in 1946 by Chester Gould, was remarkably ahead of its time. It was later upgraded to a Two-Way Wrist TV in 1964, predicting smartwatches by decades.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-6",
+      "question": "Which comic strip, created by Al Capp in 1934, was set in the fictional mountain town of Dogpatch?",
+      "options": ["Snuffy Smith", "Li'l Abner", "The Hillbilly Bears", "Pogo"],
+      "correctAnswer": 1,
+      "explanation": "Li'l Abner ran from 1934 to 1977 and featured the residents of Dogpatch, Kentucky. The strip was famous for its social satire and introduced Sadie Hawkins Day into American culture.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-7",
+      "question": "In 'The Far Side' by Gary Larson, what type of humor was the strip best known for?",
+      "options": ["Political satire", "Surreal single-panel gags", "Romantic comedy", "Sports humor"],
+      "correctAnswer": 1,
+      "explanation": "The Far Side, which ran from 1980 to 1995, was famous for its surreal, absurdist humor often featuring anthropomorphic animals, mad scientists, and cavemen in bizarre situations.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-8",
+      "question": "What was the name of the cat in the comic strip 'Garfield'?",
+      "options": ["Felix", "Heathcliff", "Garfield", "Tom"],
+      "correctAnswer": 2,
+      "explanation": "Garfield, the lasagna-loving orange tabby created by Jim Davis, debuted on June 19, 1978. The strip quickly became the world's most widely syndicated comic strip, appearing in over 2,500 newspapers.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-9",
+      "question": "Which classic comic strip featured the characters Mutt and Jeff?",
+      "options": ["A married couple strip", "A buddy comedy strip about two friends", "A detective strip", "A Western strip"],
+      "correctAnswer": 1,
+      "explanation": "Mutt and Jeff, created by Bud Fisher in 1907, was one of the first daily comic strips. It featured the tall Mutt and short Jeff as comedic friends, and the expression 'Mutt and Jeff' became slang for a mismatched pair.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-10",
+      "question": "Who created the comic strip 'Calvin and Hobbes'?",
+      "options": ["Gary Larson", "Bill Watterson", "Scott Adams", "Berkeley Breathed"],
+      "correctAnswer": 1,
+      "explanation": "Bill Watterson created Calvin and Hobbes, which ran from 1985 to 1995. The strip followed six-year-old Calvin and his stuffed tiger Hobbes and was acclaimed for its intelligence, humor, and beautiful artwork.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-11",
+      "question": "Which long-running comic strip, started in 1913, featured a family named after a type of rock formation?",
+      "options": ["The Broons", "The Flintstones", "Bringing Up Father", "The Bunkers"],
+      "correctAnswer": 2,
+      "explanation": "Bringing Up Father, created by George McManus in 1913, featured Jiggs and Maggie, an Irish-American couple who came into money. It ran until 2000 and was one of the most popular strips of the early 20th century.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-12",
+      "question": "In the comic strip 'Peanuts,' what instrument does Schroeder play?",
+      "options": ["Violin", "Piano", "Guitar", "Trumpet"],
+      "correctAnswer": 1,
+      "explanation": "Schroeder is devoted to playing his toy piano, with a special love for Beethoven's music. Despite it being a toy piano, Schulz drew Schroeder playing complex classical compositions on it.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-13",
+      "question": "Which comic strip, created by Walt Kelly in 1948, was set in the Okefenokee Swamp?",
+      "options": ["Pogo", "Swamp Thing", "Albert the Alligator", "Bayou Billy"],
+      "correctAnswer": 0,
+      "explanation": "Pogo, starring the titular possum and his swamp friends, was known for its sharp political satire and wordplay. Kelly's famous quote 'We have met the enemy and he is us' came from this strip.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-14",
+      "question": "What comic strip about a prehistoric family was created by Johnny Hart in 1958?",
+      "options": ["Alley Oop", "B.C.", "Tumbleweeds", "The Wizard of Id"],
+      "correctAnswer": 1,
+      "explanation": "B.C., created by Johnny Hart, debuted in 1958 and featured cavemen dealing with modern-day situations. Hart also co-created The Wizard of Id. B.C. continues to run with new cartoonists.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vcs-15",
+      "question": "Which comic strip, debuting in 1950, featured a Viking family and was created by Dik Browne?",
+      "options": ["Prince Valiant", "Hagar the Horrible", "The Wizard of Id", "Asterix"],
+      "correctAnswer": 1,
+      "explanation": "Hagar the Horrible, created by Dik Browne, actually debuted in 1973 (not 1950). It follows the comedic adventures of a Viking and his family. At its peak, it appeared in 1,900 newspapers in 58 countries.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

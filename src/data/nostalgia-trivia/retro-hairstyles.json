@@ -1,0 +1,144 @@
+{
+  "id": "retro-hairstyles",
+  "title": "Retro Hairstyles",
+  "description": "How well do you know the iconic hairstyles of the past?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rh-1",
+      "question": "What 1950s hairstyle featured hair slicked back on the sides to meet in a ridge at the back of the head?",
+      "options": ["The Pompadour", "The Duck Tail (D.A.)", "The Flat Top", "The Crew Cut"],
+      "correctAnswer": 1,
+      "explanation": "The Duck Tail, also called the D.A. (Duck's Anatomy), was created by combing greased hair back on both sides to form a ridge down the back of the head, resembling a duck's tail.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-2",
+      "question": "What 1960s hairstyle involved teasing and piling hair high on top of the head in a tall, rounded shape?",
+      "options": ["The Pixie Cut", "The Beehive", "The Flip", "The Shag"],
+      "correctAnswer": 1,
+      "explanation": "The beehive hairstyle was created by Margaret Vinci Heldt in 1960. Hair was teased, backcombed, and piled high to create the tall, cone-shaped style that resembled a beehive.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-3",
+      "question": "Which actress made the short, gamine 'pixie cut' famous in the 1950s and 1960s?",
+      "options": ["Marilyn Monroe", "Audrey Hepburn", "Elizabeth Taylor", "Grace Kelly"],
+      "correctAnswer": 1,
+      "explanation": "Audrey Hepburn popularized the pixie cut with her role in Roman Holiday (1953). Her short, elegant hairstyle became a signature look and inspired women worldwide to go short.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-4",
+      "question": "What product did men commonly use to slick back their hair in the 1950s?",
+      "options": ["Hair spray", "Brylcreem", "Mousse", "Gel"],
+      "correctAnswer": 1,
+      "explanation": "Brylcreem was the go-to hair product for men in the 1950s. Its famous jingle 'A little dab'll do ya' became part of popular culture. The cream gave hair the slick, shiny look popular with greasers.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-5",
+      "question": "What 1970s hairstyle featured long, layered hair with feathered, winged-back sides?",
+      "options": ["The Dorothy Hamill Wedge", "The Farrah Fawcett", "The Afro", "The Bowl Cut"],
+      "correctAnswer": 1,
+      "explanation": "Farrah Fawcett's iconic feathered hairstyle from her Charlie's Angels days in 1976 became one of the most copied hairstyles in history. Women everywhere asked their hairdressers for 'The Farrah.'",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-6",
+      "question": "What was the name of the 1960s hairstyle where the ends of medium-length hair curled outward?",
+      "options": ["The Bouffant", "The Flip", "The Page Boy", "The Bob"],
+      "correctAnswer": 1,
+      "explanation": "The Flip was a hugely popular 1960s style where hair was set on rollers to create ends that flipped outward. Mary Tyler Moore popularized this style on The Dick Van Dyke Show.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-7",
+      "question": "Which iconic hairstyle was popularized by the African American community as a symbol of Black pride in the late 1960s?",
+      "options": ["Cornrows", "The Afro", "Dreadlocks", "The Jheri Curl"],
+      "correctAnswer": 1,
+      "explanation": "The Afro became a powerful symbol of Black pride and the civil rights movement in the late 1960s and 1970s. Worn naturally and full, it rejected Eurocentric beauty standards.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-8",
+      "question": "What was the short, wedge-shaped hairstyle popularized by an Olympic figure skater in 1976?",
+      "options": ["The Farrah", "The Dorothy Hamill", "The Twiggy", "The Jane Fonda"],
+      "correctAnswer": 1,
+      "explanation": "Dorothy Hamill's short, wedge-shaped bob became a sensation after she won the gold medal at the 1976 Olympics. The low-maintenance style was widely copied throughout the late 1970s.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-9",
+      "question": "What hair-setting device did women sleep in to create curls before the era of curling irons?",
+      "options": ["Hair clips", "Pin curlers and rollers", "Braids", "Scarves"],
+      "correctAnswer": 1,
+      "explanation": "Pin curls and foam or hard rollers were the primary method for creating curls before heated styling tools became common. Women would set their hair at night and sleep with the rollers in.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-10",
+      "question": "What British model made the very short, androgynous crop cut famous in the late 1960s?",
+      "options": ["Jean Shrimpton", "Twiggy", "Penelope Tree", "Veruschka"],
+      "correctAnswer": 1,
+      "explanation": "Twiggy (Lesley Hornby) became the face of the 1960s mod movement with her ultra-short crop cut, big eyes, and boyish figure. She was named the 'Face of 1966' by the Daily Express.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-11",
+      "question": "What was the 'poodle cut' that was popular in the early 1950s?",
+      "options": ["A long braided style", "A short, tightly curled all-over perm", "A high ponytail with curled ends", "Straight hair with curled bangs"],
+      "correctAnswer": 1,
+      "explanation": "The poodle cut was a short hairstyle with tight, small curls all over the head, resembling a poodle's fur. Lucille Ball and Faye Emerson helped popularize this style in the early 1950s.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-12",
+      "question": "Which First Lady influenced a popular bouffant hairstyle in the early 1960s?",
+      "options": ["Mamie Eisenhower", "Jacqueline Kennedy", "Lady Bird Johnson", "Pat Nixon"],
+      "correctAnswer": 1,
+      "explanation": "Jacqueline Kennedy's elegant bouffant hairstyle, created by her hairstylist Kenneth Battelle, was widely imitated. Her pillbox hat and bouffant became defining images of early 1960s elegance.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-13",
+      "question": "What 1950s men's hairstyle was associated with Elvis Presley and featured volume on top with slicked sides?",
+      "options": ["The Butch Cut", "The Pompadour", "The Ivy League", "The Princeton"],
+      "correctAnswer": 1,
+      "explanation": "Elvis Presley's pompadour — with hair swept up and back from the forehead to create height on top, while the sides were slicked back — became one of the most iconic men's hairstyles of the 1950s.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-14",
+      "question": "What hairstyle accessory, a wide band worn across the forehead, became popular during the hippie movement?",
+      "options": ["Hair bow", "Headband", "Tiara", "Hair net"],
+      "correctAnswer": 1,
+      "explanation": "Headbands worn across the forehead became an essential part of the hippie look in the late 1960s and early 1970s. Often made of leather, beads, or woven fabric, they symbolized the counterculture movement.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "rh-15",
+      "question": "What process, popular in the 1960s, used large amounts of Aqua Net or similar products to create tall, stiff hairdos?",
+      "options": ["Cold waving", "Backcombing and lacquering", "Chemical straightening", "Finger waving"],
+      "correctAnswer": 1,
+      "explanation": "Backcombing (teasing) hair and then coating it with hairspray like Aqua Net was the technique behind the tall bouffants and beehives of the 1960s. Women used enormous amounts of hairspray to keep their styles in place.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

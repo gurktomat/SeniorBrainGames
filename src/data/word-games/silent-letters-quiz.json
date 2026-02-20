@@ -1,0 +1,144 @@
+{
+  "id": "silent-letters-quiz",
+  "title": "Silent Letters Quiz",
+  "description": "Identify which letter is silent in each word!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sl-1",
+      "question": "Which letter is silent in the word 'knight'?",
+      "options": ["N", "I", "G", "K"],
+      "correctAnswer": 3,
+      "explanation": "The 'k' is silent in 'knight.' In Old English, the 'k' was actually pronounced (kuh-nicht), but over centuries the pronunciation changed while the spelling remained.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sl-2",
+      "question": "Which letter is silent in the word 'comb'?",
+      "options": ["C", "O", "M", "B"],
+      "correctAnswer": 3,
+      "explanation": "The 'b' is silent in 'comb.' The final 'b' after 'm' became silent in English by the late 1300s, but the spelling was kept. Other examples include 'lamb' and 'thumb.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sl-3",
+      "question": "Which letter is silent in the word 'write'?",
+      "options": ["W", "R", "I", "E"],
+      "correctAnswer": 0,
+      "explanation": "The 'w' is silent in 'write.' In Old English, the 'w' was pronounced, but it became silent before 'r' during the 15th-17th centuries. Other examples include 'wrong,' 'wrist,' and 'wreck.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sl-4",
+      "question": "Which letter is silent in the word 'honest'?",
+      "options": ["O", "N", "H", "T"],
+      "correctAnswer": 2,
+      "explanation": "The 'h' is silent in 'honest.' This word came from Old French, where the 'h' was never pronounced. English adopted the spelling but kept the French pronunciation.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sl-5",
+      "question": "Which letter is silent in the word 'listen'?",
+      "options": ["L", "I", "T", "N"],
+      "correctAnswer": 2,
+      "explanation": "The 't' is silent in 'listen.' Several English words have a silent 't,' including 'fasten,' 'castle,' 'whistle,' and 'Christmas.'",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sl-6",
+      "question": "Which letter is silent in the word 'psychology'?",
+      "options": ["P", "S", "Y", "G"],
+      "correctAnswer": 0,
+      "explanation": "The 'p' is silent in 'psychology.' Words beginning with 'ps-' come from Greek, where the 'p' was pronounced. English dropped the pronunciation but kept the spelling to preserve the Greek root 'psyche' (soul/mind).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sl-7",
+      "question": "Which letter is silent in the word 'gnaw'?",
+      "options": ["N", "A", "W", "G"],
+      "correctAnswer": 3,
+      "explanation": "The 'g' is silent in 'gnaw.' The 'gn-' combination at the beginning of words comes from Old English and Germanic roots where the 'g' was originally pronounced. Other examples include 'gnat,' 'gnome,' and 'gnu.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sl-8",
+      "question": "Which letter is silent in the word 'doubt'?",
+      "options": ["D", "O", "B", "T"],
+      "correctAnswer": 2,
+      "explanation": "The 'b' is silent in 'doubt.' The word came from Old French 'doute' (no 'b'), but scholars added the 'b' to reflect the Latin root 'dubitare.' The 'b' was never pronounced in English.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sl-9",
+      "question": "Which letter is silent in the word 'island'?",
+      "options": ["I", "S", "L", "D"],
+      "correctAnswer": 1,
+      "explanation": "The 's' is silent in 'island.' The word originally came from Old English 'igland' (no 's'). The 's' was added later by scholars who incorrectly associated it with the Latin word 'insula.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sl-10",
+      "question": "Which letter is silent in the word 'receipt'?",
+      "options": ["R", "E", "P", "T"],
+      "correctAnswer": 2,
+      "explanation": "The 'p' is silent in 'receipt.' Like 'doubt,' the 'p' was added by scholars to reflect the Latin root 'receptum,' even though the letter was never pronounced in the English word.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sl-11",
+      "question": "Which letter is silent in the word 'pneumonia'?",
+      "options": ["P", "N", "E", "U"],
+      "correctAnswer": 0,
+      "explanation": "The 'p' is silent in 'pneumonia.' The word comes from the Greek 'pneumon' (lung), where the 'p' was pronounced. English kept the Greek spelling but dropped the 'p' sound.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "sl-12",
+      "question": "Which letter is silent in the word 'mnemonic'?",
+      "options": ["N", "E", "M", "I"],
+      "correctAnswer": 2,
+      "explanation": "The first 'm' is silent in 'mnemonic.' The word comes from the Greek goddess of memory, Mnemosyne. The 'mn-' combination at the start of English words always has a silent 'm.'",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "sl-13",
+      "question": "Which letter is silent in the word 'corps' (as in Marine Corps)?",
+      "options": ["C", "O", "P", "S"],
+      "correctAnswer": 3,
+      "explanation": "The 's' is silent in 'corps,' which is pronounced like 'core.' The word comes directly from French, and English preserved the French pronunciation where the final 's' is not sounded.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "sl-14",
+      "question": "Which letter is silent in the word 'subtle'?",
+      "options": ["S", "U", "B", "E"],
+      "correctAnswer": 2,
+      "explanation": "The 'b' is silent in 'subtle.' The word came from Old French 'sotil,' but the 'b' was added to reflect the Latin 'subtilis.' The 'b' was never actually pronounced in English.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "sl-15",
+      "question": "Which letter is silent in the word 'rendezvous'?",
+      "options": ["N", "Z", "V", "S"],
+      "correctAnswer": 3,
+      "explanation": "The 's' is silent in 'rendezvous.' This word was borrowed directly from French, where final consonants are typically silent. It is pronounced 'RON-day-voo.'",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

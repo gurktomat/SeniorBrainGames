@@ -1,0 +1,144 @@
+{
+  "id": "precious-gems",
+  "title": "Precious Gems & Minerals",
+  "description": "Test your knowledge of precious stones and minerals!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "pg-1",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Ruby", "Sapphire", "Diamond", "Topaz"],
+      "correctAnswer": 2,
+      "explanation": "Diamond is the hardest natural substance, scoring 10 on the Mohs hardness scale. It is made of pure carbon atoms arranged in a crystal structure.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "pg-2",
+      "question": "What gemstone is traditionally associated with the month of July?",
+      "options": ["Sapphire", "Ruby", "Emerald", "Garnet"],
+      "correctAnswer": 1,
+      "explanation": "The ruby is the birthstone for July. Rubies are a variety of the mineral corundum and get their red color from the element chromium.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "pg-3",
+      "question": "What color is an emerald?",
+      "options": ["Blue", "Red", "Green", "Purple"],
+      "correctAnswer": 2,
+      "explanation": "Emeralds are green gemstones, a variety of the mineral beryl. Their green color comes from trace amounts of chromium and sometimes vanadium.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "pg-4",
+      "question": "Pearls are primarily produced by which creature?",
+      "options": ["Coral", "Sea urchin", "Starfish", "Oyster"],
+      "correctAnswer": 3,
+      "explanation": "Pearls are produced by oysters and some other mollusks. When an irritant enters the shell, the animal coats it with layers of nacre (mother-of-pearl), gradually forming a pearl.",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "pg-5",
+      "question": "Which precious stone is known as the 'king of gems'?",
+      "options": ["Diamond", "Ruby", "Emerald", "Sapphire"],
+      "correctAnswer": 1,
+      "explanation": "The ruby has been called the 'king of gems' throughout history. In ancient India, rubies were called 'ratnaraj,' which translates to 'king of precious stones.'",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": "pg-6",
+      "question": "What mineral is ruby a variety of?",
+      "options": ["Quartz", "Corundum", "Beryl", "Feldspar"],
+      "correctAnswer": 1,
+      "explanation": "Ruby is a variety of the mineral corundum (aluminum oxide). Sapphire is also a variety of corundum — the only difference is the trace elements that give them their colors.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "pg-7",
+      "question": "Which gemstone can display a 'play of color' effect, showing flashes of rainbow colors?",
+      "options": ["Opal", "Moonstone", "Labradorite", "Tiger's Eye"],
+      "correctAnswer": 0,
+      "explanation": "Opals are famous for their play of color, caused by the diffraction of light through tiny silica spheres within the stone. Australian opals account for about 95% of the world's supply.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "pg-8",
+      "question": "What gives amethyst its purple color?",
+      "options": ["Copper", "Iron", "Manganese", "Cobalt"],
+      "correctAnswer": 1,
+      "explanation": "Amethyst's purple color comes from iron impurities within the quartz crystal, combined with irradiation. Amethyst is a variety of quartz and was once considered as valuable as diamonds.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "pg-9",
+      "question": "Which country is the world's leading producer of diamonds?",
+      "options": ["South Africa", "Russia", "Botswana", "Australia"],
+      "correctAnswer": 1,
+      "explanation": "Russia is the world's largest producer of diamonds by volume, primarily from mines in Siberia. The Mirny Mine in Yakutia is one of the largest open-pit diamond mines in the world.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "pg-10",
+      "question": "What is the most common mineral found in the Earth's crust?",
+      "options": ["Quartz", "Feldspar", "Mica", "Calcite"],
+      "correctAnswer": 1,
+      "explanation": "Feldspar is the most abundant mineral group in the Earth's crust, making up about 60% of it. Quartz is the second most abundant mineral in the continental crust.",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": "pg-11",
+      "question": "What is the name of the famous 45.52-carat blue diamond housed in the Smithsonian?",
+      "options": ["Koh-i-Noor", "Cullinan", "Hope Diamond", "Regent Diamond"],
+      "correctAnswer": 2,
+      "explanation": "The Hope Diamond is a 45.52-carat deep-blue diamond housed in the Smithsonian National Museum of Natural History. It is famous for its supposedly cursed history and its rare blue color caused by trace amounts of boron.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "pg-12",
+      "question": "Lapis lazuli, prized since antiquity, is primarily composed of which mineral?",
+      "options": ["Sodalite", "Lazurite", "Azurite", "Turquoise"],
+      "correctAnswer": 1,
+      "explanation": "Lapis lazuli is a deep-blue metamorphic rock primarily composed of the mineral lazurite. It has been prized since antiquity and was ground into powder to make the pigment ultramarine, used in Renaissance paintings.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "pg-13",
+      "question": "Which gemstone changes color depending on the light source, appearing green in daylight and red in incandescent light?",
+      "options": ["Tourmaline", "Alexandrite", "Tanzanite", "Spinel"],
+      "correctAnswer": 1,
+      "explanation": "Alexandrite is famous for its dramatic color change: green in daylight and red under incandescent light. It was first discovered in Russia's Ural Mountains in the 1830s and named after Tsar Alexander II.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "pg-14",
+      "question": "On the Mohs hardness scale, what number is assigned to talc, the softest mineral?",
+      "options": ["0", "1", "2", "0.5"],
+      "correctAnswer": 1,
+      "explanation": "Talc is rated 1 on the Mohs hardness scale, making it the softest known mineral. It can be scratched with a fingernail. Talc is commonly used in talcum powder.",
+      "difficulty": "hard",
+      "category": "science"
+    },
+    {
+      "id": "pg-15",
+      "question": "Tanzanite, a blue-violet gemstone discovered in 1967, is found naturally in only one place on Earth. Where?",
+      "options": ["Madagascar", "Sri Lanka", "Tanzania", "Brazil"],
+      "correctAnswer": 2,
+      "explanation": "Tanzanite is found exclusively in the Mererani Hills of northern Tanzania, near Mount Kilimanjaro. It was discovered in 1967 and named by Tiffany & Co. after its country of origin.",
+      "difficulty": "hard",
+      "category": "science"
+    }
+  ]
+}
