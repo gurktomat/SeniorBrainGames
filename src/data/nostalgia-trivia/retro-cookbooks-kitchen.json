@@ -1,0 +1,219 @@
+{
+  "id": "retro-cookbooks-kitchen",
+  "title": "Retro Cookbooks & Kitchen Culture",
+  "description": "Test your knowledge of the cookbooks, cooking shows, and kitchen culture that defined home cooking in mid-century America!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "retro-cookbooks-kitchen-1",
+      "question": "Which cooking show host, known for her distinctive voice and love of French cuisine, debuted on public television in 1963?",
+      "options": [
+        "Julia Child",
+        "Martha Stewart",
+        "Dione Lucas",
+        "Graham Kerr"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Julia Child's show 'The French Chef' debuted on WGBH-TV in Boston in 1963, making French cooking accessible to American home cooks and launching a culinary revolution.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-2",
+      "question": "What was the name of the comprehensive cookbook first published in 1931 that became known as 'the bible of American cooking'?",
+      "options": [
+        "Good Housekeeping Cookbook",
+        "The Joy of Cooking",
+        "Fannie Farmer Cookbook",
+        "Betty Crocker Cookbook"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Joy of Cooking by Irma S. Rombauer was first self-published in 1931 and became one of the most influential American cookbooks ever, with over 18 million copies sold.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-3",
+      "question": "Which television cooking personality was known as 'The Galloping Gourmet' in his popular 1960s-1970s show?",
+      "options": [
+        "Jacques Pepin",
+        "Graham Kerr",
+        "James Beard",
+        "Jeff Smith"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Graham Kerr starred in 'The Galloping Gourmet' from 1969 to 1971, bringing an entertaining, humorous approach to cooking shows. He was known for sipping wine while cooking.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-4",
+      "question": "What community-based cookbook format became hugely popular in churches and organizations in the 1950s through 1970s?",
+      "options": [
+        "Professional chef books",
+        "Government pamphlets",
+        "Church and community spiral-bound cookbooks",
+        "Magazine recipe collections"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Church and community cookbooks, usually spiral-bound, collected recipes from members and were sold as fundraisers. They captured authentic home cooking traditions of their communities.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-5",
+      "question": "Which Julia Child cookbook, published in 1961, introduced Americans to classic French cooking techniques?",
+      "options": [
+        "From Julia Child's Kitchen",
+        "The French Chef Cookbook",
+        "Mastering the Art of French Cooking",
+        "Julia's Kitchen Wisdom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mastering the Art of French Cooking, co-written with Simone Beck and Louisette Bertholle, was published in 1961 and transformed American home cooking.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-6",
+      "question": "What recipe card collection system, popular in the 1970s, was delivered by mail in regular installments?",
+      "options": [
+        "Better Homes Recipe File",
+        "McCall's Recipe Cards",
+        "Betty Crocker Recipe Cards",
+        "Recipe-a-Day Calendar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Betty Crocker Recipe Card Library was a mail-order subscription in the 1970s. Families collected and organized the cards in a special file box, building a personal cookbook over time.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-7",
+      "question": "Which women's magazine was famous for its monthly recipes and test kitchen, publishing many iconic mid-century recipes?",
+      "options": [
+        "Vogue",
+        "Good Housekeeping",
+        "Life Magazine",
+        "Cosmopolitan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good Housekeeping and its test kitchen were a trusted source of recipes for generations of American home cooks. Their Seal of Approval on products was highly valued.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-8",
+      "question": "What was the name of the popular 1950s concept where neighbors would gather to share recipes and sample each other's cooking?",
+      "options": [
+        "Potluck dinner",
+        "Covered dish supper",
+        "Recipe swap",
+        "Cooking circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potluck dinners became a cornerstone of American social life in the 1950s and 1960s, with each family bringing a dish to share at church events, neighborhood gatherings, and community halls.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-9",
+      "question": "Which cookbook author was considered the 'Dean of American Cookery' and mentored many famous chefs in the mid-20th century?",
+      "options": [
+        "Paul Prudhomme",
+        "Craig Claiborne",
+        "Jacques Pepin",
+        "James Beard"
+      ],
+      "correctAnswer": 3,
+      "explanation": "James Beard (1903-1985) was known as the Dean of American Cookery. He authored over 20 cookbooks and championed American cuisine. The James Beard Awards are named in his honor.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-10",
+      "question": "What Pillsbury competition, first held in 1949, invited home cooks to submit their best original recipes for a cash prize?",
+      "options": [
+        "Pillsbury Recipe Contest",
+        "Pillsbury Grand Prize",
+        "Pillsbury Bake-Off",
+        "Pillsbury Cook-Off"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pillsbury Bake-Off has been held since 1949, offering cash prizes for the best original recipes. It has launched many iconic recipes including the Tunnel of Fudge Cake.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-11",
+      "question": "Which homemaking brand published pamphlet-style recipe booklets that were often given away free inside product packaging?",
+      "options": [
+        "Duncan Hines",
+        "Arm & Hammer",
+        "Jell-O",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Many brands including Jell-O, Arm & Hammer, Duncan Hines, and others published small recipe booklets inside or alongside their products, building recipe collections one purchase at a time.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-12",
+      "question": "What was the name of the Better Homes and Gardens cookbook, first published in 1930, recognizable by its distinctive plaid cover?",
+      "options": [
+        "The Plaid Cookbook",
+        "Home Cooking Bible",
+        "American Kitchen",
+        "New Cook Book"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Better Homes and Gardens New Cook Book, with its red-and-white plaid cover and ring binder format, has been a kitchen staple since 1930 with over 40 million copies sold.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-13",
+      "question": "Which company's recipe booklets from the 1940s and 1950s featured elaborate gelatin mold recipes in full color?",
+      "options": [
+        "Knox Gelatine",
+        "My-T-Fine",
+        "Jell-O",
+        "Royal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jell-O's recipe booklets showcased spectacular molded salads and desserts in vivid color photography. These elaborate creations became centerpieces of 1950s entertaining.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-14",
+      "question": "What home economics concept was taught to girls in schools across America in the 1950s and 1960s?",
+      "options": [
+        "Agricultural science",
+        "Home Ec (home economics)",
+        "Business management",
+        "Advanced chemistry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Home Economics classes taught cooking, sewing, nutrition, and household management. Nearly every girl in America took Home Ec in the 1950s and 1960s, learning fundamental kitchen skills.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-cookbooks-kitchen-15",
+      "question": "Which newspaper food editor at The New York Times became America's most influential food critic in the 1960s and 1970s?",
+      "options": [
+        "James Beard",
+        "M.F.K. Fisher",
+        "Craig Claiborne",
+        "Gourmet Magazine editors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Craig Claiborne was the food editor of The New York Times from 1957 to 1986. He introduced the restaurant star-rating system and elevated food writing to a respected art form.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

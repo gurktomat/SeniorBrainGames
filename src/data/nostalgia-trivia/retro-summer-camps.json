@@ -7,91 +7,166 @@
     {
       "id": "retro-summer-camps-1",
       "question": "What classic campfire treat is made by sandwiching melted marshmallow and chocolate between graham crackers?",
-      "options": ["Moon Pies", "S'mores", "Campfire cakes", "Trail mix bars"],
-      "correctAnswer": 1
+      "options": [
+        "Moon Pies",
+        "Campfire cakes",
+        "Trail mix bars",
+        "S'mores"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-summer-camps-2",
       "question": "What traditional camp song begins with 'I love you, you love me'?",
-      "options": ["Barney's Song", "Kumbaya", "This Land Is Your Land", "Michael Row the Boat Ashore"],
-      "correctAnswer": 1
+      "options": [
+        "Kumbaya",
+        "Barney's Song",
+        "Michael Row the Boat Ashore",
+        "This Land Is Your Land"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-summer-camps-3",
       "question": "What woven craft, made on a small loom with colorful loops, was a popular camp activity?",
-      "options": ["Macrame", "Pot holders", "Friendship bracelets", "Basket weaving"],
-      "correctAnswer": 1
+      "options": [
+        "Basket weaving",
+        "Friendship bracelets",
+        "Pot holders",
+        "Macrame"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-summer-camps-4",
       "question": "What classic camp activity involves telling spooky stories around a fire at night?",
-      "options": ["Ghost storytelling", "Campfire tales", "Night hikes", "Stargazing sessions"],
+      "options": [
+        "Stargazing sessions",
+        "Campfire tales",
+        "Night hikes",
+        "Ghost storytelling"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-summer-camps-5",
       "question": "What popular camp game involves one person being 'it' and trying to tag others?",
-      "options": ["Red Rover", "Capture the Flag", "Tag", "Kick the Can"],
-      "correctAnswer": 2
+      "options": [
+        "Kick the Can",
+        "Capture the Flag",
+        "Red Rover",
+        "Tag"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-summer-camps-6",
       "question": "Which scouting organization, founded in 1910, was closely associated with summer camp experiences for boys?",
-      "options": ["4-H Club", "Boy Scouts of America", "YMCA", "Campfire Girls"],
-      "correctAnswer": 1
+      "options": [
+        "Campfire Girls",
+        "4-H Club",
+        "Boy Scouts of America",
+        "YMCA"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-summer-camps-7",
       "question": "What outdoor team game involves two sides trying to retrieve a flag from the opposing team's territory?",
-      "options": ["Kick the Can", "Red Light Green Light", "Capture the Flag", "Sardines"],
-      "correctAnswer": 2
+      "options": [
+        "Sardines",
+        "Capture the Flag",
+        "Red Light Green Light",
+        "Kick the Can"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-summer-camps-8",
       "question": "What insect repellent concern was a constant companion at summer camps near lakes and forests?",
-      "options": ["Bees", "Mosquitoes", "Fireflies", "Butterflies"],
-      "correctAnswer": 1
+      "options": [
+        "Fireflies",
+        "Bees",
+        "Mosquitoes",
+        "Butterflies"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-summer-camps-9",
       "question": "What type of boat, often made of wood or aluminum, did campers learn to paddle on the lake?",
-      "options": ["Kayak", "Sailboat", "Canoe", "Speedboat"],
+      "options": [
+        "Kayak",
+        "Sailboat",
+        "Canoe",
+        "Speedboat"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-summer-camps-10",
       "question": "What camp craft activity involved pressing leaves or flowers into wax paper with an iron?",
-      "options": ["Leaf pressing", "Nature prints", "Wax paper pressing", "Herbarium making"],
-      "correctAnswer": 2
+      "options": [
+        "Herbarium making",
+        "Wax paper pressing",
+        "Nature prints",
+        "Leaf pressing"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-summer-camps-11",
       "question": "What was the name of the braided plastic lacing craft popular at summer camps, often used to make keychains?",
-      "options": ["Macrame", "Gimp or lanyard", "Crochet", "Knitting"],
-      "correctAnswer": 1
+      "options": [
+        "Crochet",
+        "Macrame",
+        "Gimp or lanyard",
+        "Knitting"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-summer-camps-12",
       "question": "What traditional camp song asks listeners to repeat each verse, adding an animal sound?",
-      "options": ["She'll Be Coming Round the Mountain", "Old MacDonald Had a Farm", "If You're Happy and You Know It", "The Wheels on the Bus"],
-      "correctAnswer": 1
+      "options": [
+        "She'll Be Coming Round the Mountain",
+        "If You're Happy and You Know It",
+        "The Wheels on the Bus",
+        "Old MacDonald Had a Farm"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-summer-camps-13",
       "question": "What swimming test did many camps require before allowing campers into deep water?",
-      "options": ["The buddy test", "The deep water swim test", "The floating test", "The diving challenge"],
-      "correctAnswer": 1
+      "options": [
+        "The floating test",
+        "The buddy test",
+        "The diving challenge",
+        "The deep water swim test"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-summer-camps-14",
       "question": "What classic camp prank involved freezing a sleeping camper's hand in warm water?",
-      "options": ["The bucket prank", "The warm water hand trick", "Short sheeting", "The snipe hunt"],
+      "options": [
+        "Short sheeting",
+        "The warm water hand trick",
+        "The snipe hunt",
+        "The bucket prank"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-summer-camps-15",
       "question": "What was the name of the imaginary animal that new campers were sent to hunt for at night as a prank?",
-      "options": ["The wild goose", "The jackalope", "The snipe", "The sasquatch"],
+      "options": [
+        "The sasquatch",
+        "The wild goose",
+        "The snipe",
+        "The jackalope"
+      ],
       "correctAnswer": 2
     }
   ]

@@ -1,0 +1,219 @@
+{
+  "id": "tennis-vocabulary",
+  "title": "Tennis Vocabulary",
+  "description": "Serve up your knowledge of tennis terms and lingo!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tennis-vocabulary-1",
+      "question": "In tennis, what is a 'let'?",
+      "options": [
+        "A fault on the second serve",
+        "A volley hit from behind the baseline",
+        "A serve that clips the net but lands in the correct service box, requiring a replay",
+        "A point won without the opponent touching the ball"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A let occurs when a serve touches the net cord but still lands in the correct service box. The serve is replayed without penalty.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-2",
+      "question": "What does 'deuce' mean in tennis scoring?",
+      "options": [
+        "The score is 30-30",
+        "The score is tied at 40-40",
+        "The second set of the match",
+        "A double fault"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deuce in tennis means the score is tied at 40-40. A player must win two consecutive points from deuce to win the game.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-3",
+      "question": "In tennis, what is a 'drop shot'?",
+      "options": [
+        "A shot hit from behind the body",
+        "A serve that drops below the net",
+        "A shot that bounces twice before the opponent reaches it",
+        "A softly hit shot that lands just over the net"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A drop shot is a softly struck ball designed to barely clear the net and land close to it, catching an opponent who is positioned far back.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-4",
+      "question": "What is an 'ace' in tennis?",
+      "options": [
+        "A shot hit down the middle of the court",
+        "A serve that the opponent cannot return at all",
+        "The first point of a tie-break",
+        "Winning a game without losing a point"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An ace is a legal serve that is not touched by the receiver, resulting in a point for the server. It is often hit with great speed or placement.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-5",
+      "question": "In tennis, what does 'break of serve' mean?",
+      "options": [
+        "Winning a game when the opponent is serving",
+        "A pause during the server's motion",
+        "A serve that breaks the strings",
+        "The interval between sets"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A break of serve occurs when the receiving player wins the game against the server, which is significant because the server has a natural advantage.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-6",
+      "question": "What is a 'topspin' shot in tennis?",
+      "options": [
+        "A shot where the ball spins backward, staying low",
+        "A lob hit high into the air",
+        "A shot where the ball spins forward, dipping quickly after crossing the net",
+        "A shot that floats without any spin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Topspin is forward rotation on the ball, created by brushing up on it. It causes the ball to dip sharply and bounce high, a key weapon in modern tennis.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-7",
+      "question": "In tennis, what is a 'bagel'?",
+      "options": [
+        "Winning a set 6-0",
+        "A round tournament trophy",
+        "A circular motion in the serve",
+        "A ball that spins in a circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A 'bagel' is slang for winning a set 6-0, because the zero resembles the shape of a bagel. A 'double bagel' means winning both sets 6-0.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-8",
+      "question": "What is the 'no-man's land' in tennis?",
+      "options": [
+        "The area between the baseline and the service line",
+        "The space directly under the net",
+        "The area outside the court lines",
+        "The area between the doubles and singles sidelines"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No-man's land is the area between the baseline and the service line, considered a vulnerable position because balls bounce at the player's feet.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-9",
+      "question": "In tennis, what is a 'volley'?",
+      "options": [
+        "A shot hit from behind the baseline",
+        "Hitting the ball before it bounces",
+        "A rally of more than ten shots",
+        "The opening shot of a game"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A volley is a shot made by hitting the ball before it bounces on the court, typically executed near the net.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-10",
+      "question": "What is a 'Grand Slam' in tennis?",
+      "options": [
+        "Winning a match without losing a single game",
+        "Winning any four tournaments in a year",
+        "Winning three sets in a row",
+        "Winning all four major tournaments in a calendar year"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Grand Slam in tennis means winning all four major championships (Australian Open, French Open, Wimbledon, US Open) in the same calendar year.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-11",
+      "question": "In tennis, what does 'advantage' mean?",
+      "options": [
+        "Serving from the preferred side",
+        "Having a higher ranking",
+        "Leading by two sets",
+        "The point scored immediately after deuce"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advantage is the point scored immediately after deuce (40-40). The player who wins this point has the 'advantage' and needs one more point to win the game.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-12",
+      "question": "What is a 'passing shot' in tennis?",
+      "options": [
+        "A shot played between the legs",
+        "A shot that passes just over the net",
+        "A groundstroke hit past an opponent who is at the net",
+        "A serve that passes the opponent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A passing shot is a groundstroke hit past an opponent who has come to the net, either down the line or cross-court, out of their reach.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-13",
+      "question": "In tennis, what is a 'tweener'?",
+      "options": [
+        "A match played between two teenagers",
+        "A ball landing on the line",
+        "A tie-break between sets",
+        "A shot hit between the legs while running away from the net"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tweener (or 'hotdog') is a trick shot hit between the player's legs, usually while running away from the net to retrieve a lob.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-14",
+      "question": "What does 'double fault' mean in tennis?",
+      "options": [
+        "Missing both the first and second serve",
+        "Two errors in a single rally",
+        "Two consecutive lets on a serve",
+        "Being penalized twice in one game"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A double fault occurs when a server fails to get either the first or second serve into play, resulting in the loss of that point.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "tennis-vocabulary-15",
+      "question": "In tennis, what is a 'lob'?",
+      "options": [
+        "A short forehand slice",
+        "A shot hit high into the air, intended to sail over an opponent at the net",
+        "A serve hit with backspin",
+        "A rally that lasts fewer than three shots"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A lob is a high-arcing shot intended to sail over the head of an opponent positioned at the net, either defensively to buy time or offensively to win the point.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

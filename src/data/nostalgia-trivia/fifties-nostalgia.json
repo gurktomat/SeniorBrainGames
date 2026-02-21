@@ -7,7 +7,12 @@
     {
       "id": "50s-fab-1",
       "question": "Which singer was known as 'The King of Rock and Roll'?",
-      "options": ["Chuck Berry", "Elvis Presley", "Buddy Holly", "Little Richard"],
+      "options": [
+        "Little Richard",
+        "Elvis Presley",
+        "Buddy Holly",
+        "Chuck Berry"
+      ],
       "correctAnswer": 1,
       "explanation": "Elvis Presley earned the title after hits like 'Heartbreak Hotel' and 'Hound Dog' made him the biggest star of the 1950s.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "50s-fab-2",
       "question": "What popular 1950s dance involved couples dancing in their socks on a gym floor?",
-      "options": ["The Twist", "The Sock Hop", "The Bop", "The Stroll"],
-      "correctAnswer": 1,
+      "options": [
+        "The Bop",
+        "The Stroll",
+        "The Twist",
+        "The Sock Hop"
+      ],
+      "correctAnswer": 3,
       "explanation": "Sock hops got their name because teens removed their shoes to protect gymnasium floors, dancing in just their socks.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -27,8 +37,13 @@
     {
       "id": "50s-fab-3",
       "question": "Which TV show featured Ricky and Lucy Ricardo?",
-      "options": ["The Honeymooners", "Father Knows Best", "I Love Lucy", "Leave It to Beaver"],
-      "correctAnswer": 2,
+      "options": [
+        "Leave It to Beaver",
+        "The Honeymooners",
+        "Father Knows Best",
+        "I Love Lucy"
+      ],
+      "correctAnswer": 3,
       "explanation": "I Love Lucy, starring Lucille Ball and Desi Arnaz, debuted in 1951 and became one of the most beloved sitcoms in television history.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -37,8 +52,13 @@
     {
       "id": "50s-fab-4",
       "question": "What was the name of the first satellite launched into space in 1957?",
-      "options": ["Explorer 1", "Vanguard 1", "Sputnik", "Luna 1"],
-      "correctAnswer": 2,
+      "options": [
+        "Explorer 1",
+        "Vanguard 1",
+        "Luna 1",
+        "Sputnik"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Soviet Union launched Sputnik on October 4, 1957, shocking the world and kicking off the Space Race.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -47,8 +67,13 @@
     {
       "id": "50s-fab-5",
       "question": "Which U.S. President served throughout most of the 1950s?",
-      "options": ["Harry Truman", "Dwight D. Eisenhower", "John F. Kennedy", "Richard Nixon"],
-      "correctAnswer": 1,
+      "options": [
+        "Harry Truman",
+        "Richard Nixon",
+        "Dwight D. Eisenhower",
+        "John F. Kennedy"
+      ],
+      "correctAnswer": 2,
       "explanation": "Eisenhower served as the 34th President from 1953 to 1961. He oversaw the construction of the Interstate Highway System.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -57,8 +82,13 @@
     {
       "id": "50s-fab-6",
       "question": "What 1955 James Dean movie became a symbol of teenage rebellion?",
-      "options": ["East of Eden", "Giant", "Rebel Without a Cause", "The Wild One"],
-      "correctAnswer": 2,
+      "options": [
+        "The Wild One",
+        "Rebel Without a Cause",
+        "Giant",
+        "East of Eden"
+      ],
+      "correctAnswer": 1,
       "explanation": "Rebel Without a Cause made James Dean an icon of youthful defiance. Tragically, Dean died in a car crash the same year the film was released.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -67,8 +97,13 @@
     {
       "id": "50s-fab-7",
       "question": "Which rock 'n' roll pioneer recorded 'Johnny B. Goode' in 1958?",
-      "options": ["Jerry Lee Lewis", "Fats Domino", "Chuck Berry", "Bo Diddley"],
-      "correctAnswer": 2,
+      "options": [
+        "Chuck Berry",
+        "Fats Domino",
+        "Bo Diddley",
+        "Jerry Lee Lewis"
+      ],
+      "correctAnswer": 0,
       "explanation": "Chuck Berry's 'Johnny B. Goode' is considered one of the most influential rock songs ever recorded and was included on the Voyager Golden Record sent into space.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -77,8 +112,13 @@
     {
       "id": "50s-fab-8",
       "question": "What new type of restaurant became wildly popular in 1950s America, often featuring carhop service?",
-      "options": ["Diners", "Drive-ins", "Cafeterias", "Automats"],
-      "correctAnswer": 1,
+      "options": [
+        "Cafeterias",
+        "Automats",
+        "Diners",
+        "Drive-ins"
+      ],
+      "correctAnswer": 3,
       "explanation": "Drive-in restaurants boomed in the 1950s, where carhops brought food right to your car window — a perfect match for America's growing car culture.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -87,8 +127,13 @@
     {
       "id": "50s-fab-9",
       "question": "Which TV host's variety show famously introduced Elvis Presley to a massive national audience in 1956?",
-      "options": ["Jack Paar", "Ed Sullivan", "Milton Berle", "Steve Allen"],
-      "correctAnswer": 1,
+      "options": [
+        "Ed Sullivan",
+        "Steve Allen",
+        "Milton Berle",
+        "Jack Paar"
+      ],
+      "correctAnswer": 0,
       "explanation": "Elvis appeared on The Ed Sullivan Show three times in 1956-57. His first appearance drew an estimated 60 million viewers — about 82% of the TV audience.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -97,8 +142,13 @@
     {
       "id": "50s-fab-10",
       "question": "What was the name of the toy that became a massive craze in 1958, with tens of millions sold in just months?",
-      "options": ["Slinky", "Frisbee", "Hula Hoop", "Mr. Potato Head"],
-      "correctAnswer": 2,
+      "options": [
+        "Slinky",
+        "Hula Hoop",
+        "Mr. Potato Head",
+        "Frisbee"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Hula Hoop, made by Wham-O, became one of the biggest fads of the decade. Over 25 million were sold in the first four months alone.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -107,8 +157,13 @@
     {
       "id": "50s-fab-11",
       "question": "Which 1950s TV show featured the Cleaver family and their sons Wally and 'The Beaver'?",
-      "options": ["The Donna Reed Show", "Ozzie and Harriet", "Father Knows Best", "Leave It to Beaver"],
-      "correctAnswer": 3,
+      "options": [
+        "The Donna Reed Show",
+        "Father Knows Best",
+        "Leave It to Beaver",
+        "Ozzie and Harriet"
+      ],
+      "correctAnswer": 2,
       "explanation": "Leave It to Beaver aired from 1957 to 1963 and became a defining image of idealized suburban American family life in the 1950s.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -117,8 +172,13 @@
     {
       "id": "50s-fab-12",
       "question": "On February 3, 1959, a plane crash killed Buddy Holly, Ritchie Valens, and which other musician?",
-      "options": ["Eddie Cochran", "The Big Bopper", "Gene Vincent", "Sam Cooke"],
-      "correctAnswer": 1,
+      "options": [
+        "Gene Vincent",
+        "Sam Cooke",
+        "The Big Bopper",
+        "Eddie Cochran"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Big Bopper (J.P. Richardson), known for 'Chantilly Lace,' died alongside Buddy Holly and Ritchie Valens. Don McLean later called it 'The Day the Music Died.'",
       "difficulty": "hard",
       "decade": "1950s",
@@ -127,7 +187,12 @@
     {
       "id": "50s-fab-13",
       "question": "What was the name of the 1954 Supreme Court case that declared racial segregation in public schools unconstitutional?",
-      "options": ["Plessy v. Ferguson", "Brown v. Board of Education", "Miranda v. Arizona", "Loving v. Virginia"],
+      "options": [
+        "Plessy v. Ferguson",
+        "Brown v. Board of Education",
+        "Loving v. Virginia",
+        "Miranda v. Arizona"
+      ],
       "correctAnswer": 1,
       "explanation": "Brown v. Board of Education was a landmark decision that overturned 'separate but equal' and became a cornerstone of the Civil Rights Movement.",
       "difficulty": "hard",
@@ -137,8 +202,13 @@
     {
       "id": "50s-fab-14",
       "question": "Which actress starred opposite Marlon Brando in 'A Streetcar Named Desire' (1951)?",
-      "options": ["Grace Kelly", "Vivien Leigh", "Audrey Hepburn", "Marilyn Monroe"],
-      "correctAnswer": 1,
+      "options": [
+        "Vivien Leigh",
+        "Marilyn Monroe",
+        "Grace Kelly",
+        "Audrey Hepburn"
+      ],
+      "correctAnswer": 0,
       "explanation": "Vivien Leigh won her second Academy Award for Best Actress for her portrayal of Blanche DuBois in the film adaptation of Tennessee Williams' play.",
       "difficulty": "hard",
       "decade": "1950s",
@@ -147,8 +217,13 @@
     {
       "id": "50s-fab-15",
       "question": "Which quiz show scandal rocked television in 1958, involving contestant Charles Van Doren?",
-      "options": ["The $64,000 Question", "What's My Line?", "Twenty-One", "Dotto"],
-      "correctAnswer": 2,
+      "options": [
+        "Twenty-One",
+        "What's My Line?",
+        "Dotto",
+        "The $64,000 Question"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Twenty-One scandal revealed that producers had been feeding answers to contestants. The story was later dramatized in the 1994 Robert Redford film 'Quiz Show.'",
       "difficulty": "hard",
       "decade": "1950s",

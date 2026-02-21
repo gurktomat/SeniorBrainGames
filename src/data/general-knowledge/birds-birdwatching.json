@@ -7,7 +7,12 @@
     {
       "id": "bird-1",
       "question": "What is the only bird that can fly backward?",
-      "options": ["Kingfisher", "Hummingbird", "Swallow", "Wren"],
+      "options": [
+        "Swallow",
+        "Hummingbird",
+        "Kingfisher",
+        "Wren"
+      ],
       "correctAnswer": 1,
       "explanation": "Hummingbirds are the only birds that can sustain backward flight. Their unique ball-and-socket shoulder joint allows their wings to rotate 180 degrees, enabling them to hover and fly in any direction.",
       "difficulty": "easy",
@@ -16,7 +21,12 @@
     {
       "id": "bird-2",
       "question": "What color is a male Northern Cardinal?",
-      "options": ["Blue", "Yellow", "Bright red", "Orange"],
+      "options": [
+        "Orange",
+        "Yellow",
+        "Bright red",
+        "Blue"
+      ],
       "correctAnswer": 2,
       "explanation": "Male Northern Cardinals are a brilliant bright red from crest to tail. Females are a warm brown with reddish tinges on the wings, tail, and crest. Cardinals are one of the most recognized backyard birds in North America.",
       "difficulty": "easy",
@@ -25,7 +35,12 @@
     {
       "id": "bird-3",
       "question": "Which bird is known as the symbol of the United States?",
-      "options": ["Golden Eagle", "Red-tailed Hawk", "Bald Eagle", "Peregrine Falcon"],
+      "options": [
+        "Red-tailed Hawk",
+        "Peregrine Falcon",
+        "Bald Eagle",
+        "Golden Eagle"
+      ],
       "correctAnswer": 2,
       "explanation": "The Bald Eagle was chosen as the national emblem of the United States in 1782. Despite its name, the Bald Eagle is not actually bald — its white-feathered head contrasts with its dark brown body.",
       "difficulty": "easy",
@@ -34,8 +49,13 @@
     {
       "id": "bird-4",
       "question": "What type of food is best to put in a backyard bird feeder to attract the widest variety of birds?",
-      "options": ["Bread crumbs", "Black oil sunflower seeds", "Corn kernels", "Rice"],
-      "correctAnswer": 1,
+      "options": [
+        "Black oil sunflower seeds",
+        "Rice",
+        "Bread crumbs",
+        "Corn kernels"
+      ],
+      "correctAnswer": 0,
       "explanation": "Black oil sunflower seeds are considered the single best food for bird feeders because they attract the greatest variety of birds. Their thin shells are easy for small birds to crack, and they have a high fat content that provides excellent energy.",
       "difficulty": "easy",
       "category": "nature"
@@ -43,7 +63,12 @@
     {
       "id": "bird-5",
       "question": "Which common backyard bird is known for its bright blue feathers and loud, jay-like call?",
-      "options": ["Eastern Bluebird", "Blue Jay", "Indigo Bunting", "Blue Grosbeak"],
+      "options": [
+        "Blue Grosbeak",
+        "Blue Jay",
+        "Indigo Bunting",
+        "Eastern Bluebird"
+      ],
       "correctAnswer": 1,
       "explanation": "The Blue Jay is one of the most recognizable backyard birds in eastern North America, known for its striking blue, white, and black plumage and its loud, distinctive calls. Blue Jays are intelligent birds that can mimic hawk calls.",
       "difficulty": "easy",
@@ -52,8 +77,13 @@
     {
       "id": "bird-6",
       "question": "What is the term for a bird's annual journey between breeding and wintering grounds?",
-      "options": ["Hibernation", "Migration", "Dispersal", "Nomadism"],
-      "correctAnswer": 1,
+      "options": [
+        "Dispersal",
+        "Nomadism",
+        "Hibernation",
+        "Migration"
+      ],
+      "correctAnswer": 3,
       "explanation": "Migration is the seasonal movement of birds between breeding and wintering areas. The Arctic Tern holds the record for the longest migration, traveling roughly 44,000 miles round trip from Arctic to Antarctic each year.",
       "difficulty": "easy",
       "category": "nature"
@@ -61,8 +91,13 @@
     {
       "id": "bird-7",
       "question": "The American Robin is a sure sign of spring for many people. What does it primarily eat?",
-      "options": ["Seeds and nuts", "Earthworms and insects", "Small fish", "Flower nectar"],
-      "correctAnswer": 1,
+      "options": [
+        "Flower nectar",
+        "Seeds and nuts",
+        "Small fish",
+        "Earthworms and insects"
+      ],
+      "correctAnswer": 3,
       "explanation": "American Robins are famous for pulling earthworms from lawns. They also eat insects and berries. Robins tilt their heads to the side when hunting on the ground — they are actually using their keen eyesight (not hearing) to spot worms.",
       "difficulty": "medium",
       "category": "nature"
@@ -70,7 +105,12 @@
     {
       "id": "bird-8",
       "question": "Which bird builds the largest nest of any North American bird, sometimes weighing over a ton?",
-      "options": ["Great Blue Heron", "Bald Eagle", "Osprey", "California Condor"],
+      "options": [
+        "California Condor",
+        "Bald Eagle",
+        "Great Blue Heron",
+        "Osprey"
+      ],
       "correctAnswer": 1,
       "explanation": "Bald Eagles build the largest nests of any North American bird. They add to the same nest year after year, and some nests have been measured at over 9 feet across, 20 feet deep, and weighing more than 2 tons.",
       "difficulty": "medium",
@@ -79,8 +119,13 @@
     {
       "id": "bird-9",
       "question": "Which state bird is the Northern Mockingbird?",
-      "options": ["California", "New York", "Texas", "All of these — it is the state bird of five states"],
-      "correctAnswer": 3,
+      "options": [
+        "Texas",
+        "All of these — it is the state bird of five states",
+        "New York",
+        "California"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Northern Mockingbird is the state bird of five states: Arkansas, Florida, Mississippi, Tennessee, and Texas. It is famous for its ability to mimic the songs of other birds, often learning over 200 different songs in its lifetime.",
       "difficulty": "medium",
       "category": "nature"
@@ -88,8 +133,13 @@
     {
       "id": "bird-10",
       "question": "How fast can a Peregrine Falcon dive when hunting prey?",
-      "options": ["Up to 60 mph", "Up to 120 mph", "Over 240 mph", "Over 350 mph"],
-      "correctAnswer": 2,
+      "options": [
+        "Over 240 mph",
+        "Up to 120 mph",
+        "Over 350 mph",
+        "Up to 60 mph"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Peregrine Falcon is the fastest animal on Earth. During its hunting stoop (high-speed dive), it can reach speeds exceeding 240 mph. It tucks its wings close to its body to reduce drag and strikes prey mid-air with incredible force.",
       "difficulty": "medium",
       "category": "nature"
@@ -97,8 +147,13 @@
     {
       "id": "bird-11",
       "question": "What unique adaptation allows woodpeckers to peck at trees without getting brain damage?",
-      "options": ["A very small brain", "Extra-thick skull bone", "A spongy bone structure and a long tongue that wraps around the skull", "Fluid-filled sacs around the brain"],
-      "correctAnswer": 2,
+      "options": [
+        "A spongy bone structure and a long tongue that wraps around the skull",
+        "Extra-thick skull bone",
+        "Fluid-filled sacs around the brain",
+        "A very small brain"
+      ],
+      "correctAnswer": 0,
       "explanation": "Woodpeckers have several adaptations to absorb shock: spongy bone in the skull, a hyoid bone (tongue structure) that wraps around the skull acting as a seatbelt, and strong neck muscles. These features distribute the impact force and protect the brain.",
       "difficulty": "medium",
       "category": "nature"
@@ -106,7 +161,12 @@
     {
       "id": "bird-12",
       "question": "Which owl species is known for its distinctive \"who cooks for you\" call?",
-      "options": ["Great Horned Owl", "Barn Owl", "Barred Owl", "Screech Owl"],
+      "options": [
+        "Great Horned Owl",
+        "Barn Owl",
+        "Barred Owl",
+        "Screech Owl"
+      ],
       "correctAnswer": 2,
       "explanation": "The Barred Owl has a distinctive call that birders remember as \"Who cooks for you? Who cooks for you all?\" They are large, stocky owls with brown and white barred plumage found in forests across eastern North America.",
       "difficulty": "hard",
@@ -115,8 +175,13 @@
     {
       "id": "bird-13",
       "question": "The Ruby-throated Hummingbird makes an incredible non-stop flight across which body of water during migration?",
-      "options": ["The Atlantic Ocean", "The Pacific Ocean", "The Gulf of Mexico", "The Caribbean Sea"],
-      "correctAnswer": 2,
+      "options": [
+        "The Gulf of Mexico",
+        "The Atlantic Ocean",
+        "The Caribbean Sea",
+        "The Pacific Ocean"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ruby-throated Hummingbirds make a non-stop flight of roughly 500 miles across the Gulf of Mexico during their spring and fall migrations. Despite weighing only about 3 grams, they accomplish this feat by building up fat reserves beforehand.",
       "difficulty": "hard",
       "category": "nature"
@@ -124,8 +189,13 @@
     {
       "id": "bird-14",
       "question": "What is the term for a group of crows?",
-      "options": ["A flock", "A murder", "A parliament", "A colony"],
-      "correctAnswer": 1,
+      "options": [
+        "A murder",
+        "A colony",
+        "A flock",
+        "A parliament"
+      ],
+      "correctAnswer": 0,
       "explanation": "A group of crows is called a murder. This term dates back to the 15th century and may be linked to folklore associating crows with death. Crows are extremely intelligent birds that can use tools, recognize human faces, and even hold grudges.",
       "difficulty": "hard",
       "category": "nature"
@@ -133,8 +203,13 @@
     {
       "id": "bird-15",
       "question": "Which now-extinct bird, once numbering in the billions, was the most abundant bird in North America before being hunted to extinction by 1914?",
-      "options": ["Carolina Parakeet", "Dodo", "Passenger Pigeon", "Great Auk"],
-      "correctAnswer": 2,
+      "options": [
+        "Passenger Pigeon",
+        "Carolina Parakeet",
+        "Dodo",
+        "Great Auk"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Passenger Pigeon once numbered between 3 and 5 billion birds, making it the most abundant bird in North America. Massive commercial hunting and habitat destruction drove it to extinction. The last known Passenger Pigeon, named Martha, died at the Cincinnati Zoo on September 1, 1914.",
       "difficulty": "hard",
       "category": "nature"

@@ -7,92 +7,167 @@
     {
       "id": "classic-movie-monsters-1",
       "question": "Which actor is most famously associated with playing Frankenstein's Monster in the 1931 Universal horror film?",
-      "options": ["Bela Lugosi", "Boris Karloff", "Lon Chaney Jr.", "Vincent Price"],
+      "options": [
+        "Vincent Price",
+        "Boris Karloff",
+        "Bela Lugosi",
+        "Lon Chaney Jr."
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-2",
       "question": "Bela Lugosi became a horror icon for his portrayal of which vampire count in the 1931 Universal film?",
-      "options": ["Count Orlok", "Count Dracula", "Baron Blood", "Count Yorga"],
-      "correctAnswer": 1
+      "options": [
+        "Count Yorga",
+        "Count Orlok",
+        "Count Dracula",
+        "Baron Blood"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-movie-monsters-3",
       "question": "In the original 1932 film 'The Mummy,' Boris Karloff played an ancient Egyptian priest named what?",
-      "options": ["Anubis", "Imhotep", "Kharis", "Tut"],
+      "options": [
+        "Kharis",
+        "Imhotep",
+        "Tut",
+        "Anubis"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-4",
       "question": "Which classic monster, first appearing in a 1941 Universal film, transforms from a man into a beast during a full moon?",
-      "options": ["The Phantom", "The Creature", "The Wolf Man", "The Invisible Man"],
+      "options": [
+        "The Invisible Man",
+        "The Creature",
+        "The Wolf Man",
+        "The Phantom"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-movie-monsters-5",
       "question": "Lon Chaney Jr. played Larry Talbot, who becomes which famous Universal monster after being bitten?",
-      "options": ["Dracula", "The Mummy", "The Wolf Man", "Frankenstein's Monster"],
-      "correctAnswer": 2
+      "options": [
+        "The Mummy",
+        "The Wolf Man",
+        "Frankenstein's Monster",
+        "Dracula"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-6",
       "question": "Which amphibious creature from a 1954 Universal film was discovered in the Amazon's Black Lagoon?",
-      "options": ["The Gill Man (Creature from the Black Lagoon)", "The Blob", "The Thing", "Godzilla"],
-      "correctAnswer": 0
+      "options": [
+        "The Blob",
+        "The Gill Man (Creature from the Black Lagoon)",
+        "The Thing",
+        "Godzilla"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-7",
       "question": "Who played the title role in the 1933 horror classic 'The Invisible Man'?",
-      "options": ["Boris Karloff", "Bela Lugosi", "Claude Rains", "Peter Lorre"],
-      "correctAnswer": 2
+      "options": [
+        "Boris Karloff",
+        "Claude Rains",
+        "Bela Lugosi",
+        "Peter Lorre"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-8",
       "question": "Which silent film actor, known as 'The Man of a Thousand Faces,' starred in the original 'Phantom of the Opera' (1925)?",
-      "options": ["Lon Chaney Sr.", "Conrad Veidt", "Max Schreck", "John Barrymore"],
+      "options": [
+        "Lon Chaney Sr.",
+        "John Barrymore",
+        "Conrad Veidt",
+        "Max Schreck"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "classic-movie-monsters-9",
       "question": "In the 1931 'Frankenstein,' where does Dr. Frankenstein bring his monster to life?",
-      "options": ["A cemetery", "A castle laboratory", "A hospital basement", "An abandoned church"],
-      "correctAnswer": 1
+      "options": [
+        "A castle laboratory",
+        "A cemetery",
+        "A hospital basement",
+        "An abandoned church"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-movie-monsters-10",
       "question": "What material was traditionally said to be lethal to werewolves in classic monster movies?",
-      "options": ["Gold", "Iron", "Silver", "Copper"],
-      "correctAnswer": 2
+      "options": [
+        "Gold",
+        "Copper",
+        "Iron",
+        "Silver"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-movie-monsters-11",
       "question": "Which giant Japanese movie monster, first appearing in 1954, became one of cinema's most iconic creatures?",
-      "options": ["Mothra", "Rodan", "Godzilla", "King Ghidorah"],
+      "options": [
+        "King Ghidorah",
+        "Rodan",
+        "Godzilla",
+        "Mothra"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-movie-monsters-12",
       "question": "In vampire lore as shown in classic films, what common items could be used to repel Dracula?",
-      "options": ["Salt and iron", "Garlic and crucifixes", "Holy water only", "Silver mirrors"],
+      "options": [
+        "Salt and iron",
+        "Garlic and crucifixes",
+        "Holy water only",
+        "Silver mirrors"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-13",
       "question": "Which 1935 Universal sequel featured the monster's mate, with her iconic lightning-bolt streaked hair?",
-      "options": ["Son of Frankenstein", "Bride of Frankenstein", "Ghost of Frankenstein", "House of Frankenstein"],
+      "options": [
+        "House of Frankenstein",
+        "Bride of Frankenstein",
+        "Son of Frankenstein",
+        "Ghost of Frankenstein"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-movie-monsters-14",
       "question": "Which actor became famous for hosting horror movies on TV and starring in numerous Edgar Allan Poe adaptations?",
-      "options": ["Boris Karloff", "Peter Cushing", "Vincent Price", "Christopher Lee"],
-      "correctAnswer": 2
+      "options": [
+        "Vincent Price",
+        "Boris Karloff",
+        "Christopher Lee",
+        "Peter Cushing"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-movie-monsters-15",
       "question": "In the 1933 classic 'King Kong,' atop which famous New York City building does King Kong make his last stand?",
-      "options": ["Chrysler Building", "Empire State Building", "Woolworth Building", "Statue of Liberty"],
-      "correctAnswer": 1
+      "options": [
+        "Woolworth Building",
+        "Chrysler Building",
+        "Empire State Building",
+        "Statue of Liberty"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

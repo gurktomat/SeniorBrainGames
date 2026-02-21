@@ -9,20 +9,20 @@
       "question": "What is the capital of Myanmar (formerly Burma)?",
       "options": [
         "Yangon",
-        "Mandalay",
         "Naypyidaw",
-        "Bagan"
+        "Bagan",
+        "Mandalay"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-capitals-advanced-2",
       "question": "What is the capital of Mongolia?",
       "options": [
-        "Astana",
-        "Ulaanbaatar",
         "Bishkek",
-        "Tashkent"
+        "Ulaanbaatar",
+        "Tashkent",
+        "Astana"
       ],
       "correctAnswer": 1
     },
@@ -32,63 +32,63 @@
       "options": [
         "Colombo",
         "Kandy",
-        "Sri Jayawardenepura Kotte",
-        "Galle"
+        "Galle",
+        "Sri Jayawardenepura Kotte"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-advanced-4",
       "question": "What is the capital of Liechtenstein?",
       "options": [
-        "Zurich",
-        "Vaduz",
         "Luxembourg",
-        "Monaco"
+        "Zurich",
+        "Monaco",
+        "Vaduz"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-advanced-5",
       "question": "What is the capital of Madagascar?",
       "options": [
         "Maputo",
+        "Lusaka",
         "Antananarivo",
-        "Nairobi",
-        "Lusaka"
+        "Nairobi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-capitals-advanced-6",
       "question": "What is the capital of Bhutan?",
       "options": [
+        "Lhasa",
         "Kathmandu",
         "Thimphu",
-        "Dhaka",
-        "Lhasa"
+        "Dhaka"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-capitals-advanced-7",
       "question": "What is the capital of Suriname?",
       "options": [
-        "Georgetown",
-        "Cayenne",
         "Paramaribo",
-        "Bogota"
+        "Georgetown",
+        "Bogota",
+        "Cayenne"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-advanced-8",
       "question": "What is the capital of Laos?",
       "options": [
         "Phnom Penh",
-        "Hanoi",
+        "Bangkok",
         "Vientiane",
-        "Bangkok"
+        "Hanoi"
       ],
       "correctAnswer": 2
     },
@@ -96,32 +96,32 @@
       "id": "world-capitals-advanced-9",
       "question": "What is the capital of Eritrea?",
       "options": [
-        "Mogadishu",
-        "Djibouti",
         "Asmara",
+        "Djibouti",
+        "Mogadishu",
         "Addis Ababa"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-advanced-10",
       "question": "What is the capital of Malta?",
       "options": [
         "Nicosia",
-        "Valletta",
         "Ljubljana",
-        "Podgorica"
+        "Podgorica",
+        "Valletta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-advanced-11",
       "question": "What is the capital of Brunei?",
       "options": [
-        "Kuala Lumpur",
-        "Bandar Seri Begawan",
         "Jakarta",
-        "Manila"
+        "Bandar Seri Begawan",
+        "Manila",
+        "Kuala Lumpur"
       ],
       "correctAnswer": 1
     },
@@ -129,45 +129,45 @@
       "id": "world-capitals-advanced-12",
       "question": "What is the capital of Burkina Faso?",
       "options": [
-        "Bamako",
         "Niamey",
-        "Ouagadougou",
-        "Lome"
+        "Bamako",
+        "Lome",
+        "Ouagadougou"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-advanced-13",
       "question": "What is the capital of Moldova?",
       "options": [
-        "Bucharest",
         "Chisinau",
         "Minsk",
-        "Kyiv"
+        "Kyiv",
+        "Bucharest"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-advanced-14",
       "question": "What is the capital of Fiji?",
       "options": [
-        "Apia",
         "Nuku'alofa",
         "Suva",
-        "Port Vila"
+        "Port Vila",
+        "Apia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-capitals-advanced-15",
       "question": "What is the capital of Azerbaijan?",
       "options": [
-        "Tbilisi",
-        "Yerevan",
         "Baku",
+        "Yerevan",
+        "Tbilisi",
         "Ashgabat"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

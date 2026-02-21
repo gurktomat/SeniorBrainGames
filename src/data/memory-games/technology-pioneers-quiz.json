@@ -1,0 +1,173 @@
+{
+  "id": "technology-pioneers-quiz",
+  "title": "Technology Pioneers Quiz",
+  "description": "How well do you remember the visionaries who shaped the modern tech world? Test your knowledge of technology pioneers!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "technology-pioneers-quiz-1",
+      "question": "Who co-founded Apple Computer in 1976?",
+      "options": [
+        "Steve Jobs and Steve Wozniak",
+        "Michael Dell",
+        "Bill Gates and Paul Allen",
+        "Larry Page and Sergey Brin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "technology-pioneers-quiz-2",
+      "question": "Who is known as the 'father of the computer'?",
+      "options": [
+        "Konrad Zuse",
+        "John von Neumann",
+        "Charles Babbage",
+        "Alan Turing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "technology-pioneers-quiz-3",
+      "question": "Which woman is considered the first computer programmer?",
+      "options": [
+        "Margaret Hamilton",
+        "Hedy Lamarr",
+        "Grace Hopper",
+        "Ada Lovelace"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "technology-pioneers-quiz-4",
+      "question": "Who co-founded Microsoft with Bill Gates in 1975?",
+      "options": [
+        "Steve Ballmer",
+        "John Warnock",
+        "Paul Allen",
+        "Gordon Moore"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "technology-pioneers-quiz-5",
+      "question": "Which pioneer developed the first alternating current (AC) electrical system?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "George Westinghouse",
+        "Michael Faraday"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "technology-pioneers-quiz-6",
+      "question": "Who founded Amazon in 1994?",
+      "options": [
+        "Elon Musk",
+        "Jeff Bezos",
+        "Jack Ma",
+        "Mark Zuckerberg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "technology-pioneers-quiz-7",
+      "question": "Grace Hopper is credited with popularizing the term 'bug' in computing. What branch of service was she in?",
+      "options": [
+        "Air Force",
+        "Navy",
+        "Army",
+        "Marines"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "technology-pioneers-quiz-8",
+      "question": "Who invented the first practical wireless telegraph (radio)?",
+      "options": [
+        "Nikola Tesla",
+        "Heinrich Hertz",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "technology-pioneers-quiz-9",
+      "question": "Which inventor held over 1,000 US patents and created the first research laboratory?",
+      "options": [
+        "Nikola Tesla",
+        "Benjamin Franklin",
+        "Thomas Edison",
+        "Alexander Graham Bell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "technology-pioneers-quiz-10",
+      "question": "Who co-founded Google in 1998?",
+      "options": [
+        "Larry Page and Sergey Brin",
+        "Mark Zuckerberg and Eduardo Saverin",
+        "Steve Jobs and Steve Wozniak",
+        "Jeff Bezos and Tim Cook"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "technology-pioneers-quiz-11",
+      "question": "Who is credited with inventing the first electronic general-purpose computer (ENIAC)?",
+      "options": [
+        "John Mauchly and J. Presper Eckert",
+        "Alan Turing",
+        "Konrad Zuse",
+        "Charles Babbage"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "technology-pioneers-quiz-12",
+      "question": "Which pioneer created the Linux operating system kernel?",
+      "options": [
+        "Dennis Ritchie",
+        "Ken Thompson",
+        "Richard Stallman",
+        "Linus Torvalds"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "technology-pioneers-quiz-13",
+      "question": "Who is known for developing the concept of the 'Turing Machine'?",
+      "options": [
+        "Claude Shannon",
+        "Alan Turing",
+        "John von Neumann",
+        "Alonzo Church"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "technology-pioneers-quiz-14",
+      "question": "Who invented the first commercially successful sewing machine?",
+      "options": [
+        "Elias Howe",
+        "Walter Hunt",
+        "Isaac Singer",
+        "Barthélemy Thimonnier"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "technology-pioneers-quiz-15",
+      "question": "Which pioneer developed the first successful electric battery in 1800?",
+      "options": [
+        "Benjamin Franklin",
+        "Luigi Galvani",
+        "Alessandro Volta",
+        "Michael Faraday"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

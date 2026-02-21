@@ -7,92 +7,167 @@
     {
       "id": "malapropisms-quiz-1",
       "question": "Someone says: 'For all intensive purposes, we should proceed.' Which word is the malapropism?",
-      "options": ["Intensive (should be intents and)", "Proceed (should be precede)", "Purposes (should be porpoises)", "All (should be our)"],
+      "options": [
+        "Intensive (should be intents and)",
+        "All (should be our)",
+        "Proceed (should be precede)",
+        "Purposes (should be porpoises)"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-2",
       "question": "'He's a wolf in cheap clothing.' What word is misused?",
-      "options": ["Wolf (should be fox)", "Cheap (should be sheep's)", "Clothing (should be cloth)", "In (should be with)"],
-      "correctAnswer": 1
+      "options": [
+        "In (should be with)",
+        "Clothing (should be cloth)",
+        "Wolf (should be fox)",
+        "Cheap (should be sheep's)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "malapropisms-quiz-3",
       "question": "'I could care less about the outcome.' What should the phrase actually be?",
-      "options": ["I could care more", "I couldn't care less", "I would care less", "I should care less"],
-      "correctAnswer": 1
+      "options": [
+        "I couldn't care less",
+        "I should care less",
+        "I would care less",
+        "I could care more"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-4",
       "question": "'She's the pineapple of politeness.' Which word is the malapropism?",
-      "options": ["Pineapple (should be pinnacle)", "Politeness (should be politics)", "She's (should be he's)", "The (should be a)"],
+      "options": [
+        "Pineapple (should be pinnacle)",
+        "Politeness (should be politics)",
+        "The (should be a)",
+        "She's (should be he's)"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-5",
       "question": "'It's a doggy-dog world out there.' What is the correct expression?",
-      "options": ["A foggy-fog world", "A dog-eat-dog world", "A soggy-dog world", "A doggy-log world"],
-      "correctAnswer": 1
+      "options": [
+        "A dog-eat-dog world",
+        "A foggy-fog world",
+        "A soggy-dog world",
+        "A doggy-log world"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-6",
       "question": "'He passed away from prostrate cancer.' Which word is misused?",
-      "options": ["Passed (should be perished)", "Away (should be on)", "Prostrate (should be prostate)", "Cancer (should be disease)"],
-      "correctAnswer": 2
+      "options": [
+        "Cancer (should be disease)",
+        "Passed (should be perished)",
+        "Away (should be on)",
+        "Prostrate (should be prostate)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "malapropisms-quiz-7",
       "question": "'I need to pacifically tell you something.' What should the word be?",
-      "options": ["Practically", "Specifically", "Prolifically", "Magnificently"],
-      "correctAnswer": 1
+      "options": [
+        "Prolifically",
+        "Magnificently",
+        "Specifically",
+        "Practically"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "malapropisms-quiz-8",
       "question": "'Texas has a lot of electrical votes.' Which word is the malapropism?",
-      "options": ["Texas (should be taxes)", "Electrical (should be electoral)", "Votes (should be volts)", "Lot (should be lack)"],
-      "correctAnswer": 1
+      "options": [
+        "Electrical (should be electoral)",
+        "Texas (should be taxes)",
+        "Votes (should be volts)",
+        "Lot (should be lack)"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-9",
       "question": "'She made a real Pacific Ocean of herself.' What was the intended phrase?",
-      "options": ["A real specification of herself", "A real pacification of herself", "A real spectacle of herself", "A real participle of herself"],
-      "correctAnswer": 2
+      "options": [
+        "A real pacification of herself",
+        "A real specification of herself",
+        "A real participle of herself",
+        "A real spectacle of herself"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "malapropisms-quiz-10",
       "question": "'The doctor said I have very close veins.' What is the correct medical term?",
-      "options": ["Closed veins", "Varicose veins", "Viscose veins", "Verbose veins"],
-      "correctAnswer": 1
+      "options": [
+        "Closed veins",
+        "Verbose veins",
+        "Varicose veins",
+        "Viscose veins"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "malapropisms-quiz-11",
       "question": "'He's a very escape goat in this situation.' What should the phrase be?",
-      "options": ["Escape route", "Escaped goat", "Scapegoat", "Escape boat"],
-      "correctAnswer": 2
+      "options": [
+        "Escape boat",
+        "Escape route",
+        "Escaped goat",
+        "Scapegoat"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "malapropisms-quiz-12",
       "question": "'I take it for granite that things will work out.' Which word is misused?",
-      "options": ["Take (should be make)", "Granite (should be granted)", "Things (should be thinks)", "Work (should be turn)"],
+      "options": [
+        "Take (should be make)",
+        "Granite (should be granted)",
+        "Things (should be thinks)",
+        "Work (should be turn)"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "malapropisms-quiz-13",
       "question": "'She has a photogenic memory.' What should the word be?",
-      "options": ["Photographic", "Phonetic", "Pathogenic", "Phylogenic"],
+      "options": [
+        "Photographic",
+        "Pathogenic",
+        "Phonetic",
+        "Phylogenic"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "malapropisms-quiz-14",
       "question": "'We need to nip it in the butt.' What is the correct expression?",
-      "options": ["Nip it in the bud", "Nip it in the gut", "Rip it in the butt", "Clip it in the butt"],
-      "correctAnswer": 0
+      "options": [
+        "Rip it in the butt",
+        "Clip it in the butt",
+        "Nip it in the gut",
+        "Nip it in the bud"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "malapropisms-quiz-15",
       "question": "'He's suffering from Old Timer's disease.' What is the correct term?",
-      "options": ["Old-fashioned disease", "Alzheimer's disease", "Old-timers disorder", "Altimeter's disease"],
-      "correctAnswer": 1
+      "options": [
+        "Old-timers disorder",
+        "Altimeter's disease",
+        "Alzheimer's disease",
+        "Old-fashioned disease"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

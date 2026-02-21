@@ -1,0 +1,173 @@
+{
+  "id": "famous-bands-recall",
+  "title": "Famous Bands Recall",
+  "description": "How well do you remember the greatest bands in music history?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-bands-recall-1",
+      "question": "Which band was originally known as 'The Quarrymen'?",
+      "options": [
+        "The Kinks",
+        "The Rolling Stones",
+        "The Who",
+        "The Beatles"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-2",
+      "question": "Who was the lead guitarist of Led Zeppelin?",
+      "options": [
+        "Jeff Beck",
+        "Jimmy Page",
+        "Eric Clapton",
+        "Jimi Hendrix"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-bands-recall-3",
+      "question": "Which band released the hit song 'Bohemian Rhapsody'?",
+      "options": [
+        "Genesis",
+        "Pink Floyd",
+        "Yes",
+        "Queen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-4",
+      "question": "How many original members were in The Beach Boys?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-5",
+      "question": "Which band's drummer was Keith Moon?",
+      "options": [
+        "Led Zeppelin",
+        "The Rolling Stones",
+        "Cream",
+        "The Who"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-6",
+      "question": "Mick Jagger is the frontman of which legendary band?",
+      "options": [
+        "The Yardbirds",
+        "The Rolling Stones",
+        "The Kinks",
+        "The Animals"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-bands-recall-7",
+      "question": "Which band released the album 'The Joshua Tree'?",
+      "options": [
+        "Radiohead",
+        "U2",
+        "R.E.M.",
+        "Coldplay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-bands-recall-8",
+      "question": "The Bee Gees were originally from which country?",
+      "options": [
+        "Australia",
+        "United States",
+        "England",
+        "Ireland"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-bands-recall-9",
+      "question": "Which band featured the songwriting duo of Lennon and McCartney?",
+      "options": [
+        "The Beatles",
+        "The Everly Brothers",
+        "The Righteous Brothers",
+        "Simon & Garfunkel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-bands-recall-10",
+      "question": "Which country did ABBA originate from?",
+      "options": [
+        "Finland",
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-11",
+      "question": "Who was the lead singer of The Doors?",
+      "options": [
+        "Janis Joplin",
+        "Robert Plant",
+        "Roger Daltrey",
+        "Jim Morrison"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-12",
+      "question": "Which band is known for the songs 'Comfortably Numb' and 'Wish You Were Here'?",
+      "options": [
+        "Pink Floyd",
+        "King Crimson",
+        "Genesis",
+        "Jethro Tull"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-bands-recall-13",
+      "question": "Freddie Mercury was born in which country?",
+      "options": [
+        "India",
+        "Zanzibar (Tanzania)",
+        "England",
+        "Iran"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-bands-recall-14",
+      "question": "Which band recorded the song 'Don't Stop Believin''?",
+      "options": [
+        "Styx",
+        "Foreigner",
+        "REO Speedwagon",
+        "Journey"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-bands-recall-15",
+      "question": "Which band was inducted into the Rock and Roll Hall of Fame in 1995 on their first year of eligibility?",
+      "options": [
+        "Led Zeppelin",
+        "The Allman Brothers Band",
+        "The Grateful Dead",
+        "Pink Floyd"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

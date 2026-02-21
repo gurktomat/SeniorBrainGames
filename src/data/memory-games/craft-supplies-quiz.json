@@ -1,0 +1,174 @@
+{
+  "id": "craft-supplies-quiz",
+  "title": "Craft Supplies Quiz",
+  "description": "Do you know your craft supplies? Test your knowledge of materials used in arts, crafts, and creative projects.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "craft-supplies-quiz-1",
+      "question": "What craft supply is a thin, flexible wire covered in fuzzy fiber, often used by children for crafts?",
+      "options": [
+        "Ribbon",
+        "Floral wire",
+        "Pipe cleaner (chenille stem)",
+        "Yarn"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "craft-supplies-quiz-2",
+      "question": "Which adhesive is a milky white glue that dries clear, commonly used for paper and wood crafts?",
+      "options": [
+        "PVA glue (white glue/Elmer's)",
+        "Rubber cement",
+        "Hot glue",
+        "Super glue"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "craft-supplies-quiz-3",
+      "question": "What craft tool uses heated adhesive sticks to bond materials together?",
+      "options": [
+        "Laminator",
+        "Hot glue gun",
+        "Heat press",
+        "Soldering iron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "craft-supplies-quiz-4",
+      "question": "Which craft material is a moldable, air-drying clay often used for children's projects?",
+      "options": [
+        "Polymer clay",
+        "Plaster of Paris",
+        "Papier-mâché",
+        "Model Magic (air-dry clay)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "craft-supplies-quiz-5",
+      "question": "What are googly eyes in crafting?",
+      "options": [
+        "A type of magnifying glass",
+        "Decorative beads",
+        "A type of sequin",
+        "Small plastic discs with a movable pupil, glued onto crafts for a fun face"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "craft-supplies-quiz-6",
+      "question": "Which craft supply is a thin sheet of colored or patterned foam, often sold in letter-size sheets?",
+      "options": [
+        "Cardstock",
+        "Craft foam (foam sheets)",
+        "Felt",
+        "Cork sheet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "craft-supplies-quiz-7",
+      "question": "What is decoupage?",
+      "options": [
+        "A wood carving technique",
+        "A method of tie-dyeing",
+        "A type of knitting stitch",
+        "The art of decorating surfaces by gluing paper cutouts and sealing with varnish"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "craft-supplies-quiz-8",
+      "question": "Which small, shiny disc-shaped items are sewn or glued onto fabric for sparkle and decoration?",
+      "options": [
+        "Beads",
+        "Rhinestones",
+        "Buttons",
+        "Sequins"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "craft-supplies-quiz-9",
+      "question": "What is Mod Podge commonly used for in crafting?",
+      "options": [
+        "Molding clay shapes",
+        "Painting fine details",
+        "Serving as an all-in-one glue, sealer, and finish for decoupage",
+        "Dyeing fabric"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "craft-supplies-quiz-10",
+      "question": "Which craft material is a stiff, heavy paper that is thicker than standard paper but thinner than cardboard?",
+      "options": [
+        "Cardstock",
+        "Tracing paper",
+        "Vellum",
+        "Tissue paper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "craft-supplies-quiz-11",
+      "question": "What is a brayer used for in crafting?",
+      "options": [
+        "Rolling ink or paint onto surfaces evenly",
+        "Punching holes",
+        "Holding fabric taut",
+        "Cutting shapes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "craft-supplies-quiz-12",
+      "question": "Which craft supply is a frame used to hold fabric taut for embroidery?",
+      "options": [
+        "Loom",
+        "Quilting frame",
+        "Embroidery hoop",
+        "Stretcher bar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "craft-supplies-quiz-13",
+      "question": "What are perler beads (fuse beads)?",
+      "options": [
+        "Seed beads for weaving",
+        "Wooden beads for macramé",
+        "Glass beads for jewelry",
+        "Small plastic beads arranged on a pegboard and melted together with an iron"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "craft-supplies-quiz-14",
+      "question": "Which tool is a small, sharp blade in a pen-like handle used for precision cutting in paper crafts?",
+      "options": [
+        "Craft knife (X-Acto knife)",
+        "Rotary cutter",
+        "Scissors",
+        "Paper punch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "craft-supplies-quiz-15",
+      "question": "What is gesso used for in art and crafts?",
+      "options": [
+        "Thinning acrylic paint",
+        "Sealing finished artwork",
+        "Priming and preparing surfaces for painting",
+        "Cleaning brushes"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

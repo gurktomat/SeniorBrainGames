@@ -1,0 +1,173 @@
+{
+  "id": "electrician-vocabulary",
+  "title": "Electrician Vocabulary",
+  "description": "Get wired into the language of electrical work with this enlightening terminology quiz.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "electrician-vocabulary-1",
+      "question": "What is a 'circuit breaker'?",
+      "options": [
+        "A person who damages electrical systems",
+        "A tool for cutting wires",
+        "A type of electrical outlet",
+        "An automatic switch that stops electrical flow when a circuit is overloaded"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrician-vocabulary-2",
+      "question": "What does 'amperage' measure?",
+      "options": [
+        "The voltage of a battery",
+        "The resistance in a wire",
+        "The amount of electric current flowing through a circuit",
+        "The speed of electricity"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-3",
+      "question": "What is a 'conduit' in electrical work?",
+      "options": [
+        "A type of wire connector",
+        "An electrical panel",
+        "A tube or channel used to protect and route electrical wiring",
+        "A grounding rod"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-4",
+      "question": "What does 'grounding' do in an electrical system?",
+      "options": [
+        "Increases the voltage output",
+        "Keeps wires off the ground",
+        "Attaches electrical panels to walls",
+        "Provides a safe path for stray electrical current to flow into the earth"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrician-vocabulary-5",
+      "question": "What is a 'junction box'?",
+      "options": [
+        "An enclosed box where electrical wires are safely connected together",
+        "A box of fuses",
+        "A portable power supply",
+        "A transformer housing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrician-vocabulary-6",
+      "question": "What does 'ohm' measure?",
+      "options": [
+        "Electrical voltage",
+        "Electrical power",
+        "Electrical resistance",
+        "Electrical current"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-7",
+      "question": "What is a 'GFCI outlet'?",
+      "options": [
+        "A high-voltage industrial outlet",
+        "A generator-fed circuit inlet",
+        "A ground fault circuit interrupter that shuts off power when it detects current leakage",
+        "A standard three-prong outlet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-8",
+      "question": "What does 'load' refer to in an electrical circuit?",
+      "options": [
+        "Any device or component that consumes electrical power",
+        "The weight of the wiring",
+        "The length of wire used",
+        "The number of outlets on a circuit"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrician-vocabulary-9",
+      "question": "What is 'romex' commonly used for?",
+      "options": [
+        "Non-metallic sheathed cable used for residential indoor wiring",
+        "Outdoor lighting",
+        "Industrial power lines",
+        "Underground utility wiring"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrician-vocabulary-10",
+      "question": "What does a 'multimeter' do?",
+      "options": [
+        "Generates alternating current",
+        "Counts the number of circuits in a building",
+        "Measures voltage, current, and resistance in electrical circuits",
+        "Controls multiple light switches"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-11",
+      "question": "What is a 'three-way switch'?",
+      "options": [
+        "A type of circuit breaker",
+        "A switch that controls three different lights",
+        "A pair of switches that allow a light to be controlled from two different locations",
+        "A switch with three settings: on, off, and dim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-12",
+      "question": "What does 'watt' measure?",
+      "options": [
+        "Electrical power, or the rate at which electrical energy is consumed",
+        "Circuit length",
+        "Wire thickness",
+        "Electrical resistance"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrician-vocabulary-13",
+      "question": "What is 'knob and tube' wiring?",
+      "options": [
+        "A type of industrial connector",
+        "An early electrical wiring system using ceramic knobs and tubes as insulators",
+        "A method of grounding",
+        "A modern wiring method"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electrician-vocabulary-14",
+      "question": "What is a 'short circuit'?",
+      "options": [
+        "A small residential circuit",
+        "A circuit with very short wires",
+        "An unintended path of low resistance that allows excessive current flow",
+        "A circuit that only works briefly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrician-vocabulary-15",
+      "question": "What does 'gauge' refer to when discussing electrical wire?",
+      "options": [
+        "The thickness or diameter of the wire",
+        "The color of the insulation",
+        "The length of the wire spool",
+        "The material the wire is made from"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

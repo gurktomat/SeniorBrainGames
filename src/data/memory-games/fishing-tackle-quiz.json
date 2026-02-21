@@ -1,0 +1,174 @@
+{
+  "id": "fishing-tackle-quiz",
+  "title": "Fishing Tackle Quiz",
+  "description": "Test your knowledge of fishing gear, tackle, and equipment. How well do you know your rods, reels, and lures?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fishing-tackle-quiz-1",
+      "question": "Which type of fishing reel has a revolving spool and is mounted on top of the rod?",
+      "options": [
+        "Spinning reel",
+        "Fly reel",
+        "Spincasting reel",
+        "Baitcasting reel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-2",
+      "question": "What is a fishing lure designed to do?",
+      "options": [
+        "Hold bait in place",
+        "Measure water depth",
+        "Cut fishing line",
+        "Attract fish by mimicking prey through color, movement, or vibration"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-3",
+      "question": "Which small, round weight is clamped onto fishing line to help sink the bait?",
+      "options": [
+        "Snap",
+        "Swivel",
+        "Bobber",
+        "Split shot sinker"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-4",
+      "question": "What is a bobber (float) used for in fishing?",
+      "options": [
+        "Attracting fish with color",
+        "Tying knots",
+        "Casting farther",
+        "Keeping bait at a desired depth and signaling when a fish bites"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-5",
+      "question": "Which tool is used to remove a hook from a fish's mouth safely?",
+      "options": [
+        "Pliers only",
+        "Knife",
+        "Scissors",
+        "Hook remover (disgorger)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-6",
+      "question": "What is the 'drag' on a fishing reel?",
+      "options": [
+        "The speed of retrieval",
+        "An adjustable friction system that controls how easily line is pulled off the spool",
+        "The casting distance",
+        "The weight of the reel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fishing-tackle-quiz-7",
+      "question": "Which type of fishing line is nearly invisible underwater and often used as a leader?",
+      "options": [
+        "Monofilament",
+        "Braided line",
+        "Wire leader",
+        "Fluorocarbon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-8",
+      "question": "What is a tackle box used for?",
+      "options": [
+        "Transporting fish",
+        "Bait storage only",
+        "Cleaning fishing rods",
+        "Organizing and storing hooks, lures, sinkers, and other fishing accessories"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-9",
+      "question": "Which fishing lure has a metal lip that causes it to dive and wobble when retrieved?",
+      "options": [
+        "Soft plastic worm",
+        "Jig",
+        "Crankbait",
+        "Spinnerbait"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fishing-tackle-quiz-10",
+      "question": "What is a gaff used for in fishing?",
+      "options": [
+        "Removing hooks",
+        "Casting line",
+        "A large hook on a handle used to land heavy fish",
+        "Measuring fish length"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fishing-tackle-quiz-11",
+      "question": "Which small device connects the fishing line to the leader and prevents line twist?",
+      "options": [
+        "Swivel",
+        "Crimping sleeve",
+        "Bead",
+        "Snap"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fishing-tackle-quiz-12",
+      "question": "What is a fishing net used for?",
+      "options": [
+        "Attracting fish",
+        "Catching bait fish only",
+        "Measuring water depth",
+        "Scooping up and landing hooked fish from the water"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fishing-tackle-quiz-13",
+      "question": "Which type of lure is a weighted hook with a soft body, bounced along the bottom?",
+      "options": [
+        "Jig",
+        "Topwater plug",
+        "Spoon",
+        "Crankbait"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fishing-tackle-quiz-14",
+      "question": "What does 'test' mean when referring to fishing line (e.g., '10-pound test')?",
+      "options": [
+        "The length of the line",
+        "The maximum weight the line can hold before breaking",
+        "The diameter of the line",
+        "The stretchiness of the line"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fishing-tackle-quiz-15",
+      "question": "Which tool is a spring-loaded scale used to weigh caught fish?",
+      "options": [
+        "Tape measure",
+        "Digital thermometer",
+        "Fish scale (spring scale)",
+        "Ruler"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "everyday-memory-test",
+  "title": "Everyday Memory Test",
+  "description": "How well do you remember the little details of everyday life? Test your recall of common objects, signs, and symbols you see all the time!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "em-1",
+      "question": "Which direction does Abraham Lincoln face on a U.S. penny?",
+      "options": [
+        "It varies by year",
+        "Straight ahead",
+        "Left",
+        "Right"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lincoln faces to the right on a penny. He is the only president on a U.S. coin who faces right — all others face left.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-2",
+      "question": "How many red stripes are on the American flag?",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The American flag has 7 red stripes and 6 white stripes, for a total of 13 stripes representing the original 13 colonies. The top and bottom stripes are both red.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-3",
+      "question": "On a standard telephone keypad, which letters are on the number 5 button?",
+      "options": [
+        "ABC",
+        "JKL",
+        "GHI",
+        "MNO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The letters J, K, and L appear on the number 5 button. The standard layout goes: 2-ABC, 3-DEF, 4-GHI, 5-JKL, 6-MNO, 7-PQRS, 8-TUV, 9-WXYZ.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-4",
+      "question": "What color is the top stripe on the American flag?",
+      "options": [
+        "It alternates by year",
+        "Blue",
+        "White",
+        "Red"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The top stripe of the American flag is red. The stripes alternate red and white, starting and ending with red.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-5",
+      "question": "On a standard traffic light, where is the green light positioned?",
+      "options": [
+        "It varies by state",
+        "Bottom",
+        "Middle",
+        "Top"
+      ],
+      "correctAnswer": 1,
+      "explanation": "On a standard vertical traffic light, green is on the bottom, yellow is in the middle, and red is on top. This order is standardized so that colorblind drivers can rely on position.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-6",
+      "question": "How many dots are on a standard pair of dice combined?",
+      "options": [
+        "42",
+        "48",
+        "54",
+        "36"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each die has 1+2+3+4+5+6 = 21 dots. A pair of dice has 42 dots total. The opposite faces of a die always add up to 7.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "em-7",
+      "question": "Which U.S. president is on the quarter?",
+      "options": [
+        "Franklin Roosevelt",
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": 1,
+      "explanation": "George Washington has appeared on the quarter since 1932. The coin was redesigned that year to commemorate the 200th anniversary of Washington's birth.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-8",
+      "question": "On a standard clock face, what number is opposite the 12?",
+      "options": [
+        "9",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The number 6 is directly opposite the 12 on a standard clock face. Similarly, 3 is opposite 9, 1 is opposite 7, and so on.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-9",
+      "question": "How many letters are in the English alphabet?",
+      "options": [
+        "26",
+        "27",
+        "24",
+        "25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "There are 26 letters in the English alphabet, from A to Z. The alphabet has remained at 26 letters since the early 1800s, when the ampersand (&) was dropped as the 27th character.",
+      "difficulty": "easy",
+      "category": "memory"
+    },
+    {
+      "id": "em-10",
+      "question": "What is the only number on a standard keyboard that has a dollar sign ($) above it?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dollar sign ($) is located above the number 4 key on a standard keyboard. To type it, you hold Shift and press 4.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "em-11",
+      "question": "In a standard deck of playing cards, which king does NOT have a mustache?",
+      "options": [
+        "King of Diamonds",
+        "King of Spades",
+        "King of Hearts",
+        "King of Clubs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The King of Hearts is the only king without a mustache in a standard deck. He is also sometimes called the 'suicide king' because it appears he is sticking a sword into his own head.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "em-12",
+      "question": "On a standard computer keyboard, which letter is between 'A' and 'D'?",
+      "options": [
+        "B",
+        "S",
+        "C",
+        "F"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The letter S sits between A and D on a standard QWERTY keyboard. The home row reads A-S-D-F-G-H-J-K-L from left to right.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "em-13",
+      "question": "How many stars are on the European Union flag?",
+      "options": [
+        "15",
+        "27",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The EU flag has 12 gold stars arranged in a circle on a blue background. The number 12 is a symbol of completeness and unity — it does not represent the number of member countries.",
+      "difficulty": "hard",
+      "category": "memory"
+    },
+    {
+      "id": "em-14",
+      "question": "On a standard Monopoly board, what is the color of the most expensive property group?",
+      "options": [
+        "Red",
+        "Dark Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The most expensive properties on a Monopoly board are Park Place and Boardwalk, which belong to the dark blue group. Boardwalk costs $400 — the highest price on the board.",
+      "difficulty": "medium",
+      "category": "memory"
+    },
+    {
+      "id": "em-15",
+      "question": "Which way do you turn a standard screw to tighten it?",
+      "options": [
+        "Either direction works",
+        "Counter-clockwise",
+        "Clockwise",
+        "It depends on the screw"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The classic rule is 'righty-tighty, lefty-loosey.' Standard screws, bolts, jar lids, and bottle caps all tighten by turning clockwise (to the right).",
+      "difficulty": "easy",
+      "category": "memory"
+    }
+  ]
+}

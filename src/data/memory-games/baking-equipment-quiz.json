@@ -1,0 +1,174 @@
+{
+  "id": "baking-equipment-quiz",
+  "title": "Baking Equipment Quiz",
+  "description": "How well do you know your baking pans, tools, and equipment? Test your knowledge of baking essentials!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "baking-equipment-quiz-1",
+      "question": "Which baking pan has a distinctive ring shape with a hollow center tube?",
+      "options": [
+        "Sheet pan",
+        "Springform pan",
+        "Loaf pan",
+        "Bundt pan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-equipment-quiz-2",
+      "question": "What is a pastry bag (piping bag) used for?",
+      "options": [
+        "Squeezing out frosting, dough, or cream in decorative patterns through a tip",
+        "Mixing ingredients",
+        "Storing pastries",
+        "Rolling dough"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-3",
+      "question": "Which baking tool is a flat, flexible piece of silicone or rubber used to scrape bowls clean?",
+      "options": [
+        "Whisk",
+        "Spatula (rubber scraper)",
+        "Bench scraper",
+        "Pastry blender"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "baking-equipment-quiz-4",
+      "question": "What is a springform pan notable for?",
+      "options": [
+        "Having a tube center",
+        "Being non-stick only",
+        "Being extra deep",
+        "Having a removable bottom and a clasp that releases the sides, ideal for cheesecakes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-equipment-quiz-5",
+      "question": "Which tool is used to sift flour and remove lumps before baking?",
+      "options": [
+        "Flour sifter (sieve)",
+        "Strainer basket",
+        "Funnel",
+        "Colander"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-6",
+      "question": "What is a bench scraper (dough scraper) used for?",
+      "options": [
+        "Cutting, portioning, and lifting dough, and scraping surfaces clean",
+        "Cleaning benches only",
+        "Measuring ingredients",
+        "Flattening dough"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-7",
+      "question": "Which baking item is a heat-resistant mat placed under hot pans to protect countertops?",
+      "options": [
+        "Cutting board",
+        "Silicone baking mat",
+        "Trivet (cooling rack)",
+        "Pot holder"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-8",
+      "question": "What is a pastry blender used for?",
+      "options": [
+        "Kneading bread",
+        "Blending smoothies",
+        "Cutting cold butter into flour for pie crust and biscuit dough",
+        "Mixing cake batter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "baking-equipment-quiz-9",
+      "question": "Which pan has individual cup-shaped cavities for baking cupcakes and muffins?",
+      "options": [
+        "Popover pan",
+        "Tart pan",
+        "Sheet pan",
+        "Muffin tin (cupcake pan)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-equipment-quiz-10",
+      "question": "What is a cooling rack used for after baking?",
+      "options": [
+        "Allowing air to circulate around baked items so they cool evenly without getting soggy",
+        "Decorating cakes",
+        "Storing baked goods",
+        "Proofing bread dough"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-11",
+      "question": "Which tool is inserted into a cake to test if the interior is fully baked?",
+      "options": [
+        "Cake tester (toothpick or skewer)",
+        "Oven light",
+        "Thermometer",
+        "Timer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-12",
+      "question": "What is parchment paper used for in baking?",
+      "options": [
+        "Wrapping gifts",
+        "Covering food in the fridge",
+        "Writing recipes",
+        "Lining pans to prevent sticking and make cleanup easier"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-equipment-quiz-13",
+      "question": "Which tool has adjustable rings or guides on a rolling pin to ensure dough is rolled to a uniform thickness?",
+      "options": [
+        "Dough docker",
+        "Pastry wheel",
+        "Dough press",
+        "Rolling pin with thickness guides (rings)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-equipment-quiz-14",
+      "question": "What is a proofing basket (banneton) used for?",
+      "options": [
+        "Holding and shaping bread dough as it rises before baking",
+        "Slicing bread evenly",
+        "Baking bread in the oven",
+        "Storing finished bread"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-equipment-quiz-15",
+      "question": "Which measuring tool is specifically designed with a flat top edge for leveling off dry ingredients?",
+      "options": [
+        "Liquid measuring cup",
+        "Dry measuring cup",
+        "Measuring spoon set",
+        "Kitchen scale"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

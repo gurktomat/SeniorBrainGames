@@ -7,91 +7,166 @@
     {
       "id": "famous-battles-recall-1",
       "question": "The Battle of Gettysburg, a turning point in the American Civil War, took place in which year?",
-      "options": ["1861", "1862", "1863", "1865"],
-      "correctAnswer": 2
+      "options": [
+        "1863",
+        "1865",
+        "1862",
+        "1861"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-battles-recall-2",
       "question": "Which 1815 battle marked Napoleon Bonaparte's final defeat?",
-      "options": ["Battle of Austerlitz", "Battle of Trafalgar", "Battle of Leipzig", "Battle of Waterloo"],
-      "correctAnswer": 3
+      "options": [
+        "Battle of Austerlitz",
+        "Battle of Leipzig",
+        "Battle of Waterloo",
+        "Battle of Trafalgar"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-battles-recall-3",
       "question": "The Battle of Hastings in 1066 was fought between the Normans and which people?",
-      "options": ["The French", "The Anglo-Saxons", "The Vikings", "The Scots"],
-      "correctAnswer": 1
+      "options": [
+        "The Anglo-Saxons",
+        "The Scots",
+        "The French",
+        "The Vikings"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-battles-recall-4",
       "question": "D-Day, the massive Allied invasion of Normandy, took place on which date?",
-      "options": ["June 6, 1944", "May 8, 1945", "December 7, 1941", "August 15, 1944"],
-      "correctAnswer": 0
+      "options": [
+        "December 7, 1941",
+        "May 8, 1945",
+        "June 6, 1944",
+        "August 15, 1944"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-battles-recall-5",
       "question": "The Battle of Thermopylae in 480 BC is famous for the stand of 300 warriors from which Greek city-state?",
-      "options": ["Athens", "Corinth", "Sparta", "Thebes"],
-      "correctAnswer": 2
+      "options": [
+        "Corinth",
+        "Sparta",
+        "Thebes",
+        "Athens"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-6",
       "question": "Which World War I battle, lasting from July to November 1916, was one of the bloodiest in history?",
-      "options": ["Battle of Verdun", "Battle of the Somme", "Battle of Ypres", "Battle of Gallipoli"],
+      "options": [
+        "Battle of Ypres",
+        "Battle of the Somme",
+        "Battle of Verdun",
+        "Battle of Gallipoli"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-7",
       "question": "The Battle of Stalingrad (1942-1943) was a decisive turning point in which war?",
-      "options": ["World War I", "The Russian Civil War", "World War II", "The Crimean War"],
-      "correctAnswer": 2
+      "options": [
+        "The Russian Civil War",
+        "World War II",
+        "The Crimean War",
+        "World War I"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-8",
       "question": "At which 1805 naval battle did Admiral Horatio Nelson defeat the combined French and Spanish fleets?",
-      "options": ["Battle of the Nile", "Battle of Trafalgar", "Battle of Jutland", "Battle of Midway"],
+      "options": [
+        "Battle of the Nile",
+        "Battle of Trafalgar",
+        "Battle of Jutland",
+        "Battle of Midway"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-9",
       "question": "The Battle of Midway in 1942, a turning point in the Pacific Theater, was primarily fought between which two navies?",
-      "options": ["British and Japanese", "American and German", "American and Japanese", "Australian and Japanese"],
-      "correctAnswer": 2
+      "options": [
+        "American and Japanese",
+        "British and Japanese",
+        "American and German",
+        "Australian and Japanese"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-battles-recall-10",
       "question": "Which 1776 battle saw George Washington famously cross the Delaware River on Christmas night?",
-      "options": ["Battle of Bunker Hill", "Battle of Yorktown", "Battle of Trenton", "Battle of Saratoga"],
-      "correctAnswer": 2
+      "options": [
+        "Battle of Bunker Hill",
+        "Battle of Trenton",
+        "Battle of Yorktown",
+        "Battle of Saratoga"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-11",
       "question": "The Battle of Agincourt in 1415, where English longbowmen triumphed, was part of which war?",
-      "options": ["The Wars of the Roses", "The Hundred Years' War", "The Thirty Years' War", "The Crusades"],
-      "correctAnswer": 1
+      "options": [
+        "The Hundred Years' War",
+        "The Thirty Years' War",
+        "The Wars of the Roses",
+        "The Crusades"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-battles-recall-12",
       "question": "Which ancient battle in 331 BC saw Alexander the Great decisively defeat the Persian King Darius III?",
-      "options": ["Battle of Marathon", "Battle of Issus", "Battle of Gaugamela", "Battle of Cannae"],
-      "correctAnswer": 2
+      "options": [
+        "Battle of Marathon",
+        "Battle of Gaugamela",
+        "Battle of Issus",
+        "Battle of Cannae"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-battles-recall-13",
       "question": "The Battle of the Bulge, the last major German offensive on the Western Front, began in which month and year?",
-      "options": ["June 1944", "December 1944", "March 1945", "September 1944"],
-      "correctAnswer": 1
+      "options": [
+        "June 1944",
+        "March 1945",
+        "September 1944",
+        "December 1944"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-battles-recall-14",
       "question": "Which 1836 battle at a former mission in Texas became a rallying cry for Texan independence?",
-      "options": ["Battle of San Jacinto", "Battle of the Alamo", "Battle of Goliad", "Battle of Gonzales"],
-      "correctAnswer": 1
+      "options": [
+        "Battle of Goliad",
+        "Battle of Gonzales",
+        "Battle of San Jacinto",
+        "Battle of the Alamo"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-battles-recall-15",
       "question": "The Battle of Marathon in 490 BC was fought between the Greeks and which empire?",
-      "options": ["Roman Empire", "Egyptian Empire", "Persian Empire", "Babylonian Empire"],
+      "options": [
+        "Egyptian Empire",
+        "Roman Empire",
+        "Persian Empire",
+        "Babylonian Empire"
+      ],
       "correctAnswer": 2
     }
   ]

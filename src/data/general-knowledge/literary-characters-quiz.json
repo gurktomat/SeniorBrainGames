@@ -1,0 +1,219 @@
+{
+  "id": "literary-characters-quiz",
+  "title": "Literary Characters",
+  "description": "How well do you know the most memorable characters from classic literature?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "literary-characters-quiz-1",
+      "question": "In which novel does the character Atticus Finch appear as a lawyer in Alabama?",
+      "options": [
+        "The Grapes of Wrath",
+        "East of Eden",
+        "To Kill a Mockingbird",
+        "Of Mice and Men"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Atticus Finch is the moral center of Harper Lee's 'To Kill a Mockingbird' (1960). He defends a Black man falsely accused of a crime in the racially charged South, teaching his children about justice and empathy.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-2",
+      "question": "Which character lives at 221B Baker Street in London?",
+      "options": [
+        "Sherlock Holmes",
+        "Father Brown",
+        "Hercule Poirot",
+        "Philip Marlowe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sherlock Holmes, created by Arthur Conan Doyle, lives at 221B Baker Street with his friend Dr. Watson. The address has become so iconic that a museum now occupies the site in London.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-3",
+      "question": "Who is the narrator of Herman Melville's 'Moby-Dick'?",
+      "options": [
+        "Starbuck",
+        "Captain Ahab",
+        "Ishmael",
+        "Queequeg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The novel opens with one of literature's most famous lines: 'Call me Ishmael.' He is a young sailor who joins the crew of the Pequod under the obsessed Captain Ahab.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-4",
+      "question": "Which Dickens character begins as an orphan and discovers he has a mysterious benefactor?",
+      "options": [
+        "David Copperfield",
+        "Pip (from Great Expectations)",
+        "Oliver Twist",
+        "Ebenezer Scrooge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pip, the narrator of 'Great Expectations' (1861), is an orphaned boy who receives financial support from an anonymous benefactor. He moves to London believing he is destined for greatness.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-5",
+      "question": "In Charlotte Brontë's novel, what secret does Mr. Rochester hide in the attic?",
+      "options": [
+        "A criminal fugitive",
+        "A treasure chest",
+        "An art collection",
+        "His first wife, Bertha Mason"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In 'Jane Eyre,' Rochester hides his mentally ill first wife Bertha Mason in the attic of Thornfield Hall. Jane discovers the truth on their wedding day, leading to one of literature's most dramatic revelations.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-6",
+      "question": "Which literary character says 'It is a far, far better thing that I do, than I have ever done'?",
+      "options": [
+        "Fitzwilliam Darcy",
+        "Jean Valjean",
+        "Sydney Carton",
+        "Edmond Dantès"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sydney Carton speaks these words in Dickens's 'A Tale of Two Cities' as he goes to the guillotine in place of Charles Darnay. His sacrifice for love is one of literature's most poignant endings.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-7",
+      "question": "Captain Ahab is the monomaniacal captain of the Pequod in which novel?",
+      "options": [
+        "Treasure Island",
+        "Moby-Dick",
+        "The Old Man and the Sea",
+        "20,000 Leagues Under the Sea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Captain Ahab, driven mad by the white whale that took his leg, leads his crew on a doomed quest for revenge in 'Moby-Dick' (1851). He is one of literature's greatest examples of obsession.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-8",
+      "question": "Ebenezer Scrooge is visited by how many ghosts on Christmas Eve?",
+      "options": [
+        "Five",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Dickens's 'A Christmas Carol' (1843), Scrooge is visited by four ghosts: the ghost of his former partner Jacob Marley, followed by the Ghosts of Christmas Past, Present, and Yet to Come.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-9",
+      "question": "Which literary detective was created by Agatha Christie and is known for his 'little grey cells'?",
+      "options": [
+        "Sherlock Holmes",
+        "Miss Marple",
+        "Hercule Poirot",
+        "Inspector Morse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hercule Poirot, the Belgian detective with his meticulous mustache and brilliant deductive mind, appeared in 33 Christie novels and over 50 short stories. He frequently references his 'little grey cells.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-10",
+      "question": "Jay Gatsby throws lavish parties hoping to attract the attention of which woman?",
+      "options": [
+        "Jordan Baker",
+        "Myrtle Wilson",
+        "Daisy Buchanan",
+        "Catherine Wilson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In F. Scott Fitzgerald's 'The Great Gatsby,' Jay Gatsby builds his fortune and throws extravagant parties across the bay from Daisy Buchanan's home, hoping to rekindle their past romance.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-11",
+      "question": "Which character from 'The Adventures of Tom Sawyer' famously tricks friends into whitewashing a fence?",
+      "options": [
+        "Huckleberry Finn",
+        "Sid Sawyer",
+        "Injun Joe",
+        "Tom Sawyer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tom Sawyer convinces his friends that whitewashing Aunt Polly's fence is a privilege, not a chore. They end up paying him for the chance to paint. Mark Twain used this scene to illustrate the nature of work and desire.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-12",
+      "question": "Which character in 'Pride and Prejudice' initially appears proud and disagreeable but proves to be honorable?",
+      "options": [
+        "Mr. Collins",
+        "Mr. Darcy",
+        "Mr. Wickham",
+        "Mr. Bingley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mr. Darcy first offends Elizabeth Bennet with his aloof manner, but gradually reveals his true generous and principled character. Their evolving relationship is one of literature's greatest love stories.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-13",
+      "question": "In Victor Hugo's novel, who is the hunchback that lives in Notre-Dame Cathedral?",
+      "options": [
+        "Frollo",
+        "Quasimodo",
+        "Javert",
+        "Jean Valjean"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quasimodo is the bell-ringer of Notre-Dame in Hugo's 1831 novel. Despite his physical deformity, he proves to be the most compassionate character in the story, particularly toward the gypsy girl Esmeralda.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-14",
+      "question": "Which character is the protagonist of Alexandre Dumas' 'The Count of Monte Cristo'?",
+      "options": [
+        "Edmond Dantès",
+        "Athos",
+        "The Vicomte de Bragelonne",
+        "D'Artagnan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Edmond Dantès is a young sailor falsely imprisoned for 14 years. After escaping and finding a vast treasure, he reinvents himself as the Count of Monte Cristo to exact revenge on those who betrayed him.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "literary-characters-quiz-15",
+      "question": "Long John Silver is the memorable villain in which Robert Louis Stevenson novel?",
+      "options": [
+        "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "Treasure Island",
+        "The Master of Ballantrae",
+        "Kidnapped"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Long John Silver, the charming but treacherous one-legged pirate cook, is the antagonist of 'Treasure Island' (1883). He has become the archetypal pirate in popular culture, complete with parrot and wooden leg.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

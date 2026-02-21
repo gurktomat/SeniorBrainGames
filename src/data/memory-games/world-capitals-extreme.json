@@ -7,92 +7,167 @@
     {
       "id": "world-capitals-extreme-1",
       "question": "What is the capital of Australia?",
-      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-      "correctAnswer": 2
+      "options": [
+        "Brisbane",
+        "Sydney",
+        "Melbourne",
+        "Canberra"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-extreme-2",
       "question": "What is the capital of Myanmar (Burma)?",
-      "options": ["Yangon", "Mandalay", "Naypyidaw", "Bagan"],
+      "options": [
+        "Mandalay",
+        "Yangon",
+        "Naypyidaw",
+        "Bagan"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-capitals-extreme-3",
       "question": "What is the capital of Turkey?",
-      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
-      "correctAnswer": 1
+      "options": [
+        "Istanbul",
+        "Antalya",
+        "Izmir",
+        "Ankara"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-extreme-4",
       "question": "What is the capital of Brazil?",
-      "options": ["São Paulo", "Rio de Janeiro", "Salvador", "Brasília"],
-      "correctAnswer": 3
+      "options": [
+        "Rio de Janeiro",
+        "Brasília",
+        "Salvador",
+        "São Paulo"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-capitals-extreme-5",
       "question": "What is the capital of Sri Lanka?",
-      "options": ["Colombo", "Sri Jayawardenepura Kotte", "Kandy", "Galle"],
-      "correctAnswer": 1
+      "options": [
+        "Kandy",
+        "Galle",
+        "Sri Jayawardenepura Kotte",
+        "Colombo"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-capitals-extreme-6",
       "question": "What is the capital of Kazakhstan?",
-      "options": ["Almaty", "Astana", "Shymkent", "Karaganda"],
-      "correctAnswer": 1
+      "options": [
+        "Astana",
+        "Karaganda",
+        "Shymkent",
+        "Almaty"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-7",
       "question": "What is the capital of Nigeria?",
-      "options": ["Lagos", "Abuja", "Kano", "Port Harcourt"],
-      "correctAnswer": 1
+      "options": [
+        "Abuja",
+        "Port Harcourt",
+        "Kano",
+        "Lagos"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-8",
       "question": "What is the capital of Canada?",
-      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
-      "correctAnswer": 3
+      "options": [
+        "Ottawa",
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-9",
       "question": "What is the capital of Morocco?",
-      "options": ["Casablanca", "Marrakech", "Rabat", "Fes"],
-      "correctAnswer": 2
+      "options": [
+        "Rabat",
+        "Marrakech",
+        "Casablanca",
+        "Fes"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-10",
       "question": "Which tiny country has Vaduz as its capital?",
-      "options": ["Luxembourg", "Monaco", "Liechtenstein", "San Marino"],
-      "correctAnswer": 2
+      "options": [
+        "Monaco",
+        "Luxembourg",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-extreme-11",
       "question": "What is the capital of Pakistan?",
-      "options": ["Karachi", "Lahore", "Islamabad", "Peshawar"],
-      "correctAnswer": 2
+      "options": [
+        "Islamabad",
+        "Peshawar",
+        "Karachi",
+        "Lahore"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-12",
       "question": "What is the capital of South Africa's executive (administrative) branch?",
-      "options": ["Cape Town", "Pretoria", "Johannesburg", "Bloemfontein"],
-      "correctAnswer": 1
+      "options": [
+        "Pretoria",
+        "Cape Town",
+        "Bloemfontein",
+        "Johannesburg"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-capitals-extreme-13",
       "question": "What is the capital of New Zealand?",
-      "options": ["Auckland", "Christchurch", "Wellington", "Queenstown"],
-      "correctAnswer": 2
+      "options": [
+        "Christchurch",
+        "Auckland",
+        "Queenstown",
+        "Wellington"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-extreme-14",
       "question": "Nauru, one of the world's smallest countries, technically has no official capital. Which district serves as its de facto seat of government?",
-      "options": ["Aiwo", "Yaren", "Meneng", "Buada"],
-      "correctAnswer": 1
+      "options": [
+        "Aiwo",
+        "Meneng",
+        "Buada",
+        "Yaren"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-capitals-extreme-15",
       "question": "What is the capital of Mongolia?",
-      "options": ["Darkhan", "Erdenet", "Ulaanbaatar", "Choibalsan"],
-      "correctAnswer": 2
+      "options": [
+        "Erdenet",
+        "Darkhan",
+        "Choibalsan",
+        "Ulaanbaatar"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

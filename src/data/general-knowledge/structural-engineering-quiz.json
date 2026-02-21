@@ -1,0 +1,219 @@
+{
+  "id": "structural-engineering-quiz",
+  "title": "Structural Engineering",
+  "description": "Build your knowledge with questions about the fundamentals of structural engineering!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "structural-engineering-quiz-1",
+      "question": "What is the strongest geometric shape in structural engineering, commonly used in bridges and roofs?",
+      "options": [
+        "Triangle",
+        "Hexagon",
+        "Square",
+        "Circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The triangle is the strongest geometric shape in structural engineering because it cannot be deformed without changing the length of its sides. This is why triangles are used extensively in trusses, bridges, and roof structures.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-2",
+      "question": "What is a 'truss' in structural engineering?",
+      "options": [
+        "A solid beam",
+        "A decorative element",
+        "A framework of triangles that distributes loads",
+        "A type of foundation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A truss is a structure composed of triangular units connected at joints (nodes). The triangular arrangement efficiently distributes loads, making trusses ideal for spanning large distances in bridges, roofs, and towers.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-3",
+      "question": "What is 'reinforced concrete' made of?",
+      "options": [
+        "Double-layered concrete",
+        "Concrete with embedded steel bars (rebar)",
+        "Concrete mixed with plastic",
+        "Concrete mixed with wood fibers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reinforced concrete combines concrete (strong in compression) with steel reinforcing bars or rebar (strong in tension). This combination creates a material that resists both compression and tensile forces effectively.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-4",
+      "question": "What is 'dead load' in structural engineering?",
+      "options": [
+        "Wind pressure on a building",
+        "Earthquake forces",
+        "The weight of people in a building",
+        "The permanent weight of the structure itself"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dead load refers to the permanent, stationary weight of the structure itself, including walls, floors, roofing, and fixed equipment. It contrasts with 'live load,' which includes movable elements like people, furniture, and vehicles.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-5",
+      "question": "What is the purpose of a 'flying buttress' in Gothic cathedral architecture?",
+      "options": [
+        "Transferring the thrust of the roof outward and downward",
+        "Decoration only",
+        "Providing ventilation",
+        "Holding up stained glass windows"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Flying buttresses are arched structures that transfer the lateral thrust from the vaulted ceiling through an arch to an outer support pier. This allowed Gothic cathedrals to have thinner walls and larger windows.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-6",
+      "question": "A 'cantilever' is a structural element that is supported at only one end and extends outward. Which bridge type uses this principle?",
+      "options": [
+        "Beam bridge",
+        "Cantilever bridge",
+        "Arch bridge",
+        "Pontoon bridge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A cantilever bridge uses arms that extend from piers on each side toward the center, supported only at one end of each arm. The Forth Bridge in Scotland (1890) is a famous example of a cantilever bridge.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-7",
+      "question": "What does a 'seismic base isolator' do in earthquake-resistant building design?",
+      "options": [
+        "Strengthens the building's walls",
+        "Allows the building to move independently of ground motion",
+        "Anchors the building firmly to bedrock",
+        "Absorbs sound from earthquakes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Seismic base isolators are flexible bearings placed between a building and its foundation that allow the ground to move beneath the building during an earthquake while the building remains relatively stationary, reducing damage.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-8",
+      "question": "What is a 'geodesic dome,' popularized by architect Buckminster Fuller?",
+      "options": [
+        "A concrete bunker",
+        "A spherical structure made of interconnected triangles",
+        "A traditional dome shape",
+        "A pyramid with curved sides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A geodesic dome is a spherical or partial-spherical structure composed of a network of triangles. Buckminster Fuller popularized the design, which is extremely strong for its weight and can span large areas without internal supports.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-9",
+      "question": "What is 'pre-stressed concrete' and why is it used?",
+      "options": [
+        "Concrete mixed at high pressure",
+        "Concrete poured in cold weather",
+        "Concrete with compressed steel tendons that increase its load capacity",
+        "Concrete that has been tested under stress"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pre-stressed concrete contains steel tendons that are tensioned before or after the concrete sets, placing the concrete in compression. This counteracts the tension forces that concrete handles poorly, allowing longer spans and thinner sections.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-10",
+      "question": "The Leaning Tower of Pisa leans because of what structural problem?",
+      "options": [
+        "Earthquake damage",
+        "Incorrect design",
+        "Wind damage",
+        "Soft ground on one side causing differential settling"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Tower of Pisa began leaning during construction in the 12th century because it was built on soft clay soil that compressed unevenly under the tower's weight. The south side settled more than the north, causing the famous lean.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-11",
+      "question": "What is 'fatigue failure' in structural engineering?",
+      "options": [
+        "Chemical corrosion of steel",
+        "Failure caused by repeated loading and unloading cycles weakening the material",
+        "Overloading a structure once",
+        "A building collapsing from age"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fatigue failure occurs when a material weakens and eventually cracks due to repeated cycles of loading and unloading, even if the individual loads are well below the material's ultimate strength. It is a major concern in bridges and aircraft.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-12",
+      "question": "What is a 'keystone' in arch construction?",
+      "options": [
+        "The largest stone in the arch",
+        "The foundation stone",
+        "The wedge-shaped stone at the top center of an arch",
+        "The first stone placed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The keystone is the wedge-shaped stone placed at the apex (top center) of an arch. It is the last piece placed during construction and locks all the other stones into position, allowing the arch to bear weight.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-13",
+      "question": "What is a 'shear wall' in building construction?",
+      "options": [
+        "A decorative wall",
+        "An exterior glass wall",
+        "A temporary construction wall",
+        "A wall designed to resist lateral forces like wind and earthquakes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A shear wall is a structural element designed to resist lateral forces such as wind and earthquake loads. Made of reinforced concrete or braced steel, shear walls prevent buildings from swaying or collapsing during lateral loading.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-14",
+      "question": "The I-beam (also called H-beam) is one of the most common structural steel shapes. Why is it so efficient?",
+      "options": [
+        "Most of the material is concentrated where bending stress is highest",
+        "It uses the least material",
+        "It is the easiest to manufacture",
+        "It looks aesthetically pleasing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The I-beam shape is efficient because it concentrates most of its material in the flanges (top and bottom), which is where bending stresses are greatest. The thin web in the middle provides shear resistance with minimal material.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "structural-engineering-quiz-15",
+      "question": "What is a 'moment-resisting frame' in building construction?",
+      "options": [
+        "A frame with rigid beam-column connections that resist bending forces",
+        "A frame that prevents movement in any direction",
+        "A frame used only in temporary structures",
+        "A frame made of pre-cast concrete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A moment-resisting frame uses rigid connections between beams and columns that can resist bending forces (moments). This allows the frame to resist lateral loads from wind and earthquakes without needing diagonal bracing or shear walls.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

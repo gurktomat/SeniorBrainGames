@@ -9,53 +9,53 @@
       "question": "What element does the chemical symbol 'Au' represent?",
       "options": [
         "Silver",
-        "Aluminum",
         "Gold",
+        "Aluminum",
         "Argon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "science-symbols-quiz-2",
       "question": "What element does the chemical symbol 'Fe' represent?",
       "options": [
-        "Fluorine",
-        "Iron",
+        "Lead",
         "Fermium",
-        "Lead"
+        "Fluorine",
+        "Iron"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "science-symbols-quiz-3",
-      "question": "What does the symbol 'E = mc\u00b2' represent?",
+      "question": "What does the symbol 'E = mc²' represent?",
       "options": [
         "Electromagnetic force",
-        "Mass-energy equivalence",
         "Electric current formula",
+        "Mass-energy equivalence",
         "Electron mass calculation"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "science-symbols-quiz-4",
       "question": "What element does the chemical symbol 'Hg' represent?",
       "options": [
-        "Hydrogen",
-        "Helium",
         "Mercury",
-        "Hafnium"
+        "Helium",
+        "Hafnium",
+        "Hydrogen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "science-symbols-quiz-5",
-      "question": "What does the symbol 'H\u2082O' represent?",
+      "question": "What does the symbol 'H₂O' represent?",
       "options": [
-        "Hydrogen peroxide",
-        "Water",
         "Hydrochloric acid",
-        "Heavy water"
+        "Water",
+        "Heavy water",
+        "Hydrogen peroxide"
       ],
       "correctAnswer": 1
     },
@@ -63,23 +63,23 @@
       "id": "science-symbols-quiz-6",
       "question": "What element does the chemical symbol 'Na' represent?",
       "options": [
-        "Nitrogen",
-        "Neon",
+        "Nickel",
         "Sodium",
-        "Nickel"
+        "Nitrogen",
+        "Neon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "science-symbols-quiz-7",
       "question": "What does the symbol 'DNA' stand for?",
       "options": [
-        "Deoxyribonucleic Acid",
         "Dynamic Nucleic Arrangement",
+        "Deoxyribonucleic Acid",
         "Diverse Nuclear Assembly",
         "Direct Nitrogen Acid"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "science-symbols-quiz-8",
@@ -87,87 +87,87 @@
       "options": [
         "Phosphorus",
         "Platinum",
-        "Plutonium",
-        "Lead"
+        "Lead",
+        "Plutonium"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "science-symbols-quiz-9",
-      "question": "What does the symbol 'CO\u2082' represent?",
+      "question": "What does the symbol 'CO₂' represent?",
       "options": [
         "Carbon monoxide",
-        "Carbon dioxide",
         "Cobalt dioxide",
-        "Copper oxide"
+        "Copper oxide",
+        "Carbon dioxide"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "science-symbols-quiz-10",
       "question": "What element does the chemical symbol 'K' represent?",
       "options": [
+        "Xenon",
         "Krypton",
-        "Potassium",
         "Calcium",
-        "Xenon"
+        "Potassium"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "science-symbols-quiz-11",
       "question": "What does the symbol 'pH' measure?",
       "options": [
-        "Phosphorus levels",
         "Acidity or alkalinity",
         "Atmospheric pressure",
-        "Photon energy"
+        "Photon energy",
+        "Phosphorus levels"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "science-symbols-quiz-12",
       "question": "What element does the chemical symbol 'Ag' represent?",
       "options": [
-        "Gold",
-        "Argon",
         "Silver",
-        "Aluminum"
+        "Aluminum",
+        "Gold",
+        "Argon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "science-symbols-quiz-13",
       "question": "What does the symbol 'NaCl' represent?",
       "options": [
-        "Sodium chloride (table salt)",
-        "Natural chlorine",
         "Sodium carbonate",
-        "Nitrogen chloride"
+        "Nitrogen chloride",
+        "Sodium chloride (table salt)",
+        "Natural chlorine"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "science-symbols-quiz-14",
       "question": "What element does the chemical symbol 'Sn' represent?",
       "options": [
-        "Silicon",
-        "Tin",
+        "Selenium",
         "Sulfur",
-        "Selenium"
+        "Silicon",
+        "Tin"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "science-symbols-quiz-15",
-      "question": "What does the symbol 'O\u2083' represent?",
+      "question": "What does the symbol 'O₃' represent?",
       "options": [
         "Oxygen gas",
+        "Osmium trioxide",
         "Ozone",
-        "Oxide",
-        "Osmium trioxide"
+        "Oxide"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

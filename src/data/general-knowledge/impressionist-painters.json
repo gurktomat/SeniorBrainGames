@@ -1,0 +1,219 @@
+{
+  "id": "impressionist-painters",
+  "title": "Impressionist Painters",
+  "description": "Explore the world of Impressionism and the artists who revolutionized painting with light and color!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "impressionist-painters-1",
+      "question": "Which artist's painting 'Impression, Sunrise' gave the Impressionist movement its name?",
+      "options": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Camille Pissarro",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Claude Monet's 1872 painting 'Impression, Sunrise' depicted the port of Le Havre at dawn. A critic used the title mockingly, and the name 'Impressionism' stuck.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-2",
+      "question": "Pierre-Auguste Renoir was especially celebrated for his paintings of what subject?",
+      "options": [
+        "Seascapes",
+        "Joyful social gatherings and figures",
+        "Still lifes of fruit",
+        "Industrial landscapes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Renoir was famous for his vibrant depictions of people enjoying life, including 'Dance at Le Moulin de la Galette' and 'Luncheon of the Boating Party.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-3",
+      "question": "Edgar Degas is best known for his paintings and pastels of which subject?",
+      "options": [
+        "Mountain landscapes",
+        "Windmills",
+        "Religious scenes",
+        "Ballet dancers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Edgar Degas created over 1,500 works depicting ballet dancers. He was fascinated by movement and often painted rehearsal and backstage scenes.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-4",
+      "question": "Which American-born artist, who lived in France, was known for intimate depictions of mothers and children?",
+      "options": [
+        "Berthe Morisot",
+        "Mary Cassatt",
+        "Eva Gonzalès",
+        "Marie Bracquemond"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mary Cassatt was an American Impressionist who spent much of her career in France. She is celebrated for tender portrayals of mothers and children in everyday settings.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-5",
+      "question": "What technique did Impressionists use to capture the effects of light?",
+      "options": [
+        "Chiaroscuro",
+        "Broken color and short brushstrokes",
+        "Pointillism with dots",
+        "Sfumato blending"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Impressionists applied paint in small, visible brushstrokes of unmixed color placed side by side, allowing the viewer's eye to blend them and creating a vibrant sense of light.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-6",
+      "question": "Which Impressionist artist is famous for his series paintings of haystacks and Rouen Cathedral?",
+      "options": [
+        "Alfred Sisley",
+        "Gustave Caillebotte",
+        "Frédéric Bazille",
+        "Claude Monet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Monet painted the same subjects repeatedly at different times of day and seasons to study how light transformed their appearance, creating his famous 'series' paintings.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-7",
+      "question": "In what decade was the first Impressionist exhibition held in Paris?",
+      "options": [
+        "1850s",
+        "1870s",
+        "1880s",
+        "1860s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first Impressionist exhibition was held in 1874 at the studio of photographer Nadar. It included works by Monet, Renoir, Degas, Pissarro, Morisot, and others.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-8",
+      "question": "Berthe Morisot, one of the founders of Impressionism, was the sister-in-law of which famous painter?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Edgar Degas",
+        "Édouard Manet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Berthe Morisot married Eugène Manet, the brother of Édouard Manet. She was a key figure in the Impressionist movement and exhibited in nearly all of their shows.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-9",
+      "question": "Which Impressionist painter was also known for his depictions of Parisian boulevards from above?",
+      "options": [
+        "Gustave Caillebotte",
+        "Armand Guillaumin",
+        "Camille Pissarro",
+        "Alfred Sisley"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gustave Caillebotte painted striking urban scenes from elevated viewpoints, including 'Paris Street; Rainy Day.' He was also a major patron and collector of Impressionist art.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-10",
+      "question": "Camille Pissarro is often called the 'dean' of Impressionism. Why?",
+      "options": [
+        "He was the oldest and mentored many artists",
+        "He sold the most paintings",
+        "He organized all the exhibitions",
+        "He was the youngest member"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pissarro was the oldest of the core Impressionist group and the only artist who exhibited in all eight Impressionist exhibitions. He mentored younger artists including Cézanne and Gauguin.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-11",
+      "question": "Which Impressionist was known primarily for painting river scenes and landscapes of the Île-de-France region?",
+      "options": [
+        "Alfred Sisley",
+        "Gustave Caillebotte",
+        "Edgar Degas",
+        "Mary Cassatt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alfred Sisley, born in Paris to English parents, devoted nearly his entire career to painting landscapes, especially scenes along the Seine and other rivers near Paris.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-12",
+      "question": "What famous Monet painting series depicts his flower garden at Giverny?",
+      "options": [
+        "The Sunflowers",
+        "The Irises",
+        "The Water Lilies",
+        "The Poppy Fields"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Monet's Water Lilies series comprises about 250 oil paintings created over the last 30 years of his life, depicting his flower garden and Japanese bridge at Giverny.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-13",
+      "question": "Why did the official Paris Salon initially reject Impressionist paintings?",
+      "options": [
+        "They defied academic rules of finish and subject matter",
+        "They were too large",
+        "They were painted on canvas instead of wood",
+        "They used oil paint instead of watercolor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Paris Salon favored highly finished, detailed academic paintings with historical or mythological subjects. Impressionist works appeared rough and unfinished by these standards.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-14",
+      "question": "Which Impressionist painter created 'A Bar at the Folies-Bergère'?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Pierre-Auguste Renoir",
+        "Édouard Manet",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Édouard Manet painted 'A Bar at the Folies-Bergère' in 1882. Though often associated with Impressionism, Manet never exhibited with the group and considered himself a Realist.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "impressionist-painters-15",
+      "question": "Impressionist painters preferred to paint outdoors. What is the French term for this practice?",
+      "options": [
+        "Alla prima",
+        "Trompe-l'œil",
+        "En plein air",
+        "Chiaroscuro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'En plein air' means 'in the open air.' Impressionists left their studios to paint directly from nature, capturing fleeting effects of light and atmosphere on the spot.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

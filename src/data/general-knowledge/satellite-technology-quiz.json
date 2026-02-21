@@ -1,0 +1,173 @@
+{
+  "id": "satellite-technology-quiz",
+  "title": "Satellite Technology",
+  "description": "Learn about the satellites orbiting Earth and how they shape our modern world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "satellite-technology-quiz-1",
+      "question": "What was the name of the first artificial satellite, launched by the Soviet Union in 1957?",
+      "options": [
+        "Vostok",
+        "Luna 1",
+        "Sputnik 1",
+        "Mir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-2",
+      "question": "What type of orbit allows a satellite to remain over the same point on Earth's surface?",
+      "options": [
+        "Elliptical orbit",
+        "Geostationary orbit",
+        "Low Earth orbit",
+        "Polar orbit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satellite-technology-quiz-3",
+      "question": "The GPS satellite navigation system was originally developed by which organization?",
+      "options": [
+        "European Space Agency",
+        "U.S. Department of Defense",
+        "NASA",
+        "United Nations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satellite-technology-quiz-4",
+      "question": "How many satellites are needed at minimum for a GPS receiver to determine its exact position?",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satellite-technology-quiz-5",
+      "question": "What was the first communications satellite to relay television signals across the Atlantic?",
+      "options": [
+        "Syncom 3",
+        "Telstar 1",
+        "Intelsat 1",
+        "Echo 1"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satellite-technology-quiz-6",
+      "question": "The International Space Station orbits Earth at approximately what altitude?",
+      "options": [
+        "1,000 miles",
+        "250 miles",
+        "100 miles",
+        "500 miles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satellite-technology-quiz-7",
+      "question": "Which company launched the Starlink satellite constellation for global internet coverage?",
+      "options": [
+        "Boeing",
+        "Blue Origin",
+        "SpaceX",
+        "Virgin Galactic"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-8",
+      "question": "What is the term for debris from old satellites and rockets orbiting Earth?",
+      "options": [
+        "Asteroid belt",
+        "Meteor shower",
+        "Cosmic dust",
+        "Space junk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "satellite-technology-quiz-9",
+      "question": "Weather satellites in geostationary orbit are positioned approximately how far from Earth?",
+      "options": [
+        "100,000 miles",
+        "1,000 miles",
+        "22,236 miles",
+        "5,000 miles"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-10",
+      "question": "What does the Hubble Space Telescope orbit?",
+      "options": [
+        "The Moon",
+        "Mars",
+        "Earth",
+        "The Sun"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-11",
+      "question": "Which country launched the first weather satellite, TIROS-1, in 1960?",
+      "options": [
+        "United States",
+        "Soviet Union",
+        "France",
+        "United Kingdom"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satellite-technology-quiz-12",
+      "question": "What is the European equivalent of the American GPS system called?",
+      "options": [
+        "Galileo",
+        "IRNSS",
+        "GLONASS",
+        "BeiDou"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satellite-technology-quiz-13",
+      "question": "Arthur C. Clarke proposed the concept of geostationary communication satellites in what year?",
+      "options": [
+        "1965",
+        "1935",
+        "1945",
+        "1955"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-14",
+      "question": "What type of satellite is used to observe and map Earth's surface in detail?",
+      "options": [
+        "Communication satellite",
+        "Navigation satellite",
+        "Earth observation satellite",
+        "Astronomy satellite"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satellite-technology-quiz-15",
+      "question": "What was Explorer 1, launched in 1958, the first to discover?",
+      "options": [
+        "Van Allen radiation belts",
+        "Lunar craters",
+        "Cosmic microwave background",
+        "Solar wind"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

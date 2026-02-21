@@ -7,8 +7,13 @@
     {
       "id": "fc-1",
       "question": "Which Hollywood couple was known as 'America's Sweethearts' in the early days of film?",
-      "options": ["Clark Gable & Carole Lombard", "Douglas Fairbanks & Mary Pickford", "Humphrey Bogart & Lauren Bacall", "Spencer Tracy & Katharine Hepburn"],
-      "correctAnswer": 1,
+      "options": [
+        "Douglas Fairbanks & Mary Pickford",
+        "Spencer Tracy & Katharine Hepburn",
+        "Humphrey Bogart & Lauren Bacall",
+        "Clark Gable & Carole Lombard"
+      ],
+      "correctAnswer": 0,
       "explanation": "Douglas Fairbanks and Mary Pickford were the first celebrity supercouple, living in their famous mansion 'Pickfair' in Beverly Hills.",
       "difficulty": "hard",
       "category": "entertainment"
@@ -16,8 +21,13 @@
     {
       "id": "fc-2",
       "question": "Who was Cleopatra's famous Roman lover who followed her to Egypt?",
-      "options": ["Julius Caesar", "Mark Antony", "Augustus", "Nero"],
-      "correctAnswer": 1,
+      "options": [
+        "Nero",
+        "Augustus",
+        "Mark Antony",
+        "Julius Caesar"
+      ],
+      "correctAnswer": 2,
       "explanation": "Mark Antony fell in love with Cleopatra VII, abandoning Rome. Their tragic story ended with both taking their own lives after defeat by Octavian.",
       "difficulty": "easy",
       "category": "history"
@@ -25,8 +35,13 @@
     {
       "id": "fc-3",
       "question": "Which royal couple's 1981 wedding was watched by an estimated 750 million TV viewers?",
-      "options": ["Queen Elizabeth & Prince Philip", "Prince Charles & Princess Diana", "Prince William & Kate Middleton", "Grace Kelly & Prince Rainier"],
-      "correctAnswer": 1,
+      "options": [
+        "Grace Kelly & Prince Rainier",
+        "Queen Elizabeth & Prince Philip",
+        "Prince Charles & Princess Diana",
+        "Prince William & Kate Middleton"
+      ],
+      "correctAnswer": 2,
       "explanation": "The wedding of Prince Charles and Lady Diana Spencer at St Paul's Cathedral was dubbed 'the wedding of the century.'",
       "difficulty": "easy",
       "category": "royalty"
@@ -34,8 +49,13 @@
     {
       "id": "fc-4",
       "question": "Which couple starred together in 'Who's Afraid of Virginia Woolf?' and married twice?",
-      "options": ["Paul Newman & Joanne Woodward", "Richard Burton & Elizabeth Taylor", "Rock Hudson & Doris Day", "Gregory Peck & Audrey Hepburn"],
-      "correctAnswer": 1,
+      "options": [
+        "Paul Newman & Joanne Woodward",
+        "Rock Hudson & Doris Day",
+        "Gregory Peck & Audrey Hepburn",
+        "Richard Burton & Elizabeth Taylor"
+      ],
+      "correctAnswer": 3,
       "explanation": "Richard Burton and Elizabeth Taylor were married twice (1964-1974, 1975-1976) and their turbulent romance captivated the world.",
       "difficulty": "medium",
       "category": "entertainment"
@@ -43,7 +63,12 @@
     {
       "id": "fc-5",
       "question": "John Adams and his wife Abigail are famous for their extensive collection of what?",
-      "options": ["Paintings", "Letters to each other", "Political pamphlets", "French wines"],
+      "options": [
+        "Political pamphlets",
+        "Letters to each other",
+        "French wines",
+        "Paintings"
+      ],
       "correctAnswer": 1,
       "explanation": "John and Abigail Adams exchanged over 1,100 letters that provide a remarkable window into their marriage and early American history.",
       "difficulty": "medium",
@@ -52,7 +77,12 @@
     {
       "id": "fc-6",
       "question": "Which couple performed together at Woodstock in 1969 and later had a famous TV variety show?",
-      "options": ["Ike & Tina Turner", "Sonny & Cher", "Johnny Cash & June Carter", "John & Yoko"],
+      "options": [
+        "Sonny & Cher",
+        "John & Yoko",
+        "Johnny Cash & June Carter",
+        "Ike & Tina Turner"
+      ],
       "correctAnswer": 2,
       "explanation": "Johnny Cash and June Carter performed at Woodstock. They married in 1968 and remained together until June's death in 2003.",
       "difficulty": "medium",
@@ -61,8 +91,13 @@
     {
       "id": "fc-7",
       "question": "Which famous couple's love letters, written during World War II, became bestselling books?",
-      "options": ["Winston & Clementine Churchill", "Dwight & Mamie Eisenhower", "Franklin & Eleanor Roosevelt", "George & Martha Washington"],
-      "correctAnswer": 0,
+      "options": [
+        "Franklin & Eleanor Roosevelt",
+        "George & Martha Washington",
+        "Winston & Clementine Churchill",
+        "Dwight & Mamie Eisenhower"
+      ],
+      "correctAnswer": 2,
       "explanation": "Winston and Clementine Churchill exchanged over 1,700 letters during their 57-year marriage, later published as 'Speaking for Themselves.'",
       "difficulty": "hard",
       "category": "history"
@@ -70,8 +105,13 @@
     {
       "id": "fc-8",
       "question": "Who did Jackie Kennedy marry after the assassination of President JFK?",
-      "options": ["Robert Kennedy", "Aristotle Onassis", "Frank Sinatra", "She never remarried"],
-      "correctAnswer": 1,
+      "options": [
+        "Aristotle Onassis",
+        "She never remarried",
+        "Frank Sinatra",
+        "Robert Kennedy"
+      ],
+      "correctAnswer": 0,
       "explanation": "Jacqueline Kennedy married Greek shipping magnate Aristotle Onassis in 1968, becoming known as 'Jackie O.'",
       "difficulty": "easy",
       "category": "history"
@@ -79,8 +119,13 @@
     {
       "id": "fc-9",
       "question": "Which Hollywood couple has been married since 1988 and starred together in 'Far and Away'?",
-      "options": ["Tom Hanks & Rita Wilson", "Tom Cruise & Nicole Kidman", "Kevin Bacon & Kyra Sedgwick", "Paul Newman & Joanne Woodward"],
-      "correctAnswer": 0,
+      "options": [
+        "Kevin Bacon & Kyra Sedgwick",
+        "Tom Hanks & Rita Wilson",
+        "Tom Cruise & Nicole Kidman",
+        "Paul Newman & Joanne Woodward"
+      ],
+      "correctAnswer": 1,
       "explanation": "Tom Hanks and Rita Wilson married in 1988 and remain one of Hollywood's most enduring couples.",
       "difficulty": "medium",
       "category": "entertainment"
@@ -88,8 +133,13 @@
     {
       "id": "fc-10",
       "question": "Which power couple ruled Egypt together, with the wife serving as a co-regent?",
-      "options": ["Ramesses II & Nefertari", "Akhenaten & Nefertiti", "Tutankhamun & Ankhesenamun", "Ptolemy I & Berenice"],
-      "correctAnswer": 1,
+      "options": [
+        "Akhenaten & Nefertiti",
+        "Ramesses II & Nefertari",
+        "Tutankhamun & Ankhesenamun",
+        "Ptolemy I & Berenice"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pharaoh Akhenaten and Queen Nefertiti ruled together during the 14th century BC, revolutionizing Egyptian religion and art.",
       "difficulty": "hard",
       "category": "history"
@@ -97,7 +147,12 @@
     {
       "id": "fc-11",
       "question": "Which couple's romance inspired the movie 'A Beautiful Mind'?",
-      "options": ["Albert & Mileva Einstein", "John & Alicia Nash", "Stephen & Jane Hawking", "Pierre & Marie Curie"],
+      "options": [
+        "Albert & Mileva Einstein",
+        "John & Alicia Nash",
+        "Stephen & Jane Hawking",
+        "Pierre & Marie Curie"
+      ],
       "correctAnswer": 1,
       "explanation": "John Nash, the Nobel Prize-winning mathematician, and his wife Alicia's story was portrayed in the 2001 film starring Russell Crowe.",
       "difficulty": "medium",
@@ -106,8 +161,13 @@
     {
       "id": "fc-12",
       "question": "Which couple won Nobel Prizes together for their work on radioactivity?",
-      "options": ["Watson & Crick", "Pierre & Marie Curie", "Louis & Mary Leakey", "Charles & Ray Eames"],
-      "correctAnswer": 1,
+      "options": [
+        "Charles & Ray Eames",
+        "Louis & Mary Leakey",
+        "Pierre & Marie Curie",
+        "Watson & Crick"
+      ],
+      "correctAnswer": 2,
       "explanation": "Pierre and Marie Curie shared the 1903 Nobel Prize in Physics. Marie later won a second Nobel in Chemistry in 1911.",
       "difficulty": "easy",
       "category": "science"
@@ -115,7 +175,12 @@
     {
       "id": "fc-13",
       "question": "Lucille Ball and Desi Arnaz were TV's first couple to do what on screen?",
-      "options": ["Kiss on camera", "Share a bed on screen", "Have a TV wedding", "Show a pregnancy on TV"],
+      "options": [
+        "Have a TV wedding",
+        "Kiss on camera",
+        "Share a bed on screen",
+        "Show a pregnancy on TV"
+      ],
       "correctAnswer": 3,
       "explanation": "Lucy's real-life pregnancy was written into I Love Lucy in 1952-53, making it the first show to feature a pregnant woman — though they couldn't say the word 'pregnant.'",
       "difficulty": "medium",
@@ -124,8 +189,13 @@
     {
       "id": "fc-14",
       "question": "Which English king gave up his throne 'for the woman I love'?",
-      "options": ["Henry VIII", "Edward VIII", "George VI", "Edward VII"],
-      "correctAnswer": 1,
+      "options": [
+        "George VI",
+        "Henry VIII",
+        "Edward VIII",
+        "Edward VII"
+      ],
+      "correctAnswer": 2,
       "explanation": "Edward VIII abdicated in 1936 to marry American divorcée Wallis Simpson, as the Church of England opposed the marriage.",
       "difficulty": "medium",
       "category": "royalty"
@@ -133,7 +203,12 @@
     {
       "id": "fc-15",
       "question": "Napoleon Bonaparte wrote passionate love letters to which wife?",
-      "options": ["Marie Antoinette", "Josephine", "Marie Louise", "Catherine de Medici"],
+      "options": [
+        "Catherine de Medici",
+        "Josephine",
+        "Marie Antoinette",
+        "Marie Louise"
+      ],
       "correctAnswer": 1,
       "explanation": "Napoleon's love letters to Josephine de Beauharnais are among history's most passionate. They married in 1796 but divorced in 1810.",
       "difficulty": "easy",
@@ -142,7 +217,12 @@
     {
       "id": "fc-16",
       "question": "Which musical couple recorded 'Ain't No Mountain High Enough' together?",
-      "options": ["Ike & Tina Turner", "Marvin Gaye & Tammi Terrell", "Sonny & Cher", "Captain & Tennille"],
+      "options": [
+        "Captain & Tennille",
+        "Marvin Gaye & Tammi Terrell",
+        "Ike & Tina Turner",
+        "Sonny & Cher"
+      ],
       "correctAnswer": 1,
       "explanation": "Marvin Gaye and Tammi Terrell recorded this Motown classic in 1967. Though not a romantic couple, their musical chemistry was undeniable.",
       "difficulty": "medium",
@@ -151,8 +231,13 @@
     {
       "id": "fc-17",
       "question": "Which couple founded a legendary Hollywood studio together in 1919 with Charlie Chaplin?",
-      "options": ["Louis B. Mayer & his wife Margaret", "Douglas Fairbanks & Mary Pickford", "Walt & Lillian Disney", "Jack & Harry Warner"],
-      "correctAnswer": 1,
+      "options": [
+        "Douglas Fairbanks & Mary Pickford",
+        "Louis B. Mayer & his wife Margaret",
+        "Jack & Harry Warner",
+        "Walt & Lillian Disney"
+      ],
+      "correctAnswer": 0,
       "explanation": "Douglas Fairbanks, Mary Pickford, Charlie Chaplin, and D.W. Griffith founded United Artists in 1919 to control their own films.",
       "difficulty": "hard",
       "category": "entertainment"
@@ -160,8 +245,13 @@
     {
       "id": "fc-18",
       "question": "Paul Newman and Joanne Woodward were married for how many years?",
-      "options": ["25 years", "40 years", "50 years", "35 years"],
-      "correctAnswer": 2,
+      "options": [
+        "35 years",
+        "40 years",
+        "25 years",
+        "50 years"
+      ],
+      "correctAnswer": 3,
       "explanation": "Paul Newman and Joanne Woodward were married for 50 years (1958-2008), one of Hollywood's most enduring marriages.",
       "difficulty": "hard",
       "category": "entertainment"
@@ -169,8 +259,13 @@
     {
       "id": "fc-19",
       "question": "Which First Lady was known for saying 'Just Say No' to drugs?",
-      "options": ["Barbara Bush", "Nancy Reagan", "Rosalynn Carter", "Betty Ford"],
-      "correctAnswer": 1,
+      "options": [
+        "Betty Ford",
+        "Barbara Bush",
+        "Rosalynn Carter",
+        "Nancy Reagan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Nancy Reagan launched the 'Just Say No' anti-drug campaign in the 1980s. She and Ronald Reagan were married for 52 years.",
       "difficulty": "easy",
       "category": "history"
@@ -178,7 +273,12 @@
     {
       "id": "fc-20",
       "question": "Which legendary folk music couple performed at the 1963 March on Washington?",
-      "options": ["Pete Seeger & Toshi", "Bob Dylan & Joan Baez", "Peter, Paul and Mary", "Woody & Marjorie Guthrie"],
+      "options": [
+        "Woody & Marjorie Guthrie",
+        "Bob Dylan & Joan Baez",
+        "Pete Seeger & Toshi",
+        "Peter, Paul and Mary"
+      ],
       "correctAnswer": 1,
       "explanation": "Bob Dylan and Joan Baez performed at the March on Washington where Martin Luther King Jr. gave his 'I Have a Dream' speech. Their romantic and musical partnership defined the folk era.",
       "difficulty": "medium",

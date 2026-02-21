@@ -9,33 +9,33 @@
       "question": "Which soft drink was originally marketed as 'Brad's Drink' when it was created in 1893?",
       "options": [
         "Coca-Cola",
+        "RC Cola",
         "Dr Pepper",
-        "Pepsi-Cola",
-        "RC Cola"
+        "Pepsi-Cola"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "vintage-soda-brands-2",
       "question": "What year was Coca-Cola first introduced?",
       "options": [
         "1876",
-        "1886",
         "1896",
-        "1906"
+        "1906",
+        "1886"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-soda-brands-3",
       "question": "Which soda, first made in 1885, is considered the oldest major soft drink brand in the United States?",
       "options": [
-        "Coca-Cola",
-        "Root Beer",
         "Dr Pepper",
+        "Root Beer",
+        "Coca-Cola",
         "Vernor's Ginger Ale"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-soda-brands-4",
@@ -43,8 +43,8 @@
       "options": [
         "A type of ice cream float",
         "A flavored carbonated drink made with acid phosphate",
-        "A milkshake variant",
-        "A brand of root beer"
+        "A brand of root beer",
+        "A milkshake variant"
       ],
       "correctAnswer": 1
     },
@@ -53,42 +53,42 @@
       "question": "Which classic soda featured the slogan 'It's the Real Thing'?",
       "options": [
         "Pepsi",
-        "Coca-Cola",
         "7-Up",
+        "Coca-Cola",
         "Dr Pepper"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-soda-brands-6",
       "question": "What was the name of the lemon-lime soda introduced in 1929, originally called 'Bib-Label Lithiated Lemon-Lime Soda'?",
       "options": [
+        "Squirt",
         "Sprite",
-        "7-Up",
         "Mountain Dew",
-        "Squirt"
+        "7-Up"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-soda-brands-7",
       "question": "In a classic soda fountain, what was an 'egg cream' made with?",
       "options": [
-        "Eggs, cream, and soda",
         "Chocolate syrup, milk, and seltzer",
-        "Egg nog and cream soda",
-        "Vanilla ice cream and cola"
+        "Vanilla ice cream and cola",
+        "Eggs, cream, and soda",
+        "Egg nog and cream soda"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "vintage-soda-brands-8",
       "question": "Which once-popular cola brand was known for its 'Nehi' line of fruit-flavored sodas?",
       "options": [
         "RC Cola",
+        "Shasta",
         "Tab",
-        "Jolt Cola",
-        "Shasta"
+        "Jolt Cola"
       ],
       "correctAnswer": 0
     },
@@ -96,10 +96,10 @@
       "id": "vintage-soda-brands-9",
       "question": "What was the name of the Coca-Cola diet soda introduced in 1963, before Diet Coke existed?",
       "options": [
-        "Coke Zero",
+        "Fresca",
         "New Coke",
         "Tab",
-        "Fresca"
+        "Coke Zero"
       ],
       "correctAnswer": 2
     },
@@ -107,23 +107,23 @@
       "id": "vintage-soda-brands-10",
       "question": "Which root beer brand featured a mascot of a boy with a dog?",
       "options": [
-        "A&W Root Beer",
+        "Barq's Root Beer",
         "Hires Root Beer",
-        "Mug Root Beer",
-        "Barq's Root Beer"
+        "A&W Root Beer",
+        "Mug Root Beer"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "vintage-soda-brands-11",
       "question": "What did a 'soda jerk' do at a soda fountain?",
       "options": [
-        "Repaired the soda machines",
-        "Mixed and served drinks behind the counter",
         "Delivered sodas to tables",
-        "Managed the soda fountain business"
+        "Managed the soda fountain business",
+        "Mixed and served drinks behind the counter",
+        "Repaired the soda machines"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-soda-brands-12",
@@ -140,34 +140,34 @@
       "id": "vintage-soda-brands-13",
       "question": "What classic soda fountain treat combines ice cream and root beer?",
       "options": [
-        "A milkshake",
-        "A malt",
         "A root beer float",
-        "A sundae"
+        "A milkshake",
+        "A sundae",
+        "A malt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-soda-brands-14",
       "question": "Which ginger ale brand, founded in Detroit in 1866, claims to be America's oldest surviving soft drink?",
       "options": [
-        "Canada Dry",
-        "Schweppes",
         "Vernor's",
-        "Seagram's"
+        "Seagram's",
+        "Canada Dry",
+        "Schweppes"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-soda-brands-15",
       "question": "What Coca-Cola product launched in 1985 caused a massive public backlash and was quickly replaced by 'Coca-Cola Classic'?",
       "options": [
-        "Cherry Coke",
-        "New Coke",
+        "Diet Coke",
         "Coke II",
-        "Diet Coke"
+        "Cherry Coke",
+        "New Coke"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

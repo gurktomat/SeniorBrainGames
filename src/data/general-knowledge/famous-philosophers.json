@@ -8,41 +8,41 @@
       "id": "famous-philosophers-1",
       "question": "Which ancient Greek philosopher is known for the quote 'I know that I know nothing'?",
       "options": [
-        "Plato",
-        "Aristotle",
         "Socrates",
-        "Epicurus"
+        "Epicurus",
+        "Plato",
+        "Aristotle"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-2",
       "question": "Who wrote 'The Republic,' a foundational work of Western philosophy?",
       "options": [
-        "Socrates",
         "Plato",
         "Aristotle",
+        "Socrates",
         "Xenophon"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-3",
       "question": "Which philosopher declared 'I think, therefore I am'?",
       "options": [
         "John Locke",
-        "Ren\u00e9 Descartes",
         "Immanuel Kant",
-        "Baruch Spinoza"
+        "Baruch Spinoza",
+        "René Descartes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-philosophers-4",
       "question": "Aristotle was the personal tutor of which famous historical figure?",
       "options": [
-        "Julius Caesar",
         "Pericles",
+        "Julius Caesar",
         "Alexander the Great",
         "Hannibal"
       ],
@@ -53,9 +53,9 @@
       "question": "Which Chinese philosopher is known for his teachings on ethics, family, and social harmony?",
       "options": [
         "Lao Tzu",
-        "Sun Tzu",
+        "Mencius",
         "Confucius",
-        "Mencius"
+        "Sun Tzu"
       ],
       "correctAnswer": 2
     },
@@ -63,65 +63,65 @@
       "id": "famous-philosophers-6",
       "question": "Which German philosopher wrote 'Critique of Pure Reason'?",
       "options": [
-        "Georg Hegel",
         "Immanuel Kant",
-        "Friedrich Nietzsche",
-        "Arthur Schopenhauer"
+        "Arthur Schopenhauer",
+        "Georg Hegel",
+        "Friedrich Nietzsche"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-7",
       "question": "Who is considered the founder of existentialism and wrote 'Being and Nothingness'?",
       "options": [
-        "Albert Camus",
         "Jean-Paul Sartre",
-        "Martin Heidegger",
-        "Simone de Beauvoir"
+        "Simone de Beauvoir",
+        "Albert Camus",
+        "Martin Heidegger"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-8",
       "question": "Which philosopher wrote 'Thus Spoke Zarathustra' and famously declared 'God is dead'?",
       "options": [
-        "Karl Marx",
         "Friedrich Nietzsche",
-        "S\u00f8ren Kierkegaard",
-        "Arthur Schopenhauer"
+        "Søren Kierkegaard",
+        "Arthur Schopenhauer",
+        "Karl Marx"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-9",
       "question": "John Locke's philosophy greatly influenced the American Declaration of Independence. What did he believe people had natural rights to?",
       "options": [
+        "Peace, order, and prosperity",
         "Life, liberty, and property",
-        "Freedom, justice, and equality",
         "Truth, beauty, and goodness",
-        "Peace, order, and prosperity"
+        "Freedom, justice, and equality"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "famous-philosophers-10",
       "question": "Which ancient Greek philosopher founded a school called the Lyceum?",
       "options": [
         "Plato",
-        "Socrates",
         "Aristotle",
-        "Zeno"
+        "Zeno",
+        "Socrates"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-philosophers-11",
       "question": "Simone de Beauvoir's groundbreaking work 'The Second Sex' is a foundational text for which movement?",
       "options": [
-        "Socialism",
-        "Feminism",
         "Environmentalism",
-        "Civil rights"
+        "Feminism",
+        "Civil rights",
+        "Socialism"
       ],
       "correctAnswer": 1
     },
@@ -129,45 +129,45 @@
       "id": "famous-philosophers-12",
       "question": "Which British philosopher wrote 'Leviathan,' arguing for a strong central government?",
       "options": [
-        "John Locke",
-        "David Hume",
         "Thomas Hobbes",
-        "Francis Bacon"
+        "David Hume",
+        "Francis Bacon",
+        "John Locke"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-philosophers-13",
       "question": "Which philosopher is known for the concept of the 'categorical imperative' in moral philosophy?",
       "options": [
-        "John Stuart Mill",
-        "Immanuel Kant",
+        "David Hume",
         "Jeremy Bentham",
-        "David Hume"
+        "Immanuel Kant",
+        "John Stuart Mill"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-philosophers-14",
       "question": "Lao Tzu is traditionally credited as the author of which foundational text of Taoism?",
       "options": [
+        "I Ching",
         "The Art of War",
         "The Analects",
-        "Tao Te Ching",
-        "I Ching"
+        "Tao Te Ching"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-philosophers-15",
       "question": "Which philosopher's 'Allegory of the Cave' describes prisoners who mistake shadows for reality?",
       "options": [
+        "Epicurus",
         "Aristotle",
         "Socrates",
-        "Plato",
-        "Epicurus"
+        "Plato"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

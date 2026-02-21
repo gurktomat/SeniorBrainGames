@@ -7,8 +7,13 @@
     {
       "id": "travel-1",
       "question": "Which U.S. national park is home to the famous geyser Old Faithful?",
-      "options": ["Glacier National Park", "Yellowstone National Park", "Grand Teton National Park", "Rocky Mountain National Park"],
-      "correctAnswer": 1,
+      "options": [
+        "Grand Teton National Park",
+        "Glacier National Park",
+        "Yellowstone National Park",
+        "Rocky Mountain National Park"
+      ],
+      "correctAnswer": 2,
       "explanation": "Old Faithful is located in Yellowstone National Park in Wyoming. It erupts approximately every 90 minutes and has been a major tourist attraction since the park was established in 1872 as America's first national park.",
       "difficulty": "easy",
       "category": "geography"
@@ -16,8 +21,13 @@
     {
       "id": "travel-2",
       "question": "What is the nickname of the U.S. state of Texas?",
-      "options": ["The Sunshine State", "The Golden State", "The Lone Star State", "The Keystone State"],
-      "correctAnswer": 2,
+      "options": [
+        "The Sunshine State",
+        "The Keystone State",
+        "The Golden State",
+        "The Lone Star State"
+      ],
+      "correctAnswer": 3,
       "explanation": "Texas is known as 'The Lone Star State,' a reference to the single star on its flag. The star represents Texas's former status as an independent republic before joining the United States in 1845.",
       "difficulty": "easy",
       "category": "geography"
@@ -25,7 +35,12 @@
     {
       "id": "travel-3",
       "question": "Which famous road stretches from Chicago, Illinois to Santa Monica, California?",
-      "options": ["Interstate 95", "Route 66", "Pacific Coast Highway", "Blue Ridge Parkway"],
+      "options": [
+        "Blue Ridge Parkway",
+        "Route 66",
+        "Interstate 95",
+        "Pacific Coast Highway"
+      ],
       "correctAnswer": 1,
       "explanation": "Route 66, often called 'The Mother Road,' originally ran 2,448 miles from Chicago to Santa Monica. Established in 1926, it became one of America's most iconic highways and a symbol of westward migration.",
       "difficulty": "easy",
@@ -34,7 +49,12 @@
     {
       "id": "travel-4",
       "question": "The Statue of Liberty was a gift to the United States from which country?",
-      "options": ["England", "Spain", "France", "Italy"],
+      "options": [
+        "England",
+        "Spain",
+        "France",
+        "Italy"
+      ],
       "correctAnswer": 2,
       "explanation": "The Statue of Liberty was a gift from France, dedicated on October 28, 1886. Designed by sculptor Frederic Auguste Bartholdi, it stands on Liberty Island in New York Harbor and symbolizes freedom and democracy.",
       "difficulty": "easy",
@@ -43,8 +63,13 @@
     {
       "id": "travel-5",
       "question": "Which U.S. state is known as the 'Aloha State'?",
-      "options": ["California", "Florida", "Hawaii", "Alaska"],
-      "correctAnswer": 2,
+      "options": [
+        "Hawaii",
+        "Alaska",
+        "Florida",
+        "California"
+      ],
+      "correctAnswer": 0,
       "explanation": "Hawaii is nicknamed the 'Aloha State.' The word 'aloha' is a Hawaiian greeting meaning love, affection, and peace. Hawaii became the 50th U.S. state in 1959.",
       "difficulty": "easy",
       "category": "geography"
@@ -52,8 +77,13 @@
     {
       "id": "travel-6",
       "question": "The Grand Canyon is located in which U.S. state?",
-      "options": ["Utah", "Arizona", "Nevada", "New Mexico"],
-      "correctAnswer": 1,
+      "options": [
+        "Nevada",
+        "Utah",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Grand Canyon is located in northern Arizona. Carved by the Colorado River over millions of years, it is approximately 277 miles long, up to 18 miles wide, and over a mile deep.",
       "difficulty": "medium",
       "category": "geography"
@@ -61,8 +91,13 @@
     {
       "id": "travel-7",
       "question": "What is the capital of Alaska?",
-      "options": ["Anchorage", "Fairbanks", "Juneau", "Nome"],
-      "correctAnswer": 2,
+      "options": [
+        "Anchorage",
+        "Nome",
+        "Fairbanks",
+        "Juneau"
+      ],
+      "correctAnswer": 3,
       "explanation": "Juneau is the capital of Alaska. Despite being the capital, it is not the largest city in the state — Anchorage holds that distinction. Juneau is also notable for being accessible only by air or sea, with no roads connecting it to the rest of the state.",
       "difficulty": "medium",
       "category": "geography"
@@ -70,7 +105,12 @@
     {
       "id": "travel-8",
       "question": "Which U.S. national park features the towering granite cliff known as El Capitan?",
-      "options": ["Sequoia National Park", "Joshua Tree National Park", "Yosemite National Park", "Kings Canyon National Park"],
+      "options": [
+        "Kings Canyon National Park",
+        "Joshua Tree National Park",
+        "Yosemite National Park",
+        "Sequoia National Park"
+      ],
       "correctAnswer": 2,
       "explanation": "El Capitan is a 3,000-foot vertical rock formation in Yosemite National Park in California. It is one of the most famous rock climbing destinations in the world and a centerpiece of Yosemite Valley.",
       "difficulty": "medium",
@@ -79,8 +119,13 @@
     {
       "id": "travel-9",
       "question": "Which iconic scenic drive runs along the California coast from Monterey to Morro Bay?",
-      "options": ["Blue Ridge Parkway", "Pacific Coast Highway (Highway 1)", "Overseas Highway", "Going-to-the-Sun Road"],
-      "correctAnswer": 1,
+      "options": [
+        "Pacific Coast Highway (Highway 1)",
+        "Going-to-the-Sun Road",
+        "Blue Ridge Parkway",
+        "Overseas Highway"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Pacific Coast Highway, also known as Highway 1, offers stunning views of the California coastline. The stretch through Big Sur between Monterey and Morro Bay is especially famous for its dramatic cliffs and ocean vistas.",
       "difficulty": "medium",
       "category": "geography"
@@ -88,8 +133,13 @@
     {
       "id": "travel-10",
       "question": "What style of deep-dish pizza is Chicago famously known for?",
-      "options": ["Neapolitan style", "New York thin crust", "Chicago deep-dish", "Detroit square style"],
-      "correctAnswer": 2,
+      "options": [
+        "Detroit square style",
+        "Chicago deep-dish",
+        "Neapolitan style",
+        "New York thin crust"
+      ],
+      "correctAnswer": 1,
       "explanation": "Chicago is famous for its deep-dish pizza, which features a thick, buttery crust pressed into a deep round pan, layered with cheese, toppings, and chunky tomato sauce on top. It was popularized by Pizzeria Uno in 1943.",
       "difficulty": "medium",
       "category": "geography"
@@ -97,7 +147,12 @@
     {
       "id": "travel-11",
       "question": "Which four presidents are carved into Mount Rushmore in South Dakota?",
-      "options": ["Washington, Adams, Jefferson, Lincoln", "Washington, Jefferson, Lincoln, Roosevelt (Theodore)", "Washington, Jefferson, Lincoln, Roosevelt (Franklin)", "Washington, Jefferson, Jackson, Lincoln"],
+      "options": [
+        "Washington, Jefferson, Lincoln, Roosevelt (Franklin)",
+        "Washington, Jefferson, Lincoln, Roosevelt (Theodore)",
+        "Washington, Adams, Jefferson, Lincoln",
+        "Washington, Jefferson, Jackson, Lincoln"
+      ],
       "correctAnswer": 1,
       "explanation": "Mount Rushmore features George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. The sculpture was carved between 1927 and 1941 under the direction of sculptor Gutzon Borglum.",
       "difficulty": "hard",
@@ -106,7 +161,12 @@
     {
       "id": "travel-12",
       "question": "The Going-to-the-Sun Road, one of America's most scenic drives, is located in which national park?",
-      "options": ["Glacier National Park", "Denali National Park", "Olympic National Park", "Mount Rainier National Park"],
+      "options": [
+        "Glacier National Park",
+        "Olympic National Park",
+        "Mount Rainier National Park",
+        "Denali National Park"
+      ],
       "correctAnswer": 0,
       "explanation": "Going-to-the-Sun Road is a 50-mile mountain road that crosses the Continental Divide in Glacier National Park, Montana. Completed in 1932, it is considered an engineering marvel and a National Historic Landmark.",
       "difficulty": "hard",
@@ -115,8 +175,13 @@
     {
       "id": "travel-13",
       "question": "Which U.S. state has the most national parks?",
-      "options": ["Utah", "Alaska", "California", "Colorado"],
-      "correctAnswer": 2,
+      "options": [
+        "California",
+        "Alaska",
+        "Utah",
+        "Colorado"
+      ],
+      "correctAnswer": 0,
       "explanation": "California has the most national parks of any U.S. state with nine, including Yosemite, Death Valley, Joshua Tree, Sequoia, Kings Canyon, Redwood, Channel Islands, Pinnacles, and Lassen Volcanic.",
       "difficulty": "hard",
       "category": "geography"
@@ -124,8 +189,13 @@
     {
       "id": "travel-14",
       "question": "The Overseas Highway connects mainland Florida to which destination, crossing over 42 bridges?",
-      "options": ["Miami Beach", "The Bahamas", "Key West", "Fort Lauderdale"],
-      "correctAnswer": 2,
+      "options": [
+        "Fort Lauderdale",
+        "Key West",
+        "The Bahamas",
+        "Miami Beach"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Overseas Highway (U.S. Route 1) runs 113 miles from mainland Florida through the Florida Keys to Key West. It crosses 42 bridges, including the famous Seven Mile Bridge, and offers spectacular ocean views on both sides.",
       "difficulty": "hard",
       "category": "geography"
@@ -133,8 +203,13 @@
     {
       "id": "travel-15",
       "question": "Which southern U.S. city is famous for its beignets, jazz music, and the French Quarter?",
-      "options": ["Savannah, Georgia", "Charleston, South Carolina", "Nashville, Tennessee", "New Orleans, Louisiana"],
-      "correctAnswer": 3,
+      "options": [
+        "New Orleans, Louisiana",
+        "Nashville, Tennessee",
+        "Savannah, Georgia",
+        "Charleston, South Carolina"
+      ],
+      "correctAnswer": 0,
       "explanation": "New Orleans, Louisiana is world-renowned for its French Quarter, jazz music heritage, and beignets — pillowy fried pastries dusted with powdered sugar, famously served at Cafe Du Monde since 1862.",
       "difficulty": "hard",
       "category": "geography"

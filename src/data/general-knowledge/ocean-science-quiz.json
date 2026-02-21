@@ -1,0 +1,173 @@
+{
+  "id": "ocean-science-quiz",
+  "title": "Ocean Science",
+  "description": "Dive into the science of oceanography, currents, and marine phenomena",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "ocean-science-quiz-1",
+      "question": "What percentage of Earth's surface is covered by oceans?",
+      "options": [
+        "About 61%",
+        "About 71%",
+        "About 81%",
+        "About 50%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-2",
+      "question": "What is the deepest known point in the ocean?",
+      "options": [
+        "Tonga Trench",
+        "Mariana Trench",
+        "Java Trench",
+        "Puerto Rico Trench"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-3",
+      "question": "What causes ocean tides?",
+      "options": [
+        "Underwater volcanic activity",
+        "Gravitational pull of the Moon and Sun",
+        "Wind patterns",
+        "Earth's rotation alone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-4",
+      "question": "What is the name of the global system of interconnected ocean currents sometimes called the 'ocean conveyor belt'?",
+      "options": [
+        "Gulf Stream",
+        "Thermohaline circulation",
+        "El Niño",
+        "Coriolis current"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-5",
+      "question": "What process causes the ocean to absorb carbon dioxide from the atmosphere?",
+      "options": [
+        "Ocean carbon sink",
+        "Photosynthesis only",
+        "Evaporation",
+        "Desalination"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ocean-science-quiz-6",
+      "question": "What is the average salinity of seawater?",
+      "options": [
+        "About 7.5%",
+        "About 3.5%",
+        "About 1.5%",
+        "About 5.5%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-7",
+      "question": "What are hydrothermal vents on the ocean floor also known as?",
+      "options": [
+        "Sea stacks",
+        "Blue holes",
+        "Abyssal plains",
+        "Black smokers"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-science-quiz-8",
+      "question": "What phenomenon involves the periodic warming of surface waters in the eastern Pacific Ocean?",
+      "options": [
+        "La Niña",
+        "Tsunami",
+        "Monsoon",
+        "El Niño"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-science-quiz-9",
+      "question": "What is the photic zone of the ocean?",
+      "options": [
+        "The deepest part of the ocean",
+        "The area near the shore",
+        "The frozen surface layer",
+        "The layer where sunlight penetrates"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-science-quiz-10",
+      "question": "What instrument is used to measure ocean depth using sound waves?",
+      "options": [
+        "Seismograph",
+        "Barometer",
+        "Sonar",
+        "Anemometer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-science-quiz-11",
+      "question": "What is ocean acidification primarily caused by?",
+      "options": [
+        "Oil spills",
+        "Agricultural runoff",
+        "Volcanic eruptions",
+        "Absorption of excess carbon dioxide"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-science-quiz-12",
+      "question": "Who was the first person to reach the bottom of the Mariana Trench in 1960?",
+      "options": [
+        "Jacques Piccard and Don Walsh",
+        "James Cameron",
+        "Jacques Cousteau",
+        "Robert Ballard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ocean-science-quiz-13",
+      "question": "What type of ecosystem, found in warm shallow waters, is sometimes called the 'rainforest of the sea'?",
+      "options": [
+        "Seagrass meadow",
+        "Coral reef",
+        "Mangrove swamp",
+        "Kelp forest"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-science-quiz-14",
+      "question": "What is the name for the boundary between warm surface water and cold deep water in the ocean?",
+      "options": [
+        "Thermocline",
+        "Halocline",
+        "Pycnocline",
+        "Chemocline"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ocean-science-quiz-15",
+      "question": "What famous underwater research vessel was used by Jacques Cousteau?",
+      "options": [
+        "Trieste",
+        "Calypso",
+        "Alvin",
+        "Nautilus"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

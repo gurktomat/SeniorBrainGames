@@ -8,8 +8,13 @@
     {
       "id": "fm-1",
       "question": "The Colosseum, an ancient amphitheater that could seat around 50,000 spectators, is located in which city?",
-      "options": ["Athens", "Rome", "Istanbul", "Cairo"],
-      "correctAnswer": 1,
+      "options": [
+        "Athens",
+        "Cairo",
+        "Istanbul",
+        "Rome"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Colosseum is located in Rome, Italy. Built between 70-80 AD, it is the largest ancient amphitheater ever built and was used for gladiatorial contests and public spectacles.",
       "difficulty": "easy",
       "category": "geography"
@@ -17,8 +22,13 @@
     {
       "id": "fm-2",
       "question": "In which country would you find the Great Sphinx?",
-      "options": ["Iraq", "Jordan", "Egypt", "Iran"],
-      "correctAnswer": 2,
+      "options": [
+        "Iraq",
+        "Iran",
+        "Jordan",
+        "Egypt"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Great Sphinx of Giza is located on the Giza Plateau near Cairo, Egypt. It has the body of a lion and the head of a human, believed to represent Pharaoh Khafre, and dates to around 2500 BC.",
       "difficulty": "easy",
       "category": "geography"
@@ -26,7 +36,12 @@
     {
       "id": "fm-3",
       "question": "The Christ the Redeemer statue overlooks which South American city?",
-      "options": ["Buenos Aires", "Lima", "Rio de Janeiro", "Bogota"],
+      "options": [
+        "Buenos Aires",
+        "Lima",
+        "Rio de Janeiro",
+        "Bogota"
+      ],
       "correctAnswer": 2,
       "explanation": "The Christ the Redeemer statue stands atop Mount Corcovado overlooking Rio de Janeiro, Brazil. Completed in 1931, it stands 98 feet tall and is one of the New Seven Wonders of the World.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "fm-4",
       "question": "Mount Rushmore features the carved faces of how many U.S. presidents?",
-      "options": ["Three", "Four", "Five", "Six"],
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
       "correctAnswer": 1,
       "explanation": "Mount Rushmore in South Dakota features the faces of four U.S. presidents: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. It was carved between 1927 and 1941.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "fm-5",
       "question": "The Parthenon, an ancient temple dedicated to the goddess Athena, is located in which city?",
-      "options": ["Rome", "Athens", "Sparta", "Istanbul"],
-      "correctAnswer": 1,
+      "options": [
+        "Sparta",
+        "Istanbul",
+        "Rome",
+        "Athens"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Parthenon sits atop the Acropolis in Athens, Greece. Built between 447-432 BC, it is considered the finest example of Doric architecture and was dedicated to the goddess Athena Parthenos.",
       "difficulty": "easy",
       "category": "geography"
@@ -53,8 +78,13 @@
     {
       "id": "fm-6",
       "question": "The Leaning Tower of Pisa began tilting during construction in which century?",
-      "options": ["10th century", "12th century", "14th century", "16th century"],
-      "correctAnswer": 1,
+      "options": [
+        "16th century",
+        "14th century",
+        "12th century",
+        "10th century"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Tower of Pisa began tilting during construction in the 12th century (construction started in 1173) due to soft ground on one side. It took nearly 200 years to complete and now leans about 3.97 degrees.",
       "difficulty": "medium",
       "category": "geography"
@@ -62,8 +92,13 @@
     {
       "id": "fm-7",
       "question": "Angkor Wat, the largest religious monument in the world, is located in which country?",
-      "options": ["Thailand", "Myanmar", "Cambodia", "Vietnam"],
-      "correctAnswer": 2,
+      "options": [
+        "Cambodia",
+        "Myanmar",
+        "Thailand",
+        "Vietnam"
+      ],
+      "correctAnswer": 0,
       "explanation": "Angkor Wat is located in Siem Reap, Cambodia. Originally built as a Hindu temple in the early 12th century by King Suryavarman II, it gradually transformed into a Buddhist temple. It covers over 400 acres.",
       "difficulty": "medium",
       "category": "geography"
@@ -71,8 +106,13 @@
     {
       "id": "fm-8",
       "question": "The Alhambra, a stunning palace and fortress complex, is located in which Spanish city?",
-      "options": ["Madrid", "Barcelona", "Seville", "Granada"],
-      "correctAnswer": 3,
+      "options": [
+        "Granada",
+        "Seville",
+        "Madrid",
+        "Barcelona"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Alhambra is located in Granada, Spain. Built primarily in the mid-13th to 14th centuries by the Nasrid dynasty, it is one of the finest examples of Moorish architecture in the world.",
       "difficulty": "medium",
       "category": "geography"
@@ -80,7 +120,12 @@
     {
       "id": "fm-9",
       "question": "Which ancient monument in England is a ring of standing stones dating back to around 3000 BC?",
-      "options": ["Hadrian's Wall", "Tower of London", "Stonehenge", "Bath Roman Baths"],
+      "options": [
+        "Tower of London",
+        "Hadrian's Wall",
+        "Stonehenge",
+        "Bath Roman Baths"
+      ],
       "correctAnswer": 2,
       "explanation": "Stonehenge, located in Wiltshire, England, is a prehistoric monument of massive standing stones arranged in a circle. Its construction began around 3000 BC, and its exact purpose remains debated by scholars.",
       "difficulty": "medium",
@@ -89,7 +134,12 @@
     {
       "id": "fm-10",
       "question": "The Gateway Arch, the tallest man-made monument in the United States, is located in which city?",
-      "options": ["Chicago", "New York", "St. Louis", "Washington, D.C."],
+      "options": [
+        "Washington, D.C.",
+        "Chicago",
+        "St. Louis",
+        "New York"
+      ],
       "correctAnswer": 2,
       "explanation": "The Gateway Arch stands 630 feet tall in St. Louis, Missouri. Completed in 1965, it was designed by architect Eero Saarinen and commemorates the westward expansion of the United States.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "fm-11",
       "question": "Petra, an ancient city carved into rose-red cliffs, is located in which modern country?",
-      "options": ["Israel", "Jordan", "Lebanon", "Syria"],
-      "correctAnswer": 1,
+      "options": [
+        "Israel",
+        "Syria",
+        "Lebanon",
+        "Jordan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Petra is located in southern Jordan. Carved into vibrant red sandstone cliffs by the Nabataeans over 2,000 years ago, it was unknown to the Western world until Swiss explorer Johann Ludwig Burckhardt rediscovered it in 1812.",
       "difficulty": "hard",
       "category": "geography"
@@ -107,8 +162,13 @@
     {
       "id": "fm-12",
       "question": "The Moai, mysterious giant stone statues, are found on which remote Pacific island?",
-      "options": ["Fiji", "Easter Island", "Tahiti", "Samoa"],
-      "correctAnswer": 1,
+      "options": [
+        "Samoa",
+        "Tahiti",
+        "Easter Island",
+        "Fiji"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Moai are monolithic human figures carved by the Rapa Nui people on Easter Island (Rapa Nui) in the southeastern Pacific Ocean. Nearly 1,000 statues were carved between 1250 and 1500 AD.",
       "difficulty": "hard",
       "category": "geography"
@@ -116,7 +176,12 @@
     {
       "id": "fm-13",
       "question": "The ancient rock-hewn churches of Lalibela are located in which African country?",
-      "options": ["Kenya", "Sudan", "Ethiopia", "Tanzania"],
+      "options": [
+        "Sudan",
+        "Kenya",
+        "Ethiopia",
+        "Tanzania"
+      ],
       "correctAnswer": 2,
       "explanation": "The 11 medieval monolithic cave churches of Lalibela are located in Ethiopia. Carved from solid rock in the 12th-13th centuries, they are often called the 'Eighth Wonder of the World' and remain active places of worship.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "fm-14",
       "question": "The Terracotta Army, thousands of life-sized clay soldiers, was buried with which Chinese emperor?",
-      "options": ["Emperor Wu", "Emperor Qin Shi Huang", "Emperor Taizong", "Emperor Kangxi"],
-      "correctAnswer": 1,
+      "options": [
+        "Emperor Wu",
+        "Emperor Kangxi",
+        "Emperor Taizong",
+        "Emperor Qin Shi Huang"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Terracotta Army was buried with Emperor Qin Shi Huang, the first Emperor of China, around 210 BC. Discovered by farmers in 1974 near Xi'an, the army includes over 8,000 soldiers, horses, and chariots.",
       "difficulty": "hard",
       "category": "geography"
@@ -134,7 +204,12 @@
     {
       "id": "fm-15",
       "question": "Borobudur, the world's largest Buddhist temple, is located on which Indonesian island?",
-      "options": ["Bali", "Sumatra", "Java", "Borneo"],
+      "options": [
+        "Sumatra",
+        "Bali",
+        "Java",
+        "Borneo"
+      ],
       "correctAnswer": 2,
       "explanation": "Borobudur is located on the island of Java, Indonesia. Built in the 9th century during the Sailendra dynasty, it contains 2,672 relief panels and 504 Buddha statues. It was rediscovered in the 19th century under volcanic ash.",
       "difficulty": "hard",

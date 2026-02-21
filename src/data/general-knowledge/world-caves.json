@@ -7,92 +7,167 @@
     {
       "id": "world-caves-1",
       "question": "Mammoth Cave, the world's longest known cave system, is located in which U.S. state?",
-      "options": ["Virginia", "Tennessee", "Kentucky", "West Virginia"],
+      "options": [
+        "West Virginia",
+        "Virginia",
+        "Kentucky",
+        "Tennessee"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-caves-2",
       "question": "The Lascaux Cave in France is famous for its prehistoric what?",
-      "options": ["Fossils", "Cave paintings", "Crystal formations", "Underground rivers"],
-      "correctAnswer": 1
+      "options": [
+        "Fossils",
+        "Underground rivers",
+        "Crystal formations",
+        "Cave paintings"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-caves-3",
       "question": "Carlsbad Caverns, known for its massive bat flights, is located in which U.S. state?",
-      "options": ["Arizona", "Texas", "New Mexico", "Nevada"],
+      "options": [
+        "Arizona",
+        "Nevada",
+        "New Mexico",
+        "Texas"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-caves-4",
       "question": "The Cave of Crystals, containing giant selenite crystals up to 36 feet long, was discovered in which country?",
-      "options": ["Brazil", "Mexico", "Peru", "Colombia"],
+      "options": [
+        "Colombia",
+        "Mexico",
+        "Brazil",
+        "Peru"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-caves-5",
       "question": "What is the term for a rock formation that hangs from the ceiling of a cave?",
-      "options": ["Stalagmite", "Stalactite", "Column", "Flowstone"],
-      "correctAnswer": 1
+      "options": [
+        "Stalactite",
+        "Column",
+        "Stalagmite",
+        "Flowstone"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-caves-6",
       "question": "The Waitomo Caves in New Zealand are famous for which glowing creatures?",
-      "options": ["Fireflies", "Glowworms", "Bioluminescent fish", "Phosphorescent algae"],
-      "correctAnswer": 1
+      "options": [
+        "Glowworms",
+        "Bioluminescent fish",
+        "Fireflies",
+        "Phosphorescent algae"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-caves-7",
       "question": "Altamira Cave, known for its stunning prehistoric art, is located in which European country?",
-      "options": ["France", "Italy", "Spain", "Portugal"],
+      "options": [
+        "Portugal",
+        "Italy",
+        "Spain",
+        "France"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-caves-8",
       "question": "The Dead Sea Scrolls were discovered in caves near which body of water?",
-      "options": ["Sea of Galilee", "Dead Sea", "Mediterranean Sea", "Red Sea"],
+      "options": [
+        "Mediterranean Sea",
+        "Dead Sea",
+        "Red Sea",
+        "Sea of Galilee"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-caves-9",
       "question": "Hang Son Doong, considered the world's largest cave passage by volume, is found in which country?",
-      "options": ["China", "Vietnam", "Laos", "Thailand"],
-      "correctAnswer": 1
+      "options": [
+        "Thailand",
+        "Laos",
+        "Vietnam",
+        "China"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-caves-10",
       "question": "The Blue Grotto, a sea cave famous for its brilliant blue water, is found on which Italian island?",
-      "options": ["Sicily", "Sardinia", "Capri", "Elba"],
-      "correctAnswer": 2
+      "options": [
+        "Capri",
+        "Sicily",
+        "Sardinia",
+        "Elba"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-caves-11",
       "question": "What type of rock are most caves formed in, dissolved by mildly acidic groundwater?",
-      "options": ["Granite", "Sandstone", "Limestone", "Basalt"],
-      "correctAnswer": 2
+      "options": [
+        "Granite",
+        "Basalt",
+        "Sandstone",
+        "Limestone"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-caves-12",
       "question": "The Eisriesenwelt ice cave, one of the world's largest, is located in which European country?",
-      "options": ["Switzerland", "Austria", "Germany", "Norway"],
-      "correctAnswer": 1
+      "options": [
+        "Norway",
+        "Switzerland",
+        "Germany",
+        "Austria"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-caves-13",
       "question": "Fingal's Cave on the island of Staffa inspired an overture by which composer?",
-      "options": ["Beethoven", "Mendelssohn", "Brahms", "Wagner"],
+      "options": [
+        "Wagner",
+        "Mendelssohn",
+        "Brahms",
+        "Beethoven"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-caves-14",
       "question": "The Jenolan Caves, one of the oldest open cave systems in the world, are in which country?",
-      "options": ["South Africa", "New Zealand", "Australia", "Canada"],
-      "correctAnswer": 2
+      "options": [
+        "New Zealand",
+        "Australia",
+        "South Africa",
+        "Canada"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-caves-15",
       "question": "What is the scientific study of caves called?",
-      "options": ["Geology", "Speleology", "Paleontology", "Mineralogy"],
-      "correctAnswer": 1
+      "options": [
+        "Speleology",
+        "Geology",
+        "Paleontology",
+        "Mineralogy"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

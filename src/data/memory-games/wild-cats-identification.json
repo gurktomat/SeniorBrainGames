@@ -1,0 +1,173 @@
+{
+  "id": "wild-cats-identification",
+  "title": "Wild Cats Identification",
+  "description": "How well do you know the wild cats of the world? Test your knowledge of these fascinating felines",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "wild-cats-identification-1",
+      "question": "Which small wild cat native to Africa is known for its incredibly long legs relative to its body, making it the tallest of all small cats?",
+      "options": [
+        "Caracal",
+        "African Wildcat",
+        "Serval",
+        "Sand Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-2",
+      "question": "Which wild cat from Central and South America has a beautiful spotted coat and is the largest wild cat in the Americas after the jaguar and puma?",
+      "options": [
+        "Jaguarundi",
+        "Oncilla",
+        "Margay",
+        "Ocelot"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wild-cats-identification-3",
+      "question": "Which medium-sized wild cat has distinctive tufted ears with long black hair extending from the tips?",
+      "options": [
+        "Bobcat",
+        "Serval",
+        "Caracal",
+        "Lynx"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-4",
+      "question": "Which wild cat is adapted to desert environments and has fur-covered paws to protect against hot sand?",
+      "options": [
+        "Pallas's Cat",
+        "African Wildcat",
+        "Sand Cat",
+        "Black-footed Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-5",
+      "question": "Which wild cat native to the mountains of Central Asia has an extremely long, thick tail and dense fur for surviving cold temperatures?",
+      "options": [
+        "Pallas's Cat",
+        "Eurasian Lynx",
+        "Snow Leopard",
+        "Clouded Leopard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-6",
+      "question": "Which small wild cat from southern Africa is considered one of the deadliest cats in the world, with a hunting success rate of about 60%?",
+      "options": [
+        "Black-footed Cat",
+        "Rusty-spotted Cat",
+        "African Wildcat",
+        "Sand Cat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wild-cats-identification-7",
+      "question": "Which Asian wild cat has a stocky body, round face, and extremely dense fur, and is sometimes called the 'ugliest cat in the world'?",
+      "options": [
+        "Fishing Cat",
+        "Jungle Cat",
+        "Pallas's Cat",
+        "Flat-headed Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-8",
+      "question": "Which wild cat from Southeast Asia is known for its ability to catch fish by diving into water and has partially webbed paws?",
+      "options": [
+        "Flat-headed Cat",
+        "Jungle Cat",
+        "Fishing Cat",
+        "Asian Golden Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-9",
+      "question": "Which North American wild cat has a short 'bobbed' tail and is the most abundant wild cat on the continent?",
+      "options": [
+        "Ocelot",
+        "Canadian Lynx",
+        "Jaguarundi",
+        "Bobcat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wild-cats-identification-10",
+      "question": "Which wild cat from Southeast Asia has cloud-shaped markings on its coat and is considered a bridge between big cats and small cats?",
+      "options": [
+        "Clouded Leopard",
+        "Asian Leopard Cat",
+        "Bay Cat",
+        "Marbled Cat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wild-cats-identification-11",
+      "question": "Which wild cat is believed to be the ancestor of the domestic cat and is native to Africa and the Middle East?",
+      "options": [
+        "European Wildcat",
+        "Jungle Cat",
+        "African Wildcat",
+        "Sand Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-12",
+      "question": "Which wild cat species found in Sri Lanka and India holds the title of the smallest wild cat in the world?",
+      "options": [
+        "Rusty-spotted Cat",
+        "Flat-headed Cat",
+        "Black-footed Cat",
+        "Kodkod"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wild-cats-identification-13",
+      "question": "Which wild cat from South America is the smallest wild cat in the Americas and lives in temperate rainforests?",
+      "options": [
+        "Margay",
+        "Pampas Cat",
+        "Kodkod",
+        "Oncilla"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wild-cats-identification-14",
+      "question": "Which North American wild cat has large snowshoe-like paws that act as natural snowshoes in deep snow?",
+      "options": [
+        "Canadian Lynx",
+        "Bobcat",
+        "Cougar",
+        "Jaguarundi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wild-cats-identification-15",
+      "question": "Which small wild cat from South America has an extraordinary ability to rotate its ankle joints 180 degrees, allowing it to climb down trees headfirst?",
+      "options": [
+        "Margay",
+        "Jaguarundi",
+        "Oncilla",
+        "Ocelot"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

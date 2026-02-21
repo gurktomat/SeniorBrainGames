@@ -1,0 +1,173 @@
+{
+  "id": "canal-waterway-quiz",
+  "title": "Canal & Waterway Quiz",
+  "description": "Navigate through questions about the world's most famous canals and waterways, from ancient irrigation to modern shipping routes.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "canal-waterway-quiz-1",
+      "question": "The Panama Canal connects the Atlantic Ocean to which other ocean?",
+      "options": [
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Southern Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "canal-waterway-quiz-2",
+      "question": "The Suez Canal, one of the world's most important shipping routes, connects the Mediterranean Sea to which body of water?",
+      "options": [
+        "Indian Ocean",
+        "Arabian Sea",
+        "Red Sea",
+        "Persian Gulf"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "canal-waterway-quiz-3",
+      "question": "Venice, Italy, is famous for its canals. What is the main waterway running through the city called?",
+      "options": [
+        "Canale della Giudecca",
+        "Rio di Palazzo",
+        "Canal Grande",
+        "Rio di San Marco"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "canal-waterway-quiz-4",
+      "question": "The Erie Canal, completed in 1825, connects the Great Lakes to which river in New York State?",
+      "options": [
+        "Hudson River",
+        "Delaware River",
+        "Mohawk River",
+        "Susquehanna River"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "canal-waterway-quiz-5",
+      "question": "The Amsterdam Canal Ring, a UNESCO World Heritage Site, was largely constructed during which century?",
+      "options": [
+        "18th century",
+        "17th century",
+        "16th century",
+        "15th century"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "canal-waterway-quiz-6",
+      "question": "The Corinth Canal in Greece cuts through a narrow isthmus to connect which two bodies of water?",
+      "options": [
+        "Mediterranean Sea and Black Sea",
+        "Aegean Sea and Ionian Sea",
+        "Gulf of Corinth and Saronic Gulf",
+        "Adriatic Sea and Ionian Sea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "canal-waterway-quiz-7",
+      "question": "The Grand Canal of China, the longest canal in the world, stretches from Beijing to which city?",
+      "options": [
+        "Nanjing",
+        "Shanghai",
+        "Guangzhou",
+        "Hangzhou"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "canal-waterway-quiz-8",
+      "question": "The Kiel Canal connects the North Sea to which other sea, allowing ships to avoid sailing around Denmark?",
+      "options": [
+        "Irish Sea",
+        "Baltic Sea",
+        "Barents Sea",
+        "Norwegian Sea"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "canal-waterway-quiz-9",
+      "question": "The Panama Canal uses a system of locks to raise and lower ships. How many sets of locks does it have?",
+      "options": [
+        "Four",
+        "Two",
+        "Six",
+        "Three"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "canal-waterway-quiz-10",
+      "question": "The Canal du Midi in southern France, built in the 17th century, connects the Garonne River to which sea?",
+      "options": [
+        "Mediterranean Sea",
+        "English Channel",
+        "Atlantic Ocean",
+        "Bay of Biscay"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "canal-waterway-quiz-11",
+      "question": "The Bruges canals earned the Belgian city which romantic nickname?",
+      "options": [
+        "The Water City",
+        "Canal Capital",
+        "Little Amsterdam",
+        "Venice of the North"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "canal-waterway-quiz-12",
+      "question": "The Welland Canal in Canada allows ships to bypass which famous waterfall between Lake Erie and Lake Ontario?",
+      "options": [
+        "Niagara Falls",
+        "Bridal Veil Falls",
+        "Horseshoe Falls",
+        "Montmorency Falls"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "canal-waterway-quiz-13",
+      "question": "The Suez Canal was opened in which year?",
+      "options": [
+        "1869",
+        "1849",
+        "1879",
+        "1859"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "canal-waterway-quiz-14",
+      "question": "The Falkirk Wheel in Scotland is the world's only rotating boat lift, connecting which two canals?",
+      "options": [
+        "Monkland and Forth",
+        "Edinburgh and Glasgow",
+        "Forth and Clyde and Union",
+        "Caledonian and Crinan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "canal-waterway-quiz-15",
+      "question": "The Göta Canal, sometimes called 'Sweden's Blue Ribbon,' connects the west coast to which sea on the east coast?",
+      "options": [
+        "Norwegian Sea",
+        "North Sea",
+        "Barents Sea",
+        "Baltic Sea"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "semicolons-colons-quiz",
+  "title": "Semicolons & Colons Quiz",
+  "description": "Two of the most misunderstood punctuation marks! Learn when to use semicolons and colons correctly.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "semicolons-colons-quiz-1",
+      "question": "Which sentence uses a semicolon correctly?",
+      "options": [
+        "I love coffee; it keeps me awake.",
+        "I; love coffee it keeps me awake.",
+        "I love; coffee it keeps me awake.",
+        "I love coffee it; keeps me awake."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-2",
+      "question": "When should you use a colon?",
+      "options": [
+        "To introduce a list, explanation, or elaboration",
+        "To join two unrelated sentences",
+        "To separate a subject from a verb",
+        "To replace a period at the end of a sentence"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-3",
+      "question": "Which sentence uses a colon correctly?",
+      "options": [
+        "She needed three things: eggs, milk, and bread.",
+        "She needed three things; eggs, milk, and bread.",
+        "She needed: eggs, milk, and bread.",
+        "She: needed eggs, milk, and bread."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-4",
+      "question": "A semicolon connects two clauses that are ___.",
+      "options": [
+        "Independent but closely related",
+        "Unrelated ideas",
+        "Dependent clauses",
+        "Questions and answers"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-5",
+      "question": "Which is correct? 'I have visited three cities ___ Paris, London, and Rome.'",
+      "options": [
+        "comma (,)",
+        "semicolon (;)",
+        "colon (:)",
+        "dash (—)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "semicolons-colons-quiz-6",
+      "question": "Which sentence uses a semicolon correctly with a conjunctive adverb?",
+      "options": [
+        "It was raining; therefore we, stayed inside.",
+        "It was raining therefore; we stayed inside.",
+        "It was raining, therefore; we stayed inside.",
+        "It was raining; therefore, we stayed inside."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "semicolons-colons-quiz-7",
+      "question": "When should you use a semicolon in a list?",
+      "options": [
+        "Only in formal writing",
+        "Never in a list",
+        "When list items themselves contain commas",
+        "In every list"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "semicolons-colons-quiz-8",
+      "question": "Which is correct?",
+      "options": [
+        "Dear Mr. Smith:",
+        "Dear Mr. Smith;",
+        "Both B and C are acceptable",
+        "Dear Mr. Smith,"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "semicolons-colons-quiz-9",
+      "question": "Which sentence uses punctuation correctly?",
+      "options": [
+        "He had one goal: to finish the race.",
+        "He had one goal; to finish the race.",
+        "He had: one goal to finish the race.",
+        "He had one goal, to finish the race."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-10",
+      "question": "Which is the correct use of a semicolon?",
+      "options": [
+        "She likes tea; he likes coffee.",
+        "She likes tea; and he likes coffee.",
+        "She; likes tea he likes coffee.",
+        "She likes; tea he likes coffee."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "semicolons-colons-quiz-11",
+      "question": "A colon should generally follow ___.",
+      "options": [
+        "A verb",
+        "A complete independent clause",
+        "A sentence fragment",
+        "A preposition"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "semicolons-colons-quiz-12",
+      "question": "Which use of a colon is correct for time?",
+      "options": [
+        "The meeting is at 3.30 p.m.",
+        "The meeting is at 3:30 p.m.",
+        "The meeting is at 3;30 p.m.",
+        "Both B and C are acceptable"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "semicolons-colons-quiz-13",
+      "question": "Which sentence correctly uses a semicolon in a complex list?",
+      "options": [
+        "We visited Paris; France, London; England, and Rome; Italy.",
+        "We visited Paris France; London England; and Rome Italy.",
+        "We visited Paris, France, London, England, and Rome, Italy.",
+        "We visited Paris, France; London, England; and Rome, Italy."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "semicolons-colons-quiz-14",
+      "question": "Can you use a semicolon before 'because'?",
+      "options": [
+        "Yes, always",
+        "Only in formal writing",
+        "No, because 'because' introduces a dependent clause",
+        "Only at the start of a sentence"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "semicolons-colons-quiz-15",
+      "question": "Which is correct? 'Remember what Mom always said ___ \"Be kind to others.\"'",
+      "options": [
+        "comma (,)",
+        "period (.)",
+        "semicolon (;)",
+        "colon (:)"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

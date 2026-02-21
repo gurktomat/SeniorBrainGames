@@ -7,92 +7,167 @@
     {
       "id": "australian-slang-1",
       "question": "In Australian slang, what does 'arvo' mean?",
-      "options": ["Morning", "Afternoon", "Evening", "Midnight"],
+      "options": [
+        "Evening",
+        "Afternoon",
+        "Midnight",
+        "Morning"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "australian-slang-2",
       "question": "What does 'she'll be right' mean in Australian English?",
-      "options": ["She's always correct", "Turn right at the corner", "Everything will be fine", "She's on her way"],
-      "correctAnswer": 2
+      "options": [
+        "She's always correct",
+        "She's on her way",
+        "Turn right at the corner",
+        "Everything will be fine"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-3",
       "question": "If an Australian says someone is 'flat out like a lizard drinking,' what do they mean?",
-      "options": ["Relaxing lazily", "Very busy", "Extremely thirsty", "Lying on the ground"],
-      "correctAnswer": 1
+      "options": [
+        "Relaxing lazily",
+        "Lying on the ground",
+        "Extremely thirsty",
+        "Very busy"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-4",
       "question": "What is a 'brekkie' in Australian slang?",
-      "options": ["A break from work", "A small brick", "Breakfast", "A broken item"],
+      "options": [
+        "A small brick",
+        "A broken item",
+        "Breakfast",
+        "A break from work"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "australian-slang-5",
       "question": "In Australian slang, what does 'chunder' mean?",
-      "options": ["Thunder", "To vomit", "To wonder", "To steal"],
+      "options": [
+        "Thunder",
+        "To vomit",
+        "To steal",
+        "To wonder"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "australian-slang-6",
       "question": "What does 'fair dinkum' mean in Australian English?",
-      "options": ["A fair price", "Genuine or true", "A carnival game", "A type of boat"],
-      "correctAnswer": 1
+      "options": [
+        "A fair price",
+        "A type of boat",
+        "Genuine or true",
+        "A carnival game"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "australian-slang-7",
       "question": "If someone offers you a 'cuppa' in Australia, what are they offering?",
-      "options": ["A cupcake", "A cup of tea", "A copper coin", "A small cup"],
+      "options": [
+        "A cupcake",
+        "A cup of tea",
+        "A small cup",
+        "A copper coin"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "australian-slang-8",
       "question": "What does 'budgie smugglers' refer to in Australian slang?",
-      "options": ["Bird thieves", "Men's tight swim trunks", "Small backpacks", "Hidden parrots"],
-      "correctAnswer": 1
+      "options": [
+        "Small backpacks",
+        "Hidden parrots",
+        "Bird thieves",
+        "Men's tight swim trunks"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-9",
       "question": "In Australian slang, what is a 'barbie'?",
-      "options": ["A doll", "A barbecue", "A barber", "A barn"],
+      "options": [
+        "A barn",
+        "A barbecue",
+        "A barber",
+        "A doll"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "australian-slang-10",
       "question": "What does 'no worries' typically convey in Australian English?",
-      "options": ["I'm stressed out", "You're welcome / It's all good", "I have no problems at all", "Don't talk to me"],
-      "correctAnswer": 1
+      "options": [
+        "I'm stressed out",
+        "I have no problems at all",
+        "You're welcome / It's all good",
+        "Don't talk to me"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "australian-slang-11",
       "question": "If an Australian calls you a 'drongo,' what are they saying?",
-      "options": ["You're clever", "You're a fool", "You're strong", "You're tall"],
-      "correctAnswer": 1
+      "options": [
+        "You're clever",
+        "You're strong",
+        "You're tall",
+        "You're a fool"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-12",
       "question": "What does 'sunnies' mean in Australian slang?",
-      "options": ["Sunny days", "Sunflowers", "Sunglasses", "Sunburns"],
-      "correctAnswer": 2
+      "options": [
+        "Sunflowers",
+        "Sunglasses",
+        "Sunny days",
+        "Sunburns"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "australian-slang-13",
       "question": "In Australian English, what does 'yakka' mean?",
-      "options": ["A type of animal", "Work", "Food", "A joke"],
-      "correctAnswer": 1
+      "options": [
+        "Food",
+        "A joke",
+        "A type of animal",
+        "Work"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-14",
       "question": "What is an 'esky' in Australian slang?",
-      "options": ["An Eskimo", "A portable cooler", "A ski resort", "A type of dog"],
-      "correctAnswer": 1
+      "options": [
+        "A type of dog",
+        "An Eskimo",
+        "A ski resort",
+        "A portable cooler"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "australian-slang-15",
       "question": "If an Australian says 'too easy,' what do they mean?",
-      "options": ["The task is beneath them", "No problem, happy to help", "It's suspiciously simple", "They refuse to do it"],
-      "correctAnswer": 1
+      "options": [
+        "The task is beneath them",
+        "It's suspiciously simple",
+        "They refuse to do it",
+        "No problem, happy to help"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

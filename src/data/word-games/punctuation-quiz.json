@@ -7,91 +7,166 @@
     {
       "id": "punctuation-quiz-1",
       "question": "What is the primary purpose of a semicolon (;)?",
-      "options": ["To end a sentence", "To link two closely related independent clauses", "To introduce a list", "To show possession"],
+      "options": [
+        "To introduce a list",
+        "To link two closely related independent clauses",
+        "To end a sentence",
+        "To show possession"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "punctuation-quiz-2",
       "question": "Which sentence uses an apostrophe correctly?",
-      "options": ["The dog wagged it's tail.", "Its a beautiful day.", "The children's toys were scattered about.", "The Smith's are coming to dinner."],
+      "options": [
+        "The dog wagged it's tail.",
+        "The Smith's are coming to dinner.",
+        "The children's toys were scattered about.",
+        "Its a beautiful day."
+      ],
       "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-3",
       "question": "What is an Oxford comma?",
-      "options": ["A comma used after a greeting", "A comma placed before the conjunction in a list of three or more items", "A comma used in British English only", "A comma placed after every word"],
-      "correctAnswer": 1
+      "options": [
+        "A comma placed before the conjunction in a list of three or more items",
+        "A comma used after a greeting",
+        "A comma placed after every word",
+        "A comma used in British English only"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "punctuation-quiz-4",
       "question": "When should you use a colon (:)?",
-      "options": ["Between two adjectives", "To introduce a list, explanation, or elaboration after an independent clause", "Instead of a period", "Before every proper noun"],
+      "options": [
+        "Before every proper noun",
+        "To introduce a list, explanation, or elaboration after an independent clause",
+        "Between two adjectives",
+        "Instead of a period"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "punctuation-quiz-5",
       "question": "What does an ellipsis (...) typically indicate in writing?",
-      "options": ["The end of a chapter", "An omission of words, a trailing off, or a pause", "A misspelling", "The start of a new paragraph"],
-      "correctAnswer": 1
+      "options": [
+        "An omission of words, a trailing off, or a pause",
+        "The end of a chapter",
+        "A misspelling",
+        "The start of a new paragraph"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "punctuation-quiz-6",
       "question": "Which mark is used to show a sudden break or interruption in thought?",
-      "options": ["Comma", "Semicolon", "Em dash (—)", "Period"],
+      "options": [
+        "Period",
+        "Comma",
+        "Em dash (—)",
+        "Semicolon"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-7",
       "question": "In American English, where do commas and periods go in relation to closing quotation marks?",
-      "options": ["Always outside", "Always inside", "It depends on the sentence", "They are never used together"],
+      "options": [
+        "Always outside",
+        "Always inside",
+        "They are never used together",
+        "It depends on the sentence"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "punctuation-quiz-8",
-      "question": "What is the difference between a hyphen (-) and an en dash (\u2013)?",
-      "options": ["There is no difference", "A hyphen joins words; an en dash indicates a range", "A hyphen is longer than an en dash", "An en dash joins words; a hyphen indicates a range"],
+      "question": "What is the difference between a hyphen (-) and an en dash (–)?",
+      "options": [
+        "There is no difference",
+        "A hyphen joins words; an en dash indicates a range",
+        "An en dash joins words; a hyphen indicates a range",
+        "A hyphen is longer than an en dash"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "punctuation-quiz-9",
       "question": "Which sentence correctly uses a question mark?",
-      "options": ["She asked if I was coming?", "I wonder whether it will rain?", "Could you please pass the salt?", "He said what was wrong?"],
+      "options": [
+        "He said what was wrong?",
+        "She asked if I was coming?",
+        "Could you please pass the salt?",
+        "I wonder whether it will rain?"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-10",
       "question": "What are parentheses ( ) primarily used for?",
-      "options": ["To emphasize important words", "To enclose additional or supplementary information", "To replace quotation marks", "To separate sentences"],
-      "correctAnswer": 1
+      "options": [
+        "To emphasize important words",
+        "To replace quotation marks",
+        "To enclose additional or supplementary information",
+        "To separate sentences"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-11",
       "question": "Which is the correct use of 'its' vs. 'it's'?",
-      "options": ["Its means 'it is'; it's shows possession", "It's means 'it is'; its shows possession", "They are interchangeable", "Neither is correct English"],
-      "correctAnswer": 1
+      "options": [
+        "Neither is correct English",
+        "Its means 'it is'; it's shows possession",
+        "It's means 'it is'; its shows possession",
+        "They are interchangeable"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-12",
       "question": "What punctuation mark is also called an 'exclamation point'?",
-      "options": ["?", "!", ";", ":"],
-      "correctAnswer": 1
+      "options": [
+        ";",
+        "?",
+        ":",
+        "!"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "punctuation-quiz-13",
       "question": "Square brackets [ ] are most commonly used in writing to:",
-      "options": ["Replace parentheses", "Add editorial comments or clarifications within quotations", "Denote whispered speech", "Indicate sarcasm"],
-      "correctAnswer": 1
+      "options": [
+        "Indicate sarcasm",
+        "Replace parentheses",
+        "Add editorial comments or clarifications within quotations",
+        "Denote whispered speech"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "punctuation-quiz-14",
       "question": "Which sentence uses commas correctly around a nonessential clause?",
-      "options": ["My brother who lives in Texas is visiting.", "My brother, who lives in Texas, is visiting.", "My brother who lives in Texas, is visiting.", "My, brother who lives in Texas is visiting."],
-      "correctAnswer": 1
+      "options": [
+        "My brother, who lives in Texas, is visiting.",
+        "My brother who lives in Texas is visiting.",
+        "My brother who lives in Texas, is visiting.",
+        "My, brother who lives in Texas is visiting."
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "punctuation-quiz-15",
       "question": "What is the slash (/) sometimes called in formal writing?",
-      "options": ["Backslash", "Virgule", "Solidus stroke", "Both 'virgule' and 'solidus' are accepted names"],
+      "options": [
+        "Backslash",
+        "Solidus stroke",
+        "Virgule",
+        "Both 'virgule' and 'solidus' are accepted names"
+      ],
       "correctAnswer": 3
     }
   ]

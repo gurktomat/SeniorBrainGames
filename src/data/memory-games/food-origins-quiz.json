@@ -8,9 +8,9 @@
       "id": "food-origins-quiz-1",
       "question": "Which country is the original home of croissants?",
       "options": [
-        "France",
-        "Austria",
         "Italy",
+        "Austria",
+        "France",
         "Belgium"
       ],
       "correctAnswer": 1
@@ -20,31 +20,31 @@
       "question": "Where did the dish paella originate?",
       "options": [
         "Mexico",
+        "Portugal",
         "Italy",
-        "Spain",
-        "Portugal"
+        "Spain"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "food-origins-quiz-3",
       "question": "Which country is credited with inventing sushi?",
       "options": [
+        "Korea",
         "China",
         "Japan",
-        "Korea",
         "Thailand"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "food-origins-quiz-4",
       "question": "Where did the hamburger as we know it originate?",
       "options": [
-        "Germany",
+        "Austria",
         "United States",
         "England",
-        "Austria"
+        "Germany"
       ],
       "correctAnswer": 1
     },
@@ -52,20 +52,20 @@
       "id": "food-origins-quiz-5",
       "question": "Which country is the birthplace of chocolate, originally consumed as a bitter drink?",
       "options": [
-        "Switzerland",
-        "Belgium",
+        "Brazil",
         "Mexico",
-        "Brazil"
+        "Switzerland",
+        "Belgium"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "food-origins-quiz-6",
       "question": "Where did the dish kimchi originate?",
       "options": [
         "Japan",
-        "China",
         "Vietnam",
+        "China",
         "Korea"
       ],
       "correctAnswer": 3
@@ -74,34 +74,34 @@
       "id": "food-origins-quiz-7",
       "question": "Which country is credited with creating the original Caesar salad?",
       "options": [
-        "Italy",
-        "United States",
         "Mexico",
+        "United States",
+        "Italy",
         "Greece"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "food-origins-quiz-8",
       "question": "Where did the dish hummus most likely originate?",
       "options": [
         "Greece",
-        "Turkey",
         "Middle East",
+        "Turkey",
         "India"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "food-origins-quiz-9",
       "question": "Which country is the birthplace of the pretzel?",
       "options": [
-        "Austria",
         "Germany",
         "Switzerland",
-        "France"
+        "France",
+        "Austria"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "food-origins-quiz-10",
@@ -118,21 +118,21 @@
       "id": "food-origins-quiz-11",
       "question": "Which country is credited with inventing ice cream as a frozen dessert?",
       "options": [
-        "Italy",
-        "China",
         "France",
-        "United States"
+        "United States",
+        "China",
+        "Italy"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "food-origins-quiz-12",
       "question": "Where did the dish biryani originate?",
       "options": [
         "India",
-        "Pakistan",
+        "Turkey",
         "Persia",
-        "Turkey"
+        "Pakistan"
       ],
       "correctAnswer": 2
     },
@@ -140,34 +140,34 @@
       "id": "food-origins-quiz-13",
       "question": "Which country is the original home of the bagel?",
       "options": [
-        "United States",
         "Germany",
-        "Poland",
-        "Russia"
+        "Russia",
+        "United States",
+        "Poland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "food-origins-quiz-14",
       "question": "Where did french fries most likely originate?",
       "options": [
+        "England",
         "France",
         "Belgium",
-        "Netherlands",
-        "England"
+        "Netherlands"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "food-origins-quiz-15",
       "question": "Which country gave the world the dish goulash?",
       "options": [
-        "Austria",
-        "Czech Republic",
         "Hungary",
-        "Romania"
+        "Romania",
+        "Austria",
+        "Czech Republic"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

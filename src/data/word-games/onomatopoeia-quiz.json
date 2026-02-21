@@ -8,8 +8,13 @@
     {
       "id": "ono-1",
       "question": "Which of these words is an onomatopoeia for the sound a cat makes?",
-      "options": ["Bark", "Meow", "Moo", "Chirp"],
-      "correctAnswer": 1,
+      "options": [
+        "Moo",
+        "Chirp",
+        "Bark",
+        "Meow"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Meow' is an onomatopoeia that imitates the sound a cat makes. Interestingly, different languages have different versions — in Japanese it's 'nyan' and in Arabic it's 'miau.'",
       "difficulty": "easy",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "ono-2",
       "question": "Which word imitates the sound of a small bell?",
-      "options": ["Boom", "Crash", "Jingle", "Thud"],
-      "correctAnswer": 2,
+      "options": [
+        "Boom",
+        "Crash",
+        "Thud",
+        "Jingle"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Jingle' imitates the light, ringing sound made by small bells or metal objects. Think of the phrase 'jingle bells' — the word sounds just like what it describes.",
       "difficulty": "easy",
       "category": "language"
@@ -26,7 +36,12 @@
     {
       "id": "ono-3",
       "question": "Which onomatopoeia describes the sound of a heavy object hitting the ground?",
-      "options": ["Whisper", "Thud", "Tinkle", "Hiss"],
+      "options": [
+        "Hiss",
+        "Thud",
+        "Whisper",
+        "Tinkle"
+      ],
       "correctAnswer": 1,
       "explanation": "'Thud' is an onomatopoeia for a dull, heavy sound, like a large object falling to the ground. The word itself sounds heavy and blunt when spoken aloud.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "ono-4",
       "question": "Which word imitates the sound of water boiling?",
-      "options": ["Sizzle", "Bubble", "Splash", "Drip"],
-      "correctAnswer": 1,
+      "options": [
+        "Splash",
+        "Drip",
+        "Sizzle",
+        "Bubble"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Bubble' imitates the gurgling, popping sound that water makes when it boils. The repeated 'b' sounds mimic the formation and bursting of bubbles.",
       "difficulty": "easy",
       "category": "language"
@@ -44,7 +64,12 @@
     {
       "id": "ono-5",
       "question": "Which word is an onomatopoeia for the sound of clapping hands?",
-      "options": ["Clap", "Stomp", "Snap", "Tap"],
+      "options": [
+        "Clap",
+        "Snap",
+        "Tap",
+        "Stomp"
+      ],
       "correctAnswer": 0,
       "explanation": "'Clap' is an onomatopoeia that imitates the sharp sound made when two flat surfaces (like hands) strike together. The short, abrupt sound of the word mirrors the action.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "ono-6",
       "question": "Which onomatopoeia describes the sound bacon makes in a frying pan?",
-      "options": ["Crunch", "Sizzle", "Pop", "Snap"],
-      "correctAnswer": 1,
+      "options": [
+        "Sizzle",
+        "Pop",
+        "Crunch",
+        "Snap"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Sizzle' imitates the continuous hissing sound that food makes when it is frying in hot oil or fat. The 'zz' sound in the word mimics the frying noise.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "ono-7",
       "question": "Which word imitates the sound of a quickly moving object through the air?",
-      "options": ["Clang", "Whoosh", "Crackle", "Rumble"],
-      "correctAnswer": 1,
+      "options": [
+        "Clang",
+        "Crackle",
+        "Whoosh",
+        "Rumble"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Whoosh' imitates the rushing sound made by something moving quickly through the air. The elongated 'oosh' sound captures the sensation of swift movement.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "ono-8",
       "question": "Which onomatopoeia represents the sound of a snake?",
-      "options": ["Buzz", "Hiss", "Growl", "Chirp"],
-      "correctAnswer": 1,
+      "options": [
+        "Hiss",
+        "Chirp",
+        "Buzz",
+        "Growl"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Hiss' imitates the sharp sibilant sound a snake makes. The extended 'ss' sound in the word directly mimics the snake's vocalization.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "ono-9",
       "question": "Which word imitates the sound of a large explosion?",
-      "options": ["Tinkle", "Patter", "Boom", "Murmur"],
-      "correctAnswer": 2,
+      "options": [
+        "Murmur",
+        "Boom",
+        "Tinkle",
+        "Patter"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Boom' is an onomatopoeia for a deep, resonant explosive sound. The long 'oo' vowel and the final 'm' give the word a sense of deep reverberation.",
       "difficulty": "medium",
       "category": "language"
@@ -89,7 +134,12 @@
     {
       "id": "ono-10",
       "question": "Which onomatopoeia describes the sound of rustling leaves?",
-      "options": ["Rustle", "Clatter", "Bang", "Honk"],
+      "options": [
+        "Rustle",
+        "Honk",
+        "Bang",
+        "Clatter"
+      ],
       "correctAnswer": 0,
       "explanation": "'Rustle' imitates the soft, whispering sound made by leaves, paper, or fabric moving gently. The soft 'r' and 'sl' sounds capture the gentle friction of surfaces brushing together.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "ono-11",
       "question": "Which of these words is an onomatopoeia meaning to eat noisily?",
-      "options": ["Dine", "Munch", "Feast", "Consume"],
-      "correctAnswer": 1,
+      "options": [
+        "Dine",
+        "Consume",
+        "Feast",
+        "Munch"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Munch' is an onomatopoeia that imitates the sound of chewing food noisily. The 'mun-ch' sound mimics the motion and noise of jaws working on crunchy food.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "ono-12",
       "question": "Which word is an onomatopoeia for a small amount of liquid falling?",
-      "options": ["Pour", "Flow", "Drip", "Stream"],
-      "correctAnswer": 2,
+      "options": [
+        "Drip",
+        "Stream",
+        "Flow",
+        "Pour"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Drip' is an onomatopoeia that captures the short, sharp sound of a single drop of liquid falling and hitting a surface. The abrupt 'ip' ending mimics the impact.",
       "difficulty": "hard",
       "category": "language"
@@ -116,7 +176,12 @@
     {
       "id": "ono-13",
       "question": "Which onomatopoeia describes the sound of a creaky door or floorboard?",
-      "options": ["Creak", "Slam", "Click", "Thump"],
+      "options": [
+        "Creak",
+        "Thump",
+        "Slam",
+        "Click"
+      ],
       "correctAnswer": 0,
       "explanation": "'Creak' is an onomatopoeia for the prolonged, squeaking sound made by something stiff or old bending under pressure, like a door hinge or wooden floorboard.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "ono-14",
       "question": "Which word imitates the low, continuous sound of an engine?",
-      "options": ["Beep", "Hum", "Ding", "Crack"],
-      "correctAnswer": 1,
+      "options": [
+        "Ding",
+        "Crack",
+        "Beep",
+        "Hum"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Hum' is an onomatopoeia for a low, steady, continuous sound. The nasal 'm' at the end of the word creates a vibrating resonance that mimics the sound of a running engine or electrical device.",
       "difficulty": "hard",
       "category": "language"
@@ -134,8 +204,13 @@
     {
       "id": "ono-15",
       "question": "Which of these is an onomatopoeia for the sound of a cork being removed from a bottle?",
-      "options": ["Crack", "Pop", "Snap", "Click"],
-      "correctAnswer": 1,
+      "options": [
+        "Pop",
+        "Click",
+        "Crack",
+        "Snap"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Pop' is an onomatopoeia for the sudden, sharp sound made when a cork is pulled from a bottle. The explosive 'p' sounds at both ends of the word mirror the burst of pressure being released.",
       "difficulty": "hard",
       "category": "language"

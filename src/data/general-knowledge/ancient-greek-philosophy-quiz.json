@@ -1,0 +1,173 @@
+{
+  "id": "ancient-greek-philosophy-quiz",
+  "title": "Ancient Greek Philosophy",
+  "description": "Journey through the ideas of Socrates, Plato, Aristotle, and other great thinkers",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "ancient-greek-philosophy-quiz-1",
+      "question": "What method of teaching through questioning is named after Socrates?",
+      "options": [
+        "The dialectic",
+        "The Socratic method",
+        "Syllogism",
+        "Rhetoric"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-2",
+      "question": "Plato's 'Theory of Forms' proposes that the physical world is a reflection of what?",
+      "options": [
+        "Perfect, eternal abstract realities",
+        "Human imagination",
+        "The gods' dreams",
+        "Mathematical equations"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-3",
+      "question": "What was the name of Aristotle's famous school in Athens?",
+      "options": [
+        "The Stoa",
+        "The Lyceum",
+        "The Academy",
+        "The Garden"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-4",
+      "question": "Which pre-Socratic philosopher proposed that everything is made of water?",
+      "options": [
+        "Thales",
+        "Anaximander",
+        "Heraclitus",
+        "Parmenides"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-5",
+      "question": "Heraclitus is famous for saying that you cannot step into the same river twice, emphasizing what concept?",
+      "options": [
+        "Divine order",
+        "Constant change",
+        "Permanence",
+        "Mathematical precision"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-6",
+      "question": "Which philosopher lived in a barrel (or large jar) and rejected material comforts?",
+      "options": [
+        "Pythagoras",
+        "Diogenes of Sinope",
+        "Epicurus",
+        "Zeno"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-7",
+      "question": "Epicurus founded a philosophy centered on what as the highest good?",
+      "options": [
+        "Pleasure (especially tranquility and freedom from pain)",
+        "Power",
+        "Knowledge",
+        "Virtue alone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-8",
+      "question": "How did Socrates die?",
+      "options": [
+        "By drinking hemlock after being sentenced to death",
+        "Of old age",
+        "In battle",
+        "By exile"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-9",
+      "question": "What is Aristotle's concept of 'eudaimonia' often translated as?",
+      "options": [
+        "Happiness or human flourishing",
+        "Wealth",
+        "Power",
+        "Justice"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-10",
+      "question": "Pythagoras is known both as a mathematician and as the leader of what?",
+      "options": [
+        "A philosophical and religious brotherhood",
+        "A theater company",
+        "A military force",
+        "A trade guild"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-11",
+      "question": "Plato's 'Allegory of the Cave' appears in which of his works?",
+      "options": [
+        "The Symposium",
+        "Timaeus",
+        "The Republic",
+        "Phaedo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-12",
+      "question": "Which philosopher argued that reality is composed of indivisible 'atoms' moving in a void?",
+      "options": [
+        "Democritus",
+        "Aristotle",
+        "Plato",
+        "Socrates"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-13",
+      "question": "Aristotle classified different types of government. Which did he consider the best?",
+      "options": [
+        "Tyranny",
+        "Polity (constitutional government)",
+        "Oligarchy",
+        "Democracy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-14",
+      "question": "What did the Skeptics (Pyrrhonists) believe about certain knowledge?",
+      "options": [
+        "That the gods reveal all truth",
+        "That certainty is impossible and one should suspend judgment",
+        "That only mathematics is true",
+        "That it is easily achieved"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greek-philosophy-quiz-15",
+      "question": "Who was Aristotle's most famous student?",
+      "options": [
+        "Alexander the Great",
+        "Pericles",
+        "Julius Caesar",
+        "Ptolemy"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

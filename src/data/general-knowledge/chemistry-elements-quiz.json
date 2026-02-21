@@ -1,0 +1,173 @@
+{
+  "id": "chemistry-elements-quiz",
+  "title": "Chemistry & Elements",
+  "description": "Discover the building blocks of matter with this chemistry challenge",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "chemistry-elements-quiz-1",
+      "question": "What is the most abundant element in the universe?",
+      "options": [
+        "Helium",
+        "Carbon",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-elements-quiz-2",
+      "question": "Which element's chemical symbol is 'Fe'?",
+      "options": [
+        "Iron",
+        "Fermium",
+        "Francium",
+        "Fluorine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-elements-quiz-3",
+      "question": "What is the only metal that is liquid at standard room temperature?",
+      "options": [
+        "Cesium",
+        "Bromine",
+        "Mercury",
+        "Gallium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-elements-quiz-4",
+      "question": "Which gas makes up about 21% of Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon",
+        "Nitrogen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-elements-quiz-5",
+      "question": "What type of chemical bond involves the sharing of electron pairs between atoms?",
+      "options": [
+        "Covalent bond",
+        "Hydrogen bond",
+        "Ionic bond",
+        "Metallic bond"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-elements-quiz-6",
+      "question": "What is the pH of pure water at room temperature?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-elements-quiz-7",
+      "question": "Which scientist created the first widely recognized periodic table of elements?",
+      "options": [
+        "John Dalton",
+        "Robert Boyle",
+        "Antoine Lavoisier",
+        "Dmitri Mendeleev"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-elements-quiz-8",
+      "question": "What are the noble gases known for?",
+      "options": [
+        "Being radioactive",
+        "Being highly reactive",
+        "Being chemically inert",
+        "Being extremely rare"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-elements-quiz-9",
+      "question": "What element is essential for all organic chemistry and life as we know it?",
+      "options": [
+        "Phosphorus",
+        "Carbon",
+        "Nitrogen",
+        "Silicon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-elements-quiz-10",
+      "question": "Which acid is commonly found in car batteries?",
+      "options": [
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Phosphoric acid",
+        "Sulfuric acid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-elements-quiz-11",
+      "question": "What is the chemical formula for table salt?",
+      "options": [
+        "CaCl2",
+        "KCl",
+        "NaCl",
+        "NaOH"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-elements-quiz-12",
+      "question": "Which element, atomic number 79, has been prized by civilizations for thousands of years?",
+      "options": [
+        "Gold",
+        "Copper",
+        "Platinum",
+        "Silver"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-elements-quiz-13",
+      "question": "What process converts a solid directly into a gas without passing through the liquid phase?",
+      "options": [
+        "Deposition",
+        "Condensation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-elements-quiz-14",
+      "question": "Which element is used in most semiconductor chips and computer processors?",
+      "options": [
+        "Gallium",
+        "Germanium",
+        "Silicon",
+        "Carbon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-elements-quiz-15",
+      "question": "What does the atomic number of an element represent?",
+      "options": [
+        "Number of protons",
+        "Number of neutrons",
+        "Total mass of the atom",
+        "Number of electrons in the outer shell"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

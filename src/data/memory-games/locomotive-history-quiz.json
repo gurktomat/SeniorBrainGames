@@ -1,0 +1,173 @@
+{
+  "id": "locomotive-history-quiz",
+  "title": "Locomotive History Quiz",
+  "description": "Chug through history and recall facts about famous locomotives and railway milestones",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "locomotive-history-quiz-1",
+      "question": "The 'Rocket,' built by George and Robert Stephenson, won a famous trial in 1829. What was the trial called?",
+      "options": [
+        "The Grand Challenge",
+        "The Rainhill Trials",
+        "The London Speed Test",
+        "The Industrial Race"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locomotive-history-quiz-2",
+      "question": "The Transcontinental Railroad in the United States was completed in what year?",
+      "options": [
+        "1859",
+        "1879",
+        "1865",
+        "1869"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locomotive-history-quiz-3",
+      "question": "The 'Big Boy' was one of the largest steam locomotives ever built. Which railroad operated it?",
+      "options": [
+        "Union Pacific",
+        "Southern Pacific",
+        "Santa Fe",
+        "Burlington Northern"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "locomotive-history-quiz-4",
+      "question": "The 'Flying Scotsman' is a famous steam locomotive from which country?",
+      "options": [
+        "Ireland",
+        "England",
+        "Wales",
+        "Scotland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locomotive-history-quiz-5",
+      "question": "Richard Trevithick built the first steam locomotive to run on rails in which year?",
+      "options": [
+        "1784",
+        "1814",
+        "1794",
+        "1804"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locomotive-history-quiz-6",
+      "question": "The Mallard holds the world speed record for a steam locomotive, set in 1938. In which country was this record set?",
+      "options": [
+        "United States",
+        "Germany",
+        "France",
+        "England"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locomotive-history-quiz-7",
+      "question": "The 'Golden Spike' ceremony marked the completion of the U.S. Transcontinental Railroad at what location?",
+      "options": [
+        "Promontory Summit, Utah",
+        "Denver, Colorado",
+        "Sacramento, California",
+        "Omaha, Nebraska"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "locomotive-history-quiz-8",
+      "question": "Diesel locomotives began replacing steam locomotives primarily in which decade in the United States?",
+      "options": [
+        "1920s",
+        "1940s-1950s",
+        "1960s",
+        "1930s"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locomotive-history-quiz-9",
+      "question": "The 'Tom Thumb' was an early American steam locomotive built by whom?",
+      "options": [
+        "James Watt",
+        "Peter Cooper",
+        "Robert Fulton",
+        "George Stephenson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locomotive-history-quiz-10",
+      "question": "The Canadian Pacific Railway was completed in 1885, connecting which two Canadian cities?",
+      "options": [
+        "Ottawa and Calgary",
+        "Toronto and Vancouver",
+        "Montreal and Vancouver",
+        "Halifax and Victoria"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locomotive-history-quiz-11",
+      "question": "What innovation did George Westinghouse bring to railroads in 1869?",
+      "options": [
+        "The electric telegraph",
+        "The diesel engine",
+        "The air brake",
+        "The sleeping car"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locomotive-history-quiz-12",
+      "question": "The 'Hogwarts Express' in the Harry Potter films was filmed using what real-life heritage railway?",
+      "options": [
+        "Severn Valley Railway",
+        "North Yorkshire Moors Railway",
+        "Jacobite Steam Train (West Highland Line)",
+        "Bluebell Railway"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locomotive-history-quiz-13",
+      "question": "The world's first public railway to use steam locomotives was the Stockton and Darlington Railway, which opened in what year?",
+      "options": [
+        "1820",
+        "1830",
+        "1815",
+        "1825"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locomotive-history-quiz-14",
+      "question": "George Pullman became famous for introducing what luxury feature to American trains?",
+      "options": [
+        "Air conditioning",
+        "Observation domes",
+        "Dining cars only",
+        "Sleeping cars"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locomotive-history-quiz-15",
+      "question": "The 'Bullet Train' (Shinkansen) began service in Japan in 1964, connecting Tokyo to which city?",
+      "options": [
+        "Hiroshima",
+        "Osaka",
+        "Nagoya",
+        "Kyoto"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

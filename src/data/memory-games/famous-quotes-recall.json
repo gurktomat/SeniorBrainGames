@@ -19,10 +19,10 @@
       "id": "famous-quotes-recall-2",
       "question": "Who said: 'That's one small step for man, one giant leap for mankind'?",
       "options": [
-        "Buzz Aldrin",
         "John Glenn",
+        "Yuri Gagarin",
         "Neil Armstrong",
-        "Yuri Gagarin"
+        "Buzz Aldrin"
       ],
       "correctAnswer": 2
     },
@@ -30,54 +30,54 @@
       "id": "famous-quotes-recall-3",
       "question": "Who said: 'The only thing we have to fear is fear itself'?",
       "options": [
+        "Theodore Roosevelt",
         "John F. Kennedy",
         "Franklin D. Roosevelt",
-        "Winston Churchill",
-        "Theodore Roosevelt"
+        "Winston Churchill"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-quotes-recall-4",
       "question": "Who said: 'To be, or not to be, that is the question'?",
       "options": [
         "Charles Dickens",
-        "William Shakespeare",
         "Christopher Marlowe",
-        "Geoffrey Chaucer"
+        "Geoffrey Chaucer",
+        "William Shakespeare"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-quotes-recall-5",
       "question": "Who said: 'I think, therefore I am'?",
       "options": [
         "Socrates",
-        "Aristotle",
-        "Ren\u00e9 Descartes",
-        "Immanuel Kant"
+        "René Descartes",
+        "Immanuel Kant",
+        "Aristotle"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-quotes-recall-6",
-      "question": "Who said: 'Ask not what your country can do for you \u2014 ask what you can do for your country'?",
+      "question": "Who said: 'Ask not what your country can do for you — ask what you can do for your country'?",
       "options": [
-        "Abraham Lincoln",
-        "Theodore Roosevelt",
         "John F. Kennedy",
-        "Ronald Reagan"
+        "Theodore Roosevelt",
+        "Ronald Reagan",
+        "Abraham Lincoln"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-quotes-recall-7",
       "question": "Who said: 'We shall fight on the beaches, we shall fight on the landing grounds'?",
       "options": [
         "Winston Churchill",
-        "Franklin D. Roosevelt",
+        "Dwight D. Eisenhower",
         "Charles de Gaulle",
-        "Dwight D. Eisenhower"
+        "Franklin D. Roosevelt"
       ],
       "correctAnswer": 0
     },
@@ -85,10 +85,10 @@
       "id": "famous-quotes-recall-8",
       "question": "Who said: 'Imagination is more important than knowledge'?",
       "options": [
-        "Isaac Newton",
         "Nikola Tesla",
+        "Stephen Hawking",
         "Albert Einstein",
-        "Stephen Hawking"
+        "Isaac Newton"
       ],
       "correctAnswer": 2
     },
@@ -96,9 +96,9 @@
       "id": "famous-quotes-recall-9",
       "question": "Who said: 'Give me liberty, or give me death!'?",
       "options": [
-        "George Washington",
-        "Benjamin Franklin",
         "Thomas Jefferson",
+        "Benjamin Franklin",
+        "George Washington",
         "Patrick Henry"
       ],
       "correctAnswer": 3
@@ -108,22 +108,22 @@
       "question": "Who said: 'In the middle of difficulty lies opportunity'?",
       "options": [
         "Winston Churchill",
+        "Benjamin Franklin",
         "Albert Einstein",
-        "Thomas Edison",
-        "Benjamin Franklin"
+        "Thomas Edison"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-quotes-recall-11",
       "question": "Who said: 'Float like a butterfly, sting like a bee'?",
       "options": [
-        "Joe Louis",
-        "Mike Tyson",
         "Muhammad Ali",
+        "Mike Tyson",
+        "Joe Louis",
         "Sugar Ray Leonard"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-quotes-recall-12",
@@ -131,8 +131,8 @@
       "options": [
         "Sigmund Freud",
         "Friedrich Nietzsche",
-        "Carl Jung",
-        "Arthur Schopenhauer"
+        "Arthur Schopenhauer",
+        "Carl Jung"
       ],
       "correctAnswer": 1
     },
@@ -140,10 +140,10 @@
       "id": "famous-quotes-recall-13",
       "question": "Who said: 'I came, I saw, I conquered'?",
       "options": [
+        "Augustus",
         "Alexander the Great",
-        "Napoleon Bonaparte",
         "Julius Caesar",
-        "Augustus"
+        "Napoleon Bonaparte"
       ],
       "correctAnswer": 2
     },
@@ -151,21 +151,21 @@
       "id": "famous-quotes-recall-14",
       "question": "Who said: 'Injustice anywhere is a threat to justice everywhere'?",
       "options": [
-        "Nelson Mandela",
-        "Martin Luther King Jr.",
         "Desmond Tutu",
-        "Mahatma Gandhi"
+        "Mahatma Gandhi",
+        "Martin Luther King Jr.",
+        "Nelson Mandela"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-quotes-recall-15",
       "question": "Who said: 'The pen is mightier than the sword'?",
       "options": [
+        "Oscar Wilde",
         "William Shakespeare",
-        "Mark Twain",
         "Edward Bulwer-Lytton",
-        "Oscar Wilde"
+        "Mark Twain"
       ],
       "correctAnswer": 2
     }

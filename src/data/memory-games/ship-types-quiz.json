@@ -1,0 +1,173 @@
+{
+  "id": "ship-types-quiz",
+  "title": "Ship Types Quiz",
+  "description": "Set sail through history and recall facts about famous ships and vessel types",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "ship-types-quiz-1",
+      "question": "The RMS Titanic sank on its maiden voyage in which year?",
+      "options": [
+        "1922",
+        "1918",
+        "1905",
+        "1912"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ship-types-quiz-2",
+      "question": "An 'aircraft carrier' is a warship designed to serve as what?",
+      "options": [
+        "A troop transport",
+        "A seagoing airbase for launching planes",
+        "A missile platform",
+        "A submarine base"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ship-types-quiz-3",
+      "question": "A 'frigate' is classified as what type of vessel?",
+      "options": [
+        "Medium-sized warship",
+        "Merchant cargo ship",
+        "Luxury cruise liner",
+        "Fishing vessel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ship-types-quiz-4",
+      "question": "What type of ship is designed to carry liquid cargo such as oil in bulk?",
+      "options": [
+        "Reefer ship",
+        "Container ship",
+        "Tanker",
+        "Bulk carrier"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-5",
+      "question": "The 'clipper ship' was a 19th-century sailing vessel famous for its what?",
+      "options": [
+        "Steam power",
+        "Speed",
+        "Heavy armor",
+        "Cargo capacity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ship-types-quiz-6",
+      "question": "A 'submarine' is designed to operate primarily where?",
+      "options": [
+        "In shallow rivers",
+        "In the air",
+        "Underwater",
+        "On the surface"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-7",
+      "question": "What is a 'destroyer' in naval terminology?",
+      "options": [
+        "A ship that lays mines",
+        "A fast, maneuverable warship for escort and defense",
+        "A hospital ship",
+        "A supply vessel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ship-types-quiz-8",
+      "question": "The Mayflower, which carried Pilgrims to America in 1620, was what type of vessel?",
+      "options": [
+        "Man-of-war",
+        "Longship",
+        "Merchant ship",
+        "Galleon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-9",
+      "question": "A 'container ship' transports goods in standardized what?",
+      "options": [
+        "Crates",
+        "Intermodal containers",
+        "Pallets",
+        "Barrels"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ship-types-quiz-10",
+      "question": "Viking longships were propelled by both sails and what else?",
+      "options": [
+        "Water wheels",
+        "Wind turbines",
+        "Oars",
+        "Steam engines"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-11",
+      "question": "The HMS Victory, Nelson's flagship at the Battle of Trafalgar, was what type of ship?",
+      "options": [
+        "Corvette",
+        "Ship of the line",
+        "Sloop",
+        "Frigate"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ship-types-quiz-12",
+      "question": "An 'icebreaker' ship is specially designed to do what?",
+      "options": [
+        "Transport ice for commercial use",
+        "Fish in arctic waters",
+        "Navigate and clear ice-covered waters",
+        "Map underwater ice formations"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-13",
+      "question": "A 'galleon' was a large sailing ship used from the 15th to 17th centuries primarily by which countries?",
+      "options": [
+        "Netherlands and Denmark",
+        "China and Japan",
+        "Spain and Portugal",
+        "England and France"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-14",
+      "question": "What is a 'cruise ship' primarily designed for?",
+      "options": [
+        "Military operations",
+        "Cargo transport",
+        "Passenger leisure voyages",
+        "Scientific research"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ship-types-quiz-15",
+      "question": "The 'USS Missouri' is a famous battleship where what historic event took place in 1945?",
+      "options": [
+        "Japanese surrender ending WWII",
+        "Battle of Midway",
+        "Pearl Harbor defense",
+        "D-Day landings"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -7,92 +7,167 @@
     {
       "id": "retro-sewing-crafts-1",
       "question": "What brand of sewing machine, known for its durability, was a staple in American homes for over a century?",
-      "options": ["Brother", "Pfaff", "Singer", "Bernina"],
-      "correctAnswer": 2
+      "options": [
+        "Pfaff",
+        "Singer",
+        "Brother",
+        "Bernina"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-2",
       "question": "What were the paper templates called that home sewers purchased at fabric stores to cut and sew garments?",
-      "options": ["Stencils", "Sewing patterns", "Fabric guides", "Dress forms"],
-      "correctAnswer": 1
+      "options": [
+        "Dress forms",
+        "Stencils",
+        "Sewing patterns",
+        "Fabric guides"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-sewing-crafts-3",
       "question": "Which major pattern company, founded in 1863, was one of the most popular brands for home dressmaking?",
-      "options": ["McCall's", "Butterick", "Simplicity", "All of the above were popular"],
+      "options": [
+        "Butterick",
+        "McCall's",
+        "Simplicity",
+        "All of the above were popular"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "retro-sewing-crafts-4",
       "question": "What small cushion, often shaped like a tomato with a strawberry attached, was used to hold pins and needles?",
-      "options": ["A thimble", "A bobbin holder", "A pincushion", "A needle case"],
-      "correctAnswer": 2
+      "options": [
+        "A pincushion",
+        "A needle case",
+        "A thimble",
+        "A bobbin holder"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-sewing-crafts-5",
       "question": "What type of needlework involves creating pictures or designs by stitching with colored thread on fabric with a grid?",
-      "options": ["Quilting", "Cross-stitch", "Tatting", "Crochet"],
-      "correctAnswer": 1
+      "options": [
+        "Tatting",
+        "Crochet",
+        "Cross-stitch",
+        "Quilting"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-sewing-crafts-6",
       "question": "What craft involves knotting yarn or cord in decorative patterns to make plant hangers, wall hangings, and purses?",
-      "options": ["Crochet", "Macrame", "Weaving", "Tatting"],
-      "correctAnswer": 1
+      "options": [
+        "Crochet",
+        "Weaving",
+        "Tatting",
+        "Macrame"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-sewing-crafts-7",
       "question": "What was the name of the popular 1970s craft that involved hammering nails into a board and wrapping colored string around them?",
-      "options": ["Decoupage", "String art", "Woodburning", "Mosaic tiles"],
+      "options": [
+        "Woodburning",
+        "String art",
+        "Mosaic tiles",
+        "Decoupage"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-8",
       "question": "What sewing notion is a metal or plastic cap worn on the finger to push needles through thick fabric?",
-      "options": ["A bobbin", "A bodkin", "A thimble", "A stiletto"],
-      "correctAnswer": 2
+      "options": [
+        "A bobbin",
+        "A thimble",
+        "A stiletto",
+        "A bodkin"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-9",
       "question": "What craft, popular in the 1960s and 1970s, involved gluing cut-out paper images onto surfaces and sealing them with varnish?",
-      "options": ["Decoupage", "Collage", "Scrapbooking", "Paper mache"],
-      "correctAnswer": 0
+      "options": [
+        "Scrapbooking",
+        "Decoupage",
+        "Paper mache",
+        "Collage"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-10",
       "question": "What type of bedcovering is made by sewing together layers of fabric with a layer of batting in between?",
-      "options": ["A comforter", "A quilt", "A duvet", "A bedspread"],
+      "options": [
+        "A comforter",
+        "A quilt",
+        "A bedspread",
+        "A duvet"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-11",
       "question": "What popular knitting project was often the first one beginners attempted?",
-      "options": ["A sweater", "A scarf", "Socks", "A hat"],
+      "options": [
+        "A sweater",
+        "A scarf",
+        "Socks",
+        "A hat"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-12",
       "question": "What was the name of the hook-shaped tool used in latch hook rug making kits, popular in the 1970s?",
-      "options": ["A crochet hook", "A latch hook", "A rug punch", "A tufting needle"],
-      "correctAnswer": 1
+      "options": [
+        "A latch hook",
+        "A rug punch",
+        "A crochet hook",
+        "A tufting needle"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-sewing-crafts-13",
       "question": "What type of embroidery was commonly displayed in a circular frame and hung on the wall as home decor?",
-      "options": ["Crewel embroidery", "Needlepoint", "Hoop embroidery", "Bargello"],
-      "correctAnswer": 2
+      "options": [
+        "Crewel embroidery",
+        "Hoop embroidery",
+        "Bargello",
+        "Needlepoint"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-sewing-crafts-14",
       "question": "What vintage craft involved painting designs on wood using a heated metal tool?",
-      "options": ["Tole painting", "Pyrography (woodburning)", "Stenciling", "Wood carving"],
-      "correctAnswer": 1
+      "options": [
+        "Stenciling",
+        "Tole painting",
+        "Wood carving",
+        "Pyrography (woodburning)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-sewing-crafts-15",
       "question": "What craft supply store chain, founded in 1973, became one of the largest retailers for fabric and sewing notions?",
-      "options": ["Hobby Lobby", "Michaels", "Jo-Ann Fabrics", "Hancock Fabrics"],
-      "correctAnswer": 2
+      "options": [
+        "Hancock Fabrics",
+        "Michaels",
+        "Hobby Lobby",
+        "Jo-Ann Fabrics"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

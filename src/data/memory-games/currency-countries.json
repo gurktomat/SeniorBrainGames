@@ -9,9 +9,9 @@
       "question": "Which country uses the 'Yen' as its currency?",
       "options": [
         "China",
-        "South Korea",
+        "Thailand",
         "Japan",
-        "Thailand"
+        "South Korea"
       ],
       "correctAnswer": 2
     },
@@ -20,40 +20,40 @@
       "question": "Which country uses the 'Rupee' as its primary currency?",
       "options": [
         "Indonesia",
+        "Iraq",
         "India",
-        "Iran",
-        "Iraq"
+        "Iran"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "currency-countries-3",
       "question": "The 'Peso' is the currency of which of these countries?",
       "options": [
-        "Brazil",
-        "Portugal",
         "Mexico",
+        "Portugal",
+        "Brazil",
         "Spain"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "currency-countries-4",
       "question": "Which country uses the 'Baht' as its currency?",
       "options": [
         "Vietnam",
-        "Thailand",
         "Cambodia",
+        "Thailand",
         "Malaysia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "currency-countries-5",
       "question": "The 'Franc' is still used as a currency in which of these countries?",
       "options": [
-        "France",
         "Belgium",
+        "France",
         "Switzerland",
         "Luxembourg"
       ],
@@ -63,10 +63,10 @@
       "id": "currency-countries-6",
       "question": "Which country uses the 'Real' as its currency?",
       "options": [
-        "Argentina",
         "Portugal",
+        "Chile",
         "Brazil",
-        "Chile"
+        "Argentina"
       ],
       "correctAnswer": 2
     },
@@ -74,100 +74,100 @@
       "id": "currency-countries-7",
       "question": "The 'Krona' is the currency of which Scandinavian country?",
       "options": [
-        "Norway",
         "Denmark",
-        "Finland",
-        "Sweden"
+        "Sweden",
+        "Norway",
+        "Finland"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "currency-countries-8",
       "question": "Which country uses the 'Won' as its currency?",
       "options": [
+        "South Korea",
         "Japan",
         "China",
-        "South Korea",
         "Taiwan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "currency-countries-9",
       "question": "The 'Rand' is the currency of which country?",
       "options": [
-        "Nigeria",
         "Kenya",
         "South Africa",
-        "Egypt"
+        "Egypt",
+        "Nigeria"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "currency-countries-10",
       "question": "Which country uses the 'Zloty' as its currency?",
       "options": [
+        "Romania",
         "Czech Republic",
         "Hungary",
-        "Poland",
-        "Romania"
+        "Poland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "currency-countries-11",
       "question": "The 'Shekel' is the currency of which country?",
       "options": [
-        "Saudi Arabia",
-        "Israel",
         "Turkey",
-        "Lebanon"
+        "Lebanon",
+        "Saudi Arabia",
+        "Israel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "currency-countries-12",
       "question": "Which country uses the 'Ringgit' as its currency?",
       "options": [
-        "Indonesia",
-        "Philippines",
+        "Singapore",
         "Malaysia",
-        "Singapore"
+        "Indonesia",
+        "Philippines"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "currency-countries-13",
       "question": "The 'Lira' was historically the currency of which European country before the Euro?",
       "options": [
-        "Spain",
+        "Portugal",
         "Greece",
-        "Italy",
-        "Portugal"
+        "Spain",
+        "Italy"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "currency-countries-14",
       "question": "Which country uses the 'Forint' as its currency?",
       "options": [
-        "Romania",
-        "Bulgaria",
+        "Slovakia",
         "Hungary",
-        "Slovakia"
+        "Bulgaria",
+        "Romania"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "currency-countries-15",
       "question": "The 'Dirham' is the currency of which country?",
       "options": [
+        "Kuwait",
         "Saudi Arabia",
         "Qatar",
-        "United Arab Emirates",
-        "Kuwait"
+        "United Arab Emirates"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

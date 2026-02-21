@@ -1,0 +1,219 @@
+{
+  "id": "industrial-revolution-quiz",
+  "title": "Industrial Revolution Quiz",
+  "description": "How well do you remember the innovations and figures of the Industrial Revolution?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "industrial-revolution-quiz-1",
+      "question": "Who invented the spinning jenny, revolutionizing the textile industry?",
+      "options": [
+        "James Hargreaves",
+        "Edmund Cartwright",
+        "Samuel Crompton",
+        "Richard Arkwright"
+      ],
+      "correctAnswer": 0,
+      "explanation": "James Hargreaves invented the spinning jenny around 1764, which dramatically increased the amount of thread a single worker could produce.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-2",
+      "question": "Who is credited with improving the steam engine, making it practical for industrial use?",
+      "options": [
+        "Richard Trevithick",
+        "James Watt",
+        "Thomas Newcomen",
+        "George Stephenson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "James Watt significantly improved the steam engine in the 1760s-1770s, making it efficient enough for widespread industrial use.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-3",
+      "question": "In which country did the Industrial Revolution begin?",
+      "options": [
+        "England",
+        "Germany",
+        "France",
+        "United States"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Industrial Revolution began in England in the mid-18th century, driven by innovations in textile manufacturing, iron production, and steam power.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-4",
+      "question": "Who built the first commercially successful steamboat?",
+      "options": [
+        "Robert Fulton",
+        "Isambard Kingdom Brunel",
+        "John Fitch",
+        "James Watt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Robert Fulton launched the Clermont in 1807, the first commercially successful steamboat service, operating on the Hudson River.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-5",
+      "question": "Who invented the cotton gin in 1793?",
+      "options": [
+        "Eli Whitney",
+        "Benjamin Franklin",
+        "Samuel Slater",
+        "Cyrus McCormick"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eli Whitney invented the cotton gin in 1793, which dramatically increased the speed of separating cotton fibers from seeds.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-6",
+      "question": "Who built the 'Rocket,' one of the first successful steam locomotives?",
+      "options": [
+        "Richard Trevithick",
+        "Isambard Kingdom Brunel",
+        "James Watt",
+        "George Stephenson"
+      ],
+      "correctAnswer": 3,
+      "explanation": "George Stephenson and his son Robert built the 'Rocket' in 1829, which won the Rainhill Trials and helped establish steam railways.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-7",
+      "question": "What was the Luddite movement opposed to during the Industrial Revolution?",
+      "options": [
+        "Child labor",
+        "Railroad construction",
+        "Textile machinery replacing workers",
+        "Coal mining"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Luddites were English textile workers who protested against the introduction of labor-saving machinery from 1811 to 1816.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-8",
+      "question": "Who developed the Bessemer process for mass-producing steel?",
+      "options": [
+        "Andrew Carnegie",
+        "Abraham Darby",
+        "Henry Cort",
+        "Henry Bessemer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Henry Bessemer patented his process in 1856, which made steel production faster and cheaper, transforming construction and manufacturing.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-9",
+      "question": "Which invention by Samuel Morse revolutionized long-distance communication?",
+      "options": [
+        "Printing press",
+        "Radio",
+        "Telegraph",
+        "Telephone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Samuel Morse developed the electric telegraph and Morse code in the 1830s-1840s, enabling near-instant long-distance communication.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-10",
+      "question": "Who wrote 'The Wealth of Nations,' advocating for free-market economics during industrialization?",
+      "options": [
+        "Adam Smith",
+        "David Ricardo",
+        "Karl Marx",
+        "John Stuart Mill"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adam Smith published 'The Wealth of Nations' in 1776, arguing for free markets and the division of labor, deeply influencing economic thought.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-11",
+      "question": "What fuel source primarily powered the early Industrial Revolution?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Oil",
+        "Wood"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coal was the primary fuel of the Industrial Revolution, powering steam engines, heating furnaces, and driving factory production.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-12",
+      "question": "Who invented the power loom, mechanizing the weaving process?",
+      "options": [
+        "Edmund Cartwright",
+        "Richard Arkwright",
+        "James Hargreaves",
+        "Samuel Crompton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Edmund Cartwright invented the power loom in 1785, which mechanized the weaving process and greatly increased textile production.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-13",
+      "question": "Which social reformer exposed the harsh conditions in factories and mines during the Industrial Revolution?",
+      "options": [
+        "Robert Owen",
+        "Elizabeth Gaskell",
+        "Charles Dickens",
+        "Friedrich Engels"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Friedrich Engels wrote 'The Condition of the Working Class in England' in 1845, documenting the appalling conditions of industrial workers.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-14",
+      "question": "What was the first industry to be transformed by the Industrial Revolution?",
+      "options": [
+        "Coal mining",
+        "Transportation",
+        "Iron and steel",
+        "Textile manufacturing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Textile manufacturing was the first industry to be mechanized, beginning with innovations in spinning and weaving in the mid-18th century.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "industrial-revolution-quiz-15",
+      "question": "Which canal, opened in 1869, connected the Mediterranean Sea to the Red Sea?",
+      "options": [
+        "Erie Canal",
+        "Manchester Ship Canal",
+        "Suez Canal",
+        "Panama Canal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Suez Canal opened in 1869, dramatically reducing shipping times between Europe and Asia by eliminating the need to sail around Africa.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

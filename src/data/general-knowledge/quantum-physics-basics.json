@@ -1,0 +1,173 @@
+{
+  "id": "quantum-physics-basics",
+  "title": "Quantum Physics Basics",
+  "description": "Explore the fascinating world of quantum mechanics and subatomic particles",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "quantum-physics-basics-1",
+      "question": "Who is often called the 'father of quantum mechanics' for his work on energy quanta?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quantum-physics-basics-2",
+      "question": "What famous thought experiment involves a cat that is both alive and dead?",
+      "options": [
+        "Pavlov's Dog",
+        "Laplace's Demon",
+        "Maxwell's Demon",
+        "Schrödinger's Cat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quantum-physics-basics-3",
+      "question": "What principle states that you cannot simultaneously know both the exact position and momentum of a particle?",
+      "options": [
+        "Pauli Exclusion Principle",
+        "Bernoulli's Principle",
+        "Heisenberg Uncertainty Principle",
+        "Archimedes' Principle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quantum-physics-basics-4",
+      "question": "What is the term for the smallest discrete unit of energy?",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Photon",
+        "Quantum"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quantum-physics-basics-5",
+      "question": "What phenomenon did Einstein call 'spooky action at a distance'?",
+      "options": [
+        "Superposition",
+        "Quantum entanglement",
+        "Wave-particle duality",
+        "Quantum tunneling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quantum-physics-basics-6",
+      "question": "What particle of light has zero mass but carries energy?",
+      "options": [
+        "Electron",
+        "Photon",
+        "Neutron",
+        "Proton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quantum-physics-basics-7",
+      "question": "What is the name of the model that describes electrons orbiting a nucleus in fixed energy levels?",
+      "options": [
+        "Thomson Model",
+        "Rutherford Model",
+        "Dalton Model",
+        "Bohr Model"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quantum-physics-basics-8",
+      "question": "What does the 'double-slit experiment' demonstrate about light and matter?",
+      "options": [
+        "Wave-particle duality",
+        "Gravity effects",
+        "Nuclear fission",
+        "Electromagnetic induction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quantum-physics-basics-9",
+      "question": "Which subatomic particle was discovered by James Chadwick in 1932?",
+      "options": [
+        "Proton",
+        "Positron",
+        "Electron",
+        "Neutron"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quantum-physics-basics-10",
+      "question": "What principle states that no two electrons in an atom can have the same set of quantum numbers?",
+      "options": [
+        "Correspondence Principle",
+        "Pauli Exclusion Principle",
+        "Heisenberg Principle",
+        "Complementarity Principle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quantum-physics-basics-11",
+      "question": "What is quantum tunneling?",
+      "options": [
+        "Particles passing through energy barriers they classically shouldn't",
+        "Particles splitting into two",
+        "Particles traveling faster than light",
+        "Particles losing all energy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quantum-physics-basics-12",
+      "question": "Who won the Nobel Prize in 1921 for his explanation of the photoelectric effect?",
+      "options": [
+        "Albert Einstein",
+        "Paul Dirac",
+        "Max Planck",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quantum-physics-basics-13",
+      "question": "What are the fundamental particles that make up protons and neutrons?",
+      "options": [
+        "Leptons",
+        "Bosons",
+        "Muons",
+        "Quarks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quantum-physics-basics-14",
+      "question": "What does the term 'superposition' mean in quantum mechanics?",
+      "options": [
+        "Energy is conserved in all reactions",
+        "A particle exists in multiple states simultaneously",
+        "Two particles occupy the same space",
+        "Particles always move in straight lines"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quantum-physics-basics-15",
+      "question": "What particle is responsible for mediating the electromagnetic force?",
+      "options": [
+        "Graviton",
+        "W boson",
+        "Gluon",
+        "Photon"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

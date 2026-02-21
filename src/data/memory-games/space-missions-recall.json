@@ -7,92 +7,167 @@
     {
       "id": "space-missions-recall-1",
       "question": "Which NASA mission successfully landed the first humans on the Moon in July 1969?",
-      "options": ["Apollo 8", "Apollo 11", "Apollo 13", "Gemini 12"],
-      "correctAnswer": 1
+      "options": [
+        "Apollo 11",
+        "Apollo 13",
+        "Apollo 8",
+        "Gemini 12"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-2",
       "question": "Which Soviet mission made Yuri Gagarin the first human to orbit Earth in 1961?",
-      "options": ["Sputnik 1", "Vostok 1", "Voskhod 1", "Soyuz 1"],
+      "options": [
+        "Soyuz 1",
+        "Vostok 1",
+        "Sputnik 1",
+        "Voskhod 1"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "space-missions-recall-3",
       "question": "Which Apollo mission is famously known as a 'successful failure' after an oxygen tank explosion forced the crew to abort their Moon landing in 1970?",
-      "options": ["Apollo 1", "Apollo 7", "Apollo 13", "Apollo 17"],
-      "correctAnswer": 2
+      "options": [
+        "Apollo 13",
+        "Apollo 1",
+        "Apollo 7",
+        "Apollo 17"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-4",
       "question": "Which space telescope, launched in 1990, revolutionized astronomy with its deep-field images of distant galaxies?",
-      "options": ["James Webb Space Telescope", "Chandra X-ray Observatory", "Hubble Space Telescope", "Spitzer Space Telescope"],
+      "options": [
+        "Spitzer Space Telescope",
+        "Chandra X-ray Observatory",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "space-missions-recall-5",
       "question": "Which NASA rover successfully landed on Mars in 2012 and is the size of a car, still operating on the red planet?",
-      "options": ["Spirit", "Opportunity", "Curiosity", "Perseverance"],
-      "correctAnswer": 2
+      "options": [
+        "Spirit",
+        "Curiosity",
+        "Opportunity",
+        "Perseverance"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "space-missions-recall-6",
       "question": "Which was the first reusable spacecraft, launching in April 1981 as STS-1?",
-      "options": ["Space Shuttle Columbia", "Space Shuttle Challenger", "Space Shuttle Discovery", "Space Shuttle Endeavour"],
+      "options": [
+        "Space Shuttle Columbia",
+        "Space Shuttle Endeavour",
+        "Space Shuttle Discovery",
+        "Space Shuttle Challenger"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-7",
       "question": "Which twin spacecraft, launched in 1977, have traveled farther from Earth than any other human-made objects and carry golden records?",
-      "options": ["Pioneer 10 & 11", "Voyager 1 & 2", "New Horizons", "Mariner 9 & 10"],
-      "correctAnswer": 1
+      "options": [
+        "Mariner 9 & 10",
+        "Pioneer 10 & 11",
+        "New Horizons",
+        "Voyager 1 & 2"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "space-missions-recall-8",
       "question": "Which mission made Alan Shepard the first American in space in May 1961?",
-      "options": ["Mercury-Redstone 3 (Freedom 7)", "Mercury-Atlas 6 (Friendship 7)", "Gemini 3", "Apollo 7"],
+      "options": [
+        "Mercury-Redstone 3 (Freedom 7)",
+        "Mercury-Atlas 6 (Friendship 7)",
+        "Gemini 3",
+        "Apollo 7"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-9",
       "question": "Which NASA mission flew by Pluto in 2015, providing the first close-up images of the dwarf planet?",
-      "options": ["Voyager 2", "Cassini", "New Horizons", "Juno"],
+      "options": [
+        "Voyager 2",
+        "Cassini",
+        "New Horizons",
+        "Juno"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "space-missions-recall-10",
       "question": "Which joint US-Soviet mission in 1975 saw the first international handshake in space between astronauts and cosmonauts?",
-      "options": ["Shuttle-Mir Program", "Apollo-Soyuz Test Project", "International Space Station Assembly", "Salyut-Skylab Exchange"],
-      "correctAnswer": 1
+      "options": [
+        "Apollo-Soyuz Test Project",
+        "Shuttle-Mir Program",
+        "International Space Station Assembly",
+        "Salyut-Skylab Exchange"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-11",
       "question": "Which space station, launched in 1973, was America's first space station and hosted three crews?",
-      "options": ["Mir", "International Space Station", "Skylab", "Salyut 1"],
-      "correctAnswer": 2
+      "options": [
+        "Skylab",
+        "Mir",
+        "Salyut 1",
+        "International Space Station"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-12",
       "question": "Which mission orbited Saturn for 13 years (2004-2017) and dropped the Huygens probe onto Saturn's moon Titan?",
-      "options": ["Galileo", "Juno", "Cassini-Huygens", "Pioneer 11"],
-      "correctAnswer": 2
+      "options": [
+        "Cassini-Huygens",
+        "Juno",
+        "Pioneer 11",
+        "Galileo"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "space-missions-recall-13",
       "question": "Which was the last Apollo mission to land on the Moon in December 1972, featuring the longest lunar surface stay?",
-      "options": ["Apollo 15", "Apollo 16", "Apollo 17", "Apollo 14"],
-      "correctAnswer": 2
+      "options": [
+        "Apollo 16",
+        "Apollo 17",
+        "Apollo 15",
+        "Apollo 14"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "space-missions-recall-14",
       "question": "Which Mars rover, launched in 2020, carried the Ingenuity helicopter that achieved the first powered flight on another planet?",
-      "options": ["Curiosity", "Opportunity", "Spirit", "Perseverance"],
-      "correctAnswer": 3
+      "options": [
+        "Spirit",
+        "Perseverance",
+        "Opportunity",
+        "Curiosity"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "space-missions-recall-15",
       "question": "Which Soviet satellite, launched on October 4, 1957, was the first artificial object to orbit Earth?",
-      "options": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Luna 1"],
-      "correctAnswer": 2
+      "options": [
+        "Luna 1",
+        "Vanguard 1",
+        "Explorer 1",
+        "Sputnik 1"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

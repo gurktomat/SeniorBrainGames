@@ -1,0 +1,173 @@
+{
+  "id": "aviation-milestones-quiz",
+  "title": "Aviation Milestones",
+  "description": "Soar through the history of flight from the Wright Brothers to modern jets",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "aviation-milestones-quiz-1",
+      "question": "In what year did the Wright Brothers make their first powered flight at Kitty Hawk?",
+      "options": [
+        "1905",
+        "1901",
+        "1899",
+        "1903"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-2",
+      "question": "Who was the first person to fly solo nonstop across the Atlantic Ocean in 1927?",
+      "options": [
+        "Wiley Post",
+        "Howard Hughes",
+        "Charles Lindbergh",
+        "Amelia Earhart"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-3",
+      "question": "What was the name of Charles Lindbergh's aircraft for his transatlantic flight?",
+      "options": [
+        "Glamorous Glennis",
+        "The Flyer",
+        "Spirit of St. Louis",
+        "Winnie Mae"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-4",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Harriet Quimby",
+        "Amelia Earhart",
+        "Jacqueline Cochran",
+        "Bessie Coleman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-milestones-quiz-5",
+      "question": "What was the first commercial jet airliner to enter regular service?",
+      "options": [
+        "de Havilland Comet",
+        "Boeing 707",
+        "Douglas DC-8",
+        "Concorde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "aviation-milestones-quiz-6",
+      "question": "Chuck Yeager became the first person to break the sound barrier in what year?",
+      "options": [
+        "1945",
+        "1949",
+        "1947",
+        "1951"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-7",
+      "question": "What was the name of the aircraft Chuck Yeager flew to break the sound barrier?",
+      "options": [
+        "X-1 (Glamorous Glennis)",
+        "F-86 Sabre",
+        "SR-71 Blackbird",
+        "X-15"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "aviation-milestones-quiz-8",
+      "question": "The Concorde supersonic airliner was jointly developed by which two countries?",
+      "options": [
+        "France and Germany",
+        "UK and Germany",
+        "France and UK",
+        "USA and UK"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-9",
+      "question": "What is the Boeing 747 commonly nicknamed?",
+      "options": [
+        "Super Jumbo",
+        "Dreamliner",
+        "Jumbo Jet",
+        "Stratocruiser"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-10",
+      "question": "Who invented the first successful helicopter design in 1939?",
+      "options": [
+        "Juan de la Cierva",
+        "Heinrich Focke",
+        "Leonardo da Vinci",
+        "Igor Sikorsky"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-11",
+      "question": "The 'black box' flight recorder is actually what color?",
+      "options": [
+        "Black",
+        "Yellow",
+        "Bright orange",
+        "Red"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-12",
+      "question": "What was the fastest manned aircraft ever built, capable of Mach 3+?",
+      "options": [
+        "Concorde",
+        "SR-71 Blackbird",
+        "F-22 Raptor",
+        "MiG-25 Foxbat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-milestones-quiz-13",
+      "question": "Which pilot is credited with being the first African American woman to earn a pilot's license?",
+      "options": [
+        "Willa Brown",
+        "Bessie Coleman",
+        "Janet Harmon Bragg",
+        "Amelia Earhart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-milestones-quiz-14",
+      "question": "What type of engine powers most modern commercial aircraft?",
+      "options": [
+        "Ramjet",
+        "Piston engine",
+        "Turbofan jet engine",
+        "Turboprop"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-15",
+      "question": "Solar Impulse 2 made history in 2016 by being the first aircraft to do what?",
+      "options": [
+        "Circumnavigate the globe using only solar power",
+        "Carry 500 passengers",
+        "Fly at Mach 5",
+        "Land on water"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

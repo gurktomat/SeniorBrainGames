@@ -8,8 +8,13 @@
     {
       "id": "rn-1",
       "question": "What number does the Roman numeral 'X' represent?",
-      "options": ["5", "10", "50", "100"],
-      "correctAnswer": 1,
+      "options": [
+        "50",
+        "5",
+        "100",
+        "10"
+      ],
+      "correctAnswer": 3,
       "explanation": "X represents 10 in Roman numerals. It is one of the seven basic symbols used in the system.",
       "difficulty": "easy",
       "category": "math"
@@ -17,8 +22,13 @@
     {
       "id": "rn-2",
       "question": "What is the Roman numeral for 50?",
-      "options": ["C", "D", "L", "M"],
-      "correctAnswer": 2,
+      "options": [
+        "C",
+        "M",
+        "D",
+        "L"
+      ],
+      "correctAnswer": 3,
       "explanation": "L represents 50 in Roman numerals. The seven basic Roman numeral symbols are I (1), V (5), X (10), L (50), C (100), D (500), and M (1000).",
       "difficulty": "easy",
       "category": "math"
@@ -26,8 +36,13 @@
     {
       "id": "rn-3",
       "question": "What number does 'XV' represent?",
-      "options": ["5", "10", "15", "20"],
-      "correctAnswer": 2,
+      "options": [
+        "20",
+        "15",
+        "10",
+        "5"
+      ],
+      "correctAnswer": 1,
       "explanation": "XV equals 15. When a smaller numeral follows a larger one, you add them: X (10) + V (5) = 15.",
       "difficulty": "easy",
       "category": "math"
@@ -35,7 +50,12 @@
     {
       "id": "rn-4",
       "question": "What number does 'VII' represent?",
-      "options": ["2", "5", "7", "8"],
+      "options": [
+        "5",
+        "8",
+        "7",
+        "2"
+      ],
       "correctAnswer": 2,
       "explanation": "VII equals 7. V (5) + I (1) + I (1) = 7.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "rn-5",
       "question": "How would you write 3 in Roman numerals?",
-      "options": ["I", "II", "III", "IV"],
-      "correctAnswer": 2,
+      "options": [
+        "I",
+        "II",
+        "IV",
+        "III"
+      ],
+      "correctAnswer": 3,
       "explanation": "3 is written as III in Roman numerals — three ones added together.",
       "difficulty": "easy",
       "category": "math"
@@ -53,8 +78,13 @@
     {
       "id": "rn-6",
       "question": "What number does 'IV' represent?",
-      "options": ["4", "6", "9", "14"],
-      "correctAnswer": 0,
+      "options": [
+        "6",
+        "9",
+        "4",
+        "14"
+      ],
+      "correctAnswer": 2,
       "explanation": "IV equals 4. When a smaller numeral precedes a larger one, you subtract: V (5) - I (1) = 4.",
       "difficulty": "medium",
       "category": "math"
@@ -62,8 +92,13 @@
     {
       "id": "rn-7",
       "question": "What number does 'XC' represent?",
-      "options": ["110", "90", "40", "190"],
-      "correctAnswer": 1,
+      "options": [
+        "190",
+        "110",
+        "90",
+        "40"
+      ],
+      "correctAnswer": 2,
       "explanation": "XC equals 90. X (10) before C (100) means subtraction: 100 - 10 = 90.",
       "difficulty": "medium",
       "category": "math"
@@ -71,8 +106,13 @@
     {
       "id": "rn-8",
       "question": "How would you write 40 in Roman numerals?",
-      "options": ["XXXX", "XL", "VX", "LC"],
-      "correctAnswer": 1,
+      "options": [
+        "XL",
+        "XXXX",
+        "LC",
+        "VX"
+      ],
+      "correctAnswer": 0,
       "explanation": "40 is written as XL. X (10) before L (50) means subtraction: 50 - 10 = 40. Romans never used four of the same symbol in a row.",
       "difficulty": "medium",
       "category": "math"
@@ -80,8 +120,13 @@
     {
       "id": "rn-9",
       "question": "What number does 'LXVI' represent?",
-      "options": ["56", "64", "66", "76"],
-      "correctAnswer": 2,
+      "options": [
+        "64",
+        "66",
+        "56",
+        "76"
+      ],
+      "correctAnswer": 1,
       "explanation": "LXVI equals 66. L (50) + X (10) + V (5) + I (1) = 66.",
       "difficulty": "medium",
       "category": "math"
@@ -89,8 +134,13 @@
     {
       "id": "rn-10",
       "question": "How would you write 99 in Roman numerals?",
-      "options": ["IC", "XCIX", "LXLIX", "XCVIIII"],
-      "correctAnswer": 1,
+      "options": [
+        "XCVIIII",
+        "IC",
+        "XCIX",
+        "LXLIX"
+      ],
+      "correctAnswer": 2,
       "explanation": "99 is written as XCIX. XC (90) + IX (9) = 99. The subtractive principle only works with specific pairs.",
       "difficulty": "medium",
       "category": "math"
@@ -98,7 +148,12 @@
     {
       "id": "rn-11",
       "question": "What number does 'CDXLIV' represent?",
-      "options": ["444", "446", "454", "544"],
+      "options": [
+        "444",
+        "446",
+        "454",
+        "544"
+      ],
       "correctAnswer": 0,
       "explanation": "CDXLIV equals 444. CD (400) + XL (40) + IV (4) = 444.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "rn-12",
       "question": "How would you write 1999 in Roman numerals?",
-      "options": ["MIM", "MCMXCIX", "MDCDXCIX", "MXMIX"],
-      "correctAnswer": 1,
+      "options": [
+        "MXMIX",
+        "MDCDXCIX",
+        "MCMXCIX",
+        "MIM"
+      ],
+      "correctAnswer": 2,
       "explanation": "1999 is written as MCMXCIX. M (1000) + CM (900) + XC (90) + IX (9) = 1999.",
       "difficulty": "hard",
       "category": "math"
@@ -116,8 +176,13 @@
     {
       "id": "rn-13",
       "question": "What number does 'MMCDLXXVIII' represent?",
-      "options": ["2378", "2478", "2578", "2678"],
-      "correctAnswer": 1,
+      "options": [
+        "2678",
+        "2378",
+        "2478",
+        "2578"
+      ],
+      "correctAnswer": 2,
       "explanation": "MMCDLXXVIII equals 2478. MM (2000) + CD (400) + LXX (70) + VIII (8) = 2478.",
       "difficulty": "hard",
       "category": "math"
@@ -125,7 +190,12 @@
     {
       "id": "rn-14",
       "question": "Which of these is NOT a valid Roman numeral representation?",
-      "options": ["XIV", "VX", "IX", "XL"],
+      "options": [
+        "XL",
+        "VX",
+        "XIV",
+        "IX"
+      ],
       "correctAnswer": 1,
       "explanation": "VX is not valid. In Roman numerals, V (5) cannot be used as a subtractive prefix. Only I, X, and C can be used subtractively.",
       "difficulty": "hard",
@@ -134,7 +204,12 @@
     {
       "id": "rn-15",
       "question": "What number does 'MCMLXIV' represent?",
-      "options": ["1954", "1964", "1974", "1944"],
+      "options": [
+        "1974",
+        "1964",
+        "1944",
+        "1954"
+      ],
       "correctAnswer": 1,
       "explanation": "MCMLXIV equals 1964. M (1000) + CM (900) + LX (60) + IV (4) = 1964.",
       "difficulty": "hard",

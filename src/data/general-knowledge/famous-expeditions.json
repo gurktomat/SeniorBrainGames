@@ -7,92 +7,167 @@
     {
       "id": "famous-expeditions-1",
       "question": "The Lewis and Clark Expedition (1804-1806) was commissioned by which U.S. president?",
-      "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
-      "correctAnswer": 2
+      "options": [
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison",
+        "George Washington"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-expeditions-2",
       "question": "Who led the first expedition to reach the South Pole in December 1911?",
-      "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "Douglas Mawson"],
+      "options": [
+        "Ernest Shackleton",
+        "Roald Amundsen",
+        "Robert Falcon Scott",
+        "Douglas Mawson"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-expeditions-3",
       "question": "Ferdinand Magellan's expedition (1519-1522) is famous for being the first to do what?",
-      "options": ["Reach the North Pole", "Cross the Atlantic", "Circumnavigate the globe", "Discover Australia"],
-      "correctAnswer": 2
+      "options": [
+        "Circumnavigate the globe",
+        "Cross the Atlantic",
+        "Discover Australia",
+        "Reach the North Pole"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-expeditions-4",
       "question": "Sir Edmund Hillary and Tenzing Norgay became the first confirmed climbers to reach the summit of Mount Everest in which year?",
-      "options": ["1949", "1951", "1953", "1955"],
-      "correctAnswer": 2
+      "options": [
+        "1955",
+        "1953",
+        "1951",
+        "1949"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-expeditions-5",
       "question": "Ernest Shackleton's ill-fated 1914 expedition aboard which ship became one of history's greatest survival stories?",
-      "options": ["Discovery", "Terra Nova", "Endurance", "Nimrod"],
+      "options": [
+        "Nimrod",
+        "Discovery",
+        "Endurance",
+        "Terra Nova"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-expeditions-6",
       "question": "Christopher Columbus's 1492 voyage was financed by the monarchs of which country?",
-      "options": ["Portugal", "Spain", "England", "Italy"],
-      "correctAnswer": 1
+      "options": [
+        "Spain",
+        "Portugal",
+        "England",
+        "Italy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-expeditions-7",
       "question": "The expedition of Meriwether Lewis and William Clark aimed to find a water route to which ocean?",
-      "options": ["Atlantic", "Arctic", "Indian", "Pacific"],
-      "correctAnswer": 3
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-expeditions-8",
       "question": "Who was the first European explorer to reach India by sea, arriving in 1498?",
-      "options": ["Bartholomew Diaz", "Vasco da Gama", "Amerigo Vespucci", "Henry the Navigator"],
-      "correctAnswer": 1
+      "options": [
+        "Bartholomew Diaz",
+        "Amerigo Vespucci",
+        "Vasco da Gama",
+        "Henry the Navigator"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-expeditions-9",
       "question": "The famous 1911 'Race to the South Pole' was between Roald Amundsen and which British explorer?",
-      "options": ["Ernest Shackleton", "Robert Falcon Scott", "James Cook", "Francis Drake"],
+      "options": [
+        "Ernest Shackleton",
+        "Robert Falcon Scott",
+        "Francis Drake",
+        "James Cook"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-expeditions-10",
       "question": "Jacques Cousteau co-developed the Aqua-Lung and became famous for his expeditions exploring what?",
-      "options": ["Mountain peaks", "The oceans", "Desert caves", "Arctic tundra"],
+      "options": [
+        "Arctic tundra",
+        "The oceans",
+        "Desert caves",
+        "Mountain peaks"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-expeditions-11",
       "question": "The Kon-Tiki expedition of 1947, led by Thor Heyerdahl, crossed which ocean on a wooden raft?",
-      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
-      "correctAnswer": 2
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-expeditions-12",
       "question": "David Livingstone, the famous Scottish explorer, spent much of his career exploring which continent?",
-      "options": ["Asia", "South America", "Africa", "Australia"],
+      "options": [
+        "South America",
+        "Asia",
+        "Africa",
+        "Australia"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-expeditions-13",
       "question": "Robert Peary claimed to be the first person to reach which geographic point in 1909?",
-      "options": ["South Pole", "North Pole", "Summit of K2", "Source of the Nile"],
-      "correctAnswer": 1
+      "options": [
+        "South Pole",
+        "Summit of K2",
+        "North Pole",
+        "Source of the Nile"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-expeditions-14",
       "question": "The Challenger Deep, the deepest known point in the ocean, was first reached by Jacques Piccard and Don Walsh in which vessel?",
-      "options": ["Alvin", "Trieste", "Nautilus", "Deepsea Challenger"],
-      "correctAnswer": 1
+      "options": [
+        "Nautilus",
+        "Alvin",
+        "Deepsea Challenger",
+        "Trieste"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-expeditions-15",
       "question": "Sacagawea, a Lemhi Shoshone woman, served as a guide and interpreter for which famous expedition?",
-      "options": ["Coronado's expedition", "Pike's expedition", "Lewis and Clark expedition", "Frémont's expedition"],
-      "correctAnswer": 2
+      "options": [
+        "Lewis and Clark expedition",
+        "Coronado's expedition",
+        "Frémont's expedition",
+        "Pike's expedition"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

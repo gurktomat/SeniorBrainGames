@@ -1,0 +1,173 @@
+{
+  "id": "classic-trucks-quiz",
+  "title": "Classic Trucks Quiz",
+  "description": "Haul up your memory and recall facts about iconic trucks and commercial vehicles",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "classic-trucks-quiz-1",
+      "question": "The Ford F-Series has been the best-selling truck in the United States for over how many consecutive years?",
+      "options": [
+        "30 years",
+        "40 years",
+        "10 years",
+        "20 years"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-trucks-quiz-2",
+      "question": "The Chevrolet Silverado gets its name from what?",
+      "options": [
+        "A mountain in Colorado",
+        "A famous trucker",
+        "A Spanish word meaning 'silver-plated'",
+        "A city in Texas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-trucks-quiz-3",
+      "question": "The Volkswagen Type 2, better known as the VW Bus or Microbus, was first produced in which decade?",
+      "options": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1940s"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-4",
+      "question": "The Toyota Hilux is famous for its extreme what?",
+      "options": [
+        "Speed",
+        "Luxury features",
+        "Fuel consumption",
+        "Durability and reliability"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-trucks-quiz-5",
+      "question": "A 'pickup truck' is distinguished from other trucks by having what?",
+      "options": [
+        "An open cargo bed behind the cab",
+        "Six wheels",
+        "Two engines",
+        "A refrigerated compartment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-6",
+      "question": "The Dodge Power Wagon, introduced in 1945, was one of the first civilian trucks based on what?",
+      "options": [
+        "A World War II military truck",
+        "A race car design",
+        "A fire engine",
+        "A farm tractor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-7",
+      "question": "The Mack Trucks company is known for what animal on its hood ornament?",
+      "options": [
+        "Bear",
+        "Eagle",
+        "Lion",
+        "Bulldog"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-trucks-quiz-8",
+      "question": "The International Harvester Scout, produced from 1961 to 1980, was an early competitor to which vehicle?",
+      "options": [
+        "Chevrolet Corvette",
+        "Ford Mustang",
+        "Jeep",
+        "Volkswagen Beetle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-trucks-quiz-9",
+      "question": "What does 'GVW' or 'GVWR' stand for in truck specifications?",
+      "options": [
+        "Gross Vehicle Weight Rating",
+        "General Vehicle Width Rating",
+        "Guaranteed Vehicle Warranty",
+        "Ground Velocity Weight Ratio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-10",
+      "question": "The Kenworth and Peterbilt brands are famous for manufacturing what type of truck?",
+      "options": [
+        "Semi-trucks (tractor-trailers)",
+        "Delivery vans",
+        "Pickup trucks",
+        "Garbage trucks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-11",
+      "question": "A 'flatbed truck' is characterized by having what kind of cargo area?",
+      "options": [
+        "A refrigerated chamber",
+        "A tilting dump bed",
+        "A flat, open platform with no sides or roof",
+        "An enclosed box"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-trucks-quiz-12",
+      "question": "The Land Rover Defender, originally called the Land Rover Series I, was first produced in which country?",
+      "options": [
+        "Germany",
+        "Japan",
+        "England",
+        "United States"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-trucks-quiz-13",
+      "question": "The GMC brand is a division of which major American automotive company?",
+      "options": [
+        "Ford Motor Company",
+        "Chrysler",
+        "American Motors",
+        "General Motors"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-trucks-quiz-14",
+      "question": "A 'cab-over' truck design means the cab is positioned where relative to the engine?",
+      "options": [
+        "Above/over the engine",
+        "Below the engine",
+        "Behind the engine",
+        "Beside the engine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-trucks-quiz-15",
+      "question": "The El Camino, produced by Chevrolet, was notable for being a hybrid between what two vehicle types?",
+      "options": [
+        "Tractor and trailer",
+        "Van and bus",
+        "Car and pickup truck",
+        "SUV and sedan"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

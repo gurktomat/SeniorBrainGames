@@ -1,0 +1,173 @@
+{
+  "id": "famous-tv-shows-quiz",
+  "title": "Famous TV Shows Quiz",
+  "description": "How well do you remember classic and iconic television shows?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-tv-shows-quiz-1",
+      "question": "In which year did the TV show 'I Love Lucy' first premiere?",
+      "options": [
+        "1955",
+        "1951",
+        "1953",
+        "1949"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-tv-shows-quiz-2",
+      "question": "What was the name of the bar in the TV show 'Cheers'?",
+      "options": [
+        "Sam's Place",
+        "The Pub",
+        "The Lounge",
+        "Cheers"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-3",
+      "question": "Which TV show featured the fictional town of Mayberry?",
+      "options": [
+        "Green Acres",
+        "Leave It to Beaver",
+        "The Dick Van Dyke Show",
+        "The Andy Griffith Show"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-4",
+      "question": "How many seasons did the original 'M*A*S*H' TV series run?",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "10"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-tv-shows-quiz-5",
+      "question": "Which show featured the characters J.R. and Bobby Ewing?",
+      "options": [
+        "Dynasty",
+        "Knots Landing",
+        "Falcon Crest",
+        "Dallas"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-6",
+      "question": "What was the name of the spaceship in the original 'Star Trek' series?",
+      "options": [
+        "USS Discovery",
+        "USS Enterprise",
+        "USS Voyager",
+        "USS Defiant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-tv-shows-quiz-7",
+      "question": "Which city is the TV show 'Friends' set in?",
+      "options": [
+        "Chicago",
+        "Boston",
+        "Los Angeles",
+        "New York City"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-8",
+      "question": "Who played the title character in 'Columbo'?",
+      "options": [
+        "Peter Sellers",
+        "Peter Falk",
+        "Peter Ustinov",
+        "Peter O'Toole"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-tv-shows-quiz-9",
+      "question": "Which TV show's theme song begins with 'Here's a story of a lovely lady'?",
+      "options": [
+        "Happy Days",
+        "The Partridge Family",
+        "Laverne & Shirley",
+        "The Brady Bunch"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-10",
+      "question": "In 'Seinfeld,' what was Kramer's first name?",
+      "options": [
+        "Cosmo",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-tv-shows-quiz-11",
+      "question": "Which show featured a family living at 1313 Mockingbird Lane?",
+      "options": [
+        "The Munsters",
+        "Bewitched",
+        "I Dream of Jeannie",
+        "The Addams Family"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-tv-shows-quiz-12",
+      "question": "What was the longest-running primetime animated show before 'The Simpsons'?",
+      "options": [
+        "The Flintstones",
+        "Scooby-Doo",
+        "Tom and Jerry",
+        "The Jetsons"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-tv-shows-quiz-13",
+      "question": "Which TV host was famous for the phrase 'Come on down!'?",
+      "options": [
+        "Regis Philbin",
+        "Pat Sajak",
+        "Alex Trebek",
+        "Bob Barker"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-tv-shows-quiz-14",
+      "question": "In which decade did 'The Twilight Zone' originally air?",
+      "options": [
+        "1960s-1970s",
+        "1970s-1980s",
+        "1950s-1960s",
+        "1940s"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-tv-shows-quiz-15",
+      "question": "Which show's finale in 1983 was watched by over 105 million viewers?",
+      "options": [
+        "M*A*S*H",
+        "The Cosby Show",
+        "Cheers",
+        "Dallas"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

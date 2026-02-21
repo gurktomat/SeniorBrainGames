@@ -7,92 +7,167 @@
     {
       "id": "vocabulary-in-context-1",
       "question": "'The teacher's explanation was so lucid that even the youngest students understood.' What does 'lucid' mean here?",
-      "options": ["Confusing", "Clear and easy to understand", "Lengthy", "Boring"],
-      "correctAnswer": 1
+      "options": [
+        "Clear and easy to understand",
+        "Boring",
+        "Confusing",
+        "Lengthy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-2",
       "question": "'After the long winter, the garden showed signs of rejuvenation with new buds appearing everywhere.' What does 'rejuvenation' mean?",
-      "options": ["Decay", "The process of becoming young or fresh again", "Abandonment", "Flooding"],
-      "correctAnswer": 1
+      "options": [
+        "Abandonment",
+        "Flooding",
+        "The process of becoming young or fresh again",
+        "Decay"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vocabulary-in-context-3",
       "question": "'The politician's speech was full of rhetoric but lacked any concrete proposals.' What does 'rhetoric' mean here?",
-      "options": ["Persuasive or impressive language that may lack substance", "Scientific data", "Humor", "Musical rhythm"],
+      "options": [
+        "Persuasive or impressive language that may lack substance",
+        "Scientific data",
+        "Musical rhythm",
+        "Humor"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-4",
       "question": "'She showed great fortitude during the difficult months of her recovery.' What does 'fortitude' mean?",
-      "options": ["Wealth", "Courage and strength in facing adversity", "Intelligence", "Speed"],
-      "correctAnswer": 1
+      "options": [
+        "Courage and strength in facing adversity",
+        "Wealth",
+        "Speed",
+        "Intelligence"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-5",
       "question": "'The ephemeral beauty of the cherry blossoms drew crowds every spring, knowing they would last only days.' What does 'ephemeral' mean?",
-      "options": ["Permanent", "Ugly", "Lasting only a very short time", "Artificial"],
-      "correctAnswer": 2
+      "options": [
+        "Artificial",
+        "Lasting only a very short time",
+        "Ugly",
+        "Permanent"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "vocabulary-in-context-6",
       "question": "'His verbose letters, often running to ten pages, exhausted even his most patient friends.' What does 'verbose' mean?",
-      "options": ["Poetic", "Using more words than needed; long-winded", "Secretive", "Hostile"],
-      "correctAnswer": 1
+      "options": [
+        "Using more words than needed; long-winded",
+        "Secretive",
+        "Poetic",
+        "Hostile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-7",
       "question": "'The diplomat was known for her tactful handling of sensitive negotiations.' What does 'tactful' mean?",
-      "options": ["Aggressive", "Having a keen sense of what to say to avoid offense", "Dishonest", "Slow"],
-      "correctAnswer": 1
+      "options": [
+        "Aggressive",
+        "Slow",
+        "Having a keen sense of what to say to avoid offense",
+        "Dishonest"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vocabulary-in-context-8",
       "question": "'The magnanimous host insisted on paying for everyone's dinner despite his modest means.' What does 'magnanimous' mean?",
-      "options": ["Stingy", "Generous and forgiving, especially toward a rival", "Wealthy", "Demanding"],
-      "correctAnswer": 1
+      "options": [
+        "Generous and forgiving, especially toward a rival",
+        "Stingy",
+        "Demanding",
+        "Wealthy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-9",
       "question": "'The old mansion had a dilapidated roof that leaked whenever it rained.' What does 'dilapidated' mean?",
-      "options": ["Brand new", "In a state of disrepair or ruin", "Colorful", "Expensive"],
+      "options": [
+        "Colorful",
+        "In a state of disrepair or ruin",
+        "Brand new",
+        "Expensive"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vocabulary-in-context-10",
       "question": "'Her pragmatic approach to the problem saved the company both time and money.' What does 'pragmatic' mean?",
-      "options": ["Impractical", "Dealing with things sensibly and realistically", "Emotional", "Random"],
-      "correctAnswer": 1
+      "options": [
+        "Random",
+        "Emotional",
+        "Dealing with things sensibly and realistically",
+        "Impractical"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vocabulary-in-context-11",
       "question": "'The children were jubilant when they heard school had been canceled for a snow day.' What does 'jubilant' mean?",
-      "options": ["Angry", "Feeling or expressing great happiness", "Confused", "Sleepy"],
-      "correctAnswer": 1
+      "options": [
+        "Angry",
+        "Sleepy",
+        "Confused",
+        "Feeling or expressing great happiness"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vocabulary-in-context-12",
       "question": "'The frugal grandmother always found ways to stretch her grocery budget.' What does 'frugal' mean?",
-      "options": ["Wasteful", "Sparing or economical with money or resources", "Unhappy", "Careless"],
-      "correctAnswer": 1
+      "options": [
+        "Sparing or economical with money or resources",
+        "Careless",
+        "Unhappy",
+        "Wasteful"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vocabulary-in-context-13",
       "question": "'His candid remarks about the company's problems surprised the board members.' What does 'candid' mean?",
-      "options": ["Dishonest", "Truthful and straightforward; frank", "Quiet", "Rehearsed"],
-      "correctAnswer": 1
+      "options": [
+        "Quiet",
+        "Rehearsed",
+        "Dishonest",
+        "Truthful and straightforward; frank"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vocabulary-in-context-14",
       "question": "'The tenacious detective refused to give up on the cold case after twenty years.' What does 'tenacious' mean?",
-      "options": ["Lazy", "Tending to keep a firm hold; persistent", "Fearful", "Inexperienced"],
-      "correctAnswer": 1
+      "options": [
+        "Inexperienced",
+        "Lazy",
+        "Tending to keep a firm hold; persistent",
+        "Fearful"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vocabulary-in-context-15",
       "question": "'The ubiquitous coffee shops on every corner made it easy to find a morning cup.' What does 'ubiquitous' mean?",
-      "options": ["Rare", "Present, appearing, or found everywhere", "Expensive", "Underground"],
-      "correctAnswer": 1
+      "options": [
+        "Present, appearing, or found everywhere",
+        "Underground",
+        "Rare",
+        "Expensive"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

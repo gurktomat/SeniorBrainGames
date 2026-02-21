@@ -1,0 +1,173 @@
+{
+  "id": "sandwich-varieties-quiz",
+  "title": "Sandwich Varieties Quiz",
+  "description": "From classic clubs to Vietnamese banh mi — test your knowledge of sandwiches worldwide!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sandwich-varieties-quiz-1",
+      "question": "The Reuben sandwich traditionally features corned beef, sauerkraut, Swiss cheese, and which dressing?",
+      "options": [
+        "Russian or Thousand Island dressing",
+        "Ranch",
+        "Mustard",
+        "Mayonnaise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sandwich-varieties-quiz-2",
+      "question": "Banh mi is a sandwich that originated in which country, blending French and local culinary traditions?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Laos",
+        "Cambodia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sandwich-varieties-quiz-3",
+      "question": "A croque-monsieur is a French hot sandwich made with ham and which cheese?",
+      "options": [
+        "Brie",
+        "Camembert",
+        "Roquefort",
+        "Gruyère"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sandwich-varieties-quiz-4",
+      "question": "Which Italian sandwich is made with a round bread roll, typically containing cured meats and mozzarella?",
+      "options": [
+        "Muffaletta",
+        "Focaccia sandwich",
+        "Panini",
+        "Bruschetta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sandwich-varieties-quiz-5",
+      "question": "A Philly cheesesteak originated in which U.S. city?",
+      "options": [
+        "Boston",
+        "Chicago",
+        "New York",
+        "Philadelphia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sandwich-varieties-quiz-6",
+      "question": "Which sandwich, named after a Cuban community, features roast pork, ham, Swiss cheese, pickles, and mustard on Cuban bread?",
+      "options": [
+        "Torta",
+        "Cuban sandwich",
+        "Cemita",
+        "Medianoche"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sandwich-varieties-quiz-7",
+      "question": "A club sandwich traditionally has how many layers of bread?",
+      "options": [
+        "Four",
+        "Three",
+        "One (open-faced)",
+        "Two"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sandwich-varieties-quiz-8",
+      "question": "Which British sandwich spread is made from yeast extract and has a famously divisive taste?",
+      "options": [
+        "HP Sauce",
+        "Marmite",
+        "Piccalilli",
+        "Branston pickle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sandwich-varieties-quiz-9",
+      "question": "A Monte Cristo sandwich is unique because it is prepared in what way?",
+      "options": [
+        "Baked in an oven",
+        "Grilled on a panini press",
+        "Dipped in egg batter and fried (like French toast)",
+        "Served cold with no cooking"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sandwich-varieties-quiz-10",
+      "question": "Which Middle Eastern sandwich features falafel or shawarma wrapped in pita bread?",
+      "options": [
+        "Sabich",
+        "Doner kebab",
+        "Gyro",
+        "Falafel pita"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sandwich-varieties-quiz-11",
+      "question": "Po' boy sandwiches are a tradition in which U.S. city?",
+      "options": [
+        "Charleston",
+        "New Orleans",
+        "Memphis",
+        "Savannah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sandwich-varieties-quiz-12",
+      "question": "A BLT sandwich consists of which three main ingredients?",
+      "options": [
+        "Butter, lamb, thyme",
+        "Brisket, leek, turkey",
+        "Bacon, lettuce, tomato",
+        "Beef, lettuce, tomato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sandwich-varieties-quiz-13",
+      "question": "Which Scandinavian open-faced sandwich, served on dense rye bread, is called smørrebrød?",
+      "options": [
+        "A Norwegian fish roll",
+        "A Swedish meatball sandwich",
+        "A Finnish flatbread wrap",
+        "A Danish open sandwich"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sandwich-varieties-quiz-14",
+      "question": "A lobster roll is most closely associated with which region of the United States?",
+      "options": [
+        "The Mid-Atlantic",
+        "The Pacific Northwest",
+        "The Gulf Coast",
+        "New England"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sandwich-varieties-quiz-15",
+      "question": "Which Mexican sandwich, served on a soft white roll called a telera, is called a torta?",
+      "options": [
+        "Taco",
+        "Quesadilla",
+        "Torta",
+        "Burrito"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

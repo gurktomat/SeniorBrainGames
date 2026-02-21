@@ -6,45 +6,45 @@
   "questions": [
     {
       "id": "mythology-words-1",
-      "question": "The word 'atlas' \u2014 meaning a book of maps \u2014 comes from which mythological figure?",
+      "question": "The word 'atlas' — meaning a book of maps — comes from which mythological figure?",
       "options": [
-        "Apollo, god of the sun",
         "Atlas, the Titan who held up the sky",
-        "Athena, goddess of wisdom",
-        "Ares, god of war"
+        "Apollo, god of the sun",
+        "Ares, god of war",
+        "Athena, goddess of wisdom"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mythology-words-2",
       "question": "The word 'narcissism' derives from the myth of Narcissus. What happened to him?",
       "options": [
         "He was turned into a tree",
+        "He defeated a monster",
         "He fell in love with his own reflection",
-        "He was struck by lightning",
-        "He defeated a monster"
+        "He was struck by lightning"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mythology-words-3",
       "question": "Which planet and mythological god gave us the word 'mercurial,' meaning changeable or volatile?",
       "options": [
-        "Mars",
-        "Jupiter",
         "Mercury",
-        "Saturn"
+        "Mars",
+        "Saturn",
+        "Jupiter"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "mythology-words-4",
       "question": "The word 'odyssey,' meaning a long and eventful journey, comes from which Greek epic?",
       "options": [
-        "The Iliad",
+        "The Republic",
         "The Odyssey by Homer",
-        "The Aeneid",
-        "The Republic"
+        "The Iliad",
+        "The Aeneid"
       ],
       "correctAnswer": 1
     },
@@ -52,34 +52,34 @@
       "id": "mythology-words-5",
       "question": "What mythological creature gives us the word 'chimera,' meaning a fanciful or impossible idea?",
       "options": [
-        "A three-headed dog",
         "A fire-breathing creature with a lion's head, goat's body, and serpent's tail",
-        "A winged horse",
-        "A one-eyed giant"
+        "A three-headed dog",
+        "A one-eyed giant",
+        "A winged horse"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mythology-words-6",
       "question": "The word 'volcano' derives from Vulcan, the Roman god of what?",
       "options": [
-        "Water",
         "Fire and metalworking",
+        "Water",
         "Thunder",
         "Agriculture"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mythology-words-7",
       "question": "What does 'herculean' mean, derived from the hero Hercules?",
       "options": [
+        "Unusually fast",
         "Extremely weak",
         "Requiring great strength or effort",
-        "Very intelligent",
-        "Unusually fast"
+        "Very intelligent"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mythology-words-8",
@@ -107,65 +107,65 @@
       "id": "mythology-words-10",
       "question": "The word 'cereal' comes from Ceres, the Roman goddess of what?",
       "options": [
-        "The moon",
-        "Love and beauty",
         "Harvest and agriculture",
-        "Wisdom"
+        "Wisdom",
+        "The moon",
+        "Love and beauty"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "mythology-words-11",
       "question": "What does 'Achilles' heel' refer to, based on the myth of Achilles?",
       "options": [
-        "A strong armor",
-        "A person's area of weakness or vulnerability",
+        "A battle strategy",
         "A type of footwear",
-        "A battle strategy"
+        "A person's area of weakness or vulnerability",
+        "A strong armor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mythology-words-12",
-      "question": "The word 'muse' \u2014 meaning a source of inspiration \u2014 comes from the Muses. How many Muses were there in Greek mythology?",
+      "question": "The word 'muse' — meaning a source of inspiration — comes from the Muses. How many Muses were there in Greek mythology?",
       "options": [
-        "Three",
+        "Twelve",
         "Seven",
-        "Nine",
-        "Twelve"
+        "Three",
+        "Nine"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "mythology-words-13",
       "question": "Which mythological box gives us a phrase meaning 'a source of many unforeseen troubles'?",
       "options": [
-        "Pandora's Box",
-        "The Ark of the Covenant",
+        "The Trojan Horse",
         "The Golden Fleece",
-        "The Trojan Horse"
+        "Pandora's Box",
+        "The Ark of the Covenant"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "mythology-words-14",
       "question": "The word 'echo' comes from a Greek nymph named Echo. What was her punishment?",
       "options": [
-        "She was turned to stone",
-        "She could only repeat what others said",
         "She was made invisible",
-        "She was trapped in a cave forever"
+        "She was trapped in a cave forever",
+        "She could only repeat what others said",
+        "She was turned to stone"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mythology-words-15",
       "question": "The word 'jovial,' meaning cheerful and good-humored, derives from Jove. Who was Jove?",
       "options": [
-        "The god of wine",
+        "A famous Roman poet",
         "Another name for Jupiter, king of the Roman gods",
-        "The god of love",
-        "A famous Roman poet"
+        "The god of wine",
+        "The god of love"
       ],
       "correctAnswer": 1
     }

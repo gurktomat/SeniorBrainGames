@@ -7,92 +7,167 @@
     {
       "id": "herb-identification-1",
       "question": "This aromatic herb has small, oval green leaves and a sweet, slightly peppery flavor. It is essential in Italian cooking, especially in pesto and Caprese salad. What herb is this?",
-      "options": ["Oregano", "Basil", "Parsley", "Cilantro"],
-      "correctAnswer": 1
+      "options": [
+        "Oregano",
+        "Parsley",
+        "Cilantro",
+        "Basil"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "herb-identification-2",
       "question": "This woody herb has needle-like leaves and a strong, pine-like aroma. It pairs beautifully with roasted lamb and potatoes. What herb is this?",
-      "options": ["Thyme", "Sage", "Rosemary", "Tarragon"],
-      "correctAnswer": 2
+      "options": [
+        "Thyme",
+        "Rosemary",
+        "Sage",
+        "Tarragon"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "herb-identification-3",
       "question": "This herb has tiny, round leaves on thin stems and a subtle, earthy flavor. It is a staple in French cuisine and pairs well with virtually any savory dish. What herb is this?",
-      "options": ["Oregano", "Marjoram", "Thyme", "Savory"],
-      "correctAnswer": 2
+      "options": [
+        "Thyme",
+        "Oregano",
+        "Savory",
+        "Marjoram"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "herb-identification-4",
       "question": "This herb has flat or curly bright green leaves and a fresh, mild flavor. It is the world's most widely used garnish and is rich in vitamins A, C, and K. What herb is this?",
-      "options": ["Parsley", "Cilantro", "Chervil", "Celery Leaf"],
-      "correctAnswer": 0
+      "options": [
+        "Cilantro",
+        "Celery Leaf",
+        "Parsley",
+        "Chervil"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "herb-identification-5",
       "question": "This herb has soft, velvety gray-green leaves with a slightly bitter, earthy flavor. It is traditionally used to season turkey and stuffing at Thanksgiving. What herb is this?",
-      "options": ["Rosemary", "Thyme", "Sage", "Oregano"],
-      "correctAnswer": 2
+      "options": [
+        "Thyme",
+        "Oregano",
+        "Rosemary",
+        "Sage"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "herb-identification-6",
       "question": "This herb looks similar to parsley but has a very different taste that some people describe as soapy. It is essential in Mexican salsas and Asian cuisines. What herb is this?",
-      "options": ["Parsley", "Chervil", "Cilantro", "Lovage"],
-      "correctAnswer": 2
+      "options": [
+        "Lovage",
+        "Parsley",
+        "Chervil",
+        "Cilantro"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "herb-identification-7",
       "question": "This herb has long, hollow, grass-like stems with a mild onion flavor. It belongs to the allium family and is commonly snipped over baked potatoes and omelets. What herb is this?",
-      "options": ["Scallion", "Chives", "Leek", "Garlic Chives"],
+      "options": [
+        "Scallion",
+        "Chives",
+        "Garlic Chives",
+        "Leek"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "herb-identification-8",
       "question": "This herb has a strong, warm, slightly bitter flavor and small leaves on woody stems. It is essential in pizza sauce and many Greek and Mediterranean dishes. What herb is this?",
-      "options": ["Basil", "Oregano", "Marjoram", "Thyme"],
-      "correctAnswer": 1
+      "options": [
+        "Thyme",
+        "Basil",
+        "Marjoram",
+        "Oregano"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "herb-identification-9",
       "question": "This delicate French herb has lacy, fern-like leaves and a subtle anise flavor. It is one of the traditional French 'fines herbes' and is best used fresh. What herb is this?",
-      "options": ["Tarragon", "Dill", "Chervil", "Fennel"],
-      "correctAnswer": 2
+      "options": [
+        "Chervil",
+        "Fennel",
+        "Dill",
+        "Tarragon"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "herb-identification-10",
       "question": "This herb has feathery, thread-like leaves and a fresh, slightly sweet flavor. It is commonly paired with salmon, pickles, and potato salad. What herb is this?",
-      "options": ["Fennel", "Dill", "Chervil", "Tarragon"],
-      "correctAnswer": 1
+      "options": [
+        "Dill",
+        "Chervil",
+        "Tarragon",
+        "Fennel"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "herb-identification-11",
-      "question": "This herb has long, narrow leaves with a distinctive anise or licorice flavor. It is essential in French B\u00e9arnaise sauce and pairs well with chicken. What herb is this?",
-      "options": ["Chervil", "Fennel", "Tarragon", "Anise Hyssop"],
-      "correctAnswer": 2
+      "question": "This herb has long, narrow leaves with a distinctive anise or licorice flavor. It is essential in French Béarnaise sauce and pairs well with chicken. What herb is this?",
+      "options": [
+        "Tarragon",
+        "Anise Hyssop",
+        "Fennel",
+        "Chervil"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "herb-identification-12",
       "question": "This Mediterranean herb is sweeter and milder than its close relative oregano. It has small, rounded leaves and is sometimes called 'sweet marjoram.' What herb is this?",
-      "options": ["Oregano", "Thyme", "Marjoram", "Savory"],
-      "correctAnswer": 2
+      "options": [
+        "Savory",
+        "Marjoram",
+        "Oregano",
+        "Thyme"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "herb-identification-13",
       "question": "This herb has large, dark green leaves with a slight lemony, minty flavor. It grows prolifically and is used in Southeast Asian cooking, mojitos, and mint juleps. What herb is this?",
-      "options": ["Basil", "Lemon Balm", "Mint", "Peppermint"],
-      "correctAnswer": 2
+      "options": [
+        "Lemon Balm",
+        "Mint",
+        "Peppermint",
+        "Basil"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "herb-identification-14",
       "question": "This herb has narrow, silvery-green leaves and a camphor-like aroma. Once used widely in European cooking, it is now most associated with herbes de Provence. What herb is this?",
-      "options": ["Rosemary", "Sage", "Lavender", "Savory"],
-      "correctAnswer": 2
+      "options": [
+        "Lavender",
+        "Savory",
+        "Rosemary",
+        "Sage"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "herb-identification-15",
       "question": "This herb has elongated leaves that taste like a combination of celery and anise. Its bulb, fronds, and seeds are all edible. It is commonly paired with fish in Italian cooking. What herb is this?",
-      "options": ["Dill", "Tarragon", "Fennel", "Lovage"],
-      "correctAnswer": 2
+      "options": [
+        "Tarragon",
+        "Lovage",
+        "Dill",
+        "Fennel"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "id": "logistics-terms",
+  "title": "Logistics Terms",
+  "description": "Deliver your best performance on this quiz about shipping, warehousing, and supply chain vocabulary.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "logistics-terms-1",
+      "question": "What does 'FOB' stand for in shipping?",
+      "options": [
+        "Full Order Billing",
+        "Freight Operation Base",
+        "Free On Board",
+        "Forward Order Batch"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "logistics-terms-2",
+      "question": "What is a 'bill of lading'?",
+      "options": [
+        "A landing permit for aircraft",
+        "A customs declaration form",
+        "An invoice for warehouse space",
+        "A legal document issued by a carrier detailing the type, quantity, and destination of goods being shipped"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "logistics-terms-3",
+      "question": "What does 'just-in-time' (JIT) inventory mean?",
+      "options": [
+        "A strategy where materials arrive precisely when needed in production, minimizing storage costs",
+        "Ordering extra inventory in case of emergencies",
+        "A deadline for placing orders",
+        "Delivering goods at the last possible moment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-4",
+      "question": "What is a 'pallet' in logistics?",
+      "options": [
+        "A flat transport structure used to support goods for storage and shipping, often moved by forklifts",
+        "A color sample for packaging",
+        "A type of shipping container",
+        "A loading dock platform"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-5",
+      "question": "What does 'drayage' refer to?",
+      "options": [
+        "A type of cargo insurance",
+        "Dragging heavy cargo across a dock",
+        "Draining water from a ship",
+        "The transport of goods over a short distance, typically from a port to a warehouse"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "logistics-terms-6",
+      "question": "What is 'cross-docking'?",
+      "options": [
+        "A type of dock inspection",
+        "Parking two trucks side by side",
+        "Loading goods from both sides of a truck",
+        "A logistics practice where incoming goods are directly transferred to outgoing vehicles with minimal storage"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "logistics-terms-7",
+      "question": "What does 'TEU' stand for?",
+      "options": [
+        "Terminal Entry Usage",
+        "Transport and Equipment Union",
+        "Total Export Units",
+        "Twenty-foot Equivalent Unit, a standard measure for shipping container capacity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "logistics-terms-8",
+      "question": "What is 'demurrage'?",
+      "options": [
+        "A charge for keeping a shipping container or vessel beyond the allowed free time",
+        "A type of cargo insurance",
+        "A discount for early delivery",
+        "Damage to goods in transit"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-9",
+      "question": "What does 'last mile delivery' refer to?",
+      "options": [
+        "Delivering to remote rural areas",
+        "The final leg of the delivery process from a distribution center to the end customer",
+        "A measurement of fuel efficiency",
+        "The final mile of a highway"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "logistics-terms-10",
+      "question": "What is a 'manifest' in shipping?",
+      "options": [
+        "A shipping company's mission statement",
+        "A document listing all cargo, passengers, and crew on a vessel or vehicle",
+        "A warehouse floor plan",
+        "A type of packaging material"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "logistics-terms-11",
+      "question": "What does 'LTL' stand for in freight shipping?",
+      "options": [
+        "Limited Transport License",
+        "Long-Term Logistics",
+        "Large Transit Load",
+        "Less Than Truckload"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "logistics-terms-12",
+      "question": "What is 'reverse logistics'?",
+      "options": [
+        "The process of moving goods from the customer back to the seller or manufacturer for returns, recycling, or disposal",
+        "Reversing a shipping order",
+        "Shipping goods backwards through the supply chain",
+        "Driving a truck in reverse"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-13",
+      "question": "What does 'SKU' stand for?",
+      "options": [
+        "Stock Keeping Unit",
+        "Supply Kit Utility",
+        "Shipping Knowledge Unit",
+        "Standard Kitting Usage"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-14",
+      "question": "What is 'intermodal transport'?",
+      "options": [
+        "The use of two or more modes of transport (truck, rail, ship) to move goods in a single journey",
+        "Transport within a single building",
+        "Transport between two warehouses",
+        "A type of forklift"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "logistics-terms-15",
+      "question": "What does 'lead time' mean in logistics?",
+      "options": [
+        "The time it takes to load a truck",
+        "The first delivery of the day",
+        "The time the lead driver takes a break",
+        "The total time from placing an order to receiving the goods"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

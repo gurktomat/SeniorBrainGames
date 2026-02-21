@@ -1,0 +1,173 @@
+{
+  "id": "dna-genetics-quiz",
+  "title": "DNA & Genetics Quiz",
+  "description": "From DNA structure to genetic inheritance, test your recall of the fascinating world of genetics.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "dna-genetics-quiz-1",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Deoxyribose Nucleic Acid",
+        "Dinitrogen Acid",
+        "Dynamic Nucleotide Array",
+        "Deoxyribonucleic Acid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-2",
+      "question": "What shape is the DNA molecule famously described as?",
+      "options": [
+        "Single helix",
+        "Triple helix",
+        "Flat ladder",
+        "Double helix"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-3",
+      "question": "Which four bases make up DNA?",
+      "options": [
+        "Adenine, Uracil, Guanine, Cytosine",
+        "Adenine, Thymine, Guanine, Cytosine",
+        "Alanine, Thymine, Guanine, Cytosine",
+        "Adenine, Thymine, Glycine, Cysteine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-4",
+      "question": "Who is known as the 'father of genetics'?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Thomas Hunt Morgan",
+        "Francis Crick"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-5",
+      "question": "What is a gene?",
+      "options": [
+        "A type of cell",
+        "A chromosome",
+        "A type of RNA",
+        "A section of DNA that codes for a protein"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-6",
+      "question": "What are the threadlike structures in the nucleus that carry genetic information?",
+      "options": [
+        "Plasmids",
+        "Mitochondria",
+        "Chromosomes",
+        "Ribosomes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-7",
+      "question": "In DNA, adenine always pairs with which base?",
+      "options": [
+        "Uracil",
+        "Guanine",
+        "Cytosine",
+        "Thymine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-8",
+      "question": "What is the term for a change in the DNA sequence?",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Mutation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-9",
+      "question": "What percentage of DNA do humans share with chimpanzees, approximately?",
+      "options": [
+        "90%",
+        "95%",
+        "98%",
+        "85%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-10",
+      "question": "What is the process of copying DNA called?",
+      "options": [
+        "Mutation",
+        "Translation",
+        "Replication",
+        "Transcription"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-11",
+      "question": "Whose X-ray crystallography work was crucial to discovering DNA's structure?",
+      "options": [
+        "Barbara McClintock",
+        "Dorothy Hodgkin",
+        "Marie Curie",
+        "Rosalind Franklin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-12",
+      "question": "What is a dominant trait?",
+      "options": [
+        "A trait expressed when at least one copy of the gene is present",
+        "A trait that skips generations",
+        "A trait that requires two copies of the gene",
+        "A trait only seen in males"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dna-genetics-quiz-13",
+      "question": "What technology allows scientists to edit genes with precision, often called 'genetic scissors'?",
+      "options": [
+        "Gene therapy",
+        "PCR",
+        "Gel electrophoresis",
+        "CRISPR-Cas9"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-14",
+      "question": "What was the name of the first cloned mammal, born in 1996?",
+      "options": [
+        "Polly the sheep",
+        "Holly the sheep",
+        "Molly the sheep",
+        "Dolly the sheep"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-15",
+      "question": "What is the complete set of genetic material in an organism called?",
+      "options": [
+        "Phenotype",
+        "Proteome",
+        "Genotype",
+        "Genome"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

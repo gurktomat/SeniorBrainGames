@@ -1,0 +1,173 @@
+{
+  "id": "bat-species-quiz",
+  "title": "Bat Species Quiz",
+  "description": "Explore the fascinating world of bats with this quiz about different species and their remarkable abilities",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bat-species-quiz-1",
+      "question": "Which bat has the largest wingspan of any bat species, reaching up to 5.6 feet?",
+      "options": [
+        "Spectacled Flying Fox",
+        "Indian Flying Fox",
+        "Large Flying Fox",
+        "Giant Golden-crowned Flying Fox"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bat-species-quiz-2",
+      "question": "Which type of bat feeds exclusively on blood, making small incisions in sleeping animals?",
+      "options": [
+        "Fruit Bat",
+        "Ghost Bat",
+        "False Vampire Bat",
+        "Vampire Bat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bat-species-quiz-3",
+      "question": "Which small bat, weighing about 2 grams, holds the title of the world's smallest mammal?",
+      "options": [
+        "Banana Bat",
+        "Lesser Horseshoe Bat",
+        "Pipistrelle Bat",
+        "Bumblebee Bat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bat-species-quiz-4",
+      "question": "What is the primary method most bats use to navigate and find prey in the dark?",
+      "options": [
+        "Echolocation",
+        "Infrared Vision",
+        "Enhanced Smell",
+        "Magnetic Field Sensing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bat-species-quiz-5",
+      "question": "Which group of large bats, also called megabats, primarily eat fruit and nectar rather than insects?",
+      "options": [
+        "Horseshoe Bats",
+        "Free-tailed Bats",
+        "Leaf-nosed Bats",
+        "Flying Foxes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bat-species-quiz-6",
+      "question": "Approximately what fraction of all mammal species are bats?",
+      "options": [
+        "One-tenth",
+        "One-fifth",
+        "One-third",
+        "One-quarter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bat-species-quiz-7",
+      "question": "Which bat species forms the largest colony of any mammal, with over 20 million individuals at Bracken Cave in Texas?",
+      "options": [
+        "Big Brown Bat",
+        "Mexican Free-tailed Bat",
+        "Indiana Bat",
+        "Little Brown Bat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bat-species-quiz-8",
+      "question": "Which bat gets its name from the elaborate leaf-shaped structure on its nose used to direct echolocation calls?",
+      "options": [
+        "Leaf-nosed Bat",
+        "Long-eared Bat",
+        "Slit-faced Bat",
+        "Tube-nosed Bat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bat-species-quiz-9",
+      "question": "Which bat species has an extremely long tongue (up to 1.5 times its body length) used to reach nectar deep inside flowers?",
+      "options": [
+        "Tube-lipped Nectar Bat",
+        "Pallas's Long-tongued Bat",
+        "Long-tongued Fruit Bat",
+        "Dawn Bat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bat-species-quiz-10",
+      "question": "Which common North American bat hibernates in caves and has been severely affected by white-nose syndrome?",
+      "options": [
+        "Mexican Free-tailed Bat",
+        "Hoary Bat",
+        "Big Brown Bat",
+        "Little Brown Bat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bat-species-quiz-11",
+      "question": "True or false: All bats are nocturnal. Which statement is correct?",
+      "options": [
+        "Some flying foxes are active during the day",
+        "Only vampire bats are nocturnal",
+        "All bats are strictly nocturnal",
+        "Bats are equally active day and night"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bat-species-quiz-12",
+      "question": "Which Australian bat is one of the few carnivorous bats, preying on other bats, birds, and large insects?",
+      "options": [
+        "Australian False Vampire",
+        "Ghost Bat",
+        "Greater Noctule",
+        "Spectral Bat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bat-species-quiz-13",
+      "question": "Which type of bat plays a crucial role in pollinating agave plants, which are used to make tequila?",
+      "options": [
+        "Jamaican Fruit Bat",
+        "Lesser Long-nosed Bat",
+        "Seba's Short-tailed Bat",
+        "Mexican Free-tailed Bat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bat-species-quiz-14",
+      "question": "Which bat is the fastest flying mammal in the world, reaching speeds of over 100 mph in level flight?",
+      "options": [
+        "Hoary Bat",
+        "Brazilian Free-tailed Bat",
+        "Mexican Free-tailed Bat",
+        "Big Brown Bat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bat-species-quiz-15",
+      "question": "Which colorful bat has striking orange or red fur and is found on tropical islands in the Indian and Pacific Oceans?",
+      "options": [
+        "Rodrigues Fruit Bat",
+        "Flying Fox",
+        "Livingstone's Fruit Bat",
+        "Painted Bat"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

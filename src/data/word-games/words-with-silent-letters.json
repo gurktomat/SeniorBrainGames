@@ -1,0 +1,173 @@
+{
+  "id": "words-with-silent-letters",
+  "title": "Words With Silent Letters",
+  "description": "English is notorious for its silent letters. Can you identify which letters are hiding in plain sight in these common words?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "words-with-silent-letters-1",
+      "question": "Which letter is silent in the word 'knight'?",
+      "options": [
+        "The 'h'",
+        "The 'k'",
+        "Both 'k' and 'g'",
+        "The 'g'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-with-silent-letters-2",
+      "question": "In the word 'pneumonia', which letter is silent?",
+      "options": [
+        "The 'p'",
+        "The 'u'",
+        "The 'n'",
+        "The 'e'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-with-silent-letters-3",
+      "question": "Which letter is silent in 'island'?",
+      "options": [
+        "The 'd'",
+        "The 's'",
+        "The 'l'",
+        "The 'i'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-with-silent-letters-4",
+      "question": "The word 'honest' has a silent letter. Which one?",
+      "options": [
+        "The 'h'",
+        "The 'e'",
+        "The 't'",
+        "The 'o'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-with-silent-letters-5",
+      "question": "Which letter is silent in the word 'scissors'?",
+      "options": [
+        "The first 's'",
+        "The 'c'",
+        "The second 's'",
+        "The 'i'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-with-silent-letters-6",
+      "question": "In the word 'wrist', which letter is silent?",
+      "options": [
+        "The 't'",
+        "The 'r'",
+        "The 'w'",
+        "The 'i'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-with-silent-letters-7",
+      "question": "The word 'gnaw' contains a silent letter. Which one?",
+      "options": [
+        "The 'w'",
+        "The 'a'",
+        "The 'n'",
+        "The 'g'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-with-silent-letters-8",
+      "question": "Which letter is silent in the word 'thumb'?",
+      "options": [
+        "The 'h'",
+        "The 'm'",
+        "The 'b'",
+        "The 'u'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-with-silent-letters-9",
+      "question": "In the word 'often', the letter 't' is what?",
+      "options": [
+        "Never part of the original word",
+        "Always pronounced",
+        "Sometimes silent, depending on dialect",
+        "Always silent"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-with-silent-letters-10",
+      "question": "Which two letters are both silent in the word 'through'?",
+      "options": [
+        "The 'r' and 'g'",
+        "The 'g' and 'h'",
+        "The 'o' and 'u'",
+        "The 't' and 'h'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-with-silent-letters-11",
+      "question": "The word 'mortgage' has a silent letter. Which one?",
+      "options": [
+        "The 't'",
+        "The 'g'",
+        "The 'r'",
+        "The 'e'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-with-silent-letters-12",
+      "question": "Why does English have so many silent letters?",
+      "options": [
+        "To distinguish English from French",
+        "They were added by mistake",
+        "To make spelling harder",
+        "Pronunciation changed over time but spelling stayed the same"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-with-silent-letters-13",
+      "question": "Which letter is silent in the word 'castle'?",
+      "options": [
+        "The 't'",
+        "The 'e'",
+        "The 'a'",
+        "The 'l'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-with-silent-letters-14",
+      "question": "In the word 'salmon', which letter is silent?",
+      "options": [
+        "The 'a'",
+        "The 'o'",
+        "The 'l'",
+        "The 'n'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-with-silent-letters-15",
+      "question": "How many silent letters are in the word 'daughter'?",
+      "options": [
+        "Three",
+        "None",
+        "One (the 'g')",
+        "Two (the 'g' and 'h')"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

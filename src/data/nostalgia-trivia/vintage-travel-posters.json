@@ -7,91 +7,166 @@
     {
       "id": "vintage-travel-posters-1",
       "question": "During what era did the golden age of travel poster art primarily flourish?",
-      "options": ["1890s-1910s", "1920s-1950s", "1960s-1980s", "1990s-2000s"],
+      "options": [
+        "1890s-1910s",
+        "1920s-1950s",
+        "1960s-1980s",
+        "1990s-2000s"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-travel-posters-2",
       "question": "Which French artist, known for his bold Art Deco style, created iconic posters for ocean liners and railroads?",
-      "options": ["Henri Matisse", "A.M. Cassandre", "Claude Monet", "Henri de Toulouse-Lautrec"],
-      "correctAnswer": 1
+      "options": [
+        "A.M. Cassandre",
+        "Henri Matisse",
+        "Claude Monet",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-travel-posters-3",
       "question": "What famous ocean liner, featured in many vintage travel posters, was known as the 'Ship of Dreams'?",
-      "options": ["Queen Mary", "SS Normandie", "RMS Titanic", "SS United States"],
-      "correctAnswer": 2
+      "options": [
+        "SS United States",
+        "RMS Titanic",
+        "SS Normandie",
+        "Queen Mary"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "vintage-travel-posters-4",
       "question": "Which airline used a flying globe logo and was frequently featured in mid-century travel posters?",
-      "options": ["TWA", "Pan American World Airways", "Eastern Airlines", "Braniff International"],
-      "correctAnswer": 1
+      "options": [
+        "Eastern Airlines",
+        "TWA",
+        "Braniff International",
+        "Pan American World Airways"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-travel-posters-5",
       "question": "What art style, characterized by geometric shapes and bold colors, heavily influenced travel poster design in the 1920s and 1930s?",
-      "options": ["Impressionism", "Art Nouveau", "Art Deco", "Pop Art"],
+      "options": [
+        "Art Nouveau",
+        "Pop Art",
+        "Art Deco",
+        "Impressionism"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-travel-posters-6",
       "question": "What European country's national railway produced some of the most collected vintage travel posters featuring Alpine scenery?",
-      "options": ["France", "Italy", "Switzerland", "Austria"],
+      "options": [
+        "Austria",
+        "Italy",
+        "Switzerland",
+        "France"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-travel-posters-7",
       "question": "Which printing technique, using flat stones or metal plates, was commonly used to produce colorful vintage travel posters?",
-      "options": ["Screen printing", "Lithography", "Woodblock printing", "Engraving"],
-      "correctAnswer": 1
+      "options": [
+        "Lithography",
+        "Engraving",
+        "Screen printing",
+        "Woodblock printing"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-travel-posters-8",
       "question": "What famous French Riviera destination was frequently depicted in glamorous vintage travel posters?",
-      "options": ["Paris", "Nice and the Cote d'Azur", "Lyon", "Bordeaux"],
-      "correctAnswer": 1
+      "options": [
+        "Bordeaux",
+        "Paris",
+        "Nice and the Cote d'Azur",
+        "Lyon"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-travel-posters-9",
       "question": "Which American artist created the iconic 'See America' series of travel posters for the WPA during the 1930s?",
-      "options": ["Norman Rockwell", "Multiple WPA artists", "Ansel Adams", "Edward Hopper"],
-      "correctAnswer": 1
+      "options": [
+        "Edward Hopper",
+        "Ansel Adams",
+        "Multiple WPA artists",
+        "Norman Rockwell"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-travel-posters-10",
       "question": "What U.S. government program during the Great Depression employed artists to create national park travel posters?",
-      "options": ["The New Frontier", "The Works Progress Administration (WPA)", "The Civilian Conservation Corps", "The Tennessee Valley Authority"],
-      "correctAnswer": 1
+      "options": [
+        "The Tennessee Valley Authority",
+        "The New Frontier",
+        "The Civilian Conservation Corps",
+        "The Works Progress Administration (WPA)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-travel-posters-11",
       "question": "What luxury mode of transportation was frequently featured in European travel posters with the tagline 'Orient Express'?",
-      "options": ["A cruise ship", "A railway train", "An airship", "A stagecoach"],
-      "correctAnswer": 1
+      "options": [
+        "A stagecoach",
+        "An airship",
+        "A cruise ship",
+        "A railway train"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-travel-posters-12",
       "question": "Which Hawaiian destination was depicted in vintage travel posters showing Diamond Head and surfers?",
-      "options": ["Maui", "Kauai", "Waikiki Beach in Honolulu", "Big Island"],
-      "correctAnswer": 2
+      "options": [
+        "Big Island",
+        "Maui",
+        "Kauai",
+        "Waikiki Beach in Honolulu"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-travel-posters-13",
       "question": "What Japanese mode of transportation was featured in futuristic travel posters beginning in the 1960s?",
-      "options": ["Rickshaws", "The Shinkansen (bullet train)", "Sampan boats", "Tokyo taxis"],
-      "correctAnswer": 1
+      "options": [
+        "Rickshaws",
+        "Tokyo taxis",
+        "Sampan boats",
+        "The Shinkansen (bullet train)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-travel-posters-14",
       "question": "What TWA airline terminal at JFK Airport, designed by Eero Saarinen, embodied the glamour of jet-age travel?",
-      "options": ["The Eagle Terminal", "The TWA Flight Center", "The Sky Lounge", "The Jet Wing Terminal"],
+      "options": [
+        "The Eagle Terminal",
+        "The TWA Flight Center",
+        "The Sky Lounge",
+        "The Jet Wing Terminal"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-travel-posters-15",
       "question": "What famous Italian coastal destination, known for its colorful cliffside villages, appeared in many classic travel posters?",
-      "options": ["Venice", "The Amalfi Coast", "Lake Como", "Cinque Terre"],
+      "options": [
+        "Venice",
+        "The Amalfi Coast",
+        "Lake Como",
+        "Cinque Terre"
+      ],
       "correctAnswer": 1
     }
   ]

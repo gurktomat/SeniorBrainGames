@@ -1,0 +1,219 @@
+{
+  "id": "world-mythology-quiz",
+  "title": "World Mythology",
+  "description": "Journey through the myths and legends of civilizations around the globe!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "world-mythology-quiz-1",
+      "question": "In Greek mythology, who was the king of the gods on Mount Olympus?",
+      "options": [
+        "Apollo",
+        "Zeus",
+        "Hades",
+        "Poseidon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zeus was the supreme ruler of the Olympian gods, god of the sky and thunder. He overthrew his father Cronus and divided the world among his brothers: Poseidon got the sea and Hades the underworld.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-2",
+      "question": "In Norse mythology, what is the name of the great tree that connects the nine worlds?",
+      "options": [
+        "Bifrost",
+        "Mjölnir",
+        "Yggdrasil",
+        "Valhalla"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Yggdrasil is an immense ash tree that serves as the center of the Norse cosmos. Its branches reach into the heavens and its three roots extend to different realms, including the well of wisdom.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-3",
+      "question": "In Egyptian mythology, which god has the head of a jackal and presides over mummification?",
+      "options": [
+        "Horus",
+        "Thoth",
+        "Anubis",
+        "Osiris"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anubis guided souls to the afterlife and oversaw the embalming process. He also weighed the hearts of the dead against the feather of Ma'at to determine their worthiness.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-4",
+      "question": "In Hindu mythology, which god is known as 'The Destroyer' and performs the cosmic dance of creation?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Ganesha",
+        "Shiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Shiva is one of the principal deities of Hinduism. His Nataraja (Lord of Dance) form symbolizes the cosmic cycles of creation and destruction, and is one of the most recognizable images in Indian art.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-5",
+      "question": "In Japanese mythology, Amaterasu is the goddess of what?",
+      "options": [
+        "The ocean",
+        "The earth",
+        "The moon",
+        "The sun"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Amaterasu is the sun goddess and one of the most important deities in Shinto. According to myth, the Japanese imperial family descends from her. She is enshrined at the Grand Shrine of Ise.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-6",
+      "question": "In Greek mythology, who flew too close to the sun with wings made of wax and feathers?",
+      "options": [
+        "Heracles",
+        "Icarus",
+        "Perseus",
+        "Theseus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Icarus and his father Daedalus escaped imprisonment in Crete using wings held together with wax. Despite his father's warnings, Icarus flew too close to the sun, the wax melted, and he fell into the sea.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-7",
+      "question": "In Chinese mythology, which creature is a symbol of power, strength, and good luck?",
+      "options": [
+        "The tiger",
+        "The tortoise",
+        "The dragon",
+        "The phoenix"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Unlike Western dragons, Chinese dragons are benevolent symbols associated with rain, rivers, and imperial power. The dragon is one of the most revered symbols in Chinese culture.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-8",
+      "question": "In Celtic mythology, what is the 'Otherworld'?",
+      "options": [
+        "The land of the dead only",
+        "A parallel supernatural realm of eternal youth",
+        "The sky above the clouds",
+        "A dark underground prison"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Celtic Otherworld (Tír na nÓg) was a supernatural realm of eternal youth, beauty, and abundance. Unlike many underworlds, it was often described as a paradise accessible through mounds, lakes, or the sea.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-9",
+      "question": "In Norse mythology, Thor's hammer is called what?",
+      "options": [
+        "Excalibur",
+        "Mjölnir",
+        "Gram",
+        "Gungnir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mjölnir was forged by dwarven brothers and is one of the most powerful weapons in Norse mythology. Thor used it to protect Asgard and Midgard from giants and other threats.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-10",
+      "question": "In Greek mythology, the Minotaur was trapped in a labyrinth on which island?",
+      "options": [
+        "Cyprus",
+        "Ithaca",
+        "Crete",
+        "Rhodes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Minotaur, a creature with a bull's head and human body, was confined in the labyrinth built by Daedalus on Crete. The hero Theseus killed the Minotaur with help from Ariadne's thread.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-11",
+      "question": "In Aztec mythology, Quetzalcoatl was depicted as what kind of creature?",
+      "options": [
+        "A fire-breathing eagle",
+        "A jaguar with wings",
+        "A feathered serpent",
+        "A horned lizard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quetzalcoatl, the 'Feathered Serpent,' was one of the most important Aztec deities, associated with wind, air, and learning. The great pyramid at Teotihuacan was dedicated to him.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-12",
+      "question": "In Aboriginal Australian mythology, the 'Dreamtime' refers to what?",
+      "options": [
+        "A hibernation period",
+        "The creation period when ancestral beings shaped the world",
+        "A nightly vision quest",
+        "The afterlife"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Dreamtime (or Dreaming) is the foundational era when ancestral spirit beings created the landscape, animals, and laws. It is not just a past event but a continuing spiritual reality in Aboriginal culture.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-13",
+      "question": "In Greek mythology, who had to roll a boulder uphill for eternity as punishment?",
+      "options": [
+        "Atlas",
+        "Sisyphus",
+        "Tantalus",
+        "Prometheus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sisyphus was punished in the underworld for his deceitfulness by being forced to roll a huge boulder up a hill, only to watch it roll back down each time he neared the top, repeating this for eternity.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-14",
+      "question": "In Hindu mythology, what is the name of the epic poem about Prince Rama's quest to rescue his wife Sita?",
+      "options": [
+        "Mahabharata",
+        "Ramayana",
+        "Vedas",
+        "Bhagavad Gita"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ramayana, attributed to the sage Valmiki, tells of Prince Rama's exile, Sita's abduction by the demon king Ravana, and Rama's epic battle to rescue her. It contains about 24,000 verses.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-mythology-quiz-15",
+      "question": "In Norse mythology, what happens at Ragnarök?",
+      "options": [
+        "A great flood covers the earth",
+        "The gods and giants battle in the end of the world",
+        "The gods celebrate eternal victory",
+        "The dwarves forge a new sun"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ragnarök is the prophesied apocalyptic battle between the gods and their enemies, resulting in the destruction of the world. However, Norse myth also describes a rebirth, with a new world rising from the ashes.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

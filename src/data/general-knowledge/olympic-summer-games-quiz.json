@@ -1,0 +1,219 @@
+{
+  "id": "olympic-summer-games-quiz",
+  "title": "Olympic Summer Games",
+  "description": "Test your knowledge of the Summer Olympic Games, their history, and memorable moments!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "olympic-summer-games-quiz-1",
+      "question": "Which city hosted the 2008 Summer Olympic Games?",
+      "options": [
+        "Tokyo",
+        "Beijing",
+        "Sydney",
+        "Athens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 2008 Summer Olympics were held in Beijing, China. The Games featured 302 events and are remembered for the iconic Bird's Nest stadium and Michael Phelps winning 8 gold medals.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-2",
+      "question": "What year did women first compete in the modern Olympic Games?",
+      "options": [
+        "1908",
+        "1920",
+        "1896",
+        "1900"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Women first competed in the modern Olympics at the 1900 Paris Games. Twenty-two women participated in five sports: tennis, sailing, croquet, equestrian, and golf.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-3",
+      "question": "Which country boycotted the 1980 Moscow Summer Olympics?",
+      "options": [
+        "United States",
+        "France",
+        "Japan",
+        "United Kingdom"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The United States led a boycott of the 1980 Moscow Olympics in protest of the Soviet Union's invasion of Afghanistan. Around 65 countries joined the boycott.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-4",
+      "question": "In which sport did Carl Lewis win his first Olympic gold medal in 1984?",
+      "options": [
+        "100 meters",
+        "Long jump",
+        "4x100m relay",
+        "200 meters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carl Lewis won the 100 meters at the 1984 Los Angeles Olympics, the first of his four gold medals at those Games (100m, 200m, long jump, 4x100m relay).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-5",
+      "question": "Which Summer Olympic Games were the first to be broadcast on television?",
+      "options": [
+        "1948 London",
+        "1960 Rome",
+        "1936 Berlin",
+        "1952 Helsinki"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 1936 Berlin Olympics were the first to be televised, though the broadcast was limited to local viewing halls in Berlin. The 1960 Rome Games were the first widely broadcast internationally.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-6",
+      "question": "What is the Olympic motto adopted in 1894?",
+      "options": [
+        "Stronger Together",
+        "Peace Through Sport",
+        "Unity in Diversity",
+        "Citius, Altius, Fortius"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Olympic motto is 'Citius, Altius, Fortius,' which is Latin for 'Faster, Higher, Stronger.' It was proposed by Pierre de Coubertin and adopted in 1894. In 2021, 'Communiter' (Together) was added.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-7",
+      "question": "Which African nation was the first to win an Olympic gold medal?",
+      "options": [
+        "Kenya",
+        "Ethiopia",
+        "Nigeria",
+        "South Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ethiopia's Abebe Bikila won the marathon at the 1960 Rome Olympics, running barefoot. He became the first African to win an Olympic gold medal and successfully defended his title in 1964.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-8",
+      "question": "How many sports were featured at the first modern Olympics in 1896?",
+      "options": [
+        "5",
+        "14",
+        "9",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 1896 Athens Olympics featured 9 sports: athletics, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-9",
+      "question": "Which country has competed in every Summer Olympic Games since 1896?",
+      "options": [
+        "Great Britain",
+        "Greece",
+        "United States",
+        "France"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Greece has competed in every Summer Olympic Games since the first modern Olympics in Athens in 1896. Australia, France, Great Britain, and Switzerland have also competed in every Summer Games.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-10",
+      "question": "What tragic event occurred at the 1972 Munich Olympics?",
+      "options": [
+        "A terrorist attack on Israeli athletes",
+        "A major doping scandal",
+        "Cancellation due to weather",
+        "A stadium collapse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At the 1972 Munich Olympics, Palestinian terrorists from the group Black September took 11 Israeli team members hostage. All 11 hostages, 5 terrorists, and 1 German police officer were killed.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-11",
+      "question": "Which country won the most total medals at the 2012 London Olympics?",
+      "options": [
+        "United States",
+        "Great Britain",
+        "Russia",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The United States won the most total medals at the 2012 London Olympics with 104 medals (46 gold, 29 silver, 29 bronze), followed by China with 87 medals.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-12",
+      "question": "What sport did Muhammad Ali (then Cassius Clay) win a gold medal in at the 1960 Olympics?",
+      "options": [
+        "Welterweight boxing",
+        "Heavyweight boxing",
+        "Middleweight boxing",
+        "Light heavyweight boxing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Muhammad Ali, competing as Cassius Clay, won the gold medal in light heavyweight boxing at the 1960 Rome Olympics at the age of 18.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-13",
+      "question": "Which athlete lit the Olympic cauldron at the 1996 Atlanta Games?",
+      "options": [
+        "Carl Lewis",
+        "Jesse Owens' granddaughter",
+        "Jackie Joyner-Kersee",
+        "Muhammad Ali"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Muhammad Ali, despite trembling from Parkinson's disease, lit the Olympic cauldron at the 1996 Atlanta Games in one of the most memorable moments in Olympic history.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-14",
+      "question": "Which year were the Summer Olympics cancelled due to World War I?",
+      "options": [
+        "1916",
+        "1924",
+        "1912",
+        "1920"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 1916 Summer Olympics, originally scheduled for Berlin, were cancelled due to World War I. The Games resumed in 1920 in Antwerp, Belgium.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-summer-games-quiz-15",
+      "question": "What sport was reintroduced to the Olympics in 2016 after a 112-year absence?",
+      "options": [
+        "Cricket",
+        "Both golf and rugby sevens",
+        "Rugby sevens",
+        "Golf"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both golf and rugby sevens were reintroduced at the 2016 Rio Olympics. Golf had last been played at the 1904 Games, and rugby (15-a-side) at the 1924 Games.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

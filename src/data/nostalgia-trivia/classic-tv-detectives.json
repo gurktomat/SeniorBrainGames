@@ -7,92 +7,167 @@
     {
       "id": "classic-tv-detectives-1",
       "question": "Which rumpled, cigar-smoking detective, played by Peter Falk, was famous for saying 'Just one more thing...'?",
-      "options": ["Kojak", "Columbo", "Mannix", "Baretta"],
-      "correctAnswer": 1
+      "options": [
+        "Columbo",
+        "Kojak",
+        "Baretta",
+        "Mannix"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-tv-detectives-2",
       "question": "What was the first name of the bald, lollipop-loving New York detective played by Telly Savalas?",
-      "options": ["Theo", "Baretta", "Kojak", "Ironside"],
-      "correctAnswer": 2
+      "options": [
+        "Ironside",
+        "Kojak",
+        "Theo",
+        "Baretta"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-tv-detectives-3",
       "question": "Which private investigator, played by Tom Selleck, lived on a Hawaiian estate and drove a red Ferrari 308?",
-      "options": ["Jim Rockford", "Thomas Magnum", "Simon Templar", "Harry Orwell"],
+      "options": [
+        "Jim Rockford",
+        "Thomas Magnum",
+        "Simon Templar",
+        "Harry Orwell"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-tv-detectives-4",
       "question": "Angela Lansbury starred as mystery writer and amateur sleuth Jessica Fletcher in which long-running series?",
-      "options": ["Diagnosis Murder", "Murder, She Wrote", "Matlock", "Hart to Hart"],
-      "correctAnswer": 1
+      "options": [
+        "Diagnosis Murder",
+        "Matlock",
+        "Hart to Hart",
+        "Murder, She Wrote"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-detectives-5",
       "question": "James Garner played an easygoing Los Angeles private eye who lived in a trailer on the beach in which series?",
-      "options": ["Mannix", "Barnaby Jones", "The Rockford Files", "Cannon"],
-      "correctAnswer": 2
+      "options": [
+        "Cannon",
+        "The Rockford Files",
+        "Barnaby Jones",
+        "Mannix"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-tv-detectives-6",
       "question": "Which wheelchair-bound detective, played by Raymond Burr, solved crimes from his San Francisco office?",
-      "options": ["Ironside", "Longstreet", "McMillan", "Quincy"],
-      "correctAnswer": 0
+      "options": [
+        "Longstreet",
+        "McMillan",
+        "Ironside",
+        "Quincy"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-7",
       "question": "Raymond Burr first became famous playing which defense attorney who never lost a case on TV?",
-      "options": ["Ben Matlock", "Owen Marshall", "Perry Mason", "Jake Axminster"],
+      "options": [
+        "Owen Marshall",
+        "Jake Axminster",
+        "Perry Mason",
+        "Ben Matlock"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-8",
       "question": "Which 1970s TV detective duo consisted of a wealthy couple who solved mysteries with help from their butler Max?",
-      "options": ["McMillan & Wife", "Hart to Hart", "Remington Steele", "Scarecrow and Mrs. King"],
-      "correctAnswer": 1
+      "options": [
+        "Scarecrow and Mrs. King",
+        "Remington Steele",
+        "McMillan & Wife",
+        "Hart to Hart"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-detectives-9",
       "question": "Andy Griffith played a folksy Southern lawyer who also solved crimes in which 1980s-90s TV series?",
-      "options": ["In the Heat of the Night", "Matlock", "Jake and the Fatman", "Father Dowling Mysteries"],
+      "options": [
+        "Father Dowling Mysteries",
+        "Matlock",
+        "Jake and the Fatman",
+        "In the Heat of the Night"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-tv-detectives-10",
       "question": "Which suave British detective, known as 'The Saint,' was played by Roger Moore before he became James Bond?",
-      "options": ["The Avengers' Steed", "Simon Templar", "Jason King", "The Baron"],
-      "correctAnswer": 1
+      "options": [
+        "Jason King",
+        "The Avengers' Steed",
+        "The Baron",
+        "Simon Templar"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-detectives-11",
       "question": "David Janssen starred as a doctor wrongly convicted of murder who searches for the real killer in which series?",
-      "options": ["The Fugitive", "Run for Your Life", "Branded", "The Invaders"],
-      "correctAnswer": 0
+      "options": [
+        "Branded",
+        "Run for Your Life",
+        "The Fugitive",
+        "The Invaders"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-12",
       "question": "Which fictional detective duo featured a blind insurance investigator and his eyes, played by Don Johnson, in the 1980s?",
-      "options": ["Simon & Simon", "Hardcastle and McCormick", "Riptide", "Miami Vice"],
-      "correctAnswer": 3
+      "options": [
+        "Riptide",
+        "Simon & Simon",
+        "Miami Vice",
+        "Hardcastle and McCormick"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-13",
       "question": "Jack Lord starred as Steve McGarrett, who led an elite state police unit in which long-running crime show?",
-      "options": ["Hawaii Five-O", "Magnum, P.I.", "Jake and the Fatman", "The Streets of San Francisco"],
-      "correctAnswer": 0
+      "options": [
+        "Magnum, P.I.",
+        "The Streets of San Francisco",
+        "Hawaii Five-O",
+        "Jake and the Fatman"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-14",
       "question": "What was Steve McGarrett's famous catchphrase when he wanted a suspect arrested on 'Hawaii Five-O'?",
-      "options": ["Lock him up!", "Take him away!", "Book 'em, Danno!", "Cuff him, boys!"],
+      "options": [
+        "Cuff him, boys!",
+        "Lock him up!",
+        "Book 'em, Danno!",
+        "Take him away!"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-tv-detectives-15",
       "question": "Which brother detective duo, played by Jameson Parker and Gerald McRaney, ran a private investigation firm in San Diego?",
-      "options": ["Hardcastle and McCormick", "Starsky and Hutch", "Simon & Simon", "Tenspeed and Brown Shoe"],
-      "correctAnswer": 2
+      "options": [
+        "Tenspeed and Brown Shoe",
+        "Simon & Simon",
+        "Hardcastle and McCormick",
+        "Starsky and Hutch"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

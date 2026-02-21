@@ -1,0 +1,219 @@
+{
+  "id": "famous-doctors-quiz",
+  "title": "Famous Doctors & Physicians",
+  "description": "How well do you know the doctors who changed the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-doctors-quiz-1",
+      "question": "Which physician is known for his pioneering work in psychoanalysis?",
+      "options": [
+        "Wilhelm Reich",
+        "Alfred Adler",
+        "Carl Jung",
+        "Sigmund Freud"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sigmund Freud (1856-1939) founded psychoanalysis, developing theories about the unconscious mind, dream interpretation, and the structure of personality.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-2",
+      "question": "Who was the first woman to receive a medical degree in the United States?",
+      "options": [
+        "Mary Edwards Walker",
+        "Elizabeth Blackwell",
+        "Virginia Apgar",
+        "Clara Barton"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elizabeth Blackwell received her MD from Geneva Medical College in 1849, becoming the first woman to earn a medical degree in the United States.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-3",
+      "question": "Dr. Albert Schweitzer, who won the Nobel Peace Prize, set up a hospital in which continent?",
+      "options": [
+        "South America",
+        "Europe",
+        "Asia",
+        "Africa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Albert Schweitzer established a hospital in Lambarene, Gabon (Africa) in 1913, where he treated patients for decades. He won the Nobel Peace Prize in 1952.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-4",
+      "question": "Which doctor developed the Apgar score used to assess newborn health?",
+      "options": [
+        "Mary Ainsworth",
+        "Benjamin Spock",
+        "T. Berry Brazelton",
+        "Virginia Apgar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dr. Virginia Apgar developed the Apgar score in 1952, a quick assessment performed at 1 and 5 minutes after birth to evaluate a newborn's health.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-5",
+      "question": "Dr. Benjamin Spock became famous for writing a groundbreaking book about what?",
+      "options": [
+        "Infectious diseases",
+        "Brain anatomy",
+        "Baby and child care",
+        "Heart surgery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Benjamin Spock wrote 'The Common Sense Book of Baby and Child Care' in 1946, which became one of the best-selling books of the 20th century.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-6",
+      "question": "Which surgeon is called the 'Father of Modern Surgery' for his work in the 16th century?",
+      "options": [
+        "Ambroise Pare",
+        "William Harvey",
+        "Galen",
+        "Andreas Vesalius"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambroise Pare (1510-1590) revolutionized surgical techniques, including the treatment of wounds and the use of ligatures instead of cauterization during amputations.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-7",
+      "question": "Which doctor discovered the circulation of blood through the body?",
+      "options": [
+        "Marcello Malpighi",
+        "Galen",
+        "William Harvey",
+        "Hippocrates"
+      ],
+      "correctAnswer": 2,
+      "explanation": "William Harvey (1578-1657) published 'De Motu Cordis' in 1628, accurately describing for the first time the systemic circulation of blood pumped by the heart.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-8",
+      "question": "Dr. Charles Drew made pioneering contributions in which field?",
+      "options": [
+        "Organ transplantation",
+        "Vaccination",
+        "Radiology",
+        "Blood banking and transfusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dr. Charles Drew (1904-1950) developed improved techniques for blood storage and established large-scale blood banks during World War II.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-9",
+      "question": "Which ancient Greek physician's writings dominated Western medicine for over 1,300 years?",
+      "options": [
+        "Hippocrates",
+        "Herophilus",
+        "Galen",
+        "Erasistratus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Galen of Pergamon (129-216 AD) was a prolific writer whose medical theories dominated European medicine from antiquity through the Middle Ages.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-10",
+      "question": "Which physician wrote 'The Canon of Medicine,' a medical encyclopedia used in Europe for centuries?",
+      "options": [
+        "Ibn Sina (Avicenna)",
+        "Al-Zahrawi",
+        "Al-Razi",
+        "Ibn al-Nafis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ibn Sina, known in the West as Avicenna (980-1037), wrote 'The Canon of Medicine,' which was used as a standard medical text in European universities until the 17th century.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-11",
+      "question": "Dr. Michael DeBakey was a pioneer in which type of surgery?",
+      "options": [
+        "Eye surgery",
+        "Cardiovascular surgery",
+        "Brain surgery",
+        "Orthopedic surgery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Michael DeBakey (1908-2008) was a legendary cardiovascular surgeon who developed artificial hearts, performed some of the first coronary bypass surgeries, and trained thousands of surgeons.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-12",
+      "question": "Which doctor and humanitarian founded the organization Doctors Without Borders?",
+      "options": [
+        "Albert Schweitzer",
+        "Paul Farmer",
+        "Bernard Kouchner",
+        "Denis Mukwege"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bernard Kouchner co-founded Medecins Sans Frontieres (Doctors Without Borders) in 1971 to provide medical aid to people affected by conflict and disasters worldwide.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-13",
+      "question": "Which British doctor proved that cholera was spread through contaminated water?",
+      "options": [
+        "Joseph Lister",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "John Snow"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dr. John Snow traced an 1854 cholera outbreak in London to a contaminated water pump on Broad Street, founding the field of epidemiology.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-14",
+      "question": "Dr. James Barry, a British military surgeon, was discovered after death to have been what?",
+      "options": [
+        "A convicted criminal",
+        "Born female",
+        "Self-taught with no medical degree",
+        "A foreign spy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. James Barry (c. 1789-1865) served as a military surgeon for decades and performed one of the first successful cesarean sections. After death, it was discovered Barry was assigned female at birth.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "famous-doctors-quiz-15",
+      "question": "Which doctor developed the first effective treatment for tuberculosis?",
+      "options": [
+        "Paul Ehrlich",
+        "Robert Koch",
+        "Selman Waksman",
+        "Albert Calmette"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Selman Waksman discovered streptomycin in 1943, the first antibiotic effective against tuberculosis. He won the Nobel Prize in Physiology or Medicine in 1952.",
+      "difficulty": "hard",
+      "category": "medicine"
+    }
+  ]
+}

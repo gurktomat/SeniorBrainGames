@@ -9,9 +9,9 @@
       "question": "What element does the symbol 'Au' represent?",
       "options": [
         "Silver",
-        "Aluminum",
+        "Argon",
         "Gold",
-        "Argon"
+        "Aluminum"
       ],
       "correctAnswer": 2
     },
@@ -19,12 +19,12 @@
       "id": "periodic-element-quiz-2",
       "question": "What element does the symbol 'Fe' represent?",
       "options": [
+        "Francium",
         "Fluorine",
         "Iron",
-        "Fermium",
-        "Francium"
+        "Fermium"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "periodic-element-quiz-3",
@@ -41,53 +41,53 @@
       "id": "periodic-element-quiz-4",
       "question": "What element does the symbol 'Na' represent?",
       "options": [
-        "Nitrogen",
         "Neon",
         "Sodium",
-        "Nickel"
+        "Nickel",
+        "Nitrogen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "periodic-element-quiz-5",
       "question": "What element does the symbol 'Ag' represent?",
       "options": [
         "Gold",
+        "Arsenic",
         "Silver",
-        "Argon",
-        "Arsenic"
+        "Argon"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "periodic-element-quiz-6",
       "question": "What element does the symbol 'K' represent?",
       "options": [
         "Krypton",
-        "Potassium",
+        "Copper",
         "Calcium",
-        "Copper"
+        "Potassium"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "periodic-element-quiz-7",
       "question": "What element does the symbol 'Pb' represent?",
       "options": [
-        "Phosphorus",
+        "Palladium",
         "Platinum",
-        "Lead",
-        "Palladium"
+        "Phosphorus",
+        "Lead"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "periodic-element-quiz-8",
       "question": "What element does the symbol 'Cu' represent?",
       "options": [
-        "Curium",
-        "Cobalt",
         "Carbon",
+        "Cobalt",
+        "Curium",
         "Copper"
       ],
       "correctAnswer": 3
@@ -96,34 +96,34 @@
       "id": "periodic-element-quiz-9",
       "question": "What element does the symbol 'Sn' represent?",
       "options": [
-        "Silicon",
         "Tin",
         "Sulfur",
-        "Selenium"
+        "Selenium",
+        "Silicon"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "periodic-element-quiz-10",
       "question": "What element does the symbol 'W' represent?",
       "options": [
-        "Water",
-        "Tungsten",
         "Xenon",
-        "Zinc"
+        "Zinc",
+        "Water",
+        "Tungsten"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "periodic-element-quiz-11",
       "question": "What element does the symbol 'Sb' represent?",
       "options": [
+        "Samarium",
         "Strontium",
         "Antimony",
-        "Scandium",
-        "Samarium"
+        "Scandium"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "periodic-element-quiz-12",
@@ -140,10 +140,10 @@
       "id": "periodic-element-quiz-13",
       "question": "What element does the symbol 'Ne' represent?",
       "options": [
-        "Nitrogen",
+        "Nickel",
         "Neptunium",
         "Neon",
-        "Nickel"
+        "Nitrogen"
       ],
       "correctAnswer": 2
     },
@@ -152,9 +152,9 @@
       "question": "What element does the symbol 'Pt' represent?",
       "options": [
         "Plutonium",
-        "Phosphorus",
+        "Potassium",
         "Platinum",
-        "Potassium"
+        "Phosphorus"
       ],
       "correctAnswer": 2
     },
@@ -162,9 +162,9 @@
       "id": "periodic-element-quiz-15",
       "question": "What element does the symbol 'Zn' represent?",
       "options": [
-        "Zirconium",
-        "Zinc",
         "Xenon",
+        "Zinc",
+        "Zirconium",
         "Osmium"
       ],
       "correctAnswer": 1

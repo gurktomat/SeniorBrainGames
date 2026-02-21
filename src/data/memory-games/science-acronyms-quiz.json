@@ -1,0 +1,173 @@
+{
+  "id": "science-acronyms-quiz",
+  "title": "Science Acronyms Quiz",
+  "description": "NASA, DNA, MRI... How well do you remember what these science and technology acronyms stand for?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "science-acronyms-quiz-1",
+      "question": "What does NASA stand for?",
+      "options": [
+        "New Aeronautics and Space Authority",
+        "North American Space Agency",
+        "National Aeronautics and Space Administration",
+        "National Air and Space Association"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-2",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Dynamic Nuclear Acid",
+        "Deoxyribo Natural Acid",
+        "Deoxyribonucleic Acid",
+        "Dinitrogen Assembly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-3",
+      "question": "What does MRI stand for?",
+      "options": [
+        "Magnetic Resonance Imaging",
+        "Molecular Research Investigation",
+        "Magnetic Radio Imaging",
+        "Medical Radiation Instrument"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "science-acronyms-quiz-4",
+      "question": "What does LASER stand for?",
+      "options": [
+        "Low Amplitude Stimulated Energy Radiation",
+        "Light Amplification by Stimulated Emission of Radiation",
+        "Light Absorption by Standard Energy Release",
+        "Linear Amplified Signal Energy Reflector"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "science-acronyms-quiz-5",
+      "question": "What does RNA stand for?",
+      "options": [
+        "Rapid Nucleic Acid",
+        "Ribonucleic Acid",
+        "Recombinant Nuclear Assembly",
+        "Reactive Nitrogen Acid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "science-acronyms-quiz-6",
+      "question": "What does RADAR stand for?",
+      "options": [
+        "Remote Altitude Detection and Recording",
+        "Rapid Digital Area Recognizer",
+        "Radio Distance and Recognition",
+        "Radio Detection and Ranging"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "science-acronyms-quiz-7",
+      "question": "What does SONAR stand for?",
+      "options": [
+        "Sonic Object Navigation and Recognition",
+        "Subsurface Ocean Navigation and Ranging",
+        "Sound Navigation and Ranging",
+        "Signal Orientation and Navigation Radar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-8",
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Geographic Point System",
+        "Ground Position Satellite",
+        "General Positioning Service"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "science-acronyms-quiz-9",
+      "question": "What does CERN stand for (in English)?",
+      "options": [
+        "Central European Research Network",
+        "European Organization for Nuclear Research",
+        "Center for Energy and Radiation Studies",
+        "Collaborative European Research in Nucleonics"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "science-acronyms-quiz-10",
+      "question": "What does LED stand for?",
+      "options": [
+        "Light Emitting Device",
+        "Low Energy Display",
+        "Light Emitting Diode",
+        "Laser Enhanced Display"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-11",
+      "question": "What does ATP stand for in biology?",
+      "options": [
+        "Active Transport Protein",
+        "Adenosine Triphosphate",
+        "Amino Transfer Protocol",
+        "Atomic Thermal Power"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "science-acronyms-quiz-12",
+      "question": "What does CT (as in CT scan) stand for?",
+      "options": [
+        "Central Tomography",
+        "Cardiac Testing",
+        "Cross-sectional Technology",
+        "Computed Tomography"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "science-acronyms-quiz-13",
+      "question": "What does SCUBA stand for?",
+      "options": [
+        "Sealed Container for Underwater Breathing Activities",
+        "Submersible Compressed Underwater Breathing Aid",
+        "Self-Contained Underwater Breathing Apparatus",
+        "Standard Controlled Underwater Breathing Assembly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-14",
+      "question": "What does PCR stand for in molecular biology?",
+      "options": [
+        "Primary Cell Replication",
+        "Paired Chromosome Recombination",
+        "Polymerase Chain Reaction",
+        "Protein Coding Region"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "science-acronyms-quiz-15",
+      "question": "What does ISS stand for in space exploration?",
+      "options": [
+        "Integrated Space Station",
+        "International Space Station",
+        "International Satellite Service",
+        "Interplanetary Space System"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

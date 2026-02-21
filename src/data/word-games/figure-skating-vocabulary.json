@@ -1,0 +1,219 @@
+{
+  "id": "figure-skating-vocabulary",
+  "title": "Figure Skating Vocabulary",
+  "description": "Glide through this quiz about the terms of figure skating!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "figure-skating-vocabulary-1",
+      "question": "In figure skating, what is a 'triple axel'?",
+      "options": [
+        "A skating move using both axles of the skate",
+        "A jump with three and a half rotations in the air, taking off from a forward outside edge",
+        "Three rotations on the ground",
+        "Three backward spins"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The triple axel is a jump requiring 3.5 rotations in the air (because the axel takes off from a forward edge, adding an extra half rotation). It is one of the most technically challenging jumps.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-2",
+      "question": "What is a 'Salchow' jump in figure skating?",
+      "options": [
+        "A jump from a standing position",
+        "A jump performed only in pairs skating",
+        "A jump using the toe pick for takeoff",
+        "A jump named after a Swedish skater, launched from the back inside edge of one foot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Salchow is a figure skating jump named after Ulrich Salchow, performed by taking off from the back inside edge of one foot and landing on the back outside edge of the other.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-3",
+      "question": "In figure skating, what is a 'Lutz' jump?",
+      "options": [
+        "A jump named after the city of Lutz",
+        "A toe-pick-assisted jump launched from the back outside edge with a counter-rotation",
+        "A jump performed only by male skaters",
+        "A jump with no rotations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Lutz is a toe-pick-assisted jump named after Alois Lutz, distinguished by its takeoff from the back outside edge of the skating foot, which requires counter-rotation.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-4",
+      "question": "What is the 'camel spin' in figure skating?",
+      "options": [
+        "A spin performed in a position with the free leg extended backward parallel to the ice",
+        "A spin named after a camel's hump shape",
+        "A spin that moves across the ice",
+        "A spin performed on both feet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The camel spin is performed with the skater's body in an arabesque position, with the free leg extended behind, parallel to the ice or higher, creating an elegant horizontal line.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-5",
+      "question": "In figure skating, what does 'GOE' stand for?",
+      "options": [
+        "Grade of Excellence",
+        "Grading of Elements",
+        "Grade of Execution",
+        "General Olympic Evaluation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GOE stands for Grade of Execution, a scoring component where judges rate how well each element is performed on a scale from -5 to +5, added to the element's base value.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-6",
+      "question": "What is a 'death spiral' in pairs figure skating?",
+      "options": [
+        "A move performed at the end of a career",
+        "A move where the man pivots while the woman spirals around him with her body nearly parallel to the ice",
+        "A dangerous mistake",
+        "A downward spiral spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The death spiral is an iconic pairs skating element where the man anchors himself in a pivot position while the woman circles around him in a deep backward lean, her head near the ice.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-7",
+      "question": "In figure skating, what is the 'short program'?",
+      "options": [
+        "A program performed on a small rink",
+        "A brief warm-up routine",
+        "A competition segment with required elements performed in under 2 minutes 50 seconds",
+        "A program for short skaters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The short program is one of two competitive segments in singles and pairs skating, requiring skaters to perform specific required elements within a time limit of 2:40 (plus or minus 10 seconds).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-8",
+      "question": "What is a 'toe loop' jump in figure skating?",
+      "options": [
+        "A loop made with the toe",
+        "A jump where the skater loops around in a circle",
+        "A jump performed on the toes only",
+        "A toe-pick-assisted jump launched from the back outside edge of the skating foot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The toe loop is a toe-pick-assisted jump where the skater takes off from the back outside edge, assisted by a toe pick from the free foot, and lands on the same back outside edge.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-9",
+      "question": "In figure skating, what is a 'layback spin'?",
+      "options": [
+        "A spin where the skater lies on the ice",
+        "A lazy, slow-spinning move",
+        "A spin done with the back to the audience",
+        "A spin performed while leaning back with the head and shoulders arched behind"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A layback spin is an upright spin where the skater arches their back and drops their head behind them while spinning, creating a beautiful curved body line.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-10",
+      "question": "What is 'choreographic sequence' in figure skating?",
+      "options": [
+        "The order of jumps in a program",
+        "A sequence of movements, steps, and turns that showcase artistry and musicality",
+        "A synchronized team routine",
+        "A mandatory warm-up pattern"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A choreographic sequence is a component of the free skate program consisting of skating movements, steps, turns, and other elements that highlight the skater's artistic interpretation of the music.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-11",
+      "question": "In figure skating, what is an 'edge' on a skate blade?",
+      "options": [
+        "The decorative finish on the blade",
+        "The pointed tip of the blade",
+        "The inside or outside curved surface of the blade that contacts the ice",
+        "The flat bottom of the blade"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Figure skate blades have two edges: the inside edge (toward the body) and the outside edge (away from the body), created by a concave groove. Every skating move uses one edge or the other.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-12",
+      "question": "What is a 'throw jump' in pairs skating?",
+      "options": [
+        "Tossing a partner across the ice",
+        "Throwing the judge's scores",
+        "A jump performed after catching a thrown object",
+        "A jump where the man launches the woman into the air to perform a multi-rotation jump"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A throw jump is a pairs element where the male partner assists (throws) the female partner into the air, where she performs a multi-rotation jump and lands independently.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-13",
+      "question": "In figure skating, what is the 'kiss and cry' area?",
+      "options": [
+        "The area where skaters sit with coaches to await their scores after performing",
+        "A romantic spot in the arena",
+        "The area where injured skaters receive care",
+        "A designated section for emotional fans"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The kiss and cry is the area near the ice where skaters and their coaches sit together after a performance, waiting for the scores to be announced, often showing emotional reactions.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-14",
+      "question": "What is a 'sit spin' in figure skating?",
+      "options": [
+        "Spinning while sitting on the ice",
+        "Sitting down after completing a spin",
+        "A spin performed in a low squatting position with the free leg extended",
+        "A spin done on a chair"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sit spin is performed with the skating knee deeply bent in a squatting position while the free leg is extended forward, and the skater rotates in this low position.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "figure-skating-vocabulary-15",
+      "question": "In figure skating, what is 'under-rotation'?",
+      "options": [
+        "A spin with less than one revolution",
+        "A jump where the skater does not complete the full required number of rotations before landing",
+        "Rotating in the wrong direction",
+        "Spinning too slowly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under-rotation occurs when a skater lands a jump without completing the full required rotations, resulting in a score deduction. If the shortfall exceeds a quarter turn, the jump may be downgraded.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

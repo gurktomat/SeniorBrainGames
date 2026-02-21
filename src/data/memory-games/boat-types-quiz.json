@@ -1,0 +1,173 @@
+{
+  "id": "boat-types-quiz",
+  "title": "Boat Types Quiz",
+  "description": "Navigate your memory of different boat types, from kayaks to yachts",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "boat-types-quiz-1",
+      "question": "What type of small boat is propelled by a double-bladed paddle?",
+      "options": [
+        "Dinghy",
+        "Canoe",
+        "Rowboat",
+        "Kayak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "boat-types-quiz-2",
+      "question": "A 'catamaran' is characterized by having how many hulls?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "boat-types-quiz-3",
+      "question": "What is a 'pontoon boat' named after?",
+      "options": [
+        "A French word for bridge",
+        "A type of fishing net",
+        "Its inventor, John Pontoon",
+        "The flat-bottomed floats that support it"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "boat-types-quiz-4",
+      "question": "A 'trawler' is primarily used for what purpose?",
+      "options": [
+        "Passenger transport",
+        "Racing",
+        "Fishing",
+        "Military patrol"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "boat-types-quiz-5",
+      "question": "What type of boat has a flat bottom and is traditionally used in Venice, Italy?",
+      "options": [
+        "Felucca",
+        "Gondola",
+        "Sampan",
+        "Coracle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "boat-types-quiz-6",
+      "question": "A 'trimaran' features how many hulls?",
+      "options": [
+        "Three",
+        "One",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "boat-types-quiz-7",
+      "question": "What is a small inflatable boat typically used as a tender for a larger vessel called?",
+      "options": [
+        "Coracle",
+        "Dinghy",
+        "Punt",
+        "Skiff"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "boat-types-quiz-8",
+      "question": "A 'bass boat' is specifically designed for fishing in what type of water?",
+      "options": [
+        "Deep ocean",
+        "Arctic seas",
+        "Freshwater lakes and rivers",
+        "Tidal estuaries"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "boat-types-quiz-9",
+      "question": "What is a 'houseboat'?",
+      "options": [
+        "A boat-shaped house on land",
+        "A storage facility at a marina",
+        "A boat used to transport building materials",
+        "A floating structure designed as a residence"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "boat-types-quiz-10",
+      "question": "A 'jon boat' is known for being what?",
+      "options": [
+        "Nuclear powered",
+        "Extremely large",
+        "Very fast",
+        "Flat-bottomed and simple"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "boat-types-quiz-11",
+      "question": "What type of traditional boat is made from animal skins stretched over a wooden frame?",
+      "options": [
+        "Punt",
+        "Coracle",
+        "Dugout canoe",
+        "Felucca"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "boat-types-quiz-12",
+      "question": "A 'tugboat' is primarily used for what purpose?",
+      "options": [
+        "Fishing in shallow water",
+        "Towing or pushing other vessels",
+        "Racing competitions",
+        "Luxury cruising"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "boat-types-quiz-13",
+      "question": "What is a 'yacht' generally classified as?",
+      "options": [
+        "A commercial fishing vessel",
+        "A military patrol boat",
+        "A recreational or racing sailboat or motorboat",
+        "A cargo transport vessel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "boat-types-quiz-14",
+      "question": "A 'canoe' is traditionally propelled by what type of paddle?",
+      "options": [
+        "Single-bladed paddle",
+        "A pole pushed against the bottom",
+        "Double-bladed paddle",
+        "Foot pedals"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "boat-types-quiz-15",
+      "question": "What is a 'whaler' boat historically associated with?",
+      "options": [
+        "Whale hunting",
+        "Gold prospecting",
+        "River exploration",
+        "Naval warfare"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

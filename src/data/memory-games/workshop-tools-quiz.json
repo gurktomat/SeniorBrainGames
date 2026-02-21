@@ -1,0 +1,174 @@
+{
+  "id": "workshop-tools-quiz",
+  "title": "Workshop Tools Quiz",
+  "description": "How well do you know your way around a workshop? Identify common hand tools and workshop equipment.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "workshop-tools-quiz-1",
+      "question": "Which workshop tool has two adjustable jaws mounted on a bench, used to hold objects firmly in place?",
+      "options": [
+        "Pliers",
+        "C-clamp",
+        "Bench vise",
+        "Locking wrench"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "workshop-tools-quiz-2",
+      "question": "What is a ball-peen hammer typically used for?",
+      "options": [
+        "Driving nails into wood",
+        "Shaping metal and driving punches",
+        "Upholstery work",
+        "Breaking concrete"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "workshop-tools-quiz-3",
+      "question": "Which tool is an L-shaped hexagonal wrench used to turn bolts and screws with hexagonal sockets?",
+      "options": [
+        "Torx wrench",
+        "Allen key (hex key)",
+        "Socket wrench",
+        "Box wrench"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "workshop-tools-quiz-4",
+      "question": "What is a try square used for in woodworking?",
+      "options": [
+        "Clamping joints",
+        "Cutting curves",
+        "Checking and marking 90-degree angles",
+        "Measuring weight"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "workshop-tools-quiz-5",
+      "question": "Which hand tool has a hardened steel blade used to cut grooves and shape wood by paring?",
+      "options": [
+        "Chisel",
+        "File",
+        "Rasp",
+        "Plane"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "workshop-tools-quiz-6",
+      "question": "What is a hand plane used for?",
+      "options": [
+        "Cutting dovetail joints",
+        "Measuring thickness",
+        "Smoothing and flattening wood surfaces by shaving thin layers",
+        "Drilling holes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "workshop-tools-quiz-7",
+      "question": "Which tool has a handle attached to a heavy metal head and a claw for removing nails?",
+      "options": [
+        "Dead blow hammer",
+        "Claw hammer",
+        "Mallet",
+        "Sledgehammer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "workshop-tools-quiz-8",
+      "question": "What is a marking gauge used for?",
+      "options": [
+        "Checking levelness",
+        "Scribing a line parallel to an edge on a piece of wood",
+        "Measuring angles",
+        "Marking drill points"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "workshop-tools-quiz-9",
+      "question": "Which workshop tool is a long, narrow saw with fine teeth, used for precise cuts in woodworking joints?",
+      "options": [
+        "Dovetail saw (tenon saw)",
+        "Coping saw",
+        "Crosscut saw",
+        "Bow saw"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "workshop-tools-quiz-10",
+      "question": "What is a center punch used for?",
+      "options": [
+        "Making a small indentation to guide a drill bit",
+        "Aligning parts",
+        "Removing bolts",
+        "Cutting sheet metal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "workshop-tools-quiz-11",
+      "question": "Which tool resembles a file but has larger, individual teeth for rapidly removing material from wood?",
+      "options": [
+        "Rasp",
+        "Draw knife",
+        "Grinder",
+        "Sandpaper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "workshop-tools-quiz-12",
+      "question": "What is a speed square (rafter square) used for?",
+      "options": [
+        "Measuring round objects",
+        "Measuring speed",
+        "Marking angles and making quick 90 and 45-degree lines",
+        "Cutting square holes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "workshop-tools-quiz-13",
+      "question": "Which clamp has a C-shaped frame with a threaded screw for clamping objects together?",
+      "options": [
+        "Pipe clamp",
+        "C-clamp",
+        "Spring clamp",
+        "Bar clamp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "workshop-tools-quiz-14",
+      "question": "What is a tap and die set used for?",
+      "options": [
+        "Cutting wood joints",
+        "Measuring bolt sizes",
+        "Sharpening drill bits",
+        "Creating and repairing screw threads in metal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "workshop-tools-quiz-15",
+      "question": "Which measuring tool uses a bubble in liquid to determine if a surface is perfectly horizontal?",
+      "options": [
+        "Spirit level (bubble level)",
+        "Plumb bob",
+        "Protractor",
+        "Laser measure"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

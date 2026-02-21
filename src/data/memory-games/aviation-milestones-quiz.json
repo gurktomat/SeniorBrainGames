@@ -1,0 +1,173 @@
+{
+  "id": "aviation-milestones-quiz",
+  "title": "Aviation Milestones Quiz",
+  "description": "From the Wright Brothers to supersonic flight, test your recall of the major milestones in aviation history.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "aviation-milestones-quiz-1",
+      "question": "In what year did the Wright Brothers achieve the first powered flight?",
+      "options": [
+        "1901",
+        "1899",
+        "1903",
+        "1907"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-2",
+      "question": "Who was the first person to fly solo across the Atlantic Ocean in 1927?",
+      "options": [
+        "Amelia Earhart",
+        "Wiley Post",
+        "Charles Lindbergh",
+        "Howard Hughes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-3",
+      "question": "What was the name of Charles Lindbergh's famous airplane?",
+      "options": [
+        "The Flyer",
+        "Memphis Belle",
+        "Enola Gay",
+        "Spirit of St. Louis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-4",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Bessie Coleman",
+        "Jacqueline Cochran"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "aviation-milestones-quiz-5",
+      "question": "What was the first jet-powered aircraft to enter service?",
+      "options": [
+        "Gloster Meteor",
+        "De Havilland Vampire",
+        "Me 262",
+        "P-80 Shooting Star"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-6",
+      "question": "Who first broke the sound barrier in 1947?",
+      "options": [
+        "Scott Crossfield",
+        "John Glenn",
+        "Chuck Yeager",
+        "Neil Armstrong"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-7",
+      "question": "What was the name of the aircraft Chuck Yeager flew to break the sound barrier?",
+      "options": [
+        "X-1",
+        "SR-71",
+        "F-86",
+        "X-15"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "aviation-milestones-quiz-8",
+      "question": "Which supersonic passenger jet operated from 1976 to 2003?",
+      "options": [
+        "Boeing 747",
+        "Tupolev Tu-144",
+        "Airbus A380",
+        "Concorde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-9",
+      "question": "What is the Boeing 747 commonly nicknamed?",
+      "options": [
+        "Dreamliner",
+        "Super Jet",
+        "Jumbo Jet",
+        "Stratofortress"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-10",
+      "question": "Where did the Wright Brothers make their historic first flight?",
+      "options": [
+        "Washington, D.C.",
+        "Dayton, Ohio",
+        "Cape Canaveral, Florida",
+        "Kitty Hawk, North Carolina"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-11",
+      "question": "What was the first commercial jet airliner to enter service?",
+      "options": [
+        "Boeing 707",
+        "Convair 880",
+        "Douglas DC-8",
+        "De Havilland Comet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "aviation-milestones-quiz-12",
+      "question": "Who invented the helicopter as we know it today?",
+      "options": [
+        "Igor Sikorsky",
+        "Juan de la Cierva",
+        "Heinrich Focke",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "aviation-milestones-quiz-13",
+      "question": "What was the fastest manned aircraft ever built?",
+      "options": [
+        "SR-71 Blackbird",
+        "X-15",
+        "F-22 Raptor",
+        "Concorde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "aviation-milestones-quiz-14",
+      "question": "In what year did the first non-stop flight around the world without refueling take place (Voyager)?",
+      "options": [
+        "1976",
+        "1991",
+        "1986",
+        "1981"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "aviation-milestones-quiz-15",
+      "question": "What principle explains how airplane wings generate lift?",
+      "options": [
+        "Bernoulli's Principle",
+        "Archimedes' Principle",
+        "Newton's Third Law only",
+        "Hooke's Law"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

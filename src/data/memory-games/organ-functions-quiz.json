@@ -7,92 +7,167 @@
     {
       "id": "organ-functions-quiz-1",
       "question": "Which organ filters blood, removes toxins, produces bile, and is the largest internal organ in the human body?",
-      "options": ["Kidneys", "Pancreas", "Liver", "Spleen"],
-      "correctAnswer": 2
+      "options": [
+        "Liver",
+        "Spleen",
+        "Pancreas",
+        "Kidneys"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "organ-functions-quiz-2",
       "question": "Which pair of organs filters waste and excess fluid from the blood to produce urine?",
-      "options": ["Lungs", "Adrenal Glands", "Kidneys", "Liver"],
-      "correctAnswer": 2
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Adrenal Glands",
+        "Lungs"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "organ-functions-quiz-3",
       "question": "Which organ pumps blood throughout the body and beats approximately 100,000 times per day?",
-      "options": ["Lungs", "Heart", "Liver", "Brain"],
-      "correctAnswer": 1
+      "options": [
+        "Brain",
+        "Liver",
+        "Lungs",
+        "Heart"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "organ-functions-quiz-4",
       "question": "Which organ is responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide?",
-      "options": ["Heart", "Diaphragm", "Trachea", "Lungs"],
+      "options": [
+        "Trachea",
+        "Diaphragm",
+        "Heart",
+        "Lungs"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "organ-functions-quiz-5",
       "question": "Which organ produces insulin to regulate blood sugar levels and also produces digestive enzymes?",
-      "options": ["Liver", "Gallbladder", "Pancreas", "Spleen"],
+      "options": [
+        "Spleen",
+        "Liver",
+        "Pancreas",
+        "Gallbladder"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "organ-functions-quiz-6",
       "question": "Which small, pear-shaped organ stores bile produced by the liver and releases it to help digest fats?",
-      "options": ["Appendix", "Gallbladder", "Spleen", "Pancreas"],
+      "options": [
+        "Appendix",
+        "Gallbladder",
+        "Spleen",
+        "Pancreas"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "organ-functions-quiz-7",
       "question": "Which organ serves as the body's control center, processing information from the senses and coordinating all body functions?",
-      "options": ["Spinal Cord", "Heart", "Brain", "Thyroid"],
-      "correctAnswer": 2
+      "options": [
+        "Thyroid",
+        "Brain",
+        "Spinal Cord",
+        "Heart"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "organ-functions-quiz-8",
       "question": "Which organ in the digestive system is primarily responsible for absorbing nutrients from digested food into the bloodstream?",
-      "options": ["Stomach", "Large Intestine", "Small Intestine", "Esophagus"],
-      "correctAnswer": 2
+      "options": [
+        "Small Intestine",
+        "Large Intestine",
+        "Stomach",
+        "Esophagus"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "organ-functions-quiz-9",
       "question": "Which butterfly-shaped gland in the neck produces hormones that regulate metabolism, energy, and growth?",
-      "options": ["Pituitary Gland", "Thyroid Gland", "Adrenal Gland", "Parathyroid Gland"],
-      "correctAnswer": 1
+      "options": [
+        "Adrenal Gland",
+        "Parathyroid Gland",
+        "Pituitary Gland",
+        "Thyroid Gland"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "organ-functions-quiz-10",
       "question": "Which organ acts as a filter for blood, recycling old red blood cells and serving as a reservoir for white blood cells and platelets?",
-      "options": ["Liver", "Spleen", "Thymus", "Bone Marrow"],
-      "correctAnswer": 1
+      "options": [
+        "Bone Marrow",
+        "Liver",
+        "Thymus",
+        "Spleen"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "organ-functions-quiz-11",
       "question": "Which organ breaks down food using hydrochloric acid and enzymes, and is located between the esophagus and small intestine?",
-      "options": ["Liver", "Pancreas", "Stomach", "Duodenum"],
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Stomach",
+        "Duodenum"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "organ-functions-quiz-12",
       "question": "Which is the largest organ of the human body, serving as a protective barrier against infection, regulating temperature, and providing sensory information?",
-      "options": ["Liver", "Lungs", "Skin", "Brain"],
+      "options": [
+        "Brain",
+        "Liver",
+        "Skin",
+        "Lungs"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "organ-functions-quiz-13",
       "question": "Which small gland at the base of the brain is often called the 'master gland' because it controls other endocrine glands?",
-      "options": ["Hypothalamus", "Pituitary Gland", "Pineal Gland", "Thyroid Gland"],
-      "correctAnswer": 1
+      "options": [
+        "Pituitary Gland",
+        "Pineal Gland",
+        "Thyroid Gland",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "organ-functions-quiz-14",
       "question": "Which part of the large intestine absorbs water from remaining indigestible food and compacts waste for elimination?",
-      "options": ["Cecum", "Appendix", "Colon", "Rectum"],
-      "correctAnswer": 2
+      "options": [
+        "Rectum",
+        "Cecum",
+        "Appendix",
+        "Colon"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "organ-functions-quiz-15",
       "question": "Which organ located behind the breastbone plays a crucial role in the immune system by training T-cells, and is most active during childhood?",
-      "options": ["Spleen", "Thymus", "Tonsils", "Lymph Nodes"],
-      "correctAnswer": 1
+      "options": [
+        "Thymus",
+        "Lymph Nodes",
+        "Tonsils",
+        "Spleen"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -7,8 +7,13 @@
     {
       "id": "health-1",
       "question": "How many bones are in the adult human body?",
-      "options": ["186", "206", "226", "246"],
-      "correctAnswer": 1,
+      "options": [
+        "186",
+        "226",
+        "206",
+        "246"
+      ],
+      "correctAnswer": 2,
       "explanation": "An adult human has 206 bones. Interestingly, babies are born with about 270 bones, but many fuse together as they grow.",
       "difficulty": "easy",
       "category": "health"
@@ -16,8 +21,13 @@
     {
       "id": "health-2",
       "question": "What organ pumps blood throughout the body?",
-      "options": ["Lungs", "Liver", "Heart", "Brain"],
-      "correctAnswer": 2,
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Brain"
+      ],
+      "correctAnswer": 1,
       "explanation": "The heart pumps about 2,000 gallons of blood through the body every day. It beats roughly 100,000 times per day, or about 35 million times a year.",
       "difficulty": "easy",
       "category": "health"
@@ -25,8 +35,13 @@
     {
       "id": "health-3",
       "question": "What is the largest organ of the human body?",
-      "options": ["Liver", "Brain", "Lungs", "Skin"],
-      "correctAnswer": 3,
+      "options": [
+        "Skin",
+        "Lungs",
+        "Liver",
+        "Brain"
+      ],
+      "correctAnswer": 0,
       "explanation": "Skin is the largest organ, covering about 20 square feet in the average adult. It protects us from microbes, helps regulate body temperature, and allows the sense of touch.",
       "difficulty": "easy",
       "category": "health"
@@ -34,8 +49,13 @@
     {
       "id": "health-4",
       "question": "Which vitamin does your body produce when exposed to sunlight?",
-      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-      "correctAnswer": 3,
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B"
+      ],
+      "correctAnswer": 2,
       "explanation": "Your skin produces Vitamin D when exposed to sunlight. This vitamin is essential for bone health because it helps the body absorb calcium.",
       "difficulty": "easy",
       "category": "health"
@@ -43,8 +63,13 @@
     {
       "id": "health-5",
       "question": "What is the recommended amount of water to drink daily for most adults?",
-      "options": ["2-3 cups", "4-5 cups", "About 8 cups", "12-15 cups"],
-      "correctAnswer": 2,
+      "options": [
+        "About 8 cups",
+        "2-3 cups",
+        "4-5 cups",
+        "12-15 cups"
+      ],
+      "correctAnswer": 0,
       "explanation": "While needs vary, the common guideline is about 8 cups (64 ounces) of water per day. Staying hydrated supports digestion, circulation, and overall health.",
       "difficulty": "easy",
       "category": "health"
@@ -52,8 +77,13 @@
     {
       "id": "health-6",
       "question": "What mineral is essential for strong bones and teeth?",
-      "options": ["Iron", "Calcium", "Potassium", "Zinc"],
-      "correctAnswer": 1,
+      "options": [
+        "Potassium",
+        "Iron",
+        "Zinc",
+        "Calcium"
+      ],
+      "correctAnswer": 3,
       "explanation": "Calcium is crucial for building and maintaining strong bones and teeth. Good sources include dairy products, leafy green vegetables, and fortified foods.",
       "difficulty": "medium",
       "category": "health"
@@ -61,8 +91,13 @@
     {
       "id": "health-7",
       "question": "What is the normal resting heart rate for adults?",
-      "options": ["40-50 beats per minute", "60-100 beats per minute", "110-130 beats per minute", "140-160 beats per minute"],
-      "correctAnswer": 1,
+      "options": [
+        "40-50 beats per minute",
+        "140-160 beats per minute",
+        "60-100 beats per minute",
+        "110-130 beats per minute"
+      ],
+      "correctAnswer": 2,
       "explanation": "A normal resting heart rate for adults ranges from 60 to 100 beats per minute. Athletes may have a resting heart rate as low as 40 beats per minute due to their heart's efficiency.",
       "difficulty": "medium",
       "category": "health"
@@ -70,8 +105,13 @@
     {
       "id": "health-8",
       "question": "Which part of the brain is primarily responsible for memory?",
-      "options": ["Cerebellum", "Hippocampus", "Brain stem", "Frontal lobe"],
-      "correctAnswer": 1,
+      "options": [
+        "Hippocampus",
+        "Frontal lobe",
+        "Brain stem",
+        "Cerebellum"
+      ],
+      "correctAnswer": 0,
       "explanation": "The hippocampus, located deep within the brain, plays a vital role in forming and storing new memories. Its name comes from the Greek word for 'seahorse' due to its shape.",
       "difficulty": "medium",
       "category": "health"
@@ -79,8 +119,13 @@
     {
       "id": "health-9",
       "question": "What type of exercise is walking generally classified as?",
-      "options": ["Anaerobic", "Aerobic", "Isometric", "Plyometric"],
-      "correctAnswer": 1,
+      "options": [
+        "Plyometric",
+        "Isometric",
+        "Aerobic",
+        "Anaerobic"
+      ],
+      "correctAnswer": 2,
       "explanation": "Walking is an aerobic exercise, meaning it uses oxygen to fuel the activity. Regular walking can improve heart health, strengthen bones, and boost mood.",
       "difficulty": "medium",
       "category": "health"
@@ -88,8 +133,13 @@
     {
       "id": "health-10",
       "question": "What is the body's normal temperature in Fahrenheit?",
-      "options": ["96.8°F", "97.6°F", "98.6°F", "99.6°F"],
-      "correctAnswer": 2,
+      "options": [
+        "97.6°F",
+        "98.6°F",
+        "99.6°F",
+        "96.8°F"
+      ],
+      "correctAnswer": 1,
       "explanation": "The average normal body temperature is 98.6°F (37°C), though it can vary slightly from person to person and throughout the day.",
       "difficulty": "medium",
       "category": "health"
@@ -97,8 +147,13 @@
     {
       "id": "health-11",
       "question": "Which nutrient is the body's primary source of energy?",
-      "options": ["Protein", "Fat", "Carbohydrates", "Vitamins"],
-      "correctAnswer": 2,
+      "options": [
+        "Carbohydrates",
+        "Protein",
+        "Vitamins",
+        "Fat"
+      ],
+      "correctAnswer": 0,
       "explanation": "Carbohydrates are the body's main fuel source. They are broken down into glucose, which provides energy for cells, tissues, and organs, especially the brain.",
       "difficulty": "hard",
       "category": "health"
@@ -106,8 +161,13 @@
     {
       "id": "health-12",
       "question": "Approximately how many hours of sleep per night do most health experts recommend for adults?",
-      "options": ["4-5 hours", "5-6 hours", "7-9 hours", "10-12 hours"],
-      "correctAnswer": 2,
+      "options": [
+        "7-9 hours",
+        "10-12 hours",
+        "4-5 hours",
+        "5-6 hours"
+      ],
+      "correctAnswer": 0,
       "explanation": "Most health organizations recommend 7-9 hours of sleep per night for adults. Quality sleep is essential for immune function, memory consolidation, and overall health.",
       "difficulty": "hard",
       "category": "health"
@@ -115,8 +175,13 @@
     {
       "id": "health-13",
       "question": "What is the name for the tiny air sacs in the lungs where oxygen enters the blood?",
-      "options": ["Bronchi", "Alveoli", "Capillaries", "Trachea"],
-      "correctAnswer": 1,
+      "options": [
+        "Bronchi",
+        "Trachea",
+        "Alveoli",
+        "Capillaries"
+      ],
+      "correctAnswer": 2,
       "explanation": "Alveoli are tiny balloon-like air sacs in the lungs. There are about 480 million alveoli in a pair of human lungs, providing a huge surface area for gas exchange.",
       "difficulty": "hard",
       "category": "health"
@@ -124,8 +189,13 @@
     {
       "id": "health-14",
       "question": "Which type of cholesterol is often called 'good' cholesterol?",
-      "options": ["LDL", "HDL", "VLDL", "Triglycerides"],
-      "correctAnswer": 1,
+      "options": [
+        "Triglycerides",
+        "LDL",
+        "HDL",
+        "VLDL"
+      ],
+      "correctAnswer": 2,
       "explanation": "HDL (high-density lipoprotein) is called 'good' cholesterol because it helps remove other forms of cholesterol from the bloodstream and carry them to the liver for removal.",
       "difficulty": "hard",
       "category": "health"
@@ -133,8 +203,13 @@
     {
       "id": "health-15",
       "question": "How many muscles are there approximately in the human body?",
-      "options": ["About 200", "About 400", "About 600", "About 800"],
-      "correctAnswer": 2,
+      "options": [
+        "About 800",
+        "About 400",
+        "About 200",
+        "About 600"
+      ],
+      "correctAnswer": 3,
       "explanation": "The human body has about 600 skeletal muscles that work together to allow movement. The largest muscle is the gluteus maximus, and the smallest is the stapedius in the ear.",
       "difficulty": "hard",
       "category": "health"

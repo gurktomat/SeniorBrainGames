@@ -7,92 +7,167 @@
     {
       "id": "euphemisms-quiz-1",
       "question": "What does the euphemism 'passed away' really mean?",
-      "options": ["Fainted", "Died", "Moved away", "Fell asleep"],
-      "correctAnswer": 1
+      "options": [
+        "Fainted",
+        "Moved away",
+        "Fell asleep",
+        "Died"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "euphemisms-quiz-2",
       "question": "If someone has been 'let go' from their job, what happened?",
-      "options": ["They were promoted", "They retired", "They were fired", "They went on holiday"],
-      "correctAnswer": 2
+      "options": [
+        "They went on holiday",
+        "They retired",
+        "They were promoted",
+        "They were fired"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "euphemisms-quiz-3",
       "question": "What does 'between jobs' typically mean?",
-      "options": ["Working two jobs", "Unemployed", "On a lunch break", "Commuting"],
-      "correctAnswer": 1
+      "options": [
+        "Working two jobs",
+        "Commuting",
+        "Unemployed",
+        "On a lunch break"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "euphemisms-quiz-4",
       "question": "When someone says they need to 'powder their nose,' what do they mean?",
-      "options": ["Apply makeup", "Go to the bathroom", "Take a nap", "Have a sneeze"],
-      "correctAnswer": 1
+      "options": [
+        "Take a nap",
+        "Apply makeup",
+        "Go to the bathroom",
+        "Have a sneeze"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "euphemisms-quiz-5",
       "question": "What does 'economical with the truth' mean?",
-      "options": ["Very honest", "Lying or being deceptive", "Forgetful", "Speaking briefly"],
-      "correctAnswer": 1
+      "options": [
+        "Lying or being deceptive",
+        "Forgetful",
+        "Very honest",
+        "Speaking briefly"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "euphemisms-quiz-6",
       "question": "If a student is described as 'not reaching their full potential,' what is meant?",
-      "options": ["They are gifted", "They are performing poorly", "They are very tall", "They are new to the school"],
+      "options": [
+        "They are new to the school",
+        "They are performing poorly",
+        "They are very tall",
+        "They are gifted"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "euphemisms-quiz-7",
       "question": "What does the phrase 'friendly fire' actually refer to?",
-      "options": ["A warm campfire", "Being attacked by your own side", "A fireworks display", "A welcoming gesture"],
-      "correctAnswer": 1
+      "options": [
+        "Being attacked by your own side",
+        "A welcoming gesture",
+        "A warm campfire",
+        "A fireworks display"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "euphemisms-quiz-8",
       "question": "When a company announces 'downsizing,' what does it mean?",
-      "options": ["Moving to a smaller building", "Laying off employees", "Reducing product sizes", "Lowering prices"],
+      "options": [
+        "Moving to a smaller building",
+        "Laying off employees",
+        "Lowering prices",
+        "Reducing product sizes"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "euphemisms-quiz-9",
       "question": "What does 'in the family way' traditionally mean?",
-      "options": ["Behaving like relatives", "Pregnant", "Living with parents", "Following family traditions"],
+      "options": [
+        "Behaving like relatives",
+        "Pregnant",
+        "Living with parents",
+        "Following family traditions"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "euphemisms-quiz-10",
       "question": "If food is described as 'acquired taste,' what is really meant?",
-      "options": ["It is expensive", "It is exotic", "Most people initially dislike it", "It is hard to find"],
-      "correctAnswer": 2
+      "options": [
+        "Most people initially dislike it",
+        "It is exotic",
+        "It is expensive",
+        "It is hard to find"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "euphemisms-quiz-11",
       "question": "What does 'correctional facility' actually refer to?",
-      "options": ["A repair shop", "A prison", "A school", "A hospital"],
-      "correctAnswer": 1
+      "options": [
+        "A repair shop",
+        "A hospital",
+        "A prison",
+        "A school"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "euphemisms-quiz-12",
       "question": "When someone is described as 'vertically challenged,' what does it mean?",
-      "options": ["Afraid of heights", "Short in stature", "Unable to climb stairs", "Bad at maths"],
-      "correctAnswer": 1
+      "options": [
+        "Unable to climb stairs",
+        "Bad at maths",
+        "Afraid of heights",
+        "Short in stature"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "euphemisms-quiz-13",
       "question": "What does 'pre-owned' mean in car sales language?",
-      "options": ["Brand new", "Reserved for purchase", "Used or second-hand", "A prototype"],
-      "correctAnswer": 2
+      "options": [
+        "Brand new",
+        "A prototype",
+        "Reserved for purchase",
+        "Used or second-hand"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "euphemisms-quiz-14",
       "question": "If someone says a person has 'a few sandwiches short of a picnic,' what do they mean?",
-      "options": ["They are hungry", "They forgot to pack lunch", "They are not very bright", "They are on a diet"],
+      "options": [
+        "They forgot to pack lunch",
+        "They are on a diet",
+        "They are not very bright",
+        "They are hungry"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "euphemisms-quiz-15",
       "question": "What does the estate agent term 'cosy' usually really mean?",
-      "options": ["Warm and inviting", "Very small", "Nicely decorated", "Near a fireplace"],
-      "correctAnswer": 1
+      "options": [
+        "Nicely decorated",
+        "Warm and inviting",
+        "Near a fireplace",
+        "Very small"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

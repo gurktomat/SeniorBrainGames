@@ -1,0 +1,173 @@
+{
+  "id": "computer-history-quiz",
+  "title": "Computer History Quiz",
+  "description": "From room-sized mainframes to pocket-sized smartphones, test your recall of computer history milestones.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "computer-history-quiz-1",
+      "question": "What was the name of IBM's first personal computer, released in 1981?",
+      "options": [
+        "IBM ThinkPad",
+        "IBM PC",
+        "IBM PS/2",
+        "IBM System/360"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-2",
+      "question": "What programming language, developed in the 1950s, was one of the first high-level languages?",
+      "options": [
+        "FORTRAN",
+        "C",
+        "Pascal",
+        "BASIC"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-3",
+      "question": "What does 'RAM' stand for in computing?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Rapid Application Memory",
+        "Remote Access Module"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-4",
+      "question": "Which company created the first commercially successful mouse-driven computer with a graphical interface?",
+      "options": [
+        "Xerox",
+        "Apple",
+        "IBM",
+        "Microsoft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-5",
+      "question": "What year was the Internet's predecessor, ARPANET, first connected?",
+      "options": [
+        "1977",
+        "1973",
+        "1965",
+        "1969"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-6",
+      "question": "What does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Utility",
+        "Core Processing Unit",
+        "Computer Personal Unit"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-7",
+      "question": "Which operating system was developed by Linus Torvalds in 1991?",
+      "options": [
+        "macOS",
+        "Windows",
+        "Unix",
+        "Linux"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-8",
+      "question": "What storage medium was commonly used for home computers in the 1980s?",
+      "options": [
+        "Blu-ray discs",
+        "USB drives",
+        "CD-ROMs",
+        "Floppy disks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-9",
+      "question": "What was the first widely popular web browser, released in 1993?",
+      "options": [
+        "Mosaic",
+        "Firefox",
+        "Internet Explorer",
+        "Netscape Navigator"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-10",
+      "question": "What does 'HTML' stand for?",
+      "options": [
+        "High Tech Modern Language",
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-11",
+      "question": "Which company manufactured the Commodore 64, one of the best-selling computers of all time?",
+      "options": [
+        "Commodore International",
+        "Texas Instruments",
+        "Atari",
+        "Tandy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-12",
+      "question": "What was the first search engine on the World Wide Web?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "AltaVista",
+        "Archie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-13",
+      "question": "How many bits are in a byte?",
+      "options": [
+        "32",
+        "4",
+        "16",
+        "8"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-14",
+      "question": "What year did Windows 95 launch?",
+      "options": [
+        "1993",
+        "1994",
+        "1996",
+        "1995"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-15",
+      "question": "What does 'Wi-Fi' technology allow computers to do?",
+      "options": [
+        "Connect to networks without cables",
+        "Print wirelessly",
+        "Store more data",
+        "Run faster"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

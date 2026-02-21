@@ -8,8 +8,8 @@
       "id": "famous-mathematicians-1",
       "question": "Which ancient Greek mathematician is known as the 'Father of Geometry' and wrote the influential work 'Elements'?",
       "options": [
-        "Archimedes",
         "Pythagoras",
+        "Archimedes",
         "Euclid",
         "Aristotle"
       ],
@@ -19,98 +19,98 @@
       "id": "famous-mathematicians-2",
       "question": "Which mathematician is credited with the theorem relating the sides of a right triangle: a squared plus b squared equals c squared?",
       "options": [
+        "Thales",
         "Euclid",
         "Archimedes",
-        "Pythagoras",
-        "Thales"
+        "Pythagoras"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-mathematicians-3",
       "question": "Who independently developed calculus alongside Isaac Newton in the late 17th century?",
       "options": [
-        "Leonhard Euler",
         "Gottfried Wilhelm Leibniz",
-        "Pierre de Fermat",
-        "Blaise Pascal"
+        "Blaise Pascal",
+        "Leonhard Euler",
+        "Pierre de Fermat"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-mathematicians-4",
       "question": "Which mathematician, known as the 'Prince of Mathematicians', made groundbreaking contributions to number theory and statistics?",
       "options": [
+        "Bernhard Riemann",
         "Leonhard Euler",
         "Carl Friedrich Gauss",
-        "Bernhard Riemann",
         "David Hilbert"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-mathematicians-5",
       "question": "Who is considered the most prolific mathematician of the 18th century, contributing to nearly every area of mathematics?",
       "options": [
+        "Leonhard Euler",
         "Carl Friedrich Gauss",
         "Joseph-Louis Lagrange",
-        "Leonhard Euler",
         "Pierre-Simon Laplace"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-mathematicians-6",
       "question": "Which French mathematician stated his famous 'Last Theorem' in the margin of a book, which remained unproven for over 350 years?",
       "options": [
+        "Joseph Fourier",
         "Rene Descartes",
-        "Pierre de Fermat",
         "Blaise Pascal",
-        "Joseph Fourier"
+        "Pierre de Fermat"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-mathematicians-7",
       "question": "Who finally proved Fermat's Last Theorem in 1995?",
       "options": [
         "Terence Tao",
-        "Andrew Wiles",
+        "John Nash",
         "Grigori Perelman",
-        "John Nash"
+        "Andrew Wiles"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-mathematicians-8",
       "question": "Which ancient Greek mathematician calculated an accurate approximation of pi and discovered the principles of buoyancy?",
       "options": [
-        "Pythagoras",
-        "Euclid",
         "Archimedes",
-        "Eratosthenes"
+        "Euclid",
+        "Eratosthenes",
+        "Pythagoras"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-mathematicians-9",
       "question": "Which British mathematician is considered the father of computer science and helped crack the Enigma code during World War II?",
       "options": [
+        "Claude Shannon",
         "Charles Babbage",
         "Alan Turing",
-        "John von Neumann",
-        "Claude Shannon"
+        "John von Neumann"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-mathematicians-10",
       "question": "Which French philosopher and mathematician created the Cartesian coordinate system, linking algebra and geometry?",
       "options": [
+        "Voltaire",
         "Blaise Pascal",
-        "Pierre de Fermat",
         "Rene Descartes",
-        "Voltaire"
+        "Pierre de Fermat"
       ],
       "correctAnswer": 2
     },
@@ -118,43 +118,43 @@
       "id": "famous-mathematicians-11",
       "question": "Which mathematician developed the concept of fractals and coined the term 'fractal geometry'?",
       "options": [
-        "Benoit Mandelbrot",
-        "Roger Penrose",
         "John Conway",
-        "Stephen Hawking"
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Benoit Mandelbrot"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-mathematicians-12",
       "question": "Which Indian mathematician made extraordinary contributions to number theory and infinite series, despite having almost no formal training?",
       "options": [
-        "Aryabhata",
         "Srinivasa Ramanujan",
         "C.V. Raman",
-        "Brahmagupta"
+        "Brahmagupta",
+        "Aryabhata"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-mathematicians-13",
       "question": "Which mathematician won the Nobel Prize in Economics in 1994 for his work on game theory, and was the subject of the film 'A Beautiful Mind'?",
       "options": [
         "John von Neumann",
+        "Lloyd Shapley",
         "John Nash",
-        "Kenneth Arrow",
-        "Lloyd Shapley"
+        "Kenneth Arrow"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-mathematicians-14",
       "question": "Which French mathematician and philosopher invented an early mechanical calculator and made contributions to probability theory?",
       "options": [
-        "Rene Descartes",
         "Pierre de Fermat",
+        "Joseph Fourier",
         "Blaise Pascal",
-        "Joseph Fourier"
+        "Rene Descartes"
       ],
       "correctAnswer": 2
     },
@@ -162,12 +162,12 @@
       "id": "famous-mathematicians-15",
       "question": "Which woman is considered the first computer programmer, known for her work on Charles Babbage's Analytical Engine?",
       "options": [
-        "Emmy Noether",
         "Ada Lovelace",
         "Sophie Germain",
-        "Maria Gaetana Agnesi"
+        "Maria Gaetana Agnesi",
+        "Emmy Noether"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

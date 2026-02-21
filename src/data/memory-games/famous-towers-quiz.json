@@ -7,92 +7,167 @@
     {
       "id": "famous-towers-quiz-1",
       "question": "Which iron lattice tower was built as a temporary exhibit for the 1889 World's Fair in Paris but became a permanent symbol of France?",
-      "options": ["Arc de Triomphe", "Eiffel Tower", "Montparnasse Tower", "Notre-Dame Spire"],
-      "correctAnswer": 1
+      "options": [
+        "Montparnasse Tower",
+        "Arc de Triomphe",
+        "Eiffel Tower",
+        "Notre-Dame Spire"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-towers-quiz-2",
       "question": "Which Italian tower is famous for its unintended tilt, caused by soft ground on one side, and took nearly 200 years to build starting in 1173?",
-      "options": ["Tower of Bologna", "Leaning Tower of Pisa", "Giotto's Campanile", "San Gimignano Towers"],
+      "options": [
+        "Giotto's Campanile",
+        "Leaning Tower of Pisa",
+        "Tower of Bologna",
+        "San Gimignano Towers"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-towers-quiz-3",
       "question": "Which skyscraper in Dubai holds the record as the tallest building in the world, standing at 828 meters with 163 floors?",
-      "options": ["Jeddah Tower", "Shanghai Tower", "Burj Khalifa", "Taipei 101"],
-      "correctAnswer": 2
+      "options": [
+        "Taipei 101",
+        "Shanghai Tower",
+        "Jeddah Tower",
+        "Burj Khalifa"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-towers-quiz-4",
       "question": "Which New York City skyscraper was the world's tallest building from 1931 to 1970 and is famous for its Art Deco design and illuminated spire?",
-      "options": ["Chrysler Building", "Empire State Building", "One World Trade Center", "Woolworth Building"],
-      "correctAnswer": 1
+      "options": [
+        "One World Trade Center",
+        "Chrysler Building",
+        "Empire State Building",
+        "Woolworth Building"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-towers-quiz-5",
       "question": "Which London landmark, completed in 1066, served as a royal palace, prison, and execution site, and houses the Crown Jewels of England?",
-      "options": ["Big Ben", "Tower of London", "Buckingham Palace", "Windsor Castle"],
-      "correctAnswer": 1
+      "options": [
+        "Windsor Castle",
+        "Big Ben",
+        "Tower of London",
+        "Buckingham Palace"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-towers-quiz-6",
       "question": "Which needle-shaped tower in Seattle was built for the 1962 World's Fair, stands 605 feet tall, and features a rotating observation deck?",
-      "options": ["CN Tower", "Space Needle", "Reunion Tower", "Coit Tower"],
-      "correctAnswer": 1
+      "options": [
+        "Space Needle",
+        "Reunion Tower",
+        "Coit Tower",
+        "CN Tower"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-towers-quiz-7",
       "question": "Which communications tower in Toronto, Canada, was the world's tallest free-standing structure for over 30 years and features a glass floor observation level?",
-      "options": ["Space Needle", "Skylon Tower", "CN Tower", "Calgary Tower"],
+      "options": [
+        "Calgary Tower",
+        "Space Needle",
+        "CN Tower",
+        "Skylon Tower"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-towers-quiz-8",
       "question": "Which Art Deco skyscraper in New York City, completed in 1930, features a distinctive stainless steel crown with triangular windows and eagle gargoyles?",
-      "options": ["Empire State Building", "Woolworth Building", "Chrysler Building", "30 Rockefeller Plaza"],
-      "correctAnswer": 2
+      "options": [
+        "Woolworth Building",
+        "30 Rockefeller Plaza",
+        "Empire State Building",
+        "Chrysler Building"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-towers-quiz-9",
       "question": "Which tower in Tokyo is the tallest tower in the world at 634 meters and serves as a broadcasting and observation tower?",
-      "options": ["Tokyo Tower", "Tokyo Skytree", "Yokohama Landmark Tower", "Mori Tower"],
-      "correctAnswer": 1
+      "options": [
+        "Yokohama Landmark Tower",
+        "Tokyo Tower",
+        "Mori Tower",
+        "Tokyo Skytree"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-towers-quiz-10",
       "question": "Which pair of towers in Kuala Lumpur, Malaysia, were the tallest buildings in the world from 1998 to 2004 and are connected by a sky bridge on the 41st floor?",
-      "options": ["Marina Bay Sands", "Petronas Twin Towers", "Taipei 101", "Shanghai Tower"],
-      "correctAnswer": 1
+      "options": [
+        "Shanghai Tower",
+        "Marina Bay Sands",
+        "Petronas Twin Towers",
+        "Taipei 101"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-towers-quiz-11",
       "question": "Which ancient lighthouse in Alexandria, Egypt, was one of the Seven Wonders of the Ancient World and guided sailors for centuries before earthquakes destroyed it?",
-      "options": ["Colossus of Rhodes", "Pharos of Alexandria", "Tower of Babel", "Lighthouse of Genoa"],
+      "options": [
+        "Colossus of Rhodes",
+        "Pharos of Alexandria",
+        "Tower of Babel",
+        "Lighthouse of Genoa"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-towers-quiz-12",
       "question": "Which red-and-white lattice tower in Tokyo, inspired by the Eiffel Tower, was completed in 1958 and served as the city's main communications tower for decades?",
-      "options": ["Tokyo Skytree", "Tsutenkaku Tower", "Tokyo Tower", "Fukuoka Tower"],
-      "correctAnswer": 2
+      "options": [
+        "Fukuoka Tower",
+        "Tokyo Tower",
+        "Tokyo Skytree",
+        "Tsutenkaku Tower"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-towers-quiz-13",
       "question": "Which clock tower at the north end of the Palace of Westminster in London houses a bell nicknamed Big Ben and is an iconic symbol of British democracy?",
-      "options": ["Victoria Tower", "Elizabeth Tower", "St. Stephen's Tower", "Clock Tower"],
+      "options": [
+        "St. Stephen's Tower",
+        "Elizabeth Tower",
+        "Victoria Tower",
+        "Clock Tower"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-towers-quiz-14",
       "question": "Which supertall skyscraper in Shanghai features a distinctive rectangular opening near the top, earning it the nickname 'The Bottle Opener'?",
-      "options": ["Jin Mao Tower", "Shanghai Tower", "Shanghai World Financial Center", "Oriental Pearl Tower"],
-      "correctAnswer": 2
+      "options": [
+        "Shanghai World Financial Center",
+        "Oriental Pearl Tower",
+        "Shanghai Tower",
+        "Jin Mao Tower"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-towers-quiz-15",
       "question": "Which tower in San Francisco's North Beach neighborhood was built in 1933 as a memorial to volunteer firefighters and offers panoramic views of the city and bay?",
-      "options": ["Transamerica Pyramid", "Sutro Tower", "Coit Tower", "Ferry Building Tower"],
-      "correctAnswer": 2
+      "options": [
+        "Coit Tower",
+        "Sutro Tower",
+        "Ferry Building Tower",
+        "Transamerica Pyramid"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "id": "cocktail-identification",
+  "title": "Cocktail Identification",
+  "description": "Can you identify these classic cocktails by their ingredients and descriptions?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "cocktail-identification-1",
+      "question": "Which classic cocktail is made with gin, vermouth, and an olive or lemon twist?",
+      "options": [
+        "Gibson",
+        "Martini",
+        "Manhattan",
+        "Negroni"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cocktail-identification-2",
+      "question": "A Margarita is traditionally made with which spirit?",
+      "options": [
+        "Rum",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cocktail-identification-3",
+      "question": "Which cocktail combines bourbon or rye whiskey, sweet vermouth, and Angostura bitters?",
+      "options": [
+        "Old Fashioned",
+        "Sazerac",
+        "Manhattan",
+        "Whiskey Sour"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cocktail-identification-4",
+      "question": "What cocktail is made with rum, lime juice, sugar, soda water, and fresh mint?",
+      "options": [
+        "Cuba Libre",
+        "Mojito",
+        "Daiquiri",
+        "Caipirinha"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cocktail-identification-5",
+      "question": "Which cocktail is typically served in a copper mug with vodka, ginger beer, and lime?",
+      "options": [
+        "Kentucky Mule",
+        "Dark and Stormy",
+        "Whiskey Buck",
+        "Moscow Mule"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cocktail-identification-6",
+      "question": "A Piña Colada combines rum with which two tropical ingredients?",
+      "options": [
+        "Mango and lime",
+        "Banana and orange juice",
+        "Coconut cream and pineapple juice",
+        "Passion fruit and guava"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cocktail-identification-7",
+      "question": "Which Italian cocktail is made with equal parts gin, Campari, and sweet vermouth?",
+      "options": [
+        "Negroni",
+        "Americano",
+        "Bellini",
+        "Aperol Spritz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cocktail-identification-8",
+      "question": "The Old Fashioned cocktail is typically garnished with which fruit?",
+      "options": [
+        "Orange slice and cherry",
+        "Lime wedge",
+        "Pineapple wedge",
+        "Lemon twist"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cocktail-identification-9",
+      "question": "Which champagne cocktail shares its name with a famous Italian painter?",
+      "options": [
+        "Rossini",
+        "Titian",
+        "Tintoretto",
+        "Bellini"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cocktail-identification-10",
+      "question": "A Cosmopolitan typically features vodka, cranberry juice, lime juice, and which orange liqueur?",
+      "options": [
+        "Amaretto",
+        "Cointreau",
+        "Curaçao",
+        "Grand Marnier"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cocktail-identification-11",
+      "question": "Which classic cocktail is made with cognac, orange liqueur, and lemon juice, served in a sugar-rimmed glass?",
+      "options": [
+        "Stinger",
+        "Brandy Alexander",
+        "French 75",
+        "Sidecar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cocktail-identification-12",
+      "question": "The Bloody Mary cocktail uses which vegetable juice as its base?",
+      "options": [
+        "Carrot juice",
+        "Tomato juice",
+        "Beet juice",
+        "Celery juice"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cocktail-identification-13",
+      "question": "Which tiki cocktail, often served in a skull-shaped mug, was created by Donn Beach?",
+      "options": [
+        "Mai Tai",
+        "Blue Hawaiian",
+        "Singapore Sling",
+        "Zombie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cocktail-identification-14",
+      "question": "A Daiquiri in its classic form is made with rum, lime juice, and what?",
+      "options": [
+        "Orange juice",
+        "Simple syrup",
+        "Coconut cream",
+        "Grenadine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cocktail-identification-15",
+      "question": "Which New Orleans cocktail is made with rye whiskey, absinthe, Peychaud's bitters, and a sugar cube?",
+      "options": [
+        "Sazerac",
+        "Hurricane",
+        "Vieux Carré",
+        "Ramos Gin Fizz"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

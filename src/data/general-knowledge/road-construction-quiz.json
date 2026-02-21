@@ -1,0 +1,219 @@
+{
+  "id": "road-construction-quiz",
+  "title": "Road Construction History",
+  "description": "Pave your way through history with questions about road building through the ages!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "road-construction-quiz-1",
+      "question": "The Romans are famous for their road network. Approximately how many miles of paved roads did the Roman Empire build?",
+      "options": [
+        "10,000 miles",
+        "30,000 miles",
+        "80,000 miles",
+        "55,000 miles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Roman Empire constructed approximately 55,000 miles (88,500 km) of paved roads, plus many more miles of unpaved roads. The phrase 'all roads lead to Rome' reflected this vast network connecting the empire.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-2",
+      "question": "What Scottish engineer developed the 'macadam' road surface technique in the early 19th century?",
+      "options": [
+        "John Loudon McAdam",
+        "James Watt",
+        "John Rennie",
+        "Thomas Telford"
+      ],
+      "correctAnswer": 0,
+      "explanation": "John Loudon McAdam developed the macadamization technique around 1820, using layers of progressively smaller broken stones that were compacted by traffic. This provided a durable, well-drained road surface far superior to previous methods.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-3",
+      "question": "Roman roads typically had a layered construction. What was the bottom layer called?",
+      "options": [
+        "Statumen",
+        "Nucleus",
+        "Summum dorsum",
+        "Rudus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The statumen was the bottom foundation layer of a Roman road, consisting of large flat stones. Above it came the rudus (rubble), nucleus (gravel and sand), and summum dorsum (the paved surface of fitted stones).",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-4",
+      "question": "What is 'tarmac,' the common road surface material, short for?",
+      "options": [
+        "Tarmacadam",
+        "Tar machine",
+        "Terminal macadam",
+        "Tar and macadamite"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tarmac is short for 'tarmacadam,' which combines tar with macadam (crushed stone). Edgar Purnell Hooley patented the process in 1902 after observing that accidentally tar-coated macadam roads were dust-free and durable.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-5",
+      "question": "The Inca road system (Qhapaq Nan) stretched approximately how many miles through South America?",
+      "options": [
+        "40,000 miles",
+        "10,000 miles",
+        "5,000 miles",
+        "25,000 miles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Inca road system, known as Qhapaq Nan, stretched approximately 25,000 miles (40,000 km) through six modern-day countries. It traversed mountains, deserts, and jungles, connecting the vast Inca Empire.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-6",
+      "question": "What does 'asphalt' in road construction primarily consist of?",
+      "options": [
+        "Bitumen mixed with aggregate (stones and sand)",
+        "Concrete and gravel",
+        "Compacted clay",
+        "Tar and rubber"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Asphalt (or asphalt concrete) consists of bitumen (a petroleum-derived binder) mixed with mineral aggregate such as sand, gravel, and crushed stone. It is the most commonly used material for road surfaces worldwide.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-7",
+      "question": "What are 'cobblestones' traditionally made of?",
+      "options": [
+        "Baked clay",
+        "Cut marble",
+        "Naturally rounded stones",
+        "Compressed earth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cobblestones are naturally rounded stones, typically granite or basalt, that were used as road paving material. The term comes from 'cob,' meaning rounded. Many European cities still have cobblestone streets dating back centuries.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-8",
+      "question": "What innovation did the Appian Way (312 BC) introduce that distinguished it from earlier Roman roads?",
+      "options": [
+        "It was the first to use mortar",
+        "It was built in a straight line regardless of terrain",
+        "It had separate lanes for traffic",
+        "It included bridges for rivers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Appian Way was revolutionary because it was engineered to run as straight as possible, cutting through hills and filling in valleys rather than following the natural terrain. This set the standard for Roman road engineering.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-9",
+      "question": "What is a road 'camber' or 'crown' designed to do?",
+      "options": [
+        "Slow down traffic",
+        "Drain water off the road surface",
+        "Reduce noise",
+        "Improve visibility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A road camber or crown is the slight curve of the road surface, higher in the center and sloping to the edges. This design causes rainwater to drain off the road to the sides, preventing water from pooling on the surface.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-10",
+      "question": "The first concrete road in the United States was built in 1891 in which city?",
+      "options": [
+        "New York",
+        "Detroit",
+        "Chicago",
+        "Bellefontaine, Ohio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The first concrete road in the United States was built in 1891 on Court Avenue in Bellefontaine, Ohio. The 10-foot-wide, 220-foot-long section of road is still preserved today as a historic landmark.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-11",
+      "question": "What is 'frost heave' and why is it a problem for roads in cold climates?",
+      "options": [
+        "Snow accumulation on roads",
+        "Road salt damage",
+        "Frozen water expanding underground and pushing the road surface upward",
+        "Ice forming on the road surface"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frost heave occurs when water in the soil beneath a road freezes and expands, pushing the road surface upward unevenly. When the ice melts, the weakened soil causes the road to crack and develop potholes.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-12",
+      "question": "What is the purpose of 'rebar' (reinforcing bars) in concrete roads?",
+      "options": [
+        "Adding color to concrete",
+        "Improving drainage",
+        "Making the road smoother",
+        "Providing tensile strength to prevent cracking"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rebar (steel reinforcing bars) is embedded in concrete roads to provide tensile strength. While concrete is strong under compression, it is weak under tension. The steel rebar handles tensile forces, preventing cracks from spreading.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-13",
+      "question": "The 'superhighway' concept, featuring limited-access divided highways, was first implemented on a large scale in which country in the 1930s?",
+      "options": [
+        "Italy",
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Germany built the first large-scale limited-access highway network (the Autobahn) beginning in the 1930s. Italy had built shorter sections (autostrada) earlier, but Germany's network was the first comprehensive national system.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "road-construction-quiz-14",
+      "question": "What is 'rumble strip' technology on highways designed to do?",
+      "options": [
+        "Improve tire traction",
+        "Alert drowsy or inattentive drivers through vibration and noise",
+        "Reduce road noise",
+        "Slow down traffic at exits"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rumble strips are grooves or raised patterns on road shoulders or center lines that create vibration and noise when a vehicle's tires roll over them, alerting drowsy or inattentive drivers that they are drifting out of their lane.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "road-construction-quiz-15",
+      "question": "The Persian Royal Road, built by Darius I around 500 BC, connected Susa to which ancient city?",
+      "options": [
+        "Sardis",
+        "Athens",
+        "Babylon",
+        "Memphis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Persian Royal Road ran approximately 2,700 km from Susa (in modern Iran) to Sardis (in modern Turkey). It featured relay stations where fresh horses waited, allowing royal couriers to cover the distance in about 7 days.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

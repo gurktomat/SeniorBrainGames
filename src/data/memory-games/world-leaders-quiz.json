@@ -8,65 +8,65 @@
       "id": "world-leaders-quiz-1",
       "question": "Which country did Winston Churchill lead as Prime Minister during World War II?",
       "options": [
+        "United Kingdom",
         "France",
         "United States",
-        "United Kingdom",
         "Canada"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-leaders-quiz-2",
       "question": "Mahatma Gandhi is best known as the leader of the independence movement in which country?",
       "options": [
-        "Pakistan",
-        "South Africa",
+        "Bangladesh",
         "India",
-        "Bangladesh"
+        "South Africa",
+        "Pakistan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-leaders-quiz-3",
       "question": "Which U.S. President delivered the Gettysburg Address during the Civil War?",
       "options": [
         "Ulysses S. Grant",
+        "James Buchanan",
         "Andrew Johnson",
-        "Abraham Lincoln",
-        "James Buchanan"
+        "Abraham Lincoln"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-leaders-quiz-4",
       "question": "Nelson Mandela served as the first Black president of which country?",
       "options": [
-        "Kenya",
-        "Nigeria",
         "South Africa",
-        "Zimbabwe"
+        "Kenya",
+        "Zimbabwe",
+        "Nigeria"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-leaders-quiz-5",
       "question": "Charles de Gaulle was a prominent leader of which country during and after World War II?",
       "options": [
         "Belgium",
-        "France",
+        "Spain",
         "Italy",
-        "Spain"
+        "France"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "world-leaders-quiz-6",
       "question": "Which leader founded the People's Republic of China in 1949?",
       "options": [
-        "Sun Yat-sen",
+        "Deng Xiaoping",
         "Chiang Kai-shek",
         "Mao Zedong",
-        "Deng Xiaoping"
+        "Sun Yat-sen"
       ],
       "correctAnswer": 2
     },
@@ -74,54 +74,54 @@
       "id": "world-leaders-quiz-7",
       "question": "Golda Meir served as Prime Minister of which country from 1969 to 1974?",
       "options": [
-        "United Kingdom",
-        "Israel",
+        "Germany",
         "Australia",
-        "Germany"
+        "Israel",
+        "United Kingdom"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-leaders-quiz-8",
       "question": "Which Soviet leader introduced the policies of glasnost and perestroika?",
       "options": [
-        "Leonid Brezhnev",
         "Nikita Khrushchev",
-        "Joseph Stalin",
-        "Mikhail Gorbachev"
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Joseph Stalin"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "world-leaders-quiz-9",
       "question": "Who was the first President of the United States?",
       "options": [
-        "John Adams",
         "Thomas Jefferson",
-        "George Washington",
-        "Benjamin Franklin"
+        "Benjamin Franklin",
+        "John Adams",
+        "George Washington"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-leaders-quiz-10",
       "question": "Margaret Thatcher was the first female Prime Minister of which country?",
       "options": [
-        "Australia",
-        "Canada",
         "United Kingdom",
-        "Germany"
+        "Germany",
+        "Canada",
+        "Australia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-leaders-quiz-11",
       "question": "Which leader is known as the 'Father of the Nation' in Turkey?",
       "options": [
-        "Suleiman the Magnificent",
         "Recep Tayyip Erdogan",
-        "Mustafa Kemal Atat\u00fcrk",
-        "Ismet In\u00f6n\u00fc"
+        "Suleiman the Magnificent",
+        "Mustafa Kemal Atatürk",
+        "Ismet Inönü"
       ],
       "correctAnswer": 2
     },
@@ -129,21 +129,21 @@
       "id": "world-leaders-quiz-12",
       "question": "Which U.S. President led the country during most of the Great Depression and World War II?",
       "options": [
-        "Harry S. Truman",
+        "Franklin D. Roosevelt",
         "Herbert Hoover",
         "Dwight D. Eisenhower",
-        "Franklin D. Roosevelt"
+        "Harry S. Truman"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": "world-leaders-quiz-13",
       "question": "Fidel Castro led a revolution and became the leader of which country in 1959?",
       "options": [
-        "Venezuela",
-        "Cuba",
         "Mexico",
-        "Colombia"
+        "Cuba",
+        "Colombia",
+        "Venezuela"
       ],
       "correctAnswer": 1
     },
@@ -151,23 +151,23 @@
       "id": "world-leaders-quiz-14",
       "question": "Which Queen of England reigned for over 63 years in the 19th century?",
       "options": [
-        "Queen Elizabeth I",
         "Queen Anne",
         "Queen Victoria",
-        "Queen Mary"
+        "Queen Mary",
+        "Queen Elizabeth I"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-leaders-quiz-15",
       "question": "Who was the first Chancellor of a reunified Germany in 1990?",
       "options": [
-        "Willy Brandt",
-        "Helmut Schmidt",
         "Helmut Kohl",
-        "Konrad Adenauer"
+        "Konrad Adenauer",
+        "Helmut Schmidt",
+        "Willy Brandt"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

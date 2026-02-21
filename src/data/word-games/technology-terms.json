@@ -8,10 +8,10 @@
       "id": "technology-terms-1",
       "question": "What does 'Wi-Fi' stand for?",
       "options": [
-        "Wireless Fidelity",
+        "Wired Finder",
         "Wide Fiber",
         "It is a brand name and does not stand for anything specific",
-        "Wired Finder"
+        "Wireless Fidelity"
       ],
       "correctAnswer": 2
     },
@@ -19,32 +19,32 @@
       "id": "technology-terms-2",
       "question": "What is a 'browser' in computing?",
       "options": [
-        "A person who shops casually",
         "Software used to access websites on the internet",
         "A type of computer virus",
+        "A person who shops casually",
         "A file storage device"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "technology-terms-3",
       "question": "What does 'URL' stand for?",
       "options": [
-        "Universal Resource Locator",
         "Uniform Resource Locator",
         "United Reference Link",
-        "Universal Reference Library"
+        "Universal Reference Library",
+        "Universal Resource Locator"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "technology-terms-4",
       "question": "What is 'the cloud' in technology?",
       "options": [
-        "A weather app",
+        "A wireless antenna",
         "Remote servers accessed over the internet for storing and managing data",
-        "A type of computer screen",
-        "A wireless antenna"
+        "A weather app",
+        "A type of computer screen"
       ],
       "correctAnswer": 1
     },
@@ -52,45 +52,45 @@
       "id": "technology-terms-5",
       "question": "What does 'PDF' stand for?",
       "options": [
-        "Personal Data File",
-        "Portable Document Format",
         "Print Design Format",
-        "Public Data Form"
+        "Personal Data File",
+        "Public Data Form",
+        "Portable Document Format"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "technology-terms-6",
       "question": "What is 'Bluetooth' used for?",
       "options": [
-        "Dental technology",
-        "Short-range wireless communication between devices",
+        "A type of battery",
         "Blue-light screen protection",
-        "A type of battery"
+        "Short-range wireless communication between devices",
+        "Dental technology"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "technology-terms-7",
       "question": "What does 'GPS' stand for?",
       "options": [
         "General Positioning Service",
-        "Global Positioning System",
         "Geographic Point System",
+        "Global Positioning System",
         "Ground Pilot Software"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "technology-terms-8",
       "question": "What is a 'cookie' in internet terms?",
       "options": [
-        "A small treat for good browsing",
         "A small file stored on your computer by a website",
         "A type of computer virus",
+        "A small treat for good browsing",
         "An internet award"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "technology-terms-9",
@@ -107,21 +107,21 @@
       "id": "technology-terms-10",
       "question": "What is 'streaming' in technology?",
       "options": [
-        "Water flowing through a computer",
-        "Watching or listening to content in real time over the internet",
+        "Sending emails quickly",
         "Downloading files to a USB drive",
-        "Sending emails quickly"
+        "Watching or listening to content in real time over the internet",
+        "Water flowing through a computer"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "technology-terms-11",
       "question": "What does 'USB' stand for?",
       "options": [
         "Universal Serial Bus",
+        "Universal System Backup",
         "United System Board",
-        "Ultra Speed Bandwidth",
-        "Universal System Backup"
+        "Ultra Speed Bandwidth"
       ],
       "correctAnswer": 0
     },
@@ -129,45 +129,45 @@
       "id": "technology-terms-12",
       "question": "What is a 'firewall' in computing?",
       "options": [
+        "A hot computer processor",
         "A wall that prevents office fires",
         "A security system that monitors and controls network traffic",
-        "A hot computer processor",
         "A type of screen saver"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "technology-terms-13",
       "question": "What does 'HTML' stand for?",
       "options": [
-        "Hyper Text Markup Language",
-        "High Tech Modern Language",
         "Home Tool Markup Language",
+        "High Tech Modern Language",
+        "Hyper Text Markup Language",
         "Hyper Transfer Mail Link"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "technology-terms-14",
       "question": "What is 'phishing'?",
       "options": [
+        "A type of social media",
         "A computer fishing game",
-        "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy source",
         "A way to speed up your internet",
-        "A type of social media"
+        "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy source"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "technology-terms-15",
       "question": "What does 'RAM' stand for in computing?",
       "options": [
-        "Randomly Accessed Memory",
-        "Random Access Memory",
         "Read and Memorize",
-        "Rapid Application Module"
+        "Rapid Application Module",
+        "Randomly Accessed Memory",
+        "Random Access Memory"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

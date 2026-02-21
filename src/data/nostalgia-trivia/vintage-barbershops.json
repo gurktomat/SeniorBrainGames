@@ -7,91 +7,166 @@
     {
       "id": "vintage-barbershops-1",
       "question": "What do the colors on a traditional barbershop pole represent?",
-      "options": ["The American flag", "Blood, bandages, and veins", "The barber's guild colors", "Hot water, cold water, and soap"],
+      "options": [
+        "The American flag",
+        "Blood, bandages, and veins",
+        "Hot water, cold water, and soap",
+        "The barber's guild colors"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-barbershops-2",
       "question": "In addition to cutting hair, what medical procedure did barbers historically perform?",
-      "options": ["Setting broken bones", "Bloodletting", "Removing tonsils", "Prescribing medications"],
-      "correctAnswer": 1
+      "options": [
+        "Bloodletting",
+        "Prescribing medications",
+        "Removing tonsils",
+        "Setting broken bones"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-barbershops-3",
       "question": "What was the name of the popular hair tonic widely used in barbershops during the 1950s and 1960s?",
-      "options": ["Brylcreem", "Old Spice", "Aqua Velva", "Pinaud"],
+      "options": [
+        "Brylcreem",
+        "Old Spice",
+        "Pinaud",
+        "Aqua Velva"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "vintage-barbershops-4",
       "question": "What type of razor was traditionally used by barbers for a close shave?",
-      "options": ["Safety razor", "Electric razor", "Straight razor", "Disposable razor"],
-      "correctAnswer": 2
+      "options": [
+        "Straight razor",
+        "Disposable razor",
+        "Electric razor",
+        "Safety razor"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-barbershops-5",
       "question": "What was a common feature found in many barbershops for waiting customers?",
-      "options": ["A jukebox", "A shoe shine stand", "A pool table", "A candy counter"],
+      "options": [
+        "A pool table",
+        "A shoe shine stand",
+        "A jukebox",
+        "A candy counter"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-barbershops-6",
       "question": "What is the name of the warm lather applied to the face before a straight razor shave?",
-      "options": ["Shaving cream", "Hot towel compress", "Shaving soap lather", "Aftershave balm"],
+      "options": [
+        "Shaving cream",
+        "Hot towel compress",
+        "Shaving soap lather",
+        "Aftershave balm"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-barbershops-7",
       "question": "The barbershop quartet singing tradition became widely popular in which country?",
-      "options": ["England", "Germany", "United States", "Italy"],
-      "correctAnswer": 2
+      "options": [
+        "Italy",
+        "England",
+        "Germany",
+        "United States"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-barbershops-8",
       "question": "What was a 'strop' used for in a traditional barbershop?",
-      "options": ["Tying the barber's apron", "Sharpening a straight razor", "Holding hot towels", "Mixing hair tonic"],
+      "options": [
+        "Mixing hair tonic",
+        "Sharpening a straight razor",
+        "Tying the barber's apron",
+        "Holding hot towels"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-barbershops-9",
       "question": "What popular men's hairstyle of the 1950s was often created at the barbershop using pomade?",
-      "options": ["The buzz cut", "The pompadour", "The bowl cut", "The crew cut"],
-      "correctAnswer": 1
+      "options": [
+        "The pompadour",
+        "The bowl cut",
+        "The crew cut",
+        "The buzz cut"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-barbershops-10",
       "question": "What antiseptic liquid was commonly kept in a jar on the barber's counter to disinfect combs?",
-      "options": ["Rubbing alcohol", "Barbicide", "Hydrogen peroxide", "Witch hazel"],
-      "correctAnswer": 1
+      "options": [
+        "Hydrogen peroxide",
+        "Rubbing alcohol",
+        "Barbicide",
+        "Witch hazel"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-barbershops-11",
       "question": "What was the traditional cost of a haircut at most barbershops in the 1950s?",
-      "options": ["5 cents", "25 cents", "75 cents to one dollar", "Three dollars"],
-      "correctAnswer": 2
+      "options": [
+        "25 cents",
+        "75 cents to one dollar",
+        "Three dollars",
+        "5 cents"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "vintage-barbershops-12",
       "question": "What was the purpose of the hot towel treatment given during a barbershop shave?",
-      "options": ["To dry the face quickly", "To soften the beard and open pores", "To apply aftershave", "To remove excess hair"],
-      "correctAnswer": 1
+      "options": [
+        "To remove excess hair",
+        "To apply aftershave",
+        "To dry the face quickly",
+        "To soften the beard and open pores"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-barbershops-13",
       "question": "What classic aftershave brand, known for its green bottle, was a barbershop staple?",
-      "options": ["Brut", "Clubman Pinaud", "English Leather", "Hai Karate"],
-      "correctAnswer": 1
+      "options": [
+        "Hai Karate",
+        "English Leather",
+        "Brut",
+        "Clubman Pinaud"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-barbershops-14",
       "question": "In medieval times, barbers were also known by what title due to their surgical duties?",
-      "options": ["Barber-dentists", "Barber-surgeons", "Barber-physicians", "Barber-apothecaries"],
-      "correctAnswer": 1
+      "options": [
+        "Barber-physicians",
+        "Barber-apothecaries",
+        "Barber-dentists",
+        "Barber-surgeons"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-barbershops-15",
       "question": "What piece of fabric was traditionally draped around a customer's neck to keep hair off their clothes?",
-      "options": ["A smock", "A barber's cape", "A neck strip and cloth", "A towel wrap"],
+      "options": [
+        "A smock",
+        "A barber's cape",
+        "A neck strip and cloth",
+        "A towel wrap"
+      ],
       "correctAnswer": 2
     }
   ]

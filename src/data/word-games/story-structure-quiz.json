@@ -1,0 +1,173 @@
+{
+  "id": "story-structure-quiz",
+  "title": "Story Structure Quiz",
+  "description": "Explore the building blocks of great stories, from exposition to resolution",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "story-structure-quiz-1",
+      "question": "In the traditional five-part story structure, what comes first?",
+      "options": [
+        "Rising action",
+        "Exposition",
+        "Climax",
+        "Falling action"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "story-structure-quiz-2",
+      "question": "What is the 'exposition' of a story?",
+      "options": [
+        "A flashback scene",
+        "The final resolution",
+        "The most exciting part of the story",
+        "The introduction of characters, setting, and background information"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "story-structure-quiz-3",
+      "question": "What is the 'climax' of a story?",
+      "options": [
+        "The opening scene",
+        "The turning point or moment of highest tension",
+        "The background information",
+        "The ending"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "story-structure-quiz-4",
+      "question": "What is the 'denouement'?",
+      "options": [
+        "The opening paragraph",
+        "The rising action",
+        "The inciting incident",
+        "The final part where loose ends are tied up after the climax"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "story-structure-quiz-5",
+      "question": "What is an 'inciting incident'?",
+      "options": [
+        "The moral of the story",
+        "A minor subplot",
+        "The event that sets the main conflict of the story in motion",
+        "The final battle in the story"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "story-structure-quiz-6",
+      "question": "What is 'rising action'?",
+      "options": [
+        "The conclusion of the story",
+        "The opening description of the setting",
+        "Events that build tension and develop the conflict leading to the climax",
+        "A character's internal monologue"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "story-structure-quiz-7",
+      "question": "What is 'falling action'?",
+      "options": [
+        "The introduction of the main character",
+        "A scene where a character literally falls",
+        "The point of highest tension",
+        "Events that happen after the climax, leading toward resolution"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "story-structure-quiz-8",
+      "question": "What is the 'Hero's Journey' (monomyth)?",
+      "options": [
+        "A narrative framework where a hero goes on an adventure, faces a crisis, wins, and returns transformed",
+        "A story told from a hero's first-person perspective",
+        "A story about a real historical hero",
+        "A genre of superhero fiction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "story-structure-quiz-9",
+      "question": "Who popularized the concept of the 'Hero's Journey'?",
+      "options": [
+        "William Shakespeare",
+        "Joseph Campbell",
+        "Ernest Hemingway",
+        "Aristotle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "story-structure-quiz-10",
+      "question": "What is a 'subplot'?",
+      "options": [
+        "A secondary storyline that runs alongside the main plot",
+        "The main storyline",
+        "The setting of the story",
+        "The author's biography"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "story-structure-quiz-11",
+      "question": "What is 'Freytag's Pyramid'?",
+      "options": [
+        "An Egyptian monument in a novel",
+        "A type of plot twist",
+        "A method for writing dialogue",
+        "A model of dramatic structure with five parts: exposition, rising action, climax, falling action, and denouement"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "story-structure-quiz-12",
+      "question": "What is a 'red herring' in plot structure?",
+      "options": [
+        "The main conflict of the story",
+        "A clue or element intentionally placed to mislead the reader",
+        "The moral lesson of a fable",
+        "A type of fish in a cooking story"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "story-structure-quiz-13",
+      "question": "What does 'deus ex machina' mean in storytelling?",
+      "options": [
+        "An unexpected, artificial resolution that comes out of nowhere to solve a problem",
+        "The central theme of the story",
+        "A machine used in the story",
+        "A technique for building suspense"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "story-structure-quiz-14",
+      "question": "What type of ending leaves the outcome ambiguous or unresolved?",
+      "options": [
+        "Open ending",
+        "Tragic ending",
+        "Circular ending",
+        "Happy ending"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "story-structure-quiz-15",
+      "question": "What is a 'circular narrative'?",
+      "options": [
+        "A story with no conflict",
+        "A story told entirely in flashbacks",
+        "A story told in a circle of friends",
+        "A story where the ending returns to the beginning, creating a sense of completeness"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

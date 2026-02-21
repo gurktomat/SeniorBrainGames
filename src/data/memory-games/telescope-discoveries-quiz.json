@@ -1,0 +1,173 @@
+{
+  "id": "telescope-discoveries-quiz",
+  "title": "Telescope Discoveries Quiz",
+  "description": "From Galileo's first observations to the Hubble and James Webb telescopes, test your recall of discoveries made through telescopes.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "telescope-discoveries-quiz-1",
+      "question": "What did Galileo observe in 1610 that supported the heliocentric model?",
+      "options": [
+        "Saturn's rings",
+        "Jupiter's four largest moons",
+        "A supernova",
+        "Neptune"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "telescope-discoveries-quiz-2",
+      "question": "What year was the Hubble Space Telescope launched?",
+      "options": [
+        "1995",
+        "1985",
+        "1990",
+        "2000"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "telescope-discoveries-quiz-3",
+      "question": "Who discovered the planet Uranus using a telescope in 1781?",
+      "options": [
+        "Galileo Galilei",
+        "Johann Galle",
+        "William Herschel",
+        "Christiaan Huygens"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "telescope-discoveries-quiz-4",
+      "question": "What famous image taken by Hubble shows thousands of galaxies in a tiny area of sky?",
+      "options": [
+        "Pillars of Creation",
+        "Pale Blue Dot",
+        "Earth Rise",
+        "Hubble Deep Field"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-5",
+      "question": "What type of telescope uses mirrors to collect light?",
+      "options": [
+        "Reflecting telescope",
+        "Refracting telescope",
+        "Radio telescope",
+        "X-ray telescope"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "telescope-discoveries-quiz-6",
+      "question": "Which telescope, launched in 2021, is designed to see the earliest galaxies in the universe?",
+      "options": [
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Chandra X-ray Observatory",
+        "James Webb Space Telescope"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-7",
+      "question": "What did Christiaan Huygens discover about Saturn in 1655?",
+      "options": [
+        "Saturn's Great White Spot",
+        "Saturn's ring system and moon Titan",
+        "Saturn's hexagonal storm",
+        "Saturn's magnetic field"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "telescope-discoveries-quiz-8",
+      "question": "What is the Arecibo Observatory famous for?",
+      "options": [
+        "Optical observations of Mars",
+        "First images of a black hole",
+        "Discovering dark matter",
+        "Being one of the largest radio telescopes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-9",
+      "question": "Edwin Hubble's telescope observations led to what groundbreaking discovery?",
+      "options": [
+        "Stars are made of hydrogen",
+        "Pluto is a planet",
+        "Black holes exist",
+        "The universe is expanding"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-10",
+      "question": "What are the 'Pillars of Creation' photographed by Hubble?",
+      "options": [
+        "Remnants of a supernova",
+        "Columns of gas and dust in the Eagle Nebula",
+        "Saturn's rings",
+        "Galaxy clusters"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "telescope-discoveries-quiz-11",
+      "question": "Which telescope project captured the first image of a black hole in 2019?",
+      "options": [
+        "Very Large Telescope",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Event Horizon Telescope"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-12",
+      "question": "What did Galileo observe about the surface of the Moon through his telescope?",
+      "options": [
+        "It had oceans of water",
+        "It had rings like Saturn",
+        "It was perfectly smooth",
+        "It had craters and mountains"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-13",
+      "question": "What type of radiation does a radio telescope detect?",
+      "options": [
+        "Ultraviolet light",
+        "Visible light",
+        "X-rays",
+        "Radio waves"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "telescope-discoveries-quiz-14",
+      "question": "Who built the first known refracting telescope?",
+      "options": [
+        "Isaac Newton",
+        "Hans Lippershey",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "telescope-discoveries-quiz-15",
+      "question": "What did the Kepler Space Telescope discover thousands of?",
+      "options": [
+        "Exoplanets",
+        "Galaxies",
+        "Asteroids",
+        "Comets"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

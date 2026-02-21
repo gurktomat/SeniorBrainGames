@@ -10,8 +10,8 @@
       "options": [
         "Bob Hope",
         "Jerry Lewis",
-        "Abbott",
-        "Red Skelton"
+        "Red Skelton",
+        "Abbott"
       ],
       "correctAnswer": 1
     },
@@ -19,23 +19,23 @@
       "id": "famous-duos-recall-2",
       "question": "In the famous duo Simon & Garfunkel, what is Art Garfunkel's partner's first name?",
       "options": [
+        "James",
         "Peter",
         "Paul",
-        "John",
-        "James"
+        "John"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-duos-recall-3",
       "question": "Who was Sherlock Holmes' loyal companion?",
       "options": [
+        "Mycroft Holmes",
         "Dr. Watson",
         "Inspector Lestrade",
-        "Professor Moriarty",
-        "Mycroft Holmes"
+        "Professor Moriarty"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "famous-duos-recall-4",
@@ -44,7 +44,7 @@
         "Daniel Boone",
         "William Clark",
         "Kit Carson",
-        "John Fr\u00e9mont"
+        "John Frémont"
       ],
       "correctAnswer": 1
     },
@@ -52,32 +52,32 @@
       "id": "famous-duos-recall-5",
       "question": "Who was the comedy partner of Oliver Hardy?",
       "options": [
-        "Buster Keaton",
         "Charlie Chaplin",
-        "Stan Laurel",
-        "Harold Lloyd"
+        "Buster Keaton",
+        "Harold Lloyd",
+        "Stan Laurel"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-duos-recall-6",
       "question": "In the famous crime duo, who was Bonnie Parker's partner?",
       "options": [
-        "John Dillinger",
-        "Clyde Barrow",
         "Pretty Boy Floyd",
-        "Baby Face Nelson"
+        "John Dillinger",
+        "Baby Face Nelson",
+        "Clyde Barrow"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-duos-recall-7",
       "question": "Who was Batman's sidekick, also known as the Boy Wonder?",
       "options": [
-        "Alfred",
+        "Batgirl",
         "Commissioner Gordon",
         "Robin",
-        "Batgirl"
+        "Alfred"
       ],
       "correctAnswer": 2
     },
@@ -85,54 +85,54 @@
       "id": "famous-duos-recall-8",
       "question": "Who was the famous dance partner of Ginger Rogers?",
       "options": [
-        "Gene Kelly",
-        "Fred Astaire",
+        "Bob Fosse",
         "Donald O'Connor",
-        "Bob Fosse"
+        "Gene Kelly",
+        "Fred Astaire"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-duos-recall-9",
       "question": "In the comedy duo Abbott and Costello, what was Abbott's first name?",
       "options": [
-        "William",
-        "Bud",
         "Lou",
-        "George"
+        "George",
+        "Bud",
+        "William"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-duos-recall-10",
       "question": "Who was Don Quixote's faithful squire?",
       "options": [
-        "Sancho Panza",
-        "Dulcinea",
         "Rocinante",
-        "Pedro"
+        "Pedro",
+        "Dulcinea",
+        "Sancho Panza"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-duos-recall-11",
       "question": "Which Wright brother is typically listed first in the famous aviation duo?",
       "options": [
-        "Orville",
         "Wilbur",
+        "Orville",
         "Charles",
         "Howard"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-duos-recall-12",
       "question": "Who was the other half of the famous songwriting duo Rodgers and Hammerstein?",
       "options": [
-        "Cole Porter partnered with Richard Rodgers",
-        "Oscar Hammerstein wrote with Richard Rodgers",
         "George Gershwin wrote with Oscar Hammerstein",
-        "Irving Berlin wrote with Richard Rodgers"
+        "Oscar Hammerstein wrote with Richard Rodgers",
+        "Irving Berlin wrote with Richard Rodgers",
+        "Cole Porter partnered with Richard Rodgers"
       ],
       "correctAnswer": 1
     },
@@ -152,11 +152,11 @@
       "question": "Which famous couple ruled Egypt together, with the woman being the last pharaoh?",
       "options": [
         "Ramesses and Nefertiti",
-        "Tutankhamun and Ankhesenamun",
         "Mark Antony and Cleopatra",
-        "Julius Caesar and Cleopatra"
+        "Julius Caesar and Cleopatra",
+        "Tutankhamun and Ankhesenamun"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-duos-recall-15",
@@ -164,10 +164,10 @@
       "options": [
         "Jerry Seinfeld",
         "Jerry Garcia",
-        "Jerry Greenfield",
-        "Jerry Springer"
+        "Jerry Springer",
+        "Jerry Greenfield"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

@@ -1,0 +1,174 @@
+{
+  "id": "plumbing-parts-quiz",
+  "title": "Plumbing Parts Quiz",
+  "description": "How well do you know plumbing parts and fixtures? Test your knowledge of pipes, fittings, and plumbing basics.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "plumbing-parts-quiz-1",
+      "question": "What is the curved pipe under a sink called that traps water to prevent sewer gases from entering the home?",
+      "options": [
+        "Coupling",
+        "Tee fitting",
+        "P-trap",
+        "Elbow joint"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-2",
+      "question": "Which plumbing fitting connects two pipes at a 90-degree angle?",
+      "options": [
+        "Union",
+        "Tee",
+        "Coupling",
+        "Elbow"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "plumbing-parts-quiz-3",
+      "question": "What is a ball valve used for in plumbing?",
+      "options": [
+        "Filtering water",
+        "Heating water",
+        "Controlling water flow with a quarter-turn handle",
+        "Measuring water pressure"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-4",
+      "question": "Which plumbing tool is a long, flexible metal cable used to clear clogs deep in drain pipes?",
+      "options": [
+        "Pipe wrench",
+        "Drain snake (auger)",
+        "Basin wrench",
+        "Plunger"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plumbing-parts-quiz-5",
+      "question": "What is the flapper in a toilet tank?",
+      "options": [
+        "The overflow tube",
+        "The handle that activates flushing",
+        "A rubber seal that lifts to release water into the bowl when flushing",
+        "The float that controls water level"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-6",
+      "question": "Which type of pipe material, colored blue or red, is flexible and commonly used in modern residential water supply lines?",
+      "options": [
+        "PEX (cross-linked polyethylene)",
+        "Galvanized steel",
+        "Copper",
+        "Cast iron"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "plumbing-parts-quiz-7",
+      "question": "What is a T-fitting (tee) used for in plumbing?",
+      "options": [
+        "Creating a watertight seal",
+        "Connecting pipes at a T-shaped junction to split or combine flow",
+        "Connecting pipes of different materials",
+        "Reducing pipe diameter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plumbing-parts-quiz-8",
+      "question": "Which device is installed in a water heater to prevent excessive pressure buildup?",
+      "options": [
+        "Temperature and pressure relief valve (T&P valve)",
+        "Gate valve",
+        "Check valve",
+        "Backflow preventer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "plumbing-parts-quiz-9",
+      "question": "What is a coupling used for in plumbing?",
+      "options": [
+        "Capping off a pipe end",
+        "Changing the direction of a pipe",
+        "Joining two straight pieces of pipe together",
+        "Reducing pipe size"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-10",
+      "question": "Which plumbing fixture is a low-mounted basin used for personal hygiene, common in European bathrooms?",
+      "options": [
+        "Footbath",
+        "Urinal",
+        "Bidet",
+        "Sitz bath"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-11",
+      "question": "What is the purpose of a shut-off valve (stop valve) located near a fixture?",
+      "options": [
+        "Regulating water temperature",
+        "Filtering sediment",
+        "Allowing you to turn off water supply to a specific fixture for repairs",
+        "Boosting water pressure"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-12",
+      "question": "Which plumbing component prevents water from flowing backward into the clean water supply?",
+      "options": [
+        "Gate valve",
+        "Pressure regulator",
+        "Backflow preventer (check valve)",
+        "Water meter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-13",
+      "question": "What is a reducer fitting used for?",
+      "options": [
+        "Filtering debris",
+        "Measuring flow rate",
+        "Connecting two pipes of different diameters",
+        "Increasing water pressure"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plumbing-parts-quiz-14",
+      "question": "Which material is the traditional choice for drain, waste, and vent pipes in older homes?",
+      "options": [
+        "Cast iron",
+        "Copper",
+        "PVC",
+        "PEX"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "plumbing-parts-quiz-15",
+      "question": "What is a basin wrench specifically designed for?",
+      "options": [
+        "Tightening pipe unions",
+        "Removing toilet bolts",
+        "Cutting copper pipe",
+        "Reaching and tightening faucet mounting nuts in tight spaces under sinks"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

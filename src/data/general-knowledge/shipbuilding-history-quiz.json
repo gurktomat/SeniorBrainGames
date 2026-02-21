@@ -1,0 +1,219 @@
+{
+  "id": "shipbuilding-history-quiz",
+  "title": "Shipbuilding History",
+  "description": "Set sail through history with questions about shipbuilding and naval engineering!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "shipbuilding-history-quiz-1",
+      "question": "The RMS Titanic was built in which city's shipyard?",
+      "options": [
+        "Liverpool",
+        "London",
+        "Belfast",
+        "Glasgow"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Titanic was built at the Harland and Wolff shipyard in Belfast, Northern Ireland. Construction began in 1909 and the ship was launched in 1911. At the time, she was the largest ship ever built.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-2",
+      "question": "What innovation did the ironclad warship HMS Warrior (1860) introduce to naval shipbuilding?",
+      "options": [
+        "Iron armor plating over the hull",
+        "Explosive shells",
+        "Submarine capability",
+        "Steam power"
+      ],
+      "correctAnswer": 0,
+      "explanation": "HMS Warrior, launched in 1860, was the first iron-hulled, armored warship powered by a combination of steam and sail. Her iron armor plating made wooden warships obsolete and revolutionized naval warfare.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-3",
+      "question": "The 'clipper ship' era of the mid-19th century produced the fastest sailing vessels ever. What was their primary trade?",
+      "options": [
+        "Tea from China and wool from Australia",
+        "Military transport",
+        "Whaling",
+        "Slave trade"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clipper ships were built for speed and were primarily used in the tea trade from China and the wool trade from Australia. The Cutty Sark, now preserved in Greenwich, London, is the most famous surviving clipper ship.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-4",
+      "question": "What shipbuilding technique involves joining steel plates with electric arc welding instead of rivets?",
+      "options": [
+        "Carvel construction",
+        "Clinker building",
+        "Composite construction",
+        "Welded hull construction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Welded hull construction replaced riveted construction during and after World War II. Welding created stronger, lighter, and more watertight hulls that were faster to build. Liberty Ships were early mass-produced welded vessels.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "shipbuilding-history-quiz-5",
+      "question": "The Viking longships were remarkable for their ability to do what that most ships of the era could not?",
+      "options": [
+        "Dive underwater",
+        "Sail without wind",
+        "Carry cannons",
+        "Navigate in shallow rivers and be beached on shores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Viking longships had a remarkably shallow draft (as little as 50 cm) that allowed them to navigate rivers and coastal waters where other ships could not go, and their flat bottoms allowed them to be beached directly on shores.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-6",
+      "question": "Which nation built the world's first nuclear-powered submarine, the USS Nautilus, launched in 1954?",
+      "options": [
+        "United States",
+        "United Kingdom",
+        "France",
+        "Soviet Union"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The USS Nautilus (SSN-571) was the world's first nuclear-powered submarine, launched by the United States in 1954. In 1958, it became the first vessel to complete a submerged transit beneath the North Pole.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-7",
+      "question": "What is the purpose of a ship's 'keel,' the structural backbone running along the bottom?",
+      "options": [
+        "Steering the ship",
+        "Anchoring the mast",
+        "Storing cargo",
+        "Providing the primary structural backbone and stability"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The keel is the central structural member running the length of a ship's bottom. It serves as the primary structural backbone from which the hull is built, provides stability, and prevents the vessel from being pushed sideways by wind.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "shipbuilding-history-quiz-8",
+      "question": "The Liberty Ships of World War II were mass-produced at an incredible rate. At peak production, how quickly could one be built?",
+      "options": [
+        "About 6 months",
+        "About 2 weeks",
+        "About 1 year",
+        "About 42 days average"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Liberty Ships were mass-produced using prefabricated sections and welding. While the average build time was about 42 days, the SS Robert E. Peary set a record of just 4 days 15 hours from keel-laying to launch. Over 2,700 were built during the war.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-9",
+      "question": "What is a 'double hull' in modern ship design, and why is it required for oil tankers?",
+      "options": [
+        "An inner and outer hull with space between them to prevent oil spills from hull breaches",
+        "Two decks stacked on top",
+        "A reinforced hull for icebreakers",
+        "Extra insulation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A double hull has an inner and outer hull separated by a void space. After the Exxon Valdez oil spill in 1989, international regulations required oil tankers to have double hulls to prevent or reduce oil spills from grounding or collisions.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "shipbuilding-history-quiz-10",
+      "question": "Which South Korean city is home to the world's largest shipbuilding companies?",
+      "options": [
+        "Ulsan",
+        "Busan",
+        "Incheon",
+        "Seoul"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ulsan is home to Hyundai Heavy Industries, the world's largest shipbuilder. South Korea dominates global shipbuilding, with companies in Ulsan, Geoje, and other coastal cities producing a large share of the world's new commercial vessels.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-11",
+      "question": "The SS Great Eastern, designed by Isambard Kingdom Brunel, was notable for being what when launched in 1858?",
+      "options": [
+        "The first iron ship",
+        "The first steam-powered ship",
+        "The first ship with a propeller",
+        "The largest ship in the world by far, not surpassed for 40 years"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The SS Great Eastern was by far the largest ship built until the early 20th century, at 211 meters long. She was five times larger than any ship previously built and her size was not surpassed for almost 40 years.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-12",
+      "question": "What is 'displacement' in naval architecture?",
+      "options": [
+        "The speed of a ship",
+        "The weight of water a ship pushes aside, equal to the ship's weight",
+        "The distance between decks",
+        "How far a ship can travel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Displacement is the weight of water displaced (pushed aside) by a ship's hull, which equals the ship's total weight (Archimedes' principle). It is the standard measure of a ship's size and weight in naval architecture.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "shipbuilding-history-quiz-13",
+      "question": "The largest ships ever built are of which class?",
+      "options": [
+        "Aircraft carriers",
+        "Container ships",
+        "Cruise ships",
+        "Ultra Large Crude Carriers (oil tankers)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The largest ships ever built by displacement are the Seawise Giant class of Ultra Large Crude Carriers (ULCCs). The Seawise Giant (later Jahre Viking) was 458 meters long and had a deadweight tonnage of 564,763 tonnes.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "shipbuilding-history-quiz-14",
+      "question": "What construction technique did the ancient Egyptians use for their earliest boats?",
+      "options": [
+        "Carving from a single tree",
+        "Nailing wooden planks to a frame",
+        "Bundling papyrus reeds together",
+        "Using animal skins over a frame"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The earliest Egyptian boats were made by bundling papyrus reeds together, a technique still used in some parts of Africa. Later, Egyptians developed advanced wooden boat construction, as seen in the Khufu ship found near the Great Pyramid.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "shipbuilding-history-quiz-15",
+      "question": "Modern cruise ships like the Icon of the Seas can carry approximately how many passengers?",
+      "options": [
+        "6,000",
+        "8,000",
+        "2,000",
+        "4,000"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Icon of the Seas, the world's largest cruise ship as of 2024, can carry approximately 5,610 passengers (double occupancy) and has a gross tonnage of 250,800. With crew, it can have over 7,600 people aboard.",
+      "difficulty": "medium",
+      "category": "engineering"
+    }
+  ]
+}

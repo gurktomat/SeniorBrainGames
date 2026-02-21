@@ -1,0 +1,219 @@
+{
+  "id": "infectious-diseases-quiz",
+  "title": "Infectious Diseases",
+  "description": "Test your knowledge of infectious diseases throughout history!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "infectious-diseases-quiz-1",
+      "question": "What pandemic killed an estimated 50-100 million people worldwide in 1918-1919?",
+      "options": [
+        "Typhus",
+        "Bubonic plague",
+        "The Spanish Flu",
+        "Cholera"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 1918 Spanish Flu pandemic was one of the deadliest in history, infecting about one-third of the world's population and killing an estimated 50-100 million people.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-2",
+      "question": "What insect is the primary carrier of malaria?",
+      "options": [
+        "Tsetse fly",
+        "Flea",
+        "Mosquito",
+        "Tick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malaria is transmitted by infected female Anopheles mosquitoes. The disease is caused by Plasmodium parasites that infect and destroy red blood cells.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-3",
+      "question": "The Black Death, which devastated Europe in the 14th century, was caused by what?",
+      "options": [
+        "Contaminated water",
+        "A virus",
+        "A fungus",
+        "The bacterium Yersinia pestis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Black Death was caused by the bacterium Yersinia pestis, spread by fleas on rats. It killed an estimated 25-50 million Europeans between 1347 and 1351.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-4",
+      "question": "Which disease was known as the 'White Plague' due to the pallor of its victims?",
+      "options": [
+        "Tuberculosis",
+        "Smallpox",
+        "Cholera",
+        "Leprosy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tuberculosis (TB) was called the 'White Plague' because of the extreme pallor of its sufferers. It was a leading cause of death in the 19th century.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-5",
+      "question": "What type of pathogen causes influenza (the flu)?",
+      "options": [
+        "Virus",
+        "Parasite",
+        "Bacteria",
+        "Fungus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Influenza is caused by influenza viruses. There are four types: A, B, C, and D. Types A and B cause seasonal epidemics, while Type A can cause pandemics.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-6",
+      "question": "What disease did John Snow trace to a contaminated water pump in London in 1854?",
+      "options": [
+        "Dysentery",
+        "Yellow fever",
+        "Typhoid",
+        "Cholera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "John Snow identified a contaminated water pump on Broad Street as the source of a cholera outbreak, helping establish the waterborne theory of disease transmission.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-7",
+      "question": "What is the name of the virus that causes AIDS?",
+      "options": [
+        "HBV",
+        "HIV",
+        "HSV",
+        "HPV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HIV (Human Immunodeficiency Virus) causes AIDS (Acquired Immunodeficiency Syndrome). It was first identified in 1983 and attacks the immune system's CD4 cells.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-8",
+      "question": "Which disease, transmitted by the tsetse fly, is also known as 'sleeping sickness'?",
+      "options": [
+        "Dengue fever",
+        "African trypanosomiasis",
+        "Malaria",
+        "Leishmaniasis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "African trypanosomiasis, or sleeping sickness, is caused by Trypanosoma parasites transmitted by the tsetse fly. It disrupts the sleep cycle and can be fatal if untreated.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-9",
+      "question": "What disease did the antibiotic penicillin first effectively treat?",
+      "options": [
+        "Bacterial infections like staphylococcal infections",
+        "Malaria",
+        "Tuberculosis",
+        "Viral pneumonia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Penicillin was first used to treat bacterial infections, particularly staphylococcal and streptococcal infections. It saved countless lives during World War II.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-10",
+      "question": "Rabies is transmitted to humans primarily through what?",
+      "options": [
+        "Airborne droplets",
+        "Animal bites",
+        "Insect bites",
+        "Contaminated food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabies is transmitted through the bite of an infected animal, most commonly dogs, bats, and raccoons. The virus travels through the nervous system to the brain.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-11",
+      "question": "What is the term for when enough people in a population are immune to a disease, protecting those who are not?",
+      "options": [
+        "Herd immunity",
+        "Cross-immunity",
+        "Active resistance",
+        "Natural selection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Herd immunity occurs when a sufficient percentage of a population is immune to an infectious disease, either through vaccination or prior infection, reducing its spread to vulnerable individuals.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-12",
+      "question": "Which tropical disease, transmitted by Aedes mosquitoes, causes severe joint pain and is called 'breakbone fever'?",
+      "options": [
+        "Chikungunya",
+        "Zika",
+        "Dengue fever",
+        "West Nile virus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dengue fever is called 'breakbone fever' due to the severe muscle and joint pain it causes. It is transmitted by Aedes mosquitoes and affects millions of people annually.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-13",
+      "question": "What is the difference between an epidemic and a pandemic?",
+      "options": [
+        "An epidemic lasts longer",
+        "They are the same thing",
+        "An epidemic is more deadly",
+        "A pandemic spreads across multiple countries or continents"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An epidemic is a disease outbreak within a specific community or region, while a pandemic is an epidemic that has spread across multiple countries or continents.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-14",
+      "question": "What disease, once called 'consumption,' was the leading cause of death in the 19th century?",
+      "options": [
+        "Cholera",
+        "Smallpox",
+        "Typhoid fever",
+        "Tuberculosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tuberculosis was called 'consumption' because of how the disease seemed to consume its victims, causing weight loss and wasting. It killed one in four Europeans in the 19th century.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "infectious-diseases-quiz-15",
+      "question": "What is antibiotic resistance?",
+      "options": [
+        "When antibiotics expire",
+        "When viruses become stronger",
+        "When bacteria evolve to survive antibiotic treatment",
+        "When people are allergic to antibiotics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antibiotic resistance occurs when bacteria evolve to survive antibiotic treatment. Overuse and misuse of antibiotics accelerate this process, creating 'superbugs' that are difficult to treat.",
+      "difficulty": "medium",
+      "category": "health"
+    }
+  ]
+}

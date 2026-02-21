@@ -7,92 +7,167 @@
     {
       "id": "famous-twins-1",
       "question": "In Roman mythology, which twin brothers were said to have founded the city of Rome?",
-      "options": ["Castor and Pollux", "Romulus and Remus", "Apollo and Artemis", "Hercules and Iphicles"],
-      "correctAnswer": 1
+      "options": [
+        "Romulus and Remus",
+        "Apollo and Artemis",
+        "Hercules and Iphicles",
+        "Castor and Pollux"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-2",
       "question": "Mary-Kate and Ashley Olsen became famous as child actresses sharing which role on a TV sitcom?",
-      "options": ["Stephanie Tanner", "Michelle Tanner", "D.J. Tanner", "Kimmy Gibbler"],
-      "correctAnswer": 1
+      "options": [
+        "Michelle Tanner",
+        "Stephanie Tanner",
+        "Kimmy Gibbler",
+        "D.J. Tanner"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-3",
       "question": "In Greek mythology, Castor and Pollux are collectively known by what name?",
-      "options": ["The Argonauts", "The Dioscuri", "The Titans", "The Olympians"],
+      "options": [
+        "The Titans",
+        "The Dioscuri",
+        "The Olympians",
+        "The Argonauts"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-twins-4",
       "question": "Chang and Eng Bunker, born in Siam (now Thailand) in 1811, were famous for being what?",
-      "options": ["Royal princes", "Conjoined twins", "Military generals", "Merchant traders"],
-      "correctAnswer": 1
+      "options": [
+        "Military generals",
+        "Merchant traders",
+        "Royal princes",
+        "Conjoined twins"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-twins-5",
       "question": "Which twin brothers are credited with co-founding the Winklevoss Capital Management firm and were depicted in 'The Social Network'?",
-      "options": ["The Koch brothers", "The Winklevoss twins", "The Warner brothers", "The Wright brothers"],
-      "correctAnswer": 1
+      "options": [
+        "The Winklevoss twins",
+        "The Wright brothers",
+        "The Warner brothers",
+        "The Koch brothers"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-6",
       "question": "In the Bible, which twins were the sons of Isaac and Rebekah?",
-      "options": ["Cain and Abel", "Jacob and Esau", "Moses and Aaron", "David and Jonathan"],
-      "correctAnswer": 1
+      "options": [
+        "David and Jonathan",
+        "Moses and Aaron",
+        "Jacob and Esau",
+        "Cain and Abel"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-twins-7",
       "question": "The Kray twins, Ronnie and Reggie, were notorious gangsters in which city during the 1950s and 1960s?",
-      "options": ["New York", "Chicago", "London", "Dublin"],
+      "options": [
+        "Chicago",
+        "New York",
+        "London",
+        "Dublin"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-twins-8",
       "question": "In Shakespeare's play 'Twelfth Night,' the twins Viola and Sebastian are separated by what event?",
-      "options": ["A war", "A shipwreck", "A kidnapping", "A plague"],
-      "correctAnswer": 1
+      "options": [
+        "A shipwreck",
+        "A kidnapping",
+        "A plague",
+        "A war"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-9",
       "question": "Which famous advice columnists were twin sisters known as 'Dear Abby' and 'Ann Landers'?",
-      "options": ["Pauline and Esther Friedman", "Jane and Joan Smith", "Martha and Mary Wilson", "Ruth and Rose Johnson"],
-      "correctAnswer": 0
+      "options": [
+        "Jane and Joan Smith",
+        "Ruth and Rose Johnson",
+        "Pauline and Esther Friedman",
+        "Martha and Mary Wilson"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-twins-10",
       "question": "In the movie 'The Parent Trap' (1961 and 1998), twin sisters discover each other at what type of location?",
-      "options": ["A boarding school", "A summer camp", "A theme park", "A shopping mall"],
-      "correctAnswer": 1
+      "options": [
+        "A summer camp",
+        "A boarding school",
+        "A shopping mall",
+        "A theme park"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-11",
       "question": "Apollo and Artemis are twin deities in Greek mythology. What was Artemis the goddess of?",
-      "options": ["Love", "Wisdom", "The hunt", "Agriculture"],
-      "correctAnswer": 2
+      "options": [
+        "Agriculture",
+        "Love",
+        "Wisdom",
+        "The hunt"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-twins-12",
       "question": "The 'Minnesota Twin Study,' begun in 1979, studied twins raised apart to research what?",
-      "options": ["Language development", "Nature versus nurture", "Physical health", "Educational outcomes"],
-      "correctAnswer": 1
+      "options": [
+        "Language development",
+        "Educational outcomes",
+        "Nature versus nurture",
+        "Physical health"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-twins-13",
       "question": "Twin musicians Tegan and Sara Quin are from which country?",
-      "options": ["United States", "Australia", "Canada", "United Kingdom"],
-      "correctAnswer": 2
+      "options": [
+        "Canada",
+        "Australia",
+        "United States",
+        "United Kingdom"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-twins-14",
       "question": "In the zodiac, the constellation Gemini represents which concept?",
-      "options": ["The Bull", "The Twins", "The Fish", "The Scales"],
+      "options": [
+        "The Scales",
+        "The Twins",
+        "The Bull",
+        "The Fish"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-twins-15",
       "question": "Which famous twin brothers directed the film 'No Country for Old Men'?",
-      "options": ["The Farrelly Brothers", "The Wachowski Siblings", "The Coen Brothers", "The Russo Brothers"],
-      "correctAnswer": 2
+      "options": [
+        "The Farrelly Brothers",
+        "The Coen Brothers",
+        "The Russo Brothers",
+        "The Wachowski Siblings"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

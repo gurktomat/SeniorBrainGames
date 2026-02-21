@@ -1,0 +1,173 @@
+{
+  "id": "espionage-intelligence-quiz",
+  "title": "Espionage & Intelligence",
+  "description": "Delve into the shadowy world of spies, intelligence agencies, and covert operations throughout history",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "espionage-intelligence-quiz-1",
+      "question": "The CIA (Central Intelligence Agency) was established in which year?",
+      "options": [
+        "1960",
+        "1947",
+        "1942",
+        "1952"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "espionage-intelligence-quiz-2",
+      "question": "MI6, the foreign intelligence service of which country, is featured prominently in James Bond novels?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "United States",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-3",
+      "question": "The KGB was the main security and intelligence agency of which country?",
+      "options": [
+        "Cuba",
+        "China",
+        "East Germany",
+        "Soviet Union"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "espionage-intelligence-quiz-4",
+      "question": "During World War II, the Enigma machine was a cipher device used by which country's military?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Japan",
+        "United States"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-5",
+      "question": "Which British mathematician led the team at Bletchley Park that cracked the Enigma code?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "Stephen Hawking",
+        "Isaac Newton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "espionage-intelligence-quiz-6",
+      "question": "The Mossad is the national intelligence agency of which country?",
+      "options": [
+        "Turkey",
+        "Egypt",
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "espionage-intelligence-quiz-7",
+      "question": "Julius and Ethel Rosenberg were executed in 1953 for passing secrets about what to the Soviet Union?",
+      "options": [
+        "Jet engine designs",
+        "Radar systems",
+        "Nuclear weapons",
+        "Submarine technology"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "espionage-intelligence-quiz-8",
+      "question": "The Stasi was the feared secret police of which country during the Cold War?",
+      "options": [
+        "East Germany",
+        "Soviet Union",
+        "Czechoslovakia",
+        "Romania"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-9",
+      "question": "Which famous Dutch exotic dancer was executed in 1917 as a spy during World War I?",
+      "options": [
+        "Mata Hari",
+        "Virginia Hall",
+        "Violette Szabo",
+        "Josephine Baker"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-10",
+      "question": "The U-2 incident of 1960 involved a spy plane from which country being shot down over the Soviet Union?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "West Germany",
+        "United States"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "espionage-intelligence-quiz-11",
+      "question": "The OSS (Office of Strategic Services) was the predecessor to which intelligence agency?",
+      "options": [
+        "CIA",
+        "NSA",
+        "DIA",
+        "FBI"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-12",
+      "question": "The Cambridge Five were a ring of spies who passed British secrets to which country?",
+      "options": [
+        "China",
+        "Soviet Union",
+        "Germany",
+        "Japan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "espionage-intelligence-quiz-13",
+      "question": "Which organization was revealed by Edward Snowden in 2013 to be conducting mass surveillance programs?",
+      "options": [
+        "NSA",
+        "FBI",
+        "CIA",
+        "DHS"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "espionage-intelligence-quiz-14",
+      "question": "During the American Revolution, Nathan Hale is remembered for which famous last words before being executed as a spy?",
+      "options": [
+        "These are the times that try men's souls",
+        "I only regret that I have but one life to lose for my country",
+        "Give me liberty or give me death",
+        "Don't fire until you see the whites of their eyes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "espionage-intelligence-quiz-15",
+      "question": "Operation Paperclip was a secret U.S. program to recruit scientists from which country after World War II?",
+      "options": [
+        "Japan",
+        "Italy",
+        "Germany",
+        "Soviet Union"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

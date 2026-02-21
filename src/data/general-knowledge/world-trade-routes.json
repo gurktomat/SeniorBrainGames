@@ -8,7 +8,12 @@
     {
       "id": "world-trade-routes-1",
       "question": "The ancient Silk Road connected China primarily to which region?",
-      "options": ["Sub-Saharan Africa", "The Mediterranean and Europe", "South America", "Australia"],
+      "options": [
+        "Sub-Saharan Africa",
+        "The Mediterranean and Europe",
+        "South America",
+        "Australia"
+      ],
       "correctAnswer": 1,
       "explanation": "The Silk Road was a network of trade routes connecting China to the Mediterranean region and Europe, spanning about 4,000 miles. It facilitated trade in silk, spices, gems, and ideas for over 1,500 years.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "world-trade-routes-2",
       "question": "Who gave the Silk Road its name?",
-      "options": ["Marco Polo", "Ferdinand von Richthofen", "Genghis Khan", "Alexander the Great"],
-      "correctAnswer": 1,
+      "options": [
+        "Genghis Khan",
+        "Marco Polo",
+        "Ferdinand von Richthofen",
+        "Alexander the Great"
+      ],
+      "correctAnswer": 2,
       "explanation": "German geographer Ferdinand von Richthofen coined the term 'Silk Road' (Seidenstraße) in 1877. The name reflects silk's importance as a major trade commodity, though many other goods were also transported.",
       "difficulty": "hard",
       "category": "history"
@@ -26,8 +36,13 @@
     {
       "id": "world-trade-routes-3",
       "question": "Which valuable commodity was the primary good traded along the ancient 'Spice Route'?",
-      "options": ["Gold and silver", "Cinnamon, pepper, and cloves", "Wheat and barley", "Cotton and wool"],
-      "correctAnswer": 1,
+      "options": [
+        "Cinnamon, pepper, and cloves",
+        "Wheat and barley",
+        "Cotton and wool",
+        "Gold and silver"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Spice Route connected Southeast Asia and India to Europe, primarily trading cinnamon, pepper, cloves, nutmeg, and other spices. These spices were so valuable they were sometimes worth more than gold by weight.",
       "difficulty": "easy",
       "category": "history"
@@ -35,8 +50,13 @@
     {
       "id": "world-trade-routes-4",
       "question": "Which European nation dominated the spice trade in the 16th century after finding a sea route to India?",
-      "options": ["Spain", "England", "Portugal", "Netherlands"],
-      "correctAnswer": 2,
+      "options": [
+        "Portugal",
+        "Netherlands",
+        "England",
+        "Spain"
+      ],
+      "correctAnswer": 0,
       "explanation": "Portugal dominated the spice trade in the early 16th century after Vasco da Gama found the sea route to India in 1498. This allowed Portugal to bypass the overland routes controlled by Arab and Venetian traders.",
       "difficulty": "medium",
       "category": "history"
@@ -44,8 +64,13 @@
     {
       "id": "world-trade-routes-5",
       "question": "The 'Triangular Trade' of the 17th-18th centuries connected which three regions?",
-      "options": ["Europe, Asia, and Australia", "Europe, Africa, and the Americas", "Asia, Africa, and the Americas", "Europe, the Middle East, and India"],
-      "correctAnswer": 1,
+      "options": [
+        "Europe, Asia, and Australia",
+        "Europe, the Middle East, and India",
+        "Europe, Africa, and the Americas",
+        "Asia, Africa, and the Americas"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Triangular Trade connected Europe, Africa, and the Americas. European manufactured goods went to Africa, enslaved people were taken to the Americas, and raw materials like sugar, tobacco, and cotton went to Europe.",
       "difficulty": "medium",
       "category": "history"
@@ -53,8 +78,13 @@
     {
       "id": "world-trade-routes-6",
       "question": "Which ancient trade route transported frankincense and myrrh from southern Arabia to the Mediterranean?",
-      "options": ["The Amber Road", "The Incense Route", "The King's Highway", "The Royal Road"],
-      "correctAnswer": 1,
+      "options": [
+        "The Incense Route",
+        "The Royal Road",
+        "The King's Highway",
+        "The Amber Road"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Incense Route was a network of trading paths stretching from southern Arabia (modern Yemen and Oman) through the Arabian Peninsula to the Mediterranean. Frankincense and myrrh were highly prized for religious and medicinal use.",
       "difficulty": "medium",
       "category": "history"
@@ -62,8 +92,13 @@
     {
       "id": "world-trade-routes-7",
       "question": "Which famous explorer's voyage in 1492 was motivated by finding a western sea route to the spice-rich Indies?",
-      "options": ["Vasco da Gama", "Ferdinand Magellan", "Christopher Columbus", "Bartolomeu Dias"],
-      "correctAnswer": 2,
+      "options": [
+        "Bartolomeu Dias",
+        "Vasco da Gama",
+        "Ferdinand Magellan",
+        "Christopher Columbus"
+      ],
+      "correctAnswer": 3,
       "explanation": "Christopher Columbus sailed west from Spain in 1492, seeking a new trade route to Asia's spice markets. Instead, he reached the Americas, which he initially believed were part of the East Indies.",
       "difficulty": "easy",
       "category": "history"
@@ -71,7 +106,12 @@
     {
       "id": "world-trade-routes-8",
       "question": "The Amber Road was an ancient trade route that transported amber from the Baltic Sea to which destination?",
-      "options": ["China", "The Mediterranean", "India", "Egypt"],
+      "options": [
+        "Egypt",
+        "The Mediterranean",
+        "China",
+        "India"
+      ],
       "correctAnswer": 1,
       "explanation": "The Amber Road connected the Baltic Sea region to the Mediterranean, primarily to Rome and Greece. Amber, fossilized tree resin, was highly valued for jewelry and was believed to have medicinal properties.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "world-trade-routes-9",
       "question": "Which canal, opened in 1869, dramatically shortened the trade route between Europe and Asia?",
-      "options": ["Panama Canal", "Suez Canal", "Kiel Canal", "Corinth Canal"],
-      "correctAnswer": 1,
+      "options": [
+        "Corinth Canal",
+        "Panama Canal",
+        "Kiel Canal",
+        "Suez Canal"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Suez Canal, opened in 1869 in Egypt, connected the Mediterranean Sea to the Red Sea, eliminating the need to sail around Africa. It reduced the voyage from London to Mumbai by approximately 6,000 miles.",
       "difficulty": "easy",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "world-trade-routes-10",
       "question": "What was the primary good traded along the Trans-Saharan trade routes?",
-      "options": ["Silk and porcelain", "Salt and gold", "Spices and tea", "Wool and cotton"],
-      "correctAnswer": 1,
+      "options": [
+        "Wool and cotton",
+        "Silk and porcelain",
+        "Salt and gold",
+        "Spices and tea"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Trans-Saharan trade routes primarily carried salt from northern mines to West Africa and gold from West African mines northward. Salt was so valuable in West Africa that it was sometimes traded ounce for ounce with gold.",
       "difficulty": "medium",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "world-trade-routes-11",
       "question": "Which famous Venetian merchant traveled the Silk Road to China in the 13th century and wrote about his experiences?",
-      "options": ["Christopher Columbus", "Amerigo Vespucci", "Marco Polo", "Giovanni Caboto"],
-      "correctAnswer": 2,
+      "options": [
+        "Amerigo Vespucci",
+        "Marco Polo",
+        "Giovanni Caboto",
+        "Christopher Columbus"
+      ],
+      "correctAnswer": 1,
       "explanation": "Marco Polo traveled the Silk Road to China around 1271 and spent about 17 years in the court of Kublai Khan. His book 'The Travels of Marco Polo' inspired European exploration for centuries.",
       "difficulty": "easy",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "world-trade-routes-12",
       "question": "The Dutch East India Company, one of the most powerful trading companies in history, was founded in which year?",
-      "options": ["1492", "1580", "1602", "1650"],
-      "correctAnswer": 2,
+      "options": [
+        "1492",
+        "1602",
+        "1580",
+        "1650"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Dutch East India Company (VOC) was founded in 1602 and is often considered the first multinational corporation and the first to issue stock. It dominated the spice trade for nearly 200 years.",
       "difficulty": "medium",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "world-trade-routes-13",
       "question": "Which strait, connecting the Indian Ocean and the Pacific Ocean, is one of the busiest shipping lanes in the world?",
-      "options": ["Strait of Gibraltar", "Strait of Hormuz", "Strait of Malacca", "Bosporus Strait"],
-      "correctAnswer": 2,
+      "options": [
+        "Strait of Malacca",
+        "Bosporus Strait",
+        "Strait of Hormuz",
+        "Strait of Gibraltar"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Strait of Malacca, between Malaysia and the Indonesian island of Sumatra, carries about 25% of all world trade. It is the shortest sea route between the Indian Ocean and the Pacific Ocean.",
       "difficulty": "medium",
       "category": "history"
@@ -125,8 +190,13 @@
     {
       "id": "world-trade-routes-14",
       "question": "The ancient Persian 'Royal Road' built by Darius I stretched from Susa to which city?",
-      "options": ["Athens", "Sardis", "Babylon", "Memphis"],
-      "correctAnswer": 1,
+      "options": [
+        "Memphis",
+        "Athens",
+        "Sardis",
+        "Babylon"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Royal Road of the Persian Empire ran from Susa (in modern Iran) to Sardis (in modern Turkey), a distance of about 1,677 miles. Mounted couriers could travel the entire length in about seven days.",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "world-trade-routes-15",
       "question": "What major canal opened in 1914, connecting the Atlantic and Pacific Oceans?",
-      "options": ["Suez Canal", "Erie Canal", "Panama Canal", "Manchester Ship Canal"],
-      "correctAnswer": 2,
+      "options": [
+        "Erie Canal",
+        "Manchester Ship Canal",
+        "Suez Canal",
+        "Panama Canal"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Panama Canal opened on August 15, 1914, cutting through the Isthmus of Panama. It eliminated the need to sail around South America, reducing the voyage from New York to San Francisco by about 8,000 miles.",
       "difficulty": "easy",
       "category": "history"

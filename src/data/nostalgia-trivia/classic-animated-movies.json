@@ -7,92 +7,167 @@
     {
       "id": "classic-animated-movies-1",
       "question": "What was Walt Disney's first full-length animated feature film, released in 1937?",
-      "options": ["Pinocchio", "Snow White and the Seven Dwarfs", "Fantasia", "Bambi"],
-      "correctAnswer": 1
+      "options": [
+        "Fantasia",
+        "Pinocchio",
+        "Bambi",
+        "Snow White and the Seven Dwarfs"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-animated-movies-2",
       "question": "In the 1940 Disney film 'Fantasia,' which famous piece of music accompanies Mickey Mouse as the Sorcerer's Apprentice?",
-      "options": ["The Nutcracker Suite", "Night on Bald Mountain", "The Sorcerer's Apprentice by Paul Dukas", "Rite of Spring"],
-      "correctAnswer": 2
+      "options": [
+        "The Sorcerer's Apprentice by Paul Dukas",
+        "The Nutcracker Suite",
+        "Rite of Spring",
+        "Night on Bald Mountain"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-animated-movies-3",
       "question": "What was the name of the fairy who accompanied Pinocchio in the 1940 Disney film?",
-      "options": ["Tinker Bell", "The Blue Fairy", "Flora", "Fauna"],
-      "correctAnswer": 1
+      "options": [
+        "Flora",
+        "Fauna",
+        "Tinker Bell",
+        "The Blue Fairy"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-animated-movies-4",
       "question": "Which 1942 Disney film featured the line 'If you can't say something nice, don't say nothing at all'?",
-      "options": ["Dumbo", "Bambi", "Cinderella", "Pinocchio"],
+      "options": [
+        "Pinocchio",
+        "Bambi",
+        "Cinderella",
+        "Dumbo"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-animated-movies-5",
       "question": "In 'Cinderella' (1950), what time did the spell break at the ball?",
-      "options": ["Midnight", "11 o'clock", "Dawn", "Sunset"],
-      "correctAnswer": 0
+      "options": [
+        "Sunset",
+        "11 o'clock",
+        "Midnight",
+        "Dawn"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-animated-movies-6",
       "question": "Which Disney animated film from 1955 featured Siamese cats singing 'We Are Siamese'?",
-      "options": ["The Aristocats", "Lady and the Tramp", "101 Dalmatians", "The Jungle Book"],
-      "correctAnswer": 1
+      "options": [
+        "101 Dalmatians",
+        "The Jungle Book",
+        "Lady and the Tramp",
+        "The Aristocats"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-animated-movies-7",
       "question": "What was the name of the dragon in the 1959 Disney film 'Sleeping Beauty'?",
-      "options": ["Smaug", "Maleficent", "Figment", "She transformed into the dragon herself"],
-      "correctAnswer": 3
+      "options": [
+        "Smaug",
+        "She transformed into the dragon herself",
+        "Figment",
+        "Maleficent"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-animated-movies-8",
       "question": "Which 1961 Disney film featured Cruella de Vil as its villain?",
-      "options": ["The Aristocats", "Lady and the Tramp", "101 Dalmatians", "The Fox and the Hound"],
-      "correctAnswer": 2
+      "options": [
+        "The Fox and the Hound",
+        "101 Dalmatians",
+        "Lady and the Tramp",
+        "The Aristocats"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-animated-movies-9",
       "question": "In 'The Jungle Book' (1967), what type of animal is Baloo?",
-      "options": ["Orangutan", "Gorilla", "Bear", "Panther"],
+      "options": [
+        "Orangutan",
+        "Panther",
+        "Bear",
+        "Gorilla"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-animated-movies-10",
       "question": "Which classic Fleischer Studios character starred in cartoons starting in 1930 and was known for her flirtatious personality?",
-      "options": ["Olive Oyl", "Betty Boop", "Minnie Mouse", "Daisy Duck"],
-      "correctAnswer": 1
+      "options": [
+        "Minnie Mouse",
+        "Daisy Duck",
+        "Olive Oyl",
+        "Betty Boop"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-animated-movies-11",
       "question": "What was the first animated film to be nominated for the Academy Award for Best Picture?",
-      "options": ["Snow White and the Seven Dwarfs", "Beauty and the Beast", "The Lion King", "Fantasia"],
-      "correctAnswer": 1
+      "options": [
+        "Snow White and the Seven Dwarfs",
+        "The Lion King",
+        "Beauty and the Beast",
+        "Fantasia"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-animated-movies-12",
       "question": "In Disney's 'Alice in Wonderland' (1951), what does the Cheshire Cat famously do?",
-      "options": ["Dances a jig", "Disappears leaving only his grin", "Sings opera", "Turns into a butterfly"],
-      "correctAnswer": 1
+      "options": [
+        "Dances a jig",
+        "Sings opera",
+        "Turns into a butterfly",
+        "Disappears leaving only his grin"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-animated-movies-13",
       "question": "Which 1970 Disney animated film was set in Paris and featured a mother cat and her three kittens?",
-      "options": ["Lady and the Tramp", "101 Dalmatians", "The Aristocats", "Oliver & Company"],
-      "correctAnswer": 2
+      "options": [
+        "The Aristocats",
+        "Oliver & Company",
+        "Lady and the Tramp",
+        "101 Dalmatians"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-animated-movies-14",
       "question": "What was the last animated film personally supervised by Walt Disney before his death in 1966?",
-      "options": ["The Sword in the Stone", "The Jungle Book", "The Aristocats", "Robin Hood"],
-      "correctAnswer": 1
+      "options": [
+        "The Jungle Book",
+        "Robin Hood",
+        "The Aristocats",
+        "The Sword in the Stone"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-animated-movies-15",
       "question": "In 'Dumbo' (1941), what gives Dumbo the confidence to fly?",
-      "options": ["A pep talk from his mother", "A magic feather", "A wizard's spell", "Pixie dust"],
-      "correctAnswer": 1
+      "options": [
+        "A magic feather",
+        "A wizard's spell",
+        "Pixie dust",
+        "A pep talk from his mother"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

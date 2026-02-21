@@ -1,0 +1,219 @@
+{
+  "id": "space-race-events-quiz",
+  "title": "Space Race Events Quiz",
+  "description": "How well do you recall the thrilling milestones of the Space Race?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "space-race-events-quiz-1",
+      "question": "In what year did the Soviet Union launch Sputnik, the first artificial satellite?",
+      "options": [
+        "1959",
+        "1961",
+        "1955",
+        "1957"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Soviet Union launched Sputnik 1 on October 4, 1957, marking the beginning of the Space Age and the Space Race.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-2",
+      "question": "Who was the first human to orbit the Earth?",
+      "options": [
+        "Yuri Gagarin",
+        "John Glenn",
+        "Alan Shepard",
+        "Valentina Tereshkova"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, orbiting Earth aboard Vostok 1.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-3",
+      "question": "Who was the first American to orbit the Earth?",
+      "options": [
+        "Alan Shepard",
+        "Scott Carpenter",
+        "John Glenn",
+        "Gus Grissom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Glenn orbited the Earth three times on February 20, 1962, aboard Friendship 7, becoming a national hero.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-4",
+      "question": "On what date did Neil Armstrong first walk on the Moon?",
+      "options": [
+        "August 5, 1969",
+        "July 24, 1969",
+        "July 20, 1969",
+        "July 16, 1969"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969, during the Apollo 11 mission.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-5",
+      "question": "What was the name of the first animal sent into orbit by the Soviet Union?",
+      "options": [
+        "Ham",
+        "Felicette",
+        "Laika",
+        "Enos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Laika, a stray dog from Moscow, was sent into orbit aboard Sputnik 2 on November 3, 1957, becoming the first animal to orbit Earth.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-6",
+      "question": "Which Apollo mission experienced a near-disaster and was called a 'successful failure'?",
+      "options": [
+        "Apollo 17",
+        "Apollo 8",
+        "Apollo 13",
+        "Apollo 1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Apollo 13 suffered an oxygen tank explosion in April 1970, but the crew safely returned to Earth in one of NASA's finest hours.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-7",
+      "question": "Who was the first American in space (suborbital flight)?",
+      "options": [
+        "Alan Shepard",
+        "John Glenn",
+        "Wally Schirra",
+        "Gus Grissom"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alan Shepard became the first American in space on May 5, 1961, making a 15-minute suborbital flight aboard Freedom 7.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-8",
+      "question": "Which president delivered the famous speech committing America to landing on the Moon?",
+      "options": [
+        "Lyndon Johnson",
+        "Dwight Eisenhower",
+        "John F. Kennedy",
+        "Richard Nixon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "President John F. Kennedy delivered his famous Moon speech to Congress on May 25, 1961, pledging to land a man on the Moon by the end of the decade.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-9",
+      "question": "What was the first manned Apollo mission to orbit the Moon?",
+      "options": [
+        "Apollo 11",
+        "Apollo 10",
+        "Apollo 8",
+        "Apollo 7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Apollo 8, crewed by Frank Borman, Jim Lovell, and William Anders, became the first manned spacecraft to orbit the Moon in December 1968.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-10",
+      "question": "Who was the second person to walk on the Moon?",
+      "options": [
+        "Michael Collins",
+        "Buzz Aldrin",
+        "Alan Bean",
+        "Pete Conrad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Buzz Aldrin was the second person to walk on the Moon, following Neil Armstrong during the Apollo 11 mission on July 20, 1969.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-11",
+      "question": "Which Soviet cosmonaut performed the first spacewalk?",
+      "options": [
+        "Alexei Leonov",
+        "Vladimir Komarov",
+        "Yuri Gagarin",
+        "Gherman Titov"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alexei Leonov performed the first extravehicular activity (spacewalk) on March 18, 1965, floating outside the Voskhod 2 spacecraft for 12 minutes.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-12",
+      "question": "What was the name of the joint US-Soviet space mission in 1975?",
+      "options": [
+        "Apollo-Soyuz Test Project",
+        "Space Shuttle Columbia",
+        "Skylab",
+        "Gemini-Vostok"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Apollo-Soyuz Test Project in July 1975 was the first joint US-Soviet space mission, symbolizing a thaw in Cold War tensions.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-13",
+      "question": "Which was the last Apollo mission to land on the Moon?",
+      "options": [
+        "Apollo 18",
+        "Apollo 17",
+        "Apollo 16",
+        "Apollo 15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apollo 17 in December 1972 was the last manned Moon landing mission, with Eugene Cernan being the last person to walk on the Moon.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-14",
+      "question": "What tragic event killed three astronauts during a launch pad test in January 1967?",
+      "options": [
+        "Apollo 1 fire",
+        "Columbia disaster",
+        "Challenger disaster",
+        "Apollo 13 accident"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Apollo 1 fire on January 27, 1967, killed astronauts Gus Grissom, Ed White, and Roger Chaffee during a pre-launch test.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-race-events-quiz-15",
+      "question": "What was America's first space station, launched in 1973?",
+      "options": [
+        "Salyut",
+        "Skylab",
+        "Freedom",
+        "Mir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Skylab was the United States' first space station, launched on May 14, 1973, and hosted three crews of astronauts before being abandoned in 1974.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

@@ -1,28 +1,28 @@
 {
   "id": "money-expressions",
   "title": "Money Expressions",
-  "description": "Test your knowledge of idioms and phrases about money \u2014 from 'penny wise' to 'cash cow'!",
+  "description": "Test your knowledge of idioms and phrases about money — from 'penny wise' to 'cash cow'!",
   "gameCategory": "word-games",
   "questions": [
     {
       "id": "money-expressions-1",
       "question": "What does 'penny wise, pound foolish' mean?",
       "options": [
-        "British money is confusing",
-        "Being careful with small amounts but wasteful with large ones",
         "Pennies are wiser than pounds",
-        "Saving every penny is always smart"
+        "Saving every penny is always smart",
+        "British money is confusing",
+        "Being careful with small amounts but wasteful with large ones"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "money-expressions-2",
       "question": "If something is a 'cash cow,' what is it?",
       "options": [
-        "An expensive animal",
+        "A dairy farm",
         "A reliable source of steady income or profit",
         "A piggy bank shaped like a cow",
-        "A dairy farm"
+        "An expensive animal"
       ],
       "correctAnswer": 1
     },
@@ -30,10 +30,10 @@
       "id": "money-expressions-3",
       "question": "What does 'money doesn't grow on trees' mean?",
       "options": [
-        "Trees are worthless",
+        "Orchards are unprofitable",
         "Money is not easily or freely available",
-        "Paper money is made from wood",
-        "Orchards are unprofitable"
+        "Trees are worthless",
+        "Paper money is made from wood"
       ],
       "correctAnswer": 1
     },
@@ -41,10 +41,10 @@
       "id": "money-expressions-4",
       "question": "If you 'foot the bill,' what are you doing?",
       "options": [
-        "Kicking a piece of paper",
+        "Calculating expenses with your feet",
         "Paying the total cost of something",
-        "Walking to a restaurant",
-        "Calculating expenses with your feet"
+        "Kicking a piece of paper",
+        "Walking to a restaurant"
       ],
       "correctAnswer": 1
     },
@@ -52,10 +52,10 @@
       "id": "money-expressions-5",
       "question": "What does 'break the bank' mean?",
       "options": [
-        "Rob a bank",
+        "Win at a casino",
         "Cost more than one can afford",
-        "Smash a piggy bank",
-        "Win at a casino"
+        "Rob a bank",
+        "Smash a piggy bank"
       ],
       "correctAnswer": 1
     },
@@ -63,45 +63,45 @@
       "id": "money-expressions-6",
       "question": "If someone is 'rolling in money,' what is their financial situation?",
       "options": [
-        "They are bankrupt",
         "They are extremely wealthy",
         "They work at a mint",
-        "They are counting coins"
+        "They are counting coins",
+        "They are bankrupt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "money-expressions-7",
       "question": "What does 'a penny for your thoughts' mean?",
       "options": [
         "Thoughts cost exactly one penny",
-        "An invitation to share what someone is thinking",
+        "Thinking about pennies",
         "A very cheap idea",
-        "Thinking about pennies"
+        "An invitation to share what someone is thinking"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "money-expressions-8",
       "question": "If you 'tighten your belt,' what are you doing financially?",
       "options": [
         "Buying a new belt",
-        "Spending less and being more frugal",
         "Losing weight",
+        "Spending less and being more frugal",
         "Getting dressed for work"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "money-expressions-9",
       "question": "What does 'bring home the bacon' mean?",
       "options": [
-        "Buy groceries",
         "Earn a living or income for the family",
         "Win a prize at a fair",
+        "Buy groceries",
         "Cook breakfast"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "money-expressions-10",
@@ -109,8 +109,8 @@
       "options": [
         "It is made of gold",
         "It is extremely valuable or useful",
-        "It is very heavy",
-        "It should be weighed on a scale"
+        "It should be weighed on a scale",
+        "It is very heavy"
       ],
       "correctAnswer": 1
     },
@@ -118,56 +118,56 @@
       "id": "money-expressions-11",
       "question": "What does 'nest egg' refer to?",
       "options": [
-        "An egg found in a bird's nest",
         "A sum of money saved for the future",
+        "An egg found in a bird's nest",
         "A golden egg from a fairy tale",
         "An Easter decoration"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "money-expressions-12",
       "question": "If someone 'pays through the nose,' what happened?",
       "options": [
-        "They had a nosebleed",
-        "They paid far too much for something",
         "They sneezed on their wallet",
-        "They paid with coins"
+        "They had a nosebleed",
+        "They paid with coins",
+        "They paid far too much for something"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "money-expressions-13",
       "question": "What does 'in the red' mean financially?",
       "options": [
-        "Having a positive bank balance",
-        "Owing money or being in debt",
         "Blushing about finances",
-        "Shopping on sale"
+        "Having a positive bank balance",
+        "Shopping on sale",
+        "Owing money or being in debt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "money-expressions-14",
       "question": "If you 'make ends meet,' what are you managing to do?",
       "options": [
+        "Meet friends at the end of the road",
         "Tie two ropes together",
-        "Earn just enough to cover basic expenses",
         "Finish a project on time",
-        "Meet friends at the end of the road"
+        "Earn just enough to cover basic expenses"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "money-expressions-15",
       "question": "What does 'put your money where your mouth is' mean?",
       "options": [
         "Eat your money",
-        "Back up your words with action or financial commitment",
         "Hide money in your cheeks",
-        "Talk about money constantly"
+        "Talk about money constantly",
+        "Back up your words with action or financial commitment"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

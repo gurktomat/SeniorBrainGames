@@ -1,0 +1,173 @@
+{
+  "id": "monkey-species-quiz",
+  "title": "Monkey Species Quiz",
+  "description": "Swing into this quiz about monkeys from around the world and their amazing adaptations",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "monkey-species-quiz-1",
+      "question": "Which intelligent New World monkey is known for using tools such as rocks to crack open nuts?",
+      "options": [
+        "Howler Monkey",
+        "Squirrel Monkey",
+        "Spider Monkey",
+        "Capuchin Monkey"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "monkey-species-quiz-2",
+      "question": "Which monkey from Japan is famous for soaking in natural hot springs during cold winters?",
+      "options": [
+        "Rhesus Macaque",
+        "Tibetan Macaque",
+        "Crab-eating Macaque",
+        "Japanese Macaque"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "monkey-species-quiz-3",
+      "question": "Which tiny monkey from the Amazon rainforest weighs only about 3.5 ounces and is one of the smallest primates?",
+      "options": [
+        "Mouse Lemur",
+        "Tarsier",
+        "Pygmy Marmoset",
+        "Marmoset"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-4",
+      "question": "Which African monkey with a distinctive blue face and red nose is the world's largest monkey?",
+      "options": [
+        "Baboon",
+        "Colobus",
+        "Drill",
+        "Mandrill"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "monkey-species-quiz-5",
+      "question": "Which New World monkey has an extremely long prehensile tail that acts like a fifth hand for gripping branches?",
+      "options": [
+        "Tamarin",
+        "Spider Monkey",
+        "Capuchin",
+        "Howler Monkey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "monkey-species-quiz-6",
+      "question": "Which group of monkeys from South America are known for their elaborate mustache-like facial hair?",
+      "options": [
+        "Sakis",
+        "Capuchins",
+        "Tamarins",
+        "Marmosets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-7",
+      "question": "Which monkey native to the Rock of Gibraltar is the only wild monkey population in Europe?",
+      "options": [
+        "Pig-tailed Macaque",
+        "Barbary Macaque",
+        "Crab-eating Macaque",
+        "Rhesus Macaque"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "monkey-species-quiz-8",
+      "question": "Which black and white African monkey has a reduced or absent thumb and long, flowing fur?",
+      "options": [
+        "Colobus Monkey",
+        "Vervet Monkey",
+        "Diana Monkey",
+        "Patas Monkey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "monkey-species-quiz-9",
+      "question": "Which monkey from Borneo has a distinctively large, bulbous nose that hangs down over its mouth?",
+      "options": [
+        "Snub-nosed Monkey",
+        "Langur",
+        "Proboscis Monkey",
+        "Pig-tailed Macaque"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-10",
+      "question": "Which small African monkey is highly adaptable and commonly seen in urban areas across sub-Saharan Africa?",
+      "options": [
+        "Baboon",
+        "Colobus",
+        "Vervet Monkey",
+        "Patas Monkey"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-11",
+      "question": "Which large, ground-dwelling monkey from Africa lives in troops of up to 300 individuals and has a dog-like muzzle?",
+      "options": [
+        "Gelada",
+        "Patas Monkey",
+        "Baboon",
+        "Mandrill"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-12",
+      "question": "Which New World monkey produces calls so loud they can be heard up to 3 miles through dense rainforest?",
+      "options": [
+        "Howler Monkey",
+        "Squirrel Monkey",
+        "Spider Monkey",
+        "Capuchin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "monkey-species-quiz-13",
+      "question": "Which Chinese monkey has a flat, turned-up nose and lives at elevations up to 15,000 feet in snowy mountains?",
+      "options": [
+        "Tibetan Macaque",
+        "Rhesus Macaque",
+        "Golden Snub-nosed Monkey",
+        "Langur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "monkey-species-quiz-14",
+      "question": "What is the main difference between Old World monkeys (from Africa and Asia) and New World monkeys (from the Americas)?",
+      "options": [
+        "Old World monkeys have tails, New World don't",
+        "Size difference only",
+        "There is no major difference",
+        "New World monkeys often have prehensile tails, Old World monkeys do not"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "monkey-species-quiz-15",
+      "question": "Which fast-running African monkey is sometimes called the 'greyhound of primates' and can reach speeds of 35 mph?",
+      "options": [
+        "Vervet Monkey",
+        "Colobus Monkey",
+        "Patas Monkey",
+        "Baboon"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

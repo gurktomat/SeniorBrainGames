@@ -1,0 +1,173 @@
+{
+  "id": "cooking-methods-quiz",
+  "title": "Cooking Methods Quiz",
+  "description": "Braising, blanching, sautéing — how well do you know your cooking techniques?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "cooking-methods-quiz-1",
+      "question": "What does 'braising' involve?",
+      "options": [
+        "Deep-frying in oil",
+        "Searing food then slowly cooking it in a covered pot with liquid",
+        "Steaming in a bamboo basket",
+        "Grilling over open flames"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cooking-methods-quiz-2",
+      "question": "What is the purpose of 'blanching' vegetables?",
+      "options": [
+        "To dry them out",
+        "To briefly boil them, then plunge into ice water to stop cooking",
+        "To marinate them in vinegar",
+        "To fully cook them"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cooking-methods-quiz-3",
+      "question": "Sautéing involves cooking food quickly in a pan with what?",
+      "options": [
+        "A small amount of fat over high heat",
+        "No heat at all",
+        "A large amount of water",
+        "A covered lid at low temperature"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cooking-methods-quiz-4",
+      "question": "What is 'poaching' in cooking?",
+      "options": [
+        "Cooking food in gently simmering liquid below boiling point",
+        "Cooking food over smoke",
+        "Frying food in deep oil",
+        "Baking food in a salt crust"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cooking-methods-quiz-5",
+      "question": "What distinguishes 'roasting' from 'baking'?",
+      "options": [
+        "Baking is always done outdoors",
+        "They are completely different methods",
+        "Roasting uses water; baking does not",
+        "Roasting typically refers to cooking meats/vegetables at higher heat; baking refers to breads/pastries"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cooking-methods-quiz-6",
+      "question": "What cooking method uses hot air circulation to cook food evenly, often in a special oven?",
+      "options": [
+        "Smoking",
+        "Broiling",
+        "Convection baking",
+        "Stewing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cooking-methods-quiz-7",
+      "question": "'En papillote' is a French cooking method where food is cooked inside what?",
+      "options": [
+        "A parchment paper parcel",
+        "A salt dome",
+        "A bread shell",
+        "A clay pot"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cooking-methods-quiz-8",
+      "question": "What is 'deglazing' a pan?",
+      "options": [
+        "Washing the pan after cooking",
+        "Removing the glaze from ceramic cookware",
+        "Coating the pan with butter",
+        "Adding liquid to a hot pan to loosen browned bits for a sauce"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cooking-methods-quiz-9",
+      "question": "Sous vide cooking involves sealing food in a bag and cooking it in what?",
+      "options": [
+        "A deep fryer",
+        "A microwave",
+        "A pressure cooker",
+        "A precisely temperature-controlled water bath"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cooking-methods-quiz-10",
+      "question": "What is 'stir-frying'?",
+      "options": [
+        "Deep-frying while stirring",
+        "Rapidly cooking small pieces of food in a wok over very high heat",
+        "Baking in a rotating oven",
+        "Slowly cooking food in a pan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cooking-methods-quiz-11",
+      "question": "Broiling cooks food using heat from which direction?",
+      "options": [
+        "From all sides equally",
+        "From above the food",
+        "Below the food",
+        "From the side"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cooking-methods-quiz-12",
+      "question": "What is 'reducing' a sauce?",
+      "options": [
+        "Blending it until smooth",
+        "Straining out the solids",
+        "Adding water to thin it",
+        "Simmering it to evaporate liquid and concentrate flavor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cooking-methods-quiz-13",
+      "question": "What is 'curing' in food preparation?",
+      "options": [
+        "Freezing food for storage",
+        "Preserving food using salt, sugar, smoke, or acid",
+        "Fermenting food with yeast",
+        "Heating food to a high temperature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cooking-methods-quiz-14",
+      "question": "What does 'flambéing' involve?",
+      "options": [
+        "Torching the surface with a blowtorch",
+        "Burning food intentionally for flavor",
+        "Adding alcohol to a hot pan and igniting it briefly",
+        "Smoking food over an open fire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cooking-methods-quiz-15",
+      "question": "What is the difference between 'simmering' and 'boiling'?",
+      "options": [
+        "Boiling is always done with a lid",
+        "Simmering uses oil; boiling uses water",
+        "There is no difference",
+        "Simmering is gentler, with small bubbles; boiling has rapid, large bubbles"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

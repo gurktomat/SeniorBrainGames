@@ -7,8 +7,13 @@
     {
       "id": "decade-1",
       "question": "When did the first color television sets become commercially available to the public in the United States?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
-      "correctAnswer": 1,
+      "options": [
+        "1960s",
+        "1940s",
+        "1950s",
+        "1970s"
+      ],
+      "correctAnswer": 2,
       "explanation": "RCA began selling the first color TV sets to consumers in 1954, though they were extremely expensive and color programming was limited for several years.",
       "difficulty": "easy",
       "category": "history"
@@ -16,8 +21,13 @@
     {
       "id": "decade-2",
       "question": "In which decade did astronauts first walk on the Moon?",
-      "options": ["1950s", "1960s", "1970s", "1980s"],
-      "correctAnswer": 1,
+      "options": [
+        "1980s",
+        "1970s",
+        "1950s",
+        "1960s"
+      ],
+      "correctAnswer": 3,
       "explanation": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969, during the Apollo 11 mission — one of the most iconic moments of the 1960s.",
       "difficulty": "easy",
       "category": "history"
@@ -25,8 +35,13 @@
     {
       "id": "decade-3",
       "question": "When did the Berlin Wall fall, reuniting East and West Berlin?",
-      "options": ["1970s", "1980s", "1990s", "1960s"],
-      "correctAnswer": 1,
+      "options": [
+        "1970s",
+        "1960s",
+        "1980s",
+        "1990s"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Berlin Wall fell on November 9, 1989, marking the beginning of the end of the Cold War and leading to German reunification in 1990.",
       "difficulty": "easy",
       "category": "history"
@@ -34,8 +49,13 @@
     {
       "id": "decade-4",
       "question": "In which decade did Elvis Presley first appear on The Ed Sullivan Show?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
-      "correctAnswer": 1,
+      "options": [
+        "1960s",
+        "1970s",
+        "1940s",
+        "1950s"
+      ],
+      "correctAnswer": 3,
       "explanation": "Elvis Presley made his famous first appearance on The Ed Sullivan Show on September 9, 1956, watched by approximately 60 million viewers.",
       "difficulty": "easy",
       "category": "history"
@@ -43,8 +63,13 @@
     {
       "id": "decade-5",
       "question": "When was the iconic Woodstock music festival held?",
-      "options": ["1950s", "1960s", "1970s", "1980s"],
-      "correctAnswer": 1,
+      "options": [
+        "1980s",
+        "1950s",
+        "1970s",
+        "1960s"
+      ],
+      "correctAnswer": 3,
       "explanation": "Woodstock took place August 15–18, 1969, on a dairy farm in Bethel, New York. Over 400,000 people attended, making it a defining moment of the counterculture era.",
       "difficulty": "easy",
       "category": "history"
@@ -52,7 +77,12 @@
     {
       "id": "decade-6",
       "question": "In which decade was the microwave oven first sold for home use?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "options": [
+        "1970s",
+        "1940s",
+        "1960s",
+        "1950s"
+      ],
       "correctAnswer": 2,
       "explanation": "While Raytheon produced a commercial microwave in 1947, countertop models for home kitchens became widely available in the late 1960s, with Amana introducing its popular Radarange in 1967.",
       "difficulty": "medium",
@@ -61,8 +91,13 @@
     {
       "id": "decade-7",
       "question": "When did the Watergate scandal force President Nixon to resign?",
-      "options": ["1960s", "1970s", "1980s", "1950s"],
-      "correctAnswer": 1,
+      "options": [
+        "1980s",
+        "1960s",
+        "1950s",
+        "1970s"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Watergate break-in occurred in 1972, and the ensuing scandal led to Richard Nixon's resignation on August 9, 1974 — the only U.S. president ever to resign from office.",
       "difficulty": "medium",
       "category": "history"
@@ -70,7 +105,12 @@
     {
       "id": "decade-8",
       "question": "In which decade did the first commercial jet airliner service begin?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "options": [
+        "1970s",
+        "1950s",
+        "1940s",
+        "1960s"
+      ],
       "correctAnswer": 1,
       "explanation": "The de Havilland Comet began the first commercial jet service in 1952 for BOAC, and Pan Am launched transatlantic Boeing 707 service in 1958, ushering in the Jet Age.",
       "difficulty": "medium",
@@ -79,7 +119,12 @@
     {
       "id": "decade-9",
       "question": "When did the Sony Walkman portable cassette player first go on sale?",
-      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "options": [
+        "1960s",
+        "1970s",
+        "1990s",
+        "1980s"
+      ],
       "correctAnswer": 1,
       "explanation": "The Sony Walkman was released on July 1, 1979, in Japan. It revolutionized how people listened to music by making it truly portable for the first time.",
       "difficulty": "medium",
@@ -88,7 +133,12 @@
     {
       "id": "decade-10",
       "question": "In which decade did the D-Day invasion of Normandy take place?",
-      "options": ["1940s", "1950s", "1930s", "1960s"],
+      "options": [
+        "1940s",
+        "1930s",
+        "1960s",
+        "1950s"
+      ],
       "correctAnswer": 0,
       "explanation": "D-Day occurred on June 6, 1944, when Allied forces launched the largest seaborne invasion in history on the beaches of Normandy, France, during World War II.",
       "difficulty": "medium",
@@ -97,8 +147,13 @@
     {
       "id": "decade-11",
       "question": "When was the first successful human heart transplant performed?",
-      "options": ["1950s", "1960s", "1970s", "1980s"],
-      "correctAnswer": 1,
+      "options": [
+        "1950s",
+        "1980s",
+        "1960s",
+        "1970s"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dr. Christiaan Barnard performed the first successful human heart transplant on December 3, 1967, in Cape Town, South Africa. The patient, Louis Washkansky, survived for 18 days.",
       "difficulty": "hard",
       "category": "history"
@@ -106,8 +161,13 @@
     {
       "id": "decade-12",
       "question": "In which decade did the Hula Hoop become a nationwide craze in America?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
-      "correctAnswer": 1,
+      "options": [
+        "1970s",
+        "1940s",
+        "1950s",
+        "1960s"
+      ],
+      "correctAnswer": 2,
       "explanation": "Wham-O introduced the Hula Hoop in 1958, and it became an instant sensation. Over 25 million were sold in the first four months alone, making it one of the biggest toy fads of the 1950s.",
       "difficulty": "hard",
       "category": "history"
@@ -115,8 +175,13 @@
     {
       "id": "decade-13",
       "question": "When did the Chernobyl nuclear disaster occur?",
-      "options": ["1970s", "1980s", "1990s", "1960s"],
-      "correctAnswer": 1,
+      "options": [
+        "1970s",
+        "1960s",
+        "1980s",
+        "1990s"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Chernobyl disaster occurred on April 26, 1986, at the No. 4 reactor of the Chernobyl Nuclear Power Plant in Ukraine (then part of the Soviet Union). It remains the worst nuclear accident in history.",
       "difficulty": "hard",
       "category": "history"
@@ -124,8 +189,13 @@
     {
       "id": "decade-14",
       "question": "In which decade was the first handheld mobile phone call made?",
-      "options": ["1960s", "1970s", "1980s", "1990s"],
-      "correctAnswer": 1,
+      "options": [
+        "1980s",
+        "1990s",
+        "1970s",
+        "1960s"
+      ],
+      "correctAnswer": 2,
       "explanation": "On April 3, 1973, Motorola engineer Martin Cooper made the first handheld cellular phone call from a street in New York City, using a prototype that weighed about 2.5 pounds.",
       "difficulty": "hard",
       "category": "history"
@@ -133,8 +203,13 @@
     {
       "id": "decade-15",
       "question": "When did the Marshall Plan begin providing economic aid to rebuild post-war Europe?",
-      "options": ["1940s", "1950s", "1960s", "1930s"],
-      "correctAnswer": 0,
+      "options": [
+        "1930s",
+        "1960s",
+        "1940s",
+        "1950s"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Marshall Plan (officially the European Recovery Program) was enacted in 1948. Over four years, the United States provided over $13 billion in aid to help rebuild Western European economies after World War II.",
       "difficulty": "hard",
       "category": "history"

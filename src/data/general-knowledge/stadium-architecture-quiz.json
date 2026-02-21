@@ -1,0 +1,219 @@
+{
+  "id": "stadium-architecture-quiz",
+  "title": "Stadium Architecture",
+  "description": "Score big with questions about the world's most impressive stadium designs!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "stadium-architecture-quiz-1",
+      "question": "The Roman Colosseum, completed around 80 AD, could seat approximately how many spectators?",
+      "options": [
+        "50,000",
+        "25,000",
+        "100,000",
+        "80,000"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Colosseum (Flavian Amphitheatre) in Rome could seat approximately 50,000 spectators and had standing room for additional attendees. It featured a retractable awning system (velarium) and an elaborate underground network of tunnels.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "stadium-architecture-quiz-2",
+      "question": "The Beijing National Stadium, built for the 2008 Olympics, is commonly known by what nickname?",
+      "options": [
+        "The Spider Web",
+        "The Nest",
+        "The Bamboo Bowl",
+        "The Bird's Nest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Beijing National Stadium is nicknamed 'The Bird's Nest' due to its interwoven steel frame structure that resembles a bird's nest. Designed by Herzog & de Meuron with Ai Weiwei as artistic consultant, it seats 80,000 people.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-3",
+      "question": "Which engineering innovation allows SoFi Stadium in Los Angeles to have a translucent roof but no air conditioning?",
+      "options": [
+        "Solar-powered fans",
+        "Ice storage systems",
+        "An ETFE (ethylene tetrafluoroethylene) canopy that allows air to flow through",
+        "Underground cooling tunnels"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SoFi Stadium features an ETFE canopy roof that is translucent but not fully enclosed, allowing natural airflow while protecting from rain and sun. The lightweight material lets in natural light and the open sides provide ventilation.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-4",
+      "question": "Which stadium was the first to feature a retractable roof?",
+      "options": [
+        "Miller Park, Milwaukee",
+        "AT&T Stadium, Dallas",
+        "Rogers Centre (SkyDome), Toronto",
+        "Houston Astrodome"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Rogers Centre (originally SkyDome) in Toronto, opened in 1989, was the first stadium with a fully retractable motorized roof. The four-panel roof takes about 20 minutes to open or close.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-5",
+      "question": "The Munich Olympic Stadium, built for the 1972 Olympics, is famous for what distinctive architectural feature?",
+      "options": [
+        "A sweeping tensile roof of transparent acrylic panels",
+        "Rotating stands",
+        "An underwater viewing area",
+        "A golden dome"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Munich Olympic Stadium, designed by Frei Otto and Gunter Behnisch, features an iconic tensile canopy of transparent acrylic panels suspended from steel cables. The revolutionary tent-like roof design became a symbol of the 'new Germany.'",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-6",
+      "question": "What was the Houston Astrodome, opened in 1965, notable for being the first of?",
+      "options": [
+        "Multi-purpose indoor domed stadium",
+        "Open-air stadium",
+        "Stadium with natural grass",
+        "Stadium with luxury boxes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Houston Astrodome, known as the 'Eighth Wonder of the World,' was the first multi-purpose indoor domed stadium when it opened in 1965. It was also where AstroTurf was invented after natural grass failed to grow under its translucent roof.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "stadium-architecture-quiz-7",
+      "question": "Wembley Stadium in London, rebuilt in 2007, is topped by which distinctive structural feature?",
+      "options": [
+        "A glass pyramid",
+        "A 133-meter steel arch",
+        "A rotating observation tower",
+        "A retractable fabric dome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The new Wembley Stadium features a dramatic 133-meter (436-foot) steel arch that spans the stadium and supports the partially retractable roof. The arch is visible across London and has become an iconic landmark.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-8",
+      "question": "Which FIFA World Cup stadium featured a stunning exterior of woven palm fronds?",
+      "options": [
+        "Luzhniki, Russia",
+        "Al Bayt Stadium, Qatar",
+        "Wembley, England",
+        "Maracana, Brazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al Bayt Stadium, a venue for the 2022 FIFA World Cup in Qatar, features an exterior inspired by the bayt al sha'ar, traditional tents used by nomadic peoples in Qatar. Its tent-like structure pays homage to Qatari heritage.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-9",
+      "question": "The Allianz Arena in Munich is known for its exterior that can change to which colors?",
+      "options": [
+        "Red, blue, and white",
+        "Only red",
+        "Red, white, and blue",
+        "Green and gold"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Allianz Arena's exterior consists of 2,874 ETFE panels that can be individually illuminated in red (for Bayern Munich), blue (formerly for 1860 Munich), or white (for the German national team), making it the first stadium with a color-changing exterior.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-10",
+      "question": "What innovative feature does Mercedes-Benz Stadium in Atlanta have for its roof?",
+      "options": [
+        "Eight triangular petals that open like a camera aperture",
+        "A garden on top",
+        "A swimming pool on the roof",
+        "Solar panel covered"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mercedes-Benz Stadium features a unique retractable roof with eight triangular ETFE 'petals' that open and close like a camera aperture. The design allows flexible coverage and takes about 12 minutes to fully open or close.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-11",
+      "question": "The ancient stadium at Olympia, Greece, site of the original Olympic Games, could seat approximately how many spectators?",
+      "options": [
+        "100,000",
+        "20,000",
+        "5,000",
+        "45,000"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The ancient stadium at Olympia could accommodate approximately 45,000 spectators on its earthen embankments. Unlike the Colosseum, it had no built seats for most spectators; they sat on the grassy hillsides surrounding the track.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "stadium-architecture-quiz-12",
+      "question": "What is the Maracana Stadium in Rio de Janeiro famous for in terms of attendance records?",
+      "options": [
+        "Largest ever recorded attendance at a football match (nearly 200,000 in 1950)",
+        "First night game",
+        "Smallest World Cup crowd",
+        "First televised sporting event"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Maracana hosted an estimated 199,854 spectators for the 1950 FIFA World Cup final between Brazil and Uruguay, the largest recorded attendance at a football match. The stadium has since been modernized with a reduced capacity of about 78,000.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "stadium-architecture-quiz-13",
+      "question": "What is the purpose of a stadium's 'bowl' design with tiered seating?",
+      "options": [
+        "Reducing construction costs",
+        "Aesthetic appeal only",
+        "Maximizing sightlines so all spectators can see the playing field",
+        "Improving acoustics only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The bowl design with tiered seating maximizes sightlines by angling seats upward so spectators in higher rows can see over those below. This geometry, perfected by the ancient Greeks and Romans, remains fundamental to modern stadium design.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-14",
+      "question": "Tottenham Hotspur Stadium in London features a unique retractable what?",
+      "options": [
+        "Video screen",
+        "Playing field (pitch) that slides out to reveal a second surface",
+        "Roof",
+        "Seating section"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tottenham Hotspur Stadium has a retractable grass pitch that sits on three sliding steel trays, revealing an artificial surface underneath for NFL games and concerts. It is the first stadium in the world with a dividing retractable field.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "stadium-architecture-quiz-15",
+      "question": "The Roman Colosseum's 'hypogeum' was which part of the structure?",
+      "options": [
+        "The entrance gate",
+        "The underground network of tunnels and chambers beneath the arena floor",
+        "The emperor's box",
+        "The upper seating level"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The hypogeum was the elaborate underground system beneath the Colosseum's arena floor, consisting of two levels of tunnels, 80 vertical shafts with lift mechanisms, and holding areas for gladiators and animals before they entered the arena.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

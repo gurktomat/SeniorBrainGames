@@ -1,0 +1,173 @@
+{
+  "id": "atomic-structure-quiz",
+  "title": "Atomic Structure Quiz",
+  "description": "Protons, neutrons, and electrons! Test your recall of atomic structure and the building blocks of matter.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "atomic-structure-quiz-1",
+      "question": "What are the three main subatomic particles?",
+      "options": [
+        "Ions, atoms, molecules",
+        "Protons, neutrons, electrons",
+        "Photons, gluons, mesons",
+        "Quarks, leptons, bosons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "atomic-structure-quiz-2",
+      "question": "Which subatomic particle has a positive charge?",
+      "options": [
+        "Electron",
+        "Proton",
+        "Photon",
+        "Neutron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "atomic-structure-quiz-3",
+      "question": "What determines the atomic number of an element?",
+      "options": [
+        "Total mass of the atom",
+        "Number of neutrons",
+        "Number of electrons",
+        "Number of protons"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "atomic-structure-quiz-4",
+      "question": "Where are protons and neutrons located in an atom?",
+      "options": [
+        "In the outer shell",
+        "In the nucleus",
+        "In the electron cloud",
+        "Orbiting the atom"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "atomic-structure-quiz-5",
+      "question": "What are atoms of the same element with different numbers of neutrons called?",
+      "options": [
+        "Ions",
+        "Isotopes",
+        "Allotropes",
+        "Isomers"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "atomic-structure-quiz-6",
+      "question": "Who proposed the 'plum pudding' model of the atom?",
+      "options": [
+        "John Dalton",
+        "Niels Bohr",
+        "Ernest Rutherford",
+        "J.J. Thomson"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "atomic-structure-quiz-7",
+      "question": "What is an atom that has gained or lost electrons called?",
+      "options": [
+        "Isotope",
+        "Ion",
+        "Molecule",
+        "Compound"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "atomic-structure-quiz-8",
+      "question": "Which model of the atom has electrons orbiting the nucleus in fixed energy levels?",
+      "options": [
+        "Thomson model",
+        "Quantum mechanical model",
+        "Bohr model",
+        "Rutherford model"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "atomic-structure-quiz-9",
+      "question": "What holds protons and neutrons together in the nucleus?",
+      "options": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Weak nuclear force",
+        "Strong nuclear force"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "atomic-structure-quiz-10",
+      "question": "Who discovered the electron in 1897?",
+      "options": [
+        "J.J. Thomson",
+        "James Chadwick",
+        "Niels Bohr",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "atomic-structure-quiz-11",
+      "question": "What is the mass number of an atom?",
+      "options": [
+        "Number of protons plus neutrons",
+        "Number of protons only",
+        "Number of electrons only",
+        "Number of neutrons only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "atomic-structure-quiz-12",
+      "question": "Who discovered the neutron in 1932?",
+      "options": [
+        "Ernest Rutherford",
+        "Werner Heisenberg",
+        "James Chadwick",
+        "J.J. Thomson"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "atomic-structure-quiz-13",
+      "question": "What is the electron cloud?",
+      "options": [
+        "The region around the nucleus where electrons are likely to be found",
+        "A type of weather",
+        "The space between atoms",
+        "A type of chemical bond"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "atomic-structure-quiz-14",
+      "question": "How many electrons can the first electron shell hold?",
+      "options": [
+        "2",
+        "1",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "atomic-structure-quiz-15",
+      "question": "What type of bond involves the sharing of electrons between atoms?",
+      "options": [
+        "Hydrogen bond",
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

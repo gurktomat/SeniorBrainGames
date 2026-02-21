@@ -1,0 +1,219 @@
+{
+  "id": "colonial-era-quiz",
+  "title": "Colonial Era Quiz",
+  "description": "How well do you recall the people and events of the colonial era?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "colonial-era-quiz-1",
+      "question": "Which was the first permanent English settlement in North America, founded in 1607?",
+      "options": [
+        "Jamestown",
+        "Salem",
+        "Roanoke",
+        "Plymouth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jamestown, Virginia was the first permanent English settlement in North America, established by the Virginia Company in 1607.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-2",
+      "question": "Which ship brought the Pilgrims to Plymouth, Massachusetts in 1620?",
+      "options": [
+        "Speedwell",
+        "Susan Constant",
+        "Mayflower",
+        "Santa Maria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Mayflower carried 102 passengers, known as Pilgrims, from England to Plymouth, Massachusetts, arriving in November 1620.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-3",
+      "question": "What was the agreement for self-governance signed aboard the Mayflower?",
+      "options": [
+        "Articles of Confederation",
+        "Declaration of Independence",
+        "Constitution",
+        "Mayflower Compact"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Mayflower Compact, signed on November 11, 1620, was the first governing document of Plymouth Colony and an early step toward democratic self-governance.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-4",
+      "question": "Which Native American woman helped the Jamestown settlers and married John Rolfe?",
+      "options": [
+        "Sacagawea",
+        "Pocahontas",
+        "Squanto",
+        "Malinche"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pocahontas, daughter of Chief Powhatan, helped bridge relations between the Powhatan people and Jamestown settlers and married colonist John Rolfe in 1614.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-5",
+      "question": "Which event in 1773 was a protest against British taxation of tea?",
+      "options": [
+        "Stamp Act Riots",
+        "Boston Massacre",
+        "Townshend Act Protests",
+        "Boston Tea Party"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Boston Tea Party on December 16, 1773, saw colonists dump 342 chests of tea into Boston Harbor to protest the Tea Act's taxation without representation.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-6",
+      "question": "Who founded the colony of Pennsylvania as a haven for Quakers?",
+      "options": [
+        "William Penn",
+        "John Winthrop",
+        "Roger Williams",
+        "Lord Baltimore"
+      ],
+      "correctAnswer": 0,
+      "explanation": "William Penn founded Pennsylvania in 1681 as a Quaker colony that promoted religious freedom and peaceful relations with Native Americans.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-7",
+      "question": "Which colony was founded by Roger Williams after he was expelled from Massachusetts for his religious views?",
+      "options": [
+        "New Hampshire",
+        "Maryland",
+        "Rhode Island",
+        "Connecticut"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roger Williams founded Rhode Island in 1636, establishing it as a colony with complete religious freedom and separation of church and state.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-8",
+      "question": "What was the series of witch trials held in Massachusetts in 1692?",
+      "options": [
+        "Puritan Inquisition",
+        "Salem Witch Trials",
+        "Plymouth Trials",
+        "Boston Witch Hunts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Salem Witch Trials of 1692 resulted in the execution of 20 people, becoming one of the most infamous episodes of mass hysteria in American history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-9",
+      "question": "Which crop became the economic foundation of the Jamestown colony?",
+      "options": [
+        "Tobacco",
+        "Cotton",
+        "Corn",
+        "Rice"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tobacco, cultivated by John Rolfe beginning around 1612, became Jamestown's cash crop and the economic foundation of colonial Virginia.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-10",
+      "question": "What was the 1765 act that imposed direct taxes on the American colonies for the first time?",
+      "options": [
+        "Tea Act",
+        "Stamp Act",
+        "Townshend Acts",
+        "Intolerable Acts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Stamp Act of 1765 required colonists to pay a tax on printed materials, sparking widespread protests and the cry of 'No taxation without representation.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-11",
+      "question": "Which colonial leader helped establish the city of Savannah and the colony of Georgia?",
+      "options": [
+        "Lord Baltimore",
+        "James Oglethorpe",
+        "John Smith",
+        "William Penn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "James Oglethorpe founded the colony of Georgia in 1733, originally intended as a haven for debtors and a buffer against Spanish Florida.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-12",
+      "question": "Which 1770 event saw British soldiers kill five colonists in Boston?",
+      "options": [
+        "Boston Massacre",
+        "Bunker Hill",
+        "Lexington and Concord",
+        "Boston Tea Party"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Boston Massacre occurred on March 5, 1770, when British soldiers fired into a crowd of colonists, killing five men. It became a rallying point for independence.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-13",
+      "question": "What was the first representative assembly in the American colonies, established in 1619?",
+      "options": [
+        "House of Burgesses",
+        "Continental Congress",
+        "Town Meeting",
+        "General Court"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The House of Burgesses was established in Jamestown, Virginia in 1619 as the first representative legislative assembly in the American colonies.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-14",
+      "question": "Which war between the French and British (1754-1763) determined colonial control of North America?",
+      "options": [
+        "King Philip's War",
+        "French and Indian War",
+        "Queen Anne's War",
+        "Pontiac's War"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The French and Indian War (Seven Years' War in Europe) ended with Britain gaining control of French territories in North America through the Treaty of Paris in 1763.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "colonial-era-quiz-15",
+      "question": "How many original colonies declared independence from Britain in 1776?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "13"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thirteen colonies declared independence from Britain on July 4, 1776, forming the United States of America.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

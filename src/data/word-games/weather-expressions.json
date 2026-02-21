@@ -8,7 +8,12 @@
     {
       "id": "we-1",
       "question": "What does the expression 'it's raining cats and dogs' mean?",
-      "options": ["Animals are falling from the sky", "It's raining very heavily", "Pets are running loose outside", "The weather is unpredictable"],
+      "options": [
+        "Animals are falling from the sky",
+        "It's raining very heavily",
+        "The weather is unpredictable",
+        "Pets are running loose outside"
+      ],
       "correctAnswer": 1,
       "explanation": "'It's raining cats and dogs' means it is raining extremely heavily. The exact origin is debated, but the phrase has been used in English since at least the 17th century.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "we-2",
       "question": "What does it mean to 'break the ice'?",
-      "options": ["To go ice fishing", "To initiate conversation in an awkward situation", "To crack a frozen window", "To start a cold weather season"],
-      "correctAnswer": 1,
+      "options": [
+        "To start a cold weather season",
+        "To crack a frozen window",
+        "To go ice fishing",
+        "To initiate conversation in an awkward situation"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Break the ice' means to do or say something to relieve tension or get conversation started in an uncomfortable social situation. It may originate from icebreaker ships that cleared paths for other vessels.",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "we-3",
       "question": "If someone says they are 'under the weather,' what do they mean?",
-      "options": ["They are standing outside", "They are feeling ill", "They are protected from rain", "They are checking the forecast"],
-      "correctAnswer": 1,
+      "options": [
+        "They are protected from rain",
+        "They are standing outside",
+        "They are checking the forecast",
+        "They are feeling ill"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Under the weather' means feeling ill or unwell. The phrase has nautical origins—sick sailors were sent below deck to be sheltered from the weather.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "we-4",
       "question": "What does 'every cloud has a silver lining' mean?",
-      "options": ["Clouds contain precious metals", "Every bad situation has a positive aspect", "Rain always leads to rainbows", "Weather always improves eventually"],
-      "correctAnswer": 1,
+      "options": [
+        "Rain always leads to rainbows",
+        "Clouds contain precious metals",
+        "Every bad situation has a positive aspect",
+        "Weather always improves eventually"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Every cloud has a silver lining' means there is something positive in every negative situation. The phrase comes from John Milton's 1634 masque 'Comus,' referring to the silver edge of a dark cloud lit from behind.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "we-5",
       "question": "What does 'a fair-weather friend' mean?",
-      "options": ["A friend who enjoys sunny days", "A friend who is only there during good times", "A meteorologist you are friends with", "A very reliable friend"],
-      "correctAnswer": 1,
+      "options": [
+        "A friend who is only there during good times",
+        "A meteorologist you are friends with",
+        "A very reliable friend",
+        "A friend who enjoys sunny days"
+      ],
+      "correctAnswer": 0,
       "explanation": "A 'fair-weather friend' is someone who is only a friend when times are good and disappears during difficult or challenging periods. Fair weather symbolizes easy, pleasant times.",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "we-6",
       "question": "What does the phrase 'to weather the storm' mean?",
-      "options": ["To enjoy watching a thunderstorm", "To survive a difficult period", "To predict the weather accurately", "To build a shelter quickly"],
-      "correctAnswer": 1,
+      "options": [
+        "To build a shelter quickly",
+        "To enjoy watching a thunderstorm",
+        "To survive a difficult period",
+        "To predict the weather accurately"
+      ],
+      "correctAnswer": 2,
       "explanation": "'To weather the storm' means to endure and survive a difficult or dangerous situation. It comes from sailing, where ships had to withstand storms at sea to reach safety.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "we-7",
       "question": "What does the expression 'steal someone's thunder' mean?",
-      "options": ["To take credit for someone else's idea", "To be louder than someone", "To cause a thunderstorm", "To interrupt a conversation"],
-      "correctAnswer": 0,
+      "options": [
+        "To be louder than someone",
+        "To interrupt a conversation",
+        "To cause a thunderstorm",
+        "To take credit for someone else's idea"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Steal someone's thunder' means to take credit for someone else's achievement or to lessen the impact of their announcement. It originated with playwright John Dennis, who invented a thunder sound effect that was later used by a rival theater without permission.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "we-8",
       "question": "What does 'a snowball's chance in hell' mean?",
-      "options": ["A guaranteed success", "A very cold day", "Virtually no chance at all", "A surprising turn of events"],
-      "correctAnswer": 2,
+      "options": [
+        "A very cold day",
+        "A surprising turn of events",
+        "A guaranteed success",
+        "Virtually no chance at all"
+      ],
+      "correctAnswer": 3,
       "explanation": "'A snowball's chance in hell' means little or no chance of success. Since hell is traditionally depicted as a fiery hot place, a snowball would melt instantly there—making survival impossible.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "we-9",
       "question": "What does the idiom 'to be snowed under' mean?",
-      "options": ["To be buried in actual snow", "To be overwhelmed with work or tasks", "To be cold and shivering", "To be on a ski vacation"],
-      "correctAnswer": 1,
+      "options": [
+        "To be overwhelmed with work or tasks",
+        "To be on a ski vacation",
+        "To be cold and shivering",
+        "To be buried in actual snow"
+      ],
+      "correctAnswer": 0,
       "explanation": "'To be snowed under' means to be overwhelmed with a large amount of work or responsibilities. The metaphor compares the feeling of being buried under tasks to being buried under a heavy snowfall.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "we-10",
       "question": "What does the expression 'calm before the storm' refer to?",
-      "options": ["The weather right after a tornado", "A quiet period before chaos or trouble", "A peaceful retirement", "The eye of a hurricane"],
-      "correctAnswer": 1,
+      "options": [
+        "The eye of a hurricane",
+        "The weather right after a tornado",
+        "A peaceful retirement",
+        "A quiet period before chaos or trouble"
+      ],
+      "correctAnswer": 3,
       "explanation": "'The calm before the storm' refers to a quiet, peaceful period that precedes a time of upheaval or trouble. It reflects the actual meteorological phenomenon where the air can become eerily still before a storm arrives.",
       "difficulty": "medium",
       "category": "language"
@@ -98,7 +148,12 @@
     {
       "id": "we-11",
       "question": "What does the phrase 'to chase rainbows' mean?",
-      "options": ["To enjoy nature photography", "To pursue unrealistic or impossible goals", "To travel to tropical locations", "To study atmospheric science"],
+      "options": [
+        "To enjoy nature photography",
+        "To pursue unrealistic or impossible goals",
+        "To travel to tropical locations",
+        "To study atmospheric science"
+      ],
       "correctAnswer": 1,
       "explanation": "'To chase rainbows' means to pursue unrealistic dreams or goals that are impossible to achieve. Just as you can never reach the end of a rainbow, the goals being pursued are unattainable.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "we-12",
       "question": "What does the idiom 'to take a rain check' mean?",
-      "options": ["To check if it will rain", "To politely decline now but accept later", "To bring an umbrella", "To cancel plans permanently"],
-      "correctAnswer": 1,
+      "options": [
+        "To politely decline now but accept later",
+        "To cancel plans permanently",
+        "To bring an umbrella",
+        "To check if it will rain"
+      ],
+      "correctAnswer": 0,
       "explanation": "'To take a rain check' means to politely decline an offer or invitation with the intention of accepting it at a later time. It originated from baseball, where spectators received a ticket stub to return for a game postponed due to rain.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "we-13",
       "question": "What does the expression 'to be on cloud nine' mean?",
-      "options": ["To be confused", "To be at a very high altitude", "To be extremely happy or euphoric", "To be daydreaming"],
-      "correctAnswer": 2,
+      "options": [
+        "To be daydreaming",
+        "To be extremely happy or euphoric",
+        "To be confused",
+        "To be at a very high altitude"
+      ],
+      "correctAnswer": 1,
       "explanation": "'To be on cloud nine' means to be blissfully happy or in a state of euphoria. One theory traces it to the U.S. Weather Bureau's classification of clouds, where cloud nine (cumulonimbus) is the highest-reaching type.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "we-14",
       "question": "What does 'to throw caution to the wind' mean?",
-      "options": ["To fly a kite recklessly", "To be very careful", "To act recklessly without worrying about consequences", "To check the wind direction"],
-      "correctAnswer": 2,
+      "options": [
+        "To act recklessly without worrying about consequences",
+        "To be very careful",
+        "To check the wind direction",
+        "To fly a kite recklessly"
+      ],
+      "correctAnswer": 0,
       "explanation": "'To throw caution to the wind' means to abandon careful behavior and act recklessly, disregarding potential dangers or consequences. The wind symbolizes the unpredictable forces one exposes oneself to.",
       "difficulty": "hard",
       "category": "language"
@@ -134,8 +204,13 @@
     {
       "id": "we-15",
       "question": "What does the phrase 'tempest in a teapot' mean?",
-      "options": ["A brewing method for tea", "A great commotion over a trivial matter", "A miniature tornado", "A magical occurrence"],
-      "correctAnswer": 1,
+      "options": [
+        "A brewing method for tea",
+        "A magical occurrence",
+        "A miniature tornado",
+        "A great commotion over a trivial matter"
+      ],
+      "correctAnswer": 3,
       "explanation": "A 'tempest in a teapot' (or 'storm in a teacup' in British English) means a major fuss or controversy over something insignificant. The contrast between a violent tempest and a tiny teapot highlights the overreaction.",
       "difficulty": "hard",
       "category": "language"

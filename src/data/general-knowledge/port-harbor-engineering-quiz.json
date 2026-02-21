@@ -1,0 +1,219 @@
+{
+  "id": "port-harbor-engineering-quiz",
+  "title": "Port & Harbor Engineering",
+  "description": "Dock your knowledge with questions about the engineering of ports and harbors!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "port-harbor-engineering-quiz-1",
+      "question": "Which is the busiest container port in the world by cargo volume?",
+      "options": [
+        "Shanghai",
+        "Singapore",
+        "Los Angeles",
+        "Rotterdam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Port of Shanghai has been the world's busiest container port since 2010, handling over 47 million TEUs (twenty-foot equivalent units) annually. Its Yangshan Deep-Water Port is built on islands connected by a 32-km bridge.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-2",
+      "question": "What is a 'breakwater' in harbor engineering?",
+      "options": [
+        "A water treatment facility",
+        "A structure that protects a harbor from waves and currents",
+        "A type of ship dock",
+        "A device to purify seawater"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A breakwater is a structure built to protect a harbor, beach, or shore from the force of ocean waves. They can be made of rock, concrete, or steel and create calm water conditions for safe docking and loading.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-3",
+      "question": "What does 'TEU' stand for in the shipping industry?",
+      "options": [
+        "Terminal Equipment Usage",
+        "Twenty-foot Equivalent Unit",
+        "Total Export Units",
+        "Trade Exchange Unit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TEU stands for Twenty-foot Equivalent Unit, a standard measure of cargo capacity based on the volume of a 20-foot-long shipping container. It is the standard unit for measuring container port throughput and ship capacity.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-4",
+      "question": "The Port of Rotterdam in the Netherlands is one of Europe's largest ports. What engineering feat allows it to exist?",
+      "options": [
+        "Extensive land reclamation and artificial harbor basins",
+        "Constructed on floating platforms",
+        "Built inside a mountain",
+        "Built entirely on natural deep water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Port of Rotterdam has been extensively expanded through land reclamation projects, including the massive Maasvlakte and Maasvlakte 2 extensions built into the North Sea. The port stretches over 40 km along the Nieuwe Maas river.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-5",
+      "question": "What is a 'dry dock' used for?",
+      "options": [
+        "Storing cargo",
+        "Repairing and maintaining ships out of water",
+        "Desalinating seawater",
+        "Loading containers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dry dock is an enclosed basin that can be flooded to allow a ship to enter, then drained to expose the hull for repairs, maintenance, painting, or inspection. They are essential facilities at major ports and shipyards.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-6",
+      "question": "The ancient port of Caesarea, built by King Herod around 25-13 BC, was remarkable for using what construction material underwater?",
+      "options": [
+        "Cut stone blocks",
+        "Fired bricks",
+        "Hydraulic concrete (pozzolana)",
+        "Lead-lined wood"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Herod's engineers used Roman hydraulic concrete made with volcanic ash (pozzolana) that could set underwater. They built massive concrete blocks directly in the sea to create breakwaters, making Caesarea one of the ancient world's greatest artificial harbors.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-7",
+      "question": "What is 'dredging' in the context of port engineering?",
+      "options": [
+        "Installing navigation lights",
+        "Building new docks",
+        "Removing sediment from the bottom of waterways to maintain depth",
+        "Testing water quality"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dredging is the process of removing sand, silt, and other sediment from the bottom of harbors, channels, and waterways to maintain sufficient depth for ships to navigate safely. It is an ongoing necessity at most ports.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-8",
+      "question": "A gantry crane at a container port is used primarily for what task?",
+      "options": [
+        "Towing ships into port",
+        "Building new docks",
+        "Loading and unloading shipping containers from vessels",
+        "Dredging channels"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gantry cranes (also called ship-to-shore cranes) are massive cranes that straddle container ships to lift containers on and off the vessel. Modern cranes can move 30-40 containers per hour and reach across ships 22 containers wide.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-9",
+      "question": "The Suez Canal's Port Said was strategically important because it served as the entrance to the canal from which sea?",
+      "options": [
+        "Black Sea",
+        "Arabian Sea",
+        "Red Sea",
+        "Mediterranean Sea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Port Said sits at the northern (Mediterranean) entrance to the Suez Canal. Founded in 1859 when canal construction began, it became one of the world's busiest ports as a fueling station and waypoint for ships transiting the canal.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-10",
+      "question": "What is a 'quay' (pronounced 'key') at a port?",
+      "options": [
+        "A wharf or platform where ships dock for loading and unloading",
+        "An underwater tunnel",
+        "A ship repair facility",
+        "A type of crane"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A quay is a solid structure, usually made of concrete or stone, built along the edge of a harbor where ships can dock alongside for loading, unloading, or passenger embarkation. It differs from a pier, which extends out into the water.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-11",
+      "question": "The containerization revolution in shipping was pioneered in 1956 by which American businessman?",
+      "options": [
+        "Malcom McLean",
+        "Cornelius Vanderbilt",
+        "Henry Kaiser",
+        "Andrew Carnegie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Malcom McLean developed the modern intermodal shipping container in 1956, transforming global trade. His standardized containers could be loaded on ships, trucks, and trains without unpacking, dramatically reducing shipping costs and time.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-12",
+      "question": "What is a 'lock' in the context of port engineering?",
+      "options": [
+        "A chamber that raises or lowers water level to move vessels between different elevations",
+        "A mooring rope",
+        "A type of anchor",
+        "A security device"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A lock is an enclosed chamber with gates at each end that fills or drains to raise or lower vessels between different water levels. They are used in ports connected to rivers, canals, or tidal basins to maintain constant water levels.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-13",
+      "question": "The ancient Greek port of Piraeus served which major city?",
+      "options": [
+        "Athens",
+        "Sparta",
+        "Thebes",
+        "Corinth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Piraeus was (and still is) the port of Athens, located about 12 km southwest of the city center. In ancient times, it was connected to Athens by the Long Walls and was the base of the powerful Athenian navy.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-14",
+      "question": "What is a 'VLCC' in maritime shipping?",
+      "options": [
+        "Variable Load Cargo Container",
+        "Vessel Loading Control Center",
+        "Very Large Container Carrier",
+        "Very Large Crude Carrier"
+      ],
+      "correctAnswer": 3,
+      "explanation": "VLCC stands for Very Large Crude Carrier, an oil tanker with a capacity of 200,000-320,000 deadweight tonnes. These massive ships require deep-water ports and specialized loading/unloading facilities.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "port-harbor-engineering-quiz-15",
+      "question": "What are 'tetrapods' commonly used for in coastal and harbor engineering?",
+      "options": [
+        "Fish habitat creation",
+        "Wave-breaking armor units for breakwaters",
+        "Navigation markers",
+        "Underwater communication"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tetrapods are four-legged concrete structures used as armor units on breakwaters and sea walls. Their interlocking shape dissipates wave energy effectively, and they are widely used to protect harbors and coastlines from erosion.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

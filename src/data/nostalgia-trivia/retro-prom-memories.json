@@ -7,92 +7,167 @@
     {
       "id": "retro-prom-memories-1",
       "question": "What flower arrangement, worn on the wrist or pinned to a dress, was traditionally given to a prom date by her escort?",
-      "options": ["Bouquet", "Corsage", "Lei", "Boutonniere"],
-      "correctAnswer": 1
+      "options": [
+        "Boutonniere",
+        "Lei",
+        "Corsage",
+        "Bouquet"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-prom-memories-2",
       "question": "What matching flower did the young man traditionally wear pinned to his lapel at prom?",
-      "options": ["Corsage", "Garland", "Boutonniere", "Nosegay"],
+      "options": [
+        "Garland",
+        "Nosegay",
+        "Boutonniere",
+        "Corsage"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-prom-memories-3",
       "question": "In the 1950s and 1960s, what was the most common venue for high school prom dances?",
-      "options": ["Hotel ballrooms", "The school gymnasium", "Country clubs", "Community centers"],
-      "correctAnswer": 1
+      "options": [
+        "Community centers",
+        "Country clubs",
+        "Hotel ballrooms",
+        "The school gymnasium"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-prom-memories-4",
       "question": "What popular 1950s prom dress style featured a very full skirt supported by layers of petticoats?",
-      "options": ["Flapper dress", "A-line dress", "Full-skirted tea-length dress", "Miniskirt dress"],
-      "correctAnswer": 2
+      "options": [
+        "Flapper dress",
+        "Miniskirt dress",
+        "A-line dress",
+        "Full-skirted tea-length dress"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-prom-memories-5",
       "question": "Which classic slow dance song by The Righteous Brothers became a prom favorite in the 1960s?",
-      "options": ["Unchained Melody", "My Girl", "Stand by Me", "In the Still of the Night"],
-      "correctAnswer": 0
+      "options": [
+        "My Girl",
+        "Unchained Melody",
+        "Stand by Me",
+        "In the Still of the Night"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-prom-memories-6",
       "question": "Before limousines became popular, what was the most common way for a young man to take his date to prom?",
-      "options": ["A taxi", "Borrowing his parents' car", "A horse and buggy", "A school bus"],
+      "options": [
+        "A school bus",
+        "Borrowing his parents' car",
+        "A taxi",
+        "A horse and buggy"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-prom-memories-7",
       "question": "What classic prom night activity involved a professional coming to the event to take formal portraits of couples?",
-      "options": ["Yearbook interviews", "Prom photos", "Video recordings", "Caricature drawings"],
-      "correctAnswer": 1
+      "options": [
+        "Video recordings",
+        "Caricature drawings",
+        "Yearbook interviews",
+        "Prom photos"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-prom-memories-8",
       "question": "Which 1970s trend saw prom-goers wearing wide-lapeled tuxedos in colors like powder blue and burgundy?",
-      "options": ["Mod fashion", "Colored tuxedos", "Disco suits", "Preppy look"],
-      "correctAnswer": 1
+      "options": [
+        "Disco suits",
+        "Preppy look",
+        "Colored tuxedos",
+        "Mod fashion"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-prom-memories-9",
       "question": "What honor was bestowed on one couple chosen by their classmates as the highlight of prom night?",
-      "options": ["Best Dressed", "Prom King and Queen", "Most Popular", "Cutest Couple"],
-      "correctAnswer": 1
+      "options": [
+        "Best Dressed",
+        "Most Popular",
+        "Prom King and Queen",
+        "Cutest Couple"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-prom-memories-10",
       "question": "In the 1960s, what hairstyle, achieved with lots of hairspray and backcombing, was popular for girls at prom?",
-      "options": ["Pixie cut", "Beehive or bouffant", "Feathered hair", "Afro"],
+      "options": [
+        "Afro",
+        "Beehive or bouffant",
+        "Pixie cut",
+        "Feathered hair"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-prom-memories-11",
       "question": "Which 1976 horror movie, starring Sissy Spacek, is set at a disastrous high school prom?",
-      "options": ["Halloween", "Carrie", "Prom Night", "The Fury"],
+      "options": [
+        "Halloween",
+        "Carrie",
+        "The Fury",
+        "Prom Night"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-prom-memories-12",
       "question": "What sweet, fruit-flavored drink was commonly served in a large bowl with a ladle at prom refreshment tables?",
-      "options": ["Lemonade", "Kool-Aid", "Punch", "Soda pop"],
-      "correctAnswer": 2
+      "options": [
+        "Lemonade",
+        "Kool-Aid",
+        "Soda pop",
+        "Punch"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-prom-memories-13",
       "question": "In the 1980s, what style of prom dress featured dramatic puffed sleeves and lots of ruffles?",
-      "options": ["Disco gown", "Princess Diana-inspired gown", "Bohemian dress", "Mod shift dress"],
-      "correctAnswer": 1
+      "options": [
+        "Bohemian dress",
+        "Disco gown",
+        "Princess Diana-inspired gown",
+        "Mod shift dress"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-prom-memories-14",
       "question": "What post-prom tradition involved groups of friends staying up all night together after the dance?",
-      "options": ["After-prom party or all-night party", "Morning brunch", "Beach bonfire only", "Going straight home"],
-      "correctAnswer": 0
+      "options": [
+        "Beach bonfire only",
+        "After-prom party or all-night party",
+        "Morning brunch",
+        "Going straight home"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-prom-memories-15",
       "question": "Which popular 1984 movie features a high school senior who is forbidden from attending prom and must sneak out to go?",
-      "options": ["Pretty in Pink", "Footloose", "Sixteen Candles", "Fast Times at Ridgemont High"],
-      "correctAnswer": 1
+      "options": [
+        "Footloose",
+        "Sixteen Candles",
+        "Pretty in Pink",
+        "Fast Times at Ridgemont High"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

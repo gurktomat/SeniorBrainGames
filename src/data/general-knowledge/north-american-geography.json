@@ -1,0 +1,173 @@
+{
+  "id": "north-american-geography",
+  "title": "North American Geography",
+  "description": "From the Rocky Mountains to the Great Lakes, explore the diverse geography of North America!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "north-american-geography-1",
+      "question": "What is the longest river in North America?",
+      "options": [
+        "Yukon",
+        "Missouri",
+        "Rio Grande",
+        "Mississippi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-2",
+      "question": "How many Great Lakes are there along the US-Canadian border?",
+      "options": [
+        "Three",
+        "Five",
+        "Four",
+        "Six"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-3",
+      "question": "What is the highest peak in North America?",
+      "options": [
+        "Mount Whitney",
+        "Mount Logan",
+        "Denali (Mount McKinley)",
+        "Mount Rainier"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "north-american-geography-4",
+      "question": "The Grand Canyon was carved by which river over millions of years?",
+      "options": [
+        "Missouri River",
+        "Rio Grande",
+        "Colorado River",
+        "Columbia River"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "north-american-geography-5",
+      "question": "Which Canadian province is the largest by area?",
+      "options": [
+        "Ontario",
+        "Nunavut",
+        "British Columbia",
+        "Quebec"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "north-american-geography-6",
+      "question": "Death Valley, the lowest point in North America, is located in which US state?",
+      "options": [
+        "Nevada",
+        "Utah",
+        "Arizona",
+        "California"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "north-american-geography-7",
+      "question": "Which Great Lake is the largest by surface area?",
+      "options": [
+        "Lake Superior",
+        "Lake Erie",
+        "Lake Huron",
+        "Lake Michigan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "north-american-geography-8",
+      "question": "Niagara Falls sits on the border between New York State and which Canadian province?",
+      "options": [
+        "Quebec",
+        "Ontario",
+        "Manitoba",
+        "New Brunswick"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-9",
+      "question": "Which mountain range runs from Alaska through western Canada and the western United States?",
+      "options": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "Rocky Mountains",
+        "Appalachian Mountains"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "north-american-geography-10",
+      "question": "The Chesapeake Bay, the largest estuary in the US, is located near which major cities?",
+      "options": [
+        "Miami and Tampa",
+        "New York and Boston",
+        "New Orleans and Houston",
+        "Baltimore and Washington DC"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "north-american-geography-11",
+      "question": "Which desert is the largest in North America?",
+      "options": [
+        "Mojave Desert",
+        "Chihuahuan Desert",
+        "Sonoran Desert",
+        "Great Basin Desert"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-12",
+      "question": "Hudson Bay, one of the largest bays in the world, is located in which country?",
+      "options": [
+        "Mexico",
+        "Canada",
+        "Greenland",
+        "United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-13",
+      "question": "The Appalachian Mountains run from Alabama to which northeastern state or province?",
+      "options": [
+        "Maine",
+        "Newfoundland",
+        "Vermont",
+        "New Hampshire"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "north-american-geography-14",
+      "question": "Which North American island is the largest in the world (not counting Australia as an island)?",
+      "options": [
+        "Newfoundland",
+        "Baffin Island",
+        "Victoria Island",
+        "Greenland"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "north-american-geography-15",
+      "question": "Old Faithful, one of the most famous geysers in the world, is located in which national park?",
+      "options": [
+        "Yellowstone",
+        "Glacier",
+        "Grand Teton",
+        "Yosemite"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "helicopter-types-quiz",
+  "title": "Helicopter Types Quiz",
+  "description": "Lift off and recall facts about helicopters, from rescue choppers to military gunships",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "helicopter-types-quiz-1",
+      "question": "The UH-1 'Huey' helicopter became iconic during which war?",
+      "options": [
+        "World War II",
+        "Korean War",
+        "Vietnam War",
+        "Gulf War"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "helicopter-types-quiz-2",
+      "question": "The AH-64 Apache is primarily used as what type of helicopter?",
+      "options": [
+        "Transport",
+        "Training aircraft",
+        "Search and rescue",
+        "Attack helicopter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "helicopter-types-quiz-3",
+      "question": "Igor Sikorsky, who built the first practical helicopter in 1939, was originally from which country?",
+      "options": [
+        "Germany",
+        "Russia",
+        "France",
+        "Poland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "helicopter-types-quiz-4",
+      "question": "A 'Chinook' military helicopter is distinctive for having how many rotors?",
+      "options": [
+        "Three",
+        "One",
+        "Two (tandem)",
+        "Four"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "helicopter-types-quiz-5",
+      "question": "What is the primary purpose of a 'medevac' helicopter?",
+      "options": [
+        "Medical evacuation of injured people",
+        "Cargo transport",
+        "Aerial photography",
+        "Military attack"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "helicopter-types-quiz-6",
+      "question": "The Black Hawk helicopter, used by the U.S. military, is manufactured by which company?",
+      "options": [
+        "Boeing",
+        "Eurocopter",
+        "Sikorsky",
+        "Bell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "helicopter-types-quiz-7",
+      "question": "What does the tail rotor on a conventional helicopter do?",
+      "options": [
+        "Provides forward thrust",
+        "Controls altitude",
+        "Counteracts the torque of the main rotor",
+        "Generates lift"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "helicopter-types-quiz-8",
+      "question": "The Robinson R22 is a popular helicopter used primarily for what?",
+      "options": [
+        "Flight training and private use",
+        "Military combat",
+        "Heavy cargo transport",
+        "Maritime patrol"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "helicopter-types-quiz-9",
+      "question": "The Mi-24 'Hind' is a famous attack helicopter built by which country?",
+      "options": [
+        "France",
+        "Soviet Union/Russia",
+        "China",
+        "United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "helicopter-types-quiz-10",
+      "question": "A helicopter that can land and take off from water using floats is called what?",
+      "options": [
+        "Amphibious helicopter",
+        "Float helicopter",
+        "Seaplane",
+        "Hovercraft"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "helicopter-types-quiz-11",
+      "question": "The Bell 206 JetRanger is one of the most popular helicopters for which purpose?",
+      "options": [
+        "Executive and news transport",
+        "Crop dusting",
+        "Military attack",
+        "Submarine hunting"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "helicopter-types-quiz-12",
+      "question": "Marine One is the call sign for any helicopter carrying which person?",
+      "options": [
+        "Chairman of the Joint Chiefs",
+        "Secretary of Defense",
+        "Vice President",
+        "President of the United States"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "helicopter-types-quiz-13",
+      "question": "The Eurocopter (now Airbus) EC135 is commonly used for what civilian purpose?",
+      "options": [
+        "Mining surveys",
+        "Firefighting",
+        "Air ambulance and police operations",
+        "Agricultural spraying"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "helicopter-types-quiz-14",
+      "question": "What is a 'tiltrotor' aircraft like the V-22 Osprey capable of doing?",
+      "options": [
+        "Diving underwater",
+        "Taking off like a helicopter and flying like a plane",
+        "Flying backwards at high speed",
+        "Carrying other aircraft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "helicopter-types-quiz-15",
+      "question": "The CH-47 Chinook is primarily used for what military role?",
+      "options": [
+        "Anti-submarine warfare",
+        "Air-to-air combat",
+        "Heavy-lift transport",
+        "Reconnaissance"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

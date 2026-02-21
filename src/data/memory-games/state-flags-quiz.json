@@ -7,91 +7,166 @@
     {
       "id": "state-flags-quiz-1",
       "question": "Which US state flag features a grizzly bear walking on a patch of green grass?",
-      "options": ["Montana", "California", "Alaska", "Wyoming"],
+      "options": [
+        "Wyoming",
+        "California",
+        "Montana",
+        "Alaska"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "state-flags-quiz-2",
       "question": "The Lone Star Flag belongs to which state?",
-      "options": ["Arizona", "Nevada", "Texas", "Oklahoma"],
-      "correctAnswer": 2
+      "options": [
+        "Nevada",
+        "Oklahoma",
+        "Arizona",
+        "Texas"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "state-flags-quiz-3",
       "question": "Which state flag is the only one that is not rectangular, featuring a unique pennant shape?",
-      "options": ["Hawaii", "Ohio", "New Mexico", "Colorado"],
+      "options": [
+        "Colorado",
+        "Ohio",
+        "Hawaii",
+        "New Mexico"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "state-flags-quiz-4",
       "question": "Which state flag displays the Big Dipper constellation and the North Star?",
-      "options": ["Alaska", "Montana", "Maine", "Minnesota"],
-      "correctAnswer": 0
+      "options": [
+        "Maine",
+        "Alaska",
+        "Minnesota",
+        "Montana"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "state-flags-quiz-5",
       "question": "Which state flag features a Union Jack in its canton, reflecting its historical ties to Britain?",
-      "options": ["Virginia", "Georgia", "Hawaii", "Maryland"],
-      "correctAnswer": 2
+      "options": [
+        "Maryland",
+        "Georgia",
+        "Virginia",
+        "Hawaii"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "state-flags-quiz-6",
       "question": "The state flag featuring a red diamond shape on a white diamond on a blue background belongs to which state?",
-      "options": ["Arkansas", "Tennessee", "Mississippi", "Alabama"],
-      "correctAnswer": 0
+      "options": [
+        "Tennessee",
+        "Arkansas",
+        "Alabama",
+        "Mississippi"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "state-flags-quiz-7",
       "question": "Which state flag has three horizontal stripes of red, white, and blue with three stars in a blue circle?",
-      "options": ["North Carolina", "Tennessee", "Missouri", "Iowa"],
-      "correctAnswer": 1
+      "options": [
+        "North Carolina",
+        "Iowa",
+        "Tennessee",
+        "Missouri"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "state-flags-quiz-8",
       "question": "Which state flag features a yellow Zia sun symbol on a red background?",
-      "options": ["Arizona", "New Mexico", "Colorado", "Utah"],
-      "correctAnswer": 1
+      "options": [
+        "Colorado",
+        "Arizona",
+        "Utah",
+        "New Mexico"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "state-flags-quiz-9",
       "question": "The flag with a large red 'C' encircling a golden disk on blue and white stripes belongs to which state?",
-      "options": ["Connecticut", "California", "Colorado", "Carolina"],
+      "options": [
+        "California",
+        "Connecticut",
+        "Colorado",
+        "Carolina"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "state-flags-quiz-10",
       "question": "Which state flag features a black and gold cross pattern inspired by the coat of arms of the Calvert family?",
-      "options": ["Virginia", "Delaware", "Maryland", "Pennsylvania"],
-      "correctAnswer": 2
+      "options": [
+        "Maryland",
+        "Pennsylvania",
+        "Delaware",
+        "Virginia"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "state-flags-quiz-11",
       "question": "Which state's flag displays a pelican feeding her young, symbolizing self-sacrifice?",
-      "options": ["Florida", "Louisiana", "Mississippi", "South Carolina"],
-      "correctAnswer": 1
+      "options": [
+        "Louisiana",
+        "Florida",
+        "Mississippi",
+        "South Carolina"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "state-flags-quiz-12",
       "question": "Which state flag features a palmetto tree and a white crescent moon on an indigo blue background?",
-      "options": ["Georgia", "South Carolina", "North Carolina", "Virginia"],
-      "correctAnswer": 1
+      "options": [
+        "Georgia",
+        "Virginia",
+        "South Carolina",
+        "North Carolina"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "state-flags-quiz-13",
       "question": "Which state flag includes the motto 'Live Free or Die'?",
-      "options": ["New Hampshire", "Vermont", "Maine", "Massachusetts"],
-      "correctAnswer": 0
+      "options": [
+        "Maine",
+        "Vermont",
+        "New Hampshire",
+        "Massachusetts"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "state-flags-quiz-14",
       "question": "Which state flag has a solid green background with the state seal featuring a beaver on the front?",
-      "options": ["Washington", "Oregon", "Vermont", "Maine"],
-      "correctAnswer": 1
+      "options": [
+        "Washington",
+        "Maine",
+        "Oregon",
+        "Vermont"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "state-flags-quiz-15",
       "question": "Which state flag features a bison standing on a green mound beneath the state name on a blue field?",
-      "options": ["Montana", "Wyoming", "Kansas", "Nebraska"],
+      "options": [
+        "Wyoming",
+        "Nebraska",
+        "Kansas",
+        "Montana"
+      ],
       "correctAnswer": 2
     }
   ]

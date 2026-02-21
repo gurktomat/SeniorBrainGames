@@ -1,0 +1,173 @@
+{
+  "id": "pie-types-quiz",
+  "title": "Pie Types Quiz",
+  "description": "Sweet or savory, how well do you know your pies from around the world?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "pie-types-quiz-1",
+      "question": "Which classic American pie is traditionally served at Thanksgiving?",
+      "options": [
+        "Cherry pie",
+        "Apple pie",
+        "Pumpkin pie",
+        "Pecan pie"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pie-types-quiz-2",
+      "question": "A quiche Lorraine is a savory pie originating from France that traditionally contains which ingredients?",
+      "options": [
+        "Spinach and feta",
+        "Chicken and mushrooms",
+        "Bacon and cheese in a custard filling",
+        "Salmon and dill"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pie-types-quiz-3",
+      "question": "Which British pie features a thick layer of mashed potato on top of a meat filling?",
+      "options": [
+        "Steak and kidney pie",
+        "Cornish pasty",
+        "Shepherd's pie",
+        "Pork pie"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pie-types-quiz-4",
+      "question": "Key lime pie is a specialty dessert associated with which U.S. state?",
+      "options": [
+        "California",
+        "Hawaii",
+        "Florida",
+        "Louisiana"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pie-types-quiz-5",
+      "question": "What gives pecan pie its characteristically sweet, gooey filling?",
+      "options": [
+        "Maple syrup",
+        "Honey",
+        "Molasses",
+        "Corn syrup"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pie-types-quiz-6",
+      "question": "Which savory Australian pie features a meat filling enclosed in a pastry shell, often eaten as a handheld snack?",
+      "options": [
+        "Meat pie",
+        "Empanada",
+        "Sausage roll",
+        "Pasty"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pie-types-quiz-7",
+      "question": "Banoffee pie combines banana with which other key sweet ingredient?",
+      "options": [
+        "Chocolate",
+        "Toffee (caramel)",
+        "Strawberry jam",
+        "Lemon curd"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pie-types-quiz-8",
+      "question": "Which Greek savory pie is made with layers of phyllo dough, spinach, and feta cheese?",
+      "options": [
+        "Tiropita",
+        "Spanakopita",
+        "Moussaka",
+        "Baklava"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pie-types-quiz-9",
+      "question": "What type of meringue topping is baked on a lemon meringue pie?",
+      "options": [
+        "Swiss meringue",
+        "French meringue",
+        "Soft meringue",
+        "Italian meringue"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pie-types-quiz-10",
+      "question": "A Cornish pasty is a type of savory hand pie from which part of England?",
+      "options": [
+        "Devon",
+        "Cornwall",
+        "Yorkshire",
+        "Kent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pie-types-quiz-11",
+      "question": "Which Southern U.S. pie features a filling made primarily from sweet potatoes?",
+      "options": [
+        "Buttermilk pie",
+        "Bean pie",
+        "Chess pie",
+        "Sweet potato pie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pie-types-quiz-12",
+      "question": "Empanadas are a type of hand pie popular in which cuisine?",
+      "options": [
+        "Japanese",
+        "Latin American",
+        "Indian",
+        "Italian"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pie-types-quiz-13",
+      "question": "Which pie has a custard-like filling flavored with nutmeg and vinegar, originating in the American South?",
+      "options": [
+        "Shoofly pie",
+        "Sugar cream pie",
+        "Vinegar pie",
+        "Chess pie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pie-types-quiz-14",
+      "question": "Tourtière is a traditional meat pie served during the holidays in which country?",
+      "options": [
+        "Switzerland",
+        "Canada (Quebec)",
+        "France",
+        "Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pie-types-quiz-15",
+      "question": "Which type of pie crust is made by layering thin sheets of dough with butter, creating flaky layers?",
+      "options": [
+        "Choux pastry",
+        "Hot water crust",
+        "Puff pastry",
+        "Shortcrust"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

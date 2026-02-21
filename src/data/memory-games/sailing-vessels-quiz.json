@@ -1,0 +1,173 @@
+{
+  "id": "sailing-vessels-quiz",
+  "title": "Sailing Vessels Quiz",
+  "description": "Hoist the sails and test your recall of historic and modern sailing vessels",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sailing-vessels-quiz-1",
+      "question": "A 'schooner' is a sailing vessel typically characterized by having what type of rigging?",
+      "options": [
+        "A single triangular sail",
+        "Square sails only",
+        "No sails, only oars",
+        "Two or more masts with fore-and-aft sails"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sailing-vessels-quiz-2",
+      "question": "The America's Cup is the oldest international competition in which sport?",
+      "options": [
+        "Sailing",
+        "Swimming",
+        "Rowing",
+        "Canoeing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sailing-vessels-quiz-3",
+      "question": "A 'sloop' is a single-masted sailboat with how many sails in its basic configuration?",
+      "options": [
+        "One",
+        "Three",
+        "Two (a mainsail and a jib)",
+        "Four"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sailing-vessels-quiz-4",
+      "question": "What is the 'keel' of a sailing vessel?",
+      "options": [
+        "The steering wheel",
+        "The structural backbone along the bottom of the hull",
+        "The top of the mast",
+        "The anchor chain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sailing-vessels-quiz-5",
+      "question": "A 'brigantine' is a two-masted vessel with what sail arrangement?",
+      "options": [
+        "Lateen sails on both masts",
+        "Fore-and-aft sails on both masts",
+        "Square sails on both masts",
+        "Square sails on the foremast and fore-and-aft on the mainmast"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sailing-vessels-quiz-6",
+      "question": "The 'Cutty Sark,' a famous 19th-century ship preserved in Greenwich, was what type of vessel?",
+      "options": [
+        "Frigate",
+        "Barque",
+        "Clipper ship",
+        "Galleon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sailing-vessels-quiz-7",
+      "question": "A 'dhow' is a traditional sailing vessel associated with which region?",
+      "options": [
+        "Indian Ocean and Arabian Sea",
+        "Scandinavia",
+        "Pacific Islands",
+        "Caribbean"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sailing-vessels-quiz-8",
+      "question": "What is the 'boom' on a sailboat?",
+      "options": [
+        "The anchor mechanism",
+        "The sound the hull makes on waves",
+        "The emergency horn",
+        "The horizontal pole extending from the mast to hold the foot of the sail"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sailing-vessels-quiz-9",
+      "question": "A 'junk' is a traditional sailing vessel from which part of the world?",
+      "options": [
+        "Europe",
+        "Africa",
+        "East Asia (China)",
+        "South America"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sailing-vessels-quiz-10",
+      "question": "The term 'starboard' refers to which side of a ship?",
+      "options": [
+        "Right",
+        "Front",
+        "Left",
+        "Back"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sailing-vessels-quiz-11",
+      "question": "A 'yawl' differs from a 'ketch' primarily in what way?",
+      "options": [
+        "It uses square sails",
+        "It has more masts",
+        "Its mizzen mast is positioned aft of the rudder post",
+        "It is always larger"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sailing-vessels-quiz-12",
+      "question": "The 'spinnaker' is a type of sail used for what purpose?",
+      "options": [
+        "Sailing downwind for extra speed",
+        "Slowing the boat down",
+        "Anchoring the boat",
+        "Sailing directly into the wind"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sailing-vessels-quiz-13",
+      "question": "A 'felucca' is a traditional wooden sailing boat found along which river?",
+      "options": [
+        "Danube",
+        "Ganges",
+        "Nile",
+        "Amazon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sailing-vessels-quiz-14",
+      "question": "What does it mean to 'tack' when sailing?",
+      "options": [
+        "To anchor the boat",
+        "To increase speed",
+        "To lower all sails",
+        "To change direction by turning the bow through the wind"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sailing-vessels-quiz-15",
+      "question": "The 'Kon-Tiki' was a raft sailed by Thor Heyerdahl across which ocean in 1947?",
+      "options": [
+        "Indian",
+        "Atlantic",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

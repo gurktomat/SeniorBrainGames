@@ -1,0 +1,173 @@
+{
+  "id": "robotics-ai-quiz",
+  "title": "Robotics & Artificial Intelligence",
+  "description": "Discover the evolution of robots and AI from science fiction to everyday reality",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "robotics-ai-quiz-1",
+      "question": "The word 'robot' was first used in a 1920 play by which Czech writer?",
+      "options": [
+        "Karel Čapek",
+        "Franz Kafka",
+        "Milan Kundera",
+        "Václav Havel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-2",
+      "question": "Who is considered the 'father of artificial intelligence' and proposed the famous Turing Test?",
+      "options": [
+        "Marvin Minsky",
+        "Alan Turing",
+        "John McCarthy",
+        "Claude Shannon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "robotics-ai-quiz-3",
+      "question": "What was the name of the IBM computer that defeated chess champion Garry Kasparov in 1997?",
+      "options": [
+        "ENIAC",
+        "Deep Blue",
+        "HAL 9000",
+        "Watson"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "robotics-ai-quiz-4",
+      "question": "What science fiction author created the 'Three Laws of Robotics'?",
+      "options": [
+        "Isaac Asimov",
+        "Philip K. Dick",
+        "Arthur C. Clarke",
+        "Ray Bradbury"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-5",
+      "question": "What does AI stand for?",
+      "options": [
+        "Artificial Intelligence",
+        "Advanced Interface",
+        "Automated Intelligence",
+        "Artificial Integration"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-6",
+      "question": "Honda's humanoid robot, capable of walking and climbing stairs, is called what?",
+      "options": [
+        "Atlas",
+        "ASIMO",
+        "Sophia",
+        "Pepper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "robotics-ai-quiz-7",
+      "question": "What type of AI system learns by analyzing large amounts of data to find patterns?",
+      "options": [
+        "Expert system",
+        "Machine learning",
+        "Rule-based system",
+        "Logic programming"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "robotics-ai-quiz-8",
+      "question": "Which company developed the virtual assistant Siri?",
+      "options": [
+        "Amazon",
+        "Apple",
+        "Microsoft",
+        "Google"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "robotics-ai-quiz-9",
+      "question": "What is the name of the Mars rovers that are essentially robots exploring another planet?",
+      "options": [
+        "Planetary rovers",
+        "Robotic explorers",
+        "Autonomous vehicles",
+        "Space drones"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-10",
+      "question": "What branch of AI involves computers understanding and generating human language?",
+      "options": [
+        "Natural language processing",
+        "Neural architecture",
+        "Reinforcement learning",
+        "Computer vision"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-11",
+      "question": "Google's AI program AlphaGo made headlines in 2016 by defeating a world champion in which board game?",
+      "options": [
+        "Go",
+        "Shogi",
+        "Checkers",
+        "Chess"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "robotics-ai-quiz-12",
+      "question": "What type of robot is commonly used in automobile manufacturing to weld and paint cars?",
+      "options": [
+        "Humanoid robot",
+        "Domestic robot",
+        "Surgical robot",
+        "Industrial robot arm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "robotics-ai-quiz-13",
+      "question": "The da Vinci Surgical System is a robot used in which field?",
+      "options": [
+        "Deep-sea research",
+        "Military operations",
+        "Space exploration",
+        "Medicine and surgery"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "robotics-ai-quiz-14",
+      "question": "What is a 'neural network' in computing modeled after?",
+      "options": [
+        "Spider webs",
+        "Telephone networks",
+        "The human brain",
+        "Computer circuits"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "robotics-ai-quiz-15",
+      "question": "Which vacuum cleaner brand popularized the concept of a household robot?",
+      "options": [
+        "Hoover",
+        "Roomba (iRobot)",
+        "Shark",
+        "Dyson"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

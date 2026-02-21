@@ -1,0 +1,173 @@
+{
+  "id": "famous-scientists-quiz",
+  "title": "Famous Scientists Quiz",
+  "description": "How well do you remember the great minds of science? Test your recall of famous scientists and their contributions.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-scientists-quiz-1",
+      "question": "Who developed the theory of general relativity?",
+      "options": [
+        "Isaac Newton",
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-scientists-quiz-2",
+      "question": "Which scientist is credited with discovering penicillin in 1928?",
+      "options": [
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Alexander Fleming",
+        "Robert Koch"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-scientists-quiz-3",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+        "Dorothy Hodgkin",
+        "Lise Meitner",
+        "Marie Curie",
+        "Rosalind Franklin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-scientists-quiz-4",
+      "question": "Which scientist formulated the three laws of motion?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Robert Hooke"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-scientists-quiz-5",
+      "question": "Who is known as the 'father of modern chemistry'?",
+      "options": [
+        "John Dalton",
+        "Robert Boyle",
+        "Dmitri Mendeleev",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-scientists-quiz-6",
+      "question": "Which scientist proposed the heliocentric model of the solar system?",
+      "options": [
+        "Nicolaus Copernicus",
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Ptolemy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-scientists-quiz-7",
+      "question": "Who discovered the structure of DNA along with James Watson?",
+      "options": [
+        "Francis Crick",
+        "Linus Pauling",
+        "Erwin Chargaff",
+        "Maurice Wilkins"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-scientists-quiz-8",
+      "question": "Which physicist is famous for his uncertainty principle?",
+      "options": [
+        "Paul Dirac",
+        "Werner Heisenberg",
+        "Erwin Schrödinger",
+        "Wolfgang Pauli"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-scientists-quiz-9",
+      "question": "Who invented the first practical telephone?",
+      "options": [
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Alexander Graham Bell",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-scientists-quiz-10",
+      "question": "Which naturalist is best known for his theory of evolution by natural selection?",
+      "options": [
+        "Charles Darwin",
+        "Jean-Baptiste Lamarck",
+        "Alfred Russel Wallace",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-scientists-quiz-11",
+      "question": "Who developed the first successful polio vaccine?",
+      "options": [
+        "Albert Sabin",
+        "Jonas Salk",
+        "Edward Jenner",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-scientists-quiz-12",
+      "question": "Which scientist is known for his work with electricity and the invention of the lightning rod?",
+      "options": [
+        "Thomas Edison",
+        "Benjamin Franklin",
+        "Michael Faraday",
+        "Alessandro Volta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-scientists-quiz-13",
+      "question": "Who is credited with inventing the World Wide Web?",
+      "options": [
+        "Marc Andreessen",
+        "Tim Berners-Lee",
+        "Robert Kahn",
+        "Vint Cerf"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-scientists-quiz-14",
+      "question": "Which astronomer discovered that the universe is expanding?",
+      "options": [
+        "Edwin Hubble",
+        "Fred Hoyle",
+        "Carl Sagan",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-scientists-quiz-15",
+      "question": "Who developed the periodic table of elements?",
+      "options": [
+        "Dmitri Mendeleev",
+        "Henry Moseley",
+        "John Dalton",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "vaccine-history-quiz",
+  "title": "Vaccine History",
+  "description": "Learn about the vaccines that changed the world and the scientists behind them",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "vaccine-history-quiz-1",
+      "question": "Who developed the first successful vaccine, against smallpox, in 1796?",
+      "options": [
+        "Robert Koch",
+        "Joseph Lister",
+        "Louis Pasteur",
+        "Edward Jenner"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vaccine-history-quiz-2",
+      "question": "Edward Jenner's smallpox vaccine was derived from which related, milder disease?",
+      "options": [
+        "Cowpox",
+        "Influenza",
+        "Chickenpox",
+        "Measles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vaccine-history-quiz-3",
+      "question": "Which scientist developed the first rabies vaccine in 1885?",
+      "options": [
+        "Paul Ehrlich",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vaccine-history-quiz-4",
+      "question": "Jonas Salk developed a vaccine in 1955 that helped eradicate which crippling disease?",
+      "options": [
+        "Diphtheria",
+        "Polio",
+        "Tuberculosis",
+        "Typhoid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vaccine-history-quiz-5",
+      "question": "What type of vaccine uses a weakened form of the virus to build immunity?",
+      "options": [
+        "Toxoid vaccine",
+        "Subunit vaccine",
+        "Live attenuated vaccine",
+        "Inactivated vaccine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vaccine-history-quiz-6",
+      "question": "Smallpox was declared officially eradicated by the World Health Organization in what year?",
+      "options": [
+        "1975",
+        "1980",
+        "1970",
+        "1985"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vaccine-history-quiz-7",
+      "question": "What does the MMR vaccine protect against?",
+      "options": [
+        "Measles, Mumps, Rubella",
+        "Malaria, Meningitis, Rabies",
+        "Mono, Mumps, Rotavirus",
+        "Meningitis, Measles, Rickets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vaccine-history-quiz-8",
+      "question": "Albert Sabin developed an oral version of which vaccine in the late 1950s?",
+      "options": [
+        "Smallpox",
+        "Tuberculosis",
+        "Yellow fever",
+        "Polio"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vaccine-history-quiz-9",
+      "question": "What new technology was used in the Pfizer-BioNTech and Moderna COVID-19 vaccines?",
+      "options": [
+        "mRNA",
+        "Bacterial vector",
+        "Inactivated virus",
+        "Live virus"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vaccine-history-quiz-10",
+      "question": "The BCG vaccine, widely used around the world, protects against which disease?",
+      "options": [
+        "Hepatitis B",
+        "Yellow fever",
+        "Cholera",
+        "Tuberculosis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vaccine-history-quiz-11",
+      "question": "What is herd immunity?",
+      "options": [
+        "When enough people are immune that disease spread is limited",
+        "A type of vaccine for livestock",
+        "Immunity only in animals",
+        "Natural immunity from exposure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vaccine-history-quiz-12",
+      "question": "Which childhood disease, once a leading cause of death, was the first to be targeted by a global vaccination campaign?",
+      "options": [
+        "Polio",
+        "Diphtheria",
+        "Measles",
+        "Smallpox"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vaccine-history-quiz-13",
+      "question": "What organization leads global vaccination efforts and declared smallpox eradicated?",
+      "options": [
+        "Red Cross",
+        "Centers for Disease Control",
+        "World Health Organization",
+        "UNICEF"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vaccine-history-quiz-14",
+      "question": "The flu vaccine must be updated each year because influenza viruses do what frequently?",
+      "options": [
+        "Mutate",
+        "Grow larger",
+        "Become dormant",
+        "Become extinct"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vaccine-history-quiz-15",
+      "question": "What is the term for the process of testing a vaccine's safety and effectiveness before public use?",
+      "options": [
+        "Field survey",
+        "Clinical trials",
+        "Peer review",
+        "Laboratory analysis"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -8,7 +8,12 @@
     {
       "id": "mc-1",
       "question": "How many cups are in one quart?",
-      "options": ["2", "4", "6", "8"],
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
       "correctAnswer": 1,
       "explanation": "There are 4 cups in one quart. A quart is also equal to 2 pints or 32 fluid ounces.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "mc-2",
       "question": "How many feet are in one mile?",
-      "options": ["3,280", "5,280", "6,280", "4,280"],
-      "correctAnswer": 1,
+      "options": [
+        "4,280",
+        "6,280",
+        "3,280",
+        "5,280"
+      ],
+      "correctAnswer": 3,
       "explanation": "There are 5,280 feet in one mile. This number dates back to an act of the English Parliament in 1593.",
       "difficulty": "easy",
       "category": "math"
@@ -26,8 +36,13 @@
     {
       "id": "mc-3",
       "question": "How many inches are in one foot?",
-      "options": ["6", "10", "12", "16"],
-      "correctAnswer": 2,
+      "options": [
+        "12",
+        "6",
+        "10",
+        "16"
+      ],
+      "correctAnswer": 0,
       "explanation": "There are 12 inches in one foot. This measurement has been used since ancient times.",
       "difficulty": "easy",
       "category": "math"
@@ -35,7 +50,12 @@
     {
       "id": "mc-4",
       "question": "How many tablespoons are in one cup?",
-      "options": ["8", "12", "16", "20"],
+      "options": [
+        "12",
+        "8",
+        "16",
+        "20"
+      ],
       "correctAnswer": 2,
       "explanation": "There are 16 tablespoons in one cup. Each tablespoon equals 3 teaspoons, so there are 48 teaspoons in a cup.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "mc-5",
       "question": "How many ounces are in one pound?",
-      "options": ["8", "12", "14", "16"],
-      "correctAnswer": 3,
+      "options": [
+        "14",
+        "16",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
       "explanation": "There are 16 ounces in one pound. This is the avoirdupois pound used in the United States and other countries.",
       "difficulty": "easy",
       "category": "math"
@@ -53,8 +78,13 @@
     {
       "id": "mc-6",
       "question": "Approximately how many kilometers equal one mile?",
-      "options": ["0.62", "1.00", "1.61", "2.20"],
-      "correctAnswer": 2,
+      "options": [
+        "2.20",
+        "1.00",
+        "0.62",
+        "1.61"
+      ],
+      "correctAnswer": 3,
       "explanation": "One mile equals approximately 1.609 kilometers. Conversely, one kilometer is about 0.621 miles.",
       "difficulty": "medium",
       "category": "math"
@@ -62,8 +92,13 @@
     {
       "id": "mc-7",
       "question": "How many pints are in one gallon?",
-      "options": ["4", "6", "8", "10"],
-      "correctAnswer": 2,
+      "options": [
+        "4",
+        "6",
+        "10",
+        "8"
+      ],
+      "correctAnswer": 3,
       "explanation": "There are 8 pints in one gallon. A gallon has 4 quarts, and each quart has 2 pints.",
       "difficulty": "medium",
       "category": "math"
@@ -71,8 +106,13 @@
     {
       "id": "mc-8",
       "question": "What temperature in Fahrenheit equals 0 degrees Celsius?",
-      "options": ["0°F", "32°F", "100°F", "212°F"],
-      "correctAnswer": 1,
+      "options": [
+        "32°F",
+        "0°F",
+        "212°F",
+        "100°F"
+      ],
+      "correctAnswer": 0,
       "explanation": "0°C equals 32°F, the freezing point of water. The formula is F = (C x 9/5) + 32.",
       "difficulty": "medium",
       "category": "math"
@@ -80,8 +120,13 @@
     {
       "id": "mc-9",
       "question": "How many centimeters are in one inch?",
-      "options": ["1.54", "2.00", "2.54", "3.14"],
-      "correctAnswer": 2,
+      "options": [
+        "3.14",
+        "2.54",
+        "1.54",
+        "2.00"
+      ],
+      "correctAnswer": 1,
       "explanation": "One inch equals exactly 2.54 centimeters. This conversion factor was officially adopted internationally in 1959.",
       "difficulty": "medium",
       "category": "math"
@@ -89,8 +134,13 @@
     {
       "id": "mc-10",
       "question": "How many yards are in one mile?",
-      "options": ["880", "1,320", "1,760", "2,640"],
-      "correctAnswer": 2,
+      "options": [
+        "1,320",
+        "880",
+        "2,640",
+        "1,760"
+      ],
+      "correctAnswer": 3,
       "explanation": "There are 1,760 yards in one mile. Since one yard is 3 feet: 5,280 feet / 3 = 1,760 yards.",
       "difficulty": "medium",
       "category": "math"
@@ -98,8 +148,13 @@
     {
       "id": "mc-11",
       "question": "How many grams are in one troy ounce, used for precious metals?",
-      "options": ["28.35", "31.10", "33.50", "36.00"],
-      "correctAnswer": 1,
+      "options": [
+        "33.50",
+        "36.00",
+        "28.35",
+        "31.10"
+      ],
+      "correctAnswer": 3,
       "explanation": "One troy ounce equals approximately 31.10 grams. This is different from the standard avoirdupois ounce (28.35 grams) and is used for gold and silver.",
       "difficulty": "hard",
       "category": "math"
@@ -107,8 +162,13 @@
     {
       "id": "mc-12",
       "question": "How many liters are in one U.S. gallon?",
-      "options": ["2.785", "3.785", "4.546", "5.000"],
-      "correctAnswer": 1,
+      "options": [
+        "5.000",
+        "4.546",
+        "2.785",
+        "3.785"
+      ],
+      "correctAnswer": 3,
       "explanation": "One U.S. gallon equals approximately 3.785 liters. Note that an Imperial (UK) gallon is larger at about 4.546 liters.",
       "difficulty": "hard",
       "category": "math"
@@ -116,7 +176,12 @@
     {
       "id": "mc-13",
       "question": "Approximately how many acres are in one square mile?",
-      "options": ["320", "480", "640", "960"],
+      "options": [
+        "320",
+        "960",
+        "640",
+        "480"
+      ],
       "correctAnswer": 2,
       "explanation": "There are exactly 640 acres in one square mile. An acre was historically defined as the area a team of oxen could plow in one day.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "mc-14",
       "question": "What temperature is the same in both Fahrenheit and Celsius?",
-      "options": ["-20", "-32", "-40", "-50"],
-      "correctAnswer": 2,
+      "options": [
+        "-32",
+        "-20",
+        "-50",
+        "-40"
+      ],
+      "correctAnswer": 3,
       "explanation": "-40 degrees is the same in both Fahrenheit and Celsius. This can be proven by the formula: F = (C x 9/5) + 32; when C = -40, F = -40.",
       "difficulty": "hard",
       "category": "math"
@@ -134,7 +204,12 @@
     {
       "id": "mc-15",
       "question": "How many nautical miles equal one degree of latitude?",
-      "options": ["30", "45", "60", "90"],
+      "options": [
+        "90",
+        "30",
+        "60",
+        "45"
+      ],
       "correctAnswer": 2,
       "explanation": "One degree of latitude equals approximately 60 nautical miles. A nautical mile is about 1.151 standard miles or 1.852 kilometers.",
       "difficulty": "hard",

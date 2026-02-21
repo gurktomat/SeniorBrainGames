@@ -1,0 +1,173 @@
+{
+  "id": "engineering-terms-quiz",
+  "title": "Engineering Terms Quiz",
+  "description": "Explore the vocabulary of engineering, from structural concepts and materials science to design principles and construction techniques.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "engineering-terms-quiz-1",
+      "question": "What does 'tensile strength' measure?",
+      "options": [
+        "The weight a structure can support",
+        "The flexibility of a metal",
+        "The maximum stress a material can withstand while being stretched before breaking",
+        "The hardness of a surface"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "engineering-terms-quiz-2",
+      "question": "What is a 'cantilever'?",
+      "options": [
+        "A type of bridge cable",
+        "A type of foundation",
+        "A rotating machine part",
+        "A beam anchored at only one end, with the other end extending freely"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "engineering-terms-quiz-3",
+      "question": "What does 'tolerance' mean in engineering?",
+      "options": [
+        "The weight capacity of a structure",
+        "The resistance to corrosion",
+        "The permissible limit of variation in a dimension or measurement",
+        "The strength of a material"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "engineering-terms-quiz-4",
+      "question": "What is 'hydraulics'?",
+      "options": [
+        "The design of wind turbines",
+        "The study of sound waves",
+        "The science of using pressurized liquid to generate force and motion",
+        "The study of electricity"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "engineering-terms-quiz-5",
+      "question": "What is a 'load-bearing wall'?",
+      "options": [
+        "An exterior wall only",
+        "A decorative wall",
+        "A wall made of reinforced concrete",
+        "A wall that supports the weight of the structure above it"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "engineering-terms-quiz-6",
+      "question": "What does 'fatigue' mean when referring to materials?",
+      "options": [
+        "The expansion of metal in heat",
+        "A material losing its color",
+        "A material becoming heavier over time",
+        "The weakening of a material caused by repeated stress cycles"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "engineering-terms-quiz-7",
+      "question": "What is a 'schematic'?",
+      "options": [
+        "A safety inspection report",
+        "A type of building material",
+        "A finished product",
+        "A simplified diagram showing the elements of a system using symbols"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "engineering-terms-quiz-8",
+      "question": "What is 'torque' in mechanical engineering?",
+      "options": [
+        "The friction between gears",
+        "A twisting force that causes rotation",
+        "The weight of a motor",
+        "The speed of rotation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "engineering-terms-quiz-9",
+      "question": "What does 'calibration' involve?",
+      "options": [
+        "Building a new instrument",
+        "Designing a circuit board",
+        "Adjusting a measuring instrument to ensure accuracy",
+        "Testing the durability of materials"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "engineering-terms-quiz-10",
+      "question": "What is a 'prototype'?",
+      "options": [
+        "An early model or sample built to test a concept or design",
+        "A type of machine tool",
+        "The final version of a product",
+        "A blueprint for a building"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "engineering-terms-quiz-11",
+      "question": "What does 'aerodynamic' describe?",
+      "options": [
+        "Related to water flow",
+        "Designed to reduce air resistance and move efficiently through air",
+        "Powered by wind energy",
+        "Made from lightweight materials"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "engineering-terms-quiz-12",
+      "question": "What is 'ductility'?",
+      "options": [
+        "The weight of a material per unit volume",
+        "The ability of a material to resist heat",
+        "The hardness of a metal",
+        "The ability of a material to be drawn into thin wires without breaking"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "engineering-terms-quiz-13",
+      "question": "What is a 'truss' in structural engineering?",
+      "options": [
+        "A concrete foundation",
+        "A type of bolt",
+        "A framework of beams forming triangles to support a structure",
+        "A waterproof coating"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "engineering-terms-quiz-14",
+      "question": "What does 'CAD' stand for in engineering?",
+      "options": [
+        "Computer-Aided Design",
+        "Calculated Area Dimensions",
+        "Certified Architecture Drawing",
+        "Centralized Assembly Design"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "engineering-terms-quiz-15",
+      "question": "What is 'corrosion'?",
+      "options": [
+        "The wearing away of rock by water",
+        "The gradual destruction of a material by chemical reaction with its environment",
+        "The bending of a metal beam",
+        "The cracking of concrete from cold"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

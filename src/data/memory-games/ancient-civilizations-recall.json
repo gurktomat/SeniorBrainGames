@@ -1,0 +1,219 @@
+{
+  "id": "ancient-civilizations-recall",
+  "title": "Ancient Civilizations Recall",
+  "description": "Test your knowledge of the great civilizations that shaped our world!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ancient-civilizations-recall-1",
+      "question": "Which ancient civilization built the pyramids at Giza?",
+      "options": [
+        "Roman Empire",
+        "Mesopotamia",
+        "Ancient Greece",
+        "Ancient Egypt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ancient Egyptians built the pyramids at Giza around 2560 BC during the Old Kingdom period.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-2",
+      "question": "In which modern country was the ancient civilization of Mesopotamia located?",
+      "options": [
+        "Turkey",
+        "Egypt",
+        "Iran",
+        "Iraq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mesopotamia ('land between the rivers') was located in present-day Iraq, between the Tigris and Euphrates rivers.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-3",
+      "question": "Which ancient civilization developed the first known writing system, called cuneiform?",
+      "options": [
+        "Ancient China",
+        "Ancient Egypt",
+        "Indus Valley",
+        "Sumerians"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sumerians developed cuneiform writing around 3400 BC in Mesopotamia, using wedge-shaped marks on clay tablets.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-4",
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": [
+        "Inca",
+        "Maya",
+        "Olmec",
+        "Aztec"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Inca Empire built Machu Picchu in the 15th century as an estate for Emperor Pachacuti, high in the Andes Mountains of Peru.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-5",
+      "question": "Which civilization created the concept of democracy in the 5th century BC?",
+      "options": [
+        "Roman Republic",
+        "Persian Empire",
+        "Carthage",
+        "Ancient Athens"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient Athens developed the world's first known democracy around 508 BC under the reforms of Cleisthenes.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-6",
+      "question": "Which ancient civilization is known for its advanced plumbing and the cities of Mohenjo-daro and Harappa?",
+      "options": [
+        "Ancient Egypt",
+        "Ancient China",
+        "Mesopotamia",
+        "Indus Valley Civilization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indus Valley Civilization (c. 3300-1300 BC) had remarkably advanced urban planning including sophisticated drainage and plumbing systems.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-7",
+      "question": "Which civilization built the Colosseum in Rome?",
+      "options": [
+        "Etruscan",
+        "Roman Empire",
+        "Ancient Greece",
+        "Byzantine Empire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Roman Empire built the Colosseum between 70-80 AD under Emperors Vespasian and Titus. It could hold up to 80,000 spectators.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-8",
+      "question": "Which Mesoamerican civilization is known for its elaborate calendar system and pyramids at Chichen Itza?",
+      "options": [
+        "Toltec",
+        "Olmec",
+        "Maya",
+        "Aztec"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Maya civilization developed an incredibly accurate calendar system and built impressive pyramids, including El Castillo at Chichen Itza.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-9",
+      "question": "Which ancient civilization used hieroglyphics as their writing system?",
+      "options": [
+        "Phoenicians",
+        "Sumerians",
+        "Hittites",
+        "Ancient Egyptians"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient Egyptians used hieroglyphics for over 3,000 years, from around 3200 BC until the 4th century AD.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-10",
+      "question": "Which ancient civilization is credited with inventing the alphabet that influenced Greek and Latin scripts?",
+      "options": [
+        "Sumerians",
+        "Phoenicians",
+        "Persians",
+        "Hebrews"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Phoenicians developed an alphabet around 1050 BC that became the basis for Greek, Latin, Arabic, and Hebrew writing systems.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-11",
+      "question": "Which dynasty built the Great Wall of China?",
+      "options": [
+        "Qin Dynasty",
+        "Tang Dynasty",
+        "Han Dynasty",
+        "Ming Dynasty"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Qin Dynasty began construction of the Great Wall around 221 BC, though later dynasties, especially the Ming, greatly expanded it.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-12",
+      "question": "Which ancient civilization was centered on the island of Crete and featured the palace of Knossos?",
+      "options": [
+        "Phoenician",
+        "Mycenaean",
+        "Minoan",
+        "Spartan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Minoan civilization flourished on Crete from approximately 2700 to 1450 BC and built the elaborate palace of Knossos.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-13",
+      "question": "Which Mesoamerican civilization built Tenochtitlan, the site of modern-day Mexico City?",
+      "options": [
+        "Olmec",
+        "Inca",
+        "Maya",
+        "Aztec"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Aztec Empire built their capital Tenochtitlan on an island in Lake Texcoco around 1325. It was one of the largest cities in the world at the time.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-14",
+      "question": "Which ancient civilization traded throughout the Mediterranean and founded the city of Carthage?",
+      "options": [
+        "Phoenicians",
+        "Etruscans",
+        "Egyptians",
+        "Greeks"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Phoenicians were master seafarers and traders who founded Carthage (in modern Tunisia) around 814 BC as a major trading hub.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-civilizations-recall-15",
+      "question": "Which ancient civilization built the Parthenon temple dedicated to the goddess Athena?",
+      "options": [
+        "Roman Empire",
+        "Persian Empire",
+        "Spartan",
+        "Ancient Athens"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient Athens built the Parthenon on the Acropolis between 447 and 432 BC, dedicated to Athena, the city's patron goddess.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

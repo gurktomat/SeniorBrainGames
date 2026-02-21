@@ -8,7 +8,12 @@
     {
       "id": "tv-1",
       "question": "What does 'itinerary' mean?",
-      "options": ["A type of luggage", "A planned route or schedule of a journey", "A travel insurance policy", "A foreign currency exchange"],
+      "options": [
+        "A travel insurance policy",
+        "A planned route or schedule of a journey",
+        "A foreign currency exchange",
+        "A type of luggage"
+      ],
       "correctAnswer": 1,
       "explanation": "An itinerary is a detailed plan or route for a journey, including destinations, dates, times, and activities. The word comes from the Latin 'itinerarium,' meaning 'a road' or 'journey.'",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "tv-2",
       "question": "What does 'passport' refer to?",
-      "options": ["A boarding pass for a flight", "An official government document certifying identity for international travel", "A map of a foreign country", "A ticket for public transportation"],
-      "correctAnswer": 1,
+      "options": [
+        "A boarding pass for a flight",
+        "A map of a foreign country",
+        "An official government document certifying identity for international travel",
+        "A ticket for public transportation"
+      ],
+      "correctAnswer": 2,
       "explanation": "A passport is an official government-issued document that certifies a person's identity and nationality, allowing them to travel to and from foreign countries. The word may derive from French 'passer' (to pass) and 'porte' (gate or port).",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "tv-3",
       "question": "What does 'departure' mean in travel?",
-      "options": ["The act of arriving at a destination", "The act of leaving a place to begin a journey", "Checking into a hotel", "Collecting luggage at an airport"],
-      "correctAnswer": 1,
+      "options": [
+        "The act of leaving a place to begin a journey",
+        "Checking into a hotel",
+        "The act of arriving at a destination",
+        "Collecting luggage at an airport"
+      ],
+      "correctAnswer": 0,
       "explanation": "Departure refers to the act of leaving a place, especially at the start of a journey. In airports and train stations, the departure area is where travelers go to board their flights or trains. It is the opposite of 'arrival.'",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "tv-4",
       "question": "What is a 'layover' during travel?",
-      "options": ["A direct flight to your destination", "A stop or waiting period between connecting flights", "A seat upgrade on a plane", "A delay caused by bad weather"],
-      "correctAnswer": 1,
+      "options": [
+        "A seat upgrade on a plane",
+        "A delay caused by bad weather",
+        "A stop or waiting period between connecting flights",
+        "A direct flight to your destination"
+      ],
+      "correctAnswer": 2,
       "explanation": "A layover is a period of time a traveler must wait at an intermediate stop between connecting flights. Layovers can range from a short wait of an hour or two to an overnight stay, depending on flight schedules.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "tv-5",
       "question": "What does 'souvenir' mean?",
-      "options": ["A travel document", "A memento or keepsake purchased during a trip", "A type of foreign food", "A hotel reservation"],
-      "correctAnswer": 1,
+      "options": [
+        "A type of foreign food",
+        "A hotel reservation",
+        "A travel document",
+        "A memento or keepsake purchased during a trip"
+      ],
+      "correctAnswer": 3,
       "explanation": "A souvenir is an item purchased or kept as a reminder of a place visited, an event, or an experience. The word comes directly from French, where it means 'to remember.'",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "tv-6",
       "question": "What does 'customs' refer to at an international border?",
-      "options": ["Local traditions of a foreign country", "The government agency that monitors goods entering a country", "A gift shop at the airport", "The language spoken in a region"],
-      "correctAnswer": 1,
+      "options": [
+        "A gift shop at the airport",
+        "The language spoken in a region",
+        "Local traditions of a foreign country",
+        "The government agency that monitors goods entering a country"
+      ],
+      "correctAnswer": 3,
       "explanation": "Customs is the government authority responsible for regulating the flow of goods in and out of a country. When traveling internationally, you pass through customs where officials may inspect your luggage and collect duties on imported items.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "tv-7",
       "question": "What does 'excursion' mean?",
-      "options": ["A canceled trip", "A short trip or outing, often for leisure", "A long-term relocation", "A type of travel insurance"],
-      "correctAnswer": 1,
+      "options": [
+        "A canceled trip",
+        "A long-term relocation",
+        "A type of travel insurance",
+        "A short trip or outing, often for leisure"
+      ],
+      "correctAnswer": 3,
       "explanation": "An excursion is a short journey or trip, usually made for pleasure, often as a side trip during a larger vacation. The word comes from the Latin 'excurrere,' meaning 'to run out.'",
       "difficulty": "medium",
       "category": "language"
@@ -71,7 +106,12 @@
     {
       "id": "tv-8",
       "question": "What does 'jet lag' refer to?",
-      "options": ["Fear of flying", "Fatigue and disorientation from traveling across time zones", "Turbulence during a flight", "A delay in luggage delivery"],
+      "options": [
+        "A delay in luggage delivery",
+        "Fatigue and disorientation from traveling across time zones",
+        "Turbulence during a flight",
+        "Fear of flying"
+      ],
       "correctAnswer": 1,
       "explanation": "Jet lag is a temporary sleep and fatigue disorder that occurs when a person travels rapidly across multiple time zones, disrupting their body's internal clock (circadian rhythm). Symptoms include tiredness, insomnia, and difficulty concentrating.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "tv-9",
       "question": "What does 'embark' mean?",
-      "options": ["To leave a vehicle or vessel", "To board a ship, aircraft, or begin a journey", "To pack luggage", "To purchase a ticket"],
-      "correctAnswer": 1,
+      "options": [
+        "To leave a vehicle or vessel",
+        "To purchase a ticket",
+        "To board a ship, aircraft, or begin a journey",
+        "To pack luggage"
+      ],
+      "correctAnswer": 2,
       "explanation": "To embark means to go aboard a ship, aircraft, or other vehicle to begin a journey. It can also mean to begin an undertaking. The word comes from the French 'embarquer,' from 'en-' (on) and 'barque' (boat). Its opposite is 'disembark.'",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "tv-10",
       "question": "What does 'round trip' mean?",
-      "options": ["A circular sightseeing tour", "A journey to a destination and back again", "A trip around the world", "A trip with multiple stops"],
-      "correctAnswer": 1,
+      "options": [
+        "A journey to a destination and back again",
+        "A trip with multiple stops",
+        "A circular sightseeing tour",
+        "A trip around the world"
+      ],
+      "correctAnswer": 0,
       "explanation": "A round trip is a journey to a destination and back to the starting point, as opposed to a one-way trip. Round-trip tickets typically cover both the outbound and return portions of a journey and are often less expensive than buying two one-way tickets.",
       "difficulty": "medium",
       "category": "language"
@@ -98,7 +148,12 @@
     {
       "id": "tv-11",
       "question": "What does the word 'concierge' refer to?",
-      "options": ["A type of hotel room", "A hotel staff member who assists guests with services and recommendations", "A foreign currency", "A type of travel visa"],
+      "options": [
+        "A foreign currency",
+        "A hotel staff member who assists guests with services and recommendations",
+        "A type of hotel room",
+        "A type of travel visa"
+      ],
       "correctAnswer": 1,
       "explanation": "A concierge is a hotel employee who assists guests with various services such as making restaurant reservations, arranging transportation, booking tours, and providing local recommendations. The word comes from French and originally referred to a doorkeeper.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "tv-12",
       "question": "What does 'visa' mean in the context of international travel?",
-      "options": ["A type of credit card", "An official endorsement on a passport permitting entry to a country", "A vaccination record", "A travel agency booking confirmation"],
-      "correctAnswer": 1,
+      "options": [
+        "A travel agency booking confirmation",
+        "A type of credit card",
+        "An official endorsement on a passport permitting entry to a country",
+        "A vaccination record"
+      ],
+      "correctAnswer": 2,
       "explanation": "A visa is an official authorization, typically stamped or attached to a passport, that permits a person to enter, leave, or stay in a particular country for a specified period. The word comes from the Latin 'charta visa,' meaning 'document that has been seen.'",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "tv-13",
       "question": "What does 'bon voyage' mean?",
-      "options": ["Welcome home", "Good luck in business", "Have a good journey", "See you tomorrow"],
-      "correctAnswer": 2,
+      "options": [
+        "Welcome home",
+        "Good luck in business",
+        "See you tomorrow",
+        "Have a good journey"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Bon voyage' is a French expression meaning 'good journey' or 'have a good trip.' It is commonly used in English to wish someone well as they set off on a trip or journey.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "tv-14",
       "question": "What does the term 'redeye flight' refer to?",
-      "options": ["A flight during a sunset", "An overnight flight that arrives early in the morning", "A flight with no meal service", "A first-class flight"],
-      "correctAnswer": 1,
+      "options": [
+        "A flight during a sunset",
+        "A flight with no meal service",
+        "A first-class flight",
+        "An overnight flight that arrives early in the morning"
+      ],
+      "correctAnswer": 3,
       "explanation": "A redeye flight (or red-eye) is an overnight flight that departs late at night and arrives early the next morning. The name refers to the tired, bloodshot (red) eyes passengers typically have after trying to sleep on the plane.",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "tv-15",
       "question": "What does 'wanderlust' mean?",
-      "options": ["Fear of getting lost", "A strong desire or impulse to travel and explore the world", "Homesickness while traveling", "A type of guided tour"],
+      "options": [
+        "Homesickness while traveling",
+        "A strong desire or impulse to travel and explore the world",
+        "Fear of getting lost",
+        "A type of guided tour"
+      ],
       "correctAnswer": 1,
       "explanation": "'Wanderlust' is a strong, innate desire to travel and explore the world. The word comes from German: 'wandern' (to hike or wander) and 'Lust' (desire or pleasure). It entered English in the early 20th century.",
       "difficulty": "hard",

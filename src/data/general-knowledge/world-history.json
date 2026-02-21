@@ -7,140 +7,240 @@
     {
       "id": "wh-1",
       "question": "Which ancient wonder of the world was located in the city of Babylon?",
-      "options": ["Colossus of Rhodes", "Hanging Gardens", "Lighthouse of Alexandria", "Temple of Artemis"],
-      "correctAnswer": 1,
+      "options": [
+        "Hanging Gardens",
+        "Lighthouse of Alexandria",
+        "Colossus of Rhodes",
+        "Temple of Artemis"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World, reportedly built by King Nebuchadnezzar II around 600 BC."
     },
     {
       "id": "wh-2",
       "question": "The Magna Carta, a foundational document for modern democracy, was signed in which year?",
-      "options": ["1066", "1215", "1348", "1492"],
-      "correctAnswer": 1,
+      "options": [
+        "1492",
+        "1348",
+        "1066",
+        "1215"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Magna Carta was sealed by King John of England in 1215 at Runnymede. It limited royal authority and established that even the king was subject to law."
     },
     {
       "id": "wh-3",
       "question": "Which empire was the largest contiguous land empire in history?",
-      "options": ["Roman Empire", "British Empire", "Mongol Empire", "Ottoman Empire"],
-      "correctAnswer": 2,
+      "options": [
+        "Mongol Empire",
+        "Roman Empire",
+        "Ottoman Empire",
+        "British Empire"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Mongol Empire, founded by Genghis Khan in 1206, stretched from Eastern Europe to the Sea of Japan at its peak, covering about 24 million square kilometers."
     },
     {
       "id": "wh-4",
       "question": "The Renaissance began in which country during the 14th century?",
-      "options": ["France", "England", "Spain", "Italy"],
-      "correctAnswer": 3,
+      "options": [
+        "Italy",
+        "England",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Renaissance began in Italy, particularly in Florence, during the 14th century. Wealthy patrons like the Medici family helped fuel this cultural rebirth."
     },
     {
       "id": "wh-5",
       "question": "Which treaty ended World War I?",
-      "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Ghent", "Treaty of Tordesillas"],
-      "correctAnswer": 1,
+      "options": [
+        "Treaty of Ghent",
+        "Treaty of Tordesillas",
+        "Treaty of Versailles",
+        "Treaty of Paris"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Treaty of Versailles was signed on June 28, 1919. It imposed heavy reparations on Germany and redrew the map of Europe."
     },
     {
       "id": "wh-6",
       "question": "Who was the first Emperor of China, unifying the country in 221 BC?",
-      "options": ["Kublai Khan", "Sun Tzu", "Qin Shi Huang", "Confucius"],
+      "options": [
+        "Confucius",
+        "Sun Tzu",
+        "Qin Shi Huang",
+        "Kublai Khan"
+      ],
       "correctAnswer": 2,
       "explanation": "Qin Shi Huang unified China and began construction of the Great Wall. He is also famous for his terracotta army buried with him."
     },
     {
       "id": "wh-7",
       "question": "The Black Death pandemic in the 14th century is estimated to have killed what proportion of Europe's population?",
-      "options": ["About 10%", "About 25%", "About 33%", "About 50%"],
-      "correctAnswer": 2,
+      "options": [
+        "About 50%",
+        "About 33%",
+        "About 10%",
+        "About 25%"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Black Death (bubonic plague) killed an estimated one-third of Europe's population between 1347 and 1351, roughly 25 million people."
     },
     {
       "id": "wh-8",
       "question": "Which event in 1789 is considered the start of the French Revolution?",
-      "options": ["Execution of Louis XVI", "Storming of the Bastille", "Tennis Court Oath", "Reign of Terror"],
+      "options": [
+        "Reign of Terror",
+        "Storming of the Bastille",
+        "Execution of Louis XVI",
+        "Tennis Court Oath"
+      ],
       "correctAnswer": 1,
       "explanation": "The Storming of the Bastille on July 14, 1789 is widely considered the symbolic start of the French Revolution. Bastille Day is still celebrated in France."
     },
     {
       "id": "wh-9",
       "question": "The ancient city of Pompeii was buried by the eruption of which volcano in 79 AD?",
-      "options": ["Mount Etna", "Mount Vesuvius", "Mount Olympus", "Mount Stromboli"],
-      "correctAnswer": 1,
+      "options": [
+        "Mount Vesuvius",
+        "Mount Stromboli",
+        "Mount Etna",
+        "Mount Olympus"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mount Vesuvius erupted on August 24, 79 AD, burying Pompeii under volcanic ash. The preserved ruins provide an incredible snapshot of Roman life."
     },
     {
       "id": "wh-10",
       "question": "Which explorer led the first expedition to successfully circumnavigate the globe?",
-      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Francis Drake"],
-      "correctAnswer": 2,
+      "options": [
+        "Francis Drake",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ferdinand Magellan organized the expedition in 1519, though he was killed in the Philippines. Juan Sebastián Elcano completed the voyage in 1522."
     },
     {
       "id": "wh-11",
       "question": "The Berlin Wall fell in which year, symbolizing the end of the Cold War?",
-      "options": ["1987", "1989", "1991", "1993"],
-      "correctAnswer": 1,
+      "options": [
+        "1991",
+        "1993",
+        "1987",
+        "1989"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Berlin Wall fell on November 9, 1989. East and West Germany were officially reunified on October 3, 1990."
     },
     {
       "id": "wh-12",
       "question": "Which civilization built Machu Picchu high in the Andes Mountains?",
-      "options": ["Aztec", "Maya", "Inca", "Olmec"],
-      "correctAnswer": 2,
+      "options": [
+        "Maya",
+        "Aztec",
+        "Olmec",
+        "Inca"
+      ],
+      "correctAnswer": 3,
       "explanation": "Machu Picchu was built by the Inca civilization around 1450 AD. It sits at about 7,970 feet above sea level in modern-day Peru."
     },
     {
       "id": "wh-13",
       "question": "The Rosetta Stone, key to deciphering Egyptian hieroglyphics, was discovered during whose military campaign?",
-      "options": ["Alexander the Great", "Julius Caesar", "Napoleon Bonaparte", "Richard the Lionheart"],
-      "correctAnswer": 2,
+      "options": [
+        "Julius Caesar",
+        "Napoleon Bonaparte",
+        "Alexander the Great",
+        "Richard the Lionheart"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Rosetta Stone was found by French soldiers during Napoleon's Egyptian campaign in 1799. It was later deciphered by Jean-François Champollion in 1822."
     },
     {
       "id": "wh-14",
       "question": "Which country was the first to grant women the right to vote in national elections?",
-      "options": ["United States", "United Kingdom", "New Zealand", "Sweden"],
+      "options": [
+        "Sweden",
+        "United States",
+        "New Zealand",
+        "United Kingdom"
+      ],
       "correctAnswer": 2,
       "explanation": "New Zealand became the first self-governing country to grant all women the right to vote in 1893, over 25 years before the United States."
     },
     {
       "id": "wh-15",
       "question": "The ancient Library of Alexandria, one of the greatest libraries of the ancient world, was located in which modern country?",
-      "options": ["Greece", "Turkey", "Egypt", "Iraq"],
+      "options": [
+        "Turkey",
+        "Greece",
+        "Egypt",
+        "Iraq"
+      ],
       "correctAnswer": 2,
       "explanation": "The Library of Alexandria was in Egypt, founded in the 3rd century BC. It aimed to collect all the world's knowledge and may have held up to 400,000 scrolls."
     },
     {
       "id": "wh-16",
       "question": "Which war lasted from 1337 to 1453, making it one of the longest conflicts in history?",
-      "options": ["The Crusades", "The Hundred Years' War", "The Thirty Years' War", "The Wars of the Roses"],
-      "correctAnswer": 1,
+      "options": [
+        "The Hundred Years' War",
+        "The Crusades",
+        "The Wars of the Roses",
+        "The Thirty Years' War"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Hundred Years' War was a series of conflicts between England and France lasting 116 years. Joan of Arc played a key role in the French victory."
     },
     {
       "id": "wh-17",
       "question": "Nelson Mandela was imprisoned for how many years before becoming South Africa's first Black president?",
-      "options": ["15 years", "22 years", "27 years", "31 years"],
-      "correctAnswer": 2,
+      "options": [
+        "15 years",
+        "31 years",
+        "22 years",
+        "27 years"
+      ],
+      "correctAnswer": 3,
       "explanation": "Nelson Mandela was imprisoned from 1964 to 1990 — 27 years. He became president in 1994 after South Africa's first fully democratic election."
     },
     {
       "id": "wh-18",
       "question": "The Silk Road was an ancient trade network connecting China to which region?",
-      "options": ["Sub-Saharan Africa", "The Mediterranean and Europe", "The Americas", "Australia"],
-      "correctAnswer": 1,
+      "options": [
+        "Sub-Saharan Africa",
+        "The Americas",
+        "Australia",
+        "The Mediterranean and Europe"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Silk Road connected China to the Mediterranean, facilitating trade in silk, spices, gold, and ideas for over 1,500 years."
     },
     {
       "id": "wh-19",
       "question": "Which event in 1066 changed the course of English history?",
-      "options": ["Signing of the Magna Carta", "The Great Fire of London", "The Norman Conquest", "The founding of Parliament"],
-      "correctAnswer": 2,
+      "options": [
+        "The Great Fire of London",
+        "The Norman Conquest",
+        "Signing of the Magna Carta",
+        "The founding of Parliament"
+      ],
+      "correctAnswer": 1,
       "explanation": "William the Conqueror defeated King Harold at the Battle of Hastings in 1066, beginning Norman rule of England and transforming English culture and language."
     },
     {
       "id": "wh-20",
       "question": "The United Nations was founded in which year?",
-      "options": ["1939", "1942", "1945", "1948"],
+      "options": [
+        "1942",
+        "1939",
+        "1945",
+        "1948"
+      ],
       "correctAnswer": 2,
       "explanation": "The United Nations was established on October 24, 1945, after World War II. It was founded with 51 member states and now has 193."
     }

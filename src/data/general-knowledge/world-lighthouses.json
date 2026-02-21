@@ -8,7 +8,12 @@
     {
       "id": "world-lighthouses-1",
       "question": "The Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, was located in which country?",
-      "options": ["Greece", "Turkey", "Egypt", "Libya"],
+      "options": [
+        "Greece",
+        "Turkey",
+        "Egypt",
+        "Libya"
+      ],
       "correctAnswer": 2,
       "explanation": "The Pharos of Alexandria was built on the island of Pharos in the harbor of Alexandria, Egypt, around 280 BC. Standing over 330 feet tall, it was one of the tallest structures in the ancient world.",
       "difficulty": "easy",
@@ -17,7 +22,12 @@
     {
       "id": "world-lighthouses-2",
       "question": "What type of light source did early lighthouses use before electricity?",
-      "options": ["Candles and oil lamps", "Gas lanterns only", "Reflected sunlight", "Phosphorescent minerals"],
+      "options": [
+        "Candles and oil lamps",
+        "Reflected sunlight",
+        "Phosphorescent minerals",
+        "Gas lanterns only"
+      ],
       "correctAnswer": 0,
       "explanation": "Early lighthouses used open fires, candles, and oil lamps as light sources. The light was amplified using mirrors and later Fresnel lenses. Whale oil, kerosene, and eventually gas were used before electrification.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "world-lighthouses-3",
       "question": "Which French physicist invented the lens system widely used in lighthouses to focus and intensify light?",
-      "options": ["Louis Pasteur", "Augustin-Jean Fresnel", "André-Marie Ampère", "Pierre-Simon Laplace"],
-      "correctAnswer": 1,
+      "options": [
+        "André-Marie Ampère",
+        "Louis Pasteur",
+        "Pierre-Simon Laplace",
+        "Augustin-Jean Fresnel"
+      ],
+      "correctAnswer": 3,
       "explanation": "Augustin-Jean Fresnel invented the Fresnel lens in 1822. This revolutionary lens design used concentric rings of glass prisms to capture and redirect light that would otherwise be wasted, dramatically increasing a lighthouse's visibility.",
       "difficulty": "medium",
       "category": "history"
@@ -35,7 +50,12 @@
     {
       "id": "world-lighthouses-4",
       "question": "Cape Hatteras Lighthouse, the tallest brick lighthouse in the United States, is located in which state?",
-      "options": ["Maine", "Massachusetts", "North Carolina", "Florida"],
+      "options": [
+        "Florida",
+        "Maine",
+        "North Carolina",
+        "Massachusetts"
+      ],
       "correctAnswer": 2,
       "explanation": "Cape Hatteras Lighthouse stands at 198 feet (60 meters) in the Outer Banks of North Carolina. Its distinctive black and white spiral-striped pattern makes it one of the most recognizable lighthouses in America.",
       "difficulty": "medium",
@@ -44,8 +64,13 @@
     {
       "id": "world-lighthouses-5",
       "question": "What remarkable engineering feat was accomplished with Cape Hatteras Lighthouse in 1999?",
-      "options": ["It was rebuilt from scratch", "It was moved 2,900 feet inland to save it from erosion", "It was converted to solar power", "A new tower was built beside it"],
-      "correctAnswer": 1,
+      "options": [
+        "It was rebuilt from scratch",
+        "It was converted to solar power",
+        "A new tower was built beside it",
+        "It was moved 2,900 feet inland to save it from erosion"
+      ],
+      "correctAnswer": 3,
       "explanation": "In 1999, the Cape Hatteras Lighthouse was moved 2,900 feet (884 meters) inland to protect it from shoreline erosion. The 4,830-ton structure was moved on rails over 23 days in one of the largest structure relocations ever.",
       "difficulty": "hard",
       "category": "geography"
@@ -53,8 +78,13 @@
     {
       "id": "world-lighthouses-6",
       "question": "Portland Head Light, one of the most photographed lighthouses in America, is located in which state?",
-      "options": ["Oregon", "Maine", "Rhode Island", "Connecticut"],
-      "correctAnswer": 1,
+      "options": [
+        "Oregon",
+        "Rhode Island",
+        "Maine",
+        "Connecticut"
+      ],
+      "correctAnswer": 2,
       "explanation": "Portland Head Light sits on Cape Elizabeth, Maine, at the entrance to Portland Harbor. Completed in 1791, it was the first lighthouse completed under the new U.S. federal government and was commissioned by George Washington.",
       "difficulty": "medium",
       "category": "geography"
@@ -62,7 +92,12 @@
     {
       "id": "world-lighthouses-7",
       "question": "What does a lighthouse's unique flash pattern help sailors determine?",
-      "options": ["The depth of the water", "Which specific lighthouse they are seeing", "The direction of ocean currents", "The weather forecast"],
+      "options": [
+        "The depth of the water",
+        "Which specific lighthouse they are seeing",
+        "The weather forecast",
+        "The direction of ocean currents"
+      ],
       "correctAnswer": 1,
       "explanation": "Each lighthouse has a unique flash pattern (called its characteristic) so that mariners can identify which lighthouse they are observing. This helps them determine their exact position along the coast.",
       "difficulty": "easy",
@@ -71,8 +106,13 @@
     {
       "id": "world-lighthouses-8",
       "question": "The Eddystone Lighthouse, one of the most famous in the world, stands in the English Channel off the coast of which city?",
-      "options": ["Dover", "Plymouth", "Southampton", "Brighton"],
-      "correctAnswer": 1,
+      "options": [
+        "Plymouth",
+        "Southampton",
+        "Dover",
+        "Brighton"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Eddystone Lighthouse stands on the Eddystone Rocks, 9 miles south of Plymouth, England. The current tower is the fourth on the site, with the first built in 1698. Its construction inspired lighthouse engineering worldwide.",
       "difficulty": "medium",
       "category": "geography"
@@ -80,7 +120,12 @@
     {
       "id": "world-lighthouses-9",
       "question": "What is the purpose of a 'lightship'?",
-      "options": ["A ship that carries lighthouse supplies", "A floating lighthouse anchored where a permanent lighthouse cannot be built", "A ship that rescues stranded lighthouse keepers", "A vessel that maps coastlines"],
+      "options": [
+        "A ship that carries lighthouse supplies",
+        "A floating lighthouse anchored where a permanent lighthouse cannot be built",
+        "A vessel that maps coastlines",
+        "A ship that rescues stranded lighthouse keepers"
+      ],
       "correctAnswer": 1,
       "explanation": "A lightship is a vessel anchored in a fixed position that serves as a floating lighthouse. They were used where it was impractical or impossible to build a permanent lighthouse, such as over sandbars or in deep water.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "world-lighthouses-10",
       "question": "Tower of Hercules, the oldest existing lighthouse still in use, is located in which country?",
-      "options": ["Italy", "Greece", "Spain", "Portugal"],
-      "correctAnswer": 2,
+      "options": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "Greece"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Tower of Hercules in A Coruña, Spain, is the oldest existing lighthouse in the world that is still operational. Originally built by the Romans in the 1st century AD, it is a UNESCO World Heritage Site.",
       "difficulty": "hard",
       "category": "geography"
@@ -98,7 +148,12 @@
     {
       "id": "world-lighthouses-11",
       "question": "What was the traditional occupation of the person who maintained and operated a lighthouse?",
-      "options": ["Harbor master", "Lighthouse keeper", "Coast warden", "Signal officer"],
+      "options": [
+        "Coast warden",
+        "Lighthouse keeper",
+        "Signal officer",
+        "Harbor master"
+      ],
       "correctAnswer": 1,
       "explanation": "Lighthouse keepers (also called wickies, for trimming the lamp wicks) lived at the lighthouse, maintaining the light, fog signals, and equipment. This often-isolated profession has largely disappeared due to automation.",
       "difficulty": "easy",
@@ -107,8 +162,13 @@
     {
       "id": "world-lighthouses-12",
       "question": "The famous red and white striped Sankaty Head Lighthouse is located on which Massachusetts island?",
-      "options": ["Martha's Vineyard", "Nantucket", "Block Island", "Cape Cod"],
-      "correctAnswer": 1,
+      "options": [
+        "Nantucket",
+        "Martha's Vineyard",
+        "Cape Cod",
+        "Block Island"
+      ],
+      "correctAnswer": 0,
       "explanation": "Sankaty Head Lighthouse sits on the eastern bluff of Nantucket Island. Built in 1850, it was the first lighthouse in Massachusetts to have a Fresnel lens and was moved in 2007 to prevent it from falling into the sea.",
       "difficulty": "hard",
       "category": "geography"
@@ -116,8 +176,13 @@
     {
       "id": "world-lighthouses-13",
       "question": "What color are most lighthouses painted, and why?",
-      "options": ["Red, to warn of danger", "White, to be visible during daytime against dark backgrounds", "Yellow, to reflect sunlight", "Blue, to blend with the sky at night"],
-      "correctAnswer": 1,
+      "options": [
+        "Yellow, to reflect sunlight",
+        "Red, to warn of danger",
+        "Blue, to blend with the sky at night",
+        "White, to be visible during daytime against dark backgrounds"
+      ],
+      "correctAnswer": 3,
       "explanation": "Most lighthouses are painted white because it provides the best contrast against dark backgrounds like cliffs, forests, and stormy skies, making them visible as daytime navigational markers. Some have additional colored bands for identification.",
       "difficulty": "easy",
       "category": "navigation"
@@ -125,8 +190,13 @@
     {
       "id": "world-lighthouses-14",
       "question": "Which famous Scottish family of engineers designed and built most of Scotland's lighthouses over four generations?",
-      "options": ["The Watt family", "The Stevenson family", "The Bell family", "The Carnegie family"],
-      "correctAnswer": 1,
+      "options": [
+        "The Bell family",
+        "The Watt family",
+        "The Carnegie family",
+        "The Stevenson family"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Stevenson family built most of Scotland's lighthouses over four generations, starting with Robert Stevenson (1772-1850). Robert Louis Stevenson, the famous author, was a member of this family but chose writing over engineering.",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "world-lighthouses-15",
       "question": "What modern technology has largely replaced traditional lighthouses for maritime navigation?",
-      "options": ["Radar only", "GPS (Global Positioning System)", "Sonar", "Radio beacons only"],
-      "correctAnswer": 1,
+      "options": [
+        "Radar only",
+        "Radio beacons only",
+        "GPS (Global Positioning System)",
+        "Sonar"
+      ],
+      "correctAnswer": 2,
       "explanation": "GPS has largely replaced lighthouses as the primary means of maritime navigation. However, many lighthouses remain operational as backup navigational aids, and they continue to serve as important cultural and historical landmarks.",
       "difficulty": "easy",
       "category": "navigation"

@@ -8,43 +8,43 @@
       "id": "island-nations-1",
       "question": "Which island nation is the largest in the world by area?",
       "options": [
-        "Madagascar",
         "Indonesia",
         "Japan",
-        "Philippines"
+        "Philippines",
+        "Madagascar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "island-nations-2",
       "question": "What is the smallest island nation in the world by land area?",
       "options": [
+        "Maldives",
         "Tuvalu",
-        "Nauru",
         "Monaco",
-        "Maldives"
+        "Nauru"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "island-nations-3",
       "question": "Which Caribbean island nation shares the island of Hispaniola with the Dominican Republic?",
       "options": [
-        "Cuba",
         "Jamaica",
         "Haiti",
+        "Cuba",
         "Puerto Rico"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "island-nations-4",
       "question": "Which island nation is famous for its unique wildlife, including lemurs found nowhere else on Earth?",
       "options": [
         "Sri Lanka",
-        "Borneo",
+        "New Zealand",
         "Madagascar",
-        "New Zealand"
+        "Borneo"
       ],
       "correctAnswer": 2
     },
@@ -52,21 +52,21 @@
       "id": "island-nations-5",
       "question": "Japan's four main islands are Honshu, Hokkaido, Kyushu, and which other?",
       "options": [
-        "Okinawa",
         "Shikoku",
+        "Yakushima",
         "Sado",
-        "Yakushima"
+        "Okinawa"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "island-nations-6",
       "question": "Which island nation in the Indian Ocean is known as the 'Pearl of the Indian Ocean'?",
       "options": [
-        "Maldives",
         "Mauritius",
+        "Seychelles",
         "Sri Lanka",
-        "Seychelles"
+        "Maldives"
       ],
       "correctAnswer": 2
     },
@@ -74,32 +74,32 @@
       "id": "island-nations-7",
       "question": "Which island nation is made up of over 7,000 islands in Southeast Asia?",
       "options": [
-        "Indonesia",
-        "Japan",
         "Philippines",
+        "Japan",
+        "Indonesia",
         "Malaysia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "island-nations-8",
       "question": "Iceland is located in which ocean?",
       "options": [
-        "Arctic Ocean",
         "Atlantic Ocean",
         "Pacific Ocean",
+        "Arctic Ocean",
         "Indian Ocean"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "island-nations-9",
       "question": "Which island nation was formerly known as Ceylon?",
       "options": [
-        "Maldives",
+        "Mauritius",
         "Fiji",
         "Sri Lanka",
-        "Mauritius"
+        "Maldives"
       ],
       "correctAnswer": 2
     },
@@ -107,45 +107,45 @@
       "id": "island-nations-10",
       "question": "Which Pacific island nation is famous for its moai stone statues?",
       "options": [
-        "Fiji",
-        "Tonga",
+        "Easter Island (Chile)",
         "Samoa",
-        "Easter Island (Chile)"
+        "Tonga",
+        "Fiji"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": "island-nations-11",
       "question": "The Maldives, the lowest-lying country on Earth, is located in which ocean?",
       "options": [
-        "Pacific Ocean",
+        "Arctic Ocean",
         "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean"
+        "Pacific Ocean",
+        "Indian Ocean"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "island-nations-12",
       "question": "Which island nation in the Mediterranean is known for its ancient temples, some older than the Pyramids?",
       "options": [
         "Cyprus",
-        "Malta",
         "Crete",
-        "Sardinia"
+        "Sardinia",
+        "Malta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "island-nations-13",
       "question": "New Zealand is made up of two main islands. What are they called?",
       "options": [
         "East Island and West Island",
-        "North Island and South Island",
+        "Greater Island and Lesser Island",
         "Upper Island and Lower Island",
-        "Greater Island and Lesser Island"
+        "North Island and South Island"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "island-nations-14",
@@ -153,21 +153,21 @@
       "options": [
         "Trinidad and Tobago",
         "Barbados",
-        "Jamaica",
-        "Bahamas"
+        "Bahamas",
+        "Jamaica"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "island-nations-15",
       "question": "Cuba is the largest island in which sea?",
       "options": [
-        "Mediterranean Sea",
         "South China Sea",
-        "Caribbean Sea",
-        "Coral Sea"
+        "Coral Sea",
+        "Mediterranean Sea",
+        "Caribbean Sea"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

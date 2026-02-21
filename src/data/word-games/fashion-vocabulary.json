@@ -9,31 +9,31 @@
       "question": "What is 'haute couture'?",
       "options": [
         "Casual everyday clothing",
-        "High-end, custom-fitted fashion",
         "Vintage secondhand clothing",
+        "High-end, custom-fitted fashion",
         "Athletic sportswear"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "fashion-vocabulary-2",
       "question": "What fabric is known as 'the fabric of kings' and is produced by silkworms?",
       "options": [
-        "Cotton",
         "Linen",
-        "Silk",
-        "Cashmere"
+        "Cotton",
+        "Cashmere",
+        "Silk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-3",
-      "question": "What does 'pr\u00eat-\u00e0-porter' mean in fashion?",
+      "question": "What does 'prêt-à-porter' mean in fashion?",
       "options": [
         "Ready to wear",
-        "One of a kind",
+        "Made to order",
         "Hand stitched",
-        "Made to order"
+        "One of a kind"
       ],
       "correctAnswer": 0
     },
@@ -41,20 +41,20 @@
       "id": "fashion-vocabulary-4",
       "question": "What is a 'lapel' on a jacket?",
       "options": [
+        "The inner lining",
         "The pocket",
-        "The fold of fabric on the front below the collar",
         "The cuff at the sleeve",
-        "The inner lining"
+        "The fold of fabric on the front below the collar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-5",
       "question": "What type of pattern features a repeated checkered design of small and large checks?",
       "options": [
-        "Polka dot",
-        "Houndstooth",
         "Paisley",
+        "Houndstooth",
+        "Polka dot",
         "Herringbone"
       ],
       "correctAnswer": 1
@@ -63,89 +63,89 @@
       "id": "fashion-vocabulary-6",
       "question": "What is 'tweed'?",
       "options": [
+        "A type of hat",
         "A type of shoe",
-        "A rough-textured woolen fabric often associated with British countryside fashion",
         "A silk ribbon",
-        "A type of hat"
+        "A rough-textured woolen fabric often associated with British countryside fashion"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-7",
       "question": "What is a 'silhouette' in fashion?",
       "options": [
-        "A shadow on the runway",
         "The overall shape or outline of a garment on the body",
         "A type of black dress",
+        "A shadow on the runway",
         "A photography technique"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "fashion-vocabulary-8",
       "question": "What is 'denim' originally made from?",
       "options": [
+        "Wool",
         "Silk",
         "Cotton twill fabric",
-        "Wool",
         "Polyester"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "fashion-vocabulary-9",
       "question": "What does 'A-line' describe in fashion?",
       "options": [
+        "A type of pleat",
         "A type of neckline",
-        "A skirt or dress that is fitted at the waist and flares out like the letter A",
         "A straight vertical cut",
-        "A type of pleat"
+        "A skirt or dress that is fitted at the waist and flares out like the letter A"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-10",
       "question": "What is 'cashmere' made from?",
       "options": [
-        "Cotton plants",
-        "Cashmere goat hair",
+        "Synthetic fibers",
         "Sheep wool",
-        "Synthetic fibers"
+        "Cotton plants",
+        "Cashmere goat hair"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-11",
       "question": "What is a 'bespoke' garment?",
       "options": [
-        "A mass-produced item",
         "A custom-made garment tailored to the individual",
         "A secondhand garment",
+        "A mass-produced item",
         "A garment with a spoken-word design"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "fashion-vocabulary-12",
       "question": "What pattern features curved, teardrop-shaped motifs and originated in Persia?",
       "options": [
+        "Chevron",
         "Tartan",
         "Gingham",
-        "Paisley",
-        "Chevron"
+        "Paisley"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "fashion-vocabulary-13",
       "question": "What is a 'bodice'?",
       "options": [
-        "A type of boot",
-        "The upper part of a dress, above the waist",
         "A hair accessory",
-        "A type of bracelet"
+        "A type of bracelet",
+        "The upper part of a dress, above the waist",
+        "A type of boot"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "fashion-vocabulary-14",
@@ -162,12 +162,12 @@
       "id": "fashion-vocabulary-15",
       "question": "What is 'herringbone' in fabric?",
       "options": [
+        "A type of embroidery",
         "A fabric dyed with fish bones",
         "A V-shaped weaving pattern resembling fish bones",
-        "A type of embroidery",
         "A knitting technique using circular needles"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

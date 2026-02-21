@@ -1,0 +1,219 @@
+{
+  "id": "theater-history-quiz",
+  "title": "Theater History",
+  "description": "From ancient Greece to Broadway, explore the rich history of the theatrical arts!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "theater-history-quiz-1",
+      "question": "In which ancient civilization did Western theater originate, around the 5th century BC?",
+      "options": [
+        "Persia",
+        "Greece",
+        "Egypt",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Western theater originated in ancient Greece, growing out of religious festivals honoring the god Dionysus. Athens became the center of dramatic performance, with great outdoor amphitheaters.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-2",
+      "question": "What was Shakespeare's famous theater in London called?",
+      "options": [
+        "The Curtain",
+        "The Swan",
+        "The Rose",
+        "The Globe"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Globe Theatre was built in 1599 by Shakespeare's playing company, the Lord Chamberlain's Men. It burned down in 1613 during a performance of 'Henry VIII' and was rebuilt the following year.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-3",
+      "question": "What theatrical district in New York City is synonymous with American musical theater?",
+      "options": [
+        "SoHo",
+        "Harlem",
+        "Greenwich Village",
+        "Broadway"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Broadway refers to the theater district around Times Square in Manhattan, home to approximately 41 professional theaters. It has been the commercial heart of American theater since the early 1900s.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-4",
+      "question": "In ancient Greek theater, what was the 'orchestra'?",
+      "options": [
+        "The audience seating",
+        "The group of musicians",
+        "The backstage area",
+        "The circular area where the chorus performed"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The orchestra was the flat, circular area at the base of the seating where the chorus danced and sang. The word comes from the Greek 'orcheisthai,' meaning 'to dance.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-5",
+      "question": "The Commedia dell'arte, an improvisational theater form, originated in which country?",
+      "options": [
+        "France",
+        "Germany",
+        "Spain",
+        "Italy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Commedia dell'arte arose in 16th-century Italy, featuring masked stock characters like Harlequin, Colombina, and Pantalone. Performers improvised dialogue around basic plot outlines called 'scenarios.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-6",
+      "question": "Which Japanese theatrical form features elaborate costumes, stylized movement, and all-male casts?",
+      "options": [
+        "Noh",
+        "Bunraku",
+        "Kabuki",
+        "Kyogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kabuki theater originated in the early 1600s. It features dramatic makeup, elaborate costumes, and exaggerated movements. Female roles are played by specialized male actors called onnagata.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-7",
+      "question": "What is a 'soliloquy' in theater?",
+      "options": [
+        "A dialogue between two characters",
+        "A comedic aside to the audience",
+        "A speech by a character alone on stage revealing inner thoughts",
+        "A song performed by the chorus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A soliloquy is a dramatic device where a character speaks their thoughts aloud while alone on stage. Shakespeare's 'To be, or not to be' from 'Hamlet' is the most famous example.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-8",
+      "question": "Which London theater district is the British equivalent of Broadway?",
+      "options": [
+        "Piccadilly",
+        "Covent Garden",
+        "The West End",
+        "Soho"
+      ],
+      "correctAnswer": 2,
+      "explanation": "London's West End has been the center of British theater since the 17th century. It contains around 40 theaters, many of which are historic Victorian and Edwardian venues.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-9",
+      "question": "In Elizabethan theater, who played the female roles?",
+      "options": [
+        "Women from noble families",
+        "Young men and boys",
+        "Puppets",
+        "Foreign actresses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women were not permitted to perform on the English public stage until 1660. Female roles in Shakespeare's time were played by young male actors whose voices had not yet changed.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-10",
+      "question": "Which American musical, opening in 1943, is considered the first fully integrated 'book musical'?",
+      "options": [
+        "My Fair Lady",
+        "West Side Story",
+        "Oklahoma!",
+        "Show Boat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rodgers and Hammerstein's 'Oklahoma!' revolutionized musical theater by fully integrating songs, dances, and story. Every musical number advanced the plot or developed character.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-11",
+      "question": "What were the two masks symbolizing theater in ancient Greece?",
+      "options": [
+        "Gods and mortals",
+        "Comedy and tragedy",
+        "Love and war",
+        "Youth and age"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The twin masks of comedy (Thalia) and tragedy (Melpomene) represent the two main genres of Greek drama. They remain the universal symbol of the performing arts today.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-12",
+      "question": "What theatrical innovation did the Italian Renaissance contribute to stage design?",
+      "options": [
+        "Perspective scenery and the proscenium arch",
+        "Minimalist bare stages",
+        "Outdoor amphitheaters",
+        "Theater in the round"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Italian Renaissance architects developed perspective scenery, creating the illusion of depth on stage, and the proscenium arch, which frames the stage like a picture. These innovations spread across Europe.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-13",
+      "question": "Which Russian theater director founded the Moscow Art Theatre and developed a famous acting method?",
+      "options": [
+        "Anton Chekhov",
+        "Vsevolod Meyerhold",
+        "Yevgeny Vakhtangov",
+        "Konstantin Stanislavski"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Konstantin Stanislavski co-founded the Moscow Art Theatre in 1897 and developed the 'Stanislavski System,' which emphasizes emotional truth and psychological realism. It profoundly influenced 'Method Acting' in America.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-14",
+      "question": "What does 'breaking the fourth wall' mean in theater?",
+      "options": [
+        "An actor addressing the audience directly",
+        "Leaving the stage area",
+        "Performing without a backdrop",
+        "Damaging the set"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'fourth wall' is the imaginary barrier between performers and audience. 'Breaking' it occurs when actors acknowledge or speak directly to the audience, disrupting the theatrical illusion.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "theater-history-quiz-15",
+      "question": "The Tony Awards, given for excellence on Broadway, are named after which theater personality?",
+      "options": [
+        "Tony Curtis",
+        "Tony Randall",
+        "Anthony Quinn",
+        "Antoinette Perry"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Antoinette Perry Award for Excellence in Broadway Theatre honors Antoinette Perry (1888-1946), an actress, director, and co-founder of the American Theatre Wing. The first Tonys were given in 1949.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

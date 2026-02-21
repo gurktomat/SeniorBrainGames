@@ -1,72 +1,72 @@
 {
   "id": "desert-vocabulary",
   "title": "Desert Vocabulary",
-  "description": "Explore the fascinating terminology of desert landscapes and arid regions \u2014 from 'oasis' to 'mesa'!",
+  "description": "Explore the fascinating terminology of desert landscapes and arid regions — from 'oasis' to 'mesa'!",
   "gameCategory": "word-games",
   "questions": [
     {
       "id": "desert-vocabulary-1",
       "question": "What is an 'oasis'?",
       "options": [
-        "A type of cactus",
-        "A fertile area in a desert where water is found",
         "A sand dune",
-        "A desert wind"
+        "A desert wind",
+        "A fertile area in a desert where water is found",
+        "A type of cactus"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "desert-vocabulary-2",
       "question": "What does 'arid' mean?",
       "options": [
-        "Extremely hot",
-        "Extremely dry with very little rainfall",
+        "Windy and cold",
         "Sandy and flat",
-        "Windy and cold"
+        "Extremely dry with very little rainfall",
+        "Extremely hot"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "desert-vocabulary-3",
       "question": "What is a 'mesa'?",
       "options": [
-        "A desert flower",
         "A flat-topped hill with steep sides, common in arid regions",
-        "A type of sand",
-        "A desert animal"
+        "A desert animal",
+        "A desert flower",
+        "A type of sand"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "desert-vocabulary-4",
       "question": "What does 'mirage' refer to in the desert?",
       "options": [
-        "A rare desert bird",
         "An optical illusion caused by hot air bending light, often appearing as water",
-        "A type of desert plant",
-        "A sandstorm"
+        "A rare desert bird",
+        "A sandstorm",
+        "A type of desert plant"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "desert-vocabulary-5",
       "question": "What is a 'dune'?",
       "options": [
+        "A desert canyon",
         "A type of desert lizard",
-        "A mound or ridge of sand shaped by wind",
         "An underground water source",
-        "A desert canyon"
+        "A mound or ridge of sand shaped by wind"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "desert-vocabulary-6",
       "question": "What does 'xerophyte' mean?",
       "options": [
-        "A desert explorer",
+        "A prehistoric desert creature",
         "A plant adapted to survive in dry conditions",
         "A type of mineral found in deserts",
-        "A prehistoric desert creature"
+        "A desert explorer"
       ],
       "correctAnswer": 1
     },
@@ -74,10 +74,10 @@
       "id": "desert-vocabulary-7",
       "question": "What is a 'wadi'?",
       "options": [
-        "A desert tent",
+        "A sand formation",
         "A valley or streambed that is dry except during rainy season",
         "A type of desert fox",
-        "A sand formation"
+        "A desert tent"
       ],
       "correctAnswer": 1
     },
@@ -85,86 +85,86 @@
       "id": "desert-vocabulary-8",
       "question": "What does 'desertification' refer to?",
       "options": [
-        "Building cities in the desert",
         "The process by which fertile land becomes desert",
+        "Building cities in the desert",
         "Planting trees in arid areas",
         "Desert exploration"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "desert-vocabulary-9",
       "question": "What is a 'butte' in desert geography?",
       "options": [
         "A desert well",
+        "A sand whirlwind",
         "A narrow, flat-topped hill smaller than a mesa",
-        "A type of cactus",
-        "A sand whirlwind"
+        "A type of cactus"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "desert-vocabulary-10",
       "question": "What does 'arroyo' mean?",
       "options": [
-        "A type of arrow-shaped rock",
         "A dry creek bed or gulch that temporarily fills with water after rain",
         "A desert dance",
-        "A type of desert shrub"
+        "A type of desert shrub",
+        "A type of arrow-shaped rock"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "desert-vocabulary-11",
       "question": "What is 'hardpan'?",
       "options": [
+        "A flat desert plain",
         "A cooking utensil for camping",
-        "A dense, compacted layer of soil that water cannot penetrate",
         "A type of desert rock",
-        "A flat desert plain"
+        "A dense, compacted layer of soil that water cannot penetrate"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "desert-vocabulary-12",
       "question": "What does 'flash flood' refer to in desert regions?",
       "options": [
-        "A sudden burst of light",
-        "A rapid, unexpected flood caused by intense rainfall in a short period",
+        "Water slowly rising in an oasis",
         "A type of lightning storm",
-        "Water slowly rising in an oasis"
+        "A rapid, unexpected flood caused by intense rainfall in a short period",
+        "A sudden burst of light"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "desert-vocabulary-13",
       "question": "What is a 'playa' in desert terminology?",
       "options": [
         "A desert beach",
-        "A dry, flat lake bed found in desert basins",
         "A type of desert bird",
-        "A sandstone formation"
+        "A sandstone formation",
+        "A dry, flat lake bed found in desert basins"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "desert-vocabulary-14",
       "question": "What does 'nomadic' mean in the context of desert cultures?",
       "options": [
         "Staying in one place permanently",
-        "Moving from place to place with no fixed home",
         "Building underground shelters",
-        "Trading goods at markets"
+        "Trading goods at markets",
+        "Moving from place to place with no fixed home"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "desert-vocabulary-15",
       "question": "What is a 'haboob'?",
       "options": [
-        "A desert animal",
-        "An intense dust storm or sandstorm caused by strong winds",
         "A type of desert tent",
+        "An intense dust storm or sandstorm caused by strong winds",
+        "A desert animal",
         "A water-collecting device"
       ],
       "correctAnswer": 1

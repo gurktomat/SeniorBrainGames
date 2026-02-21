@@ -7,91 +7,166 @@
     {
       "id": "famous-last-words-1",
       "question": "Which nurse and humanitarian reportedly said, 'I only regret that I have but one life to lose for my country' before his execution?",
-      "options": ["Patrick Henry", "Nathan Hale", "Paul Revere", "Benedict Arnold"],
-      "correctAnswer": 1
+      "options": [
+        "Patrick Henry",
+        "Benedict Arnold",
+        "Nathan Hale",
+        "Paul Revere"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-last-words-2",
       "question": "Who is credited with saying 'Et tu, Brute?' upon being assassinated in 44 BC?",
-      "options": ["Augustus Caesar", "Julius Caesar", "Nero", "Marcus Aurelius"],
-      "correctAnswer": 1
+      "options": [
+        "Augustus Caesar",
+        "Marcus Aurelius",
+        "Julius Caesar",
+        "Nero"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-last-words-3",
       "question": "Which famous inventor's last words were reportedly 'Thomas Edison, are you there? It's very beautiful over there'?",
-      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "None — Edison said them about the afterlife"],
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "None — Edison said them about the afterlife"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-last-words-4",
       "question": "Marie Antoinette's famous last words, 'Pardon me, sir, I did not do it on purpose,' were said after she accidentally did what?",
-      "options": ["Dropped her handkerchief", "Stepped on the executioner's foot", "Spilled her wine", "Tripped on the stairs"],
+      "options": [
+        "Spilled her wine",
+        "Stepped on the executioner's foot",
+        "Tripped on the stairs",
+        "Dropped her handkerchief"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-last-words-5",
       "question": "Which witty author reportedly said on his deathbed, 'Either that wallpaper goes, or I do'?",
-      "options": ["Mark Twain", "Oscar Wilde", "George Bernard Shaw", "Charles Dickens"],
-      "correctAnswer": 1
+      "options": [
+        "Charles Dickens",
+        "George Bernard Shaw",
+        "Mark Twain",
+        "Oscar Wilde"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-last-words-6",
       "question": "Humphrey Bogart's last words were reportedly, 'I should never have switched from Scotch to...' what?",
-      "options": ["Bourbon", "Martinis", "Wine", "Water"],
-      "correctAnswer": 1
+      "options": [
+        "Wine",
+        "Bourbon",
+        "Water",
+        "Martinis"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-last-words-7",
       "question": "Which famous general said, 'Let us cross over the river and rest under the shade of the trees' as his final words?",
-      "options": ["Robert E. Lee", "Stonewall Jackson", "Ulysses S. Grant", "William T. Sherman"],
-      "correctAnswer": 1
+      "options": [
+        "Robert E. Lee",
+        "William T. Sherman",
+        "Stonewall Jackson",
+        "Ulysses S. Grant"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-last-words-8",
       "question": "Steve Jobs' last words, according to his sister, were 'Oh wow. Oh wow.' What was he reportedly looking at?",
-      "options": ["His family", "A sunset through the window", "Something beyond his loved ones' shoulders", "His first Apple computer"],
+      "options": [
+        "His family",
+        "His first Apple computer",
+        "Something beyond his loved ones' shoulders",
+        "A sunset through the window"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-last-words-9",
       "question": "Which founding father's last words were reportedly 'Is it the Fourth?' referring to July 4th?",
-      "options": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+      "options": [
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "John Adams",
+        "George Washington"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-last-words-10",
       "question": "Winston Churchill's last words are believed to have been what simple statement?",
-      "options": ["'We shall never surrender'", "'I'm bored with it all'", "'Victory at last'", "'God save the Queen'"],
-      "correctAnswer": 1
+      "options": [
+        "'We shall never surrender'",
+        "'God save the Queen'",
+        "'Victory at last'",
+        "'I'm bored with it all'"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-last-words-11",
       "question": "Which Dutch painter reportedly said, 'The sadness will last forever' before dying from a self-inflicted gunshot wound?",
-      "options": ["Rembrandt", "Vincent van Gogh", "Johannes Vermeer", "Piet Mondrian"],
-      "correctAnswer": 1
+      "options": [
+        "Piet Mondrian",
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Johannes Vermeer"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-last-words-12",
       "question": "Karl Marx was asked by his housekeeper if he had any last words. What was his famous reply?",
-      "options": ["'Workers of the world, unite!'", "'Go on, get out! Last words are for fools who haven't said enough'", "'The revolution will continue'", "'Tell Engels I'm sorry'"],
-      "correctAnswer": 1
+      "options": [
+        "'The revolution will continue'",
+        "'Tell Engels I'm sorry'",
+        "'Workers of the world, unite!'",
+        "'Go on, get out! Last words are for fools who haven't said enough'"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-last-words-13",
       "question": "Which legendary outlaw reportedly said 'Who the hell is Tom O'Day?' just before he was shot and killed?",
-      "options": ["Jesse James", "Butch Cassidy", "Billy the Kid", "Doc Holliday"],
-      "correctAnswer": 2
+      "options": [
+        "Doc Holliday",
+        "Jesse James",
+        "Butch Cassidy",
+        "Billy the Kid"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-last-words-14",
       "question": "Benjamin Franklin wrote which famous line about death and taxes in a 1789 letter?",
-      "options": ["'Death is certain, taxes even more so'", "'Nothing is certain except death and taxes'", "'Only the taxman outlives us all'", "'Taxes follow us even to the grave'"],
+      "options": [
+        "'Death is certain, taxes even more so'",
+        "'Nothing is certain except death and taxes'",
+        "'Taxes follow us even to the grave'",
+        "'Only the taxman outlives us all'"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-last-words-15",
       "question": "Which legendary queen reportedly said, 'All my possessions for a moment of time' on her deathbed?",
-      "options": ["Queen Victoria", "Catherine the Great", "Queen Elizabeth I", "Mary Queen of Scots"],
+      "options": [
+        "Catherine the Great",
+        "Mary Queen of Scots",
+        "Queen Elizabeth I",
+        "Queen Victoria"
+      ],
       "correctAnswer": 2
     }
   ]

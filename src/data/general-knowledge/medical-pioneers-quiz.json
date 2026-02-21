@@ -1,0 +1,219 @@
+{
+  "id": "medical-pioneers-quiz",
+  "title": "Medical Pioneers & Breakthroughs",
+  "description": "Celebrate the pioneers who revolutionized modern medicine!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "medical-pioneers-quiz-1",
+      "question": "Who discovered the structure of DNA in 1953?",
+      "options": [
+        "James Watson and Francis Crick",
+        "Linus Pauling",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "James Watson and Francis Crick, along with crucial contributions from Rosalind Franklin and Maurice Wilkins, discovered the double helix structure of DNA in 1953.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-2",
+      "question": "Marie Curie's research on radioactivity led to advances in which medical field?",
+      "options": [
+        "Dentistry",
+        "Dermatology",
+        "Radiation therapy for cancer",
+        "Optometry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Marie Curie's pioneering research on radioactivity laid the groundwork for radiation therapy, which remains one of the primary treatments for cancer today.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-3",
+      "question": "Who developed the first successful oral contraceptive pill?",
+      "options": [
+        "John Rock",
+        "Margaret Sanger",
+        "Carl Djerassi",
+        "Gregory Pincus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gregory Pincus, along with John Rock and M.C. Chang, developed the first oral contraceptive pill, which was approved by the FDA in 1960 and revolutionized reproductive health.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-4",
+      "question": "What medical device did Willem Einthoven invent in 1903?",
+      "options": [
+        "Electrocardiogram (ECG/EKG)",
+        "Ultrasound machine",
+        "Defibrillator",
+        "MRI machine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Willem Einthoven invented the string galvanometer, which he used to create the first practical electrocardiogram (ECG). He won the Nobel Prize in 1924 for this invention.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-5",
+      "question": "Who is credited with developing the first effective chemotherapy drugs for cancer?",
+      "options": [
+        "Sidney Farber",
+        "Howard Florey",
+        "Paul Ehrlich",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sidney Farber is considered the father of modern chemotherapy. In 1948, he achieved the first remissions in childhood leukemia using aminopterin, a folic acid antagonist.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-6",
+      "question": "What groundbreaking procedure did Dr. Joseph Murray perform for the first time in 1954?",
+      "options": [
+        "Open heart surgery",
+        "Successful kidney transplant",
+        "Liver transplant",
+        "Brain surgery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dr. Joseph Murray performed the first successful human kidney transplant between identical twins in 1954 at Brigham Hospital in Boston. He won the Nobel Prize in 1990.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-7",
+      "question": "Who developed the technique of using ether as a surgical anesthetic in 1846?",
+      "options": [
+        "William Morton",
+        "Crawford Long",
+        "Horace Wells",
+        "James Young Simpson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "William Morton publicly demonstrated the use of ether anesthesia at Massachusetts General Hospital in 1846, in what became known as 'Ether Day.'",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-8",
+      "question": "What did Robert Koch identify as the cause of tuberculosis in 1882?",
+      "options": [
+        "A fungus",
+        "A parasite",
+        "A virus",
+        "A bacterium (Mycobacterium tuberculosis)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Robert Koch identified the bacterium Mycobacterium tuberculosis as the cause of tuberculosis. His work earned him the Nobel Prize in 1905 and advanced the germ theory of disease.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-9",
+      "question": "Who invented the CT (computed tomography) scanner?",
+      "options": [
+        "Godfrey Hounsfield",
+        "Paul Lauterbur",
+        "Raymond Damadian",
+        "Wilhelm Roentgen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sir Godfrey Hounsfield, a British engineer, invented the CT scanner in 1971. He shared the 1979 Nobel Prize in Physiology or Medicine for this breakthrough.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-10",
+      "question": "What medical breakthrough did Barry Marshall prove by drinking a bacteria culture in 1984?",
+      "options": [
+        "Bacteria cause food poisoning",
+        "H. pylori causes stomach ulcers",
+        "Bacteria cause heart disease",
+        "E. coli causes kidney disease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Barry Marshall drank a culture of Helicobacter pylori to prove it caused stomach ulcers, overturning the belief that stress and lifestyle caused ulcers. He won the Nobel Prize in 2005.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-11",
+      "question": "Who developed the first practical MRI scanner for medical imaging?",
+      "options": [
+        "Raymond Damadian",
+        "Ian Donald",
+        "Godfrey Hounsfield",
+        "Wilhelm Roentgen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Raymond Damadian built the first full-body MRI scanner, called 'Indomitable,' in 1977. MRI uses powerful magnets and radio waves to create detailed images without radiation.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-12",
+      "question": "What life-saving procedure was perfected by Dr. Werner Forssmann, who first tested it on himself?",
+      "options": [
+        "Cardiac catheterization",
+        "Blood transfusion",
+        "Dialysis",
+        "Endoscopy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In 1929, Werner Forssmann inserted a catheter into his own arm and guided it into his heart, pioneering cardiac catheterization. He won the Nobel Prize in 1956.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-13",
+      "question": "Who is known for developing the first effective vaccine against yellow fever?",
+      "options": [
+        "Max Theiler",
+        "Jesse Lazear",
+        "Walter Reed",
+        "Carlos Finlay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Max Theiler developed the 17D yellow fever vaccine in the 1930s, which is still used today. He won the Nobel Prize in Physiology or Medicine in 1951.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-14",
+      "question": "Which nurse pioneered modern battlefield medical care during the Civil War and founded the American Red Cross?",
+      "options": [
+        "Florence Nightingale",
+        "Dorothea Dix",
+        "Mary Ann Bickerdyke",
+        "Clara Barton"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Clara Barton provided nursing care on Civil War battlefields and founded the American Red Cross in 1881. She led the organization for 23 years.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "medical-pioneers-quiz-15",
+      "question": "What did Paul Ehrlich develop in 1910 that is considered the first modern antimicrobial drug?",
+      "options": [
+        "Sulfonamide",
+        "Salvarsan (for syphilis)",
+        "Penicillin",
+        "Streptomycin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paul Ehrlich developed Salvarsan (arsphenamine) in 1910 as a treatment for syphilis. It was the first effective antimicrobial agent, earning him the title 'father of chemotherapy.'",
+      "difficulty": "hard",
+      "category": "medicine"
+    }
+  ]
+}

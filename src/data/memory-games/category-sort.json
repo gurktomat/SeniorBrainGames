@@ -7,8 +7,13 @@
     {
       "id": "cat-1",
       "question": "Which of these is NOT a fruit?",
-      "options": ["Apple", "Banana", "Celery", "Grape"],
-      "correctAnswer": 2,
+      "options": [
+        "Celery",
+        "Banana",
+        "Grape",
+        "Apple"
+      ],
+      "correctAnswer": 0,
       "explanation": "Celery is a vegetable, while apple, banana, and grape are all fruits.",
       "difficulty": "easy",
       "category": "logic"
@@ -16,8 +21,13 @@
     {
       "id": "cat-2",
       "question": "Which of these is NOT a planet in our solar system?",
-      "options": ["Mars", "Jupiter", "Polaris", "Saturn"],
-      "correctAnswer": 2,
+      "options": [
+        "Saturn",
+        "Mars",
+        "Jupiter",
+        "Polaris"
+      ],
+      "correctAnswer": 3,
       "explanation": "Polaris is a star (the North Star), while Mars, Jupiter, and Saturn are all planets.",
       "difficulty": "easy",
       "category": "logic"
@@ -25,8 +35,13 @@
     {
       "id": "cat-3",
       "question": "Which of these is NOT a string instrument?",
-      "options": ["Violin", "Cello", "Trumpet", "Harp"],
-      "correctAnswer": 2,
+      "options": [
+        "Violin",
+        "Cello",
+        "Harp",
+        "Trumpet"
+      ],
+      "correctAnswer": 3,
       "explanation": "Trumpet is a brass instrument, while violin, cello, and harp are all string instruments.",
       "difficulty": "easy",
       "category": "logic"
@@ -34,8 +49,13 @@
     {
       "id": "cat-4",
       "question": "Which of these is NOT a mammal?",
-      "options": ["Dolphin", "Eagle", "Elephant", "Whale"],
-      "correctAnswer": 1,
+      "options": [
+        "Whale",
+        "Elephant",
+        "Eagle",
+        "Dolphin"
+      ],
+      "correctAnswer": 2,
       "explanation": "Eagle is a bird, while dolphin, elephant, and whale are all mammals.",
       "difficulty": "easy",
       "category": "logic"
@@ -43,8 +63,13 @@
     {
       "id": "cat-5",
       "question": "Which of these is NOT a primary color in painting?",
-      "options": ["Red", "Blue", "Green", "Yellow"],
-      "correctAnswer": 2,
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correctAnswer": 3,
       "explanation": "Green is a secondary color (made by mixing blue and yellow). The primary colors in painting are red, blue, and yellow.",
       "difficulty": "easy",
       "category": "logic"
@@ -52,8 +77,13 @@
     {
       "id": "cat-6",
       "question": "Which of these is NOT a country in South America?",
-      "options": ["Brazil", "Argentina", "Portugal", "Colombia"],
-      "correctAnswer": 2,
+      "options": [
+        "Portugal",
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ],
+      "correctAnswer": 0,
       "explanation": "Portugal is in Europe, while Brazil, Argentina, and Colombia are all in South America.",
       "difficulty": "medium",
       "category": "logic"
@@ -61,8 +91,13 @@
     {
       "id": "cat-7",
       "question": "Which of these is NOT a type of pasta?",
-      "options": ["Penne", "Focaccia", "Rigatoni", "Farfalle"],
-      "correctAnswer": 1,
+      "options": [
+        "Rigatoni",
+        "Farfalle",
+        "Focaccia",
+        "Penne"
+      ],
+      "correctAnswer": 2,
       "explanation": "Focaccia is a type of flatbread, while penne, rigatoni, and farfalle are all pasta shapes.",
       "difficulty": "medium",
       "category": "logic"
@@ -70,8 +105,13 @@
     {
       "id": "cat-8",
       "question": "Which of these is NOT an ocean?",
-      "options": ["Atlantic", "Mediterranean", "Pacific", "Indian"],
-      "correctAnswer": 1,
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Mediterranean",
+        "Indian"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Mediterranean is a sea, not an ocean. The Atlantic, Pacific, and Indian are three of the world's oceans.",
       "difficulty": "medium",
       "category": "logic"
@@ -79,8 +119,13 @@
     {
       "id": "cat-9",
       "question": "Which of these is NOT a woodwind instrument?",
-      "options": ["Flute", "Clarinet", "Trombone", "Oboe"],
-      "correctAnswer": 2,
+      "options": [
+        "Trombone",
+        "Flute",
+        "Clarinet",
+        "Oboe"
+      ],
+      "correctAnswer": 0,
       "explanation": "Trombone is a brass instrument, while flute, clarinet, and oboe are all woodwind instruments.",
       "difficulty": "medium",
       "category": "logic"
@@ -88,8 +133,13 @@
     {
       "id": "cat-10",
       "question": "Which of these is NOT a bone in the human body?",
-      "options": ["Femur", "Tibia", "Biceps", "Fibula"],
-      "correctAnswer": 2,
+      "options": [
+        "Fibula",
+        "Biceps",
+        "Femur",
+        "Tibia"
+      ],
+      "correctAnswer": 1,
       "explanation": "Biceps is a muscle, while femur, tibia, and fibula are all bones in the leg.",
       "difficulty": "medium",
       "category": "logic"
@@ -97,7 +147,12 @@
     {
       "id": "cat-11",
       "question": "Which of these is NOT a noble gas?",
-      "options": ["Neon", "Argon", "Nitrogen", "Helium"],
+      "options": [
+        "Neon",
+        "Helium",
+        "Nitrogen",
+        "Argon"
+      ],
       "correctAnswer": 2,
       "explanation": "Nitrogen is not a noble gas. Neon, argon, and helium are all noble gases found in Group 18 of the periodic table.",
       "difficulty": "hard",
@@ -106,8 +161,13 @@
     {
       "id": "cat-12",
       "question": "Which of these is NOT a Baltic state?",
-      "options": ["Latvia", "Lithuania", "Romania", "Estonia"],
-      "correctAnswer": 2,
+      "options": [
+        "Lithuania",
+        "Romania",
+        "Latvia",
+        "Estonia"
+      ],
+      "correctAnswer": 1,
       "explanation": "Romania is in southeastern Europe, not the Baltics. Latvia, Lithuania, and Estonia are the three Baltic states.",
       "difficulty": "hard",
       "category": "logic"
@@ -115,7 +175,12 @@
     {
       "id": "cat-13",
       "question": "Which of these is NOT a percussion instrument?",
-      "options": ["Xylophone", "Timpani", "Bassoon", "Snare Drum"],
+      "options": [
+        "Xylophone",
+        "Timpani",
+        "Bassoon",
+        "Snare Drum"
+      ],
       "correctAnswer": 2,
       "explanation": "Bassoon is a woodwind instrument, while xylophone, timpani, and snare drum are all percussion instruments.",
       "difficulty": "hard",
@@ -124,8 +189,13 @@
     {
       "id": "cat-14",
       "question": "Which of these is NOT a type of cloud?",
-      "options": ["Cumulus", "Stratus", "Solstice", "Cirrus"],
-      "correctAnswer": 2,
+      "options": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Solstice"
+      ],
+      "correctAnswer": 3,
       "explanation": "Solstice is an astronomical event (the longest or shortest day of the year), not a cloud type. Cumulus, stratus, and cirrus are all cloud types.",
       "difficulty": "hard",
       "category": "logic"
@@ -133,8 +203,13 @@
     {
       "id": "cat-15",
       "question": "Which of these is NOT a Shakespeare play?",
-      "options": ["Macbeth", "Othello", "Candide", "Hamlet"],
-      "correctAnswer": 2,
+      "options": [
+        "Candide",
+        "Hamlet",
+        "Macbeth",
+        "Othello"
+      ],
+      "correctAnswer": 0,
       "explanation": "Candide is a novella by Voltaire, not a Shakespeare play. Macbeth, Othello, and Hamlet are all plays by William Shakespeare.",
       "difficulty": "hard",
       "category": "logic"

@@ -7,92 +7,167 @@
     {
       "id": "world-deserts-quiz-1",
       "question": "What is the largest desert in the world by area?",
-      "options": ["Sahara", "Arabian", "Antarctic", "Gobi"],
-      "correctAnswer": 2
+      "options": [
+        "Sahara",
+        "Antarctic",
+        "Gobi",
+        "Arabian"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-2",
       "question": "The Sahara Desert covers approximately what percentage of the African continent?",
-      "options": ["10%", "25%", "50%", "75%"],
-      "correctAnswer": 1
+      "options": [
+        "50%",
+        "10%",
+        "25%",
+        "75%"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-deserts-quiz-3",
       "question": "In which country would you find the Atacama Desert, one of the driest places on Earth?",
-      "options": ["Peru", "Chile", "Argentina", "Bolivia"],
+      "options": [
+        "Peru",
+        "Chile",
+        "Argentina",
+        "Bolivia"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-4",
       "question": "The Gobi Desert stretches across Mongolia and which other country?",
-      "options": ["Russia", "Kazakhstan", "China", "India"],
-      "correctAnswer": 2
+      "options": [
+        "Russia",
+        "China",
+        "Kazakhstan",
+        "India"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-5",
       "question": "Which desert is the largest hot desert in the world?",
-      "options": ["Arabian", "Kalahari", "Sahara", "Great Victoria"],
-      "correctAnswer": 2
+      "options": [
+        "Sahara",
+        "Great Victoria",
+        "Kalahari",
+        "Arabian"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-deserts-quiz-6",
       "question": "The Mojave Desert is located in which U.S. state?",
-      "options": ["Texas", "Arizona", "California", "New Mexico"],
-      "correctAnswer": 2
+      "options": [
+        "Texas",
+        "New Mexico",
+        "Arizona",
+        "California"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-deserts-quiz-7",
       "question": "What is the name of the vast desert that covers much of southern Africa, including parts of Botswana and Namibia?",
-      "options": ["Namib", "Kalahari", "Sahel", "Karoo"],
-      "correctAnswer": 1
+      "options": [
+        "Karoo",
+        "Namib",
+        "Kalahari",
+        "Sahel"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-deserts-quiz-8",
       "question": "The Sonoran Desert is known for which iconic type of cactus?",
-      "options": ["Barrel cactus", "Prickly pear", "Saguaro", "Organ pipe"],
-      "correctAnswer": 2
+      "options": [
+        "Prickly pear",
+        "Organ pipe",
+        "Barrel cactus",
+        "Saguaro"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-deserts-quiz-9",
       "question": "Which Middle Eastern desert is the largest sand desert in the world, known as the 'Empty Quarter'?",
-      "options": ["Syrian Desert", "Rub' al Khali", "Negev", "Dasht-e Kavir"],
+      "options": [
+        "Syrian Desert",
+        "Rub' al Khali",
+        "Dasht-e Kavir",
+        "Negev"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-10",
       "question": "Death Valley, one of the hottest places on Earth, is part of which desert?",
-      "options": ["Sonoran", "Chihuahuan", "Mojave", "Great Basin"],
-      "correctAnswer": 2
+      "options": [
+        "Great Basin",
+        "Mojave",
+        "Sonoran",
+        "Chihuahuan"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-11",
       "question": "The Namib Desert is famous for its towering red sand dunes and is located in which country?",
-      "options": ["South Africa", "Namibia", "Angola", "Mozambique"],
-      "correctAnswer": 1
+      "options": [
+        "South Africa",
+        "Mozambique",
+        "Namibia",
+        "Angola"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-deserts-quiz-12",
       "question": "What type of desert is the Antarctic Desert classified as?",
-      "options": ["Hot desert", "Cold desert", "Coastal desert", "Rain shadow desert"],
-      "correctAnswer": 1
+      "options": [
+        "Cold desert",
+        "Coastal desert",
+        "Rain shadow desert",
+        "Hot desert"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-deserts-quiz-13",
       "question": "The Thar Desert, also known as the Great Indian Desert, borders which two countries?",
-      "options": ["India and China", "India and Pakistan", "India and Bangladesh", "India and Nepal"],
-      "correctAnswer": 1
+      "options": [
+        "India and Pakistan",
+        "India and Nepal",
+        "India and China",
+        "India and Bangladesh"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-deserts-quiz-14",
       "question": "Which Australian desert is the country's largest?",
-      "options": ["Simpson", "Gibson", "Great Victoria", "Tanami"],
-      "correctAnswer": 2
+      "options": [
+        "Tanami",
+        "Great Victoria",
+        "Gibson",
+        "Simpson"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-deserts-quiz-15",
       "question": "An oasis in a desert is typically formed by water from which source?",
-      "options": ["Rainfall collection", "Underground aquifers", "Melting glaciers", "Condensation"],
-      "correctAnswer": 1
+      "options": [
+        "Melting glaciers",
+        "Condensation",
+        "Underground aquifers",
+        "Rainfall collection"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

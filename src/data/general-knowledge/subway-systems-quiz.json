@@ -1,0 +1,219 @@
+{
+  "id": "subway-systems-quiz",
+  "title": "Subway Systems of the World",
+  "description": "Go underground with questions about the world's famous metro and subway systems!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "subway-systems-quiz-1",
+      "question": "Which city opened the world's first underground railway in 1863?",
+      "options": [
+        "Paris",
+        "London",
+        "New York",
+        "Berlin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "London's Metropolitan Railway opened on January 10, 1863, making it the world's first underground passenger railway. It initially ran between Paddington and Farringdon using steam locomotives.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-2",
+      "question": "The Moscow Metro is famous for the lavish decoration of its stations, often described as what?",
+      "options": [
+        "Underground palaces",
+        "Modern art galleries",
+        "Sci-fi sets",
+        "Underwater worlds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Moscow Metro, opened in 1935, is often called a collection of 'underground palaces' due to its ornate stations featuring chandeliers, marble columns, mosaics, and sculptures in the Socialist Realist style.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-3",
+      "question": "Which city's metro system is the busiest in the world by annual ridership?",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Tokyo",
+        "New York"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Beijing Subway is the busiest metro system in the world by annual ridership, carrying over 3.8 billion passengers per year. It has expanded rapidly since 2000 and now has over 800 km of track.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-4",
+      "question": "The New York City Subway is notable for operating how many hours per day?",
+      "options": [
+        "20 hours",
+        "24 hours",
+        "18 hours",
+        "22 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The New York City Subway operates 24 hours a day, 7 days a week, making it one of the few subway systems in the world to provide round-the-clock service. It has been running since 1904.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-5",
+      "question": "Which city's metro system features stations carved from natural rock, giving them a cave-like appearance?",
+      "options": [
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stockholm's metro (Tunnelbana) is often called the 'world's longest art gallery.' Many stations are carved from bedrock and left with exposed cave-like walls, decorated by over 150 artists with paintings, mosaics, and installations.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-6",
+      "question": "What does the 'third rail' in many subway systems provide?",
+      "options": [
+        "Extra stability",
+        "Emergency braking",
+        "Electrical power to the trains",
+        "Drainage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The third rail is an electrified rail that runs alongside the track and provides electrical power to subway trains. Trains collect power from it via a contact shoe. It typically carries 600-750 volts of direct current.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "subway-systems-quiz-7",
+      "question": "The Paris Metro, opened in 1900, uses a distinctive feature where trains run on what?",
+      "options": [
+        "Magnetic levitation",
+        "Rubber tires on some lines",
+        "Monorail tracks",
+        "Wooden rails"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Several Paris Metro lines use trains that run on rubber tires instead of traditional steel wheels on rails. This system, introduced in the 1950s, provides better acceleration, braking, and reduced noise.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "subway-systems-quiz-8",
+      "question": "Which metro system has the most stations in the world?",
+      "options": [
+        "Shanghai Metro",
+        "New York City Subway",
+        "Beijing Subway",
+        "London Underground"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The New York City Subway has the most stations of any metro system in the world, with 472 stations. While other systems may have more track length or ridership, NYC leads in total number of stations.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-9",
+      "question": "What is the name of the London Underground's circular route that connects major railway stations?",
+      "options": [
+        "District Line",
+        "Circle Line",
+        "Central Line",
+        "Metropolitan Line"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Circle Line is a London Underground line that connects many of London's major railway terminals in a loop shape. Originally formed in 1884, it runs through stations including Paddington, King's Cross, and Liverpool Street.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-10",
+      "question": "The Dubai Metro, opened in 2009, holds what distinction?",
+      "options": [
+        "First underwater metro",
+        "Fastest metro trains",
+        "World's longest fully automated metro network",
+        "Deepest subway system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Dubai Metro is one of the world's longest fully automated driverless metro networks. Trains operate without drivers, using advanced computer systems to control speed, stops, and door operations.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "subway-systems-quiz-11",
+      "question": "Which subway system uses the iconic map designed by Harry Beck in 1931 that revolutionized transit map design?",
+      "options": [
+        "Paris Metro",
+        "London Underground",
+        "New York Subway",
+        "Berlin U-Bahn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Harry Beck's 1931 London Underground map simplified the network into a diagram with straight lines and uniform spacing. This revolutionary design influenced transit maps worldwide and is still the basis of the Tube map today.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-12",
+      "question": "The Pyongyang Metro in North Korea is notable for what engineering feature?",
+      "options": [
+        "It uses steam-powered trains",
+        "It runs entirely above ground",
+        "It has no stations",
+        "It has some of the deepest stations in the world"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Pyongyang Metro has stations that are approximately 110 meters (360 feet) deep, among the deepest in the world. The depth was reportedly designed to serve as a nuclear bomb shelter during the Cold War.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "subway-systems-quiz-13",
+      "question": "What technology do platform screen doors, used in many modern metro systems, primarily provide?",
+      "options": [
+        "Sound insulation only",
+        "Safety by preventing falls onto tracks",
+        "Advertising space",
+        "Better ventilation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Platform screen doors are barriers between the platform and the tracks that open only when a train has stopped. They prevent accidental falls and intentional entry onto tracks, and also improve climate control in stations.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "subway-systems-quiz-14",
+      "question": "Which Asian city operates one of the most punctual metro systems in the world, with average delays measured in seconds?",
+      "options": [
+        "Singapore",
+        "Tokyo",
+        "Hong Kong",
+        "Seoul"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tokyo's metro system is renowned for its extraordinary punctuality, with the average delay being approximately 18 seconds. The system carries over 8 million passengers daily across multiple operators.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "subway-systems-quiz-15",
+      "question": "What was the primary method used to construct the earliest sections of the London Underground?",
+      "options": [
+        "Cut and cover",
+        "Deep-level tube tunneling",
+        "Immersed tube",
+        "Tunnel boring machine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The earliest London Underground lines were built using the 'cut and cover' method: digging a trench along existing streets, building the tunnel structure, and then covering it over. This was cheaper than deep tunneling but highly disruptive.",
+      "difficulty": "medium",
+      "category": "engineering"
+    }
+  ]
+}

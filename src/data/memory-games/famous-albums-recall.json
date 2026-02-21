@@ -1,0 +1,173 @@
+{
+  "id": "famous-albums-recall",
+  "title": "Famous Albums Recall",
+  "description": "How well do you remember iconic music albums and their artists?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-albums-recall-1",
+      "question": "Which band released the album 'Abbey Road' in 1969?",
+      "options": [
+        "The Who",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "The Beatles"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-albums-recall-2",
+      "question": "Who released the best-selling album 'Thriller' in 1982?",
+      "options": [
+        "Whitney Houston",
+        "Stevie Wonder",
+        "Michael Jackson",
+        "Prince"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-albums-recall-3",
+      "question": "Which Pink Floyd album features a prism on its cover?",
+      "options": [
+        "The Wall",
+        "The Dark Side of the Moon",
+        "Animals",
+        "Wish You Were Here"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-albums-recall-4",
+      "question": "Who released the album 'Rumours' in 1977?",
+      "options": [
+        "Fleetwood Mac",
+        "ABBA",
+        "Eagles",
+        "Bee Gees"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-5",
+      "question": "Which album by Nirvana featured the hit 'Smells Like Teen Spirit'?",
+      "options": [
+        "Nevermind",
+        "MTV Unplugged in New York",
+        "Bleach",
+        "In Utero"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-6",
+      "question": "'Hotel California' is a famous album by which band?",
+      "options": [
+        "Eagles",
+        "Lynyrd Skynyrd",
+        "Boston",
+        "Kansas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-7",
+      "question": "Who released the album 'Born in the U.S.A.' in 1984?",
+      "options": [
+        "John Mellencamp",
+        "Bob Seger",
+        "Tom Petty",
+        "Bruce Springsteen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-albums-recall-8",
+      "question": "Which artist released the album 'Purple Rain' in 1984?",
+      "options": [
+        "Prince",
+        "David Bowie",
+        "Michael Jackson",
+        "George Michael"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-9",
+      "question": "The album 'Back in Black' was released by which band?",
+      "options": [
+        "AC/DC",
+        "Black Sabbath",
+        "Metallica",
+        "Iron Maiden"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-10",
+      "question": "Who released the album 'Tapestry' in 1971?",
+      "options": [
+        "Carly Simon",
+        "Linda Ronstadt",
+        "Carole King",
+        "Joni Mitchell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-albums-recall-11",
+      "question": "Which band released 'Led Zeppelin IV' featuring 'Stairway to Heaven'?",
+      "options": [
+        "Deep Purple",
+        "Black Sabbath",
+        "The Who",
+        "Led Zeppelin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-albums-recall-12",
+      "question": "Who recorded the album 'Kind of Blue' in 1959?",
+      "options": [
+        "Duke Ellington",
+        "John Coltrane",
+        "Miles Davis",
+        "Charlie Parker"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-albums-recall-13",
+      "question": "'Sgt. Pepper's Lonely Hearts Club Band' was released by which group?",
+      "options": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Kinks",
+        "The Beach Boys"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-albums-recall-14",
+      "question": "Which artist released the album 'Blue' in 1971?",
+      "options": [
+        "Janis Joplin",
+        "Joni Mitchell",
+        "Carole King",
+        "Joan Baez"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-albums-recall-15",
+      "question": "Who released the album 'The Wall' in 1979?",
+      "options": [
+        "Genesis",
+        "Pink Floyd",
+        "King Crimson",
+        "Yes"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

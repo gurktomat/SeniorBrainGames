@@ -7,92 +7,167 @@
     {
       "id": "theater-vocabulary-1",
       "question": "In theater, what does 'blocking' refer to?",
-      "options": ["Building the set", "The planned movement and positioning of actors on stage", "Preventing audience members from entering", "Censoring lines from the script"],
+      "options": [
+        "Preventing audience members from entering",
+        "The planned movement and positioning of actors on stage",
+        "Building the set",
+        "Censoring lines from the script"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-2",
       "question": "What is a 'soliloquy' in theater?",
-      "options": ["A song performed by the chorus", "A speech where a character speaks their thoughts aloud while alone on stage", "A fight scene between two characters", "The final scene of a play"],
-      "correctAnswer": 1
+      "options": [
+        "A song performed by the chorus",
+        "A fight scene between two characters",
+        "A speech where a character speaks their thoughts aloud while alone on stage",
+        "The final scene of a play"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "theater-vocabulary-3",
       "question": "What does 'stage left' mean from the actor's perspective?",
-      "options": ["The left side as the audience sees it", "The actor's left when facing the audience", "The backstage area", "The exit side of the stage"],
-      "correctAnswer": 1
+      "options": [
+        "The exit side of the stage",
+        "The left side as the audience sees it",
+        "The actor's left when facing the audience",
+        "The backstage area"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "theater-vocabulary-4",
       "question": "In theater, what is the 'fourth wall'?",
-      "options": ["The back wall of the stage", "The imaginary wall between performers and the audience", "The wall behind the audience", "The wall separating backstage from the stage"],
+      "options": [
+        "The back wall of the stage",
+        "The imaginary wall between performers and the audience",
+        "The wall separating backstage from the stage",
+        "The wall behind the audience"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-5",
       "question": "What is a 'matinee' performance?",
-      "options": ["A late-night show", "An afternoon or daytime performance", "A dress rehearsal", "A performance for critics only"],
-      "correctAnswer": 1
+      "options": [
+        "A late-night show",
+        "A performance for critics only",
+        "A dress rehearsal",
+        "An afternoon or daytime performance"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "theater-vocabulary-6",
       "question": "What does 'downstage' mean in theater terminology?",
-      "options": ["Below the stage", "The area closest to the audience", "The area farthest from the audience", "The area below the trapdoor"],
+      "options": [
+        "The area farthest from the audience",
+        "The area closest to the audience",
+        "The area below the trapdoor",
+        "Below the stage"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-7",
       "question": "What is a 'monologue' in theater?",
-      "options": ["A dialogue between two people", "A long speech by one character addressed to others", "A whispered aside", "A song performed solo"],
+      "options": [
+        "A song performed solo",
+        "A long speech by one character addressed to others",
+        "A whispered aside",
+        "A dialogue between two people"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-8",
       "question": "In theater, what is 'the wings'?",
-      "options": ["The flying apparatus", "The areas on either side of the stage hidden from the audience", "The balcony seating", "The costume department"],
+      "options": [
+        "The flying apparatus",
+        "The areas on either side of the stage hidden from the audience",
+        "The costume department",
+        "The balcony seating"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-9",
       "question": "What does 'strike the set' mean in theater?",
-      "options": ["Hit the scenery for sound effects", "Dismantle and remove the set after a production ends", "Paint the set a new color", "Inspect the set for safety"],
+      "options": [
+        "Hit the scenery for sound effects",
+        "Dismantle and remove the set after a production ends",
+        "Inspect the set for safety",
+        "Paint the set a new color"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-10",
       "question": "What is an 'understudy' in theater?",
-      "options": ["A student observing rehearsals", "A performer who learns a role to substitute if needed", "A stage crew member", "A junior director"],
-      "correctAnswer": 1
+      "options": [
+        "A performer who learns a role to substitute if needed",
+        "A junior director",
+        "A student observing rehearsals",
+        "A stage crew member"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "theater-vocabulary-11",
       "question": "In theater, what is a 'proscenium'?",
-      "options": ["A type of spotlight", "The arch or frame separating the stage from the audience", "A musical instrument", "A type of curtain"],
+      "options": [
+        "A type of spotlight",
+        "The arch or frame separating the stage from the audience",
+        "A type of curtain",
+        "A musical instrument"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "theater-vocabulary-12",
       "question": "What does 'ad-lib' mean in theater?",
-      "options": ["Read from the script", "Improvise dialogue not in the script", "Speak in a foreign language", "Whisper to other actors"],
-      "correctAnswer": 1
+      "options": [
+        "Read from the script",
+        "Speak in a foreign language",
+        "Improvise dialogue not in the script",
+        "Whisper to other actors"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "theater-vocabulary-13",
       "question": "What is a 'curtain call' in theater?",
-      "options": ["The signal to open the curtain", "When performers return to stage after the show to acknowledge applause", "A phone call to the director", "The final line of the play"],
-      "correctAnswer": 1
+      "options": [
+        "The final line of the play",
+        "The signal to open the curtain",
+        "When performers return to stage after the show to acknowledge applause",
+        "A phone call to the director"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "theater-vocabulary-14",
       "question": "In theater, what is 'the green room'?",
-      "options": ["A room painted green for good luck", "A backstage room where performers relax before and after going on stage", "The prop storage area", "The ticket office"],
-      "correctAnswer": 1
+      "options": [
+        "A backstage room where performers relax before and after going on stage",
+        "A room painted green for good luck",
+        "The ticket office",
+        "The prop storage area"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "theater-vocabulary-15",
       "question": "What does 'break a leg' mean in theater?",
-      "options": ["Be careful on stage", "A wish of good luck before a performance", "The show has been canceled", "Time to take an intermission"],
-      "correctAnswer": 1
+      "options": [
+        "A wish of good luck before a performance",
+        "Be careful on stage",
+        "Time to take an intermission",
+        "The show has been canceled"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

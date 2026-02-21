@@ -1,0 +1,219 @@
+{
+  "id": "sleep-science-quiz",
+  "title": "Sleep Science",
+  "description": "How much do you know about the science of sleep and dreams?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sleep-science-quiz-1",
+      "question": "What does REM stand for in the sleep cycle?",
+      "options": [
+        "Relaxed Energy Mode",
+        "Rapid Eye Movement",
+        "Restful Evening Mode",
+        "Recurrent Energy Motion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "REM stands for Rapid Eye Movement, a sleep stage characterized by quick eye movements, increased brain activity, and vivid dreaming.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-2",
+      "question": "How many stages of sleep are there in one complete sleep cycle?",
+      "options": [
+        "Two",
+        "Five",
+        "Four",
+        "Three"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are four stages of sleep: three stages of non-REM sleep (N1, N2, and N3) plus REM sleep. A complete cycle takes about 90 minutes and repeats several times per night.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-3",
+      "question": "What hormone does the brain produce to make you feel sleepy?",
+      "options": [
+        "Melatonin",
+        "Adrenaline",
+        "Dopamine",
+        "Cortisol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Melatonin is produced by the pineal gland in response to darkness. It signals to the body that it is time to sleep, helping regulate the sleep-wake cycle.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-4",
+      "question": "What is the body's internal 24-hour clock called?",
+      "options": [
+        "Sleep cycle",
+        "Metabolic clock",
+        "Circadian rhythm",
+        "Biorhythm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The circadian rhythm is the body's internal 24-hour clock that regulates sleep-wake cycles, hormone release, body temperature, and other vital functions.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-5",
+      "question": "During which stage of sleep does the body do most of its physical repair and growth?",
+      "options": [
+        "Stage N1 (light sleep)",
+        "Stage N2",
+        "REM sleep",
+        "Stage N3 (deep sleep)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stage N3, also called deep sleep or slow-wave sleep, is when the body performs most physical repair, tissue growth, and immune system strengthening.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-6",
+      "question": "What is insomnia?",
+      "options": [
+        "Sleeping too much",
+        "Sleeping during the day",
+        "Difficulty falling or staying asleep",
+        "Walking in your sleep"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or waking up too early. It can be acute (short-term) or chronic (long-term).",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-7",
+      "question": "What sleep disorder causes a person to stop breathing repeatedly during sleep?",
+      "options": [
+        "Insomnia",
+        "Narcolepsy",
+        "Sleep apnea",
+        "Restless leg syndrome"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sleep apnea causes repeated pauses in breathing during sleep, sometimes hundreds of times per night. It can lead to poor sleep quality, daytime fatigue, and cardiovascular problems.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-8",
+      "question": "Most vivid dreams occur during which stage of sleep?",
+      "options": [
+        "REM sleep",
+        "Stage N1",
+        "Stage N2",
+        "Stage N3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most vivid and memorable dreams occur during REM sleep, when the brain is highly active. REM periods get longer as the night progresses.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-9",
+      "question": "What is the average number of sleep cycles a person goes through per night?",
+      "options": [
+        "1-2",
+        "8-10",
+        "4-6",
+        "3-4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Most people go through 4-6 complete sleep cycles per night, with each cycle lasting approximately 90 minutes.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-10",
+      "question": "What is sleep paralysis?",
+      "options": [
+        "A type of coma",
+        "Temporary inability to move while falling asleep or waking up",
+        "Permanent muscle damage from sleeping wrong",
+        "A form of sleepwalking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sleep paralysis is a temporary inability to move or speak while falling asleep or waking up. It occurs when the brain awakens from REM sleep but the body remains in its REM-related muscle paralysis.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-11",
+      "question": "What effect does blue light from screens have on sleep?",
+      "options": [
+        "It improves sleep quality",
+        "It suppresses melatonin production",
+        "It has no effect on sleep",
+        "It increases deep sleep"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Blue light from screens suppresses melatonin production, making it harder to fall asleep. This is why experts recommend avoiding screens for at least 30 minutes before bedtime.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-12",
+      "question": "What condition causes people to suddenly fall asleep during the day, even in the middle of activities?",
+      "options": [
+        "Chronic fatigue syndrome",
+        "Jet lag",
+        "Narcolepsy",
+        "Hypersomnia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Narcolepsy is a neurological disorder that affects the brain's ability to control sleep-wake cycles, causing sudden, uncontrollable episodes of falling asleep during the day.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-13",
+      "question": "As people age, how does their sleep typically change?",
+      "options": [
+        "They need more sleep",
+        "They sleep more soundly",
+        "They stop dreaming",
+        "They experience less deep sleep"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As people age, they typically experience less deep sleep (N3 stage), wake up more frequently during the night, and may shift to earlier bedtimes and wake times.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-14",
+      "question": "What is the term for the body's decrease in temperature that helps initiate sleep?",
+      "options": [
+        "Hypothermia",
+        "Thermal dipping",
+        "Thermoregulation",
+        "Core cooling"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thermoregulation plays a key role in sleep. The body's core temperature naturally drops by 1-2 degrees as you fall asleep, and this cooling process helps initiate and maintain sleep.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "sleep-science-quiz-15",
+      "question": "What is a 'power nap' typically defined as?",
+      "options": [
+        "A 2-hour afternoon sleep",
+        "A 10-20 minute nap",
+        "Sleeping in on weekends",
+        "A full sleep cycle nap"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A power nap is a short nap of about 10-20 minutes, designed to boost alertness and performance without causing grogginess. Longer naps may lead to sleep inertia.",
+      "difficulty": "easy",
+      "category": "health"
+    }
+  ]
+}

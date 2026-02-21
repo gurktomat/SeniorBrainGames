@@ -20,20 +20,20 @@
       "question": "Who starred as General George S. Patton in the 1970 film 'Patton'?",
       "options": [
         "John Wayne",
-        "George C. Scott",
         "Lee Marvin",
+        "George C. Scott",
         "Gregory Peck"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-war-movies-3",
       "question": "Which 1957 David Lean film follows British POWs forced to build a railway bridge in Burma?",
       "options": [
-        "Lawrence of Arabia",
-        "The Bridge on the River Kwai",
         "Doctor Zhivago",
-        "A Passage to India"
+        "The Bridge on the River Kwai",
+        "A Passage to India",
+        "Lawrence of Arabia"
       ],
       "correctAnswer": 1
     },
@@ -41,21 +41,21 @@
       "id": "classic-war-movies-4",
       "question": "What 1962 film told the story of the Allied invasion of Normandy on D-Day?",
       "options": [
-        "A Bridge Too Far",
-        "The Longest Day",
         "The Guns of Navarone",
-        "Patton"
+        "A Bridge Too Far",
+        "Patton",
+        "The Longest Day"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-war-movies-5",
       "question": "Who directed the 1979 Vietnam War epic 'Apocalypse Now'?",
       "options": [
+        "Steven Spielberg",
         "Stanley Kubrick",
-        "Oliver Stone",
         "Francis Ford Coppola",
-        "Steven Spielberg"
+        "Oliver Stone"
       ],
       "correctAnswer": 2
     },
@@ -63,21 +63,21 @@
       "id": "classic-war-movies-6",
       "question": "Which actor famously said 'I love the smell of napalm in the morning' in 'Apocalypse Now'?",
       "options": [
-        "Marlon Brando",
-        "Martin Sheen",
+        "Dennis Hopper",
         "Robert Duvall",
-        "Dennis Hopper"
+        "Martin Sheen",
+        "Marlon Brando"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "classic-war-movies-7",
       "question": "What 1961 film starring Gregory Peck and David Niven involves a mission to destroy massive German guns on a Greek island?",
       "options": [
-        "Where Eagles Dare",
-        "The Guns of Navarone",
         "The Dirty Dozen",
-        "Force 10 from Navarone"
+        "The Guns of Navarone",
+        "Force 10 from Navarone",
+        "Where Eagles Dare"
       ],
       "correctAnswer": 1
     },
@@ -85,54 +85,54 @@
       "id": "classic-war-movies-8",
       "question": "Which 1967 film features Lee Marvin leading a group of military convicts on a suicide mission?",
       "options": [
+        "The Great Escape",
         "The Dirty Dozen",
         "Kelly's Heroes",
-        "The Great Escape",
         "The Longest Day"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "classic-war-movies-9",
       "question": "What 1949 World War II film starring John Wayne depicted the Marines' fight for Iwo Jima?",
       "options": [
-        "The Sands of Iwo Jima",
         "They Were Expendable",
+        "Back to Bataan",
         "Flying Leathernecks",
-        "Back to Bataan"
+        "The Sands of Iwo Jima"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "classic-war-movies-10",
       "question": "Which classic 1953 film set during the Korean War starred William Holden in a POW camp?",
       "options": [
+        "The Manchurian Candidate",
         "The Steel Helmet",
         "Pork Chop Hill",
-        "Stalag 17",
-        "The Manchurian Candidate"
+        "Stalag 17"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-war-movies-11",
       "question": "What 1970 comedy war film features Clint Eastwood and a group of soldiers going behind enemy lines to steal gold?",
       "options": [
-        "Where Eagles Dare",
-        "The Good, the Bad and the Ugly",
+        "The Dirty Dozen",
         "Kelly's Heroes",
-        "The Dirty Dozen"
+        "Where Eagles Dare",
+        "The Good, the Bad and the Ugly"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "classic-war-movies-12",
       "question": "Which 1977 film directed by Richard Attenborough depicts the failed Operation Market Garden?",
       "options": [
-        "The Longest Day",
+        "Midway",
         "A Bridge Too Far",
-        "The Battle of the Bulge",
-        "Midway"
+        "The Longest Day",
+        "The Battle of the Bulge"
       ],
       "correctAnswer": 1
     },
@@ -141,20 +141,20 @@
       "question": "What 1951 film starring Humphrey Bogart and Katharine Hepburn is set in Africa during World War I?",
       "options": [
         "Casablanca",
+        "To Have and Have Not",
         "The African Queen",
-        "Key Largo",
-        "To Have and Have Not"
+        "Key Largo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-war-movies-14",
       "question": "Which Stanley Kubrick film, released in 1957, depicts the horrors of World War I through a French regiment?",
       "options": [
-        "Full Metal Jacket",
         "Dr. Strangelove",
+        "Barry Lyndon",
         "Paths of Glory",
-        "Barry Lyndon"
+        "Full Metal Jacket"
       ],
       "correctAnswer": 2
     },
@@ -162,10 +162,10 @@
       "id": "classic-war-movies-15",
       "question": "What classic 1942 film starring Humphrey Bogart is set in wartime Morocco and features the line 'Here's looking at you, kid'?",
       "options": [
-        "The Maltese Falcon",
+        "Passage to Marseille",
         "Casablanca",
-        "To Have and Have Not",
-        "Passage to Marseille"
+        "The Maltese Falcon",
+        "To Have and Have Not"
       ],
       "correctAnswer": 1
     }

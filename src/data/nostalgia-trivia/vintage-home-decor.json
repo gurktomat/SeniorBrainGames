@@ -8,8 +8,13 @@
     {
       "id": "vhd-1",
       "question": "What color of kitchen appliances became hugely popular in the 1970s?",
-      "options": ["Pastel pink", "Avocado green", "Bright red", "Navy blue"],
-      "correctAnswer": 1,
+      "options": [
+        "Navy blue",
+        "Bright red",
+        "Avocado green",
+        "Pastel pink"
+      ],
+      "correctAnswer": 2,
       "explanation": "Avocado green (along with harvest gold) dominated kitchen appliances in the 1970s. Refrigerators, stoves, and dishwashers in these earthy tones were in nearly every American kitchen.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,7 +22,12 @@
     {
       "id": "vhd-2",
       "question": "What type of lamp, featuring colored wax floating in liquid, was a popular decor item in the 1960s and 1970s?",
-      "options": ["Tiffany lamp", "Lava lamp", "Blacklight lamp", "Oil lamp"],
+      "options": [
+        "Oil lamp",
+        "Lava lamp",
+        "Blacklight lamp",
+        "Tiffany lamp"
+      ],
       "correctAnswer": 1,
       "explanation": "The lava lamp was invented by Edward Craven Walker in 1963. Its mesmerizing blobs of colored wax rising and falling in heated liquid became an icon of 1960s and 1970s decor.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "vhd-3",
       "question": "What kind of wall covering was common in homes of the 1950s and 1960s, often featuring bold patterns?",
-      "options": ["Wood paneling", "Wallpaper", "Tile", "Stucco"],
-      "correctAnswer": 1,
+      "options": [
+        "Wallpaper",
+        "Tile",
+        "Wood paneling",
+        "Stucco"
+      ],
+      "correctAnswer": 0,
       "explanation": "Wallpaper was enormously popular in the 1950s and 1960s, with bold floral, geometric, and scenic patterns adorning nearly every room. Some homes had different patterns in every room.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "vhd-4",
       "question": "What type of flooring, often in shag style, was extremely popular in living rooms during the 1970s?",
-      "options": ["Hardwood", "Linoleum", "Wall-to-wall carpet", "Terrazzo"],
-      "correctAnswer": 2,
+      "options": [
+        "Terrazzo",
+        "Wall-to-wall carpet",
+        "Linoleum",
+        "Hardwood"
+      ],
+      "correctAnswer": 1,
       "explanation": "Wall-to-wall shag carpet was the must-have flooring of the 1970s. The long, thick fibers came in bold colors like orange, gold, and green, and covered everything from living rooms to bathrooms.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "vhd-5",
       "question": "What was a common material used for kitchen countertops in the 1950s?",
-      "options": ["Granite", "Formica laminate", "Marble", "Quartz"],
-      "correctAnswer": 1,
+      "options": [
+        "Formica laminate",
+        "Marble",
+        "Granite",
+        "Quartz"
+      ],
+      "correctAnswer": 0,
       "explanation": "Formica laminate countertops were the standard in 1950s kitchens. They came in cheerful colors and boomerang or starburst patterns that defined the era's atomic age aesthetic.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "vhd-6",
       "question": "What was the popular 1970s trend of covering walls with dark-stained sheets of thin lumber?",
-      "options": ["Wainscoting", "Beadboard", "Wood paneling", "Board and batten"],
-      "correctAnswer": 2,
+      "options": [
+        "Wainscoting",
+        "Beadboard",
+        "Board and batten",
+        "Wood paneling"
+      ],
+      "correctAnswer": 3,
       "explanation": "Dark wood paneling was a defining feature of 1970s home decor. Basements, dens, and family rooms were commonly covered in sheets of thin, dark-stained plywood paneling.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "vhd-7",
       "question": "What hanging decor item, made of strands of beads or bamboo, was often used as a door curtain in the 1960s and 1970s?",
-      "options": ["Macrame curtain", "Bead curtain", "Lace valance", "Crystal chandelier"],
-      "correctAnswer": 1,
+      "options": [
+        "Macrame curtain",
+        "Crystal chandelier",
+        "Bead curtain",
+        "Lace valance"
+      ],
+      "correctAnswer": 2,
       "explanation": "Bead curtains were a popular doorway treatment in the 1960s and 1970s. Made from wooden, glass, or plastic beads on strings, they added a bohemian, counterculture vibe to homes.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "vhd-8",
       "question": "What small decorative item, often placed on a doily, was a staple of coffee tables in the 1950s?",
-      "options": ["Snow globe", "Ceramic figurine", "Crystal ball", "Potted plant"],
-      "correctAnswer": 1,
+      "options": [
+        "Snow globe",
+        "Crystal ball",
+        "Potted plant",
+        "Ceramic figurine"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ceramic figurines were everywhere in 1950s homes. From Hummel figures to poodle figurines, these collectibles were proudly displayed on doily-covered tables and shelves.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "vhd-9",
       "question": "What plastic furniture, made famous by designer Eero Saarinen in the 1950s, featured a single pedestal base?",
-      "options": ["Bean bag chair", "Tulip chair", "Egg chair", "Butterfly chair"],
-      "correctAnswer": 1,
+      "options": [
+        "Egg chair",
+        "Bean bag chair",
+        "Butterfly chair",
+        "Tulip chair"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Tulip chair, designed by Eero Saarinen in 1956, featured a single pedestal base to eliminate the 'ugly, confusing, unrestful world' of chair legs. It became an icon of midcentury modern design.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "vhd-10",
       "question": "What craft technique, involving knotted cord to make plant hangers and wall hangings, was a huge 1970s trend?",
-      "options": ["Crocheting", "Macrame", "Cross-stitch", "Needlepoint"],
-      "correctAnswer": 1,
+      "options": [
+        "Crocheting",
+        "Needlepoint",
+        "Macrame",
+        "Cross-stitch"
+      ],
+      "correctAnswer": 2,
       "explanation": "Macrame was one of the biggest craft trends of the 1970s. Knotted plant hangers, wall hangings, and even furniture were made using this ancient textile technique that saw a massive revival.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "vhd-11",
       "question": "What was the name for the popular 1950s atomic-age pattern featuring elongated diamond shapes and thin lines?",
-      "options": ["Art Deco", "Starburst", "Paisley", "Houndstooth"],
-      "correctAnswer": 1,
+      "options": [
+        "Houndstooth",
+        "Paisley",
+        "Art Deco",
+        "Starburst"
+      ],
+      "correctAnswer": 3,
       "explanation": "Starburst or atomic starburst patterns were emblematic of 1950s design. Inspired by atomic science and space exploration, these patterns appeared on everything from clocks to wallpaper to dinnerware.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "vhd-12",
       "question": "What style of sofa, low to the ground with minimal framework, defined 1950s living rooms?",
-      "options": ["Chesterfield", "Sectional pit sofa", "Midcentury modern sofa", "Camelback sofa"],
-      "correctAnswer": 2,
+      "options": [
+        "Camelback sofa",
+        "Sectional pit sofa",
+        "Chesterfield",
+        "Midcentury modern sofa"
+      ],
+      "correctAnswer": 3,
       "explanation": "Midcentury modern sofas, with their clean lines, tapered legs, and low profiles, defined 1950s and 1960s living rooms. Designers like Florence Knoll and Charles Eames created iconic pieces still popular today.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "vhd-13",
       "question": "What type of television console was a common piece of living room furniture in the 1960s?",
-      "options": ["Flat-screen mounted TV", "Portable table TV", "Console TV in a wooden cabinet", "Projection screen TV"],
-      "correctAnswer": 2,
+      "options": [
+        "Console TV in a wooden cabinet",
+        "Portable table TV",
+        "Flat-screen mounted TV",
+        "Projection screen TV"
+      ],
+      "correctAnswer": 0,
       "explanation": "Console TVs housed in large wooden cabinets were prominent furniture pieces in 1960s living rooms. These often featured doors that could close over the screen, built-in record players, and stereo speakers.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "vhd-14",
       "question": "What conversation-starting 1960s furniture piece was a clear inflatable seat?",
-      "options": ["Papasan chair", "Blow chair", "Wassily chair", "Womb chair"],
-      "correctAnswer": 1,
+      "options": [
+        "Papasan chair",
+        "Wassily chair",
+        "Womb chair",
+        "Blow chair"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Blow chair, designed in 1967 by De Pas, D'Urbino, Lomazzi, and Scolari, was the first mass-produced inflatable chair. Made of clear PVC, it epitomized the pop art furniture movement.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "vhd-15",
       "question": "What was 'harvest gold,' a color that dominated 1970s kitchens alongside avocado green?",
-      "options": ["A bright lemon yellow", "A deep mustard-yellow", "A pale cream color", "A burnt orange"],
-      "correctAnswer": 1,
+      "options": [
+        "A pale cream color",
+        "A burnt orange",
+        "A deep mustard-yellow",
+        "A bright lemon yellow"
+      ],
+      "correctAnswer": 2,
       "explanation": "Harvest gold was a deep mustard-yellow color that was one of the two dominant appliance colors of the 1970s. Along with avocado green, it appeared on refrigerators, stoves, dishwashers, and even bathroom fixtures.",
       "difficulty": "hard",
       "category": "nostalgia"

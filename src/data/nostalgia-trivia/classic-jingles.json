@@ -7,7 +7,12 @@
     {
       "id": "cj-1",
       "question": "Which brand used the slogan 'The pause that refreshes'?",
-      "options": ["Pepsi", "Coca-Cola", "Dr Pepper", "7 Up"],
+      "options": [
+        "7 Up",
+        "Coca-Cola",
+        "Pepsi",
+        "Dr Pepper"
+      ],
       "correctAnswer": 1,
       "explanation": "Coca-Cola introduced 'The pause that refreshes' in 1929, and it became one of the most famous slogans in advertising history.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "cj-2",
       "question": "Complete the jingle: 'Plop, plop, fizz, fizz, oh what a relief it is!' Which product was this?",
-      "options": ["Tums", "Pepto-Bismol", "Alka-Seltzer", "Bromo-Seltzer"],
-      "correctAnswer": 2,
+      "options": [
+        "Pepto-Bismol",
+        "Alka-Seltzer",
+        "Bromo-Seltzer",
+        "Tums"
+      ],
+      "correctAnswer": 1,
       "explanation": "Alka-Seltzer's catchy jingle debuted in 1976 and became one of the most memorable in TV advertising history.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -27,7 +37,12 @@
     {
       "id": "cj-3",
       "question": "'Where's the beef?' became a national catchphrase thanks to a 1984 commercial for which fast food chain?",
-      "options": ["McDonald's", "Burger King", "Wendy's", "Hardee's"],
+      "options": [
+        "Hardee's",
+        "Burger King",
+        "Wendy's",
+        "McDonald's"
+      ],
       "correctAnswer": 2,
       "explanation": "Actress Clara Peller made 'Where's the beef?' famous in Wendy's 1984 commercial. It even became a political catchphrase that year.",
       "difficulty": "easy",
@@ -37,8 +52,13 @@
     {
       "id": "cj-4",
       "question": "Which cigarette brand used the slogan 'You've come a long way, baby'?",
-      "options": ["Marlboro", "Virginia Slims", "Salem", "Lucky Strike"],
-      "correctAnswer": 1,
+      "options": [
+        "Salem",
+        "Lucky Strike",
+        "Virginia Slims",
+        "Marlboro"
+      ],
+      "correctAnswer": 2,
       "explanation": "Virginia Slims targeted women with this slogan starting in 1968, tying the brand to the women's liberation movement of the era.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -47,7 +67,12 @@
     {
       "id": "cj-5",
       "question": "'Snap! Crackle! Pop!' has been the slogan for which breakfast cereal since 1932?",
-      "options": ["Cheerios", "Corn Flakes", "Rice Krispies", "Frosted Flakes"],
+      "options": [
+        "Cheerios",
+        "Frosted Flakes",
+        "Rice Krispies",
+        "Corn Flakes"
+      ],
       "correctAnswer": 2,
       "explanation": "Kellogg's Rice Krispies has used Snap, Crackle, and Pop as mascots since the 1930s, describing the sounds the cereal makes in milk.",
       "difficulty": "easy",
@@ -57,8 +82,13 @@
     {
       "id": "cj-6",
       "question": "Which brand told you to 'Let your fingers do the walking'?",
-      "options": ["AT&T", "Yellow Pages", "Western Union", "Bell Telephone"],
-      "correctAnswer": 1,
+      "options": [
+        "AT&T",
+        "Western Union",
+        "Yellow Pages",
+        "Bell Telephone"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Yellow Pages used this slogan from the 1960s onward, encouraging people to use the phone directory instead of going store to store.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -67,8 +97,13 @@
     {
       "id": "cj-7",
       "question": "'I'd like to buy the world a Coke' was featured in a famous 1971 commercial set on an Italian hilltop. What was the full slogan?",
-      "options": ["It's the Real Thing", "Coke Is It", "Have a Coke and a Smile", "Things Go Better with Coke"],
-      "correctAnswer": 0,
+      "options": [
+        "Coke Is It",
+        "Things Go Better with Coke",
+        "It's the Real Thing",
+        "Have a Coke and a Smile"
+      ],
+      "correctAnswer": 2,
       "explanation": "The 'Hilltop' commercial featured the song 'I'd Like to Buy the World a Coke' and was part of the 'It's the Real Thing' campaign in 1971.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -77,8 +112,13 @@
     {
       "id": "cj-8",
       "question": "Which cereal mascot declared 'They're Gr-r-reat!'?",
-      "options": ["Toucan Sam", "Tony the Tiger", "Cap'n Crunch", "The Trix Rabbit"],
-      "correctAnswer": 1,
+      "options": [
+        "Tony the Tiger",
+        "The Trix Rabbit",
+        "Toucan Sam",
+        "Cap'n Crunch"
+      ],
+      "correctAnswer": 0,
       "explanation": "Tony the Tiger has been the mascot for Kellogg's Frosted Flakes since 1952, and his enthusiastic 'They're Gr-r-reat!' is one of advertising's most recognized catchphrases.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -87,8 +127,13 @@
     {
       "id": "cj-9",
       "question": "'A diamond is forever' is a slogan from which company, first used in 1947?",
-      "options": ["Tiffany & Co.", "Cartier", "De Beers", "Zales"],
-      "correctAnswer": 2,
+      "options": [
+        "De Beers",
+        "Cartier",
+        "Tiffany & Co.",
+        "Zales"
+      ],
+      "correctAnswer": 0,
       "explanation": "De Beers' slogan 'A Diamond is Forever' was created in 1947 and was named the #1 slogan of the 20th century by Advertising Age.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -97,7 +142,12 @@
     {
       "id": "cj-10",
       "question": "'I can't believe I ate the whole thing!' was a famous line from commercials for which product?",
-      "options": ["Pepto-Bismol", "Alka-Seltzer", "Tums", "Rolaids"],
+      "options": [
+        "Tums",
+        "Alka-Seltzer",
+        "Rolaids",
+        "Pepto-Bismol"
+      ],
       "correctAnswer": 1,
       "explanation": "This classic Alka-Seltzer commercial from 1972 featured a man groaning in bed after overeating, with his wife unsympathetically repeating the line.",
       "difficulty": "medium",
@@ -107,8 +157,13 @@
     {
       "id": "cj-11",
       "question": "Which brand promised 'Good to the last drop'?",
-      "options": ["Folgers", "Maxwell House", "Nescafé", "Sanka"],
-      "correctAnswer": 1,
+      "options": [
+        "Nescafé",
+        "Sanka",
+        "Maxwell House",
+        "Folgers"
+      ],
+      "correctAnswer": 2,
       "explanation": "Maxwell House has used 'Good to the Last Drop' since 1917. Legend has it that Theodore Roosevelt coined the phrase, though this is debated.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -117,8 +172,13 @@
     {
       "id": "cj-12",
       "question": "'You deserve a break today' was the jingle for which fast food restaurant starting in 1971?",
-      "options": ["Burger King", "McDonald's", "Kentucky Fried Chicken", "Pizza Hut"],
-      "correctAnswer": 1,
+      "options": [
+        "Burger King",
+        "Pizza Hut",
+        "Kentucky Fried Chicken",
+        "McDonald's"
+      ],
+      "correctAnswer": 3,
       "explanation": "McDonald's 'You Deserve a Break Today' campaign launched in 1971 and helped establish the chain as a family-friendly dining destination.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -127,8 +187,13 @@
     {
       "id": "cj-13",
       "question": "Which battery brand featured a pink bunny that 'keeps going and going and going'?",
-      "options": ["Duracell", "Energizer", "Rayovac", "Eveready"],
-      "correctAnswer": 1,
+      "options": [
+        "Eveready",
+        "Rayovac",
+        "Energizer",
+        "Duracell"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Energizer Bunny first appeared in 1989 and became one of the most recognizable advertising mascots. The 'keeps going' slogan became part of pop culture.",
       "difficulty": "easy",
       "decade": "1980s",
@@ -137,7 +202,12 @@
     {
       "id": "cj-14",
       "question": "'Betcha can't eat just one' was the slogan for which snack brand?",
-      "options": ["Pringles", "Ruffles", "Lay's", "Doritos"],
+      "options": [
+        "Doritos",
+        "Ruffles",
+        "Lay's",
+        "Pringles"
+      ],
       "correctAnswer": 2,
       "explanation": "Lay's potato chips used 'Betcha can't eat just one' starting in 1963, with celebrity endorser Bert Lahr. It cleverly acknowledged the addictive nature of chips.",
       "difficulty": "easy",
@@ -147,8 +217,13 @@
     {
       "id": "cj-15",
       "question": "Which soap brand claimed it was '99 and 44/100% pure'?",
-      "options": ["Dove", "Ivory", "Dial", "Irish Spring"],
-      "correctAnswer": 1,
+      "options": [
+        "Dial",
+        "Irish Spring",
+        "Ivory",
+        "Dove"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ivory soap has used this unusual purity claim since 1882. It was also famous for floating in water, which Procter & Gamble discovered by accident.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -157,8 +232,13 @@
     {
       "id": "cj-16",
       "question": "'Look, Ma, no cavities!' was associated with which toothpaste brand?",
-      "options": ["Colgate", "Pepsodent", "Crest", "Aquafresh"],
-      "correctAnswer": 2,
+      "options": [
+        "Pepsodent",
+        "Colgate",
+        "Aquafresh",
+        "Crest"
+      ],
+      "correctAnswer": 3,
       "explanation": "Crest toothpaste used 'Look, Ma, no cavities!' starting in 1958 after receiving the American Dental Association's seal of approval.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -167,8 +247,13 @@
     {
       "id": "cj-17",
       "question": "Which brand used the slogan 'Fly the friendly skies'?",
-      "options": ["Pan Am", "TWA", "United Airlines", "American Airlines"],
-      "correctAnswer": 2,
+      "options": [
+        "American Airlines",
+        "United Airlines",
+        "Pan Am",
+        "TWA"
+      ],
+      "correctAnswer": 1,
       "explanation": "United Airlines introduced 'Fly the Friendly Skies' in 1965. The slogan evoked the glamour and excitement of air travel during its golden age.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -177,8 +262,13 @@
     {
       "id": "cj-18",
       "question": "'Have it your way' was the slogan for which fast food chain starting in 1974?",
-      "options": ["McDonald's", "Burger King", "Wendy's", "Jack in the Box"],
-      "correctAnswer": 1,
+      "options": [
+        "McDonald's",
+        "Jack in the Box",
+        "Wendy's",
+        "Burger King"
+      ],
+      "correctAnswer": 3,
       "explanation": "Burger King's 'Have It Your Way' campaign emphasized custom orders, differentiating them from McDonald's more standardized approach.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -187,8 +277,13 @@
     {
       "id": "cj-19",
       "question": "Which car company used the slogan 'See the USA in your ___'?",
-      "options": ["Ford", "Chevrolet", "Buick", "Chrysler"],
-      "correctAnswer": 1,
+      "options": [
+        "Buick",
+        "Ford",
+        "Chrysler",
+        "Chevrolet"
+      ],
+      "correctAnswer": 3,
       "explanation": "Dinah Shore popularized 'See the USA in your Chevrolet' starting in the 1950s on her TV show. It became one of the most beloved automotive jingles.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -197,8 +292,13 @@
     {
       "id": "cj-20",
       "question": "'Mikey likes it!' became a famous catchphrase from a 1972 commercial for which cereal?",
-      "options": ["Wheaties", "Grape-Nuts", "Life", "Cheerios"],
-      "correctAnswer": 2,
+      "options": [
+        "Cheerios",
+        "Grape-Nuts",
+        "Wheaties",
+        "Life"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Life cereal 'Mikey' commercial showed two brothers getting their picky little brother to try the cereal. It ran for over a decade and became a cultural touchstone.",
       "difficulty": "easy",
       "decade": "1970s",

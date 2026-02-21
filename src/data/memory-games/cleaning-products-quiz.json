@@ -1,0 +1,174 @@
+{
+  "id": "cleaning-products-quiz",
+  "title": "Cleaning Products Quiz",
+  "description": "Test your knowledge of common household cleaning products, tools, and their proper uses.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cleaning-products-quiz-1",
+      "question": "Which cleaning product should you NEVER mix with bleach due to the risk of producing toxic chlorine gas?",
+      "options": [
+        "Baking soda",
+        "White vinegar",
+        "Ammonia",
+        "Dish soap"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cleaning-products-quiz-2",
+      "question": "What is a squeegee primarily used for?",
+      "options": [
+        "Scrubbing floors",
+        "Polishing silverware",
+        "Dusting shelves",
+        "Removing water and cleaning solution from glass surfaces"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cleaning-products-quiz-3",
+      "question": "Which natural household substance is commonly used as a mild abrasive cleaner and deodorizer?",
+      "options": [
+        "Table salt",
+        "Baking soda",
+        "Lemon juice",
+        "Olive oil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cleaning-products-quiz-4",
+      "question": "What type of cleaning tool is a chamois?",
+      "options": [
+        "A soft, absorbent leather cloth",
+        "A bristle brush",
+        "A type of sponge",
+        "A vacuum attachment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cleaning-products-quiz-5",
+      "question": "Which cleaning product is specifically designed to remove hard water deposits and lime scale?",
+      "options": [
+        "All-purpose cleaner",
+        "Wood polish",
+        "Glass cleaner",
+        "Descaler (lime remover)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "cleaning-products-quiz-6",
+      "question": "What household item is commonly used as a natural fabric softener in the laundry?",
+      "options": [
+        "Lemon juice",
+        "Rubbing alcohol",
+        "White vinegar",
+        "Baking soda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cleaning-products-quiz-7",
+      "question": "Which cleaning tool has a rubber cup on a handle, used to unclog drains and toilets?",
+      "options": [
+        "Plunger",
+        "Drain snake",
+        "Toilet brush",
+        "Pipe wrench"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cleaning-products-quiz-8",
+      "question": "What is the primary purpose of furniture polish?",
+      "options": [
+        "Cleaning and adding shine to wood surfaces",
+        "Disinfecting surfaces",
+        "Removing stains from upholstery",
+        "Waterproofing wood"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cleaning-products-quiz-9",
+      "question": "Which abrasive cleaning pad, often green, is used for scrubbing tough stains on pots and pans?",
+      "options": [
+        "Scouring pad (Scotch-Brite)",
+        "Steel wool",
+        "Chamois",
+        "Microfiber cloth"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cleaning-products-quiz-10",
+      "question": "What does the term 'antibacterial' mean on a cleaning product label?",
+      "options": [
+        "It is safe for all surfaces",
+        "It removes all viruses",
+        "It kills or inhibits the growth of bacteria",
+        "It is environmentally friendly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cleaning-products-quiz-11",
+      "question": "Which cleaning tool is a long-handled mop with a flat, rectangular head and removable pad?",
+      "options": [
+        "String mop",
+        "Sponge mop",
+        "Flat mop (Swiffer-style)",
+        "Steam mop"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cleaning-products-quiz-12",
+      "question": "What is rubbing alcohol (isopropyl alcohol) commonly used for in cleaning?",
+      "options": [
+        "Removing grease from ovens",
+        "Disinfecting surfaces and removing sticky residue",
+        "Polishing hardwood floors",
+        "Cleaning carpets"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cleaning-products-quiz-13",
+      "question": "Which type of vacuum cleaner is specifically designed for picking up liquids as well as dry debris?",
+      "options": [
+        "Handheld vacuum",
+        "Wet/dry vacuum (shop vac)",
+        "Stick vacuum",
+        "Robotic vacuum"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cleaning-products-quiz-14",
+      "question": "What is the purpose of a lint roller?",
+      "options": [
+        "Removing lint, pet hair, and fuzz from clothing and upholstery",
+        "Applying fabric softener",
+        "Ironing clothes",
+        "Rolling out wrinkles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "cleaning-products-quiz-15",
+      "question": "Which common household acid is found in many toilet bowl cleaners?",
+      "options": [
+        "Acetic acid",
+        "Hydrochloric acid (muriatic acid)",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

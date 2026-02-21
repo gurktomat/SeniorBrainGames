@@ -1,0 +1,219 @@
+{
+  "id": "bowling-vocabulary",
+  "title": "Bowling Vocabulary",
+  "description": "Roll into this quiz about the language of bowling!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "bowling-vocabulary-1",
+      "question": "In bowling, what is a 'turkey'?",
+      "options": [
+        "Knocking down only one pin",
+        "Three consecutive strikes",
+        "A split where no pins are touching",
+        "A gutter ball"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A turkey in bowling is three consecutive strikes in a single game, one of the sport's most satisfying achievements.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-2",
+      "question": "In bowling, what is a 'split'?",
+      "options": [
+        "Bowling with two hands",
+        "The division between frames",
+        "A spare where remaining pins have a gap between them",
+        "Dividing the score between two players"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A split occurs when the first ball of a frame leaves two or more non-adjacent groups of pins standing, with a gap between them, making a spare very difficult.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-3",
+      "question": "What is the 'pocket' in bowling?",
+      "options": [
+        "The gutter on either side of the lane",
+        "The ideal entry point between the 1 and 3 pins (for right-handers)",
+        "The finger holes in the ball",
+        "Where you keep your bowling ball"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pocket is the ideal target area for a strike, located between the 1 and 3 pins for right-handed bowlers (1 and 2 for left-handers).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-4",
+      "question": "In bowling, what does a 'gutter ball' mean?",
+      "options": [
+        "A ball that rolls into the gutter channel without hitting any pins",
+        "A ball that bounces off the lane",
+        "A ball thrown too slowly",
+        "A ball that hits only the gutter-side pins"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A gutter ball rolls off the lane surface into one of the gutters (channels) running along each side, scoring zero pins for that delivery.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-5",
+      "question": "What is a 'perfect game' in bowling?",
+      "options": [
+        "Scoring 300 by bowling 12 consecutive strikes",
+        "Converting every spare in a game",
+        "Winning by the largest margin",
+        "Never throwing a gutter ball"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A perfect game in bowling is a score of 300, achieved by rolling 12 consecutive strikes (one in each of the ten frames, plus two bonus strikes in the tenth).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-6",
+      "question": "In bowling, what is the '7-10 split'?",
+      "options": [
+        "Alternating between 7 and 10 pin knockdowns",
+        "Bowling in the 7th and 10th frames",
+        "Only the 7 and 10 pins remaining, the hardest split to convert",
+        "A score of 7 in the 10th frame"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 7-10 split leaves only the far-left (7) and far-right (10) pins standing, widely considered the most difficult spare to convert in bowling.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-7",
+      "question": "What does 'hook' refer to in bowling?",
+      "options": [
+        "The curved end of a bowling pin",
+        "Hanging the ball over the gutter",
+        "A penalty for crossing the foul line",
+        "A ball that curves as it travels down the lane"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hook is a bowling delivery where the ball curves across the lane as it approaches the pins, created by the bowler's release and the ball's rotation.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-8",
+      "question": "In bowling, what is the 'approach'?",
+      "options": [
+        "The strategy for picking up a spare",
+        "The area behind the foul line where bowlers take their steps before releasing the ball",
+        "The angle at which the ball hits the pins",
+        "Walking up to the lane counter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The approach is the area of the lane behind the foul line where bowlers take their steps and build momentum before releasing the ball.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-9",
+      "question": "What is a 'spare' in bowling?",
+      "options": [
+        "Having no pins left after the first ball",
+        "A backup bowling ball",
+        "Knocking down all remaining pins with the second ball of a frame",
+        "An extra ball at the end of the game"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A spare is achieved when a bowler knocks down all remaining pins with the second ball of a frame, after failing to strike with the first.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-10",
+      "question": "In bowling, what does 'Brooklyn' mean?",
+      "options": [
+        "A gutter ball that curves back onto the lane",
+        "A strike hit on the wrong side of the headpin",
+        "A bowling style from New York",
+        "A perfect game bowled left-handed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Brooklyn strike occurs when the ball hits the opposite side of the headpin from the intended pocket -- the 1-2 pocket for a right-hander instead of the 1-3.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-11",
+      "question": "What is the 'foul line' in bowling?",
+      "options": [
+        "The boundary line between lanes",
+        "A line showing where the pins are set up",
+        "A line drawn where smelly shoes are not allowed",
+        "The line at the end of the approach that bowlers must not cross"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The foul line is the boundary at the end of the approach area. Crossing it with any part of the body during delivery results in a foul and a score of zero for that ball.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-12",
+      "question": "In bowling, what is a 'kingpin'?",
+      "options": [
+        "The tournament champion",
+        "The head pin at the front",
+        "The heaviest pin in the set",
+        "The number 5 pin in the center of the pin arrangement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The kingpin is the number 5 pin, located in the center of the pin triangle. In some bowling terminology, it refers to the most important pin for achieving strikes.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-13",
+      "question": "What is 'lane oil' (or 'lane dressing') in bowling?",
+      "options": [
+        "Oil applied to the lane surface that affects ball movement",
+        "A polish for the bowling pins",
+        "A lubricant for bowling ball finger holes",
+        "A cleaning product for bowling shoes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lane oil is a conditioner applied to the wooden or synthetic lane surface in specific patterns, which protects the lane and significantly affects how bowling balls react and curve.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-14",
+      "question": "In bowling, what does 'sandbagging' mean?",
+      "options": [
+        "Deliberately bowling below your ability to maintain a lower average",
+        "Adding weight to your bowling shoes",
+        "Using a heavy ball",
+        "Filling gutters with sand"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sandbagging is the practice of intentionally bowling below one's true ability to maintain an artificially low average, gaining an advantage in handicap competitions.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "bowling-vocabulary-15",
+      "question": "What are 'bumpers' in bowling?",
+      "options": [
+        "Protective guards on bowling pins",
+        "Padding on the lane walls",
+        "Retractable rails that block the gutters, often used by beginners",
+        "Cushions on the ball return"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bumpers are retractable guardrails that can be raised in the gutters to prevent gutter balls, commonly used for children and beginners to keep the ball on the lane.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

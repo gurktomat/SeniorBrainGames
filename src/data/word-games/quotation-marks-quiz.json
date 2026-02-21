@@ -1,0 +1,173 @@
+{
+  "id": "quotation-marks-quiz",
+  "title": "Quotation Marks Quiz",
+  "description": "Do you know where to place quotation marks and the punctuation that goes with them? Find out!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "quotation-marks-quiz-1",
+      "question": "In American English, where do commas and periods go in relation to closing quotation marks?",
+      "options": [
+        "Either position is correct",
+        "It depends on the sentence",
+        "Inside the quotation marks",
+        "Outside the quotation marks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quotation-marks-quiz-2",
+      "question": "Which is correct in American English?",
+      "options": [
+        "She said \"I'm leaving.\"",
+        "She said \"I'm leaving\".",
+        "She said, \"I'm leaving.\"",
+        "She said, \"I'm leaving\"."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quotation-marks-quiz-3",
+      "question": "When do you use single quotation marks in American English?",
+      "options": [
+        "For a quote within a quote",
+        "For titles of books",
+        "For all quotations",
+        "For emphasis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quotation-marks-quiz-4",
+      "question": "Which title should be in quotation marks (not italics)?",
+      "options": [
+        "A newspaper",
+        "A movie",
+        "A short story",
+        "A novel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quotation-marks-quiz-5",
+      "question": "Where does the question mark go? 'Did she say, \"I'll be late\"?'",
+      "options": [
+        "Both positions are acceptable",
+        "Inside the quotation marks",
+        "Outside the quotation marks",
+        "It depends on who is asking the question"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quotation-marks-quiz-6",
+      "question": "Which is correct when the quoted material is a question?",
+      "options": [
+        "She asked, \"Where are you going?\"",
+        "She asked, \"Where are you going?\".",
+        "She asked \"Where are you going?\"",
+        "She asked, \"Where are you going\"?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quotation-marks-quiz-7",
+      "question": "Should you use quotation marks for indirect speech?",
+      "options": [
+        "No, only direct speech uses quotation marks",
+        "Yes, always",
+        "Only for long indirect quotes",
+        "Only in formal writing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quotation-marks-quiz-8",
+      "question": "Which is an example of indirect speech (no quotation marks needed)?",
+      "options": [
+        "\"He said I am tired.\"",
+        "He said that he was tired.",
+        "\"I am tired,\" he said.",
+        "He said, \"I am tired.\""
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quotation-marks-quiz-9",
+      "question": "Which use of quotation marks is called 'scare quotes'?",
+      "options": [
+        "Using quotation marks to indicate irony or skepticism",
+        "Quoting a title",
+        "Quoting someone directly",
+        "Quoting dialogue in fiction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "quotation-marks-quiz-10",
+      "question": "How do you handle a quote within a quote in American English?",
+      "options": [
+        "Use italics for the inner quote",
+        "Use double quotes for both",
+        "Use parentheses for the inner quote",
+        "Use single quotes inside double quotes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quotation-marks-quiz-11",
+      "question": "Which is correct? 'She described the sunset as ___.'",
+      "options": [
+        "breathtaking",
+        "Both are acceptable depending on context",
+        "\"breathtaking\"",
+        "'breathtaking'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "quotation-marks-quiz-12",
+      "question": "In a dialogue, when should you start a new paragraph?",
+      "options": [
+        "After every sentence",
+        "Only at the end of the conversation",
+        "After every quotation mark",
+        "When a new speaker begins talking"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quotation-marks-quiz-13",
+      "question": "Which is correct for a multi-paragraph quotation?",
+      "options": [
+        "Use quotes only for the first paragraph",
+        "Use single quotes for continuation paragraphs",
+        "Open quotes at the start of each paragraph but only close at the very end",
+        "Close quotes at the end of each paragraph and reopen at the start of the next"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "quotation-marks-quiz-14",
+      "question": "Where do semicolons go in relation to closing quotation marks in American English?",
+      "options": [
+        "Either position is correct",
+        "Inside the quotation marks",
+        "Semicolons cannot be used with quotes",
+        "Outside the quotation marks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "quotation-marks-quiz-15",
+      "question": "Which titles should be in quotation marks?",
+      "options": [
+        "Short stories, poems, and song titles",
+        "Novels and movies",
+        "All titles should use quotation marks",
+        "Newspapers and magazines"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

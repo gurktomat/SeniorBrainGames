@@ -1,0 +1,173 @@
+{
+  "id": "real-estate-jargon",
+  "title": "Real Estate Jargon",
+  "description": "How well do you know the language of property buying, selling, and real estate transactions?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "real-estate-jargon-1",
+      "question": "What does 'escrow' mean in real estate?",
+      "options": [
+        "A real estate agent's commission",
+        "A neutral third party holding funds or documents until conditions are met",
+        "The final walkthrough of a property",
+        "A type of mortgage"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "real-estate-jargon-2",
+      "question": "What is a 'lien' on a property?",
+      "options": [
+        "A property's official boundary line",
+        "A permit to build",
+        "A type of fence",
+        "A legal claim against a property as security for a debt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "real-estate-jargon-3",
+      "question": "In real estate, what does 'closing' refer to?",
+      "options": [
+        "Shutting down a business",
+        "The final step where ownership officially transfers to the buyer",
+        "Ending a listing agreement",
+        "Locking the doors after an open house"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "real-estate-jargon-4",
+      "question": "What is an 'appraisal' in real estate?",
+      "options": [
+        "A type of insurance policy",
+        "A home inspection for defects",
+        "A government tax assessment",
+        "A professional estimate of a property's market value"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "real-estate-jargon-5",
+      "question": "What does 'contingency' mean in a real estate contract?",
+      "options": [
+        "A backup offer from another buyer",
+        "A condition that must be met for the sale to proceed",
+        "An emergency exit plan",
+        "A penalty for breaking the contract"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "real-estate-jargon-6",
+      "question": "What is 'earnest money'?",
+      "options": [
+        "A deposit showing the buyer's serious intent to purchase",
+        "The final payment at closing",
+        "Money set aside for home repairs",
+        "The agent's commission"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "real-estate-jargon-7",
+      "question": "What does 'MLS' stand for in real estate?",
+      "options": [
+        "Market Loan System",
+        "Municipal Land Survey",
+        "Multiple Listing Service",
+        "Major Listing Service"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "real-estate-jargon-8",
+      "question": "What is a 'title search'?",
+      "options": [
+        "Searching for the property's address",
+        "An examination of public records to confirm legal ownership and find any claims on the property",
+        "Looking for the name of the builder",
+        "A survey of the land boundaries"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "real-estate-jargon-9",
+      "question": "What does 'amortization' mean in the context of a mortgage?",
+      "options": [
+        "The transfer of a mortgage to another lender",
+        "The process of refinancing",
+        "The gradual repayment of a loan through scheduled installments",
+        "The appreciation of property value"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "real-estate-jargon-10",
+      "question": "What is a 'deed' in real estate?",
+      "options": [
+        "A building permit",
+        "A type of home loan",
+        "A property inspection report",
+        "A legal document transferring property ownership"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "real-estate-jargon-11",
+      "question": "What does 'curb appeal' refer to?",
+      "options": [
+        "A zoning restriction",
+        "The cost of installing a new curb",
+        "The slope of the driveway",
+        "The attractiveness of a property as seen from the street"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "real-estate-jargon-12",
+      "question": "What is a 'fixture' in real estate terms?",
+      "options": [
+        "A type of door lock",
+        "An item permanently attached to the property that conveys with the sale",
+        "A temporary decoration",
+        "A light that can be easily removed"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "real-estate-jargon-13",
+      "question": "What does 'pre-approval' mean for a mortgage?",
+      "options": [
+        "A lender's conditional commitment to lend a specific amount based on verified financial information",
+        "A guarantee that the loan will close",
+        "A credit check only",
+        "An automatic approval for any property"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "real-estate-jargon-14",
+      "question": "What is an 'easement'?",
+      "options": [
+        "A discount on the purchase price",
+        "A type of home warranty",
+        "A right to use another person's land for a specific purpose",
+        "An insurance deductible"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "real-estate-jargon-15",
+      "question": "What does 'under contract' mean in real estate?",
+      "options": [
+        "A buyer and seller have agreed to terms but the sale has not yet closed",
+        "The property has been foreclosed",
+        "The property is being rented out",
+        "The house is under construction"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

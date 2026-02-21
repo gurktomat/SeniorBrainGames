@@ -1,0 +1,219 @@
+{
+  "id": "olympic-host-cities-quiz",
+  "title": "Olympic Host Cities",
+  "description": "Can you match the Olympic Games to the cities that hosted them?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "olympic-host-cities-quiz-1",
+      "question": "Which city hosted the 1992 Summer Olympics?",
+      "options": [
+        "Seoul",
+        "Barcelona",
+        "Rome",
+        "Madrid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Barcelona, Spain hosted the 1992 Summer Olympics. The Games were notable for being the first since 1972 without any boycotts.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-2",
+      "question": "Which Australian city hosted the 2000 Summer Olympics?",
+      "options": [
+        "Sydney",
+        "Perth",
+        "Brisbane",
+        "Melbourne"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sydney hosted the 2000 Summer Olympics. These Games are often considered among the best organized Olympics, with Cathy Freeman's 400m gold being a highlight.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-3",
+      "question": "Which city hosted both the 1932 and 1984 Summer Olympics?",
+      "options": [
+        "Los Angeles",
+        "Athens",
+        "London",
+        "Paris"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los Angeles hosted the Summer Olympics in both 1932 and 1984, and will host again in 2028, making it one of only a few cities to host three times.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-4",
+      "question": "Where were the 1964 Summer Olympics held, marking the first time Asia hosted the Games?",
+      "options": [
+        "Hong Kong",
+        "Seoul",
+        "Beijing",
+        "Tokyo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tokyo hosted the 1964 Summer Olympics, making Japan the first Asian country to host the Games. The Tokyo Olympics showcased Japan's post-war recovery and technological advancement.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-5",
+      "question": "Which Scandinavian city hosted the 1952 Summer Olympics?",
+      "options": [
+        "Stockholm",
+        "Helsinki",
+        "Oslo",
+        "Copenhagen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Helsinki, Finland hosted the 1952 Summer Olympics. These Games were notable for the debut of the Soviet Union and the outstanding performance of Emil Zatopek.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-6",
+      "question": "Which city hosted the first Winter Olympics held in Asia in 1972?",
+      "options": [
+        "Beijing",
+        "Sapporo",
+        "Nagano",
+        "Pyeongchang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sapporo, Japan hosted the 1972 Winter Olympics, making it the first Asian city to host the Winter Games. Thirty-five nations participated in 35 events.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-7",
+      "question": "Which South American city was the first to host the Summer Olympics?",
+      "options": [
+        "Sao Paulo",
+        "Rio de Janeiro",
+        "Buenos Aires",
+        "Lima"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rio de Janeiro hosted the 2016 Summer Olympics, becoming the first South American city to host the Games. The opening ceremony was held at the famous Maracana stadium.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-8",
+      "question": "Which Canadian city hosted the 1988 Winter Olympics?",
+      "options": [
+        "Toronto",
+        "Montreal",
+        "Calgary",
+        "Vancouver"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Calgary hosted the 1988 Winter Olympics. These Games are remembered for the debut of the Jamaican bobsled team, which later inspired the movie 'Cool Runnings.'",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-9",
+      "question": "Which city hosted the 1936 Summer Olympics, used as propaganda by Nazi Germany?",
+      "options": [
+        "Berlin",
+        "Munich",
+        "Vienna",
+        "Hamburg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Berlin hosted the 1936 Summer Olympics, which Adolf Hitler used as a propaganda tool. Jesse Owens' four gold medals undermined Nazi ideology about racial supremacy.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-10",
+      "question": "Which city will host the 2028 Summer Olympics?",
+      "options": [
+        "Los Angeles",
+        "Brisbane",
+        "Tokyo",
+        "Paris"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los Angeles will host the 2028 Summer Olympics, making it the third time the city has hosted the Games (after 1932 and 1984).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-11",
+      "question": "Which city hosted the 1976 Summer Olympics that were boycotted by many African nations?",
+      "options": [
+        "Montreal",
+        "Moscow",
+        "Mexico City",
+        "Munich"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Montreal hosted the 1976 Summer Olympics. Twenty-two African nations boycotted the Games in protest of New Zealand's rugby tour of apartheid-era South Africa.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-12",
+      "question": "Where were the 2018 Winter Olympics held?",
+      "options": [
+        "Sochi",
+        "Beijing",
+        "Pyeongchang",
+        "Sapporo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pyeongchang, South Korea hosted the 2018 Winter Olympics. The Games were notable for the participation of a unified Korean women's ice hockey team.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-13",
+      "question": "Which city hosted the 1896 first modern Olympics and the 2004 Summer Olympics?",
+      "options": [
+        "Paris",
+        "Athens",
+        "London",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Athens hosted both the first modern Olympics in 1896 and the 2004 Summer Olympics, returning the Games to their spiritual home after 108 years.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-14",
+      "question": "Which city hosted the 1968 Summer Olympics, known for the Black Power salute?",
+      "options": [
+        "Montreal",
+        "Rome",
+        "Mexico City",
+        "Munich"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mexico City hosted the 1968 Summer Olympics. The Games are remembered for Tommie Smith and John Carlos raising black-gloved fists on the medal podium in a civil rights protest.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-host-cities-quiz-15",
+      "question": "Which city will host the 2032 Summer Olympics?",
+      "options": [
+        "Brisbane",
+        "Doha",
+        "New Delhi",
+        "Istanbul"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brisbane, Australia will host the 2032 Summer Olympics. It will be the third time Australia hosts the Games, after Melbourne (1956) and Sydney (2000).",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

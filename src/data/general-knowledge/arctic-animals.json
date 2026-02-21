@@ -1,0 +1,173 @@
+{
+  "id": "arctic-animals",
+  "title": "Arctic Animals",
+  "description": "Explore the hardy creatures that survive in the frozen lands and icy waters of the Arctic.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "arctic-animals-1",
+      "question": "What color does the Arctic fox's fur turn in winter?",
+      "options": [
+        "Gray",
+        "White",
+        "Brown",
+        "Black"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-2",
+      "question": "Polar bears are classified as what type of animal?",
+      "options": [
+        "Reptile",
+        "Herbivore",
+        "Marine mammal",
+        "Omnivore"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "arctic-animals-3",
+      "question": "What is the tusk of a narwhal actually made of?",
+      "options": [
+        "Keratin",
+        "Cartilage",
+        "Bone",
+        "Ivory tooth"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-4",
+      "question": "Which Arctic bird is known for its colorful beak and ability to hold multiple fish at once?",
+      "options": [
+        "Arctic Tern",
+        "Puffin",
+        "Guillemot",
+        "Snowy Owl"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-5",
+      "question": "The musk ox survives Arctic winters thanks to what adaptation?",
+      "options": [
+        "A thick undercoat called qiviut",
+        "Migration south",
+        "Burrowing underground",
+        "Hibernation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-6",
+      "question": "What large marine mammal with long tusks lives in Arctic waters?",
+      "options": [
+        "Elephant Seal",
+        "Walrus",
+        "Sea Lion",
+        "Manatee"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-7",
+      "question": "The Arctic hare can run at speeds of up to how many miles per hour?",
+      "options": [
+        "20 mph",
+        "30 mph",
+        "50 mph",
+        "40 mph"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-8",
+      "question": "Which whale species spends its entire life in Arctic and sub-Arctic waters?",
+      "options": [
+        "Humpback Whale",
+        "Blue Whale",
+        "Sperm Whale",
+        "Beluga Whale"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-9",
+      "question": "Caribou and reindeer are actually the same species. What is their scientific name?",
+      "options": [
+        "Alces alces",
+        "Cervus elaphus",
+        "Odocoileus virginianus",
+        "Rangifer tarandus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-10",
+      "question": "What is the primary food source for polar bears?",
+      "options": [
+        "Fish",
+        "Seabirds",
+        "Berries",
+        "Seals"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-11",
+      "question": "The snowy owl is primarily active during what time of day?",
+      "options": [
+        "Daytime",
+        "Night only",
+        "They are equally active day and night",
+        "Dawn and dusk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-12",
+      "question": "Which small Arctic rodent is known for dramatic population cycles of boom and bust?",
+      "options": [
+        "Lemming",
+        "Pika",
+        "Arctic Vole",
+        "Ermine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-13",
+      "question": "How do Arctic ground squirrels survive winter?",
+      "options": [
+        "True hibernation with body temperature below freezing",
+        "Migration",
+        "Storing food in cheek pouches",
+        "Building snow shelters"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-14",
+      "question": "The bowhead whale, an Arctic species, can live for more than how many years?",
+      "options": [
+        "200 years",
+        "300 years",
+        "100 years",
+        "50 years"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-15",
+      "question": "What special adaptation do reindeer hooves have for walking on snow?",
+      "options": [
+        "They spread wide and have sharp edges",
+        "They retract in snow",
+        "They are padded like snowshoes",
+        "They are webbed"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

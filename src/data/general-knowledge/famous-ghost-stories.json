@@ -7,92 +7,167 @@
     {
       "id": "famous-ghost-stories-1",
       "question": "The Tower of London is said to be haunted by the ghost of which famous queen who was beheaded there in 1536?",
-      "options": ["Mary Queen of Scots", "Catherine Howard", "Lady Jane Grey", "Anne Boleyn"],
-      "correctAnswer": 3
+      "options": [
+        "Lady Jane Grey",
+        "Anne Boleyn",
+        "Catherine Howard",
+        "Mary Queen of Scots"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-ghost-stories-2",
       "question": "Which Charles Dickens novella, published in 1843, features the ghosts of Christmas Past, Present, and Yet to Come?",
-      "options": ["Great Expectations", "Oliver Twist", "A Christmas Carol", "The Old Curiosity Shop"],
-      "correctAnswer": 2
+      "options": [
+        "Oliver Twist",
+        "The Old Curiosity Shop",
+        "Great Expectations",
+        "A Christmas Carol"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-ghost-stories-3",
       "question": "The 'Flying Dutchman' is a legendary ghost ship said to haunt which body of water?",
-      "options": ["The Atlantic Ocean", "The Cape of Good Hope", "The Caribbean Sea", "The North Sea"],
-      "correctAnswer": 1
+      "options": [
+        "The Cape of Good Hope",
+        "The Atlantic Ocean",
+        "The Caribbean Sea",
+        "The North Sea"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-ghost-stories-4",
       "question": "Which famous hotel in Colorado inspired Stephen King to write 'The Shining'?",
-      "options": ["The Brown Palace", "The Broadmoor", "The Stanley Hotel", "Hotel Jerome"],
+      "options": [
+        "The Broadmoor",
+        "The Brown Palace",
+        "The Stanley Hotel",
+        "Hotel Jerome"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-ghost-stories-5",
       "question": "The Winchester Mystery House, with its endless staircases and doors to nowhere, is located in which U.S. state?",
-      "options": ["Connecticut", "Virginia", "Massachusetts", "California"],
-      "correctAnswer": 3
+      "options": [
+        "Connecticut",
+        "California",
+        "Massachusetts",
+        "Virginia"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-ghost-stories-6",
       "question": "Which ancient Roman city, buried by a volcanic eruption in 79 AD, is often described as one of the most haunted places in Italy?",
-      "options": ["Herculaneum", "Pompeii", "Ostia Antica", "Paestum"],
-      "correctAnswer": 1
+      "options": [
+        "Herculaneum",
+        "Ostia Antica",
+        "Paestum",
+        "Pompeii"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-ghost-stories-7",
       "question": "Henry James wrote which classic ghost story about a governess who believes her charges are being haunted?",
-      "options": ["The Turn of the Screw", "The Haunting of Hill House", "The Woman in Black", "The Canterville Ghost"],
-      "correctAnswer": 0
+      "options": [
+        "The Haunting of Hill House",
+        "The Turn of the Screw",
+        "The Woman in Black",
+        "The Canterville Ghost"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-ghost-stories-8",
       "question": "The Bell Witch haunting, one of America's most famous ghost stories, took place in which state in the early 1800s?",
-      "options": ["Kentucky", "Tennessee", "North Carolina", "Virginia"],
-      "correctAnswer": 1
+      "options": [
+        "Virginia",
+        "North Carolina",
+        "Tennessee",
+        "Kentucky"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-ghost-stories-9",
       "question": "Which famous London theater is said to be haunted by the 'Man in Grey,' a ghost seen in the upper circle?",
-      "options": ["The Old Vic", "Theatre Royal, Drury Lane", "Palladium", "Globe Theatre"],
-      "correctAnswer": 1
+      "options": [
+        "Palladium",
+        "Globe Theatre",
+        "Theatre Royal, Drury Lane",
+        "The Old Vic"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-ghost-stories-10",
       "question": "The Amityville Horror story involves a haunted house on Long Island. In which year did the events supposedly take place?",
-      "options": ["1969", "1972", "1975", "1979"],
-      "correctAnswer": 2
+      "options": [
+        "1975",
+        "1979",
+        "1972",
+        "1969"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-ghost-stories-11",
       "question": "Which White House president reportedly encountered the ghost of Abraham Lincoln in the Lincoln Bedroom?",
-      "options": ["Franklin D. Roosevelt", "Harry Truman", "Winston Churchill (as a guest)", "Dwight Eisenhower"],
-      "correctAnswer": 2
+      "options": [
+        "Dwight Eisenhower",
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Winston Churchill (as a guest)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-ghost-stories-12",
       "question": "Oscar Wilde wrote which humorous ghost story about an American family living in a haunted English manor?",
-      "options": ["The Picture of Dorian Gray", "The Canterville Ghost", "The Importance of Being Earnest", "Salomé"],
-      "correctAnswer": 1
+      "options": [
+        "The Importance of Being Earnest",
+        "The Picture of Dorian Gray",
+        "The Canterville Ghost",
+        "Salomé"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-ghost-stories-13",
       "question": "The 'Headless Horseman' is a famous ghost from which Washington Irving story?",
-      "options": ["Rip Van Winkle", "The Legend of Sleepy Hollow", "The Devil and Tom Walker", "Bracebridge Hall"],
-      "correctAnswer": 1
+      "options": [
+        "Rip Van Winkle",
+        "Bracebridge Hall",
+        "The Legend of Sleepy Hollow",
+        "The Devil and Tom Walker"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-ghost-stories-14",
       "question": "Borley Rectory, once called 'the most haunted house in England,' was located in which English county?",
-      "options": ["Suffolk", "Essex", "Kent", "Norfolk"],
+      "options": [
+        "Norfolk",
+        "Essex",
+        "Kent",
+        "Suffolk"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-ghost-stories-15",
       "question": "The Greenbrier Ghost case of 1897 is unique because a ghost's testimony was reportedly used in what?",
-      "options": ["A church exorcism", "A murder trial", "A property dispute", "A medical investigation"],
-      "correctAnswer": 1
+      "options": [
+        "A property dispute",
+        "A medical investigation",
+        "A murder trial",
+        "A church exorcism"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

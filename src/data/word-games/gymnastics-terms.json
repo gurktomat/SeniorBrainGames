@@ -1,0 +1,219 @@
+{
+  "id": "gymnastics-terms",
+  "title": "Gymnastics Terms",
+  "description": "Flip your way through the vocabulary of gymnastics!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "gymnastics-terms-1",
+      "question": "In gymnastics, what is a 'salto'?",
+      "options": [
+        "A split on the balance beam",
+        "A type of handstand",
+        "A balance pose on one foot",
+        "A flip or somersault performed in the air"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A salto is a flip or somersault performed in the air without hand support on the apparatus, and it can be done forward, backward, or sideways.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-2",
+      "question": "What is the 'vault' in gymnastics?",
+      "options": [
+        "A type of floor exercise",
+        "A storage room for equipment",
+        "A balance beam routine",
+        "An event where gymnasts sprint, jump off a springboard, and perform acrobatic moves over an apparatus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The vault is a gymnastics event where athletes sprint down a runway, launch off a springboard, push off a vaulting table, and perform acrobatic maneuvers before landing.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-3",
+      "question": "In gymnastics, what does 'stick the landing' mean?",
+      "options": [
+        "Landing on a sticky mat",
+        "Landing firmly without any steps, hops, or wobbles",
+        "Using adhesive on the hands",
+        "Landing on a wooden surface"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Sticking the landing' means landing perfectly still with no extra steps, hops, or balance adjustments, which is critical for avoiding deductions in competition.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-4",
+      "question": "What is a 'Yurchenko' in gymnastics?",
+      "options": [
+        "A parallel bars dismount",
+        "A type of balance beam routine",
+        "A vault technique involving a round-off entry onto the springboard and back handspring onto the table",
+        "A floor exercise named after a gymnast"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Yurchenko is a vault technique developed by Natalia Yurchenko, involving a round-off onto the springboard and a back handspring onto the vaulting table, followed by various aerial maneuvers.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-5",
+      "question": "In gymnastics, what is a 'pike' position?",
+      "options": [
+        "A position where the body is straight and rigid",
+        "A position with the body bent at the hips with straight legs",
+        "A position with knees bent to the chest",
+        "A position with arms extended overhead"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pike position involves bending at the hips while keeping the legs straight, forming a V-shape with the body. It is used in many jumps, dives, and acrobatic elements.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-6",
+      "question": "What is a 'pommel horse' in gymnastics?",
+      "options": [
+        "An apparatus with two handles on top used for swinging and circling routines",
+        "A padded floor for landing",
+        "A type of running exercise",
+        "A live horse used in equestrian gymnastics"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pommel horse is a men's gymnastics apparatus featuring a padded body with two handles (pommels). Gymnasts perform continuous swinging movements, scissors, and circles.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-7",
+      "question": "In gymnastics, what is a 'dismount'?",
+      "options": [
+        "Falling off the apparatus",
+        "The final skill performed when leaving an apparatus",
+        "Removing equipment after competition",
+        "A rest between routines"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dismount is the final skill in a routine where the gymnast leaves the apparatus, often with an acrobatic element like a flip or twist, and attempts to stick the landing.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-8",
+      "question": "What does 'D-score' (difficulty score) represent in gymnastics?",
+      "options": [
+        "The total value of all skills performed in a routine",
+        "A dancer's evaluation",
+        "The starting score before deductions",
+        "The deduction points taken away"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The D-score (difficulty score) is the sum of the difficulty values of all skills performed in a routine, plus connection bonuses and composition requirements.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-9",
+      "question": "In gymnastics, what is a 'tuck' position?",
+      "options": [
+        "A position with legs spread wide",
+        "A position with arms tucked to the sides",
+        "A compact position with knees pulled tightly to the chest",
+        "A standing position with good posture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The tuck position involves pulling the knees tightly toward the chest while in the air, creating a compact ball shape that allows faster rotation during flips.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-10",
+      "question": "What are the 'uneven bars' (or 'asymmetric bars') in gymnastics?",
+      "options": [
+        "Bars that are different colors",
+        "Bars with unequal weight",
+        "A women's apparatus with two horizontal bars set at different heights",
+        "Practice bars for beginners"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The uneven bars is a women's artistic gymnastics apparatus consisting of two horizontal bars set at different heights, on which gymnasts perform swinging, release, and connecting skills.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-11",
+      "question": "In gymnastics, what is a 'layout' position?",
+      "options": [
+        "The floor exercise pattern",
+        "The arrangement of equipment in the gym",
+        "A resting position between skills",
+        "A position with the body fully extended and straight during an aerial skill"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A layout is an aerial position where the body is fully extended and straight from head to toe during flips and twists, considered more difficult than tuck or pike positions.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-12",
+      "question": "What does 'E-score' (execution score) evaluate in gymnastics?",
+      "options": [
+        "The energy of the performance",
+        "The entertainment value",
+        "How well the skills are performed, with deductions for errors",
+        "The endurance shown in the routine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The E-score (execution score) starts at 10.0 and is reduced by deductions for errors in form, technique, and artistry, such as bent legs, steps on landing, or falls.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-13",
+      "question": "In gymnastics, what is a 'Tkachev'?",
+      "options": [
+        "A release move on bars where the gymnast flies backward over the bar",
+        "A vault technique",
+        "A balance beam dance element",
+        "A floor tumbling pass"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A Tkachev is a bar skill named after Alexander Tkachev, where the gymnast swings, releases the bar, flies backward over it in a straddle or layout position, and re-grasps the bar.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-14",
+      "question": "What is 'chalk' used for in gymnastics?",
+      "options": [
+        "Drawing lines on the floor",
+        "Absorbing moisture and improving grip on the hands",
+        "Coloring the balance beam",
+        "Marking scores on a board"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gymnasts apply magnesium carbonate chalk to their hands (and sometimes feet) to absorb sweat and improve their grip on apparatus like bars, rings, and pommel horse.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "gymnastics-terms-15",
+      "question": "In gymnastics, what is a 'kip'?",
+      "options": [
+        "A technique to pull oneself up to a support position on the bars",
+        "A jump from both feet",
+        "A type of cartwheel",
+        "A short nap between events"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A kip is a fundamental bar technique where a gymnast glides forward, brings their feet to the bar, and uses hip and arm action to pull up to a front support position on the bar.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

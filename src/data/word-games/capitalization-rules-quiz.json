@@ -1,0 +1,173 @@
+{
+  "id": "capitalization-rules-quiz",
+  "title": "Capitalization Rules Quiz",
+  "description": "When should you capitalize a word? From proper nouns to titles, test your capitalization knowledge!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "capitalization-rules-quiz-1",
+      "question": "Which is capitalized correctly?",
+      "options": [
+        "I visited uncle bob last summer.",
+        "I visited Uncle bob last Summer.",
+        "I visited uncle Bob last Summer.",
+        "I visited Uncle Bob last summer."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "capitalization-rules-quiz-2",
+      "question": "Should compass directions be capitalized?",
+      "options": [
+        "Only at the start of a sentence",
+        "Only when referring to a specific region (e.g., 'the South')",
+        "Never",
+        "Always"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "capitalization-rules-quiz-3",
+      "question": "Which is correct?",
+      "options": [
+        "She studied French and History.",
+        "She studied french and history.",
+        "She studied French and history.",
+        "She studied french and History."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-4",
+      "question": "Should seasons be capitalized?",
+      "options": [
+        "Only when used as proper nouns",
+        "No, seasons are not capitalized in standard usage",
+        "Only in titles",
+        "Yes, always (Spring, Summer, Fall, Winter)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "capitalization-rules-quiz-5",
+      "question": "Which title is capitalized correctly?",
+      "options": [
+        "the old man and the sea",
+        "The old man and the sea",
+        "The Old Man and the Sea",
+        "The Old Man And The Sea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-6",
+      "question": "Which is correct?",
+      "options": [
+        "My mom bakes great cookies.",
+        "my mom bakes great cookies.",
+        "Both are correct depending on usage",
+        "My Mom bakes great cookies."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-7",
+      "question": "Should 'president' be capitalized in 'The president gave a speech'?",
+      "options": [
+        "Only in formal documents",
+        "Yes, always capitalize 'president'",
+        "No, only capitalize when used as a title before a name",
+        "Only when referring to the current president"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-8",
+      "question": "Which is correct?",
+      "options": [
+        "She is a Doctor at the hospital.",
+        "She is a doctor at the hospital.",
+        "she is a Doctor at the Hospital.",
+        "She is a doctor at the Hospital."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "capitalization-rules-quiz-9",
+      "question": "Should days of the week and months be capitalized?",
+      "options": [
+        "Neither should be capitalized",
+        "Only months, not days",
+        "Yes, both are always capitalized",
+        "Only days, not months"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-10",
+      "question": "Which is correct in a letter?",
+      "options": [
+        "Dear Mrs. Johnson,",
+        "dear Mrs. Johnson,",
+        "dear mrs. johnson,",
+        "Dear mrs. Johnson,"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "capitalization-rules-quiz-11",
+      "question": "Should you capitalize the word after a colon?",
+      "options": [
+        "Always",
+        "Never",
+        "Only in titles",
+        "Only if what follows is a complete sentence (style varies)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "capitalization-rules-quiz-12",
+      "question": "Which is correct?",
+      "options": [
+        "We drove north on Highway 66.",
+        "We drove north on highway 66.",
+        "We drove North on Highway 66.",
+        "We Drove North On Highway 66."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "capitalization-rules-quiz-13",
+      "question": "Should 'internet' be capitalized?",
+      "options": [
+        "Only at the start of a sentence",
+        "Yes, always",
+        "Both B and C",
+        "No, it is now generally lowercase"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-14",
+      "question": "Which is correct?",
+      "options": [
+        "I have a Bachelor's Degree in English.",
+        "I have a Bachelor's degree in english.",
+        "I have a bachelor's degree in English.",
+        "I have a bachelor's degree in english."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "capitalization-rules-quiz-15",
+      "question": "Should you capitalize 'earth' in 'the earth revolves around the sun'?",
+      "options": [
+        "Never capitalize earth, sun, or moon",
+        "Only capitalize Sun",
+        "Capitalize only when used as proper nouns without 'the'",
+        "Always capitalize Earth, Sun, and Moon"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

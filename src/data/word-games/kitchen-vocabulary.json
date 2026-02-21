@@ -8,7 +8,12 @@
     {
       "id": "kv-1",
       "question": "What does it mean to 'sauté' food?",
-      "options": ["To boil in water", "To cook quickly in a small amount of fat over high heat", "To bake in an oven", "To freeze for later use"],
+      "options": [
+        "To boil in water",
+        "To cook quickly in a small amount of fat over high heat",
+        "To freeze for later use",
+        "To bake in an oven"
+      ],
       "correctAnswer": 1,
       "explanation": "To sauté means to cook food quickly in a small amount of oil or butter over relatively high heat while stirring or tossing frequently. The word comes from the French 'sauter,' meaning 'to jump,' describing how the food moves in the pan.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "kv-2",
       "question": "What does 'simmer' mean in cooking?",
-      "options": ["To cook at a rolling boil", "To cook in liquid just below the boiling point", "To fry without oil", "To cook over an open flame"],
-      "correctAnswer": 1,
+      "options": [
+        "To cook over an open flame",
+        "To fry without oil",
+        "To cook in liquid just below the boiling point",
+        "To cook at a rolling boil"
+      ],
+      "correctAnswer": 2,
       "explanation": "To simmer means to cook food gently in liquid at a temperature just below the boiling point, where small bubbles occasionally rise to the surface. Simmering is gentler than boiling and is used for soups, stews, and sauces.",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "kv-3",
       "question": "What does it mean to 'dice' an ingredient?",
-      "options": ["To slice it thinly", "To cut it into small, uniform cubes", "To mash it into a paste", "To grate it finely"],
-      "correctAnswer": 1,
+      "options": [
+        "To mash it into a paste",
+        "To grate it finely",
+        "To slice it thinly",
+        "To cut it into small, uniform cubes"
+      ],
+      "correctAnswer": 3,
       "explanation": "To dice means to cut food into small, uniform cube-shaped pieces. A small dice is about 1/4 inch, a medium dice about 1/2 inch, and a large dice about 3/4 inch. Uniform sizes ensure even cooking.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "kv-4",
       "question": "What does 'marinate' mean?",
-      "options": ["To cook in the oven", "To soak food in a seasoned liquid to add flavor", "To chop into small pieces", "To serve food on a plate"],
-      "correctAnswer": 1,
+      "options": [
+        "To chop into small pieces",
+        "To serve food on a plate",
+        "To soak food in a seasoned liquid to add flavor",
+        "To cook in the oven"
+      ],
+      "correctAnswer": 2,
       "explanation": "To marinate means to soak food, usually meat, in a seasoned liquid (marinade) to infuse flavor and often to tenderize it. Marinades typically contain an acid (like vinegar or citrus juice), oil, and herbs or spices.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "kv-5",
       "question": "What does it mean to 'preheat' an oven?",
-      "options": ["To cool the oven down before use", "To heat the oven to a specified temperature before putting food in", "To clean the oven before cooking", "To set a timer on the oven"],
-      "correctAnswer": 1,
+      "options": [
+        "To set a timer on the oven",
+        "To clean the oven before cooking",
+        "To heat the oven to a specified temperature before putting food in",
+        "To cool the oven down before use"
+      ],
+      "correctAnswer": 2,
       "explanation": "To preheat an oven means to turn it on and let it reach the desired cooking temperature before placing food inside. Preheating ensures food cooks evenly from the start and is especially important for baking.",
       "difficulty": "easy",
       "category": "language"
@@ -53,7 +78,12 @@
     {
       "id": "kv-6",
       "question": "What does 'blanch' mean in cooking?",
-      "options": ["To burn food accidentally", "To briefly boil food and then plunge it into ice water", "To coat food in flour", "To dry food in the sun"],
+      "options": [
+        "To burn food accidentally",
+        "To briefly boil food and then plunge it into ice water",
+        "To dry food in the sun",
+        "To coat food in flour"
+      ],
       "correctAnswer": 1,
       "explanation": "To blanch means to briefly cook food in boiling water and then immediately transfer it to ice water to stop the cooking process. Blanching is used to soften vegetables, loosen skins (like on tomatoes or peaches), and preserve color and texture.",
       "difficulty": "medium",
@@ -62,7 +92,12 @@
     {
       "id": "kv-7",
       "question": "What does the term 'deglaze' mean?",
-      "options": ["To remove a glaze from pottery", "To add liquid to a hot pan to loosen browned food residue", "To remove fat from the surface of a soup", "To cool down a hot skillet"],
+      "options": [
+        "To remove fat from the surface of a soup",
+        "To add liquid to a hot pan to loosen browned food residue",
+        "To cool down a hot skillet",
+        "To remove a glaze from pottery"
+      ],
       "correctAnswer": 1,
       "explanation": "To deglaze means to add liquid (such as wine, broth, or water) to a hot pan after cooking to dissolve the caramelized food residue (called fond) stuck to the bottom. This creates a flavorful base for sauces and gravies.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "kv-8",
       "question": "What does 'al dente' mean when cooking pasta?",
-      "options": ["Overcooked and mushy", "Cooked until firm to the bite", "Served cold", "Covered in sauce"],
-      "correctAnswer": 1,
+      "options": [
+        "Served cold",
+        "Overcooked and mushy",
+        "Cooked until firm to the bite",
+        "Covered in sauce"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Al dente' is an Italian term meaning 'to the tooth.' It describes pasta (or rice) that is cooked until it is still firm when bitten, rather than soft all the way through. This is considered the ideal texture for pasta.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "kv-9",
       "question": "What does it mean to 'fold' ingredients together?",
-      "options": ["To chop them finely", "To gently combine them using a sweeping motion to preserve airiness", "To press them flat with a rolling pin", "To mix them vigorously with a whisk"],
-      "correctAnswer": 1,
+      "options": [
+        "To gently combine them using a sweeping motion to preserve airiness",
+        "To chop them finely",
+        "To mix them vigorously with a whisk",
+        "To press them flat with a rolling pin"
+      ],
+      "correctAnswer": 0,
       "explanation": "Folding is a gentle mixing technique used to combine a lighter mixture (like whipped egg whites) with a heavier one without deflating the air. You use a spatula in a sweeping motion: down the side, across the bottom, and up and over.",
       "difficulty": "medium",
       "category": "language"
@@ -89,7 +134,12 @@
     {
       "id": "kv-10",
       "question": "What does 'julienne' mean as a cutting technique?",
-      "options": ["To cut into thick wedges", "To cut into thin, uniform matchstick-shaped strips", "To shred using a grater", "To cut diagonally"],
+      "options": [
+        "To cut diagonally",
+        "To cut into thin, uniform matchstick-shaped strips",
+        "To cut into thick wedges",
+        "To shred using a grater"
+      ],
       "correctAnswer": 1,
       "explanation": "Julienne is a knife cutting technique in which food is cut into thin, uniform strips resembling matchsticks, typically about 1/8 inch wide and 2-3 inches long. It is commonly used for vegetables in salads, stir-fries, and garnishes.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "kv-11",
       "question": "What does the cooking term 'braise' mean?",
-      "options": ["To cook quickly over high heat", "To cook slowly in a covered pot with a small amount of liquid", "To grill over charcoal", "To deep-fry in oil"],
-      "correctAnswer": 1,
+      "options": [
+        "To grill over charcoal",
+        "To deep-fry in oil",
+        "To cook slowly in a covered pot with a small amount of liquid",
+        "To cook quickly over high heat"
+      ],
+      "correctAnswer": 2,
       "explanation": "Braising is a cooking method that involves first searing food at a high temperature, then slowly cooking it in a covered pot with a small amount of liquid at a low temperature. It is ideal for tougher cuts of meat, making them tender and flavorful.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "kv-12",
       "question": "What is a 'roux' in cooking?",
-      "options": ["A type of salad dressing", "A mixture of fat and flour used to thicken sauces", "A French dessert pastry", "A type of vegetable broth"],
-      "correctAnswer": 1,
+      "options": [
+        "A French dessert pastry",
+        "A type of vegetable broth",
+        "A type of salad dressing",
+        "A mixture of fat and flour used to thicken sauces"
+      ],
+      "correctAnswer": 3,
       "explanation": "A roux is a mixture of equal parts fat (usually butter) and flour, cooked together and used as a thickening agent for sauces, soups, and gravies. It is a foundational technique in French cuisine and is the base for béchamel, velouté, and many other sauces.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "kv-13",
       "question": "What does 'mise en place' mean?",
-      "options": ["Eating at the table", "Having all ingredients measured, cut, and ready before cooking", "Cleaning the kitchen after cooking", "Plating food attractively"],
-      "correctAnswer": 1,
+      "options": [
+        "Having all ingredients measured, cut, and ready before cooking",
+        "Eating at the table",
+        "Cleaning the kitchen after cooking",
+        "Plating food attractively"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Mise en place' is a French culinary term meaning 'everything in its place.' It refers to the practice of measuring, cutting, peeling, and organizing all ingredients and equipment before beginning to cook. It is considered essential for efficient cooking.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "kv-14",
       "question": "What does it mean to 'reduce' a sauce?",
-      "options": ["To add more ingredients to thin it out", "To boil or simmer it to evaporate liquid and concentrate the flavor", "To strain out solid ingredients", "To blend it until smooth"],
-      "correctAnswer": 1,
+      "options": [
+        "To boil or simmer it to evaporate liquid and concentrate the flavor",
+        "To blend it until smooth",
+        "To strain out solid ingredients",
+        "To add more ingredients to thin it out"
+      ],
+      "correctAnswer": 0,
       "explanation": "To reduce a sauce means to simmer or boil it uncovered so that water evaporates, resulting in a thicker consistency and more concentrated, intense flavor. A 'reduction' is the resulting thickened sauce.",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "kv-15",
       "question": "What does the term 'bain-marie' (water bath) refer to in cooking?",
-      "options": ["A type of French soup", "A method of gently heating food by placing it in a container set within hot water", "A technique for flash-freezing food", "A type of double-handled cooking pot"],
+      "options": [
+        "A technique for flash-freezing food",
+        "A method of gently heating food by placing it in a container set within hot water",
+        "A type of double-handled cooking pot",
+        "A type of French soup"
+      ],
       "correctAnswer": 1,
       "explanation": "A bain-marie (or water bath) is a cooking technique where a container of food is placed inside a larger pan of hot water. This provides gentle, even heat and is used for delicate preparations like custards, cheesecakes, and chocolate melting to prevent scorching.",
       "difficulty": "hard",

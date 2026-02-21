@@ -1,0 +1,173 @@
+{
+  "id": "woodwind-instruments-quiz",
+  "title": "Woodwind Instruments Quiz",
+  "description": "Test your knowledge of woodwind instruments and how they work",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "woodwind-instruments-quiz-1",
+      "question": "Which woodwind instrument does NOT use a reed?",
+      "options": [
+        "Flute",
+        "Oboe",
+        "Bassoon",
+        "Clarinet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodwind-instruments-quiz-2",
+      "question": "The oboe uses what type of reed?",
+      "options": [
+        "Single reed",
+        "No reed",
+        "Double reed",
+        "Triple reed"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodwind-instruments-quiz-3",
+      "question": "Which is the largest standard woodwind instrument in an orchestra?",
+      "options": [
+        "Contrabassoon",
+        "Bass Flute",
+        "English Horn",
+        "Bass Clarinet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodwind-instruments-quiz-4",
+      "question": "The saxophone was invented by which person?",
+      "options": [
+        "Anton Stadler",
+        "Adolphe Sax",
+        "Theobald Boehm",
+        "Johann Christoph Denner"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodwind-instruments-quiz-5",
+      "question": "Which woodwind instrument is typically made of metal but classified as a woodwind?",
+      "options": [
+        "French Horn",
+        "Flute",
+        "Trumpet",
+        "Trombone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodwind-instruments-quiz-6",
+      "question": "The recorder belongs to which instrument family?",
+      "options": [
+        "Brass",
+        "String",
+        "Woodwind",
+        "Percussion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodwind-instruments-quiz-7",
+      "question": "Which clarinet part holds the single reed?",
+      "options": [
+        "The bore",
+        "The bell",
+        "The mouthpiece",
+        "The barrel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodwind-instruments-quiz-8",
+      "question": "The piccolo plays in what register compared to the flute?",
+      "options": [
+        "Two octaves higher",
+        "One octave higher",
+        "Same register",
+        "One octave lower"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodwind-instruments-quiz-9",
+      "question": "Which ancient woodwind instrument consists of a set of pipes of different lengths?",
+      "options": [
+        "Ocarina",
+        "Recorder",
+        "Pan Flute",
+        "Tin Whistle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodwind-instruments-quiz-10",
+      "question": "The English horn is actually a larger version of which instrument?",
+      "options": [
+        "Oboe",
+        "Clarinet",
+        "Flute",
+        "Bassoon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodwind-instruments-quiz-11",
+      "question": "Which woodwind instrument did Benny Goodman famously play?",
+      "options": [
+        "Oboe",
+        "Clarinet",
+        "Saxophone",
+        "Flute"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodwind-instruments-quiz-12",
+      "question": "How many keys does a modern concert flute typically have?",
+      "options": [
+        "12",
+        "8",
+        "20",
+        "16"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "woodwind-instruments-quiz-13",
+      "question": "The bagpipe is classified as which type of instrument?",
+      "options": [
+        "Woodwind",
+        "Percussion",
+        "String",
+        "Brass"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodwind-instruments-quiz-14",
+      "question": "Which jazz instrument is Kenny G famous for playing?",
+      "options": [
+        "Flute",
+        "Oboe",
+        "Soprano Saxophone",
+        "Clarinet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodwind-instruments-quiz-15",
+      "question": "The chalumeau was an early ancestor of which modern instrument?",
+      "options": [
+        "Bassoon",
+        "Oboe",
+        "Flute",
+        "Clarinet"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

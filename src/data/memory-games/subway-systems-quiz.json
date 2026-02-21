@@ -1,0 +1,173 @@
+{
+  "id": "subway-systems-quiz",
+  "title": "Subway Systems Quiz",
+  "description": "Go underground and test your memory of famous subway and metro systems worldwide",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "subway-systems-quiz-1",
+      "question": "The London Underground, the world's oldest subway system, opened in which year?",
+      "options": [
+        "1873",
+        "1843",
+        "1863",
+        "1853"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "subway-systems-quiz-2",
+      "question": "The London Underground is commonly known by what nickname?",
+      "options": [
+        "The Underground Rail",
+        "The Subway",
+        "The Metro",
+        "The Tube"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "subway-systems-quiz-3",
+      "question": "The Moscow Metro is famous for its stations decorated with what?",
+      "options": [
+        "Modern digital art",
+        "Wooden carvings",
+        "Elaborate chandeliers, mosaics, and marble",
+        "Neon lights and graffiti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "subway-systems-quiz-4",
+      "question": "Which city's subway system is the busiest in the world by annual ridership?",
+      "options": [
+        "Moscow",
+        "New York City",
+        "Beijing",
+        "Tokyo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "subway-systems-quiz-5",
+      "question": "The Paris Metro system is known by what name?",
+      "options": [
+        "Le Metropolitain",
+        "Le Souterrain",
+        "Le Metro",
+        "Le Train"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "subway-systems-quiz-6",
+      "question": "The New York City Subway operates how many hours per day?",
+      "options": [
+        "24 hours",
+        "20 hours",
+        "18 hours",
+        "22 hours"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "subway-systems-quiz-7",
+      "question": "Which Scandinavian city's metro system features art installations in stations carved from rock?",
+      "options": [
+        "Stockholm",
+        "Copenhagen",
+        "Oslo",
+        "Helsinki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "subway-systems-quiz-8",
+      "question": "The Tokyo subway system uses what color-coded system to help riders?",
+      "options": [
+        "All trains are the same color",
+        "Signs are in English only",
+        "Each line has a unique color and letter",
+        "Stations are numbered only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "subway-systems-quiz-9",
+      "question": "Which city opened the first subway system in the Americas?",
+      "options": [
+        "Chicago",
+        "Philadelphia",
+        "Boston",
+        "New York City"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "subway-systems-quiz-10",
+      "question": "The Washington D.C. Metro system is notable for its stations featuring what architectural style?",
+      "options": [
+        "Victorian brickwork",
+        "Brutalist concrete vaults (coffered ceilings)",
+        "Futuristic glass domes",
+        "Art Deco tiles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "subway-systems-quiz-11",
+      "question": "Dubai's metro system, which opened in 2009, is notable for being what?",
+      "options": [
+        "Built entirely above water",
+        "The longest driverless metro network",
+        "Free for all passengers",
+        "The deepest in the world"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "subway-systems-quiz-12",
+      "question": "What do the Japanese call the white-gloved staff who push passengers into crowded subway cars?",
+      "options": [
+        "Oshiya (pushers)",
+        "Conductors",
+        "Trainmasters",
+        "Platform guides"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "subway-systems-quiz-13",
+      "question": "Which South American city was the first to open a subway system, in 1913?",
+      "options": [
+        "Mexico City",
+        "Santiago",
+        "Buenos Aires",
+        "Sao Paulo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "subway-systems-quiz-14",
+      "question": "The iconic subway map designed by Harry Beck in 1931 was for which city?",
+      "options": [
+        "Paris",
+        "New York City",
+        "Berlin",
+        "London"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "subway-systems-quiz-15",
+      "question": "Singapore's MRT system is known for strictly enforcing a ban on what inside trains?",
+      "options": [
+        "Talking on phones",
+        "Eating and drinking",
+        "Standing near doors",
+        "Carrying luggage"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

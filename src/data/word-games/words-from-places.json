@@ -7,92 +7,167 @@
     {
       "id": "words-from-places-1",
       "question": "Champagne wine is named after a region in which country?",
-      "options": ["Italy", "Spain", "France", "Germany"],
-      "correctAnswer": 2
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Spain"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "words-from-places-2",
       "question": "The fabric 'denim' gets its name from 'de Nîmes.' Where is Nîmes?",
-      "options": ["Belgium", "France", "Italy", "Switzerland"],
-      "correctAnswer": 1
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Belgium",
+        "France"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "words-from-places-3",
       "question": "The word 'spa' for a health resort comes from a town called Spa. In which country is it?",
-      "options": ["Netherlands", "Luxembourg", "Belgium", "Germany"],
-      "correctAnswer": 2
+      "options": [
+        "Germany",
+        "Luxembourg",
+        "Netherlands",
+        "Belgium"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "words-from-places-4",
       "question": "Cognac brandy is named after a town in which French region?",
-      "options": ["Burgundy", "Charente", "Provence", "Alsace"],
-      "correctAnswer": 1
+      "options": [
+        "Provence",
+        "Alsace",
+        "Burgundy",
+        "Charente"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "words-from-places-5",
       "question": "The word 'jeans' is believed to derive from Genoa (Gênes in French). Where is Genoa?",
-      "options": ["Spain", "France", "Italy", "Greece"],
-      "correctAnswer": 2
+      "options": [
+        "France",
+        "Italy",
+        "Greece",
+        "Spain"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "words-from-places-6",
       "question": "Sherry wine takes its name from the city of Jerez. In which country is Jerez?",
-      "options": ["Portugal", "Spain", "France", "Morocco"],
-      "correctAnswer": 1
+      "options": [
+        "Spain",
+        "Morocco",
+        "Portugal",
+        "France"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "words-from-places-7",
       "question": "The word 'marathon' comes from the Battle of Marathon. In which ancient civilization did this take place?",
-      "options": ["Rome", "Egypt", "Greece", "Persia"],
-      "correctAnswer": 2
+      "options": [
+        "Greece",
+        "Persia",
+        "Egypt",
+        "Rome"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "words-from-places-8",
       "question": "Angora wool comes from Angora rabbits and goats. Angora is the old name for which city?",
-      "options": ["Athens", "Ankara", "Alexandria", "Aleppo"],
-      "correctAnswer": 1
+      "options": [
+        "Ankara",
+        "Aleppo",
+        "Athens",
+        "Alexandria"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "words-from-places-9",
       "question": "The word 'port' (as in port wine) comes from which Portuguese city?",
-      "options": ["Lisbon", "Porto", "Faro", "Coimbra"],
-      "correctAnswer": 1
+      "options": [
+        "Faro",
+        "Coimbra",
+        "Porto",
+        "Lisbon"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "words-from-places-10",
       "question": "Muslin fabric takes its name from Mosul. In which modern country is Mosul?",
-      "options": ["Syria", "Turkey", "Iraq", "Iran"],
+      "options": [
+        "Turkey",
+        "Iran",
+        "Iraq",
+        "Syria"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "words-from-places-11",
       "question": "The word 'magnet' derives from Magnesia. Magnesia was a region in ancient what?",
-      "options": ["Rome", "Egypt", "Greece", "Persia"],
-      "correctAnswer": 2
+      "options": [
+        "Egypt",
+        "Greece",
+        "Rome",
+        "Persia"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "words-from-places-12",
       "question": "Currants (dried fruit) get their name from which Greek city?",
-      "options": ["Athens", "Corinth", "Thessaloniki", "Sparta"],
+      "options": [
+        "Thessaloniki",
+        "Corinth",
+        "Sparta",
+        "Athens"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "words-from-places-13",
       "question": "The word 'bourbon' (whiskey) comes from Bourbon County. In which US state?",
-      "options": ["Tennessee", "Virginia", "Kentucky", "Missouri"],
-      "correctAnswer": 2
+      "options": [
+        "Missouri",
+        "Virginia",
+        "Tennessee",
+        "Kentucky"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "words-from-places-14",
       "question": "Cologne (the fragrance) is named after the German city of Cologne. What is this city called in German?",
-      "options": ["Köln", "Koburg", "Kassel", "Kiel"],
+      "options": [
+        "Köln",
+        "Kassel",
+        "Kiel",
+        "Koburg"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "words-from-places-15",
       "question": "The word 'laconic' (using few words) comes from Laconia, home of which ancient people?",
-      "options": ["Athenians", "Spartans", "Trojans", "Macedonians"],
-      "correctAnswer": 1
+      "options": [
+        "Trojans",
+        "Athenians",
+        "Spartans",
+        "Macedonians"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

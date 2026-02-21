@@ -1,0 +1,173 @@
+{
+  "id": "movie-soundtracks-quiz",
+  "title": "Movie Soundtracks Quiz",
+  "description": "Match famous songs and scores to the movies they appeared in",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "movie-soundtracks-quiz-1",
+      "question": "The song 'My Heart Will Go On' by Celine Dion is from which movie?",
+      "options": [
+        "Ghost",
+        "Titanic",
+        "The Bodyguard",
+        "Pretty Woman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "movie-soundtracks-quiz-2",
+      "question": "Which composer created the iconic 'Star Wars' film score?",
+      "options": [
+        "Danny Elfman",
+        "Howard Shore",
+        "John Williams",
+        "Hans Zimmer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-soundtracks-quiz-3",
+      "question": "'Stayin' Alive' by the Bee Gees was featured in which movie?",
+      "options": [
+        "Grease",
+        "Saturday Night Fever",
+        "Footloose",
+        "Flashdance"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "movie-soundtracks-quiz-4",
+      "question": "Which film featured the song 'I Will Always Love You' performed by Whitney Houston?",
+      "options": [
+        "Waiting to Exhale",
+        "The Preacher's Wife",
+        "The Bodyguard",
+        "Sparkle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-soundtracks-quiz-5",
+      "question": "The song 'Raindrops Keep Fallin' on My Head' appeared in which film?",
+      "options": [
+        "Funny Girl",
+        "Singin' in the Rain",
+        "Butch Cassidy and the Sundance Kid",
+        "The Sting"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-soundtracks-quiz-6",
+      "question": "Who composed the famous shower scene music in 'Psycho'?",
+      "options": [
+        "Bernard Herrmann",
+        "Max Steiner",
+        "Ennio Morricone",
+        "Jerry Goldsmith"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-soundtracks-quiz-7",
+      "question": "'Eye of the Tiger' by Survivor was written for which movie?",
+      "options": [
+        "Rocky III",
+        "Rocky IV",
+        "Rocky II",
+        "Rocky"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-soundtracks-quiz-8",
+      "question": "Which film features the song 'Over the Rainbow'?",
+      "options": [
+        "Sound of Music",
+        "Singin' in the Rain",
+        "Mary Poppins",
+        "The Wizard of Oz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "movie-soundtracks-quiz-9",
+      "question": "Ennio Morricone composed the score for which famous Western?",
+      "options": [
+        "The Good, the Bad and the Ugly",
+        "The Magnificent Seven",
+        "True Grit",
+        "Unforgiven"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-soundtracks-quiz-10",
+      "question": "'(I've Had) The Time of My Life' is the signature song from which movie?",
+      "options": [
+        "Dirty Dancing",
+        "Flashdance",
+        "Footloose",
+        "Fame"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-soundtracks-quiz-11",
+      "question": "Which film featured Simon & Garfunkel's 'The Sound of Silence'?",
+      "options": [
+        "Midnight Cowboy",
+        "Easy Rider",
+        "The Graduate",
+        "Harold and Maude"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-soundtracks-quiz-12",
+      "question": "Hans Zimmer composed the score for which Christopher Nolan film?",
+      "options": [
+        "The Dark Knight",
+        "Memento",
+        "All of these",
+        "Tenet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-soundtracks-quiz-13",
+      "question": "Which Disney film features the song 'Circle of Life'?",
+      "options": [
+        "Beauty and the Beast",
+        "Aladdin",
+        "The Little Mermaid",
+        "The Lion King"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "movie-soundtracks-quiz-14",
+      "question": "'Moon River' by Henry Mancini was featured in which Audrey Hepburn film?",
+      "options": [
+        "Sabrina",
+        "Breakfast at Tiffany's",
+        "My Fair Lady",
+        "Roman Holiday"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "movie-soundtracks-quiz-15",
+      "question": "Which movie features the song 'Don't You (Forget About Me)' by Simple Minds?",
+      "options": [
+        "Sixteen Candles",
+        "Ferris Bueller's Day Off",
+        "Pretty in Pink",
+        "The Breakfast Club"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

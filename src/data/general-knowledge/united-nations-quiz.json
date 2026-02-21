@@ -1,0 +1,173 @@
+{
+  "id": "united-nations-quiz",
+  "title": "The United Nations",
+  "description": "Explore the history, structure, and achievements of the United Nations",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "united-nations-quiz-1",
+      "question": "Where is the headquarters of the United Nations located?",
+      "options": [
+        "Geneva, Switzerland",
+        "Paris, France",
+        "London, England",
+        "New York City, USA"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-2",
+      "question": "The Universal Declaration of Human Rights was adopted by the UN General Assembly in which year?",
+      "options": [
+        "1955",
+        "1950",
+        "1948",
+        "1945"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "united-nations-quiz-3",
+      "question": "Who was the first Secretary-General of the United Nations?",
+      "options": [
+        "Kurt Waldheim",
+        "Trygve Lie",
+        "U Thant",
+        "Dag Hammarskjold"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "united-nations-quiz-4",
+      "question": "Which five countries are permanent members of the UN Security Council?",
+      "options": [
+        "USA, UK, France, India, Brazil",
+        "USA, UK, France, Germany, Japan",
+        "USA, Russia, China, India, Germany",
+        "USA, UK, France, Russia, China"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-5",
+      "question": "What power do permanent members of the Security Council uniquely possess?",
+      "options": [
+        "Power to expel member states",
+        "Power to amend the UN Charter unilaterally",
+        "Power to declare war",
+        "Veto power over resolutions"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-6",
+      "question": "UNICEF is a UN agency primarily focused on what?",
+      "options": [
+        "Children's welfare",
+        "Environmental protection",
+        "Nuclear energy",
+        "International trade"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "united-nations-quiz-7",
+      "question": "The UN Charter was signed in 1945 in which city?",
+      "options": [
+        "New York",
+        "London",
+        "Washington, D.C.",
+        "San Francisco"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-8",
+      "question": "Which former U.S. First Lady chaired the committee that drafted the Universal Declaration of Human Rights?",
+      "options": [
+        "Jackie Kennedy",
+        "Eleanor Roosevelt",
+        "Mamie Eisenhower",
+        "Bess Truman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "united-nations-quiz-9",
+      "question": "How many original member states founded the United Nations in 1945?",
+      "options": [
+        "51",
+        "42",
+        "75",
+        "26"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "united-nations-quiz-10",
+      "question": "UNESCO is the UN agency responsible for which areas?",
+      "options": [
+        "Military peacekeeping",
+        "Education, science, and culture",
+        "Trade and commerce",
+        "Refugee resettlement"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "united-nations-quiz-11",
+      "question": "The International Court of Justice, the judicial branch of the UN, has how many judges?",
+      "options": [
+        "12",
+        "9",
+        "21",
+        "15"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-12",
+      "question": "Which UN Secretary-General won the Nobel Peace Prize in 2001?",
+      "options": [
+        "Javier Perez de Cuellar",
+        "Ban Ki-moon",
+        "Boutros Boutros-Ghali",
+        "Kofi Annan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "united-nations-quiz-13",
+      "question": "The UN General Assembly meets annually in regular session starting in which month?",
+      "options": [
+        "January",
+        "June",
+        "September",
+        "March"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "united-nations-quiz-14",
+      "question": "Which body within the UN is primarily responsible for maintaining international peace and security?",
+      "options": [
+        "Trusteeship Council",
+        "Security Council",
+        "General Assembly",
+        "Economic and Social Council"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "united-nations-quiz-15",
+      "question": "The UN Refugee Agency is commonly known by which acronym?",
+      "options": [
+        "UNICEF",
+        "UNDP",
+        "UNHCR",
+        "UNEP"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

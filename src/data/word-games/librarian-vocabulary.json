@@ -1,0 +1,173 @@
+{
+  "id": "librarian-vocabulary",
+  "title": "Librarian Vocabulary",
+  "description": "Check out this quiz about the specialized terms used in library science and information management.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "librarian-vocabulary-1",
+      "question": "What is the 'Dewey Decimal System'?",
+      "options": [
+        "A numerical classification system used to organize library materials by subject",
+        "A system for rating book quality",
+        "A method for dating old books",
+        "A way to calculate library fines"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-2",
+      "question": "What does 'cataloging' mean in library science?",
+      "options": [
+        "Arranging books by size",
+        "Creating organized records describing library materials so they can be found",
+        "Writing book reviews",
+        "Ordering new books"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "librarian-vocabulary-3",
+      "question": "What is an 'OPAC'?",
+      "options": [
+        "An Online Public Access Catalog for searching library holdings",
+        "A type of library card",
+        "An old printing archive collection",
+        "An overdue payment accounting code"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-4",
+      "question": "What does 'periodical' mean in a library context?",
+      "options": [
+        "A publication issued at regular intervals, such as a magazine or journal",
+        "A book published long ago",
+        "A library that is only open periodically",
+        "A reference book updated yearly"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-5",
+      "question": "What is 'interlibrary loan' (ILL)?",
+      "options": [
+        "A service allowing patrons to borrow materials from other libraries",
+        "Lending money between library staff",
+        "A loan to build a new library",
+        "A transfer of librarians between branches"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-6",
+      "question": "What does 'acquisition' mean in library terms?",
+      "options": [
+        "The process of selecting and obtaining new materials for a library's collection",
+        "Acquiring a library card",
+        "Merging two libraries",
+        "A hostile takeover of a library"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-7",
+      "question": "What is a 'call number'?",
+      "options": [
+        "The library's phone number",
+        "A unique code assigned to each item indicating its location on the shelves",
+        "A reservation number for a study room",
+        "A number you call to renew books"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "librarian-vocabulary-8",
+      "question": "What does 'weeding' mean in library management?",
+      "options": [
+        "Cleaning the library shelves",
+        "The process of removing outdated, damaged, or unused materials from the collection",
+        "Gardening outside the library",
+        "Organizing books alphabetically"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "librarian-vocabulary-9",
+      "question": "What is a 'reference desk'?",
+      "options": [
+        "A service point where librarians help patrons find information and answer research questions",
+        "The head librarian's office",
+        "A desk for reading reference books only",
+        "A desk where books are returned"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-10",
+      "question": "What does 'circulation' refer to in a library?",
+      "options": [
+        "Walking through the library stacks",
+        "Air flow in the building",
+        "The lending and returning of library materials",
+        "The number of people visiting the library"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "librarian-vocabulary-11",
+      "question": "What is 'metadata' in library science?",
+      "options": [
+        "Structured information that describes, explains, or locates a resource",
+        "A type of library database",
+        "Mathematical data in textbooks",
+        "Data about the library building"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-12",
+      "question": "What are 'stacks' in a library?",
+      "options": [
+        "Stacks of paper for the printer",
+        "Piles of unsorted books",
+        "A method of counting inventory",
+        "The shelved collection areas where books and materials are stored"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "librarian-vocabulary-13",
+      "question": "What does 'ISBN' stand for?",
+      "options": [
+        "Index System for Book Names",
+        "International Society of Book Numbering",
+        "International Standard Book Number",
+        "Internal Serial Binding Notation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "librarian-vocabulary-14",
+      "question": "What is 'archival preservation'?",
+      "options": [
+        "The practice of protecting documents and materials from deterioration for long-term access",
+        "A method of book binding",
+        "Storing books in archives only",
+        "Keeping old buildings intact"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "librarian-vocabulary-15",
+      "question": "What does 'serials' refer to in a library?",
+      "options": [
+        "Publications issued in successive parts at regular intervals, such as journals and newspapers",
+        "A series of books by the same author",
+        "Mystery novels about serial killers",
+        "Library card serial numbers"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

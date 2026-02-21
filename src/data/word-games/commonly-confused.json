@@ -8,8 +8,13 @@
     {
       "id": "confused-1",
       "question": "Which sentence uses the correct word?",
-      "options": ["The weather will effect our plans.", "The weather will affect our plans.", "The weather will have no affect on us.", "The affect of the storm was devastating."],
-      "correctAnswer": 1,
+      "options": [
+        "The weather will have no affect on us.",
+        "The weather will effect our plans.",
+        "The affect of the storm was devastating.",
+        "The weather will affect our plans."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Affect' is a verb meaning to influence. 'Effect' is usually a noun meaning the result. The weather influences (affects) plans.",
       "difficulty": "easy",
       "category": "language"
@@ -17,7 +22,12 @@
     {
       "id": "confused-2",
       "question": "Which sentence uses the correct word?",
-      "options": ["That scarf really compliments your outfit.", "I received a lovely complement on my cooking.", "That scarf really complements your outfit.", "She gave me a nice complement about my hair."],
+      "options": [
+        "She gave me a nice complement about my hair.",
+        "I received a lovely complement on my cooking.",
+        "That scarf really complements your outfit.",
+        "That scarf really compliments your outfit."
+      ],
       "correctAnswer": 2,
       "explanation": "'Complement' means to complete or go well with something. 'Compliment' means to praise. A scarf complements (goes well with) an outfit.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "confused-3",
       "question": "Which sentence uses the correct word?",
-      "options": ["The principle of the school gave a speech.", "She has strong principals.", "The principal of the school gave a speech.", "It's a matter of principal."],
-      "correctAnswer": 2,
+      "options": [
+        "It's a matter of principal.",
+        "The principal of the school gave a speech.",
+        "The principle of the school gave a speech.",
+        "She has strong principals."
+      ],
+      "correctAnswer": 1,
       "explanation": "'Principal' refers to the head of a school or something of primary importance. 'Principle' means a fundamental truth or rule of conduct.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "confused-4",
       "question": "Which sentence uses the correct word?",
-      "options": ["I need to buy some stationary for school.", "The car remained stationery at the light.", "The car remained stationary at the light.", "I bought new stationary paper and pens."],
-      "correctAnswer": 2,
+      "options": [
+        "The car remained stationery at the light.",
+        "The car remained stationary at the light.",
+        "I need to buy some stationary for school.",
+        "I bought new stationary paper and pens."
+      ],
+      "correctAnswer": 1,
       "explanation": "'Stationary' means not moving. 'Stationery' refers to writing materials like paper and pens.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "confused-5",
       "question": "Which sentence uses the correct word?",
-      "options": ["I'll except your apology.", "Everyone accept Tom was invited.", "Everyone except Tom was invited.", "Please except this gift."],
-      "correctAnswer": 2,
+      "options": [
+        "Please except this gift.",
+        "I'll except your apology.",
+        "Everyone accept Tom was invited.",
+        "Everyone except Tom was invited."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Except' means excluding or leaving out. 'Accept' means to receive willingly. Everyone was invited, excluding (except) Tom.",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "confused-6",
       "question": "Which sentence uses the correct word?",
-      "options": ["Don't loose your keys.", "The knot came lose.", "I don't want to lose my keys.", "My shoelaces are lose."],
-      "correctAnswer": 2,
+      "options": [
+        "I don't want to lose my keys.",
+        "Don't loose your keys.",
+        "My shoelaces are lose.",
+        "The knot came lose."
+      ],
+      "correctAnswer": 0,
       "explanation": "'Lose' is a verb meaning to misplace or be unable to find. 'Loose' is an adjective meaning not tight or free.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "confused-7",
       "question": "Which sentence uses the correct word?",
-      "options": ["Their going to the store later.", "They're going to the store later.", "There going to the store later.", "Theyre going to the store later."],
-      "correctAnswer": 1,
+      "options": [
+        "There going to the store later.",
+        "Their going to the store later.",
+        "They're going to the store later.",
+        "Theyre going to the store later."
+      ],
+      "correctAnswer": 2,
       "explanation": "'They're' is a contraction of 'they are.' 'Their' shows possession, and 'there' indicates a place.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "confused-8",
       "question": "Which sentence uses the correct word?",
-      "options": ["Who's dog is that in the yard?", "Whose the person in charge here?", "Whose dog is that in the yard?", "Who's book is on the table?"],
-      "correctAnswer": 2,
+      "options": [
+        "Who's book is on the table?",
+        "Whose dog is that in the yard?",
+        "Who's dog is that in the yard?",
+        "Whose the person in charge here?"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Whose' is a possessive pronoun asking about ownership. 'Who's' is a contraction of 'who is' or 'who has.'",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "confused-9",
       "question": "Which sentence uses the correct word?",
-      "options": ["There are less people here today.", "I have fewer money than yesterday.", "There are fewer people here today.", "She has less friends than her sister."],
-      "correctAnswer": 2,
+      "options": [
+        "I have fewer money than yesterday.",
+        "There are less people here today.",
+        "She has less friends than her sister.",
+        "There are fewer people here today."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Fewer' is used for countable nouns (people, items). 'Less' is used for uncountable nouns (money, time, water).",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "confused-10",
       "question": "Which sentence uses the correct word?",
-      "options": ["I'm going to lay down for a nap.", "Please lie the book on the table.", "I'm going to lie down for a nap.", "The chicken lied three eggs."],
-      "correctAnswer": 2,
+      "options": [
+        "Please lie the book on the table.",
+        "The chicken lied three eggs.",
+        "I'm going to lay down for a nap.",
+        "I'm going to lie down for a nap."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Lie' means to recline (no direct object). 'Lay' means to put something down (requires a direct object). You lie down, but you lay a book on a table.",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "confused-11",
       "question": "Which sentence uses the correct word?",
-      "options": ["Please insure all doors are locked.", "I need to ensure my car against theft.", "Please ensure all doors are locked.", "Can you insure that the package arrives?"],
-      "correctAnswer": 2,
+      "options": [
+        "Can you insure that the package arrives?",
+        "Please insure all doors are locked.",
+        "I need to ensure my car against theft.",
+        "Please ensure all doors are locked."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Ensure' means to make certain something happens. 'Insure' means to arrange financial compensation in case of damage or loss.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "confused-12",
       "question": "Which sentence uses the correct word?",
-      "options": ["Washington, D.C. is our nation's capitol.", "The capitol of France is Paris.", "The capital building has a large dome.", "The capital of France is Paris."],
-      "correctAnswer": 3,
+      "options": [
+        "The capitol of France is Paris.",
+        "The capital building has a large dome.",
+        "The capital of France is Paris.",
+        "Washington, D.C. is our nation's capitol."
+      ],
+      "correctAnswer": 2,
       "explanation": "'Capital' refers to a city that serves as the seat of government, or to wealth. 'Capitol' refers specifically to a building where a legislature meets.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "confused-13",
       "question": "Which sentence uses the correct word?",
-      "options": ["I'll have chocolate cake for desert.", "The Sahara Dessert is very hot.", "The soldiers would never dessert their post.", "I'll have chocolate cake for dessert."],
-      "correctAnswer": 3,
+      "options": [
+        "The Sahara Dessert is very hot.",
+        "The soldiers would never dessert their post.",
+        "I'll have chocolate cake for dessert.",
+        "I'll have chocolate cake for desert."
+      ],
+      "correctAnswer": 2,
       "explanation": "'Dessert' (two s's) is a sweet treat after a meal. 'Desert' (one s) is a dry, barren landscape or means to abandon.",
       "difficulty": "hard",
       "category": "language"
@@ -125,7 +190,12 @@
     {
       "id": "confused-14",
       "question": "Which sentence uses the correct word?",
-      "options": ["The comedian tried to illicit laughter.", "The police uncovered illicit activities.", "The survey was designed to illicit responses.", "The elicit trade in wildlife is a problem."],
+      "options": [
+        "The elicit trade in wildlife is a problem.",
+        "The police uncovered illicit activities.",
+        "The survey was designed to illicit responses.",
+        "The comedian tried to illicit laughter."
+      ],
       "correctAnswer": 1,
       "explanation": "'Illicit' is an adjective meaning illegal or forbidden. 'Elicit' is a verb meaning to draw out or evoke a response.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "confused-15",
       "question": "Which sentence uses the correct word?",
-      "options": ["My grandparents emigrated to America from Italy.", "Many people immigrate from the United States.", "She emigrated to Canada from Mexico last year.", "They plan to immigrate from the country soon."],
-      "correctAnswer": 0,
+      "options": [
+        "They plan to immigrate from the country soon.",
+        "She emigrated to Canada from Mexico last year.",
+        "Many people immigrate from the United States.",
+        "My grandparents emigrated to America from Italy."
+      ],
+      "correctAnswer": 3,
       "explanation": "'Emigrate' means to leave one's country to live elsewhere (emigrate FROM). 'Immigrate' means to come to a new country to live (immigrate TO).",
       "difficulty": "medium",
       "category": "language"

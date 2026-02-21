@@ -8,7 +8,12 @@
     {
       "id": "fig-1",
       "question": "What figure of speech is used in: 'She is as brave as a lion'?",
-      "options": ["Metaphor", "Simile", "Hyperbole", "Personification"],
+      "options": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Hyperbole"
+      ],
       "correctAnswer": 1,
       "explanation": "A simile compares two things using 'as' or 'like.' Here, her bravery is compared to a lion's using 'as.'",
       "difficulty": "easy",
@@ -17,7 +22,12 @@
     {
       "id": "fig-2",
       "question": "What figure of speech is used in: 'Time is money'?",
-      "options": ["Simile", "Hyperbole", "Metaphor", "Irony"],
+      "options": [
+        "Simile",
+        "Irony",
+        "Metaphor",
+        "Hyperbole"
+      ],
       "correctAnswer": 2,
       "explanation": "A metaphor directly states that one thing IS another without using 'like' or 'as.' Time is compared to money directly.",
       "difficulty": "easy",
@@ -26,7 +36,12 @@
     {
       "id": "fig-3",
       "question": "What figure of speech is used in: 'I've told you a million times'?",
-      "options": ["Understatement", "Metaphor", "Simile", "Hyperbole"],
+      "options": [
+        "Simile",
+        "Understatement",
+        "Metaphor",
+        "Hyperbole"
+      ],
       "correctAnswer": 3,
       "explanation": "Hyperbole is deliberate and obvious exaggeration for emphasis. No one has literally said something a million times.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "fig-4",
       "question": "What figure of speech is used in: 'The wind whispered through the trees'?",
-      "options": ["Personification", "Simile", "Oxymoron", "Pun"],
-      "correctAnswer": 0,
+      "options": [
+        "Simile",
+        "Personification",
+        "Oxymoron",
+        "Pun"
+      ],
+      "correctAnswer": 1,
       "explanation": "Personification gives human qualities to non-human things. Wind cannot literally whisper — that is a human action.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "fig-5",
       "question": "Which of these is an example of onomatopoeia?",
-      "options": ["The stars danced in the sky", "The cat went hiss and scratch", "Life is a journey", "Jumbo shrimp"],
-      "correctAnswer": 1,
+      "options": [
+        "The cat went hiss and scratch",
+        "Life is a journey",
+        "The stars danced in the sky",
+        "Jumbo shrimp"
+      ],
+      "correctAnswer": 0,
       "explanation": "Onomatopoeia is a word that imitates the natural sound it describes. 'Hiss' and 'scratch' mimic actual sounds.",
       "difficulty": "easy",
       "category": "language"
@@ -53,7 +78,12 @@
     {
       "id": "fig-6",
       "question": "Which of these is an example of alliteration?",
-      "options": ["She sells seashells by the seashore", "It was the best of times, it was the worst of times", "Break a leg", "The plot thickens"],
+      "options": [
+        "She sells seashells by the seashore",
+        "Break a leg",
+        "It was the best of times, it was the worst of times",
+        "The plot thickens"
+      ],
       "correctAnswer": 0,
       "explanation": "Alliteration is the repetition of the same initial consonant sound in nearby words. 'She sells seashells by the seashore' repeats the 's' and 'sh' sounds.",
       "difficulty": "medium",
@@ -62,8 +92,13 @@
     {
       "id": "fig-7",
       "question": "What figure of speech is 'deafening silence'?",
-      "options": ["Hyperbole", "Simile", "Oxymoron", "Alliteration"],
-      "correctAnswer": 2,
+      "options": [
+        "Oxymoron",
+        "Hyperbole",
+        "Simile",
+        "Alliteration"
+      ],
+      "correctAnswer": 0,
       "explanation": "An oxymoron combines two contradictory terms. Silence cannot literally be deafening, creating a striking contradiction.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "fig-8",
       "question": "A fire station burns down. What figure of speech does this situation represent?",
-      "options": ["Metaphor", "Hyperbole", "Personification", "Irony"],
-      "correctAnswer": 3,
+      "options": [
+        "Irony",
+        "Personification",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correctAnswer": 0,
       "explanation": "Irony involves a contrast between expectation and reality. A fire station is meant to fight fires, so it burning down is deeply ironic.",
       "difficulty": "medium",
       "category": "language"
@@ -80,7 +120,12 @@
     {
       "id": "fig-9",
       "question": "What figure of speech is 'break a leg' (meaning good luck)?",
-      "options": ["Simile", "Idiom", "Hyperbole", "Oxymoron"],
+      "options": [
+        "Hyperbole",
+        "Idiom",
+        "Oxymoron",
+        "Simile"
+      ],
       "correctAnswer": 1,
       "explanation": "An idiom is a phrase whose meaning cannot be understood from the literal definitions of its words. 'Break a leg' means good luck in theater.",
       "difficulty": "medium",
@@ -89,7 +134,12 @@
     {
       "id": "fig-10",
       "question": "What figure of speech is used in: 'He passed away last night' instead of 'He died'?",
-      "options": ["Metaphor", "Euphemism", "Irony", "Simile"],
+      "options": [
+        "Simile",
+        "Euphemism",
+        "Metaphor",
+        "Irony"
+      ],
       "correctAnswer": 1,
       "explanation": "A euphemism is a mild or indirect expression used in place of one considered too harsh or blunt. 'Passed away' softens the concept of death.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "fig-11",
       "question": "What figure of speech is used in: 'I'm so hungry I could eat a horse'?",
-      "options": ["Simile", "Personification", "Hyperbole", "Metaphor"],
-      "correctAnswer": 2,
+      "options": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correctAnswer": 3,
       "explanation": "This is hyperbole — an extreme exaggeration used for emphasis. The speaker is very hungry but could not literally eat an entire horse.",
       "difficulty": "medium",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "fig-12",
       "question": "Which of these is an example of a pun?",
-      "options": ["Time flies like an arrow; fruit flies like a banana", "The world is a stage", "He was as cold as ice", "The thunder roared"],
-      "correctAnswer": 0,
+      "options": [
+        "The thunder roared",
+        "He was as cold as ice",
+        "Time flies like an arrow; fruit flies like a banana",
+        "The world is a stage"
+      ],
+      "correctAnswer": 2,
       "explanation": "A pun is a play on words that exploits multiple meanings. 'Flies' is used as both a verb (to fly) and a noun (the insect), and 'like' shifts from 'similar to' to 'enjoy.'",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "fig-13",
       "question": "What figure of speech is used in: 'Love is like a battlefield'?",
-      "options": ["Metaphor", "Analogy", "Personification", "Euphemism"],
-      "correctAnswer": 1,
+      "options": [
+        "Metaphor",
+        "Euphemism",
+        "Personification",
+        "Analogy"
+      ],
+      "correctAnswer": 3,
       "explanation": "An analogy is an extended comparison that explains an unfamiliar concept by relating it to a familiar one. Comparing love to a battlefield draws an analogy between the two experiences.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "fig-14",
       "question": "What figure of speech is: 'It's just a scratch' (said about a large dent in a car)?",
-      "options": ["Hyperbole", "Irony", "Understatement", "Euphemism"],
-      "correctAnswer": 2,
+      "options": [
+        "Euphemism",
+        "Hyperbole",
+        "Irony",
+        "Understatement"
+      ],
+      "correctAnswer": 3,
       "explanation": "Understatement deliberately makes something seem less important or serious than it really is. Calling a large dent 'just a scratch' downplays the damage.",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "fig-15",
       "question": "What figure of speech is: 'Can't you do anything right?'",
-      "options": ["Rhetorical question", "Irony", "Pun", "Cliche"],
+      "options": [
+        "Rhetorical question",
+        "Irony",
+        "Pun",
+        "Cliche"
+      ],
       "correctAnswer": 0,
       "explanation": "A rhetorical question is asked for effect, not to get an answer. The speaker is expressing frustration, not genuinely asking for information.",
       "difficulty": "hard",

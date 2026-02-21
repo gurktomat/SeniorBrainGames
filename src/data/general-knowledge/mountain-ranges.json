@@ -8,19 +8,19 @@
       "id": "mountain-ranges-1",
       "question": "What is the highest mountain in the world?",
       "options": [
-        "K2",
-        "Kangchenjunga",
         "Mount Everest",
+        "Kangchenjunga",
+        "K2",
         "Lhotse"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-2",
       "question": "The Alps mountain range stretches across how many European countries?",
       "options": [
-        "Four",
         "Six",
+        "Four",
         "Eight",
         "Ten"
       ],
@@ -30,45 +30,45 @@
       "id": "mountain-ranges-3",
       "question": "Which mountain range forms a natural border between Europe and Asia?",
       "options": [
-        "Caucasus Mountains",
         "Ural Mountains",
-        "Carpathian Mountains",
-        "Altai Mountains"
+        "Altai Mountains",
+        "Caucasus Mountains",
+        "Carpathian Mountains"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-4",
       "question": "The Andes is the longest continental mountain range in the world. On which continent is it located?",
       "options": [
         "Asia",
+        "South America",
         "Africa",
-        "North America",
-        "South America"
+        "North America"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "mountain-ranges-5",
       "question": "What is the highest peak in North America?",
       "options": [
-        "Mount Logan",
-        "Mount Whitney",
+        "Mount Elbert",
         "Denali",
-        "Mount Elbert"
+        "Mount Whitney",
+        "Mount Logan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "mountain-ranges-6",
       "question": "The Himalayas are located primarily in which two countries?",
       "options": [
-        "China and India",
         "Nepal and India",
+        "China and India",
         "Pakistan and Afghanistan",
         "Nepal and Tibet"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-7",
@@ -76,51 +76,51 @@
       "options": [
         "Rocky Mountains",
         "Sierra Nevada",
-        "Appalachian Mountains",
-        "Cascade Range"
+        "Cascade Range",
+        "Appalachian Mountains"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "mountain-ranges-8",
       "question": "Mont Blanc, the highest peak in the Alps, is located on the border of France and which other country?",
       "options": [
-        "Switzerland",
         "Austria",
-        "Italy",
-        "Germany"
+        "Germany",
+        "Switzerland",
+        "Italy"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "mountain-ranges-9",
       "question": "What is the highest mountain in Africa?",
       "options": [
+        "Mount Meru",
         "Mount Kenya",
         "Mount Kilimanjaro",
-        "Mount Stanley",
-        "Mount Meru"
+        "Mount Stanley"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mountain-ranges-10",
       "question": "The Rocky Mountains stretch from Canada to which U.S. state at their southern end?",
       "options": [
-        "Colorado",
         "New Mexico",
         "Arizona",
-        "Utah"
+        "Utah",
+        "Colorado"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-11",
       "question": "K2, the second highest mountain in the world, is located in which mountain range?",
       "options": [
-        "Himalayas",
-        "Karakoram",
         "Hindu Kush",
+        "Karakoram",
+        "Himalayas",
         "Pamir Mountains"
       ],
       "correctAnswer": 1
@@ -129,10 +129,10 @@
       "id": "mountain-ranges-12",
       "question": "Which mountain range is home to Machu Picchu, the ancient Incan citadel?",
       "options": [
-        "Sierra Madre",
+        "Atlas Mountains",
         "Andes",
-        "Rockies",
-        "Atlas Mountains"
+        "Sierra Madre",
+        "Rockies"
       ],
       "correctAnswer": 1
     },
@@ -140,34 +140,34 @@
       "id": "mountain-ranges-13",
       "question": "The Atlas Mountains are located on which continent?",
       "options": [
-        "Asia",
-        "Europe",
         "Africa",
-        "South America"
+        "Asia",
+        "South America",
+        "Europe"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-14",
       "question": "What is the highest peak in Europe?",
       "options": [
-        "Mont Blanc",
         "Mount Elbrus",
         "Matterhorn",
+        "Mont Blanc",
         "Mount Olympus"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-ranges-15",
       "question": "The Scottish Highlands are part of which larger mountain system?",
       "options": [
-        "Pennines",
         "Caledonian Mountains",
         "Grampian Mountains",
-        "Cambrian Mountains"
+        "Cambrian Mountains",
+        "Pennines"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

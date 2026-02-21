@@ -8,8 +8,13 @@
     {
       "id": "os-1",
       "question": "In which ancient Greek city did the original Olympic Games originate?",
-      "options": ["Athens", "Sparta", "Olympia", "Delphi"],
-      "correctAnswer": 2,
+      "options": [
+        "Athens",
+        "Delphi",
+        "Sparta",
+        "Olympia"
+      ],
+      "correctAnswer": 3,
       "explanation": "The ancient Olympic Games originated in Olympia, Greece, in 776 BC. They were held every four years for nearly 12 centuries until they were banned in 393 AD by the Roman Emperor Theodosius I.",
       "difficulty": "easy",
       "category": "sports"
@@ -17,8 +22,13 @@
     {
       "id": "os-2",
       "question": "How many rings are on the Olympic flag, and what do they represent?",
-      "options": ["4 rings — the seasons", "5 rings — the continents", "6 rings — the original sports", "7 rings — the days of the week"],
-      "correctAnswer": 1,
+      "options": [
+        "4 rings — the seasons",
+        "7 rings — the days of the week",
+        "5 rings — the continents",
+        "6 rings — the original sports"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Olympic flag has five interlocking rings representing the five continents of the world (Africa, the Americas, Asia, Europe, and Oceania). The flag was designed by Pierre de Coubertin in 1913.",
       "difficulty": "easy",
       "category": "sports"
@@ -26,7 +36,12 @@
     {
       "id": "os-3",
       "question": "Which country has won the most gold medals in the history of the Summer Olympics?",
-      "options": ["China", "Russia/Soviet Union", "United States", "Great Britain"],
+      "options": [
+        "Great Britain",
+        "Russia/Soviet Union",
+        "United States",
+        "China"
+      ],
       "correctAnswer": 2,
       "explanation": "The United States has won more gold medals in the Summer Olympics than any other country, with over 1,000 gold medals accumulated since the modern Olympics began in 1896.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "os-4",
       "question": "Which swimmer holds the record for the most Olympic gold medals ever won?",
-      "options": ["Mark Spitz", "Ian Thorpe", "Michael Phelps", "Ryan Lochte"],
-      "correctAnswer": 2,
+      "options": [
+        "Michael Phelps",
+        "Ian Thorpe",
+        "Mark Spitz",
+        "Ryan Lochte"
+      ],
+      "correctAnswer": 0,
       "explanation": "Michael Phelps of the United States holds the record with 23 Olympic gold medals (and 28 total medals), making him the most decorated Olympian of all time.",
       "difficulty": "easy",
       "category": "sports"
@@ -44,8 +64,13 @@
     {
       "id": "os-5",
       "question": "In which year were the first modern Olympic Games held?",
-      "options": ["1888", "1896", "1900", "1904"],
-      "correctAnswer": 1,
+      "options": [
+        "1900",
+        "1904",
+        "1888",
+        "1896"
+      ],
+      "correctAnswer": 3,
       "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896. They were organized by Pierre de Coubertin and featured 241 athletes from 14 nations competing in 43 events.",
       "difficulty": "easy",
       "category": "sports"
@@ -53,8 +78,13 @@
     {
       "id": "os-6",
       "question": "Which sport was added to the Olympics for the first time at the 2020 Tokyo Games?",
-      "options": ["Rock climbing", "Skateboarding", "Surfing", "All of the above"],
-      "correctAnswer": 3,
+      "options": [
+        "All of the above",
+        "Rock climbing",
+        "Surfing",
+        "Skateboarding"
+      ],
+      "correctAnswer": 0,
       "explanation": "The 2020 Tokyo Olympics (held in 2021) introduced four new sports: skateboarding, sport climbing, surfing, and karate. These additions were part of an effort to attract younger audiences.",
       "difficulty": "medium",
       "category": "sports"
@@ -62,7 +92,12 @@
     {
       "id": "os-7",
       "question": "What is the longest running event in Olympic track and field?",
-      "options": ["Marathon", "50km Race Walk", "10,000 meters", "3,000m Steeplechase"],
+      "options": [
+        "Marathon",
+        "50km Race Walk",
+        "3,000m Steeplechase",
+        "10,000 meters"
+      ],
       "correctAnswer": 0,
       "explanation": "The marathon is the longest running event in Olympic track and field at 42.195 kilometers (26.2 miles). The distance was standardized at the 1908 London Olympics.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "os-8",
       "question": "Which gymnast scored the first perfect 10 in Olympic history at the 1976 Montreal Games?",
-      "options": ["Olga Korbut", "Nadia Comaneci", "Mary Lou Retton", "Larisa Latynina"],
-      "correctAnswer": 1,
+      "options": [
+        "Nadia Comaneci",
+        "Mary Lou Retton",
+        "Larisa Latynina",
+        "Olga Korbut"
+      ],
+      "correctAnswer": 0,
       "explanation": "Romanian gymnast Nadia Comaneci scored the first perfect 10.0 in Olympic gymnastics history on the uneven bars at the 1976 Montreal Games. She was only 14 years old at the time.",
       "difficulty": "medium",
       "category": "sports"
@@ -80,8 +120,13 @@
     {
       "id": "os-9",
       "question": "Which sprinter holds the world record for the 100-meter dash, set at the 2009 World Championships?",
-      "options": ["Carl Lewis", "Tyson Gay", "Usain Bolt", "Justin Gatlin"],
-      "correctAnswer": 2,
+      "options": [
+        "Justin Gatlin",
+        "Tyson Gay",
+        "Carl Lewis",
+        "Usain Bolt"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jamaican sprinter Usain Bolt set the world record for the 100-meter dash at 9.58 seconds at the 2009 World Championships in Berlin. He also holds the 200-meter world record at 19.19 seconds.",
       "difficulty": "medium",
       "category": "sports"
@@ -89,8 +134,13 @@
     {
       "id": "os-10",
       "question": "In the Winter Olympics, what is the sport that combines cross-country skiing and rifle shooting?",
-      "options": ["Nordic Combined", "Biathlon", "Pentathlon", "Decathlon"],
-      "correctAnswer": 1,
+      "options": [
+        "Biathlon",
+        "Pentathlon",
+        "Decathlon",
+        "Nordic Combined"
+      ],
+      "correctAnswer": 0,
       "explanation": "The biathlon combines cross-country skiing and rifle shooting. Athletes ski a set distance, then stop at a shooting range to hit targets. Missed targets result in penalty laps or added time.",
       "difficulty": "medium",
       "category": "sports"
@@ -98,7 +148,12 @@
     {
       "id": "os-11",
       "question": "Which city has hosted the Summer Olympic Games three times?",
-      "options": ["Paris", "Athens", "London", "Tokyo"],
+      "options": [
+        "Athens",
+        "Tokyo",
+        "London",
+        "Paris"
+      ],
       "correctAnswer": 2,
       "explanation": "London has hosted the Summer Olympics three times: in 1908, 1948, and 2012. Paris hosted in 1900, 1924, and 2024, making it the second city to host three times.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "os-12",
       "question": "What is the decathlon, and how many events does it consist of?",
-      "options": ["A swimming competition with 8 events", "A track and field competition with 10 events", "A gymnastics competition with 12 events", "A cycling competition with 6 events"],
-      "correctAnswer": 1,
+      "options": [
+        "A swimming competition with 8 events",
+        "A cycling competition with 6 events",
+        "A track and field competition with 10 events",
+        "A gymnastics competition with 12 events"
+      ],
+      "correctAnswer": 2,
       "explanation": "The decathlon is a track and field competition consisting of 10 events over two days: 100m, long jump, shot put, high jump, 400m (day 1), and 110m hurdles, discus, pole vault, javelin, 1500m (day 2).",
       "difficulty": "hard",
       "category": "sports"
@@ -116,8 +176,13 @@
     {
       "id": "os-13",
       "question": "Jesse Owens won four gold medals at which Olympic Games, defying Nazi racial ideology?",
-      "options": ["1932 Los Angeles", "1936 Berlin", "1940 Tokyo", "1948 London"],
-      "correctAnswer": 1,
+      "options": [
+        "1940 Tokyo",
+        "1948 London",
+        "1936 Berlin",
+        "1932 Los Angeles"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jesse Owens, an African American track and field athlete, won four gold medals at the 1936 Berlin Olympics (100m, 200m, long jump, 4x100m relay), undermining Adolf Hitler's claims of Aryan racial supremacy.",
       "difficulty": "hard",
       "category": "sports"
@@ -125,7 +190,12 @@
     {
       "id": "os-14",
       "question": "Which country has traditionally dominated the sport of table tennis at the Olympics?",
-      "options": ["Japan", "South Korea", "China", "Germany"],
+      "options": [
+        "Germany",
+        "South Korea",
+        "China",
+        "Japan"
+      ],
       "correctAnswer": 2,
       "explanation": "China has dominated Olympic table tennis since it became an Olympic sport in 1988, winning the majority of gold medals. Chinese players have won 32 of the 37 gold medals awarded in the sport through 2024.",
       "difficulty": "hard",
@@ -134,7 +204,12 @@
     {
       "id": "os-15",
       "question": "The ancient Olympic Games originally consisted of a single event. What was it?",
-      "options": ["Wrestling", "Chariot racing", "A footrace called the stadion", "Discus throwing"],
+      "options": [
+        "Chariot racing",
+        "Discus throwing",
+        "A footrace called the stadion",
+        "Wrestling"
+      ],
       "correctAnswer": 2,
       "explanation": "The original Olympic Games in 776 BC featured a single event: the stadion, a footrace of about 192 meters (the length of the stadium at Olympia). Additional events were added in subsequent years.",
       "difficulty": "hard",

@@ -7,7 +7,12 @@
     {
       "id": "catch-1",
       "question": "Which character said 'D'oh!' on a famous animated sitcom?",
-      "options": ["Peter Griffin", "Fred Flintstone", "Homer Simpson", "George Jetson"],
+      "options": [
+        "Peter Griffin",
+        "Fred Flintstone",
+        "Homer Simpson",
+        "George Jetson"
+      ],
       "correctAnswer": 2,
       "explanation": "Homer Simpson's 'D'oh!' became so iconic it was added to the Oxford English Dictionary in 2001.",
       "difficulty": "easy",
@@ -16,8 +21,13 @@
     {
       "id": "catch-2",
       "question": "'Lucy, you got some 'splainin' to do!' is associated with which show?",
-      "options": ["The Honeymooners", "I Love Lucy", "The Dick Van Dyke Show", "Bewitched"],
-      "correctAnswer": 1,
+      "options": [
+        "I Love Lucy",
+        "Bewitched",
+        "The Dick Van Dyke Show",
+        "The Honeymooners"
+      ],
+      "correctAnswer": 0,
       "explanation": "Though Ricky never said these exact words on I Love Lucy, the phrase became synonymous with Desi Arnaz's character scolding Lucy.",
       "difficulty": "easy",
       "category": "tv"
@@ -25,8 +35,13 @@
     {
       "id": "catch-3",
       "question": "On which show would you hear 'Dy-no-mite!'?",
-      "options": ["Sanford and Son", "Good Times", "The Jeffersons", "What's Happening!!"],
-      "correctAnswer": 1,
+      "options": [
+        "Good Times",
+        "Sanford and Son",
+        "The Jeffersons",
+        "What's Happening!!"
+      ],
+      "correctAnswer": 0,
       "explanation": "Jimmie Walker's character J.J. Evans made 'Dy-no-mite!' his signature catchphrase on Good Times (1974-1979).",
       "difficulty": "medium",
       "category": "tv"
@@ -34,8 +49,13 @@
     {
       "id": "catch-4",
       "question": "Who said 'How you doin'?' as a pickup line on Friends?",
-      "options": ["Ross", "Chandler", "Joey", "Gunther"],
-      "correctAnswer": 2,
+      "options": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": 0,
       "explanation": "Joey Tribbiani (Matt LeBlanc) used 'How you doin'?' as his signature flirtatious greeting throughout the series.",
       "difficulty": "easy",
       "category": "tv"
@@ -43,8 +63,13 @@
     {
       "id": "catch-5",
       "question": "'One of these days, Alice... pow, right to the moon!' was Ralph Kramden's line on which show?",
-      "options": ["All in the Family", "The Honeymooners", "I Love Lucy", "Leave It to Beaver"],
-      "correctAnswer": 1,
+      "options": [
+        "All in the Family",
+        "I Love Lucy",
+        "Leave It to Beaver",
+        "The Honeymooners"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jackie Gleason as Ralph Kramden used this exaggerated threat (never carried out!) on The Honeymooners (1955-1956).",
       "difficulty": "medium",
       "category": "tv"
@@ -52,7 +77,12 @@
     {
       "id": "catch-6",
       "question": "Which sitcom character famously said 'Nanu Nanu'?",
-      "options": ["ALF", "Mork (Mork & Mindy)", "The Great Gazoo", "Uncle Martin"],
+      "options": [
+        "Uncle Martin",
+        "Mork (Mork & Mindy)",
+        "ALF",
+        "The Great Gazoo"
+      ],
       "correctAnswer": 1,
       "explanation": "Robin Williams as Mork from Ork used 'Nanu Nanu' as an Orkan greeting on Mork & Mindy (1978-1982).",
       "difficulty": "medium",
@@ -61,8 +91,13 @@
     {
       "id": "catch-7",
       "question": "'Bazinga!' is the catchphrase of which character?",
-      "options": ["Sheldon Cooper", "Barney Stinson", "Cosmo Kramer", "Steve Urkel"],
-      "correctAnswer": 0,
+      "options": [
+        "Cosmo Kramer",
+        "Barney Stinson",
+        "Sheldon Cooper",
+        "Steve Urkel"
+      ],
+      "correctAnswer": 2,
       "explanation": "Sheldon Cooper (Jim Parsons) used 'Bazinga!' on The Big Bang Theory to indicate he'd made a joke.",
       "difficulty": "easy",
       "category": "tv"
@@ -70,8 +105,13 @@
     {
       "id": "catch-8",
       "question": "On Seinfeld, what was the catchphrase of the Soup Nazi?",
-      "options": ["'Get out!'", "'No soup for you!'", "'Not that there's anything wrong with that'", "'Serenity now!'"],
-      "correctAnswer": 1,
+      "options": [
+        "'Get out!'",
+        "'Serenity now!'",
+        "'No soup for you!'",
+        "'Not that there's anything wrong with that'"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Soup Nazi's 'No soup for you!' from the 1995 episode became one of Seinfeld's most quoted lines.",
       "difficulty": "easy",
       "category": "tv"
@@ -79,8 +119,13 @@
     {
       "id": "catch-9",
       "question": "Which character said 'Did I do that?' after causing destruction?",
-      "options": ["Screech Powers", "Bud Bundy", "Steve Urkel", "Kimmy Gibbler"],
-      "correctAnswer": 2,
+      "options": [
+        "Kimmy Gibbler",
+        "Steve Urkel",
+        "Bud Bundy",
+        "Screech Powers"
+      ],
+      "correctAnswer": 1,
       "explanation": "Jaleel White as Steve Urkel made 'Did I do that?' his trademark on Family Matters (1989-1998).",
       "difficulty": "easy",
       "category": "tv"
@@ -88,8 +133,13 @@
     {
       "id": "catch-10",
       "question": "'Yada, yada, yada' became a way of skipping details on which show?",
-      "options": ["Frasier", "Seinfeld", "Friends", "Cheers"],
-      "correctAnswer": 1,
+      "options": [
+        "Friends",
+        "Cheers",
+        "Seinfeld",
+        "Frasier"
+      ],
+      "correctAnswer": 2,
       "explanation": "Seinfeld popularized 'Yada, yada, yada' in a 1997 episode where characters used it to gloss over important details.",
       "difficulty": "easy",
       "category": "tv"
@@ -97,8 +147,13 @@
     {
       "id": "catch-11",
       "question": "'Whatchoo talkin' 'bout, Willis?' was said on which show?",
-      "options": ["The Cosby Show", "Good Times", "Diff'rent Strokes", "Webster"],
-      "correctAnswer": 2,
+      "options": [
+        "Diff'rent Strokes",
+        "Webster",
+        "Good Times",
+        "The Cosby Show"
+      ],
+      "correctAnswer": 0,
       "explanation": "Gary Coleman as Arnold Jackson made this his signature line on Diff'rent Strokes (1978-1986).",
       "difficulty": "medium",
       "category": "tv"
@@ -106,8 +161,13 @@
     {
       "id": "catch-12",
       "question": "Which show featured the greeting 'Norm!' every time a character walked into a bar?",
-      "options": ["Cheers", "How I Met Your Mother", "It's Always Sunny in Philadelphia", "Frasier"],
-      "correctAnswer": 0,
+      "options": [
+        "Frasier",
+        "It's Always Sunny in Philadelphia",
+        "Cheers",
+        "How I Met Your Mother"
+      ],
+      "correctAnswer": 2,
       "explanation": "On Cheers (1982-1993), the entire bar would shout 'Norm!' whenever George Wendt's character Norm Peterson walked in.",
       "difficulty": "easy",
       "category": "tv"
@@ -115,8 +175,13 @@
     {
       "id": "catch-13",
       "question": "'Marcia, Marcia, Marcia!' expressed jealousy on which family sitcom?",
-      "options": ["The Partridge Family", "The Brady Bunch", "Eight Is Enough", "Family Ties"],
-      "correctAnswer": 1,
+      "options": [
+        "The Partridge Family",
+        "Eight Is Enough",
+        "Family Ties",
+        "The Brady Bunch"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jan Brady's jealous outburst about her older sister became one of The Brady Bunch's most memorable moments.",
       "difficulty": "easy",
       "category": "tv"
@@ -124,7 +189,12 @@
     {
       "id": "catch-14",
       "question": "Who would say 'Live long and prosper' with a Vulcan salute?",
-      "options": ["Captain Kirk", "Scotty", "Spock", "Dr. McCoy"],
+      "options": [
+        "Dr. McCoy",
+        "Captain Kirk",
+        "Spock",
+        "Scotty"
+      ],
       "correctAnswer": 2,
       "explanation": "Leonard Nimoy as Spock made the Vulcan salute and greeting 'Live long and prosper' iconic on Star Trek.",
       "difficulty": "easy",
@@ -133,8 +203,13 @@
     {
       "id": "catch-15",
       "question": "'Here's Johnny!' was Ed McMahon's nightly introduction for whom?",
-      "options": ["Johnny Cash", "Johnny Depp", "Johnny Carson", "John Wayne"],
-      "correctAnswer": 2,
+      "options": [
+        "Johnny Carson",
+        "Johnny Cash",
+        "John Wayne",
+        "Johnny Depp"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ed McMahon's booming 'Here's Johnny!' introduced Johnny Carson on The Tonight Show for 30 years (1962-1992).",
       "difficulty": "easy",
       "category": "tv"
@@ -142,7 +217,12 @@
     {
       "id": "catch-16",
       "question": "Which Taxi character said 'What does a yellow light mean?' over and over?",
-      "options": ["Alex Rieger", "Louie De Palma", "Jim Ignatowski", "Tony Banta"],
+      "options": [
+        "Louie De Palma",
+        "Alex Rieger",
+        "Jim Ignatowski",
+        "Tony Banta"
+      ],
       "correctAnswer": 2,
       "explanation": "Christopher Lloyd's Reverend Jim asked this repeatedly during his hilarious driving test scene on Taxi.",
       "difficulty": "hard",
@@ -151,8 +231,13 @@
     {
       "id": "catch-17",
       "question": "'Baby, you're the greatest!' was a kinder catchphrase from which TV husband?",
-      "options": ["Archie Bunker", "Ralph Kramden", "Fred Sanford", "Ward Cleaver"],
-      "correctAnswer": 1,
+      "options": [
+        "Ward Cleaver",
+        "Archie Bunker",
+        "Ralph Kramden",
+        "Fred Sanford"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jackie Gleason's Ralph Kramden would tell Alice 'Baby, you're the greatest!' on The Honeymooners, balancing his bluster.",
       "difficulty": "medium",
       "category": "tv"
@@ -160,8 +245,13 @@
     {
       "id": "catch-18",
       "question": "'Sit on it!' was a dismissive catchphrase on which 1970s show?",
-      "options": ["Laverne & Shirley", "Happy Days", "Three's Company", "Welcome Back, Kotter"],
-      "correctAnswer": 1,
+      "options": [
+        "Happy Days",
+        "Laverne & Shirley",
+        "Three's Company",
+        "Welcome Back, Kotter"
+      ],
+      "correctAnswer": 0,
       "explanation": "Fonzie (Henry Winkler) popularized 'Sit on it!' as a dismissive putdown on Happy Days (1974-1984).",
       "difficulty": "medium",
       "category": "tv"
@@ -169,8 +259,13 @@
     {
       "id": "catch-19",
       "question": "'You big dummy!' was Fred Sanford's insult to his son on which show?",
-      "options": ["Good Times", "The Jeffersons", "Sanford and Son", "What's Happening!!"],
-      "correctAnswer": 2,
+      "options": [
+        "Sanford and Son",
+        "The Jeffersons",
+        "Good Times",
+        "What's Happening!!"
+      ],
+      "correctAnswer": 0,
       "explanation": "Redd Foxx as Fred Sanford regularly called his son Lamont 'You big dummy!' on Sanford and Son (1972-1977).",
       "difficulty": "medium",
       "category": "tv"
@@ -178,8 +273,13 @@
     {
       "id": "catch-20",
       "question": "Which character's catchphrase was 'Ayyy!' accompanied by a thumbs up?",
-      "options": ["Vinnie Barbarino", "The Fonz", "Lenny Kosnowski", "Squiggy"],
-      "correctAnswer": 1,
+      "options": [
+        "The Fonz",
+        "Vinnie Barbarino",
+        "Lenny Kosnowski",
+        "Squiggy"
+      ],
+      "correctAnswer": 0,
       "explanation": "Arthur 'Fonzie' Fonzarelli's cool 'Ayyy!' with a thumbs up became one of TV's most imitated gestures on Happy Days.",
       "difficulty": "easy",
       "category": "tv"

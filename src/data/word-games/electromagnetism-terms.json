@@ -1,0 +1,173 @@
+{
+  "id": "electromagnetism-terms",
+  "title": "Electromagnetism Terms",
+  "description": "Charge up your vocabulary with the science of electricity and magnetism, from circuits and currents to electromagnetic waves and fields.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "electromagnetism-terms-1",
+      "question": "What is an 'electromagnetic wave'?",
+      "options": [
+        "A sound wave amplified by a speaker",
+        "A vibration in solid metal",
+        "A wave consisting of oscillating electric and magnetic fields that can travel through a vacuum",
+        "A water wave created by a magnet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electromagnetism-terms-2",
+      "question": "What does 'voltage' measure?",
+      "options": [
+        "The flow of electrons",
+        "The power consumed by a device",
+        "The resistance in a wire",
+        "The electrical potential difference between two points, which drives current through a circuit"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electromagnetism-terms-3",
+      "question": "What is 'current' in electricity?",
+      "options": [
+        "The resistance of a wire",
+        "The voltage in a battery",
+        "The flow of electric charge through a conductor, measured in amperes",
+        "The power of a motor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electromagnetism-terms-4",
+      "question": "What does 'Ohm's Law' describe?",
+      "options": [
+        "The attraction between magnets",
+        "The creation of electromagnetic waves",
+        "The speed of light",
+        "The relationship between voltage, current, and resistance: V = IR"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electromagnetism-terms-5",
+      "question": "What is a 'capacitor'?",
+      "options": [
+        "A device that generates electricity",
+        "A component that stores electrical energy in an electric field",
+        "A type of battery",
+        "A wire that conducts electricity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electromagnetism-terms-6",
+      "question": "What is 'resistance' in an electrical circuit?",
+      "options": [
+        "The opposition to the flow of electric current, measured in ohms",
+        "The speed of electron flow",
+        "The brightness of a light bulb",
+        "The amount of charge stored"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electromagnetism-terms-7",
+      "question": "What is an 'electromagnet'?",
+      "options": [
+        "A magnet created by passing electric current through a coil of wire",
+        "A type of compass",
+        "A naturally occurring magnetic rock",
+        "A permanent magnet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electromagnetism-terms-8",
+      "question": "What does 'induction' mean in electromagnetism?",
+      "options": [
+        "Connecting a battery to a circuit",
+        "The heating of a wire",
+        "The storage of energy in a battery",
+        "The generation of an electric current by a changing magnetic field"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electromagnetism-terms-9",
+      "question": "What is a 'conductor'?",
+      "options": [
+        "A material that blocks electricity",
+        "A device that measures voltage",
+        "A type of battery",
+        "A material that allows electric current to flow through it easily"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electromagnetism-terms-10",
+      "question": "What is the 'electromagnetic spectrum'?",
+      "options": [
+        "A type of prism",
+        "The entire range of electromagnetic radiation, from radio waves to gamma rays",
+        "A measurement of magnetic strength",
+        "The visible colors of the rainbow only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electromagnetism-terms-11",
+      "question": "What is a 'transformer'?",
+      "options": [
+        "A switch in a circuit",
+        "A type of generator",
+        "A motor that converts electricity to motion",
+        "A device that changes the voltage of alternating current electricity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electromagnetism-terms-12",
+      "question": "What does 'alternating current' (AC) mean?",
+      "options": [
+        "Current from a battery",
+        "Current that flows in one direction only",
+        "Electric current that periodically reverses direction",
+        "Current that never changes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electromagnetism-terms-13",
+      "question": "What is 'magnetic flux'?",
+      "options": [
+        "The speed at which magnets attract",
+        "The color of a magnetic field",
+        "A measure of the total magnetic field passing through a given area",
+        "The strength of a permanent magnet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electromagnetism-terms-14",
+      "question": "What is a 'semiconductor'?",
+      "options": [
+        "A superconducting material",
+        "A material with electrical conductivity between a conductor and an insulator, used in electronics",
+        "A type of insulating material",
+        "A perfect conductor of electricity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electromagnetism-terms-15",
+      "question": "What did 'Faraday's Law' establish?",
+      "options": [
+        "That a changing magnetic field induces an electric current in a conductor",
+        "The structure of atoms",
+        "The relationship between force and mass",
+        "The speed of electromagnetic waves"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

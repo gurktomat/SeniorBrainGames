@@ -1,0 +1,173 @@
+{
+  "id": "vintage-photography-hobby",
+  "title": "Vintage Photography Hobby",
+  "description": "Remember the days of film, darkrooms, and waiting for prints? Test your vintage photography knowledge!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "vintage-photography-hobby-1",
+      "question": "Which iconic camera, introduced by Kodak in 1963, used easy-to-load film cartridges and became hugely popular with amateur photographers?",
+      "options": [
+        "Kodak Brownie",
+        "Kodak Pocket",
+        "Kodak Disc",
+        "Kodak Instamatic"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-photography-hobby-2",
+      "question": "What was the standard number of exposures on a typical roll of 35mm film?",
+      "options": [
+        "48 or 60",
+        "24 or 36",
+        "36 or 48",
+        "12 or 24"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-hobby-3",
+      "question": "Which Polaroid camera, introduced in 1972, produced instant photos that developed before your eyes?",
+      "options": [
+        "Polaroid Land Model 95",
+        "Polaroid Swinger",
+        "Polaroid SX-70",
+        "Polaroid Impulse"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-hobby-4",
+      "question": "What was the special red-lit room called where photographers developed their film and made prints?",
+      "options": [
+        "The film lab",
+        "The darkroom",
+        "The red room",
+        "The print room"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-hobby-5",
+      "question": "What type of film produced color slides that could be viewed in a projector?",
+      "options": [
+        "Reversal (slide) film",
+        "Negative film",
+        "Infrared film",
+        "Orthochromatic film"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-photography-hobby-6",
+      "question": "Which device was commonly used in living rooms to project slides onto a screen or wall for family viewing?",
+      "options": [
+        "A stereoscope",
+        "An overhead projector",
+        "A film strip viewer",
+        "A carousel slide projector"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-photography-hobby-7",
+      "question": "What popular Kodak slide film, known for its vivid colors, was a favorite among serious amateur photographers?",
+      "options": [
+        "Kodak Tri-X",
+        "Kodachrome",
+        "Kodak Plus-X",
+        "Kodak Ektar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-hobby-8",
+      "question": "What did 'ASA' (later called ISO) measure in photography?",
+      "options": [
+        "The shutter speed limit",
+        "The speed or sensitivity of film to light",
+        "The size of the film frame",
+        "The aperture setting range"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-hobby-9",
+      "question": "Which type of bulb produced a single bright flash and then had to be replaced after each use?",
+      "options": [
+        "Strobe light",
+        "Spotlight",
+        "Flashbulb",
+        "Arc lamp"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-hobby-10",
+      "question": "What were 'contact sheets' used for in film photography?",
+      "options": [
+        "Printing all negatives from a roll at actual size for quick review",
+        "Listing the photographer's contact information",
+        "Testing new film chemicals",
+        "Cleaning camera lenses"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-photography-hobby-11",
+      "question": "Which Japanese camera brand became extremely popular with hobbyists in the 1960s-70s for their reliable 35mm SLR cameras?",
+      "options": [
+        "Nikon",
+        "Canon",
+        "All of the above",
+        "Pentax"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-hobby-12",
+      "question": "What was an 'enlarger' used for in the darkroom?",
+      "options": [
+        "Increasing film speed",
+        "Projecting a negative onto photo paper to make larger prints",
+        "Magnifying negatives for inspection",
+        "Making the darkroom bigger"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-photography-hobby-13",
+      "question": "Where did most amateur photographers take their film to be developed and printed before one-hour labs appeared?",
+      "options": [
+        "The post office",
+        "The hardware store",
+        "The camera store or drugstore",
+        "The library"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-hobby-14",
+      "question": "What handheld device did photographers use to determine the correct exposure settings before built-in meters became common?",
+      "options": [
+        "A color wheel",
+        "A depth gauge",
+        "A light meter",
+        "A focus finder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-photography-hobby-15",
+      "question": "Which twin-lens reflex camera, popular in the 1950s-60s, had one lens for viewing and one for taking the photo?",
+      "options": [
+        "Rolleiflex",
+        "Leica M3",
+        "Mamiya C330",
+        "Hasselblad 500C"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

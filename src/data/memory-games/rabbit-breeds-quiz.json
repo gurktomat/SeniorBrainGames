@@ -1,0 +1,173 @@
+{
+  "id": "rabbit-breeds-quiz",
+  "title": "Rabbit Breeds Quiz",
+  "description": "How well do you know rabbit breeds? From fluffy Angoras to floppy-eared Lops, find out here",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "rabbit-breeds-quiz-1",
+      "question": "Which rabbit breed is known for its extremely long, fluffy wool that requires regular grooming and is often spun into yarn?",
+      "options": [
+        "Lionhead",
+        "Angora",
+        "Cashmere Lop",
+        "Jersey Wooly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rabbit-breeds-quiz-2",
+      "question": "Which large rabbit breed can weigh over 20 pounds and is one of the biggest domestic rabbit breeds?",
+      "options": [
+        "Checkered Giant",
+        "Flemish Giant",
+        "French Lop",
+        "Continental Giant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rabbit-breeds-quiz-3",
+      "question": "Which rabbit breed has distinctively long, floppy ears that hang down beside its face?",
+      "options": [
+        "Polish",
+        "Holland Lop",
+        "Rex",
+        "Netherland Dwarf"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rabbit-breeds-quiz-4",
+      "question": "Which small rabbit breed, originating from the Netherlands, typically weighs only 2 to 2.5 pounds as an adult?",
+      "options": [
+        "Mini Rex",
+        "Britannia Petite",
+        "Polish",
+        "Netherland Dwarf"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rabbit-breeds-quiz-5",
+      "question": "Which rabbit breed has a distinctive mane of longer fur around its head, resembling the mane of a big cat?",
+      "options": [
+        "Jersey Wooly",
+        "Teddy Bear",
+        "Angora",
+        "Lionhead"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rabbit-breeds-quiz-6",
+      "question": "Which rabbit breed has a unique velvety, plush coat caused by a gene that makes the fur stand upright?",
+      "options": [
+        "Rex",
+        "Satin",
+        "Silver Fox",
+        "Havana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rabbit-breeds-quiz-7",
+      "question": "Which white rabbit breed with red eyes was historically used as a laboratory animal and is one of the most recognizable breeds?",
+      "options": [
+        "New Zealand White",
+        "Himalayan",
+        "Florida White",
+        "Polish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rabbit-breeds-quiz-8",
+      "question": "Which rabbit breed has a white body with colored points (nose, ears, feet, and tail), similar to a Siamese cat's coloring?",
+      "options": [
+        "English Spot",
+        "Harlequin",
+        "Himalayan",
+        "Dutch"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rabbit-breeds-quiz-9",
+      "question": "Which rabbit breed is recognized by its distinctive coat pattern of alternating bands of two colors?",
+      "options": [
+        "Harlequin",
+        "English Spot",
+        "Dutch",
+        "Checkered Giant"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rabbit-breeds-quiz-10",
+      "question": "Which popular rabbit breed has a distinctive two-tone color pattern with a white blaze on its face and a white band around its body?",
+      "options": [
+        "Dutch",
+        "Hotot",
+        "English Spot",
+        "Harlequin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rabbit-breeds-quiz-11",
+      "question": "Which rabbit breed has a luxurious, extra-shiny coat due to a gene that makes each hair shaft translucent?",
+      "options": [
+        "Silver Fox",
+        "Satin",
+        "Rex",
+        "Chinchilla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rabbit-breeds-quiz-12",
+      "question": "Which wild rabbit species is native to Europe and is the ancestor of all domestic rabbit breeds?",
+      "options": [
+        "Snowshoe Hare",
+        "Marsh Rabbit",
+        "European Rabbit",
+        "Cottontail Rabbit"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rabbit-breeds-quiz-13",
+      "question": "Which rabbit breed was developed in France and named for its resemblance to the fur of a South American rodent?",
+      "options": [
+        "Havana",
+        "Silver Fox",
+        "Champagne d'Argent",
+        "Chinchilla Rabbit"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rabbit-breeds-quiz-14",
+      "question": "What is a baby rabbit called?",
+      "options": [
+        "Kit or Kitten",
+        "Leveret",
+        "Bunny",
+        "Pup"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rabbit-breeds-quiz-15",
+      "question": "Which French rabbit breed is one of the oldest known breeds, has silver-tipped fur, and dates back to at least the 1600s?",
+      "options": [
+        "French Lop",
+        "Champagne d'Argent",
+        "Blanc de Hotot",
+        "Crème d'Argent"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

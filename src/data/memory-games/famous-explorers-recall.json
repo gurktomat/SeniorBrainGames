@@ -1,0 +1,219 @@
+{
+  "id": "famous-explorers-recall",
+  "title": "Famous Explorers Recall",
+  "description": "How many of history's greatest explorers can you remember?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-explorers-recall-1",
+      "question": "Who led the first expedition to successfully circumnavigate the globe?",
+      "options": [
+        "Francis Drake",
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Christopher Columbus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ferdinand Magellan led the first expedition to circumnavigate the globe starting in 1519. Though he died in the Philippines, his crew completed the journey in 1522.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-2",
+      "question": "Which explorer is credited with 'discovering' the Americas in 1492?",
+      "options": [
+        "Leif Erikson",
+        "Amerigo Vespucci",
+        "Christopher Columbus",
+        "John Cabot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Christopher Columbus sailed from Spain and reached the Bahamas on October 12, 1492, opening the Americas to European exploration.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-3",
+      "question": "Which Portuguese explorer was the first European to reach India by sea?",
+      "options": [
+        "Vasco da Gama",
+        "Pedro Alvares Cabral",
+        "Prince Henry the Navigator",
+        "Bartolomeu Dias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vasco da Gama reached Calicut, India in 1498, establishing a sea route from Europe to Asia around the Cape of Good Hope.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-4",
+      "question": "Who led the Lewis and Clark Expedition across North America?",
+      "options": [
+        "Meriwether Lewis and William Clark",
+        "John Frémont and Kit Carson",
+        "Zebulon Pike and Stephen Long",
+        "Daniel Boone and Davy Crockett"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Meriwether Lewis and William Clark led the Corps of Discovery expedition (1804-1806) to explore the western territories of the United States.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-5",
+      "question": "Which explorer first reached the South Pole in December 1911?",
+      "options": [
+        "Douglas Mawson",
+        "Roald Amundsen",
+        "Ernest Shackleton",
+        "Robert Falcon Scott"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Norwegian explorer Roald Amundsen and his team reached the South Pole on December 14, 1911, beating Robert Scott's British expedition by about five weeks.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-6",
+      "question": "Which Viking explorer is believed to have reached North America around 1000 AD?",
+      "options": [
+        "Erik the Red",
+        "Leif Erikson",
+        "Ragnar Lothbrok",
+        "Bjorn Ironside"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leif Erikson is believed to have reached North America (Vinland) around 1000 AD, nearly 500 years before Columbus.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-7",
+      "question": "Which Spanish conquistador conquered the Aztec Empire?",
+      "options": [
+        "Juan Ponce de León",
+        "Francisco Pizarro",
+        "Hernando de Soto",
+        "Hernán Cortés"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hernán Cortés conquered the Aztec Empire between 1519 and 1521, capturing the capital Tenochtitlan and overthrowing Emperor Montezuma.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-8",
+      "question": "Which explorer mapped much of the African interior and was found by journalist Henry Morton Stanley?",
+      "options": [
+        "Richard Burton",
+        "Mungo Park",
+        "John Hanning Speke",
+        "David Livingstone"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Scottish explorer David Livingstone explored Africa's interior for decades. Stanley found him in 1871 with the famous greeting, 'Dr. Livingstone, I presume?'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-9",
+      "question": "Which Spanish conquistador conquered the Inca Empire in Peru?",
+      "options": [
+        "Vasco Núñez de Balboa",
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Diego de Almagro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Francisco Pizarro conquered the Inca Empire in 1532-1533, capturing Emperor Atahualpa and claiming Peru for Spain.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-10",
+      "question": "Which English explorer claimed the east coast of Australia for Britain in 1770?",
+      "options": [
+        "Henry Hudson",
+        "Walter Raleigh",
+        "Francis Drake",
+        "James Cook"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Captain James Cook charted the east coast of Australia during his first voyage and claimed it for Great Britain, naming it New South Wales.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-11",
+      "question": "Which explorer is the Americas named after?",
+      "options": [
+        "Christopher Columbus",
+        "Giovanni da Verrazzano",
+        "John Cabot",
+        "Amerigo Vespucci"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Americas were named after Italian explorer Amerigo Vespucci, who recognized that the lands Columbus found were a separate continent, not Asia.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-12",
+      "question": "Which explorer led a famous Antarctic expedition on the ship Endurance?",
+      "options": [
+        "Douglas Mawson",
+        "Ernest Shackleton",
+        "Robert Scott",
+        "Roald Amundsen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ernest Shackleton's Endurance became trapped in Antarctic pack ice in 1915, leading to one of the greatest survival stories in exploration history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-13",
+      "question": "Which Portuguese prince sponsored many voyages of exploration down the African coast?",
+      "options": [
+        "Afonso de Albuquerque",
+        "Prince Henry the Navigator",
+        "Prince John",
+        "King Manuel I"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prince Henry the Navigator (1394-1460) sponsored numerous exploratory voyages along the African coast, ushering in the Age of Exploration.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-14",
+      "question": "Who was the first European to reach the Pacific Ocean from the Americas?",
+      "options": [
+        "Francisco Pizarro",
+        "Ferdinand Magellan",
+        "Vasco Núñez de Balboa",
+        "Hernán Cortés"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vasco Núñez de Balboa crossed the Isthmus of Panama and became the first European to see the Pacific Ocean from the Americas in 1513.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-explorers-recall-15",
+      "question": "Which explorer sailed for England and explored the northeastern coast of North America in 1497?",
+      "options": [
+        "Walter Raleigh",
+        "Henry Hudson",
+        "John Cabot",
+        "Martin Frobisher"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Cabot (Giovanni Caboto), an Italian sailing for England, reached the coast of North America in 1497, giving England a claim to the New World.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

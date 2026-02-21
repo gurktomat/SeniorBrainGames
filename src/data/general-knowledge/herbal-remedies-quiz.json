@@ -1,0 +1,219 @@
+{
+  "id": "herbal-remedies-quiz",
+  "title": "Herbal Remedies & Natural Medicine",
+  "description": "Test your knowledge of herbs and their traditional medicinal uses!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "herbal-remedies-quiz-1",
+      "question": "Which herb is commonly used to soothe upset stomachs and aid digestion?",
+      "options": [
+        "Oregano",
+        "Basil",
+        "Rosemary",
+        "Peppermint"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peppermint has been used for thousands of years to soothe digestive issues. Its active compound, menthol, relaxes the muscles of the digestive tract.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-2",
+      "question": "Echinacea is traditionally used to help fight what?",
+      "options": [
+        "Headaches",
+        "Colds and infections",
+        "Insomnia",
+        "Joint pain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Echinacea has been used by Native Americans for centuries and is widely taken today to help prevent or reduce the duration of colds and upper respiratory infections.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-3",
+      "question": "Which herb, also known as the 'golden spice,' is used in traditional medicine for its anti-inflammatory properties?",
+      "options": [
+        "Ginger",
+        "Saffron",
+        "Cinnamon",
+        "Turmeric"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Turmeric contains curcumin, which has powerful anti-inflammatory properties. It has been used in Ayurvedic and Chinese medicine for centuries.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-4",
+      "question": "What herb is commonly brewed into a calming tea to promote sleep and relaxation?",
+      "options": [
+        "Yerba mate",
+        "Black tea",
+        "Green tea",
+        "Chamomile"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chamomile tea is one of the most popular herbal remedies for promoting relaxation and sleep. It contains apigenin, an antioxidant that binds to brain receptors that promote sleepiness.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-5",
+      "question": "Ginseng root has been used in traditional medicine for centuries. Which country is most associated with its use?",
+      "options": [
+        "Brazil",
+        "China",
+        "Egypt",
+        "India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ginseng has been a cornerstone of traditional Chinese medicine for over 2,000 years. It is used to boost energy, reduce stress, and support overall health.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-6",
+      "question": "Which plant's gel is commonly used to soothe burns and skin irritation?",
+      "options": [
+        "Witch hazel",
+        "Aloe vera",
+        "Lavender",
+        "Tea tree"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aloe vera gel has been used for thousands of years to treat burns, cuts, and skin irritations. It contains compounds that reduce inflammation and promote healing.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-7",
+      "question": "St. John's Wort is an herbal supplement commonly used to treat what condition?",
+      "options": [
+        "High blood pressure",
+        "Arthritis",
+        "Mild to moderate depression",
+        "Diabetes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "St. John's Wort (Hypericum perforatum) has been used for centuries to treat mild to moderate depression. Studies have shown it may be as effective as some prescription antidepressants.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-8",
+      "question": "Which tree bark was the original source of the anti-malarial drug quinine?",
+      "options": [
+        "Cinchona",
+        "Oak",
+        "Eucalyptus",
+        "Willow"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Quinine comes from the bark of the cinchona tree, native to South America. Indigenous peoples used it to treat fevers, and it became the primary treatment for malaria for centuries.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-9",
+      "question": "Ginger root is traditionally used to treat what common ailment?",
+      "options": [
+        "Earaches",
+        "Nausea and motion sickness",
+        "Eye strain",
+        "Tooth decay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ginger has been used for thousands of years to treat nausea, motion sickness, and morning sickness. Its active compounds, gingerols, have anti-nausea and anti-inflammatory effects.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-10",
+      "question": "What is the traditional herbal remedy valerian root primarily used for?",
+      "options": [
+        "Improving memory",
+        "Weight loss",
+        "Boosting immunity",
+        "Promoting sleep"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Valerian root has been used since ancient Greece and Rome as a natural sleep aid. It is believed to increase levels of GABA, a calming neurotransmitter in the brain.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-11",
+      "question": "Which herb, native to India, is known as 'holy basil' and is used in Ayurvedic medicine?",
+      "options": [
+        "Thai basil",
+        "Tulsi",
+        "Lemon basil",
+        "Sweet basil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tulsi (Ocimum tenuiflorum), or holy basil, is considered sacred in Hinduism and has been used in Ayurvedic medicine for thousands of years as an adaptogen to combat stress.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-12",
+      "question": "Tea tree oil, used as a natural antiseptic, comes from a plant native to which country?",
+      "options": [
+        "India",
+        "China",
+        "Brazil",
+        "Australia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tea tree oil comes from the leaves of Melaleuca alternifolia, native to Australia. Aboriginal Australians used it for centuries as a natural antiseptic and healing agent.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-13",
+      "question": "What herb is known as 'the herb of remembrance' and has been studied for its effects on memory?",
+      "options": [
+        "Rosemary",
+        "Sage",
+        "Parsley",
+        "Thyme"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rosemary has been called 'the herb of remembrance' since ancient times. Modern studies suggest that compounds in rosemary may help improve concentration and memory.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-14",
+      "question": "Which flowering plant produces an oil that is widely used in aromatherapy for relaxation?",
+      "options": [
+        "Daisy",
+        "Marigold",
+        "Lavender",
+        "Sunflower"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lavender essential oil is one of the most popular aromatherapy oils, used to promote relaxation, reduce anxiety, and improve sleep quality.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "herbal-remedies-quiz-15",
+      "question": "Milk thistle has been traditionally used to support the health of which organ?",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Lungs",
+        "Heart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk thistle (Silybum marianum) has been used for over 2,000 years as a natural remedy for liver problems. Its active compound, silymarin, has antioxidant and anti-inflammatory properties.",
+      "difficulty": "medium",
+      "category": "health"
+    }
+  ]
+}

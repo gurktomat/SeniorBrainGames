@@ -8,8 +8,13 @@
     {
       "id": "ibd-1",
       "question": "In which decade was the telephone invented by Alexander Graham Bell?",
-      "options": ["1850s", "1860s", "1870s", "1880s"],
-      "correctAnswer": 2,
+      "options": [
+        "1850s",
+        "1870s",
+        "1860s",
+        "1880s"
+      ],
+      "correctAnswer": 1,
       "explanation": "Alexander Graham Bell patented the telephone in 1876. His first successful experiment was on March 10, 1876, when he transmitted the famous words: 'Mr. Watson, come here, I want to see you.'",
       "difficulty": "easy",
       "category": "history"
@@ -17,7 +22,12 @@
     {
       "id": "ibd-2",
       "question": "In which decade did the Wright Brothers achieve the first powered flight?",
-      "options": ["1890s", "1900s", "1910s", "1920s"],
+      "options": [
+        "1920s",
+        "1900s",
+        "1910s",
+        "1890s"
+      ],
       "correctAnswer": 1,
       "explanation": "Orville and Wilbur Wright achieved the first sustained, controlled, powered heavier-than-air flight on December 17, 1903, at Kitty Hawk, North Carolina. The first flight lasted 12 seconds.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "ibd-3",
       "question": "In which decade was television first demonstrated to the public?",
-      "options": ["1910s", "1920s", "1930s", "1940s"],
-      "correctAnswer": 1,
+      "options": [
+        "1920s",
+        "1910s",
+        "1930s",
+        "1940s"
+      ],
+      "correctAnswer": 0,
       "explanation": "Television was first publicly demonstrated in the 1920s. John Logie Baird gave the first public demonstration of a working television system in London in January 1926.",
       "difficulty": "easy",
       "category": "history"
@@ -35,7 +50,12 @@
     {
       "id": "ibd-4",
       "question": "In which decade was the World Wide Web invented by Tim Berners-Lee?",
-      "options": ["1970s", "1980s", "1990s", "2000s"],
+      "options": [
+        "2000s",
+        "1980s",
+        "1970s",
+        "1990s"
+      ],
       "correctAnswer": 1,
       "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland. The first website went live on August 6, 1991.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "ibd-5",
       "question": "In which decade was the light bulb made commercially practical by Thomas Edison?",
-      "options": ["1860s", "1870s", "1880s", "1890s"],
-      "correctAnswer": 1,
+      "options": [
+        "1880s",
+        "1860s",
+        "1870s",
+        "1890s"
+      ],
+      "correctAnswer": 2,
       "explanation": "Thomas Edison developed a commercially practical incandescent light bulb in 1879. While others had created electric lights before him, Edison's bulb was the first to last long enough for practical use.",
       "difficulty": "easy",
       "category": "history"
@@ -53,7 +78,12 @@
     {
       "id": "ibd-6",
       "question": "In which decade was penicillin discovered by Alexander Fleming?",
-      "options": ["1910s", "1920s", "1930s", "1940s"],
+      "options": [
+        "1930s",
+        "1920s",
+        "1940s",
+        "1910s"
+      ],
       "correctAnswer": 1,
       "explanation": "Alexander Fleming discovered penicillin in 1928 when he noticed that mold had killed bacteria in a petri dish. It was the first true antibiotic and revolutionized medicine.",
       "difficulty": "medium",
@@ -62,8 +92,13 @@
     {
       "id": "ibd-7",
       "question": "In which decade was the first personal computer, the Altair 8800, introduced?",
-      "options": ["1960s", "1970s", "1980s", "1990s"],
-      "correctAnswer": 1,
+      "options": [
+        "1960s",
+        "1990s",
+        "1980s",
+        "1970s"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Altair 8800, widely considered the first commercially successful personal computer, was introduced in 1975. It inspired Bill Gates and Paul Allen to found Microsoft.",
       "difficulty": "medium",
       "category": "history"
@@ -71,8 +106,13 @@
     {
       "id": "ibd-8",
       "question": "In which decade was the microwave oven accidentally invented?",
-      "options": ["1930s", "1940s", "1950s", "1960s"],
-      "correctAnswer": 1,
+      "options": [
+        "1940s",
+        "1930s",
+        "1960s",
+        "1950s"
+      ],
+      "correctAnswer": 0,
       "explanation": "Percy Spencer accidentally discovered that microwaves could heat food in 1945 while working on radar equipment at Raytheon. The first commercial microwave oven was sold in 1947.",
       "difficulty": "medium",
       "category": "history"
@@ -80,8 +120,13 @@
     {
       "id": "ibd-9",
       "question": "In which decade was the first successful heart transplant performed?",
-      "options": ["1950s", "1960s", "1970s", "1980s"],
-      "correctAnswer": 1,
+      "options": [
+        "1980s",
+        "1970s",
+        "1960s",
+        "1950s"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dr. Christiaan Barnard performed the first successful human heart transplant on December 3, 1967, in Cape Town, South Africa. The patient, Louis Washkansky, survived for 18 days.",
       "difficulty": "medium",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "ibd-10",
       "question": "In which decade was the iPhone first introduced?",
-      "options": ["1990s", "2000s", "2010s", "2020s"],
-      "correctAnswer": 1,
+      "options": [
+        "2020s",
+        "2010s",
+        "2000s",
+        "1990s"
+      ],
+      "correctAnswer": 2,
       "explanation": "Apple's iPhone was first introduced by Steve Jobs on January 9, 2007, and went on sale on June 29, 2007. It revolutionized the smartphone industry and mobile computing.",
       "difficulty": "medium",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "ibd-11",
       "question": "In which decade was the printing press invented by Johannes Gutenberg?",
-      "options": ["1420s", "1440s", "1460s", "1480s"],
-      "correctAnswer": 1,
+      "options": [
+        "1440s",
+        "1480s",
+        "1460s",
+        "1420s"
+      ],
+      "correctAnswer": 0,
       "explanation": "Johannes Gutenberg invented the movable-type printing press around 1440 in Mainz, Germany. His Gutenberg Bible, printed around 1455, is considered the first major book printed with movable type in the West.",
       "difficulty": "hard",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "ibd-12",
       "question": "In which decade was the first practical steam engine developed by Thomas Newcomen?",
-      "options": ["1690s", "1710s", "1730s", "1750s"],
-      "correctAnswer": 1,
+      "options": [
+        "1730s",
+        "1750s",
+        "1690s",
+        "1710s"
+      ],
+      "correctAnswer": 3,
       "explanation": "Thomas Newcomen developed the first practical steam engine around 1712. It was primarily used to pump water out of coal mines and laid the groundwork for the Industrial Revolution.",
       "difficulty": "hard",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "ibd-13",
       "question": "In which decade was the transistor invented at Bell Laboratories?",
-      "options": ["1930s", "1940s", "1950s", "1960s"],
-      "correctAnswer": 1,
+      "options": [
+        "1950s",
+        "1960s",
+        "1940s",
+        "1930s"
+      ],
+      "correctAnswer": 2,
       "explanation": "The transistor was invented at Bell Laboratories in 1947 by John Bardeen, Walter Brattain, and William Shockley. It replaced vacuum tubes and became the foundation of all modern electronics.",
       "difficulty": "hard",
       "category": "history"
@@ -125,8 +190,13 @@
     {
       "id": "ibd-14",
       "question": "In which decade was dynamite invented by Alfred Nobel?",
-      "options": ["1840s", "1850s", "1860s", "1870s"],
-      "correctAnswer": 2,
+      "options": [
+        "1850s",
+        "1840s",
+        "1870s",
+        "1860s"
+      ],
+      "correctAnswer": 3,
       "explanation": "Alfred Nobel invented dynamite in 1867 by mixing nitroglycerin with diatomaceous earth to create a stable explosive. The profits from his invention funded the Nobel Prizes after his death.",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "ibd-15",
       "question": "In which decade was the first GPS satellite launched by the United States?",
-      "options": ["1960s", "1970s", "1980s", "1990s"],
-      "correctAnswer": 1,
+      "options": [
+        "1960s",
+        "1990s",
+        "1970s",
+        "1980s"
+      ],
+      "correctAnswer": 2,
       "explanation": "The first GPS satellite, Navstar 1, was launched on February 22, 1978. The full GPS constellation became operational for civilian use in 1995, revolutionizing navigation worldwide.",
       "difficulty": "hard",
       "category": "history"

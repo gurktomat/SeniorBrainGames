@@ -1,0 +1,173 @@
+{
+  "id": "banking-language",
+  "title": "Banking Language",
+  "description": "Explore the specialized vocabulary of the banking and finance industry with these engaging questions.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "banking-language-1",
+      "question": "What is a 'certificate of deposit' (CD)?",
+      "options": [
+        "A type of checking account",
+        "A receipt for a bank wire transfer",
+        "A document proving you own stocks",
+        "A time deposit with a fixed interest rate and maturity date"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "banking-language-2",
+      "question": "What does 'APR' stand for in banking?",
+      "options": [
+        "Approved Payment Request",
+        "Annual Percentage Rate",
+        "Automatic Payment Return",
+        "Applied Principal Rate"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "banking-language-3",
+      "question": "What is a 'fiduciary'?",
+      "options": [
+        "A government bank examiner",
+        "A type of bank teller",
+        "A financial software program",
+        "A person or institution legally obligated to act in another's best financial interest"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "banking-language-4",
+      "question": "What does 'collateral' mean in banking?",
+      "options": [
+        "Interest earned on savings",
+        "A co-signer on a loan",
+        "An asset pledged as security for a loan",
+        "A secondary bank account"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "banking-language-5",
+      "question": "What is a 'maturity date' on a financial product?",
+      "options": [
+        "The date the bank was founded",
+        "The date your credit card expires",
+        "The date when a loan or investment reaches the end of its term",
+        "The date you opened the account"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "banking-language-6",
+      "question": "What does 'FDIC' stand for?",
+      "options": [
+        "Federal Department of Investment Control",
+        "Federal Deposit Insurance Corporation",
+        "Funds Distribution and Investment Committee",
+        "Financial Data Information Center"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "banking-language-7",
+      "question": "What is 'compound interest'?",
+      "options": [
+        "Interest calculated on both the initial principal and the accumulated interest from previous periods",
+        "Interest charged only on the original principal",
+        "Interest paid only at year-end",
+        "A fixed interest rate that never changes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "banking-language-8",
+      "question": "What does 'underwriting' mean in banking?",
+      "options": [
+        "Signing the bottom of a document",
+        "A type of bank endorsement",
+        "Writing checks below the line",
+        "The process of evaluating and assuming risk, especially for loans or insurance"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "banking-language-9",
+      "question": "What is a 'wire transfer'?",
+      "options": [
+        "A physical transfer of coins",
+        "An electronic transfer of funds between financial institutions",
+        "Sending a telegram to a bank",
+        "Connecting bank computers with cables"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "banking-language-10",
+      "question": "What does 'amortization schedule' show?",
+      "options": [
+        "A bank's operating hours",
+        "A table showing each loan payment broken down into principal and interest over time",
+        "A list of bank holidays",
+        "The schedule for opening new branches"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "banking-language-11",
+      "question": "What is a 'line of credit'?",
+      "options": [
+        "A flexible loan arrangement allowing borrowing up to a preset limit",
+        "A queue at the bank",
+        "A written reference from a bank",
+        "A credit card number"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "banking-language-12",
+      "question": "What does 'principal' refer to in a loan?",
+      "options": [
+        "The original amount of money borrowed, excluding interest",
+        "The interest rate",
+        "The monthly payment amount",
+        "The bank manager"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "banking-language-13",
+      "question": "What is 'overdraft protection'?",
+      "options": [
+        "A safe in the bank vault",
+        "Insurance against bank robbery",
+        "A service that covers transactions when your account balance is insufficient",
+        "A type of savings account"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "banking-language-14",
+      "question": "What does 'yield' mean in banking?",
+      "options": [
+        "Giving way to another customer",
+        "The income earned on an investment, expressed as a percentage",
+        "A type of security measure",
+        "The number of accounts at a branch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "banking-language-15",
+      "question": "What is a 'promissory note'?",
+      "options": [
+        "A written promise to pay a specified sum of money on demand or at a future date",
+        "A bank's advertising flyer",
+        "A note attached to a safety deposit box",
+        "A thank-you letter from a bank"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

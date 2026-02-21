@@ -1,0 +1,219 @@
+{
+  "id": "famous-ballets-quiz",
+  "title": "Famous Ballets",
+  "description": "From Swan Lake to The Nutcracker, how well do you know the world's most beloved ballets?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-ballets-quiz-1",
+      "question": "Which composer wrote the music for 'Swan Lake,' 'The Nutcracker,' and 'The Sleeping Beauty'?",
+      "options": [
+        "Sergei Prokofiev",
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tchaikovsky composed the music for all three of the most popular ballets in the repertoire. Together they are sometimes called the 'Big Three' of classical ballet.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-2",
+      "question": "In 'The Nutcracker,' which sweet treats perform a dance in the Land of Sweets?",
+      "options": [
+        "Sugar plum fairies only",
+        "Only gingerbread men",
+        "Only chocolate",
+        "Various treats including chocolate, coffee, tea, and candy canes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Act 2 of 'The Nutcracker' features a series of divertissements representing treats from around the world: Spanish chocolate, Arabian coffee, Chinese tea, Russian candy canes, and Danish marzipan shepherds, among others.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-3",
+      "question": "Which ballet tells the story of a peasant girl who dies of a broken heart and becomes a spirit?",
+      "options": [
+        "La Bayadère",
+        "Giselle",
+        "La Sylphide",
+        "Coppélia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Giselle' (1841) is one of the greatest Romantic ballets. After discovering her lover Albrecht's deception, Giselle dies and becomes a Wili — a spirit of a maiden who died before her wedding day.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-4",
+      "question": "Prokofiev composed the music for which ballet based on a Shakespeare play?",
+      "options": [
+        "Othello",
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet",
+        "The Tempest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prokofiev's 'Romeo and Juliet' (1935) is one of the greatest ballet scores of the 20th century. The 'Dance of the Knights' and the balcony scene pas de deux are among its most famous moments.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-5",
+      "question": "Which ballet features a toymaker who creates a life-sized dancing doll named Coppélia?",
+      "options": [
+        "Petroushka",
+        "La Fille mal gardée",
+        "Coppélia",
+        "The Nutcracker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Coppélia' (1870), with music by Léo Delibes, tells the story of Dr. Coppélius, an eccentric toymaker, and his mechanical doll. It is one of ballet's most popular comic works.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-6",
+      "question": "Stravinsky's 'Petrushka' is set at what type of event?",
+      "options": [
+        "A harvest festival",
+        "A royal ball",
+        "A Russian carnival (Shrovetide fair)",
+        "A wedding celebration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Petrushka' (1911) is set at a Shrovetide fair in St. Petersburg. Three puppets — Petrushka, the Ballerina, and the Moor — come to life and act out a love triangle. It premiered with the Ballets Russes.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-7",
+      "question": "Which Russian choreographer created the definitive versions of 'Swan Lake' and 'The Sleeping Beauty'?",
+      "options": [
+        "Vaslav Nijinsky",
+        "Michel Fokine",
+        "George Balanchine",
+        "Marius Petipa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Marius Petipa, a French-born choreographer who worked in Russia, created the definitive choreography for many classical ballets. He collaborated with Tchaikovsky and is considered the father of classical ballet as we know it.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-8",
+      "question": "Which Aaron Copland ballet celebrates the building of a farmhouse in rural Pennsylvania?",
+      "options": [
+        "Appalachian Spring",
+        "Dance Panels",
+        "Billy the Kid",
+        "Rodeo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Appalachian Spring' (1944) was choreographed by Martha Graham with Copland's score. Set in the Pennsylvania countryside, it depicts a young couple's celebration of their new home. It won the Pulitzer Prize for Music.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-9",
+      "question": "In 'Swan Lake,' what spell has been cast on Princess Odette?",
+      "options": [
+        "She is turned into a swan by day",
+        "She becomes invisible",
+        "She is trapped in a tower",
+        "She is put to sleep for 100 years"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sorcerer Von Rothbart has cursed Odette to live as a swan during the day. Only at night does she take human form. Only a faithful vow of love can break the spell.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-10",
+      "question": "Which Stravinsky ballet depicts an ancient pagan ritual and caused a scandal at its premiere?",
+      "options": [
+        "Apollo",
+        "Petrushka",
+        "The Rite of Spring",
+        "The Firebird"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Rite of Spring' (1913) depicts a pagan ritual in which a young girl dances herself to death as a sacrifice to the god of spring. Its dissonant music and shocking choreography by Nijinsky caused a near-riot at the premiere.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-11",
+      "question": "'La Bayadère,' a ballet about a temple dancer and a warrior, is set in which country?",
+      "options": [
+        "Egypt",
+        "India",
+        "Japan",
+        "China"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'La Bayadère' (1877), choreographed by Marius Petipa, is set in the Royal India of the past. Its famous 'Kingdom of the Shades' scene, featuring a long line of ballerinas descending a ramp, is one of ballet's most iconic moments.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-12",
+      "question": "Which American choreographer created 'Fancy Free,' about three sailors on shore leave in New York?",
+      "options": [
+        "Bob Fosse",
+        "George Balanchine",
+        "Agnes de Mille",
+        "Jerome Robbins"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jerome Robbins choreographed 'Fancy Free' in 1944 with music by Leonard Bernstein. The ballet about three sailors looking for dates in wartime New York was later expanded into the Broadway musical 'On the Town.'",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-13",
+      "question": "'The Firebird' was the first major collaboration between Stravinsky and which impresario?",
+      "options": [
+        "Sergei Diaghilev",
+        "Rudolf Nureyev",
+        "George Balanchine",
+        "Marius Petipa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sergei Diaghilev commissioned the 26-year-old Stravinsky to compose 'The Firebird' for his Ballets Russes in 1910. Based on Russian fairy tales, it launched Stravinsky to international fame.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-14",
+      "question": "What is a 'grand jeté' in ballet?",
+      "options": [
+        "A group formation",
+        "A deep curtsy",
+        "A large, leaping split in the air",
+        "A slow, graceful turn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A grand jeté is a spectacular leap in which the dancer splits their legs in mid-air. It is one of ballet's most thrilling and athletic movements, requiring great strength and flexibility.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-ballets-quiz-15",
+      "question": "Which Copland ballet features cowgirls and a hoedown in the American West?",
+      "options": [
+        "Billy the Kid",
+        "Appalachian Spring",
+        "Fanfare for the Common Man",
+        "Rodeo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Rodeo' (1942), choreographed by Agnes de Mille, tells the story of a cowgirl trying to win the head wrangler's heart at a ranch rodeo. Its energetic 'Hoe-Down' finale has become one of Copland's most famous pieces.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

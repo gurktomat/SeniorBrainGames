@@ -1,0 +1,219 @@
+{
+  "id": "rugby-terminology",
+  "title": "Rugby Terminology",
+  "description": "Tackle this quiz about the vocabulary of rugby!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rugby-terminology-1",
+      "question": "In rugby, what is a 'scrum'?",
+      "options": [
+        "A set-piece restart where forwards bind together and push against the opposition",
+        "A defensive line formation",
+        "A type of kick",
+        "A quick team meeting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A scrum is a method of restarting play where eight forwards from each team bind together in a crouched formation and push against each other while the ball is fed into the middle.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-2",
+      "question": "What is a 'try' in rugby?",
+      "options": [
+        "A penalty for a foul",
+        "Scoring by grounding the ball in the opponent's in-goal area",
+        "The first play of a match",
+        "An attempt to kick a goal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A try is the primary method of scoring in rugby, worth 5 points in rugby union, achieved by a player grounding (touching down) the ball in the opposing team's in-goal area.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-3",
+      "question": "In rugby, what is a 'lineout'?",
+      "options": [
+        "A queue at the ticket office",
+        "The boundary line of the field",
+        "A method of restarting play by throwing the ball in from the touchline between two lines of players",
+        "Players lined up for a penalty"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A lineout is a set-piece used to restart play after the ball goes into touch (out of bounds), where players from each team form parallel lines and a hooker throws the ball in between them.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-4",
+      "question": "What is a 'ruck' in rugby?",
+      "options": [
+        "A running formation",
+        "A backward pass",
+        "A type of backpack",
+        "A phase of play where players bind over the ball on the ground to compete for possession"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A ruck forms when the ball is on the ground and one or more players from each team bind together on their feet over the ball, competing for possession.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-5",
+      "question": "In rugby, what is a 'maul'?",
+      "options": [
+        "A phase where the ball carrier is held up by opponents and teammates bind in, all on their feet",
+        "A type of scoring",
+        "The rugby ball itself",
+        "A violent foul"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A maul occurs when the ball carrier is held by one or more opponents and one or more teammates bind on, with all players on their feet and the ball off the ground.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-6",
+      "question": "What is a 'conversion' in rugby?",
+      "options": [
+        "A kick at goal taken after scoring a try, worth 2 points",
+        "A change of tactics",
+        "Converting a try into a touchdown",
+        "Switching a player's position"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A conversion is a kick at goal taken after a try is scored, worth 2 additional points. The kick is taken from a point in line with where the try was scored.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-7",
+      "question": "In rugby, what does 'knock-on' mean?",
+      "options": [
+        "A hard tackle",
+        "Knocking on the changing room door",
+        "Knocking an opponent off their feet",
+        "When a player accidentally propels the ball forward with hand or arm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A knock-on occurs when a player loses possession of the ball and it goes forward off the hands or arms, resulting in a scrum awarded to the opposing team.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-8",
+      "question": "What is a 'drop goal' in rugby?",
+      "options": [
+        "A missed kick at goal",
+        "A goal scored when the ball is accidentally dropped",
+        "A goal scored by drop-kicking the ball through the posts during open play",
+        "Dropping the ball over the try line"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A drop goal is scored during open play by drop-kicking the ball (bouncing it off the ground first) through the opponent's goalposts, worth 3 points in rugby union.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-9",
+      "question": "In rugby, what is 'the sin bin'?",
+      "options": [
+        "A box for discarded boots",
+        "The team bus",
+        "A trash can on the sideline",
+        "A temporary exclusion area where a player serves a 10-minute yellow-card suspension"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sin bin is the area where a player who receives a yellow card must sit for 10 minutes as a temporary suspension, leaving their team with one fewer player.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-10",
+      "question": "What is a 'garryowen' (or 'up-and-under') in rugby?",
+      "options": [
+        "A famous rugby player's move",
+        "A type of tackle",
+        "A high kick designed to put pressure on the opposing team under the falling ball",
+        "A pass thrown behind the back"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A garryowen (named after the Garryowen FC club in Ireland) is a high tactical kick that allows the kicking team to chase and contest the ball as it descends, putting pressure on the catcher.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-11",
+      "question": "In rugby, what is the 'hooker' position?",
+      "options": [
+        "The captain of the team",
+        "A player who hooks the ball with their foot",
+        "A player who tackles from behind",
+        "The front-row forward who throws the ball into lineouts and hooks it in scrums"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The hooker is a front-row forward (wearing number 2) who throws the ball into lineouts and uses their feet to hook the ball backward in scrums to secure possession.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-12",
+      "question": "What does 'advantage' mean in rugby?",
+      "options": [
+        "Having the wind behind you",
+        "Leading by more than 7 points",
+        "Having more players on the field",
+        "The referee allowing play to continue after an infringement to see if the non-offending team benefits"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advantage is a rule where the referee allows play to continue after an infringement to see if the non-offending team gains a benefit; if not, play returns to the original infringement.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-13",
+      "question": "In rugby, what is a 'hospital pass'?",
+      "options": [
+        "A pass that puts the receiving teammate in a vulnerable position to be tackled hard",
+        "A pass that goes out of play",
+        "A free pass given after an injury",
+        "A pass made to a player in the medical tent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A hospital pass is slang for a poorly timed or placed pass that arrives just as a defender is closing in, leaving the receiver exposed to a heavy tackle.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-14",
+      "question": "What is the 'haka' associated with in rugby?",
+      "options": [
+        "A type of tackle technique",
+        "A rugby formation",
+        "A referee's signal",
+        "A traditional Maori ceremonial war dance performed by New Zealand's All Blacks before matches"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The haka is a traditional Maori ceremonial dance performed by the New Zealand All Blacks before international rugby matches, meant to challenge and intimidate the opposition.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rugby-terminology-15",
+      "question": "In rugby, what is a 'blood bin'?",
+      "options": [
+        "A temporary substitution allowing a bleeding player to receive treatment",
+        "A first aid station",
+        "A container for bloodied jerseys",
+        "A penalty for causing bleeding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A blood bin is a temporary substitution rule that allows a player who is bleeding to leave the field for treatment and return once the bleeding has stopped, with a replacement filling in meanwhile.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "ocean-mammals",
+  "title": "Ocean Mammals",
+  "description": "Explore the fascinating world of whales, dolphins, seals, and other mammals that live in the sea.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "ocean-mammals-1",
+      "question": "The blue whale is the largest animal ever to have lived. How long can it grow?",
+      "options": [
+        "120 feet",
+        "80 feet",
+        "100 feet",
+        "60 feet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-mammals-2",
+      "question": "Which marine mammal is known for using tools, like rocks, to open shellfish?",
+      "options": [
+        "Dolphin",
+        "Sea Otter",
+        "Seal",
+        "Walrus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-mammals-3",
+      "question": "Dolphins navigate and find prey using what biological sonar system?",
+      "options": [
+        "Echolocation",
+        "Electroreception",
+        "Infrared sensing",
+        "Magnetoreception"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ocean-mammals-4",
+      "question": "Which whale is known for its complex songs that can last for hours?",
+      "options": [
+        "Orca",
+        "Sperm Whale",
+        "Humpback Whale",
+        "Blue Whale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-mammals-5",
+      "question": "The orca, or killer whale, is actually the largest member of what family?",
+      "options": [
+        "Seal family",
+        "Dolphin family",
+        "Whale family",
+        "Porpoise family"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-mammals-6",
+      "question": "How deep can a sperm whale dive to hunt giant squid?",
+      "options": [
+        "500 feet",
+        "1,000 feet",
+        "Over 7,000 feet",
+        "3,000 feet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-mammals-7",
+      "question": "Manatees are sometimes called what, due to old sailors mistaking them for mythical beings?",
+      "options": [
+        "Sea horses",
+        "Sea cows",
+        "Mermaids",
+        "Sea monsters"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-mammals-8",
+      "question": "Which seal species is the largest, with males weighing up to 8,800 pounds?",
+      "options": [
+        "Weddell Seal",
+        "Harbor Seal",
+        "Southern Elephant Seal",
+        "Leopard Seal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ocean-mammals-9",
+      "question": "What do baleen whales use instead of teeth to filter food from water?",
+      "options": [
+        "Suction cups",
+        "Gill rakers",
+        "A tongue net",
+        "Baleen plates made of keratin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-mammals-10",
+      "question": "Which marine mammal can hold its breath for up to two hours during deep dives?",
+      "options": [
+        "Sea Otter",
+        "Sperm Whale",
+        "Bottlenose Dolphin",
+        "Elephant Seal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-mammals-11",
+      "question": "The dugong, a relative of the manatee, is found primarily in what ocean?",
+      "options": [
+        "Arctic Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ocean-mammals-12",
+      "question": "How do sea otters keep from drifting apart while sleeping in the ocean?",
+      "options": [
+        "They anchor to kelp",
+        "They hold hands (paws)",
+        "They sleep on shore",
+        "They form a circle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-mammals-13",
+      "question": "The narwhal's tusk spirals in which direction?",
+      "options": [
+        "It doesn't spiral",
+        "Counterclockwise (left-handed spiral)",
+        "Clockwise",
+        "It varies"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-mammals-14",
+      "question": "Which dolphin species is the most commonly seen in aquariums and marine parks?",
+      "options": [
+        "Common Dolphin",
+        "Bottlenose Dolphin",
+        "Risso's Dolphin",
+        "Spinner Dolphin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ocean-mammals-15",
+      "question": "Gray whales make one of the longest migrations of any mammal, traveling between where?",
+      "options": [
+        "Hawaii and Alaska",
+        "Norway and Greenland",
+        "Argentina and Antarctica",
+        "Mexico and Alaska"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

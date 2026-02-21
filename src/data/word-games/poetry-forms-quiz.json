@@ -1,0 +1,173 @@
+{
+  "id": "poetry-forms-quiz",
+  "title": "Poetry Forms Quiz",
+  "description": "From sonnets to haiku, test your knowledge of the many beautiful forms poetry can take",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "poetry-forms-quiz-1",
+      "question": "How many lines does a traditional sonnet have?",
+      "options": [
+        "16",
+        "14",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "poetry-forms-quiz-2",
+      "question": "A haiku is a Japanese poem with how many syllables in its three lines?",
+      "options": [
+        "3-5-3",
+        "5-5-5",
+        "7-5-7",
+        "5-7-5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-3",
+      "question": "What is a 'limerick'?",
+      "options": [
+        "A three-line Japanese poem",
+        "A 14-line poem about love",
+        "A long narrative poem",
+        "A humorous five-line poem with an AABBA rhyme scheme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-4",
+      "question": "What is an 'epic' poem?",
+      "options": [
+        "A very short poem",
+        "A poem that does not rhyme",
+        "A poem written in a single stanza",
+        "A long narrative poem that tells the story of a hero's adventures"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-5",
+      "question": "Which of these is a famous epic poem?",
+      "options": [
+        "The Road Not Taken",
+        "Stopping by Woods on a Snowy Evening",
+        "The Odyssey",
+        "Daffodils"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-forms-quiz-6",
+      "question": "What is a 'ballad'?",
+      "options": [
+        "A narrative poem or song that tells a story, often with a refrain",
+        "A poem written in Latin",
+        "A poem with exactly six lines",
+        "A poem with no rhythm"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-forms-quiz-7",
+      "question": "What is an 'ode'?",
+      "options": [
+        "A lyric poem that addresses or celebrates a particular subject with elevated style",
+        "A children's nursery rhyme",
+        "A poem about death",
+        "A short, humorous poem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-forms-quiz-8",
+      "question": "Keats's 'Ode on a Grecian Urn' is an example of which poetic form?",
+      "options": [
+        "Ode",
+        "Haiku",
+        "Sonnet",
+        "Limerick"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-forms-quiz-9",
+      "question": "What is an 'elegy'?",
+      "options": [
+        "A humorous poem about animals",
+        "A poem celebrating a wedding",
+        "A poem with no fixed structure",
+        "A poem of serious reflection, typically mourning the dead"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-10",
+      "question": "A 'villanelle' is a poem with how many lines?",
+      "options": [
+        "19",
+        "12",
+        "21",
+        "14"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-forms-quiz-11",
+      "question": "Which famous poem by Dylan Thomas is a villanelle?",
+      "options": [
+        "The Raven",
+        "Do Not Go Gentle into That Good Night",
+        "The Waste Land",
+        "Howl"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "poetry-forms-quiz-12",
+      "question": "What distinguishes a Shakespearean sonnet from a Petrarchan sonnet?",
+      "options": [
+        "The number of lines",
+        "Petrarchan sonnets are always about love",
+        "Shakespearean sonnets do not rhyme",
+        "A Shakespearean sonnet has three quatrains and a couplet; a Petrarchan has an octave and a sestet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-13",
+      "question": "What is a 'couplet' in poetry?",
+      "options": [
+        "A poem about a couple",
+        "A pair of poets who write together",
+        "A poem with two stanzas",
+        "Two consecutive lines that rhyme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-forms-quiz-14",
+      "question": "What is a 'sestina'?",
+      "options": [
+        "A complex form with six stanzas of six lines each, plus a three-line envoi, using repeated end-words",
+        "A poem about the six seasons",
+        "A poem written for six voices",
+        "A six-line poem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-forms-quiz-15",
+      "question": "What is a 'quatrain'?",
+      "options": [
+        "A stanza or group of four lines",
+        "A poem about the four seasons",
+        "A poem with four stanzas",
+        "A four-word poem"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

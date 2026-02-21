@@ -8,8 +8,13 @@
     {
       "id": "wtw-1",
       "question": "What word means 'a feeling of great happiness and triumph'?",
-      "options": ["Elation", "Depression", "Anxiety", "Confusion"],
-      "correctAnswer": 0,
+      "options": [
+        "Depression",
+        "Confusion",
+        "Anxiety",
+        "Elation"
+      ],
+      "correctAnswer": 3,
       "explanation": "Elation comes from the Latin 'elatus', meaning 'raised up'.",
       "difficulty": "medium",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "wtw-2",
       "question": "What word means 'a deep longing for the past'?",
-      "options": ["Boredom", "Nostalgia", "Regret", "Envy"],
-      "correctAnswer": 1,
+      "options": [
+        "Boredom",
+        "Regret",
+        "Envy",
+        "Nostalgia"
+      ],
+      "correctAnswer": 3,
       "explanation": "Nostalgia comes from the Greek words 'nostos' (return home) and 'algos' (pain).",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "wtw-3",
       "question": "What word means 'the ability to understand and share the feelings of another'?",
-      "options": ["Apathy", "Sympathy", "Empathy", "Antipathy"],
-      "correctAnswer": 2,
+      "options": [
+        "Antipathy",
+        "Empathy",
+        "Sympathy",
+        "Apathy"
+      ],
+      "correctAnswer": 1,
       "explanation": "Empathy goes beyond sympathy by actually feeling what another person feels.",
       "difficulty": "medium",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "wtw-4",
       "question": "What word means 'a person who loves books and reading'?",
-      "options": ["Bibliophile", "Audiophile", "Technophile", "Cinephile"],
-      "correctAnswer": 0,
+      "options": [
+        "Technophile",
+        "Bibliophile",
+        "Cinephile",
+        "Audiophile"
+      ],
+      "correctAnswer": 1,
       "explanation": "Bibliophile combines 'biblio' (book) and 'phile' (lover of).",
       "difficulty": "medium",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "wtw-5",
       "question": "What word means 'pleasantly warm weather'?",
-      "options": ["Frigid", "Balmy", "Scorching", "Breezy"],
-      "correctAnswer": 1,
+      "options": [
+        "Scorching",
+        "Breezy",
+        "Frigid",
+        "Balmy"
+      ],
+      "correctAnswer": 3,
       "explanation": "Balmy describes mild, pleasant, warm weather conditions.",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "wtw-6",
       "question": "What word means 'happening by chance in a fortunate way'?",
-      "options": ["Deliberate", "Tragic", "Serendipitous", "Unfortunate"],
-      "correctAnswer": 2,
+      "options": [
+        "Deliberate",
+        "Serendipitous",
+        "Unfortunate",
+        "Tragic"
+      ],
+      "correctAnswer": 1,
       "explanation": "Serendipitous was coined by Horace Walpole in 1754, inspired by a fairy tale about the princes of Serendip.",
       "difficulty": "hard",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "wtw-7",
       "question": "What word means 'to walk in a slow, relaxed manner'?",
-      "options": ["Sprint", "Saunter", "March", "Dash"],
-      "correctAnswer": 1,
+      "options": [
+        "Saunter",
+        "Dash",
+        "March",
+        "Sprint"
+      ],
+      "correctAnswer": 0,
       "explanation": "To saunter means to walk in a leisurely, unhurried way.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "wtw-8",
       "question": "What word means 'the first meal of the day'?",
-      "options": ["Supper", "Brunch", "Breakfast", "Lunch"],
-      "correctAnswer": 2,
+      "options": [
+        "Supper",
+        "Lunch",
+        "Brunch",
+        "Breakfast"
+      ],
+      "correctAnswer": 3,
       "explanation": "Breakfast literally means 'breaking the fast' after sleeping through the night.",
       "difficulty": "easy",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "wtw-9",
       "question": "What word means 'a strong feeling of displeasure or hostility'?",
-      "options": ["Joy", "Grief", "Anger", "Fear"],
-      "correctAnswer": 2,
+      "options": [
+        "Grief",
+        "Anger",
+        "Joy",
+        "Fear"
+      ],
+      "correctAnswer": 1,
       "explanation": "Anger is a basic human emotion characterized by antagonism toward someone or something.",
       "difficulty": "easy",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "wtw-10",
       "question": "What word means 'lasting only a short time'?",
-      "options": ["Eternal", "Transient", "Permanent", "Constant"],
-      "correctAnswer": 1,
+      "options": [
+        "Eternal",
+        "Permanent",
+        "Constant",
+        "Transient"
+      ],
+      "correctAnswer": 3,
       "explanation": "Transient comes from the Latin 'transire', meaning 'to pass over'.",
       "difficulty": "hard",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "wtw-11",
       "question": "What word means 'extremely beautiful or delicate'?",
-      "options": ["Grotesque", "Ordinary", "Exquisite", "Hideous"],
-      "correctAnswer": 2,
+      "options": [
+        "Grotesque",
+        "Hideous",
+        "Ordinary",
+        "Exquisite"
+      ],
+      "correctAnswer": 3,
       "explanation": "Exquisite describes something of exceptional beauty, elegance, or craftsmanship.",
       "difficulty": "medium",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "wtw-12",
       "question": "What word means 'a person who shows great courage in the face of danger'?",
-      "options": ["Coward", "Hero", "Villain", "Bystander"],
-      "correctAnswer": 1,
+      "options": [
+        "Hero",
+        "Bystander",
+        "Villain",
+        "Coward"
+      ],
+      "correctAnswer": 0,
       "explanation": "Hero comes from the Greek 'heros', meaning a person admired for their courage and noble qualities.",
       "difficulty": "easy",
       "category": "language"
@@ -116,7 +176,12 @@
     {
       "id": "wtw-13",
       "question": "What word means 'extremely large in size or extent'?",
-      "options": ["Petite", "Enormous", "Average", "Modest"],
+      "options": [
+        "Petite",
+        "Enormous",
+        "Modest",
+        "Average"
+      ],
       "correctAnswer": 1,
       "explanation": "Enormous comes from the Latin 'enormis', meaning 'out of the norm' in terms of size.",
       "difficulty": "easy",
@@ -125,8 +190,13 @@
     {
       "id": "wtw-14",
       "question": "What word means 'the practice of being honest and having strong moral principles'?",
-      "options": ["Deceit", "Corruption", "Integrity", "Negligence"],
-      "correctAnswer": 2,
+      "options": [
+        "Integrity",
+        "Corruption",
+        "Negligence",
+        "Deceit"
+      ],
+      "correctAnswer": 0,
       "explanation": "Integrity comes from the Latin 'integer', meaning 'whole' or 'complete'.",
       "difficulty": "medium",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "wtw-15",
       "question": "What word means 'an overwhelming feeling of reverence and wonder'?",
-      "options": ["Boredom", "Awe", "Disgust", "Indifference"],
+      "options": [
+        "Disgust",
+        "Awe",
+        "Boredom",
+        "Indifference"
+      ],
       "correctAnswer": 1,
       "explanation": "Awe describes a feeling of wonder and amazement, often inspired by something majestic.",
       "difficulty": "medium",

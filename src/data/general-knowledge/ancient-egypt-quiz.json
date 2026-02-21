@@ -1,0 +1,173 @@
+{
+  "id": "ancient-egypt-quiz",
+  "title": "Ancient Egypt Quiz",
+  "description": "Journey along the Nile and test your knowledge of pharaohs, pyramids, and the remarkable civilization of ancient Egypt.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "ancient-egypt-quiz-1",
+      "question": "Which pharaoh is believed to have built the Great Pyramid of Giza?",
+      "options": [
+        "Tutankhamun",
+        "Khufu",
+        "Akhenaten",
+        "Ramesses II"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-egypt-quiz-2",
+      "question": "What is the name of the writing system used by ancient Egyptians?",
+      "options": [
+        "Linear B",
+        "Hieroglyphics",
+        "Sanskrit",
+        "Cuneiform"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-egypt-quiz-3",
+      "question": "Which famous stone helped scholars decipher Egyptian hieroglyphics?",
+      "options": [
+        "The Moabite Stone",
+        "The Stone of Scone",
+        "The Rosetta Stone",
+        "The Philosopher's Stone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-egypt-quiz-4",
+      "question": "What was the primary purpose of the Egyptian pyramids?",
+      "options": [
+        "Grain storage facilities",
+        "Temples for worship",
+        "Tombs for pharaohs",
+        "Astronomical observatories"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-egypt-quiz-5",
+      "question": "Which Egyptian queen was known for her beauty and her relationships with Julius Caesar and Mark Antony?",
+      "options": [
+        "Cleopatra VII",
+        "Nefertiti",
+        "Hatshepsut",
+        "Nefertari"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-egypt-quiz-6",
+      "question": "What organ did ancient Egyptians leave inside the body during mummification?",
+      "options": [
+        "The heart",
+        "The lungs",
+        "The liver",
+        "The brain"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-egypt-quiz-7",
+      "question": "What is the Great Sphinx of Giza believed to represent?",
+      "options": [
+        "A lion with a human head",
+        "A winged serpent",
+        "A sacred bull",
+        "A god of the underworld"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-egypt-quiz-8",
+      "question": "Which pharaoh was famous for moving Egypt's religion to worship only the sun disk Aten?",
+      "options": [
+        "Akhenaten",
+        "Thutmose III",
+        "Ramesses II",
+        "Seti I"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-egypt-quiz-9",
+      "question": "What was the ancient Egyptian name for the afterlife or realm of the dead?",
+      "options": [
+        "Valhalla",
+        "Duat",
+        "Nirvana",
+        "Elysium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-egypt-quiz-10",
+      "question": "Which river was essential to the survival of ancient Egyptian civilization?",
+      "options": [
+        "The Nile",
+        "The Tigris",
+        "The Jordan",
+        "The Euphrates"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-egypt-quiz-11",
+      "question": "Who discovered the tomb of Tutankhamun in 1922?",
+      "options": [
+        "Flinders Petrie",
+        "Howard Carter",
+        "Jean-François Champollion",
+        "Giovanni Belzoni"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-egypt-quiz-12",
+      "question": "What material did ancient Egyptians use to make paper-like writing surfaces?",
+      "options": [
+        "Parchment",
+        "Bamboo",
+        "Papyrus",
+        "Clay"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-egypt-quiz-13",
+      "question": "Which Egyptian god had the head of a jackal and was associated with mummification?",
+      "options": [
+        "Horus",
+        "Osiris",
+        "Anubis",
+        "Thoth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-egypt-quiz-14",
+      "question": "Hatshepsut was notable in Egyptian history because she was one of the few female what?",
+      "options": [
+        "Scribes",
+        "Priests",
+        "Pharaohs",
+        "Architects"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-egypt-quiz-15",
+      "question": "What were canopic jars used for in ancient Egypt?",
+      "options": [
+        "Storing grain offerings",
+        "Storing wine",
+        "Holding preserved organs of the deceased",
+        "Carrying sacred water"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

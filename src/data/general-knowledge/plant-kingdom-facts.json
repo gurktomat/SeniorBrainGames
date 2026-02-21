@@ -8,8 +8,13 @@
     {
       "id": "plant-kingdom-facts-1",
       "question": "What is the tallest species of tree in the world?",
-      "options": ["Giant sequoia", "Coast redwood", "Douglas fir", "Sitka spruce"],
-      "correctAnswer": 1,
+      "options": [
+        "Douglas fir",
+        "Giant sequoia",
+        "Sitka spruce",
+        "Coast redwood"
+      ],
+      "correctAnswer": 3,
       "explanation": "Coast redwoods (Sequoia sempervirens) are the tallest trees on Earth. The tallest known specimen, named Hyperion, stands at over 380 feet (116 meters) in California.",
       "difficulty": "medium",
       "category": "botany"
@@ -17,8 +22,13 @@
     {
       "id": "plant-kingdom-facts-2",
       "question": "Which plant is known for having the largest flower in the world?",
-      "options": ["Titan arum", "Rafflesia arnoldii", "Sunflower", "Victoria water lily"],
-      "correctAnswer": 1,
+      "options": [
+        "Rafflesia arnoldii",
+        "Titan arum",
+        "Sunflower",
+        "Victoria water lily"
+      ],
+      "correctAnswer": 0,
       "explanation": "Rafflesia arnoldii produces the largest individual flower, measuring up to 3 feet (1 meter) across and weighing up to 24 pounds. It is found in the rainforests of Southeast Asia.",
       "difficulty": "medium",
       "category": "botany"
@@ -26,8 +36,13 @@
     {
       "id": "plant-kingdom-facts-3",
       "question": "Approximately how old is the oldest known living tree, a bristlecone pine named Methuselah?",
-      "options": ["About 2,000 years", "About 3,000 years", "About 4,850 years", "About 6,000 years"],
-      "correctAnswer": 2,
+      "options": [
+        "About 6,000 years",
+        "About 4,850 years",
+        "About 3,000 years",
+        "About 2,000 years"
+      ],
+      "correctAnswer": 1,
       "explanation": "Methuselah, a Great Basin bristlecone pine in California's White Mountains, is approximately 4,850 years old, making it one of the oldest known living organisms on Earth.",
       "difficulty": "hard",
       "category": "botany"
@@ -35,8 +50,13 @@
     {
       "id": "plant-kingdom-facts-4",
       "question": "What gas do plants primarily absorb from the atmosphere during photosynthesis?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-      "correctAnswer": 2,
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": 3,
       "explanation": "Plants absorb carbon dioxide (CO2) from the atmosphere during photosynthesis. They use sunlight energy to convert CO2 and water into glucose and oxygen.",
       "difficulty": "easy",
       "category": "botany"
@@ -44,8 +64,13 @@
     {
       "id": "plant-kingdom-facts-5",
       "question": "Which tree produces acorns?",
-      "options": ["Maple", "Birch", "Oak", "Elm"],
-      "correctAnswer": 2,
+      "options": [
+        "Oak",
+        "Maple",
+        "Birch",
+        "Elm"
+      ],
+      "correctAnswer": 0,
       "explanation": "Oak trees produce acorns. A single mature oak tree can produce tens of thousands of acorns in a good year, though only about one in 10,000 will grow into a new tree.",
       "difficulty": "easy",
       "category": "botany"
@@ -53,7 +78,12 @@
     {
       "id": "plant-kingdom-facts-6",
       "question": "What is the fastest-growing plant on Earth?",
-      "options": ["Kudzu", "Bamboo", "Duckweed", "Giant kelp"],
+      "options": [
+        "Kudzu",
+        "Bamboo",
+        "Duckweed",
+        "Giant kelp"
+      ],
       "correctAnswer": 1,
       "explanation": "Bamboo is the fastest-growing plant on Earth. Some species can grow up to 35 inches (91 cm) per day under optimal conditions, which is nearly 1.5 inches per hour.",
       "difficulty": "easy",
@@ -62,8 +92,13 @@
     {
       "id": "plant-kingdom-facts-7",
       "question": "Which pigment gives most plants their green color?",
-      "options": ["Carotenoid", "Anthocyanin", "Chlorophyll", "Xanthophyll"],
-      "correctAnswer": 2,
+      "options": [
+        "Xanthophyll",
+        "Carotenoid",
+        "Anthocyanin",
+        "Chlorophyll"
+      ],
+      "correctAnswer": 3,
       "explanation": "Chlorophyll is the green pigment in plants that absorbs light energy for photosynthesis. It absorbs red and blue light but reflects green light, giving plants their characteristic color.",
       "difficulty": "easy",
       "category": "botany"
@@ -71,8 +106,13 @@
     {
       "id": "plant-kingdom-facts-8",
       "question": "The Venus flytrap is native to which region?",
-      "options": ["Amazon rainforest", "Southeast Asia", "Coastal Carolinas, USA", "Central Africa"],
-      "correctAnswer": 2,
+      "options": [
+        "Southeast Asia",
+        "Amazon rainforest",
+        "Central Africa",
+        "Coastal Carolinas, USA"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Venus flytrap is native only to a small area within a 75-mile radius around Wilmington, North Carolina, in the coastal Carolinas of the United States.",
       "difficulty": "medium",
       "category": "botany"
@@ -80,8 +120,13 @@
     {
       "id": "plant-kingdom-facts-9",
       "question": "What is the world's largest living organism by area?",
-      "options": ["A blue whale", "A giant sequoia tree", "A honey fungus colony", "A grove of aspen trees"],
-      "correctAnswer": 3,
+      "options": [
+        "A grove of aspen trees",
+        "A giant sequoia tree",
+        "A blue whale",
+        "A honey fungus colony"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pando, a grove of quaking aspen trees in Utah, is considered the world's largest living organism by mass and area. It is a single clonal colony connected by one massive root system, spanning about 106 acres.",
       "difficulty": "hard",
       "category": "botany"
@@ -89,8 +134,13 @@
     {
       "id": "plant-kingdom-facts-10",
       "question": "Which spice comes from the bark of a tree?",
-      "options": ["Black pepper", "Cinnamon", "Turmeric", "Cardamom"],
-      "correctAnswer": 1,
+      "options": [
+        "Turmeric",
+        "Cardamom",
+        "Black pepper",
+        "Cinnamon"
+      ],
+      "correctAnswer": 3,
       "explanation": "Cinnamon comes from the inner bark of trees in the genus Cinnamomum. The bark is dried and rolled into the familiar cinnamon sticks, or ground into powder.",
       "difficulty": "easy",
       "category": "botany"
@@ -98,8 +148,13 @@
     {
       "id": "plant-kingdom-facts-11",
       "question": "How do trees in a forest communicate with each other?",
-      "options": ["Through sound vibrations", "Through underground fungal networks", "Through airborne pollen", "Through root contact only"],
-      "correctAnswer": 1,
+      "options": [
+        "Through root contact only",
+        "Through sound vibrations",
+        "Through airborne pollen",
+        "Through underground fungal networks"
+      ],
+      "correctAnswer": 3,
       "explanation": "Trees communicate through underground fungal networks often called the 'Wood Wide Web.' Mycorrhizal fungi connect tree roots, allowing them to share nutrients, water, and chemical warning signals.",
       "difficulty": "medium",
       "category": "botany"
@@ -107,7 +162,12 @@
     {
       "id": "plant-kingdom-facts-12",
       "question": "What type of plant is saffron, the world's most expensive spice, derived from?",
-      "options": ["A rose", "A crocus", "An orchid", "A lily"],
+      "options": [
+        "An orchid",
+        "A crocus",
+        "A rose",
+        "A lily"
+      ],
       "correctAnswer": 1,
       "explanation": "Saffron comes from the stigmas of the Crocus sativus flower. Each flower produces only three stigmas, and it takes about 75,000 flowers to produce one pound of saffron.",
       "difficulty": "medium",
@@ -116,8 +176,13 @@
     {
       "id": "plant-kingdom-facts-13",
       "question": "Which fruit was the first to be grown on the International Space Station?",
-      "options": ["Strawberry", "Tomato", "Red romaine lettuce", "Zinnia flower"],
-      "correctAnswer": 2,
+      "options": [
+        "Strawberry",
+        "Red romaine lettuce",
+        "Zinnia flower",
+        "Tomato"
+      ],
+      "correctAnswer": 1,
       "explanation": "Red romaine lettuce was the first food crop successfully grown and eaten in space aboard the International Space Station in 2015 as part of NASA's Veggie experiment.",
       "difficulty": "hard",
       "category": "botany"
@@ -125,8 +190,13 @@
     {
       "id": "plant-kingdom-facts-14",
       "question": "What is the primary reason leaves change color in autumn?",
-      "options": ["Cold temperatures kill the leaves", "Trees absorb the green pigment back", "Chlorophyll breaks down, revealing other pigments", "Leaves produce new red and orange pigments only"],
-      "correctAnswer": 2,
+      "options": [
+        "Chlorophyll breaks down, revealing other pigments",
+        "Leaves produce new red and orange pigments only",
+        "Cold temperatures kill the leaves",
+        "Trees absorb the green pigment back"
+      ],
+      "correctAnswer": 0,
       "explanation": "In autumn, trees stop producing chlorophyll, which breaks down and fades away. This reveals yellow and orange pigments (carotenoids) that were always present but masked by the green chlorophyll.",
       "difficulty": "medium",
       "category": "botany"
@@ -134,8 +204,13 @@
     {
       "id": "plant-kingdom-facts-15",
       "question": "Which common houseplant is known for being nearly impossible to kill and can survive weeks without water?",
-      "options": ["Boston fern", "Snake plant", "African violet", "Peace lily"],
-      "correctAnswer": 1,
+      "options": [
+        "Peace lily",
+        "African violet",
+        "Boston fern",
+        "Snake plant"
+      ],
+      "correctAnswer": 3,
       "explanation": "The snake plant (Sansevieria) is extremely resilient and can survive weeks without water. It stores water in its thick leaves and can tolerate low light, neglect, and a wide range of temperatures.",
       "difficulty": "easy",
       "category": "botany"

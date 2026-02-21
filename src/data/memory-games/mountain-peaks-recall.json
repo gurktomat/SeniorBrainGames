@@ -1,0 +1,173 @@
+{
+  "id": "mountain-peaks-recall",
+  "title": "Mountain Peaks Recall",
+  "description": "Scale the heights of your geographic knowledge with questions about the world's most famous mountain peaks.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "mountain-peaks-recall-1",
+      "question": "Mount Everest, the tallest mountain on Earth, sits on the border of Nepal and which other region?",
+      "options": [
+        "Tibet (China)",
+        "Pakistan",
+        "Bhutan",
+        "India"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mountain-peaks-recall-2",
+      "question": "K2, the second-highest mountain in the world, is located in which mountain range?",
+      "options": [
+        "Himalayas",
+        "Karakoram",
+        "Hindu Kush",
+        "Andes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mountain-peaks-recall-3",
+      "question": "The Matterhorn, one of the most recognizable peaks in the Alps, straddles the border of Switzerland and which country?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Austria",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mountain-peaks-recall-4",
+      "question": "Mount Fuji, Japan's tallest peak and a sacred symbol, is classified as what type of geological feature?",
+      "options": [
+        "A shield volcano",
+        "A dormant caldera",
+        "An extinct cinder cone",
+        "An active stratovolcano"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mountain-peaks-recall-5",
+      "question": "Denali, the highest peak in North America, is located in which US state?",
+      "options": [
+        "Colorado",
+        "Washington",
+        "Montana",
+        "Alaska"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mountain-peaks-recall-6",
+      "question": "Aconcagua, the highest peak in both the Western and Southern Hemispheres, is located in which country?",
+      "options": [
+        "Bolivia",
+        "Argentina",
+        "Peru",
+        "Chile"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mountain-peaks-recall-7",
+      "question": "Mont Blanc, the highest peak in the Alps, is located on the border of France and which country?",
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Germany",
+        "Austria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mountain-peaks-recall-8",
+      "question": "Mount Elbrus, the highest peak in Europe, is located in which mountain range?",
+      "options": [
+        "Carpathians",
+        "Caucasus Mountains",
+        "Ural Mountains",
+        "Alps"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mountain-peaks-recall-9",
+      "question": "Table Mountain in Cape Town is famous for the frequent cloud formation that covers its top, known as what?",
+      "options": [
+        "The Veil",
+        "The Tablecloth",
+        "The Blanket",
+        "The Cap"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mountain-peaks-recall-10",
+      "question": "Mount Olympus, the mythological home of the Greek gods, is the highest mountain in which modern country?",
+      "options": [
+        "Greece",
+        "Albania",
+        "Cyprus",
+        "Turkey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mountain-peaks-recall-11",
+      "question": "Annapurna in Nepal holds the distinction of being the mountain with the highest what among the 8,000-meter peaks?",
+      "options": [
+        "Fatality rate",
+        "Avalanche rate",
+        "Snow depth",
+        "Number of ascents"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mountain-peaks-recall-12",
+      "question": "Mount Rainier, a massive stratovolcano visible from Seattle, is located in which US state?",
+      "options": [
+        "Montana",
+        "Oregon",
+        "Washington",
+        "California"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mountain-peaks-recall-13",
+      "question": "Mauna Kea in Hawaii, when measured from its base on the ocean floor, is taller than Mount Everest. How tall is it from base to summit?",
+      "options": [
+        "About 9,000 meters",
+        "About 8,000 meters",
+        "About 11,000 meters",
+        "About 10,000 meters"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mountain-peaks-recall-14",
+      "question": "The Eiger, famous for its treacherous North Face, is located in which European country?",
+      "options": [
+        "France",
+        "Austria",
+        "Italy",
+        "Switzerland"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mountain-peaks-recall-15",
+      "question": "Chimborazo in Ecuador holds what unique geographic distinction, despite not being the tallest by elevation?",
+      "options": [
+        "Closest point to the sun",
+        "Most isolated",
+        "Most volcanic",
+        "Steepest slope"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

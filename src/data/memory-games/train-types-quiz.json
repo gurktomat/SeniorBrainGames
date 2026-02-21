@@ -1,0 +1,173 @@
+{
+  "id": "train-types-quiz",
+  "title": "Train Types Quiz",
+  "description": "Put your knowledge of trains and rail travel to the test with these recall questions",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "train-types-quiz-1",
+      "question": "The Shinkansen, or 'bullet train,' was first introduced in which country?",
+      "options": [
+        "China",
+        "Germany",
+        "France",
+        "Japan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "train-types-quiz-2",
+      "question": "What is a 'maglev' train?",
+      "options": [
+        "A very long freight train",
+        "A train that runs on magnolia oil",
+        "A miniature leisure train",
+        "A train powered by magnets that levitates above the track"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "train-types-quiz-3",
+      "question": "The Orient Express originally ran between Paris and which city?",
+      "options": [
+        "Vienna",
+        "Istanbul",
+        "Rome",
+        "Moscow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "train-types-quiz-4",
+      "question": "What fuel did the earliest steam locomotives burn to generate power?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Diesel",
+        "Gasoline"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "train-types-quiz-5",
+      "question": "The TGV high-speed rail system operates in which country?",
+      "options": [
+        "Spain",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "train-types-quiz-6",
+      "question": "What is the name for a railway system that uses a single rail as its track?",
+      "options": [
+        "Trolley",
+        "Duorail",
+        "Light rail",
+        "Monorail"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "train-types-quiz-7",
+      "question": "George Stephenson's 'Rocket' was a pioneering example of what type of vehicle?",
+      "options": [
+        "Steam locomotive",
+        "Electric train",
+        "Diesel train",
+        "Horse-drawn tram"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "train-types-quiz-8",
+      "question": "The Trans-Siberian Railway connects Moscow to which city?",
+      "options": [
+        "Tokyo",
+        "Novosibirsk",
+        "Vladivostok",
+        "Beijing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "train-types-quiz-9",
+      "question": "What type of train uses overhead electric wires called 'catenary' for power?",
+      "options": [
+        "Maglev train",
+        "Diesel locomotive",
+        "Steam locomotive",
+        "Electric locomotive"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "train-types-quiz-10",
+      "question": "A 'funicular' is a type of railway designed for what purpose?",
+      "options": [
+        "Underground transit",
+        "High-speed travel",
+        "Climbing steep slopes",
+        "Carrying freight"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "train-types-quiz-11",
+      "question": "The Eurostar train travels through the Channel Tunnel connecting which two countries?",
+      "options": [
+        "France and Belgium",
+        "England and Ireland",
+        "France and Spain",
+        "England and France"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "train-types-quiz-12",
+      "question": "What is the term for the last car on a traditional freight train, often painted red?",
+      "options": [
+        "Caboose",
+        "Gondola",
+        "Tender",
+        "Boxcar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "train-types-quiz-13",
+      "question": "The Indian Pacific railway crosses which country from coast to coast?",
+      "options": [
+        "India",
+        "Australia",
+        "United States",
+        "Canada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "train-types-quiz-14",
+      "question": "A 'diesel-electric' locomotive generates electricity using what primary power source?",
+      "options": [
+        "Solar panels",
+        "A diesel engine",
+        "Battery packs",
+        "Overhead wires"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "train-types-quiz-15",
+      "question": "The Glacier Express is a famous scenic train route in which country?",
+      "options": [
+        "Austria",
+        "Norway",
+        "Canada",
+        "Switzerland"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

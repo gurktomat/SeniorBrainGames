@@ -1,28 +1,28 @@
 {
   "id": "ocean-vocabulary",
   "title": "Ocean Vocabulary",
-  "description": "Dive into marine and ocean-related terms \u2014 from 'archipelago' to 'bioluminescence' and beyond!",
+  "description": "Dive into marine and ocean-related terms — from 'archipelago' to 'bioluminescence' and beyond!",
   "gameCategory": "word-games",
   "questions": [
     {
       "id": "ocean-vocabulary-1",
       "question": "What is an 'archipelago'?",
       "options": [
+        "An underwater volcano",
         "A large whale",
         "A chain or group of islands",
-        "An underwater volcano",
         "A type of coral"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "ocean-vocabulary-2",
       "question": "What does 'bioluminescence' refer to in the ocean?",
       "options": [
-        "Sunlight reflecting off water",
+        "Moonlight on the waves",
         "The production of light by living organisms",
-        "The color of deep water",
-        "Moonlight on the waves"
+        "Sunlight reflecting off water",
+        "The color of deep water"
       ],
       "correctAnswer": 1
     },
@@ -41,45 +41,45 @@
       "id": "ocean-vocabulary-4",
       "question": "What does 'tidal bore' mean?",
       "options": [
-        "A boring day at the beach",
         "A strong wave that travels up a river caused by incoming tide",
         "A hole in the ocean floor",
+        "A boring day at the beach",
         "A type of marine drill"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "ocean-vocabulary-5",
       "question": "What is a 'reef'?",
       "options": [
-        "A type of seaweed",
         "A ridge of rock, coral, or sand at or near the surface of water",
-        "A deep ocean trench",
-        "A fishing technique"
+        "A fishing technique",
+        "A type of seaweed",
+        "A deep ocean trench"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "ocean-vocabulary-6",
       "question": "What does 'pelagic' mean?",
       "options": [
-        "Relating to the shore",
         "Relating to the open sea, away from the coast or bottom",
-        "Relating to frozen water",
-        "Relating to freshwater lakes"
+        "Relating to freshwater lakes",
+        "Relating to the shore",
+        "Relating to frozen water"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "ocean-vocabulary-7",
       "question": "What is a 'tsunami'?",
       "options": [
-        "A type of fish",
-        "An extremely large ocean wave usually caused by an underwater earthquake",
         "A gentle ocean breeze",
-        "A tropical rainstorm"
+        "A type of fish",
+        "A tropical rainstorm",
+        "An extremely large ocean wave usually caused by an underwater earthquake"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "ocean-vocabulary-8",
@@ -87,8 +87,8 @@
       "options": [
         "Crystal clear",
         "Slightly salty, a mix of fresh and salt water",
-        "Extremely deep",
-        "Frozen solid"
+        "Frozen solid",
+        "Extremely deep"
       ],
       "correctAnswer": 1
     },
@@ -96,10 +96,10 @@
       "id": "ocean-vocabulary-9",
       "question": "What is a 'continental shelf'?",
       "options": [
-        "A bookshelf about geography",
+        "A museum display",
         "The shallow underwater extension of a continent before the ocean floor drops steeply",
         "The edge of a tectonic plate",
-        "A museum display"
+        "A bookshelf about geography"
       ],
       "correctAnswer": 1
     },
@@ -108,31 +108,31 @@
       "question": "What does 'estuary' refer to?",
       "options": [
         "A type of sea creature",
-        "The area where a river meets the sea and freshwater mixes with saltwater",
+        "A seaside resort",
         "An underwater cave",
-        "A seaside resort"
+        "The area where a river meets the sea and freshwater mixes with saltwater"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "ocean-vocabulary-11",
       "question": "What is 'plankton'?",
       "options": [
+        "A type of anchor",
         "Wooden boards on a ship",
         "Tiny organisms that drift in water and form the base of the ocean food chain",
-        "A type of anchor",
         "Sand on the ocean floor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "ocean-vocabulary-12",
       "question": "What does 'maritime' mean?",
       "options": [
-        "Related to marriage",
+        "Related to the military",
         "Connected with the sea, especially in relation to navigation or commerce",
-        "A type of weather pattern",
-        "Related to the military"
+        "Related to marriage",
+        "A type of weather pattern"
       ],
       "correctAnswer": 1
     },
@@ -140,9 +140,9 @@
       "id": "ocean-vocabulary-13",
       "question": "What is an 'atoll'?",
       "options": [
-        "A toll bridge over water",
-        "A ring-shaped coral reef enclosing a lagoon",
         "A deep-sea fish",
+        "A ring-shaped coral reef enclosing a lagoon",
+        "A toll bridge over water",
         "A type of lighthouse"
       ],
       "correctAnswer": 1
@@ -152,22 +152,22 @@
       "question": "What does 'neap tide' refer to?",
       "options": [
         "A tide that only happens at night",
-        "A tide with the smallest difference between high and low water",
         "A very strong tide",
-        "A tide caused by a storm"
+        "A tide caused by a storm",
+        "A tide with the smallest difference between high and low water"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "ocean-vocabulary-15",
       "question": "What is the 'abyssal zone' of the ocean?",
       "options": [
-        "The surface layer",
-        "The very deep zone of the ocean, typically below 4,000 meters",
         "The tidal zone",
-        "The warmest part of the ocean"
+        "The surface layer",
+        "The warmest part of the ocean",
+        "The very deep zone of the ocean, typically below 4,000 meters"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

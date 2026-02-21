@@ -7,92 +7,167 @@
     {
       "id": "retro-drive-in-restaurants-1",
       "question": "What were the servers called who brought food to customers' cars at drive-in restaurants?",
-      "options": ["Car servers", "Carhops", "Drive-up waiters", "Curb servers"],
+      "options": [
+        "Car servers",
+        "Carhops",
+        "Curb servers",
+        "Drive-up waiters"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-2",
       "question": "Which drive-in restaurant chain, founded in Oklahoma City in 1953, is known for its slushes and carhops on roller skates?",
-      "options": ["A&W", "Steak 'n Shake", "Sonic Drive-In", "Dog n Suds"],
+      "options": [
+        "Steak 'n Shake",
+        "A&W",
+        "Sonic Drive-In",
+        "Dog n Suds"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-restaurants-3",
       "question": "What type of tray was typically attached to a car's window or door to hold food at a drive-in restaurant?",
-      "options": ["Dashboard tray", "Window tray", "Car hop tray", "Steering wheel tray"],
-      "correctAnswer": 1
+      "options": [
+        "Steering wheel tray",
+        "Car hop tray",
+        "Window tray",
+        "Dashboard tray"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-restaurants-4",
       "question": "Which root beer brand started as a roadside root beer stand in 1919 and grew into a chain of drive-in restaurants?",
-      "options": ["Barq's", "Hires", "A&W", "Mug"],
-      "correctAnswer": 2
+      "options": [
+        "Hires",
+        "A&W",
+        "Barq's",
+        "Mug"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-5",
       "question": "In the classic 1973 film 'American Graffiti,' directed by George Lucas, what drive-in restaurant is featured as a hangout?",
-      "options": ["Bob's Big Boy", "Mel's Drive-In", "Arnold's Drive-In", "Pop's Chock'lit Shoppe"],
-      "correctAnswer": 1
+      "options": [
+        "Pop's Chock'lit Shoppe",
+        "Bob's Big Boy",
+        "Arnold's Drive-In",
+        "Mel's Drive-In"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-restaurants-6",
       "question": "What decade saw the peak popularity of drive-in restaurants across America?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "options": [
+        "1970s",
+        "1950s",
+        "1960s",
+        "1940s"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-7",
       "question": "What was the name of the fictional drive-in restaurant in the TV show 'Happy Days'?",
-      "options": ["Pop's Diner", "Arnold's Drive-In", "Al's Diner", "Mel's Diner"],
-      "correctAnswer": 1
+      "options": [
+        "Al's Diner",
+        "Mel's Diner",
+        "Arnold's Drive-In",
+        "Pop's Diner"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-restaurants-8",
       "question": "Which fast food chain started as a drive-in restaurant in San Bernardino, California, before being transformed by Ray Kroc?",
-      "options": ["Burger King", "Wendy's", "McDonald's", "Jack in the Box"],
+      "options": [
+        "Jack in the Box",
+        "Wendy's",
+        "McDonald's",
+        "Burger King"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-restaurants-9",
       "question": "What was the typical way customers at drive-in restaurants signaled they were ready to order?",
-      "options": ["Honking their horn", "Flashing their headlights", "Using a speaker or menu board intercom", "Waving a flag"],
+      "options": [
+        "Honking their horn",
+        "Flashing their headlights",
+        "Waving a flag",
+        "Using a speaker or menu board intercom"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-10",
       "question": "Which California drive-in chain, featuring a boy in checkered overalls as its mascot, was famous for its double-decker hamburger?",
-      "options": ["In-N-Out Burger", "Bob's Big Boy", "Jack in the Box", "Carl's Jr."],
-      "correctAnswer": 1
+      "options": [
+        "Bob's Big Boy",
+        "Jack in the Box",
+        "In-N-Out Burger",
+        "Carl's Jr."
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-drive-in-restaurants-11",
       "question": "What frothy beverage, served in a frosted glass mug, was the signature drink at many drive-in root beer stands?",
-      "options": ["Milkshake", "Root beer float", "Frosted root beer", "Ice cream soda"],
-      "correctAnswer": 2
+      "options": [
+        "Milkshake",
+        "Ice cream soda",
+        "Root beer float",
+        "Frosted root beer"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-restaurants-12",
       "question": "Some carhops at 1950s drive-in restaurants wore what on their feet to speed up service?",
-      "options": ["Running shoes", "Roller skates", "Platform shoes", "Cowboy boots"],
+      "options": [
+        "Platform shoes",
+        "Roller skates",
+        "Running shoes",
+        "Cowboy boots"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-13",
       "question": "What style of architecture, featuring dramatic angles and neon signs, was common at drive-in restaurants of the 1950s and 1960s?",
-      "options": ["Art Deco", "Googie architecture", "Bauhaus", "Mid-century modern"],
-      "correctAnswer": 1
+      "options": [
+        "Art Deco",
+        "Bauhaus",
+        "Googie architecture",
+        "Mid-century modern"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-restaurants-14",
       "question": "What classic side dish, served in a paper-lined basket or cardboard container, was a drive-in restaurant staple?",
-      "options": ["Onion rings", "French fries", "Coleslaw", "Tater tots"],
+      "options": [
+        "Tater tots",
+        "French fries",
+        "Coleslaw",
+        "Onion rings"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-drive-in-restaurants-15",
       "question": "What major development in the fast food industry during the 1960s and 1970s contributed to the decline of traditional drive-in restaurants?",
-      "options": ["Health food trends", "Drive-through windows", "Home delivery services", "Food trucks"],
-      "correctAnswer": 1
+      "options": [
+        "Drive-through windows",
+        "Health food trends",
+        "Food trucks",
+        "Home delivery services"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

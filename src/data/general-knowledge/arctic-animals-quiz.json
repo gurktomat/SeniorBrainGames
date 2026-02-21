@@ -1,0 +1,173 @@
+{
+  "id": "arctic-animals-quiz",
+  "title": "Arctic Animals",
+  "description": "Discover the hardy creatures that survive and thrive in the frozen landscapes of the Arctic.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "arctic-animals-quiz-1",
+      "question": "Which Arctic animal is the largest land predator?",
+      "options": [
+        "Arctic wolf",
+        "Wolverine",
+        "Musk ox",
+        "Polar bear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-quiz-2",
+      "question": "What color does the Arctic fox's fur turn in winter?",
+      "options": [
+        "White",
+        "Brown",
+        "Gray",
+        "Black"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-quiz-3",
+      "question": "The narwhal is known for its long tusk, which is actually what?",
+      "options": [
+        "A horn",
+        "A modified tooth",
+        "A piece of cartilage",
+        "A bone growth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-4",
+      "question": "Which Arctic bird is known for its colorful beak and lives in large colonies on cliffs?",
+      "options": [
+        "Arctic tern",
+        "Guillemot",
+        "Puffin",
+        "Snowy owl"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "arctic-animals-quiz-5",
+      "question": "What adaptation helps polar bears stay warm in freezing temperatures?",
+      "options": [
+        "Hot blood circulation",
+        "Feathers under their fur",
+        "Ability to hibernate all winter",
+        "Thick layer of blubber and hollow fur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-quiz-6",
+      "question": "The musk ox survives Arctic winters thanks to which feature?",
+      "options": [
+        "Extremely thick underfur called qiviut",
+        "Migrating south",
+        "Hibernation",
+        "Ability to burrow underground"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "arctic-animals-quiz-7",
+      "question": "Which marine mammal with large tusks is commonly found in the Arctic?",
+      "options": [
+        "Manatee",
+        "Walrus",
+        "Elephant seal",
+        "Sea lion"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-8",
+      "question": "Caribou and reindeer are actually the same species. What is their scientific name?",
+      "options": [
+        "Cervus canadensis",
+        "Odocoileus virginianus",
+        "Alces alces",
+        "Rangifer tarandus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-quiz-9",
+      "question": "The snowy owl is primarily active during what time of day?",
+      "options": [
+        "Nighttime only",
+        "Daytime",
+        "It varies by season",
+        "Dawn and dusk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-10",
+      "question": "Which small Arctic mammal is known for its population boom-and-bust cycles?",
+      "options": [
+        "Pika",
+        "Lemming",
+        "Arctic hare",
+        "Ermine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-11",
+      "question": "Beluga whales are known for their distinctive color. What color are adult belugas?",
+      "options": [
+        "Black",
+        "Blue",
+        "Gray",
+        "White"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-quiz-12",
+      "question": "What do polar bears primarily hunt for food?",
+      "options": [
+        "Walruses",
+        "Birds",
+        "Fish",
+        "Seals"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "arctic-animals-quiz-13",
+      "question": "The Arctic hare can run at speeds up to how many miles per hour?",
+      "options": [
+        "50 mph",
+        "40 mph",
+        "20 mph",
+        "30 mph"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-14",
+      "question": "Which Arctic whale species can live for over 200 years, making it one of the longest-lived mammals?",
+      "options": [
+        "Blue whale",
+        "Bowhead whale",
+        "Narwhal",
+        "Beluga whale"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "arctic-animals-quiz-15",
+      "question": "What is the main threat to Arctic animal populations today?",
+      "options": [
+        "Climate change and melting sea ice",
+        "Overhunting",
+        "Invasive species",
+        "Volcanic activity"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

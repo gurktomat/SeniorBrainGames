@@ -7,91 +7,166 @@
     {
       "id": "southern-expressions-1",
       "question": "What does the Southern expression 'fixin' to' mean?",
-      "options": ["Repairing something", "About to do something", "Preparing food", "Fixing a mistake"],
-      "correctAnswer": 1
+      "options": [
+        "Repairing something",
+        "Fixing a mistake",
+        "Preparing food",
+        "About to do something"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-2",
       "question": "If a Southerner says 'bless your heart,' what do they often really mean?",
-      "options": ["A sincere blessing", "A polite way of expressing pity or mild criticism", "A medical concern", "A prayer for good health"],
-      "correctAnswer": 1
+      "options": [
+        "A sincere blessing",
+        "A medical concern",
+        "A polite way of expressing pity or mild criticism",
+        "A prayer for good health"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "southern-expressions-3",
       "question": "What does 'over yonder' mean in Southern speech?",
-      "options": ["In the past", "Over there, in that direction", "Upstairs", "In the next town"],
-      "correctAnswer": 1
+      "options": [
+        "Over there, in that direction",
+        "In the next town",
+        "In the past",
+        "Upstairs"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "southern-expressions-4",
       "question": "If someone in the South says 'I'm madder than a wet hen,' what do they mean?",
-      "options": ["They're very cold", "They're extremely angry", "They're soaking wet", "They're raising chickens"],
+      "options": [
+        "They're very cold",
+        "They're extremely angry",
+        "They're soaking wet",
+        "They're raising chickens"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "southern-expressions-5",
       "question": "What does the expression 'cattywampus' mean?",
-      "options": ["A wild cat", "Crooked or askew", "A type of dance", "Very tired"],
-      "correctAnswer": 1
+      "options": [
+        "A wild cat",
+        "Very tired",
+        "Crooked or askew",
+        "A type of dance"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "southern-expressions-6",
       "question": "In the South, what does 'might could' mean?",
-      "options": ["Definitely will", "Might be able to", "Could never", "Should always"],
-      "correctAnswer": 1
+      "options": [
+        "Could never",
+        "Should always",
+        "Definitely will",
+        "Might be able to"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-7",
       "question": "What does 'hush your mouth' mean in Southern English?",
-      "options": ["Eat something", "Be quiet / I can't believe it", "Go to sleep", "Brush your teeth"],
-      "correctAnswer": 1
+      "options": [
+        "Go to sleep",
+        "Brush your teeth",
+        "Eat something",
+        "Be quiet / I can't believe it"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-8",
       "question": "If a Southerner says they're 'knee-high to a grasshopper,' what do they mean?",
-      "options": ["They're in a field", "They were very young or very small", "They're extremely tall", "They're gardening"],
-      "correctAnswer": 1
+      "options": [
+        "They're extremely tall",
+        "They're gardening",
+        "They're in a field",
+        "They were very young or very small"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-9",
       "question": "What does 'pitch a fit' mean in Southern slang?",
-      "options": ["Set up a tent", "Throw a tantrum", "Play baseball", "Start a fire"],
-      "correctAnswer": 1
+      "options": [
+        "Set up a tent",
+        "Play baseball",
+        "Start a fire",
+        "Throw a tantrum"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-10",
       "question": "In the South, what does 'ugly as homemade sin' mean?",
-      "options": ["A religious reference", "Very unattractive", "A bad cook", "A messy house"],
-      "correctAnswer": 1
+      "options": [
+        "Very unattractive",
+        "A messy house",
+        "A religious reference",
+        "A bad cook"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "southern-expressions-11",
       "question": "What does 'carry me to the store' mean in Southern dialect?",
-      "options": ["Physically carry me", "Drive or take me to the store", "Buy me groceries", "Show me where the store is"],
+      "options": [
+        "Show me where the store is",
+        "Drive or take me to the store",
+        "Physically carry me",
+        "Buy me groceries"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "southern-expressions-12",
       "question": "If someone says 'that dog won't hunt,' what are they saying?",
-      "options": ["The dog is lazy", "That idea or plan won't work", "Dogs can't hunt anymore", "They don't like dogs"],
-      "correctAnswer": 1
+      "options": [
+        "That idea or plan won't work",
+        "They don't like dogs",
+        "The dog is lazy",
+        "Dogs can't hunt anymore"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "southern-expressions-13",
       "question": "What does 'full as a tick' mean in Southern expression?",
-      "options": ["Infested with ticks", "Very full from eating", "Running out of time", "Full of energy"],
-      "correctAnswer": 1
+      "options": [
+        "Running out of time",
+        "Infested with ticks",
+        "Very full from eating",
+        "Full of energy"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "southern-expressions-14",
       "question": "In the South, what does 'sweating like a sinner in church' mean?",
-      "options": ["Being very religious", "Being extremely nervous or hot", "Having a fever", "Exercising too much"],
-      "correctAnswer": 1
+      "options": [
+        "Being very religious",
+        "Exercising too much",
+        "Having a fever",
+        "Being extremely nervous or hot"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "southern-expressions-15",
       "question": "What does the expression 'I reckon' mean in Southern speech?",
-      "options": ["I demand", "I think or I suppose", "I reject", "I remember"],
+      "options": [
+        "I remember",
+        "I think or I suppose",
+        "I demand",
+        "I reject"
+      ],
       "correctAnswer": 1
     }
   ]

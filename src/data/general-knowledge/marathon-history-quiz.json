@@ -1,0 +1,219 @@
+{
+  "id": "marathon-history-quiz",
+  "title": "Marathon History",
+  "description": "How much do you know about the history and legends of marathon running?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "marathon-history-quiz-1",
+      "question": "The marathon race commemorates the legendary run from Marathon to which ancient Greek city?",
+      "options": [
+        "Sparta",
+        "Thebes",
+        "Athens",
+        "Corinth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The marathon commemorates the legendary run of Pheidippides from the Battle of Marathon to Athens in 490 BC to announce the Greek victory over the Persians.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-2",
+      "question": "What is the official distance of a modern marathon?",
+      "options": [
+        "27 miles (43.452 km)",
+        "26 miles",
+        "25 miles (40.234 km)",
+        "26.2 miles (42.195 km)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The official marathon distance is 26 miles and 385 yards (42.195 km). This distance was standardized after the 1908 London Olympics.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-3",
+      "question": "Why was the marathon distance set at 26 miles 385 yards at the 1908 London Olympics?",
+      "options": [
+        "It was the distance from Marathon to Athens",
+        "It was a metric conversion error",
+        "It matched an ancient Greek measurement",
+        "So the race could finish in front of the Royal Box"
+      ],
+      "correctAnswer": 3,
+      "explanation": "At the 1908 London Olympics, the course was extended so the race would finish in front of the Royal Box at the Olympic stadium, making the total distance 26 miles 385 yards.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-4",
+      "question": "Who was the first person to run a marathon in under two hours in an unofficial event?",
+      "options": [
+        "Haile Gebrselassie",
+        "Dennis Kimetto",
+        "Eliud Kipchoge",
+        "Kenenisa Bekele"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eliud Kipchoge of Kenya broke the two-hour barrier in the INEOS 1:59 Challenge in Vienna in October 2019, running 1:59:40, though it was not an official world record.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-5",
+      "question": "Which marathon is the oldest annual marathon in the world?",
+      "options": [
+        "New York City Marathon",
+        "Boston Marathon",
+        "London Marathon",
+        "Berlin Marathon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Boston Marathon, first held in 1897, is the oldest annual marathon in the world. It was inspired by the marathon event at the 1896 Athens Olympics.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-6",
+      "question": "Who won the 1960 Olympic marathon while running barefoot?",
+      "options": [
+        "Abebe Bikila",
+        "Emil Zatopek",
+        "Mamo Wolde",
+        "Frank Shorter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ethiopia's Abebe Bikila won the 1960 Rome Olympic marathon running barefoot through the streets of Rome, setting a new world record of 2:15:16.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-7",
+      "question": "What are the six World Marathon Majors?",
+      "options": [
+        "Tokyo, Boston, London, Berlin, Rome, New York",
+        "Tokyo, Boston, London, Berlin, Chicago, New York",
+        "Paris, Boston, London, Berlin, Chicago, New York",
+        "Tokyo, Boston, London, Munich, Chicago, New York"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The six World Marathon Majors are Tokyo, Boston, London, Berlin, Chicago, and New York City. These are considered the most prestigious marathon races in the world.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-8",
+      "question": "Kathrine Switzer became famous for being the first woman to officially enter which marathon in 1967?",
+      "options": [
+        "Chicago Marathon",
+        "Boston Marathon",
+        "New York City Marathon",
+        "London Marathon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kathrine Switzer became the first woman to run the Boston Marathon as an officially registered entrant in 1967. Race officials tried to physically remove her from the course.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-9",
+      "question": "Which Czech runner won the Olympic marathon, 5,000m, and 10,000m all at the 1952 Helsinki Games?",
+      "options": [
+        "Lasse Viren",
+        "Ron Clarke",
+        "Vladimir Kuts",
+        "Emil Zatopek"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emil Zatopek of Czechoslovakia achieved the remarkable feat of winning the 5,000m, 10,000m, and marathon at the 1952 Helsinki Olympics, with the marathon being his first attempt at the distance.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-10",
+      "question": "What is 'hitting the wall' in marathon running?",
+      "options": [
+        "The final stretch of the race",
+        "Running into a physical barrier",
+        "Sudden onset of fatigue when glycogen is depleted",
+        "Being passed by all other runners"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Hitting the wall' refers to the sudden onset of debilitating fatigue that occurs when the body's glycogen stores become depleted, typically around mile 20 (32 km) of a marathon.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-11",
+      "question": "Which Italian collapsed on the track during the 1908 Olympic marathon and was disqualified for receiving assistance?",
+      "options": [
+        "Robert Fowler",
+        "Johnny Hayes",
+        "Dorando Pietri",
+        "Spiridon Louis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dorando Pietri of Italy collapsed multiple times near the finish and was helped across the line by officials. He was disqualified, and the gold was awarded to Johnny Hayes of the USA.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-12",
+      "question": "Which country has produced the most Olympic marathon gold medalists?",
+      "options": [
+        "Kenya",
+        "Japan",
+        "United States",
+        "Ethiopia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ethiopia has produced numerous Olympic marathon gold medalists, including Abebe Bikila (1960, 1964), Mamo Wolde (1968), and others, making it one of the dominant marathon nations.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-13",
+      "question": "What qualifying time must a male runner achieve to enter the Boston Marathon (ages 18-34)?",
+      "options": [
+        "Under 3:00:00",
+        "Under 3:30:00",
+        "Under 2:30:00",
+        "Under 4:00:00"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Male runners aged 18-34 must achieve a qualifying time of 3:00:00 or faster to enter the Boston Marathon. The Boston Marathon is one of the few major marathons that requires qualifying times.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-14",
+      "question": "Who won the first Olympic marathon at the 1896 Athens Games?",
+      "options": [
+        "Dorando Pietri",
+        "Edwin Flack",
+        "Arthur Blake",
+        "Spiridon Louis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Greek runner Spiridon Louis won the first Olympic marathon at the 1896 Athens Games, running from Marathon to Athens in approximately 2 hours and 58 minutes.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "marathon-history-quiz-15",
+      "question": "What is an ultramarathon?",
+      "options": [
+        "Any race longer than the standard marathon distance",
+        "A marathon run at high altitude",
+        "A marathon with obstacles",
+        "A marathon run at maximum speed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An ultramarathon is any running event longer than the standard marathon distance of 42.195 km. Common distances include 50 km, 100 km, 50 miles, and 100 miles.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

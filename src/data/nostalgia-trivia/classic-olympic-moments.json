@@ -8,7 +8,12 @@
     {
       "id": "com-1",
       "question": "Which American track star won four gold medals at the 1936 Berlin Olympics, embarrassing Adolf Hitler's claims of Aryan supremacy?",
-      "options": ["Ralph Metcalfe", "Jesse Owens", "Mack Robinson", "Archie Williams"],
+      "options": [
+        "Archie Williams",
+        "Jesse Owens",
+        "Mack Robinson",
+        "Ralph Metcalfe"
+      ],
       "correctAnswer": 1,
       "explanation": "Jesse Owens won gold in the 100m, 200m, long jump, and 4x100m relay at the 1936 Berlin Olympics. His victories are considered one of the greatest repudiations of Nazi racial ideology.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "com-2",
       "question": "At which Olympics did the U.S. men's hockey team achieve the 'Miracle on Ice' by defeating the Soviet Union?",
-      "options": ["1976 Innsbruck", "1980 Lake Placid", "1984 Sarajevo", "1988 Calgary"],
-      "correctAnswer": 1,
+      "options": [
+        "1984 Sarajevo",
+        "1976 Innsbruck",
+        "1988 Calgary",
+        "1980 Lake Placid"
+      ],
+      "correctAnswer": 3,
       "explanation": "The 1980 'Miracle on Ice' saw a team of young American college players defeat the heavily favored Soviet team 4-3 at the Lake Placid Winter Olympics. Al Michaels' call 'Do you believe in miracles? Yes!' became iconic.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "com-3",
       "question": "Which gymnast scored the first perfect 10 in Olympic history at the 1976 Montreal Games?",
-      "options": ["Olga Korbut", "Nadia Comaneci", "Mary Lou Retton", "Ludmilla Tourischeva"],
-      "correctAnswer": 1,
+      "options": [
+        "Olga Korbut",
+        "Mary Lou Retton",
+        "Ludmilla Tourischeva",
+        "Nadia Comaneci"
+      ],
+      "correctAnswer": 3,
       "explanation": "Nadia Comaneci of Romania scored seven perfect 10s at the 1976 Montreal Olympics at just 14 years old. The scoreboard wasn't even designed to display a 10.00, showing 1.00 instead.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "com-4",
       "question": "What controversial event occurred during the 1972 Munich Olympics men's basketball final between the USA and Soviet Union?",
-      "options": ["A player was ejected for fighting", "The clock was reset three times in the final seconds", "The game went to five overtimes", "Both teams boycotted the medal ceremony"],
-      "correctAnswer": 1,
+      "options": [
+        "The game went to five overtimes",
+        "Both teams boycotted the medal ceremony",
+        "The clock was reset three times in the final seconds",
+        "A player was ejected for fighting"
+      ],
+      "correctAnswer": 2,
       "explanation": "In one of the most controversial moments in Olympic history, officials put three seconds back on the clock multiple times, ultimately allowing the Soviet Union to score the winning basket. The U.S. team refused to accept their silver medals.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "com-5",
       "question": "Which boxer lit the Olympic cauldron at the 1996 Atlanta Games despite trembling from Parkinson's disease?",
-      "options": ["Joe Frazier", "George Foreman", "Muhammad Ali", "Sugar Ray Leonard"],
-      "correctAnswer": 2,
+      "options": [
+        "Joe Frazier",
+        "George Foreman",
+        "Sugar Ray Leonard",
+        "Muhammad Ali"
+      ],
+      "correctAnswer": 3,
       "explanation": "Muhammad Ali's lighting of the Olympic cauldron at the 1996 Atlanta Games was one of the most emotional moments in Olympic history. Despite his trembling hands from Parkinson's, he held the torch steady to light the flame.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "com-6",
       "question": "At the 1968 Mexico City Olympics, what did Tommie Smith and John Carlos do on the medal podium that became an iconic symbol of protest?",
-      "options": ["Turned their backs to the flag", "Raised black-gloved fists", "Wore protest t-shirts", "Refused to accept their medals"],
-      "correctAnswer": 1,
+      "options": [
+        "Turned their backs to the flag",
+        "Refused to accept their medals",
+        "Raised black-gloved fists",
+        "Wore protest t-shirts"
+      ],
+      "correctAnswer": 2,
       "explanation": "Tommie Smith (gold) and John Carlos (bronze) raised black-gloved fists during the national anthem in a Black Power salute. The image became one of the most powerful political statements in sports history.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "com-7",
       "question": "Which American decathlete, who won gold at the 1976 Montreal Olympics, was declared 'the world's greatest athlete'?",
-      "options": ["Rafer Johnson", "Bill Toomey", "Bob Mathias", "Bruce Jenner"],
-      "correctAnswer": 3,
+      "options": [
+        "Bill Toomey",
+        "Bruce Jenner",
+        "Bob Mathias",
+        "Rafer Johnson"
+      ],
+      "correctAnswer": 1,
       "explanation": "Bruce Jenner won the decathlon gold medal at the 1976 Montreal Olympics with a world-record score of 8,618 points. Jenner became an American cultural icon and appeared on the Wheaties box.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "com-8",
       "question": "What happened to American sprinter Mary Decker during the women's 3000m final at the 1984 Los Angeles Olympics?",
-      "options": ["She false-started and was disqualified", "She collided with Zola Budd and fell", "She broke the world record", "She was tripped by a lane judge"],
-      "correctAnswer": 1,
+      "options": [
+        "She false-started and was disqualified",
+        "She broke the world record",
+        "She collided with Zola Budd and fell",
+        "She was tripped by a lane judge"
+      ],
+      "correctAnswer": 2,
       "explanation": "In one of the most heartbreaking Olympic moments, Mary Decker collided with barefoot South African-born runner Zola Budd during the 3000m final and fell to the track, ending her Olympic dream. The incident became a defining moment of the 1984 Games.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "com-9",
       "question": "Which swimmer won seven gold medals at the 1972 Munich Olympics, setting a record that stood for 36 years?",
-      "options": ["Johnny Weissmuller", "Don Schollander", "Mark Spitz", "Matt Biondi"],
-      "correctAnswer": 2,
+      "options": [
+        "Matt Biondi",
+        "Don Schollander",
+        "Johnny Weissmuller",
+        "Mark Spitz"
+      ],
+      "correctAnswer": 3,
       "explanation": "Mark Spitz won seven gold medals at the 1972 Munich Olympics, setting world records in each event. His record stood until Michael Phelps won eight golds at the 2008 Beijing Olympics.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,7 +134,12 @@
     {
       "id": "com-10",
       "question": "At which Olympics did American Bob Beamon shatter the long jump world record by nearly two feet?",
-      "options": ["1964 Tokyo", "1968 Mexico City", "1972 Munich", "1976 Montreal"],
+      "options": [
+        "1976 Montreal",
+        "1968 Mexico City",
+        "1964 Tokyo",
+        "1972 Munich"
+      ],
       "correctAnswer": 1,
       "explanation": "Bob Beamon jumped 29 feet 2.5 inches at the 1968 Mexico City Olympics, beating the existing world record by 21.75 inches. The record stood for 23 years and is considered one of the greatest athletic achievements ever.",
       "difficulty": "hard",
@@ -98,8 +148,13 @@
     {
       "id": "com-11",
       "question": "Which country boycotted the 1980 Moscow Olympics, leading many Western nations to follow?",
-      "options": ["Great Britain", "West Germany", "United States", "France"],
-      "correctAnswer": 2,
+      "options": [
+        "United States",
+        "Great Britain",
+        "West Germany",
+        "France"
+      ],
+      "correctAnswer": 0,
       "explanation": "The United States led a boycott of the 1980 Moscow Olympics in protest of the Soviet invasion of Afghanistan. About 65 countries joined the boycott, and the Soviet Union retaliated by boycotting the 1984 Los Angeles Olympics.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "com-12",
       "question": "Which American gymnast stuck a near-perfect vault landing on an injured ankle to clinch team gold at the 1996 Atlanta Olympics?",
-      "options": ["Shannon Miller", "Dominique Dawes", "Kerri Strug", "Dominique Moceanu"],
-      "correctAnswer": 2,
+      "options": [
+        "Kerri Strug",
+        "Dominique Moceanu",
+        "Dominique Dawes",
+        "Shannon Miller"
+      ],
+      "correctAnswer": 0,
       "explanation": "Kerri Strug landed her second vault on a badly sprained ankle, scoring 9.712 to secure the first-ever team gold for the U.S. women's gymnastics team. Coach Bela Karolyi carrying her to the podium became an iconic image.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "com-13",
       "question": "At the 1960 Rome Olympics, which 18-year-old American boxer won the light heavyweight gold medal and later became one of the most famous athletes in history?",
-      "options": ["Floyd Patterson", "Joe Frazier", "Cassius Clay", "Sugar Ray Robinson"],
-      "correctAnswer": 2,
+      "options": [
+        "Floyd Patterson",
+        "Joe Frazier",
+        "Sugar Ray Robinson",
+        "Cassius Clay"
+      ],
+      "correctAnswer": 3,
       "explanation": "Cassius Clay, who later changed his name to Muhammad Ali, won the light heavyweight gold medal at the 1960 Rome Olympics at age 18. It launched the career of arguably the greatest boxer who ever lived.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "com-14",
       "question": "Which runner, despite torn ligaments, was helped across the finish line by his father at the 1992 Barcelona Olympics?",
-      "options": ["Carl Lewis", "Derek Redmond", "Michael Johnson", "Linford Christie"],
-      "correctAnswer": 1,
+      "options": [
+        "Carl Lewis",
+        "Linford Christie",
+        "Michael Johnson",
+        "Derek Redmond"
+      ],
+      "correctAnswer": 3,
       "explanation": "British sprinter Derek Redmond tore his hamstring during the 400m semi-final. His father, Jim, ran onto the track and helped him finish the race. The moment became one of the most touching in Olympic history.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "com-15",
       "question": "Which figure skater won Olympic gold in 1948 and 1952 and later starred in her own Hollywood ice shows?",
-      "options": ["Peggy Fleming", "Sonja Henie", "Dorothy Hamill", "Carol Heiss"],
-      "correctAnswer": 1,
+      "options": [
+        "Dorothy Hamill",
+        "Carol Heiss",
+        "Sonja Henie",
+        "Peggy Fleming"
+      ],
+      "correctAnswer": 2,
       "explanation": "Sonja Henie of Norway actually won three consecutive Olympic golds in 1928, 1932, and 1936 before becoming a Hollywood star. Dick Button was the American who won men's figure skating gold in both 1948 and 1952.",
       "difficulty": "hard",
       "category": "nostalgia"

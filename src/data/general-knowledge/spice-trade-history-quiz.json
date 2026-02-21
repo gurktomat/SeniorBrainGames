@@ -1,0 +1,219 @@
+{
+  "id": "spice-trade-history-quiz",
+  "title": "Spice Trade History",
+  "description": "Journey through the history of the spice trade that shaped the world!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "spice-trade-history-quiz-1",
+      "question": "Which spice was once worth more than gold by weight?",
+      "options": [
+        "Saffron",
+        "Pepper",
+        "Cloves",
+        "Cinnamon"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Saffron has historically been the world's most expensive spice by weight, sometimes exceeding the price of gold. It requires about 75,000 crocus flowers to produce one pound.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-2",
+      "question": "Which group of islands was historically known as the 'Spice Islands'?",
+      "options": [
+        "The Canary Islands",
+        "The Maluku Islands",
+        "The Philippines",
+        "The Maldives"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Maluku Islands (Moluccas) in present-day Indonesia were known as the Spice Islands because they were the original source of nutmeg, mace, and cloves.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-3",
+      "question": "Which European nation first dominated the spice trade route around Africa to Asia?",
+      "options": [
+        "Spain",
+        "Netherlands",
+        "Portugal",
+        "England"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Portugal dominated the spice trade after Vasco da Gama reached India in 1498, establishing a maritime route around the Cape of Good Hope.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-4",
+      "question": "What was Columbus actually searching for when he discovered the Americas in 1492?",
+      "options": [
+        "A western route to the Spice Islands",
+        "New farmland",
+        "Religious freedom",
+        "Gold mines"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Columbus was seeking a western sea route to Asia and the Spice Islands. Instead, he reached the Americas, which he initially believed were part of Asia.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-5",
+      "question": "Which spice was called 'black gold' in medieval Europe?",
+      "options": [
+        "Pepper",
+        "Vanilla",
+        "Cumin",
+        "Cardamom"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Black pepper was so valuable in medieval Europe that it was used as currency, and peppercorns could be used to pay rent and taxes.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-6",
+      "question": "The ancient Silk Road connected China to which region for trade, including spices?",
+      "options": [
+        "North America",
+        "The Mediterranean and Europe",
+        "Sub-Saharan Africa",
+        "Australia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Silk Road was a network of trade routes connecting China to the Mediterranean and Europe, facilitating the exchange of spices, silk, and other goods for centuries.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-7",
+      "question": "Which Dutch company monopolized the spice trade in the 17th century?",
+      "options": [
+        "Dutch East India Company (VOC)",
+        "Amsterdam Spice Guild",
+        "Dutch West India Company",
+        "Royal Dutch Trading Company"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Dutch East India Company (VOC), founded in 1602, became the most powerful trading company in history, monopolizing the spice trade from the Spice Islands.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-8",
+      "question": "Cinnamon was originally harvested from trees native to which country?",
+      "options": [
+        "Sri Lanka (Ceylon)",
+        "Indonesia",
+        "India",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "explanation": "True cinnamon (Cinnamomum verum) is native to Sri Lanka (formerly Ceylon). The island was a major source of cinnamon for thousands of years.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-9",
+      "question": "Which spice led to a territorial conflict between the Dutch and British known as the 'nutmeg wars'?",
+      "options": [
+        "Pepper",
+        "Nutmeg",
+        "Cloves",
+        "Cardamom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Dutch and British fought over the tiny nutmeg-producing Banda Islands. In 1667, the Dutch traded Manhattan to the British in exchange for control of Run Island, a nutmeg source.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-10",
+      "question": "Which ancient civilization used spices extensively in their mummification process?",
+      "options": [
+        "Greeks",
+        "Egyptians",
+        "Romans",
+        "Persians"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ancient Egyptians used cinnamon, cassia, and other spices in their mummification process, as well as for perfumes and medicines.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-11",
+      "question": "Vanilla is native to which part of the world?",
+      "options": [
+        "Madagascar",
+        "Mexico and Central America",
+        "Polynesia",
+        "India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vanilla is native to Mexico and Central America. The Aztecs used it to flavor their chocolate drinks. Today, Madagascar is the largest producer.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-12",
+      "question": "Which explorer's voyage around the world proved that the Spice Islands could be reached by sailing west?",
+      "options": [
+        "James Cook",
+        "Vasco da Gama",
+        "Francis Drake",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ferdinand Magellan's expedition (1519-1522) was the first to circumnavigate the globe, proving the Spice Islands could be reached by sailing westward from Europe.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-13",
+      "question": "Which city was the main European hub for the medieval spice trade?",
+      "options": [
+        "Lisbon",
+        "Venice",
+        "London",
+        "Paris"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venice dominated the medieval European spice trade as the gateway between Eastern trade routes and Western European markets, growing extremely wealthy as a result.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-14",
+      "question": "What chili pepper did Columbus bring back from the Americas, mistakenly calling it 'pepper'?",
+      "options": [
+        "Szechuan pepper",
+        "Capsicum",
+        "Long pepper",
+        "Piper nigrum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Columbus brought back Capsicum (chili peppers) from the Americas, calling them 'peppers' because of their spicy taste, though they are unrelated to black pepper (Piper nigrum).",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "spice-trade-history-quiz-15",
+      "question": "Which spice comes from the stigma of a crocus flower and requires hand-harvesting?",
+      "options": [
+        "Turmeric",
+        "Sumac",
+        "Paprika",
+        "Saffron"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Saffron comes from the stigma of the Crocus sativus flower. Each flower produces only three stigmas, which must be hand-picked, making it the world's most labor-intensive spice.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

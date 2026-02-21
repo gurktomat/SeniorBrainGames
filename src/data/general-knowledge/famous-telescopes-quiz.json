@@ -1,0 +1,173 @@
+{
+  "id": "famous-telescopes-quiz",
+  "title": "Famous Telescopes",
+  "description": "Test your knowledge of the great telescopes that have revealed the universe to us",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-telescopes-quiz-1",
+      "question": "Which space telescope, launched in 1990, revolutionized our understanding of the universe?",
+      "options": [
+        "Spitzer Space Telescope",
+        "Kepler Space Telescope",
+        "Chandra X-ray Observatory",
+        "Hubble Space Telescope"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-telescopes-quiz-2",
+      "question": "The James Webb Space Telescope primarily observes in what part of the electromagnetic spectrum?",
+      "options": [
+        "Visible light",
+        "Infrared",
+        "Ultraviolet",
+        "X-ray"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-telescopes-quiz-3",
+      "question": "Who built one of the first astronomical telescopes and used it to discover Jupiter's moons?",
+      "options": [
+        "Isaac Newton",
+        "Copernicus",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-telescopes-quiz-4",
+      "question": "The Arecibo Observatory, which collapsed in 2020, was located in which country?",
+      "options": [
+        "Cuba",
+        "Puerto Rico",
+        "Mexico",
+        "Dominican Republic"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-telescopes-quiz-5",
+      "question": "What type of telescope did Isaac Newton invent that uses mirrors instead of lenses?",
+      "options": [
+        "Refracting telescope",
+        "Radio telescope",
+        "Reflecting telescope",
+        "Catadioptric telescope"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-telescopes-quiz-6",
+      "question": "The Very Large Array (VLA) in New Mexico consists of how many radio antennas?",
+      "options": [
+        "47",
+        "17",
+        "27",
+        "37"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-telescopes-quiz-7",
+      "question": "Which space telescope, launched in 2009, was specifically designed to find Earth-like exoplanets?",
+      "options": [
+        "Fermi",
+        "WISE",
+        "Hubble",
+        "Kepler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-telescopes-quiz-8",
+      "question": "The Keck Observatory, one of the world's largest optical telescopes, is located on which Hawaiian mountain?",
+      "options": [
+        "Kilauea",
+        "Mauna Loa",
+        "Haleakalā",
+        "Mauna Kea"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-telescopes-quiz-9",
+      "question": "What was the main flaw discovered in the Hubble Space Telescope shortly after launch?",
+      "options": [
+        "Antenna failure",
+        "Solar panel damage",
+        "Computer malfunction",
+        "A misshapen primary mirror"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-telescopes-quiz-10",
+      "question": "ALMA, one of the most powerful radio telescope arrays, is located in which country?",
+      "options": [
+        "South Africa",
+        "Chile",
+        "Australia",
+        "Spain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-telescopes-quiz-11",
+      "question": "The FAST radio telescope, the world's largest single-dish radio telescope, is located in which country?",
+      "options": [
+        "China",
+        "Russia",
+        "India",
+        "Japan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-telescopes-quiz-12",
+      "question": "Which famous observatory, built in 1675, is located in Greenwich, England?",
+      "options": [
+        "Armagh Observatory",
+        "Yerkes Observatory",
+        "Royal Observatory Greenwich",
+        "Jodrell Bank"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-telescopes-quiz-13",
+      "question": "The Chandra X-ray Observatory is named after which Nobel Prize-winning astrophysicist?",
+      "options": [
+        "Satyendra Nath Bose",
+        "C.V. Raman",
+        "Meghnad Saha",
+        "Subrahmanyan Chandrasekhar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-telescopes-quiz-14",
+      "question": "At which Lagrange point does the James Webb Space Telescope orbit?",
+      "options": [
+        "L3",
+        "L4",
+        "L2",
+        "L1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-telescopes-quiz-15",
+      "question": "The Spitzer Space Telescope, retired in 2020, observed the universe primarily in what wavelength?",
+      "options": [
+        "Infrared",
+        "Ultraviolet",
+        "Gamma ray",
+        "Microwave"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

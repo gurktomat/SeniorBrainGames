@@ -1,0 +1,173 @@
+{
+  "id": "caribbean-islands-quiz",
+  "title": "Caribbean Islands Quiz",
+  "description": "Set sail through the Caribbean and test your knowledge of its beautiful islands and nations!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "caribbean-islands-quiz-1",
+      "question": "Which is the largest island in the Caribbean?",
+      "options": [
+        "Cuba",
+        "Puerto Rico",
+        "Jamaica",
+        "Hispaniola"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-2",
+      "question": "The island of Hispaniola is shared by Haiti and which other country?",
+      "options": [
+        "Cuba",
+        "Dominican Republic",
+        "Jamaica",
+        "Puerto Rico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "caribbean-islands-quiz-3",
+      "question": "What is the capital of Jamaica?",
+      "options": [
+        "Kingston",
+        "Montego Bay",
+        "Port Antonio",
+        "Ocho Rios"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-4",
+      "question": "Which Caribbean island is known as the 'Spice Island' for its nutmeg production?",
+      "options": [
+        "Barbados",
+        "Grenada",
+        "Trinidad",
+        "Dominica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "caribbean-islands-quiz-5",
+      "question": "Aruba, Bonaire, and Curacao are islands located near the coast of which country?",
+      "options": [
+        "Panama",
+        "Mexico",
+        "Venezuela",
+        "Colombia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "caribbean-islands-quiz-6",
+      "question": "Which Caribbean nation was the first to gain independence from a European colonial power, in 1804?",
+      "options": [
+        "Haiti",
+        "Dominican Republic",
+        "Cuba",
+        "Jamaica"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-7",
+      "question": "What is the smallest independent country in the Caribbean?",
+      "options": [
+        "Saint Kitts and Nevis",
+        "Barbados",
+        "Antigua and Barbuda",
+        "Grenada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-8",
+      "question": "Which Caribbean island is home to the famous Pitons, a UNESCO World Heritage Site?",
+      "options": [
+        "Saint Vincent",
+        "Saint Lucia",
+        "Dominica",
+        "Martinique"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "caribbean-islands-quiz-9",
+      "question": "Trinidad and Tobago is known for which annual cultural celebration?",
+      "options": [
+        "Junkanoo",
+        "Carnival",
+        "Reggae Sumfest",
+        "Crop Over"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "caribbean-islands-quiz-10",
+      "question": "Which is the most populous Caribbean island nation?",
+      "options": [
+        "Dominican Republic",
+        "Cuba",
+        "Haiti",
+        "Jamaica"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "caribbean-islands-quiz-11",
+      "question": "The Cayman Islands are a British Overseas Territory located south of which island?",
+      "options": [
+        "Cuba",
+        "Puerto Rico",
+        "Jamaica",
+        "Hispaniola"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-12",
+      "question": "Which Caribbean island was originally called 'Borinquen' by its indigenous Taino people?",
+      "options": [
+        "Puerto Rico",
+        "Jamaica",
+        "Barbados",
+        "Cuba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "caribbean-islands-quiz-13",
+      "question": "Barbados is located in which part of the Caribbean?",
+      "options": [
+        "Western Caribbean",
+        "Greater Antilles",
+        "Leeward Islands",
+        "Eastern Caribbean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "caribbean-islands-quiz-14",
+      "question": "Which French overseas territory in the Caribbean is known for its active volcano, La Soufriere?",
+      "options": [
+        "Martinique",
+        "Saint Barthelemy",
+        "Saint Martin",
+        "Guadeloupe"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "caribbean-islands-quiz-15",
+      "question": "What is the official language of the Dominican Republic?",
+      "options": [
+        "Portuguese",
+        "English",
+        "Spanish",
+        "French"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "rodeo-vocabulary",
+  "title": "Rodeo Vocabulary",
+  "description": "Saddle up and test your knowledge of rodeo terms and lingo!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rodeo-vocabulary-1",
+      "question": "In rodeo, what is 'bull riding'?",
+      "options": [
+        "Racing bulls around a track",
+        "Training bulls for farm work",
+        "Riding a mechanical bull at a bar",
+        "An event where a cowboy attempts to stay mounted on a bucking bull for 8 seconds"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bull riding is a rodeo event where a rider attempts to stay on a bucking bull for 8 seconds while holding on with one hand. It is often considered the most dangerous rodeo event.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-2",
+      "question": "What is 'barrel racing' in rodeo?",
+      "options": [
+        "A barrel-making competition",
+        "Jumping over barrels on horseback",
+        "Rolling barrels across an arena",
+        "A timed event where horse and rider race around three barrels in a cloverleaf pattern"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Barrel racing is a timed rodeo event where a horse and rider gallop around three barrels set in a triangular (cloverleaf) pattern, with the fastest time winning.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-3",
+      "question": "In rodeo, what does 'calf roping' (tie-down roping) involve?",
+      "options": [
+        "Guiding calves through a gate",
+        "Tying a rope into knots",
+        "Teaching calves to walk on a rope",
+        "Roping a calf from horseback, then dismounting to tie three of its legs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In tie-down roping, a mounted cowboy chases a calf, ropes it around the neck, dismounts, runs to the calf, and ties three of its legs together as quickly as possible.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-4",
+      "question": "What is the 'chute' in rodeo?",
+      "options": [
+        "A narrow enclosure from which animals and riders are released into the arena",
+        "A waterslide at the fairgrounds",
+        "A landing pad for barrel racers",
+        "A tunnel under the arena"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The chute is a narrow, gated enclosure where bucking horses or bulls are held and where riders mount before being released into the arena for their ride.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-5",
+      "question": "In rodeo, what is a 'pickup man'?",
+      "options": [
+        "Someone who picks up trash in the arena",
+        "Someone who picks up the animals after the event",
+        "A mounted cowboy who helps riders safely dismount bucking horses after the ride",
+        "A person who picks up fallen riders"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pickup man is a skilled horseback rider who gallops alongside a bucking horse after the buzzer sounds, helping the rider safely dismount and guiding the bronc out of the arena.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-6",
+      "question": "What does 'bronc riding' refer to in rodeo?",
+      "options": [
+        "Riding horses through an obstacle course",
+        "Riding a bronze-colored horse",
+        "An event where cowboys ride bucking horses, either saddled or bareback",
+        "Training wild horses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bronc riding involves riding a bucking horse (bronco) for 8 seconds. It comes in two forms: saddle bronc (using a specialized saddle) and bareback (using only a rigging handle).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-7",
+      "question": "In rodeo, what is a 'rodeo clown' (or 'bullfighter') primarily responsible for?",
+      "options": [
+        "Herding animals between events",
+        "Protecting bull riders by distracting the bull after the rider dismounts or falls",
+        "Entertaining the crowd with jokes",
+        "Judging the events"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rodeo clowns, more accurately called bullfighters, have the critical job of protecting bull riders by distracting and redirecting the bull after the rider dismounts or is thrown off.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-8",
+      "question": "What is 'team roping' in rodeo?",
+      "options": [
+        "An event where two mounted cowboys work together to rope a steer by the head and heels",
+        "Braiding ropes together",
+        "A rope-pulling tug of war",
+        "Teams competing in individual roping events"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Team roping is a two-person event where a header ropes a steer around the head or horns, and a heeler then ropes the steer's two hind legs, all on horseback.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-9",
+      "question": "In rodeo scoring for bull riding, what is the maximum possible score?",
+      "options": [
+        "75 points",
+        "100 points",
+        "50 points",
+        "200 points"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The maximum score in bull riding is 100 points, with two judges each awarding up to 25 points for the rider's performance and up to 25 points for the bull's bucking performance.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-10",
+      "question": "What is 'steer wrestling' (or 'bulldogging') in rodeo?",
+      "options": [
+        "Two steers competing against each other",
+        "Wrestling a steer in a ring",
+        "Pushing a steer through a gate",
+        "Leaping from a galloping horse onto a steer and wrestling it to the ground"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Steer wrestling involves a cowboy riding alongside a running steer, leaping from the horse onto the steer, grabbing its horns, and wrestling it flat onto the ground as fast as possible.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-11",
+      "question": "In rodeo, what does 'flank strap' refer to?",
+      "options": [
+        "A strap on the cowboy's boots",
+        "A safety harness for the rider",
+        "A strap placed around the animal's flank area to encourage bucking",
+        "A strap that holds the saddle in place"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The flank strap is a fleece-lined strap placed around a bull's or bronc's flank area (near the hips) to encourage kicking and bucking during the ride.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-12",
+      "question": "What is a 'go-round' in rodeo?",
+      "options": [
+        "A circle formation for the opening ceremony",
+        "A warm-up lap around the arena",
+        "A round of competition where every contestant competes once",
+        "Going around the arena to greet fans"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A go-round is a complete round of competition at a multi-day rodeo where every contestant in an event performs once. Multiple go-rounds determine average scores and advancement.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-13",
+      "question": "In rodeo, what does 'no time' mean?",
+      "options": [
+        "A timed event contestant did not receive a valid time, usually due to a penalty or missed catch",
+        "The clock malfunctioned",
+        "Time has run out",
+        "The event is cancelled due to weather"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A 'no time' is recorded when a timed event contestant fails to complete the required task, such as missing a roping catch or breaking a barrier, resulting in no valid score.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-14",
+      "question": "What is the 'barrier' in rodeo timed events?",
+      "options": [
+        "A breakable rope or electronic line that ensures the animal gets a fair head start",
+        "The gate to the arena entrance",
+        "A fence around the arena",
+        "A wall between the chutes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The barrier is a rope or electronic line across the roper's chute that ensures the animal gets a proper head start. Breaking the barrier early results in a time penalty.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "rodeo-vocabulary-15",
+      "question": "In rodeo, what is a 'rank' animal?",
+      "options": [
+        "A smelly animal",
+        "A particularly challenging animal that bucks hard and is difficult to ride",
+        "An animal that is ranked by size",
+        "A well-trained animal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rank animal in rodeo is one that is exceptionally difficult and aggressive, bucking hard and unpredictably. Riding a rank bull or bronc can lead to higher scores.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

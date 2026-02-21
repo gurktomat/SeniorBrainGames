@@ -1,0 +1,174 @@
+{
+  "id": "kitchen-appliances-quiz",
+  "title": "Kitchen Appliances Quiz",
+  "description": "How well do you know your kitchen appliances? From blenders to bread makers, test your recall!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "kitchen-appliances-quiz-1",
+      "question": "Which kitchen appliance uses rapid air circulation to cook food crispy with little or no oil?",
+      "options": [
+        "Convection oven",
+        "Microwave",
+        "Air fryer",
+        "Deep fryer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-2",
+      "question": "What does a food processor do?",
+      "options": [
+        "Only kneads dough",
+        "Only grinds coffee",
+        "Only blends liquids",
+        "Chops, slices, shreds, and purees food using interchangeable blades"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-appliances-quiz-3",
+      "question": "Which appliance heats food by producing electromagnetic waves that excite water molecules?",
+      "options": [
+        "Induction cooktop",
+        "Toaster oven",
+        "Microwave oven",
+        "Convection oven"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-4",
+      "question": "What is a slow cooker (Crock-Pot) designed to do?",
+      "options": [
+        "Freeze food slowly",
+        "Cook food extremely quickly",
+        "Cook food at low temperatures over several hours",
+        "Dehydrate food"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-5",
+      "question": "Which appliance pops up sliced bread after toasting it with electric heating elements?",
+      "options": [
+        "Sandwich press",
+        "Griddle",
+        "Broiler",
+        "Toaster"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-appliances-quiz-6",
+      "question": "What is a stand mixer primarily used for?",
+      "options": [
+        "Brewing coffee",
+        "Juicing fruits",
+        "Mixing, kneading, and whipping ingredients with various attachments",
+        "Grinding meat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-7",
+      "question": "Which appliance grinds coffee beans into grounds for brewing?",
+      "options": [
+        "Blender",
+        "Spice mill",
+        "Coffee grinder",
+        "Food processor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-8",
+      "question": "What is an immersion blender (stick blender) used for?",
+      "options": [
+        "Whipping cream only",
+        "Grinding spices",
+        "Blending soups and sauces directly in the pot",
+        "Chopping vegetables"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-9",
+      "question": "Which countertop appliance can function as a pressure cooker, slow cooker, rice cooker, and more?",
+      "options": [
+        "Air fryer",
+        "Electric skillet",
+        "Instant Pot (multi-cooker)",
+        "Toaster oven"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-10",
+      "question": "What does a food dehydrator do?",
+      "options": [
+        "Adds moisture to food",
+        "Vacuum seals food",
+        "Freezes food quickly",
+        "Removes moisture from food to preserve it by circulating warm, dry air"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-appliances-quiz-11",
+      "question": "Which appliance uses a spinning basket to extract juice from fruits and vegetables?",
+      "options": [
+        "Food processor",
+        "Centrifugal juicer",
+        "Blender",
+        "Citrus press"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "kitchen-appliances-quiz-12",
+      "question": "What is a bread machine designed to do?",
+      "options": [
+        "Mix, knead, rise, and bake bread automatically",
+        "Only slice bread",
+        "Only store bread",
+        "Only toast bread"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-appliances-quiz-13",
+      "question": "Which kitchen appliance uses electromagnetic energy to heat cookware directly, leaving the surface cool?",
+      "options": [
+        "Induction cooktop",
+        "Radiant cooktop",
+        "Electric coil stovetop",
+        "Gas range"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-appliances-quiz-14",
+      "question": "What is a vacuum sealer used for?",
+      "options": [
+        "Cleaning the kitchen",
+        "Compressing garbage",
+        "Removing air from bags to preserve food freshness and prevent freezer burn",
+        "Sealing jars for canning"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-appliances-quiz-15",
+      "question": "Which appliance dispenses hot water on demand for tea, instant coffee, and other beverages?",
+      "options": [
+        "Instant hot water dispenser",
+        "Coffee maker",
+        "Electric kettle",
+        "Water cooler"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

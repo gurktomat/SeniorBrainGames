@@ -1,0 +1,173 @@
+{
+  "id": "classic-miniature-painting",
+  "title": "Classic Miniature Painting",
+  "description": "From lead soldiers to D&D figurines, test your knowledge of the miniature painting and modeling hobby!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-miniature-painting-1",
+      "question": "What material were most miniature soldiers and figurines originally made from before the switch to pewter and plastic?",
+      "options": [
+        "Iron",
+        "Bronze",
+        "Lead",
+        "Tin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-miniature-painting-2",
+      "question": "What common scale for military miniatures means approximately 1 inch equals 1 foot?",
+      "options": [
+        "1/48 scale",
+        "1/72 scale",
+        "54mm (approximately 1/32 scale)",
+        "1/35 scale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-miniature-painting-3",
+      "question": "What type of paint, easy to clean up with water, became the standard for painting miniatures?",
+      "options": [
+        "Acrylic paint",
+        "Enamel paint",
+        "Lacquer paint",
+        "Oil paint"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-miniature-painting-4",
+      "question": "What was the first step most painters did to prepare a bare metal or plastic miniature for painting?",
+      "options": [
+        "Applying a primer coat",
+        "Washing it",
+        "Sanding it down",
+        "Gluing it to a base"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-miniature-painting-5",
+      "question": "Which tabletop role-playing game, first published in 1974, created enormous demand for painted fantasy miniatures?",
+      "options": [
+        "Traveller",
+        "Dungeons & Dragons",
+        "Pathfinder",
+        "Warhammer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-miniature-painting-6",
+      "question": "What painting technique involves applying a thin, darker wash over a base color to add depth and shadows?",
+      "options": [
+        "Glazing",
+        "Highlighting",
+        "Drybrushing",
+        "Washing (or shading)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-miniature-painting-7",
+      "question": "What technique involves lightly brushing a nearly dry brush loaded with paint across raised surfaces to highlight texture?",
+      "options": [
+        "Stippling",
+        "Drybrushing",
+        "Feathering",
+        "Wet blending"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-miniature-painting-8",
+      "question": "What brand of miniature paints, with their distinctive dropper bottles, became a standard in the hobby?",
+      "options": [
+        "Testors",
+        "Tamiya",
+        "Vallejo",
+        "Humbrol"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-miniature-painting-9",
+      "question": "What company, known for its Warhammer and Warhammer 40,000 game systems, is one of the largest miniature manufacturers?",
+      "options": [
+        "Reaper Miniatures",
+        "Mantic Games",
+        "Privateer Press",
+        "Games Workshop"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-miniature-painting-10",
+      "question": "What type of brush, with a very fine point, is essential for painting small details like eyes and insignia on miniatures?",
+      "options": [
+        "A filbert brush",
+        "A detail or fine-point brush (size 0 or smaller)",
+        "A fan brush",
+        "A flat brush"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-miniature-painting-11",
+      "question": "What hobby term describes a large collection of unpainted miniatures waiting to be worked on?",
+      "options": [
+        "The queue",
+        "The pile of shame (or gray pile)",
+        "The backlog",
+        "The stash"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-miniature-painting-12",
+      "question": "What magnifying device, worn on the head or clipped to glasses, helped painters see tiny details while working?",
+      "options": [
+        "A jeweler's loupe only",
+        "A reading glass",
+        "A monocle",
+        "An optivisor or magnifying headset"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-miniature-painting-13",
+      "question": "What scenic material was glued to miniature bases to simulate grass, dirt, or other terrain?",
+      "options": [
+        "Green paint only",
+        "Static grass, flock, or sand",
+        "Real dirt",
+        "Felt fabric"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-miniature-painting-14",
+      "question": "What classic plastic model company produced many of the military figure kits painted by hobbyists in the 1960s-80s?",
+      "options": [
+        "Revell",
+        "Monogram",
+        "Airfix",
+        "All of the above"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-miniature-painting-15",
+      "question": "What final step did many miniature painters apply to protect their finished paint jobs?",
+      "options": [
+        "A spray of matte or satin varnish sealant",
+        "A layer of wax",
+        "A coat of gloss paint",
+        "Nothing — paint was durable enough"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

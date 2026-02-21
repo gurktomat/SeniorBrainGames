@@ -1,0 +1,219 @@
+{
+  "id": "boxing-legends-quiz",
+  "title": "Boxing Legends",
+  "description": "How well do you know the greatest boxers and most famous fights in boxing history?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "boxing-legends-quiz-1",
+      "question": "Which boxer was known as 'Iron Mike' and became the youngest heavyweight champion at age 20?",
+      "options": [
+        "Evander Holyfield",
+        "Mike Spinks",
+        "Lennox Lewis",
+        "Mike Tyson"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mike Tyson became the youngest heavyweight champion in history at age 20 years and 4 months when he defeated Trevor Berbick in 1986.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-2",
+      "question": "What was the famous boxing match between Muhammad Ali and George Foreman in 1974 called?",
+      "options": [
+        "The War",
+        "The Fight of the Century",
+        "The Thrilla in Manila",
+        "The Rumble in the Jungle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Rumble in the Jungle' took place in Kinshasa, Zaire (now DR Congo), on October 30, 1974. Ali defeated the heavily favored Foreman using his famous 'rope-a-dope' strategy.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-3",
+      "question": "How many weight classes are there in professional boxing?",
+      "options": [
+        "20",
+        "8",
+        "12",
+        "17"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Professional boxing has 17 weight classes recognized by most major sanctioning bodies, ranging from minimumweight (105 lbs) to heavyweight (over 200 lbs).",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-4",
+      "question": "Which boxer retired with an undefeated record of 50-0?",
+      "options": [
+        "Floyd Mayweather Jr.",
+        "Lennox Lewis",
+        "Roy Jones Jr.",
+        "Joe Calzaghe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Floyd Mayweather Jr. retired with a perfect 50-0 record, winning world titles in five weight classes. He surpassed Rocky Marciano's 49-0 record.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-5",
+      "question": "What is the 'Thrilla in Manila'?",
+      "options": [
+        "A fight between Tyson and Holyfield",
+        "The third fight between Ali and Frazier in 1975",
+        "A Pacquiao championship fight",
+        "A boxing movie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'Thrilla in Manila' was the third and final fight between Muhammad Ali and Joe Frazier, held in Manila, Philippines, on October 1, 1975. Ali won when Frazier's corner stopped the fight after round 14.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-6",
+      "question": "Which heavyweight champion was known as 'The Brown Bomber'?",
+      "options": [
+        "Jack Johnson",
+        "Jack Dempsey",
+        "Joe Louis",
+        "Sonny Liston"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joe Louis, known as 'The Brown Bomber,' held the heavyweight title from 1937 to 1949 — a record 11 years and 8 months. He made 25 consecutive title defenses.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-7",
+      "question": "What is a 'TKO' in boxing?",
+      "options": [
+        "Total Knockout — the boxer is unconscious",
+        "Technical Knockout — the referee stops the fight",
+        "Temporary Knockout — a standing count",
+        "Time Knock Out — the round ends"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A TKO (Technical Knockout) occurs when the referee stops the fight because one boxer can no longer adequately defend themselves, even though they haven't been knocked down for a full count.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-8",
+      "question": "Which Filipino boxer is the only fighter to win world titles in eight different weight divisions?",
+      "options": [
+        "Manny Pacquiao",
+        "Donnie Nietes",
+        "Nonito Donaire",
+        "Flash Elorde"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Manny Pacquiao won world titles in eight weight divisions, from flyweight to super welterweight. He is considered one of the greatest pound-for-pound boxers of all time.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-9",
+      "question": "What did Mike Tyson infamously do during his 1997 rematch with Evander Holyfield?",
+      "options": [
+        "Refused to fight",
+        "Head-butted him",
+        "Bit his ear",
+        "Left the ring"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the third round of their 1997 rematch, Mike Tyson bit off a piece of Evander Holyfield's right ear. Tyson was disqualified and later fined $3 million and suspended from boxing.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-10",
+      "question": "Which boxer was known as 'Sugar' and is often considered the greatest pound-for-pound boxer ever?",
+      "options": [
+        "Sugar Ray Robinson",
+        "Sugar Ray Leonard",
+        "Oscar De La Hoya",
+        "Shane Mosley"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sugar Ray Robinson is widely regarded as the greatest pound-for-pound boxer in history. He held the welterweight title and won the middleweight title five times.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-11",
+      "question": "How long is each round in professional boxing?",
+      "options": [
+        "3 minutes",
+        "2 minutes",
+        "5 minutes",
+        "4 minutes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each round in professional boxing lasts 3 minutes, with a 1-minute rest period between rounds. Championship fights are scheduled for 12 rounds.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-12",
+      "question": "What is the 'sweet science' a nickname for?",
+      "options": [
+        "Wrestling",
+        "Martial arts",
+        "Fencing",
+        "Boxing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Boxing is known as 'the sweet science,' a term popularized by writer A.J. Liebling in his 1956 book. It refers to the skill, strategy, and artistry involved in the sport.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-13",
+      "question": "Which fight was dubbed 'The Fight of the Century' in 1971?",
+      "options": [
+        "Leonard vs. Hearns",
+        "Ali vs. Frazier I",
+        "Ali vs. Foreman",
+        "Tyson vs. Holyfield"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first Ali-Frazier fight on March 8, 1971, at Madison Square Garden was called 'The Fight of the Century.' Both men were undefeated; Frazier won by unanimous decision.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-14",
+      "question": "Who was the first African American heavyweight boxing champion?",
+      "options": [
+        "Joe Louis",
+        "Joe Frazier",
+        "Jack Johnson",
+        "Muhammad Ali"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jack Johnson became the first African American heavyweight champion in 1908 when he defeated Tommy Burns. His victory and dominance challenged racial attitudes of the era.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "boxing-legends-quiz-15",
+      "question": "What are the four major boxing sanctioning bodies?",
+      "options": [
+        "WBA, WBC, IBF, IBO",
+        "WBA, WBC, WBO, IBO",
+        "WBA, WBC, IBF, WBO",
+        "WBA, WBC, IBF, NABF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four major boxing sanctioning bodies are the WBA (World Boxing Association), WBC (World Boxing Council), IBF (International Boxing Federation), and WBO (World Boxing Organization).",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

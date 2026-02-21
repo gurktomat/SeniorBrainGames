@@ -7,8 +7,13 @@
     {
       "id": "nature-1",
       "question": "What is the largest animal on Earth?",
-      "options": ["African elephant", "Blue whale", "Giraffe", "Great white shark"],
-      "correctAnswer": 1,
+      "options": [
+        "Great white shark",
+        "African elephant",
+        "Blue whale",
+        "Giraffe"
+      ],
+      "correctAnswer": 2,
       "explanation": "The blue whale is the largest animal ever known to have existed on Earth, reaching lengths of up to 100 feet and weighing as much as 200 tons.",
       "difficulty": "easy",
       "category": "nature"
@@ -16,8 +21,13 @@
     {
       "id": "nature-2",
       "question": "What do you call a group of lions?",
-      "options": ["A pack", "A herd", "A pride", "A flock"],
-      "correctAnswer": 2,
+      "options": [
+        "A pride",
+        "A flock",
+        "A herd",
+        "A pack"
+      ],
+      "correctAnswer": 0,
       "explanation": "A group of lions is called a pride. A typical pride consists of about 15 lions, including several related females, their cubs, and a small number of males.",
       "difficulty": "easy",
       "category": "nature"
@@ -25,7 +35,12 @@
     {
       "id": "nature-3",
       "question": "Which bird is known for its ability to mimic human speech?",
-      "options": ["Eagle", "Parrot", "Robin", "Sparrow"],
+      "options": [
+        "Eagle",
+        "Parrot",
+        "Sparrow",
+        "Robin"
+      ],
       "correctAnswer": 1,
       "explanation": "Parrots can mimic human speech because of their thick tongues and specialized vocal anatomy. African Grey parrots are considered the most talented talkers.",
       "difficulty": "easy",
@@ -34,8 +49,13 @@
     {
       "id": "nature-4",
       "question": "What is the process by which plants make their own food using sunlight?",
-      "options": ["Respiration", "Fermentation", "Photosynthesis", "Germination"],
-      "correctAnswer": 2,
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Respiration",
+        "Germination"
+      ],
+      "correctAnswer": 0,
       "explanation": "Photosynthesis allows plants to convert sunlight, water, and carbon dioxide into glucose and oxygen. This process is essential for life on Earth.",
       "difficulty": "easy",
       "category": "nature"
@@ -43,8 +63,13 @@
     {
       "id": "nature-5",
       "question": "How many legs does a spider have?",
-      "options": ["Six", "Eight", "Ten", "Twelve"],
-      "correctAnswer": 1,
+      "options": [
+        "Eight",
+        "Six",
+        "Ten",
+        "Twelve"
+      ],
+      "correctAnswer": 0,
       "explanation": "All spiders have eight legs. This distinguishes them from insects, which have six legs. Spiders belong to a group called arachnids.",
       "difficulty": "easy",
       "category": "nature"
@@ -52,8 +77,13 @@
     {
       "id": "nature-6",
       "question": "Which animal is known for carrying its babies in a pouch?",
-      "options": ["Platypus", "Koala", "Kangaroo", "Both koalas and kangaroos"],
-      "correctAnswer": 3,
+      "options": [
+        "Kangaroo",
+        "Platypus",
+        "Both koalas and kangaroos",
+        "Koala"
+      ],
+      "correctAnswer": 2,
       "explanation": "Both koalas and kangaroos are marsupials and carry their young in pouches. Other marsupials include wombats, opossums, and wallabies.",
       "difficulty": "medium",
       "category": "nature"
@@ -61,8 +91,13 @@
     {
       "id": "nature-7",
       "question": "What is the tallest type of tree in the world?",
-      "options": ["Giant sequoia", "Coast redwood", "Douglas fir", "Eucalyptus"],
-      "correctAnswer": 1,
+      "options": [
+        "Coast redwood",
+        "Eucalyptus",
+        "Giant sequoia",
+        "Douglas fir"
+      ],
+      "correctAnswer": 0,
       "explanation": "Coast redwoods (Sequoia sempervirens) are the tallest trees on Earth. The tallest known redwood, named Hyperion, stands over 380 feet tall in Northern California.",
       "difficulty": "medium",
       "category": "nature"
@@ -70,8 +105,13 @@
     {
       "id": "nature-8",
       "question": "Which ocean is the largest by area?",
-      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-      "correctAnswer": 2,
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 60 million square miles. It is larger than all the land area on Earth combined.",
       "difficulty": "medium",
       "category": "nature"
@@ -79,7 +119,12 @@
     {
       "id": "nature-9",
       "question": "What type of animal is a monarch known for its long migration?",
-      "options": ["Bird", "Butterfly", "Whale", "Caribou"],
+      "options": [
+        "Bird",
+        "Butterfly",
+        "Whale",
+        "Caribou"
+      ],
       "correctAnswer": 1,
       "explanation": "Monarch butterflies make an incredible annual migration of up to 3,000 miles from the United States and Canada to central Mexico each fall.",
       "difficulty": "medium",
@@ -88,8 +133,13 @@
     {
       "id": "nature-10",
       "question": "Which animal has the longest lifespan of any mammal?",
-      "options": ["African elephant", "Blue whale", "Bowhead whale", "Galapagos tortoise"],
-      "correctAnswer": 2,
+      "options": [
+        "African elephant",
+        "Blue whale",
+        "Galapagos tortoise",
+        "Bowhead whale"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bowhead whales can live over 200 years, making them the longest-lived mammals. Note that the Galapagos tortoise is a reptile, not a mammal, and can also live over 100 years.",
       "difficulty": "hard",
       "category": "nature"
@@ -97,8 +147,13 @@
     {
       "id": "nature-11",
       "question": "What is the only continent where penguins live naturally in the wild?",
-      "options": ["Antarctica only", "Antarctica and surrounding southern regions", "Arctic", "Australia"],
-      "correctAnswer": 1,
+      "options": [
+        "Antarctica only",
+        "Australia",
+        "Arctic",
+        "Antarctica and surrounding southern regions"
+      ],
+      "correctAnswer": 3,
       "explanation": "Penguins are found naturally in the Southern Hemisphere, including Antarctica, South America, South Africa, New Zealand, and the Galapagos Islands -- but never in the Arctic.",
       "difficulty": "medium",
       "category": "nature"
@@ -106,8 +161,13 @@
     {
       "id": "nature-12",
       "question": "Which of these animals is a marsupial?",
-      "options": ["Beaver", "Raccoon", "Opossum", "Porcupine"],
-      "correctAnswer": 2,
+      "options": [
+        "Opossum",
+        "Raccoon",
+        "Beaver",
+        "Porcupine"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Virginia opossum is the only marsupial found in North America. Female opossums carry and nurse their young in a pouch, just like kangaroos.",
       "difficulty": "hard",
       "category": "nature"
@@ -115,8 +175,13 @@
     {
       "id": "nature-13",
       "question": "What is the largest species of bear?",
-      "options": ["Grizzly bear", "Polar bear", "Kodiak bear", "Black bear"],
-      "correctAnswer": 1,
+      "options": [
+        "Black bear",
+        "Grizzly bear",
+        "Kodiak bear",
+        "Polar bear"
+      ],
+      "correctAnswer": 3,
       "explanation": "Polar bears are the largest species of bear, with adult males weighing up to 1,500 pounds. They are also the largest land carnivores on Earth.",
       "difficulty": "hard",
       "category": "nature"
@@ -124,8 +189,13 @@
     {
       "id": "nature-14",
       "question": "What gas do trees and plants absorb from the atmosphere?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-      "correctAnswer": 2,
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correctAnswer": 0,
       "explanation": "Trees absorb carbon dioxide during photosynthesis and release oxygen. A single mature tree can absorb about 48 pounds of carbon dioxide per year.",
       "difficulty": "hard",
       "category": "nature"
@@ -133,8 +203,13 @@
     {
       "id": "nature-15",
       "question": "Which sea creature has three hearts?",
-      "options": ["Jellyfish", "Starfish", "Octopus", "Sea horse"],
-      "correctAnswer": 2,
+      "options": [
+        "Octopus",
+        "Sea horse",
+        "Starfish",
+        "Jellyfish"
+      ],
+      "correctAnswer": 0,
       "explanation": "An octopus has three hearts: two pump blood to the gills, and one pumps blood to the rest of the body. Their blood is also blue because it contains copper.",
       "difficulty": "hard",
       "category": "nature"

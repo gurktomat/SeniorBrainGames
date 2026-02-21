@@ -1,0 +1,219 @@
+{
+  "id": "combat-sports-quiz",
+  "title": "Combat Sports",
+  "description": "Test your knowledge of martial arts, boxing, wrestling, and other combat sports!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "combat-sports-quiz-1",
+      "question": "Which country is the birthplace of judo?",
+      "options": [
+        "Thailand",
+        "China",
+        "Japan",
+        "South Korea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judo was created in Japan by Jigoro Kano in 1882. It became an Olympic sport for men in 1964 and for women in 1992.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-2",
+      "question": "What does 'taekwondo' translate to in English?",
+      "options": [
+        "Way of the foot and hand",
+        "Way of the fist",
+        "The gentle way",
+        "The art of kicking and punching"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Taekwondo is a Korean martial art whose name translates to 'the way of the foot and the hand.' It became an Olympic sport in 2000.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-3",
+      "question": "Which heavyweight boxer held an undefeated record of 49-0?",
+      "options": [
+        "Joe Louis",
+        "Mike Tyson",
+        "Muhammad Ali",
+        "Rocky Marciano"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rocky Marciano retired in 1956 with a perfect 49-0 record, the only heavyweight champion to retire undefeated. He won 43 of those fights by knockout.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-4",
+      "question": "What is the highest rank belt color in most traditional martial arts?",
+      "options": [
+        "Red",
+        "Gold",
+        "Black",
+        "White"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The black belt is the highest rank in most traditional martial arts systems, including karate, judo, and taekwondo. In some systems, there are degrees (dans) within the black belt.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-5",
+      "question": "Which combat sport originated in Thailand?",
+      "options": [
+        "Krav Maga",
+        "Kung Fu",
+        "Muay Thai",
+        "Capoeira"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Muay Thai, also known as Thai boxing, originated in Thailand. It is known as the 'Art of Eight Limbs' because it uses fists, elbows, knees, and shins.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-6",
+      "question": "In fencing, what are the three weapons used in competition?",
+      "options": [
+        "Foil, epee, sabre",
+        "Rapier, foil, dagger",
+        "Foil, broadsword, epee",
+        "Epee, rapier, sabre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The three weapons used in competitive fencing are the foil, epee, and sabre. Each weapon has different target areas and rules for scoring.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-7",
+      "question": "Which martial art is known as 'the gentle way'?",
+      "options": [
+        "Kung Fu",
+        "Aikido",
+        "Karate",
+        "Judo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Judo translates to 'the gentle way' in Japanese. Despite its name, judo involves powerful throws and grappling techniques.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-8",
+      "question": "What is the ring in sumo wrestling called?",
+      "options": [
+        "Dohyo",
+        "Tatami",
+        "Canvas",
+        "Octagon"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sumo wrestling ring is called a dohyo. It is a raised platform made of clay and covered with sand, with a circle of rice-straw bales marking the boundary.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-9",
+      "question": "Which boxer was known as 'The Greatest' and 'The Louisville Lip'?",
+      "options": [
+        "Joe Frazier",
+        "Muhammad Ali",
+        "George Foreman",
+        "Sugar Ray Leonard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Muhammad Ali, born Cassius Clay, was known as 'The Greatest.' He won the heavyweight championship three times and is considered one of the most significant sports figures of the 20th century.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-10",
+      "question": "What is the Brazilian martial art that combines dance, acrobatics, and music?",
+      "options": [
+        "Luta Livre",
+        "Capoeira",
+        "Jiu-Jitsu",
+        "Vale Tudo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capoeira is a Brazilian martial art that combines elements of dance, acrobatics, and music. It was developed by enslaved Africans in Brazil during the 16th century.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-11",
+      "question": "In which year did mixed martial arts (MMA) organization UFC hold its first event?",
+      "options": [
+        "2001",
+        "1993",
+        "1997",
+        "1989"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ultimate Fighting Championship (UFC) held its first event, UFC 1, on November 12, 1993, in Denver, Colorado. Royce Gracie won the tournament using Brazilian Jiu-Jitsu.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-12",
+      "question": "Which country developed the martial art of Krav Maga?",
+      "options": [
+        "Egypt",
+        "Russia",
+        "Turkey",
+        "Israel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Krav Maga was developed in Israel by Imi Lichtenfeld. It is a military self-defense system used by the Israel Defense Forces and various law enforcement agencies worldwide.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-13",
+      "question": "How many rounds are in a standard professional boxing championship fight?",
+      "options": [
+        "10 rounds",
+        "12 rounds",
+        "8 rounds",
+        "15 rounds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standard professional boxing championship fights are 12 rounds of 3 minutes each. The change from 15 rounds was made in 1982 after the death of boxer Duk Koo Kim.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-14",
+      "question": "Which Olympic combat sport involves athletes trying to pin their opponent's shoulders to the mat?",
+      "options": [
+        "Boxing",
+        "Judo",
+        "Taekwondo",
+        "Wrestling"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Wrestling is one of the oldest Olympic sports, dating back to the ancient Games. In freestyle and Greco-Roman wrestling, a pin (both shoulders touching the mat) results in an immediate victory.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "combat-sports-quiz-15",
+      "question": "What is the name for a karate training exercise performed solo that simulates combat movements?",
+      "options": [
+        "Sparring",
+        "Kata",
+        "Kumite",
+        "Randori"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A kata is a detailed choreographed pattern of martial arts movements practiced solo. Kata became an Olympic event for the first time at the 2020 Tokyo Games.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

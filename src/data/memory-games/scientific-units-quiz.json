@@ -1,0 +1,173 @@
+{
+  "id": "scientific-units-quiz",
+  "title": "Scientific Units Quiz",
+  "description": "Watts, joules, pascals, and more! Test your recall of the units used to measure the world around us.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "scientific-units-quiz-1",
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Watt",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-units-quiz-2",
+      "question": "What unit is used to measure force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-units-quiz-3",
+      "question": "The hertz (Hz) is the unit of measurement for what?",
+      "options": [
+        "Energy",
+        "Pressure",
+        "Power",
+        "Frequency"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-units-quiz-4",
+      "question": "What unit measures electrical resistance?",
+      "options": [
+        "Watt",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-units-quiz-5",
+      "question": "What is the SI unit of temperature?",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Rankine",
+        "Kelvin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-units-quiz-6",
+      "question": "What unit measures energy or work?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-units-quiz-7",
+      "question": "What is the unit of pressure in the SI system?",
+      "options": [
+        "Atmosphere",
+        "Bar",
+        "Torr",
+        "Pascal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-units-quiz-8",
+      "question": "The watt is a unit of measurement for what?",
+      "options": [
+        "Power",
+        "Force",
+        "Energy",
+        "Voltage"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-units-quiz-9",
+      "question": "What unit is used to measure radioactivity?",
+      "options": [
+        "Roentgen",
+        "Sievert",
+        "Gray",
+        "Becquerel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-units-quiz-10",
+      "question": "What is the SI unit of luminous intensity?",
+      "options": [
+        "Lux",
+        "Candela",
+        "Nit",
+        "Lumen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-units-quiz-11",
+      "question": "What unit measures the amount of a substance in chemistry?",
+      "options": [
+        "Mole",
+        "Dalton",
+        "Liter",
+        "Gram"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-units-quiz-12",
+      "question": "What is the decibel used to measure?",
+      "options": [
+        "Electrical charge",
+        "Sound intensity",
+        "Radiation",
+        "Light intensity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-units-quiz-13",
+      "question": "Which scientist is the unit 'volt' named after?",
+      "options": [
+        "Michael Faraday",
+        "Georg Ohm",
+        "Alessandro Volta",
+        "André-Marie Ampère"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "scientific-units-quiz-14",
+      "question": "What does a barometer measure?",
+      "options": [
+        "Atmospheric pressure",
+        "Wind speed",
+        "Temperature",
+        "Humidity"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-units-quiz-15",
+      "question": "What is the SI unit of electric charge?",
+      "options": [
+        "Farad",
+        "Coulomb",
+        "Ampere",
+        "Volt"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

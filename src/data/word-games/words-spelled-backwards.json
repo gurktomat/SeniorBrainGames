@@ -1,0 +1,173 @@
+{
+  "id": "words-spelled-backwards",
+  "title": "Words Spelled Backwards",
+  "description": "Some words become new words when reversed, and others hide surprising secrets. Test your skills with these backwards word puzzles!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "words-spelled-backwards-1",
+      "question": "What word do you get when you spell 'stressed' backwards?",
+      "options": [
+        "Pressed",
+        "Strewed",
+        "Rested",
+        "Desserts"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-spelled-backwards-2",
+      "question": "What is the term for a word that forms a different word when spelled backwards?",
+      "options": [
+        "Anagram",
+        "Reversal",
+        "Semordnilap",
+        "Palindrome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-spelled-backwards-3",
+      "question": "What word do you get when you spell 'live' backwards?",
+      "options": [
+        "Evil",
+        "Vile",
+        "Veil",
+        "Levy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-4",
+      "question": "Which of these words becomes another valid English word when spelled backwards?",
+      "options": [
+        "World",
+        "Hello",
+        "Dance",
+        "Drawer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-spelled-backwards-5",
+      "question": "What does 'drawer' spell backwards?",
+      "options": [
+        "Warden",
+        "Redraw",
+        "Reward",
+        "Warder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-spelled-backwards-6",
+      "question": "What word do you get when you spell 'diaper' backwards?",
+      "options": [
+        "Repaid",
+        "Rapid",
+        "Paired",
+        "Draped"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-7",
+      "question": "The word 'dog' spelled backwards gives you which word?",
+      "options": [
+        "God",
+        "Dig",
+        "Bog",
+        "Cog"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-8",
+      "question": "What does 'parts' spell when reversed?",
+      "options": [
+        "Tarps",
+        "Strap",
+        "Rapts",
+        "Traps"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-spelled-backwards-9",
+      "question": "Which of these names is a semordnilap (forms a word when reversed)?",
+      "options": [
+        "Dennis",
+        "Robert",
+        "William",
+        "John"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-10",
+      "question": "What does 'Dennis' spell backwards?",
+      "options": [
+        "Denied",
+        "Dinner",
+        "Tinned",
+        "Sinned"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-spelled-backwards-11",
+      "question": "What word do you get when you spell 'deliver' backwards?",
+      "options": [
+        "Relived",
+        "Levered",
+        "Dilever",
+        "Reviled"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-spelled-backwards-12",
+      "question": "The word 'straw' spelled backwards becomes which word?",
+      "options": [
+        "Warts",
+        "Warts",
+        "Wears",
+        "Stars"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-13",
+      "question": "What does 'star' spell when reversed?",
+      "options": [
+        "Tars",
+        "Rats",
+        "Rats",
+        "Arts"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-spelled-backwards-14",
+      "question": "Which of these words does NOT form a valid English word when reversed?",
+      "options": [
+        "Bark",
+        "Stop",
+        "Snap",
+        "Plug"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-spelled-backwards-15",
+      "question": "The word 'lemon' spelled backwards gives which word?",
+      "options": [
+        "Lemon",
+        "Monel",
+        "Melon",
+        "Nomel"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

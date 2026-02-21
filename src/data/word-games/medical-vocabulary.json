@@ -8,8 +8,13 @@
     {
       "id": "med-1",
       "question": "What does the medical term 'diagnosis' mean?",
-      "options": ["A type of medication", "The identification of a disease or condition", "A surgical procedure", "A doctor's office visit"],
-      "correctAnswer": 1,
+      "options": [
+        "A doctor's office visit",
+        "A surgical procedure",
+        "A type of medication",
+        "The identification of a disease or condition"
+      ],
+      "correctAnswer": 3,
       "explanation": "A diagnosis is the identification of a disease, illness, or condition based on symptoms, medical history, and test results. The word comes from the Greek 'diagignoskein,' meaning 'to distinguish' or 'to discern.'",
       "difficulty": "easy",
       "category": "language"
@@ -17,7 +22,12 @@
     {
       "id": "med-2",
       "question": "What does the term 'chronic' mean when describing an illness?",
-      "options": ["Extremely painful", "Lasting a long time or recurring frequently", "Sudden and severe", "Easily treatable"],
+      "options": [
+        "Sudden and severe",
+        "Lasting a long time or recurring frequently",
+        "Extremely painful",
+        "Easily treatable"
+      ],
       "correctAnswer": 1,
       "explanation": "A chronic illness is one that persists over a long period of time, often for months or years. It contrasts with 'acute,' which describes conditions that are sudden and short-lived. Examples include diabetes and arthritis.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "med-3",
       "question": "What is an 'antibiotic'?",
-      "options": ["A type of vitamin supplement", "A medicine that fights bacterial infections", "A device for measuring blood pressure", "A type of bandage"],
-      "correctAnswer": 1,
+      "options": [
+        "A type of bandage",
+        "A type of vitamin supplement",
+        "A device for measuring blood pressure",
+        "A medicine that fights bacterial infections"
+      ],
+      "correctAnswer": 3,
       "explanation": "An antibiotic is a medication used to treat infections caused by bacteria. The word literally means 'against life' (anti + bios), referring to its ability to kill or inhibit the growth of bacteria. Antibiotics do not work against viral infections.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "med-4",
       "question": "What does the prefix 'cardio-' refer to?",
-      "options": ["The brain", "The lungs", "The heart", "The stomach"],
-      "correctAnswer": 2,
+      "options": [
+        "The lungs",
+        "The heart",
+        "The brain",
+        "The stomach"
+      ],
+      "correctAnswer": 1,
       "explanation": "The prefix 'cardio-' relates to the heart. It comes from the Greek word 'kardia,' meaning 'heart.' A cardiologist is a heart specialist, and cardiovascular refers to the heart and blood vessel system.",
       "difficulty": "easy",
       "category": "language"
@@ -44,7 +64,12 @@
     {
       "id": "med-5",
       "question": "What does 'symptom' mean in medicine?",
-      "options": ["A type of medical test", "A physical or mental sign of a disease experienced by the patient", "A prescribed treatment", "A hospital department"],
+      "options": [
+        "A hospital department",
+        "A physical or mental sign of a disease experienced by the patient",
+        "A type of medical test",
+        "A prescribed treatment"
+      ],
       "correctAnswer": 1,
       "explanation": "A symptom is a physical or mental feature experienced by a patient that indicates the presence of a disease or condition. Common examples include pain, fever, and fatigue. Symptoms are subjective experiences reported by the patient.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "med-6",
       "question": "What does the medical term 'benign' mean?",
-      "options": ["Cancerous and spreading", "Not harmful; not cancerous", "Requiring immediate surgery", "Highly contagious"],
-      "correctAnswer": 1,
+      "options": [
+        "Highly contagious",
+        "Cancerous and spreading",
+        "Requiring immediate surgery",
+        "Not harmful; not cancerous"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Benign' means not harmful or not cancerous. A benign tumor, for example, does not invade surrounding tissues or spread to other parts of the body. It is the opposite of 'malignant,' which indicates a cancerous growth.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "med-7",
       "question": "What does the suffix '-itis' indicate in medical terms?",
-      "options": ["A surgical removal", "Inflammation", "A deficiency", "An excess"],
-      "correctAnswer": 1,
+      "options": [
+        "Inflammation",
+        "A deficiency",
+        "An excess",
+        "A surgical removal"
+      ],
+      "correctAnswer": 0,
       "explanation": "The suffix '-itis' indicates inflammation. For example, arthritis means inflammation of the joints, bronchitis means inflammation of the bronchial tubes, and tonsillitis means inflammation of the tonsils.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "med-8",
       "question": "What does 'prognosis' mean?",
-      "options": ["The cause of a disease", "A prediction about the likely course and outcome of a disease", "A list of medications", "The medical history of a patient"],
-      "correctAnswer": 1,
+      "options": [
+        "The medical history of a patient",
+        "A list of medications",
+        "A prediction about the likely course and outcome of a disease",
+        "The cause of a disease"
+      ],
+      "correctAnswer": 2,
       "explanation": "A prognosis is a medical prediction about the likely course, duration, and outcome of a disease or condition. It comes from the Greek 'prognosis,' meaning 'foreknowledge.' A good prognosis means recovery is expected.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "med-9",
       "question": "What does 'intravenous' (IV) mean?",
-      "options": ["Taken by mouth", "Administered within or into a vein", "Applied to the skin", "Inhaled through the nose"],
-      "correctAnswer": 1,
+      "options": [
+        "Inhaled through the nose",
+        "Taken by mouth",
+        "Applied to the skin",
+        "Administered within or into a vein"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Intravenous' means 'within a vein.' IV therapy involves delivering fluids, medications, or nutrients directly into a patient's vein through a needle or catheter, allowing for rapid absorption into the bloodstream.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "med-10",
       "question": "What does the prefix 'neuro-' refer to?",
-      "options": ["The bones", "The nerves or nervous system", "The skin", "The muscles"],
-      "correctAnswer": 1,
+      "options": [
+        "The nerves or nervous system",
+        "The skin",
+        "The muscles",
+        "The bones"
+      ],
+      "correctAnswer": 0,
       "explanation": "The prefix 'neuro-' relates to the nerves and nervous system. A neurologist specializes in disorders of the nervous system, and neuroscience is the study of the brain and nervous system. It comes from the Greek 'neuron,' meaning 'nerve.'",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "med-11",
       "question": "What does the medical term 'edema' refer to?",
-      "options": ["A bone fracture", "Swelling caused by excess fluid trapped in body tissues", "A type of skin rash", "A blood clot"],
-      "correctAnswer": 1,
+      "options": [
+        "A type of skin rash",
+        "A bone fracture",
+        "Swelling caused by excess fluid trapped in body tissues",
+        "A blood clot"
+      ],
+      "correctAnswer": 2,
       "explanation": "Edema is the medical term for swelling caused by excess fluid accumulating in the body's tissues. It can occur in any part of the body but is most commonly noticed in the hands, arms, feet, ankles, and legs.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "med-12",
       "question": "What does 'pathology' mean?",
-      "options": ["The study of exercise and fitness", "The study of the causes and effects of diseases", "The study of medications", "The study of surgical techniques"],
-      "correctAnswer": 1,
+      "options": [
+        "The study of the causes and effects of diseases",
+        "The study of surgical techniques",
+        "The study of exercise and fitness",
+        "The study of medications"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pathology is the branch of medicine that studies the causes, mechanisms, and effects of disease. Pathologists examine tissues, cells, and body fluids to diagnose diseases. The word comes from the Greek 'pathos' (suffering) and 'logos' (study).",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "med-13",
       "question": "What does the suffix '-ectomy' mean in medical terminology?",
-      "options": ["Examination of", "Surgical removal of", "Inflammation of", "Study of"],
-      "correctAnswer": 1,
+      "options": [
+        "Surgical removal of",
+        "Study of",
+        "Inflammation of",
+        "Examination of"
+      ],
+      "correctAnswer": 0,
       "explanation": "The suffix '-ectomy' means the surgical removal of a body part or tissue. For example, an appendectomy is the removal of the appendix, a tonsillectomy is the removal of the tonsils, and a mastectomy is the removal of a breast.",
       "difficulty": "hard",
       "category": "language"
@@ -125,7 +190,12 @@
     {
       "id": "med-14",
       "question": "What does the term 'anesthesia' mean?",
-      "options": ["Memory loss", "A loss of sensation, especially to pain, induced for medical purposes", "A type of allergic reaction", "A method of physical therapy"],
+      "options": [
+        "Memory loss",
+        "A loss of sensation, especially to pain, induced for medical purposes",
+        "A type of allergic reaction",
+        "A method of physical therapy"
+      ],
       "correctAnswer": 1,
       "explanation": "Anesthesia is the medically induced loss of sensation, particularly pain, to allow surgical procedures to be performed. The word comes from the Greek 'anaisthesia,' meaning 'without sensation.' Types include general, local, and regional anesthesia.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "med-15",
       "question": "What does 'hypertension' refer to?",
-      "options": ["Low blood sugar", "Abnormally high blood pressure", "Excessive muscle tension", "Overactive thyroid gland"],
-      "correctAnswer": 1,
+      "options": [
+        "Abnormally high blood pressure",
+        "Excessive muscle tension",
+        "Overactive thyroid gland",
+        "Low blood sugar"
+      ],
+      "correctAnswer": 0,
       "explanation": "Hypertension is the medical term for persistently high blood pressure. 'Hyper' means 'above' or 'excessive,' and 'tension' refers to the pressure within blood vessels. It is a major risk factor for heart disease and stroke.",
       "difficulty": "hard",
       "category": "language"

@@ -10,85 +10,85 @@
       "options": [
         "Pete Seeger",
         "Woody Guthrie",
-        "Bob Dylan",
-        "Phil Ochs"
+        "Phil Ochs",
+        "Bob Dylan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-folk-music-2",
       "question": "What famous folk duo released the album 'Bridge Over Troubled Water' in 1970?",
       "options": [
-        "Peter, Paul and Mary",
         "Simon & Garfunkel",
-        "The Everly Brothers",
-        "The Kingston Trio"
+        "Peter, Paul and Mary",
+        "The Kingston Trio",
+        "The Everly Brothers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-folk-music-3",
       "question": "Which folk singer wrote 'This Land Is Your Land,' often considered an unofficial American anthem?",
       "options": [
-        "Pete Seeger",
-        "Woody Guthrie",
+        "Burl Ives",
         "Leadbelly",
-        "Burl Ives"
+        "Pete Seeger",
+        "Woody Guthrie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-folk-music-4",
       "question": "What folk trio had a massive hit with 'Tom Dooley' in 1958?",
       "options": [
         "Peter, Paul and Mary",
-        "The Kingston Trio",
         "The Weavers",
+        "The Kingston Trio",
         "The Chad Mitchell Trio"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-folk-music-5",
       "question": "Which Canadian folk singer wrote 'Both Sides Now' and 'Big Yellow Taxi'?",
       "options": [
-        "Buffy Sainte-Marie",
         "Joni Mitchell",
+        "Judy Collins",
         "Gordon Lightfoot",
-        "Judy Collins"
+        "Buffy Sainte-Marie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-folk-music-6",
       "question": "Peter, Paul and Mary had a hit with which song that became an anthem of the civil rights movement?",
       "options": [
         "Where Have All the Flowers Gone?",
-        "If I Had a Hammer",
         "Puff, the Magic Dragon",
-        "Leaving on a Jet Plane"
+        "Leaving on a Jet Plane",
+        "If I Had a Hammer"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-folk-music-7",
       "question": "What 1959 Newport festival became the premier showcase for folk music in America?",
       "options": [
+        "Cambridge Folk Festival",
         "Woodstock Folk Festival",
         "Newport Folk Festival",
-        "Cambridge Folk Festival",
         "Philadelphia Folk Festival"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-folk-music-8",
       "question": "Which folk singer and activist was known for songs like 'We Shall Overcome' and 'Where Have All the Flowers Gone?'",
       "options": [
-        "Bob Dylan",
-        "Pete Seeger",
         "Tom Paxton",
-        "Dave Van Ronk"
+        "Pete Seeger",
+        "Dave Van Ronk",
+        "Bob Dylan"
       ],
       "correctAnswer": 1
     },
@@ -96,32 +96,32 @@
       "id": "classic-folk-music-9",
       "question": "What controversial act did Bob Dylan perform at the 1965 Newport Folk Festival?",
       "options": [
-        "He refused to perform",
         "He played an electric guitar",
+        "He walked off stage mid-song",
         "He sang protest songs against the president",
-        "He walked off stage mid-song"
+        "He refused to perform"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-folk-music-10",
       "question": "Which folk singer known for her crystal-clear soprano voice recorded 'Both Sides Now' before Joni Mitchell?",
       "options": [
+        "Odetta",
         "Joan Baez",
-        "Judy Collins",
         "Mary Travers",
-        "Odetta"
+        "Judy Collins"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-folk-music-11",
       "question": "What Joan Baez song about a young man drafted into the Vietnam War became a powerful antiwar anthem?",
       "options": [
+        "Where Are You Now, My Son?",
         "Diamonds & Rust",
-        "The Night They Drove Old Dixie Down",
         "Saigon Bride",
-        "Where Are You Now, My Son?"
+        "The Night They Drove Old Dixie Down"
       ],
       "correctAnswer": 2
     },
@@ -129,21 +129,21 @@
       "id": "classic-folk-music-12",
       "question": "Which Greenwich Village neighborhood in New York City was the center of the 1960s folk music revival?",
       "options": [
-        "Harlem",
-        "SoHo",
         "Greenwich Village",
+        "SoHo",
+        "Harlem",
         "Brooklyn Heights"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-folk-music-13",
       "question": "Which Canadian folk artist wrote and performed 'If You Could Read My Mind' in 1970?",
       "options": [
-        "Leonard Cohen",
         "Neil Young",
+        "Bruce Cockburn",
         "Gordon Lightfoot",
-        "Bruce Cockburn"
+        "Leonard Cohen"
       ],
       "correctAnswer": 2
     },
@@ -151,23 +151,23 @@
       "id": "classic-folk-music-14",
       "question": "What stringed instrument is most commonly associated with American folk music?",
       "options": [
-        "Mandolin",
-        "Banjo",
         "Acoustic guitar",
-        "Fiddle"
+        "Fiddle",
+        "Mandolin",
+        "Banjo"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-folk-music-15",
       "question": "Which folk group, featuring Ronnie Gilbert and Lee Hays, was blacklisted during the McCarthy era?",
       "options": [
-        "The Kingston Trio",
-        "The Weavers",
+        "The Brothers Four",
         "The Limelighters",
-        "The Brothers Four"
+        "The Weavers",
+        "The Kingston Trio"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

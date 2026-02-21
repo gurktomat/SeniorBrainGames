@@ -9,64 +9,64 @@
       "question": "Who wrote 'The Wealth of Nations' in 1776, often considered the foundation of modern economics?",
       "options": [
         "David Ricardo",
+        "Thomas Malthus",
         "John Stuart Mill",
-        "Adam Smith",
-        "Thomas Malthus"
+        "Adam Smith"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-2",
       "question": "Which British economist advocated for government spending to combat economic downturns during the Great Depression?",
       "options": [
         "Friedrich Hayek",
-        "John Maynard Keynes",
         "Milton Friedman",
+        "John Maynard Keynes",
         "Alfred Marshall"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-economists-3",
       "question": "Which economist is known for his monetarist theory and his influential work 'A Monetary History of the United States'?",
       "options": [
-        "Paul Samuelson",
-        "Milton Friedman",
+        "Joseph Stiglitz",
         "John Kenneth Galbraith",
-        "Joseph Stiglitz"
+        "Paul Samuelson",
+        "Milton Friedman"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-4",
       "question": "Who wrote 'Das Kapital' and is considered the father of communist economic theory?",
       "options": [
         "Friedrich Engels",
-        "Vladimir Lenin",
         "Karl Marx",
-        "Leon Trotsky"
+        "Leon Trotsky",
+        "Vladimir Lenin"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-economists-5",
       "question": "Which Austrian economist championed free-market economics and won the Nobel Prize in 1974?",
       "options": [
         "Ludwig von Mises",
-        "Friedrich Hayek",
+        "Carl Menger",
         "Joseph Schumpeter",
-        "Carl Menger"
+        "Friedrich Hayek"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-6",
       "question": "Which economist introduced the concept of 'creative destruction' to describe innovation in capitalism?",
       "options": [
         "Joseph Schumpeter",
-        "Thorstein Veblen",
+        "Alfred Marshall",
         "John Kenneth Galbraith",
-        "Alfred Marshall"
+        "Thorstein Veblen"
       ],
       "correctAnswer": 0
     },
@@ -74,10 +74,10 @@
       "id": "famous-economists-7",
       "question": "Adam Smith's concept of an 'invisible hand' describes what economic phenomenon?",
       "options": [
-        "Government regulation",
-        "Market self-regulation through individual self-interest",
         "Central planning",
-        "Monopoly power"
+        "Market self-regulation through individual self-interest",
+        "Monopoly power",
+        "Government regulation"
       ],
       "correctAnswer": 1
     },
@@ -85,89 +85,89 @@
       "id": "famous-economists-8",
       "question": "Which economist developed the theory of comparative advantage in international trade?",
       "options": [
-        "Adam Smith",
         "David Ricardo",
+        "Adam Smith",
         "Thomas Malthus",
         "Jean-Baptiste Say"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-economists-9",
       "question": "Who is known for writing 'An Essay on the Principle of Population', warning about the dangers of overpopulation?",
       "options": [
-        "David Ricardo",
         "John Stuart Mill",
-        "Thomas Malthus",
-        "Jeremy Bentham"
+        "David Ricardo",
+        "Jeremy Bentham",
+        "Thomas Malthus"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-10",
       "question": "Which American economist won the Nobel Prize in 1970 and wrote the best-selling economics textbook of the 20th century?",
       "options": [
-        "Paul Samuelson",
-        "Milton Friedman",
         "Robert Solow",
-        "Kenneth Arrow"
+        "Paul Samuelson",
+        "Kenneth Arrow",
+        "Milton Friedman"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "famous-economists-11",
       "question": "Which economist's name is associated with the 'New Deal' advisory role and the concept of 'affluent society'?",
       "options": [
-        "Paul Samuelson",
-        "John Kenneth Galbraith",
         "Arthur Laffer",
-        "Ben Bernanke"
+        "Ben Bernanke",
+        "Paul Samuelson",
+        "John Kenneth Galbraith"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-12",
       "question": "Which Indian economist won the Nobel Prize in 1998 for his work on welfare economics and famine?",
       "options": [
-        "Jagdish Bhagwati",
         "Amartya Sen",
         "Raghuram Rajan",
-        "Manmohan Singh"
+        "Manmohan Singh",
+        "Jagdish Bhagwati"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-economists-13",
       "question": "The 'Laffer Curve', illustrating the relationship between tax rates and tax revenue, is named after which economist?",
       "options": [
         "Milton Friedman",
-        "Arthur Laffer",
         "Robert Lucas",
+        "Arthur Laffer",
         "Gregory Mankiw"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-economists-14",
       "question": "Which economist served as Chairman of the Federal Reserve from 1987 to 2006?",
       "options": [
-        "Ben Bernanke",
+        "Janet Yellen",
         "Paul Volcker",
-        "Alan Greenspan",
-        "Janet Yellen"
+        "Ben Bernanke",
+        "Alan Greenspan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-economists-15",
       "question": "Which economist coined the term 'conspicuous consumption' in his 1899 book 'The Theory of the Leisure Class'?",
       "options": [
-        "Max Weber",
         "Thorstein Veblen",
-        "Vilfredo Pareto",
-        "John Kenneth Galbraith"
+        "Max Weber",
+        "John Kenneth Galbraith",
+        "Vilfredo Pareto"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

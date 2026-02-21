@@ -1,0 +1,219 @@
+{
+  "id": "wwii-events-quiz",
+  "title": "WWII Events Quiz",
+  "description": "How well do you remember the key events of World War II?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wwii-events-quiz-1",
+      "question": "On what date did Japan attack Pearl Harbor?",
+      "options": [
+        "December 7, 1941",
+        "November 11, 1941",
+        "September 1, 1941",
+        "June 6, 1941"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Japan attacked the US naval base at Pearl Harbor, Hawaii on December 7, 1941, bringing the United States into World War II.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-2",
+      "question": "What was the code name for the Allied invasion of Normandy on June 6, 1944?",
+      "options": [
+        "Operation Barbarossa",
+        "Operation Torch",
+        "Operation Overlord",
+        "Operation Market Garden"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Overlord was the code name for the D-Day landings on the beaches of Normandy, France, the largest amphibious invasion in history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-3",
+      "question": "Which battle is considered the turning point of WWII on the Eastern Front?",
+      "options": [
+        "Battle of Moscow",
+        "Battle of Berlin",
+        "Battle of Stalingrad",
+        "Battle of Kursk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Stalingrad (1942-1943) was a devastating defeat for Nazi Germany and is widely regarded as the turning point on the Eastern Front.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-4",
+      "question": "What was the name of the first atomic bomb dropped on Hiroshima?",
+      "options": [
+        "Gadget",
+        "Trinity",
+        "Little Boy",
+        "Fat Man"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The atomic bomb 'Little Boy' was dropped on Hiroshima, Japan on August 6, 1945. 'Fat Man' was dropped on Nagasaki three days later.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-5",
+      "question": "In what year did Germany invade Poland, starting World War II in Europe?",
+      "options": [
+        "1939",
+        "1938",
+        "1940",
+        "1937"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Germany invaded Poland on September 1, 1939, prompting Britain and France to declare war on Germany two days later.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-6",
+      "question": "What was the evacuation of Allied soldiers from the beaches of Dunkirk known as?",
+      "options": [
+        "Operation Sealion",
+        "Operation Husky",
+        "Operation Anvil",
+        "Operation Dynamo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Operation Dynamo evacuated over 338,000 Allied soldiers from the beaches of Dunkirk, France in May-June 1940.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-7",
+      "question": "Which conference in 1945 divided post-war Germany into occupation zones?",
+      "options": [
+        "Tehran Conference",
+        "Potsdam Conference",
+        "Quebec Conference",
+        "Casablanca Conference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Potsdam Conference (July-August 1945) established the post-war order in Europe, including the division of Germany into four occupation zones.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-8",
+      "question": "What was Germany's failed invasion of the Soviet Union called?",
+      "options": [
+        "Operation Citadel",
+        "Operation Barbarossa",
+        "Operation Typhoon",
+        "Operation Overlord"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Operation Barbarossa was launched on June 22, 1941, when Nazi Germany invaded the Soviet Union in the largest military operation in history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-9",
+      "question": "On what date did Germany officially surrender, ending WWII in Europe?",
+      "options": [
+        "March 15, 1945",
+        "May 8, 1945",
+        "June 6, 1945",
+        "April 30, 1945"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Germany surrendered unconditionally on May 8, 1945, known as V-E Day (Victory in Europe Day).",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-10",
+      "question": "Which Pacific island battle raised the famous flag on Mount Suribachi?",
+      "options": [
+        "Okinawa",
+        "Iwo Jima",
+        "Midway",
+        "Guadalcanal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The iconic flag-raising photograph was taken on Mount Suribachi during the Battle of Iwo Jima in February 1945.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-11",
+      "question": "What was the Nazi plan to systematically murder European Jews called?",
+      "options": [
+        "Lebensraum",
+        "The Final Solution",
+        "Kristallnacht",
+        "The Nuremberg Laws"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'Final Solution' (Endlösung) was the Nazi plan for the genocide of the Jewish people, resulting in the Holocaust and the murder of six million Jews.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-12",
+      "question": "Which naval battle in June 1942 is considered the turning point of the Pacific War?",
+      "options": [
+        "Battle of the Philippine Sea",
+        "Battle of Leyte Gulf",
+        "Battle of the Coral Sea",
+        "Battle of Midway"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Battle of Midway (June 1942) was a decisive American victory that destroyed four Japanese aircraft carriers and shifted the balance of power in the Pacific.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-13",
+      "question": "What was the massive German air campaign against Britain in 1940-1941 called?",
+      "options": [
+        "The Battle of Britain",
+        "The Blitz",
+        "Operation Sealion",
+        "The Luftwaffe Offensive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Blitz was the sustained German bombing campaign against the United Kingdom from September 1940 to May 1941, targeting London and other major cities.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-14",
+      "question": "Which 1943 Allied invasion of Italy began with landings on this island?",
+      "options": [
+        "Crete",
+        "Sardinia",
+        "Sicily",
+        "Corsica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Husky, the Allied invasion of Sicily in July 1943, marked the beginning of the Italian Campaign and led to the fall of Mussolini.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwii-events-quiz-15",
+      "question": "What was the last major German offensive on the Western Front called?",
+      "options": [
+        "Operation Market Garden",
+        "Battle of Hürtgen Forest",
+        "Operation Nordwind",
+        "Battle of the Bulge"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Battle of the Bulge (December 1944 - January 1945) was Germany's last major offensive, fought through the dense forests of the Ardennes region.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

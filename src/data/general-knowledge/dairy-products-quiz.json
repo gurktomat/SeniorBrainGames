@@ -1,0 +1,219 @@
+{
+  "id": "dairy-products-quiz",
+  "title": "Dairy Products & Cheese",
+  "description": "How much do you know about dairy products from around the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "dairy-products-quiz-1",
+      "question": "Which country produces the most milk in the world?",
+      "options": [
+        "United States",
+        "India",
+        "Germany",
+        "New Zealand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India is the world's largest milk producer, producing over 200 million tonnes annually. The dairy industry is a critical part of India's agricultural economy.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-2",
+      "question": "What is the process of heating milk to kill harmful bacteria called?",
+      "options": [
+        "Sterilization",
+        "Fermentation",
+        "Pasteurization",
+        "Homogenization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pasteurization, developed by Louis Pasteur, involves heating milk to a specific temperature to kill harmful bacteria while preserving its nutritional value.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-3",
+      "question": "What cheese is traditionally used on pizza?",
+      "options": [
+        "Cheddar",
+        "Brie",
+        "Mozzarella",
+        "Gouda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mozzarella is the traditional cheese used on pizza, especially in Italian cuisine. It melts beautifully and has a mild, milky flavor that complements tomato sauce.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-4",
+      "question": "What is the sugar naturally found in milk called?",
+      "options": [
+        "Fructose",
+        "Glucose",
+        "Lactose",
+        "Sucrose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lactose is the natural sugar in milk. People who are lactose intolerant lack sufficient lactase, the enzyme needed to digest lactose.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-5",
+      "question": "Which country is famous for its Gruyere and Emmental cheeses?",
+      "options": [
+        "Switzerland",
+        "Netherlands",
+        "France",
+        "Italy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Switzerland is renowned for Gruyere and Emmental cheeses. Emmental, with its distinctive holes, is what most people picture when they think of 'Swiss cheese.'",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-6",
+      "question": "What gives blue cheese its distinctive blue-green veins?",
+      "options": [
+        "Mold (Penicillium)",
+        "Copper minerals",
+        "Food coloring",
+        "Herbs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Blue cheese gets its characteristic veins from Penicillium mold cultures added during the cheese-making process. The mold grows along air channels in the cheese.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-7",
+      "question": "What is ghee, a product widely used in Indian cooking?",
+      "options": [
+        "Fermented milk",
+        "Clarified butter",
+        "Condensed milk",
+        "Cheese curd"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ghee is clarified butter made by simmering butter until the water evaporates and milk solids separate. It has a high smoke point and rich, nutty flavor.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-8",
+      "question": "Which animal's milk is used to make traditional Italian buffalo mozzarella?",
+      "options": [
+        "Water buffalo",
+        "Goat",
+        "Sheep",
+        "Cow"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Traditional mozzarella di bufala is made from the milk of water buffalo, particularly in the Campania region of Italy. It has a creamier texture than cow's milk mozzarella.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-9",
+      "question": "What dairy product is made by churning cream until the fat separates?",
+      "options": [
+        "Yogurt",
+        "Butter",
+        "Cottage cheese",
+        "Cream cheese"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Butter is made by churning cream, which agitates the fat globules until they clump together and separate from the liquid buttermilk.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-10",
+      "question": "Parmesan cheese (Parmigiano-Reggiano) must be aged for a minimum of how long?",
+      "options": [
+        "24 months",
+        "3 months",
+        "6 months",
+        "12 months"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Authentic Parmigiano-Reggiano must be aged for a minimum of 12 months, though many wheels are aged for 24 months or longer for a more complex flavor.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-11",
+      "question": "Which soft, creamy French cheese has a white, edible rind?",
+      "options": [
+        "Brie",
+        "Reblochon",
+        "Roquefort",
+        "Comte"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brie is a soft French cheese with a distinctive white, bloomy rind created by Penicillium camemberti mold. It has a creamy, buttery interior.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-12",
+      "question": "What is the main protein found in milk?",
+      "options": [
+        "Collagen",
+        "Keratin",
+        "Casein",
+        "Gluten"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Casein makes up about 80% of the protein in cow's milk. It is also the protein that forms curds in the cheese-making process.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-13",
+      "question": "Which Nordic country is known for its brown cheese called brunost?",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brunost (brown cheese) is a traditional Norwegian cheese made by boiling whey until the sugars caramelize, giving it a sweet, fudge-like flavor and brown color.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-14",
+      "question": "What is the Indian yogurt-based drink called that is often flavored with mango?",
+      "options": [
+        "Nimbu pani",
+        "Lassi",
+        "Chai",
+        "Thandai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lassi is a traditional Indian yogurt-based drink that can be sweet or salty. Mango lassi, made with ripe mangoes, is one of the most popular variations worldwide.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "dairy-products-quiz-15",
+      "question": "What is the process of breaking down fat globules in milk so the cream doesn't separate called?",
+      "options": [
+        "Condensation",
+        "Curdling",
+        "Homogenization",
+        "Pasteurization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Homogenization breaks down fat globules in milk into smaller, uniform sizes so they remain evenly distributed rather than rising to the top as a cream layer.",
+      "difficulty": "medium",
+      "category": "food"
+    }
+  ]
+}

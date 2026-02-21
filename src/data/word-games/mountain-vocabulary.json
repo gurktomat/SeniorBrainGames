@@ -1,41 +1,41 @@
 {
   "id": "mountain-vocabulary",
   "title": "Mountain Vocabulary",
-  "description": "Scale new heights with mountain climbing and geography terms \u2014 from 'summit' to 'scree' and everything in between!",
+  "description": "Scale new heights with mountain climbing and geography terms — from 'summit' to 'scree' and everything in between!",
   "gameCategory": "word-games",
   "questions": [
     {
       "id": "mountain-vocabulary-1",
       "question": "What is a 'summit' of a mountain?",
       "options": [
-        "The base camp",
         "The highest point or peak",
+        "The base camp",
         "A meeting of mountain climbers",
         "The steepest slope"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-vocabulary-2",
       "question": "What does 'scree' refer to?",
       "options": [
+        "A type of climbing rope",
         "A mountain bird",
         "Loose rocks and debris covering a slope",
-        "A type of climbing rope",
         "The echo in a valley"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mountain-vocabulary-3",
       "question": "What is a 'col' in mountain geography?",
       "options": [
-        "A type of mountain flower",
-        "The lowest point between two peaks, a saddle-like pass",
         "A rocky cliff face",
-        "A mountain lake"
+        "A type of mountain flower",
+        "A mountain lake",
+        "The lowest point between two peaks, a saddle-like pass"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "mountain-vocabulary-4",
@@ -43,8 +43,8 @@
       "options": [
         "A type of mountain goat",
         "A rapid flow of snow, ice, and debris down a mountainside",
-        "A mountain path",
-        "A loud thunder in the mountains"
+        "A loud thunder in the mountains",
+        "A mountain path"
       ],
       "correctAnswer": 1
     },
@@ -52,23 +52,23 @@
       "id": "mountain-vocabulary-5",
       "question": "What is a 'moraine'?",
       "options": [
-        "A morning mist in mountains",
-        "An accumulation of rocks and sediment carried and deposited by a glacier",
         "A type of mountain stream",
-        "A high-altitude flower"
+        "A high-altitude flower",
+        "A morning mist in mountains",
+        "An accumulation of rocks and sediment carried and deposited by a glacier"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "mountain-vocabulary-6",
       "question": "What does 'altitude sickness' refer to?",
       "options": [
         "Fear of heights",
-        "Illness caused by reduced oxygen at high elevations",
         "Sunburn at high altitude",
+        "Illness caused by reduced oxygen at high elevations",
         "Dehydration while climbing"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mountain-vocabulary-7",
@@ -76,8 +76,8 @@
       "options": [
         "A mountain peak",
         "A deep crack or fissure in a glacier or ice sheet",
-        "A type of climbing boot",
-        "A small mountain stream"
+        "A small mountain stream",
+        "A type of climbing boot"
       ],
       "correctAnswer": 1
     },
@@ -85,10 +85,10 @@
       "id": "mountain-vocabulary-8",
       "question": "What does 'timberline' (or 'tree line') mark?",
       "options": [
-        "Where logging is permitted",
-        "The elevation above which trees cannot grow",
         "The boundary of a national park",
-        "Where wooden cabins are built"
+        "The elevation above which trees cannot grow",
+        "Where wooden cabins are built",
+        "Where logging is permitted"
       ],
       "correctAnswer": 1
     },
@@ -96,21 +96,21 @@
       "id": "mountain-vocabulary-9",
       "question": "What is a 'ridge' in mountain geography?",
       "options": [
-        "A deep valley",
         "A long, narrow elevated crest of a mountain",
+        "A deep valley",
         "A type of cloud near peaks",
         "A mountain trail"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-vocabulary-10",
       "question": "What does 'cairn' refer to on a mountain?",
       "options": [
-        "A type of tent",
+        "A natural rock formation",
         "A mound of stones built as a trail marker or memorial",
         "A mountain shelter",
-        "A natural rock formation"
+        "A type of tent"
       ],
       "correctAnswer": 1
     },
@@ -119,22 +119,22 @@
       "question": "What is an 'escarpment'?",
       "options": [
         "A type of campsite",
-        "A long, steep slope or cliff at the edge of a plateau",
         "A mountain escape route",
+        "A long, steep slope or cliff at the edge of a plateau",
         "A type of rock climbing hold"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "mountain-vocabulary-12",
       "question": "What does 'switchback' mean in mountain trail terms?",
       "options": [
-        "Turning around and going back",
         "A zigzag path up a steep slope to make climbing easier",
-        "A backward flip while climbing",
-        "A type of backpack"
+        "Turning around and going back",
+        "A type of backpack",
+        "A backward flip while climbing"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-vocabulary-13",
@@ -142,8 +142,8 @@
       "options": [
         "A mountain animal",
         "A small mountain lake, often formed in a glacial cirque",
-        "A type of climbing knot",
-        "A shelter from wind"
+        "A shelter from wind",
+        "A type of climbing knot"
       ],
       "correctAnswer": 1
     },
@@ -151,23 +151,23 @@
       "id": "mountain-vocabulary-14",
       "question": "What does 'cirque' refer to in mountain geography?",
       "options": [
-        "A traveling mountain show",
         "A bowl-shaped depression carved by glacial erosion",
-        "A circular mountain path",
-        "A type of mountain bird"
+        "A traveling mountain show",
+        "A type of mountain bird",
+        "A circular mountain path"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "mountain-vocabulary-15",
       "question": "What is a 'butte'?",
       "options": [
-        "A type of mountain goat",
-        "An isolated hill with steep sides and a flat top",
         "A mountain spring",
-        "A climbing technique"
+        "A climbing technique",
+        "A type of mountain goat",
+        "An isolated hill with steep sides and a flat top"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

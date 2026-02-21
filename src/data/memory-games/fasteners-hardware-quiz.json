@@ -1,0 +1,174 @@
+{
+  "id": "fasteners-hardware-quiz",
+  "title": "Fasteners & Hardware Quiz",
+  "description": "How well do you know nails, screws, bolts, and other fasteners? Test your knowledge of these essential hardware items.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fasteners-hardware-quiz-1",
+      "question": "Which fastener has a slotted or Phillips head and spiraling threads along its shaft?",
+      "options": [
+        "Pin",
+        "Bolt",
+        "Nail",
+        "Screw"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-2",
+      "question": "What is the difference between a bolt and a screw?",
+      "options": [
+        "Screws are always made of steel",
+        "There is no difference",
+        "Bolts are always bigger",
+        "Bolts typically require a nut on the other end, while screws thread directly into material"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-3",
+      "question": "Which type of nail has a large, flat head and is used to attach roofing shingles?",
+      "options": [
+        "Finish nail",
+        "Casing nail",
+        "Roofing nail",
+        "Brad nail"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fasteners-hardware-quiz-4",
+      "question": "What is a wing nut?",
+      "options": [
+        "A decorative nut",
+        "A locking nut",
+        "A nut with two flat extensions (wings) for hand-tightening without tools",
+        "A nut shaped like a hexagon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fasteners-hardware-quiz-5",
+      "question": "Which screw head type has a cross-shaped slot and is one of the most common types?",
+      "options": [
+        "Phillips",
+        "Torx",
+        "Robertson (square)",
+        "Slotted"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fasteners-hardware-quiz-6",
+      "question": "What is a cotter pin used for?",
+      "options": [
+        "Securing a bolt or pin by bending its split ends after insertion",
+        "Connecting electrical wires",
+        "Anchoring fence posts",
+        "Hanging pictures"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fasteners-hardware-quiz-7",
+      "question": "Which fastener is a smooth metal pin driven into material by a hammer?",
+      "options": [
+        "Screw",
+        "Rivet",
+        "Bolt",
+        "Nail"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-8",
+      "question": "What is a lock washer designed to do?",
+      "options": [
+        "Reduce friction",
+        "Seal a joint",
+        "Prevent a nut or bolt from loosening due to vibration",
+        "Increase bolt strength"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fasteners-hardware-quiz-9",
+      "question": "Which type of screw is designed for attaching drywall (plasterboard) to wood or metal studs?",
+      "options": [
+        "Machine screw",
+        "Set screw",
+        "Lag screw",
+        "Drywall screw"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-10",
+      "question": "What is a rivet?",
+      "options": [
+        "A removable pin",
+        "A type of screw",
+        "A permanent fastener that is inserted through holes and deformed on one end to hold pieces together",
+        "A spring-loaded clip"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fasteners-hardware-quiz-11",
+      "question": "Which heavy-duty screw has a hexagonal head and is used to fasten wood to wood or wood to metal?",
+      "options": [
+        "Lag screw (lag bolt)",
+        "Machine screw",
+        "Self-tapping screw",
+        "Wood screw"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fasteners-hardware-quiz-12",
+      "question": "What does the 'd' stand for in nail sizing (e.g., 16d nail)?",
+      "options": [
+        "Density",
+        "Diameter",
+        "Depth",
+        "Penny (from the old English 'denarius')"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-13",
+      "question": "Which fastener has no head and is threaded on both ends, used to join two components with nuts?",
+      "options": [
+        "Eye bolt",
+        "Anchor bolt",
+        "Carriage bolt",
+        "Stud bolt (threaded rod)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fasteners-hardware-quiz-14",
+      "question": "What is a finish nail characterized by?",
+      "options": [
+        "A square head",
+        "No head at all",
+        "A very small head that can be set below the wood surface and concealed",
+        "A large flat head"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "fasteners-hardware-quiz-15",
+      "question": "Which type of anchor expands behind drywall by opening toggle wings when pushed through a hole?",
+      "options": [
+        "Plastic anchor",
+        "Wedge anchor",
+        "Toggle bolt",
+        "Molly bolt"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

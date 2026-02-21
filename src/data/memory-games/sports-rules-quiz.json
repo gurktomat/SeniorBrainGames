@@ -1,0 +1,173 @@
+{
+  "id": "sports-rules-quiz",
+  "title": "Sports Rules Quiz",
+  "description": "Do you remember the rules of popular sports? Put your knowledge to the test",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sports-rules-quiz-1",
+      "question": "In basketball, how many players from each team are on the court at the same time?",
+      "options": [
+        "4",
+        "7",
+        "6",
+        "5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-rules-quiz-2",
+      "question": "In tennis, what is the score called when both players have 40 points?",
+      "options": [
+        "Deuce",
+        "Advantage",
+        "Match point",
+        "Love"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-rules-quiz-3",
+      "question": "How many players are on a standard soccer (football) team on the field?",
+      "options": [
+        "12",
+        "11",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-rules-quiz-4",
+      "question": "In baseball, how many strikes result in a batter being 'out'?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-rules-quiz-5",
+      "question": "In American football, how many points is a touchdown worth?",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-rules-quiz-6",
+      "question": "In volleyball, how many times can a team hit the ball before it must cross the net?",
+      "options": [
+        "Three",
+        "Five",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-rules-quiz-7",
+      "question": "The 'offside' rule is a key regulation in which sport?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "Tennis",
+        "Soccer (football)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-rules-quiz-8",
+      "question": "In golf, what is the term for completing a hole one stroke under par?",
+      "options": [
+        "Eagle",
+        "Albatross",
+        "Birdie",
+        "Bogey"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-rules-quiz-9",
+      "question": "In ice hockey, when a player commits a minor penalty, they sit in the penalty box for how long?",
+      "options": [
+        "2 minutes",
+        "1 minute",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-rules-quiz-10",
+      "question": "In cricket, how many wickets must fall to end an innings (in a standard match)?",
+      "options": [
+        "9",
+        "11",
+        "8",
+        "10"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-rules-quiz-11",
+      "question": "A 'double fault' in tennis occurs when a player does what?",
+      "options": [
+        "Touches the net twice",
+        "Hits the ball out twice in a row",
+        "Steps on the baseline twice",
+        "Fails both serve attempts"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-rules-quiz-12",
+      "question": "In boxing, how many rounds is a standard professional championship bout?",
+      "options": [
+        "15",
+        "10",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-rules-quiz-13",
+      "question": "In rugby union, how many points is a 'try' worth?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-rules-quiz-14",
+      "question": "In swimming, which stroke must be performed face-down with simultaneous arm movements and a dolphin kick?",
+      "options": [
+        "Butterfly",
+        "Breaststroke",
+        "Backstroke",
+        "Freestyle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-rules-quiz-15",
+      "question": "In table tennis, how many points are needed to win a standard game?",
+      "options": [
+        "11",
+        "25",
+        "21",
+        "15"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

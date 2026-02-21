@@ -1,0 +1,173 @@
+{
+  "id": "butterflies-moths-quiz",
+  "title": "Butterflies & Moths",
+  "description": "Flutter through the colorful world of butterflies and moths and their incredible life cycles.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "butterflies-moths-quiz-1",
+      "question": "What is the process called when a caterpillar transforms into a butterfly?",
+      "options": [
+        "Regeneration",
+        "Evolution",
+        "Metamorphosis",
+        "Hibernation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "butterflies-moths-quiz-2",
+      "question": "Butterflies taste with which part of their body?",
+      "options": [
+        "Their wings",
+        "Their tongue",
+        "Their antennae",
+        "Their feet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "butterflies-moths-quiz-3",
+      "question": "The monarch butterfly is famous for migrating from the United States and Canada to which country?",
+      "options": [
+        "Mexico",
+        "Guatemala",
+        "Honduras",
+        "Cuba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterflies-moths-quiz-4",
+      "question": "What is the main difference between butterflies and moths?",
+      "options": [
+        "Butterflies fly at night",
+        "Butterflies have club-shaped antennae; moths have feathery ones",
+        "Moths are larger",
+        "Moths are more colorful"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterflies-moths-quiz-5",
+      "question": "What structure does a butterfly chrysalis form from?",
+      "options": [
+        "The caterpillar's hardened skin",
+        "Silk threads",
+        "Leaves woven together",
+        "Tree bark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterflies-moths-quiz-6",
+      "question": "Which butterfly species is known for its brilliant blue iridescent wings?",
+      "options": [
+        "Morpho butterfly",
+        "Painted lady",
+        "Swallowtail",
+        "Monarch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterflies-moths-quiz-7",
+      "question": "The luna moth, a striking green moth, does not eat as an adult because it lacks what?",
+      "options": [
+        "A mouth",
+        "Wings",
+        "Legs",
+        "Eyes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterflies-moths-quiz-8",
+      "question": "How many stages are in the life cycle of a butterfly?",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "butterflies-moths-quiz-9",
+      "question": "The death's-head hawkmoth is famous for what marking on its thorax?",
+      "options": [
+        "A heart",
+        "A skull shape",
+        "An eye",
+        "A cross"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterflies-moths-quiz-10",
+      "question": "Butterflies drink nectar through a long, coiled tube called what?",
+      "options": [
+        "Proboscis",
+        "Mandible",
+        "Stinger",
+        "Palp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "butterflies-moths-quiz-11",
+      "question": "Which continent is home to the Queen Alexandra's birdwing, the largest butterfly in the world?",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia/Oceania",
+        "North America"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "butterflies-moths-quiz-12",
+      "question": "Moths are primarily active during what time of day?",
+      "options": [
+        "Morning",
+        "Afternoon",
+        "All day equally",
+        "Night"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "butterflies-moths-quiz-13",
+      "question": "The viceroy butterfly survives by mimicking the appearance of which other butterfly?",
+      "options": [
+        "Swallowtail",
+        "Monarch",
+        "Blue morpho",
+        "Painted lady"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "butterflies-moths-quiz-14",
+      "question": "What material do moth caterpillars (silkworms) produce that has been used by humans for thousands of years?",
+      "options": [
+        "Cotton",
+        "Linen",
+        "Wool",
+        "Silk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "butterflies-moths-quiz-15",
+      "question": "Approximately how many known species of butterflies exist in the world?",
+      "options": [
+        "5,000",
+        "10,000",
+        "20,000",
+        "50,000"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

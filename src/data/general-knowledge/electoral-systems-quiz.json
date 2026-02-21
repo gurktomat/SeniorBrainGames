@@ -1,0 +1,173 @@
+{
+  "id": "electoral-systems-quiz",
+  "title": "Electoral Systems",
+  "description": "Discover how different countries choose their leaders through various voting and electoral systems",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "electoral-systems-quiz-1",
+      "question": "In the U.S. Electoral College, how many electoral votes are needed to win the presidency?",
+      "options": [
+        "218",
+        "300",
+        "270",
+        "251"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-2",
+      "question": "What is 'proportional representation'?",
+      "options": [
+        "Seats are allocated in proportion to votes received by each party",
+        "The candidate with the most money wins",
+        "Each district elects one winner",
+        "Only landowners can vote"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electoral-systems-quiz-3",
+      "question": "In a 'first-past-the-post' system, which candidate wins?",
+      "options": [
+        "The one who reaches 50% of votes",
+        "The one approved by a committee",
+        "The one with the most votes, regardless of majority",
+        "The one who wins a runoff election"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-4",
+      "question": "Which country is famous for its compulsory voting system?",
+      "options": [
+        "Australia",
+        "United States",
+        "Canada",
+        "United Kingdom"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electoral-systems-quiz-5",
+      "question": "A 'referendum' is a vote in which the entire electorate is asked to decide on what?",
+      "options": [
+        "Tax rates for the next year",
+        "A specific proposal or issue",
+        "Judges for the supreme court",
+        "Who should be president"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electoral-systems-quiz-6",
+      "question": "What is 'gerrymandering'?",
+      "options": [
+        "A method of counting votes",
+        "Banning certain candidates from running",
+        "A type of voter fraud",
+        "Manipulating electoral district boundaries for political advantage"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electoral-systems-quiz-7",
+      "question": "In a 'ranked-choice voting' system, voters do what?",
+      "options": [
+        "Vote only for their preferred party",
+        "Vote on separate days for each candidate",
+        "Vote for multiple candidates by ranking them in order of preference",
+        "Vote for only one candidate"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-8",
+      "question": "The French presidential election uses which voting system?",
+      "options": [
+        "Two-round runoff system",
+        "Electoral college",
+        "First-past-the-post",
+        "Proportional representation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electoral-systems-quiz-9",
+      "question": "What is a 'caucus' in the context of U.S. elections?",
+      "options": [
+        "A congressional committee",
+        "A type of ballot counting method",
+        "A local gathering where party members discuss and vote for candidates",
+        "A formal election day"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-10",
+      "question": "New Zealand was the first self-governing country to grant women the right to vote in national elections, in which year?",
+      "options": [
+        "1910",
+        "1893",
+        "1882",
+        "1901"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electoral-systems-quiz-11",
+      "question": "The 'butterfly ballot' became infamous in U.S. politics due to confusion in which state during the 2000 election?",
+      "options": [
+        "Michigan",
+        "California",
+        "Florida",
+        "Ohio"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-12",
+      "question": "What is a 'primary election' in the United States?",
+      "options": [
+        "An election for local offices only",
+        "A midterm congressional election",
+        "A preliminary election to select a party's candidate",
+        "The general election for president"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-13",
+      "question": "Which European country uses a system called 'Mixed Member Proportional' representation?",
+      "options": [
+        "Italy",
+        "Spain",
+        "Germany",
+        "France"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-14",
+      "question": "In India, the Election Commission is responsible for conducting elections. India's general elections are the world's largest democratic exercise with how many eligible voters (approximately)?",
+      "options": [
+        "2 billion",
+        "400 million",
+        "Over 900 million",
+        "600 million"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electoral-systems-quiz-15",
+      "question": "What does the term 'suffrage' mean?",
+      "options": [
+        "The right to free speech",
+        "The right to vote",
+        "The right to run for office",
+        "The right to a fair trial"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -8,7 +8,12 @@
     {
       "id": "rw-1",
       "question": "The Latin root 'aqua' means what?",
-      "options": ["Fire", "Earth", "Water", "Air"],
+      "options": [
+        "Air",
+        "Earth",
+        "Water",
+        "Fire"
+      ],
       "correctAnswer": 2,
       "explanation": "The Latin root 'aqua' means water. It appears in words like aquarium (a water tank for fish), aqueduct (a water channel), and aquatic (relating to water).",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "rw-2",
       "question": "What does the Greek root 'photo' mean?",
-      "options": ["Sound", "Light", "Color", "Heat"],
-      "correctAnswer": 1,
+      "options": [
+        "Heat",
+        "Color",
+        "Sound",
+        "Light"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Greek root 'photo' (from 'phos') means light. It appears in photograph (writing with light), photosynthesis (putting together with light), and photon (a particle of light).",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "rw-3",
       "question": "The Latin root 'scrib' or 'script' means what?",
-      "options": ["To read", "To speak", "To write", "To draw"],
-      "correctAnswer": 2,
+      "options": [
+        "To read",
+        "To write",
+        "To speak",
+        "To draw"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Latin root 'scrib/script' means to write. It gives us words like describe, manuscript (written by hand), prescription, and scripture.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "rw-4",
       "question": "What does the Greek root 'bio' mean?",
-      "options": ["Death", "Life", "Earth", "Body"],
-      "correctAnswer": 1,
+      "options": [
+        "Body",
+        "Earth",
+        "Life",
+        "Death"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Greek root 'bio' means life. It appears in biology (the study of life), biography (writing about a life), and antibiotic (against life — referring to bacteria).",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "rw-5",
       "question": "The Latin root 'port' means what?",
-      "options": ["To carry", "To build", "To break", "To speak"],
-      "correctAnswer": 0,
+      "options": [
+        "To break",
+        "To speak",
+        "To carry",
+        "To build"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Latin root 'port' means to carry. It appears in transport (carry across), portable (able to be carried), import (carry in), and export (carry out).",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "rw-6",
       "question": "What does the Greek root 'chron' mean?",
-      "options": ["Color", "Body", "Time", "Sound"],
-      "correctAnswer": 2,
+      "options": [
+        "Color",
+        "Time",
+        "Body",
+        "Sound"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Greek root 'chron' (from 'chronos') means time. It gives us chronological (in time order), chronic (lasting a long time), and synchronize (happening at the same time).",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "rw-7",
       "question": "The Latin root 'dict' means what?",
-      "options": ["To write", "To say or speak", "To think", "To see"],
-      "correctAnswer": 1,
+      "options": [
+        "To say or speak",
+        "To write",
+        "To think",
+        "To see"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Latin root 'dict' means to say or speak. It appears in dictionary (a book of spoken words), dictate (to speak for someone to write), and predict (to say before).",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "rw-8",
       "question": "What does the Greek root 'geo' mean?",
-      "options": ["Water", "Star", "Earth", "Sky"],
-      "correctAnswer": 2,
+      "options": [
+        "Water",
+        "Earth",
+        "Star",
+        "Sky"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Greek root 'geo' means earth. It gives us geography (writing about the earth), geology (study of the earth), and geometry (originally meaning 'earth measurement').",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "rw-9",
       "question": "The Latin root 'aud' means what?",
-      "options": ["To see", "To hear", "To taste", "To touch"],
-      "correctAnswer": 1,
+      "options": [
+        "To touch",
+        "To taste",
+        "To see",
+        "To hear"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Latin root 'aud' means to hear. It appears in audience (those who hear), auditorium (a place for hearing), audio (relating to sound), and audible (able to be heard).",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "rw-10",
       "question": "What does the Greek root 'graph' mean?",
-      "options": ["To count", "To measure", "To write or draw", "To cut"],
-      "correctAnswer": 2,
+      "options": [
+        "To count",
+        "To cut",
+        "To measure",
+        "To write or draw"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Greek root 'graph' means to write or draw. It gives us autograph (self-writing), paragraph (writing beside), and graphic (relating to drawing or visual representation).",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "rw-11",
       "question": "The Latin root 'bene' means what?",
-      "options": ["Bad", "Good or well", "Strong", "Fast"],
-      "correctAnswer": 1,
+      "options": [
+        "Strong",
+        "Fast",
+        "Bad",
+        "Good or well"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Latin root 'bene' means good or well. It appears in benefit (a good deed), benevolent (wishing well), and benediction (a good saying or blessing). Its opposite is 'mal' (bad).",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "rw-12",
       "question": "What does the Greek root 'morph' mean?",
-      "options": ["Death", "Form or shape", "Change", "Movement"],
-      "correctAnswer": 1,
+      "options": [
+        "Change",
+        "Movement",
+        "Death",
+        "Form or shape"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Greek root 'morph' means form or shape. It appears in metamorphosis (change of form), morphology (study of form), and amorphous (without definite form).",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "rw-13",
       "question": "The Latin root 'cogn' means what?",
-      "options": ["To know", "To think", "To remember", "To forget"],
-      "correctAnswer": 0,
+      "options": [
+        "To remember",
+        "To forget",
+        "To know",
+        "To think"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Latin root 'cogn' (from 'cognoscere') means to know. It appears in recognize (to know again), cognition (the process of knowing), and incognito (not known).",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "rw-14",
       "question": "What does the Greek root 'path' mean?",
-      "options": ["Walk", "Feeling or suffering", "Truth", "Wisdom"],
-      "correctAnswer": 1,
+      "options": [
+        "Feeling or suffering",
+        "Wisdom",
+        "Truth",
+        "Walk"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Greek root 'path' (from 'pathos') means feeling or suffering. It gives us sympathy (feeling together), empathy (feeling into), pathology (study of suffering/disease), and apathy (without feeling).",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "rw-15",
       "question": "The Latin root 'voc' or 'vok' means what?",
-      "options": ["To call or voice", "To see", "To run", "To live"],
+      "options": [
+        "To call or voice",
+        "To live",
+        "To run",
+        "To see"
+      ],
       "correctAnswer": 0,
       "explanation": "The Latin root 'voc/vok' means to call or voice. It appears in vocabulary (collection of words one can call upon), vocation (a calling), vocal (relating to the voice), and evoke (to call out).",
       "difficulty": "hard",

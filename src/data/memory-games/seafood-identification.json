@@ -1,0 +1,173 @@
+{
+  "id": "seafood-identification",
+  "title": "Seafood Identification",
+  "description": "From lobster to langoustine — can you identify these seafood varieties?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "seafood-identification-1",
+      "question": "Which shellfish is known for its blue-black shell and is a key ingredient in moules-frites?",
+      "options": [
+        "Scallop",
+        "Oyster",
+        "Mussel",
+        "Clam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seafood-identification-2",
+      "question": "What type of seafood is a langoustine?",
+      "options": [
+        "A large shrimp",
+        "A small lobster (Norway lobster)",
+        "A type of crab",
+        "A type of squid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seafood-identification-3",
+      "question": "Which fish is famous for its mild, white flesh and is the most commonly used fish in fish and chips?",
+      "options": [
+        "Cod",
+        "Swordfish",
+        "Tuna",
+        "Salmon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seafood-identification-4",
+      "question": "What is the difference between a prawn and a shrimp?",
+      "options": [
+        "Prawns are freshwater, shrimp are saltwater",
+        "Prawns are always larger",
+        "Prawns have branching gills and claws on three pairs of legs; shrimp have plate-like gills",
+        "They are exactly the same"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seafood-identification-5",
+      "question": "Which prized seafood delicacy consists of salt-cured fish eggs?",
+      "options": [
+        "Roe",
+        "Tobiko",
+        "Caviar",
+        "Uni"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seafood-identification-6",
+      "question": "Calamari, a popular appetizer, is made from which sea creature?",
+      "options": [
+        "Cuttlefish",
+        "Octopus",
+        "Squid",
+        "Jellyfish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seafood-identification-7",
+      "question": "Which type of crab is prized for its sweet, tender meat and is harvested in Alaska?",
+      "options": [
+        "Dungeness crab",
+        "Blue crab",
+        "Stone crab",
+        "King crab"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seafood-identification-8",
+      "question": "Uni, a delicacy in Japanese cuisine, comes from which sea creature?",
+      "options": [
+        "Sea horse",
+        "Starfish",
+        "Sea urchin",
+        "Sea cucumber"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seafood-identification-9",
+      "question": "Which fish is known for its pink flesh and its ability to swim upstream to spawn?",
+      "options": [
+        "Trout",
+        "Salmon",
+        "Steelhead",
+        "Char"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seafood-identification-10",
+      "question": "Abalone is a type of what?",
+      "options": [
+        "Crustacean",
+        "Sea snail (gastropod mollusk)",
+        "Echinoderm",
+        "Fish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seafood-identification-11",
+      "question": "Which fish, popular in Mediterranean cuisine, is often preserved in olive oil and salt?",
+      "options": [
+        "Mackerel",
+        "Anchovy",
+        "Sardine",
+        "Herring"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seafood-identification-12",
+      "question": "What distinguishes a scallop from other bivalves?",
+      "options": [
+        "Its shell has a fan-shaped ribbed pattern",
+        "It has a spiral shell",
+        "It cannot close its shell",
+        "It lives buried deep in sand"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seafood-identification-13",
+      "question": "Which flat fish has both eyes on one side of its body and lies camouflaged on the ocean floor?",
+      "options": [
+        "Flounder",
+        "Grouper",
+        "Catfish",
+        "Bass"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seafood-identification-14",
+      "question": "Crayfish (crawfish) resemble small lobsters and are found in what type of water?",
+      "options": [
+        "Arctic seas",
+        "Deep ocean",
+        "Tropical coral reefs",
+        "Freshwater rivers and streams"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seafood-identification-15",
+      "question": "Which seafood is traditionally eaten raw on the half shell, often with lemon and mignonette sauce?",
+      "options": [
+        "Clams",
+        "Oysters",
+        "Scallops",
+        "Mussels"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

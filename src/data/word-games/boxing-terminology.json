@@ -1,0 +1,219 @@
+{
+  "id": "boxing-terminology",
+  "title": "Boxing Terminology",
+  "description": "Step into the ring and test your knowledge of boxing terms!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "boxing-terminology-1",
+      "question": "In boxing, what is a 'southpaw'?",
+      "options": [
+        "A right-handed boxer",
+        "A left-handed boxer",
+        "A boxer who fights defensively",
+        "A boxer who leads with jabs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A southpaw is a left-handed boxer who leads with the right hand and right foot forward, the mirror image of the orthodox stance.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-2",
+      "question": "What does 'TKO' stand for in boxing?",
+      "options": [
+        "Third Knockdown Out",
+        "Time Kept Ongoing",
+        "Technical Knockout",
+        "Total Knockout Option"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TKO stands for Technical Knockout, when the referee stops the fight because one boxer cannot safely continue, even though they have not been knocked down for a full count.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-3",
+      "question": "In boxing, what is 'rope-a-dope'?",
+      "options": [
+        "A training drill using ring ropes",
+        "A penalty for holding the ropes",
+        "A strategy of leaning on the ropes and letting the opponent tire themselves out",
+        "A style of jumping rope for conditioning"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rope-a-dope is a strategy famously used by Muhammad Ali, where a boxer leans against the ropes, absorbs punches, and lets the opponent exhaust themselves before counterattacking.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-4",
+      "question": "What is a 'standing eight count' in boxing?",
+      "options": [
+        "An eight-punch combination",
+        "An eight-second rest between rounds",
+        "Counting to eight before the bell rings",
+        "A mandatory count given to a standing but hurt boxer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A standing eight count is when the referee temporarily stops the action to count to eight and assess whether a standing but visibly hurt boxer can safely continue.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-5",
+      "question": "In boxing, what is an 'uppercut'?",
+      "options": [
+        "A vertical rising punch thrown upward toward the chin",
+        "A quick straight punch to the body",
+        "A wide looping punch",
+        "A downward chop to the shoulder"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An uppercut is a powerful vertical punch thrown in an upward arc, typically targeting the opponent's chin or solar plexus at close range.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-6",
+      "question": "What does 'throwing in the towel' mean in boxing?",
+      "options": [
+        "A foul for using a foreign object",
+        "Wiping sweat between rounds",
+        "Celebrating a victory",
+        "A corner stopping the fight by tossing a towel into the ring"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Throwing in the towel is when a boxer's corner team tosses a towel into the ring to signal they want the fight stopped, conceding defeat to protect their fighter.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-7",
+      "question": "In boxing, what is a 'clinch'?",
+      "options": [
+        "Holding or grappling an opponent at close range to prevent punching",
+        "A knockout blow",
+        "A winning punch",
+        "A quick defensive sidestep"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A clinch occurs when a boxer grabs or holds the opponent at close range, tying up their arms to prevent further exchanges, often used as a defensive tactic.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-8",
+      "question": "What is a 'rabbit punch' in boxing?",
+      "options": [
+        "A very fast jab",
+        "An illegal punch to the back of the head or neck",
+        "A punch thrown while hopping",
+        "A light tap punch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rabbit punch is an illegal blow to the back of the head or neck, named after the method used to dispatch rabbits. It is banned because it can cause serious spinal injury.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-9",
+      "question": "In boxing, what does 'pound for pound' mean?",
+      "options": [
+        "A ranking of fighters regardless of weight class based on overall skill",
+        "A method of weighing boxers",
+        "The exchange rate of punches landed",
+        "The cost of a boxing match per pound of weight"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pound for pound is a ranking concept that attempts to determine the best boxer regardless of weight class, evaluating skill, achievement, and dominance relative to competition.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-10",
+      "question": "What is the 'sweet science' a nickname for?",
+      "options": [
+        "Boxing",
+        "Fencing",
+        "Wrestling",
+        "Gymnastics"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Boxing is known as 'the sweet science,' a term popularized by sportswriter A.J. Liebling, referring to the skill, strategy, and artistry involved in the sport.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-11",
+      "question": "In boxing, what is a 'haymaker'?",
+      "options": [
+        "A jab followed by a cross",
+        "A defensive block",
+        "A wild, powerful swinging punch",
+        "A punch aimed at the stomach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A haymaker is a wild, looping, powerful punch thrown with maximum force, often sacrificing accuracy and leaving the thrower open to counter-punches.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-12",
+      "question": "What is 'stick and move' in boxing?",
+      "options": [
+        "A foul involving pushing",
+        "The post-fight celebration dance",
+        "A training exercise with a heavy bag",
+        "A strategy of jabbing and quickly moving to avoid counter-punches"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stick and move is a boxing strategy where the fighter uses quick jabs ('sticks') and then immediately moves away to avoid being hit in return.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-13",
+      "question": "In boxing, what is the 'neutral corner'?",
+      "options": [
+        "Either of the two ring corners not assigned to a boxer",
+        "The center of the ring",
+        "The corner where neither fighter's team sits",
+        "The corner closest to the judges"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The neutral corners are the two corners of the ring not occupied by either boxer's team. A fighter who scores a knockdown must retreat to a neutral corner while the referee counts.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-14",
+      "question": "What does 'on the canvas' mean in boxing?",
+      "options": [
+        "A boxer has been knocked down to the mat",
+        "Painting a mural at the venue",
+        "Fighting in an outdoor ring",
+        "The undercard of a fight"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'On the canvas' means a boxer has been knocked down, referring to the canvas material covering the ring floor.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "boxing-terminology-15",
+      "question": "In boxing, what is a 'body shot'?",
+      "options": [
+        "A punch aimed at the opponent's torso",
+        "A shot of adrenaline given between rounds",
+        "A photograph of the boxer",
+        "A punch thrown while turning the body"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A body shot is a punch targeted at the opponent's torso, particularly the ribs and solar plexus, designed to weaken and slow the opponent over the course of a fight.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

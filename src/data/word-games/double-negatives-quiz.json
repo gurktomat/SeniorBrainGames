@@ -1,0 +1,173 @@
+{
+  "id": "double-negatives-quiz",
+  "title": "Double Negatives Quiz",
+  "description": "Two negatives don't make a positive in grammar! Learn to spot and correct double negative errors.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "double-negatives-quiz-1",
+      "question": "Which sentence contains a double negative?",
+      "options": [
+        "I have none.",
+        "I don't have no money.",
+        "I don't have any money.",
+        "I have no money."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-2",
+      "question": "What is a double negative?",
+      "options": [
+        "Using two positive words together",
+        "Using two negative words in the same clause, which is nonstandard",
+        "Using a negative word at the end of a sentence",
+        "A sentence with no negatives at all"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-3",
+      "question": "Which correction fixes the double negative? 'She can't hardly wait.'",
+      "options": [
+        "She can hardly wait.",
+        "Both A and B are correct",
+        "She can't wait.",
+        "She can't not wait."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-4",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "I never saw nothing.",
+        "I didn't see nothing.",
+        "I didn't see anything.",
+        "I didn't see none of them."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "double-negatives-quiz-5",
+      "question": "Which word is a 'hidden' negative that can create a double negative with 'not'?",
+      "options": [
+        "Barely",
+        "Sometimes",
+        "Always",
+        "Often"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "double-negatives-quiz-6",
+      "question": "Fix: 'He doesn't know nothing about cars.'",
+      "options": [
+        "He doesn't knows nothing about cars.",
+        "He knows nothing about cars.",
+        "Both A and B are correct",
+        "He doesn't know anything about cars."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "double-negatives-quiz-7",
+      "question": "Which sentence has a double negative?",
+      "options": [
+        "She rarely goes out.",
+        "She never goes anywhere.",
+        "She doesn't never go anywhere.",
+        "She goes nowhere."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "double-negatives-quiz-8",
+      "question": "Is the sentence 'I can't get no satisfaction' grammatically standard?",
+      "options": [
+        "No, it contains a double negative.",
+        "Yes, it is standard English.",
+        "It is only correct in British English.",
+        "It is a triple negative."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "double-negatives-quiz-9",
+      "question": "Which word should replace 'nothing' to fix the double negative? 'We won't do nothing.'",
+      "options": [
+        "everything",
+        "anything",
+        "something",
+        "none"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-10",
+      "question": "Which sentence is correct?",
+      "options": [
+        "There isn't none milk left.",
+        "There isn't any milk left.",
+        "There isn't never milk left.",
+        "There isn't no milk left."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-11",
+      "question": "Can double negatives ever be used intentionally in standard English?",
+      "options": [
+        "Only in poetry",
+        "Yes, for understatement or litotes (e.g., 'not uncommon')",
+        "No, never",
+        "Only in legal documents"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-12",
+      "question": "What does 'not uncommon' actually mean?",
+      "options": [
+        "Fairly common",
+        "Extremely common",
+        "Very rare",
+        "Impossible"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "double-negatives-quiz-13",
+      "question": "Fix: 'I haven't got no complaints.'",
+      "options": [
+        "Both A and B are correct",
+        "I have no complaints.",
+        "I haven't got none complaints.",
+        "I haven't got any complaints."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "double-negatives-quiz-14",
+      "question": "Which sentence contains a subtle double negative?",
+      "options": [
+        "She ate very little.",
+        "She couldn't barely eat.",
+        "She could barely eat.",
+        "She could hardly eat."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "double-negatives-quiz-15",
+      "question": "In some languages, double negatives are standard. In standard English, they are generally ___.",
+      "options": [
+        "Considered grammatically incorrect",
+        "Required in formal writing",
+        "Encouraged for emphasis",
+        "Used only in questions"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

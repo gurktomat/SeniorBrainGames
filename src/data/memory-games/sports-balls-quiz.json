@@ -1,0 +1,173 @@
+{
+  "id": "sports-balls-quiz",
+  "title": "Sports Balls Quiz",
+  "description": "Can you match the right ball to the right sport? Test your memory of sports balls",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sports-balls-quiz-1",
+      "question": "A regulation basketball has a circumference of approximately how many inches?",
+      "options": [
+        "24 inches",
+        "29.5 inches",
+        "27 inches",
+        "32 inches"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-balls-quiz-2",
+      "question": "The dimples on a golf ball serve what primary purpose?",
+      "options": [
+        "Reducing air resistance and increasing lift",
+        "Absorbing moisture",
+        "Decoration",
+        "Making the ball easier to grip"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-3",
+      "question": "A standard tennis ball is covered in what type of material?",
+      "options": [
+        "Felt (fuzzy fabric)",
+        "Rubber",
+        "Synthetic mesh",
+        "Leather"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-4",
+      "question": "The sport of bocce uses balls made primarily of what material?",
+      "options": [
+        "Wood or resin composite",
+        "Inflated leather",
+        "Cork",
+        "Rubber"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-5",
+      "question": "How many panels make up a traditional soccer ball (the classic black-and-white design)?",
+      "options": [
+        "28",
+        "20",
+        "36",
+        "32"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-balls-quiz-6",
+      "question": "A bowling ball has how many finger holes?",
+      "options": [
+        "Four",
+        "Five",
+        "Two",
+        "Three"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-balls-quiz-7",
+      "question": "A cricket ball is traditionally what color in Test matches?",
+      "options": [
+        "Orange",
+        "Red",
+        "Yellow",
+        "White"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-balls-quiz-8",
+      "question": "A table tennis (ping pong) ball is made of what material?",
+      "options": [
+        "Celluloid or plastic polymer",
+        "Rubber",
+        "Foam",
+        "Cork"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-9",
+      "question": "The American football has a distinctive shape called what?",
+      "options": [
+        "Prolate spheroid (oval)",
+        "Sphere",
+        "Cylinder",
+        "Cone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-10",
+      "question": "A regulation baseball has how many stitches?",
+      "options": [
+        "108",
+        "148",
+        "88",
+        "128"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-11",
+      "question": "In rugby, the ball is similar in shape to an American football but is generally what?",
+      "options": [
+        "Smaller and harder",
+        "Square-shaped",
+        "Identical in every way",
+        "Larger and more rounded"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-balls-quiz-12",
+      "question": "A squash ball is notably smaller than a tennis ball and is what color?",
+      "options": [
+        "Green",
+        "Yellow",
+        "Black",
+        "White"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-balls-quiz-13",
+      "question": "Water polo uses a ball that is similar in size to which other sport's ball?",
+      "options": [
+        "Soccer ball",
+        "Tennis ball",
+        "Basketball",
+        "Volleyball"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-14",
+      "question": "A volleyball is typically what color combination?",
+      "options": [
+        "White with colored panels (often blue and yellow)",
+        "Green and white stripes",
+        "All red",
+        "All black"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-balls-quiz-15",
+      "question": "A lacrosse ball is about the size of a tennis ball and made of what?",
+      "options": [
+        "Inflated leather",
+        "Cork wrapped in yarn",
+        "Solid rubber",
+        "Plastic with air inside"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

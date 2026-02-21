@@ -8,8 +8,13 @@
     {
       "id": "pn-1",
       "question": "What is 'arachnophobia' the fear of?",
-      "options": ["Heights", "Spiders", "Small spaces", "Water"],
-      "correctAnswer": 1,
+      "options": [
+        "Small spaces",
+        "Water",
+        "Spiders",
+        "Heights"
+      ],
+      "correctAnswer": 2,
       "explanation": "Arachnophobia is the fear of spiders and other arachnids. It is one of the most common phobias worldwide.",
       "difficulty": "easy",
       "category": "science"
@@ -17,8 +22,13 @@
     {
       "id": "pn-2",
       "question": "What is 'claustrophobia' the fear of?",
-      "options": ["Darkness", "Crowds", "Enclosed spaces", "Thunder"],
-      "correctAnswer": 2,
+      "options": [
+        "Enclosed spaces",
+        "Darkness",
+        "Thunder",
+        "Crowds"
+      ],
+      "correctAnswer": 0,
       "explanation": "Claustrophobia is the fear of enclosed or confined spaces. It comes from the Latin 'claustrum' (a shut-in place) and the Greek 'phobos' (fear).",
       "difficulty": "easy",
       "category": "science"
@@ -26,8 +36,13 @@
     {
       "id": "pn-3",
       "question": "What is 'acrophobia' the fear of?",
-      "options": ["Heights", "Open spaces", "Flying", "Needles"],
-      "correctAnswer": 0,
+      "options": [
+        "Open spaces",
+        "Heights",
+        "Needles",
+        "Flying"
+      ],
+      "correctAnswer": 1,
       "explanation": "Acrophobia is the fear of heights. It comes from the Greek 'akron' (peak, summit) and 'phobos' (fear).",
       "difficulty": "easy",
       "category": "science"
@@ -35,8 +50,13 @@
     {
       "id": "pn-4",
       "question": "What does 'hydrophobia' refer to?",
-      "options": ["Fear of blood", "Fear of water", "Fear of ice", "Fear of drowning"],
-      "correctAnswer": 1,
+      "options": [
+        "Fear of blood",
+        "Fear of ice",
+        "Fear of water",
+        "Fear of drowning"
+      ],
+      "correctAnswer": 2,
       "explanation": "Hydrophobia is the fear of water. The term is also historically associated with rabies, as infected individuals often develop difficulty swallowing water.",
       "difficulty": "easy",
       "category": "science"
@@ -44,8 +64,13 @@
     {
       "id": "pn-5",
       "question": "What is 'cynophobia' the fear of?",
-      "options": ["Cats", "Dogs", "Snakes", "Birds"],
-      "correctAnswer": 1,
+      "options": [
+        "Dogs",
+        "Snakes",
+        "Birds",
+        "Cats"
+      ],
+      "correctAnswer": 0,
       "explanation": "Cynophobia is the fear of dogs. It comes from the Greek 'kyon' (dog). It is one of the most common animal phobias.",
       "difficulty": "easy",
       "category": "science"
@@ -53,8 +78,13 @@
     {
       "id": "pn-6",
       "question": "What is 'trypanophobia' the fear of?",
-      "options": ["Holes", "Needles and injections", "Germs", "Surgery"],
-      "correctAnswer": 1,
+      "options": [
+        "Germs",
+        "Surgery",
+        "Holes",
+        "Needles and injections"
+      ],
+      "correctAnswer": 3,
       "explanation": "Trypanophobia is the fear of needles and injections. It affects an estimated 10% of the population and can cause people to avoid medical care.",
       "difficulty": "medium",
       "category": "science"
@@ -62,8 +92,13 @@
     {
       "id": "pn-7",
       "question": "What is 'glossophobia' the fear of?",
-      "options": ["Gloss or shiny surfaces", "Public speaking", "Languages", "Lips"],
-      "correctAnswer": 1,
+      "options": [
+        "Languages",
+        "Gloss or shiny surfaces",
+        "Lips",
+        "Public speaking"
+      ],
+      "correctAnswer": 3,
       "explanation": "Glossophobia is the fear of public speaking. It comes from the Greek 'glossa' (tongue). It is one of the most common social fears.",
       "difficulty": "medium",
       "category": "science"
@@ -71,8 +106,13 @@
     {
       "id": "pn-8",
       "question": "What is 'nyctophobia' the fear of?",
-      "options": ["Night or darkness", "Cats", "Insects", "Numbers"],
-      "correctAnswer": 0,
+      "options": [
+        "Cats",
+        "Numbers",
+        "Night or darkness",
+        "Insects"
+      ],
+      "correctAnswer": 2,
       "explanation": "Nyctophobia is the fear of the dark or nighttime. It comes from the Greek 'nyx' (night). While common in children, it can persist into adulthood.",
       "difficulty": "medium",
       "category": "science"
@@ -80,7 +120,12 @@
     {
       "id": "pn-9",
       "question": "What is 'ophidiophobia' the fear of?",
-      "options": ["Eyes", "Snakes", "Doctors", "Open spaces"],
+      "options": [
+        "Eyes",
+        "Snakes",
+        "Open spaces",
+        "Doctors"
+      ],
       "correctAnswer": 1,
       "explanation": "Ophidiophobia is the fear of snakes. It comes from the Greek 'ophis' (serpent). Some researchers believe it may have evolutionary origins.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "pn-10",
       "question": "What is 'trypophobia' the fear of?",
-      "options": ["Trying new things", "Clusters of small holes", "Triangles", "Loud noises"],
-      "correctAnswer": 1,
+      "options": [
+        "Loud noises",
+        "Triangles",
+        "Clusters of small holes",
+        "Trying new things"
+      ],
+      "correctAnswer": 2,
       "explanation": "Trypophobia is the fear or disgust of clusters of small holes or bumps. It was only named in 2005 and is still debated as a true phobia.",
       "difficulty": "medium",
       "category": "science"
@@ -98,8 +148,13 @@
     {
       "id": "pn-11",
       "question": "What is 'hippopotomonstrosesquippedaliophobia' ironically the fear of?",
-      "options": ["Hippos", "Monsters", "Long words", "Large animals"],
-      "correctAnswer": 2,
+      "options": [
+        "Large animals",
+        "Long words",
+        "Hippos",
+        "Monsters"
+      ],
+      "correctAnswer": 1,
       "explanation": "Hippopotomonstrosesquippedaliophobia is, ironically, the fear of long words. The name itself is deliberately long as a humorous way to describe the condition.",
       "difficulty": "hard",
       "category": "science"
@@ -107,8 +162,13 @@
     {
       "id": "pn-12",
       "question": "What is 'pogonophobia' the fear of?",
-      "options": ["Beards", "Pogo sticks", "Poison", "Music"],
-      "correctAnswer": 0,
+      "options": [
+        "Poison",
+        "Beards",
+        "Pogo sticks",
+        "Music"
+      ],
+      "correctAnswer": 1,
       "explanation": "Pogonophobia is the fear of beards. It comes from the Greek 'pogon' (beard). Some people experience genuine anxiety around heavily bearded individuals.",
       "difficulty": "hard",
       "category": "science"
@@ -116,7 +176,12 @@
     {
       "id": "pn-13",
       "question": "What is 'chrometophobia' the fear of?",
-      "options": ["Colors", "Chrome or metal", "Money", "Time"],
+      "options": [
+        "Chrome or metal",
+        "Time",
+        "Money",
+        "Colors"
+      ],
       "correctAnswer": 2,
       "explanation": "Chrometophobia (also spelled chrematophobia) is the fear of money. It can manifest as anxiety about handling money or fear of financial matters.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "pn-14",
       "question": "What is 'ablutophobia' the fear of?",
-      "options": ["Absolutes", "Bathing or washing", "Pollution", "Blue colors"],
+      "options": [
+        "Blue colors",
+        "Bathing or washing",
+        "Pollution",
+        "Absolutes"
+      ],
       "correctAnswer": 1,
       "explanation": "Ablutophobia is the fear of bathing, washing, or cleaning. It comes from the Latin 'ablutere' (to wash off). It is more common in children.",
       "difficulty": "hard",
@@ -134,7 +204,12 @@
     {
       "id": "pn-15",
       "question": "What is 'nomophobia' the fear of?",
-      "options": ["Being without your mobile phone", "Names", "Laws and rules", "Numbers"],
+      "options": [
+        "Being without your mobile phone",
+        "Laws and rules",
+        "Names",
+        "Numbers"
+      ],
       "correctAnswer": 0,
       "explanation": "Nomophobia is the fear of being without your mobile phone or being unable to use it. The term comes from 'no-mobile-phone phobia' and was coined in 2008.",
       "difficulty": "hard",

@@ -1,0 +1,173 @@
+{
+  "id": "migratory-birds-quiz",
+  "title": "Migratory Birds",
+  "description": "Explore the amazing journeys of birds that travel thousands of miles across continents each year.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "migratory-birds-quiz-1",
+      "question": "Which bird holds the record for the longest migration, flying from Arctic to Antarctic and back?",
+      "options": [
+        "Swallow",
+        "Bar-tailed godwit",
+        "Arctic tern",
+        "Albatross"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "migratory-birds-quiz-2",
+      "question": "The V-formation used by migrating geese helps the flock do what?",
+      "options": [
+        "Conserve energy",
+        "Navigate better",
+        "Stay warm",
+        "Avoid predators"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "migratory-birds-quiz-3",
+      "question": "Monarch butterflies migrate, but which bird is famous for migrating to Capistrano, California each spring?",
+      "options": [
+        "Robin",
+        "Pelican",
+        "Hummingbird",
+        "Cliff swallow"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-4",
+      "question": "How do many migratory birds navigate during their journeys?",
+      "options": [
+        "By following other bird species",
+        "Using Earth's magnetic field, stars, and the sun",
+        "By memory alone",
+        "By following rivers only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "migratory-birds-quiz-5",
+      "question": "The ruby-throated hummingbird migrates across which body of water nonstop?",
+      "options": [
+        "Caribbean Sea",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Gulf of Mexico"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-6",
+      "question": "Which large bird migrates from Europe to Africa and was historically believed to bring babies?",
+      "options": [
+        "Pelican",
+        "Heron",
+        "Crane",
+        "Stork"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-7",
+      "question": "The bar-tailed godwit holds the record for the longest nonstop flight of about how many miles?",
+      "options": [
+        "3,000 miles",
+        "9,000 miles",
+        "7,000 miles",
+        "5,000 miles"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "migratory-birds-quiz-8",
+      "question": "What season do most birds in the Northern Hemisphere migrate south?",
+      "options": [
+        "Summer",
+        "Winter",
+        "Spring",
+        "Autumn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-9",
+      "question": "Which migratory bird is famous for its annual return to the wetlands of Bosque del Apache in New Mexico?",
+      "options": [
+        "Sandhill crane",
+        "Whooping crane",
+        "Bald eagle",
+        "Snow goose"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "migratory-birds-quiz-10",
+      "question": "The European cuckoo is known for migrating to Africa but also for what unusual behavior?",
+      "options": [
+        "Building the largest nests",
+        "Singing at night",
+        "Laying eggs in other birds' nests",
+        "Swimming underwater"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "migratory-birds-quiz-11",
+      "question": "What term describes birds that do NOT migrate and stay in one area year-round?",
+      "options": [
+        "Colonial",
+        "Nomadic",
+        "Territorial",
+        "Sedentary"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-12",
+      "question": "Which North American warbler migrates from Canada to South America, a journey of over 3,000 miles?",
+      "options": [
+        "Pine warbler",
+        "Palm warbler",
+        "Yellow warbler",
+        "Blackpoll warbler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "migratory-birds-quiz-13",
+      "question": "What is the primary reason birds migrate?",
+      "options": [
+        "To escape predators",
+        "To follow food sources and suitable breeding conditions",
+        "To explore new territories",
+        "To find mates"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "migratory-birds-quiz-14",
+      "question": "The whooping crane, one of North America's rarest birds, migrates between Texas and which Canadian province?",
+      "options": [
+        "British Columbia",
+        "Alberta",
+        "Manitoba",
+        "Saskatchewan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "migratory-birds-quiz-15",
+      "question": "What is the term for the path that migratory birds follow each year?",
+      "options": [
+        "Flight path",
+        "Flyway",
+        "Bird highway",
+        "Migration corridor"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

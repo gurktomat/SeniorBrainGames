@@ -1,0 +1,174 @@
+{
+  "id": "hand-tools-quiz",
+  "title": "Hand Tools Quiz",
+  "description": "Test your knowledge of essential hand tools. From screwdrivers to pliers, how many can you identify?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "hand-tools-quiz-1",
+      "question": "Which hand tool has an adjustable jaw width controlled by a thumbscrew, used to turn nuts and bolts of various sizes?",
+      "options": [
+        "Box wrench",
+        "Adjustable wrench (Crescent wrench)",
+        "Pipe wrench",
+        "Socket wrench"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hand-tools-quiz-2",
+      "question": "What are tin snips (aviation snips) used for?",
+      "options": [
+        "Cutting sheet metal and thin materials",
+        "Cutting wire",
+        "Cutting tile",
+        "Cutting rope"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hand-tools-quiz-3",
+      "question": "Which tool is a pointed metal rod used with a hammer to drive nails below the wood surface?",
+      "options": [
+        "Awl",
+        "Drift pin",
+        "Punch",
+        "Nail set"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hand-tools-quiz-4",
+      "question": "What is a pry bar (crowbar) primarily used for?",
+      "options": [
+        "Hammering nails",
+        "Cutting metal",
+        "Leveraging apart joined materials, removing nails, and prying",
+        "Measuring distances"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hand-tools-quiz-5",
+      "question": "Which hand tool has a handle with a flat or Phillips tip inserted into screw heads to turn them?",
+      "options": [
+        "Nut driver",
+        "Screwdriver",
+        "Drill bit",
+        "Wrench"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hand-tools-quiz-6",
+      "question": "What is a utility knife (box cutter) used for?",
+      "options": [
+        "Carving wood only",
+        "Sharpening pencils",
+        "Cutting cardboard, rope, drywall, and other materials with a retractable blade",
+        "Opening cans"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hand-tools-quiz-7",
+      "question": "Which measuring tool uses a weighted string to determine a perfect vertical line?",
+      "options": [
+        "Plumb bob",
+        "Chalk line",
+        "Square",
+        "Level"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hand-tools-quiz-8",
+      "question": "What are channel-lock pliers (tongue-and-groove pliers) known for?",
+      "options": [
+        "Bending sheet metal",
+        "Holding small electronics",
+        "Cutting wire",
+        "Having an adjustable jaw that can grip objects of many different sizes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hand-tools-quiz-9",
+      "question": "Which hand tool is a flat metal bar with teeth, used to smooth and shape metal or wood?",
+      "options": [
+        "Scraper",
+        "Sandpaper block",
+        "File",
+        "Rasp"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hand-tools-quiz-10",
+      "question": "What is a chalk line (snap line) used for?",
+      "options": [
+        "Marking long, straight lines on surfaces by snapping a chalk-coated string",
+        "Leveling shelves",
+        "Drawing circles",
+        "Measuring curves"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hand-tools-quiz-11",
+      "question": "Which tool has two crossing blades and is used for cutting paper, fabric, wire, and other thin materials?",
+      "options": [
+        "Scissors",
+        "Snips only",
+        "Blade",
+        "Shears only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hand-tools-quiz-12",
+      "question": "What is an awl used for?",
+      "options": [
+        "Tightening screws",
+        "Making a small pilot hole or marking point in wood or leather",
+        "Measuring depth",
+        "Cutting holes in metal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hand-tools-quiz-13",
+      "question": "Which hand tool is essentially a small, heavy hammer with rubber or plastic heads, used to tap without marring?",
+      "options": [
+        "Tack hammer",
+        "Ball-peen hammer",
+        "Rubber mallet",
+        "Sledgehammer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hand-tools-quiz-14",
+      "question": "What are diagonal cutting pliers (side cutters) designed for?",
+      "options": [
+        "Gripping objects",
+        "Stripping insulation",
+        "Bending metal",
+        "Cutting wire and small fasteners with angled cutting edges"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hand-tools-quiz-15",
+      "question": "Which precision measuring tool can measure inside and outside dimensions to hundredths of an inch?",
+      "options": [
+        "Tape measure",
+        "Ruler",
+        "Caliper",
+        "Depth gauge"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

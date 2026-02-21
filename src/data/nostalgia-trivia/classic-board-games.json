@@ -7,8 +7,13 @@
     {
       "id": "board-1",
       "question": "In Monopoly, how much money does each player start with?",
-      "options": ["$1,000", "$1,200", "$1,500", "$2,000"],
-      "correctAnswer": 2,
+      "options": [
+        "$1,000",
+        "$1,500",
+        "$2,000",
+        "$1,200"
+      ],
+      "correctAnswer": 1,
       "explanation": "Each Monopoly player starts with $1,500, divided into denominations of $500, $100, $50, $20, $10, $5, and $1 bills.",
       "difficulty": "medium",
       "category": "culture"
@@ -16,8 +21,13 @@
     {
       "id": "board-2",
       "question": "In the game Clue (Cluedo), which room is in the center of the board?",
-      "options": ["The Kitchen", "The Ballroom", "The Cellar", "The Study"],
-      "correctAnswer": 2,
+      "options": [
+        "The Ballroom",
+        "The Study",
+        "The Kitchen",
+        "The Cellar"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Cellar is in the center of the classic Clue board. Players cannot enter it during normal gameplay — it's used for the envelope holding the solution cards.",
       "difficulty": "medium",
       "category": "culture"
@@ -25,7 +35,12 @@
     {
       "id": "board-3",
       "question": "How many letter tiles are there in a standard English Scrabble set?",
-      "options": ["80", "90", "100", "110"],
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
       "correctAnswer": 2,
       "explanation": "A standard Scrabble set contains exactly 100 letter tiles, including 2 blank tiles that can represent any letter.",
       "difficulty": "hard",
@@ -34,7 +49,12 @@
     {
       "id": "board-4",
       "question": "What year was the board game Risk first released?",
-      "options": ["1949", "1957", "1963", "1971"],
+      "options": [
+        "1963",
+        "1957",
+        "1971",
+        "1949"
+      ],
       "correctAnswer": 1,
       "explanation": "Risk was first published in 1957 in France under the name 'La Conquête du Monde' (The Conquest of the World) by director Albert Lamorisse.",
       "difficulty": "hard",
@@ -43,8 +63,13 @@
     {
       "id": "board-5",
       "question": "In chess, which piece can only move diagonally?",
-      "options": ["Rook", "Knight", "Bishop", "Queen"],
-      "correctAnswer": 2,
+      "options": [
+        "Bishop",
+        "Rook",
+        "Queen",
+        "Knight"
+      ],
+      "correctAnswer": 0,
       "explanation": "The bishop is the only chess piece restricted to diagonal movement. Each player starts with two bishops — one on light squares and one on dark squares.",
       "difficulty": "easy",
       "category": "culture"
@@ -52,8 +77,13 @@
     {
       "id": "board-6",
       "question": "What color are the properties in the most expensive group on a standard US Monopoly board?",
-      "options": ["Green", "Dark Blue", "Red", "Yellow"],
-      "correctAnswer": 1,
+      "options": [
+        "Green",
+        "Yellow",
+        "Red",
+        "Dark Blue"
+      ],
+      "correctAnswer": 3,
       "explanation": "The most expensive properties on the standard US Monopoly board are Park Place and Boardwalk, which belong to the dark blue color group.",
       "difficulty": "easy",
       "category": "culture"
@@ -61,8 +91,13 @@
     {
       "id": "board-7",
       "question": "Trivial Pursuit was invented in which country?",
-      "options": ["United States", "England", "Canada", "Australia"],
-      "correctAnswer": 2,
+      "options": [
+        "Canada",
+        "Australia",
+        "United States",
+        "England"
+      ],
+      "correctAnswer": 0,
       "explanation": "Trivial Pursuit was invented in December 1979 by Canadian journalists Chris Haney and Scott Abbott in Montreal, Quebec.",
       "difficulty": "medium",
       "category": "culture"
@@ -70,8 +105,13 @@
     {
       "id": "board-8",
       "question": "In the game of Life, what do players spin to move?",
-      "options": ["Dice", "A numbered wheel", "A spinner arrow", "Draw cards"],
-      "correctAnswer": 1,
+      "options": [
+        "A numbered wheel",
+        "A spinner arrow",
+        "Dice",
+        "Draw cards"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Game of Life uses a numbered wheel (spinner) instead of dice. Players flick the spinner and move that number of spaces along the track.",
       "difficulty": "easy",
       "category": "culture"
@@ -79,8 +119,13 @@
     {
       "id": "board-9",
       "question": "Which classic game involves removing wooden blocks from a tower without toppling it?",
-      "options": ["Kerplunk", "Jenga", "Pick Up Sticks", "Topple"],
-      "correctAnswer": 1,
+      "options": [
+        "Topple",
+        "Pick Up Sticks",
+        "Jenga",
+        "Kerplunk"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jenga, created by Leslie Scott and first sold in 1983, challenges players to remove one wooden block at a time from a stacked tower without making it fall.",
       "difficulty": "easy",
       "category": "culture"
@@ -88,7 +133,12 @@
     {
       "id": "board-10",
       "question": "What is the highest-scoring letter tile in Scrabble?",
-      "options": ["X (8 points)", "Z (10 points)", "Q (10 points)", "Both Q and Z (10 points each)"],
+      "options": [
+        "Z (10 points)",
+        "Q (10 points)",
+        "X (8 points)",
+        "Both Q and Z (10 points each)"
+      ],
       "correctAnswer": 3,
       "explanation": "Both Q and Z are worth 10 points each in Scrabble, making them the highest-scoring individual letter tiles in the game.",
       "difficulty": "medium",
@@ -97,8 +147,13 @@
     {
       "id": "board-11",
       "question": "In Candy Land, what is the name of the final destination on the board?",
-      "options": ["Candy Castle", "Sugar Palace", "Gingerbread House", "Lollipop Kingdom"],
-      "correctAnswer": 0,
+      "options": [
+        "Lollipop Kingdom",
+        "Sugar Palace",
+        "Gingerbread House",
+        "Candy Castle"
+      ],
+      "correctAnswer": 3,
       "explanation": "Players race to reach King Kandy's Candy Castle at the end of the rainbow trail in this classic children's board game, first published in 1949.",
       "difficulty": "medium",
       "category": "culture"
@@ -106,7 +161,12 @@
     {
       "id": "board-12",
       "question": "How many suspects are there in the original version of Clue?",
-      "options": ["4", "5", "6", "8"],
+      "options": [
+        "5",
+        "8",
+        "6",
+        "4"
+      ],
       "correctAnswer": 2,
       "explanation": "The original Clue has 6 suspects: Miss Scarlet, Colonel Mustard, Mrs. White, Mr. Green, Mrs. Peacock, and Professor Plum.",
       "difficulty": "easy",
@@ -115,8 +175,13 @@
     {
       "id": "board-13",
       "question": "In checkers (draughts), what happens when a piece reaches the opposite end of the board?",
-      "options": ["It is removed", "It becomes a king", "The player gets an extra turn", "It can move three spaces"],
-      "correctAnswer": 1,
+      "options": [
+        "It becomes a king",
+        "It is removed",
+        "The player gets an extra turn",
+        "It can move three spaces"
+      ],
+      "correctAnswer": 0,
       "explanation": "When a checker piece reaches the far end of the board, it is 'kinged' — a captured piece is stacked on top, and it gains the ability to move backward.",
       "difficulty": "easy",
       "category": "culture"
@@ -124,8 +189,13 @@
     {
       "id": "board-14",
       "question": "What classic board game was first sold by Parker Brothers in 1935 during the Great Depression?",
-      "options": ["Sorry!", "Monopoly", "Clue", "Risk"],
-      "correctAnswer": 1,
+      "options": [
+        "Sorry!",
+        "Clue",
+        "Risk",
+        "Monopoly"
+      ],
+      "correctAnswer": 3,
       "explanation": "Monopoly was first published by Parker Brothers in 1935. Despite the economic hardship of the Depression, the game about buying property became an instant bestseller.",
       "difficulty": "medium",
       "category": "culture"
@@ -133,7 +203,12 @@
     {
       "id": "board-15",
       "question": "In Battleship, what is the largest ship on the board?",
-      "options": ["Destroyer (2 holes)", "Submarine (3 holes)", "Battleship (4 holes)", "Aircraft Carrier (5 holes)"],
+      "options": [
+        "Destroyer (2 holes)",
+        "Battleship (4 holes)",
+        "Submarine (3 holes)",
+        "Aircraft Carrier (5 holes)"
+      ],
       "correctAnswer": 3,
       "explanation": "The Aircraft Carrier is the largest ship in Battleship, taking up 5 holes on the grid. The other ships are the Battleship (4), Submarine (3), Destroyer (3), and Patrol Boat (2).",
       "difficulty": "medium",
@@ -142,8 +217,13 @@
     {
       "id": "board-16",
       "question": "What board game challenges players to describe a word without saying certain 'taboo' words?",
-      "options": ["Catchphrase", "Taboo", "Password", "Pictionary"],
-      "correctAnswer": 1,
+      "options": [
+        "Password",
+        "Pictionary",
+        "Catchphrase",
+        "Taboo"
+      ],
+      "correctAnswer": 3,
       "explanation": "Taboo, published by Hasbro in 1989, gives players a word to describe while listing several related 'taboo' words they cannot say. A buzzer is sounded for violations.",
       "difficulty": "easy",
       "category": "culture"
@@ -151,8 +231,13 @@
     {
       "id": "board-17",
       "question": "In the original game of Operation, what is the patient's name?",
-      "options": ["Sam", "Bob", "Cavity Sam", "Doctor Dave"],
-      "correctAnswer": 2,
+      "options": [
+        "Sam",
+        "Cavity Sam",
+        "Doctor Dave",
+        "Bob"
+      ],
+      "correctAnswer": 1,
       "explanation": "The patient in Operation is named 'Cavity Sam.' Players use tweezers to remove funny ailments like a 'broken heart' and 'butterflies in stomach' without touching the edges.",
       "difficulty": "medium",
       "category": "culture"
@@ -160,8 +245,13 @@
     {
       "id": "board-18",
       "question": "How many colored categories are in Trivial Pursuit?",
-      "options": ["4", "5", "6", "8"],
-      "correctAnswer": 2,
+      "options": [
+        "8",
+        "6",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1,
       "explanation": "Trivial Pursuit features 6 categories: Geography (blue), Entertainment (pink), History (yellow), Art & Literature (brown), Science & Nature (green), and Sports & Leisure (orange).",
       "difficulty": "easy",
       "category": "culture"
@@ -169,7 +259,12 @@
     {
       "id": "board-19",
       "question": "Which game involves flipping small plastic discs into a cup?",
-      "options": ["Tiddlywinks", "Marbles", "Jacks", "Pick Up Sticks"],
+      "options": [
+        "Tiddlywinks",
+        "Pick Up Sticks",
+        "Marbles",
+        "Jacks"
+      ],
       "correctAnswer": 0,
       "explanation": "Tiddlywinks is a classic game where players use a larger disc (the 'squidger') to flip smaller plastic discs ('winks') into a cup in the center of a mat.",
       "difficulty": "easy",
@@ -178,7 +273,12 @@
     {
       "id": "board-20",
       "question": "In Connect Four, how many pieces in a row do you need to win?",
-      "options": ["Three", "Four", "Five", "Six"],
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Five"
+      ],
       "correctAnswer": 1,
       "explanation": "As the name suggests, you need four pieces in a row — horizontally, vertically, or diagonally — to win Connect Four, first sold by Milton Bradley in 1974.",
       "difficulty": "easy",

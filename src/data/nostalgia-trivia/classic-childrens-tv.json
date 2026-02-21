@@ -8,67 +8,67 @@
       "id": "classic-childrens-tv-1",
       "question": "What was the name of the gentle host who invited children into his 'neighborhood' starting in 1968?",
       "options": [
-        "Captain Kangaroo",
-        "Mr. Rogers",
+        "Mr. Wizard",
         "Mr. Green Jeans",
-        "Mr. Wizard"
+        "Mr. Rogers",
+        "Captain Kangaroo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-childrens-tv-2",
       "question": "On 'Captain Kangaroo,' what was the name of the Captain's friend who always dropped ping pong balls?",
       "options": [
-        "Mr. Moose",
-        "Bunny Rabbit",
+        "Grandfather Clock",
         "Dancing Bear",
-        "Grandfather Clock"
+        "Mr. Moose",
+        "Bunny Rabbit"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "classic-childrens-tv-3",
       "question": "What educational show premiered on PBS in 1969 and featured characters living on a city street?",
       "options": [
-        "The Electric Company",
         "Sesame Street",
+        "The Electric Company",
         "Zoom",
         "Mr. Rogers' Neighborhood"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-childrens-tv-4",
       "question": "In 'The Howdy Doody Show,' what was the name of the town where the characters lived?",
       "options": [
-        "Puppetville",
-        "Doodyville",
+        "Funtown",
         "Toyland",
-        "Funtown"
+        "Doodyville",
+        "Puppetville"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-childrens-tv-5",
       "question": "Which Saturday morning cartoon featured a mystery-solving Great Dane and a group of teenagers?",
       "options": [
+        "The Funky Phantom",
         "Josie and the Pussycats",
-        "Scooby-Doo, Where Are You!",
         "Speed Buggy",
-        "The Funky Phantom"
+        "Scooby-Doo, Where Are You!"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-childrens-tv-6",
       "question": "What was the name of the trolley that traveled to the Neighborhood of Make-Believe on 'Mr. Rogers' Neighborhood'?",
       "options": [
-        "Trolley McTrolleyface",
-        "Trolley",
         "The Neighborhood Express",
-        "The Make-Believe Express"
+        "The Make-Believe Express",
+        "Trolley McTrolleyface",
+        "Trolley"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-childrens-tv-7",
@@ -76,8 +76,8 @@
       "options": [
         "Fireball XL5",
         "Thunderbirds",
-        "Captain Scarlet",
-        "Stingray"
+        "Stingray",
+        "Captain Scarlet"
       ],
       "correctAnswer": 1
     },
@@ -85,32 +85,32 @@
       "id": "classic-childrens-tv-8",
       "question": "On Sesame Street, what color is Big Bird?",
       "options": [
-        "White",
-        "Orange",
         "Yellow",
-        "Green"
+        "Green",
+        "Orange",
+        "White"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-childrens-tv-9",
       "question": "Which show featured the adventures of a boy and his dog Lassie?",
       "options": [
+        "Flipper",
         "Rin Tin Tin",
-        "Lassie",
         "Old Yeller",
-        "Flipper"
+        "Lassie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-childrens-tv-10",
       "question": "What PBS show taught science to kids with the tagline 'exploring, experimenting, and discovering'?",
       "options": [
         "3-2-1 Contact",
-        "Mr. Wizard's World",
+        "Newton's Apple",
         "Bill Nye the Science Guy",
-        "Newton's Apple"
+        "Mr. Wizard's World"
       ],
       "correctAnswer": 0
     },
@@ -129,9 +129,9 @@
       "id": "classic-childrens-tv-12",
       "question": "What was the name of the host of 'Romper Room' who looked through her Magic Mirror?",
       "options": [
-        "Miss Nancy",
         "Miss Frances",
-        "The host's name varied by city \u2014 it was a franchised show",
+        "Miss Nancy",
+        "The host's name varied by city — it was a franchised show",
         "Miss Sally"
       ],
       "correctAnswer": 2
@@ -141,33 +141,33 @@
       "question": "Which 1980s cartoon featured small blue creatures living in mushroom houses?",
       "options": [
         "The Snorks",
-        "The Smurfs",
         "The Care Bears",
-        "The Wuzzles"
+        "The Wuzzles",
+        "The Smurfs"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-childrens-tv-14",
       "question": "What show featured the 'Banana Splits,' a fictional rock band of costumed animal characters?",
       "options": [
         "H.R. Pufnstuf",
-        "The Banana Splits Adventure Hour",
         "Lidsville",
+        "The Banana Splits Adventure Hour",
         "The Bugaloos"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-childrens-tv-15",
       "question": "In 'Schoolhouse Rock!', what was the famous song that taught about how a bill becomes a law?",
       "options": [
-        "Conjunction Junction",
         "I'm Just a Bill",
+        "Conjunction Junction",
         "Lolly, Lolly, Lolly, Get Your Adverbs Here",
         "Three Is a Magic Number"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

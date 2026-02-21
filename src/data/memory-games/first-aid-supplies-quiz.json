@@ -1,0 +1,174 @@
+{
+  "id": "first-aid-supplies-quiz",
+  "title": "First Aid Supplies Quiz",
+  "description": "How well do you know first aid kit essentials? Test your knowledge of bandages, medications, and emergency supplies.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "first-aid-supplies-quiz-1",
+      "question": "Which first aid item is a stretchy fabric wrap used to hold dressings in place or support injured joints?",
+      "options": [
+        "Elastic bandage (ACE bandage)",
+        "Adhesive tape",
+        "Butterfly strip",
+        "Gauze pad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "first-aid-supplies-quiz-2",
+      "question": "What is an adhesive bandage (Band-Aid) primarily used for?",
+      "options": [
+        "Stopping severe bleeding",
+        "Splinting broken bones",
+        "Covering and protecting small cuts, scrapes, and blisters",
+        "Treating burns"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "first-aid-supplies-quiz-3",
+      "question": "Which over-the-counter medication is commonly used to reduce fever and relieve pain, found in most first aid kits?",
+      "options": [
+        "Hydrocortisone cream",
+        "Acetaminophen (Tylenol) or ibuprofen (Advil)",
+        "Antihistamine",
+        "Antibiotic ointment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-4",
+      "question": "What is a triangular bandage used for in first aid?",
+      "options": [
+        "Stopping bleeding only",
+        "Covering eyes",
+        "Wrapping fingers",
+        "Creating an arm sling, bandaging wounds, or as a tourniquet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "first-aid-supplies-quiz-5",
+      "question": "Which antiseptic solution is commonly used to clean wounds and prevent infection?",
+      "options": [
+        "Rubbing alcohol only",
+        "Hydrogen peroxide or povidone-iodine (Betadine)",
+        "Bleach solution",
+        "Saline solution only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-6",
+      "question": "What is an instant cold pack used for?",
+      "options": [
+        "Stopping bleeding",
+        "Reducing swelling and pain from sprains and bruises",
+        "Warming hypothermia victims",
+        "Treating burns"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-7",
+      "question": "Which first aid supply is a thin strip used to close small wounds by pulling the edges together?",
+      "options": [
+        "Elastic bandage",
+        "Butterfly closure strip (Steri-Strip)",
+        "Gauze roll",
+        "Surgical tape"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-8",
+      "question": "What is an EpiPen (epinephrine auto-injector) used for?",
+      "options": [
+        "Emergency treatment of severe allergic reactions (anaphylaxis)",
+        "Reducing fever",
+        "Treating insect stings mildly",
+        "Treating minor cuts"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "first-aid-supplies-quiz-9",
+      "question": "Which item in a first aid kit is used to remove splinters, ticks, or small debris from wounds?",
+      "options": [
+        "Scissors",
+        "Safety pins",
+        "Cotton swabs",
+        "Tweezers (forceps)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "first-aid-supplies-quiz-10",
+      "question": "What is antibiotic ointment (like Neosporin) used for?",
+      "options": [
+        "Relieving pain",
+        "Applying to minor cuts and scrapes to prevent bacterial infection",
+        "Treating allergic reactions",
+        "Reducing swelling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-11",
+      "question": "Which device is used to restrict blood flow to a limb in cases of life-threatening bleeding?",
+      "options": [
+        "Compression bandage",
+        "Pressure point pad",
+        "Tourniquet",
+        "Splint"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "first-aid-supplies-quiz-12",
+      "question": "What is a CPR face shield or pocket mask used for?",
+      "options": [
+        "Administering oxygen",
+        "Checking breathing rate",
+        "Providing a barrier during rescue breathing to protect the rescuer",
+        "Protecting the patient's face"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "first-aid-supplies-quiz-13",
+      "question": "Which first aid item is a rigid or semi-rigid device used to immobilize a broken bone?",
+      "options": [
+        "Bandage",
+        "Splint",
+        "Sling",
+        "Tourniquet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "first-aid-supplies-quiz-14",
+      "question": "What is calamine lotion commonly used to treat?",
+      "options": [
+        "Muscle pain",
+        "Burns",
+        "Deep cuts",
+        "Itching from poison ivy, insect bites, and minor skin irritations"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "first-aid-supplies-quiz-15",
+      "question": "Which item is a sterile eye wash solution used to flush irritants from the eyes?",
+      "options": [
+        "Saline eye wash",
+        "Antibiotic eye drops",
+        "Artificial tears",
+        "Contact lens solution"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

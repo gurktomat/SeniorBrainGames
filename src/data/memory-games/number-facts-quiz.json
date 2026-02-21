@@ -8,10 +8,10 @@
       "id": "number-facts-quiz-1",
       "question": "How many bones are in the adult human body?",
       "options": [
-        "186",
-        "206",
         "226",
-        "256"
+        "206",
+        "256",
+        "186"
       ],
       "correctAnswer": 1
     },
@@ -19,10 +19,10 @@
       "id": "number-facts-quiz-2",
       "question": "How many teeth does a typical adult human have?",
       "options": [
+        "34",
         "28",
-        "30",
         "32",
-        "34"
+        "30"
       ],
       "correctAnswer": 2
     },
@@ -30,12 +30,12 @@
       "id": "number-facts-quiz-3",
       "question": "How many keys are on a standard piano?",
       "options": [
+        "88",
         "76",
         "82",
-        "88",
         "92"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "number-facts-quiz-4",
@@ -43,85 +43,85 @@
       "options": [
         "11",
         "12",
-        "13",
-        "15"
+        "15",
+        "13"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "number-facts-quiz-5",
       "question": "How many planets are in our solar system?",
       "options": [
-        "7",
         "8",
         "9",
+        "7",
         "10"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "number-facts-quiz-6",
       "question": "How many sides does a hexagon have?",
       "options": [
-        "5",
-        "6",
         "7",
-        "8"
+        "5",
+        "8",
+        "6"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "number-facts-quiz-7",
       "question": "How many squares are on a standard chess board?",
       "options": [
-        "48",
-        "56",
+        "72",
         "64",
-        "72"
+        "48",
+        "56"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "number-facts-quiz-8",
       "question": "How many chromosomes do humans have?",
       "options": [
-        "23",
         "42",
         "46",
-        "48"
+        "48",
+        "23"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "number-facts-quiz-9",
       "question": "How many time zones are there on Earth?",
       "options": [
-        "12",
-        "18",
+        "36",
         "24",
-        "36"
+        "12",
+        "18"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "number-facts-quiz-10",
       "question": "How many cards are in a standard deck (without jokers)?",
       "options": [
-        "48",
-        "50",
         "52",
+        "50",
+        "48",
         "54"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "number-facts-quiz-11",
       "question": "How many symphonies did Beethoven compose?",
       "options": [
-        "7",
-        "9",
         "11",
-        "13"
+        "9",
+        "13",
+        "7"
       ],
       "correctAnswer": 1
     },
@@ -129,10 +129,10 @@
       "id": "number-facts-quiz-12",
       "question": "How many dots are on a standard pair of dice combined?",
       "options": [
-        "36",
+        "54",
         "42",
         "48",
-        "54"
+        "36"
       ],
       "correctAnswer": 1
     },
@@ -140,21 +140,21 @@
       "id": "number-facts-quiz-13",
       "question": "How many elements are in the periodic table (as of 2024)?",
       "options": [
-        "108",
+        "124",
         "112",
-        "118",
-        "124"
+        "108",
+        "118"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "number-facts-quiz-14",
       "question": "How many original colonies formed the United States?",
       "options": [
         "11",
-        "12",
+        "15",
         "13",
-        "15"
+        "12"
       ],
       "correctAnswer": 2
     },
@@ -162,9 +162,9 @@
       "id": "number-facts-quiz-15",
       "question": "How many rings are on the Olympic flag?",
       "options": [
-        "4",
-        "5",
         "6",
+        "5",
+        "4",
         "7"
       ],
       "correctAnswer": 1

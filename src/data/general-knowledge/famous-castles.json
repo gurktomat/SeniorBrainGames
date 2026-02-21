@@ -8,31 +8,31 @@
       "id": "famous-castles-1",
       "question": "Which castle in England has been the primary residence of English and British monarchs for over 900 years?",
       "options": [
-        "Buckingham Palace",
         "Windsor Castle",
+        "Buckingham Palace",
         "Tower of London",
         "Hampton Court Palace"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-castles-2",
       "question": "Neuschwanstein Castle, which inspired Disney's Sleeping Beauty Castle, is located in which country?",
       "options": [
-        "Austria",
         "Switzerland",
-        "Germany",
-        "France"
+        "France",
+        "Austria",
+        "Germany"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-castles-3",
       "question": "The Tower of London has served many purposes over the centuries. Which of these was NOT one of them?",
       "options": [
         "Royal palace",
-        "Prison",
         "Zoo",
+        "Prison",
         "Parliament building"
       ],
       "correctAnswer": 3
@@ -41,78 +41,78 @@
       "id": "famous-castles-4",
       "question": "Which Scottish castle is the seat of the British monarch in Scotland?",
       "options": [
-        "Edinburgh Castle",
-        "Balmoral Castle",
         "Stirling Castle",
+        "Balmoral Castle",
+        "Edinburgh Castle",
         "Glamis Castle"
       ],
       "correctAnswer": 1
     },
     {
       "id": "famous-castles-5",
-      "question": "The Ch\u00e2teau de Chambord, a masterpiece of French Renaissance architecture, is located in which region?",
+      "question": "The Château de Chambord, a masterpiece of French Renaissance architecture, is located in which region?",
       "options": [
-        "Provence",
+        "Burgundy",
         "Normandy",
-        "Loire Valley",
-        "Burgundy"
+        "Provence",
+        "Loire Valley"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-castles-6",
       "question": "Himeji Castle, known as the 'White Heron Castle,' is located in which country?",
       "options": [
         "China",
+        "Vietnam",
         "South Korea",
-        "Japan",
-        "Vietnam"
+        "Japan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-castles-7",
       "question": "Which castle on the banks of the River Danube is one of the largest medieval castles in Europe?",
       "options": [
-        "Prague Castle",
         "Buda Castle",
         "Bratislava Castle",
-        "Hohensalzburg Castle"
+        "Hohensalzburg Castle",
+        "Prague Castle"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-castles-8",
-      "question": "The Alc\u00e1zar of Segovia, with its distinctive ship-like shape, is located in which country?",
+      "question": "The Alcázar of Segovia, with its distinctive ship-like shape, is located in which country?",
       "options": [
-        "Portugal",
         "Spain",
-        "Italy",
-        "Morocco"
+        "Portugal",
+        "Morocco",
+        "Italy"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-castles-9",
       "question": "Which famous Irish castle is said to grant the 'gift of eloquence' to those who kiss its stone?",
       "options": [
+        "Blarney Castle",
         "Dublin Castle",
         "Bunratty Castle",
-        "Blarney Castle",
         "Kilkenny Castle"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-castles-10",
       "question": "The Forbidden City, a vast palace complex, served as the imperial palace for how many Ming and Qing dynasty emperors?",
       "options": [
-        "14",
         "24",
+        "14",
         "34",
         "44"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-castles-11",
@@ -129,45 +129,45 @@
       "id": "famous-castles-12",
       "question": "The Palace of Versailles was transformed from a hunting lodge by which French king?",
       "options": [
-        "Louis XIII",
         "Louis XIV",
         "Louis XV",
+        "Louis XIII",
         "Louis XVI"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-castles-13",
       "question": "Kronborg Castle in Denmark is famous for being the setting of which Shakespeare play?",
       "options": [
         "Macbeth",
+        "Othello",
         "King Lear",
-        "Hamlet",
-        "Othello"
+        "Hamlet"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-castles-14",
       "question": "The Krak des Chevaliers, one of the best-preserved Crusader castles, is located in which modern country?",
       "options": [
-        "Turkey",
-        "Lebanon",
+        "Jordan",
         "Syria",
-        "Jordan"
+        "Lebanon",
+        "Turkey"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-castles-15",
       "question": "Which famous castle in Romania is commonly associated with the legend of Count Dracula?",
       "options": [
-        "Pele\u0219 Castle",
         "Bran Castle",
-        "Corvin Castle",
-        "Citadel of Alba Iulia"
+        "Peleș Castle",
+        "Citadel of Alba Iulia",
+        "Corvin Castle"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     }
   ]
 }

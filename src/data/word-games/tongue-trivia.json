@@ -7,92 +7,167 @@
     {
       "id": "tongue-trivia-1",
       "question": "Approximately how many languages are spoken in the world today?",
-      "options": ["About 500", "About 2,000", "About 7,000", "About 15,000"],
+      "options": [
+        "About 500",
+        "About 2,000",
+        "About 7,000",
+        "About 15,000"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "tongue-trivia-2",
       "question": "Which language has the most native speakers in the world?",
-      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
-      "correctAnswer": 2
+      "options": [
+        "Hindi",
+        "English",
+        "Spanish",
+        "Mandarin Chinese"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "tongue-trivia-3",
       "question": "How many letters are in the English alphabet?",
-      "options": ["24", "26", "28", "30"],
+      "options": [
+        "30",
+        "26",
+        "28",
+        "24"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "tongue-trivia-4",
       "question": "Which language is written from right to left?",
-      "options": ["Japanese", "Greek", "Arabic", "Thai"],
-      "correctAnswer": 2
+      "options": [
+        "Greek",
+        "Japanese",
+        "Thai",
+        "Arabic"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "tongue-trivia-5",
       "question": "What is the most commonly spoken language family in the world?",
-      "options": ["Sino-Tibetan", "Niger-Congo", "Indo-European", "Afro-Asiatic"],
+      "options": [
+        "Niger-Congo",
+        "Afro-Asiatic",
+        "Indo-European",
+        "Sino-Tibetan"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "tongue-trivia-6",
       "question": "The Khmer (Cambodian) alphabet holds what distinction?",
-      "options": ["It is the smallest alphabet", "It has the most letters of any alphabet", "It has no vowels", "It is the oldest alphabet"],
-      "correctAnswer": 1
+      "options": [
+        "It is the oldest alphabet",
+        "It is the smallest alphabet",
+        "It has the most letters of any alphabet",
+        "It has no vowels"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "tongue-trivia-7",
       "question": "What is a 'lingua franca'?",
-      "options": ["The French language", "A language used as a common language between speakers of different languages", "A dead language", "The first language ever spoken"],
-      "correctAnswer": 1
+      "options": [
+        "A dead language",
+        "The first language ever spoken",
+        "The French language",
+        "A language used as a common language between speakers of different languages"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "tongue-trivia-8",
       "question": "Which country has the most official languages?",
-      "options": ["India", "South Africa", "Zimbabwe", "Bolivia"],
-      "correctAnswer": 2
+      "options": [
+        "Zimbabwe",
+        "Bolivia",
+        "India",
+        "South Africa"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "tongue-trivia-9",
       "question": "What is the study of the origin and history of words called?",
-      "options": ["Entomology", "Etymology", "Phonology", "Morphology"],
-      "correctAnswer": 1
+      "options": [
+        "Etymology",
+        "Morphology",
+        "Entomology",
+        "Phonology"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "tongue-trivia-10",
       "question": "What type of writing system does Chinese primarily use?",
-      "options": ["Alphabetic", "Logographic (characters represent words or concepts)", "Syllabic", "Runic"],
+      "options": [
+        "Alphabetic",
+        "Logographic (characters represent words or concepts)",
+        "Runic",
+        "Syllabic"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "tongue-trivia-11",
       "question": "The Rosetta Stone was key to deciphering which ancient writing system?",
-      "options": ["Cuneiform", "Egyptian hieroglyphics", "Linear B", "Sanskrit"],
-      "correctAnswer": 1
+      "options": [
+        "Linear B",
+        "Cuneiform",
+        "Sanskrit",
+        "Egyptian hieroglyphics"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "tongue-trivia-12",
       "question": "What is the term for a person who speaks multiple languages?",
-      "options": ["Bilingual", "Polyglot", "Linguist", "Translator"],
-      "correctAnswer": 1
+      "options": [
+        "Translator",
+        "Bilingual",
+        "Polyglot",
+        "Linguist"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "tongue-trivia-13",
       "question": "Which constructed language was created in 1887 to serve as an easy-to-learn international auxiliary language?",
-      "options": ["Elvish", "Klingon", "Esperanto", "Volapuk"],
-      "correctAnswer": 2
+      "options": [
+        "Esperanto",
+        "Volapuk",
+        "Elvish",
+        "Klingon"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "tongue-trivia-14",
       "question": "What is the most translated document in the world?",
-      "options": ["The Bible", "The Universal Declaration of Human Rights", "Harry Potter", "The Quran"],
-      "correctAnswer": 1
+      "options": [
+        "Harry Potter",
+        "The Bible",
+        "The Universal Declaration of Human Rights",
+        "The Quran"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "tongue-trivia-15",
       "question": "Braille is a writing system for the visually impaired. How many raised dots form each Braille cell?",
-      "options": ["4", "6", "8", "10"],
-      "correctAnswer": 1
+      "options": [
+        "8",
+        "10",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

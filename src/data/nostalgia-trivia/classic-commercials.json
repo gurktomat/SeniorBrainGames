@@ -7,8 +7,13 @@
     {
       "id": "ads-classic-1",
       "question": "Which fast-food chain used the slogan 'Where's the beef?' in a famous 1984 commercial?",
-      "options": ["McDonald's", "Burger King", "Wendy's", "Arby's"],
-      "correctAnswer": 2,
+      "options": [
+        "Wendy's",
+        "McDonald's",
+        "Arby's",
+        "Burger King"
+      ],
+      "correctAnswer": 0,
       "explanation": "Wendy's 'Where's the beef?' ad featured Clara Peller questioning the tiny burger patties of competitors. The phrase became a national catchphrase and was even used in the 1984 presidential campaign.",
       "difficulty": "easy",
       "decade": "1980s",
@@ -17,8 +22,13 @@
     {
       "id": "ads-classic-2",
       "question": "Which cereal brand has long used the slogan 'They're Gr-r-reat!' with Tony the Tiger as its mascot?",
-      "options": ["Corn Flakes", "Frosted Flakes", "Rice Krispies", "Cheerios"],
-      "correctAnswer": 1,
+      "options": [
+        "Rice Krispies",
+        "Cheerios",
+        "Frosted Flakes",
+        "Corn Flakes"
+      ],
+      "correctAnswer": 2,
       "explanation": "Tony the Tiger has been the mascot of Frosted Flakes (originally Sugar Frosted Flakes) since 1952. His enthusiastic 'They're Gr-r-reat!' is one of the longest-running slogans in advertising.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -27,7 +37,12 @@
     {
       "id": "ads-classic-3",
       "question": "Which soft drink brand ran the 1971 'Hilltop' commercial featuring young people singing 'I'd Like to Buy the World a Coke'?",
-      "options": ["Pepsi", "Coca-Cola", "Dr Pepper", "RC Cola"],
+      "options": [
+        "RC Cola",
+        "Coca-Cola",
+        "Pepsi",
+        "Dr Pepper"
+      ],
       "correctAnswer": 1,
       "explanation": "The Coca-Cola 'Hilltop' ad was filmed on a hill outside Rome, Italy, and is considered one of the greatest commercials ever made. The jingle was later released as a pop single.",
       "difficulty": "easy",
@@ -37,8 +52,13 @@
     {
       "id": "ads-classic-4",
       "question": "Which brand's commercials featured the slogan 'Plop, plop, fizz, fizz, oh what a relief it is'?",
-      "options": ["Pepto-Bismol", "Tums", "Alka-Seltzer", "Bromo-Seltzer"],
-      "correctAnswer": 2,
+      "options": [
+        "Alka-Seltzer",
+        "Bromo-Seltzer",
+        "Tums",
+        "Pepto-Bismol"
+      ],
+      "correctAnswer": 0,
       "explanation": "Alka-Seltzer's catchy jingle debuted in 1976 and became one of the most memorable advertising tunes of the era. The campaign actually doubled sales by showing two tablets instead of one.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -47,8 +67,13 @@
     {
       "id": "ads-classic-5",
       "question": "Which battery brand's commercials feature a pink bunny that 'keeps going and going and going'?",
-      "options": ["Duracell", "Eveready", "Energizer", "Rayovac"],
-      "correctAnswer": 2,
+      "options": [
+        "Rayovac",
+        "Energizer",
+        "Duracell",
+        "Eveready"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Energizer Bunny debuted in 1989 as a parody of Duracell's battery commercials. The drumming bunny became so popular that 'keeps going and going' entered everyday language.",
       "difficulty": "easy",
       "decade": "1980s",
@@ -57,8 +82,13 @@
     {
       "id": "ads-classic-6",
       "question": "Which brand used the jingle 'See the USA in your ___' in a famous 1950s ad campaign?",
-      "options": ["Ford", "Chevrolet", "Buick", "Cadillac"],
-      "correctAnswer": 1,
+      "options": [
+        "Cadillac",
+        "Buick",
+        "Chevrolet",
+        "Ford"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dinah Shore famously sang 'See the USA in Your Chevrolet' on her TV show, making it one of the most recognizable automotive jingles of the 1950s.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -67,7 +97,12 @@
     {
       "id": "ads-classic-7",
       "question": "Which cigarette brand advertised with the slogan 'I'd walk a mile for a ___'?",
-      "options": ["Marlboro", "Lucky Strike", "Camel", "Winston"],
+      "options": [
+        "Lucky Strike",
+        "Winston",
+        "Camel",
+        "Marlboro"
+      ],
       "correctAnswer": 2,
       "explanation": "Camel used the slogan 'I'd Walk a Mile for a Camel' starting in 1921, and it remained popular for decades. Before the 1971 TV ad ban, cigarette ads were among the most creative on television.",
       "difficulty": "medium",
@@ -77,8 +112,13 @@
     {
       "id": "ads-classic-8",
       "question": "Which fast-food restaurant used the slogan 'Have it your way' starting in the 1970s?",
-      "options": ["McDonald's", "Burger King", "Wendy's", "Jack in the Box"],
-      "correctAnswer": 1,
+      "options": [
+        "Wendy's",
+        "Jack in the Box",
+        "McDonald's",
+        "Burger King"
+      ],
+      "correctAnswer": 3,
       "explanation": "Burger King's 'Have It Your Way' campaign launched in 1974, emphasizing customization as a contrast to McDonald's standardized approach. The catchy jingle became hugely popular.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -87,8 +127,13 @@
     {
       "id": "ads-classic-9",
       "question": "Which product's 1970s commercial featured the line 'Is it live, or is it Memorex?'",
-      "options": ["Maxell cassettes", "Memorex cassettes", "Sony Betamax", "TDK tapes"],
-      "correctAnswer": 1,
+      "options": [
+        "Memorex cassettes",
+        "Maxell cassettes",
+        "TDK tapes",
+        "Sony Betamax"
+      ],
+      "correctAnswer": 0,
       "explanation": "Memorex's famous campaign featured Ella Fitzgerald shattering a glass with her voice, then asking if the recording could do the same. It demonstrated the quality of their blank cassette tapes.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -97,7 +142,12 @@
     {
       "id": "ads-classic-10",
       "question": "Which household cleaner brand featured a mascot with a bald head, single earring, and muscular build?",
-      "options": ["Tide", "Mr. Clean", "Ajax", "Comet"],
+      "options": [
+        "Tide",
+        "Mr. Clean",
+        "Comet",
+        "Ajax"
+      ],
       "correctAnswer": 1,
       "explanation": "Mr. Clean was introduced by Procter & Gamble in 1958. The muscular, bald mascot with an earring was one of the first animated characters in TV advertising and became an American icon.",
       "difficulty": "medium",
@@ -107,8 +157,13 @@
     {
       "id": "ads-classic-11",
       "question": "Which insurance company's commercials featured the slogan 'You're in good hands'?",
-      "options": ["State Farm", "Allstate", "Geico", "Prudential"],
-      "correctAnswer": 1,
+      "options": [
+        "State Farm",
+        "Geico",
+        "Allstate",
+        "Prudential"
+      ],
+      "correctAnswer": 2,
       "explanation": "Allstate's 'You're in Good Hands' slogan has been used since 1950, making it one of the longest-running advertising slogans in history. It was inspired by an employee watching his daughter being cared for.",
       "difficulty": "hard",
       "decade": "1950s",
@@ -117,8 +172,13 @@
     {
       "id": "ads-classic-12",
       "question": "Which 1984 Super Bowl commercial, directed by Ridley Scott, introduced a new personal computer to the world?",
-      "options": ["IBM PC", "Commodore 64", "Apple Macintosh", "Atari ST"],
-      "correctAnswer": 2,
+      "options": [
+        "IBM PC",
+        "Commodore 64",
+        "Atari ST",
+        "Apple Macintosh"
+      ],
+      "correctAnswer": 3,
       "explanation": "Apple's iconic '1984' commercial introduced the Macintosh. It aired only once during the Super Bowl but is widely considered the greatest TV commercial of all time.",
       "difficulty": "hard",
       "decade": "1980s",
@@ -127,8 +187,13 @@
     {
       "id": "ads-classic-13",
       "question": "Which brand's 1960s-70s commercials showed a Native American shedding a tear over littering and pollution?",
-      "options": ["Keep America Beautiful", "The Ad Council", "Sierra Club", "Greenpeace"],
-      "correctAnswer": 0,
+      "options": [
+        "Greenpeace",
+        "Keep America Beautiful",
+        "The Ad Council",
+        "Sierra Club"
+      ],
+      "correctAnswer": 1,
       "explanation": "The 'Crying Indian' ad first aired on Earth Day 1971 for Keep America Beautiful. Actor Iron Eyes Cody became synonymous with the anti-pollution movement, and the ad ran for over a decade.",
       "difficulty": "hard",
       "decade": "1970s",
@@ -137,8 +202,13 @@
     {
       "id": "ads-classic-14",
       "question": "Which children's cereal used the slogan 'Silly rabbit, Trix are for kids!'?",
-      "options": ["Lucky Charms", "Trix", "Cocoa Puffs", "Froot Loops"],
-      "correctAnswer": 1,
+      "options": [
+        "Froot Loops",
+        "Cocoa Puffs",
+        "Lucky Charms",
+        "Trix"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Trix Rabbit has been trying — and failing — to get a bowl of Trix cereal from kids since 1959. In rare promotional events, consumers voted to finally let the rabbit have some.",
       "difficulty": "hard",
       "decade": "1960s",
@@ -147,8 +217,13 @@
     {
       "id": "ads-classic-15",
       "question": "Which razor brand's jingle proclaimed 'The best a man can get'?",
-      "options": ["Schick", "Gillette", "Remington", "Norelco"],
-      "correctAnswer": 1,
+      "options": [
+        "Schick",
+        "Remington",
+        "Norelco",
+        "Gillette"
+      ],
+      "correctAnswer": 3,
       "explanation": "Gillette introduced 'The Best a Man Can Get' in 1989 during the Super Bowl. The slogan was used for nearly 30 years and became one of the most recognized taglines in advertising history.",
       "difficulty": "hard",
       "decade": "1980s",

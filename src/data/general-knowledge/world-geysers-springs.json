@@ -7,91 +7,166 @@
     {
       "id": "world-geysers-springs-1",
       "question": "Old Faithful, perhaps the world's most famous geyser, is located in which U.S. national park?",
-      "options": ["Yosemite", "Glacier", "Yellowstone", "Grand Teton"],
+      "options": [
+        "Grand Teton",
+        "Glacier",
+        "Yellowstone",
+        "Yosemite"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-geysers-springs-2",
       "question": "The word 'geyser' originates from 'Geysir,' a famous geyser in which country?",
-      "options": ["Norway", "Iceland", "New Zealand", "Japan"],
-      "correctAnswer": 1
+      "options": [
+        "Norway",
+        "New Zealand",
+        "Japan",
+        "Iceland"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-geysers-springs-3",
       "question": "The Blue Lagoon, a famous geothermal spa, is a top tourist attraction in which country?",
-      "options": ["Finland", "Iceland", "Norway", "Greenland"],
-      "correctAnswer": 1
+      "options": [
+        "Norway",
+        "Greenland",
+        "Finland",
+        "Iceland"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-geysers-springs-4",
       "question": "Geysers erupt because underground water is heated by what geological feature?",
-      "options": ["Underground rivers", "Magma or volcanic activity", "Tidal forces", "Chemical reactions"],
-      "correctAnswer": 1
+      "options": [
+        "Magma or volcanic activity",
+        "Chemical reactions",
+        "Tidal forces",
+        "Underground rivers"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-geysers-springs-5",
       "question": "Rotorua, a city known for its geothermal activity including geysers and mud pools, is located in which country?",
-      "options": ["Japan", "Chile", "New Zealand", "Philippines"],
-      "correctAnswer": 2
+      "options": [
+        "Japan",
+        "New Zealand",
+        "Chile",
+        "Philippines"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-geysers-springs-6",
       "question": "The Grand Prismatic Spring in Yellowstone is the largest hot spring in the United States. What makes it so colorful?",
-      "options": ["Mineral deposits", "Thermophilic bacteria", "Algae blooms", "Reflected sunlight"],
-      "correctAnswer": 1
+      "options": [
+        "Reflected sunlight",
+        "Algae blooms",
+        "Thermophilic bacteria",
+        "Mineral deposits"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-geysers-springs-7",
       "question": "Pamukkale, meaning 'Cotton Castle,' is a series of white terraced hot springs in which country?",
-      "options": ["Greece", "Turkey", "Italy", "Morocco"],
-      "correctAnswer": 1
+      "options": [
+        "Greece",
+        "Italy",
+        "Turkey",
+        "Morocco"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-geysers-springs-8",
       "question": "Approximately how often does Old Faithful erupt?",
-      "options": ["Every 30 minutes", "Every 60 to 90 minutes", "Every 3 hours", "Every 6 hours"],
-      "correctAnswer": 1
+      "options": [
+        "Every 30 minutes",
+        "Every 6 hours",
+        "Every 3 hours",
+        "Every 60 to 90 minutes"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-geysers-springs-9",
       "question": "The Geysers, the world's largest geothermal energy complex, is located in which U.S. state?",
-      "options": ["Wyoming", "Oregon", "California", "Hawaii"],
+      "options": [
+        "Oregon",
+        "Hawaii",
+        "California",
+        "Wyoming"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-geysers-springs-10",
       "question": "Bath, a city in England famous for its Roman-built hot springs, was established by which ancient civilization?",
-      "options": ["Greeks", "Celts", "Romans", "Vikings"],
-      "correctAnswer": 2
+      "options": [
+        "Romans",
+        "Vikings",
+        "Celts",
+        "Greeks"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-geysers-springs-11",
       "question": "Japan's hot springs, deeply embedded in their culture, are known by what Japanese word?",
-      "options": ["Sento", "Onsen", "Ofuro", "Ryokan"],
-      "correctAnswer": 1
+      "options": [
+        "Ryokan",
+        "Sento",
+        "Ofuro",
+        "Onsen"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-geysers-springs-12",
       "question": "Steamboat Geyser in Yellowstone holds the record for being the world's tallest active geyser. How high can its eruptions reach?",
-      "options": ["100 feet", "200 feet", "300 feet", "400 feet"],
-      "correctAnswer": 2
+      "options": [
+        "400 feet",
+        "300 feet",
+        "200 feet",
+        "100 feet"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-geysers-springs-13",
       "question": "The mineral travertine, deposited by hot springs, is primarily composed of what?",
-      "options": ["Silica", "Calcium carbonate", "Iron oxide", "Sulfur"],
-      "correctAnswer": 1
+      "options": [
+        "Sulfur",
+        "Silica",
+        "Calcium carbonate",
+        "Iron oxide"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-geysers-springs-14",
       "question": "El Tatio, one of the highest geyser fields in the world at over 14,000 feet elevation, is located in which country?",
-      "options": ["Bolivia", "Peru", "Chile", "Ecuador"],
-      "correctAnswer": 2
+      "options": [
+        "Bolivia",
+        "Chile",
+        "Ecuador",
+        "Peru"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-geysers-springs-15",
       "question": "Yellowstone National Park sits atop a massive volcanic feature known as what?",
-      "options": ["A volcanic cone", "A supervolcano caldera", "A lava tube", "A volcanic island"],
+      "options": [
+        "A lava tube",
+        "A supervolcano caldera",
+        "A volcanic cone",
+        "A volcanic island"
+      ],
       "correctAnswer": 1
     }
   ]

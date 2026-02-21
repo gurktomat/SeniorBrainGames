@@ -1,0 +1,173 @@
+{
+  "id": "famous-mosques-quiz",
+  "title": "Famous Mosques Quiz",
+  "description": "Explore the world's most stunning mosques and test your knowledge of Islamic architecture and history.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-mosques-quiz-1",
+      "question": "The Great Mosque of Mecca (Masjid al-Haram), the largest mosque in the world, surrounds which sacred structure?",
+      "options": [
+        "The Kaaba",
+        "The Black Stone",
+        "The Maqam Ibrahim",
+        "The Zamzam Well"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-mosques-quiz-2",
+      "question": "The Sheikh Zayed Grand Mosque, known for its 82 white domes, is located in which city?",
+      "options": [
+        "Dubai",
+        "Riyadh",
+        "Doha",
+        "Abu Dhabi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-3",
+      "question": "Al-Aqsa Mosque, one of the holiest sites in Islam, is located in which city?",
+      "options": [
+        "Medina",
+        "Mecca",
+        "Damascus",
+        "Jerusalem"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-4",
+      "question": "The Great Mosque of Djenné, the largest mud-brick building in the world, is located in which West African country?",
+      "options": [
+        "Guinea",
+        "Niger",
+        "Mali",
+        "Senegal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-mosques-quiz-5",
+      "question": "The Süleymaniye Mosque in Istanbul was designed by which famous Ottoman architect?",
+      "options": [
+        "Mimar Sinan",
+        "Davud Aga",
+        "Hayrettin",
+        "Sedefkar Mehmed Aga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-mosques-quiz-6",
+      "question": "The Mosque of Muhammad Ali, built in the Ottoman style with a large central dome, sits atop the Citadel in which city?",
+      "options": [
+        "Tunis",
+        "Istanbul",
+        "Cairo",
+        "Fez"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-mosques-quiz-7",
+      "question": "The Faisal Mosque in Islamabad, Pakistan, is distinctive because it lacks traditional what?",
+      "options": [
+        "A prayer hall",
+        "Minarets",
+        "A mihrab",
+        "Domes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-8",
+      "question": "The Nasir al-Mulk Mosque in Shiraz, Iran, is commonly known by what colorful nickname?",
+      "options": [
+        "The Blue Mosque",
+        "The Green Mosque",
+        "The Golden Mosque",
+        "The Pink Mosque"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-9",
+      "question": "The Prophet's Mosque (Al-Masjid an-Nabawi) in Medina contains the tomb of which important figure?",
+      "options": [
+        "Jesus",
+        "Moses",
+        "Abraham",
+        "Prophet Muhammad"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-10",
+      "question": "The Crystal Mosque (Masjid Kristal), made primarily from steel and glass, is located in which Southeast Asian country?",
+      "options": [
+        "Brunei",
+        "Malaysia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-mosques-quiz-11",
+      "question": "The Dome of the Rock in Jerusalem is famous for its golden dome. The dome is covered in which material?",
+      "options": [
+        "Gold leaf",
+        "Solid gold",
+        "Gold-anodized aluminum",
+        "Gold paint"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-mosques-quiz-12",
+      "question": "The Badshahi Mosque, built by Mughal Emperor Aurangzeb in 1673, is located in which Pakistani city?",
+      "options": [
+        "Karachi",
+        "Islamabad",
+        "Peshawar",
+        "Lahore"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-13",
+      "question": "The Koutoubia Mosque, the largest mosque in Marrakech, has a minaret that served as inspiration for which Spanish landmark?",
+      "options": [
+        "The Alhambra",
+        "The Giralda tower in Seville",
+        "The Sagrada Família",
+        "The Alcázar of Toledo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-mosques-quiz-14",
+      "question": "The Istiqlal Mosque in Jakarta, the largest mosque in Southeast Asia, faces which other famous building across a public square?",
+      "options": [
+        "A Buddhist temple",
+        "A Hindu shrine",
+        "The Presidential Palace",
+        "The Jakarta Cathedral"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-mosques-quiz-15",
+      "question": "The Córdoba Mosque (Mezquita), famous for its red-and-white arched interior, is unique because it now also contains what?",
+      "options": [
+        "A Roman Catholic cathedral",
+        "A museum",
+        "A synagogue",
+        "A marketplace"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "world-stadiums-quiz",
+  "title": "World Stadiums Quiz",
+  "description": "From ancient arenas to modern sporting cathedrals, test your knowledge of the world's most famous stadiums.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-stadiums-quiz-1",
+      "question": "The Maracanã Stadium, which hosted two FIFA World Cup finals, is located in which city?",
+      "options": [
+        "São Paulo",
+        "Mexico City",
+        "Rio de Janeiro",
+        "Buenos Aires"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-stadiums-quiz-2",
+      "question": "Wembley Stadium, England's national football stadium, is located in which city?",
+      "options": [
+        "London",
+        "Birmingham",
+        "Liverpool",
+        "Manchester"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-stadiums-quiz-3",
+      "question": "Camp Nou, one of the largest football stadiums in Europe, is the home ground of which club?",
+      "options": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Atletico Madrid",
+        "Valencia CF"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-stadiums-quiz-4",
+      "question": "The Melbourne Cricket Ground (MCG), often called 'The G,' can hold approximately how many spectators?",
+      "options": [
+        "100,000",
+        "60,000",
+        "120,000",
+        "80,000"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-stadiums-quiz-5",
+      "question": "The Bird's Nest stadium, designed for the 2008 Summer Olympics, is located in which city?",
+      "options": [
+        "Beijing",
+        "Tokyo",
+        "Seoul",
+        "Shanghai"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-stadiums-quiz-6",
+      "question": "Madison Square Garden, known as 'The World's Most Famous Arena,' is located in which borough of New York City?",
+      "options": [
+        "Queens",
+        "Brooklyn",
+        "Manhattan",
+        "The Bronx"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-stadiums-quiz-7",
+      "question": "The Allianz Arena in Munich is known for its exterior that can change to which colors?",
+      "options": [
+        "Red, green, and yellow",
+        "Red, blue, and white",
+        "Only red and blue",
+        "Red, white, and green"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-stadiums-quiz-8",
+      "question": "The Rose Bowl, famous for its annual college football game, is located in which California city?",
+      "options": [
+        "Los Angeles",
+        "San Diego",
+        "Pasadena",
+        "Anaheim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-stadiums-quiz-9",
+      "question": "The Azteca Stadium, which hosted two FIFA World Cup finals (1970 and 1986), is in which city?",
+      "options": [
+        "Monterrey",
+        "Puebla",
+        "Guadalajara",
+        "Mexico City"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-stadiums-quiz-10",
+      "question": "Lord's Cricket Ground, known as 'The Home of Cricket,' is located in which city?",
+      "options": [
+        "London",
+        "Mumbai",
+        "Johannesburg",
+        "Sydney"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-stadiums-quiz-11",
+      "question": "The Rungrado 1st of May Day Stadium, the largest stadium in the world by capacity, is in which country?",
+      "options": [
+        "China",
+        "India",
+        "North Korea",
+        "South Korea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-stadiums-quiz-12",
+      "question": "Yankee Stadium, home of the New York Yankees baseball team, is located in which borough?",
+      "options": [
+        "The Bronx",
+        "Manhattan",
+        "Queens",
+        "Brooklyn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-stadiums-quiz-13",
+      "question": "The Santiago Bernabéu Stadium is the home ground of which Spanish football club?",
+      "options": [
+        "FC Barcelona",
+        "Sevilla FC",
+        "Atletico Madrid",
+        "Real Madrid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-stadiums-quiz-14",
+      "question": "The Olympic Stadium designed by Zaha Hadid for the 2020 Olympics was NOT built. Which architect's design was used instead?",
+      "options": [
+        "Fumihiko Maki",
+        "Kengo Kuma",
+        "Tadao Ando",
+        "Shigeru Ban"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-stadiums-quiz-15",
+      "question": "Lambeau Field, known as 'The Frozen Tundra,' is the home stadium of which NFL team?",
+      "options": [
+        "Detroit Lions",
+        "Green Bay Packers",
+        "Chicago Bears",
+        "Minnesota Vikings"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

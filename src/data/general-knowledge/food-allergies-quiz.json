@@ -1,0 +1,219 @@
+{
+  "id": "food-allergies-quiz",
+  "title": "Food Allergies & Intolerances",
+  "description": "How much do you know about food allergies and dietary sensitivities?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "food-allergies-quiz-1",
+      "question": "What is the most common food allergy in children?",
+      "options": [
+        "Shellfish",
+        "Wheat",
+        "Peanuts",
+        "Milk"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cow's milk allergy is the most common food allergy in infants and young children, affecting about 2-3% of children under three. Most children outgrow it by age five.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-2",
+      "question": "What severe, life-threatening allergic reaction can occur within minutes of exposure to an allergen?",
+      "options": [
+        "Eczema",
+        "Anaphylaxis",
+        "Hives",
+        "Rhinitis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anaphylaxis is a severe, potentially life-threatening allergic reaction that can cause breathing difficulties, a drop in blood pressure, and loss of consciousness within minutes.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-3",
+      "question": "What medical device is used for emergency treatment of severe allergic reactions?",
+      "options": [
+        "Inhaler",
+        "Thermometer",
+        "EpiPen (epinephrine auto-injector)",
+        "Blood pressure cuff"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An EpiPen delivers a dose of epinephrine (adrenaline) to counteract severe allergic reactions. It constricts blood vessels, relaxes airway muscles, and reduces swelling.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-4",
+      "question": "Celiac disease is an autoimmune reaction triggered by eating what?",
+      "options": [
+        "Fructose",
+        "Lactose",
+        "Casein",
+        "Gluten"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Celiac disease is triggered by gluten, a protein found in wheat, barley, and rye. It causes the immune system to attack the small intestine lining, impairing nutrient absorption.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-5",
+      "question": "Which of these is one of the 'Big Eight' most common food allergens?",
+      "options": [
+        "Rice",
+        "Chicken",
+        "Corn",
+        "Tree nuts"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Big Eight' food allergens are milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybeans. They account for about 90% of all food allergic reactions.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-6",
+      "question": "What is the difference between a food allergy and a food intolerance?",
+      "options": [
+        "An allergy only affects children",
+        "An intolerance is more dangerous",
+        "They are the same thing",
+        "An allergy involves the immune system; an intolerance does not"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A food allergy triggers an immune system response and can be life-threatening. A food intolerance (like lactose intolerance) causes digestive discomfort but does not involve the immune system.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-7",
+      "question": "Lactose intolerance is caused by a deficiency of which enzyme?",
+      "options": [
+        "Lipase",
+        "Lactase",
+        "Amylase",
+        "Protease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactose intolerance occurs when the body produces insufficient lactase, the enzyme needed to digest lactose (milk sugar). This leads to bloating, gas, and diarrhea after consuming dairy.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-8",
+      "question": "Which nut allergy is one of the most common and potentially severe food allergies?",
+      "options": [
+        "Pine nut",
+        "Coconut",
+        "Macadamia",
+        "Peanut"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peanut allergy is one of the most common and severe food allergies. Even trace amounts can trigger a reaction in sensitive individuals, and it tends to be lifelong.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-9",
+      "question": "What protein in cow's milk is most commonly responsible for milk allergies?",
+      "options": [
+        "Albumin",
+        "Casein",
+        "Whey",
+        "Lactose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Casein is the most common protein trigger for cow's milk allergies. It makes up about 80% of milk protein and can cause immune reactions in allergic individuals.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-10",
+      "question": "What percentage of the adult population is estimated to have a food allergy?",
+      "options": [
+        "About 25%",
+        "About 4%",
+        "About 1%",
+        "About 15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "About 4% of adults have a food allergy. However, many more people believe they have food allergies than actually do, often confusing allergies with intolerances.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-11",
+      "question": "Histamine, released during an allergic reaction, causes which common symptoms?",
+      "options": [
+        "Itching, swelling, and hives",
+        "Fever and chills",
+        "Hearing loss",
+        "Muscle cramps"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Histamine causes itching, swelling, hives, and in severe cases, breathing difficulty. Antihistamine medications work by blocking histamine receptors to reduce these symptoms.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-12",
+      "question": "Which seafood allergy is the most common food allergy in adults?",
+      "options": [
+        "Salmon allergy",
+        "Tuna allergy",
+        "Shellfish allergy",
+        "Sardine allergy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shellfish allergy is the most common food allergy in adults, affecting about 2% of the population. It includes reactions to shrimp, crab, lobster, and other crustaceans.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-13",
+      "question": "Can food allergies develop later in life, even to foods previously eaten without problems?",
+      "options": [
+        "No, all food allergies develop in childhood",
+        "Only if you stop eating the food for years",
+        "Yes, adult-onset food allergies can occur",
+        "Only in people with other allergies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adult-onset food allergies can develop at any age, even to foods previously tolerated. Shellfish allergy, for example, most commonly develops in adulthood.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-14",
+      "question": "What condition causes a tingling or itchy mouth after eating certain raw fruits or vegetables?",
+      "options": [
+        "Acid reflux",
+        "Oral allergy syndrome",
+        "Food poisoning",
+        "Vitamin deficiency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oral allergy syndrome (OAS) occurs because proteins in some raw fruits and vegetables are similar to pollen proteins. People with hay fever may experience tingling or itching when eating them.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "food-allergies-quiz-15",
+      "question": "What method of food preparation can sometimes reduce allergic reactions to certain fruits?",
+      "options": [
+        "Cooking or heating",
+        "Soaking in water",
+        "Adding salt",
+        "Freezing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cooking can break down the proteins that cause allergic reactions in some fruits and vegetables, especially in cases of oral allergy syndrome. Many people who react to raw apples can eat cooked apples.",
+      "difficulty": "medium",
+      "category": "health"
+    }
+  ]
+}

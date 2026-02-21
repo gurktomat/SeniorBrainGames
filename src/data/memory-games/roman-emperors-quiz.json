@@ -1,0 +1,219 @@
+{
+  "id": "roman-emperors-quiz",
+  "title": "Roman Emperors Quiz",
+  "description": "Can you recall the emperors who ruled the mighty Roman Empire?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "roman-emperors-quiz-1",
+      "question": "Which emperor is famous for reportedly fiddling while Rome burned in 64 AD?",
+      "options": [
+        "Caligula",
+        "Tiberius",
+        "Commodus",
+        "Nero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "While the story is likely a myth (the fiddle hadn't been invented yet), Emperor Nero is traditionally associated with the Great Fire of Rome in 64 AD.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-2",
+      "question": "Which emperor legalized Christianity with the Edict of Milan in 313 AD?",
+      "options": [
+        "Diocletian",
+        "Augustus",
+        "Constantine I",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emperor Constantine I issued the Edict of Milan in 313 AD, granting religious tolerance throughout the empire and ending the persecution of Christians.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-3",
+      "question": "Which emperor built Hadrian's Wall in northern England?",
+      "options": [
+        "Antoninus Pius",
+        "Trajan",
+        "Hadrian",
+        "Marcus Aurelius"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emperor Hadrian ordered the construction of the wall in 122 AD to mark the northern boundary of the Roman Empire in Britain.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-4",
+      "question": "Which emperor was known as a mad tyrant who allegedly made his horse a consul?",
+      "options": [
+        "Nero",
+        "Domitian",
+        "Caligula",
+        "Commodus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emperor Caligula (Gaius Caesar) was known for his cruelty and extravagance. The story about his horse Incitatus being made consul is likely exaggerated.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-5",
+      "question": "Under which emperor did the Roman Empire reach its greatest territorial extent?",
+      "options": [
+        "Trajan",
+        "Augustus",
+        "Hadrian",
+        "Marcus Aurelius"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emperor Trajan expanded the Roman Empire to its greatest extent by 117 AD, including conquests in Dacia (modern Romania) and Mesopotamia.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-6",
+      "question": "Which emperor split the Roman Empire into Eastern and Western halves for easier governance?",
+      "options": [
+        "Constantine I",
+        "Theodosius I",
+        "Diocletian",
+        "Valentinian I"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emperor Diocletian established the Tetrarchy in 293 AD, dividing the empire into Eastern and Western administrative units.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-7",
+      "question": "Which emperor ordered the construction of the Colosseum?",
+      "options": [
+        "Domitian",
+        "Titus",
+        "Nero",
+        "Vespasian"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emperor Vespasian began construction of the Colosseum around 70 AD. It was completed under his son Titus in 80 AD.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-8",
+      "question": "Which emperor was the last to rule over a united Roman Empire?",
+      "options": [
+        "Theodosius I",
+        "Constantine I",
+        "Valentinian I",
+        "Julian"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Theodosius I was the last emperor to rule over both the Eastern and Western Roman Empire. After his death in 395 AD, the empire was permanently divided.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-9",
+      "question": "Which emperor established the Pax Romana, a long period of relative peace?",
+      "options": [
+        "Julius Caesar",
+        "Tiberius",
+        "Augustus",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Augustus (Octavian) established the Pax Romana beginning in 27 BC, a roughly 200-year period of relative peace and stability across the Roman Empire.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-10",
+      "question": "Which emperor was a gladiator who fought in the arena and was eventually assassinated?",
+      "options": [
+        "Nero",
+        "Commodus",
+        "Elagabalus",
+        "Caligula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Emperor Commodus was obsessed with gladiatorial combat and fought in the arena himself. He was assassinated by strangling in 192 AD.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-11",
+      "question": "Which philosopher-emperor wrote 'Meditations' and was the last of the Five Good Emperors?",
+      "options": [
+        "Antoninus Pius",
+        "Trajan",
+        "Marcus Aurelius",
+        "Hadrian"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Marcus Aurelius (161-180 AD) was the last of the Five Good Emperors and wrote his famous Stoic philosophical work 'Meditations.'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-12",
+      "question": "Which emperor was assassinated on the Ides of March (March 15, 44 BC)?",
+      "options": [
+        "Tiberius",
+        "Augustus",
+        "Nero",
+        "Julius Caesar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Julius Caesar was assassinated by a group of senators on March 15, 44 BC. While technically a dictator rather than emperor, his death led to the empire.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-13",
+      "question": "Which emperor moved the capital of the Roman Empire to Constantinople?",
+      "options": [
+        "Diocletian",
+        "Constantine I",
+        "Theodosius I",
+        "Justinian I"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Constantine I founded Constantinople (modern Istanbul) in 330 AD as the new capital of the Roman Empire, on the site of ancient Byzantium.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-14",
+      "question": "Which was the last Western Roman Emperor, deposed in 476 AD?",
+      "options": [
+        "Romulus Augustulus",
+        "Honorius",
+        "Valentinian III",
+        "Julius Nepos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Romulus Augustulus was deposed by the Germanic chieftain Odoacer in 476 AD, traditionally marking the fall of the Western Roman Empire.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "roman-emperors-quiz-15",
+      "question": "Which emperor adopted Trajan as his successor, starting a tradition of adoptive succession?",
+      "options": [
+        "Titus",
+        "Nerva",
+        "Domitian",
+        "Vespasian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Emperor Nerva adopted Trajan as his heir in 97 AD, beginning the era of the Five Good Emperors and the practice of choosing the most capable successor.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

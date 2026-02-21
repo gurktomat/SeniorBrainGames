@@ -1,0 +1,173 @@
+{
+  "id": "famous-castles-recall",
+  "title": "Famous Castles Recall",
+  "description": "Test your memory of the world's most magnificent castles, from medieval fortresses to fairy-tale palaces.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-castles-recall-1",
+      "question": "Windsor Castle, the oldest and largest occupied castle in the world, is located in which country?",
+      "options": [
+        "England",
+        "Ireland",
+        "Wales",
+        "Scotland"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-castles-recall-2",
+      "question": "Himeji Castle, known as the 'White Heron Castle' for its elegant white exterior, is located in which country?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "South Korea",
+        "China"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-3",
+      "question": "The Tower of London, originally built by William the Conqueror, has served as a prison, palace, and what else?",
+      "options": [
+        "A university",
+        "A treasury and Crown Jewels vault",
+        "A hospital",
+        "A church"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-4",
+      "question": "Bran Castle in Romania is popularly associated with which fictional character?",
+      "options": [
+        "Frankenstein",
+        "The Phantom of the Opera",
+        "Dracula",
+        "The Mummy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-castles-recall-5",
+      "question": "The Château de Chenonceau, built spanning a river, is located in which French region?",
+      "options": [
+        "Burgundy",
+        "Normandy",
+        "Provence",
+        "Loire Valley"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-castles-recall-6",
+      "question": "Hohenzollern Castle, sitting atop a mountain at 855 meters, is located in which German state?",
+      "options": [
+        "Baden-Württemberg",
+        "Hesse",
+        "Bavaria",
+        "Saxony"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-castles-recall-7",
+      "question": "The Alcázar of Segovia, which also inspired a Disney castle design, is located in which country?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "France",
+        "Italy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-8",
+      "question": "Bodiam Castle, a 14th-century moated castle, is located in which English county?",
+      "options": [
+        "Hampshire",
+        "East Sussex",
+        "Surrey",
+        "Kent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-9",
+      "question": "Kronborg Castle, the setting of Shakespeare's Hamlet, is located in which Scandinavian country?",
+      "options": [
+        "Norway",
+        "Finland",
+        "Denmark",
+        "Sweden"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-castles-recall-10",
+      "question": "Warwick Castle, one of the best-preserved medieval castles in England, sits on which river?",
+      "options": [
+        "Severn",
+        "Avon",
+        "Trent",
+        "Thames"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-11",
+      "question": "Matsumoto Castle, one of Japan's premier historic castles, is nicknamed what due to its black exterior?",
+      "options": [
+        "Midnight Castle",
+        "Crow Castle",
+        "Raven Castle",
+        "Shadow Castle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-12",
+      "question": "The Citadel of Aleppo, one of the oldest and largest castles in the world, is in which country?",
+      "options": [
+        "Syria",
+        "Jordan",
+        "Iraq",
+        "Lebanon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-castles-recall-13",
+      "question": "Conwy Castle, a medieval fortification built by Edward I, is located in which part of the United Kingdom?",
+      "options": [
+        "Scotland",
+        "Wales",
+        "Northern Ireland",
+        "England"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-14",
+      "question": "Pena Palace, a colorful Romanticist castle perched on a hilltop in Sintra, is in which country?",
+      "options": [
+        "Greece",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-castles-recall-15",
+      "question": "Eilean Donan Castle, one of the most photographed castles in Scotland, sits at the meeting point of how many sea lochs?",
+      "options": [
+        "Two",
+        "Five",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

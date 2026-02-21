@@ -1,0 +1,173 @@
+{
+  "id": "venomous-animals-quiz",
+  "title": "Venomous Animals",
+  "description": "Learn about the world's most venomous creatures, from snakes and spiders to jellyfish and frogs.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "venomous-animals-quiz-1",
+      "question": "What is the difference between venomous and poisonous animals?",
+      "options": [
+        "There is no difference",
+        "Venomous animals inject toxins; poisonous ones are harmful when eaten or touched",
+        "Poisonous animals are more dangerous",
+        "Venomous applies only to snakes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-2",
+      "question": "Which spider, recognized by the red hourglass on its abdomen, is one of the most venomous in North America?",
+      "options": [
+        "Tarantula",
+        "Brown recluse",
+        "Wolf spider",
+        "Black widow"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "venomous-animals-quiz-3",
+      "question": "The king cobra is the world's longest venomous snake. How long can it grow?",
+      "options": [
+        "8 feet",
+        "18 feet",
+        "24 feet",
+        "12 feet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-4",
+      "question": "Which tiny octopus, found in tide pools of Australia, has venom that can kill a human?",
+      "options": [
+        "Dumbo octopus",
+        "Blue-ringed octopus",
+        "Giant Pacific octopus",
+        "Common octopus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-5",
+      "question": "The box jellyfish is considered one of the most venomous marine animals. Where is it commonly found?",
+      "options": [
+        "North Atlantic",
+        "Waters around Australia",
+        "Mediterranean Sea",
+        "Gulf of Mexico"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-6",
+      "question": "Which venomous lizard is native to the southwestern United States?",
+      "options": [
+        "Gila monster",
+        "Chameleon",
+        "Monitor lizard",
+        "Komodo dragon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "venomous-animals-quiz-7",
+      "question": "The stonefish, the world's most venomous fish, is dangerous because of what?",
+      "options": [
+        "Venom in its tail",
+        "Venomous spines on its dorsal fin",
+        "Its toxic skin",
+        "Its bite"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-8",
+      "question": "Which African snake is known for 'spitting' venom at the eyes of its predators?",
+      "options": [
+        "Black mamba",
+        "Puff adder",
+        "Spitting cobra",
+        "Boomslang"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "venomous-animals-quiz-9",
+      "question": "The cone snail delivers venom through what mechanism?",
+      "options": [
+        "A harpoon-like tooth",
+        "Biting with its mouth",
+        "Contact with its shell",
+        "Spraying from its body"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "venomous-animals-quiz-10",
+      "question": "Which scorpion is considered the most dangerous to humans?",
+      "options": [
+        "Deathstalker scorpion",
+        "Arizona bark scorpion",
+        "Emperor scorpion",
+        "Forest scorpion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "venomous-animals-quiz-11",
+      "question": "The Brazilian wandering spider is considered dangerous because it does what?",
+      "options": [
+        "Hunts in packs",
+        "Actively wanders rather than building webs",
+        "Lives only in homes",
+        "Can jump long distances"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-12",
+      "question": "Antivenin (antivenom) is typically produced using what method?",
+      "options": [
+        "Injecting small amounts of venom into horses and harvesting antibodies",
+        "Synthetic chemicals",
+        "Extracting compounds from plants",
+        "Genetic engineering"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "venomous-animals-quiz-13",
+      "question": "The duck-billed platypus is one of the few venomous mammals. Where is its venom delivered from?",
+      "options": [
+        "Its bill",
+        "Its saliva",
+        "Spurs on its hind legs",
+        "Glands in its tail"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "venomous-animals-quiz-14",
+      "question": "Which venomous snake is responsible for the most snakebite deaths in India?",
+      "options": [
+        "Krait",
+        "Russell's viper",
+        "Indian python",
+        "King cobra"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "venomous-animals-quiz-15",
+      "question": "The Portuguese man-of-war looks like a jellyfish but is actually what?",
+      "options": [
+        "A type of sea slug",
+        "A type of coral",
+        "A single-celled organism",
+        "A colony of organisms called a siphonophore"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

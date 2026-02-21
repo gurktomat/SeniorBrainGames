@@ -1,0 +1,173 @@
+{
+  "id": "world-martial-arts-quiz",
+  "title": "World Martial Arts Quiz",
+  "description": "How well do you know martial arts styles and their origins from around the world?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-martial-arts-quiz-1",
+      "question": "Karate, meaning 'empty hand,' originated on which Japanese island?",
+      "options": [
+        "Kyushu",
+        "Okinawa",
+        "Honshu",
+        "Hokkaido"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-2",
+      "question": "Taekwondo is a martial art that originated in which country?",
+      "options": [
+        "China",
+        "Japan",
+        "Vietnam",
+        "South Korea"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-martial-arts-quiz-3",
+      "question": "Kung fu encompasses a wide range of fighting styles originating in which country?",
+      "options": [
+        "India",
+        "China",
+        "Thailand",
+        "Japan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-4",
+      "question": "Muay Thai, known as 'the art of eight limbs,' is the national sport of which country?",
+      "options": [
+        "Myanmar",
+        "Thailand",
+        "Laos",
+        "Cambodia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-5",
+      "question": "Judo, which means 'the gentle way,' was founded in 1882 by whom?",
+      "options": [
+        "Gichin Funakoshi",
+        "Mas Oyama",
+        "Morihei Ueshiba",
+        "Jigoro Kano"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-martial-arts-quiz-6",
+      "question": "Capoeira, a martial art disguised as a dance, was developed by enslaved people in which country?",
+      "options": [
+        "Cuba",
+        "Colombia",
+        "Brazil",
+        "Haiti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-martial-arts-quiz-7",
+      "question": "Aikido, a defensive martial art, was founded in Japan by whom?",
+      "options": [
+        "Gichin Funakoshi",
+        "Morihei Ueshiba",
+        "Jigoro Kano",
+        "Helio Gracie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-8",
+      "question": "Krav Maga is a self-defense system developed for which country's military?",
+      "options": [
+        "South Africa",
+        "Israel",
+        "Russia",
+        "United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-9",
+      "question": "Sumo wrestling is the national sport of which country?",
+      "options": [
+        "Japan",
+        "South Korea",
+        "China",
+        "Mongolia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-martial-arts-quiz-10",
+      "question": "Brazilian Jiu-Jitsu was adapted from Japanese jiu-jitsu by which famous family?",
+      "options": [
+        "Gracie",
+        "Silva",
+        "Machado",
+        "Nogueira"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-martial-arts-quiz-11",
+      "question": "Savate, a kickboxing style that only allows kicks with shoes, originated in which country?",
+      "options": [
+        "Spain",
+        "France",
+        "Italy",
+        "Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-12",
+      "question": "The term 'wushu' is the Chinese word for what?",
+      "options": [
+        "Physical strength",
+        "Martial arts",
+        "Inner peace",
+        "Fighting spirit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-13",
+      "question": "Sambo is a martial art that was developed in which country?",
+      "options": [
+        "Mongolia",
+        "Soviet Union (Russia)",
+        "Japan",
+        "China"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-martial-arts-quiz-14",
+      "question": "Silat is a martial art practiced widely in which region?",
+      "options": [
+        "East Asia",
+        "South Asia",
+        "Southeast Asia (Malay Archipelago)",
+        "Central Asia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-martial-arts-quiz-15",
+      "question": "Kendo, the way of the sword, uses bamboo swords called what?",
+      "options": [
+        "Tanto",
+        "Bokken",
+        "Katana",
+        "Shinai"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

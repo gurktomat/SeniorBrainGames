@@ -1,0 +1,173 @@
+{
+  "id": "big-cats-quiz",
+  "title": "Big Cats of the World",
+  "description": "Test your knowledge of lions, tigers, leopards, and other magnificent big cats from around the globe.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "big-cats-quiz-1",
+      "question": "Which big cat is the largest by weight?",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Leopard",
+        "Jaguar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-2",
+      "question": "What is a group of lions called?",
+      "options": [
+        "Pride",
+        "Herd",
+        "Colony",
+        "Pack"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-3",
+      "question": "Which big cat is known for its ability to roar but cannot purr?",
+      "options": [
+        "Lion",
+        "Cougar",
+        "Cheetah",
+        "Snow leopard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-4",
+      "question": "The snow leopard is native to the mountain ranges of which continent?",
+      "options": [
+        "Africa",
+        "Europe",
+        "South America",
+        "Asia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-5",
+      "question": "Which big cat is the fastest land animal?",
+      "options": [
+        "Cheetah",
+        "Tiger",
+        "Lion",
+        "Leopard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-6",
+      "question": "What distinguishes a jaguar's rosettes from a leopard's?",
+      "options": [
+        "They are only on the legs",
+        "They are square-shaped",
+        "They are larger",
+        "They have spots inside them"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-7",
+      "question": "Which continent has no native big cat species?",
+      "options": [
+        "Australia",
+        "Asia",
+        "Africa",
+        "South America"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-8",
+      "question": "What is the only big cat native to the Americas?",
+      "options": [
+        "Cougar",
+        "Ocelot",
+        "Jaguar",
+        "Lynx"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "big-cats-quiz-9",
+      "question": "A black panther is actually a melanistic form of which two big cats?",
+      "options": [
+        "Tiger and leopard",
+        "Leopard and jaguar",
+        "Cheetah and cougar",
+        "Lion and tiger"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "big-cats-quiz-10",
+      "question": "Which big cat is most closely associated with swimming and water?",
+      "options": [
+        "Cheetah",
+        "Snow leopard",
+        "Tiger",
+        "Lion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "big-cats-quiz-11",
+      "question": "What is the average top speed of a cheetah in miles per hour?",
+      "options": [
+        "80 mph",
+        "70 mph",
+        "50 mph",
+        "60 mph"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "big-cats-quiz-12",
+      "question": "Which big cat has the strongest bite force relative to its size?",
+      "options": [
+        "Leopard",
+        "Lion",
+        "Tiger",
+        "Jaguar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-13",
+      "question": "The Amur or Siberian tiger is native to which region?",
+      "options": [
+        "Russian Far East",
+        "India",
+        "Southeast Asia",
+        "China"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-14",
+      "question": "Which big cat is known for dragging its prey up into trees?",
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Cheetah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "big-cats-quiz-15",
+      "question": "Male lions are distinguished from females by what prominent feature?",
+      "options": [
+        "Longer tail",
+        "Mane",
+        "Larger paws",
+        "Striped fur"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

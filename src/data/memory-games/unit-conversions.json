@@ -8,89 +8,89 @@
       "id": "unit-conversions-1",
       "question": "How many feet are in one mile?",
       "options": [
-        "3,280",
         "5,280",
         "4,280",
+        "3,280",
         "6,280"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "unit-conversions-2",
       "question": "How many cups are in one gallon?",
       "options": [
-        "8",
         "12",
         "16",
+        "8",
         "20"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "unit-conversions-3",
       "question": "How many centimeters are in one inch?",
       "options": [
-        "1.54",
-        "2.54",
+        "2.00",
         "3.54",
-        "2.00"
+        "2.54",
+        "1.54"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "unit-conversions-4",
       "question": "How many ounces are in one pound?",
       "options": [
-        "8",
-        "12",
         "16",
-        "20"
+        "20",
+        "12",
+        "8"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "unit-conversions-5",
       "question": "What temperature in Fahrenheit is equivalent to 0 degrees Celsius?",
       "options": [
-        "0\u00b0F",
-        "32\u00b0F",
-        "50\u00b0F",
-        "100\u00b0F"
+        "0°F",
+        "100°F",
+        "50°F",
+        "32°F"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "unit-conversions-6",
       "question": "How many tablespoons are in one cup?",
       "options": [
-        "8",
         "12",
-        "16",
-        "20"
+        "20",
+        "8",
+        "16"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "unit-conversions-7",
       "question": "How many yards are in one mile?",
       "options": [
         "1,260",
-        "1,560",
         "1,760",
-        "2,060"
+        "2,060",
+        "1,560"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "unit-conversions-8",
       "question": "How many liters are approximately equal to one gallon?",
       "options": [
         "2.78",
-        "3.79",
         "4.55",
-        "5.12"
+        "5.12",
+        "3.79"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "unit-conversions-9",
@@ -108,42 +108,42 @@
       "question": "How many kilometers are approximately equal to one mile?",
       "options": [
         "1.21",
-        "1.41",
         "1.61",
-        "1.81"
+        "1.81",
+        "1.41"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "unit-conversions-11",
       "question": "How many pints are in one quart?",
       "options": [
+        "3",
         "1",
         "2",
-        "3",
         "4"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "unit-conversions-12",
       "question": "How many grams are in one kilogram?",
       "options": [
-        "100",
-        "500",
         "1,000",
-        "10,000"
+        "10,000",
+        "100",
+        "500"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "unit-conversions-13",
       "question": "What temperature in Fahrenheit is equivalent to 100 degrees Celsius?",
       "options": [
-        "180\u00b0F",
-        "200\u00b0F",
-        "212\u00b0F",
-        "220\u00b0F"
+        "200°F",
+        "220°F",
+        "212°F",
+        "180°F"
       ],
       "correctAnswer": 2
     },
@@ -152,11 +152,11 @@
       "question": "How many quarts are in one gallon?",
       "options": [
         "2",
-        "3",
         "4",
-        "6"
+        "6",
+        "3"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "unit-conversions-15",
@@ -164,10 +164,10 @@
       "options": [
         "1.2",
         "1.8",
-        "2.2",
-        "2.8"
+        "2.8",
+        "2.2"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

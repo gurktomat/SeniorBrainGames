@@ -1,0 +1,219 @@
+{
+  "id": "sailing-racing-terms",
+  "title": "Sailing & Racing Terms",
+  "description": "Set sail through this quiz about competitive sailing vocabulary!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sailing-racing-terms-1",
+      "question": "In sailing, what does 'tacking' mean?",
+      "options": [
+        "Nailing something to the mast",
+        "Turning the bow of the boat through the wind to change direction",
+        "Steering straight ahead",
+        "Lowering the sails"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tacking is a maneuver where a sailboat turns its bow through the wind so that the wind changes from one side of the boat to the other, allowing the boat to sail upwind in a zigzag pattern.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-2",
+      "question": "What does 'jibing' (or 'gybing') mean in sailing?",
+      "options": [
+        "Telling jokes on board",
+        "Turning the stern of the boat through the wind",
+        "Tying knots in the rigging",
+        "Dropping anchor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jibing is when a sailboat turns its stern through the wind so the boom swings from one side to the other. It is the opposite of tacking and can be more dangerous due to the rapid boom movement.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-3",
+      "question": "In sailing, what is the 'spinnaker'?",
+      "options": [
+        "A type of fish found near boats",
+        "The person who steers the boat",
+        "A device for measuring wind speed",
+        "A large, lightweight, balloon-shaped sail used when sailing downwind"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A spinnaker is a large, colorful, balloon-like sail deployed from the bow of a sailboat when sailing downwind to capture maximum wind and increase speed.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-4",
+      "question": "What is a 'regatta'?",
+      "options": [
+        "A Mediterranean port",
+        "A series of boat races or a sailing competition event",
+        "A type of sailing knot",
+        "A small sailboat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A regatta is an organized series of boat races, typically for sailboats, held over one or multiple days at a specific venue.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-5",
+      "question": "In sailing, what does 'leeward' mean?",
+      "options": [
+        "The side facing into the wind",
+        "Toward the back of the boat",
+        "Toward the left side of the boat",
+        "The side or direction sheltered from the wind"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Leeward (pronounced 'loo-erd') is the side or direction away from the wind, the sheltered side. Its opposite is windward, the side facing into the wind.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-6",
+      "question": "What is a 'keel' on a sailboat?",
+      "options": [
+        "A type of sail",
+        "The top of the mast",
+        "The steering wheel",
+        "A weighted fin on the bottom of the hull that provides stability and prevents sideways drift"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The keel is a weighted fin or blade extending below the hull that serves two purposes: it provides ballast (weight) to keep the boat upright and resists sideways drift (leeway).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-7",
+      "question": "In sailing races, what is the 'start line'?",
+      "options": [
+        "The first buoy on the course",
+        "A line painted on the water",
+        "An imaginary line between a committee boat and a pin mark",
+        "The marina exit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The start line is an imaginary line between the race committee boat and a starting mark (often a buoy), which boats must cross after the starting signal.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-8",
+      "question": "What does 'heeling' mean in sailing?",
+      "options": [
+        "Steering with the feet",
+        "Repairing the boat's hull",
+        "Walking on the deck",
+        "The boat leaning to one side under the force of the wind"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Heeling is when a sailboat tilts or leans to one side due to the force of the wind on the sails, counterbalanced by the crew's weight and the keel.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-9",
+      "question": "In sailing, what is 'right of way'?",
+      "options": [
+        "The right side of the boat",
+        "The direction to the right",
+        "The rules determining which boat must keep clear to avoid collision",
+        "Permission to enter a marina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Right of way in sailing refers to the racing rules (and International Regulations for Preventing Collisions at Sea) that determine which boat has priority and which must give way.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-10",
+      "question": "What is a 'halyard' in sailing?",
+      "options": [
+        "A half-yard measurement",
+        "A safety harness",
+        "A line (rope) used to hoist a sail up the mast",
+        "A type of anchor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A halyard is a line (rope) used to raise or hoist a sail, flag, or yard on a sailboat. The word comes from 'haul yard,' meaning to haul the yard (a spar supporting the sail).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-11",
+      "question": "In sailing, what is 'trimming' the sails?",
+      "options": [
+        "Decorating the sails",
+        "Adjusting the sails' angle relative to the wind for optimal performance",
+        "Cutting the sails to size",
+        "Folding the sails for storage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trimming is the act of adjusting the angle and shape of the sails relative to the wind direction to optimize speed and control.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-12",
+      "question": "What does 'beating' (or 'close-hauled') mean in sailing?",
+      "options": [
+        "Sailing faster than other boats",
+        "Hitting the water with the hull",
+        "Sailing as close to the direction the wind is coming from as possible",
+        "Sailing during a storm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beating (or sailing close-hauled) means sailing as close to the direction the wind is blowing from as possible, typically at about 30-45 degrees from the wind, using a zigzag pattern.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-13",
+      "question": "In sailing, what is a 'protest'?",
+      "options": [
+        "Objecting to weather conditions",
+        "Refusing to race",
+        "A formal complaint filed against another boat for a rule violation during racing",
+        "A rally against sailing regulations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A protest is a formal complaint submitted to a race committee alleging that another boat broke a racing rule, which is then heard by a protest committee that can impose penalties.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-14",
+      "question": "What is 'windward' in sailing?",
+      "options": [
+        "The side or direction from which the wind is blowing",
+        "The back of the boat",
+        "A brand of sailboats",
+        "A calm area with no wind"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Windward means the side or direction from which the wind is coming. In racing, the windward mark is the upwind turning point that boats must sail toward against the wind.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "sailing-racing-terms-15",
+      "question": "In sailing, what is a 'capsize'?",
+      "options": [
+        "A type of sailing hat",
+        "The size of the cap on the mast",
+        "The capacity of the boat",
+        "When a boat overturns or is knocked onto its side"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A capsize occurs when a boat is turned over on its side or completely inverted, usually caused by excessive wind, waves, or crew error, especially common in smaller dinghies.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

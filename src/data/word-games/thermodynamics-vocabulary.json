@@ -1,0 +1,173 @@
+{
+  "id": "thermodynamics-vocabulary",
+  "title": "Thermodynamics Vocabulary",
+  "description": "Master the vocabulary of heat, energy, and work with terms from the fascinating science of thermodynamics.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "thermodynamics-vocabulary-1",
+      "question": "What is 'thermodynamics'?",
+      "options": [
+        "The study of hot springs",
+        "The study of dynamic movements",
+        "The branch of physics dealing with heat, work, temperature, and energy",
+        "The science of thermal clothing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "thermodynamics-vocabulary-2",
+      "question": "What does the 'First Law of Thermodynamics' state?",
+      "options": [
+        "Absolute zero is unattainable",
+        "Energy cannot be created or destroyed, only transformed from one form to another",
+        "Heat always flows from cold to hot",
+        "All systems tend toward disorder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-3",
+      "question": "What is 'conduction'?",
+      "options": [
+        "Heat transfer through fluid movement",
+        "The transfer of heat through direct contact between materials",
+        "The conversion of heat to light",
+        "Heat transfer through electromagnetic waves"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-4",
+      "question": "What is 'convection'?",
+      "options": [
+        "Heat transfer through a vacuum",
+        "The creation of heat from friction",
+        "Heat transfer through solid objects",
+        "Heat transfer through the movement of fluids (liquids or gases)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "thermodynamics-vocabulary-5",
+      "question": "What is 'absolute zero'?",
+      "options": [
+        "The freezing point of water",
+        "The temperature of outer space",
+        "The boiling point of liquid nitrogen",
+        "The lowest possible temperature, where molecular motion theoretically ceases (0 Kelvin or -273.15 degrees Celsius)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "thermodynamics-vocabulary-6",
+      "question": "What does 'specific heat capacity' measure?",
+      "options": [
+        "The density of a material",
+        "The boiling point of a liquid",
+        "The temperature of a substance",
+        "The amount of heat energy required to raise the temperature of one unit of mass by one degree"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "thermodynamics-vocabulary-7",
+      "question": "What is 'radiation' as a form of heat transfer?",
+      "options": [
+        "Heat traveling through water",
+        "The emission of energy as electromagnetic waves, which can travel through a vacuum",
+        "Heat stored in batteries",
+        "Heat moving through solid metal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-8",
+      "question": "What is 'enthalpy'?",
+      "options": [
+        "The speed of a reaction",
+        "The pressure of a gas",
+        "The volume of a container",
+        "A measure of the total heat content of a system"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "thermodynamics-vocabulary-9",
+      "question": "What does an 'insulator' do?",
+      "options": [
+        "Conducts heat efficiently",
+        "Generates electricity",
+        "Resists the flow of heat, keeping warm things warm and cold things cold",
+        "Absorbs all radiation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "thermodynamics-vocabulary-10",
+      "question": "What is 'thermal equilibrium'?",
+      "options": [
+        "When all objects are at absolute zero",
+        "The state when two objects in contact reach the same temperature and heat no longer flows between them",
+        "When ice melts completely",
+        "When a liquid begins to boil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-11",
+      "question": "What is a 'Joule'?",
+      "options": [
+        "A type of heat engine",
+        "A measure of temperature",
+        "The SI unit of energy, work, or heat",
+        "A type of thermometer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "thermodynamics-vocabulary-12",
+      "question": "What does the 'Second Law of Thermodynamics' describe?",
+      "options": [
+        "Pressure and volume are always equal",
+        "In any energy transfer, the total entropy of a system tends to increase over time",
+        "Energy is always conserved",
+        "Heat flows from cold to hot naturally"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-13",
+      "question": "What is a 'heat engine'?",
+      "options": [
+        "A type of thermometer",
+        "A device that converts thermal energy into mechanical work",
+        "A heater for buildings",
+        "A device that only produces heat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "thermodynamics-vocabulary-14",
+      "question": "What is 'latent heat'?",
+      "options": [
+        "The heat from the sun",
+        "Heat that is visible as light",
+        "The heat absorbed or released during a phase change without a temperature change",
+        "The heat produced by friction"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "thermodynamics-vocabulary-15",
+      "question": "What is 'thermal conductivity'?",
+      "options": [
+        "The color change of a heated object",
+        "A measure of how well a material conducts heat",
+        "The weight of a heated object",
+        "The temperature of a substance"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "persuasive-writing-quiz",
+  "title": "Persuasive Writing Quiz",
+  "description": "Sharpen your understanding of techniques writers use to convince, persuade, and influence readers",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "persuasive-writing-quiz-1",
+      "question": "What is the primary goal of persuasive writing?",
+      "options": [
+        "To entertain the reader",
+        "To tell a fictional story",
+        "To describe a scene in detail",
+        "To convince the reader to adopt a particular viewpoint or take action"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "persuasive-writing-quiz-2",
+      "question": "What is a 'thesis statement' in persuasive writing?",
+      "options": [
+        "A question posed to the reader",
+        "A clear declaration of the writer's main argument or position",
+        "A summary of opposing views",
+        "The conclusion of an essay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-3",
+      "question": "What is a 'counterargument'?",
+      "options": [
+        "A stronger version of the writer's own argument",
+        "An opposing viewpoint that the writer acknowledges and responds to",
+        "A personal anecdote",
+        "A conclusion that contradicts the thesis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-4",
+      "question": "What logical fallacy involves attacking the person making the argument rather than the argument itself?",
+      "options": [
+        "Red herring",
+        "Ad hominem",
+        "False dichotomy",
+        "Straw man"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-5",
+      "question": "What is a 'straw man' fallacy?",
+      "options": [
+        "Misrepresenting someone's argument to make it easier to attack",
+        "Using too many examples",
+        "Building a strong argument from scratch",
+        "Using a scarecrow as a metaphor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "persuasive-writing-quiz-6",
+      "question": "What is the 'bandwagon' appeal?",
+      "options": [
+        "Arguing that something is true or good because many people believe or do it",
+        "Using musical metaphors",
+        "Using statistical evidence",
+        "Presenting expert testimony"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "persuasive-writing-quiz-7",
+      "question": "What is an 'appeal to authority'?",
+      "options": [
+        "Writing in a commanding tone",
+        "Using emotional language exclusively",
+        "Citing an expert or authoritative source to support a claim",
+        "Threatening the reader"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "persuasive-writing-quiz-8",
+      "question": "What is a 'false dichotomy' (false dilemma)?",
+      "options": [
+        "Making a grammatical error",
+        "Repeating a point too many times",
+        "Using false statistics",
+        "Presenting two options as the only possibilities when more exist"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "persuasive-writing-quiz-9",
+      "question": "What persuasive technique uses emotional stories or examples to sway the audience?",
+      "options": [
+        "Kairos",
+        "Pathos",
+        "Ethos",
+        "Logos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-10",
+      "question": "What is 'kairos' in persuasive rhetoric?",
+      "options": [
+        "An appeal to logic",
+        "An appeal to the speaker's credibility",
+        "An appeal to timeliness or the opportune moment for an argument",
+        "An appeal to tradition"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "persuasive-writing-quiz-11",
+      "question": "What is a 'call to action' in persuasive writing?",
+      "options": [
+        "A list of references",
+        "The title of the essay",
+        "The opening hook",
+        "A statement urging the reader to do something specific"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "persuasive-writing-quiz-12",
+      "question": "What is the 'slippery slope' fallacy?",
+      "options": [
+        "A well-structured argument",
+        "Using too many sources",
+        "A gradual transition between topics",
+        "Claiming that one event will inevitably lead to a chain of negative consequences without sufficient evidence"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "persuasive-writing-quiz-13",
+      "question": "What technique involves repeating key phrases or ideas for emphasis in persuasive writing?",
+      "options": [
+        "Digression",
+        "Repetition",
+        "Ambiguity",
+        "Understatement"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-14",
+      "question": "What is 'loaded language'?",
+      "options": [
+        "Words with multiple dictionary definitions",
+        "Words or phrases with strong emotional connotations designed to influence the reader's feelings",
+        "Using very long sentences",
+        "Technical jargon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "persuasive-writing-quiz-15",
+      "question": "What is the 'appeal to tradition' fallacy?",
+      "options": [
+        "Using old-fashioned language",
+        "Arguing that something is right or better simply because it has always been done that way",
+        "Citing historical documents as evidence",
+        "Telling a traditional story"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

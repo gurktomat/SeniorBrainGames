@@ -8,10 +8,10 @@
       "id": "animal-sounds-quiz-1",
       "question": "What sound does a rooster make early in the morning?",
       "options": [
-        "Cluck",
-        "Crow",
         "Caw",
-        "Chirp"
+        "Crow",
+        "Chirp",
+        "Cluck"
       ],
       "correctAnswer": 1
     },
@@ -19,32 +19,32 @@
       "id": "animal-sounds-quiz-2",
       "question": "Which animal is known for its distinctive 'hoot' sound at night?",
       "options": [
-        "Bat",
         "Owl",
+        "Raccoon",
         "Fox",
-        "Raccoon"
+        "Bat"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "animal-sounds-quiz-3",
       "question": "What is the term for the sound a horse makes?",
       "options": [
         "Bray",
-        "Moo",
         "Neigh",
-        "Bleat"
+        "Bleat",
+        "Moo"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "animal-sounds-quiz-4",
       "question": "Which animal is famous for trumpeting?",
       "options": [
-        "Rhinoceros",
         "Hippopotamus",
+        "Giraffe",
         "Elephant",
-        "Giraffe"
+        "Rhinoceros"
       ],
       "correctAnswer": 2
     },
@@ -52,65 +52,65 @@
       "id": "animal-sounds-quiz-5",
       "question": "What sound does a cricket make on warm summer nights?",
       "options": [
-        "Buzz",
-        "Hum",
+        "Click",
         "Chirp",
-        "Click"
+        "Buzz",
+        "Hum"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "animal-sounds-quiz-6",
       "question": "Which animal is known for its laugh-like call in the African savanna?",
       "options": [
-        "Zebra",
         "Hyena",
-        "Wildebeest",
-        "Baboon"
+        "Zebra",
+        "Baboon",
+        "Wildebeest"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "animal-sounds-quiz-7",
       "question": "What is the term for the sound a donkey makes?",
       "options": [
-        "Neigh",
-        "Whinny",
         "Bray",
+        "Whinny",
+        "Neigh",
         "Bleat"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "animal-sounds-quiz-8",
       "question": "Which bird is famous for its ability to mimic human speech?",
       "options": [
         "Crow",
-        "Parrot",
         "Mynah",
-        "Starling"
+        "Starling",
+        "Parrot"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "animal-sounds-quiz-9",
       "question": "What sound does a rattlesnake make as a warning?",
       "options": [
         "Hiss",
-        "Rattle",
+        "Whistle",
         "Click",
-        "Whistle"
+        "Rattle"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "animal-sounds-quiz-10",
       "question": "Which animal communicates through songs that can travel great distances underwater?",
       "options": [
-        "Dolphin",
+        "Seal",
         "Shark",
         "Humpback Whale",
-        "Seal"
+        "Dolphin"
       ],
       "correctAnswer": 2
     },
@@ -118,9 +118,9 @@
       "id": "animal-sounds-quiz-11",
       "question": "What is the term for the sound a sheep makes?",
       "options": [
-        "Moo",
-        "Bray",
         "Cluck",
+        "Bray",
+        "Moo",
         "Bleat"
       ],
       "correctAnswer": 3
@@ -130,44 +130,44 @@
       "question": "Which Australian bird is known for a call that sounds like human laughter?",
       "options": [
         "Emu",
-        "Kookaburra",
         "Cockatoo",
+        "Kookaburra",
         "Lyrebird"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "animal-sounds-quiz-13",
       "question": "What sound does a cat make when content and relaxed?",
       "options": [
-        "Meow",
         "Hiss",
         "Purr",
+        "Meow",
         "Yowl"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "animal-sounds-quiz-14",
       "question": "Which insect is known for its buzzing sound made by rapid wing beats?",
       "options": [
-        "Ant",
         "Butterfly",
-        "Bee",
-        "Ladybug"
+        "Ladybug",
+        "Ant",
+        "Bee"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "animal-sounds-quiz-15",
       "question": "What is the term for the loud, deep sound a lion makes?",
       "options": [
-        "Growl",
-        "Roar",
+        "Bark",
         "Howl",
-        "Bark"
+        "Roar",
+        "Growl"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

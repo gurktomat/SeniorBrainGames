@@ -8,8 +8,13 @@
     {
       "id": "cm-1",
       "question": "Which composer wrote the famous 'Für Elise' piano piece?",
-      "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Frédéric Chopin", "Franz Schubert"],
-      "correctAnswer": 1,
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Frédéric Chopin",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ludwig van Beethoven composed 'Für Elise' (Bagatelle No. 25 in A minor) around 1810. The identity of 'Elise' remains debated, with some scholars suggesting it was Therese Malfatti, a woman Beethoven reportedly proposed to.",
       "difficulty": "easy",
       "category": "art"
@@ -17,8 +22,13 @@
     {
       "id": "cm-2",
       "question": "Which Austrian composer was a child prodigy who composed his first symphony at age eight?",
-      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Joseph Haydn", "Franz Schubert"],
-      "correctAnswer": 1,
+      "options": [
+        "Johann Sebastian Bach",
+        "Franz Schubert",
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 3,
       "explanation": "Wolfgang Amadeus Mozart began composing at age five and wrote his first symphony at age eight. By his death at 35, he had composed over 600 works including operas, symphonies, and concertos.",
       "difficulty": "easy",
       "category": "art"
@@ -26,8 +36,13 @@
     {
       "id": "cm-3",
       "question": "Who composed 'The Four Seasons,' a set of four violin concertos?",
-      "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "George Frideric Handel", "Arcangelo Corelli"],
-      "correctAnswer": 0,
+      "options": [
+        "George Frideric Handel",
+        "Arcangelo Corelli",
+        "Johann Sebastian Bach",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 3,
       "explanation": "Antonio Vivaldi composed 'The Four Seasons' around 1720. Each of the four concertos represents a season and is accompanied by a sonnet describing that season. It remains one of the most popular pieces of Baroque music.",
       "difficulty": "easy",
       "category": "art"
@@ -35,7 +50,12 @@
     {
       "id": "cm-4",
       "question": "Which famous German composer became deaf later in life but continued to compose?",
-      "options": ["Johannes Brahms", "Richard Wagner", "Ludwig van Beethoven", "Robert Schumann"],
+      "options": [
+        "Richard Wagner",
+        "Robert Schumann",
+        "Ludwig van Beethoven",
+        "Johannes Brahms"
+      ],
       "correctAnswer": 2,
       "explanation": "Ludwig van Beethoven began losing his hearing in his late twenties and was almost completely deaf by 1814. Despite this, he composed some of his greatest works while deaf, including his Ninth Symphony.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "cm-5",
       "question": "Which composer wrote the 'Hallelujah' chorus, part of the oratorio 'Messiah'?",
-      "options": ["Johann Sebastian Bach", "George Frideric Handel", "Joseph Haydn", "Henry Purcell"],
-      "correctAnswer": 1,
+      "options": [
+        "Joseph Haydn",
+        "Johann Sebastian Bach",
+        "Henry Purcell",
+        "George Frideric Handel"
+      ],
+      "correctAnswer": 3,
       "explanation": "George Frideric Handel composed 'Messiah' in 1741, including the famous 'Hallelujah' chorus. Legend says King George II stood during its performance, starting a tradition that continues to this day.",
       "difficulty": "easy",
       "category": "art"
@@ -53,8 +78,13 @@
     {
       "id": "cm-6",
       "question": "Which Russian composer wrote the music for the ballets 'Swan Lake' and 'The Nutcracker'?",
-      "options": ["Sergei Rachmaninoff", "Igor Stravinsky", "Pyotr Ilyich Tchaikovsky", "Nikolai Rimsky-Korsakov"],
-      "correctAnswer": 2,
+      "options": [
+        "Nikolai Rimsky-Korsakov",
+        "Pyotr Ilyich Tchaikovsky",
+        "Sergei Rachmaninoff",
+        "Igor Stravinsky"
+      ],
+      "correctAnswer": 1,
       "explanation": "Pyotr Ilyich Tchaikovsky composed 'Swan Lake' (1876), 'The Sleeping Beauty' (1889), and 'The Nutcracker' (1892). These three ballets remain among the most frequently performed in the world.",
       "difficulty": "medium",
       "category": "art"
@@ -62,8 +92,13 @@
     {
       "id": "cm-7",
       "question": "Which Polish-born composer is known primarily for his piano compositions, including nocturnes, waltzes, and etudes?",
-      "options": ["Franz Liszt", "Frédéric Chopin", "Robert Schumann", "Felix Mendelssohn"],
-      "correctAnswer": 1,
+      "options": [
+        "Frédéric Chopin",
+        "Franz Liszt",
+        "Felix Mendelssohn",
+        "Robert Schumann"
+      ],
+      "correctAnswer": 0,
       "explanation": "Frédéric Chopin is considered one of the greatest piano composers of all time. Nearly all of his compositions were written for solo piano, and he composed over 200 works during his short life (1810-1849).",
       "difficulty": "medium",
       "category": "art"
@@ -71,8 +106,13 @@
     {
       "id": "cm-8",
       "question": "Johann Sebastian Bach held a position as musical director at which famous church in Leipzig?",
-      "options": ["Notre-Dame Cathedral", "St. Thomas Church", "Westminster Abbey", "St. Peter's Basilica"],
-      "correctAnswer": 1,
+      "options": [
+        "Westminster Abbey",
+        "Notre-Dame Cathedral",
+        "St. Thomas Church",
+        "St. Peter's Basilica"
+      ],
+      "correctAnswer": 2,
       "explanation": "Johann Sebastian Bach served as Cantor (musical director) of St. Thomas Church in Leipzig, Germany, from 1723 until his death in 1750. During this time, he composed many of his greatest works.",
       "difficulty": "medium",
       "category": "art"
@@ -80,8 +120,13 @@
     {
       "id": "cm-9",
       "question": "Which opera by Giuseppe Verdi tells the story of an Ethiopian princess enslaved in Egypt?",
-      "options": ["La Traviata", "Rigoletto", "Aida", "Otello"],
-      "correctAnswer": 2,
+      "options": [
+        "Aida",
+        "La Traviata",
+        "Rigoletto",
+        "Otello"
+      ],
+      "correctAnswer": 0,
       "explanation": "Verdi's 'Aida,' premiered in 1871, tells the story of Aida, an Ethiopian princess captured and enslaved in Egypt, and her forbidden love with the Egyptian military commander Radamès. It was commissioned for the opening of the Khedivial Opera House in Cairo.",
       "difficulty": "medium",
       "category": "art"
@@ -89,7 +134,12 @@
     {
       "id": "cm-10",
       "question": "Which Beethoven symphony is known for its famous four-note opening motif (da-da-da-DUM)?",
-      "options": ["Third Symphony (Eroica)", "Fifth Symphony", "Sixth Symphony (Pastoral)", "Ninth Symphony"],
+      "options": [
+        "Third Symphony (Eroica)",
+        "Fifth Symphony",
+        "Sixth Symphony (Pastoral)",
+        "Ninth Symphony"
+      ],
       "correctAnswer": 1,
       "explanation": "Beethoven's Fifth Symphony, completed in 1808, opens with one of the most famous motifs in all of music: three short notes followed by one long note. This motif recurs throughout the entire symphony.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "cm-11",
       "question": "Which Russian composer's 'The Rite of Spring' caused a riot at its 1913 Paris premiere?",
-      "options": ["Sergei Prokofiev", "Igor Stravinsky", "Dmitri Shostakovich", "Sergei Rachmaninoff"],
-      "correctAnswer": 1,
+      "options": [
+        "Sergei Rachmaninoff",
+        "Dmitri Shostakovich",
+        "Sergei Prokofiev",
+        "Igor Stravinsky"
+      ],
+      "correctAnswer": 3,
       "explanation": "Igor Stravinsky's ballet 'The Rite of Spring' premiered in Paris on May 29, 1913, and its avant-garde music and choreography provoked a near-riot among the audience. It is now considered one of the most influential compositions of the 20th century.",
       "difficulty": "hard",
       "category": "art"
@@ -107,7 +162,12 @@
     {
       "id": "cm-12",
       "question": "Which of Mozart's operas features the character Don Giovanni, a notorious womanizer?",
-      "options": ["The Magic Flute", "The Marriage of Figaro", "Don Giovanni", "Così fan tutte"],
+      "options": [
+        "Così fan tutte",
+        "The Marriage of Figaro",
+        "Don Giovanni",
+        "The Magic Flute"
+      ],
       "correctAnswer": 2,
       "explanation": "Mozart's opera 'Don Giovanni,' premiered in 1787, is based on the legend of Don Juan. It blends comedy with darker dramatic elements and is considered one of the greatest operas ever written.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "cm-13",
       "question": "Which German composer wrote the four-opera cycle 'Der Ring des Nibelungen' (The Ring Cycle)?",
-      "options": ["Richard Strauss", "Richard Wagner", "Johannes Brahms", "Gustav Mahler"],
-      "correctAnswer": 1,
+      "options": [
+        "Richard Strauss",
+        "Gustav Mahler",
+        "Richard Wagner",
+        "Johannes Brahms"
+      ],
+      "correctAnswer": 2,
       "explanation": "Richard Wagner composed 'Der Ring des Nibelungen' over about 26 years (1848-1874). The four operas — Das Rheingold, Die Walküre, Siegfried, and Götterdämmerung — total approximately 15 hours of music.",
       "difficulty": "hard",
       "category": "art"
@@ -125,7 +190,12 @@
     {
       "id": "cm-14",
       "question": "Which Baroque-era composer wrote over 1,000 works, including 'The Well-Tempered Clavier'?",
-      "options": ["George Frideric Handel", "Antonio Vivaldi", "Johann Sebastian Bach", "Claudio Monteverdi"],
+      "options": [
+        "Claudio Monteverdi",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "George Frideric Handel"
+      ],
       "correctAnswer": 2,
       "explanation": "Johann Sebastian Bach composed 'The Well-Tempered Clavier,' a collection of preludes and fugues in all 24 major and minor keys. Published in two books (1722 and 1742), it is considered one of the most important works in the history of Western classical music.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "cm-15",
       "question": "Which Austrian composer, a friend of Beethoven and Schubert's contemporary, is known as the 'Father of the Symphony'?",
-      "options": ["Joseph Haydn", "Franz Schubert", "Anton Bruckner", "Carl Maria von Weber"],
-      "correctAnswer": 0,
+      "options": [
+        "Franz Schubert",
+        "Joseph Haydn",
+        "Carl Maria von Weber",
+        "Anton Bruckner"
+      ],
+      "correctAnswer": 1,
       "explanation": "Joseph Haydn is known as the 'Father of the Symphony' and the 'Father of the String Quartet.' He composed 104 symphonies and played a central role in developing these musical forms during the Classical period.",
       "difficulty": "hard",
       "category": "art"

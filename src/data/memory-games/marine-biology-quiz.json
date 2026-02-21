@@ -1,0 +1,173 @@
+{
+  "id": "marine-biology-quiz",
+  "title": "Marine Biology Quiz",
+  "description": "Dive into the ocean depths! Test your recall of marine life, ocean ecosystems, and underwater science.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "marine-biology-quiz-1",
+      "question": "What is the largest animal ever to have lived on Earth?",
+      "options": [
+        "Blue whale",
+        "Giant squid",
+        "Whale shark",
+        "Great white shark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "marine-biology-quiz-2",
+      "question": "What is coral primarily made of?",
+      "options": [
+        "Sand deposits",
+        "Plant material",
+        "Tiny animal skeletons (calcium carbonate)",
+        "Volcanic rock"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "marine-biology-quiz-3",
+      "question": "What ocean zone receives the most sunlight?",
+      "options": [
+        "Abyssal zone",
+        "Twilight zone",
+        "Sunlight zone (photic zone)",
+        "Midnight zone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "marine-biology-quiz-4",
+      "question": "What is the process by which deep ocean organisms produce their own light?",
+      "options": [
+        "Photosynthesis",
+        "Phosphorescence",
+        "Bioluminescence",
+        "Fluorescence"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "marine-biology-quiz-5",
+      "question": "What is the deepest known point in the ocean?",
+      "options": [
+        "Mariana Trench (Challenger Deep)",
+        "Java Trench",
+        "Tonga Trench",
+        "Puerto Rico Trench"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "marine-biology-quiz-6",
+      "question": "Which marine animal has three hearts?",
+      "options": [
+        "Jellyfish",
+        "Octopus",
+        "Starfish",
+        "Sea turtle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "marine-biology-quiz-7",
+      "question": "What tiny organisms form the base of the marine food chain?",
+      "options": [
+        "Coral",
+        "Seaweed",
+        "Krill",
+        "Phytoplankton"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "marine-biology-quiz-8",
+      "question": "What is the Great Barrier Reef primarily threatened by?",
+      "options": [
+        "Plastic pollution only",
+        "Overfishing only",
+        "Oil spills",
+        "Rising ocean temperatures and coral bleaching"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "marine-biology-quiz-9",
+      "question": "What type of symbiotic relationship exists between clownfish and sea anemones?",
+      "options": [
+        "Commensalism",
+        "Parasitism",
+        "Competition",
+        "Mutualism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "marine-biology-quiz-10",
+      "question": "What is the average salinity of ocean water?",
+      "options": [
+        "About 1.5%",
+        "About 3.5%",
+        "About 5.5%",
+        "About 7.5%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "marine-biology-quiz-11",
+      "question": "Which marine creature is known for being able to regenerate lost arms?",
+      "options": [
+        "Jellyfish",
+        "Octopus",
+        "Sea urchin",
+        "Starfish (sea star)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "marine-biology-quiz-12",
+      "question": "What is the largest species of shark?",
+      "options": [
+        "Whale shark",
+        "Hammerhead shark",
+        "Tiger shark",
+        "Great white shark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "marine-biology-quiz-13",
+      "question": "What are hydrothermal vents?",
+      "options": [
+        "Openings in the seafloor that release heated water",
+        "Underwater waterfalls",
+        "Coral reef formations",
+        "Underwater caves"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "marine-biology-quiz-14",
+      "question": "How do dolphins navigate and find food in murky water?",
+      "options": [
+        "Magnetic sense only",
+        "Excellent eyesight",
+        "Sense of smell",
+        "Echolocation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "marine-biology-quiz-15",
+      "question": "What percentage of Earth's oceans remain unexplored?",
+      "options": [
+        "About 30%",
+        "About 65%",
+        "About 50%",
+        "About 80%"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

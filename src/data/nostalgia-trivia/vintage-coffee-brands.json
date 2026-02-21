@@ -1,0 +1,219 @@
+{
+  "id": "vintage-coffee-brands",
+  "title": "Vintage Coffee Brands & Culture",
+  "description": "From percolators to freeze-dried crystals, how well do you remember the coffee culture of decades past?",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vintage-coffee-brands-1",
+      "question": "Which coffee brand used the slogan 'Good to the last drop,' attributed to President Theodore Roosevelt?",
+      "options": [
+        "Maxwell House",
+        "Sanka",
+        "Folgers",
+        "Hills Bros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Maxwell House has used 'Good to the Last Drop' since 1917. Legend has it that President Theodore Roosevelt coined the phrase after drinking a cup at the Maxwell House hotel in Nashville.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-2",
+      "question": "Which brand of instant coffee was the first widely available decaffeinated coffee in America?",
+      "options": [
+        "Nescafé",
+        "Taster's Choice",
+        "Sanka",
+        "Folgers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sanka, introduced to America in 1923, was the first major decaffeinated coffee brand. Its name comes from the French 'sans caffeine' (without caffeine).",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-3",
+      "question": "What type of coffee maker was the standard in most American homes from the 1940s through the 1970s?",
+      "options": [
+        "Percolator",
+        "Espresso machine",
+        "Drip coffee maker",
+        "French press"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The percolator was the standard American coffee maker for decades. The distinctive gurgling sound of a percolating pot was a familiar morning sound in homes across the country.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-4",
+      "question": "Which Folgers coffee commercial featured a son coming home for the holidays and quietly brewing a pot of coffee to wake the family?",
+      "options": [
+        "Coming Home",
+        "Morning Surprise",
+        "Peter Comes Home",
+        "The Folgers Christmas commercial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Peter Comes Home' Folgers commercial first aired in 1986 and became one of the most beloved holiday commercials in American television history.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-5",
+      "question": "What was the name of the Folgers jingle that began 'The best part of waking up...'?",
+      "options": [
+        "The Best Part of Waking Up Is Folgers in Your Cup",
+        "Morning's Best",
+        "Good Morning Coffee",
+        "Wake Up to Folgers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The best part of waking up is Folgers in your cup' debuted in 1984 and became one of the most recognized jingles in advertising history.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-6",
+      "question": "What instant coffee brand featured hidden camera taste tests in its 1970s and 1980s commercials?",
+      "options": [
+        "Nescafé",
+        "Taster's Choice",
+        "Maxwell House",
+        "Folgers Crystals"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Folgers Crystals ran a famous series of commercials where they secretly replaced fine restaurant coffee with Folgers instant coffee and filmed diners' reactions.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-7",
+      "question": "Which coffee brand featured a fictional character named Juan Valdez and his donkey?",
+      "options": [
+        "Hills Bros.",
+        "Colombian Coffee (National Federation of Coffee Growers)",
+        "Folgers",
+        "Maxwell House"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Juan Valdez was created in 1958 by the National Federation of Coffee Growers of Colombia. The mustachioed farmer and his mule became icons of Colombian coffee quality.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-8",
+      "question": "What Nestlé instant coffee brand ran a romantic soap-opera-style series of TV commercials in the 1980s?",
+      "options": [
+        "Sanka",
+        "Taster's Choice",
+        "Nescafé",
+        "MJB"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taster's Choice ran a serialized series of romantic commercials featuring two neighbors who kept meeting over cups of coffee. The story played out over multiple episodes.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-9",
+      "question": "What was the standard way coffee was typically served at a diner in the 1950s and 1960s?",
+      "options": [
+        "In a heavy ceramic mug with free refills",
+        "In a glass cup",
+        "In a china teacup",
+        "In a paper cup"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diner coffee was served in thick, heavy ceramic mugs, and the waitress would come by with the coffee pot for free refills. This tradition continues at many diners today.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-10",
+      "question": "What automatic drip coffee maker, introduced in 1972, eventually replaced the percolator in most American homes?",
+      "options": [
+        "Braun",
+        "Mr. Coffee",
+        "Bunn",
+        "Cuisinart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mr. Coffee, introduced in 1972 and famously endorsed by Joe DiMaggio, popularized the automatic drip coffee maker and eventually replaced the percolator as the standard home coffee maker.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-11",
+      "question": "What small kitchen item was used to serve cream for coffee at the table in many mid-century homes?",
+      "options": [
+        "A measuring cup",
+        "A cream pitcher or creamer",
+        "A gravy boat",
+        "A sugar bowl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A small cream pitcher (or creamer) was part of every proper table setting. It was often matched with a sugar bowl as part of a set, sometimes in china or ceramic.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-12",
+      "question": "What powdered non-dairy creamer was introduced in 1961 as an alternative to real cream?",
+      "options": [
+        "Pream",
+        "Coffee-mate",
+        "Cremora",
+        "Coffee Rich"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nestlé's Coffee-mate was introduced in 1961 as the first non-dairy creamer. It didn't need refrigeration and became a pantry staple in offices and homes across America.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-13",
+      "question": "Which San Francisco-based coffee brand featured an Arab man in traditional dress on its yellow can?",
+      "options": [
+        "Chock full o'Nuts",
+        "Hills Bros.",
+        "MJB",
+        "Yuban"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hills Bros. Coffee, founded in San Francisco in 1878, featured an Arab man sipping coffee on its distinctive can. The brand was a West Coast favorite for generations.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-14",
+      "question": "What was 'Postum,' the popular coffee alternative that many families drank during wartime rationing?",
+      "options": [
+        "Herbal tea",
+        "Decaffeinated coffee",
+        "A grain-based caffeine-free beverage",
+        "A chicory blend"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Postum was a caffeine-free grain beverage made from roasted wheat bran and molasses. Created in 1895, it became especially popular during WWII when coffee was rationed.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-coffee-brands-15",
+      "question": "What New York-based coffee brand's slogan was 'Heavenly coffee! Better coffee a millionaire's money can't buy'?",
+      "options": [
+        "Medaglia d'Oro",
+        "Savarin",
+        "Martinson's",
+        "Chock full o'Nuts"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chock full o'Nuts, originally a chain of New York nut shops that converted to lunch counters, used this memorable slogan for decades. Page Morton Black sang the famous jingle.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    }
+  ]
+}

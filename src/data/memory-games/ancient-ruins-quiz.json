@@ -1,0 +1,173 @@
+{
+  "id": "ancient-ruins-quiz",
+  "title": "Ancient Ruins Quiz",
+  "description": "Journey through the world's most fascinating ancient ruins and test your knowledge of these timeless wonders.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "ancient-ruins-quiz-1",
+      "question": "Machu Picchu, the 15th-century Inca citadel, is located high in the Andes mountains of which country?",
+      "options": [
+        "Ecuador",
+        "Colombia",
+        "Peru",
+        "Bolivia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-2",
+      "question": "The ancient city of Petra, carved into rose-red cliffs, is located in which modern-day country?",
+      "options": [
+        "Egypt",
+        "Syria",
+        "Jordan",
+        "Iraq"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-3",
+      "question": "Pompeii, the Roman city buried by volcanic ash in 79 AD, was destroyed by which volcano?",
+      "options": [
+        "Mount Stromboli",
+        "Mount Olympus",
+        "Mount Vesuvius",
+        "Mount Etna"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-4",
+      "question": "The ancient Mayan city of Chichén Itzá, featuring the famous pyramid El Castillo, is located in which country?",
+      "options": [
+        "Mexico",
+        "Honduras",
+        "Belize",
+        "Guatemala"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-ruins-quiz-5",
+      "question": "The Great Zimbabwe ruins, which gave the modern country its name, were built by which civilization?",
+      "options": [
+        "Shona",
+        "Swahili",
+        "Bantu",
+        "Zulu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-ruins-quiz-6",
+      "question": "Ephesus, home to one of the Seven Wonders of the Ancient World (the Temple of Artemis), is in which modern country?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Turkey",
+        "Egypt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-7",
+      "question": "The ancient city of Carthage, once a major rival to Rome, was located near which modern-day city?",
+      "options": [
+        "Tripoli",
+        "Algiers",
+        "Tunis",
+        "Casablanca"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-8",
+      "question": "Tikal, one of the largest Mayan cities with towering pyramids above the jungle canopy, is in which country?",
+      "options": [
+        "Belize",
+        "Mexico",
+        "Guatemala",
+        "Honduras"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-ruins-quiz-9",
+      "question": "The Terracotta Army, thousands of life-size clay soldiers, was discovered near which Chinese city?",
+      "options": [
+        "Beijing",
+        "Xi'an",
+        "Guangzhou",
+        "Shanghai"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-ruins-quiz-10",
+      "question": "Mohenjo-daro, one of the largest settlements of the ancient Indus Valley Civilization, is in which modern country?",
+      "options": [
+        "Bangladesh",
+        "Pakistan",
+        "India",
+        "Afghanistan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-ruins-quiz-11",
+      "question": "The ancient Nabataean city of Hegra (Mada'in Saleh), similar to Petra, is located in which country?",
+      "options": [
+        "Jordan",
+        "Saudi Arabia",
+        "Oman",
+        "Yemen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-ruins-quiz-12",
+      "question": "The ruins of Persepolis, the ceremonial capital of the Achaemenid Empire, are found in which modern country?",
+      "options": [
+        "Iran",
+        "Turkey",
+        "Iraq",
+        "Afghanistan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-ruins-quiz-13",
+      "question": "Göbekli Tepe, believed to be the world's oldest known temple complex (around 9600 BC), is in which country?",
+      "options": [
+        "Turkey",
+        "Iran",
+        "Syria",
+        "Iraq"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-ruins-quiz-14",
+      "question": "The ancient Roman city of Leptis Magna, one of the best-preserved Roman ruins in the Mediterranean, is in which country?",
+      "options": [
+        "Algeria",
+        "Libya",
+        "Tunisia",
+        "Egypt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-ruins-quiz-15",
+      "question": "Mesa Verde, famous for its well-preserved cliff dwellings built by the Ancestral Puebloans, is in which US state?",
+      "options": [
+        "Arizona",
+        "Colorado",
+        "Utah",
+        "New Mexico"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

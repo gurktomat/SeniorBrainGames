@@ -1,0 +1,173 @@
+{
+  "id": "desert-landmarks-quiz",
+  "title": "Desert Landmarks Quiz",
+  "description": "Venture into the world's great deserts and test your knowledge of their most remarkable landmarks and formations.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "desert-landmarks-quiz-1",
+      "question": "Monument Valley, famous for its towering sandstone buttes, straddles the border of Arizona and which other US state?",
+      "options": [
+        "Utah",
+        "Nevada",
+        "Colorado",
+        "New Mexico"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "desert-landmarks-quiz-2",
+      "question": "Uluru (Ayers Rock), a massive sandstone monolith sacred to Aboriginal Australians, is located in which Australian territory?",
+      "options": [
+        "South Australia",
+        "Northern Territory",
+        "Western Australia",
+        "Queensland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "desert-landmarks-quiz-3",
+      "question": "The Sahara Desert, the world's largest hot desert, spans across how many African countries?",
+      "options": [
+        "11",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "desert-landmarks-quiz-4",
+      "question": "Wadi Rum, a dramatic desert valley also known as the Valley of the Moon, is located in which country?",
+      "options": [
+        "Egypt",
+        "Oman",
+        "Jordan",
+        "Saudi Arabia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "desert-landmarks-quiz-5",
+      "question": "The Pinnacles Desert, featuring thousands of limestone pillars, is a famous natural landmark in which country?",
+      "options": [
+        "Mongolia",
+        "Chile",
+        "Namibia",
+        "Australia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "desert-landmarks-quiz-6",
+      "question": "Death Valley, the hottest place on Earth, holds the record for the highest air temperature ever recorded. What was it?",
+      "options": [
+        "54°C (129°F)",
+        "56.7°C (134°F)",
+        "58°C (136°F)",
+        "52°C (126°F)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "desert-landmarks-quiz-7",
+      "question": "The Atacama Desert, often called the driest place on Earth, is located primarily in which South American country?",
+      "options": [
+        "Bolivia",
+        "Chile",
+        "Argentina",
+        "Peru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "desert-landmarks-quiz-8",
+      "question": "The White Desert (Farafra) in Egypt is known for its surreal formations made of which mineral?",
+      "options": [
+        "Salt",
+        "Gypsum",
+        "Chalk",
+        "Quartz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "desert-landmarks-quiz-9",
+      "question": "The Gobi Desert, one of the great deserts of Asia, stretches across Mongolia and which other country?",
+      "options": [
+        "Kazakhstan",
+        "China",
+        "Russia",
+        "India"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "desert-landmarks-quiz-10",
+      "question": "Sossusvlei, famous for its towering red sand dunes, some over 300 meters tall, is found in which African country?",
+      "options": [
+        "Botswana",
+        "Namibia",
+        "South Africa",
+        "Angola"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "desert-landmarks-quiz-11",
+      "question": "The Joshua Tree, an iconic desert plant found in Joshua Tree National Park, is actually a species of what?",
+      "options": [
+        "Palm",
+        "Agave",
+        "Yucca",
+        "Cactus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "desert-landmarks-quiz-12",
+      "question": "The ancient city of Palmyra, a major archaeological site in the Syrian Desert, was a thriving city in which empire?",
+      "options": [
+        "Roman Empire",
+        "Ottoman Empire",
+        "Persian Empire",
+        "Byzantine Empire"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "desert-landmarks-quiz-13",
+      "question": "The Lençóis Maranhenses, a desert with thousands of crystal-clear lagoons, is located in which country?",
+      "options": [
+        "Venezuela",
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "desert-landmarks-quiz-14",
+      "question": "The Thar Desert, also known as the Great Indian Desert, is primarily located in which Indian state?",
+      "options": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Rajasthan",
+        "Punjab"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "desert-landmarks-quiz-15",
+      "question": "Salar de Uyuni, the world's largest salt flat, is located in which South American country?",
+      "options": [
+        "Argentina",
+        "Chile",
+        "Peru",
+        "Bolivia"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

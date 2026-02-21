@@ -1,0 +1,173 @@
+{
+  "id": "chemistry-reactions-quiz",
+  "title": "Chemistry Reactions Quiz",
+  "description": "From combustion to oxidation, test your recall of common chemical reactions and processes.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "chemistry-reactions-quiz-1",
+      "question": "What type of chemical reaction occurs when iron rusts?",
+      "options": [
+        "Oxidation",
+        "Synthesis",
+        "Reduction",
+        "Decomposition"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-2",
+      "question": "What gas is produced when baking soda (sodium bicarbonate) reacts with vinegar?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-reactions-quiz-3",
+      "question": "What is the process of breaking down food in the stomach primarily called?",
+      "options": [
+        "Hydrolysis",
+        "Synthesis",
+        "Polymerization",
+        "Combustion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-4",
+      "question": "What type of reaction releases heat to its surroundings?",
+      "options": [
+        "Exothermic",
+        "Adiabatic",
+        "Isothermic",
+        "Endothermic"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-5",
+      "question": "What happens when you combine an acid and a base?",
+      "options": [
+        "A gas is always released",
+        "A neutralization reaction producing salt and water",
+        "Nothing happens",
+        "An explosion"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-reactions-quiz-6",
+      "question": "What is the chemical process that converts sugar into alcohol and carbon dioxide?",
+      "options": [
+        "Pasteurization",
+        "Fermentation",
+        "Condensation",
+        "Distillation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-reactions-quiz-7",
+      "question": "What type of reaction occurs when wood burns in a fireplace?",
+      "options": [
+        "Combustion",
+        "Decomposition",
+        "Synthesis",
+        "Single replacement"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-8",
+      "question": "What is produced when hydrogen gas burns in the presence of oxygen?",
+      "options": [
+        "Water",
+        "Ozone",
+        "Hydrogen peroxide",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-9",
+      "question": "What catalyst is used in the catalytic converter of a car to reduce emissions?",
+      "options": [
+        "Platinum and palladium",
+        "Zinc and tin",
+        "Gold and silver",
+        "Iron and copper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-10",
+      "question": "What reaction occurs when silver tarnishes?",
+      "options": [
+        "Silver reacts with sulfur compounds",
+        "Silver reacts with nitrogen",
+        "Silver reacts with water",
+        "Silver reacts with oxygen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-11",
+      "question": "Which substance speeds up a chemical reaction without being consumed?",
+      "options": [
+        "Catalyst",
+        "Reactant",
+        "Product",
+        "Solvent"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-reactions-quiz-12",
+      "question": "What happens to an egg when it is boiled? What type of change is this?",
+      "options": [
+        "Physical change",
+        "Nuclear change",
+        "No change occurs",
+        "Chemical change (protein denaturation)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-reactions-quiz-13",
+      "question": "What gas causes bread to rise during baking?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-reactions-quiz-14",
+      "question": "What is the Maillard reaction responsible for?",
+      "options": [
+        "Milk curdling",
+        "Fruit ripening",
+        "Browning of cooked food",
+        "Bread rising"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-reactions-quiz-15",
+      "question": "What type of reaction is photosynthesis classified as?",
+      "options": [
+        "Exothermic",
+        "Decomposition",
+        "Combustion",
+        "Endothermic"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

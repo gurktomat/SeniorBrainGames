@@ -8,8 +8,13 @@
     {
       "id": "cvs-1",
       "question": "Which host famously introduced acts on his variety show by saying 'a really big show'?",
-      "options": ["Milton Berle", "Ed Sullivan", "Jackie Gleason", "Red Skelton"],
-      "correctAnswer": 1,
+      "options": [
+        "Red Skelton",
+        "Milton Berle",
+        "Jackie Gleason",
+        "Ed Sullivan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ed Sullivan was famous for his introduction 'We've got a really big show tonight!' The Ed Sullivan Show ran from 1948 to 1971 and featured everything from The Beatles to plate spinners.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "cvs-2",
       "question": "What was the name of Carol Burnett's signature closing gesture on her variety show?",
-      "options": ["A curtsy", "Pulling her ear", "Blowing a kiss", "Waving with both hands"],
-      "correctAnswer": 1,
+      "options": [
+        "A curtsy",
+        "Blowing a kiss",
+        "Pulling her ear",
+        "Waving with both hands"
+      ],
+      "correctAnswer": 2,
       "explanation": "Carol Burnett always tugged her ear at the end of every show as a secret signal to her grandmother who had raised her. The Carol Burnett Show ran from 1967 to 1978.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "cvs-3",
       "question": "Which comedian was known as 'Mr. Television' and hosted one of the first major TV variety shows?",
-      "options": ["Bob Hope", "Milton Berle", "Danny Thomas", "Sid Caesar"],
-      "correctAnswer": 1,
+      "options": [
+        "Sid Caesar",
+        "Bob Hope",
+        "Milton Berle",
+        "Danny Thomas"
+      ],
+      "correctAnswer": 2,
       "explanation": "Milton Berle earned the nickname 'Mr. Television' for his wildly popular Texaco Star Theater, which premiered in 1948 and is credited with driving early television set sales.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "cvs-4",
       "question": "On which variety show did The Beatles make their famous American TV debut in 1964?",
-      "options": ["The Dean Martin Show", "The Ed Sullivan Show", "The Hollywood Palace", "The Andy Williams Show"],
-      "correctAnswer": 1,
+      "options": [
+        "The Dean Martin Show",
+        "The Andy Williams Show",
+        "The Hollywood Palace",
+        "The Ed Sullivan Show"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Beatles appeared on The Ed Sullivan Show on February 9, 1964, drawing an estimated 73 million viewers — the largest TV audience at that time.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "cvs-5",
       "question": "Which variety show featured the comedy team of Dan Rowan and Dick Martin?",
-      "options": ["Hee Haw", "Laugh-In", "The Smothers Brothers Comedy Hour", "The Flip Wilson Show"],
-      "correctAnswer": 1,
+      "options": [
+        "Laugh-In",
+        "Hee Haw",
+        "The Smothers Brothers Comedy Hour",
+        "The Flip Wilson Show"
+      ],
+      "correctAnswer": 0,
       "explanation": "Rowan & Martin's Laugh-In aired from 1968 to 1973 on NBC. It was revolutionary for its fast-paced comedy style and launched careers of Goldie Hawn and Lily Tomlin.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "cvs-6",
       "question": "Which recurring character did Tim Conway play opposite Harvey Korman on The Carol Burnett Show?",
-      "options": ["Mr. Tudball", "Ed the Horse", "The Oldest Man", "All of the above"],
-      "correctAnswer": 3,
+      "options": [
+        "Mr. Tudball",
+        "The Oldest Man",
+        "All of the above",
+        "Ed the Horse"
+      ],
+      "correctAnswer": 2,
       "explanation": "Tim Conway played multiple beloved recurring characters on The Carol Burnett Show, including Mr. Tudball, The Oldest Man, and Ed the horse. He was famous for making Harvey Korman break character laughing.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "cvs-7",
       "question": "What was the name of Dean Martin's variety show that ran from 1965 to 1974?",
-      "options": ["The Dean Martin Comedy Hour", "The Dean Martin Show", "Dean's Place", "The Dean Martin Variety Hour"],
-      "correctAnswer": 1,
+      "options": [
+        "The Dean Martin Variety Hour",
+        "Dean's Place",
+        "The Dean Martin Show",
+        "The Dean Martin Comedy Hour"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Dean Martin Show ran on NBC from 1965 to 1974. Dean was famous for his relaxed, seemingly tipsy persona on the show, though much of it was an act.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "cvs-8",
       "question": "Which country music-themed variety show premiered in 1969 and ran until 1993?",
-      "options": ["The Porter Wagoner Show", "Hee Haw", "The Glen Campbell Goodtime Hour", "The Johnny Cash Show"],
-      "correctAnswer": 1,
+      "options": [
+        "The Johnny Cash Show",
+        "The Glen Campbell Goodtime Hour",
+        "Hee Haw",
+        "The Porter Wagoner Show"
+      ],
+      "correctAnswer": 2,
       "explanation": "Hee Haw premiered in 1969 on CBS and was hosted by Buck Owens and Roy Clark. After CBS cancelled it in 1971, it continued in syndication until 1993, becoming one of the longest-running variety shows.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "cvs-9",
       "question": "Who was the first Black person to host a network television variety show?",
-      "options": ["Sammy Davis Jr.", "Flip Wilson", "Nat King Cole", "Bill Cosby"],
-      "correctAnswer": 2,
+      "options": [
+        "Nat King Cole",
+        "Flip Wilson",
+        "Sammy Davis Jr.",
+        "Bill Cosby"
+      ],
+      "correctAnswer": 0,
       "explanation": "Nat King Cole hosted The Nat King Cole Show on NBC from 1956 to 1957. Despite critical acclaim, the show struggled to find a national sponsor due to racial prejudice and was cancelled after one season.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "cvs-10",
       "question": "What was the famous catchphrase from Laugh-In that Flip Wilson's character Geraldine also used?",
-      "options": ["'Sock it to me!'", "'Here come da judge!'", "'You bet your bippy!'", "'Look that up in your Funk and Wagnalls!'"],
-      "correctAnswer": 0,
+      "options": [
+        "'You bet your bippy!'",
+        "'Look that up in your Funk and Wagnalls!'",
+        "'Here come da judge!'",
+        "'Sock it to me!'"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Sock it to me!' was one of the most famous catchphrases from Laugh-In. Even Richard Nixon appeared on the show saying the line during the 1968 presidential campaign.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "cvs-11",
       "question": "Which variety show was cancelled by CBS in 1969 despite high ratings, allegedly for being too politically controversial?",
-      "options": ["Laugh-In", "The Smothers Brothers Comedy Hour", "The Flip Wilson Show", "The Jackie Gleason Show"],
-      "correctAnswer": 1,
+      "options": [
+        "The Jackie Gleason Show",
+        "Laugh-In",
+        "The Flip Wilson Show",
+        "The Smothers Brothers Comedy Hour"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Smothers Brothers Comedy Hour was cancelled by CBS in 1969. Tom and Dick Smothers frequently clashed with network censors over anti-Vietnam War content and political humor.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "cvs-12",
       "question": "What was Sid Caesar's groundbreaking 1950s variety show called?",
-      "options": ["Caesar's Palace", "Your Show of Shows", "The Sid Caesar Hour", "Comedy Tonight"],
-      "correctAnswer": 1,
+      "options": [
+        "The Sid Caesar Hour",
+        "Caesar's Palace",
+        "Comedy Tonight",
+        "Your Show of Shows"
+      ],
+      "correctAnswer": 3,
       "explanation": "Your Show of Shows aired on NBC from 1950 to 1954. Its writing staff included future legends Carl Reiner, Mel Brooks, Neil Simon, and Woody Allen.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "cvs-13",
       "question": "Which British variety show, hosted by Lew Grade's ATV company, brought many American stars to UK audiences?",
-      "options": ["The Benny Hill Show", "Sunday Night at the London Palladium", "The Two Ronnies", "The Morecambe & Wise Show"],
-      "correctAnswer": 1,
+      "options": [
+        "The Morecambe & Wise Show",
+        "The Benny Hill Show",
+        "Sunday Night at the London Palladium",
+        "The Two Ronnies"
+      ],
+      "correctAnswer": 2,
       "explanation": "Sunday Night at the London Palladium ran from 1955 to 1967 and again from 1973 to 1974. It was one of the most-watched shows in the UK and featured major American and British entertainers.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "cvs-14",
       "question": "Which comedian hosted a variety show known for his pantomime routines and the character of Freddie the Freeloader?",
-      "options": ["Jackie Gleason", "Red Skelton", "Jonathan Winters", "Danny Kaye"],
-      "correctAnswer": 1,
+      "options": [
+        "Red Skelton",
+        "Jonathan Winters",
+        "Danny Kaye",
+        "Jackie Gleason"
+      ],
+      "correctAnswer": 0,
       "explanation": "Red Skelton hosted The Red Skelton Show from 1951 to 1971. Freddie the Freeloader was his most beloved character — a kind-hearted hobo who appeared in many sketches.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "cvs-15",
       "question": "What was unique about The Sonny and Cher Comedy Hour's premiere in 1971?",
-      "options": ["It was the first variety show in color", "It was the first hosted by a married couple in prime time since the 1950s", "It was broadcast live every week", "It was the first variety show on cable TV"],
-      "correctAnswer": 1,
+      "options": [
+        "It was the first variety show on cable TV",
+        "It was broadcast live every week",
+        "It was the first hosted by a married couple in prime time since the 1950s",
+        "It was the first variety show in color"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Sonny and Cher Comedy Hour, premiering in 1971, brought back the husband-and-wife hosting format that hadn't been seen in prime time since the days of Burns and Allen. Their playful bickering became the show's trademark.",
       "difficulty": "hard",
       "category": "nostalgia"

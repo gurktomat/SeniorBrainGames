@@ -1,0 +1,173 @@
+{
+  "id": "world-music-traditions-quiz",
+  "title": "World Music Traditions Quiz",
+  "description": "How well do you know traditional music styles and genres from around the world?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-music-traditions-quiz-1",
+      "question": "Flamenco music, featuring passionate guitar and vocals, originated in which region of Spain?",
+      "options": [
+        "Catalonia",
+        "Galicia",
+        "Basque Country",
+        "Andalusia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-music-traditions-quiz-2",
+      "question": "Reggae music originated in which Caribbean island nation in the late 1960s?",
+      "options": [
+        "Trinidad and Tobago",
+        "Barbados",
+        "Jamaica",
+        "Cuba"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-music-traditions-quiz-3",
+      "question": "Throat singing (Khoomei), producing multiple pitches simultaneously, is traditional in which region?",
+      "options": [
+        "Tibet",
+        "Japan",
+        "Mongolia and Tuva (Central Asia)",
+        "Nepal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-music-traditions-quiz-4",
+      "question": "Fado, a melancholic music genre expressing longing and nostalgia, is the national music of which country?",
+      "options": [
+        "Spain",
+        "Brazil",
+        "Portugal",
+        "Italy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-music-traditions-quiz-5",
+      "question": "The blues, which influenced rock and roll, originated among which community in the American South?",
+      "options": [
+        "African Americans",
+        "Native Americans",
+        "European immigrants",
+        "Latin Americans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-music-traditions-quiz-6",
+      "question": "Bhangra is a lively folk music and dance tradition from which region of South Asia?",
+      "options": [
+        "Tamil Nadu, India",
+        "Punjab (India/Pakistan)",
+        "Kerala, India",
+        "Bengal, India"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-music-traditions-quiz-7",
+      "question": "Mariachi music, featuring trumpets, violins, and guitars, is a beloved tradition of which country?",
+      "options": [
+        "Cuba",
+        "Argentina",
+        "Spain",
+        "Mexico"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-music-traditions-quiz-8",
+      "question": "The raga is a melodic framework central to the classical music of which country?",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Indonesia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-music-traditions-quiz-9",
+      "question": "Calypso music originated in which Caribbean nation and often features satirical lyrics?",
+      "options": [
+        "Trinidad and Tobago",
+        "Jamaica",
+        "Bahamas",
+        "Cuba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-music-traditions-quiz-10",
+      "question": "K-pop, the globally popular music genre, originated in which country?",
+      "options": [
+        "Japan",
+        "South Korea",
+        "China",
+        "Taiwan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-music-traditions-quiz-11",
+      "question": "The tango, as both a dance and music genre, developed in the border region between which two countries?",
+      "options": [
+        "Colombia and Venezuela",
+        "Chile and Peru",
+        "Argentina and Uruguay",
+        "Brazil and Paraguay"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-music-traditions-quiz-12",
+      "question": "Gamelan, an ensemble music featuring metallophones and gongs, is central to the culture of which country?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Philippines",
+        "Indonesia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-music-traditions-quiz-13",
+      "question": "Celtic music, featuring fiddles, tin whistles, and harps, is traditional in which regions?",
+      "options": [
+        "Ireland, Scotland, and Wales",
+        "Eastern Europe",
+        "Scandinavia",
+        "France and Spain"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-music-traditions-quiz-14",
+      "question": "The samba is a Brazilian music genre with roots in which cultural tradition?",
+      "options": [
+        "Spanish colonial",
+        "Portuguese colonial",
+        "Afro-Brazilian",
+        "Indigenous Brazilian"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-music-traditions-quiz-15",
+      "question": "Qawwali, a form of devotional Sufi music, is especially prominent in which countries?",
+      "options": [
+        "Turkey and Egypt",
+        "Pakistan and India",
+        "Morocco and Algeria",
+        "Iran and Iraq"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

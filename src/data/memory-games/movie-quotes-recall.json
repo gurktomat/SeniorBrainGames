@@ -1,0 +1,173 @@
+{
+  "id": "movie-quotes-recall",
+  "title": "Movie Quotes Recall",
+  "description": "Match these iconic movie quotes to the films they came from",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "movie-quotes-recall-1",
+      "question": "Which movie features the quote 'Here's looking at you, kid'?",
+      "options": [
+        "The Maltese Falcon",
+        "Gone with the Wind",
+        "Casablanca",
+        "Citizen Kane"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-2",
+      "question": "'May the Force be with you' is a famous line from which film franchise?",
+      "options": [
+        "Alien",
+        "Star Trek",
+        "Battlestar Galactica",
+        "Star Wars"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "movie-quotes-recall-3",
+      "question": "In which movie does a character say 'I'm gonna make him an offer he can't refuse'?",
+      "options": [
+        "The Godfather",
+        "Scarface",
+        "Casino",
+        "Goodfellas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-quotes-recall-4",
+      "question": "'Frankly, my dear, I don't give a damn' comes from which classic film?",
+      "options": [
+        "Rebecca",
+        "Gone with the Wind",
+        "Casablanca",
+        "The Wizard of Oz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "movie-quotes-recall-5",
+      "question": "Which movie features the line 'You can't handle the truth!'?",
+      "options": [
+        "A Few Good Men",
+        "The Verdict",
+        "The Firm",
+        "Philadelphia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "movie-quotes-recall-6",
+      "question": "'There's no place like home' is from which beloved film?",
+      "options": [
+        "Mary Poppins",
+        "The Wizard of Oz",
+        "It's a Wonderful Life",
+        "Willy Wonka"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "movie-quotes-recall-7",
+      "question": "Which film features the quote 'I'll be back'?",
+      "options": [
+        "Commando",
+        "Total Recall",
+        "The Terminator",
+        "Predator"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-8",
+      "question": "'You talkin' to me?' is an iconic line from which Martin Scorsese film?",
+      "options": [
+        "Raging Bull",
+        "Mean Streets",
+        "Goodfellas",
+        "Taxi Driver"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "movie-quotes-recall-9",
+      "question": "Which movie features the quote 'Houston, we have a problem'?",
+      "options": [
+        "Gravity",
+        "The Right Stuff",
+        "Armageddon",
+        "Apollo 13"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "movie-quotes-recall-10",
+      "question": "'E.T. phone home' comes from which Steven Spielberg film?",
+      "options": [
+        "War of the Worlds",
+        "A.I.",
+        "E.T. the Extra-Terrestrial",
+        "Close Encounters of the Third Kind"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-11",
+      "question": "In which film does a character say 'After all, tomorrow is another day'?",
+      "options": [
+        "An Affair to Remember",
+        "Roman Holiday",
+        "Gone with the Wind",
+        "Casablanca"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-12",
+      "question": "'Life is like a box of chocolates' is from which Tom Hanks film?",
+      "options": [
+        "Cast Away",
+        "The Green Mile",
+        "Forrest Gump",
+        "Philadelphia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-13",
+      "question": "Which James Bond film features the line 'Bond. James Bond' for the first time?",
+      "options": [
+        "Goldfinger",
+        "From Russia with Love",
+        "Dr. No",
+        "Thunderball"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-14",
+      "question": "'I see dead people' is a famous line from which 1999 film?",
+      "options": [
+        "Fight Club",
+        "The Matrix",
+        "The Sixth Sense",
+        "The Blair Witch Project"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "movie-quotes-recall-15",
+      "question": "Which film features the quote 'Toto, I've a feeling we're not in Kansas anymore'?",
+      "options": [
+        "Alice in Wonderland",
+        "Mary Poppins",
+        "The Wizard of Oz",
+        "Chitty Chitty Bang Bang"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "anatomy-vocabulary-quiz",
+  "title": "Anatomy Vocabulary Quiz",
+  "description": "Test your knowledge of human anatomy terms, from bones and muscles to organs and body systems.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "anatomy-vocabulary-quiz-1",
+      "question": "What is the 'femur'?",
+      "options": [
+        "A bone in the arm",
+        "A bone in the spine",
+        "A bone in the foot",
+        "The thigh bone, the longest and strongest bone in the human body"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-2",
+      "question": "What does 'cardiac' refer to?",
+      "options": [
+        "Related to the lungs",
+        "Related to the kidneys",
+        "Related to the heart",
+        "Related to the brain"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-3",
+      "question": "What is the 'diaphragm'?",
+      "options": [
+        "A bone in the chest",
+        "A dome-shaped muscle below the lungs that is essential for breathing",
+        "The outer layer of the brain",
+        "A valve in the heart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-4",
+      "question": "What does 'cranium' refer to?",
+      "options": [
+        "The part of the skull that encloses the brain",
+        "The rib cage",
+        "The jawbone",
+        "The collarbone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-5",
+      "question": "What is the 'esophagus'?",
+      "options": [
+        "A blood vessel near the heart",
+        "A nerve in the spine",
+        "The muscular tube that carries food from the throat to the stomach",
+        "A breathing tube"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-6",
+      "question": "What does 'ligament' connect?",
+      "options": [
+        "Bone to bone at a joint",
+        "Skin to muscle",
+        "Nerves to the brain",
+        "Muscles to bones"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-7",
+      "question": "What is the 'cerebellum'?",
+      "options": [
+        "A gland in the throat",
+        "A muscle in the neck",
+        "The largest part of the brain",
+        "The part of the brain located at the back that coordinates balance and movement"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-8",
+      "question": "What does 'renal' relate to?",
+      "options": [
+        "The lungs",
+        "The stomach",
+        "The kidneys",
+        "The liver"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-9",
+      "question": "What is 'cartilage'?",
+      "options": [
+        "A type of blood cell",
+        "A type of muscle",
+        "A firm but flexible connective tissue found in joints, ears, and nose",
+        "The lining of the stomach"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-10",
+      "question": "What does 'pulmonary' refer to?",
+      "options": [
+        "Related to the heart",
+        "Related to the lungs",
+        "Related to the liver",
+        "Related to the brain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-11",
+      "question": "What is the 'patella'?",
+      "options": [
+        "The shoulder blade",
+        "The kneecap",
+        "The ankle bone",
+        "The hip bone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-12",
+      "question": "What does 'hepatic' relate to?",
+      "options": [
+        "The liver",
+        "The heart",
+        "The pancreas",
+        "The spleen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-13",
+      "question": "What is the 'trachea'?",
+      "options": [
+        "A blood vessel in the neck",
+        "The windpipe that carries air from the throat to the lungs",
+        "A muscle in the leg",
+        "A bone in the arm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-14",
+      "question": "What does 'tendon' connect?",
+      "options": [
+        "Nerve to muscle",
+        "Skin to bone",
+        "Muscle to bone",
+        "Bone to bone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "anatomy-vocabulary-quiz-15",
+      "question": "What is the 'pituitary gland'?",
+      "options": [
+        "A small gland at the base of the brain that controls many hormonal functions",
+        "A gland in the liver",
+        "A gland in the throat",
+        "A gland in the stomach"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

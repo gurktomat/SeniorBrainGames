@@ -1,0 +1,174 @@
+{
+  "id": "painting-supplies-quiz",
+  "title": "Painting Supplies Quiz",
+  "description": "How well do you know house painting supplies and techniques? Test your knowledge of brushes, rollers, and finishes.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "painting-supplies-quiz-1",
+      "question": "Which type of paint finish has the highest sheen and is most washable, often used on trim and doors?",
+      "options": [
+        "Satin",
+        "Flat (matte)",
+        "Gloss (high-gloss)",
+        "Eggshell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "painting-supplies-quiz-2",
+      "question": "What is painter's tape (masking tape) used for?",
+      "options": [
+        "Fixing paint cracks",
+        "Mixing paint colors",
+        "Attaching wallpaper",
+        "Masking off areas you don't want painted to create clean lines"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "painting-supplies-quiz-3",
+      "question": "Which painting tool is a flat, flexible blade used to fill holes and smooth surfaces before painting?",
+      "options": [
+        "Paint scraper",
+        "Putty knife",
+        "Taping knife",
+        "5-in-1 tool"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "painting-supplies-quiz-4",
+      "question": "What is primer used for when painting walls?",
+      "options": [
+        "Preparing the surface for better paint adhesion and coverage",
+        "Adding a final glossy coat",
+        "Thinning the paint",
+        "Adding texture to walls"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "painting-supplies-quiz-5",
+      "question": "Which tool has a padded cylinder that rolls paint onto large, flat surfaces quickly?",
+      "options": [
+        "Paint pad",
+        "Paint roller",
+        "Spray gun",
+        "Edging tool"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "painting-supplies-quiz-6",
+      "question": "What does the 'nap' refer to on a paint roller cover?",
+      "options": [
+        "The width of the roller",
+        "The color of the roller",
+        "The thickness of the fuzzy fiber surface",
+        "The material of the core"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "painting-supplies-quiz-7",
+      "question": "Which type of brush is best for cutting in along edges and corners?",
+      "options": [
+        "Round brush",
+        "Fan brush",
+        "Angled sash brush",
+        "Flat brush"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "painting-supplies-quiz-8",
+      "question": "What is a drop cloth used for when painting?",
+      "options": [
+        "Protecting floors and furniture from paint drips and spills",
+        "Straining paint",
+        "Drying painted surfaces",
+        "Wiping brushes clean"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "painting-supplies-quiz-9",
+      "question": "Which solvent is traditionally used to clean oil-based paint from brushes?",
+      "options": [
+        "Rubbing alcohol",
+        "Vinegar",
+        "Water",
+        "Mineral spirits (paint thinner)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "painting-supplies-quiz-10",
+      "question": "What is spackle (spackling compound) used for?",
+      "options": [
+        "Filling small holes and cracks in walls before painting",
+        "Removing old wallpaper",
+        "Painting corners",
+        "Sealing paint cans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "painting-supplies-quiz-11",
+      "question": "Which paint finish is completely non-reflective and good for hiding wall imperfections?",
+      "options": [
+        "Flat (matte)",
+        "Semi-gloss",
+        "Eggshell",
+        "Satin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "painting-supplies-quiz-12",
+      "question": "What is a paint edger tool designed for?",
+      "options": [
+        "Mixing paint",
+        "Removing paint from wood",
+        "Painting straight lines along ceilings and trim without tape",
+        "Testing paint colors"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "painting-supplies-quiz-13",
+      "question": "Which device attaches to a paint can and has a screen for removing excess paint from a roller?",
+      "options": [
+        "Paint tray",
+        "Roller grid (bucket screen)",
+        "Drip guard",
+        "Paint strainer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "painting-supplies-quiz-14",
+      "question": "What is a 5-in-1 painter's tool used for?",
+      "options": [
+        "Only opening paint cans",
+        "Measuring paint quantities",
+        "Multiple tasks: scraping, cleaning rollers, spreading, gouging, and opening cans",
+        "Mixing different paint colors"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "painting-supplies-quiz-15",
+      "question": "Which product is applied between coats of paint to improve adhesion, especially on glossy surfaces?",
+      "options": [
+        "Varnish",
+        "Polyurethane",
+        "Liquid deglosser (liquid sandpaper)",
+        "Lacquer thinner"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

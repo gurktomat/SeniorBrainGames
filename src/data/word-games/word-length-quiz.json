@@ -7,92 +7,167 @@
     {
       "id": "word-length-quiz-1",
       "question": "What is commonly cited as the longest word in major English dictionaries?",
-      "options": ["Supercalifragilisticexpialidocious", "Pneumonoultramicroscopicsilicovolcanoconiosis", "Antidisestablishmentarianism", "Floccinaucinihilipilification"],
+      "options": [
+        "Floccinaucinihilipilification",
+        "Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "Supercalifragilisticexpialidocious",
+        "Antidisestablishmentarianism"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-length-quiz-2",
       "question": "What is the shortest complete sentence in English?",
-      "options": ["I am.", "Go!", "I go.", "Be."],
-      "correctAnswer": 1
+      "options": [
+        "I am.",
+        "Be.",
+        "I go.",
+        "Go!"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-length-quiz-3",
       "question": "Which common English word contains three consecutive double letters?",
-      "options": ["Committee", "Bookkeeper", "Mississippi", "Tennessee"],
-      "correctAnswer": 1
+      "options": [
+        "Tennessee",
+        "Mississippi",
+        "Bookkeeper",
+        "Committee"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-4",
       "question": "What is the longest English word that uses only one vowel (repeated)?",
-      "options": ["Strengths", "Rhythms", "Strength", "Chrononhotonthologos"],
-      "correctAnswer": 0
+      "options": [
+        "Rhythms",
+        "Strength",
+        "Strengths",
+        "Chrononhotonthologos"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-5",
       "question": "Which is the longest common English word with all its letters in alphabetical order?",
-      "options": ["Almost", "Begins", "Chimps", "Bijoux"],
-      "correctAnswer": 0
+      "options": [
+        "Begins",
+        "Bijoux",
+        "Almost",
+        "Chimps"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-6",
       "question": "The word 'rhythms' is notable because it is the longest common English word without which feature?",
-      "options": ["Without consonants", "Without a standard vowel (a, e, i, o, u)", "Without silent letters", "Without repeated letters"],
+      "options": [
+        "Without repeated letters",
+        "Without a standard vowel (a, e, i, o, u)",
+        "Without silent letters",
+        "Without consonants"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-length-quiz-7",
       "question": "How many letters are in the word 'antidisestablishmentarianism'?",
-      "options": ["24", "26", "28", "30"],
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-8",
       "question": "What is the longest single-syllable word commonly used in English?",
-      "options": ["Stretched", "Strengths", "Scratched", "Screeched"],
-      "correctAnswer": 3
+      "options": [
+        "Scratched",
+        "Screeched",
+        "Stretched",
+        "Strengths"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "word-length-quiz-9",
       "question": "Which English word has the most consecutive consonants?",
-      "options": ["Strengths (five: ngths)", "Latchstring (six: tchstr)", "Knighthood", "Rhythms"],
-      "correctAnswer": 1
+      "options": [
+        "Strengths (five: ngths)",
+        "Knighthood",
+        "Latchstring (six: tchstr)",
+        "Rhythms"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-10",
       "question": "What is special about the word 'typewriter'?",
-      "options": ["It is the longest word typed with one hand", "It can be typed entirely on the top row of a standard keyboard", "It has no repeated letters", "It is a palindrome"],
-      "correctAnswer": 1
+      "options": [
+        "It is the longest word typed with one hand",
+        "It has no repeated letters",
+        "It is a palindrome",
+        "It can be typed entirely on the top row of a standard keyboard"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-length-quiz-11",
       "question": "The word 'queue' is unusual because how many of its letters are silent?",
-      "options": ["Two", "Three", "Four", "One"],
+      "options": [
+        "Two",
+        "One",
+        "Four",
+        "Three"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "word-length-quiz-12",
       "question": "Which of these words has the most syllables?",
-      "options": ["Internationalization", "Characteristically", "Electrification", "Antidisestablishmentarianism"],
+      "options": [
+        "Characteristically",
+        "Internationalization",
+        "Electrification",
+        "Antidisestablishmentarianism"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "word-length-quiz-13",
       "question": "What is the only common English word that ends in the letters '-mt'?",
-      "options": ["Dreamt", "Exempt", "Prompt", "Attempt"],
+      "options": [
+        "Dreamt",
+        "Exempt",
+        "Prompt",
+        "Attempt"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "word-length-quiz-14",
       "question": "The word 'facetious' is notable because:",
-      "options": ["It has no repeated letters", "It contains all five vowels in alphabetical order", "It is the longest adjective", "It is spelled the same backward"],
-      "correctAnswer": 1
+      "options": [
+        "It is the longest adjective",
+        "It has no repeated letters",
+        "It is spelled the same backward",
+        "It contains all five vowels in alphabetical order"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-length-quiz-15",
       "question": "Which letter of the alphabet appears most frequently in English words?",
-      "options": ["T", "A", "E", "S"],
-      "correctAnswer": 2
+      "options": [
+        "E",
+        "T",
+        "S",
+        "A"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "id": "ancient-medicine-quiz",
+  "title": "Ancient Medicine & Healing",
+  "description": "Discover how ancient civilizations practiced medicine and healing!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ancient-medicine-quiz-1",
+      "question": "In ancient Egyptian medicine, what was trepanning?",
+      "options": [
+        "Tooth extraction",
+        "Drilling a hole in the skull",
+        "Herbal smoking",
+        "Bloodletting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trepanning (trephination) involved drilling or scraping a hole in the skull. It is one of the oldest surgical procedures, with evidence dating back over 7,000 years.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-2",
+      "question": "The ancient practice of acupuncture originated in which country?",
+      "options": [
+        "China",
+        "India",
+        "Korea",
+        "Japan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Acupuncture originated in China over 2,000 years ago. It involves inserting thin needles into specific points on the body to balance the flow of energy (qi).",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-3",
+      "question": "What ancient Indian medical system is one of the oldest holistic healing systems in the world?",
+      "options": [
+        "Naturopathy",
+        "Homeopathy",
+        "Unani",
+        "Ayurveda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ayurveda is an ancient Indian healing system dating back over 3,000 years. The name comes from Sanskrit words meaning 'science of life.'",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-4",
+      "question": "Ancient Egyptians used which natural substance as an antibacterial treatment for wounds?",
+      "options": [
+        "Olive oil",
+        "Vinegar",
+        "Salt water",
+        "Honey"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient Egyptians used honey to treat wounds. Modern science has confirmed that honey has natural antibacterial properties due to its low pH and hydrogen peroxide content.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-5",
+      "question": "What did ancient Greeks believe about the four humors of the body?",
+      "options": [
+        "They controlled emotions only",
+        "Their balance determined health and temperament",
+        "They were types of blood",
+        "They were spiritual forces"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ancient Greek medicine was based on the theory of four humors: blood, phlegm, yellow bile, and black bile. Illness was thought to result from an imbalance of these humors.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-6",
+      "question": "The Rod of Asclepius, a snake wrapped around a staff, is a symbol of what?",
+      "options": [
+        "War",
+        "Law",
+        "Medicine",
+        "Commerce"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Rod of Asclepius, featuring a single serpent entwined around a staff, is the ancient Greek symbol of medicine and healing, named after the Greek god of medicine.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-7",
+      "question": "What plant did ancient civilizations use as a painkiller, which later led to the development of aspirin?",
+      "options": [
+        "Chamomile",
+        "Willow bark",
+        "Lavender",
+        "Mint"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Willow bark was used as a pain reliever for thousands of years. It contains salicin, which the body converts to salicylic acid, the basis for modern aspirin.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-8",
+      "question": "What was the primary purpose of the ancient practice of bloodletting?",
+      "options": [
+        "To remove 'bad blood' and restore balance",
+        "To donate blood to others",
+        "To test blood type",
+        "To cure infections"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bloodletting was practiced for thousands of years based on the belief that removing blood would restore balance to the body's humors and cure various ailments.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-9",
+      "question": "The Ebers Papyrus, one of the oldest known medical texts, comes from which civilization?",
+      "options": [
+        "Ancient Greece",
+        "Ancient Egypt",
+        "Ancient China",
+        "Mesopotamia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ebers Papyrus dates to about 1550 BC and is one of the oldest and most important medical papyri from Ancient Egypt, containing over 700 remedies and treatments.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-10",
+      "question": "In traditional Chinese medicine, what concept describes the balance of opposing forces in the body?",
+      "options": [
+        "Dharma",
+        "Chakra",
+        "Karma",
+        "Yin and Yang"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Yin and Yang represent complementary, interconnected forces in traditional Chinese medicine. Health is believed to depend on maintaining balance between these opposing energies.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-11",
+      "question": "Ancient Roman surgeons were especially skilled due to their experience treating injuries from what?",
+      "options": [
+        "Gladiatorial combat and warfare",
+        "Athletic competitions",
+        "Animal attacks",
+        "Mining accidents"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Roman military surgeons gained extensive experience treating battlefield wounds and gladiatorial injuries, making them some of the most skilled surgeons of the ancient world.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-12",
+      "question": "What ancient practice involves burning dried mugwort near the skin to stimulate healing?",
+      "options": [
+        "Reflexology",
+        "Moxibustion",
+        "Cupping",
+        "Aromatherapy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moxibustion is a traditional Chinese medicine technique that involves burning dried mugwort (moxa) near specific points on the body to stimulate circulation and healing.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-13",
+      "question": "Sushruta, an ancient Indian physician, is considered the father of which medical specialty?",
+      "options": [
+        "Psychiatry",
+        "Surgery",
+        "Pediatrics",
+        "Cardiology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sushruta (c. 600 BC) is considered the father of surgery. His text, the Sushruta Samhita, describes over 300 surgical procedures and 120 surgical instruments.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-14",
+      "question": "What healing practice involves placing heated cups on the skin to create suction?",
+      "options": [
+        "Leeching",
+        "Cauterization",
+        "Acupuncture",
+        "Cupping therapy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cupping therapy has been practiced for thousands of years in China, Egypt, and the Middle East. Heated cups are placed on the skin to create suction, believed to promote healing.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "ancient-medicine-quiz-15",
+      "question": "The ancient Greeks established healing temples dedicated to which god of medicine?",
+      "options": [
+        "Hermes",
+        "Asclepius",
+        "Zeus",
+        "Apollo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Asclepieia were healing temples dedicated to Asclepius, the Greek god of medicine. Patients would sleep in the temple (incubation) hoping for divine healing or guidance in dreams.",
+      "difficulty": "medium",
+      "category": "medicine"
+    }
+  ]
+}

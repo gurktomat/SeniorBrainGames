@@ -1,0 +1,173 @@
+{
+  "id": "mathematics-vocabulary-quiz",
+  "title": "Mathematics Vocabulary Quiz",
+  "description": "Challenge yourself with the language of mathematics, from basic arithmetic terms to geometry, algebra, and beyond.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "mathematics-vocabulary-quiz-1",
+      "question": "What is a 'hypotenuse'?",
+      "options": [
+        "The area inside a square",
+        "The longest side of a right triangle, opposite the right angle",
+        "The shortest side of any triangle",
+        "A line that divides a circle in half"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-2",
+      "question": "What does 'quotient' mean?",
+      "options": [
+        "The result of dividing one number by another",
+        "The sum of two numbers",
+        "The remainder after division",
+        "The product of multiplication"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-3",
+      "question": "What is a 'prime number'?",
+      "options": [
+        "Any even number",
+        "The first number in a sequence",
+        "A number that ends in zero",
+        "A number greater than 1 that has no divisors other than 1 and itself"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-4",
+      "question": "What does 'perpendicular' mean?",
+      "options": [
+        "Two lines that are the same length",
+        "Two lines that meet at a right angle (90 degrees)",
+        "Two lines that never meet",
+        "A line that curves"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-5",
+      "question": "What is an 'integer'?",
+      "options": [
+        "A whole number, positive or negative, including zero",
+        "Any fraction",
+        "A number less than one",
+        "A decimal number"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-6",
+      "question": "What is the 'circumference' of a circle?",
+      "options": [
+        "The diameter of the circle",
+        "The center point of the circle",
+        "The distance around the outside of the circle",
+        "The area inside the circle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-7",
+      "question": "What does 'symmetry' mean in mathematics?",
+      "options": [
+        "A type of equation",
+        "A three-dimensional shape",
+        "A shape with unequal sides",
+        "A property where a shape or object is identical on both sides of a dividing line"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-8",
+      "question": "What is a 'polygon'?",
+      "options": [
+        "A three-dimensional shape",
+        "A closed plane figure with three or more straight sides",
+        "A type of fraction",
+        "A curved shape"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-9",
+      "question": "What is the 'mean' in statistics?",
+      "options": [
+        "The average, calculated by dividing the sum of values by the number of values",
+        "The range of values",
+        "The most frequently occurring value",
+        "The middle value in a data set"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-10",
+      "question": "What is a 'theorem'?",
+      "options": [
+        "A formula for calculating area",
+        "A mathematical statement that has been proven to be true",
+        "An unproven guess",
+        "A type of graph"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-11",
+      "question": "What does 'exponent' refer to?",
+      "options": [
+        "A number indicating how many times a base is multiplied by itself",
+        "A negative number",
+        "The base number in a fraction",
+        "The result of subtraction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-12",
+      "question": "What is a 'ratio'?",
+      "options": [
+        "The sum of all angles",
+        "A type of percentage",
+        "A comparison of two quantities expressed as a fraction or with a colon",
+        "The difference between two numbers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-13",
+      "question": "What is 'probability'?",
+      "options": [
+        "The number of trials in an experiment",
+        "The certainty of an outcome",
+        "The average of all outcomes",
+        "A measure of how likely an event is to occur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-14",
+      "question": "What is a 'parabola'?",
+      "options": [
+        "A triangle with no equal sides",
+        "A U-shaped curve formed by the graph of a quadratic function",
+        "A straight line on a graph",
+        "A circle drawn on a coordinate plane"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mathematics-vocabulary-quiz-15",
+      "question": "What does 'congruent' mean in geometry?",
+      "options": [
+        "Shapes that are identical in form and size",
+        "Shapes that are different sizes",
+        "Angles that are greater than 90 degrees",
+        "Lines that are parallel"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

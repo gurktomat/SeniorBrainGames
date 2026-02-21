@@ -1,0 +1,219 @@
+{
+  "id": "swimming-vocabulary",
+  "title": "Swimming Vocabulary",
+  "description": "Dive into the terminology of competitive and recreational swimming!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "swimming-vocabulary-1",
+      "question": "In competitive swimming, what is a 'flip turn'?",
+      "options": [
+        "A diving technique off the starting block",
+        "A type of relay exchange",
+        "A backstroke start method",
+        "A somersault turn at the wall to reverse direction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A flip turn is a technique where a swimmer performs an underwater somersault near the wall, pushes off with the feet, and continues swimming, used primarily in freestyle and backstroke.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-2",
+      "question": "What is the 'individual medley' (IM) in swimming?",
+      "options": [
+        "A solo race at any distance",
+        "A relay race with four different swimmers",
+        "A race where the swimmer chooses their own stroke",
+        "A race where one swimmer swims butterfly, backstroke, breaststroke, and freestyle in sequence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The individual medley (IM) requires a single swimmer to swim equal distances of butterfly, backstroke, breaststroke, and freestyle, in that specific order.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-3",
+      "question": "In swimming, what is a 'false start'?",
+      "options": [
+        "Swimming the wrong stroke",
+        "Starting from the wrong lane",
+        "Leaving the starting block before the signal",
+        "Touching the wall with one hand in breaststroke"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A false start occurs when a swimmer leaves the starting block or begins their motion before the starter's signal, resulting in disqualification.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-4",
+      "question": "What does 'DQ' stand for in competitive swimming?",
+      "options": [
+        "Disqualification",
+        "Delayed Qualifying",
+        "Double Qualifier",
+        "Distance Qualified"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DQ stands for disqualification, which occurs when a swimmer violates the rules, such as an illegal stroke, false start, or improper turn.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-5",
+      "question": "In swimming, what is the 'catch' phase of a stroke?",
+      "options": [
+        "The initial part of the pull where the hand engages the water",
+        "Grabbing the lane rope for support",
+        "The final touch at the wall",
+        "Catching a breath during the stroke"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The catch is the initial phase of the arm pull where the swimmer's hand and forearm engage the water to begin generating propulsion.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-6",
+      "question": "What is a 'negative split' in swimming?",
+      "options": [
+        "Losing time in each successive lap",
+        "Splitting into separate lanes during warm-up",
+        "A poor finish in a relay",
+        "Swimming the second half of a race faster than the first half"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A negative split means swimming the second half of a race faster than the first half, often considered an ideal pacing strategy.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-7",
+      "question": "In swimming, what is 'drafting'?",
+      "options": [
+        "Creating waves to slow an opponent",
+        "Swimming closely behind another swimmer to reduce resistance",
+        "Writing race strategy on paper",
+        "Choosing which heat to swim in"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Drafting is swimming in the slipstream created by the swimmer ahead, which reduces water resistance and requires less energy, commonly used in open water swimming.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-8",
+      "question": "What is a 'taper' in swimming training?",
+      "options": [
+        "A gradual increase in training intensity before a competition",
+        "A gradual decrease in training volume before a major competition",
+        "A tapering swimsuit design",
+        "Narrowing the pool lanes for practice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A taper is a planned reduction in training volume and intensity before a major competition, allowing the body to recover and perform at its peak.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-9",
+      "question": "In swimming, what is the 'dolphin kick'?",
+      "options": [
+        "A kick used only in backstroke",
+        "An undulating kick where both legs move together like a dolphin's tail",
+        "A single powerful kick off the wall",
+        "A kick performed above the water surface"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The dolphin kick is a simultaneous up-and-down motion of both legs together, used in butterfly stroke and during underwater phases after starts and turns.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-10",
+      "question": "What is a 'heat' in competitive swimming?",
+      "options": [
+        "A preliminary round of a race to determine finalists",
+        "The intensity of a workout",
+        "The water temperature of the pool",
+        "A warm-up swim before the main event"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A heat is a preliminary round of racing. When there are more swimmers than lanes, multiple heats are swum, and the fastest times advance to semifinals or finals.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-11",
+      "question": "In swimming, what does 'streamline' refer to?",
+      "options": [
+        "A body position with arms extended overhead and body tight to minimize drag",
+        "Swimming in a straight line",
+        "A type of racing swimsuit",
+        "A pool with a current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Streamline is a hydrodynamic body position where the swimmer extends their arms overhead with hands stacked, squeezing ears between biceps, to minimize water resistance.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-12",
+      "question": "What is a 'touchpad' in competitive swimming?",
+      "options": [
+        "A device swimmers wear on their fingers",
+        "A rubber mat at the bottom of the pool",
+        "A writing surface for coaches",
+        "An electronic plate on the wall that records finish times when touched"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A touchpad is a pressure-sensitive electronic plate mounted on the wall at each end of the pool that precisely records the time when a swimmer touches it.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-13",
+      "question": "In swimming, what is an 'open turn'?",
+      "options": [
+        "A turn performed in open water",
+        "A turn made while breathing",
+        "A turn without touching the wall",
+        "A turn where the swimmer touches the wall with one or both hands before pushing off"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An open turn is a turn where the swimmer touches the wall, pulls the knees in, rotates, and pushes off. It is required in breaststroke and butterfly where two-hand touches are mandatory.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-14",
+      "question": "What does 'pulling' mean in swim training?",
+      "options": [
+        "Pulling a teammate through the water",
+        "Swimming using only arm strokes with a pull buoy between the legs",
+        "A disqualification for grabbing the lane line",
+        "Removing lane ropes before a race"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulling is a training drill where swimmers use only their arms for propulsion, typically with a pull buoy between the thighs to keep the legs afloat and still.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "swimming-vocabulary-15",
+      "question": "In swimming, what is a 'split time'?",
+      "options": [
+        "The time difference between two swimmers",
+        "The intermediate time recorded at specific distances during a race",
+        "The time a swimmer spends resting between races",
+        "The time it takes to change strokes in a medley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A split time is the time recorded at intermediate points during a race, such as every 50 or 100 meters, allowing analysis of a swimmer's pacing strategy.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "salad-types-quiz",
+  "title": "Salad Types Quiz",
+  "description": "From Caesar to Niçoise — how well do you know your classic salads?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "salad-types-quiz-1",
+      "question": "The Caesar salad was actually invented in which country?",
+      "options": [
+        "Mexico",
+        "Italy",
+        "United States",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "salad-types-quiz-2",
+      "question": "Which French salad from Nice features tuna, olives, hard-boiled eggs, and green beans?",
+      "options": [
+        "Salade Niçoise",
+        "Salade Composée",
+        "Salade Lyonnaise",
+        "Salade Landaise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "salad-types-quiz-3",
+      "question": "A Waldorf salad, created at the Waldorf Hotel in New York, traditionally contains apples, celery, and what nut?",
+      "options": [
+        "Almonds",
+        "Walnuts",
+        "Pecans",
+        "Cashews"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "salad-types-quiz-4",
+      "question": "Greek salad (horiatiki) traditionally does NOT contain which ingredient?",
+      "options": [
+        "Feta cheese",
+        "Lettuce",
+        "Olives",
+        "Tomatoes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "salad-types-quiz-5",
+      "question": "Tabbouleh is a Middle Eastern salad primarily made with which grain?",
+      "options": [
+        "Quinoa",
+        "Couscous",
+        "Bulgur wheat",
+        "Rice"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "salad-types-quiz-6",
+      "question": "Coleslaw gets its name from the Dutch word 'koolsla,' which means what?",
+      "options": [
+        "Garden salad",
+        "Cabbage salad",
+        "Cold salad",
+        "Creamy salad"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "salad-types-quiz-7",
+      "question": "Which classic American salad features wedges of iceberg lettuce topped with blue cheese dressing and bacon?",
+      "options": [
+        "Cobb salad",
+        "Garden salad",
+        "Wedge salad",
+        "Chef's salad"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "salad-types-quiz-8",
+      "question": "A Cobb salad, invented in Hollywood, traditionally includes chicken, bacon, egg, avocado, and which cheese?",
+      "options": [
+        "Mozzarella",
+        "Cheddar",
+        "Parmesan",
+        "Blue cheese"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "salad-types-quiz-9",
+      "question": "Fattoush is a Levantine bread salad that includes pieces of what?",
+      "options": [
+        "Naan bread",
+        "Fried pita bread",
+        "Croutons",
+        "Tortilla chips"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "salad-types-quiz-10",
+      "question": "Panzanella is an Italian salad that features stale bread soaked in what?",
+      "options": [
+        "Tomato juices and vinaigrette",
+        "Wine",
+        "Broth",
+        "Milk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "salad-types-quiz-11",
+      "question": "Which Thai salad, called 'som tam,' is made from shredded unripe papaya?",
+      "options": [
+        "Larb",
+        "Nam tok",
+        "Som tam (green papaya salad)",
+        "Yam woon sen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "salad-types-quiz-12",
+      "question": "Caprese salad consists of which three main ingredients?",
+      "options": [
+        "Mozzarella, tomato, basil",
+        "Lettuce, tomato, cucumber",
+        "Feta, olive, onion",
+        "Arugula, parmesan, lemon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "salad-types-quiz-13",
+      "question": "Russian salad (Olivier salad) is a potato-based salad bound together with what?",
+      "options": [
+        "Yogurt",
+        "Sour cream",
+        "Vinaigrette",
+        "Mayonnaise"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "salad-types-quiz-14",
+      "question": "Which Japanese salad features thinly sliced raw fish over a bed of shredded daikon and greens?",
+      "options": [
+        "Sunomono",
+        "Aemono",
+        "Seaweed salad",
+        "Sashimi salad"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "salad-types-quiz-15",
+      "question": "What key ingredient makes a Caesar salad dressing tangy and savory?",
+      "options": [
+        "Soy sauce",
+        "Anchovy paste",
+        "Horseradish",
+        "Balsamic vinegar"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

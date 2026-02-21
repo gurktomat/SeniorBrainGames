@@ -7,92 +7,167 @@
     {
       "id": "retro-pinball-machines-1",
       "question": "Which company was the largest manufacturer of pinball machines from the 1950s through the 1990s?",
-      "options": ["Gottlieb", "Bally", "Williams", "Stern"],
+      "options": [
+        "Gottlieb",
+        "Bally",
+        "Williams",
+        "Stern"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-pinball-machines-2",
       "question": "What spring-loaded device does a player pull and release to launch the ball into play on a pinball machine?",
-      "options": ["Bumper", "Plunger", "Flipper", "Slingshot"],
-      "correctAnswer": 1
+      "options": [
+        "Flipper",
+        "Slingshot",
+        "Plunger",
+        "Bumper"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pinball-machines-3",
       "question": "What word appears on the screen when a player tilts a pinball machine too aggressively?",
-      "options": ["FOUL", "TILT", "GAME OVER", "PENALTY"],
-      "correctAnswer": 1
+      "options": [
+        "PENALTY",
+        "FOUL",
+        "TILT",
+        "GAME OVER"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pinball-machines-4",
       "question": "Which iconic 1975 rock opera by The Who features a 'deaf, dumb, and blind kid' who becomes a pinball champion?",
-      "options": ["Quadrophenia", "Tommy", "The Wall", "Jesus Christ Superstar"],
+      "options": [
+        "Quadrophenia",
+        "Tommy",
+        "Jesus Christ Superstar",
+        "The Wall"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-pinball-machines-5",
       "question": "What are the player-controlled paddle-like devices at the bottom of a pinball machine called?",
-      "options": ["Paddles", "Flippers", "Bats", "Bumpers"],
-      "correctAnswer": 1
+      "options": [
+        "Paddles",
+        "Bumpers",
+        "Bats",
+        "Flippers"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-pinball-machines-6",
       "question": "In which decade were flippers first added to pinball machines, transforming them from pure games of chance?",
-      "options": ["1930s", "1940s", "1950s", "1960s"],
-      "correctAnswer": 1
+      "options": [
+        "1960s",
+        "1950s",
+        "1930s",
+        "1940s"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-pinball-machines-7",
       "question": "Which pinball machine, released by Williams in 1992, became the best-selling pinball machine of all time?",
-      "options": ["The Addams Family", "Twilight Zone", "Indiana Jones", "Star Trek"],
+      "options": [
+        "The Addams Family",
+        "Star Trek",
+        "Twilight Zone",
+        "Indiana Jones"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "retro-pinball-machines-8",
       "question": "What was the name of the round, mushroom-shaped obstacles on a pinball playfield that bounce the ball around?",
-      "options": ["Slingshots", "Pop bumpers", "Kickers", "Rollovers"],
+      "options": [
+        "Rollovers",
+        "Pop bumpers",
+        "Slingshots",
+        "Kickers"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-pinball-machines-9",
       "question": "In many American cities during the 1940s-1970s, pinball machines were actually banned because they were considered what?",
-      "options": ["Too noisy", "Gambling devices", "Fire hazards", "Immoral entertainment"],
+      "options": [
+        "Fire hazards",
+        "Gambling devices",
+        "Too noisy",
+        "Immoral entertainment"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-pinball-machines-10",
       "question": "Which technology replaced electromechanical scoring reels on pinball machines in the late 1970s?",
-      "options": ["LED displays", "Digital dot-matrix displays", "Electronic number displays", "CRT screens"],
-      "correctAnswer": 2
+      "options": [
+        "Electronic number displays",
+        "Digital dot-matrix displays",
+        "LED displays",
+        "CRT screens"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-pinball-machines-11",
       "question": "What did players commonly do to a pinball machine to try to influence the ball's path, sometimes triggering a tilt?",
-      "options": ["Blow on it", "Nudge or bump it", "Stomp the floor", "Shout at it"],
-      "correctAnswer": 1
+      "options": [
+        "Nudge or bump it",
+        "Blow on it",
+        "Shout at it",
+        "Stomp the floor"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-pinball-machines-12",
       "question": "Which major pinball manufacturer, founded in 1927 by David Gottlieb, was known for classic machines like 'Humpty Dumpty'?",
-      "options": ["Williams", "Bally", "Gottlieb", "Stern"],
-      "correctAnswer": 2
+      "options": [
+        "Gottlieb",
+        "Bally",
+        "Stern",
+        "Williams"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-pinball-machines-13",
       "question": "The backglass of a pinball machine is the illuminated artwork panel located where on the machine?",
-      "options": ["On the playfield surface", "At the top back, facing the player", "Underneath the machine", "On the side panels"],
-      "correctAnswer": 1
+      "options": [
+        "On the side panels",
+        "On the playfield surface",
+        "At the top back, facing the player",
+        "Underneath the machine"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pinball-machines-14",
       "question": "How many balls does a standard game of pinball typically give each player?",
-      "options": ["1", "3", "5", "7"],
+      "options": [
+        "5",
+        "3",
+        "1",
+        "7"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-pinball-machines-15",
       "question": "Which 1980 pinball machine based on a popular outer-space movie franchise became a massive hit in arcades?",
-      "options": ["Star Wars", "Alien", "Flash Gordon", "Close Encounters"],
-      "correctAnswer": 2
+      "options": [
+        "Alien",
+        "Star Wars",
+        "Close Encounters",
+        "Flash Gordon"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

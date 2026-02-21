@@ -1,0 +1,173 @@
+{
+  "id": "famous-directors-recall",
+  "title": "Famous Directors Recall",
+  "description": "Match legendary film directors to their iconic movies",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-directors-recall-1",
+      "question": "Who directed the 1975 thriller 'Jaws'?",
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "George Lucas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-2",
+      "question": "Which director is known for 'Psycho' and 'Vertigo'?",
+      "options": [
+        "Orson Welles",
+        "Billy Wilder",
+        "Alfred Hitchcock",
+        "John Ford"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-3",
+      "question": "Who directed 'The Godfather' trilogy?",
+      "options": [
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Sidney Lumet",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-directors-recall-4",
+      "question": "Which director created 'Star Wars'?",
+      "options": [
+        "James Cameron",
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-5",
+      "question": "Who directed 'Citizen Kane,' often called the greatest film ever made?",
+      "options": [
+        "Howard Hawks",
+        "William Wyler",
+        "Orson Welles",
+        "John Huston"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-6",
+      "question": "Which director helmed 'Schindler's List'?",
+      "options": [
+        "Steven Spielberg",
+        "Oliver Stone",
+        "Clint Eastwood",
+        "Roman Polanski"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-directors-recall-7",
+      "question": "Who directed the epic film 'Lawrence of Arabia'?",
+      "options": [
+        "David Lean",
+        "William Wyler",
+        "Fred Zinnemann",
+        "John Ford"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-directors-recall-8",
+      "question": "Which director is famous for 'Goodfellas' and 'Taxi Driver'?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Brian De Palma",
+        "William Friedkin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-directors-recall-9",
+      "question": "Who directed 'Titanic' and 'Avatar'?",
+      "options": [
+        "Michael Bay",
+        "Ridley Scott",
+        "James Cameron",
+        "Roland Emmerich"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-10",
+      "question": "Which director is known for Westerns like 'The Searchers' and 'Stagecoach'?",
+      "options": [
+        "Howard Hawks",
+        "John Ford",
+        "Sergio Leone",
+        "Sam Peckinpah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-directors-recall-11",
+      "question": "Who directed '2001: A Space Odyssey'?",
+      "options": [
+        "Ridley Scott",
+        "Andrei Tarkovsky",
+        "Stanley Kubrick",
+        "Terry Gilliam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-12",
+      "question": "Which Italian director is famous for spaghetti Westerns like 'The Good, the Bad and the Ugly'?",
+      "options": [
+        "Bernardo Bertolucci",
+        "Luchino Visconti",
+        "Sergio Leone",
+        "Federico Fellini"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-directors-recall-13",
+      "question": "Who directed 'Pulp Fiction'?",
+      "options": [
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "The Coen Brothers",
+        "David Fincher"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-directors-recall-14",
+      "question": "Which director made 'Rear Window' and 'North by Northwest'?",
+      "options": [
+        "Billy Wilder",
+        "Alfred Hitchcock",
+        "Otto Preminger",
+        "Fritz Lang"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-directors-recall-15",
+      "question": "Who directed the classic film 'Casablanca'?",
+      "options": [
+        "John Huston",
+        "Victor Fleming",
+        "Howard Hawks",
+        "Michael Curtiz"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

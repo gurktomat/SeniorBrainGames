@@ -7,91 +7,166 @@
     {
       "id": "classic-christmas-specials-1",
       "question": "In the 1964 TV special 'Rudolph the Red-Nosed Reindeer,' what is the name of the elf who wants to be a dentist?",
-      "options": ["Herbie", "Hermey", "Harvey", "Henry"],
-      "correctAnswer": 1
+      "options": [
+        "Hermey",
+        "Herbie",
+        "Henry",
+        "Harvey"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-christmas-specials-2",
       "question": "Which 1965 animated special features Charlie Brown directing a school Christmas play and choosing a small, scrawny tree?",
-      "options": ["A Charlie Brown Thanksgiving", "It's the Great Pumpkin, Charlie Brown", "A Charlie Brown Christmas", "Happy New Year, Charlie Brown"],
-      "correctAnswer": 2
+      "options": [
+        "It's the Great Pumpkin, Charlie Brown",
+        "A Charlie Brown Christmas",
+        "A Charlie Brown Thanksgiving",
+        "Happy New Year, Charlie Brown"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-christmas-specials-3",
       "question": "In 'How the Grinch Stole Christmas!' (1966), who narrated the animated TV special?",
-      "options": ["Boris Karloff", "Vincent Price", "James Earl Jones", "Burl Ives"],
-      "correctAnswer": 0
+      "options": [
+        "Vincent Price",
+        "Boris Karloff",
+        "Burl Ives",
+        "James Earl Jones"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-christmas-specials-4",
       "question": "Which actor played George Bailey in the 1946 Christmas classic 'It's a Wonderful Life'?",
-      "options": ["Cary Grant", "Henry Fonda", "James Stewart", "Gary Cooper"],
-      "correctAnswer": 2
+      "options": [
+        "James Stewart",
+        "Henry Fonda",
+        "Cary Grant",
+        "Gary Cooper"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-christmas-specials-5",
       "question": "In 'Rudolph the Red-Nosed Reindeer,' what is the name of the island where misfit toys live?",
-      "options": ["Toy Island", "The Island of Misfit Toys", "Christmas Island", "The Lost Toy Land"],
-      "correctAnswer": 1
+      "options": [
+        "Toy Island",
+        "Christmas Island",
+        "The Island of Misfit Toys",
+        "The Lost Toy Land"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-christmas-specials-6",
       "question": "Which 1947 film stars a department store Santa Claus who claims to be the real Kris Kringle?",
-      "options": ["The Bishop's Wife", "Miracle on 34th Street", "Holiday Inn", "Christmas in Connecticut"],
-      "correctAnswer": 1
+      "options": [
+        "Holiday Inn",
+        "Christmas in Connecticut",
+        "Miracle on 34th Street",
+        "The Bishop's Wife"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-christmas-specials-7",
       "question": "Burl Ives voiced which beloved character who narrates the 1964 'Rudolph the Red-Nosed Reindeer' special?",
-      "options": ["Santa Claus", "Sam the Snowman", "Yukon Cornelius", "King Moonracer"],
-      "correctAnswer": 1
+      "options": [
+        "Yukon Cornelius",
+        "King Moonracer",
+        "Santa Claus",
+        "Sam the Snowman"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-christmas-specials-8",
       "question": "In 'A Charlie Brown Christmas,' which jazz musician composed the iconic piano soundtrack?",
-      "options": ["Dave Brubeck", "Thelonious Monk", "Vince Guaraldi", "Oscar Peterson"],
-      "correctAnswer": 2
+      "options": [
+        "Vince Guaraldi",
+        "Dave Brubeck",
+        "Thelonious Monk",
+        "Oscar Peterson"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-christmas-specials-9",
       "question": "Which 1983 film features Ralphie Parker who desperately wants a Red Ryder BB gun for Christmas?",
-      "options": ["National Lampoon's Christmas Vacation", "A Christmas Story", "Scrooged", "Gremlins"],
-      "correctAnswer": 1
+      "options": [
+        "National Lampoon's Christmas Vacation",
+        "Gremlins",
+        "A Christmas Story",
+        "Scrooged"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-christmas-specials-10",
       "question": "In the 1970 TV special 'Santa Claus Is Comin' to Town,' which actor voiced Kris Kringle?",
-      "options": ["Fred Astaire", "Mickey Rooney", "Jimmy Durante", "Gene Kelly"],
+      "options": [
+        "Fred Astaire",
+        "Mickey Rooney",
+        "Jimmy Durante",
+        "Gene Kelly"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-christmas-specials-11",
       "question": "Which famous Christmas song was first performed in the 1942 film 'Holiday Inn' by Bing Crosby?",
-      "options": ["Silent Night", "White Christmas", "Jingle Bells", "Have Yourself a Merry Little Christmas"],
-      "correctAnswer": 1
+      "options": [
+        "Have Yourself a Merry Little Christmas",
+        "Silent Night",
+        "White Christmas",
+        "Jingle Bells"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-christmas-specials-12",
       "question": "In the animated 'Frosty the Snowman' (1969), what magical item brings Frosty to life?",
-      "options": ["A magic scarf", "A silk top hat", "A corncob pipe", "A silver bell"],
+      "options": [
+        "A silver bell",
+        "A silk top hat",
+        "A magic scarf",
+        "A corncob pipe"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-christmas-specials-13",
       "question": "Which Charles Dickens story has been adapted into more Christmas specials and films than any other?",
-      "options": ["The Cricket on the Hearth", "A Christmas Carol", "Great Expectations", "Oliver Twist"],
-      "correctAnswer": 1
+      "options": [
+        "Great Expectations",
+        "The Cricket on the Hearth",
+        "Oliver Twist",
+        "A Christmas Carol"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-christmas-specials-14",
       "question": "In 'It's a Wonderful Life,' what happens every time a bell rings, according to George Bailey's daughter Zuzu?",
-      "options": ["A snowflake falls", "Santa arrives", "An angel gets its wings", "A wish comes true"],
-      "correctAnswer": 2
+      "options": [
+        "A wish comes true",
+        "Santa arrives",
+        "A snowflake falls",
+        "An angel gets its wings"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-christmas-specials-15",
       "question": "Which 1974 special featured 'The Year Without a Santa Claus' and introduced the characters Heat Miser and Snow Miser?",
-      "options": ["A Rankin/Bass production", "A Hanna-Barbera production", "A Walt Disney production", "A Chuck Jones production"],
+      "options": [
+        "A Rankin/Bass production",
+        "A Walt Disney production",
+        "A Chuck Jones production",
+        "A Hanna-Barbera production"
+      ],
       "correctAnswer": 0
     }
   ]

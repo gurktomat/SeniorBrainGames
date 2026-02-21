@@ -1,0 +1,173 @@
+{
+  "id": "political-ideologies-quiz",
+  "title": "Political Ideologies",
+  "description": "How well do you understand the major political ideologies that have shaped world history?",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "political-ideologies-quiz-1",
+      "question": "Which political ideology emphasizes individual liberty, free markets, and limited government?",
+      "options": [
+        "Liberalism (classical)",
+        "Socialism",
+        "Fascism",
+        "Communism"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "political-ideologies-quiz-2",
+      "question": "Marxism, the foundation of communist ideology, was developed by Karl Marx and which co-author?",
+      "options": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Friedrich Engels",
+        "Leon Trotsky"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "political-ideologies-quiz-3",
+      "question": "Which political ideology advocates for collective ownership of the means of production?",
+      "options": [
+        "Monarchism",
+        "Anarchism",
+        "Capitalism",
+        "Socialism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "political-ideologies-quiz-4",
+      "question": "Fascism, as practiced in 1930s Italy, was led by which dictator?",
+      "options": [
+        "Benito Mussolini",
+        "Antonio Salazar",
+        "Francisco Franco",
+        "Adolf Hitler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "political-ideologies-quiz-5",
+      "question": "Conservatism generally emphasizes which values?",
+      "options": [
+        "Abolition of private property",
+        "Elimination of government",
+        "Rapid social change and revolution",
+        "Tradition, order, and established institutions"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "political-ideologies-quiz-6",
+      "question": "Anarchism advocates for what kind of society?",
+      "options": [
+        "A society with a strong central government",
+        "A society without government or involuntary hierarchies",
+        "A society governed by religious law",
+        "A society ruled by the military"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "political-ideologies-quiz-7",
+      "question": "Which political philosophy, associated with Edmund Burke, is considered the foundation of modern conservatism?",
+      "options": [
+        "Progressivism",
+        "Utilitarianism",
+        "Libertarianism",
+        "Classical conservatism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "political-ideologies-quiz-8",
+      "question": "Libertarianism primarily advocates for what?",
+      "options": [
+        "Collective ownership",
+        "Military expansion",
+        "Strong central planning",
+        "Maximum individual freedom and minimal state intervention"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "political-ideologies-quiz-9",
+      "question": "Social democracy, prevalent in Scandinavian countries, combines what two elements?",
+      "options": [
+        "Anarchism with direct democracy",
+        "Communism with religious governance",
+        "Capitalism with a strong social safety net",
+        "Fascism and monarchy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "political-ideologies-quiz-10",
+      "question": "Nationalism as a political ideology emphasizes loyalty and devotion to what?",
+      "options": [
+        "International cooperation",
+        "A political party",
+        "One's nation or ethnic group",
+        "A religious institution"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "political-ideologies-quiz-11",
+      "question": "Which ideology promotes the idea that environmental protection should be central to political decision-making?",
+      "options": [
+        "Populism",
+        "Green politics / environmentalism",
+        "Neoliberalism",
+        "Neoconservatism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "political-ideologies-quiz-12",
+      "question": "Populism is characterized by an appeal to whom against a perceived elite?",
+      "options": [
+        "The ordinary people",
+        "Foreign governments",
+        "The military",
+        "The aristocracy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "political-ideologies-quiz-13",
+      "question": "Which philosopher wrote 'Leviathan,' arguing for a strong central authority to prevent societal chaos?",
+      "options": [
+        "Niccolo Machiavelli",
+        "Thomas Hobbes",
+        "Jean-Jacques Rousseau",
+        "John Locke"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "political-ideologies-quiz-14",
+      "question": "Feminism as a political movement primarily seeks what?",
+      "options": [
+        "Female superiority over men",
+        "Return to traditional roles",
+        "Elimination of family structures",
+        "Equal rights and opportunities regardless of gender"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "political-ideologies-quiz-15",
+      "question": "Theocracy is a system where political authority derives from what source?",
+      "options": [
+        "Military power",
+        "Religious authority or divine guidance",
+        "Economic wealth",
+        "Popular election"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

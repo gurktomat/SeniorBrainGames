@@ -1,0 +1,219 @@
+{
+  "id": "art-techniques-quiz",
+  "title": "Art Techniques",
+  "description": "From watercolors to oil painting, test your knowledge of artistic methods and materials!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "art-techniques-quiz-1",
+      "question": "What painting technique involves applying pigment to wet plaster on a wall or ceiling?",
+      "options": [
+        "Encaustic",
+        "Fresco",
+        "Tempera",
+        "Gouache"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fresco (from the Italian 'affresco,' meaning 'fresh') involves painting on freshly applied wet plaster. As the plaster dries, the pigment becomes part of the wall. Michelangelo's Sistine Chapel ceiling is the most famous fresco.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-2",
+      "question": "In oil painting, what liquid is commonly used to thin paint and clean brushes?",
+      "options": [
+        "Water",
+        "Turpentine",
+        "Alcohol",
+        "Vinegar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turpentine (or mineral spirits) is the traditional solvent for oil paints. It thins the paint for easier application and cleans brushes. Oil painting was perfected by Flemish painters like Jan van Eyck in the 15th century.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-3",
+      "question": "What does 'impasto' refer to in painting?",
+      "options": [
+        "Painting on fabric",
+        "Diluted transparent washes",
+        "A smooth, glossy finish",
+        "Thick, textured application of paint"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Impasto involves applying paint so thickly that brushstrokes and palette knife marks are visible, creating texture. Vincent van Gogh and Rembrandt are famous for their use of impasto technique.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-4",
+      "question": "Watercolor painting is known for its characteristic quality of being what?",
+      "options": [
+        "Transparent and luminous",
+        "Textured and rough",
+        "Opaque and thick",
+        "Dark and matte"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Watercolors are transparent, allowing the white paper to show through and create a luminous effect. Artists work from light to dark, using the paper itself as the lightest value. J.M.W. Turner was a master watercolorist.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-5",
+      "question": "What is 'trompe-l'oeil' painting designed to do?",
+      "options": [
+        "Use only one color",
+        "Depict dreams and fantasies",
+        "Express emotions through color",
+        "Create an optical illusion of three-dimensional reality"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Trompe-l'oeil (French for 'deceive the eye') creates realistic imagery that appears three-dimensional. This technique has been used since ancient Rome, often in murals that seem to extend architecture or show open windows.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-6",
+      "question": "What printmaking technique involves carving an image into a block of wood?",
+      "options": [
+        "Woodcut",
+        "Screen printing",
+        "Etching",
+        "Lithography"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Woodcut is the oldest printmaking technique, dating back to 5th-century China. The artist carves away areas that should remain white, inks the raised surface, and presses it onto paper. Albrecht Dürer created masterful woodcuts.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-7",
+      "question": "What is the primary difference between a 'sketch' and a 'study' in art?",
+      "options": [
+        "Sketches use pencil while studies use paint",
+        "Sketches are quick drawings while studies are detailed investigations of a subject",
+        "There is no difference",
+        "Sketches are small while studies are large"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A sketch is a quick, rough drawing to capture an idea, while a study is a more detailed exploration of a specific element (like hands, drapery, or light) in preparation for a larger work.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-8",
+      "question": "In art, what does 'perspective' help create?",
+      "options": [
+        "Symmetrical compositions",
+        "The illusion of depth and distance on a flat surface",
+        "Bright colors",
+        "Smooth textures"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Linear perspective uses converging lines and a vanishing point to create the illusion of depth on a flat surface. Developed in the Renaissance by Brunelleschi, it revolutionized Western art.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-9",
+      "question": "What is 'glazing' in oil painting?",
+      "options": [
+        "Applying a protective glass cover",
+        "Using a glossy finish",
+        "Layering thin, transparent coats of paint over dried layers",
+        "Painting on glass"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Glazing involves applying thin, transparent layers of paint over dry, opaque layers. This creates rich, luminous colors with depth. Old Masters like Vermeer and Titian were renowned for their glazing technique.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-10",
+      "question": "Georges Seurat developed which technique using tiny dots of pure color?",
+      "options": [
+        "Cubism",
+        "Fauvism",
+        "Pointillism",
+        "Impressionism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pointillism (also called Divisionism) involves applying small, distinct dots of color that blend optically when viewed from a distance. Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte' (1886) is the masterpiece of this technique.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-11",
+      "question": "What is 'etching' as a printmaking technique?",
+      "options": [
+        "Stamping images with rubber",
+        "Burning designs into wood",
+        "Carving into stone",
+        "Using acid to incise lines into a metal plate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In etching, an artist draws on a wax-coated metal plate. Acid then 'bites' the exposed lines into the metal. The plate is inked, wiped, and pressed onto paper. Rembrandt was one of the greatest etchers in history.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-12",
+      "question": "What are the three primary colors in traditional color theory?",
+      "options": [
+        "Red, yellow, blue",
+        "Orange, green, purple",
+        "Cyan, magenta, yellow",
+        "Red, green, blue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In traditional (subtractive) color theory used in painting, the primary colors are red, yellow, and blue. These cannot be created by mixing other colors and can be combined to create all other colors.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-13",
+      "question": "What technique involves pressing fabric, paper, or other materials onto a surface with adhesive?",
+      "options": [
+        "Batik",
+        "Collage",
+        "Mosaic",
+        "Decoupage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Collage (from the French 'coller,' to glue) involves assembling different materials to create a new whole. Picasso and Braque introduced collage into fine art around 1912 as part of their Cubist explorations.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-14",
+      "question": "What ancient technique involves creating images from small pieces of colored glass, stone, or tile?",
+      "options": [
+        "Mosaic",
+        "Stained glass",
+        "Marquetry",
+        "Inlay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mosaic art dates back over 4,000 years. Small pieces called 'tesserae' are arranged into patterns and images. Roman mosaics and Byzantine church mosaics, like those in Ravenna, Italy, are masterpieces of the form.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "art-techniques-quiz-15",
+      "question": "What does 'alla prima' mean in painting?",
+      "options": [
+        "In the first style",
+        "Using the finest materials",
+        "Painting completed in one session while the paint is still wet",
+        "Painting on the first attempt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alla prima (Italian for 'at first attempt') means completing a painting in a single session before the paint dries, without layering. The Impressionists favored this approach for capturing fleeting moments of light.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

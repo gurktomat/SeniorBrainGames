@@ -1,0 +1,173 @@
+{
+  "id": "possessives-quiz",
+  "title": "Possessives Quiz",
+  "description": "Apostrophes can be tricky! Test whether you know the rules for showing ownership in English.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "possessives-quiz-1",
+      "question": "Which is the correct possessive form for one dog's bone?",
+      "options": [
+        "The dog's bone",
+        "The dogs' bone",
+        "The dogs bone",
+        "The dogs's bone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "possessives-quiz-2",
+      "question": "How do you show possession for a plural noun ending in 's' (like 'parents')?",
+      "options": [
+        "Parents'",
+        "Parent's",
+        "Parents's",
+        "Parentses"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "possessives-quiz-3",
+      "question": "Which is correct? 'The ___ toys were scattered.'",
+      "options": [
+        "childrens'",
+        "childrens",
+        "children's",
+        "children"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "possessives-quiz-4",
+      "question": "What is the possessive form of 'it'?",
+      "options": [
+        "Its's",
+        "Its'",
+        "It's",
+        "Its"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "possessives-quiz-5",
+      "question": "Which sentence uses the possessive correctly?",
+      "options": [
+        "The cat licked it paws.",
+        "The cat licked its paws.",
+        "The cat licked its' paws.",
+        "The cat licked it's paws."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "possessives-quiz-6",
+      "question": "How do you form the possessive of 'James'?",
+      "options": [
+        "James'",
+        "Jame's",
+        "Both A and B are accepted",
+        "James's"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "possessives-quiz-7",
+      "question": "Which is correct for joint ownership? 'Tom and Jerry's ___'",
+      "options": [
+        "Toms and Jerrys house",
+        "Tom's and Jerry's house (if they share one house)",
+        "Tom and Jerry's house (if they share one house)",
+        "Tom and Jerry house"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "possessives-quiz-8",
+      "question": "Which shows separate ownership correctly?",
+      "options": [
+        "Tom's and Jerry's cars",
+        "Tom's and Jerry cars",
+        "Toms' and Jerrys' cars",
+        "Tom and Jerry's cars"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "possessives-quiz-9",
+      "question": "What is the possessive of 'women'?",
+      "options": [
+        "Women's",
+        "Womens'",
+        "Women",
+        "Womens"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "possessives-quiz-10",
+      "question": "Which is correct? '___ going to the store.'",
+      "options": [
+        "There",
+        "Their",
+        "Theyre",
+        "They're"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "possessives-quiz-11",
+      "question": "'Whose' and 'who's' — which is possessive?",
+      "options": [
+        "Neither is possessive",
+        "Who's (who's book is this?)",
+        "Both are possessive",
+        "Whose (whose book is this?)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "possessives-quiz-12",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The two week vacation was wonderful.",
+        "The two weeks vacation was wonderful.",
+        "The two week's vacation was wonderful.",
+        "The two weeks' vacation was wonderful."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "possessives-quiz-13",
+      "question": "What is the possessive form of 'boss'?",
+      "options": [
+        "Boss'",
+        "Boss's",
+        "Bosses",
+        "Both A and B are accepted"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "possessives-quiz-14",
+      "question": "Which is correct? 'That is the ___ decision.'",
+      "options": [
+        "juries",
+        "jury's",
+        "jurys",
+        "jurys'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "possessives-quiz-15",
+      "question": "How do you show the possessive for the name 'Charles'?",
+      "options": [
+        "Both B and C are accepted",
+        "Charles's",
+        "Charle's",
+        "Charles'"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

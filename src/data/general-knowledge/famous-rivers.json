@@ -9,20 +9,20 @@
       "question": "Which river is the longest in the world?",
       "options": [
         "Amazon River",
-        "Nile River",
         "Yangtze River",
-        "Mississippi River"
+        "Mississippi River",
+        "Nile River"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-rivers-2",
       "question": "The Amazon River flows primarily through which country?",
       "options": [
+        "Venezuela",
         "Colombia",
-        "Peru",
         "Brazil",
-        "Venezuela"
+        "Peru"
       ],
       "correctAnswer": 2
     },
@@ -30,10 +30,10 @@
       "id": "famous-rivers-3",
       "question": "Which river runs through the Grand Canyon?",
       "options": [
-        "Rio Grande",
-        "Colorado River",
         "Columbia River",
-        "Snake River"
+        "Colorado River",
+        "Snake River",
+        "Rio Grande"
       ],
       "correctAnswer": 1
     },
@@ -52,30 +52,30 @@
       "id": "famous-rivers-5",
       "question": "Which river is considered the cradle of ancient Egyptian civilization?",
       "options": [
+        "Nile River",
         "Tigris River",
         "Euphrates River",
-        "Nile River",
         "Jordan River"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-rivers-6",
       "question": "The Danube River flows through more European capitals than any other river. How many capitals does it pass through?",
       "options": [
-        "Two",
-        "Three",
         "Four",
-        "Five"
+        "Three",
+        "Five",
+        "Two"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-rivers-7",
       "question": "Which river forms much of the border between the United States and Mexico?",
       "options": [
-        "Colorado River",
         "Pecos River",
+        "Colorado River",
         "Rio Grande",
         "Gila River"
       ],
@@ -87,74 +87,74 @@
       "options": [
         "Buddhism",
         "Islam",
-        "Hinduism",
-        "Sikhism"
+        "Sikhism",
+        "Hinduism"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-rivers-9",
       "question": "Which is the longest river in Asia?",
       "options": [
-        "Mekong River",
-        "Yellow River",
         "Yangtze River",
+        "Yellow River",
+        "Mekong River",
         "Ganges River"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-rivers-10",
       "question": "The Mississippi River empties into which body of water?",
       "options": [
-        "Atlantic Ocean",
         "Pacific Ocean",
-        "Gulf of Mexico",
-        "Caribbean Sea"
+        "Caribbean Sea",
+        "Atlantic Ocean",
+        "Gulf of Mexico"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-rivers-11",
       "question": "Which two rivers defined the boundaries of ancient Mesopotamia?",
       "options": [
-        "Nile and Jordan",
-        "Tigris and Euphrates",
+        "Danube and Rhine",
         "Indus and Ganges",
-        "Danube and Rhine"
+        "Tigris and Euphrates",
+        "Nile and Jordan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-rivers-12",
       "question": "The Seine River flows through which famous European city?",
       "options": [
-        "Rome",
-        "Vienna",
         "Paris",
-        "Madrid"
+        "Vienna",
+        "Madrid",
+        "Rome"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-rivers-13",
       "question": "Which river is the longest in Europe?",
       "options": [
-        "Danube",
-        "Rhine",
         "Volga",
-        "Thames"
+        "Rhine",
+        "Thames",
+        "Danube"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-rivers-14",
       "question": "The Zambezi River is home to which spectacular waterfall?",
       "options": [
+        "Iguazu Falls",
         "Angel Falls",
-        "Niagara Falls",
         "Victoria Falls",
-        "Iguazu Falls"
+        "Niagara Falls"
       ],
       "correctAnswer": 2
     },
@@ -162,12 +162,12 @@
       "id": "famous-rivers-15",
       "question": "Mark Twain famously wrote about life along which American river?",
       "options": [
-        "Ohio River",
         "Missouri River",
-        "Mississippi River",
-        "Hudson River"
+        "Hudson River",
+        "Ohio River",
+        "Mississippi River"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "id": "traditional-healing-quiz",
+  "title": "Traditional Healing Practices",
+  "description": "Explore traditional healing practices from cultures around the world!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "traditional-healing-quiz-1",
+      "question": "What traditional Japanese healing practice involves applying pressure to specific body points?",
+      "options": [
+        "Tai chi",
+        "Shiatsu",
+        "Reiki",
+        "Qigong"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shiatsu is a Japanese bodywork therapy that uses finger and palm pressure on specific points of the body. Its name literally means 'finger pressure' in Japanese.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-2",
+      "question": "In Ayurvedic medicine, what are the three fundamental body types called?",
+      "options": [
+        "Mantras",
+        "Chakras",
+        "Asanas",
+        "Doshas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The three doshas in Ayurveda are Vata, Pitta, and Kapha. Each person has a unique combination of these energies, which influences their health and personality.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-3",
+      "question": "What is reflexology based on?",
+      "options": [
+        "Applying pressure to specific points on the feet, hands, and ears",
+        "Massage of the entire body",
+        "Spinal adjustment",
+        "Heat therapy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reflexology is based on the belief that specific points on the feet, hands, and ears correspond to organs and systems in the body. Pressure on these points promotes healing.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-4",
+      "question": "What Native American healing tradition involves entering a heated enclosed structure for spiritual purification?",
+      "options": [
+        "Talking circle",
+        "Sweat lodge ceremony",
+        "Vision quest",
+        "Sun dance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sweat lodge ceremony is a traditional Native American practice involving a heated, dome-shaped structure. It is used for spiritual purification, prayer, and healing.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-5",
+      "question": "Traditional Chinese medicine views illness as an imbalance of what life force?",
+      "options": [
+        "Prana",
+        "Mana",
+        "Ki",
+        "Qi (Chi)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In Traditional Chinese Medicine (TCM), Qi (pronounced 'chee') is the vital life force that flows through the body. Illness is believed to result from blockages or imbalances in Qi flow.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-6",
+      "question": "What is the traditional Hawaiian healing practice that involves massage and prayer?",
+      "options": [
+        "Kahuna healing",
+        "Hula",
+        "Aloha therapy",
+        "Lomilomi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lomilomi is a traditional Hawaiian massage technique that combines physical massage with prayer, breathwork, and energy healing. It is considered a sacred healing art.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-7",
+      "question": "In traditional Indian medicine, what are the seven energy centers in the body called?",
+      "options": [
+        "Doshas",
+        "Chakras",
+        "Nadis",
+        "Marmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chakras are seven energy centers aligned along the spine, from the base to the crown of the head. Each chakra is associated with specific organs and emotional states.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-8",
+      "question": "What ancient Greek healing method involved patients sleeping in temples to receive healing dreams?",
+      "options": [
+        "Oracle consultation",
+        "Catharsis",
+        "Temple incubation",
+        "Hippocratic treatment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Temple incubation involved patients sleeping in healing temples (Asclepieia) dedicated to Asclepius, hoping to receive divine healing or medical guidance through dreams.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-9",
+      "question": "What German physician developed homeopathy in the late 18th century?",
+      "options": [
+        "Sebastian Kneipp",
+        "Samuel Hahnemann",
+        "Rudolf Steiner",
+        "Robert Koch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Samuel Hahnemann developed homeopathy around 1796, based on the principle of 'like cures like' — the idea that a substance that causes symptoms in a healthy person can treat similar symptoms in illness.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-10",
+      "question": "What is Reiki?",
+      "options": [
+        "A martial art",
+        "A Japanese energy healing technique using hands",
+        "A form of acupuncture",
+        "A meditation style"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reiki is a Japanese energy healing technique developed in the 1920s by Mikao Usui. Practitioners place their hands near or on the body to channel healing energy.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-11",
+      "question": "What traditional practice from India combines physical postures, breathing techniques, and meditation?",
+      "options": [
+        "Yoga",
+        "Tai chi",
+        "Capoeira",
+        "Pilates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Yoga originated in ancient India over 5,000 years ago. It combines physical postures (asanas), breathing techniques (pranayama), and meditation for holistic well-being.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-12",
+      "question": "What is the traditional Aboriginal Australian concept of healing that encompasses land, identity, and community?",
+      "options": [
+        "Dreaming/Dreamtime",
+        "Bush medicine",
+        "Songline therapy",
+        "Walkabout"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Dreaming (or Dreamtime) is central to Aboriginal Australian healing, connecting health with land, ancestors, community, and spiritual identity. Healing involves restoring these connections.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-13",
+      "question": "What ancient Chinese exercise combines slow movements, breathing, and meditation for health?",
+      "options": [
+        "Tai chi",
+        "Judo",
+        "Kung fu",
+        "Karate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tai chi (tai chi chuan) is an ancient Chinese practice combining slow, flowing movements with deep breathing and meditation. It is widely practiced for health benefits, including improved balance.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-14",
+      "question": "What is the traditional Turkish bath, used for centuries for both hygiene and healing, called?",
+      "options": [
+        "Banya",
+        "Sauna",
+        "Hammam",
+        "Onsen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hammam is a traditional Turkish bath that combines steam bathing, massage, and cleansing. It has been a central part of Ottoman and Middle Eastern culture for centuries.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "traditional-healing-quiz-15",
+      "question": "What is the Unani system of medicine, practiced widely in South Asia and the Middle East, based on?",
+      "options": [
+        "African tribal knowledge",
+        "Chinese philosophy",
+        "Hindu scriptures",
+        "Ancient Greek and Arabian medical traditions"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unani medicine is based on the teachings of Greek physicians like Hippocrates and Galen, developed further by Arab and Persian scholars like Ibn Sina. 'Unani' comes from the Arabic word for 'Greek.'",
+      "difficulty": "hard",
+      "category": "health"
+    }
+  ]
+}

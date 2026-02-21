@@ -1,0 +1,219 @@
+{
+  "id": "famous-short-stories",
+  "title": "Famous Short Stories",
+  "description": "How well do you know the world's most celebrated short stories and their authors?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-short-stories-1",
+      "question": "Who wrote 'The Gift of the Magi,' a classic tale about a couple's Christmas sacrifices?",
+      "options": [
+        "Edgar Allan Poe",
+        "O. Henry",
+        "Mark Twain",
+        "Nathaniel Hawthorne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O. Henry (William Sydney Porter) published 'The Gift of the Magi' in 1905. The story of Jim and Della, who each sell their most prized possession to buy a gift for the other, is one of the most beloved Christmas stories.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-2",
+      "question": "Edgar Allan Poe's 'The Tell-Tale Heart' features a narrator haunted by what sound?",
+      "options": [
+        "Footsteps on stairs",
+        "A ticking clock",
+        "A ringing bell",
+        "A beating heart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In 'The Tell-Tale Heart' (1843), the guilt-ridden narrator believes he hears the heartbeat of the old man he has murdered beneath the floorboards. The story is a masterpiece of psychological horror.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-3",
+      "question": "Which author wrote 'The Lottery,' a shocking story about a small-town ritual?",
+      "options": [
+        "Flannery O'Connor",
+        "Eudora Welty",
+        "Joyce Carol Oates",
+        "Shirley Jackson"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Shirley Jackson's 'The Lottery' (1948) appeared in The New Yorker and generated more mail than any story the magazine had ever published. Readers were outraged and fascinated by its disturbing twist ending.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-4",
+      "question": "In which Washington Irving story does a man fall asleep for 20 years?",
+      "options": [
+        "The Legend of Sleepy Hollow",
+        "Rip Van Winkle",
+        "The Devil and Tom Walker",
+        "The Alhambra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Rip Van Winkle' (1819) tells of a man who drinks with mysterious strangers in the Catskill Mountains and awakens to find that 20 years have passed and the American Revolution has occurred.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-5",
+      "question": "Who wrote 'The Metamorphosis,' about a man who wakes up transformed into a giant insect?",
+      "options": [
+        "Hermann Hesse",
+        "Franz Kafka",
+        "Robert Musil",
+        "Thomas Mann"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Franz Kafka published 'The Metamorphosis' ('Die Verwandlung') in 1915. Gregor Samsa's transformation into a monstrous insect is one of the most famous opening situations in all of literature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-6",
+      "question": "Which Russian writer authored 'The Overcoat,' about a humble clerk who buys a new coat?",
+      "options": [
+        "Anton Chekhov",
+        "Leo Tolstoy",
+        "Nikolai Gogol",
+        "Ivan Turgenev"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nikolai Gogol published 'The Overcoat' in 1842. The tragicomic story of Akaky Akakievich, whose new overcoat is stolen, is considered a foundation of Russian realism. Dostoevsky reportedly said, 'We all came out of Gogol's Overcoat.'",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-7",
+      "question": "Which Ernest Hemingway short story follows an old fisherman's unsuccessful day in 'a clean, well-lighted' establishment?",
+      "options": [
+        "Hills Like White Elephants",
+        "A Clean, Well-Lighted Place",
+        "The Snows of Kilimanjaro",
+        "Big Two-Hearted River"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'A Clean, Well-Lighted Place' (1933) depicts two waiters discussing an old man who lingers in their café. The story exemplifies Hemingway's spare style and themes of loneliness and existential despair.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-8",
+      "question": "Who wrote 'The Necklace,' about a woman who borrows a diamond necklace that she loses?",
+      "options": [
+        "Gustave Flaubert",
+        "Honoré de Balzac",
+        "Guy de Maupassant",
+        "Émile Zola"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Guy de Maupassant published 'The Necklace' ('La Parure') in 1884. Mathilde Loisel spends ten years paying for a replacement necklace, only to discover a devastating irony at the end.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-9",
+      "question": "Which Arthur Conan Doyle story introduced Sherlock Holmes to the world?",
+      "options": [
+        "The Adventure of the Speckled Band",
+        "A Scandal in Bohemia",
+        "The Hound of the Baskervilles",
+        "A Study in Scarlet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'A Study in Scarlet' (1887) introduced both Sherlock Holmes and Dr. Watson. Published in Beeton's Christmas Annual, it launched one of the most famous characters in all of fiction.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-10",
+      "question": "Which author wrote 'A Good Man Is Hard to Find,' set in the American South?",
+      "options": [
+        "Carson McCullers",
+        "William Faulkner",
+        "Flannery O'Connor",
+        "Harper Lee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flannery O'Connor published 'A Good Man Is Hard to Find' in 1953. The story of a family's encounter with an escaped convict called The Misfit is a masterwork of Southern Gothic literature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-11",
+      "question": "Ray Bradbury's short story 'There Will Come Soft Rains' depicts a house surviving after what event?",
+      "options": [
+        "A flood",
+        "A nuclear apocalypse",
+        "An alien invasion",
+        "An earthquake"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'There Will Come Soft Rains' (1950) describes an automated house continuing its daily routines after its inhabitants have been killed by a nuclear blast. It appears in Bradbury's 'The Martian Chronicles.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-12",
+      "question": "Who wrote 'The Yellow Wallpaper,' a story about a woman's descent into madness?",
+      "options": [
+        "Kate Chopin",
+        "Edith Wharton",
+        "Willa Cather",
+        "Charlotte Perkins Gilman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Charlotte Perkins Gilman published 'The Yellow Wallpaper' in 1892. Written partly from her own experience with postpartum depression, the story critiques the 'rest cure' prescribed to women at the time.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-13",
+      "question": "Which Mark Twain short story involves a celebrated jumping frog contest?",
+      "options": [
+        "A Dog's Tale",
+        "The $30,000 Bequest",
+        "The Celebrated Jumping Frog of Calaveras County",
+        "The Man That Corrupted Hadleyburg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Celebrated Jumping Frog of Calaveras County' (1865) was the story that first brought Mark Twain national fame. The humorous tale is narrated as a tall tale within a tall tale.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-14",
+      "question": "In which story by James Joyce does Gabriel Conroy learn about his wife's past love at a party?",
+      "options": [
+        "The Dead",
+        "Araby",
+        "Eveline",
+        "A Painful Case"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Dead' (1914) is the final and longest story in Joyce's collection 'Dubliners.' Gabriel's epiphany about love, loss, and mortality as snow falls over Ireland is considered one of the greatest short stories ever written.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-short-stories-15",
+      "question": "Which Roald Dahl story features a wife who murders her husband with a frozen leg of lamb?",
+      "options": [
+        "The Landlady",
+        "Lamb to the Slaughter",
+        "Taste",
+        "Man from the South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Lamb to the Slaughter' (1953) tells of Mary Maloney, who kills her husband with a frozen leg of lamb and then cooks it and serves it to the investigating police officers, destroying the evidence.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

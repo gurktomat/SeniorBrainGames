@@ -1,0 +1,219 @@
+{
+  "id": "formula-one-racing-quiz",
+  "title": "Formula One Racing",
+  "description": "How much do you know about Formula 1, its legendary drivers, and iconic circuits?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "formula-one-racing-quiz-1",
+      "question": "In which year was the first Formula One World Championship race held?",
+      "options": [
+        "1946",
+        "1960",
+        "1950",
+        "1955"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first Formula One World Championship race was held at Silverstone, England, on May 13, 1950. Giuseppe Farina won the inaugural championship driving for Alfa Romeo.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-2",
+      "question": "Which driver holds the record for the most Formula One World Championship titles?",
+      "options": [
+        "Michael Schumacher",
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Ayrton Senna"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lewis Hamilton holds the record with 7 World Championship titles (tied with Michael Schumacher). Hamilton won his titles in 2008, 2014, 2015, 2017, 2018, 2019, and 2020.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-3",
+      "question": "What does the checkered flag signify in Formula One?",
+      "options": [
+        "A caution period",
+        "The end of the race",
+        "The start of the race",
+        "A pit stop requirement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The checkered (chequered) flag is waved at the end of a race to indicate that the leader has completed all laps. It originated in early motor racing.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-4",
+      "question": "Which Formula One circuit is known as 'The Temple of Speed'?",
+      "options": [
+        "Silverstone",
+        "Monaco",
+        "Monza",
+        "Spa-Francorchamps"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Monza in Italy is known as 'The Temple of Speed' due to its high-speed layout. It has hosted the Italian Grand Prix almost every year since the World Championship began in 1950.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-5",
+      "question": "What is DRS in Formula One?",
+      "options": [
+        "Driver Recovery System",
+        "Direct Racing Strategy",
+        "Drag Reduction System",
+        "Dynamic Racing Speed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "DRS (Drag Reduction System) is an adjustable flap on the rear wing of F1 cars that reduces aerodynamic drag, allowing cars to achieve higher speeds to facilitate overtaking.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-6",
+      "question": "Which team has won the most Constructors' Championships in Formula One?",
+      "options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Williams"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ferrari holds the record for the most Constructors' Championships with 16 titles. Ferrari is the oldest and most successful team in F1 history, competing since 1950.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-7",
+      "question": "Which Brazilian driver is considered one of the greatest F1 drivers of all time but died in a racing accident in 1994?",
+      "options": [
+        "Nelson Piquet",
+        "Emerson Fittipaldi",
+        "Ayrton Senna",
+        "Rubens Barrichello"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ayrton Senna, a three-time World Champion, died during the 1994 San Marino Grand Prix at Imola, Italy. He is widely regarded as one of the greatest drivers in F1 history.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-8",
+      "question": "What is the Monaco Grand Prix famous for?",
+      "options": [
+        "Having the longest track",
+        "Night racing",
+        "Racing through narrow city streets",
+        "Being the fastest circuit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Monaco Grand Prix is famous for racing through the narrow streets of Monte Carlo. It is one of the most prestigious and challenging races due to the tight circuit with minimal overtaking opportunities.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-9",
+      "question": "What does 'pole position' mean in Formula One?",
+      "options": [
+        "A position near the pit lane",
+        "The first starting position, earned by the fastest qualifier",
+        "The inside position on a corner",
+        "The last position on the grid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pole position is the first position on the starting grid, awarded to the driver who sets the fastest time during qualifying. It offers a strategic advantage at the race start.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-10",
+      "question": "Which driver holds the record for most Grand Prix victories?",
+      "options": [
+        "Alain Prost",
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Max Verstappen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lewis Hamilton holds the record for most Grand Prix victories with over 100 wins. Michael Schumacher held the previous record with 91 victories.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-11",
+      "question": "What is the 'pit stop' in Formula One?",
+      "options": [
+        "A penalty stop",
+        "A planned stop to change tires and make adjustments",
+        "When a car breaks down",
+        "The starting area"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pit stop is a planned stop during a race where the team changes tires and can make adjustments. Modern F1 pit stops can be completed in under 2 seconds for tire changes alone.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-12",
+      "question": "What safety device was introduced to F1 in 2018 to protect drivers' heads?",
+      "options": [
+        "Roll hoop",
+        "Aeroscreen",
+        "Halo",
+        "HANS device"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Halo is a titanium structure mounted above the cockpit to protect drivers' heads from debris and impacts. It was introduced in 2018 and has been credited with saving several lives.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-13",
+      "question": "How many points does the winner of a Formula One Grand Prix receive?",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The winner of a Formula One Grand Prix receives 25 points. Points are awarded to the top 10 finishers (25, 18, 15, 12, 10, 8, 6, 4, 2, 1), with an extra point for the fastest lap.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-14",
+      "question": "Which circuit is known as 'The Circuit of Dreams' and hosts the Belgian Grand Prix?",
+      "options": [
+        "Nurburgring",
+        "Monza",
+        "Zandvoort",
+        "Spa-Francorchamps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Spa-Francorchamps in Belgium is one of the most iconic circuits in F1, famous for the challenging Eau Rouge corner complex and unpredictable weather conditions in the Ardennes forest.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "formula-one-racing-quiz-15",
+      "question": "What is the minimum age to compete in Formula One?",
+      "options": [
+        "18",
+        "16",
+        "17",
+        "21"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The minimum age to compete in Formula One is 18 years old. This rule was introduced in 2016 after Max Verstappen debuted at age 17 in 2015, becoming the youngest F1 driver.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "ancient-philosophers-quiz",
+  "title": "Ancient Philosophers Quiz",
+  "description": "Test your recall of the great thinkers who shaped Western philosophy!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ancient-philosophers-quiz-1",
+      "question": "Which Greek philosopher was sentenced to death by drinking hemlock?",
+      "options": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Epicurus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Socrates was sentenced to death in 399 BC by an Athenian jury for impiety and corrupting the youth, and he drank hemlock poison.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-2",
+      "question": "Who founded the Academy in Athens, one of the first institutions of higher learning?",
+      "options": [
+        "Plato",
+        "Socrates",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Plato founded the Academy in Athens around 387 BC, which continued to operate for nearly 900 years.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-3",
+      "question": "Which philosopher was the tutor of Alexander the Great?",
+      "options": [
+        "Diogenes",
+        "Socrates",
+        "Aristotle",
+        "Plato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aristotle was hired by King Philip II of Macedon to tutor his son Alexander, who would later become Alexander the Great.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-4",
+      "question": "Which philosopher is famous for saying 'I think, therefore I am'... wait, that was Descartes. Which ANCIENT philosopher said 'Know thyself'?",
+      "options": [
+        "Socrates",
+        "Thales",
+        "Pythagoras",
+        "Heraclitus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "While the phrase was inscribed at the Temple of Apollo at Delphi, it is most associated with Socrates and his philosophical method of self-examination.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-5",
+      "question": "Which Greek philosopher believed everything was made of water?",
+      "options": [
+        "Thales of Miletus",
+        "Empedocles",
+        "Democritus",
+        "Anaximander"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thales of Miletus, often considered the first Western philosopher, proposed that water was the fundamental substance of the universe.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-6",
+      "question": "Which philosopher lived in a barrel and carried a lantern searching for an honest man?",
+      "options": [
+        "Antisthenes",
+        "Epicurus",
+        "Diogenes of Sinope",
+        "Zeno of Citium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diogenes of Sinope was a famous Cynic philosopher known for his extreme lifestyle and provocative behavior.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-7",
+      "question": "Which philosopher proposed the theory of atoms -- that all matter is made of indivisible particles?",
+      "options": [
+        "Democritus",
+        "Anaxagoras",
+        "Epicurus",
+        "Leucippus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Democritus (c. 460-370 BC) developed the atomic theory, proposing that all matter consists of tiny indivisible particles called 'atomos.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-8",
+      "question": "Which philosopher founded Stoicism?",
+      "options": [
+        "Epictetus",
+        "Seneca",
+        "Marcus Aurelius",
+        "Zeno of Citium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Zeno of Citium founded the Stoic school of philosophy around 300 BC in Athens, teaching from the Stoa Poikile (Painted Porch).",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-9",
+      "question": "Which Roman Emperor was also a renowned Stoic philosopher who wrote 'Meditations'?",
+      "options": [
+        "Nero",
+        "Julius Caesar",
+        "Marcus Aurelius",
+        "Hadrian"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Marcus Aurelius, Roman Emperor from 161 to 180 AD, wrote 'Meditations,' a series of personal philosophical reflections on Stoic philosophy.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-10",
+      "question": "Which mathematician and philosopher is known for his theorem about right triangles?",
+      "options": [
+        "Archimedes",
+        "Thales",
+        "Pythagoras",
+        "Euclid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pythagoras is famous for the Pythagorean theorem (a^2 + b^2 = c^2), though it may have been known earlier by Babylonian mathematicians.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-11",
+      "question": "Which philosopher said 'No man ever steps in the same river twice'?",
+      "options": [
+        "Heraclitus",
+        "Parmenides",
+        "Xenophanes",
+        "Anaximenes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Heraclitus of Ephesus emphasized constant change, famously stating that everything flows (panta rhei) and you cannot step in the same river twice.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-12",
+      "question": "Which Roman philosopher and statesman wrote 'On the Nature of Things' about Epicurean philosophy?",
+      "options": [
+        "Cicero",
+        "Lucretius",
+        "Plutarch",
+        "Seneca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lucretius wrote 'De Rerum Natura' (On the Nature of Things), a poem presenting the philosophy of Epicurus, including atomism and the mortality of the soul.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-13",
+      "question": "Which philosopher founded a school called 'The Garden' and taught that pleasure was the highest good?",
+      "options": [
+        "Pyrrho",
+        "Aristippus",
+        "Epicurus",
+        "Diogenes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Epicurus founded his school, called 'The Garden,' around 306 BC in Athens. He taught that the absence of pain and mental tranquility were the highest forms of pleasure.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-14",
+      "question": "Which Chinese philosopher's teachings formed the basis of Confucianism?",
+      "options": [
+        "Confucius",
+        "Laozi",
+        "Zhuangzi",
+        "Mencius"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Confucius (Kong Qiu, 551-479 BC) was a Chinese philosopher whose teachings on ethics, family, and governance became the foundation of Confucianism.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-philosophers-quiz-15",
+      "question": "Which Roman Stoic philosopher was forced to commit suicide by Emperor Nero?",
+      "options": [
+        "Epictetus",
+        "Seneca",
+        "Marcus Aurelius",
+        "Cicero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Seneca the Younger, advisor to Emperor Nero, was ordered to commit suicide in 65 AD after being accused of involvement in a conspiracy against Nero.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

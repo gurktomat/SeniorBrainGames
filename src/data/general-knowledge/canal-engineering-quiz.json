@@ -1,0 +1,219 @@
+{
+  "id": "canal-engineering-quiz",
+  "title": "Canal Engineering",
+  "description": "Navigate through questions about the world's greatest canals and waterways!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "canal-engineering-quiz-1",
+      "question": "The Panama Canal connects which two oceans?",
+      "options": [
+        "Arctic and Pacific",
+        "Pacific and Indian",
+        "Atlantic and Pacific",
+        "Atlantic and Indian"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean through Panama, Central America. Completed in 1914, it eliminated the need for ships to navigate around the southern tip of South America.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-2",
+      "question": "The Suez Canal connects the Mediterranean Sea to which other body of water?",
+      "options": [
+        "Arabian Sea",
+        "Persian Gulf",
+        "Black Sea",
+        "Red Sea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Suez Canal connects the Mediterranean Sea to the Red Sea through Egypt. Completed in 1869 under Ferdinand de Lesseps, it provides the shortest maritime route between Europe and Asia.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-3",
+      "question": "How does the Panama Canal move ships between the Atlantic and Pacific, which are at different elevations along the route?",
+      "options": [
+        "Ships are carried on rail systems",
+        "Natural tides create the elevation change",
+        "A series of locks raise and lower ships",
+        "Ships travel through a continuous sea-level channel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Panama Canal uses a system of locks to raise ships 26 meters (85 feet) to the level of Gatun Lake and then lower them back to sea level. The original canal has three sets of locks.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-4",
+      "question": "The Erie Canal, completed in 1825, connected the Hudson River to which Great Lake?",
+      "options": [
+        "Lake Ontario",
+        "Lake Michigan",
+        "Lake Erie",
+        "Lake Huron"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Erie Canal connected the Hudson River near Albany to Lake Erie at Buffalo, New York. The 363-mile canal was a transformative engineering achievement that opened up the Midwest to trade and settlement.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-5",
+      "question": "Which French diplomat led the initial (failed) effort to build the Panama Canal before the United States took over?",
+      "options": [
+        "Ferdinand de Lesseps",
+        "Napoleon III",
+        "Georges Clemenceau",
+        "Gustave Eiffel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ferdinand de Lesseps, who had successfully built the Suez Canal, led the French effort to build the Panama Canal starting in 1881. The attempt failed due to engineering problems, tropical diseases, and financial difficulties.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-6",
+      "question": "The Grand Canal in China, the world's longest artificial waterway, connects Beijing to which city?",
+      "options": [
+        "Nanjing",
+        "Guangzhou",
+        "Hangzhou",
+        "Shanghai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Grand Canal stretches approximately 1,776 km from Beijing to Hangzhou. Construction began in the 5th century BC, and it remains the longest and oldest canal in the world, designated a UNESCO World Heritage Site in 2014.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-7",
+      "question": "What major disease killed thousands of workers during the construction of the Panama Canal?",
+      "options": [
+        "Cholera",
+        "Smallpox",
+        "Typhoid",
+        "Malaria and yellow fever"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Malaria and yellow fever killed an estimated 25,000 workers during French and American construction of the Panama Canal. Dr. William Gorgas's mosquito control measures were crucial to the American effort's success.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-8",
+      "question": "The Corinth Canal in Greece cuts through a narrow strip of land connecting the Peloponnese to the mainland. How deep is its channel?",
+      "options": [
+        "16 meters",
+        "8 meters",
+        "24 meters",
+        "4 meters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Corinth Canal is about 8 meters deep and 6.4 km long. Despite being conceived in ancient times, it wasn't completed until 1893. Its narrow width (only 21 meters) limits it to smaller vessels.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-9",
+      "question": "The Kiel Canal in Germany connects which two bodies of water?",
+      "options": [
+        "Mediterranean and Black Sea",
+        "North Sea and Baltic Sea",
+        "Rhine River and Danube River",
+        "English Channel and North Sea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Kiel Canal connects the North Sea at Brunsbüttel to the Baltic Sea at Kiel-Holtenau. Opened in 1895, it is one of the world's busiest artificial waterways, saving ships a 460 km journey around Denmark.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-10",
+      "question": "What is a 'canal lock' primarily used for?",
+      "options": [
+        "Filtering debris from the canal",
+        "Raising or lowering boats between different water levels",
+        "Preventing unauthorized boat access",
+        "Controlling water flow speed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A canal lock is an enclosed chamber with gates at each end that fills or empties with water to raise or lower boats between different water levels. This allows canals to traverse hilly terrain.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-11",
+      "question": "The Manchester Ship Canal, opened in 1894, allowed ocean-going vessels to reach which inland English city?",
+      "options": [
+        "Liverpool",
+        "Manchester",
+        "Leeds",
+        "Birmingham"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Manchester Ship Canal allowed ocean-going ships to reach Manchester directly, bypassing the port of Liverpool. At 58 km long, it made Manchester an inland port and boosted the city's industrial economy.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-12",
+      "question": "The expanded Panama Canal, completed in 2016, added a new set of locks to accommodate which class of larger ships?",
+      "options": [
+        "Ultra Large",
+        "Capesize",
+        "Neopanamax",
+        "Suezmax"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Panama Canal expansion (completed 2016) added a third set of locks to accommodate Neopanamax vessels, which are significantly larger than the original Panamax ships. The new locks are 427 meters long and 55 meters wide.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-13",
+      "question": "During which ancient civilization was the earliest known canal connecting the Nile to the Red Sea first attempted?",
+      "options": [
+        "Roman",
+        "Persian",
+        "Greek",
+        "Egyptian"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient Egyptians first attempted a canal between the Nile and the Red Sea around 1850 BC under Pharaoh Senusret III. The canal was rebuilt and extended several times by Persian, Ptolemaic, and Roman rulers.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "canal-engineering-quiz-14",
+      "question": "The Welland Canal bypasses Niagara Falls and connects which two Great Lakes?",
+      "options": [
+        "Lake Erie and Lake Ontario",
+        "Lake Superior and Lake Michigan",
+        "Lake Michigan and Lake Erie",
+        "Lake Huron and Lake Erie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Welland Canal in Ontario, Canada, connects Lake Erie to Lake Ontario, allowing ships to bypass Niagara Falls and its 99-meter difference in elevation. It is a key link in the St. Lawrence Seaway.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "canal-engineering-quiz-15",
+      "question": "The Falkirk Wheel in Scotland is unique because it is the world's only what?",
+      "options": [
+        "Underwater canal lock",
+        "Double-decker canal",
+        "Rotating boat lift",
+        "Solar-powered lock"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Falkirk Wheel, opened in 2002, is the world's only rotating boat lift. It connects the Forth and Clyde Canal with the Union Canal by lifting boats 24 meters in a rotating gondola, replacing a series of 11 locks.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

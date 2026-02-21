@@ -9,15 +9,25 @@
       "id": "ots-1",
       "proverb": "Don't count your chickens before they ___",
       "blank": "hatch",
-      "options": ["hatch", "cross", "roost", "crow"],
-      "correctAnswer": 0,
+      "options": [
+        "crow",
+        "roost",
+        "cross",
+        "hatch"
+      ],
+      "correctAnswer": 3,
       "explanation": "This means don't assume a positive outcome before it actually happens."
     },
     {
       "id": "ots-2",
       "proverb": "A bird in the hand is worth two in the ___",
       "blank": "bush",
-      "options": ["tree", "bush", "nest", "sky"],
+      "options": [
+        "sky",
+        "bush",
+        "nest",
+        "tree"
+      ],
       "correctAnswer": 1,
       "explanation": "It's better to hold onto what you have than to risk it for something uncertain."
     },
@@ -25,7 +35,12 @@
       "id": "ots-3",
       "proverb": "The early bird catches the ___",
       "blank": "worm",
-      "options": ["fly", "worm", "seed", "prize"],
+      "options": [
+        "prize",
+        "worm",
+        "seed",
+        "fly"
+      ],
       "correctAnswer": 1,
       "explanation": "Those who act promptly and get an early start have an advantage."
     },
@@ -33,7 +48,12 @@
       "id": "ots-4",
       "proverb": "You can't teach an old dog new ___",
       "blank": "tricks",
-      "options": ["tricks", "lessons", "habits", "ways"],
+      "options": [
+        "tricks",
+        "lessons",
+        "ways",
+        "habits"
+      ],
       "correctAnswer": 0,
       "explanation": "It can be difficult to change someone's established habits or ways of thinking."
     },
@@ -41,39 +61,64 @@
       "id": "ots-5",
       "proverb": "Every cloud has a silver ___",
       "blank": "lining",
-      "options": ["edge", "lining", "glow", "streak"],
-      "correctAnswer": 1,
+      "options": [
+        "edge",
+        "glow",
+        "lining",
+        "streak"
+      ],
+      "correctAnswer": 2,
       "explanation": "Even in difficult situations, there is usually something positive to be found."
     },
     {
       "id": "ots-6",
       "proverb": "A penny saved is a penny ___",
       "blank": "earned",
-      "options": ["spent", "earned", "lost", "found"],
-      "correctAnswer": 1,
+      "options": [
+        "found",
+        "spent",
+        "earned",
+        "lost"
+      ],
+      "correctAnswer": 2,
       "explanation": "Money that you save is just as valuable as money that you earn through work."
     },
     {
       "id": "ots-7",
       "proverb": "Actions speak louder than ___",
       "blank": "words",
-      "options": ["thoughts", "words", "deeds", "silence"],
-      "correctAnswer": 1,
+      "options": [
+        "silence",
+        "deeds",
+        "words",
+        "thoughts"
+      ],
+      "correctAnswer": 2,
       "explanation": "What you do matters more than what you say."
     },
     {
       "id": "ots-8",
       "proverb": "Don't put all your eggs in one ___",
       "blank": "basket",
-      "options": ["basket", "carton", "nest", "pan"],
-      "correctAnswer": 0,
+      "options": [
+        "pan",
+        "carton",
+        "nest",
+        "basket"
+      ],
+      "correctAnswer": 3,
       "explanation": "Don't risk everything on a single venture — diversify your efforts."
     },
     {
       "id": "ots-9",
       "proverb": "When in Rome, do as the Romans ___",
       "blank": "do",
-      "options": ["say", "do", "wish", "please"],
+      "options": [
+        "wish",
+        "do",
+        "say",
+        "please"
+      ],
       "correctAnswer": 1,
       "explanation": "When visiting a new place, follow the customs and behavior of the locals."
     },
@@ -81,7 +126,12 @@
       "id": "ots-10",
       "proverb": "The grass is always greener on the other ___",
       "blank": "side",
-      "options": ["lawn", "field", "side", "hill"],
+      "options": [
+        "lawn",
+        "field",
+        "side",
+        "hill"
+      ],
       "correctAnswer": 2,
       "explanation": "People tend to think others have it better than they do."
     },
@@ -89,23 +139,38 @@
       "id": "ots-11",
       "proverb": "Two wrongs don't make a ___",
       "blank": "right",
-      "options": ["right", "left", "match", "pair"],
-      "correctAnswer": 0,
+      "options": [
+        "left",
+        "match",
+        "pair",
+        "right"
+      ],
+      "correctAnswer": 3,
       "explanation": "Responding to a wrongdoing with another wrongdoing is not justified."
     },
     {
       "id": "ots-12",
       "proverb": "Beggars can't be ___",
       "blank": "choosers",
-      "options": ["winners", "losers", "choosers", "leaders"],
-      "correctAnswer": 2,
+      "options": [
+        "choosers",
+        "winners",
+        "losers",
+        "leaders"
+      ],
+      "correctAnswer": 0,
       "explanation": "If you're in need, you should accept what is offered without being picky."
     },
     {
       "id": "ots-13",
       "proverb": "Don't judge a book by its ___",
       "blank": "cover",
-      "options": ["title", "cover", "pages", "author"],
+      "options": [
+        "title",
+        "cover",
+        "author",
+        "pages"
+      ],
       "correctAnswer": 1,
       "explanation": "Don't form opinions based on outward appearances alone."
     },
@@ -113,16 +178,26 @@
       "id": "ots-14",
       "proverb": "An apple a day keeps the doctor ___",
       "blank": "away",
-      "options": ["busy", "happy", "away", "close"],
-      "correctAnswer": 2,
+      "options": [
+        "close",
+        "busy",
+        "happy",
+        "away"
+      ],
+      "correctAnswer": 3,
       "explanation": "Eating healthy food helps you stay well and avoid illness."
     },
     {
       "id": "ots-15",
       "proverb": "Better late than ___",
       "blank": "never",
-      "options": ["never", "early", "sorry", "later"],
-      "correctAnswer": 0,
+      "options": [
+        "early",
+        "never",
+        "later",
+        "sorry"
+      ],
+      "correctAnswer": 1,
       "explanation": "It's better to do something after the expected time than not to do it at all."
     }
   ]

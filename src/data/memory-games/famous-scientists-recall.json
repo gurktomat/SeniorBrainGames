@@ -1,0 +1,219 @@
+{
+  "id": "famous-scientists-recall",
+  "title": "Famous Scientists Recall",
+  "description": "Can you recall the brilliant scientists who changed our understanding of the world?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-scientists-recall-1",
+      "question": "Which scientist developed the theory of general relativity?",
+      "options": [
+        "Max Planck",
+        "Niels Bohr",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Albert Einstein published his theory of general relativity in 1915, revolutionizing our understanding of gravity, space, and time.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-2",
+      "question": "Who discovered penicillin, the first widely used antibiotic?",
+      "options": [
+        "Joseph Lister",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alexander Fleming discovered penicillin in 1928 when he noticed that a mold (Penicillium) killed bacteria in his lab. He won the Nobel Prize in 1945.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-3",
+      "question": "Which scientist is known for his laws of motion and universal gravitation?",
+      "options": [
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sir Isaac Newton published his laws of motion and universal gravitation in 'Principia Mathematica' in 1687.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-4",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "options": [
+        "Charles Darwin",
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel",
+        "Alfred Russel Wallace"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Charles Darwin published 'On the Origin of Species' in 1859, presenting his theory of evolution by natural selection.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-5",
+      "question": "Which scientist won two Nobel Prizes, one in Physics and one in Chemistry?",
+      "options": [
+        "Albert Einstein",
+        "Marie Curie",
+        "Niels Bohr",
+        "Linus Pauling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Marie Curie won the Nobel Prize in Physics (1903) for her research on radiation and in Chemistry (1911) for discovering radium and polonium.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-6",
+      "question": "Who developed the first successful polio vaccine?",
+      "options": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Albert Sabin",
+        "Jonas Salk"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jonas Salk developed the first successful inactivated polio vaccine, announced in 1955. He chose not to patent it to ensure wider distribution.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-7",
+      "question": "Which scientist's X-ray crystallography work was crucial to discovering DNA's structure?",
+      "options": [
+        "Dorothy Hodgkin",
+        "Barbara McClintock",
+        "Rosalind Franklin",
+        "Marie Curie"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rosalind Franklin's X-ray crystallography image (Photo 51) was key to Watson and Crick's discovery of DNA's double helix structure in 1953.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-8",
+      "question": "Who is known as the father of modern astronomy for his use of the telescope?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Tycho Brahe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Galileo Galilei improved the telescope and made groundbreaking astronomical observations including Jupiter's moons and the phases of Venus.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-9",
+      "question": "Which scientist developed the periodic table of elements?",
+      "options": [
+        "John Dalton",
+        "Dmitri Mendeleev",
+        "Robert Boyle",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dmitri Mendeleev published his periodic table in 1869, organizing elements by atomic weight and predicting the existence of undiscovered elements.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-10",
+      "question": "Who is known as the 'father of genetics' for his work with pea plants?",
+      "options": [
+        "Gregor Mendel",
+        "Thomas Hunt Morgan",
+        "Francis Crick",
+        "Charles Darwin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gregor Mendel's experiments with pea plants in the 1860s established the fundamental laws of inheritance, though his work wasn't recognized until decades later.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-11",
+      "question": "Which scientist invented the light bulb and held over 1,000 patents?",
+      "options": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Benjamin Franklin",
+        "Thomas Edison"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thomas Edison developed the first practical incandescent light bulb in 1879 and held 1,093 US patents during his prolific career.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-12",
+      "question": "Who proposed the heliocentric model of the solar system in the 16th century?",
+      "options": [
+        "Nicolaus Copernicus",
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Ptolemy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nicolaus Copernicus proposed that the Earth and other planets revolve around the Sun, publishing his theory in 1543.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-13",
+      "question": "Which physicist is known for his uncertainty principle in quantum mechanics?",
+      "options": [
+        "Erwin Schrödinger",
+        "Werner Heisenberg",
+        "Max Born",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Werner Heisenberg formulated the uncertainty principle in 1927, stating that the position and momentum of a particle cannot both be precisely known simultaneously.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-14",
+      "question": "Who invented the telephone in 1876?",
+      "options": [
+        "Samuel Morse",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Thomas Edison"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alexander Graham Bell patented the telephone on March 7, 1876, and made the first successful telephone call to his assistant Thomas Watson.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-scientists-recall-15",
+      "question": "Which scientist developed the theory of radioactivity and coined the term?",
+      "options": [
+        "Ernest Rutherford",
+        "Henri Becquerel",
+        "Wilhelm Röntgen",
+        "Marie Curie"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Marie Curie coined the term 'radioactivity' and developed the theory through her extensive research on radioactive elements, particularly radium and polonium.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

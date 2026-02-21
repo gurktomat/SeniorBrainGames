@@ -1,0 +1,173 @@
+{
+  "id": "island-geography-quiz",
+  "title": "Island Geography Quiz",
+  "description": "Set sail across the world's oceans and test your knowledge of famous islands and their geography.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "island-geography-quiz-1",
+      "question": "Greenland, the world's largest island, is an autonomous territory of which European country?",
+      "options": [
+        "Iceland",
+        "Sweden",
+        "Norway",
+        "Denmark"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "island-geography-quiz-2",
+      "question": "Madagascar, the world's fourth-largest island, is located off the southeastern coast of which continent?",
+      "options": [
+        "Africa",
+        "Australia",
+        "Asia",
+        "South America"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-3",
+      "question": "The island of Borneo is shared by three countries: Malaysia, Indonesia, and which other?",
+      "options": [
+        "Brunei",
+        "Singapore",
+        "Philippines",
+        "Thailand"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-4",
+      "question": "The Galápagos Islands, famous for inspiring Darwin's theory of evolution, belong to which country?",
+      "options": [
+        "Ecuador",
+        "Chile",
+        "Peru",
+        "Colombia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-5",
+      "question": "Sicily, the largest island in the Mediterranean Sea, is part of which country?",
+      "options": [
+        "Italy",
+        "Turkey",
+        "Greece",
+        "Spain"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-6",
+      "question": "The Maldives, a popular tropical destination, is an island nation located in which ocean?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "island-geography-quiz-7",
+      "question": "Bali, known as the 'Island of the Gods,' is part of which Southeast Asian country?",
+      "options": [
+        "Thailand",
+        "Philippines",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "island-geography-quiz-8",
+      "question": "Hawaii, the most isolated population center on Earth, is located in which ocean?",
+      "options": [
+        "Indian Ocean",
+        "Southern Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "island-geography-quiz-9",
+      "question": "Crete, the largest of the Greek islands, was home to which ancient civilization?",
+      "options": [
+        "Minoan",
+        "Mycenaean",
+        "Phoenician",
+        "Etruscan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-10",
+      "question": "Tasmania, an island state known for its wilderness, belongs to which country?",
+      "options": [
+        "Papua New Guinea",
+        "Australia",
+        "New Zealand",
+        "Indonesia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "island-geography-quiz-11",
+      "question": "Sri Lanka, formerly known as Ceylon, is located off the southern tip of which country?",
+      "options": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "island-geography-quiz-12",
+      "question": "Zanzibar, known as the 'Spice Island,' is part of which East African country?",
+      "options": [
+        "Kenya",
+        "Mozambique",
+        "Somalia",
+        "Tanzania"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "island-geography-quiz-13",
+      "question": "New Guinea, the world's second-largest island, is divided between Indonesia and which independent nation?",
+      "options": [
+        "Solomon Islands",
+        "Fiji",
+        "Papua New Guinea",
+        "East Timor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "island-geography-quiz-14",
+      "question": "The Canary Islands, a popular holiday destination in the Atlantic Ocean, belong to which European country?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "France",
+        "Morocco"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "island-geography-quiz-15",
+      "question": "Svalbard, a Norwegian archipelago in the Arctic Ocean, is home to a famous global seed vault located in which town?",
+      "options": [
+        "Hammerfest",
+        "Longyearbyen",
+        "Tromsø",
+        "Ny-Ålesund"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

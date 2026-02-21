@@ -1,0 +1,219 @@
+{
+  "id": "baseball-terminology",
+  "title": "Baseball Terminology",
+  "description": "Test your knowledge of the language used on the diamond!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "baseball-terminology-1",
+      "question": "In baseball, what is a 'balk'?",
+      "options": [
+        "A swing and a miss on a third strike",
+        "A pitch that bounces before home plate",
+        "An illegal motion by the pitcher that deceives base runners",
+        "A foul ball hit behind the catcher"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A balk is an illegal motion by the pitcher while runners are on base. When called, all runners advance one base.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-2",
+      "question": "What does 'RBI' stand for in baseball statistics?",
+      "options": [
+        "Runs Before Innings",
+        "Right Batter Index",
+        "Run Batted In",
+        "Runner Base Indicator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RBI stands for Run Batted In, a statistic credited to a batter when their action causes a run to score.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-3",
+      "question": "What is a 'Texas Leaguer' in baseball?",
+      "options": [
+        "A pitch thrown sidearm",
+        "A bloop hit that falls between infielders and outfielders",
+        "A sliding catch in the outfield",
+        "A player from a minor league team in Texas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Texas Leaguer is a softly hit fly ball that drops safely between the infielders and outfielders for a base hit.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-4",
+      "question": "What does 'ERA' measure in baseball?",
+      "options": [
+        "The number of errors a fielder commits",
+        "A batter's on-base percentage",
+        "A team's overall win-loss record",
+        "The average number of earned runs a pitcher allows per nine innings"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ERA stands for Earned Run Average and measures the average number of earned runs a pitcher allows per nine innings pitched.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-5",
+      "question": "What is a 'squeeze play' in baseball?",
+      "options": [
+        "A defensive alignment against a left-handed batter",
+        "A bunt designed to score a runner from third base",
+        "A double play turned by the middle infielders",
+        "An intentional walk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A squeeze play is a strategy where the batter bunts to allow a runner on third base to score. It can be a 'safety squeeze' or a riskier 'suicide squeeze.'",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-6",
+      "question": "In baseball, what is a 'can of corn'?",
+      "options": [
+        "A pitch right down the middle",
+        "A pop-up behind home plate",
+        "A concession stand item",
+        "An easy fly ball to catch"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A 'can of corn' is slang for an easy fly ball. The term likely comes from old-time grocers catching cans knocked off high shelves.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-7",
+      "question": "What is a 'knuckleball'?",
+      "options": [
+        "A pitch thrown with the knuckles to minimize spin",
+        "A ground ball hit off the batter's hands",
+        "A fastball thrown at maximum velocity",
+        "A pitch that curves sharply downward"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A knuckleball is a pitch thrown with minimal spin, using the fingertips or knuckles, causing it to flutter unpredictably through the air.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-8",
+      "question": "What does 'going yard' mean in baseball slang?",
+      "options": [
+        "Running to the bullpen",
+        "Hitting a home run",
+        "Striking out looking",
+        "Making an error in the outfield"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Going yard' is baseball slang for hitting a home run, as the ball leaves the yard (the playing field).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-9",
+      "question": "What is a 'pickle' in baseball?",
+      "options": [
+        "A runner caught between two bases in a rundown",
+        "A damaged baseball",
+        "A controversial call by the umpire",
+        "A pitch that hits the batter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A pickle is when a base runner is trapped between two bases while fielders throw the ball back and forth trying to tag them out, also called a rundown.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-10",
+      "question": "In baseball, what is 'the hot corner'?",
+      "options": [
+        "Third base",
+        "The dugout",
+        "The pitcher's mound",
+        "Home plate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Third base is called 'the hot corner' because right-handed pull hitters often hit hard line drives toward the third baseman.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-11",
+      "question": "What is a 'perfect game' in baseball?",
+      "options": [
+        "A game decided by a grand slam",
+        "A game with no errors by either team",
+        "A game where every starter gets a hit",
+        "A game where no opposing batter reaches base"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A perfect game occurs when a pitcher (or combination of pitchers) retires every batter faced -- no hits, walks, errors, or hit batsmen -- for the entire game.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-12",
+      "question": "What does 'WHIP' stand for in pitching statistics?",
+      "options": [
+        "Wins Held In Postseason",
+        "Weighted Home-run Impact Percentage",
+        "Wild High Inside Pitch",
+        "Walks and Hits per Inning Pitched"
+      ],
+      "correctAnswer": 3,
+      "explanation": "WHIP stands for Walks and Hits per Inning Pitched and measures how many base runners a pitcher allows per inning.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-13",
+      "question": "What is a 'changeup' in baseball?",
+      "options": [
+        "A switch from batting left-handed to right-handed",
+        "A substitution of one pitcher for another",
+        "A mid-inning position change",
+        "An off-speed pitch designed to look like a fastball"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A changeup is an off-speed pitch thrown with the same arm motion as a fastball but with reduced velocity, designed to deceive the batter on timing.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-14",
+      "question": "In baseball, what is a 'twin killing'?",
+      "options": [
+        "Two home runs in the same inning",
+        "A game swept in a doubleheader",
+        "Two strikeouts in a row",
+        "A double play"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A 'twin killing' is another term for a double play, where two offensive players are put out during the same continuous action.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "baseball-terminology-15",
+      "question": "What does 'painting the corners' mean in baseball?",
+      "options": [
+        "Positioning outfielders near the foul lines",
+        "Throwing pitches that barely catch the edges of the strike zone",
+        "Decorating the dugout",
+        "Running the bases efficiently"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Painting the corners' describes a pitcher who throws with exceptional control, placing pitches on the edges of the strike zone where they are hardest to hit.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

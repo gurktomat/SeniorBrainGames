@@ -1,0 +1,173 @@
+{
+  "id": "chemistry-vocabulary-quiz",
+  "title": "Chemistry Vocabulary Quiz",
+  "description": "Test your knowledge of chemistry terms, from elements and reactions to laboratory equipment and chemical processes.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "chemistry-vocabulary-quiz-1",
+      "question": "What is a 'catalyst' in chemistry?",
+      "options": [
+        "A byproduct of combustion",
+        "A substance that speeds up a reaction without being consumed",
+        "A measurement of acidity",
+        "A type of chemical bond"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-2",
+      "question": "What does 'exothermic' mean when describing a chemical reaction?",
+      "options": [
+        "It produces gas",
+        "It requires electricity",
+        "It releases heat",
+        "It absorbs light"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-3",
+      "question": "What is an 'isotope'?",
+      "options": [
+        "A molecule with double bonds",
+        "A charged atom",
+        "An atom with a different number of neutrons than usual",
+        "A radioactive element"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-4",
+      "question": "In chemistry, what is a 'solution'?",
+      "options": [
+        "A type of chemical equation",
+        "A solid compound",
+        "A pure element",
+        "A homogeneous mixture of two or more substances"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-5",
+      "question": "What does 'pH' measure?",
+      "options": [
+        "The acidity or alkalinity of a solution",
+        "The boiling point of a compound",
+        "Temperature of a substance",
+        "The density of a liquid"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-6",
+      "question": "What is a 'covalent bond'?",
+      "options": [
+        "A bond between metals",
+        "A bond formed by sharing electrons between atoms",
+        "A weak intermolecular force",
+        "A bond formed by the transfer of electrons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-7",
+      "question": "What does 'volatile' mean in chemistry?",
+      "options": [
+        "Highly acidic",
+        "Easily evaporated at normal temperatures",
+        "Explosive",
+        "Radioactive"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-8",
+      "question": "What is 'titration'?",
+      "options": [
+        "A technique to determine concentration by adding a reagent until a reaction is complete",
+        "Measuring the weight of a compound",
+        "Heating a substance until it melts",
+        "Filtering impurities from a solution"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-9",
+      "question": "What is a 'precipitate'?",
+      "options": [
+        "An insoluble solid that forms in a solution during a reaction",
+        "A catalyst that dissolves",
+        "A liquid that evaporates quickly",
+        "A gas released during a reaction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-10",
+      "question": "What is 'valence' in chemistry?",
+      "options": [
+        "The combining capacity of an atom, related to electrons in the outer shell",
+        "The color of a compound",
+        "The weight of an atom",
+        "The speed of a chemical reaction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-11",
+      "question": "What does 'endothermic' mean?",
+      "options": [
+        "Releases heat during a reaction",
+        "Absorbs heat from the surroundings during a reaction",
+        "Generates electricity",
+        "Produces light"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-12",
+      "question": "What is a 'mole' in chemistry?",
+      "options": [
+        "A measure of temperature",
+        "A unit representing approximately 6.022 x 10^23 particles",
+        "A type of chemical bond",
+        "A type of molecule"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-13",
+      "question": "What is 'sublimation'?",
+      "options": [
+        "A liquid turning into gas",
+        "A gas turning into liquid",
+        "A solid turning directly into gas without becoming liquid first",
+        "A chemical reaction that produces heat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-14",
+      "question": "What is an 'alloy'?",
+      "options": [
+        "A mixture of two or more metals or a metal with another element",
+        "A pure metal",
+        "A noble gas",
+        "A type of acid"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemistry-vocabulary-quiz-15",
+      "question": "What does 'distillation' involve?",
+      "options": [
+        "Heating a mixture and collecting the vapor to separate substances by boiling point",
+        "Dissolving a solid in water",
+        "Adding a catalyst to speed up a reaction",
+        "Freezing a mixture to separate components"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

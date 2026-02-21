@@ -1,0 +1,219 @@
+{
+  "id": "golf-history-quiz",
+  "title": "Golf History",
+  "description": "How well do you know the history, legends, and traditions of golf?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "golf-history-quiz-1",
+      "question": "In which country did golf originate?",
+      "options": [
+        "Netherlands",
+        "England",
+        "Ireland",
+        "Scotland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Golf originated in Scotland in the 15th century. The modern game is traced back to St Andrews, where golf has been played since at least 1552.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-2",
+      "question": "What are the four major championships in men's professional golf?",
+      "options": [
+        "The Masters, US Open, The Open Championship, FedEx Cup",
+        "The Masters, US Open, The Open Championship, PGA Championship",
+        "The Masters, Players Championship, The Open Championship, PGA Championship",
+        "The Masters, US Open, Ryder Cup, PGA Championship"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The four major championships are The Masters, the US Open, The Open Championship (British Open), and the PGA Championship. They are the most prestigious events in professional golf.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-3",
+      "question": "How many holes are in a standard round of golf?",
+      "options": [
+        "21",
+        "18",
+        "9",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A standard round of golf consists of 18 holes. This tradition comes from the Royal and Ancient Golf Club of St Andrews, which settled on 18 holes in 1764.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-4",
+      "question": "Which golfer has won the most major championships?",
+      "options": [
+        "Tiger Woods",
+        "Ben Hogan",
+        "Jack Nicklaus",
+        "Arnold Palmer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jack Nicklaus holds the record for most major championship victories with 18, including 6 Masters, 5 PGA Championships, 4 US Opens, and 3 Open Championships.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-5",
+      "question": "What color jacket does the winner of The Masters receive?",
+      "options": [
+        "Green",
+        "Red",
+        "Blue",
+        "Gold"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The winner of The Masters Tournament at Augusta National Golf Club receives the famous green jacket. The tradition began in 1949 when Sam Snead was the first winner to receive one.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-6",
+      "question": "What is a 'birdie' in golf?",
+      "options": [
+        "Even par",
+        "Two strokes under par",
+        "One stroke over par",
+        "One stroke under par"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A birdie is a score of one stroke under par on a hole. The term is believed to have originated in the United States in the early 20th century.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-7",
+      "question": "What is an 'albatross' (or 'double eagle') in golf?",
+      "options": [
+        "Three strokes under par",
+        "Two strokes under par",
+        "A hole-in-one on a par 3",
+        "One stroke under par"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An albatross (or double eagle) is a score of three strokes under par on a single hole. This is extremely rare and typically occurs on par-5 holes.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-8",
+      "question": "What is the Ryder Cup?",
+      "options": [
+        "The oldest golf tournament",
+        "A PGA Tour event",
+        "A biennial competition between US and European teams",
+        "A senior golf championship"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ryder Cup is a biennial team golf competition between the United States and Europe. It has been held since 1927 and is one of the most prestigious events in golf.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-9",
+      "question": "Who was the first golfer to achieve the Career Grand Slam (winning all four majors)?",
+      "options": [
+        "Bobby Jones",
+        "Jack Nicklaus",
+        "Gene Sarazen",
+        "Ben Hogan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gene Sarazen became the first golfer to win all four modern major championships when he won the Masters in 1935, completing the Career Grand Slam.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-10",
+      "question": "How many clubs is a golfer allowed to carry during a round?",
+      "options": [
+        "10",
+        "12",
+        "16",
+        "14"
+      ],
+      "correctAnswer": 3,
+      "explanation": "According to the Rules of Golf, a player may carry a maximum of 14 clubs during a round. A penalty is incurred for carrying more than 14.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-11",
+      "question": "Which golfer is known as 'The King' and helped popularize golf on television?",
+      "options": [
+        "Arnold Palmer",
+        "Ben Hogan",
+        "Jack Nicklaus",
+        "Gary Player"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Arnold Palmer was known as 'The King' and is credited with popularizing golf through television in the 1960s. His charisma and aggressive playing style attracted millions of fans.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-12",
+      "question": "What is the oldest golf tournament in the world?",
+      "options": [
+        "The Masters",
+        "The Open Championship",
+        "The PGA Championship",
+        "The US Open"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Open Championship (also called the British Open) is the oldest golf tournament in the world, first played in 1860 at Prestwick Golf Club in Scotland.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-13",
+      "question": "What is a 'hole-in-one'?",
+      "options": [
+        "Sinking the ball in one stroke from the tee",
+        "Scoring even par on every hole",
+        "Completing a round in under par",
+        "Winning a match by one stroke"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A hole-in-one (or ace) occurs when a player sinks the ball in the hole with a single stroke from the tee. The odds are estimated at approximately 12,500 to 1 for an amateur golfer.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-14",
+      "question": "How many Masters Tournament titles did Tiger Woods win?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tiger Woods won The Masters five times (1997, 2001, 2002, 2005, 2019). His 2019 victory at age 43, after years of injuries, is considered one of the greatest comebacks in sports.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "golf-history-quiz-15",
+      "question": "What is 'par' in golf?",
+      "options": [
+        "The score needed to win",
+        "The predetermined number of strokes an expert golfer should need",
+        "The average score of all players",
+        "The number of holes on a course"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Par is the predetermined number of strokes that an expert golfer should require to complete a hole or round. Typical holes are par 3, par 4, or par 5, with most courses having a total par of around 72.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

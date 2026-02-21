@@ -1,0 +1,219 @@
+{
+  "id": "track-and-field-quiz",
+  "title": "Track and Field",
+  "description": "How well do you know athletics, from sprinting to throwing events?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "track-and-field-quiz-1",
+      "question": "What distance is a standard outdoor running track?",
+      "options": [
+        "500 meters",
+        "400 meters",
+        "300 meters",
+        "200 meters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A standard outdoor running track is 400 meters (approximately one-quarter mile) around one lap. The inside lane is exactly 400 meters, with outer lanes being progressively longer.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-2",
+      "question": "What are the four throwing events in Olympic track and field?",
+      "options": [
+        "Shot put, discus, javelin, ball throw",
+        "Shot put, discus, javelin, stone throw",
+        "Shot put, discus, spear, hammer throw",
+        "Shot put, discus, javelin, hammer throw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The four Olympic throwing events are shot put, discus, javelin, and hammer throw. Each event requires different techniques and levels of strength and coordination.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-3",
+      "question": "How many events make up the heptathlon?",
+      "options": [
+        "10",
+        "5",
+        "12",
+        "7"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The heptathlon consists of 7 events contested over two days: 100m hurdles, high jump, shot put, 200m (day 1), long jump, javelin, 800m (day 2). It is primarily a women's event.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-4",
+      "question": "What is the world record for the men's 100 meters, set by Usain Bolt?",
+      "options": [
+        "9.58 seconds",
+        "9.72 seconds",
+        "9.49 seconds",
+        "9.69 seconds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Usain Bolt set the world record for the 100 meters at 9.58 seconds at the 2009 World Championships in Berlin. This record remains unbroken.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-5",
+      "question": "In the high jump, what technique do most modern jumpers use?",
+      "options": [
+        "The straddle",
+        "The Fosbury Flop",
+        "The Western roll",
+        "The scissor kick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Fosbury Flop, pioneered by Dick Fosbury at the 1968 Olympics, involves jumping headfirst with the back facing the bar. It revolutionized the high jump and is now the dominant technique.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-6",
+      "question": "What is a 'relay' in track and field?",
+      "options": [
+        "A race where team members take turns running segments and passing a baton",
+        "Running back and forth on the track",
+        "A long-distance race",
+        "A hurdle race with teams"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A relay race is a team event where four runners each run a portion of the total distance and pass a baton to the next runner. The most common relays are the 4x100m and 4x400m.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-7",
+      "question": "What is the longest standard track race in the Olympics?",
+      "options": [
+        "5,000 meters",
+        "50km race walk",
+        "Marathon",
+        "10,000 meters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The marathon at 42.195 km (26.2 miles) is the longest standard running race in the Olympics. The 50km race walk was removed from the Olympic program after 2020.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-8",
+      "question": "What is the pole vault?",
+      "options": [
+        "Climbing a pole for height",
+        "A hurdle race using poles",
+        "Throwing a pole for distance",
+        "Jumping over a high bar using a flexible pole"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The pole vault is a track and field event where athletes use a long, flexible pole to launch themselves over a high bar. The current men's world record is over 6.20 meters (20+ feet).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-9",
+      "question": "Which female sprinter is known as 'Flo-Jo' and set world records in the 100m and 200m?",
+      "options": [
+        "Evelyn Ashford",
+        "Florence Griffith Joyner",
+        "Gail Devers",
+        "Marion Jones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Florence Griffith Joyner, known as 'Flo-Jo,' set world records of 10.49 seconds (100m) and 21.34 seconds (200m) at the 1988 US Olympic Trials and Seoul Olympics. Both records still stand.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-10",
+      "question": "How many hurdles do runners clear in the 110 meters hurdles?",
+      "options": [
+        "8",
+        "12",
+        "10",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Runners clear 10 hurdles in the 110 meters hurdles (men) and 100 meters hurdles (women). The hurdles are 1.067 meters (3 feet 6 inches) high for men.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-11",
+      "question": "What is the triple jump?",
+      "options": [
+        "Three consecutive long jumps",
+        "Three attempts at the long jump",
+        "Jumping three obstacles",
+        "A hop, step (skip), and jump sequence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The triple jump consists of a hop, step (or skip), and jump performed in sequence from a running start. Athletes must land on the same foot they take off from for the hop phase.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-12",
+      "question": "Which Jamaican sprinter won the 'triple-triple' — gold in 100m, 200m, and 4x100m at three consecutive Olympics?",
+      "options": [
+        "Asafa Powell",
+        "Shelly-Ann Fraser-Pryce",
+        "Yohan Blake",
+        "Usain Bolt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Usain Bolt won gold in the 100m, 200m, and 4x100m relay at the 2008, 2012, and 2016 Olympics (though his 2008 relay gold was later stripped due to a teammate's doping violation).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-13",
+      "question": "What is a 'photo finish' in track and field?",
+      "options": [
+        "When cameras capture the start of a race",
+        "When athletes pose for photos after a race",
+        "When fans take photos at the finish line",
+        "When the race result must be determined by examining a high-speed photograph"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A photo finish occurs when runners cross the finish line so close together that the naked eye cannot determine the winner, requiring a high-speed camera image to decide the result.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-14",
+      "question": "What is the steeplechase in track and field?",
+      "options": [
+        "A 3,000m race with barriers and water jumps",
+        "A cross-country running event",
+        "A horse race",
+        "A 400m hurdle race"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The steeplechase is a 3,000-meter race in which athletes must clear 28 barriers and 7 water jumps. The name comes from horse racing over natural obstacles between church steeples.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "track-and-field-quiz-15",
+      "question": "Which athlete won four gold medals at the 1936 Berlin Olympics in track and field?",
+      "options": [
+        "Jesse Owens",
+        "Paavo Nurmi",
+        "Emil Zatopek",
+        "Carl Lewis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jesse Owens won four gold medals at the 1936 Berlin Olympics in the 100m, 200m, long jump, and 4x100m relay, defying Nazi ideology about racial superiority.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

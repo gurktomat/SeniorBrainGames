@@ -7,8 +7,13 @@
     {
       "id": "myth-1",
       "question": "In Greek mythology, who was the king of the gods?",
-      "options": ["Poseidon", "Hades", "Zeus", "Apollo"],
-      "correctAnswer": 2,
+      "options": [
+        "Poseidon",
+        "Zeus",
+        "Apollo",
+        "Hades"
+      ],
+      "correctAnswer": 1,
       "explanation": "Zeus was king of the Olympian gods, ruling from Mount Olympus. He was the god of the sky, lightning, and thunder, and was the youngest son of the Titans Cronus and Rhea.",
       "difficulty": "easy",
       "category": "mythology"
@@ -16,7 +21,12 @@
     {
       "id": "myth-2",
       "question": "In Norse mythology, what is the name of the great tree that connects the nine worlds?",
-      "options": ["Bifrost", "Yggdrasil", "Valhalla", "Asgard"],
+      "options": [
+        "Bifrost",
+        "Yggdrasil",
+        "Valhalla",
+        "Asgard"
+      ],
       "correctAnswer": 1,
       "explanation": "Yggdrasil is an immense ash tree at the center of Norse cosmology. Its branches extend into the heavens and its three roots connect to different realms.",
       "difficulty": "medium",
@@ -25,7 +35,12 @@
     {
       "id": "myth-3",
       "question": "Which ancient Egyptian god had the head of a jackal and was associated with mummification?",
-      "options": ["Ra", "Osiris", "Horus", "Anubis"],
+      "options": [
+        "Ra",
+        "Osiris",
+        "Horus",
+        "Anubis"
+      ],
       "correctAnswer": 3,
       "explanation": "Anubis, depicted with a jackal head, was the Egyptian god of embalming and the dead. He guided souls to the afterlife and oversaw the weighing of the heart ceremony.",
       "difficulty": "medium",
@@ -34,7 +49,12 @@
     {
       "id": "myth-4",
       "question": "What is the holiest city in Islam?",
-      "options": ["Medina", "Jerusalem", "Mecca", "Cairo"],
+      "options": [
+        "Cairo",
+        "Medina",
+        "Mecca",
+        "Jerusalem"
+      ],
       "correctAnswer": 2,
       "explanation": "Mecca (Makkah) in Saudi Arabia is the holiest city in Islam. It is the birthplace of the Prophet Muhammad and home to the Kaaba, toward which Muslims pray five times daily.",
       "difficulty": "easy",
@@ -43,8 +63,13 @@
     {
       "id": "myth-5",
       "question": "In Hindu mythology, who is known as the 'Preserver' in the holy trinity (Trimurti)?",
-      "options": ["Brahma", "Vishnu", "Shiva", "Ganesha"],
-      "correctAnswer": 1,
+      "options": [
+        "Vishnu",
+        "Ganesha",
+        "Brahma",
+        "Shiva"
+      ],
+      "correctAnswer": 0,
       "explanation": "Vishnu is the Preserver in the Hindu Trimurti. Brahma is the Creator and Shiva is the Destroyer. Vishnu is believed to have incarnated on Earth multiple times, including as Rama and Krishna.",
       "difficulty": "medium",
       "category": "religion"
@@ -52,8 +77,13 @@
     {
       "id": "myth-6",
       "question": "In Greek mythology, what creature had the body of a lion, the head of a human, and asked riddles?",
-      "options": ["Minotaur", "Sphinx", "Centaur", "Griffin"],
-      "correctAnswer": 1,
+      "options": [
+        "Sphinx",
+        "Minotaur",
+        "Griffin",
+        "Centaur"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Sphinx guarded the entrance to Thebes and asked travelers a famous riddle: 'What walks on four legs in the morning, two at noon, and three in the evening?' The answer is a human.",
       "difficulty": "easy",
       "category": "mythology"
@@ -61,8 +91,13 @@
     {
       "id": "myth-7",
       "question": "What is the name of the Buddhist concept of the cycle of birth, death, and rebirth?",
-      "options": ["Karma", "Nirvana", "Samsara", "Dharma"],
-      "correctAnswer": 2,
+      "options": [
+        "Samsara",
+        "Nirvana",
+        "Dharma",
+        "Karma"
+      ],
+      "correctAnswer": 0,
       "explanation": "Samsara is the continuous cycle of birth, death, and rebirth in Buddhism and Hinduism. The ultimate goal in Buddhism is to escape this cycle by achieving Nirvana.",
       "difficulty": "medium",
       "category": "religion"
@@ -70,8 +105,13 @@
     {
       "id": "myth-8",
       "question": "In Norse mythology, what is the name of the great hall where fallen warriors are taken?",
-      "options": ["Midgard", "Jotunheim", "Valhalla", "Alfheim"],
-      "correctAnswer": 2,
+      "options": [
+        "Alfheim",
+        "Midgard",
+        "Jotunheim",
+        "Valhalla"
+      ],
+      "correctAnswer": 3,
       "explanation": "Valhalla is the great hall in Asgard where Odin receives half of those who die in battle. The warriors feast and train there until Ragnarok, the end of the world.",
       "difficulty": "easy",
       "category": "mythology"
@@ -79,8 +119,13 @@
     {
       "id": "myth-9",
       "question": "The Torah is the central holy text of which religion?",
-      "options": ["Christianity", "Islam", "Judaism", "Hinduism"],
-      "correctAnswer": 2,
+      "options": [
+        "Christianity",
+        "Hinduism",
+        "Islam",
+        "Judaism"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Torah is the most important text in Judaism, consisting of the five books of Moses (Genesis, Exodus, Leviticus, Numbers, and Deuteronomy). It is also known as the Pentateuch.",
       "difficulty": "easy",
       "category": "religion"
@@ -88,8 +133,13 @@
     {
       "id": "myth-10",
       "question": "Who was the Greek god of the sea?",
-      "options": ["Ares", "Hermes", "Poseidon", "Hephaestus"],
-      "correctAnswer": 2,
+      "options": [
+        "Poseidon",
+        "Hephaestus",
+        "Hermes",
+        "Ares"
+      ],
+      "correctAnswer": 0,
       "explanation": "Poseidon was the Greek god of the sea, earthquakes, and horses. He was the brother of Zeus and Hades, and wielded a powerful trident.",
       "difficulty": "easy",
       "category": "mythology"
@@ -97,8 +147,13 @@
     {
       "id": "myth-11",
       "question": "In Egyptian mythology, which god was the ruler of the underworld?",
-      "options": ["Set", "Thoth", "Osiris", "Ra"],
-      "correctAnswer": 2,
+      "options": [
+        "Osiris",
+        "Ra",
+        "Set",
+        "Thoth"
+      ],
+      "correctAnswer": 0,
       "explanation": "Osiris became ruler of the underworld after being killed by his brother Set and resurrected by his wife Isis. He judged the souls of the dead in the afterlife.",
       "difficulty": "medium",
       "category": "mythology"
@@ -106,8 +161,13 @@
     {
       "id": "myth-12",
       "question": "What is the Eightfold Path associated with?",
-      "options": ["Hinduism", "Buddhism", "Taoism", "Sikhism"],
-      "correctAnswer": 1,
+      "options": [
+        "Hinduism",
+        "Sikhism",
+        "Buddhism",
+        "Taoism"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Noble Eightfold Path is a core teaching of Buddhism, laid out by the Buddha as the way to end suffering. It includes right view, right intention, right speech, right action, and more.",
       "difficulty": "medium",
       "category": "religion"
@@ -115,8 +175,13 @@
     {
       "id": "myth-13",
       "question": "In Greek mythology, who flew too close to the sun with wings made of feathers and wax?",
-      "options": ["Perseus", "Icarus", "Daedalus", "Theseus"],
-      "correctAnswer": 1,
+      "options": [
+        "Perseus",
+        "Daedalus",
+        "Icarus",
+        "Theseus"
+      ],
+      "correctAnswer": 2,
       "explanation": "Icarus ignored his father Daedalus's warning and flew too close to the sun. The wax holding his feathers together melted, and he fell into the sea and drowned.",
       "difficulty": "easy",
       "category": "mythology"
@@ -124,8 +189,13 @@
     {
       "id": "myth-14",
       "question": "The Five Pillars are the fundamental practices of which religion?",
-      "options": ["Judaism", "Hinduism", "Buddhism", "Islam"],
-      "correctAnswer": 3,
+      "options": [
+        "Buddhism",
+        "Islam",
+        "Hinduism",
+        "Judaism"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Five Pillars of Islam are: Shahada (faith), Salat (prayer), Zakat (charity), Sawm (fasting during Ramadan), and Hajj (pilgrimage to Mecca).",
       "difficulty": "easy",
       "category": "religion"
@@ -133,8 +203,13 @@
     {
       "id": "myth-15",
       "question": "In Norse mythology, what event marks the end of the world and the death of many gods?",
-      "options": ["Ragnarok", "The Bifrost Collapse", "Fenrir's Release", "The Great Winter"],
-      "correctAnswer": 0,
+      "options": [
+        "Fenrir's Release",
+        "The Great Winter",
+        "The Bifrost Collapse",
+        "Ragnarok"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ragnarok is the prophesied apocalypse in Norse mythology — a great battle leading to the death of major gods including Odin, Thor, and Loki, followed by the world's renewal.",
       "difficulty": "medium",
       "category": "mythology"
@@ -142,8 +217,13 @@
     {
       "id": "myth-16",
       "question": "Ganesha, the elephant-headed god, is a deity in which religion?",
-      "options": ["Buddhism", "Jainism", "Hinduism", "Sikhism"],
-      "correctAnswer": 2,
+      "options": [
+        "Sikhism",
+        "Hinduism",
+        "Jainism",
+        "Buddhism"
+      ],
+      "correctAnswer": 1,
       "explanation": "Ganesha is one of the most widely worshipped Hindu deities. Known as the remover of obstacles and the god of beginnings, he is recognizable by his elephant head.",
       "difficulty": "easy",
       "category": "religion"
@@ -151,8 +231,13 @@
     {
       "id": "myth-17",
       "question": "In Greek mythology, what did Prometheus steal from the gods to give to humanity?",
-      "options": ["Ambrosia", "Knowledge", "Fire", "Immortality"],
-      "correctAnswer": 2,
+      "options": [
+        "Immortality",
+        "Fire",
+        "Ambrosia",
+        "Knowledge"
+      ],
+      "correctAnswer": 1,
       "explanation": "Prometheus stole fire from Mount Olympus and gave it to humankind. As punishment, Zeus chained him to a rock where an eagle ate his liver daily, only for it to regrow each night.",
       "difficulty": "easy",
       "category": "mythology"
@@ -160,8 +245,13 @@
     {
       "id": "myth-18",
       "question": "The Tao Te Ching is the foundational text of which philosophy/religion?",
-      "options": ["Confucianism", "Shinto", "Taoism", "Buddhism"],
-      "correctAnswer": 2,
+      "options": [
+        "Taoism",
+        "Buddhism",
+        "Shinto",
+        "Confucianism"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Tao Te Ching, attributed to Lao Tzu, is the foundational text of Taoism. Written around the 6th century BCE, it explores the Tao (the Way) as the fundamental nature of the universe.",
       "difficulty": "medium",
       "category": "religion"
@@ -169,8 +259,13 @@
     {
       "id": "myth-19",
       "question": "In Roman mythology, who is the equivalent of the Greek god Zeus?",
-      "options": ["Mars", "Neptune", "Jupiter", "Mercury"],
-      "correctAnswer": 2,
+      "options": [
+        "Neptune",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jupiter is the Roman equivalent of Zeus — king of the gods, god of the sky and thunder. The planet Jupiter was named after him because it is the largest in our solar system.",
       "difficulty": "easy",
       "category": "mythology"
@@ -178,8 +273,13 @@
     {
       "id": "myth-20",
       "question": "What is the name of the Hindu festival of lights?",
-      "options": ["Holi", "Diwali", "Navratri", "Pongal"],
-      "correctAnswer": 1,
+      "options": [
+        "Diwali",
+        "Holi",
+        "Pongal",
+        "Navratri"
+      ],
+      "correctAnswer": 0,
       "explanation": "Diwali (Deepavali) is the Hindu festival of lights, celebrated over five days. It symbolizes the victory of light over darkness and good over evil, with homes decorated with oil lamps and candles.",
       "difficulty": "easy",
       "category": "religion"

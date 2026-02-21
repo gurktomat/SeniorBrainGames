@@ -1,0 +1,173 @@
+{
+  "id": "orchestra-instruments-quiz",
+  "title": "Orchestra Instruments Quiz",
+  "description": "Test your recall of orchestra instruments and their families",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "orchestra-instruments-quiz-1",
+      "question": "Which instrument family does the oboe belong to?",
+      "options": [
+        "Woodwind",
+        "Percussion",
+        "String",
+        "Brass"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "orchestra-instruments-quiz-2",
+      "question": "How many strings does a standard violin have?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "orchestra-instruments-quiz-3",
+      "question": "Which brass instrument uses a slide instead of valves?",
+      "options": [
+        "Trombone",
+        "Trumpet",
+        "Tuba",
+        "French Horn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "orchestra-instruments-quiz-4",
+      "question": "What is the largest instrument in the string family of a standard orchestra?",
+      "options": [
+        "Cello",
+        "Viola",
+        "Double Bass",
+        "Harp"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "orchestra-instruments-quiz-5",
+      "question": "Which percussion instrument consists of a set of tuned metal bars?",
+      "options": [
+        "Glockenspiel",
+        "Timpani",
+        "Xylophone",
+        "Snare Drum"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "orchestra-instruments-quiz-6",
+      "question": "The piccolo is a smaller, higher-pitched version of which instrument?",
+      "options": [
+        "Bassoon",
+        "Flute",
+        "Oboe",
+        "Clarinet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "orchestra-instruments-quiz-7",
+      "question": "Which instrument is typically played by the concertmaster of an orchestra?",
+      "options": [
+        "Cello",
+        "Violin",
+        "Viola",
+        "Flute"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "orchestra-instruments-quiz-8",
+      "question": "The timpani are also known by what name?",
+      "options": [
+        "Bass Drums",
+        "Tom-toms",
+        "Snare Drums",
+        "Kettledrums"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "orchestra-instruments-quiz-9",
+      "question": "Which woodwind instrument has a single reed?",
+      "options": [
+        "Clarinet",
+        "Oboe",
+        "Bassoon",
+        "Flute"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "orchestra-instruments-quiz-10",
+      "question": "What is the French horn made of?",
+      "options": [
+        "Copper",
+        "Silver",
+        "Brass",
+        "Wood"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "orchestra-instruments-quiz-11",
+      "question": "Which instrument has the lowest pitch in a standard orchestra?",
+      "options": [
+        "Double Bass",
+        "Bass Trombone",
+        "Tuba",
+        "Contrabassoon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "orchestra-instruments-quiz-12",
+      "question": "How many pedals does a concert harp typically have?",
+      "options": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "orchestra-instruments-quiz-13",
+      "question": "Which instrument family sits at the back of the orchestra?",
+      "options": [
+        "Strings",
+        "Brass",
+        "Woodwinds",
+        "Percussion"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "orchestra-instruments-quiz-14",
+      "question": "The English horn is actually a type of which instrument?",
+      "options": [
+        "Clarinet",
+        "French Horn",
+        "Trumpet",
+        "Oboe"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "orchestra-instruments-quiz-15",
+      "question": "Which instrument does the orchestra tune to before a performance?",
+      "options": [
+        "Oboe",
+        "Flute",
+        "Piano",
+        "Violin"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

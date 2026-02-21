@@ -1,0 +1,173 @@
+{
+  "id": "olympic-sports-quiz",
+  "title": "Olympic Sports Quiz",
+  "description": "How well do you recall Olympic sports, events, and memorable moments?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "olympic-sports-quiz-1",
+      "question": "The modern Olympic Games were revived in 1896 in which city?",
+      "options": [
+        "Athens",
+        "Paris",
+        "Rome",
+        "London"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "olympic-sports-quiz-2",
+      "question": "How many rings are on the Olympic flag?",
+      "options": [
+        "Five",
+        "Three",
+        "Six",
+        "Four"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "olympic-sports-quiz-3",
+      "question": "Which sport was added to the Olympics in 2020 (held 2021) for the first time, featuring tricks on ramps?",
+      "options": [
+        "Rock climbing",
+        "Surfing",
+        "Skateboarding",
+        "Breakdancing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "olympic-sports-quiz-4",
+      "question": "The decathlon consists of how many track and field events?",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "10"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "olympic-sports-quiz-5",
+      "question": "Which swimmer holds the record for the most Olympic gold medals of all time?",
+      "options": [
+        "Ian Thorpe",
+        "Mark Spitz",
+        "Ryan Lochte",
+        "Michael Phelps"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "olympic-sports-quiz-6",
+      "question": "The Winter Olympics feature the biathlon, which combines cross-country skiing with what other activity?",
+      "options": [
+        "Ice skating",
+        "Ski jumping",
+        "Rifle shooting",
+        "Snowboarding"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "olympic-sports-quiz-7",
+      "question": "Jesse Owens won four gold medals at the 1936 Olympics held in which city?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "London",
+        "Amsterdam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "olympic-sports-quiz-8",
+      "question": "Which gymnastics event involves a vaulting table that athletes run toward and launch off of?",
+      "options": [
+        "Balance beam",
+        "Floor exercise",
+        "Vault",
+        "Uneven bars"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "olympic-sports-quiz-9",
+      "question": "Usain Bolt, the fastest man in Olympic history, competed for which country?",
+      "options": [
+        "Trinidad and Tobago",
+        "United States",
+        "Bahamas",
+        "Jamaica"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "olympic-sports-quiz-10",
+      "question": "Which winter sport involves sliding headfirst down an icy track on a small sled?",
+      "options": [
+        "Luge",
+        "Bobsled",
+        "Skeleton",
+        "Curling"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "olympic-sports-quiz-11",
+      "question": "The Olympic motto 'Citius, Altius, Fortius' translates to what in English?",
+      "options": [
+        "Mind, Body, Spirit",
+        "Faster, Higher, Stronger",
+        "Peace, Unity, Friendship",
+        "Honor, Courage, Victory"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "olympic-sports-quiz-12",
+      "question": "Fencing at the Olympics includes three weapons. Which is NOT one of them?",
+      "options": [
+        "Foil",
+        "Epee",
+        "Saber",
+        "Rapier"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "olympic-sports-quiz-13",
+      "question": "The marathon race distance of 26.2 miles commemorates a run from Marathon to which ancient city?",
+      "options": [
+        "Athens",
+        "Corinth",
+        "Sparta",
+        "Thebes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "olympic-sports-quiz-14",
+      "question": "Which team sport played in a pool has been an Olympic event since 1900?",
+      "options": [
+        "Synchronized swimming",
+        "Canoe polo",
+        "Water polo",
+        "Diving"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "olympic-sports-quiz-15",
+      "question": "Nadia Comaneci made history in 1976 by scoring the first perfect 10 in Olympic gymnastics. She represented which country?",
+      "options": [
+        "Soviet Union",
+        "Hungary",
+        "Bulgaria",
+        "Romania"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "satire-parody-quiz",
+  "title": "Satire & Parody Quiz",
+  "description": "Explore the witty world of satire and parody in literature, from Jonathan Swift to modern comedy",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "satire-parody-quiz-1",
+      "question": "What is 'satire' in literature?",
+      "options": [
+        "A poem written in iambic pentameter",
+        "The use of humor, irony, or exaggeration to criticize or mock human vices and institutions",
+        "A story about mythological creatures",
+        "A love story with a twist ending"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satire-parody-quiz-2",
+      "question": "What is 'parody'?",
+      "options": [
+        "A serious literary analysis",
+        "An imitation of a specific work, author, or genre for comedic or critical effect",
+        "A type of tragic drama",
+        "A poem about nature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satire-parody-quiz-3",
+      "question": "How does satire differ from parody?",
+      "options": [
+        "Satire criticizes broader social issues; parody specifically imitates a particular work or style",
+        "They are exactly the same thing",
+        "Parody is always written; satire is always spoken",
+        "Satire is always funny; parody never is"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-4",
+      "question": "Jonathan Swift's 'A Modest Proposal,' which ironically suggests eating children to solve poverty, is a famous example of:",
+      "options": [
+        "Epic poetry",
+        "Romance",
+        "Satire",
+        "Parody"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satire-parody-quiz-5",
+      "question": "What are the two main types of satire named after Roman poets?",
+      "options": [
+        "Horatian and Juvenalian",
+        "Virgilian and Ovidian",
+        "Catullan and Lucretian",
+        "Ciceronian and Plinian"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-6",
+      "question": "Horatian satire is characterized by:",
+      "options": [
+        "Gentle, humorous, and tolerant mockery",
+        "No humor at all",
+        "Only targeting political figures",
+        "Harsh, bitter, and angry criticism"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-7",
+      "question": "Juvenalian satire is characterized by:",
+      "options": [
+        "Harsh, biting, and contemptuous criticism of vice and corruption",
+        "Only targeting children's literature",
+        "Lighthearted and playful humor",
+        "Celebrating human virtues"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-8",
+      "question": "George Orwell's 'Animal Farm' is a satire of:",
+      "options": [
+        "American democracy",
+        "The British monarchy",
+        "Farming practices in England",
+        "The Russian Revolution and Stalinism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "satire-parody-quiz-9",
+      "question": "What literary technique does satire frequently employ to make its criticisms more effective?",
+      "options": [
+        "Academic citations",
+        "Strict factual reporting",
+        "Irony and exaggeration",
+        "Detailed footnotes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "satire-parody-quiz-10",
+      "question": "Don Quixote by Cervantes is considered a parody of which genre?",
+      "options": [
+        "Medieval chivalric romances",
+        "Greek tragedy",
+        "Gothic horror",
+        "Science fiction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-11",
+      "question": "What is a 'lampoon'?",
+      "options": [
+        "A harsh, personal satire directed at an individual",
+        "A type of lantern used in theater",
+        "A style of gentle comedy",
+        "A type of narrative poem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "satire-parody-quiz-12",
+      "question": "What is a 'burlesque' in the literary sense?",
+      "options": [
+        "A serious dramatic monologue",
+        "A humorous work that mocks a serious subject by treating it absurdly or treating a trivial subject grandly",
+        "A form of haiku",
+        "A type of striptease performance"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satire-parody-quiz-13",
+      "question": "Mark Twain's 'Adventures of Huckleberry Finn' uses satire primarily to criticize:",
+      "options": [
+        "The publishing industry",
+        "Racism and hypocrisy in American society",
+        "The education system",
+        "British colonialism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satire-parody-quiz-14",
+      "question": "What is 'pastiche'?",
+      "options": [
+        "A dramatic technique used in tragedies",
+        "A work that imitates the style of another work or artist as a respectful tribute, without mockery",
+        "A dish served at literary dinners",
+        "A type of satire aimed at politicians"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "satire-parody-quiz-15",
+      "question": "Voltaire's 'Candide' satirizes which philosophical idea?",
+      "options": [
+        "The philosophy of optimism, that 'all is for the best in the best of all possible worlds'",
+        "Democracy",
+        "The concept of free will",
+        "The theory of evolution"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

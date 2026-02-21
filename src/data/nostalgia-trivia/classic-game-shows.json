@@ -7,8 +7,13 @@
     {
       "id": "gameshow-1",
       "question": "Who was the original host of 'The Price Is Right' when it debuted on NBC in 1956?",
-      "options": ["Bob Barker", "Bill Cullen", "Monty Hall", "Art Linkletter"],
-      "correctAnswer": 1,
+      "options": [
+        "Monty Hall",
+        "Bob Barker",
+        "Art Linkletter",
+        "Bill Cullen"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bill Cullen hosted the original version of The Price Is Right from 1956 to 1965. Bob Barker became host of the more well-known CBS revival that premiered in 1972.",
       "difficulty": "hard",
       "category": "culture"
@@ -16,8 +21,13 @@
     {
       "id": "gameshow-2",
       "question": "On 'Jeopardy!', what must contestants phrase their responses in the form of?",
-      "options": ["A statement", "A question", "A complete sentence", "A definition"],
-      "correctAnswer": 1,
+      "options": [
+        "A complete sentence",
+        "A definition",
+        "A question",
+        "A statement"
+      ],
+      "correctAnswer": 2,
       "explanation": "The signature format of Jeopardy! requires contestants to phrase their responses in the form of a question, such as 'What is...' or 'Who is...'",
       "difficulty": "easy",
       "category": "culture"
@@ -25,8 +35,13 @@
     {
       "id": "gameshow-3",
       "question": "What phrase did Monty Hall's co-host Carol Merrill help showcase on 'Let's Make a Deal'?",
-      "options": ["The Big Deal", "Door Number One, Two, or Three", "The Showcase Showdown", "The Lightning Round"],
-      "correctAnswer": 1,
+      "options": [
+        "The Showcase Showdown",
+        "The Lightning Round",
+        "Door Number One, Two, or Three",
+        "The Big Deal"
+      ],
+      "correctAnswer": 2,
       "explanation": "Carol Merrill was the model who revealed what was behind the famous doors — Door Number One, Two, or Three — on Let's Make a Deal, which premiered in 1963.",
       "difficulty": "easy",
       "category": "culture"
@@ -34,7 +49,12 @@
     {
       "id": "gameshow-4",
       "question": "Who hosted 'Family Feud' when it originally premiered in 1976?",
-      "options": ["Ray Combs", "Richard Dawson", "Steve Harvey", "Louie Anderson"],
+      "options": [
+        "Ray Combs",
+        "Richard Dawson",
+        "Steve Harvey",
+        "Louie Anderson"
+      ],
       "correctAnswer": 1,
       "explanation": "Richard Dawson was the original host of Family Feud from 1976 to 1985. He was famously known for kissing female contestants on the show.",
       "difficulty": "easy",
@@ -43,7 +63,12 @@
     {
       "id": "gameshow-5",
       "question": "On 'Wheel of Fortune,' what does Vanna White do on the show?",
-      "options": ["Spins the wheel", "Reads the puzzles", "Turns the letters", "Announces the prizes"],
+      "options": [
+        "Spins the wheel",
+        "Reads the puzzles",
+        "Turns the letters",
+        "Announces the prizes"
+      ],
       "correctAnswer": 2,
       "explanation": "Vanna White has been turning (and later touching) the letters on the puzzle board on Wheel of Fortune since 1982, becoming one of the most recognizable figures on television.",
       "difficulty": "easy",
@@ -52,8 +77,13 @@
     {
       "id": "gameshow-6",
       "question": "Which game show featured a panel of celebrities trying to guess a contestant's unusual occupation?",
-      "options": ["To Tell the Truth", "I've Got a Secret", "What's My Line?", "The Match Game"],
-      "correctAnswer": 2,
+      "options": [
+        "To Tell the Truth",
+        "I've Got a Secret",
+        "The Match Game",
+        "What's My Line?"
+      ],
+      "correctAnswer": 3,
       "explanation": "What's My Line? (1950–1967) featured a panel of celebrities who asked yes-or-no questions to determine a contestant's occupation. It was one of the longest-running prime-time game shows of its era.",
       "difficulty": "medium",
       "category": "culture"
@@ -61,8 +91,13 @@
     {
       "id": "gameshow-7",
       "question": "On 'The Price Is Right' with Bob Barker, what was the final pricing game of each episode called?",
-      "options": ["The Final Bid", "The Showcase Showdown", "The Big Wheel", "The Showcase"],
-      "correctAnswer": 3,
+      "options": [
+        "The Showcase Showdown",
+        "The Showcase",
+        "The Big Wheel",
+        "The Final Bid"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Showcase was the final segment where the two winning contestants bid on elaborate prize packages. The Showcase Showdown (spinning the Big Wheel) determined who advanced to The Showcase.",
       "difficulty": "medium",
       "category": "culture"
@@ -70,8 +105,13 @@
     {
       "id": "gameshow-8",
       "question": "Which classic game show asked three contestants to claim the same identity, and a panel had to figure out who was real?",
-      "options": ["What's My Line?", "I've Got a Secret", "To Tell the Truth", "The Name's the Same"],
-      "correctAnswer": 2,
+      "options": [
+        "To Tell the Truth",
+        "The Name's the Same",
+        "What's My Line?",
+        "I've Got a Secret"
+      ],
+      "correctAnswer": 0,
       "explanation": "To Tell the Truth (1956–1968) featured three contestants all claiming to be the same person, with a celebrity panel trying to identify the real one. The host would say, 'Will the real ___ please stand up?'",
       "difficulty": "medium",
       "category": "culture"
@@ -79,8 +119,13 @@
     {
       "id": "gameshow-9",
       "question": "Who was the longtime host of 'Jeopardy!' from 1984 until his passing in 2020?",
-      "options": ["Regis Philbin", "Pat Sajak", "Alex Trebek", "Chuck Woolery"],
-      "correctAnswer": 2,
+      "options": [
+        "Regis Philbin",
+        "Alex Trebek",
+        "Chuck Woolery",
+        "Pat Sajak"
+      ],
+      "correctAnswer": 1,
       "explanation": "Alex Trebek hosted Jeopardy! for 37 seasons, from 1984 until his death in November 2020. He became synonymous with the show and is one of the most beloved game show hosts in television history.",
       "difficulty": "easy",
       "category": "culture"
@@ -88,8 +133,13 @@
     {
       "id": "gameshow-10",
       "question": "On 'Hollywood Squares,' what did a contestant have to do after a celebrity gave an answer?",
-      "options": ["Guess the celebrity's name", "Agree or disagree with the answer", "Ask a follow-up question", "Choose another celebrity"],
-      "correctAnswer": 1,
+      "options": [
+        "Ask a follow-up question",
+        "Guess the celebrity's name",
+        "Agree or disagree with the answer",
+        "Choose another celebrity"
+      ],
+      "correctAnswer": 2,
       "explanation": "On Hollywood Squares (1966–1981), contestants had to decide whether a celebrity's answer was correct or bluff by agreeing or disagreeing, essentially playing a tic-tac-toe strategy game.",
       "difficulty": "medium",
       "category": "culture"
@@ -97,7 +147,12 @@
     {
       "id": "gameshow-11",
       "question": "Which game show, hosted by Gene Rayburn, asked celebrities to fill in the blank in humorous sentences?",
-      "options": ["Password", "Hollywood Squares", "Match Game", "Tattletales"],
+      "options": [
+        "Password",
+        "Tattletales",
+        "Match Game",
+        "Hollywood Squares"
+      ],
       "correctAnswer": 2,
       "explanation": "Match Game (1962–1982) featured Gene Rayburn reading fill-in-the-blank sentences, often with risqué humor. Contestants tried to match answers with the celebrity panel for points.",
       "difficulty": "medium",
@@ -106,8 +161,13 @@
     {
       "id": "gameshow-12",
       "question": "On the original 'Password' hosted by Allen Ludden, how did players communicate the secret word to their partners?",
-      "options": ["By acting it out", "By drawing it", "By giving one-word clues", "By humming a tune"],
-      "correctAnswer": 2,
+      "options": [
+        "By giving one-word clues",
+        "By drawing it",
+        "By acting it out",
+        "By humming a tune"
+      ],
+      "correctAnswer": 0,
       "explanation": "On Password (1961–1975), players gave one-word clues to help their partners guess the secret password. Allen Ludden hosted the show, and his wife Betty White was a frequent celebrity guest.",
       "difficulty": "hard",
       "category": "culture"
@@ -115,8 +175,13 @@
     {
       "id": "gameshow-13",
       "question": "What was Bob Barker's famous sign-off line at the end of every episode of 'The Price Is Right'?",
-      "options": ["\"Good night, and good luck\"", "\"Help control the pet population — have your pets spayed or neutered\"", "\"Come on down!\"", "\"See you next time on The Price Is Right\""],
-      "correctAnswer": 1,
+      "options": [
+        "\"Come on down!\"",
+        "\"Good night, and good luck\"",
+        "\"Help control the pet population — have your pets spayed or neutered\"",
+        "\"See you next time on The Price Is Right\""
+      ],
+      "correctAnswer": 2,
       "explanation": "Bob Barker, a devoted animal rights activist, closed every episode with 'Help control the pet population — have your pets spayed or neutered.' He began using this sign-off in 1982.",
       "difficulty": "medium",
       "category": "culture"
@@ -124,8 +189,13 @@
     {
       "id": "gameshow-14",
       "question": "Which 1950s game show was at the center of a major cheating scandal, later depicted in the 1994 film 'Quiz Show'?",
-      "options": ["The $64,000 Question", "Twenty-One", "Dotto", "Tic-Tac-Dough"],
-      "correctAnswer": 1,
+      "options": [
+        "The $64,000 Question",
+        "Dotto",
+        "Tic-Tac-Dough",
+        "Twenty-One"
+      ],
+      "correctAnswer": 3,
       "explanation": "Twenty-One was the primary focus of the quiz show scandals. Contestant Charles Van Doren was secretly given answers in advance. The 1994 Robert Redford film 'Quiz Show' dramatized the scandal.",
       "difficulty": "hard",
       "category": "culture"
@@ -133,7 +203,12 @@
     {
       "id": "gameshow-15",
       "question": "Which game show host was known for saying 'Come on down! You're the next contestant on The Price Is Right!'?",
-      "options": ["Bob Barker", "Johnny Olson", "Rod Roddy", "Rich Fields"],
+      "options": [
+        "Rod Roddy",
+        "Johnny Olson",
+        "Bob Barker",
+        "Rich Fields"
+      ],
       "correctAnswer": 1,
       "explanation": "While Bob Barker hosted, it was actually announcer Johnny Olson who originated the famous 'Come on down!' catchphrase in 1972. Rod Roddy and Rich Fields later continued the tradition as announcers.",
       "difficulty": "hard",

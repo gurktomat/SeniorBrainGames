@@ -1,0 +1,173 @@
+{
+  "id": "racing-cars-quiz",
+  "title": "Racing Cars Quiz",
+  "description": "From Formula 1 to NASCAR, test your recall of the world of car racing",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "racing-cars-quiz-1",
+      "question": "Which Italian team has won the most Formula 1 Constructors' Championships?",
+      "options": [
+        "Williams",
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "racing-cars-quiz-2",
+      "question": "The Daytona 500 is a prestigious race in which American racing series?",
+      "options": [
+        "NHRA",
+        "NASCAR",
+        "IndyCar",
+        "IMSA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "racing-cars-quiz-3",
+      "question": "The 24 Hours of Le Mans is a famous endurance race held in which country?",
+      "options": [
+        "Belgium",
+        "France",
+        "Italy",
+        "Germany"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "racing-cars-quiz-4",
+      "question": "Which driver holds the record for the most Formula 1 World Championship titles with seven?",
+      "options": [
+        "Both Hamilton and Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Michael Schumacher"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "racing-cars-quiz-5",
+      "question": "The Indianapolis 500 race takes place at which famous track?",
+      "options": [
+        "Talladega Superspeedway",
+        "Daytona International Speedway",
+        "Charlotte Motor Speedway",
+        "Indianapolis Motor Speedway"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "racing-cars-quiz-6",
+      "question": "In Formula 1, what color is the flag waved to indicate the end of a race?",
+      "options": [
+        "Checkered (black and white)",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "racing-cars-quiz-7",
+      "question": "Which legendary race car driver was known as 'The King' in NASCAR?",
+      "options": [
+        "Jeff Gordon",
+        "Richard Petty",
+        "Jimmie Johnson",
+        "Dale Earnhardt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "racing-cars-quiz-8",
+      "question": "The Monte Carlo Rally is held annually in which small European country?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Luxembourg",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "racing-cars-quiz-9",
+      "question": "What does the term 'pole position' mean in motor racing?",
+      "options": [
+        "Last place on the grid",
+        "The first starting position",
+        "A penalty position",
+        "The pit crew area"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "racing-cars-quiz-10",
+      "question": "The Ford GT40 was built specifically to compete against which rival at Le Mans?",
+      "options": [
+        "Jaguar",
+        "Porsche",
+        "Mercedes",
+        "Ferrari"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "racing-cars-quiz-11",
+      "question": "Which Formula 1 circuit is famous for its street race through a principality on the French Riviera?",
+      "options": [
+        "Melbourne Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Singapore Grand Prix",
+        "Monaco Grand Prix"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "racing-cars-quiz-12",
+      "question": "Drag racing involves cars racing in a straight line over what standard distance?",
+      "options": [
+        "1 mile",
+        "1/2 mile",
+        "1/8 mile",
+        "1/4 mile"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "racing-cars-quiz-13",
+      "question": "Which Japanese manufacturer dominated the World Rally Championship in the 1990s with the Impreza?",
+      "options": [
+        "Mitsubishi",
+        "Honda",
+        "Toyota",
+        "Subaru"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "racing-cars-quiz-14",
+      "question": "The 'pit stop' in racing refers to what?",
+      "options": [
+        "A stop in the service area for fuel, tires, or repairs",
+        "A penalty area",
+        "The starting grid",
+        "A spectator viewing area"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "racing-cars-quiz-15",
+      "question": "Which Brazilian driver, who won three F1 World Championships, tragically died at the 1994 San Marino Grand Prix?",
+      "options": [
+        "Rubens Barrichello",
+        "Emerson Fittipaldi",
+        "Nelson Piquet",
+        "Ayrton Senna"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

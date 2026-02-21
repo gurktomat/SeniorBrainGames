@@ -8,54 +8,54 @@
       "id": "classic-rock-bands-1",
       "question": "Which British band released the album 'Dark Side of the Moon' in 1973?",
       "options": [
+        "The Who",
         "The Rolling Stones",
         "Led Zeppelin",
-        "Pink Floyd",
-        "The Who"
+        "Pink Floyd"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-rock-bands-2",
       "question": "Who was the lead singer of The Doors?",
       "options": [
-        "Robert Plant",
-        "Jim Morrison",
         "Roger Daltrey",
-        "Mick Jagger"
+        "Robert Plant",
+        "Mick Jagger",
+        "Jim Morrison"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-rock-bands-3",
       "question": "Which band is known for the iconic guitar riff in 'Smoke on the Water'?",
       "options": [
         "Black Sabbath",
+        "Aerosmith",
         "Deep Purple",
-        "AC/DC",
-        "Aerosmith"
+        "AC/DC"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-rock-bands-4",
       "question": "What was the name of The Beatles' final studio album, released in 1970?",
       "options": [
-        "Abbey Road",
-        "Let It Be",
+        "Revolver",
         "The White Album",
-        "Revolver"
+        "Let It Be",
+        "Abbey Road"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-rock-bands-5",
       "question": "Which band featured brothers Angus and Malcolm Young?",
       "options": [
+        "ZZ Top",
         "Van Halen",
-        "Def Leppard",
         "AC/DC",
-        "ZZ Top"
+        "Def Leppard"
       ],
       "correctAnswer": 2
     },
@@ -63,23 +63,23 @@
       "id": "classic-rock-bands-6",
       "question": "Who was the legendary guitarist of The Jimi Hendrix Experience?",
       "options": [
+        "Jeff Beck",
         "Eric Clapton",
         "Jimi Hendrix",
-        "Carlos Santana",
-        "Jeff Beck"
+        "Carlos Santana"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-rock-bands-7",
       "question": "Which Led Zeppelin song is considered one of the greatest rock songs ever and features a famous guitar solo?",
       "options": [
-        "Black Dog",
-        "Whole Lotta Love",
         "Stairway to Heaven",
-        "Kashmir"
+        "Black Dog",
+        "Kashmir",
+        "Whole Lotta Love"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-rock-bands-8",
@@ -87,51 +87,51 @@
       "options": [
         "The Rolling Stones",
         "Cream",
-        "Led Zeppelin",
-        "Fleetwood Mac"
+        "Fleetwood Mac",
+        "Led Zeppelin"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-rock-bands-9",
       "question": "What 1977 Fleetwood Mac album became one of the best-selling albums of all time?",
       "options": [
         "Tusk",
-        "Rumours",
         "Mirage",
-        "Tango in the Night"
+        "Tango in the Night",
+        "Rumours"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-rock-bands-10",
       "question": "Which band performed the classic song 'Bohemian Rhapsody'?",
       "options": [
         "Genesis",
-        "Queen",
         "Yes",
+        "Queen",
         "Supertramp"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-rock-bands-11",
       "question": "Who was the drummer for The Who, known for his wild on-stage antics?",
       "options": [
         "John Bonham",
+        "Bill Ward",
         "Ginger Baker",
-        "Keith Moon",
-        "Bill Ward"
+        "Keith Moon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-rock-bands-12",
       "question": "Which Rolling Stones song opens with the lyric 'I can't get no...'?",
       "options": [
-        "Jumpin' Jack Flash",
         "Paint It Black",
         "Sympathy for the Devil",
+        "Jumpin' Jack Flash",
         "(I Can't Get No) Satisfaction"
       ],
       "correctAnswer": 3
@@ -140,10 +140,10 @@
       "id": "classic-rock-bands-13",
       "question": "What city did The Eagles form in during 1971?",
       "options": [
+        "Nashville",
         "New York City",
-        "San Francisco",
         "Los Angeles",
-        "Nashville"
+        "San Francisco"
       ],
       "correctAnswer": 2
     },
@@ -152,22 +152,22 @@
       "question": "Which guitarist was known as 'Slowhand' and played with Cream and Derek and the Dominos?",
       "options": [
         "Jimmy Page",
-        "Pete Townshend",
         "Eric Clapton",
+        "Pete Townshend",
         "Keith Richards"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "classic-rock-bands-15",
       "question": "Which Creedence Clearwater Revival frontman wrote hits like 'Proud Mary' and 'Bad Moon Rising'?",
       "options": [
+        "Stu Cook",
         "Tom Fogerty",
         "John Fogerty",
-        "Stu Cook",
         "Doug Clifford"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

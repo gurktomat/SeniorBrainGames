@@ -1,0 +1,219 @@
+{
+  "id": "baking-science-quiz",
+  "title": "Baking Science",
+  "description": "Discover the science behind your favorite baked goods!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "baking-science-quiz-1",
+      "question": "What gas does yeast produce that makes bread rise?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Yeast ferments sugars in dough, producing carbon dioxide gas and alcohol. The CO2 gets trapped in the gluten network, causing the dough to rise.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-2",
+      "question": "What protein in flour gives bread its chewy, elastic texture?",
+      "options": [
+        "Gluten",
+        "Keratin",
+        "Albumin",
+        "Casein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gluten is formed when the proteins glutenin and gliadin in wheat flour combine with water and are kneaded. It creates an elastic network that traps gas and gives bread its structure.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-3",
+      "question": "What is the chemical leavening agent in baking soda?",
+      "options": [
+        "Potassium carbonate",
+        "Sodium bicarbonate",
+        "Calcium carbonate",
+        "Sodium chloride"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Baking soda is sodium bicarbonate. When combined with an acid (like buttermilk or lemon juice), it releases carbon dioxide, which makes baked goods rise.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-4",
+      "question": "What is the Maillard reaction in baking?",
+      "options": [
+        "The browning reaction between amino acids and sugars",
+        "Butter melting in dough",
+        "Yeast activation",
+        "Gluten development"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned foods their distinctive flavor and golden color, like bread crusts and cookies.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-5",
+      "question": "Why is cake flour typically used instead of bread flour for making tender cakes?",
+      "options": [
+        "It tastes sweeter",
+        "It contains baking powder",
+        "It is more expensive",
+        "It has less protein (less gluten formation)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cake flour has about 7-9% protein compared to bread flour's 12-14%. Less protein means less gluten development, resulting in a softer, more tender crumb in cakes.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-6",
+      "question": "What role do eggs play in baking?",
+      "options": [
+        "Provide structure, moisture, and leavening",
+        "Only add color",
+        "Only add flavor",
+        "Only act as a preservative"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eggs serve multiple functions in baking: the proteins provide structure, the fats add moisture and richness, and beaten eggs can incorporate air for leavening.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-7",
+      "question": "What happens when you 'proof' yeast?",
+      "options": [
+        "You test if the yeast is alive and active",
+        "You freeze the yeast",
+        "You grind the yeast into powder",
+        "You mix yeast with flour"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proofing yeast involves dissolving it in warm water with a small amount of sugar to test if it is still alive and active. Active yeast will bubble and foam within 5-10 minutes.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-8",
+      "question": "Why do recipes often call for room-temperature butter when making cookies?",
+      "options": [
+        "It melts faster in the oven",
+        "It has better flavor",
+        "It is easier to measure",
+        "It creams better with sugar, trapping air"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Room-temperature butter creams better with sugar, creating tiny air pockets that expand in the oven and help cookies rise. Cold butter won't incorporate air as effectively.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-9",
+      "question": "What is the difference between baking soda and baking powder?",
+      "options": [
+        "They are the same thing",
+        "Baking soda is stronger",
+        "Baking powder is natural, baking soda is synthetic",
+        "Baking powder contains baking soda plus an acid"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Baking powder contains baking soda plus a dry acid (like cream of tartar). It is 'self-contained' and only needs moisture to activate, while baking soda needs a separate acid.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-10",
+      "question": "Why is salt added to bread dough?",
+      "options": [
+        "It makes dough rise faster",
+        "Only for flavor",
+        "It prevents the dough from sticking",
+        "It strengthens gluten, controls fermentation, and adds flavor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Salt strengthens the gluten structure, controls yeast fermentation rate (preventing over-rising), and enhances flavor in bread dough.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-11",
+      "question": "What process occurs when sugar caramelizes?",
+      "options": [
+        "It breaks down and turns brown when heated above 320°F (160°C)",
+        "It crystallizes",
+        "It dissolves in water",
+        "It evaporates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Caramelization occurs when sugar is heated above 320°F (160°C). The sugar molecules break down and recombine, creating hundreds of new compounds that give caramel its complex flavor and brown color.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-12",
+      "question": "Why should pie dough be kept cold during preparation?",
+      "options": [
+        "To keep the butter solid for a flaky texture",
+        "To make it easier to handle",
+        "To enhance the flavor",
+        "To prevent bacteria growth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Keeping pie dough cold ensures the butter stays in solid pieces. When the dough bakes, these butter pieces melt and create steam, producing flaky, layered pastry.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-13",
+      "question": "What is a sourdough starter made from?",
+      "options": [
+        "Flour and water fermented with wild yeast",
+        "Vinegar and flour",
+        "Commercial yeast and water",
+        "Baking soda and flour"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A sourdough starter is a mixture of flour and water that captures wild yeast and lactic acid bacteria from the environment. It is fed regularly and can be maintained indefinitely.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-14",
+      "question": "Why do high-altitude bakers often need to adjust their recipes?",
+      "options": [
+        "Lower air pressure affects rising and boiling points",
+        "The flour is different at altitude",
+        "Water tastes different at altitude",
+        "The temperature is colder"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At high altitudes, lower air pressure causes gases to expand more (leading to over-rising) and water to boil at lower temperatures. Bakers often reduce leavening and increase liquid.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "baking-science-quiz-15",
+      "question": "What ingredient in meringue stabilizes the whipped egg whites?",
+      "options": [
+        "Flour",
+        "Milk",
+        "Sugar",
+        "Butter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sugar stabilizes meringue by dissolving into the egg white foam and strengthening the protein network. It helps the meringue hold its shape and creates a smooth, glossy texture.",
+      "difficulty": "easy",
+      "category": "food"
+    }
+  ]
+}

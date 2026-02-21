@@ -7,92 +7,167 @@
     {
       "id": "classic-swing-music-1",
       "question": "Which bandleader, known as the 'King of Swing,' popularized swing music with his clarinet playing and famous orchestra?",
-      "options": ["Glenn Miller", "Benny Goodman", "Duke Ellington", "Count Basie"],
-      "correctAnswer": 1
+      "options": [
+        "Benny Goodman",
+        "Glenn Miller",
+        "Count Basie",
+        "Duke Ellington"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-swing-music-2",
       "question": "Glenn Miller's signature tune, which became one of the best-selling records of its era, was called what?",
-      "options": ["Moonlight Serenade", "In the Mood", "Chattanooga Choo Choo", "A String of Pearls"],
-      "correctAnswer": 1
+      "options": [
+        "In the Mood",
+        "A String of Pearls",
+        "Chattanooga Choo Choo",
+        "Moonlight Serenade"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-swing-music-3",
       "question": "What famous Harlem venue, known for its house band led by Cab Calloway, was a centerpiece of the swing era?",
-      "options": ["Apollo Theater", "Savoy Ballroom", "Cotton Club", "Birdland"],
-      "correctAnswer": 2
+      "options": [
+        "Cotton Club",
+        "Birdland",
+        "Savoy Ballroom",
+        "Apollo Theater"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-swing-music-4",
       "question": "Which Duke Ellington composition became his orchestra's signature theme song?",
-      "options": ["Mood Indigo", "Take the 'A' Train", "It Don't Mean a Thing", "Sophisticated Lady"],
+      "options": [
+        "Mood Indigo",
+        "Take the 'A' Train",
+        "Sophisticated Lady",
+        "It Don't Mean a Thing"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-swing-music-5",
       "question": "What energetic partner dance became the most popular dance style during the swing era?",
-      "options": ["Foxtrot", "Waltz", "Lindy Hop", "Charleston"],
+      "options": [
+        "Charleston",
+        "Waltz",
+        "Lindy Hop",
+        "Foxtrot"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-swing-music-6",
       "question": "Which female vocalist, known as 'The First Lady of Song,' began her career winning a talent contest at the Apollo Theater in 1934?",
-      "options": ["Billie Holiday", "Ella Fitzgerald", "Sarah Vaughan", "Peggy Lee"],
-      "correctAnswer": 1
+      "options": [
+        "Ella Fitzgerald",
+        "Peggy Lee",
+        "Sarah Vaughan",
+        "Billie Holiday"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-swing-music-7",
       "question": "What year did Benny Goodman's legendary concert at Carnegie Hall take place, often called the most important jazz concert in history?",
-      "options": ["1935", "1938", "1941", "1944"],
-      "correctAnswer": 1
+      "options": [
+        "1944",
+        "1941",
+        "1938",
+        "1935"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-swing-music-8",
       "question": "Which Count Basie hit featured a driving rhythm and became one of his most recognizable recordings?",
-      "options": ["Jumpin' at the Woodside", "One O'Clock Jump", "April in Paris", "Lil' Darlin'"],
-      "correctAnswer": 1
+      "options": [
+        "April in Paris",
+        "Jumpin' at the Woodside",
+        "Lil' Darlin'",
+        "One O'Clock Jump"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-swing-music-9",
       "question": "What happened to Glenn Miller in December 1944 that shocked the music world?",
-      "options": ["He retired from music", "His plane disappeared over the English Channel", "He suffered a heart attack on stage", "He was injured in a car accident"],
+      "options": [
+        "He suffered a heart attack on stage",
+        "His plane disappeared over the English Channel",
+        "He retired from music",
+        "He was injured in a car accident"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-swing-music-10",
       "question": "Which Harlem ballroom, known as 'The Home of Happy Feet,' was famous for swing dancing and hosted battles of the bands?",
-      "options": ["Cotton Club", "Savoy Ballroom", "Apollo Theater", "Roseland Ballroom"],
+      "options": [
+        "Cotton Club",
+        "Savoy Ballroom",
+        "Apollo Theater",
+        "Roseland Ballroom"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-swing-music-11",
       "question": "Which vocalist got his start with the Tommy Dorsey Orchestra before launching a legendary solo career?",
-      "options": ["Bing Crosby", "Dean Martin", "Frank Sinatra", "Perry Como"],
+      "options": [
+        "Dean Martin",
+        "Bing Crosby",
+        "Frank Sinatra",
+        "Perry Como"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-swing-music-12",
       "question": "What instrument did Artie Shaw play, making him one of Benny Goodman's chief rivals as a bandleader?",
-      "options": ["Trumpet", "Saxophone", "Clarinet", "Trombone"],
+      "options": [
+        "Saxophone",
+        "Trumpet",
+        "Clarinet",
+        "Trombone"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-swing-music-13",
       "question": "The Andrews Sisters were famous for their tight harmonies on swing and boogie-woogie songs. What was their biggest hit?",
-      "options": ["Don't Sit Under the Apple Tree", "Boogie Woogie Bugle Boy", "Bei Mir Bist Du Schon", "Rum and Coca-Cola"],
-      "correctAnswer": 1
+      "options": [
+        "Don't Sit Under the Apple Tree",
+        "Bei Mir Bist Du Schon",
+        "Rum and Coca-Cola",
+        "Boogie Woogie Bugle Boy"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-swing-music-14",
       "question": "What was the name of the era roughly spanning 1935 to 1946 when swing music dominated American popular culture?",
-      "options": ["The Jazz Age", "The Swing Era", "The Big Band Era", "The Golden Age of Radio"],
-      "correctAnswer": 1
+      "options": [
+        "The Swing Era",
+        "The Big Band Era",
+        "The Jazz Age",
+        "The Golden Age of Radio"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-swing-music-15",
       "question": "Which bandleader was known for his theme song 'Let's Dance' and helped break racial barriers by featuring Black musicians in his integrated band?",
-      "options": ["Tommy Dorsey", "Benny Goodman", "Glenn Miller", "Harry James"],
-      "correctAnswer": 1
+      "options": [
+        "Harry James",
+        "Tommy Dorsey",
+        "Glenn Miller",
+        "Benny Goodman"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

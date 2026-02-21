@@ -1,0 +1,219 @@
+{
+  "id": "martial-arts-terminology",
+  "title": "Martial Arts Terminology",
+  "description": "Test your knowledge of terms used across martial arts disciplines!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "martial-arts-terminology-1",
+      "question": "In martial arts, what does 'dojo' mean?",
+      "options": [
+        "A meditation technique",
+        "A place for practicing martial arts",
+        "A type of martial arts uniform",
+        "A ranking system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dojo is a Japanese word meaning 'place of the way,' referring to a training hall or facility where martial arts are practiced and taught.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-2",
+      "question": "What does 'kata' refer to in martial arts?",
+      "options": [
+        "A sparring match",
+        "A type of weapon",
+        "A belt ceremony",
+        "A predefined sequence of movements practiced solo as a form"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kata is a detailed set of choreographed movements practiced solo, representing combat scenarios against imaginary opponents. It is central to karate, judo, and other Japanese martial arts.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-3",
+      "question": "In judo, what does 'ippon' mean?",
+      "options": [
+        "A minor score",
+        "The starting position",
+        "A warning for misconduct",
+        "A full point that wins the match immediately"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ippon is the highest score in judo, awarded for a perfectly executed throw, a 20-second pin, or a submission. An ippon immediately wins the match.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-4",
+      "question": "What is a 'gi' in martial arts?",
+      "options": [
+        "A form of greeting",
+        "A meditation posture",
+        "A type of kick",
+        "The traditional training uniform worn in many martial arts"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A gi (also called a do-gi or keiko-gi) is the traditional uniform worn in martial arts like karate, judo, and Brazilian jiu-jitsu, consisting of a jacket, pants, and belt.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-5",
+      "question": "In karate, what does 'sensei' mean?",
+      "options": [
+        "An advanced student",
+        "A type of kick",
+        "A teacher or instructor",
+        "A fighting style"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sensei literally means 'one who came before' in Japanese and is used as a title for a teacher, instructor, or mentor in martial arts and other Japanese disciplines.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-6",
+      "question": "What is 'sparring' in martial arts?",
+      "options": [
+        "The belt-ranking ceremony",
+        "A type of stretching exercise",
+        "A meditation technique",
+        "Controlled practice fighting between two partners"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sparring is a form of practice fighting where two martial artists engage in controlled combat, applying techniques in a dynamic setting while following safety rules.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-7",
+      "question": "In Brazilian jiu-jitsu, what is 'guard'?",
+      "options": [
+        "A ground position where the bottom fighter controls the top fighter using their legs",
+        "A referee's position",
+        "A standing defensive stance",
+        "A protective equipment piece"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Guard is a fundamental ground position in Brazilian jiu-jitsu where the bottom fighter uses their legs to control the opponent on top, creating opportunities for sweeps and submissions.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-8",
+      "question": "What does 'kiai' (or 'kihap') refer to in martial arts?",
+      "options": [
+        "A type of weapon",
+        "A breathing exercise",
+        "A short, loud shout executed during a technique to focus energy",
+        "A bowing ceremony"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A kiai is a short, sharp shout made when executing a technique, believed to focus energy (ki/chi), tighten the core muscles, and intimidate the opponent.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-9",
+      "question": "In taekwondo, what does 'dan' refer to?",
+      "options": [
+        "A black belt rank level",
+        "A type of kick",
+        "A training partner",
+        "A warm-up exercise"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dan refers to black belt ranking levels in many martial arts. A first dan (1st degree black belt) is the entry-level black belt, with higher dans representing greater mastery.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-10",
+      "question": "What is a 'roundhouse kick' in martial arts?",
+      "options": [
+        "A kick delivered while spinning in a complete circle",
+        "A kick aimed at the ground",
+        "A kick performed while lying down",
+        "A powerful circular kick where the leg swings in an arc to strike with the shin or foot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A roundhouse kick is a fundamental striking technique where the practitioner swings the leg in a circular arc, striking the target with the shin, instep, or ball of the foot.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-11",
+      "question": "In martial arts, what does 'submission' mean?",
+      "options": [
+        "Submitting a competition entry form",
+        "Bowing to the instructor",
+        "A technique that forces an opponent to yield by applying a lock or choke",
+        "Accepting defeat without fighting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A submission is a grappling technique (joint lock or chokehold) applied to force an opponent to concede defeat, typically indicated by tapping out (tapping the mat or opponent).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-12",
+      "question": "What is 'chi' (or 'ki' or 'qi') in martial arts philosophy?",
+      "options": [
+        "A fighting stance",
+        "The concept of internal life energy or vital force",
+        "A type of martial arts competition",
+        "A type of tea served at the dojo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chi (qi in Chinese, ki in Japanese) is the concept of internal life energy or vital force that flows through the body, central to many martial arts philosophies and techniques.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-13",
+      "question": "In kung fu, what does 'wushu' mean?",
+      "options": [
+        "A greeting between practitioners",
+        "A type of weapon",
+        "Martial arts or military arts",
+        "A meditation style"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wushu literally means 'martial arts' in Chinese (wu = martial/military, shu = art/skill). It is used to describe Chinese martial arts in general and also refers to a specific modern competitive sport.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-14",
+      "question": "What is a 'rear naked choke' in grappling?",
+      "options": [
+        "A submission hold applied from behind using the arms to compress the neck",
+        "A kick from behind",
+        "A standing chokehold",
+        "Choking while removing clothing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The rear naked choke is a submission hold applied from behind the opponent, using one arm around the neck and the other to secure it, compressing the carotid arteries. 'Naked' means no gi is used.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "martial-arts-terminology-15",
+      "question": "In martial arts, what does 'kumite' mean?",
+      "options": [
+        "A type of block",
+        "Free-style sparring or fighting in karate",
+        "A greeting ritual",
+        "An advanced kata"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kumite means 'grappling hands' and refers to sparring or free fighting in karate. It is one of the three main sections of karate training, alongside kata and kihon (basics).",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

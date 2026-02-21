@@ -7,91 +7,166 @@
     {
       "id": "famous-first-flights-1",
       "question": "The Wright brothers made their historic first powered flight on December 17, 1903, at which location?",
-      "options": ["Dayton, Ohio", "Kitty Hawk, North Carolina", "Cape Canaveral, Florida", "St. Louis, Missouri"],
-      "correctAnswer": 1
+      "options": [
+        "Dayton, Ohio",
+        "St. Louis, Missouri",
+        "Cape Canaveral, Florida",
+        "Kitty Hawk, North Carolina"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-first-flights-2",
       "question": "Charles Lindbergh made the first solo nonstop transatlantic flight in 1927 in a plane called what?",
-      "options": ["The Flyer", "Spirit of St. Louis", "The Enola Gay", "The Memphis Belle"],
-      "correctAnswer": 1
+      "options": [
+        "Spirit of St. Louis",
+        "The Flyer",
+        "The Enola Gay",
+        "The Memphis Belle"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-first-flights-3",
       "question": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean in which year?",
-      "options": ["1928", "1930", "1932", "1935"],
+      "options": [
+        "1935",
+        "1928",
+        "1932",
+        "1930"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-first-flights-4",
       "question": "The first successful hot air balloon flight carrying humans took place in 1783 in which city?",
-      "options": ["London", "Berlin", "Paris", "Rome"],
-      "correctAnswer": 2
+      "options": [
+        "Berlin",
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-first-flights-5",
       "question": "Chuck Yeager became the first person to break the sound barrier in 1947 flying which aircraft?",
-      "options": ["Bell X-1", "North American P-51", "Lockheed P-80", "Boeing B-29"],
-      "correctAnswer": 0
+      "options": [
+        "North American P-51",
+        "Lockheed P-80",
+        "Bell X-1",
+        "Boeing B-29"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-first-flights-6",
       "question": "The Concorde, a supersonic passenger airliner, was jointly developed by which two countries?",
-      "options": ["USA and UK", "France and Germany", "France and UK", "UK and Germany"],
-      "correctAnswer": 2
+      "options": [
+        "France and Germany",
+        "USA and UK",
+        "UK and Germany",
+        "France and UK"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-first-flights-7",
       "question": "Who is credited with designing and flying the first successful glider in the 1890s, earning the title 'Glider King'?",
-      "options": ["Samuel Langley", "Otto Lilienthal", "Octave Chanute", "George Cayley"],
-      "correctAnswer": 1
+      "options": [
+        "Otto Lilienthal",
+        "Octave Chanute",
+        "George Cayley",
+        "Samuel Langley"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-first-flights-8",
       "question": "The Boeing 747, which revolutionized air travel as the first wide-body commercial airliner, made its first flight in which year?",
-      "options": ["1965", "1967", "1969", "1971"],
-      "correctAnswer": 2
+      "options": [
+        "1969",
+        "1967",
+        "1965",
+        "1971"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-first-flights-9",
       "question": "Which aviator made the first successful flight across the English Channel in 1909?",
-      "options": ["Louis Blériot", "Henri Farman", "Alberto Santos-Dumont", "Glenn Curtiss"],
-      "correctAnswer": 0
+      "options": [
+        "Henri Farman",
+        "Alberto Santos-Dumont",
+        "Glenn Curtiss",
+        "Louis Blériot"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-first-flights-10",
       "question": "The first nonstop flight around the world without refueling was completed in 1986 by the aircraft named what?",
-      "options": ["Spirit of Freedom", "Voyager", "GlobalFlyer", "Breitling Orbiter"],
+      "options": [
+        "Breitling Orbiter",
+        "Voyager",
+        "GlobalFlyer",
+        "Spirit of Freedom"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-first-flights-11",
       "question": "Yuri Gagarin became the first human in space in 1961. What was the name of his spacecraft?",
-      "options": ["Sputnik 1", "Vostok 1", "Mercury 1", "Gemini 1"],
+      "options": [
+        "Mercury 1",
+        "Vostok 1",
+        "Sputnik 1",
+        "Gemini 1"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-first-flights-12",
       "question": "The Montgolfier brothers, who invented the hot air balloon, were from which country?",
-      "options": ["Italy", "England", "France", "Spain"],
+      "options": [
+        "Spain",
+        "England",
+        "France",
+        "Italy"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-first-flights-13",
       "question": "The Wright brothers' first powered flight at Kitty Hawk lasted approximately how long?",
-      "options": ["12 seconds", "30 seconds", "1 minute", "5 minutes"],
-      "correctAnswer": 0
+      "options": [
+        "1 minute",
+        "12 seconds",
+        "5 minutes",
+        "30 seconds"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-first-flights-14",
       "question": "Bessie Coleman was the first African American woman to earn a pilot's license. In which country did she receive her training?",
-      "options": ["United States", "England", "France", "Canada"],
-      "correctAnswer": 2
+      "options": [
+        "United States",
+        "England",
+        "Canada",
+        "France"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-first-flights-15",
       "question": "The first commercial jet airliner to enter regular service was the de Havilland Comet, built in which country?",
-      "options": ["United States", "France", "United Kingdom", "Germany"],
+      "options": [
+        "United States",
+        "France",
+        "United Kingdom",
+        "Germany"
+      ],
       "correctAnswer": 2
     }
   ]

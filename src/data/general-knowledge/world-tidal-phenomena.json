@@ -7,92 +7,167 @@
     {
       "id": "world-tidal-phenomena-1",
       "question": "The Bay of Fundy, which has the highest tides in the world, is located between which two Canadian provinces?",
-      "options": ["Ontario and Quebec", "Nova Scotia and New Brunswick", "Prince Edward Island and Newfoundland", "British Columbia and Alberta"],
+      "options": [
+        "Prince Edward Island and Newfoundland",
+        "Nova Scotia and New Brunswick",
+        "British Columbia and Alberta",
+        "Ontario and Quebec"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-tidal-phenomena-2",
       "question": "What primarily causes ocean tides?",
-      "options": ["Wind patterns", "Ocean currents", "Gravitational pull of the Moon and Sun", "Earth's rotation alone"],
-      "correctAnswer": 2
+      "options": [
+        "Earth's rotation alone",
+        "Gravitational pull of the Moon and Sun",
+        "Wind patterns",
+        "Ocean currents"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-tidal-phenomena-3",
       "question": "What is a tidal bore?",
-      "options": ["A whirlpool caused by tides", "A wave that travels up a river against the current during incoming tide", "A gap between two tidal pools", "An underwater tidal cave"],
-      "correctAnswer": 1
+      "options": [
+        "An underwater tidal cave",
+        "A gap between two tidal pools",
+        "A whirlpool caused by tides",
+        "A wave that travels up a river against the current during incoming tide"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-tidal-phenomena-4",
       "question": "The Qiantang River in China is famous for having one of the world's largest tidal bores. What is it called?",
-      "options": ["The Dragon Wave", "The Silver Dragon", "The River Surge", "The Tidal Dragon"],
-      "correctAnswer": 1
+      "options": [
+        "The River Surge",
+        "The Dragon Wave",
+        "The Silver Dragon",
+        "The Tidal Dragon"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-tidal-phenomena-5",
       "question": "Mont Saint-Michel in France becomes an island during high tide. What is it famous for being?",
-      "options": ["A fishing village", "A medieval abbey", "A lighthouse station", "A military fortress"],
-      "correctAnswer": 1
+      "options": [
+        "A medieval abbey",
+        "A military fortress",
+        "A lighthouse station",
+        "A fishing village"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-tidal-phenomena-6",
       "question": "What are 'spring tides'?",
-      "options": ["Tides that only occur in springtime", "Exceptionally high and low tides during new and full moons", "Tides caused by spring rainfall", "Gentle tides with minimal range"],
+      "options": [
+        "Gentle tides with minimal range",
+        "Exceptionally high and low tides during new and full moons",
+        "Tides caused by spring rainfall",
+        "Tides that only occur in springtime"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-tidal-phenomena-7",
       "question": "The Severn Bore is a famous tidal bore in which country?",
-      "options": ["France", "England", "Scotland", "Ireland"],
-      "correctAnswer": 1
+      "options": [
+        "Ireland",
+        "Scotland",
+        "France",
+        "England"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-tidal-phenomena-8",
       "question": "What term describes the smallest tidal range, occurring when the Sun and Moon are at right angles to Earth?",
-      "options": ["Slack tide", "Neap tide", "Dead tide", "Ebb tide"],
+      "options": [
+        "Ebb tide",
+        "Neap tide",
+        "Slack tide",
+        "Dead tide"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-tidal-phenomena-9",
       "question": "The Maelstrom, a powerful tidal whirlpool, is found off the coast of which country?",
-      "options": ["Scotland", "Iceland", "Norway", "Denmark"],
-      "correctAnswer": 2
+      "options": [
+        "Norway",
+        "Iceland",
+        "Scotland",
+        "Denmark"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-tidal-phenomena-10",
       "question": "The 'Jindo Sea Parting' in South Korea, where the sea parts to reveal a land bridge, is caused by what?",
-      "options": ["Earthquakes", "Extreme low tides", "Volcanic activity", "Monsoon winds"],
-      "correctAnswer": 1
+      "options": [
+        "Earthquakes",
+        "Volcanic activity",
+        "Monsoon winds",
+        "Extreme low tides"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-tidal-phenomena-11",
       "question": "How many high tides does most of the world's coastline experience in a 24-hour period?",
-      "options": ["One", "Two", "Three", "Four"],
-      "correctAnswer": 1
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-tidal-phenomena-12",
       "question": "King tides are the highest tides of the year. When do they typically occur?",
-      "options": ["During summer solstice", "When the Moon is closest to Earth", "During hurricanes", "Only during solar eclipses"],
-      "correctAnswer": 1
+      "options": [
+        "When the Moon is closest to Earth",
+        "Only during solar eclipses",
+        "During hurricanes",
+        "During summer solstice"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-tidal-phenomena-13",
       "question": "The Old Man of Hoy, a famous sea stack shaped by tidal erosion, is found in which island group?",
-      "options": ["Shetland Islands", "Hebrides", "Orkney Islands", "Channel Islands"],
+      "options": [
+        "Channel Islands",
+        "Hebrides",
+        "Orkney Islands",
+        "Shetland Islands"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-tidal-phenomena-14",
       "question": "Tidal power, which harnesses the energy of tides to generate electricity, has a major plant on the Rance River in which country?",
-      "options": ["Canada", "Norway", "South Korea", "France"],
-      "correctAnswer": 3
+      "options": [
+        "South Korea",
+        "France",
+        "Canada",
+        "Norway"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-tidal-phenomena-15",
       "question": "The Giant's Causeway in Northern Ireland, with its hexagonal basalt columns exposed at low tide, was formed by what natural process?",
-      "options": ["Coral growth", "Tidal erosion", "Ancient volcanic activity", "Glacial carving"],
-      "correctAnswer": 2
+      "options": [
+        "Ancient volcanic activity",
+        "Glacial carving",
+        "Tidal erosion",
+        "Coral growth"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

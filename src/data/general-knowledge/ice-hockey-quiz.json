@@ -1,0 +1,219 @@
+{
+  "id": "ice-hockey-quiz",
+  "title": "Ice Hockey",
+  "description": "Test your knowledge of ice hockey, the NHL, and the sport's greatest legends!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ice-hockey-quiz-1",
+      "question": "Which player is known as 'The Great One' in ice hockey?",
+      "options": [
+        "Mario Lemieux",
+        "Gordie Howe",
+        "Wayne Gretzky",
+        "Bobby Orr"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wayne Gretzky is known as 'The Great One.' He holds 61 NHL records, including the most career goals (894) and most career points (2,857). His number 99 was retired league-wide.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-2",
+      "question": "How many periods are in a standard ice hockey game?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A standard ice hockey game consists of three 20-minute periods. If the game is tied after regulation, overtime and potentially a shootout are used to determine the winner.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-3",
+      "question": "What is a 'hat trick' in ice hockey?",
+      "options": [
+        "Three assists in one game",
+        "Three goals scored by one player in one game",
+        "Three saves in a row",
+        "Three penalties in one period"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hat trick in ice hockey is when a single player scores three goals in one game. Fans traditionally throw hats onto the ice to celebrate the achievement.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-4",
+      "question": "What is the 'Zamboni'?",
+      "options": [
+        "A machine that resurfaces the ice",
+        "A type of hockey stick",
+        "A defensive formation",
+        "An Italian hockey league"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A Zamboni is an ice resurfacing machine that shaves the ice surface and lays down a thin layer of water that freezes to create a smooth surface. It was invented by Frank Zamboni in 1949.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-5",
+      "question": "What is a 'power play' in ice hockey?",
+      "options": [
+        "An overtime period",
+        "A special type of shot",
+        "When one team has more players due to an opponent's penalty",
+        "A strong offensive push"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A power play occurs when one team has a numerical advantage because one or more opposing players are serving a penalty in the penalty box. The shorthanded team is said to be on the 'penalty kill.'",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-6",
+      "question": "Which NHL team has won the most Stanley Cup championships?",
+      "options": [
+        "Boston Bruins",
+        "Montreal Canadiens",
+        "Toronto Maple Leafs",
+        "Detroit Red Wings"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Montreal Canadiens have won the most Stanley Cup championships with 24 titles. Their dynasty period in the late 1950s saw them win five consecutive Cups from 1956 to 1960.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-7",
+      "question": "What is the 'penalty box' in ice hockey?",
+      "options": [
+        "The goal crease",
+        "An enclosed area where penalized players sit out their penalty time",
+        "The area where coaches stand",
+        "The center ice circle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The penalty box (also called the sin bin) is an area off the ice where players serve their penalty time. Minor penalties are 2 minutes, major penalties are 5 minutes.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-8",
+      "question": "Which country's national hockey team is nicknamed 'The Red Machine'?",
+      "options": [
+        "Sweden",
+        "Czech Republic",
+        "Russia/Soviet Union",
+        "Canada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Soviet Union's national hockey team was known as 'The Red Machine' for their dominant, machine-like precision. They won numerous Olympic gold medals and World Championships.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-9",
+      "question": "What is an 'icing' call in ice hockey?",
+      "options": [
+        "Freezing the puck against the boards",
+        "A delayed penalty",
+        "Covering the puck with your glove",
+        "Shooting the puck from your side across the opponent's goal line without it being touched"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Icing is called when a player shoots the puck from their side of the center red line across the opposing team's goal line without it being touched. Play is stopped and a faceoff occurs.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-10",
+      "question": "What was the 'Miracle on Ice' at the 1980 Winter Olympics?",
+      "options": [
+        "The first women's hockey game",
+        "The US amateur hockey team defeating the Soviet Union",
+        "Canada winning gold in figure skating",
+        "A record-breaking speed skating performance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'Miracle on Ice' was the US men's hockey team's stunning 4-3 victory over the heavily favored Soviet Union at the 1980 Lake Placid Olympics. The US team went on to win the gold medal.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-11",
+      "question": "How many players (including the goaltender) does each team typically have on the ice?",
+      "options": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each team typically has 6 players on the ice: 1 goaltender, 2 defensemen, and 3 forwards (left wing, center, right wing). Teams can pull their goaltender for an extra skater.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-12",
+      "question": "Which defenseman is considered the greatest hockey player at his position and revolutionized how the position is played?",
+      "options": [
+        "Ray Bourque",
+        "Nicklas Lidstrom",
+        "Bobby Orr",
+        "Chris Chelios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bobby Orr is widely considered the greatest defenseman in hockey history. He revolutionized the position with his offensive abilities, winning 8 consecutive Norris Trophies and 2 Stanley Cups.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-13",
+      "question": "What is a 'slap shot' in ice hockey?",
+      "options": [
+        "A quick wrist shot",
+        "A shot on a breakaway",
+        "A shot where the player raises the stick and strikes the puck with a swinging motion",
+        "A shot taken while falling"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A slap shot is the hardest shot in hockey, where a player raises their stick and brings it down forcefully to strike the puck. Professional slap shots can exceed 100 mph (160 km/h).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-14",
+      "question": "When was the National Hockey League (NHL) founded?",
+      "options": [
+        "1917",
+        "1924",
+        "1930",
+        "1910"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The National Hockey League was founded on November 26, 1917, in Montreal, Canada. The original four teams were the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, and Toronto Arenas.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "ice-hockey-quiz-15",
+      "question": "What is the 'Conn Smythe Trophy' awarded for?",
+      "options": [
+        "The most valuable player in the Stanley Cup Playoffs",
+        "The NHL regular season MVP",
+        "The best goaltender in the NHL",
+        "The top scorer in the NHL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Conn Smythe Trophy is awarded annually to the most valuable player during the NHL Stanley Cup Playoffs. It is named after Conn Smythe, the former owner of the Toronto Maple Leafs.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

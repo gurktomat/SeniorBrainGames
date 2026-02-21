@@ -1,0 +1,173 @@
+{
+  "id": "elephant-facts-quiz",
+  "title": "Elephant Facts Quiz",
+  "description": "Put your memory to the test with these questions about the world's largest land animals",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "elephant-facts-quiz-1",
+      "question": "How many recognized species of elephants exist today?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "elephant-facts-quiz-2",
+      "question": "Which elephant species is the largest land animal on Earth?",
+      "options": [
+        "Asian Elephant",
+        "African Forest Elephant",
+        "Indian Elephant",
+        "African Bush Elephant"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "elephant-facts-quiz-3",
+      "question": "What is the primary difference in ear shape between African and Asian elephants?",
+      "options": [
+        "African ears are smaller and rounder",
+        "There is no difference",
+        "African ears are larger, shaped like Africa",
+        "Asian ears are larger and flatter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "elephant-facts-quiz-4",
+      "question": "Approximately how many muscles are in an elephant's trunk?",
+      "options": [
+        "About 100,000",
+        "About 40,000",
+        "About 10,000",
+        "About 1,000"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "elephant-facts-quiz-5",
+      "question": "How long is the typical gestation period for an elephant?",
+      "options": [
+        "28 months",
+        "22 months",
+        "12 months",
+        "18 months"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "elephant-facts-quiz-6",
+      "question": "What are elephant tusks actually made of?",
+      "options": [
+        "Cartilage",
+        "Ivory (dentine)",
+        "Bone",
+        "Keratin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "elephant-facts-quiz-7",
+      "question": "Which sense is most highly developed in elephants?",
+      "options": [
+        "Sight",
+        "Taste",
+        "Hearing",
+        "Smell"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "elephant-facts-quiz-8",
+      "question": "How much water can an adult elephant's trunk hold at one time?",
+      "options": [
+        "About 2.5 gallons",
+        "About 1 gallon",
+        "About 10 gallons",
+        "About 5 gallons"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "elephant-facts-quiz-9",
+      "question": "How do elephants communicate over long distances of several miles?",
+      "options": [
+        "Scent signals only",
+        "Ultrasonic calls",
+        "Infrasound vibrations",
+        "Visual signals"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "elephant-facts-quiz-10",
+      "question": "How much food does an adult elephant eat per day?",
+      "options": [
+        "About 500 pounds",
+        "About 150 pounds",
+        "About 50 pounds",
+        "About 300 pounds"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "elephant-facts-quiz-11",
+      "question": "What is a group of elephants called?",
+      "options": [
+        "Pack",
+        "Herd",
+        "Flock",
+        "Colony"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "elephant-facts-quiz-12",
+      "question": "Who typically leads an elephant herd?",
+      "options": [
+        "The oldest female (matriarch)",
+        "The largest male",
+        "The oldest male",
+        "The youngest adult"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "elephant-facts-quiz-13",
+      "question": "Which elephant species has one 'finger' at the tip of its trunk, while the other has two?",
+      "options": [
+        "African has one, Asian has two",
+        "Asian has one, African has two",
+        "Both have one",
+        "Both have two"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "elephant-facts-quiz-14",
+      "question": "What do elephants do when they encounter the bones or remains of a deceased elephant?",
+      "options": [
+        "Eat them for calcium",
+        "Run away from them",
+        "Ignore them completely",
+        "Gently touch and examine them with their trunks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "elephant-facts-quiz-15",
+      "question": "How many sets of teeth does an elephant go through in its lifetime?",
+      "options": [
+        "They continuously grow new teeth",
+        "Two, like humans",
+        "Six",
+        "Four"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

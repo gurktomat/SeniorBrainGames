@@ -8,8 +8,13 @@
     {
       "id": "fi-1",
       "question": "Which country has a flag with a red circle on a white background?",
-      "options": ["South Korea", "Japan", "Bangladesh", "Laos"],
-      "correctAnswer": 1,
+      "options": [
+        "Laos",
+        "Bangladesh",
+        "South Korea",
+        "Japan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Japan's flag, known as the Nisshoki or Hinomaru, features a red circle representing the sun on a white background.",
       "difficulty": "easy",
       "category": "geography"
@@ -17,8 +22,13 @@
     {
       "id": "fi-2",
       "question": "Which country's flag features a maple leaf?",
-      "options": ["United States", "Australia", "Canada", "New Zealand"],
-      "correctAnswer": 2,
+      "options": [
+        "United States",
+        "Australia",
+        "New Zealand",
+        "Canada"
+      ],
+      "correctAnswer": 3,
       "explanation": "Canada's flag features a red maple leaf on a white square between two red vertical stripes. It was adopted in 1965.",
       "difficulty": "easy",
       "category": "geography"
@@ -26,8 +36,13 @@
     {
       "id": "fi-3",
       "question": "Which country has horizontal stripes of black, red, and gold (top to bottom)?",
-      "options": ["Belgium", "Germany", "Romania", "Chad"],
-      "correctAnswer": 1,
+      "options": [
+        "Romania",
+        "Belgium",
+        "Chad",
+        "Germany"
+      ],
+      "correctAnswer": 3,
       "explanation": "Germany's flag features three horizontal stripes of black, red, and gold from top to bottom, adopted after World War II.",
       "difficulty": "easy",
       "category": "geography"
@@ -35,8 +50,13 @@
     {
       "id": "fi-4",
       "question": "Which country's flag consists of a green background with a white crescent and star?",
-      "options": ["Turkey", "Algeria", "Pakistan", "Libya"],
-      "correctAnswer": 2,
+      "options": [
+        "Pakistan",
+        "Turkey",
+        "Libya",
+        "Algeria"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pakistan's flag features a green background with a white crescent moon and five-pointed star, plus a white vertical stripe on the left.",
       "difficulty": "easy",
       "category": "geography"
@@ -44,8 +64,13 @@
     {
       "id": "fi-5",
       "question": "Which country's flag has a Union Jack in the top-left corner and stars representing the Southern Cross?",
-      "options": ["New Zealand", "Australia", "Fiji", "Tuvalu"],
-      "correctAnswer": 1,
+      "options": [
+        "New Zealand",
+        "Tuvalu",
+        "Australia",
+        "Fiji"
+      ],
+      "correctAnswer": 2,
       "explanation": "Australia's flag features the Union Jack, the Commonwealth Star, and the Southern Cross constellation. New Zealand's flag also has a Union Jack and Southern Cross, but with only four red stars.",
       "difficulty": "easy",
       "category": "geography"
@@ -53,8 +78,13 @@
     {
       "id": "fi-6",
       "question": "Which country has a flag with vertical stripes of green, white, and orange?",
-      "options": ["Italy", "Ireland", "Ivory Coast", "India"],
-      "correctAnswer": 1,
+      "options": [
+        "Italy",
+        "Ivory Coast",
+        "Ireland",
+        "India"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ireland's flag features vertical stripes of green, white, and orange from left to right. Italy's flag has green, white, and red stripes.",
       "difficulty": "medium",
       "category": "geography"
@@ -62,7 +92,12 @@
     {
       "id": "fi-7",
       "question": "Which country's flag features a blue Star of David on a white background between two horizontal blue stripes?",
-      "options": ["Greece", "Honduras", "Israel", "Somalia"],
+      "options": [
+        "Honduras",
+        "Greece",
+        "Israel",
+        "Somalia"
+      ],
       "correctAnswer": 2,
       "explanation": "Israel's flag features a blue Star of David (Magen David) centered on a white field between two horizontal blue stripes.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "fi-8",
       "question": "Which country's flag is the only national flag that is not rectangular or square?",
-      "options": ["Bhutan", "Nepal", "Swaziland", "Sri Lanka"],
-      "correctAnswer": 1,
+      "options": [
+        "Bhutan",
+        "Swaziland",
+        "Nepal",
+        "Sri Lanka"
+      ],
+      "correctAnswer": 2,
       "explanation": "Nepal's flag is the only national flag in the world that is not rectangular or square. It consists of two stacked triangles.",
       "difficulty": "medium",
       "category": "geography"
@@ -80,8 +120,13 @@
     {
       "id": "fi-9",
       "question": "Which country's flag features a red background with a yellow star in the center?",
-      "options": ["China", "Vietnam", "Morocco", "Turkey"],
-      "correctAnswer": 1,
+      "options": [
+        "Vietnam",
+        "China",
+        "Turkey",
+        "Morocco"
+      ],
+      "correctAnswer": 0,
       "explanation": "Vietnam's flag features a large yellow five-pointed star on a red background. China's flag has one large star and four smaller stars.",
       "difficulty": "medium",
       "category": "geography"
@@ -89,8 +134,13 @@
     {
       "id": "fi-10",
       "question": "Which Scandinavian country has a flag with a red background and a blue cross outlined in white?",
-      "options": ["Sweden", "Finland", "Norway", "Denmark"],
-      "correctAnswer": 2,
+      "options": [
+        "Denmark",
+        "Finland",
+        "Sweden",
+        "Norway"
+      ],
+      "correctAnswer": 3,
       "explanation": "Norway's flag features a red background with a blue cross outlined in white. It was adopted in 1821.",
       "difficulty": "medium",
       "category": "geography"
@@ -98,7 +148,12 @@
     {
       "id": "fi-11",
       "question": "Which country's flag features a green and gold horizontal bicolor with a red disc containing a yellow map of the country?",
-      "options": ["Myanmar", "Sri Lanka", "Bangladesh", "Cambodia"],
+      "options": [
+        "Myanmar",
+        "Bangladesh",
+        "Sri Lanka",
+        "Cambodia"
+      ],
       "correctAnswer": 3,
       "explanation": "Cambodia's flag features blue and red horizontal stripes with a white depiction of Angkor Wat in the center. Note: the flag with a red disc and yellow map is actually not Cambodia — Cambodia features Angkor Wat.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "fi-12",
       "question": "Which country's flag features a cedar tree on a white band between two red horizontal stripes?",
-      "options": ["Syria", "Lebanon", "Jordan", "Iraq"],
-      "correctAnswer": 1,
+      "options": [
+        "Iraq",
+        "Jordan",
+        "Lebanon",
+        "Syria"
+      ],
+      "correctAnswer": 2,
       "explanation": "Lebanon's flag features a green cedar tree on a white band between two red horizontal stripes. The cedar is an ancient symbol of Lebanon.",
       "difficulty": "hard",
       "category": "geography"
@@ -116,7 +176,12 @@
     {
       "id": "fi-13",
       "question": "Which country's flag is solid green with no other symbols or colors?",
-      "options": ["Saudi Arabia", "Libya", "Mauritania", "None of these currently"],
+      "options": [
+        "Libya",
+        "Mauritania",
+        "Saudi Arabia",
+        "None of these currently"
+      ],
       "correctAnswer": 3,
       "explanation": "Libya's flag was solid green from 1977 to 2011 under Gaddafi, but after the revolution it was changed. No current national flag is solid green with no other markings.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "fi-14",
       "question": "Which country's flag features a trident-headed staff called a trishula?",
-      "options": ["India", "Sri Lanka", "Barbados", "Ukraine"],
-      "correctAnswer": 2,
+      "options": [
+        "India",
+        "Barbados",
+        "Sri Lanka",
+        "Ukraine"
+      ],
+      "correctAnswer": 1,
       "explanation": "Barbados' flag features a broken trident (trishula) in black on a gold and blue background. The trident symbolizes independence from colonial rule.",
       "difficulty": "hard",
       "category": "geography"
@@ -134,8 +204,13 @@
     {
       "id": "fi-15",
       "question": "Which African country's flag features a green background with a yellow diamond containing a blue globe with 27 white stars?",
-      "options": ["South Africa", "Nigeria", "Mozambique", "Brazil"],
-      "correctAnswer": 3,
+      "options": [
+        "Mozambique",
+        "Nigeria",
+        "Brazil",
+        "South Africa"
+      ],
+      "correctAnswer": 2,
       "explanation": "This is actually the flag of Brazil, not an African country. Brazil's flag features a green field, yellow diamond, and a blue globe with 27 stars and the motto 'Ordem e Progresso.'",
       "difficulty": "hard",
       "category": "geography"

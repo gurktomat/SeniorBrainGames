@@ -1,0 +1,173 @@
+{
+  "id": "optometry-vocabulary",
+  "title": "Optometry Vocabulary",
+  "description": "Focus your attention on this quiz about the specialized terminology of eye care professionals.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "optometry-vocabulary-1",
+      "question": "What is 'myopia'?",
+      "options": [
+        "Double vision",
+        "Farsightedness",
+        "Nearsightedness, where distant objects appear blurry",
+        "Color blindness"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "optometry-vocabulary-2",
+      "question": "What does 'astigmatism' refer to?",
+      "options": [
+        "Loss of peripheral vision",
+        "Sensitivity to light",
+        "An imperfection in the curvature of the cornea or lens causing blurred vision at all distances",
+        "An eye infection"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "optometry-vocabulary-3",
+      "question": "What is 'presbyopia'?",
+      "options": [
+        "Color blindness",
+        "An eye disease in children",
+        "A type of eye surgery",
+        "Age-related difficulty focusing on close objects due to loss of lens flexibility"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "optometry-vocabulary-4",
+      "question": "What does the 'retina' do?",
+      "options": [
+        "Controls the size of the pupil",
+        "Protects the eye from UV light",
+        "Contains light-sensitive cells that convert light into electrical signals sent to the brain",
+        "Produces tears to keep the eye moist"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "optometry-vocabulary-5",
+      "question": "What is a 'slit lamp'?",
+      "options": [
+        "A lamp with a cracked shade",
+        "A type of laser used in eye surgery",
+        "A reading lamp for eye exams",
+        "A microscope with a bright light used to examine the structures of the front of the eye in detail"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "optometry-vocabulary-6",
+      "question": "What does 'diopter' measure?",
+      "options": [
+        "The size of the pupil",
+        "The thickness of the cornea",
+        "Eye pressure",
+        "The optical power of a lens, indicating its light-bending ability"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "optometry-vocabulary-7",
+      "question": "What is 'glaucoma'?",
+      "options": [
+        "Clouding of the eye's lens",
+        "An allergic eye reaction",
+        "A group of eye conditions that damage the optic nerve, often related to elevated eye pressure",
+        "A type of eye floater"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "optometry-vocabulary-8",
+      "question": "What does 'visual acuity' measure?",
+      "options": [
+        "How well you see colors",
+        "The width of your visual field",
+        "How quickly your eyes adjust to darkness",
+        "The sharpness and clarity of vision, typically tested with an eye chart"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "optometry-vocabulary-9",
+      "question": "What is 'hyperopia'?",
+      "options": [
+        "An excessive number of eye floaters",
+        "Nearsightedness",
+        "Extreme sensitivity to light",
+        "Farsightedness, where close objects appear blurry"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "optometry-vocabulary-10",
+      "question": "What is 'tonometry' used to measure?",
+      "options": [
+        "The color of the iris",
+        "Intraocular pressure (the fluid pressure inside the eye)",
+        "The curvature of the lens",
+        "Visual reaction time"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "optometry-vocabulary-11",
+      "question": "What is a 'cataract'?",
+      "options": [
+        "A clouding of the natural lens inside the eye that affects vision",
+        "An abnormal growth on the eyelid",
+        "A scratch on the cornea",
+        "A type of eye infection"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "optometry-vocabulary-12",
+      "question": "What does 'pupillary response' refer to?",
+      "options": [
+        "The movement of the eyeball",
+        "The constriction and dilation of the pupil in response to light changes",
+        "A reflexive blinking pattern",
+        "The student's response in class"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "optometry-vocabulary-13",
+      "question": "What are 'progressive lenses'?",
+      "options": [
+        "The most advanced type of contact lens",
+        "Multifocal lenses with a gradual transition from distance to near vision without visible lines",
+        "Lenses that progressively get thicker",
+        "Lenses that slowly darken in sunlight"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "optometry-vocabulary-14",
+      "question": "What is 'amblyopia' commonly known as?",
+      "options": [
+        "Night blindness",
+        "Lazy eye, a condition where one eye has reduced vision due to abnormal visual development",
+        "Crossed eyes",
+        "Pink eye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "optometry-vocabulary-15",
+      "question": "What does 'refraction' test determine during an eye exam?",
+      "options": [
+        "The health of the retina",
+        "The pressure inside your eyes",
+        "Whether you have cataracts",
+        "The exact lens prescription needed to correct your vision"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

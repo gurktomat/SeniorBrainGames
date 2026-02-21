@@ -8,7 +8,12 @@
     {
       "id": "ftc-1",
       "question": "Which TV show featured the catchphrase 'Here's Johnny!'?",
-      "options": ["The Ed Sullivan Show", "The Tonight Show Starring Johnny Carson", "The Dean Martin Show", "Late Night with David Letterman"],
+      "options": [
+        "The Ed Sullivan Show",
+        "The Tonight Show Starring Johnny Carson",
+        "Late Night with David Letterman",
+        "The Dean Martin Show"
+      ],
       "correctAnswer": 1,
       "explanation": "Ed McMahon introduced Johnny Carson with 'Heeeeere's Johnny!' at the start of The Tonight Show from 1962 to 1992. The phrase became one of the most recognized introductions in television history.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "ftc-2",
       "question": "On which show would you hear 'Good night, John Boy'?",
-      "options": ["Little House on the Prairie", "The Waltons", "The Andy Griffith Show", "Bonanza"],
-      "correctAnswer": 1,
+      "options": [
+        "The Andy Griffith Show",
+        "Bonanza",
+        "Little House on the Prairie",
+        "The Waltons"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Waltons (1972-1981) ended many episodes with the family saying goodnight to each other from their bedrooms, always including 'Good night, John Boy.' The show was set during the Depression and WWII eras.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "ftc-3",
       "question": "'To the moon, Alice!' was a famous catchphrase from which TV show?",
-      "options": ["I Love Lucy", "The Honeymooners", "The Dick Van Dyke Show", "All in the Family"],
-      "correctAnswer": 1,
+      "options": [
+        "I Love Lucy",
+        "The Dick Van Dyke Show",
+        "The Honeymooners",
+        "All in the Family"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ralph Kramden, played by Jackie Gleason on The Honeymooners, would threaten his wife Alice with 'One of these days, Alice... to the moon!' The show aired from 1955 to 1956 and became a timeless classic.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "ftc-4",
       "question": "Which show featured the catchphrase 'Whatchu talkin' 'bout, Willis?'",
-      "options": ["Good Times", "The Jeffersons", "Diff'rent Strokes", "Webster"],
-      "correctAnswer": 2,
+      "options": [
+        "Good Times",
+        "Diff'rent Strokes",
+        "The Jeffersons",
+        "Webster"
+      ],
+      "correctAnswer": 1,
       "explanation": "Gary Coleman's character Arnold Jackson delivered the catchphrase 'Whatchu talkin' 'bout, Willis?' on Diff'rent Strokes (1978-1986). The show followed two boys from Harlem adopted by a wealthy Park Avenue businessman.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,7 +64,12 @@
     {
       "id": "ftc-5",
       "question": "'Nanu nanu' was the greeting used on which TV show?",
-      "options": ["Lost in Space", "Mork & Mindy", "My Favorite Martian", "Third Rock from the Sun"],
+      "options": [
+        "My Favorite Martian",
+        "Mork & Mindy",
+        "Lost in Space",
+        "Third Rock from the Sun"
+      ],
       "correctAnswer": 1,
       "explanation": "Robin Williams' character Mork from the planet Ork used 'Nanu nanu' as a greeting on Mork & Mindy (1978-1982). The character first appeared on Happy Days before getting his own spin-off.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "ftc-6",
       "question": "Which TV show character said 'Baby, you're the greatest!'?",
-      "options": ["Ricky Ricardo from I Love Lucy", "Ralph Kramden from The Honeymooners", "Archie Bunker from All in the Family", "Fred Sanford from Sanford and Son"],
-      "correctAnswer": 1,
+      "options": [
+        "Fred Sanford from Sanford and Son",
+        "Ricky Ricardo from I Love Lucy",
+        "Ralph Kramden from The Honeymooners",
+        "Archie Bunker from All in the Family"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jackie Gleason's Ralph Kramden would say 'Baby, you're the greatest!' to his wife Alice on The Honeymooners, usually after she forgave him for some scheme gone wrong.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "ftc-7",
       "question": "'Marcia, Marcia, Marcia!' was a jealous complaint on which show?",
-      "options": ["The Partridge Family", "The Brady Bunch", "Family Ties", "Growing Pains"],
-      "correctAnswer": 1,
+      "options": [
+        "The Partridge Family",
+        "Family Ties",
+        "Growing Pains",
+        "The Brady Bunch"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jan Brady, played by Eve Plumb, exclaimed 'Marcia, Marcia, Marcia!' out of frustration with always being compared to her older sister on The Brady Bunch. The phrase became a pop culture touchstone.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "ftc-8",
       "question": "'You big dummy!' was a catchphrase from which sitcom?",
-      "options": ["All in the Family", "The Jeffersons", "Sanford and Son", "Good Times"],
-      "correctAnswer": 2,
+      "options": [
+        "Sanford and Son",
+        "All in the Family",
+        "The Jeffersons",
+        "Good Times"
+      ],
+      "correctAnswer": 0,
       "explanation": "Fred Sanford, played by Redd Foxx, frequently called his son Lamont 'You big dummy!' on Sanford and Son (1972-1977). Fred was also famous for his fake heart attacks, crying 'This is the big one! I'm comin' Elizabeth!'",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "ftc-9",
       "question": "'We're movin' on up' was the theme song lyric from which show?",
-      "options": ["Good Times", "The Jeffersons", "What's Happening!!", "Diff'rent Strokes"],
-      "correctAnswer": 1,
+      "options": [
+        "Diff'rent Strokes",
+        "What's Happening!!",
+        "Good Times",
+        "The Jeffersons"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Jeffersons (1975-1985) featured the iconic theme song 'Movin' On Up' about George and Louise Jefferson moving from Queens to a 'deluxe apartment in the sky' on Manhattan's East Side.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "ftc-10",
       "question": "'Lucy, you got some 'splainin' to do!' is attributed to which show?",
-      "options": ["The Lucy Show", "I Love Lucy", "Here's Lucy", "Life with Lucy"],
-      "correctAnswer": 1,
+      "options": [
+        "Here's Lucy",
+        "Life with Lucy",
+        "I Love Lucy",
+        "The Lucy Show"
+      ],
+      "correctAnswer": 2,
       "explanation": "Though Ricky Ricardo never said these exact words on I Love Lucy, the paraphrased catchphrase became inseparable from the show. Desi Arnaz's Ricky would often confront Lucy about her latest scheme in his Cuban accent.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,7 +148,12 @@
     {
       "id": "ftc-11",
       "question": "'Danger, Will Robinson!' came from which science fiction TV show?",
-      "options": ["Star Trek", "Lost in Space", "The Twilight Zone", "Voyage to the Bottom of the Sea"],
+      "options": [
+        "Voyage to the Bottom of the Sea",
+        "Lost in Space",
+        "The Twilight Zone",
+        "Star Trek"
+      ],
       "correctAnswer": 1,
       "explanation": "The Robot (voiced by Dick Tufeld) warned young Will Robinson of danger on Lost in Space (1965-1968). The phrase, along with the Robot's flailing arms, became one of TV's most quoted lines.",
       "difficulty": "hard",
@@ -107,7 +162,12 @@
     {
       "id": "ftc-12",
       "question": "'Stifle yourself!' and 'Meathead!' were insults used on which groundbreaking sitcom?",
-      "options": ["The Odd Couple", "All in the Family", "Barney Miller", "M*A*S*H"],
+      "options": [
+        "M*A*S*H",
+        "All in the Family",
+        "Barney Miller",
+        "The Odd Couple"
+      ],
       "correctAnswer": 1,
       "explanation": "Archie Bunker, played by Carroll O'Connor, told his wife Edith to 'Stifle yourself!' and called his son-in-law Michael 'Meathead' on All in the Family (1971-1979). The show tackled social issues through comedy.",
       "difficulty": "hard",
@@ -116,7 +176,12 @@
     {
       "id": "ftc-13",
       "question": "'Kiss my grits!' was a catchphrase from which sitcom?",
-      "options": ["Alice", "Maude", "Laverne & Shirley", "One Day at a Time"],
+      "options": [
+        "Alice",
+        "Maude",
+        "One Day at a Time",
+        "Laverne & Shirley"
+      ],
       "correctAnswer": 0,
       "explanation": "Flo Castleberry, played by Polly Holliday, made 'Kiss my grits!' famous on Alice (1976-1985). The sassy waitress at Mel's Diner was so popular she got her own spin-off series called Flo.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "ftc-14",
       "question": "'Live long and prosper' was the signature phrase of which TV character?",
-      "options": ["Doctor Who", "Mr. Spock from Star Trek", "The Doctor from Lost in Space", "Commander Adama from Battlestar Galactica"],
-      "correctAnswer": 1,
+      "options": [
+        "Doctor Who",
+        "The Doctor from Lost in Space",
+        "Commander Adama from Battlestar Galactica",
+        "Mr. Spock from Star Trek"
+      ],
+      "correctAnswer": 3,
       "explanation": "Leonard Nimoy's Mr. Spock used the Vulcan salute and the phrase 'Live long and prosper' on Star Trek (1966-1969). Nimoy created the accompanying hand gesture based on a Jewish priestly blessing.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "ftc-15",
       "question": "'God'll get you for that, Walter' was a catchphrase from which TV show?",
-      "options": ["All in the Family", "Maude", "The Golden Girls", "Soap"],
-      "correctAnswer": 1,
+      "options": [
+        "All in the Family",
+        "Soap",
+        "Maude",
+        "The Golden Girls"
+      ],
+      "correctAnswer": 2,
       "explanation": "Bea Arthur's character Maude Findlay would tell her husband Walter 'God'll get you for that, Walter' on Maude (1972-1978). The show was a spin-off of All in the Family and tackled controversial social issues.",
       "difficulty": "hard",
       "category": "nostalgia"

@@ -9,44 +9,44 @@
       "question": "What was the name of the family in 'Leave It to Beaver'?",
       "options": [
         "The Nelsons",
-        "The Cleavers",
         "The Andersons",
-        "The Stones"
+        "The Stones",
+        "The Cleavers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-sitcom-families-2",
       "question": "How many children did the Brady family have in 'The Brady Bunch'?",
       "options": [
-        "Four",
+        "Seven",
         "Five",
-        "Six",
-        "Seven"
+        "Four",
+        "Six"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-sitcom-families-3",
       "question": "What was the name of the housekeeper on 'The Brady Bunch'?",
       "options": [
-        "Alice Nelson",
+        "Rosie Cotton",
         "Florence Johnston",
         "Hazel Burke",
-        "Rosie Cotton"
+        "Alice Nelson"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "classic-sitcom-families-4",
       "question": "In 'All in the Family,' what was Archie Bunker's wife's name?",
       "options": [
-        "Edith",
         "Dorothy",
         "Gloria",
-        "Maude"
+        "Maude",
+        "Edith"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "classic-sitcom-families-5",
@@ -63,10 +63,10 @@
       "id": "classic-sitcom-families-6",
       "question": "In 'I Love Lucy,' what was Ricky Ricardo's profession?",
       "options": [
-        "Doctor",
         "Lawyer",
+        "Businessman",
         "Bandleader",
-        "Businessman"
+        "Doctor"
       ],
       "correctAnswer": 2
     },
@@ -75,55 +75,55 @@
       "question": "What was the surname of the family in 'Father Knows Best'?",
       "options": [
         "The Cleavers",
-        "The Nelsons",
         "The Andersons",
+        "The Nelsons",
         "The Stones"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "classic-sitcom-families-8",
       "question": "In 'The Addams Family,' what was the name of the butler?",
       "options": [
-        "Igor",
         "Lurch",
         "Pugsley",
+        "Igor",
         "Fester"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-sitcom-families-9",
       "question": "Which family lived at 1313 Mockingbird Lane?",
       "options": [
         "The Addams Family",
+        "The Bradys",
         "The Munsters",
-        "The Cleavers",
-        "The Bradys"
+        "The Cleavers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-sitcom-families-10",
       "question": "In 'The Cosby Show,' what was Cliff Huxtable's profession?",
       "options": [
+        "Professor",
         "Lawyer",
         "Doctor",
-        "Professor",
         "Dentist"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-sitcom-families-11",
       "question": "What was the name of Fred and Ethel's last name in 'I Love Lucy'?",
       "options": [
         "Martinez",
-        "McGillicuddy",
         "Mertz",
+        "McGillicuddy",
         "Morrison"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "classic-sitcom-families-12",
@@ -140,21 +140,21 @@
       "id": "classic-sitcom-families-13",
       "question": "Which sitcom family had a son named Beaver and an older brother named Wally?",
       "options": [
+        "The Petries",
         "The Nelsons",
         "The Andersons",
-        "The Cleavers",
-        "The Petries"
+        "The Cleavers"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "classic-sitcom-families-14",
       "question": "In 'The Jeffersons,' what business did George Jefferson own?",
       "options": [
-        "A restaurant",
-        "A dry cleaning chain",
         "A car dealership",
-        "A barbershop"
+        "A dry cleaning chain",
+        "A barbershop",
+        "A restaurant"
       ],
       "correctAnswer": 1
     },
@@ -163,11 +163,11 @@
       "question": "What was the name of the oldest daughter on 'Family Ties'?",
       "options": [
         "Jennifer",
+        "Alex",
         "Mallory",
-        "Elyse",
-        "Alex"
+        "Elyse"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

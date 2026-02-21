@@ -1,0 +1,173 @@
+{
+  "id": "point-of-view-quiz",
+  "title": "Point of View Quiz",
+  "description": "Test your understanding of narrative perspectives, from first person to omniscient third person",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "point-of-view-quiz-1",
+      "question": "Which point of view uses pronouns like 'I,' 'me,' and 'my'?",
+      "options": [
+        "Third person omniscient",
+        "Third person limited",
+        "Second person",
+        "First person"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "point-of-view-quiz-2",
+      "question": "Which point of view uses 'you' to address the reader directly?",
+      "options": [
+        "First person",
+        "Third person limited",
+        "Third person omniscient",
+        "Second person"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "point-of-view-quiz-3",
+      "question": "In third person omniscient, the narrator:",
+      "options": [
+        "Knows the thoughts and feelings of all characters",
+        "Is a character in the story",
+        "Speaks directly to the reader using 'you'",
+        "Only knows the thoughts of one character"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "point-of-view-quiz-4",
+      "question": "In third person limited, the narrator:",
+      "options": [
+        "Knows everything about every character",
+        "Has access to the thoughts and feelings of only one character",
+        "Is a character telling their own story",
+        "Addresses the reader as 'you'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "point-of-view-quiz-5",
+      "question": "'I walked into the room and immediately sensed something was wrong.' This is written in which point of view?",
+      "options": [
+        "Third person limited",
+        "Second person",
+        "Third person omniscient",
+        "First person"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "point-of-view-quiz-6",
+      "question": "'You open the door and step inside.' This is written in which point of view?",
+      "options": [
+        "First person",
+        "Third person omniscient",
+        "Third person limited",
+        "Second person"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "point-of-view-quiz-7",
+      "question": "Which classic novel is written in first person by its narrator, Nick Carraway?",
+      "options": [
+        "Jane Eyre",
+        "War and Peace",
+        "The Great Gatsby",
+        "Moby Dick"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "point-of-view-quiz-8",
+      "question": "What is a 'third person objective' narrator?",
+      "options": [
+        "A narrator who speaks in second person",
+        "A narrator who reports only what can be observed externally, without revealing any character's thoughts",
+        "A narrator who shares every character's thoughts",
+        "A narrator who is biased toward the protagonist"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "point-of-view-quiz-9",
+      "question": "What is 'multiple points of view' or 'alternating perspective'?",
+      "options": [
+        "A story that never reveals any character's thoughts",
+        "A story told by one narrator who is always right",
+        "A story that switches between different characters' perspectives across chapters or sections",
+        "A story told entirely in dialogue"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "point-of-view-quiz-10",
+      "question": "Why might an author choose to use an unreliable first-person narrator?",
+      "options": [
+        "To create suspense and make the reader question what is true",
+        "To make the story shorter",
+        "Because first person is easier to write",
+        "To avoid using dialogue"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "point-of-view-quiz-11",
+      "question": "'She thought about her childhood as she gazed out the window.' If only her thoughts are shared throughout the book, this is:",
+      "options": [
+        "First person",
+        "Third person objective",
+        "Second person",
+        "Third person limited"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "point-of-view-quiz-12",
+      "question": "The 'Choose Your Own Adventure' book series famously uses which point of view?",
+      "options": [
+        "Third person limited",
+        "Second person",
+        "Third person omniscient",
+        "First person"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "point-of-view-quiz-13",
+      "question": "Leo Tolstoy's 'War and Peace' is told by a narrator who knows the thoughts and motivations of many characters. This is:",
+      "options": [
+        "Third person omniscient",
+        "Second person",
+        "First person",
+        "Third person limited"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "point-of-view-quiz-14",
+      "question": "What advantage does first-person narration provide?",
+      "options": [
+        "The reader experiences an intimate, personal connection with the narrator",
+        "The reader knows everything that happens in the story",
+        "Multiple storylines can be followed simultaneously",
+        "The story is always completely objective"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "point-of-view-quiz-15",
+      "question": "What is 'free indirect discourse'?",
+      "options": [
+        "Dialogue written without quotation marks",
+        "A technique blending third-person narration with a character's internal voice and thoughts",
+        "A story told by an animal character",
+        "A type of second-person narration"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

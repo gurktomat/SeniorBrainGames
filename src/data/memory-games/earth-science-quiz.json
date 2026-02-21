@@ -1,0 +1,173 @@
+{
+  "id": "earth-science-quiz",
+  "title": "Earth Science Quiz",
+  "description": "From tectonic plates to the water cycle, test your recall of Earth science concepts and geological facts.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "earth-science-quiz-1",
+      "question": "What are the large, moving pieces of Earth's crust called?",
+      "options": [
+        "Mantle sections",
+        "Continental shelves",
+        "Fault lines",
+        "Tectonic plates"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "earth-science-quiz-2",
+      "question": "What is the molten rock beneath Earth's surface called?",
+      "options": [
+        "Magma",
+        "Lava",
+        "Obsidian",
+        "Pumice"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-3",
+      "question": "What scale measures the magnitude of earthquakes?",
+      "options": [
+        "Richter scale",
+        "Beaufort scale",
+        "Mohs scale",
+        "Fujita scale"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-4",
+      "question": "What is the hardest naturally occurring mineral?",
+      "options": [
+        "Diamond",
+        "Corundum",
+        "Quartz",
+        "Topaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-5",
+      "question": "What layer of the atmosphere protects us from ultraviolet radiation?",
+      "options": [
+        "Troposphere",
+        "Thermosphere",
+        "Stratosphere (ozone layer)",
+        "Mesosphere"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "earth-science-quiz-6",
+      "question": "What are the three main types of rocks?",
+      "options": [
+        "Calcium, silicate, and oxide",
+        "Igneous, sedimentary, and metamorphic",
+        "Crystal, mineral, and fossil",
+        "ite,ite, andite"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "earth-science-quiz-7",
+      "question": "What causes ocean tides?",
+      "options": [
+        "Gravitational pull of the Moon and Sun",
+        "Earth's rotation alone",
+        "Wind patterns",
+        "Underwater volcanoes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-8",
+      "question": "What is the innermost layer of the Earth?",
+      "options": [
+        "Inner core",
+        "Mantle",
+        "Outer core",
+        "Crust"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-9",
+      "question": "What process describes the continuous movement of water through evaporation, condensation, and precipitation?",
+      "options": [
+        "Carbon cycle",
+        "Nitrogen cycle",
+        "Water cycle",
+        "Rock cycle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "earth-science-quiz-10",
+      "question": "What was the ancient supercontinent called that contained all present-day landmasses?",
+      "options": [
+        "Laurasia",
+        "Rodinia",
+        "Gondwana",
+        "Pangaea"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "earth-science-quiz-11",
+      "question": "What type of rock is formed from cooled lava or magma?",
+      "options": [
+        "Fossil",
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "earth-science-quiz-12",
+      "question": "What is the Ring of Fire?",
+      "options": [
+        "A meteor shower pattern",
+        "A solar phenomenon",
+        "A zone of frequent earthquakes and volcanic eruptions around the Pacific",
+        "A geological formation in Africa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "earth-science-quiz-13",
+      "question": "How old is the Earth, approximately?",
+      "options": [
+        "4.5 billion years",
+        "2.5 billion years",
+        "6.5 billion years",
+        "10 billion years"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "earth-science-quiz-14",
+      "question": "What is a fossil?",
+      "options": [
+        "A type of mineral",
+        "A volcanic rock",
+        "A crystal formation",
+        "Preserved remains or traces of ancient life"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "earth-science-quiz-15",
+      "question": "What percentage of Earth's surface is covered by water?",
+      "options": [
+        "About 50%",
+        "About 60%",
+        "About 71%",
+        "About 85%"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

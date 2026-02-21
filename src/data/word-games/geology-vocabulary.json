@@ -7,91 +7,166 @@
     {
       "id": "geology-vocabulary-1",
       "question": "What are 'igneous' rocks formed from?",
-      "options": ["Compressed sediment", "Cooled and solidified molten rock (magma or lava)", "Chemically altered existing rocks", "Fossilized plant material"],
-      "correctAnswer": 1
+      "options": [
+        "Fossilized plant material",
+        "Chemically altered existing rocks",
+        "Compressed sediment",
+        "Cooled and solidified molten rock (magma or lava)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "geology-vocabulary-2",
       "question": "What does 'sedimentary' mean in geology?",
-      "options": ["Formed from volcanic activity", "Formed from the accumulation and compression of sediment, minerals, or organic material over time", "Formed deep underground under extreme heat", "Formed from meteorite impacts"],
-      "correctAnswer": 1
+      "options": [
+        "Formed from meteorite impacts",
+        "Formed from volcanic activity",
+        "Formed from the accumulation and compression of sediment, minerals, or organic material over time",
+        "Formed deep underground under extreme heat"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "geology-vocabulary-3",
       "question": "In geology, what is a 'fault'?",
-      "options": ["A mistake in a rock formation", "A fracture in Earth's crust where blocks of rock have moved relative to each other", "A type of fossil", "A weak mineral"],
-      "correctAnswer": 1
+      "options": [
+        "A type of fossil",
+        "A weak mineral",
+        "A fracture in Earth's crust where blocks of rock have moved relative to each other",
+        "A mistake in a rock formation"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "geology-vocabulary-4",
       "question": "What does 'metamorphic' mean when describing rocks?",
-      "options": ["Rocks that change color", "Rocks that have been transformed by heat and pressure from their original form", "Rocks that contain metals", "Rocks found only in mountains"],
-      "correctAnswer": 1
+      "options": [
+        "Rocks that have been transformed by heat and pressure from their original form",
+        "Rocks that contain metals",
+        "Rocks that change color",
+        "Rocks found only in mountains"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "geology-vocabulary-5",
       "question": "In geology, what is 'erosion'?",
-      "options": ["The formation of mountains", "The gradual wearing away and transport of rock and soil by wind, water, or ice", "The hardening of lava", "The creation of fossils"],
+      "options": [
+        "The creation of fossils",
+        "The gradual wearing away and transport of rock and soil by wind, water, or ice",
+        "The hardening of lava",
+        "The formation of mountains"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "geology-vocabulary-6",
       "question": "What is 'magma' in geological terms?",
-      "options": ["A type of gemstone", "Molten rock found beneath Earth's surface", "A layer of the atmosphere", "A mineral deposit"],
+      "options": [
+        "A layer of the atmosphere",
+        "Molten rock found beneath Earth's surface",
+        "A mineral deposit",
+        "A type of gemstone"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "geology-vocabulary-7",
       "question": "What does 'stratigraphy' study?",
-      "options": ["Star formations", "The layering and sequence of rock strata to understand Earth's history", "Strategy games", "Ocean currents"],
-      "correctAnswer": 1
+      "options": [
+        "Star formations",
+        "Strategy games",
+        "The layering and sequence of rock strata to understand Earth's history",
+        "Ocean currents"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "geology-vocabulary-8",
       "question": "In geology, what is a 'geode'?",
-      "options": ["A type of soil", "A rounded rock containing a hollow cavity lined with crystals", "A geographic measurement", "A geological map"],
-      "correctAnswer": 1
+      "options": [
+        "A rounded rock containing a hollow cavity lined with crystals",
+        "A geographic measurement",
+        "A geological map",
+        "A type of soil"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "geology-vocabulary-9",
       "question": "What is the 'Mohs scale' used to measure?",
-      "options": ["Earthquake intensity", "The hardness of minerals", "The age of rocks", "The depth of ocean trenches"],
-      "correctAnswer": 1
+      "options": [
+        "The age of rocks",
+        "Earthquake intensity",
+        "The hardness of minerals",
+        "The depth of ocean trenches"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "geology-vocabulary-10",
       "question": "In geology, what is 'tectonic' activity?",
-      "options": ["Volcanic eruptions only", "The movement and interaction of large plates that make up Earth's outer shell", "The formation of crystals", "Weather-related rock changes"],
+      "options": [
+        "Weather-related rock changes",
+        "The movement and interaction of large plates that make up Earth's outer shell",
+        "Volcanic eruptions only",
+        "The formation of crystals"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "geology-vocabulary-11",
       "question": "What does 'fossil' mean in geological terms?",
-      "options": ["Any old rock", "The preserved remains or traces of ancient organisms found in rock", "A type of fuel", "A cracked stone"],
-      "correctAnswer": 1
+      "options": [
+        "The preserved remains or traces of ancient organisms found in rock",
+        "A cracked stone",
+        "Any old rock",
+        "A type of fuel"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "geology-vocabulary-12",
       "question": "What is 'obsidian'?",
-      "options": ["A precious metal", "A dark, glassy volcanic rock formed from rapidly cooled lava", "A type of sandstone", "A crystal formation"],
-      "correctAnswer": 1
+      "options": [
+        "A dark, glassy volcanic rock formed from rapidly cooled lava",
+        "A crystal formation",
+        "A type of sandstone",
+        "A precious metal"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "geology-vocabulary-13",
       "question": "In geology, what is an 'aquifer'?",
-      "options": ["A water tank", "An underground layer of rock or sediment that holds and transmits groundwater", "A type of waterfall", "A measurement of water quality"],
+      "options": [
+        "A type of waterfall",
+        "An underground layer of rock or sediment that holds and transmits groundwater",
+        "A measurement of water quality",
+        "A water tank"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "geology-vocabulary-14",
       "question": "What does 'luster' describe when examining minerals?",
-      "options": ["The weight of a mineral", "The way a mineral's surface reflects light", "The taste of a mineral", "The temperature of a mineral"],
+      "options": [
+        "The taste of a mineral",
+        "The way a mineral's surface reflects light",
+        "The weight of a mineral",
+        "The temperature of a mineral"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "geology-vocabulary-15",
       "question": "What is 'pumice' known for?",
-      "options": ["Being the hardest rock", "Being a lightweight volcanic rock full of tiny holes that can float on water", "Being the oldest rock on Earth", "Being transparent like glass"],
+      "options": [
+        "Being the oldest rock on Earth",
+        "Being a lightweight volcanic rock full of tiny holes that can float on water",
+        "Being transparent like glass",
+        "Being the hardest rock"
+      ],
       "correctAnswer": 1
     }
   ]

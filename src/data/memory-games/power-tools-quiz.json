@@ -1,0 +1,174 @@
+{
+  "id": "power-tools-quiz",
+  "title": "Power Tools Quiz",
+  "description": "Test your knowledge of common power tools and their uses around the home and workshop.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "power-tools-quiz-1",
+      "question": "Which power tool uses a rotating circular blade to make straight cuts through wood?",
+      "options": [
+        "Circular saw",
+        "Band saw",
+        "Jigsaw",
+        "Reciprocating saw"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-2",
+      "question": "What power tool is primarily used to drive screws into materials?",
+      "options": [
+        "Drill/driver",
+        "Heat gun",
+        "Impact wrench",
+        "Rotary tool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-3",
+      "question": "Which tool uses a narrow blade that moves up and down to cut curves in wood?",
+      "options": [
+        "Jigsaw",
+        "Circular saw",
+        "Table saw",
+        "Miter saw"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-4",
+      "question": "What is a router used for in woodworking?",
+      "options": [
+        "Hollowing out areas and shaping edges",
+        "Sanding surfaces",
+        "Drilling holes",
+        "Measuring angles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-5",
+      "question": "Which power tool uses an abrasive disc or belt to smooth surfaces?",
+      "options": [
+        "Planer",
+        "Sander",
+        "Polisher",
+        "Grinder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "power-tools-quiz-6",
+      "question": "What does a miter saw specialize in cutting?",
+      "options": [
+        "Curves and circles",
+        "Accurate angled crosscuts in wood",
+        "Concrete blocks",
+        "Metal pipes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "power-tools-quiz-7",
+      "question": "Which tool uses compressed air to drive nails into wood?",
+      "options": [
+        "Screw gun",
+        "Pneumatic nail gun",
+        "Staple gun",
+        "Rivet gun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "power-tools-quiz-8",
+      "question": "What is a reciprocating saw commonly nicknamed?",
+      "options": [
+        "Chopsaw",
+        "Buzzer",
+        "Sawzall",
+        "Hacksaw"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "power-tools-quiz-9",
+      "question": "Which power tool is used to remove thin layers of wood to create a smooth, flat surface?",
+      "options": [
+        "Electric planer",
+        "Belt sander",
+        "Angle grinder",
+        "Scroll saw"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-10",
+      "question": "What is an impact driver best suited for?",
+      "options": [
+        "Drilling large holes",
+        "Sanding wood",
+        "Cutting metal",
+        "Driving long screws and lag bolts"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "power-tools-quiz-11",
+      "question": "Which power tool blows hot air and is used for stripping paint or shrinking tubing?",
+      "options": [
+        "Air compressor",
+        "Heat gun",
+        "Leaf blower",
+        "Hair dryer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "power-tools-quiz-12",
+      "question": "What type of saw has a stationary blade mounted under a flat table surface?",
+      "options": [
+        "Band saw",
+        "Chop saw",
+        "Table saw",
+        "Panel saw"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "power-tools-quiz-13",
+      "question": "Which tool is a small, versatile power tool made by Dremel for cutting, grinding, and polishing?",
+      "options": [
+        "Oscillating multi-tool",
+        "Die grinder",
+        "Angle grinder",
+        "Rotary tool"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "power-tools-quiz-14",
+      "question": "What power tool is used to bore large, precise holes through wood, often for plumbing or wiring?",
+      "options": [
+        "Hole saw attachment on a drill",
+        "Jigsaw",
+        "Router",
+        "Hammer drill"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "power-tools-quiz-15",
+      "question": "Which power tool combines hammering and drilling action to bore into concrete and masonry?",
+      "options": [
+        "Hammer drill",
+        "Standard drill",
+        "Rotary tool",
+        "Impact driver"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "famous-engineers-quiz",
+  "title": "Famous Engineers",
+  "description": "Celebrate the brilliant engineers who built the modern world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-engineers-quiz-1",
+      "question": "Which engineer designed the Eiffel Tower, completed in 1889?",
+      "options": [
+        "Ferdinand de Lesseps",
+        "Isambard Kingdom Brunel",
+        "Gustave Eiffel",
+        "Joseph Strauss"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-engineers-quiz-2",
+      "question": "Isambard Kingdom Brunel is famous for engineering achievements in which country?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "United States",
+        "Germany"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-engineers-quiz-3",
+      "question": "Who is credited with developing the first practical steam engine, improving on Thomas Newcomen's design?",
+      "options": [
+        "James Watt",
+        "George Stephenson",
+        "Robert Fulton",
+        "Richard Trevithick"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-engineers-quiz-4",
+      "question": "Nikola Tesla held patents primarily in which field of engineering?",
+      "options": [
+        "Civil engineering",
+        "Chemical engineering",
+        "Mechanical engineering",
+        "Electrical engineering"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-engineers-quiz-5",
+      "question": "Who led the construction of the Panama Canal, which opened in 1914?",
+      "options": [
+        "John Frank Stevens",
+        "Ferdinand de Lesseps",
+        "George Washington Goethals",
+        "Theodore Roosevelt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-engineers-quiz-6",
+      "question": "Henry Ford revolutionized manufacturing with what production method?",
+      "options": [
+        "3D printing",
+        "Assembly line",
+        "Batch production",
+        "Custom crafting"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-engineers-quiz-7",
+      "question": "Wernher von Braun was a key figure in developing what technology for NASA?",
+      "options": [
+        "Nuclear reactors",
+        "Communication satellites",
+        "Jet engines",
+        "Space rockets"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-engineers-quiz-8",
+      "question": "Who designed the geodesic dome, a lightweight, strong structural form?",
+      "options": [
+        "Rem Koolhaas",
+        "Le Corbusier",
+        "Buckminster Fuller",
+        "Frank Lloyd Wright"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-engineers-quiz-9",
+      "question": "George Stephenson built the first public inter-city railway line using what?",
+      "options": [
+        "Electric trains",
+        "Steam locomotives",
+        "Horse-drawn carriages",
+        "Diesel engines"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-engineers-quiz-10",
+      "question": "Which female engineer led the structural engineering of the Brooklyn Bridge after her husband fell ill?",
+      "options": [
+        "Emily Warren Roebling",
+        "Hedy Lamarr",
+        "Edith Clarke",
+        "Lillian Gilbreth"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-engineers-quiz-11",
+      "question": "What did Robert Goddard pioneer in 1926 with the first successful flight of its kind?",
+      "options": [
+        "Jet aircraft",
+        "Helicopter",
+        "Liquid-fueled rocket",
+        "Glider"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-engineers-quiz-12",
+      "question": "Alexander Graham Bell is best known for patenting which invention in 1876?",
+      "options": [
+        "The telephone",
+        "The radio",
+        "The phonograph",
+        "The telegraph"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-engineers-quiz-13",
+      "question": "Who invented the World Wide Web while working as an engineer at CERN?",
+      "options": [
+        "Marc Andreessen",
+        "Vint Cerf",
+        "Robert Kahn",
+        "Tim Berners-Lee"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-engineers-quiz-14",
+      "question": "Lillian Gilbreth was a pioneering engineer in which field, improving workplace efficiency?",
+      "options": [
+        "Industrial engineering",
+        "Aerospace engineering",
+        "Mining engineering",
+        "Marine engineering"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-engineers-quiz-15",
+      "question": "Which engineer and inventor held the most US patents in history, with over 1,000?",
+      "options": [
+        "Thomas Edison",
+        "George Westinghouse",
+        "Alexander Graham Bell",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

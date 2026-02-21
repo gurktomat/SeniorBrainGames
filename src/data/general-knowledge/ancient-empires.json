@@ -9,20 +9,20 @@
       "question": "Which empire, at its height under Darius the Great, stretched from Egypt to India?",
       "options": [
         "Assyrian Empire",
-        "Babylonian Empire",
         "Persian Empire",
-        "Macedonian Empire"
+        "Macedonian Empire",
+        "Babylonian Empire"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "ancient-empires-2",
       "question": "The Roman Empire was divided into Eastern and Western halves in which century?",
       "options": [
-        "2nd century AD",
         "3rd century AD",
+        "5th century AD",
         "4th century AD",
-        "5th century AD"
+        "2nd century AD"
       ],
       "correctAnswer": 2
     },
@@ -30,32 +30,32 @@
       "id": "ancient-empires-3",
       "question": "Which ancient empire built the Great Wall, beginning construction over 2,000 years ago?",
       "options": [
-        "Han Dynasty",
         "Qin Dynasty",
-        "Ming Dynasty",
-        "Tang Dynasty"
+        "Han Dynasty",
+        "Tang Dynasty",
+        "Ming Dynasty"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "ancient-empires-4",
       "question": "Alexander the Great was the ruler of which ancient kingdom before building his empire?",
       "options": [
-        "Sparta",
         "Athens",
         "Macedonia",
+        "Sparta",
         "Thebes"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "ancient-empires-5",
       "question": "The Byzantine Empire was the continuation of which earlier empire?",
       "options": [
+        "Ottoman Empire",
         "Greek Empire",
-        "Persian Empire",
         "Eastern Roman Empire",
-        "Ottoman Empire"
+        "Persian Empire"
       ],
       "correctAnswer": 2
     },
@@ -63,21 +63,21 @@
       "id": "ancient-empires-6",
       "question": "Which empire was ruled by pharaohs and lasted for approximately 3,000 years?",
       "options": [
-        "Mesopotamian Empire",
         "Ancient Egyptian Empire",
         "Nubian Empire",
+        "Mesopotamian Empire",
         "Carthaginian Empire"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "ancient-empires-7",
       "question": "The Mongol Empire, the largest contiguous land empire in history, was founded by whom?",
       "options": [
+        "Attila the Hun",
         "Kublai Khan",
-        "Tamerlane",
         "Genghis Khan",
-        "Attila the Hun"
+        "Tamerlane"
       ],
       "correctAnswer": 2
     },
@@ -86,31 +86,31 @@
       "question": "Which empire is known for building ziggurats and developing one of the earliest writing systems, cuneiform?",
       "options": [
         "Egyptian Empire",
-        "Sumerian civilization",
+        "Chinese Empire",
         "Indus Valley civilization",
-        "Chinese Empire"
+        "Sumerian civilization"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "ancient-empires-9",
       "question": "The Inca Empire was centered in which modern-day country?",
       "options": [
-        "Mexico",
         "Brazil",
-        "Peru",
-        "Colombia"
+        "Mexico",
+        "Colombia",
+        "Peru"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "ancient-empires-10",
       "question": "Which Roman emperor made Christianity the official religion of the Roman Empire?",
       "options": [
+        "Nero",
         "Constantine",
-        "Augustus",
         "Theodosius I",
-        "Nero"
+        "Augustus"
       ],
       "correctAnswer": 2
     },
@@ -118,10 +118,10 @@
       "id": "ancient-empires-11",
       "question": "The Maurya Empire, one of the largest empires in ancient India, was founded by whom?",
       "options": [
-        "Ashoka",
-        "Chandragupta Maurya",
         "Bindusara",
-        "Harsha"
+        "Chandragupta Maurya",
+        "Harsha",
+        "Ashoka"
       ],
       "correctAnswer": 1
     },
@@ -129,21 +129,21 @@
       "id": "ancient-empires-12",
       "question": "Which ancient empire is credited with inventing the concept of roads and a postal system across vast territories?",
       "options": [
-        "Roman Empire",
-        "Persian Empire",
         "Chinese Empire",
-        "Greek Empire"
+        "Roman Empire",
+        "Greek Empire",
+        "Persian Empire"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "ancient-empires-13",
       "question": "The fall of which city in 1453 marked the end of the Byzantine Empire?",
       "options": [
-        "Rome",
         "Athens",
+        "Alexandria",
         "Constantinople",
-        "Alexandria"
+        "Rome"
       ],
       "correctAnswer": 2
     },
@@ -151,23 +151,23 @@
       "id": "ancient-empires-14",
       "question": "The Aztec Empire was located in which present-day country?",
       "options": [
-        "Guatemala",
         "Peru",
-        "Mexico",
-        "Honduras"
+        "Guatemala",
+        "Honduras",
+        "Mexico"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "ancient-empires-15",
       "question": "Julius Caesar's crossing of which river in 49 BC was an act of war against the Roman Senate?",
       "options": [
-        "Tiber",
-        "Rhine",
+        "Danube",
         "Rubicon",
-        "Danube"
+        "Rhine",
+        "Tiber"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

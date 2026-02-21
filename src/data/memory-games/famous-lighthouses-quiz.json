@@ -1,0 +1,173 @@
+{
+  "id": "famous-lighthouses-quiz",
+  "title": "Famous Lighthouses Quiz",
+  "description": "Navigate through questions about the world's most iconic lighthouses and their fascinating histories.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-lighthouses-quiz-1",
+      "question": "The Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, was located in which country?",
+      "options": [
+        "Libya",
+        "Greece",
+        "Turkey",
+        "Egypt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-lighthouses-quiz-2",
+      "question": "The Portland Head Light, one of the most photographed lighthouses in America, is in which US state?",
+      "options": [
+        "Rhode Island",
+        "Connecticut",
+        "Massachusetts",
+        "Maine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-lighthouses-quiz-3",
+      "question": "The Tower of Hercules, the world's oldest working lighthouse, is located in which European country?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-lighthouses-quiz-4",
+      "question": "Cape Hatteras Lighthouse, the tallest brick lighthouse in the US, is located in which state?",
+      "options": [
+        "Georgia",
+        "North Carolina",
+        "Virginia",
+        "South Carolina"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-lighthouses-quiz-5",
+      "question": "The Fastnet Lighthouse, known as 'Ireland's Teardrop,' is located off the coast of which Irish county?",
+      "options": [
+        "Clare",
+        "Galway",
+        "Cork",
+        "Kerry"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-lighthouses-quiz-6",
+      "question": "La Jument lighthouse, made famous by a dramatic photograph during a storm, is located off the coast of which region?",
+      "options": [
+        "Normandy, France",
+        "Galicia, Spain",
+        "Brittany, France",
+        "Cornwall, England"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-lighthouses-quiz-7",
+      "question": "The Cape Byron Lighthouse marks the most easterly point of which country's mainland?",
+      "options": [
+        "Japan",
+        "Australia",
+        "South Africa",
+        "New Zealand"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-lighthouses-quiz-8",
+      "question": "Eddystone Lighthouse, one of the most famous in history, is located off the coast of which English county?",
+      "options": [
+        "Somerset",
+        "Cornwall",
+        "Dorset",
+        "Devon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-lighthouses-quiz-9",
+      "question": "The Peggy's Cove Lighthouse, perhaps Canada's most iconic lighthouse, is in which province?",
+      "options": [
+        "Newfoundland",
+        "New Brunswick",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-lighthouses-quiz-10",
+      "question": "The Bell Rock Lighthouse, the world's oldest surviving sea-washed lighthouse, is located off the coast of which country?",
+      "options": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "England"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-lighthouses-quiz-11",
+      "question": "Point Reyes Lighthouse in California was built in 1870 to warn ships of the dangers of which geographic feature?",
+      "options": [
+        "Strong currents",
+        "Dense fog",
+        "Shallow reefs",
+        "Rocky cliffs"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-lighthouses-quiz-12",
+      "question": "The Lindau Lighthouse on Lake Constance is notable for being the southernmost lighthouse in which country?",
+      "options": [
+        "Germany",
+        "Austria",
+        "Switzerland",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-lighthouses-quiz-13",
+      "question": "The Cape Agulhas Lighthouse marks the southernmost point of which continent?",
+      "options": [
+        "Asia",
+        "Australia",
+        "South America",
+        "Africa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-lighthouses-quiz-14",
+      "question": "The Split Point Lighthouse near the Great Ocean Road is a famous landmark in which Australian state?",
+      "options": [
+        "New South Wales",
+        "Tasmania",
+        "Queensland",
+        "Victoria"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-lighthouses-quiz-15",
+      "question": "The Statue of Liberty originally functioned as a lighthouse. For approximately how many years did it serve this purpose?",
+      "options": [
+        "25 years",
+        "40 years",
+        "16 years",
+        "5 years"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

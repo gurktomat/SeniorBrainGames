@@ -1,0 +1,219 @@
+{
+  "id": "gymnastics-history-quiz",
+  "title": "Gymnastics History",
+  "description": "Test your knowledge of gymnastics, from floor exercise to the Olympic legends!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "gymnastics-history-quiz-1",
+      "question": "Which gymnast is the most decorated in World Championship history?",
+      "options": [
+        "Larisa Latynina",
+        "Simone Biles",
+        "Nadia Comaneci",
+        "Vitaly Scherbo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simone Biles is the most decorated gymnast in World Championship history with 30 medals (23 gold). She has also won 7 Olympic medals (4 gold at Rio 2016, 3 at Paris 2024).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-2",
+      "question": "How many apparatus events are there in men's artistic gymnastics?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Men's artistic gymnastics has 6 apparatus events: floor exercise, pommel horse, rings, vault, parallel bars, and horizontal bar (high bar).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-3",
+      "question": "Which Romanian gymnast scored the first perfect 10 in Olympic history at the 1976 Montreal Games?",
+      "options": [
+        "Lavinia Milosovici",
+        "Nadia Comaneci",
+        "Daniela Silivas",
+        "Ecaterina Szabo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nadia Comaneci scored seven perfect 10.0s at the 1976 Montreal Olympics, the first in Olympic gymnastics history. She was just 14 years old at the time.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-4",
+      "question": "What are the apparatus events in women's artistic gymnastics?",
+      "options": [
+        "Floor, vault, beam, rings",
+        "Floor, vault, beam, parallel bars",
+        "Floor, vault, beam, pommel horse",
+        "Floor, vault, beam, uneven bars"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Women's artistic gymnastics has 4 apparatus events: floor exercise, vault, balance beam, and uneven bars. Men have 6 apparatus events.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-5",
+      "question": "What is rhythmic gymnastics?",
+      "options": [
+        "A team gymnastics event",
+        "Gymnastics without any equipment",
+        "Gymnastics done on a trampoline",
+        "Gymnastics performed to music with apparatus like ribbons and hoops"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rhythmic gymnastics combines ballet, dance, and gymnastics, performed with apparatus such as ribbons, hoops, balls, clubs, and ropes. It became an Olympic sport in 1984.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-6",
+      "question": "Which country dominated men's gymnastics at the Olympics during the Cold War era?",
+      "options": [
+        "United States",
+        "Soviet Union",
+        "Japan",
+        "Romania"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Soviet Union dominated men's gymnastics during the Cold War, winning the team gold medal at most Olympics from 1952 through 1988. Japan was their primary rival.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-7",
+      "question": "What is the balance beam?",
+      "options": [
+        "A wide platform for tumbling",
+        "A spring-loaded board for jumping",
+        "A narrow 4-inch wide beam elevated 4 feet off the ground",
+        "A hanging bar for swinging"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The balance beam is a gymnastics apparatus that is approximately 4 inches (10 cm) wide and 4 feet (125 cm) off the ground. Gymnasts perform tumbling, leaps, and turns on it.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-8",
+      "question": "Which American gymnast performed the 'Vault Heard Round the World' at the 1996 Olympics?",
+      "options": [
+        "Dominique Moceanu",
+        "Dominique Dawes",
+        "Kerri Strug",
+        "Shannon Miller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kerri Strug landed her second vault on an injured ankle at the 1996 Atlanta Olympics to secure the team gold medal for the US women's team. She had to be carried to the podium.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-9",
+      "question": "When did trampoline gymnastics become an Olympic sport?",
+      "options": [
+        "1992",
+        "2004",
+        "2000",
+        "1996"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Trampoline gymnastics was introduced as an Olympic sport at the 2000 Sydney Olympics. Athletes perform acrobatic routines on a trampoline, judged on difficulty and execution.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-10",
+      "question": "What is the pommel horse?",
+      "options": [
+        "A balance apparatus with two handles on top",
+        "A rotating platform",
+        "A horse-shaped jumping apparatus",
+        "A small trampoline"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pommel horse is a men's gymnastics apparatus with two handles (pommels) on top. Gymnasts perform continuous circular and scissor movements using their hands for support.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-11",
+      "question": "Which female gymnast holds the record for the most Olympic medals in gymnastics history?",
+      "options": [
+        "Vera Caslavska",
+        "Simone Biles",
+        "Larisa Latynina",
+        "Nadia Comaneci"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Larisa Latynina of the Soviet Union holds the record with 18 Olympic medals in gymnastics (9 gold, 5 silver, 4 bronze) earned across three Olympics (1956, 1960, 1964).",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-12",
+      "question": "What is a 'Yurchenko vault'?",
+      "options": [
+        "A vault with a full twist",
+        "A vault named after a male gymnast",
+        "The highest-difficulty vault",
+        "A vault starting with a round-off onto the springboard"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Yurchenko vault begins with a round-off onto the springboard, followed by a back handspring onto the vault table and a salto. It was pioneered by Natalia Yurchenko in 1982.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-13",
+      "question": "How is gymnastics scored in the modern Olympic scoring system?",
+      "options": [
+        "Difficulty score plus execution score",
+        "On a scale of 1-10",
+        "Judges vote on a winner",
+        "Time-based scoring"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Since 2006, gymnastics uses an open-ended scoring system combining a Difficulty Score (D-score, no maximum) and an Execution Score (E-score, max 10.0), replacing the old 10.0 system.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-14",
+      "question": "What are the rings (still rings) in men's gymnastics?",
+      "options": [
+        "Rings worn on fingers",
+        "Two suspended rings held during strength and swing movements",
+        "Ring-shaped targets for vaulting",
+        "A circular apparatus on the floor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The still rings are two rings suspended from straps at a height of 2.8 meters. Gymnasts perform strength holds, swings, and acrobatic elements while maintaining stability in the rings.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "gymnastics-history-quiz-15",
+      "question": "Which gymnast has the most skills named after her in the Code of Points?",
+      "options": [
+        "Nadia Comaneci",
+        "Simone Biles",
+        "Oksana Chusovitina",
+        "Svetlana Khorkina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simone Biles has multiple skills named after her in the gymnastics Code of Points across floor, beam, and vault, reflecting her innovation and exceptional difficulty level.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

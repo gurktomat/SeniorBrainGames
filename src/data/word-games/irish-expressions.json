@@ -7,92 +7,167 @@
     {
       "id": "irish-expressions-1",
       "question": "What does 'craic' (pronounced 'crack') mean in Irish English?",
-      "options": ["A type of bread", "Fun, entertainment, and enjoyable conversation", "A narrow lane or alley", "A crack in a stone wall"],
-      "correctAnswer": 1
+      "options": [
+        "A crack in a stone wall",
+        "A narrow lane or alley",
+        "A type of bread",
+        "Fun, entertainment, and enjoyable conversation"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "irish-expressions-2",
       "question": "What does 'grand' typically mean in Irish English?",
-      "options": ["Wealthy and prestigious", "Fine, okay, or satisfactory", "Very large in size", "Extremely important"],
-      "correctAnswer": 1
+      "options": [
+        "Wealthy and prestigious",
+        "Very large in size",
+        "Fine, okay, or satisfactory",
+        "Extremely important"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-3",
       "question": "What is a 'colleen' in Irish English?",
-      "options": ["A type of stew", "A girl or young woman", "A green hillside", "A folk song"],
-      "correctAnswer": 1
+      "options": [
+        "A type of stew",
+        "A green hillside",
+        "A folk song",
+        "A girl or young woman"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "irish-expressions-4",
       "question": "What does 'slainte' (pronounced 'slawn-cha') mean?",
-      "options": ["Goodbye", "Health — used as a toast when drinking", "Welcome to my home", "Good morning"],
-      "correctAnswer": 1
+      "options": [
+        "Good morning",
+        "Welcome to my home",
+        "Health — used as a toast when drinking",
+        "Goodbye"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-5",
       "question": "What does 'eejit' mean in Irish slang?",
-      "options": ["A clever person", "A foolish person", "An elderly relative", "A type of dance"],
+      "options": [
+        "An elderly relative",
+        "A foolish person",
+        "A clever person",
+        "A type of dance"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "irish-expressions-6",
       "question": "What does 'banjaxed' mean in Irish English?",
-      "options": ["Extremely happy", "Broken, ruined, or not working", "Beautifully decorated", "Well-rested"],
-      "correctAnswer": 1
+      "options": [
+        "Extremely happy",
+        "Beautifully decorated",
+        "Broken, ruined, or not working",
+        "Well-rested"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-7",
       "question": "What is a 'leprechaun' in Irish folklore?",
-      "options": ["A giant warrior", "A small fairy-like creature, often a shoemaker, who hides gold", "A magical horse", "A sea monster"],
-      "correctAnswer": 1
+      "options": [
+        "A small fairy-like creature, often a shoemaker, who hides gold",
+        "A giant warrior",
+        "A sea monster",
+        "A magical horse"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "irish-expressions-8",
       "question": "What does 'bold' mean when an Irish person describes a child as bold?",
-      "options": ["Brave and courageous", "Naughty or misbehaving", "Very clever", "Shy and quiet"],
-      "correctAnswer": 1
+      "options": [
+        "Naughty or misbehaving",
+        "Shy and quiet",
+        "Brave and courageous",
+        "Very clever"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "irish-expressions-9",
       "question": "What is a 'shamrock' traditionally associated with in Ireland?",
-      "options": ["Christmas celebrations", "Saint Patrick, who used it to explain the Holy Trinity", "Ancient Irish kings", "The harvest festival"],
-      "correctAnswer": 1
+      "options": [
+        "Saint Patrick, who used it to explain the Holy Trinity",
+        "Ancient Irish kings",
+        "The harvest festival",
+        "Christmas celebrations"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "irish-expressions-10",
       "question": "What does 'keen' or 'keening' mean in Irish tradition?",
-      "options": ["Being very enthusiastic", "A wailing lament for the dead", "Sharpening a knife", "A lively dance"],
+      "options": [
+        "Being very enthusiastic",
+        "A wailing lament for the dead",
+        "Sharpening a knife",
+        "A lively dance"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "irish-expressions-11",
       "question": "What does 'the press' refer to in many Irish households?",
-      "options": ["The newspaper", "A kitchen cupboard", "An ironing board", "The front door"],
+      "options": [
+        "The front door",
+        "A kitchen cupboard",
+        "An ironing board",
+        "The newspaper"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "irish-expressions-12",
       "question": "What does 'acting the maggot' mean in Irish English?",
-      "options": ["Being very busy", "Fooling around or misbehaving", "Fishing for bait", "Feeling unwell"],
-      "correctAnswer": 1
+      "options": [
+        "Being very busy",
+        "Fishing for bait",
+        "Fooling around or misbehaving",
+        "Feeling unwell"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-13",
       "question": "What is a 'banshee' in Irish folklore?",
-      "options": ["A friendly house spirit", "A female spirit whose wailing warns of an approaching death", "A fairy queen", "A goblin that steals children"],
-      "correctAnswer": 1
+      "options": [
+        "A fairy queen",
+        "A goblin that steals children",
+        "A female spirit whose wailing warns of an approaching death",
+        "A friendly house spirit"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-14",
       "question": "What does 'donkey's years' mean in Irish (and British) English?",
-      "options": ["Exactly twelve months", "A very long time", "The lifespan of a donkey", "Two or three years"],
-      "correctAnswer": 1
+      "options": [
+        "Two or three years",
+        "Exactly twelve months",
+        "A very long time",
+        "The lifespan of a donkey"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "irish-expressions-15",
       "question": "What does 'codding' mean in Irish slang?",
-      "options": ["Fishing for cod", "Joking or fooling someone", "Wrapping something up", "Cooking a meal"],
-      "correctAnswer": 1
+      "options": [
+        "Wrapping something up",
+        "Fishing for cod",
+        "Joking or fooling someone",
+        "Cooking a meal"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "id": "famous-movie-directors",
+  "title": "Famous Movie Directors",
+  "description": "From Hitchcock to Spielberg -- how well do you know the visionary directors who shaped cinema history?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "famous-movie-directors-1",
+      "question": "Which director was known as 'The Master of Suspense'?",
+      "options": [
+        "Billy Wilder",
+        "Alfred Hitchcock",
+        "Fritz Lang",
+        "Orson Welles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-movie-directors-2",
+      "question": "Who directed 'Citizen Kane' (1941), widely considered one of the greatest films ever made?",
+      "options": [
+        "John Ford",
+        "Howard Hawks",
+        "Orson Welles",
+        "William Wyler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-movie-directors-3",
+      "question": "John Ford won four Best Director Academy Awards, more than any other director. Which genre was his specialty?",
+      "options": [
+        "Film noir",
+        "Comedies",
+        "Westerns",
+        "Musicals"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-movie-directors-4",
+      "question": "Which director created 'Some Like It Hot' (1959) and 'The Apartment' (1960)?",
+      "options": [
+        "Billy Wilder",
+        "Ernst Lubitsch",
+        "Howard Hawks",
+        "George Cukor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-movie-directors-5",
+      "question": "Cecil B. DeMille was famous for directing which type of spectacle film?",
+      "options": [
+        "Romantic comedies",
+        "Biblical epics",
+        "War documentaries",
+        "Horror films"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-movie-directors-6",
+      "question": "Which Italian director created 'La Dolce Vita' (1960) and '8 1/2' (1963)?",
+      "options": [
+        "Luchino Visconti",
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Federico Fellini"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-movie-directors-7",
+      "question": "Who directed the epic film 'The Bridge on the River Kwai' (1957)?",
+      "options": [
+        "Michael Curtiz",
+        "John Huston",
+        "Carol Reed",
+        "David Lean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-movie-directors-8",
+      "question": "Which director made 'Rear Window,' 'Vertigo,' and 'North by Northwest'?",
+      "options": [
+        "Howard Hawks",
+        "William Wyler",
+        "Alfred Hitchcock",
+        "Otto Preminger"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-movie-directors-9",
+      "question": "Steven Spielberg directed 'Jaws' and 'Close Encounters of the Third Kind' in which decade?",
+      "options": [
+        "1990s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-movie-directors-10",
+      "question": "Which director is known for 'The Godfather' trilogy and 'Apocalypse Now'?",
+      "options": [
+        "William Friedkin",
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Brian De Palma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-movie-directors-11",
+      "question": "Who directed the classic horror film 'Frankenstein' (1931) and its sequel 'Bride of Frankenstein' (1935)?",
+      "options": [
+        "James Whale",
+        "Tod Browning",
+        "Karl Freund",
+        "Robert Wise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-movie-directors-12",
+      "question": "Which legendary Japanese director created 'Seven Samurai' (1954) and 'Rashomon' (1950)?",
+      "options": [
+        "Hayao Miyazaki",
+        "Yasujiro Ozu",
+        "Akira Kurosawa",
+        "Kenji Mizoguchi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-movie-directors-13",
+      "question": "Who directed 'Casablanca' (1942), one of Hollywood's most beloved films?",
+      "options": [
+        "Raoul Walsh",
+        "John Huston",
+        "Howard Hawks",
+        "Michael Curtiz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-movie-directors-14",
+      "question": "Which director made 'Taxi Driver' (1976) and 'Raging Bull' (1980)?",
+      "options": [
+        "Peter Bogdanovich",
+        "Sidney Lumet",
+        "Hal Ashby",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-movie-directors-15",
+      "question": "Who directed '2001: A Space Odyssey' (1968) and 'A Clockwork Orange' (1971)?",
+      "options": [
+        "Andrei Tarkovsky",
+        "Ridley Scott",
+        "Stanley Kubrick",
+        "Roman Polanski"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

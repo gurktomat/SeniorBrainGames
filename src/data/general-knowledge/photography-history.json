@@ -1,0 +1,219 @@
+{
+  "id": "photography-history",
+  "title": "Photography History",
+  "description": "Journey through the fascinating history of photography, from daguerreotypes to digital cameras!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "photography-history-1",
+      "question": "Who is credited with creating the first permanent photograph in 1826 or 1827?",
+      "options": [
+        "Louis Daguerre",
+        "George Eastman",
+        "Joseph Nicéphore Niépce",
+        "William Henry Fox Talbot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Niépce created 'View from the Window at Le Gras' using a process called heliography. The exposure reportedly took several hours or possibly days to complete.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-2",
+      "question": "What was the daguerreotype, introduced in 1839?",
+      "options": [
+        "An early photographic process using silver-coated copper plates",
+        "A type of camera",
+        "A style of portrait photography",
+        "A photo developing chemical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Louis Daguerre developed the daguerreotype process, which produced a unique image on a polished silver-coated copper plate. It was the first commercially practical photographic process.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-3",
+      "question": "Which company founder popularized photography with the slogan 'You press the button, we do the rest'?",
+      "options": [
+        "George Eastman",
+        "Thomas Edison",
+        "Edwin Land",
+        "Alexander Graham Bell"
+      ],
+      "correctAnswer": 0,
+      "explanation": "George Eastman founded Kodak in 1888 and introduced the first simple, affordable camera. His slogan reflected the ease of use — customers sent the entire camera back to Kodak for developing.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-4",
+      "question": "Ansel Adams is best known for his stunning black-and-white photographs of what subject?",
+      "options": [
+        "War zones",
+        "City streets",
+        "The American West and national parks",
+        "Fashion models"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ansel Adams captured majestic landscapes of Yosemite, the Sierra Nevada, and other American wilderness areas. He also co-developed the 'Zone System' for precise exposure control.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-5",
+      "question": "What does the term 'photography' literally mean, from its Greek roots?",
+      "options": [
+        "Captured image",
+        "Drawing with light",
+        "True vision",
+        "Frozen time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'photography' comes from Greek 'photos' (light) and 'graphe' (drawing or writing). It was first used by scientist Sir John Herschel in 1839.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-6",
+      "question": "Which photographer documented the horrors of the American Civil War?",
+      "options": [
+        "Edward Steichen",
+        "Mathew Brady",
+        "Ansel Adams",
+        "Alfred Stieglitz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mathew Brady and his team of photographers captured thousands of images during the Civil War, bringing the reality of warfare to the public for the first time through photography.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-7",
+      "question": "Edwin Land's company Polaroid introduced what revolutionary product in 1948?",
+      "options": [
+        "Color film",
+        "The instant camera",
+        "The 35mm film camera",
+        "The digital camera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Polaroid Model 95 was the first instant camera, producing a finished print in about 60 seconds. Land was inspired when his daughter asked why she couldn't see a photo right away.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-8",
+      "question": "Dorothea Lange's iconic 1936 photograph 'Migrant Mother' documented what era?",
+      "options": [
+        "The Roaring Twenties",
+        "The Great Depression",
+        "World War II",
+        "World War I"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lange photographed Florence Owens Thompson and her children at a pea-pickers' camp in California. The image became the defining photograph of the Great Depression.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-9",
+      "question": "What innovation by Oskar Barnack led to the creation of the Leica camera in the 1920s?",
+      "options": [
+        "Using 35mm movie film for still photography",
+        "Inventing the flash bulb",
+        "Creating the first zoom lens",
+        "Developing auto-focus technology"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oskar Barnack adapted 35mm cinema film for use in a compact still camera, creating the Leica I. This revolutionized photography by making cameras small and portable enough for street photography.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-10",
+      "question": "Which photographer is known for his 'decisive moment' philosophy of capturing spontaneous events?",
+      "options": [
+        "Richard Avedon",
+        "Irving Penn",
+        "Henri Cartier-Bresson",
+        "Robert Capa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Henri Cartier-Bresson coined the concept of 'the decisive moment' — capturing an event at the precise instant that is most revealing. He co-founded the Magnum Photos agency in 1947.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-11",
+      "question": "When was the first commercially available digital camera sold to consumers?",
+      "options": [
+        "1985",
+        "1995",
+        "1990",
+        "1975"
+      ],
+      "correctAnswer": 2,
+      "explanation": "While Kodak engineer Steven Sasson built a prototype digital camera in 1975, the first consumer digital cameras appeared around 1990, including the Dycam Model 1 (also sold as the Logitech Fotoman).",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-12",
+      "question": "What type of photography did Edward Weston and Imogen Cunningham pioneer with their sharp, detailed images?",
+      "options": [
+        "Straight photography",
+        "Pictorialism",
+        "Surrealist photography",
+        "Abstract photography"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Straight photography emphasized sharp focus, full tonal range, and precise composition without manipulation. Weston and Cunningham were founding members of Group f/64, named after a small aperture setting.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-13",
+      "question": "The famous 'Earthrise' photograph, showing Earth from the Moon, was taken during which mission?",
+      "options": [
+        "Apollo 11",
+        "Apollo 13",
+        "Apollo 8",
+        "Gemini 7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Astronaut William Anders took the 'Earthrise' photo on December 24, 1968 during the Apollo 8 mission. It was one of the first color photos of Earth from space and became an icon of the environmental movement.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-14",
+      "question": "What does SLR stand for in camera terminology?",
+      "options": [
+        "Stabilized Light Receiver",
+        "Single Lens Reflex",
+        "Standard Lens Reflex",
+        "Synchronized Lens Rotation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SLR stands for Single Lens Reflex. These cameras use a mirror and prism system so the photographer sees through the same lens that takes the picture, ensuring accurate framing.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "photography-history-15",
+      "question": "Which photographer was known for powerful portraits of working-class Americans, including 'American Gothic' parodies?",
+      "options": [
+        "Gordon Parks",
+        "Walker Evans",
+        "Weegee",
+        "Robert Frank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Walker Evans documented American life during the Great Depression for the Farm Security Administration. His book 'American Photographs' (1938) is considered one of the most influential photography books ever published.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

@@ -7,8 +7,13 @@
     {
       "id": "garden-1",
       "question": "What flower is traditionally associated with love and romance?",
-      "options": ["Daisy", "Rose", "Tulip", "Carnation"],
-      "correctAnswer": 1,
+      "options": [
+        "Tulip",
+        "Daisy",
+        "Rose",
+        "Carnation"
+      ],
+      "correctAnswer": 2,
       "explanation": "The red rose has been a symbol of love and romance for centuries, dating back to ancient Greek and Roman mythology where it was linked to Aphrodite and Venus.",
       "difficulty": "easy",
       "category": "nature"
@@ -16,7 +21,12 @@
     {
       "id": "garden-2",
       "question": "Sunflowers are known for a behavior called heliotropism. What does this mean?",
-      "options": ["They only bloom at sunrise", "Young sunflowers track the sun across the sky", "They need no water", "They repel insects with their scent"],
+      "options": [
+        "They only bloom at sunrise",
+        "Young sunflowers track the sun across the sky",
+        "They repel insects with their scent",
+        "They need no water"
+      ],
       "correctAnswer": 1,
       "explanation": "Young sunflowers exhibit heliotropism, turning their heads to follow the sun from east to west during the day. Mature sunflowers generally face east.",
       "difficulty": "easy",
@@ -25,8 +35,13 @@
     {
       "id": "garden-3",
       "question": "Which vegetable is the easiest for beginners to grow and can be harvested in as few as 25 days?",
-      "options": ["Tomato", "Carrot", "Radish", "Pepper"],
-      "correctAnswer": 2,
+      "options": [
+        "Carrot",
+        "Tomato",
+        "Pepper",
+        "Radish"
+      ],
+      "correctAnswer": 3,
       "explanation": "Radishes are one of the fastest-growing vegetables, with some varieties ready to harvest in just 25 to 30 days, making them ideal for beginner gardeners.",
       "difficulty": "easy",
       "category": "nature"
@@ -34,7 +49,12 @@
     {
       "id": "garden-4",
       "question": "What is the primary purpose of adding compost to garden soil?",
-      "options": ["To make the soil look darker", "To keep weeds from growing", "To improve soil structure and add nutrients", "To prevent frost damage"],
+      "options": [
+        "To keep weeds from growing",
+        "To make the soil look darker",
+        "To improve soil structure and add nutrients",
+        "To prevent frost damage"
+      ],
       "correctAnswer": 2,
       "explanation": "Compost enriches soil by improving its structure, water retention, and drainage while adding essential nutrients like nitrogen, phosphorus, and potassium that plants need to thrive.",
       "difficulty": "easy",
@@ -43,7 +63,12 @@
     {
       "id": "garden-5",
       "question": "Which common herb is often called the 'king of herbs' in cooking?",
-      "options": ["Oregano", "Thyme", "Basil", "Parsley"],
+      "options": [
+        "Parsley",
+        "Thyme",
+        "Basil",
+        "Oregano"
+      ],
       "correctAnswer": 2,
       "explanation": "Basil is frequently called the 'king of herbs' due to its widespread use in cuisines around the world, especially Italian cooking. The name basil even derives from the Greek word 'basileus,' meaning king.",
       "difficulty": "easy",
@@ -52,8 +77,13 @@
     {
       "id": "garden-6",
       "question": "In the language of flowers (floriography), what do white lilies symbolize?",
-      "options": ["Jealousy", "Purity and innocence", "Wealth and prosperity", "Sorrow and grief"],
-      "correctAnswer": 1,
+      "options": [
+        "Purity and innocence",
+        "Sorrow and grief",
+        "Wealth and prosperity",
+        "Jealousy"
+      ],
+      "correctAnswer": 0,
       "explanation": "White lilies have long symbolized purity, innocence, and virtue. They are commonly used in weddings and religious ceremonies, including Easter celebrations.",
       "difficulty": "medium",
       "category": "nature"
@@ -61,7 +91,12 @@
     {
       "id": "garden-7",
       "question": "Which country was the center of 'Tulip Mania,' a famous economic bubble in the 1630s?",
-      "options": ["England", "France", "The Netherlands", "Spain"],
+      "options": [
+        "England",
+        "France",
+        "The Netherlands",
+        "Spain"
+      ],
       "correctAnswer": 2,
       "explanation": "Tulip Mania occurred in the Dutch Republic (The Netherlands) around 1636-1637, when prices for some tulip bulbs reached extraordinarily high levels before dramatically collapsing.",
       "difficulty": "medium",
@@ -70,8 +105,13 @@
     {
       "id": "garden-8",
       "question": "What is 'deadheading' in gardening?",
-      "options": ["Removing dead trees from a yard", "Cutting off spent flower blooms", "Pulling up plants at the end of the season", "Trimming roots below the soil"],
-      "correctAnswer": 1,
+      "options": [
+        "Trimming roots below the soil",
+        "Pulling up plants at the end of the season",
+        "Removing dead trees from a yard",
+        "Cutting off spent flower blooms"
+      ],
+      "correctAnswer": 3,
       "explanation": "Deadheading is the practice of removing faded or spent flower blooms from a plant. This encourages the plant to produce more flowers rather than directing energy into seed production.",
       "difficulty": "medium",
       "category": "nature"
@@ -79,7 +119,12 @@
     {
       "id": "garden-9",
       "question": "Which U.S. state has the bluebonnet as its state flower?",
-      "options": ["Georgia", "Texas", "Kentucky", "Virginia"],
+      "options": [
+        "Kentucky",
+        "Texas",
+        "Virginia",
+        "Georgia"
+      ],
       "correctAnswer": 1,
       "explanation": "The bluebonnet (Lupinus texensis) was designated the state flower of Texas in 1901. Each spring, vast fields of bluebonnets blanket the Texas Hill Country.",
       "difficulty": "medium",
@@ -88,7 +133,12 @@
     {
       "id": "garden-10",
       "question": "What gardening technique involves planting mutually beneficial crops close together, such as corn, beans, and squash?",
-      "options": ["Hydroponics", "Companion planting", "Espalier", "Grafting"],
+      "options": [
+        "Grafting",
+        "Companion planting",
+        "Espalier",
+        "Hydroponics"
+      ],
       "correctAnswer": 1,
       "explanation": "Companion planting places compatible crops together for mutual benefit. The 'Three Sisters' method — corn, beans, and squash — is a famous example used by Native Americans: corn provides a structure for beans to climb, beans fix nitrogen in the soil, and squash shades the ground to retain moisture.",
       "difficulty": "medium",
@@ -97,8 +147,13 @@
     {
       "id": "garden-11",
       "question": "The famous Gardens of Versailles were commissioned by which French king?",
-      "options": ["Louis XIII", "Louis XIV", "Louis XV", "Napoleon Bonaparte"],
-      "correctAnswer": 1,
+      "options": [
+        "Louis XIV",
+        "Louis XV",
+        "Louis XIII",
+        "Napoleon Bonaparte"
+      ],
+      "correctAnswer": 0,
       "explanation": "Louis XIV, the Sun King, commissioned the elaborate Gardens of Versailles. Landscape architect André Le Nôtre designed the gardens beginning in 1661, and they became a model for formal gardens throughout Europe.",
       "difficulty": "hard",
       "category": "nature"
@@ -106,7 +161,12 @@
     {
       "id": "garden-12",
       "question": "Orchids belong to one of the largest families of flowering plants. Approximately how many known species exist?",
-      "options": ["About 5,000", "About 10,000", "About 28,000", "About 50,000"],
+      "options": [
+        "About 10,000",
+        "About 5,000",
+        "About 28,000",
+        "About 50,000"
+      ],
       "correctAnswer": 2,
       "explanation": "The orchid family (Orchidaceae) contains approximately 28,000 known species, making it one of the two largest families of flowering plants. They are found on every continent except Antarctica.",
       "difficulty": "hard",
@@ -115,8 +175,13 @@
     {
       "id": "garden-13",
       "question": "What is the term for the practice of training fruit trees to grow flat against a wall or trellis?",
-      "options": ["Topiary", "Espalier", "Pollarding", "Coppicing"],
-      "correctAnswer": 1,
+      "options": [
+        "Coppicing",
+        "Topiary",
+        "Pollarding",
+        "Espalier"
+      ],
+      "correctAnswer": 3,
       "explanation": "Espalier is the horticultural technique of training trees or shrubs to grow flat against a wall, fence, or trellis. It dates back to ancient Rome and was widely used in medieval European gardens to maximize fruit production in limited spaces.",
       "difficulty": "hard",
       "category": "nature"
@@ -124,8 +189,13 @@
     {
       "id": "garden-14",
       "question": "What does a soil pH of 7.0 indicate?",
-      "options": ["Highly acidic soil", "Neutral soil", "Highly alkaline soil", "Depleted soil with no nutrients"],
-      "correctAnswer": 1,
+      "options": [
+        "Depleted soil with no nutrients",
+        "Highly alkaline soil",
+        "Neutral soil",
+        "Highly acidic soil"
+      ],
+      "correctAnswer": 2,
       "explanation": "A pH of 7.0 is neutral on the pH scale. Values below 7 are acidic and values above 7 are alkaline. Most garden plants prefer a slightly acidic to neutral pH between 6.0 and 7.0.",
       "difficulty": "hard",
       "category": "nature"
@@ -133,8 +203,13 @@
     {
       "id": "garden-15",
       "question": "The corpse flower (Amorphophallus titanum) is famous for its enormous bloom and foul smell. How often does it typically flower?",
-      "options": ["Once a year", "Every 2 to 3 years", "Every 7 to 10 years", "Only once in its lifetime"],
-      "correctAnswer": 2,
+      "options": [
+        "Every 2 to 3 years",
+        "Every 7 to 10 years",
+        "Only once in its lifetime",
+        "Once a year"
+      ],
+      "correctAnswer": 1,
       "explanation": "The corpse flower blooms very rarely, typically once every 7 to 10 years in cultivation. When it does bloom, the flower can reach over 10 feet tall and emits a powerful odor resembling rotting flesh to attract pollinating beetles and flies.",
       "difficulty": "hard",
       "category": "nature"

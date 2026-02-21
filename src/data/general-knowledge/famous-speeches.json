@@ -8,7 +8,12 @@
     {
       "id": "fs-1",
       "question": "Who said 'I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin'?",
-      "options": ["Malcolm X", "Martin Luther King Jr.", "Frederick Douglass", "Jesse Jackson"],
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Frederick Douglass",
+        "Jesse Jackson"
+      ],
       "correctAnswer": 1,
       "explanation": "Martin Luther King Jr. delivered his iconic 'I Have a Dream' speech at the March on Washington on August 28, 1963.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "fs-2",
       "question": "Who declared 'The only thing we have to fear is fear itself'?",
-      "options": ["Winston Churchill", "Theodore Roosevelt", "Franklin D. Roosevelt", "John F. Kennedy"],
-      "correctAnswer": 2,
+      "options": [
+        "Winston Churchill",
+        "Theodore Roosevelt",
+        "John F. Kennedy",
+        "Franklin D. Roosevelt"
+      ],
+      "correctAnswer": 3,
       "explanation": "FDR spoke these words during his first inaugural address on March 4, 1933, during the depths of the Great Depression.",
       "difficulty": "easy",
       "category": "history"
@@ -26,8 +36,13 @@
     {
       "id": "fs-3",
       "question": "Who said 'Ask not what your country can do for you — ask what you can do for your country'?",
-      "options": ["Abraham Lincoln", "John F. Kennedy", "Ronald Reagan", "Barack Obama"],
-      "correctAnswer": 1,
+      "options": [
+        "John F. Kennedy",
+        "Barack Obama",
+        "Ronald Reagan",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": 0,
       "explanation": "JFK delivered this famous line during his inaugural address on January 20, 1961.",
       "difficulty": "easy",
       "category": "history"
@@ -35,8 +50,13 @@
     {
       "id": "fs-4",
       "question": "Who said 'We shall fight on the beaches, we shall fight on the landing grounds... we shall never surrender'?",
-      "options": ["Charles de Gaulle", "Winston Churchill", "Dwight Eisenhower", "Franklin Roosevelt"],
-      "correctAnswer": 1,
+      "options": [
+        "Winston Churchill",
+        "Franklin Roosevelt",
+        "Charles de Gaulle",
+        "Dwight Eisenhower"
+      ],
+      "correctAnswer": 0,
       "explanation": "Winston Churchill delivered this defiant speech to Parliament on June 4, 1940, after the evacuation of Dunkirk.",
       "difficulty": "easy",
       "category": "history"
@@ -44,7 +64,12 @@
     {
       "id": "fs-5",
       "question": "Who proclaimed 'That's one small step for man, one giant leap for mankind'?",
-      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Alan Shepard"],
+      "options": [
+        "Alan Shepard",
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "John Glenn"
+      ],
       "correctAnswer": 2,
       "explanation": "Neil Armstrong spoke these words as he became the first person to walk on the Moon on July 20, 1969.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "fs-6",
       "question": "Who said 'Mr. Gorbachev, tear down this wall!'?",
-      "options": ["George H.W. Bush", "Ronald Reagan", "Jimmy Carter", "Margaret Thatcher"],
-      "correctAnswer": 1,
+      "options": [
+        "Jimmy Carter",
+        "George H.W. Bush",
+        "Margaret Thatcher",
+        "Ronald Reagan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ronald Reagan made this demand at the Berlin Wall on June 12, 1987. The wall came down two years later in 1989.",
       "difficulty": "medium",
       "category": "history"
@@ -62,7 +92,12 @@
     {
       "id": "fs-7",
       "question": "Who said 'Give me liberty, or give me death!'?",
-      "options": ["Thomas Jefferson", "Benjamin Franklin", "Patrick Henry", "Samuel Adams"],
+      "options": [
+        "Thomas Jefferson",
+        "Samuel Adams",
+        "Patrick Henry",
+        "Benjamin Franklin"
+      ],
       "correctAnswer": 2,
       "explanation": "Patrick Henry delivered this impassioned plea for American independence in 1775, helping convince Virginia to join the Revolution.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "fs-8",
       "question": "Who said 'I came, I saw, I conquered' (Veni, vidi, vici)?",
-      "options": ["Alexander the Great", "Julius Caesar", "Napoleon Bonaparte", "Augustus"],
-      "correctAnswer": 1,
+      "options": [
+        "Alexander the Great",
+        "Augustus",
+        "Napoleon Bonaparte",
+        "Julius Caesar"
+      ],
+      "correctAnswer": 3,
       "explanation": "Julius Caesar reportedly said this in 47 BC after a quick victory at the Battle of Zela.",
       "difficulty": "medium",
       "category": "history"
@@ -80,7 +120,12 @@
     {
       "id": "fs-9",
       "question": "Who said 'Ich bin ein Berliner' (I am a Berliner)?",
-      "options": ["Konrad Adenauer", "John F. Kennedy", "Willy Brandt", "Ronald Reagan"],
+      "options": [
+        "Ronald Reagan",
+        "John F. Kennedy",
+        "Willy Brandt",
+        "Konrad Adenauer"
+      ],
       "correctAnswer": 1,
       "explanation": "JFK declared solidarity with West Berlin in this 1963 speech, delivered in German to a crowd of 450,000.",
       "difficulty": "medium",
@@ -89,7 +134,12 @@
     {
       "id": "fs-10",
       "question": "Who delivered the Gettysburg Address beginning 'Four score and seven years ago'?",
-      "options": ["George Washington", "Abraham Lincoln", "Ulysses S. Grant", "Andrew Johnson"],
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Ulysses S. Grant",
+        "Andrew Johnson"
+      ],
       "correctAnswer": 1,
       "explanation": "Abraham Lincoln delivered the brief but powerful Gettysburg Address on November 19, 1863, during the Civil War.",
       "difficulty": "easy",
@@ -98,8 +148,13 @@
     {
       "id": "fs-11",
       "question": "Who said 'The ballot is stronger than the bullet'?",
-      "options": ["Susan B. Anthony", "Abraham Lincoln", "Mahatma Gandhi", "Nelson Mandela"],
-      "correctAnswer": 1,
+      "options": [
+        "Mahatma Gandhi",
+        "Nelson Mandela",
+        "Abraham Lincoln",
+        "Susan B. Anthony"
+      ],
+      "correctAnswer": 2,
       "explanation": "Abraham Lincoln made this statement emphasizing the power of democratic voting over violence.",
       "difficulty": "hard",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "fs-12",
       "question": "Who said 'Be the change that you wish to see in the world'?",
-      "options": ["Mother Teresa", "Nelson Mandela", "Mahatma Gandhi", "Dalai Lama"],
-      "correctAnswer": 2,
+      "options": [
+        "Mahatma Gandhi",
+        "Dalai Lama",
+        "Nelson Mandela",
+        "Mother Teresa"
+      ],
+      "correctAnswer": 0,
       "explanation": "This quote is widely attributed to Mahatma Gandhi, the leader of India's nonviolent independence movement.",
       "difficulty": "medium",
       "category": "history"
@@ -116,7 +176,12 @@
     {
       "id": "fs-13",
       "question": "Who said 'We hold these truths to be self-evident, that all men are created equal'?",
-      "options": ["Benjamin Franklin", "John Adams", "Thomas Jefferson", "James Madison"],
+      "options": [
+        "John Adams",
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
       "correctAnswer": 2,
       "explanation": "Thomas Jefferson wrote these words in the Declaration of Independence, adopted on July 4, 1776.",
       "difficulty": "medium",
@@ -125,8 +190,13 @@
     {
       "id": "fs-14",
       "question": "Who said 'That which does not kill us makes us stronger'?",
-      "options": ["Sigmund Freud", "Friedrich Nietzsche", "Albert Einstein", "Aristotle"],
-      "correctAnswer": 1,
+      "options": [
+        "Friedrich Nietzsche",
+        "Sigmund Freud",
+        "Albert Einstein",
+        "Aristotle"
+      ],
+      "correctAnswer": 0,
       "explanation": "Friedrich Nietzsche wrote this famous aphorism in 'Twilight of the Idols' in 1888.",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "fs-15",
       "question": "Who said 'A woman is like a tea bag — you never know how strong it is until it's in hot water'?",
-      "options": ["Margaret Thatcher", "Eleanor Roosevelt", "Amelia Earhart", "Rosa Parks"],
-      "correctAnswer": 1,
+      "options": [
+        "Margaret Thatcher",
+        "Rosa Parks",
+        "Eleanor Roosevelt",
+        "Amelia Earhart"
+      ],
+      "correctAnswer": 2,
       "explanation": "This quote is attributed to Eleanor Roosevelt, who served as First Lady and later as a UN delegate and human rights champion.",
       "difficulty": "hard",
       "category": "history"

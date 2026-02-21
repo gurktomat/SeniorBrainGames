@@ -1,0 +1,173 @@
+{
+  "id": "endangered-species-quiz",
+  "title": "Endangered Species",
+  "description": "How much do you know about the world's most threatened animals and the efforts to save them?",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "endangered-species-quiz-1",
+      "question": "Which organization maintains the 'Red List' of threatened species?",
+      "options": [
+        "UNESCO",
+        "IUCN",
+        "WWF",
+        "Greenpeace"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-quiz-2",
+      "question": "The giant panda was reclassified from 'Endangered' to what status in 2016?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Near Threatened",
+        "Conservation Dependent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-quiz-3",
+      "question": "Which rhinoceros species has been declared functionally extinct in the wild with only two females remaining?",
+      "options": [
+        "Northern white rhino",
+        "Black rhino",
+        "Indian rhino",
+        "Sumatran rhino"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-quiz-4",
+      "question": "The vaquita, the world's most endangered marine mammal, is found only in which body of water?",
+      "options": [
+        "Gulf of California",
+        "Coral Sea",
+        "Bay of Bengal",
+        "Mediterranean Sea"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-quiz-5",
+      "question": "What is the primary threat to orangutans in Borneo and Sumatra?",
+      "options": [
+        "Poaching",
+        "Habitat loss from palm oil plantations",
+        "Disease",
+        "Climate change"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-quiz-6",
+      "question": "The California condor was brought back from the brink of extinction. How many were left in 1987?",
+      "options": [
+        "200",
+        "50",
+        "22",
+        "100"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-quiz-7",
+      "question": "Which sea turtle species is critically endangered and known for its beautiful shell?",
+      "options": [
+        "Leatherback",
+        "Green turtle",
+        "Hawksbill",
+        "Loggerhead"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-quiz-8",
+      "question": "The Amur leopard, one of the rarest big cats, is native to which region?",
+      "options": [
+        "Russian Far East",
+        "Africa",
+        "India",
+        "South America"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-quiz-9",
+      "question": "What is the biggest threat to elephant populations worldwide?",
+      "options": [
+        "Ivory poaching",
+        "Climate change",
+        "Both habitat loss and poaching",
+        "Habitat loss"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-quiz-10",
+      "question": "The kakapo, a critically endangered flightless parrot, is native to which country?",
+      "options": [
+        "New Zealand",
+        "Papua New Guinea",
+        "Madagascar",
+        "Australia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-quiz-11",
+      "question": "Which whale species was hunted nearly to extinction and remains endangered despite a whaling ban?",
+      "options": [
+        "Minke whale",
+        "Blue whale",
+        "Gray whale",
+        "Humpback whale"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-quiz-12",
+      "question": "The pangolin holds what unfortunate distinction?",
+      "options": [
+        "Most trafficked animal in the world",
+        "Smallest mammal",
+        "Longest endangered listing",
+        "Fastest declining population"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-quiz-13",
+      "question": "What conservation program breeds endangered species in captivity for release into the wild?",
+      "options": [
+        "Gene banking",
+        "Wildlife corridor",
+        "Habitat restoration",
+        "Captive breeding program"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "endangered-species-quiz-14",
+      "question": "The mountain gorilla population has increased thanks to conservation efforts in which African region?",
+      "options": [
+        "Okavango Delta",
+        "Serengeti",
+        "Congo Basin",
+        "Virunga Mountains"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "endangered-species-quiz-15",
+      "question": "Which famous flightless bird went extinct in the 17th century, becoming a symbol of extinction?",
+      "options": [
+        "Elephant bird",
+        "Dodo",
+        "Great auk",
+        "Moa"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

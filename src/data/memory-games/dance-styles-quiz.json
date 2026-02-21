@@ -7,92 +7,167 @@
     {
       "id": "dance-styles-quiz-1",
       "question": "The tango originated in the late 19th century in which region?",
-      "options": ["Spain", "Cuba", "Rio de Janeiro area of Brazil", "Buenos Aires area of Argentina"],
-      "correctAnswer": 3
+      "options": [
+        "Spain",
+        "Rio de Janeiro area of Brazil",
+        "Buenos Aires area of Argentina",
+        "Cuba"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-styles-quiz-2",
       "question": "Which ballroom dance in 3/4 time features partners spinning gracefully around the floor?",
-      "options": ["Foxtrot", "Waltz", "Quickstep", "Cha-cha"],
-      "correctAnswer": 1
+      "options": [
+        "Waltz",
+        "Foxtrot",
+        "Quickstep",
+        "Cha-cha"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-styles-quiz-3",
       "question": "Flamenco is a passionate dance form that originated in which country?",
-      "options": ["Portugal", "Mexico", "Spain", "Italy"],
-      "correctAnswer": 2
+      "options": [
+        "Italy",
+        "Portugal",
+        "Mexico",
+        "Spain"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-styles-quiz-4",
       "question": "The Charleston became hugely popular in which decade?",
-      "options": ["The 1910s", "The 1920s", "The 1930s", "The 1940s"],
-      "correctAnswer": 1
+      "options": [
+        "The 1910s",
+        "The 1930s",
+        "The 1940s",
+        "The 1920s"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-styles-quiz-5",
       "question": "Which traditional Irish dance form is characterized by rigid upper body and rapid, precise footwork?",
-      "options": ["Highland fling", "Irish step dance", "Morris dance", "Ceilidh"],
-      "correctAnswer": 1
+      "options": [
+        "Irish step dance",
+        "Ceilidh",
+        "Highland fling",
+        "Morris dance"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-styles-quiz-6",
       "question": "The samba is most closely associated with the culture and carnival celebrations of which country?",
-      "options": ["Argentina", "Colombia", "Portugal", "Brazil"],
+      "options": [
+        "Colombia",
+        "Portugal",
+        "Argentina",
+        "Brazil"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "dance-styles-quiz-7",
       "question": "Which swing dance, popular in the 1930s and 40s, is named after aviator Charles Lindbergh's famous flight?",
-      "options": ["Jitterbug", "Lindy Hop", "Boogie-woogie", "East Coast Swing"],
-      "correctAnswer": 1
+      "options": [
+        "Jitterbug",
+        "Boogie-woogie",
+        "East Coast Swing",
+        "Lindy Hop"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-styles-quiz-8",
       "question": "Ballet, as a formal art form, was first developed and refined in which European country?",
-      "options": ["Italy", "France", "Russia", "England"],
+      "options": [
+        "England",
+        "France",
+        "Italy",
+        "Russia"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "dance-styles-quiz-9",
       "question": "Which Latin dance is performed in 4/4 time and is known for its distinctive hip movements and 'one-two-cha-cha-cha' rhythm?",
-      "options": ["Rumba", "Merengue", "Cha-cha-cha", "Mambo"],
-      "correctAnswer": 2
+      "options": [
+        "Mambo",
+        "Rumba",
+        "Merengue",
+        "Cha-cha-cha"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-styles-quiz-10",
       "question": "The polka, a lively couples' dance, originated in which European region in the 1830s?",
-      "options": ["Bavaria, Germany", "Bohemia (Czech Republic)", "Vienna, Austria", "Warsaw, Poland"],
-      "correctAnswer": 1
+      "options": [
+        "Bohemia (Czech Republic)",
+        "Vienna, Austria",
+        "Bavaria, Germany",
+        "Warsaw, Poland"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-styles-quiz-11",
       "question": "Which dance craze of the 1960s, popularized by Chubby Checker, involved twisting the hips while keeping the feet in place?",
-      "options": ["The Mashed Potato", "The Twist", "The Watusi", "The Swim"],
+      "options": [
+        "The Swim",
+        "The Twist",
+        "The Watusi",
+        "The Mashed Potato"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "dance-styles-quiz-12",
       "question": "Bharatanatyam is a classical dance form originating from which country?",
-      "options": ["China", "Japan", "Thailand", "India"],
-      "correctAnswer": 3
+      "options": [
+        "Thailand",
+        "China",
+        "India",
+        "Japan"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-styles-quiz-13",
       "question": "Which smooth ballroom dance, developed in the early 20th century, was named after a vaudeville performer?",
-      "options": ["Quickstep", "Foxtrot", "Tango", "Viennese Waltz"],
-      "correctAnswer": 1
+      "options": [
+        "Foxtrot",
+        "Tango",
+        "Quickstep",
+        "Viennese Waltz"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-styles-quiz-14",
       "question": "The hula is a traditional dance form from which island culture?",
-      "options": ["Samoa", "Tahiti", "Hawaii", "Fiji"],
+      "options": [
+        "Tahiti",
+        "Samoa",
+        "Hawaii",
+        "Fiji"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "dance-styles-quiz-15",
       "question": "Which energetic dance, featuring acrobatic moves and breakdancing, emerged from New York's hip-hop culture in the 1970s?",
-      "options": ["Popping", "Locking", "B-boying (breaking)", "Krumping"],
-      "correctAnswer": 2
+      "options": [
+        "Krumping",
+        "B-boying (breaking)",
+        "Locking",
+        "Popping"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

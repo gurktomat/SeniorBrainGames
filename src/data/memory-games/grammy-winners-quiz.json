@@ -1,0 +1,173 @@
+{
+  "id": "grammy-winners-quiz",
+  "title": "Grammy Winners Quiz",
+  "description": "How well do you know the history of Grammy Award winners?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "grammy-winners-quiz-1",
+      "question": "Who has won the most Grammy Awards of all time?",
+      "options": [
+        "Quincy Jones",
+        "Beyonce",
+        "Georg Solti",
+        "Stevie Wonder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grammy-winners-quiz-2",
+      "question": "Which artist won Album of the Year for 'Tapestry' in 1972?",
+      "options": [
+        "Linda Ronstadt",
+        "Carly Simon",
+        "Carole King",
+        "Joni Mitchell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "grammy-winners-quiz-3",
+      "question": "Which Michael Jackson album won Album of the Year in 1984?",
+      "options": [
+        "Bad",
+        "Off the Wall",
+        "Thriller",
+        "Dangerous"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "grammy-winners-quiz-4",
+      "question": "Who won Record of the Year in 1967 for '5th Dimension' with 'Up, Up and Away'?",
+      "options": [
+        "The Mamas & the Papas",
+        "The 5th Dimension",
+        "Simon & Garfunkel",
+        "The Beatles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grammy-winners-quiz-5",
+      "question": "Which artist won the first Grammy for Best New Artist in 1959?",
+      "options": [
+        "Bobby Darin",
+        "Pat Boone",
+        "Johnny Cash",
+        "The Kingston Trio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grammy-winners-quiz-6",
+      "question": "Stevie Wonder won Album of the Year three times in the 1970s. Which album was NOT one of them?",
+      "options": [
+        "Innervisions",
+        "Songs in the Key of Life",
+        "Fulfillingness' First Finale",
+        "Talking Book"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grammy-winners-quiz-7",
+      "question": "Which band won Album of the Year for 'Graceland' in 1987?",
+      "options": [
+        "It was Paul Simon solo",
+        "U2",
+        "Peter Gabriel",
+        "Dire Straits"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grammy-winners-quiz-8",
+      "question": "Who won Song of the Year for 'Bridge Over Troubled Water'?",
+      "options": [
+        "Gordon Lightfoot",
+        "Paul Simon",
+        "Cat Stevens",
+        "James Taylor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grammy-winners-quiz-9",
+      "question": "Which artist won Album of the Year for 'Come Away with Me' in 2003?",
+      "options": [
+        "Norah Jones",
+        "Alicia Keys",
+        "Amy Winehouse",
+        "Adele"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grammy-winners-quiz-10",
+      "question": "In what year were the first Grammy Awards held?",
+      "options": [
+        "1961",
+        "1959",
+        "1957",
+        "1955"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grammy-winners-quiz-11",
+      "question": "Which artist won Record of the Year for 'Just the Way You Are' in 1979?",
+      "options": [
+        "Billy Joel",
+        "Barry Manilow",
+        "Neil Diamond",
+        "Elton John"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grammy-winners-quiz-12",
+      "question": "Who won Album of the Year for 'The Miseducation of Lauryn Hill'?",
+      "options": [
+        "Mary J. Blige",
+        "Lauryn Hill",
+        "Erykah Badu",
+        "Missy Elliott"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grammy-winners-quiz-13",
+      "question": "Which rock band won Album of the Year for 'How to Dismantle an Atomic Bomb'?",
+      "options": [
+        "Radiohead",
+        "Green Day",
+        "Coldplay",
+        "U2"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grammy-winners-quiz-14",
+      "question": "Who won Song of the Year for 'We Are the World' in 1986?",
+      "options": [
+        "Lionel Richie",
+        "USA for Africa",
+        "Michael Jackson & Lionel Richie",
+        "Michael Jackson"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "grammy-winners-quiz-15",
+      "question": "Which British artist won Album of the Year for '21' in 2012?",
+      "options": [
+        "Florence Welch",
+        "Jessie J",
+        "Amy Winehouse",
+        "Adele"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "cricket-vocabulary",
+  "title": "Cricket Vocabulary",
+  "description": "How well do you know the terms of this beloved bat-and-ball sport?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cricket-vocabulary-1",
+      "question": "In cricket, what is a 'googly'?",
+      "options": [
+        "A wide delivery",
+        "A bouncer aimed at the batsman's head",
+        "A leg-spin ball that turns the opposite way to expected",
+        "A catch taken at slip"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A googly is a deceptive delivery bowled by a leg-spin bowler that turns in the opposite direction, from off to leg for a right-handed batsman.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-2",
+      "question": "What does 'LBW' stand for in cricket?",
+      "options": [
+        "Last Ball Won",
+        "Long Boundary Wide",
+        "Left Bat Wing",
+        "Leg Before Wicket"
+      ],
+      "correctAnswer": 3,
+      "explanation": "LBW stands for Leg Before Wicket, a way of dismissing a batsman whose leg blocks a ball that would have hit the stumps.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-3",
+      "question": "In cricket, what is a 'duck'?",
+      "options": [
+        "A type of defensive shot",
+        "A method of dodging a bouncer",
+        "A score of zero by a batsman",
+        "A fielding position near the boundary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'duck' refers to a batsman being dismissed without scoring any runs. A 'golden duck' means out on the first ball faced.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-4",
+      "question": "What is a 'yorker' in cricket?",
+      "options": [
+        "A catch taken by the bowler off their own bowling",
+        "A delivery that pitches at or near the batsman's feet",
+        "A spin delivery with extra bounce",
+        "A shot played over the wicketkeeper's head"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A yorker is a delivery that lands right at or just inside the batsman's crease near their feet, making it very difficult to play.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-5",
+      "question": "In cricket, what does 'silly point' refer to?",
+      "options": [
+        "A very close fielding position near the batsman on the off side",
+        "An extra delivery in an over",
+        "A meaningless run scored off a no-ball",
+        "A poor shot selection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Silly point is a close fielding position on the off side, very near the batsman. It is called 'silly' because of the danger to the fielder.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-6",
+      "question": "What is a 'maiden over' in cricket?",
+      "options": [
+        "An over bowled by a debutant",
+        "An over in which no runs are scored off the bat",
+        "The first over of a match",
+        "An over with all six deliveries being wides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A maiden over is one in which no runs are scored off the bat by the batsman. It is a mark of tight bowling.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-7",
+      "question": "In cricket, what is a 'nightwatchman'?",
+      "options": [
+        "The umpire who oversees evening sessions",
+        "The security guard at the ground",
+        "A fielder positioned deep on the boundary at night",
+        "A lower-order batsman sent in near close of play to protect a better batsman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A nightwatchman is a lower-order batsman promoted up the order to bat near the end of a day's play to protect a more skilled batsman from getting out.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-8",
+      "question": "What does 'bowling a hat-trick' mean in cricket?",
+      "options": [
+        "Bowling three no-balls in a row",
+        "Bowling an entire over of bouncers",
+        "Taking three wickets with three consecutive deliveries",
+        "Winning three matches in a row as a bowler"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hat-trick in cricket is when a bowler takes a wicket on each of three consecutive deliveries, one of the rarest achievements in the sport.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-9",
+      "question": "In cricket, what is a 'doosra'?",
+      "options": [
+        "A fielding position behind the wicketkeeper",
+        "A tied test match",
+        "A type of batting grip",
+        "A delivery by an off-spinner that turns the other way"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The doosra is a delivery bowled by an off-spin bowler that spins in the opposite direction to the off-break, deceiving the batsman. The word means 'the other one' in Hindi/Urdu.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-10",
+      "question": "What is the 'crease' in cricket?",
+      "options": [
+        "The edge of the boundary rope",
+        "A wrinkle in the pitch surface",
+        "The marked lines at each end of the pitch",
+        "The seam on the cricket ball"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The crease refers to the set of lines marked at each end of the pitch, including the batting crease (popping crease), bowling crease, and return creases.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-11",
+      "question": "In cricket, what is a 'century'?",
+      "options": [
+        "100 consecutive dot balls",
+        "A score of 100 runs by an individual batsman",
+        "Playing for 100 minutes without a break",
+        "A match lasting 100 overs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A century is when a batsman scores 100 or more runs in a single innings, considered a significant milestone in cricket.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-12",
+      "question": "What is a 'chinaman' delivery in cricket?",
+      "options": [
+        "A spin ball bowled underarm",
+        "A delivery that bounces twice",
+        "A fast delivery aimed at the chin",
+        "A left-arm wrist spinner's stock ball that turns from off to leg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A chinaman is the stock delivery of a left-arm wrist spinner (or unorthodox spinner), turning from off to leg for a right-handed batsman.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-13",
+      "question": "In cricket, what does 'declaration' mean?",
+      "options": [
+        "An appeal to the umpire",
+        "A captain voluntarily ending their team's innings",
+        "The official start of a match",
+        "Announcing the team lineup"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A declaration is when the batting captain voluntarily ends their team's innings before all batsmen are out, usually as a tactical move to give time to bowl out the opposition.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-14",
+      "question": "What is 'sledging' in cricket?",
+      "options": [
+        "Sliding to stop the ball in the field",
+        "Dragging the pitch roller across the ground",
+        "Celebrating a wicket excessively",
+        "Verbal intimidation of the batsman by fielders"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sledging is the practice of players making provocative or personal comments to distract or unsettle an opponent, a controversial but common part of the game.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cricket-vocabulary-15",
+      "question": "In cricket, what is a 'bouncer'?",
+      "options": [
+        "A rejected appeal",
+        "A ball that bounces off the pitch and over the boundary",
+        "The person who controls crowd access",
+        "A short-pitched fast delivery aimed to rise toward the batsman's upper body or head"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A bouncer is a short-pitched delivery from a fast bowler that rises steeply toward the batsman's chest, shoulders, or head, used as an intimidation tactic.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

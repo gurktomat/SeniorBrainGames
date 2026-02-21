@@ -1,0 +1,173 @@
+{
+  "id": "parts-of-speech-quiz",
+  "title": "Parts of Speech Quiz",
+  "description": "Nouns, verbs, adjectives, adverbs, and more! How well do you know the eight parts of speech?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "parts-of-speech-quiz-1",
+      "question": "What part of speech is the word 'quickly' in 'She ran quickly'?",
+      "options": [
+        "Verb",
+        "Adjective",
+        "Noun",
+        "Adverb"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "parts-of-speech-quiz-2",
+      "question": "Which word is a conjunction?",
+      "options": [
+        "Although",
+        "Beautiful",
+        "Running",
+        "Happily"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-3",
+      "question": "What part of speech is 'the' in 'the cat'?",
+      "options": [
+        "Article (determiner)",
+        "Preposition",
+        "Pronoun",
+        "Adjective"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-4",
+      "question": "In 'She gave him a book,' what part of speech is 'him'?",
+      "options": [
+        "Pronoun",
+        "Noun",
+        "Adverb",
+        "Adjective"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-5",
+      "question": "Which word is a preposition?",
+      "options": [
+        "Happy",
+        "They",
+        "Between",
+        "Sing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "parts-of-speech-quiz-6",
+      "question": "What part of speech is 'Ouch!' in 'Ouch! That hurt!'?",
+      "options": [
+        "Interjection",
+        "Adjective",
+        "Adverb",
+        "Conjunction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-7",
+      "question": "In 'The beautiful garden bloomed,' what part of speech is 'beautiful'?",
+      "options": [
+        "Verb",
+        "Noun",
+        "Adjective",
+        "Adverb"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "parts-of-speech-quiz-8",
+      "question": "How many traditional parts of speech are there in English?",
+      "options": [
+        "Nine",
+        "Eight",
+        "Seven",
+        "Six"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "parts-of-speech-quiz-9",
+      "question": "Which word can function as both a noun and a verb?",
+      "options": [
+        "The",
+        "Run",
+        "Beautiful",
+        "Quickly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "parts-of-speech-quiz-10",
+      "question": "What part of speech is 'and' in 'bread and butter'?",
+      "options": [
+        "Interjection",
+        "Adverb",
+        "Conjunction",
+        "Preposition"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "parts-of-speech-quiz-11",
+      "question": "In 'She sings beautifully,' which word modifies the verb?",
+      "options": [
+        "None of them",
+        "Beautifully",
+        "She",
+        "Sings"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "parts-of-speech-quiz-12",
+      "question": "Which is an abstract noun?",
+      "options": [
+        "Happiness",
+        "Table",
+        "Dog",
+        "Mountain"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-13",
+      "question": "What part of speech is 'under' in 'under the bridge'?",
+      "options": [
+        "Preposition",
+        "Adverb",
+        "Adjective",
+        "Conjunction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "parts-of-speech-quiz-14",
+      "question": "Which word is a demonstrative pronoun?",
+      "options": [
+        "Who",
+        "Some",
+        "This",
+        "He"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "parts-of-speech-quiz-15",
+      "question": "In 'I will go,' what part of speech is 'will'?",
+      "options": [
+        "Main verb",
+        "Conjunction",
+        "Adverb",
+        "Auxiliary (helping) verb"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

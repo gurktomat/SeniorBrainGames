@@ -1,0 +1,173 @@
+{
+  "id": "oceanography-terms-quiz",
+  "title": "Oceanography Terms Quiz",
+  "description": "Navigate the vocabulary of oceanography, from tides and currents to the geology of the ocean floor and deep-sea exploration.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "oceanography-terms-quiz-1",
+      "question": "What is the 'continental shelf'?",
+      "options": [
+        "The edge of a tectonic plate",
+        "A cliff along the coastline",
+        "A sandbar near the shore",
+        "The shallow underwater extension of a continent's landmass before it drops off into the deep ocean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "oceanography-terms-quiz-2",
+      "question": "What is a 'tsunami'?",
+      "options": [
+        "A strong ocean current",
+        "A tropical storm",
+        "A series of large ocean waves typically caused by underwater earthquakes or volcanic eruptions",
+        "A tidal change caused by the moon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "oceanography-terms-quiz-3",
+      "question": "What does 'bathymetry' study?",
+      "options": [
+        "Ocean temperatures",
+        "The measurement and mapping of depths of the ocean floor",
+        "Marine life populations",
+        "Wave patterns"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "oceanography-terms-quiz-4",
+      "question": "What is an 'ocean trench'?",
+      "options": [
+        "A coral reef formation",
+        "A shallow lagoon",
+        "A long, narrow, deep depression in the ocean floor, often formed at tectonic plate boundaries",
+        "A river delta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "oceanography-terms-quiz-5",
+      "question": "What is the 'Gulf Stream'?",
+      "options": [
+        "A type of underwater volcano",
+        "A stream of freshwater entering the ocean",
+        "A powerful warm ocean current flowing from the Gulf of Mexico across the Atlantic",
+        "A river in the Gulf of Mexico"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "oceanography-terms-quiz-6",
+      "question": "What does 'upwelling' refer to?",
+      "options": [
+        "Waves crashing on shore",
+        "The rising of cold, nutrient-rich water from deep in the ocean to the surface",
+        "The increase in sea level",
+        "The formation of whirlpools"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "oceanography-terms-quiz-7",
+      "question": "What is a 'hydrothermal vent'?",
+      "options": [
+        "A type of underwater cave",
+        "An opening on the ocean floor that releases geothermally heated water",
+        "A freshwater spring in the ocean",
+        "A hole in a ship"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "oceanography-terms-quiz-8",
+      "question": "What are 'tides'?",
+      "options": [
+        "The regular rise and fall of sea levels caused mainly by the gravitational pull of the moon and sun",
+        "Currents caused by temperature differences",
+        "Underwater earthquakes",
+        "Waves caused by wind"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "oceanography-terms-quiz-9",
+      "question": "What is the 'mid-ocean ridge'?",
+      "options": [
+        "A shallow reef in the middle of the ocean",
+        "A deep trench between continents",
+        "A sandbar in the open ocean",
+        "An underwater mountain range formed by tectonic plate divergence"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "oceanography-terms-quiz-10",
+      "question": "What does 'halocline' refer to?",
+      "options": [
+        "An underwater cliff",
+        "A layer in the ocean where salinity changes rapidly with depth",
+        "A measurement of wave height",
+        "A type of coral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "oceanography-terms-quiz-11",
+      "question": "What is 'sonar' used for in oceanography?",
+      "options": [
+        "Collecting water samples",
+        "Measuring ocean salinity",
+        "Measuring water temperature",
+        "Using sound waves to map the ocean floor and detect objects underwater"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "oceanography-terms-quiz-12",
+      "question": "What is a 'gyre'?",
+      "options": [
+        "A tidal pool",
+        "An underwater volcano",
+        "A type of wave",
+        "A large system of circular ocean currents formed by global wind patterns"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "oceanography-terms-quiz-13",
+      "question": "What is the 'Mariana Trench' known for?",
+      "options": [
+        "Being the saltiest part of the ocean",
+        "Having the warmest water",
+        "Being the deepest known part of the world's oceans",
+        "Having the largest coral reef"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "oceanography-terms-quiz-14",
+      "question": "What does 'turbidity' measure in water?",
+      "options": [
+        "Salinity",
+        "Depth",
+        "The cloudiness or haziness of water caused by suspended particles",
+        "Temperature"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "oceanography-terms-quiz-15",
+      "question": "What is a 'seamount'?",
+      "options": [
+        "A volcanic island chain",
+        "An underwater mountain that does not reach the water's surface",
+        "A type of island",
+        "A coastal mountain"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

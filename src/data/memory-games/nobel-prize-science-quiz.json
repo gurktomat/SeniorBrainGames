@@ -1,0 +1,173 @@
+{
+  "id": "nobel-prize-science-quiz",
+  "title": "Nobel Prize in Science Quiz",
+  "description": "How well do you remember the Nobel Prize-winning discoveries in physics, chemistry, and medicine?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "nobel-prize-science-quiz-1",
+      "question": "Who won the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect?",
+      "options": [
+        "Albert Einstein",
+        "Max Planck",
+        "Niels Bohr",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nobel-prize-science-quiz-2",
+      "question": "Marie Curie won Nobel Prizes in which two scientific fields?",
+      "options": [
+        "Physics and Medicine",
+        "Chemistry and Biology",
+        "Chemistry and Medicine",
+        "Physics and Chemistry"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-3",
+      "question": "Who won the Nobel Prize for discovering the structure of DNA?",
+      "options": [
+        "Erwin Chargaff and Francis Crick",
+        "Linus Pauling and James Watson",
+        "Rosalind Franklin and Maurice Wilkins",
+        "James Watson, Francis Crick, and Maurice Wilkins"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-4",
+      "question": "Which physicist won the Nobel Prize in 1918 for his discovery of energy quanta?",
+      "options": [
+        "Albert Einstein",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-5",
+      "question": "Who received the Nobel Prize in Medicine for discovering blood groups?",
+      "options": [
+        "Paul Ehrlich",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Karl Landsteiner"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-6",
+      "question": "Which scientist won the Nobel Prize in Chemistry twice, in 1954 and 1962?",
+      "options": [
+        "Frederick Sanger",
+        "Marie Curie",
+        "Linus Pauling",
+        "John Bardeen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nobel-prize-science-quiz-7",
+      "question": "Who won the Nobel Prize in Physics in 1903 along with Marie and Pierre Curie?",
+      "options": [
+        "Henri Becquerel",
+        "J.J. Thomson",
+        "Max Planck",
+        "Wilhelm Röntgen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nobel-prize-science-quiz-8",
+      "question": "Which American physicist won two Nobel Prizes in Physics (1956 and 1972)?",
+      "options": [
+        "Robert Millikan",
+        "John Bardeen",
+        "Richard Feynman",
+        "Murray Gell-Mann"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nobel-prize-science-quiz-9",
+      "question": "Who won the first Nobel Prize in Physics in 1901 for discovering X-rays?",
+      "options": [
+        "Wilhelm Röntgen",
+        "Henri Becquerel",
+        "J.J. Thomson",
+        "Max Planck"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nobel-prize-science-quiz-10",
+      "question": "Alexander Fleming shared his Nobel Prize in Medicine with which two scientists?",
+      "options": [
+        "Joseph Lister and Ignaz Semmelweis",
+        "Jonas Salk and Albert Sabin",
+        "Howard Florey and Ernst Boris Chain",
+        "Robert Koch and Louis Pasteur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nobel-prize-science-quiz-11",
+      "question": "Who won the Nobel Prize in Physics in 1965 for work in quantum electrodynamics?",
+      "options": [
+        "Richard Feynman",
+        "Paul Dirac",
+        "Enrico Fermi",
+        "Murray Gell-Mann"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nobel-prize-science-quiz-12",
+      "question": "Which scientist won the Nobel Prize for developing the theory of superconductivity?",
+      "options": [
+        "Leon Cooper",
+        "John Bardeen",
+        "Robert Schrieffer",
+        "All three shared it"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-13",
+      "question": "Dorothy Hodgkin won the Nobel Prize in Chemistry for determining the structures of which important molecules?",
+      "options": [
+        "DNA and RNA",
+        "Penicillin and vitamin B12",
+        "Hemoglobin and myoglobin",
+        "Insulin and glucose"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nobel-prize-science-quiz-14",
+      "question": "Who won the Nobel Prize in Physics in 2013 for predicting the Higgs boson?",
+      "options": [
+        "Gerard 't Hooft and Martinus Veltman",
+        "Sheldon Glashow and Steven Weinberg",
+        "Stephen Hawking and Roger Penrose",
+        "Peter Higgs and François Englert"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nobel-prize-science-quiz-15",
+      "question": "Barbara McClintock won the Nobel Prize in Medicine for her discovery of what?",
+      "options": [
+        "Reverse transcriptase",
+        "Prions",
+        "Transposable genetic elements",
+        "Restriction enzymes"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

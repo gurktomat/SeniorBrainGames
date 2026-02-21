@@ -1,0 +1,219 @@
+{
+  "id": "space-launch-facilities-quiz",
+  "title": "Space Launch Facilities",
+  "description": "Blast off with questions about the world's spaceports and launch complexes!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "space-launch-facilities-quiz-1",
+      "question": "The Kennedy Space Center, NASA's primary launch facility, is located in which U.S. state?",
+      "options": [
+        "Texas",
+        "Florida",
+        "California",
+        "Alabama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Kennedy Space Center is located on Merritt Island, Florida. Its location near the equator and on the coast (allowing launches over the ocean) makes it ideal for space launches, particularly into equatorial orbits.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-2",
+      "question": "The Baikonur Cosmodrome, the world's first and largest space launch facility, is located in which country?",
+      "options": [
+        "Uzbekistan",
+        "Russia",
+        "Kazakhstan",
+        "Ukraine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Baikonur Cosmodrome is located in Kazakhstan, though it is leased and operated by Russia. It was from here that Sputnik was launched in 1957 and Yuri Gagarin became the first human in space in 1961.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "space-launch-facilities-quiz-3",
+      "question": "Why are most spaceports located near the equator or at low latitudes?",
+      "options": [
+        "Less air traffic",
+        "Closer to the moon",
+        "Earth's rotational speed provides a velocity boost for launches",
+        "Better weather conditions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Earth rotates faster at the equator (about 1,670 km/h) than at higher latitudes. Launching eastward from near the equator gives rockets a free velocity boost, reducing the fuel needed to reach orbit.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-4",
+      "question": "NASA's Vehicle Assembly Building (VAB) at Kennedy Space Center is one of the largest buildings in the world by what measure?",
+      "options": [
+        "Height only",
+        "Volume",
+        "Number of rooms",
+        "Floor area"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Vehicle Assembly Building (VAB) is one of the largest buildings in the world by volume at approximately 3.66 million cubic meters. It was originally built to assemble Saturn V rockets and later used for Space Shuttles and SLS.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-5",
+      "question": "What is a 'launch pad' flame trench designed to do?",
+      "options": [
+        "Redirect the rocket exhaust flames away from the rocket and pad",
+        "Provide a foundation for the rocket",
+        "Store fuel",
+        "Cool the launch area"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The flame trench is a deep channel beneath the launch pad that redirects the enormous exhaust flames and gases from the rocket engines away from the vehicle and pad structure, preventing damage during liftoff.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-6",
+      "question": "The Guiana Space Centre (Centre Spatial Guyanais) in French Guiana is used primarily by which space agency?",
+      "options": [
+        "NASA",
+        "ISRO (India)",
+        "CNSA (China)",
+        "ESA (European Space Agency)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Guiana Space Centre in Kourou, French Guiana, is the primary launch site for the European Space Agency (ESA). Its near-equatorial location (5 degrees north latitude) provides excellent conditions for geostationary orbit launches.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "space-launch-facilities-quiz-7",
+      "question": "SpaceX's Starbase facility, where Starship is being developed and launched, is located near which Texas city?",
+      "options": [
+        "Houston",
+        "El Paso",
+        "Boca Chica (Brownsville area)",
+        "Austin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "SpaceX's Starbase is located near Boca Chica Beach in the Brownsville area of South Texas. The site was chosen for its proximity to the equator, coastal location, and low population density.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-8",
+      "question": "What massive piece of equipment transports rockets from the assembly building to the launch pad at Kennedy Space Center?",
+      "options": [
+        "A barge",
+        "A helicopter",
+        "The Crawler-Transporter",
+        "A railroad system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Crawler-Transporter is one of the largest self-powered land vehicles ever built, measuring 40 by 35 meters. It carries rockets on the Mobile Launcher Platform from the VAB to the launch pad at a top speed of about 1.6 km/h.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-9",
+      "question": "The sound suppression system used during Space Shuttle launches released approximately how much water onto the launch pad?",
+      "options": [
+        "150,000 gallons",
+        "50,000 gallons",
+        "300,000 gallons",
+        "1 million gallons"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sound Suppression System at Launch Pad 39A released approximately 300,000 gallons of water in about 20 seconds during Space Shuttle launches. The water absorbed acoustic energy that could damage the vehicle and pad.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-10",
+      "question": "Vandenberg Space Force Base in California is used for launches into which type of orbit primarily?",
+      "options": [
+        "Equatorial orbit",
+        "Geostationary orbit",
+        "Polar and sun-synchronous orbits",
+        "Lunar orbit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vandenberg Space Force Base is ideally located for polar and sun-synchronous orbit launches because rockets can fly south over the Pacific Ocean without passing over populated areas. Its latitude makes equatorial orbit launches less efficient.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-11",
+      "question": "What is a 'clean room' at a space launch facility used for?",
+      "options": [
+        "Assembling sensitive spacecraft components in a dust-free environment",
+        "Medical examinations of astronauts",
+        "Press conferences",
+        "Offices for engineers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clean rooms are highly controlled environments with filtered air and strict contamination protocols where sensitive spacecraft components, instruments, and satellites are assembled and tested. Even tiny particles could damage delicate equipment in space.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-12",
+      "question": "The Wenchang Satellite Launch Center, China's newest spaceport, is located on which island?",
+      "options": [
+        "Hong Kong",
+        "Hainan",
+        "Taiwan",
+        "Macau"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Wenchang Satellite Launch Center on Hainan Island is China's newest and southernmost launch facility, operational since 2016. Its low latitude (19 degrees N) provides better efficiency for heavy-lift launches.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-13",
+      "question": "What is the purpose of a 'lightning protection system' at a launch pad?",
+      "options": [
+        "Protecting the rocket and its fuel from lightning strikes before launch",
+        "Attracting lightning for research",
+        "Powering the launch pad",
+        "Generating electricity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Launch pads have tall lightning mast systems and wire networks to divert lightning strikes away from the rocket and its volatile fuel. A lightning strike to an unprotected rocket could be catastrophic, igniting fuel or damaging electronics.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-14",
+      "question": "India's primary space launch center, the Satish Dhawan Space Centre, is located on which island?",
+      "options": [
+        "Andaman Islands",
+        "Lakshadweep",
+        "Diu",
+        "Sriharikota"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Satish Dhawan Space Centre is located on Sriharikota, a barrier island in Andhra Pradesh, India. It has been India's primary orbital launch site since the 1970s and is operated by the Indian Space Research Organisation (ISRO).",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "space-launch-facilities-quiz-15",
+      "question": "What is 'Launch Complex 39A' at Kennedy Space Center historically significant for?",
+      "options": [
+        "First space station module",
+        "First satellite launch",
+        "All Apollo Moon missions and many Space Shuttle launches",
+        "First Mars probe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Launch Complex 39A was used for all crewed Apollo missions to the Moon (including Apollo 11) and many Space Shuttle missions. It is now leased by SpaceX for Falcon 9, Falcon Heavy, and Starship launches.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

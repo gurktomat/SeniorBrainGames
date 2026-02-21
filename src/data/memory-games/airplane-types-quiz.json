@@ -1,0 +1,173 @@
+{
+  "id": "airplane-types-quiz",
+  "title": "Airplane Types Quiz",
+  "description": "How well do you remember famous aircraft and their roles in aviation history?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "airplane-types-quiz-1",
+      "question": "The Boeing 747, known as the 'Jumbo Jet,' first entered commercial service in which decade?",
+      "options": [
+        "1970s",
+        "1980s",
+        "1960s",
+        "1950s"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "airplane-types-quiz-2",
+      "question": "The Concorde was a supersonic passenger jet developed jointly by Britain and which other country?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Netherlands"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "airplane-types-quiz-3",
+      "question": "Which aircraft is known as the world's largest commercial passenger plane?",
+      "options": [
+        "Boeing 777",
+        "Boeing 747-8",
+        "Airbus A350",
+        "Airbus A380"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "airplane-types-quiz-4",
+      "question": "The Wright Flyer, the first powered aircraft, made its historic flight in what year?",
+      "options": [
+        "1903",
+        "1906",
+        "1901",
+        "1899"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "airplane-types-quiz-5",
+      "question": "Which military aircraft is commonly known as the 'Stealth Bomber'?",
+      "options": [
+        "SR-71 Blackbird",
+        "B-2 Spirit",
+        "F-22 Raptor",
+        "F-117 Nighthawk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "airplane-types-quiz-6",
+      "question": "The Spitfire was a famous World War II fighter plane from which country?",
+      "options": [
+        "Japan",
+        "Germany",
+        "United States",
+        "Britain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "airplane-types-quiz-7",
+      "question": "What type of aircraft is a Cessna 172, one of the most popular planes ever built?",
+      "options": [
+        "Single-engine propeller plane",
+        "Commercial airliner",
+        "Military fighter",
+        "Cargo plane"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "airplane-types-quiz-8",
+      "question": "The DC-3, which revolutionized air transport in the 1930s, was built by which company?",
+      "options": [
+        "Lockheed",
+        "Douglas",
+        "Curtiss",
+        "Boeing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "airplane-types-quiz-9",
+      "question": "Which aircraft holds the record for the fastest manned air-breathing jet flight?",
+      "options": [
+        "Concorde",
+        "SR-71 Blackbird",
+        "F-15 Eagle",
+        "MiG-25 Foxbat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "airplane-types-quiz-10",
+      "question": "What kind of aircraft is a 'biplane'?",
+      "options": [
+        "A plane with two engines",
+        "A plane with two wings stacked vertically",
+        "A plane that seats two people",
+        "A plane with two fuselages"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "airplane-types-quiz-11",
+      "question": "The P-51 Mustang was a long-range fighter used primarily in which conflict?",
+      "options": [
+        "World War II",
+        "World War I",
+        "Korean War",
+        "Vietnam War"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "airplane-types-quiz-12",
+      "question": "Which aircraft manufacturer produces the 737, the best-selling commercial jet in history?",
+      "options": [
+        "Embraer",
+        "Bombardier",
+        "Boeing",
+        "Airbus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "airplane-types-quiz-13",
+      "question": "A 'seaplane' is designed to do what?",
+      "options": [
+        "Fly over oceans only",
+        "Fly at very low altitudes",
+        "Carry naval supplies",
+        "Take off and land on water"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "airplane-types-quiz-14",
+      "question": "The Enola Gay, which dropped the first atomic bomb, was what type of aircraft?",
+      "options": [
+        "B-17 Flying Fortress",
+        "B-29 Superfortress",
+        "B-25 Mitchell",
+        "B-24 Liberator"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "airplane-types-quiz-15",
+      "question": "Which company manufactures the C-130 Hercules, a widely used military transport aircraft?",
+      "options": [
+        "Northrop Grumman",
+        "General Dynamics",
+        "Boeing",
+        "Lockheed Martin"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

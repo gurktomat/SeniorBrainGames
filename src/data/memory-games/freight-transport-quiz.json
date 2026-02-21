@@ -1,0 +1,173 @@
+{
+  "id": "freight-transport-quiz",
+  "title": "Freight Transport Quiz",
+  "description": "Test your recall of how goods are moved around the world by land, sea, and air",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "freight-transport-quiz-1",
+      "question": "The standard intermodal shipping container is most commonly how many feet long?",
+      "options": [
+        "10 feet",
+        "50 feet",
+        "30 feet",
+        "20 feet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freight-transport-quiz-2",
+      "question": "A 'semi-trailer truck' in the United States is commonly called what?",
+      "options": [
+        "Lorry",
+        "Eighteen-wheeler",
+        "Flatbed",
+        "Van"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freight-transport-quiz-3",
+      "question": "The Panama Canal connects which two bodies of water?",
+      "options": [
+        "Pacific and Indian Oceans",
+        "Mediterranean and Red Seas",
+        "Atlantic and Pacific Oceans",
+        "Atlantic and Indian Oceans"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-4",
+      "question": "What type of freight car is an open-top rail car used for hauling bulk materials like coal?",
+      "options": [
+        "Flatcar",
+        "Gondola car",
+        "Boxcar",
+        "Tank car"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freight-transport-quiz-5",
+      "question": "A 'reefer' in the shipping industry refers to what type of container or truck?",
+      "options": [
+        "A reinforced steel container",
+        "A hazardous materials container",
+        "A refrigerated container",
+        "An oversized container"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-6",
+      "question": "The Suez Canal is located in which country?",
+      "options": [
+        "Saudi Arabia",
+        "Egypt",
+        "Iran",
+        "Turkey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freight-transport-quiz-7",
+      "question": "What does 'LTL' stand for in the freight industry?",
+      "options": [
+        "Local Transit Line",
+        "Light Transport Logistics",
+        "Less Than Truckload",
+        "Long-Term Loading"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-8",
+      "question": "The world's largest cargo planes, like the Antonov An-225, are used to transport what?",
+      "options": [
+        "Only mail",
+        "Only military equipment",
+        "Oversized and extremely heavy cargo",
+        "Only passengers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-9",
+      "question": "A 'bulk carrier' ship is designed to transport what kind of cargo?",
+      "options": [
+        "Automobiles",
+        "Liquid petroleum",
+        "Shipping containers",
+        "Unpackaged bulk commodities like grain or ore"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freight-transport-quiz-10",
+      "question": "The 'piggyback' method in freight refers to transporting what on a train?",
+      "options": [
+        "Passengers and cargo together",
+        "Truck trailers on flatcars",
+        "Small packages in mail cars",
+        "Livestock"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freight-transport-quiz-11",
+      "question": "Which company operates the largest fleet of delivery trucks in the United States?",
+      "options": [
+        "UPS",
+        "Amazon",
+        "USPS",
+        "FedEx"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freight-transport-quiz-12",
+      "question": "A 'tanker truck' on the highway is typically carrying what?",
+      "options": [
+        "Livestock",
+        "Automobiles",
+        "Liquids such as fuel, milk, or chemicals",
+        "Dry goods"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-13",
+      "question": "The 'Silk Road' was an ancient trade route connecting China to which region?",
+      "options": [
+        "Sub-Saharan Africa",
+        "South America",
+        "Europe and the Mediterranean",
+        "Australia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-14",
+      "question": "What is 'intermodal transport'?",
+      "options": [
+        "Transport of passengers and freight together",
+        "International shipping only",
+        "Transport using two or more modes (truck, rail, ship) without handling the cargo itself",
+        "Transport using only one type of vehicle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freight-transport-quiz-15",
+      "question": "A 'forklift' is commonly used in warehouses and freight yards to do what?",
+      "options": [
+        "Scan barcodes",
+        "Weigh cargo",
+        "Clean the facility",
+        "Lift and move heavy pallets and containers"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

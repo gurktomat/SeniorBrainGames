@@ -1,0 +1,173 @@
+{
+  "id": "famous-racetracks-quiz",
+  "title": "Famous Racetracks Quiz",
+  "description": "Race through your memory of the world's most iconic motorsport circuits and tracks",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-racetracks-quiz-1",
+      "question": "The Nurburgring Nordschleife, known as 'The Green Hell,' is located in which country?",
+      "options": [
+        "Switzerland",
+        "Germany",
+        "Austria",
+        "Netherlands"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-racetracks-quiz-2",
+      "question": "The Circuit de la Sarthe hosts which famous endurance race?",
+      "options": [
+        "Daytona 24 Hours",
+        "Spa 24 Hours",
+        "24 Hours of Le Mans",
+        "Bathurst 1000"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-3",
+      "question": "Silverstone, one of Formula 1's most historic circuits, is located in which country?",
+      "options": [
+        "Wales",
+        "England",
+        "Scotland",
+        "Ireland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-racetracks-quiz-4",
+      "question": "The Indianapolis Motor Speedway is nicknamed what?",
+      "options": [
+        "The Colosseum",
+        "The Oval",
+        "The Brickyard",
+        "Thunder Road"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-5",
+      "question": "Monza, home to the Italian Grand Prix, is famous for being what type of circuit?",
+      "options": [
+        "An oval track",
+        "A street circuit",
+        "A dirt track",
+        "One of the fastest circuits with long straights"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-racetracks-quiz-6",
+      "question": "Daytona International Speedway is primarily associated with which racing organization?",
+      "options": [
+        "IndyCar",
+        "Formula 1",
+        "NASCAR",
+        "MotoGP"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-7",
+      "question": "The Spa-Francorchamps circuit, featuring the famous Eau Rouge corner, is in which country?",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "France",
+        "Luxembourg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-racetracks-quiz-8",
+      "question": "Suzuka Circuit, which hosts the Japanese Grand Prix, is shaped like what?",
+      "options": [
+        "A figure-eight (crossover)",
+        "A triangle",
+        "A rectangle",
+        "An oval"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-racetracks-quiz-9",
+      "question": "Mount Panorama in Bathurst, Australia, is famous for hosting what annual race?",
+      "options": [
+        "Australian Grand Prix",
+        "Bathurst 1000",
+        "Sandown 500",
+        "Rally Australia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-racetracks-quiz-10",
+      "question": "Talladega Superspeedway, one of the longest NASCAR tracks, is located in which U.S. state?",
+      "options": [
+        "Tennessee",
+        "North Carolina",
+        "Alabama",
+        "Florida"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-11",
+      "question": "The Isle of Man TT is a famous motorcycle race held on what kind of course?",
+      "options": [
+        "An indoor arena",
+        "Public roads closed for the event",
+        "A dirt trail",
+        "A purpose-built race track"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-racetracks-quiz-12",
+      "question": "Interlagos circuit, home to the Brazilian Grand Prix, is located near which city?",
+      "options": [
+        "Salvador",
+        "Brasilia",
+        "Sao Paulo",
+        "Rio de Janeiro"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-13",
+      "question": "Which famous racetrack was originally built as a banked concrete oval in Brooklands, England, in 1907?",
+      "options": [
+        "Brands Hatch",
+        "Donington Park",
+        "Silverstone",
+        "Brooklands"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-racetracks-quiz-14",
+      "question": "The Yas Marina Circuit, which hosts a Formula 1 night race, is in which country?",
+      "options": [
+        "Qatar",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Bahrain"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-racetracks-quiz-15",
+      "question": "Churchill Downs in Louisville, Kentucky, is famous for hosting which horse race?",
+      "options": [
+        "Breeders' Cup",
+        "Preakness Stakes",
+        "Kentucky Derby",
+        "Belmont Stakes"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

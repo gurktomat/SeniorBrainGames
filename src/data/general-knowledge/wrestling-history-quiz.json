@@ -1,0 +1,219 @@
+{
+  "id": "wrestling-history-quiz",
+  "title": "Wrestling History",
+  "description": "Test your knowledge of wrestling, from ancient traditions to modern Olympic competition!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wrestling-history-quiz-1",
+      "question": "Which two styles of wrestling are contested at the Olympic Games?",
+      "options": [
+        "Greco-Roman and Catch",
+        "Freestyle and Folkstyle",
+        "Freestyle and Sumo",
+        "Freestyle and Greco-Roman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The two Olympic wrestling styles are freestyle (where any hold is permitted) and Greco-Roman (where holds below the waist are prohibited). Both have been Olympic sports since 1896 and 1904 respectively.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-2",
+      "question": "What is the key rule difference between Greco-Roman and freestyle wrestling?",
+      "options": [
+        "Freestyle uses a cage",
+        "Different mat sizes",
+        "Greco-Roman prohibits holds below the waist",
+        "Greco-Roman allows striking"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Greco-Roman wrestling, wrestlers cannot use holds below the waist or use their legs for offense. Freestyle wrestling allows leg attacks and holds below the waist.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-3",
+      "question": "Wrestling was part of the ancient Olympic Games. What was the combined event of wrestling and boxing called?",
+      "options": [
+        "Diaulos",
+        "Hoplitodromos",
+        "Pankration",
+        "Pentathlon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pankration was an ancient Greek combat sport that combined wrestling and boxing. It was first included in the ancient Olympic Games in 648 BC and allowed almost all techniques except biting and eye-gouging.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-4",
+      "question": "What is a 'pin' (or 'fall') in wrestling?",
+      "options": [
+        "Scoring five points",
+        "Holding both of an opponent's shoulders to the mat",
+        "A submission hold",
+        "Forcing an opponent out of bounds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pin (fall) occurs when a wrestler holds both of their opponent's shoulders (shoulder blades) to the mat simultaneously. It results in an immediate victory regardless of the score.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-5",
+      "question": "Which country has been the most dominant in Olympic wrestling?",
+      "options": [
+        "Iran",
+        "Russia/Soviet Union",
+        "United States",
+        "Turkey"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Russia and the former Soviet Union have been the most successful nations in Olympic wrestling, winning the most gold medals in both freestyle and Greco-Roman competitions.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-6",
+      "question": "What is sumo wrestling?",
+      "options": [
+        "A form of Brazilian martial art",
+        "Japan's traditional form of wrestling",
+        "Korean grappling sport",
+        "Chinese competitive wrestling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sumo is Japan's traditional form of wrestling with origins dating back over 1,500 years. Two wrestlers try to force each other out of a circular ring or make any part of the body other than the feet touch the ground.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-7",
+      "question": "What is the highest rank in sumo wrestling?",
+      "options": [
+        "Sekiwake",
+        "Ozeki",
+        "Komusubi",
+        "Yokozuna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Yokozuna (grand champion) is the highest rank in sumo wrestling. Once promoted, a yokozuna cannot be demoted but is expected to retire if their performance declines.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-8",
+      "question": "Which American wrestler won Olympic gold medals in both 1996 and 2000?",
+      "options": [
+        "Kurt Angle",
+        "Dan Gable",
+        "Cael Sanderson",
+        "Rulon Gardner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kurt Angle won the freestyle wrestling gold medal at the 1996 Atlanta Olympics with a broken neck. He later became a famous professional wrestler in WWE.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-9",
+      "question": "What is a 'takedown' in wrestling?",
+      "options": [
+        "Lifting an opponent overhead",
+        "Bringing an opponent from standing to the mat while maintaining control",
+        "A referee's decision",
+        "Throwing an opponent out of the ring"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A takedown is a technique where a wrestler brings their opponent from a standing position down to the mat and establishes control. It is typically worth 2 points in competitive wrestling.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-10",
+      "question": "Which Turkish style of wrestling involves competitors covered in olive oil?",
+      "options": [
+        "Yagli gures (oil wrestling)",
+        "Kushti",
+        "Boke",
+        "Ssireum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Yagli gures (oil wrestling) is Turkey's national sport where competitors douse themselves in olive oil. The annual Kirkpinar tournament has been held since 1346, making it one of the oldest sporting events.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-11",
+      "question": "American wrestler Dan Gable is famous for winning the 1972 Olympic gold medal with what remarkable achievement?",
+      "options": [
+        "Not surrendering a single point in the tournament",
+        "Being the youngest champion",
+        "Competing in two weight classes",
+        "Winning by pin in every match"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dan Gable won the gold medal in freestyle wrestling at the 1972 Munich Olympics without surrendering a single point in any of his six matches. He later became a legendary wrestling coach at Iowa.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-12",
+      "question": "How many weight classes are there in Olympic freestyle wrestling for men?",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 6 weight classes in men's Olympic freestyle wrestling. The number has varied over the years, with the current format used since 2020.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-13",
+      "question": "What is 'collegiate wrestling' (folkstyle) primarily associated with?",
+      "options": [
+        "American high schools and universities",
+        "European clubs",
+        "Professional circuits",
+        "Japanese dojos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Collegiate (folkstyle) wrestling is the style practiced in American high schools and universities. It differs from freestyle in its emphasis on control and has its own set of rules and scoring.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-14",
+      "question": "Which country's traditional wrestling style is called 'kushti'?",
+      "options": [
+        "Mongolia",
+        "Iran",
+        "Turkey",
+        "India"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kushti (also called pehlwani) is traditional Indian wrestling that has been practiced for centuries. Wrestlers train in mud pits called 'akharas' and follow strict dietary and lifestyle disciplines.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "wrestling-history-quiz-15",
+      "question": "What shocking upset occurred in Greco-Roman wrestling at the 2000 Sydney Olympics?",
+      "options": [
+        "The event was cancelled",
+        "A tie was declared",
+        "American Rulon Gardner defeated unbeaten Alexander Karelin",
+        "A teenager won gold"
+      ],
+      "correctAnswer": 2,
+      "explanation": "American Rulon Gardner defeated Russia's Alexander Karelin, who had been undefeated for 13 years and hadn't given up a point in 6 years. It is considered one of the greatest upsets in Olympic history.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

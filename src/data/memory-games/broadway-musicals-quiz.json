@@ -1,0 +1,173 @@
+{
+  "id": "broadway-musicals-quiz",
+  "title": "Broadway Musicals Quiz",
+  "description": "Test your knowledge of famous Broadway musicals and their songs",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "broadway-musicals-quiz-1",
+      "question": "Which Broadway musical features the song 'Memory'?",
+      "options": [
+        "Cats",
+        "Phantom of the Opera",
+        "Evita",
+        "Les Miserables"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "broadway-musicals-quiz-2",
+      "question": "Who composed the music for 'West Side Story'?",
+      "options": [
+        "Leonard Bernstein",
+        "Stephen Sondheim",
+        "Richard Rodgers",
+        "Cole Porter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "broadway-musicals-quiz-3",
+      "question": "Which musical is based on the story of Eva Peron?",
+      "options": [
+        "Chicago",
+        "Cabaret",
+        "A Chorus Line",
+        "Evita"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "broadway-musicals-quiz-4",
+      "question": "'The Phantom of the Opera' was composed by which artist?",
+      "options": [
+        "Andrew Lloyd Webber",
+        "Tim Rice",
+        "Stephen Sondheim",
+        "Claude-Michel Schonberg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "broadway-musicals-quiz-5",
+      "question": "Which musical features the song 'Tomorrow'?",
+      "options": [
+        "Oliver!",
+        "Mary Poppins",
+        "The Sound of Music",
+        "Annie"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "broadway-musicals-quiz-6",
+      "question": "'Do-Re-Mi' is a famous song from which Rodgers and Hammerstein musical?",
+      "options": [
+        "The Sound of Music",
+        "The King and I",
+        "Carousel",
+        "Oklahoma!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "broadway-musicals-quiz-7",
+      "question": "Which musical tells the story of the Founding Fathers using hip-hop music?",
+      "options": [
+        "Hamilton",
+        "Suffs",
+        "1776",
+        "Bloody Bloody Andrew Jackson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "broadway-musicals-quiz-8",
+      "question": "In which musical would you hear the song 'Defying Gravity'?",
+      "options": [
+        "Frozen",
+        "Wicked",
+        "The Wizard of Oz",
+        "Into the Woods"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "broadway-musicals-quiz-9",
+      "question": "Which musical features the characters Danny and Sandy?",
+      "options": [
+        "Hairspray",
+        "Grease",
+        "Saturday Night Fever",
+        "Footloose"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "broadway-musicals-quiz-10",
+      "question": "'One Day More' is a famous ensemble number from which musical?",
+      "options": [
+        "Miss Saigon",
+        "Les Miserables",
+        "Sweeney Todd",
+        "Rent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "broadway-musicals-quiz-11",
+      "question": "Which musical is set in the Kit Kat Klub in 1930s Berlin?",
+      "options": [
+        "Chicago",
+        "Nine",
+        "Moulin Rouge!",
+        "Cabaret"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "broadway-musicals-quiz-12",
+      "question": "The musical 'Rent' is loosely based on which opera?",
+      "options": [
+        "Carmen",
+        "La Boheme",
+        "Madame Butterfly",
+        "La Traviata"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "broadway-musicals-quiz-13",
+      "question": "Which musical holds the record for the longest-running show on Broadway?",
+      "options": [
+        "The Phantom of the Opera",
+        "Cats",
+        "Chicago",
+        "The Lion King"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "broadway-musicals-quiz-14",
+      "question": "'All That Jazz' is the opening number of which musical?",
+      "options": [
+        "Cabaret",
+        "A Chorus Line",
+        "Chicago",
+        "Fosse"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "broadway-musicals-quiz-15",
+      "question": "Which Rodgers and Hammerstein musical is set in the American Southwest?",
+      "options": [
+        "Carousel",
+        "South Pacific",
+        "Oklahoma!",
+        "The King and I"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

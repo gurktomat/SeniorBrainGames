@@ -1,0 +1,173 @@
+{
+  "id": "space-stations-quiz",
+  "title": "Space Stations",
+  "description": "Learn about the orbiting outposts where humans live and work in space",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "space-stations-quiz-1",
+      "question": "What was the name of the first space station, launched by the Soviet Union in 1971?",
+      "options": [
+        "Mir",
+        "Tiangong",
+        "Skylab",
+        "Salyut 1"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-stations-quiz-2",
+      "question": "How many countries are primary partners in the International Space Station (ISS)?",
+      "options": [
+        "5",
+        "20",
+        "15",
+        "10"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-stations-quiz-3",
+      "question": "In what year was the first module of the International Space Station launched?",
+      "options": [
+        "1995",
+        "2003",
+        "1998",
+        "2000"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-stations-quiz-4",
+      "question": "What was the name of the American space station that orbited Earth from 1973 to 1979?",
+      "options": [
+        "Freedom",
+        "Skylab",
+        "Columbia",
+        "Genesis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-stations-quiz-5",
+      "question": "The Russian space station Mir operated for how many years in orbit?",
+      "options": [
+        "10 years",
+        "20 years",
+        "5 years",
+        "15 years"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-stations-quiz-6",
+      "question": "What is the approximate speed at which the ISS orbits Earth?",
+      "options": [
+        "17,500 mph",
+        "5,000 mph",
+        "25,000 mph",
+        "10,000 mph"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "space-stations-quiz-7",
+      "question": "How long does it take the ISS to complete one orbit around Earth?",
+      "options": [
+        "About 6 hours",
+        "About 90 minutes",
+        "About 45 minutes",
+        "About 3 hours"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-stations-quiz-8",
+      "question": "What is the name of China's space station, which became fully operational in 2022?",
+      "options": [
+        "Shenzhou",
+        "Chang'e",
+        "Tianwen",
+        "Tiangong"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-stations-quiz-9",
+      "question": "What is the primary purpose of the ISS?",
+      "options": [
+        "Military surveillance",
+        "Space tourism",
+        "Scientific research in microgravity",
+        "Satellite repair"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-stations-quiz-10",
+      "question": "Who holds the record for the most cumulative time spent in space by any human?",
+      "options": [
+        "Gennady Padalka",
+        "Scott Kelly",
+        "Peggy Whitson",
+        "Yuri Gagarin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "space-stations-quiz-11",
+      "question": "The ISS is roughly the size of what?",
+      "options": [
+        "A city block",
+        "An American football field",
+        "A school bus",
+        "A tennis court"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-stations-quiz-12",
+      "question": "What vehicle currently transports most astronauts to the ISS?",
+      "options": [
+        "Space Shuttle",
+        "Blue Origin New Shepard",
+        "Boeing Starliner",
+        "Soyuz and SpaceX Crew Dragon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-stations-quiz-13",
+      "question": "How many sunrises and sunsets do ISS astronauts experience each day?",
+      "options": [
+        "24",
+        "1",
+        "8",
+        "16"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-stations-quiz-14",
+      "question": "What robotic arm on the ISS, built by Canada, is used to move equipment and assist astronauts?",
+      "options": [
+        "ERA",
+        "Dextre",
+        "Canadarm2",
+        "JEMRMS"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-stations-quiz-15",
+      "question": "Astronauts on the ISS must exercise about how many hours per day to prevent muscle and bone loss?",
+      "options": [
+        "4 hours",
+        "1 hour",
+        "30 minutes",
+        "2 hours"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

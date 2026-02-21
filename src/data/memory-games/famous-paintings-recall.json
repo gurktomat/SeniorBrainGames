@@ -7,91 +7,166 @@
     {
       "id": "famous-paintings-recall-1",
       "question": "Leonardo da Vinci's 'Mona Lisa' is housed in which museum?",
-      "options": ["Uffizi Gallery, Florence", "The Louvre, Paris", "National Gallery, London", "Prado Museum, Madrid"],
-      "correctAnswer": 1
+      "options": [
+        "The Louvre, Paris",
+        "National Gallery, London",
+        "Uffizi Gallery, Florence",
+        "Prado Museum, Madrid"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-paintings-recall-2",
       "question": "Who painted 'The Starry Night,' depicting a swirling night sky over a village?",
-      "options": ["Claude Monet", "Paul Cézanne", "Vincent van Gogh", "Paul Gauguin"],
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Gauguin"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-3",
       "question": "'The Persistence of Memory,' featuring melting clocks, was painted by which artist?",
-      "options": ["René Magritte", "Salvador Dalí", "Max Ernst", "Joan Miró"],
-      "correctAnswer": 1
+      "options": [
+        "Max Ernst",
+        "Joan Miró",
+        "Salvador Dalí",
+        "René Magritte"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-4",
       "question": "Sandro Botticelli's 'The Birth of Venus' can be seen in which Italian museum?",
-      "options": ["Vatican Museums, Rome", "Galleria Borghese, Rome", "Uffizi Gallery, Florence", "Accademia Gallery, Venice"],
-      "correctAnswer": 2
+      "options": [
+        "Accademia Gallery, Venice",
+        "Galleria Borghese, Rome",
+        "Vatican Museums, Rome",
+        "Uffizi Gallery, Florence"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-paintings-recall-5",
       "question": "Who painted 'Girl with a Pearl Earring,' sometimes called the 'Mona Lisa of the North'?",
-      "options": ["Rembrandt van Rijn", "Johannes Vermeer", "Frans Hals", "Peter Paul Rubens"],
-      "correctAnswer": 1
+      "options": [
+        "Peter Paul Rubens",
+        "Frans Hals",
+        "Johannes Vermeer",
+        "Rembrandt van Rijn"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-6",
       "question": "Edvard Munch's 'The Scream' depicts a figure on a bridge. In which country was Munch born?",
-      "options": ["Sweden", "Denmark", "Norway", "Finland"],
-      "correctAnswer": 2
+      "options": [
+        "Finland",
+        "Sweden",
+        "Denmark",
+        "Norway"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-paintings-recall-7",
       "question": "Which artist painted 'Water Lilies,' a series of approximately 250 oil paintings?",
-      "options": ["Pierre-Auguste Renoir", "Edgar Degas", "Claude Monet", "Camille Pissarro"],
-      "correctAnswer": 2
+      "options": [
+        "Claude Monet",
+        "Camille Pissarro",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-paintings-recall-8",
       "question": "Rembrandt's 'The Night Watch' is displayed in which museum?",
-      "options": ["Rijksmuseum, Amsterdam", "Mauritshuis, The Hague", "The Louvre, Paris", "National Gallery, London"],
-      "correctAnswer": 0
+      "options": [
+        "National Gallery, London",
+        "The Louvre, Paris",
+        "Rijksmuseum, Amsterdam",
+        "Mauritshuis, The Hague"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-9",
       "question": "'Guernica,' a powerful anti-war painting, was created by which artist in response to the Spanish Civil War?",
-      "options": ["Francisco Goya", "Diego Rivera", "Pablo Picasso", "Joan Miró"],
+      "options": [
+        "Diego Rivera",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-10",
       "question": "Which American artist is famous for painting 'American Gothic,' showing a farmer and his daughter?",
-      "options": ["Norman Rockwell", "Edward Hopper", "Grant Wood", "Andrew Wyeth"],
+      "options": [
+        "Norman Rockwell",
+        "Andrew Wyeth",
+        "Grant Wood",
+        "Edward Hopper"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-11",
       "question": "Gustav Klimt's shimmering gold painting 'The Kiss' is housed in which city's museum?",
-      "options": ["Berlin", "Vienna", "Prague", "Munich"],
+      "options": [
+        "Munich",
+        "Vienna",
+        "Prague",
+        "Berlin"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-paintings-recall-12",
       "question": "Who painted 'Nighthawks,' depicting people in a late-night diner?",
-      "options": ["Grant Wood", "Edward Hopper", "Norman Rockwell", "Thomas Hart Benton"],
-      "correctAnswer": 1
+      "options": [
+        "Grant Wood",
+        "Norman Rockwell",
+        "Edward Hopper",
+        "Thomas Hart Benton"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-13",
       "question": "Michelangelo's 'The Creation of Adam' is painted on the ceiling of which famous building?",
-      "options": ["St. Peter's Basilica", "The Sistine Chapel", "Florence Cathedral", "The Pantheon"],
-      "correctAnswer": 1
+      "options": [
+        "Florence Cathedral",
+        "St. Peter's Basilica",
+        "The Pantheon",
+        "The Sistine Chapel"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-paintings-recall-14",
       "question": "Which Dutch master painted 'The Milkmaid,' showing a woman pouring milk from a jug?",
-      "options": ["Jan Steen", "Pieter de Hooch", "Johannes Vermeer", "Rembrandt van Rijn"],
+      "options": [
+        "Jan Steen",
+        "Rembrandt van Rijn",
+        "Johannes Vermeer",
+        "Pieter de Hooch"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-paintings-recall-15",
       "question": "James Abbott McNeill Whistler's famous painting of his mother is officially titled what?",
-      "options": ["Portrait of My Mother", "Arrangement in Grey and Black No.1", "Mother Seated", "Study in Grey: The Artist's Mother"],
+      "options": [
+        "Study in Grey: The Artist's Mother",
+        "Arrangement in Grey and Black No.1",
+        "Mother Seated",
+        "Portrait of My Mother"
+      ],
       "correctAnswer": 1
     }
   ]

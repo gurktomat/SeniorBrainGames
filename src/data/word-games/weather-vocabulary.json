@@ -7,92 +7,167 @@
     {
       "id": "weather-vocabulary-1",
       "question": "What is a 'barometer' used to measure?",
-      "options": ["Wind speed", "Atmospheric pressure", "Humidity levels", "Temperature"],
-      "correctAnswer": 1
+      "options": [
+        "Humidity levels",
+        "Wind speed",
+        "Atmospheric pressure",
+        "Temperature"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "weather-vocabulary-2",
       "question": "What does 'precipitation' mean in meteorology?",
-      "options": ["Rising air temperatures", "Any form of water falling from clouds, such as rain, snow, or hail", "Wind blowing from the west", "The formation of fog"],
+      "options": [
+        "Rising air temperatures",
+        "Any form of water falling from clouds, such as rain, snow, or hail",
+        "The formation of fog",
+        "Wind blowing from the west"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-vocabulary-3",
       "question": "What is a 'cumulus' cloud?",
-      "options": ["A thin, wispy high-altitude cloud", "A fluffy, white, flat-bottomed cloud that often looks like cotton", "A dark, low-hanging rain cloud", "A fog-like cloud at ground level"],
-      "correctAnswer": 1
+      "options": [
+        "A fluffy, white, flat-bottomed cloud that often looks like cotton",
+        "A fog-like cloud at ground level",
+        "A thin, wispy high-altitude cloud",
+        "A dark, low-hanging rain cloud"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "weather-vocabulary-4",
       "question": "What does 'humidity' measure?",
-      "options": ["The speed of wind", "The amount of water vapor in the air", "The intensity of sunlight", "The temperature of the ocean"],
-      "correctAnswer": 1
+      "options": [
+        "The temperature of the ocean",
+        "The speed of wind",
+        "The intensity of sunlight",
+        "The amount of water vapor in the air"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-5",
       "question": "What is a 'front' in weather terminology?",
-      "options": ["The leading edge of a raindrop", "The boundary between two different air masses", "The direction the wind is blowing", "The warmest part of the day"],
-      "correctAnswer": 1
+      "options": [
+        "The leading edge of a raindrop",
+        "The warmest part of the day",
+        "The direction the wind is blowing",
+        "The boundary between two different air masses"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-6",
       "question": "What is 'wind chill'?",
-      "options": ["The temperature at which wind stops blowing", "How cold it feels when wind combines with low temperature", "A breeze that occurs only in winter", "The cooling effect of rain"],
+      "options": [
+        "A breeze that occurs only in winter",
+        "How cold it feels when wind combines with low temperature",
+        "The cooling effect of rain",
+        "The temperature at which wind stops blowing"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-vocabulary-7",
       "question": "What does 'anemometer' measure?",
-      "options": ["Rainfall amount", "Wind speed", "Air pressure", "Cloud height"],
+      "options": [
+        "Rainfall amount",
+        "Wind speed",
+        "Cloud height",
+        "Air pressure"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-vocabulary-8",
       "question": "What is a 'tornado'?",
-      "options": ["A large tropical storm over the ocean", "A violently rotating column of air extending from a thunderstorm to the ground", "A prolonged period without rain", "A sudden temperature drop"],
-      "correctAnswer": 1
+      "options": [
+        "A prolonged period without rain",
+        "A sudden temperature drop",
+        "A large tropical storm over the ocean",
+        "A violently rotating column of air extending from a thunderstorm to the ground"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-9",
       "question": "What are 'cirrus' clouds?",
-      "options": ["Low, dark, rain-bearing clouds", "Thin, wispy clouds found at high altitudes, often made of ice crystals", "Thick, towering storm clouds", "Flat, gray, featureless clouds"],
+      "options": [
+        "Low, dark, rain-bearing clouds",
+        "Thin, wispy clouds found at high altitudes, often made of ice crystals",
+        "Thick, towering storm clouds",
+        "Flat, gray, featureless clouds"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-vocabulary-10",
       "question": "What is the 'dew point'?",
-      "options": ["The warmest temperature of the day", "The temperature at which air becomes saturated and water vapor condenses", "The point where rain turns to snow", "The temperature at which ice melts"],
-      "correctAnswer": 1
+      "options": [
+        "The point where rain turns to snow",
+        "The temperature at which ice melts",
+        "The temperature at which air becomes saturated and water vapor condenses",
+        "The warmest temperature of the day"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "weather-vocabulary-11",
       "question": "What does 'drought' mean?",
-      "options": ["An extremely cold winter", "A prolonged period of abnormally low rainfall", "A sudden heavy downpour", "A windstorm in the desert"],
-      "correctAnswer": 1
+      "options": [
+        "A windstorm in the desert",
+        "A sudden heavy downpour",
+        "An extremely cold winter",
+        "A prolonged period of abnormally low rainfall"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-12",
       "question": "What is 'sleet'?",
-      "options": ["Very light rain", "Ice pellets formed when raindrops freeze before reaching the ground", "Heavy snowfall", "Freezing fog"],
-      "correctAnswer": 1
+      "options": [
+        "Freezing fog",
+        "Very light rain",
+        "Heavy snowfall",
+        "Ice pellets formed when raindrops freeze before reaching the ground"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-13",
       "question": "What is a 'monsoon'?",
-      "options": ["A type of hurricane", "A seasonal wind shift that brings heavy rains", "An extremely hot day", "A rare winter thunderstorm"],
+      "options": [
+        "An extremely hot day",
+        "A seasonal wind shift that brings heavy rains",
+        "A type of hurricane",
+        "A rare winter thunderstorm"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-vocabulary-14",
       "question": "What does the Beaufort scale measure?",
-      "options": ["Earthquake intensity", "Wind force based on observed conditions", "Temperature extremes", "Rainfall amounts"],
-      "correctAnswer": 1
+      "options": [
+        "Temperature extremes",
+        "Earthquake intensity",
+        "Rainfall amounts",
+        "Wind force based on observed conditions"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-vocabulary-15",
       "question": "What is an 'isobar' on a weather map?",
-      "options": ["A symbol showing wind direction", "A line connecting points of equal atmospheric pressure", "A marker showing temperature highs", "A shaded area indicating rainfall"],
-      "correctAnswer": 1
+      "options": [
+        "A marker showing temperature highs",
+        "A symbol showing wind direction",
+        "A line connecting points of equal atmospheric pressure",
+        "A shaded area indicating rainfall"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

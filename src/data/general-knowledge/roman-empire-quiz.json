@@ -1,0 +1,173 @@
+{
+  "id": "roman-empire-quiz",
+  "title": "Roman Empire Quiz",
+  "description": "Test your knowledge of the mighty Roman Empire — from its legendary founding to its dramatic fall.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "roman-empire-quiz-1",
+      "question": "According to legend, who were the twin brothers who founded Rome?",
+      "options": [
+        "Castor and Pollux",
+        "Cain and Abel",
+        "Aeneas and Anchises",
+        "Romulus and Remus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "roman-empire-quiz-2",
+      "question": "Which Roman leader was assassinated on the Ides of March (March 15) in 44 BC?",
+      "options": [
+        "Julius Caesar",
+        "Nero",
+        "Augustus",
+        "Marcus Aurelius"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roman-empire-quiz-3",
+      "question": "What was the large arena in Rome where gladiatorial contests were held?",
+      "options": [
+        "The Colosseum",
+        "The Forum",
+        "The Circus Maximus",
+        "The Pantheon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roman-empire-quiz-4",
+      "question": "Which Roman emperor made Christianity the official religion of the empire?",
+      "options": [
+        "Nero",
+        "Constantine",
+        "Trajan",
+        "Theodosius I"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "roman-empire-quiz-5",
+      "question": "What engineering marvel allowed Romans to transport water over long distances?",
+      "options": [
+        "Aqueducts",
+        "Dams",
+        "Canals",
+        "Reservoirs"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roman-empire-quiz-6",
+      "question": "In what year did the Western Roman Empire traditionally fall?",
+      "options": [
+        "527 AD",
+        "476 AD",
+        "410 AD",
+        "395 AD"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "roman-empire-quiz-7",
+      "question": "Which famous Roman road connected Rome to southeastern Italy?",
+      "options": [
+        "Via Salaria",
+        "Via Appia",
+        "Via Aurelia",
+        "Via Flaminia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "roman-empire-quiz-8",
+      "question": "Who was the first Roman Emperor?",
+      "options": [
+        "Tiberius",
+        "Julius Caesar",
+        "Augustus",
+        "Caligula"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "roman-empire-quiz-9",
+      "question": "What language did the Romans speak?",
+      "options": [
+        "Aramaic",
+        "Greek",
+        "Etruscan",
+        "Latin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "roman-empire-quiz-10",
+      "question": "Which emperor is often blamed for 'fiddling while Rome burned' in 64 AD?",
+      "options": [
+        "Commodus",
+        "Nero",
+        "Domitian",
+        "Caligula"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "roman-empire-quiz-11",
+      "question": "What was the Roman Senate's meeting place called?",
+      "options": [
+        "The Colosseum",
+        "The Basilica",
+        "The Atrium",
+        "The Curia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "roman-empire-quiz-12",
+      "question": "Which Carthaginian general famously crossed the Alps with elephants to attack Rome?",
+      "options": [
+        "Hamilcar Barca",
+        "Scipio Africanus",
+        "Hannibal Barca",
+        "Hasdrubal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "roman-empire-quiz-13",
+      "question": "What were the series of wars between Rome and Carthage called?",
+      "options": [
+        "The Punic Wars",
+        "The Mithridatic Wars",
+        "The Social Wars",
+        "The Gallic Wars"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roman-empire-quiz-14",
+      "question": "Which Roman emperor built a wall across northern Britain?",
+      "options": [
+        "Trajan",
+        "Hadrian",
+        "Marcus Aurelius",
+        "Augustus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "roman-empire-quiz-15",
+      "question": "Marcus Aurelius, the philosopher-emperor, wrote a famous work of Stoic philosophy called what?",
+      "options": [
+        "The Consolation of Philosophy",
+        "Meditations",
+        "Discourses",
+        "The Republic"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

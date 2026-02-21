@@ -8,8 +8,13 @@
     {
       "id": "mv-1",
       "question": "What does the musical term 'forte' mean?",
-      "options": ["Slow", "Soft", "Loud", "Fast"],
-      "correctAnswer": 2,
+      "options": [
+        "Fast",
+        "Loud",
+        "Slow",
+        "Soft"
+      ],
+      "correctAnswer": 1,
       "explanation": "In music, 'forte' (abbreviated as 'f') means to play loudly or with strong force. It comes from the Italian word for 'strong.'",
       "difficulty": "easy",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "mv-2",
       "question": "What is a 'tempo' in music?",
-      "options": ["The volume of the music", "The speed or pace of the music", "The key of the music", "The mood of the music"],
-      "correctAnswer": 1,
+      "options": [
+        "The mood of the music",
+        "The key of the music",
+        "The volume of the music",
+        "The speed or pace of the music"
+      ],
+      "correctAnswer": 3,
       "explanation": "Tempo refers to the speed or pace at which a piece of music is played. It is usually measured in beats per minute (BPM) and comes from the Italian word for 'time.'",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "mv-3",
       "question": "What does 'solo' mean in a musical context?",
-      "options": ["A performance by the whole orchestra", "A piece played or sung by one person alone", "A type of drum pattern", "A slow section of a song"],
-      "correctAnswer": 1,
+      "options": [
+        "A slow section of a song",
+        "A type of drum pattern",
+        "A piece played or sung by one person alone",
+        "A performance by the whole orchestra"
+      ],
+      "correctAnswer": 2,
       "explanation": "A 'solo' is a musical piece or passage performed by a single musician, either alone or with accompaniment. The word comes from the Italian and Latin word for 'alone.'",
       "difficulty": "easy",
       "category": "language"
@@ -35,7 +50,12 @@
     {
       "id": "mv-4",
       "question": "What is a 'duet'?",
-      "options": ["A solo performance", "A musical composition for two performers", "A type of musical instrument", "A rehearsal session"],
+      "options": [
+        "A solo performance",
+        "A musical composition for two performers",
+        "A type of musical instrument",
+        "A rehearsal session"
+      ],
       "correctAnswer": 1,
       "explanation": "A duet is a musical composition written for two performers, who may be singers or instrumentalists. The word comes from the Italian 'duetto,' a diminutive of 'duo.'",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "mv-5",
       "question": "What does 'piano' mean as a musical direction?",
-      "options": ["Play loudly", "Play softly", "Play quickly", "Play with emotion"],
-      "correctAnswer": 1,
+      "options": [
+        "Play with emotion",
+        "Play loudly",
+        "Play quickly",
+        "Play softly"
+      ],
+      "correctAnswer": 3,
       "explanation": "As a musical direction, 'piano' (abbreviated 'p') means to play softly or quietly. The instrument called a 'piano' got its name because it could play both soft (piano) and loud (forte) notes—its full name is 'pianoforte.'",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "mv-6",
       "question": "What does 'allegro' indicate in a piece of music?",
-      "options": ["Play slowly", "Play with sadness", "Play at a fast, lively tempo", "Play very quietly"],
-      "correctAnswer": 2,
+      "options": [
+        "Play with sadness",
+        "Play very quietly",
+        "Play slowly",
+        "Play at a fast, lively tempo"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Allegro' is a tempo marking that indicates the music should be played at a fast, lively pace, typically between 120 and 156 beats per minute. It comes from the Italian word meaning 'cheerful' or 'lively.'",
       "difficulty": "medium",
       "category": "language"
@@ -62,7 +92,12 @@
     {
       "id": "mv-7",
       "question": "What is a 'crescendo' in music?",
-      "options": ["A sudden stop in the music", "A gradual increase in volume", "A repeating melody", "A change in key"],
+      "options": [
+        "A sudden stop in the music",
+        "A gradual increase in volume",
+        "A repeating melody",
+        "A change in key"
+      ],
       "correctAnswer": 1,
       "explanation": "A crescendo is a gradual increase in loudness or intensity in a piece of music. The word comes from the Italian 'crescere,' meaning 'to grow.' It is often indicated by a long opening hairpin symbol in sheet music.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "mv-8",
       "question": "What does 'staccato' mean?",
-      "options": ["Notes played smoothly and connected", "Notes played sharply detached from each other", "Notes played very slowly", "Notes played in harmony"],
-      "correctAnswer": 1,
+      "options": [
+        "Notes played very slowly",
+        "Notes played smoothly and connected",
+        "Notes played in harmony",
+        "Notes played sharply detached from each other"
+      ],
+      "correctAnswer": 3,
       "explanation": "Staccato is a style of playing where each note is sharply detached and separated from the others, creating a crisp, bouncing sound. It is the opposite of legato and comes from the Italian word meaning 'detached.'",
       "difficulty": "medium",
       "category": "language"
@@ -80,7 +120,12 @@
     {
       "id": "mv-9",
       "question": "What is an 'octave' in music?",
-      "options": ["A group of eight musicians", "The interval between one note and the next note of the same name", "A type of musical instrument", "A song with eight verses"],
+      "options": [
+        "A group of eight musicians",
+        "The interval between one note and the next note of the same name",
+        "A type of musical instrument",
+        "A song with eight verses"
+      ],
       "correctAnswer": 1,
       "explanation": "An octave is the interval between one musical pitch and another with double or half its frequency—essentially the same note at a higher or lower pitch. The name comes from the Latin 'octavus' meaning 'eighth,' as it spans eight notes in a major or minor scale.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "mv-10",
       "question": "What does 'adagio' mean as a tempo marking?",
-      "options": ["Very fast", "Moderately paced", "Slow and stately", "Gradually getting faster"],
-      "correctAnswer": 2,
+      "options": [
+        "Gradually getting faster",
+        "Very fast",
+        "Moderately paced",
+        "Slow and stately"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Adagio' indicates a slow, leisurely tempo, typically between 66 and 76 beats per minute. It comes from the Italian phrase 'ad agio,' meaning 'at ease.' Many famous slow movements in classical music are marked adagio.",
       "difficulty": "medium",
       "category": "language"
@@ -98,7 +148,12 @@
     {
       "id": "mv-11",
       "question": "What does 'a cappella' mean?",
-      "options": ["Singing with a full orchestra", "Singing without instrumental accompaniment", "Singing in a chapel", "Singing with a microphone"],
+      "options": [
+        "Singing with a microphone",
+        "Singing without instrumental accompaniment",
+        "Singing with a full orchestra",
+        "Singing in a chapel"
+      ],
       "correctAnswer": 1,
       "explanation": "'A cappella' means singing without any instrumental accompaniment, using only the human voice. The Italian phrase literally translates to 'in the manner of the chapel,' referring to unaccompanied choral music in churches.",
       "difficulty": "hard",
@@ -107,7 +162,12 @@
     {
       "id": "mv-12",
       "question": "What is a 'cadenza' in a musical performance?",
-      "options": ["The final note of a piece", "A virtuosic solo passage played freely by the soloist", "A type of dance movement", "The opening bars of a symphony"],
+      "options": [
+        "The opening bars of a symphony",
+        "A virtuosic solo passage played freely by the soloist",
+        "A type of dance movement",
+        "The final note of a piece"
+      ],
       "correctAnswer": 1,
       "explanation": "A cadenza is an ornamental, virtuosic passage played or sung by a soloist, typically near the end of a movement in a concerto. It gives the performer a chance to showcase technical skill, often without orchestral accompaniment.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "mv-13",
       "question": "What does 'rubato' mean in musical performance?",
-      "options": ["Playing with strict, mechanical timing", "Flexible tempo, speeding up and slowing down expressively", "Playing at double speed", "Repeating a passage multiple times"],
-      "correctAnswer": 1,
+      "options": [
+        "Flexible tempo, speeding up and slowing down expressively",
+        "Repeating a passage multiple times",
+        "Playing with strict, mechanical timing",
+        "Playing at double speed"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Rubato' means to play with flexible timing, slightly speeding up or slowing down the tempo for expressive effect. The Italian word means 'stolen,' referring to time being 'stolen' from one note and given to another.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "mv-14",
       "question": "What is a 'fermata' in music?",
-      "options": ["A fast repetition of notes", "A symbol indicating a note should be held longer than its usual value", "A type of Italian song", "A brass instrument mute"],
-      "correctAnswer": 1,
+      "options": [
+        "A symbol indicating a note should be held longer than its usual value",
+        "A type of Italian song",
+        "A fast repetition of notes",
+        "A brass instrument mute"
+      ],
+      "correctAnswer": 0,
       "explanation": "A fermata is a symbol (a dot under a curved line) placed over a note or rest, indicating that it should be held for longer than its normal duration, at the performer's discretion. The Italian word means 'stop' or 'stay.'",
       "difficulty": "hard",
       "category": "language"
@@ -134,8 +204,13 @@
     {
       "id": "mv-15",
       "question": "What does 'sforzando' (sfz) mean in music?",
-      "options": ["Gradually getting softer", "A sudden, strong accent on a single note or chord", "Playing in a whisper", "A slow fade to silence"],
-      "correctAnswer": 1,
+      "options": [
+        "A sudden, strong accent on a single note or chord",
+        "Playing in a whisper",
+        "A slow fade to silence",
+        "Gradually getting softer"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Sforzando' (abbreviated 'sfz') means a sudden, forceful accent on a particular note or chord. It comes from the Italian 'sforzare,' meaning 'to force.' It creates a dramatic, emphatic effect within the music.",
       "difficulty": "hard",
       "category": "language"

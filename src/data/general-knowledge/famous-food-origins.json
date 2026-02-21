@@ -7,92 +7,167 @@
     {
       "id": "famous-food-origins-1",
       "question": "Pizza Margherita, topped with tomato, mozzarella, and basil, is said to have been created in which Italian city?",
-      "options": ["Rome", "Naples", "Milan", "Florence"],
-      "correctAnswer": 1
+      "options": [
+        "Florence",
+        "Rome",
+        "Milan",
+        "Naples"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-food-origins-2",
       "question": "Chocolate was first consumed as a beverage by which ancient civilization in Central America?",
-      "options": ["Incas", "Aztecs", "Maya", "Olmec"],
-      "correctAnswer": 2
+      "options": [
+        "Aztecs",
+        "Incas",
+        "Olmec",
+        "Maya"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-food-origins-3",
       "question": "The croissant, though associated with France, is believed to have originated in which country?",
-      "options": ["Belgium", "Austria", "Switzerland", "Germany"],
+      "options": [
+        "Belgium",
+        "Austria",
+        "Germany",
+        "Switzerland"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-food-origins-4",
       "question": "Sushi, now synonymous with Japanese cuisine, originally began as a method of preserving fish using fermented what?",
-      "options": ["Seaweed", "Rice", "Soy", "Vinegar"],
-      "correctAnswer": 1
+      "options": [
+        "Rice",
+        "Seaweed",
+        "Soy",
+        "Vinegar"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-5",
       "question": "The hamburger is named after Hamburg, a city in which country?",
-      "options": ["Austria", "Netherlands", "Germany", "Denmark"],
+      "options": [
+        "Austria",
+        "Denmark",
+        "Germany",
+        "Netherlands"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-food-origins-6",
       "question": "Ice cream cones are said to have been popularized at which event in 1904?",
-      "options": ["Chicago World's Fair", "St. Louis World's Fair", "New York Exposition", "Philadelphia Centennial"],
+      "options": [
+        "Philadelphia Centennial",
+        "St. Louis World's Fair",
+        "Chicago World's Fair",
+        "New York Exposition"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-food-origins-7",
       "question": "Tomatoes, now central to Italian cuisine, originally came from which part of the world?",
-      "options": ["Mediterranean", "South America", "Southeast Asia", "North Africa"],
-      "correctAnswer": 1
+      "options": [
+        "South America",
+        "North Africa",
+        "Southeast Asia",
+        "Mediterranean"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-8",
       "question": "The sandwich is named after the Earl of Sandwich, a nobleman from which country?",
-      "options": ["France", "Scotland", "England", "Ireland"],
+      "options": [
+        "France",
+        "Ireland",
+        "England",
+        "Scotland"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-food-origins-9",
       "question": "Coffee is believed to have been first discovered by goat herders in which African country?",
-      "options": ["Kenya", "Ethiopia", "Egypt", "Morocco"],
-      "correctAnswer": 1
+      "options": [
+        "Ethiopia",
+        "Kenya",
+        "Morocco",
+        "Egypt"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-10",
       "question": "French fries, despite their name, are widely claimed to have originated in which country?",
-      "options": ["France", "Belgium", "Netherlands", "Spain"],
-      "correctAnswer": 1
+      "options": [
+        "France",
+        "Netherlands",
+        "Belgium",
+        "Spain"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-food-origins-11",
       "question": "Pasta, a staple of Italian cuisine, has ancient origins. Which civilization is known to have eaten an early form of noodles over 4,000 years ago?",
-      "options": ["Roman", "Chinese", "Egyptian", "Greek"],
-      "correctAnswer": 1
+      "options": [
+        "Chinese",
+        "Roman",
+        "Egyptian",
+        "Greek"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-12",
       "question": "The Caesar salad was reportedly invented in the 1920s in which country?",
-      "options": ["Italy", "United States", "Mexico", "France"],
-      "correctAnswer": 2
+      "options": [
+        "France",
+        "Mexico",
+        "Italy",
+        "United States"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-food-origins-13",
       "question": "Champagne, the famous sparkling wine, is produced exclusively in the Champagne region of which country?",
-      "options": ["Italy", "Spain", "France", "Germany"],
-      "correctAnswer": 2
+      "options": [
+        "France",
+        "Germany",
+        "Spain",
+        "Italy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-14",
       "question": "Potatoes, now grown worldwide, were first cultivated by indigenous peoples in which region?",
-      "options": ["Central America", "North America", "South America (Andes)", "Southeast Asia"],
-      "correctAnswer": 2
+      "options": [
+        "South America (Andes)",
+        "North America",
+        "Central America",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-food-origins-15",
       "question": "The pretzel is believed to have been invented by monks in the early Middle Ages as a reward for children who learned their prayers. In which region did it originate?",
-      "options": ["France", "England", "Southern Germany or Northern Italy", "Spain"],
-      "correctAnswer": 2
+      "options": [
+        "Southern Germany or Northern Italy",
+        "Spain",
+        "England",
+        "France"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "id": "renaissance-art-quiz",
+  "title": "Renaissance Art",
+  "description": "Explore the masterpieces of the Renaissance, the golden age of Western art!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "renaissance-art-quiz-1",
+      "question": "Leonardo da Vinci's 'Mona Lisa' is displayed in which museum?",
+      "options": [
+        "The National Gallery",
+        "The Uffizi Gallery",
+        "The Prado",
+        "The Louvre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Mona Lisa' has been displayed in the Louvre in Paris since 1797. It is the most visited artwork in the world, seen by approximately 10 million people annually.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-2",
+      "question": "Which artist painted the ceiling of the Sistine Chapel in Vatican City?",
+      "options": [
+        "Raphael",
+        "Michelangelo",
+        "Sandro Botticelli",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512, commissioned by Pope Julius II. The work includes over 300 figures and covers approximately 12,000 square feet.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-3",
+      "question": "Which Italian city is considered the birthplace of the Renaissance?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Milan",
+        "Venice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Florence, under the patronage of the powerful Medici family, became the cradle of the Renaissance in the 14th and 15th centuries. Its wealth and emphasis on learning attracted the greatest artists and thinkers.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-4",
+      "question": "Sandro Botticelli's famous painting 'The Birth of Venus' depicts which scene?",
+      "options": [
+        "Venus riding a chariot",
+        "Venus sitting in a garden",
+        "Venus rising from the sea on a shell",
+        "Venus descending from clouds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Birth of Venus' (c. 1485) shows the goddess Venus emerging from the sea as a fully grown woman, standing on a giant scallop shell. It hangs in the Uffizi Gallery in Florence.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-5",
+      "question": "What technique did Leonardo da Vinci use to create soft, hazy transitions between colors?",
+      "options": [
+        "Fresco",
+        "Sfumato",
+        "Chiaroscuro",
+        "Impasto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sfumato (from the Italian 'sfumare,' meaning 'to evaporate') creates a smoky, soft-focus effect by blending colors and tones. The Mona Lisa's famously enigmatic smile is achieved through this technique.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-6",
+      "question": "Raphael's famous fresco 'The School of Athens' is found in which building?",
+      "options": [
+        "The Apostolic Palace (Vatican)",
+        "Florence Cathedral",
+        "The Doge's Palace",
+        "The Sistine Chapel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The School of Athens' (1509-1511) adorns the Stanza della Segnatura in the Apostolic Palace in the Vatican. It depicts ancient Greek philosophers including Plato and Aristotle at the center.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-7",
+      "question": "The word 'Renaissance' means what in French?",
+      "options": [
+        "Rebirth",
+        "Discovery",
+        "Enlightenment",
+        "Revolution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Renaissance' means 'rebirth,' referring to the revival of interest in classical Greek and Roman art, philosophy, and learning that began in Italy in the 14th century and spread across Europe.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-8",
+      "question": "Which wealthy banking family were the greatest patrons of Renaissance art in Florence?",
+      "options": [
+        "The Sforza family",
+        "The Medici family",
+        "The Borgia family",
+        "The Este family"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Medici family, led by figures like Lorenzo the Magnificent, sponsored artists including Leonardo, Botticelli, and Michelangelo. Their patronage was instrumental in making Florence the center of the Renaissance.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-9",
+      "question": "Leonardo da Vinci's 'The Last Supper' is painted on the wall of a dining hall in which city?",
+      "options": [
+        "Florence",
+        "Rome",
+        "Venice",
+        "Milan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The Last Supper' (1495-1498) is painted on the wall of the refectory (dining hall) of the Convent of Santa Maria delle Grazie in Milan. Leonardo used an experimental technique that has led to centuries of deterioration and restoration.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-10",
+      "question": "Which Northern Renaissance artist created highly detailed paintings including 'The Garden of Earthly Delights'?",
+      "options": [
+        "Hieronymus Bosch",
+        "Pieter Bruegel the Elder",
+        "Albrecht Dürer",
+        "Jan van Eyck"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hieronymus Bosch (c. 1450-1516) created fantastical, surreal paintings filled with bizarre creatures and scenes. 'The Garden of Earthly Delights' triptych remains one of the most enigmatic works in art history.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-11",
+      "question": "What innovation did Filippo Brunelleschi demonstrate that revolutionized Renaissance art?",
+      "options": [
+        "Fresco technique",
+        "Oil painting",
+        "Linear perspective",
+        "Marble sculpting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Around 1415, Brunelleschi demonstrated the mathematical rules of linear perspective, allowing artists to create convincing illusions of three-dimensional space on a flat surface. This transformed Western art.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-12",
+      "question": "Titian was the greatest painter of which Italian city's Renaissance school?",
+      "options": [
+        "Naples",
+        "Venice",
+        "Florence",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Titian (Tiziano Vecellio) was the leading painter of the Venetian school, known for his masterful use of color. His long career spanned nearly 70 years, and he influenced generations of European painters.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-13",
+      "question": "Which German artist of the Northern Renaissance was known for his precise engravings and woodcuts?",
+      "options": [
+        "Hans Holbein the Younger",
+        "Albrecht Dürer",
+        "Lucas Cranach the Elder",
+        "Matthias Grünewald"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Albrecht Dürer (1471-1528) elevated printmaking to a fine art. His detailed engravings like 'Melencolia I' and 'Knight, Death and the Devil' demonstrated extraordinary technical mastery.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-14",
+      "question": "What is 'chiaroscuro,' a technique mastered by Renaissance artists?",
+      "options": [
+        "The use of perspective grids",
+        "Painting on wet plaster",
+        "The use of gold leaf in paintings",
+        "The contrast of light and dark to create depth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chiaroscuro (Italian for 'light-dark') uses strong contrasts between light and shadow to model three-dimensional forms. Caravaggio later took this technique to dramatic extremes in the Baroque period.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "renaissance-art-quiz-15",
+      "question": "Which Jan van Eyck painting is considered a masterpiece of the Northern Renaissance for its detailed realism?",
+      "options": [
+        "The Adoration of the Lamb",
+        "The Arnolfini Portrait",
+        "The Last Judgment",
+        "The Descent from the Cross"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'The Arnolfini Portrait' (1434) depicts a wealthy couple in their home with astonishing detail, including a convex mirror reflecting the entire room. Van Eyck's mastery of oil painting set new standards for realism.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

@@ -7,91 +7,166 @@
     {
       "id": "scottish-words-1",
       "question": "What does 'bonnie' mean in Scottish English?",
-      "options": ["Angry or upset", "Beautiful or attractive", "Small or tiny", "Hungry"],
+      "options": [
+        "Angry or upset",
+        "Beautiful or attractive",
+        "Small or tiny",
+        "Hungry"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-2",
       "question": "What does 'wee' mean in Scottish English?",
-      "options": ["Sad", "Small or little", "Wet", "Happy"],
-      "correctAnswer": 1
+      "options": [
+        "Small or little",
+        "Wet",
+        "Happy",
+        "Sad"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "scottish-words-3",
       "question": "What is a 'brae' in Scotland?",
-      "options": ["A river", "A steep hillside or slope", "A type of bread", "A castle tower"],
+      "options": [
+        "A type of bread",
+        "A steep hillside or slope",
+        "A river",
+        "A castle tower"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-4",
       "question": "What does 'dinnae' mean in Scots?",
-      "options": ["Dinner time", "Don't", "Dance", "Did not eat"],
+      "options": [
+        "Dinner time",
+        "Don't",
+        "Did not eat",
+        "Dance"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-5",
       "question": "What is a 'loch' in Scotland?",
-      "options": ["A type of lock on a door", "A lake or sea inlet", "A woolen cloth", "A highland cow"],
-      "correctAnswer": 1
+      "options": [
+        "A type of lock on a door",
+        "A highland cow",
+        "A woolen cloth",
+        "A lake or sea inlet"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "scottish-words-6",
       "question": "What does 'blether' (or 'blather') mean in Scottish English?",
-      "options": ["To argue fiercely", "To chat or talk at length", "To whisper quietly", "To sing loudly"],
-      "correctAnswer": 1
+      "options": [
+        "To whisper quietly",
+        "To argue fiercely",
+        "To sing loudly",
+        "To chat or talk at length"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "scottish-words-7",
       "question": "What is 'Hogmanay' in Scotland?",
-      "options": ["A type of haggis", "The celebration of New Year's Eve", "A highland dance", "A spring festival"],
+      "options": [
+        "A spring festival",
+        "The celebration of New Year's Eve",
+        "A highland dance",
+        "A type of haggis"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-8",
       "question": "What does 'ken' mean in Scots?",
-      "options": ["A man's name only", "To know or understand", "A type of house", "A dog breed"],
+      "options": [
+        "A type of house",
+        "To know or understand",
+        "A man's name only",
+        "A dog breed"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-9",
       "question": "What is 'haggis'?",
-      "options": ["A Scottish dance", "A traditional Scottish dish made from sheep's offal, oatmeal, and spices", "A type of tartan pattern", "A musical instrument"],
-      "correctAnswer": 1
+      "options": [
+        "A type of tartan pattern",
+        "A musical instrument",
+        "A traditional Scottish dish made from sheep's offal, oatmeal, and spices",
+        "A Scottish dance"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "scottish-words-10",
       "question": "What does 'braw' mean in Scots?",
-      "options": ["Cold and windy", "Fine, good, or splendid", "Broken or damaged", "Frightened"],
-      "correctAnswer": 1
+      "options": [
+        "Fine, good, or splendid",
+        "Frightened",
+        "Broken or damaged",
+        "Cold and windy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "scottish-words-11",
       "question": "What is a 'ceilidh' (pronounced 'KAY-lee')?",
-      "options": ["A type of whisky", "A traditional social gathering with music and dancing", "A Scottish castle", "A woolen blanket"],
-      "correctAnswer": 1
+      "options": [
+        "A Scottish castle",
+        "A type of whisky",
+        "A traditional social gathering with music and dancing",
+        "A woolen blanket"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "scottish-words-12",
       "question": "What does 'dreich' mean in Scottish English?",
-      "options": ["Bright and sunny", "Dull, gray, and drizzly weather", "Extremely cold", "Warm and humid"],
-      "correctAnswer": 1
+      "options": [
+        "Extremely cold",
+        "Warm and humid",
+        "Dull, gray, and drizzly weather",
+        "Bright and sunny"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "scottish-words-13",
       "question": "What is a 'glen' in Scotland?",
-      "options": ["A mountain peak", "A narrow valley", "A sandy beach", "A stone bridge"],
+      "options": [
+        "A stone bridge",
+        "A narrow valley",
+        "A mountain peak",
+        "A sandy beach"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-14",
       "question": "What does 'wean' mean in Scots?",
-      "options": ["To lose weight", "A child or young person", "To complain", "A type of fabric"],
+      "options": [
+        "To complain",
+        "A child or young person",
+        "A type of fabric",
+        "To lose weight"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "scottish-words-15",
       "question": "What does 'auld' mean in Scots, as in Robert Burns's 'Auld Lang Syne'?",
-      "options": ["New", "Old", "Happy", "Bright"],
+      "options": [
+        "Happy",
+        "Old",
+        "Bright",
+        "New"
+      ],
       "correctAnswer": 1
     }
   ]

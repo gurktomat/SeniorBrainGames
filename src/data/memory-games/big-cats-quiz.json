@@ -1,0 +1,173 @@
+{
+  "id": "big-cats-quiz",
+  "title": "Big Cats Quiz",
+  "description": "Test your knowledge of lions, tigers, leopards, and other magnificent big cats",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "big-cats-quiz-1",
+      "question": "Which big cat is the largest in the world, with males weighing up to 660 pounds?",
+      "options": [
+        "Leopard",
+        "Tiger",
+        "Lion",
+        "Jaguar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "big-cats-quiz-2",
+      "question": "Which is the only big cat that lives in social groups called prides?",
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Cheetah"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "big-cats-quiz-3",
+      "question": "Which big cat is the fastest land animal, capable of reaching speeds up to 70 mph?",
+      "options": [
+        "Lion",
+        "Cougar",
+        "Cheetah",
+        "Leopard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "big-cats-quiz-4",
+      "question": "Which big cat is known for dragging its prey up into trees to keep it safe from scavengers?",
+      "options": [
+        "Jaguar",
+        "Cougar",
+        "Tiger",
+        "Leopard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-5",
+      "question": "Which big cat has the strongest bite force relative to its size and can crush turtle shells and caiman skulls?",
+      "options": [
+        "Jaguar",
+        "Lion",
+        "Tiger",
+        "Leopard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "big-cats-quiz-6",
+      "question": "What is a black panther actually? It is a melanistic (black-coated) variant of which cats?",
+      "options": [
+        "Tiger or Cheetah",
+        "Lynx or Bobcat",
+        "Cougar or Lion",
+        "Jaguar or Leopard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-7",
+      "question": "Which big cat is found only in the Americas and is the third-largest cat in the world?",
+      "options": [
+        "Ocelot",
+        "Jaguar",
+        "Cougar",
+        "Bobcat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "big-cats-quiz-8",
+      "question": "Which big cat cannot fully retract its claws, an adaptation that helps it grip the ground while sprinting?",
+      "options": [
+        "Leopard",
+        "Lion",
+        "Tiger",
+        "Cheetah"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-9",
+      "question": "Which subspecies of tiger is the most numerous in the wild today?",
+      "options": [
+        "Siberian Tiger",
+        "Indochinese Tiger",
+        "Sumatran Tiger",
+        "Bengal Tiger"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-10",
+      "question": "Which big cat purrs but cannot roar, despite being classified alongside lions and tigers?",
+      "options": [
+        "Snow Leopard",
+        "Leopard",
+        "Jaguar",
+        "Cheetah"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-11",
+      "question": "What are the distinctive black lines running from a cheetah's eyes to its mouth called?",
+      "options": [
+        "War paint",
+        "Face stripes",
+        "Eye bands",
+        "Tear marks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-12",
+      "question": "Which big cat's spots are called 'rosettes' because they are shaped like roses?",
+      "options": [
+        "Leopard",
+        "Cheetah",
+        "Jaguar",
+        "Both Jaguar and Leopard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-13",
+      "question": "In which continent would you find wild lions today (outside of a small population in India)?",
+      "options": [
+        "Australia",
+        "South America",
+        "Asia",
+        "Africa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-14",
+      "question": "Which big cat has stripes that are unique to each individual, much like human fingerprints?",
+      "options": [
+        "Cheetah",
+        "Jaguar",
+        "Leopard",
+        "Tiger"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "big-cats-quiz-15",
+      "question": "What is a hybrid offspring of a male lion and a female tiger called?",
+      "options": [
+        "Jaglion",
+        "Liger",
+        "Leopon",
+        "Tigon"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

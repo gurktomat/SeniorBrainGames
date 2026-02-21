@@ -1,0 +1,219 @@
+{
+  "id": "equestrian-sports-quiz",
+  "title": "Equestrian Sports",
+  "description": "How well do you know horse racing, dressage, and other equestrian sports?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "equestrian-sports-quiz-1",
+      "question": "What are the three Olympic equestrian disciplines?",
+      "options": [
+        "Polo, eventing, harness racing",
+        "Dressage, racing, cross-country",
+        "Dressage, eventing, show jumping",
+        "Racing, jumping, polo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The three Olympic equestrian disciplines are dressage, eventing (which includes dressage, cross-country, and show jumping), and show jumping.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-2",
+      "question": "What is the Triple Crown of horse racing in the United States?",
+      "options": [
+        "Kentucky Derby, Breeders' Cup, Arlington Million",
+        "Kentucky Derby, Preakness Stakes, Belmont Stakes",
+        "Preakness Stakes, Belmont Stakes, Travers Stakes",
+        "Kentucky Derby, Preakness Stakes, Travers Stakes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The US Triple Crown consists of the Kentucky Derby, the Preakness Stakes, and the Belmont Stakes. Only 13 horses have won all three races.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-3",
+      "question": "What is dressage?",
+      "options": [
+        "A form of horse training showcasing precise movements",
+        "Long-distance trail riding",
+        "Racing horses over hurdles",
+        "Horse-mounted combat sport"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dressage is a form of horse training where horse and rider perform a series of predetermined movements from memory. It is often described as 'ballet on horseback.'",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-4",
+      "question": "Which horse won the Triple Crown in 2015, ending a 37-year drought?",
+      "options": [
+        "American Pharoah",
+        "California Chrome",
+        "Justify",
+        "Nyquist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "American Pharoah won the Triple Crown in 2015, becoming the first horse since Affirmed in 1978 to accomplish the feat. He also won the Breeders' Cup Classic that year.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-5",
+      "question": "What is polo?",
+      "options": [
+        "A jumping competition",
+        "A horse race on grass",
+        "A solo dressage event",
+        "A team sport played on horseback with mallets"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Polo is a team sport played on horseback where players use long-handled mallets to hit a ball through the opposing team's goal. Each team has four riders.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-6",
+      "question": "What is unique about equestrian sports in the Olympics?",
+      "options": [
+        "Only amateur riders are allowed",
+        "There are no team events",
+        "Only women compete",
+        "Men and women compete against each other on equal terms"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Equestrian is one of the few Olympic sports where men and women compete directly against each other on equal terms, as the horse is considered an equal partner.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-7",
+      "question": "What is the most famous steeplechase horse race in the world?",
+      "options": [
+        "The Melbourne Cup",
+        "The Grand National",
+        "The Prix de l'Arc de Triomphe",
+        "The Kentucky Derby"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Grand National, held annually at Aintree Racecourse near Liverpool, England, is the most famous steeplechase in the world. It features 30 fences over approximately 4.5 miles.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-8",
+      "question": "Which legendary racehorse won 21 consecutive races and is considered one of the greatest racehorses of all time?",
+      "options": [
+        "Man o' War",
+        "Secretariat",
+        "Frankel",
+        "Seabiscuit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frankel, trained by Sir Henry Cecil, won all 14 of his career races (2010-2012). However, the horse with 21 consecutive wins would be Kincsem, who won all 54 of her races in the 1870s.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-9",
+      "question": "What is cross-country in equestrian eventing?",
+      "options": [
+        "A flat race on a track",
+        "A timed trail ride",
+        "Jumping fixed obstacles over natural terrain",
+        "A dressage test in an open field"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cross-country is a phase of eventing where horse and rider navigate a course of fixed obstacles over natural terrain, including ditches, water features, and solid fences.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-10",
+      "question": "What distance did Secretariat win the 1973 Belmont Stakes by, a record that still stands?",
+      "options": [
+        "31 lengths",
+        "21 lengths",
+        "10 lengths",
+        "40 lengths"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Secretariat won the 1973 Belmont Stakes by an astounding 31 lengths, completing the Triple Crown. His time of 2:24 for 1.5 miles remains the race record.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-11",
+      "question": "What is a 'furlong' in horse racing?",
+      "options": [
+        "A type of fence",
+        "One-eighth of a mile (201 meters)",
+        "A starting position",
+        "A type of bet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A furlong is a unit of distance equal to one-eighth of a mile (approximately 201 meters). The Kentucky Derby is run over 10 furlongs (1.25 miles).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-12",
+      "question": "Which country is known as the birthplace of polo?",
+      "options": [
+        "England",
+        "Argentina",
+        "India",
+        "Persia (Iran)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Polo originated in ancient Persia (modern-day Iran) over 2,000 years ago. It was originally used as training for cavalry units and later became a sport of royalty.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-13",
+      "question": "What is the Melbourne Cup?",
+      "options": [
+        "A rugby championship",
+        "A cricket trophy",
+        "Australia's most famous horse race",
+        "A sailing regatta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Melbourne Cup is Australia's most prestigious horse race, held on the first Tuesday in November at Flemington Racecourse. It is known as 'the race that stops a nation.'",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-14",
+      "question": "In show jumping, what happens when a horse knocks down a rail?",
+      "options": [
+        "Immediate disqualification",
+        "A time penalty of 10 seconds",
+        "The obstacle must be repeated",
+        "The pair receives four penalty faults"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In show jumping, knocking down a rail incurs four penalty faults. Faults are also given for refusals. The pair with the fewest faults and fastest time wins.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "equestrian-sports-quiz-15",
+      "question": "Which horse breed is most commonly associated with thoroughbred racing?",
+      "options": [
+        "Arabian",
+        "Standardbred",
+        "Thoroughbred",
+        "Quarter Horse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Thoroughbred is a horse breed specifically developed for racing. All modern Thoroughbreds can trace their lineage back to three founding stallions imported to England in the 17th and 18th centuries.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

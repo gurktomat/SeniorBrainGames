@@ -1,0 +1,219 @@
+{
+  "id": "superfoods-nutrition-quiz",
+  "title": "Superfoods & Nutrition",
+  "description": "How much do you know about superfoods and their nutritional benefits?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "superfoods-nutrition-quiz-1",
+      "question": "Which berry is often called a superfood due to its extremely high antioxidant content?",
+      "options": [
+        "Strawberry",
+        "Cranberry",
+        "Raspberry",
+        "Blueberry"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Blueberries are considered one of the top superfoods due to their high levels of anthocyanins and other antioxidants that may help protect against cell damage.",
+      "difficulty": "easy",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-2",
+      "question": "Quinoa is often praised as a superfood because it is a complete protein. Where did it originate?",
+      "options": [
+        "Europe",
+        "Asia",
+        "South America",
+        "Africa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quinoa originated in the Andean region of South America, where it was cultivated by the Inca Empire and called 'the mother of all grains.'",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-3",
+      "question": "Which leafy green vegetable contains more iron per calorie than beef?",
+      "options": [
+        "Spinach",
+        "Lettuce",
+        "Cabbage",
+        "Celery"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Spinach contains about 3.6 mg of iron per 100 grams cooked, making it one of the most iron-rich vegetables per calorie.",
+      "difficulty": "easy",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-4",
+      "question": "What superfood spice gives curry its yellow color and contains curcumin?",
+      "options": [
+        "Saffron",
+        "Turmeric",
+        "Paprika",
+        "Ginger"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turmeric contains curcumin, a compound with powerful anti-inflammatory and antioxidant properties. It has been used in traditional medicine for thousands of years.",
+      "difficulty": "easy",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-5",
+      "question": "Which nut is the richest source of omega-3 fatty acids?",
+      "options": [
+        "Almonds",
+        "Walnuts",
+        "Cashews",
+        "Peanuts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Walnuts are the richest tree nut source of alpha-linolenic acid (ALA), a plant-based omega-3 fatty acid that supports heart health.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-6",
+      "question": "Acai berries are native to which region?",
+      "options": [
+        "Southeast Asia",
+        "Mediterranean",
+        "The Amazon rainforest",
+        "Central Africa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acai berries grow on acai palm trees native to the Amazon rainforest in Brazil. They are rich in antioxidants, fiber, and heart-healthy fats.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-7",
+      "question": "Which seed is one of the best plant sources of omega-3 fatty acids?",
+      "options": [
+        "Sesame seeds",
+        "Poppy seeds",
+        "Sunflower seeds",
+        "Chia seeds"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chia seeds are exceptionally rich in omega-3 fatty acids, fiber, and protein. They were a staple food of the ancient Aztecs and Mayans.",
+      "difficulty": "easy",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-8",
+      "question": "What makes salmon a superfood?",
+      "options": [
+        "Rich in omega-3 fatty acids",
+        "High carbohydrate content",
+        "High sugar content",
+        "Contains caffeine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Salmon is rich in omega-3 fatty acids (EPA and DHA), which support heart health, brain function, and reduce inflammation.",
+      "difficulty": "easy",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-9",
+      "question": "Which superfood grain is naturally gluten-free and was a staple of the Aztec empire?",
+      "options": [
+        "Wheat",
+        "Amaranth",
+        "Barley",
+        "Rye"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amaranth is a gluten-free pseudocereal that was a primary food source for the Aztecs. It is high in protein, fiber, and micronutrients.",
+      "difficulty": "hard",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-10",
+      "question": "Dark chocolate is considered a superfood primarily because it is rich in what?",
+      "options": [
+        "Vitamin C",
+        "Calcium",
+        "Flavonoids",
+        "Vitamin A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dark chocolate is rich in flavonoids, particularly flavanols, which have antioxidant properties and may help lower blood pressure and improve blood flow.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-11",
+      "question": "Which green superfood powder is made from young barley or wheat plants?",
+      "options": [
+        "Spirulina",
+        "Chlorella",
+        "Wheatgrass",
+        "Matcha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wheatgrass is harvested from the young shoots of the wheat plant and is rich in chlorophyll, vitamins, and minerals.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-12",
+      "question": "Which superfood is a type of blue-green algae sold as a dietary supplement?",
+      "options": [
+        "Seaweed",
+        "Spirulina",
+        "Nori",
+        "Kelp"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spirulina is a blue-green algae that is extremely high in protein and rich in B vitamins, iron, and antioxidants. NASA has studied it as a potential food for space missions.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-13",
+      "question": "Which fruit has the highest potassium content per serving?",
+      "options": [
+        "Apple",
+        "Orange",
+        "Avocado",
+        "Grape"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Avocados contain more potassium per serving than bananas, with about 975 mg per avocado compared to 422 mg in a banana.",
+      "difficulty": "hard",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-14",
+      "question": "Kale became widely popular as a superfood in the 2010s. What family of vegetables does it belong to?",
+      "options": [
+        "Allium family",
+        "Legume family",
+        "Cruciferous family",
+        "Nightshade family"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kale belongs to the cruciferous (Brassica) family, along with broccoli, Brussels sprouts, and cabbage. These vegetables contain compounds linked to cancer prevention.",
+      "difficulty": "medium",
+      "category": "nutrition"
+    },
+    {
+      "id": "superfoods-nutrition-quiz-15",
+      "question": "Which superfood is the world's most consumed cooking oil and comes from the fruit of a tropical palm?",
+      "options": [
+        "Olive oil",
+        "Coconut oil",
+        "Palm oil",
+        "Avocado oil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Coconut oil, derived from the coconut palm, has been promoted as a superfood for its medium-chain triglycerides (MCTs), though its health benefits remain debated.",
+      "difficulty": "hard",
+      "category": "nutrition"
+    }
+  ]
+}

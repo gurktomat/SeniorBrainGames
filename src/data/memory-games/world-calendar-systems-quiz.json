@@ -1,0 +1,173 @@
+{
+  "id": "world-calendar-systems-quiz",
+  "title": "World Calendar Systems Quiz",
+  "description": "How well do you know the different calendar systems used by cultures throughout history?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-calendar-systems-quiz-1",
+      "question": "The Gregorian calendar, used worldwide today, was introduced by which Pope in 1582?",
+      "options": [
+        "Pope Pius V",
+        "Pope Sixtus V",
+        "Pope Clement VIII",
+        "Pope Gregory XIII"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-calendar-systems-quiz-2",
+      "question": "The Chinese calendar is primarily based on which astronomical cycles?",
+      "options": [
+        "Lunar only",
+        "Solar only",
+        "Lunisolar (both moon and sun)",
+        "Stellar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-calendar-systems-quiz-3",
+      "question": "The Islamic (Hijri) calendar is based on which cycle and has how many months?",
+      "options": [
+        "Lunisolar cycle, 12 months",
+        "Solar cycle, 13 months",
+        "Lunar cycle, 12 months",
+        "Lunar cycle, 13 months"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-calendar-systems-quiz-4",
+      "question": "The Hebrew calendar counts years from what event?",
+      "options": [
+        "The birth of Abraham",
+        "The creation of the world",
+        "The Exodus from Egypt",
+        "The building of the Temple"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-calendar-systems-quiz-5",
+      "question": "The ancient Maya developed a calendar system known as the Long Count. What date did it famously 'end' in the modern calendar?",
+      "options": [
+        "December 21, 2012",
+        "January 1, 2020",
+        "December 21, 2000",
+        "June 21, 2012"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-calendar-systems-quiz-6",
+      "question": "The Ethiopian calendar is how many years behind the Gregorian calendar?",
+      "options": [
+        "7-8 years",
+        "10-11 years",
+        "5-6 years",
+        "12-13 years"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-calendar-systems-quiz-7",
+      "question": "The Hindu calendar uses which recurring cycle of 60 years?",
+      "options": [
+        "Manvantara cycle",
+        "Kalpa cycle",
+        "Yuga cycle",
+        "Samvatsara cycle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-calendar-systems-quiz-8",
+      "question": "The Julian calendar, predecessor to the Gregorian, was introduced by whom?",
+      "options": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Marcus Aurelius",
+        "Emperor Constantine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-calendar-systems-quiz-9",
+      "question": "The Japanese calendar traditionally names its eras after what?",
+      "options": [
+        "Zodiac animals",
+        "The reigning emperor",
+        "Seasons",
+        "Celestial events"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-calendar-systems-quiz-10",
+      "question": "The Persian (Solar Hijri) calendar begins its year on which astronomical event?",
+      "options": [
+        "Autumn equinox",
+        "Spring equinox (Nowruz)",
+        "Summer solstice",
+        "Winter solstice"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-calendar-systems-quiz-11",
+      "question": "The Chinese zodiac operates on a cycle of how many years?",
+      "options": [
+        "8",
+        "14",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-calendar-systems-quiz-12",
+      "question": "The ancient Egyptian calendar had how many days in a year?",
+      "options": [
+        "365",
+        "354",
+        "366",
+        "360"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-calendar-systems-quiz-13",
+      "question": "The Aztec calendar stone (Sun Stone) was used by which Mesoamerican civilization?",
+      "options": [
+        "Olmec",
+        "Inca",
+        "Maya",
+        "Aztec"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-calendar-systems-quiz-14",
+      "question": "The Buddhist calendar counts years from which event?",
+      "options": [
+        "Buddha's enlightenment",
+        "Buddha's birth",
+        "Buddha's death (parinirvana)",
+        "Buddha's first sermon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-calendar-systems-quiz-15",
+      "question": "The Thai calendar year is based on the Buddhist Era and is how many years ahead of the Gregorian calendar?",
+      "options": [
+        "343 years",
+        "743 years",
+        "543 years",
+        "643 years"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

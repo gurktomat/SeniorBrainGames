@@ -7,92 +7,167 @@
     {
       "id": "famous-maps-1",
       "question": "Which 2nd-century Greek-Roman geographer created an influential world map and wrote the 'Geography' that guided mapmakers for over a thousand years?",
-      "options": ["Eratosthenes", "Strabo", "Ptolemy", "Herodotus"],
+      "options": [
+        "Herodotus",
+        "Strabo",
+        "Ptolemy",
+        "Eratosthenes"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-maps-2",
       "question": "The Mercator projection, still widely used for navigation, was created by Gerardus Mercator in which century?",
-      "options": ["14th century", "15th century", "16th century", "17th century"],
-      "correctAnswer": 2
+      "options": [
+        "15th century",
+        "14th century",
+        "17th century",
+        "16th century"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-maps-3",
       "question": "Which medieval map, created around 1300 and housed in Hereford Cathedral, is the largest surviving medieval map of the world?",
-      "options": ["Tabula Peutingeriana", "Mappa Mundi", "Ebstorf Map", "Fra Mauro Map"],
-      "correctAnswer": 1
+      "options": [
+        "Fra Mauro Map",
+        "Ebstorf Map",
+        "Mappa Mundi",
+        "Tabula Peutingeriana"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-maps-4",
       "question": "German cartographer Martin Waldseemüller's 1507 map is historically significant because it was the first to use which name?",
-      "options": ["Pacific Ocean", "America", "New World", "Atlantic Ocean"],
-      "correctAnswer": 1
+      "options": [
+        "Atlantic Ocean",
+        "New World",
+        "Pacific Ocean",
+        "America"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-maps-5",
       "question": "The Piri Reis map, drawn in 1513 by an Ottoman admiral, is remarkable for its accurate depiction of which coastline?",
-      "options": ["East Africa", "Southeast Asia", "South America", "Australia"],
-      "correctAnswer": 2
+      "options": [
+        "Southeast Asia",
+        "South America",
+        "East Africa",
+        "Australia"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-maps-6",
       "question": "Which English physician created a famous map in 1854 that helped trace a cholera outbreak in London to a water pump?",
-      "options": ["Edward Jenner", "John Snow", "Florence Nightingale", "Joseph Bazalgette"],
-      "correctAnswer": 1
+      "options": [
+        "John Snow",
+        "Florence Nightingale",
+        "Joseph Bazalgette",
+        "Edward Jenner"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-maps-7",
       "question": "The Ordnance Survey, one of the world's oldest national mapping agencies, was established in which country?",
-      "options": ["France", "Germany", "Great Britain", "Netherlands"],
-      "correctAnswer": 2
+      "options": [
+        "Great Britain",
+        "France",
+        "Germany",
+        "Netherlands"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-maps-8",
       "question": "Lewis and Clark's expedition (1804-1806) produced the first accurate maps of which region?",
-      "options": ["The Great Lakes", "The American West", "The Gulf Coast", "New England"],
-      "correctAnswer": 1
+      "options": [
+        "The American West",
+        "The Gulf Coast",
+        "New England",
+        "The Great Lakes"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-maps-9",
       "question": "What type of map uses contour lines to show elevation and terrain features?",
-      "options": ["Political map", "Topographic map", "Thematic map", "Cadastral map"],
-      "correctAnswer": 1
+      "options": [
+        "Political map",
+        "Thematic map",
+        "Cadastral map",
+        "Topographic map"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-maps-10",
       "question": "The Tabula Peutingeriana is a famous ancient Roman map that primarily depicts what?",
-      "options": ["Military fortifications", "Road network of the Roman Empire", "Provincial boundaries", "Trade routes to China"],
-      "correctAnswer": 1
+      "options": [
+        "Road network of the Roman Empire",
+        "Provincial boundaries",
+        "Trade routes to China",
+        "Military fortifications"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-maps-11",
       "question": "Which famous map projection, introduced in 1973 by Arno Peters, aimed to show countries' true relative sizes?",
-      "options": ["Robinson projection", "Peters projection", "Winkel tripel projection", "Mollweide projection"],
-      "correctAnswer": 1
+      "options": [
+        "Mollweide projection",
+        "Robinson projection",
+        "Winkel tripel projection",
+        "Peters projection"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-maps-12",
       "question": "Harry Beck's revolutionary 1931 design, which ignored geographic accuracy in favor of clarity, mapped what?",
-      "options": ["New York subway", "London Underground", "Paris Métro", "Berlin U-Bahn"],
-      "correctAnswer": 1
+      "options": [
+        "Paris Métro",
+        "New York subway",
+        "London Underground",
+        "Berlin U-Bahn"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-maps-13",
       "question": "Which ancient Greek scholar first calculated the circumference of the Earth with remarkable accuracy around 240 BC?",
-      "options": ["Aristotle", "Archimedes", "Eratosthenes", "Hipparchus"],
-      "correctAnswer": 2
+      "options": [
+        "Archimedes",
+        "Eratosthenes",
+        "Aristotle",
+        "Hipparchus"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-maps-14",
       "question": "The Vinland Map, purportedly showing Norse exploration of North America, has been debated as a possible what?",
-      "options": ["Treasure map", "Forgery", "Religious relic", "Military document"],
-      "correctAnswer": 1
+      "options": [
+        "Forgery",
+        "Religious relic",
+        "Military document",
+        "Treasure map"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-maps-15",
       "question": "Google Maps was first launched in which year, transforming how people navigate?",
-      "options": ["2003", "2005", "2007", "2009"],
-      "correctAnswer": 1
+      "options": [
+        "2005",
+        "2003",
+        "2009",
+        "2007"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

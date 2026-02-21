@@ -1,0 +1,219 @@
+{
+  "id": "medieval-monarchs-quiz",
+  "title": "Medieval Monarchs Quiz",
+  "description": "How well do you recall the kings and rulers of the Middle Ages?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "medieval-monarchs-quiz-1",
+      "question": "Which king signed the Magna Carta in 1215?",
+      "options": [
+        "Henry II",
+        "Richard the Lionheart",
+        "Edward I",
+        "King John"
+      ],
+      "correctAnswer": 3,
+      "explanation": "King John of England was forced by rebellious barons to sign the Magna Carta at Runnymede in 1215, limiting royal power.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-2",
+      "question": "Who was crowned the first Holy Roman Emperor on Christmas Day, 800 AD?",
+      "options": [
+        "Charlemagne",
+        "Louis the Pious",
+        "Frederick Barbarossa",
+        "Otto the Great"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Charlemagne (Charles the Great) was crowned Emperor by Pope Leo III on December 25, 800 AD, creating the foundation of the Holy Roman Empire.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-3",
+      "question": "Which English king won the Battle of Agincourt in 1415?",
+      "options": [
+        "Henry IV",
+        "Henry V",
+        "Richard II",
+        "Edward III"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Henry V led the English to a stunning victory at Agincourt against a much larger French army on October 25, 1415.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-4",
+      "question": "Who was the Viking king who conquered England in 1066?",
+      "options": [
+        "Sweyn Forkbeard",
+        "Canute the Great",
+        "William the Conqueror",
+        "Harald Hardrada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "William the Conqueror (William, Duke of Normandy) defeated King Harold II at the Battle of Hastings in 1066 and became King of England.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-5",
+      "question": "Which English king led the Third Crusade and was known as 'the Lionheart'?",
+      "options": [
+        "King John",
+        "Edward I",
+        "Richard I",
+        "Henry II"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Richard I, known as Richard the Lionheart, led the Third Crusade (1189-1192) and became a legendary figure of medieval chivalry.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-6",
+      "question": "Which French king was known as 'Saint Louis' and led two Crusades?",
+      "options": [
+        "Louis IX",
+        "Philip II Augustus",
+        "Louis VII",
+        "Charles V"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Louis IX of France was canonized as a saint and led the Seventh and Eighth Crusades. He died during the Eighth Crusade in 1270.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-7",
+      "question": "Which Holy Roman Emperor was known as 'Barbarossa' (Red Beard)?",
+      "options": [
+        "Otto I",
+        "Frederick I",
+        "Charles V",
+        "Henry IV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frederick I Barbarossa was Holy Roman Emperor from 1155 to 1190, known for his attempts to restore the glory of the old Roman Empire.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-8",
+      "question": "Which Anglo-Saxon king is known for burning the cakes and defeating the Vikings?",
+      "options": [
+        "Edward the Confessor",
+        "Edgar the Peaceful",
+        "Ethelred the Unready",
+        "Alfred the Great"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Alfred the Great of Wessex (849-899) is famous both for the legendary story of burning the cakes and for his victories against the Vikings.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-9",
+      "question": "Which Ottoman Sultan conquered Constantinople in 1453?",
+      "options": [
+        "Bayezid I",
+        "Mehmed II",
+        "Suleiman the Magnificent",
+        "Murad II"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sultan Mehmed II conquered Constantinople on May 29, 1453, ending the Byzantine Empire and earning the title 'the Conqueror.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-10",
+      "question": "Which English king had six wives?",
+      "options": [
+        "Richard III",
+        "Henry VIII",
+        "Henry VII",
+        "Edward VI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Henry VIII had six wives: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, and Catherine Parr.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-11",
+      "question": "Which Scandinavian king united Denmark, Norway, and parts of England?",
+      "options": [
+        "Harald Bluetooth",
+        "Olaf Tryggvason",
+        "Magnus the Good",
+        "Canute the Great"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Canute the Great (Cnut) ruled over Denmark, England, and Norway, creating a vast North Sea empire in the early 11th century.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-12",
+      "question": "Which Scottish king defeated the English at the Battle of Bannockburn in 1314?",
+      "options": [
+        "James I",
+        "David II",
+        "Robert the Bruce",
+        "William Wallace"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Robert the Bruce won a decisive victory at Bannockburn against Edward II's much larger English army, securing Scottish independence.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-13",
+      "question": "Which king of England was defeated and killed at the Battle of Bosworth Field in 1485?",
+      "options": [
+        "Edward V",
+        "Edward IV",
+        "Richard III",
+        "Henry VI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Richard III was the last English king to die in battle, killed at Bosworth Field on August 22, 1485. Henry Tudor then became Henry VII.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-14",
+      "question": "Which Byzantine Emperor codified Roman law into the 'Corpus Juris Civilis'?",
+      "options": [
+        "Justinian I",
+        "Constantine I",
+        "Theodosius II",
+        "Basil II"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emperor Justinian I commissioned the codification of Roman law around 529-534 AD, forming the basis of civil law in many modern countries.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "medieval-monarchs-quiz-15",
+      "question": "Which Spanish monarchs completed the Reconquista by capturing Granada in 1492?",
+      "options": [
+        "Alfonso X and Violante",
+        "Charles V and Isabella",
+        "Philip II and Mary",
+        "Ferdinand and Isabella"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ferdinand II of Aragon and Isabella I of Castile conquered the last Moorish kingdom of Granada in January 1492, completing the Reconquista.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

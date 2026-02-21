@@ -1,0 +1,173 @@
+{
+  "id": "bicycle-history-quiz",
+  "title": "Bicycle History Quiz",
+  "description": "Pedal through the history of bicycles and test your recall of cycling facts",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bicycle-history-quiz-1",
+      "question": "The 'penny-farthing' bicycle is recognized by what distinctive feature?",
+      "options": [
+        "A very large front wheel and small rear wheel",
+        "Three wheels",
+        "Two equally sized wheels",
+        "No pedals"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bicycle-history-quiz-2",
+      "question": "The Tour de France, the world's most famous bicycle race, was first held in what year?",
+      "options": [
+        "1903",
+        "1923",
+        "1913",
+        "1893"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bicycle-history-quiz-3",
+      "question": "What was the 'velocipede,' an early predecessor to the modern bicycle, nicknamed?",
+      "options": [
+        "Wind rider",
+        "Boneshaker",
+        "Iron horse",
+        "Speed demon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-4",
+      "question": "The 'safety bicycle,' which closely resembles modern bikes, was introduced in approximately what decade?",
+      "options": [
+        "1900s",
+        "1880s",
+        "1870s",
+        "1860s"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-5",
+      "question": "Which component allows a cyclist to change gears on a multi-speed bicycle?",
+      "options": [
+        "Dynamo",
+        "Derailleur",
+        "Sprocket",
+        "Caliper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-6",
+      "question": "John Boyd Dunlop is credited with developing what important bicycle innovation in 1888?",
+      "options": [
+        "Chain drive",
+        "Hand brakes",
+        "Reflectors",
+        "Pneumatic tire"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bicycle-history-quiz-7",
+      "question": "A 'tandem bicycle' is designed for how many riders?",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "One"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bicycle-history-quiz-8",
+      "question": "BMX stands for 'Bicycle Moto' what?",
+      "options": [
+        "Xtreme",
+        "Cross",
+        "Mix",
+        "Maximum"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-9",
+      "question": "The draisine, considered the first two-wheeled human-powered vehicle, was invented by Karl von Drais in what year?",
+      "options": [
+        "1797",
+        "1857",
+        "1837",
+        "1817"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bicycle-history-quiz-10",
+      "question": "Which country is often called the 'bicycle capital of the world' due to its cycling culture?",
+      "options": [
+        "Netherlands",
+        "Belgium",
+        "Denmark",
+        "Germany"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bicycle-history-quiz-11",
+      "question": "A 'recumbent bicycle' is distinctive because the rider sits in what position?",
+      "options": [
+        "Kneeling",
+        "Leaning back in a reclined position",
+        "Lying flat face down",
+        "Standing upright"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-12",
+      "question": "The 'Giro d'Italia' is a famous multi-stage bicycle race held in which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bicycle-history-quiz-13",
+      "question": "What type of bicycle has thick, knobby tires designed for off-road trails?",
+      "options": [
+        "Touring bike",
+        "Cruiser bike",
+        "Road bike",
+        "Mountain bike"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bicycle-history-quiz-14",
+      "question": "The Wright Brothers, who built the first airplane, originally worked in what related business?",
+      "options": [
+        "Boat building",
+        "Automobile repair",
+        "Railroad engineering",
+        "Bicycle shop"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bicycle-history-quiz-15",
+      "question": "A 'fixie' or fixed-gear bicycle is unique because it lacks what feature?",
+      "options": [
+        "A freewheel mechanism (coasting ability)",
+        "Handlebars",
+        "A seat",
+        "Pedals"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -8,10 +8,10 @@
       "id": "historical-figures-1",
       "question": "Which historical figure was an ancient Egyptian queen known for her relationships with Julius Caesar and Mark Antony?",
       "options": [
-        "Nefertiti",
         "Hatshepsut",
+        "Boudica",
         "Cleopatra",
-        "Boudica"
+        "Nefertiti"
       ],
       "correctAnswer": 2
     },
@@ -19,23 +19,23 @@
       "id": "historical-figures-2",
       "question": "Which explorer is credited with leading the first expedition to circumnavigate the globe?",
       "options": [
-        "Christopher Columbus",
-        "Vasco da Gama",
         "Ferdinand Magellan",
-        "Sir Francis Drake"
+        "Sir Francis Drake",
+        "Christopher Columbus",
+        "Vasco da Gama"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "historical-figures-3",
       "question": "Which nurse became famous for her work during the Crimean War and is considered the founder of modern nursing?",
       "options": [
         "Clara Barton",
-        "Florence Nightingale",
+        "Dorothea Dix",
         "Mary Seacole",
-        "Dorothea Dix"
+        "Florence Nightingale"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "historical-figures-4",
@@ -52,54 +52,54 @@
       "id": "historical-figures-5",
       "question": "Which French military leader crowned himself Emperor and conquered much of Europe in the early 1800s?",
       "options": [
-        "Louis XIV",
         "Napoleon Bonaparte",
-        "Charlemagne",
-        "Cardinal Richelieu"
+        "Louis XIV",
+        "Cardinal Richelieu",
+        "Charlemagne"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "historical-figures-6",
       "question": "Which scientist developed the theory of general relativity?",
       "options": [
-        "Isaac Newton",
-        "Niels Bohr",
+        "Max Planck",
         "Albert Einstein",
-        "Max Planck"
+        "Niels Bohr",
+        "Isaac Newton"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "historical-figures-7",
       "question": "Which woman was the first to win a Nobel Prize and remains the only person to win Nobel Prizes in two different sciences?",
       "options": [
-        "Rosalind Franklin",
-        "Marie Curie",
         "Dorothy Hodgkin",
-        "Lise Meitner"
+        "Lise Meitner",
+        "Marie Curie",
+        "Rosalind Franklin"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "historical-figures-8",
       "question": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
       "options": [
         "Socrates",
-        "Plato",
         "Aristotle",
+        "Plato",
         "Epicurus"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "historical-figures-9",
       "question": "Which civil rights leader refused to give up her bus seat in Montgomery, Alabama, in 1955?",
       "options": [
-        "Harriet Tubman",
+        "Coretta Scott King",
         "Rosa Parks",
-        "Sojourner Truth",
-        "Coretta Scott King"
+        "Harriet Tubman",
+        "Sojourner Truth"
       ],
       "correctAnswer": 1
     },
@@ -108,19 +108,19 @@
       "question": "Which English monarch ruled during the defeat of the Spanish Armada in 1588?",
       "options": [
         "Mary I",
-        "Elizabeth I",
+        "James I",
         "Henry VIII",
-        "James I"
+        "Elizabeth I"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "historical-figures-11",
       "question": "Which aviator was the first woman to fly solo across the Atlantic Ocean?",
       "options": [
-        "Bessie Coleman",
-        "Amelia Earhart",
         "Harriet Quimby",
+        "Amelia Earhart",
+        "Bessie Coleman",
         "Jacqueline Cochran"
       ],
       "correctAnswer": 1
@@ -129,45 +129,45 @@
       "id": "historical-figures-12",
       "question": "Which Viking explorer is believed to have reached North America around 1000 AD?",
       "options": [
-        "Erik the Red",
-        "Leif Erikson",
         "Ragnar Lothbrok",
-        "Harald Hardrada"
+        "Erik the Red",
+        "Harald Hardrada",
+        "Leif Erikson"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "historical-figures-13",
       "question": "Which Renaissance artist painted the Mona Lisa?",
       "options": [
-        "Michelangelo",
-        "Raphael",
         "Leonardo da Vinci",
-        "Sandro Botticelli"
+        "Raphael",
+        "Sandro Botticelli",
+        "Michelangelo"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "historical-figures-14",
       "question": "Which ancient Macedonian king created one of the largest empires in history by age 30?",
       "options": [
-        "Philip II",
         "Alexander the Great",
-        "Darius III",
-        "Ptolemy I"
+        "Philip II",
+        "Ptolemy I",
+        "Darius III"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "historical-figures-15",
       "question": "Which American woman led an Underground Railroad network, helping enslaved people escape to freedom?",
       "options": [
-        "Sojourner Truth",
-        "Rosa Parks",
         "Harriet Tubman",
-        "Frederick Douglass"
+        "Sojourner Truth",
+        "Frederick Douglass",
+        "Rosa Parks"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

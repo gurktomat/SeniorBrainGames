@@ -1,0 +1,173 @@
+{
+  "id": "sushi-types-quiz",
+  "title": "Sushi Types Quiz",
+  "description": "How well do you know your sushi? Test your knowledge of this beloved Japanese cuisine.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sushi-types-quiz-1",
+      "question": "What type of sushi consists of a hand-pressed mound of rice topped with a slice of fish?",
+      "options": [
+        "Temaki",
+        "Maki",
+        "Nigiri",
+        "Chirashi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sushi-types-quiz-2",
+      "question": "What is the name of sushi rolled in seaweed with rice and fillings inside?",
+      "options": [
+        "Nigiri",
+        "Onigiri",
+        "Sashimi",
+        "Maki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sushi-types-quiz-3",
+      "question": "A temaki is a cone-shaped sushi roll also known as what?",
+      "options": [
+        "Inside-out roll",
+        "Dragon roll",
+        "Pressed sushi",
+        "Hand roll"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sushi-types-quiz-4",
+      "question": "What is sashimi?",
+      "options": [
+        "Rice wrapped in seaweed",
+        "Pickled fish on rice",
+        "Thinly sliced raw fish without rice",
+        "Deep-fried sushi roll"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sushi-types-quiz-5",
+      "question": "An uramaki roll is unique because the rice is on which side?",
+      "options": [
+        "Mixed into the filling",
+        "Inside the seaweed",
+        "There is no rice",
+        "On the outside of the seaweed"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sushi-types-quiz-6",
+      "question": "Which popular American sushi roll features crab, avocado, and cucumber?",
+      "options": [
+        "Dragon Roll",
+        "Philadelphia Roll",
+        "California Roll",
+        "Rainbow Roll"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sushi-types-quiz-7",
+      "question": "What is the traditional green condiment served with sushi?",
+      "options": [
+        "Green curry paste",
+        "Matcha",
+        "Wasabi",
+        "Pesto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sushi-types-quiz-8",
+      "question": "Chirashi sushi is a bowl of sushi rice topped with what?",
+      "options": [
+        "An assortment of sashimi and garnishes",
+        "Tempura vegetables",
+        "A single type of fish",
+        "Pickled vegetables only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sushi-types-quiz-9",
+      "question": "What type of sushi is pressed into a rectangular mold, a specialty of Osaka?",
+      "options": [
+        "Oshizushi (pressed sushi)",
+        "Narezushi",
+        "Temari sushi",
+        "Inari sushi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sushi-types-quiz-10",
+      "question": "Inari sushi features rice stuffed inside what?",
+      "options": [
+        "Deep-fried tofu pouch",
+        "An egg wrapper",
+        "A cucumber cup",
+        "A lettuce leaf"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sushi-types-quiz-11",
+      "question": "What is the pickled ginger served alongside sushi called?",
+      "options": [
+        "Gari",
+        "Mirin",
+        "Nori",
+        "Dashi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sushi-types-quiz-12",
+      "question": "Which fish, called 'maguro' in Japanese, is one of the most popular sushi toppings?",
+      "options": [
+        "Yellowtail",
+        "Tuna",
+        "Mackerel",
+        "Salmon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sushi-types-quiz-13",
+      "question": "What is the sheet of dried seaweed used to wrap sushi rolls called?",
+      "options": [
+        "Hijiki",
+        "Kombu",
+        "Nori",
+        "Wakame"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sushi-types-quiz-14",
+      "question": "Tamago sushi features which topping on rice?",
+      "options": [
+        "Sweet Japanese omelette",
+        "Cured salmon",
+        "Raw shrimp",
+        "Sea urchin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sushi-types-quiz-15",
+      "question": "What is the seasoned rice vinegar mixture used to flavor sushi rice called?",
+      "options": [
+        "Teriyaki",
+        "Ponzu",
+        "Sushi-zu",
+        "Miso"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

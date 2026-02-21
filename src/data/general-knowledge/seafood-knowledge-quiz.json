@@ -1,0 +1,219 @@
+{
+  "id": "seafood-knowledge-quiz",
+  "title": "Seafood Knowledge",
+  "description": "How well do you know your seafood, from fish to shellfish?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "seafood-knowledge-quiz-1",
+      "question": "What is the most consumed seafood in the world?",
+      "options": [
+        "Tuna",
+        "Cod",
+        "Shrimp",
+        "Salmon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shrimp is the most consumed seafood globally, eaten in virtually every coastal cuisine. Global shrimp production exceeds 9 million tonnes annually.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-2",
+      "question": "What Japanese dish features vinegared rice topped with raw fish?",
+      "options": [
+        "Ramen",
+        "Tempura",
+        "Sushi",
+        "Sashimi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sushi is a Japanese dish featuring vinegared rice combined with various toppings, most commonly raw fish. The word 'sushi' actually refers to the seasoned rice, not the fish.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-3",
+      "question": "Which fish is the most expensive per pound when served as sashimi in Japan?",
+      "options": [
+        "Yellowtail",
+        "Sea bass",
+        "Bluefin tuna",
+        "Salmon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bluefin tuna is the most prized fish for sashimi. A single bluefin tuna has sold at Tokyo's Tsukiji fish market for over $3 million.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-4",
+      "question": "What is the process of preserving fish by coating it in salt called?",
+      "options": [
+        "Curing",
+        "Drying",
+        "Pickling",
+        "Smoking"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Salt-curing fish has been practiced for thousands of years. The salt draws out moisture and inhibits bacterial growth, preserving the fish for extended periods.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-5",
+      "question": "What type of shellfish is used to make New England clam chowder?",
+      "options": [
+        "Clams",
+        "Mussels",
+        "Oysters",
+        "Scallops"
+      ],
+      "correctAnswer": 0,
+      "explanation": "New England clam chowder is a thick, creamy soup made with clams, potatoes, onions, and sometimes salt pork. It is a beloved dish in the northeastern United States.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-6",
+      "question": "What gives salmon its distinctive pink-orange color?",
+      "options": [
+        "Age of the fish",
+        "Astaxanthin from their diet",
+        "A special gene",
+        "Water temperature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salmon get their pink-orange color from astaxanthin, a carotenoid pigment found in the krill and shrimp they eat. Farm-raised salmon are often given astaxanthin supplements.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-7",
+      "question": "Which country is the world's largest exporter of seafood?",
+      "options": [
+        "United States",
+        "Norway",
+        "Japan",
+        "China"
+      ],
+      "correctAnswer": 3,
+      "explanation": "China is the world's largest producer and exporter of seafood, accounting for a significant portion of global fish and aquaculture production.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-8",
+      "question": "What is the Spanish seafood and rice dish cooked in a wide, shallow pan?",
+      "options": [
+        "Paella",
+        "Bouillabaisse",
+        "Risotto",
+        "Gumbo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Paella is a traditional Spanish rice dish from Valencia, typically made with seafood, saffron, and vegetables cooked in a wide, shallow pan called a paellera.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-9",
+      "question": "Caviar is a delicacy made from the eggs of which fish?",
+      "options": [
+        "Trout",
+        "Salmon",
+        "Sturgeon",
+        "Cod"
+      ],
+      "correctAnswer": 2,
+      "explanation": "True caviar comes from sturgeon eggs. The most prized varieties, like Beluga caviar, come from sturgeon found in the Caspian Sea and can cost thousands of dollars per pound.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-10",
+      "question": "What is the traditional French seafood stew made with various fish, shellfish, and herbs?",
+      "options": [
+        "Bouillabaisse",
+        "Cassoulet",
+        "Ratatouille",
+        "Pot-au-feu"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bouillabaisse is a traditional French fish stew originating from the port city of Marseille. It contains various fish and shellfish in a saffron-flavored broth.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-11",
+      "question": "What popular Peruvian dish features raw fish cured in citrus juice?",
+      "options": [
+        "Ceviche",
+        "Poke",
+        "Tartare",
+        "Carpaccio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ceviche is a Peruvian dish where raw fish is 'cooked' by marinating it in citrus juice (usually lime). The acid denatures the proteins, firming and whitening the fish.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-12",
+      "question": "Which shellfish can produce pearls?",
+      "options": [
+        "All of the above",
+        "Clams",
+        "Mussels",
+        "Oysters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "While oysters are most famous for pearl production, clams and mussels can also produce pearls. Pearls form when an irritant enters the mollusk and is coated with nacre.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-13",
+      "question": "What is surimi, commonly used in imitation crab products?",
+      "options": [
+        "Soy protein",
+        "Pressed seaweed",
+        "Processed fish paste",
+        "Shrimp shells"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Surimi is a processed fish paste, typically made from Alaska pollock. It is shaped, flavored, and colored to resemble crab meat and is used in many seafood products.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-14",
+      "question": "Which fatty acid, abundant in oily fish, is associated with heart health benefits?",
+      "options": [
+        "Trans fat",
+        "Omega-3",
+        "Omega-6",
+        "Omega-9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Omega-3 fatty acids (EPA and DHA) found in oily fish like salmon, mackerel, and sardines are associated with reduced inflammation and improved cardiovascular health.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "seafood-knowledge-quiz-15",
+      "question": "What traditional Scandinavian preserved fish dish involves burying fish in the ground?",
+      "options": [
+        "Rakfisk",
+        "Surstromming",
+        "Gravlax",
+        "Lutefisk"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rakfisk is a traditional Norwegian dish made by salting and fermenting trout or char for several months. The name literally means 'soaked fish' and it dates back to the Middle Ages.",
+      "difficulty": "hard",
+      "category": "food"
+    }
+  ]
+}

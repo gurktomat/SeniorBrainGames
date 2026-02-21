@@ -1,0 +1,174 @@
+{
+  "id": "bathroom-items-quiz",
+  "title": "Bathroom Items Quiz",
+  "description": "How well do you know common bathroom items and toiletries? Test your everyday knowledge!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "bathroom-items-quiz-1",
+      "question": "What bathroom item is a porous, natural sea creature skeleton used for bathing?",
+      "options": [
+        "Washcloth",
+        "Loofah",
+        "Natural sponge",
+        "Pumice stone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bathroom-items-quiz-2",
+      "question": "Which bathroom tool is a rough volcanic stone used to remove dead skin from feet?",
+      "options": [
+        "Emery board",
+        "Pumice stone",
+        "Nail buffer",
+        "Foot file"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bathroom-items-quiz-3",
+      "question": "What is the purpose of a shower caddy?",
+      "options": [
+        "Organizing and holding shampoo, soap, and other shower items",
+        "Heating water",
+        "Filtering shower water",
+        "Adjusting water pressure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bathroom-items-quiz-4",
+      "question": "Which personal care item is a small, flat board coated with abrasive material for shaping fingernails?",
+      "options": [
+        "Nail clipper",
+        "Buffer block",
+        "Emery board (nail file)",
+        "Cuticle pusher"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bathroom-items-quiz-5",
+      "question": "What does a medicine cabinet typically store in a bathroom?",
+      "options": [
+        "Over-the-counter medications, first aid items, and toiletries",
+        "Plumbing tools",
+        "Towels and linens",
+        "Cleaning supplies only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bathroom-items-quiz-6",
+      "question": "Which bathroom fixture delivers a stream of warm air for drying hands?",
+      "options": [
+        "Exhaust fan",
+        "Hand dryer",
+        "Space heater",
+        "Dehumidifier"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bathroom-items-quiz-7",
+      "question": "What is dental floss used for?",
+      "options": [
+        "Whitening teeth",
+        "Freshening breath",
+        "Strengthening tooth enamel",
+        "Removing food particles and plaque from between teeth"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bathroom-items-quiz-8",
+      "question": "Which bathroom item is a terry cloth band worn around the wrist or head to absorb sweat?",
+      "options": [
+        "Sweatband",
+        "Bandana",
+        "Headband",
+        "Hair tie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bathroom-items-quiz-9",
+      "question": "What is a loofah (luffa) actually made from?",
+      "options": [
+        "Synthetic plastic mesh",
+        "Sea coral",
+        "Woven cotton",
+        "The fibrous interior of a dried gourd"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bathroom-items-quiz-10",
+      "question": "Which grooming tool has a row of bristles or teeth set in a handle, used to detangle and style hair?",
+      "options": [
+        "Comb",
+        "Hairbrush",
+        "Hair pick",
+        "All of the above"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bathroom-items-quiz-11",
+      "question": "What is the purpose of a bath mat?",
+      "options": [
+        "Providing a non-slip surface and absorbing water when stepping out of the tub",
+        "Covering drain pipes",
+        "Decorating the bathroom floor",
+        "Insulating the floor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bathroom-items-quiz-12",
+      "question": "Which item is a small, hourglass-shaped timer often kept near a toothbrush?",
+      "options": [
+        "Toothbrush timer (sand timer)",
+        "Kitchen timer",
+        "Egg timer",
+        "Stopwatch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bathroom-items-quiz-13",
+      "question": "What bathroom product is designed to reduce body odor by inhibiting bacterial growth in the underarm area?",
+      "options": [
+        "Talcum powder",
+        "Body spray",
+        "Body lotion",
+        "Deodorant/antiperspirant"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bathroom-items-quiz-14",
+      "question": "Which device uses heated plates to smooth and straighten hair?",
+      "options": [
+        "Hot rollers",
+        "Flat iron (hair straightener)",
+        "Curling iron",
+        "Blow dryer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bathroom-items-quiz-15",
+      "question": "What is the purpose of a toilet tank float?",
+      "options": [
+        "Flushing the toilet",
+        "Regulating the water level in the tank by shutting off the fill valve",
+        "Adding cleaning solution",
+        "Preventing clogs"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

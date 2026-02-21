@@ -1,0 +1,219 @@
+{
+  "id": "nuclear-power-plants-quiz",
+  "title": "Nuclear Power Plants",
+  "description": "Test your knowledge of nuclear energy, power plants, and their fascinating engineering!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "nuclear-power-plants-quiz-1",
+      "question": "Which was the world's first nuclear power plant to generate electricity for a commercial power grid, opening in 1956?",
+      "options": [
+        "Calder Hall, UK",
+        "Chinon, France",
+        "Shippingport, USA",
+        "Obninsk, USSR"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Calder Hall in Sellafield, England, opened on October 17, 1956, and was the world's first full-scale nuclear power plant to deliver electricity to a commercial grid. Obninsk (1954) was the first to generate electricity but on a smaller experimental scale.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-2",
+      "question": "The Chernobyl disaster of 1986 occurred in which present-day country?",
+      "options": [
+        "Belarus",
+        "Poland",
+        "Ukraine",
+        "Russia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chernobyl disaster occurred on April 26, 1986, at the Chernobyl Nuclear Power Plant in northern Ukraine (then part of the Soviet Union). It remains the worst nuclear power plant accident in history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-3",
+      "question": "What type of nuclear reaction is used in commercial nuclear power plants to generate electricity?",
+      "options": [
+        "Nuclear decay",
+        "Nuclear fission",
+        "Nuclear synthesis",
+        "Nuclear fusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commercial nuclear power plants use nuclear fission, where heavy atomic nuclei (typically uranium-235 or plutonium-239) are split into lighter elements, releasing enormous amounts of energy as heat to generate steam and electricity.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-4",
+      "question": "Which country generates the highest percentage of its electricity from nuclear power?",
+      "options": [
+        "United States",
+        "Japan",
+        "China",
+        "France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "France generates approximately 70% of its electricity from nuclear power, the highest proportion of any country. It operates 56 nuclear reactors and is a major exporter of electricity to neighboring countries.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-5",
+      "question": "What is the primary fuel used in most commercial nuclear power plants?",
+      "options": [
+        "Uranium-235",
+        "Cesium-137",
+        "Plutonium-239",
+        "Thorium-232"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uranium-235 is the primary fuel in most commercial nuclear reactors. Natural uranium contains only about 0.7% U-235, so it is enriched to 3-5% for use in light water reactors, the most common type.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-6",
+      "question": "The Fukushima Daiichi nuclear disaster in 2011 was triggered by what natural event?",
+      "options": [
+        "Tornado",
+        "Earthquake and tsunami",
+        "Volcanic eruption",
+        "Hurricane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Fukushima Daiichi disaster was triggered by the Tohoku earthquake and tsunami on March 11, 2011. The tsunami disabled the cooling systems, leading to three nuclear meltdowns and the release of radioactive materials.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-7",
+      "question": "What is the large concrete and steel structure that encloses a nuclear reactor to prevent radiation leaks called?",
+      "options": [
+        "Containment building",
+        "Reactor vessel",
+        "Shield building",
+        "Cooling tower"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The containment building is a massive, airtight structure designed to contain radioactive materials in the event of an accident. It is typically made of steel-lined reinforced concrete several feet thick.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-8",
+      "question": "Which U.S. nuclear power plant experienced a partial meltdown in 1979?",
+      "options": [
+        "Diablo Canyon",
+        "Three Mile Island",
+        "Indian Point",
+        "Browns Ferry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Three Mile Island near Harrisburg, Pennsylvania, experienced a partial meltdown on March 28, 1979. While the containment building prevented significant radiation release, it had a major impact on public perception of nuclear power in the U.S.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-9",
+      "question": "What do the large, iconic cooling towers at some nuclear power plants release into the atmosphere?",
+      "options": [
+        "Nuclear waste gases",
+        "Water vapor (steam)",
+        "Radioactive steam",
+        "Carbon dioxide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The large cooling towers at nuclear power plants release only water vapor (steam) into the atmosphere. They cool the water used in the power generation process, and the visible plume is simply condensed water vapor, not radiation.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-10",
+      "question": "Which country has the most nuclear power reactors in operation?",
+      "options": [
+        "United States",
+        "Russia",
+        "France",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The United States has the most nuclear reactors in operation, with approximately 93 commercial reactors generating about 20% of the nation's electricity. France is second with 56 reactors.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-11",
+      "question": "What is a 'breeder reactor' designed to do?",
+      "options": [
+        "Produce more fissile material than it consumes",
+        "Generate more electricity than standard reactors",
+        "Split atoms faster than normal",
+        "Breed fish in heated water output"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A breeder reactor is designed to produce more fissile material (like plutonium-239) than it consumes during operation. It converts non-fissile uranium-238 into usable fuel, potentially extending nuclear fuel supplies significantly.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-12",
+      "question": "The 'New Safe Confinement' structure, completed in 2016, was built over the remains of which nuclear disaster site?",
+      "options": [
+        "Three Mile Island",
+        "Sellafield",
+        "Chernobyl",
+        "Fukushima Daiichi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The New Safe Confinement is a massive arched structure placed over Chernobyl Reactor 4 in 2016. At 108 meters tall and 257 meters wide, it is the largest movable land-based structure ever built, designed to contain radiation for 100 years.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-13",
+      "question": "What substance is typically used as a moderator in light water reactors to slow down neutrons?",
+      "options": [
+        "Liquid sodium",
+        "Ordinary water",
+        "Heavy water",
+        "Graphite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Light water reactors (the most common type worldwide) use ordinary (light) water as both a moderator to slow neutrons and as a coolant. Heavy water reactors, like CANDU, use deuterium oxide instead.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-14",
+      "question": "Small Modular Reactors (SMRs) are a new generation of nuclear reactors. What is their primary advantage?",
+      "options": [
+        "They produce no waste",
+        "They use no fuel",
+        "They run on solar power",
+        "They can be factory-built and transported to site"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Small Modular Reactors (SMRs) are designed to be factory-fabricated and shipped to their operating site, reducing construction time and cost compared to large conventional plants. They typically generate under 300 MW of power.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "nuclear-power-plants-quiz-15",
+      "question": "Approximately what percentage of the world's electricity is generated by nuclear power?",
+      "options": [
+        "About 30%",
+        "About 20%",
+        "About 10%",
+        "About 5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nuclear power generates approximately 10% of the world's electricity from about 440 reactors in over 30 countries. While the percentage varies significantly by country, it remains an important source of low-carbon electricity globally.",
+      "difficulty": "medium",
+      "category": "engineering"
+    }
+  ]
+}

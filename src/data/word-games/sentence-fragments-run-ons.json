@@ -1,0 +1,173 @@
+{
+  "id": "sentence-fragments-run-ons",
+  "title": "Fragments & Run-On Sentences",
+  "description": "Can you spot the sentence fragments and run-on sentences? Sharpen your writing skills with this quiz!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "sentence-fragments-run-ons-1",
+      "question": "Which of the following is a sentence fragment?",
+      "options": [
+        "Running through the park on a sunny day.",
+        "She went to the store.",
+        "The birds sang loudly.",
+        "We enjoyed the concert."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-fragments-run-ons-2",
+      "question": "Which sentence is a run-on?",
+      "options": [
+        "Although I love cooking, she loves baking.",
+        "I love cooking. She loves baking.",
+        "I love cooking she loves baking.",
+        "I love cooking, and she loves baking."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-fragments-run-ons-3",
+      "question": "What is a sentence fragment?",
+      "options": [
+        "A sentence with a spelling error",
+        "A sentence with too many words",
+        "An incomplete sentence missing a subject, verb, or complete thought",
+        "A sentence that ends with a question mark"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-fragments-run-ons-4",
+      "question": "Which is a comma splice (a type of run-on)?",
+      "options": [
+        "After going home, I ate dinner.",
+        "I went home, I ate dinner.",
+        "I went home, and I ate dinner.",
+        "I went home. I ate dinner."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sentence-fragments-run-ons-5",
+      "question": "How can you fix a run-on sentence?",
+      "options": [
+        "Add a period and capitalize the next word",
+        "Add a comma and coordinating conjunction",
+        "Use a semicolon",
+        "All of the above"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-fragments-run-ons-6",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "The sun came out.",
+        "While waiting for the bus.",
+        "Because she was late.",
+        "After the rain stopped."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-fragments-run-ons-7",
+      "question": "Which is a fragment?",
+      "options": [
+        "She smiled.",
+        "It rained.",
+        "The book on the table near the window.",
+        "Stop!"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-fragments-run-ons-8",
+      "question": "Fix the run-on: 'He was tired he went to bed early.'",
+      "options": [
+        "He was tired he, went to bed early.",
+        "He was tired he went, to bed early.",
+        "He was tired, he went to bed early.",
+        "He was tired, so he went to bed early."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-fragments-run-ons-9",
+      "question": "Why is 'Because I said so.' a fragment when standing alone?",
+      "options": [
+        "It starts with 'because,' making it a dependent clause.",
+        "It has no verb.",
+        "It is too short.",
+        "It ends with a period."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-fragments-run-ons-10",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The movie was great; I loved the ending.",
+        "The movie was great I loved the ending.",
+        "The movie was great, I loved the ending.",
+        "The movie was great I, loved the ending."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-fragments-run-ons-11",
+      "question": "A complete sentence must have ___.",
+      "options": [
+        "At least ten words",
+        "An adjective and an adverb",
+        "A subject and a predicate expressing a complete thought",
+        "A comma and a period"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-fragments-run-ons-12",
+      "question": "Which is a fused sentence (run-on with no punctuation)?",
+      "options": [
+        "She danced, and he sang.",
+        "She danced; he sang.",
+        "She danced he sang.",
+        "She danced. He sang."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-fragments-run-ons-13",
+      "question": "Fix the fragment: 'Walking to the store on a rainy afternoon.'",
+      "options": [
+        "Walking to the store, on a rainy afternoon.",
+        "Walking to the store on a rainy afternoon, she forgot her umbrella.",
+        "To the store, walking on a rainy afternoon.",
+        "Walking, to the store on a rainy afternoon."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sentence-fragments-run-ons-14",
+      "question": "Which is NOT a way to fix a comma splice?",
+      "options": [
+        "Remove the subject from the second clause",
+        "Add a conjunction after the comma",
+        "Replace the comma with a semicolon",
+        "Replace the comma with a period"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-fragments-run-ons-15",
+      "question": "Can a single word be a complete sentence?",
+      "options": [
+        "Only if it is a noun.",
+        "Only in informal writing.",
+        "No, sentences must have at least three words.",
+        "Yes, imperative sentences like 'Stop!' are complete."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

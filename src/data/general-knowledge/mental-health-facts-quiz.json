@@ -1,0 +1,219 @@
+{
+  "id": "mental-health-facts-quiz",
+  "title": "Mental Health Facts",
+  "description": "How much do you know about mental health and well-being?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "mental-health-facts-quiz-1",
+      "question": "What is the most commonly diagnosed mental health condition worldwide?",
+      "options": [
+        "PTSD",
+        "Depression",
+        "Schizophrenia",
+        "Bipolar disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Depression is the most common mental health condition globally, affecting more than 280 million people worldwide according to the World Health Organization.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-2",
+      "question": "What hormone is often called the 'feel-good hormone' because it contributes to happiness?",
+      "options": [
+        "Cortisol",
+        "Serotonin",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Serotonin is often called the 'feel-good hormone' because it helps regulate mood, sleep, appetite, and digestion. Low serotonin levels are linked to depression.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-3",
+      "question": "What does the acronym PTSD stand for?",
+      "options": [
+        "Post-Treatment Stress Deficiency",
+        "Pre-Treatment Stress Diagnosis",
+        "Psychological Trauma and Stress Disease",
+        "Post-Traumatic Stress Disorder"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Post-Traumatic Stress Disorder (PTSD) is a mental health condition triggered by experiencing or witnessing a terrifying event, causing flashbacks, nightmares, and severe anxiety.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-4",
+      "question": "Which type of therapy involves changing negative thought patterns to improve emotional well-being?",
+      "options": [
+        "Cognitive behavioral therapy (CBT)",
+        "Hypnotherapy",
+        "Art therapy",
+        "Aromatherapy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cognitive Behavioral Therapy (CBT) helps people identify and change negative thinking patterns and behaviors. It is one of the most evidence-based forms of psychotherapy.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-5",
+      "question": "What practice involves focusing on the present moment and is used to reduce stress and anxiety?",
+      "options": [
+        "Mindfulness meditation",
+        "Speed reading",
+        "Multitasking",
+        "Power napping"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mindfulness meditation involves focusing awareness on the present moment while calmly acknowledging feelings and thoughts. Research shows it can reduce stress, anxiety, and depression.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-6",
+      "question": "What is the term for a persistent, irrational fear of a specific object or situation?",
+      "options": [
+        "Paranoia",
+        "Phobia",
+        "Anxiety",
+        "Obsession"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A phobia is an intense, irrational fear of a specific object, situation, or activity. Common phobias include fear of heights (acrophobia) and fear of spiders (arachnophobia).",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-7",
+      "question": "How many hours of sleep per night do most health experts recommend for adults?",
+      "options": [
+        "7-9 hours",
+        "5-6 hours",
+        "4-5 hours",
+        "10-12 hours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most health experts recommend 7-9 hours of sleep per night for adults. Consistent lack of sleep is linked to increased risk of depression, anxiety, and cognitive decline.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-8",
+      "question": "What neurotransmitter is often called the 'reward chemical' and is linked to pleasure and motivation?",
+      "options": [
+        "Dopamine",
+        "GABA",
+        "Serotonin",
+        "Norepinephrine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dopamine plays a key role in the brain's reward system, influencing motivation, pleasure, and learning. Imbalances are linked to conditions like addiction and Parkinson's disease.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-9",
+      "question": "Which condition involves persistent worry and nervousness that interferes with daily activities?",
+      "options": [
+        "Dyslexia",
+        "Narcolepsy",
+        "Generalized anxiety disorder",
+        "Anemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Generalized Anxiety Disorder (GAD) involves persistent and excessive worry about various things, even when there is little or no reason to worry.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-10",
+      "question": "What activity has been scientifically shown to improve mental health by releasing endorphins?",
+      "options": [
+        "Watching television",
+        "Physical exercise",
+        "Online shopping",
+        "Reading the news"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Physical exercise releases endorphins, natural chemicals that reduce pain and boost pleasure. Regular exercise is associated with reduced symptoms of depression and anxiety.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-11",
+      "question": "What is 'seasonal affective disorder' (SAD)?",
+      "options": [
+        "Anxiety before holidays",
+        "Sadness after a breakup",
+        "Depression caused by job loss",
+        "Depression related to changes in seasons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Seasonal Affective Disorder (SAD) is a type of depression related to changes in seasons, most commonly occurring in fall and winter when daylight hours decrease.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-12",
+      "question": "What term describes the body's response to any demand or threat?",
+      "options": [
+        "Hunger",
+        "Boredom",
+        "Fatigue",
+        "Stress"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stress is the body's natural response to demands or threats. While short-term stress can be helpful, chronic stress can negatively impact both physical and mental health.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-13",
+      "question": "Which mental health condition is characterized by alternating periods of mania and depression?",
+      "options": [
+        "Obsessive-compulsive disorder",
+        "Bipolar disorder",
+        "Social anxiety disorder",
+        "Schizophrenia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bipolar disorder involves dramatic shifts in mood, energy, and activity levels, alternating between manic episodes (high energy) and depressive episodes (low energy).",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-14",
+      "question": "What is 'burnout' in the context of mental health?",
+      "options": [
+        "A form of epilepsy",
+        "Physical and emotional exhaustion from prolonged stress",
+        "Temporary memory loss",
+        "A type of skin condition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Burnout is a state of physical and emotional exhaustion caused by prolonged stress, often related to work. It includes feelings of cynicism, detachment, and reduced accomplishment.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "mental-health-facts-quiz-15",
+      "question": "Research shows that strong social connections can help protect against which of the following?",
+      "options": [
+        "Sunburn",
+        "Hair loss",
+        "Mental health decline",
+        "Tooth decay"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Research consistently shows that strong social connections and supportive relationships are protective factors against depression, anxiety, and cognitive decline in older adults.",
+      "difficulty": "easy",
+      "category": "health"
+    }
+  ]
+}

@@ -8,8 +8,13 @@
     {
       "id": "bsq-1",
       "question": "What is the birthstone for the month of January?",
-      "options": ["Amethyst", "Garnet", "Ruby", "Topaz"],
-      "correctAnswer": 1,
+      "options": [
+        "Garnet",
+        "Topaz",
+        "Ruby",
+        "Amethyst"
+      ],
+      "correctAnswer": 0,
       "explanation": "Garnet is the birthstone for January. The word garnet comes from the Latin 'granatum,' meaning pomegranate seed, due to its deep red color.",
       "difficulty": "easy",
       "category": "recall"
@@ -17,8 +22,13 @@
     {
       "id": "bsq-2",
       "question": "Which month has diamond as its birthstone?",
-      "options": ["March", "April", "June", "October"],
-      "correctAnswer": 1,
+      "options": [
+        "April",
+        "October",
+        "March",
+        "June"
+      ],
+      "correctAnswer": 0,
       "explanation": "Diamond is the birthstone for April. Diamonds are the hardest natural material on Earth, scoring 10 on the Mohs hardness scale.",
       "difficulty": "easy",
       "category": "recall"
@@ -26,7 +36,12 @@
     {
       "id": "bsq-3",
       "question": "What is the birthstone for December?",
-      "options": ["Sapphire", "Turquoise", "Opal", "Emerald"],
+      "options": [
+        "Emerald",
+        "Turquoise",
+        "Sapphire",
+        "Opal"
+      ],
       "correctAnswer": 1,
       "explanation": "Turquoise is the traditional birthstone for December (along with tanzanite and zircon). Turquoise has been prized for thousands of years in many cultures.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "bsq-4",
       "question": "Ruby is the birthstone for which month?",
-      "options": ["May", "June", "July", "August"],
+      "options": [
+        "June",
+        "August",
+        "July",
+        "May"
+      ],
       "correctAnswer": 2,
       "explanation": "Ruby is the birthstone for July. Rubies are among the most valued gemstones and symbolize passion and protection.",
       "difficulty": "easy",
@@ -44,7 +64,12 @@
     {
       "id": "bsq-5",
       "question": "What is the birthstone for June?",
-      "options": ["Emerald", "Pearl", "Opal", "Aquamarine"],
+      "options": [
+        "Emerald",
+        "Pearl",
+        "Aquamarine",
+        "Opal"
+      ],
       "correctAnswer": 1,
       "explanation": "Pearl is the traditional birthstone for June (along with alexandrite and moonstone). Pearls are unique among gemstones because they are formed inside living organisms.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "bsq-6",
       "question": "Emerald is the birthstone for which month?",
-      "options": ["March", "April", "May", "June"],
-      "correctAnswer": 2,
+      "options": [
+        "June",
+        "May",
+        "April",
+        "March"
+      ],
+      "correctAnswer": 1,
       "explanation": "Emerald is the birthstone for May. Emeralds get their green color from trace amounts of chromium and sometimes vanadium.",
       "difficulty": "medium",
       "category": "recall"
@@ -62,8 +92,13 @@
     {
       "id": "bsq-7",
       "question": "What is the birthstone for February?",
-      "options": ["Garnet", "Amethyst", "Aquamarine", "Tanzanite"],
-      "correctAnswer": 1,
+      "options": [
+        "Aquamarine",
+        "Garnet",
+        "Tanzanite",
+        "Amethyst"
+      ],
+      "correctAnswer": 3,
       "explanation": "Amethyst is the birthstone for February. It is a purple variety of quartz and was once considered as precious as diamonds.",
       "difficulty": "medium",
       "category": "recall"
@@ -71,8 +106,13 @@
     {
       "id": "bsq-8",
       "question": "Which month has sapphire as its birthstone?",
-      "options": ["July", "August", "September", "October"],
-      "correctAnswer": 2,
+      "options": [
+        "September",
+        "July",
+        "October",
+        "August"
+      ],
+      "correctAnswer": 0,
       "explanation": "Sapphire is the birthstone for September. While most commonly associated with blue, sapphires actually come in every color except red.",
       "difficulty": "medium",
       "category": "recall"
@@ -80,7 +120,12 @@
     {
       "id": "bsq-9",
       "question": "What is the birthstone for October?",
-      "options": ["Sapphire", "Topaz", "Opal", "Garnet"],
+      "options": [
+        "Topaz",
+        "Garnet",
+        "Opal",
+        "Sapphire"
+      ],
       "correctAnswer": 2,
       "explanation": "Opal is the traditional birthstone for October (along with tourmaline). Opals are known for their unique play-of-color, displaying a rainbow of hues.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "bsq-10",
       "question": "Aquamarine is the birthstone for which month?",
-      "options": ["January", "February", "March", "April"],
-      "correctAnswer": 2,
+      "options": [
+        "January",
+        "April",
+        "February",
+        "March"
+      ],
+      "correctAnswer": 3,
       "explanation": "Aquamarine is the birthstone for March. Its name comes from the Latin for 'water of the sea,' reflecting its blue-green color.",
       "difficulty": "medium",
       "category": "recall"
@@ -98,7 +148,12 @@
     {
       "id": "bsq-11",
       "question": "What is the birthstone for August?",
-      "options": ["Peridot", "Opal", "Topaz", "Citrine"],
+      "options": [
+        "Peridot",
+        "Topaz",
+        "Opal",
+        "Citrine"
+      ],
       "correctAnswer": 0,
       "explanation": "Peridot is the birthstone for August (along with spinel and sardonyx). Peridot is one of few gemstones found in only one color — a distinctive olive green.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "bsq-12",
       "question": "Which gemstone is the birthstone for November?",
-      "options": ["Garnet", "Citrine", "Amethyst", "Pearl"],
-      "correctAnswer": 1,
+      "options": [
+        "Garnet",
+        "Amethyst",
+        "Citrine",
+        "Pearl"
+      ],
+      "correctAnswer": 2,
       "explanation": "Citrine is a birthstone for November (along with topaz). Citrine is a variety of quartz ranging from pale yellow to brownish orange.",
       "difficulty": "hard",
       "category": "recall"
@@ -116,8 +176,13 @@
     {
       "id": "bsq-13",
       "question": "Which of these gemstones is NOT a traditional birthstone for any month?",
-      "options": ["Jade", "Garnet", "Opal", "Peridot"],
-      "correctAnswer": 0,
+      "options": [
+        "Opal",
+        "Peridot",
+        "Jade",
+        "Garnet"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jade is not a traditional birthstone for any month. While jade is highly valued in many cultures, particularly in Asia, it is not part of the modern birthstone list.",
       "difficulty": "hard",
       "category": "recall"
@@ -125,8 +190,13 @@
     {
       "id": "bsq-14",
       "question": "Tanzanite is a modern birthstone for which month?",
-      "options": ["September", "October", "November", "December"],
-      "correctAnswer": 3,
+      "options": [
+        "November",
+        "December",
+        "September",
+        "October"
+      ],
+      "correctAnswer": 1,
       "explanation": "Tanzanite was added as a modern birthstone for December in 2002. It was discovered in Tanzania in 1967 and is found nowhere else on Earth.",
       "difficulty": "hard",
       "category": "recall"
@@ -134,8 +204,13 @@
     {
       "id": "bsq-15",
       "question": "Which birthstone is the hardest on the Mohs scale?",
-      "options": ["Ruby (July)", "Sapphire (September)", "Diamond (April)", "Emerald (May)"],
-      "correctAnswer": 2,
+      "options": [
+        "Emerald (May)",
+        "Ruby (July)",
+        "Sapphire (September)",
+        "Diamond (April)"
+      ],
+      "correctAnswer": 3,
       "explanation": "Diamond (April's birthstone) is the hardest natural substance on Earth with a rating of 10 on the Mohs hardness scale. Ruby and sapphire both rate 9.",
       "difficulty": "hard",
       "category": "recall"

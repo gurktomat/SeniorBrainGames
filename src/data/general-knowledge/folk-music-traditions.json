@@ -1,0 +1,219 @@
+{
+  "id": "folk-music-traditions",
+  "title": "Folk Music Traditions",
+  "description": "Explore the rich tapestry of folk music from America and around the world!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "folk-music-traditions-1",
+      "question": "Which American folk singer wrote 'This Land Is Your Land'?",
+      "options": [
+        "Woody Guthrie",
+        "Leadbelly",
+        "Pete Seeger",
+        "Bob Dylan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Woody Guthrie wrote 'This Land Is Your Land' in 1940 as a response to Irving Berlin's 'God Bless America.' It has become one of America's most iconic folk songs.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-2",
+      "question": "Bob Dylan won the Nobel Prize in Literature in 2016 for his contributions to what?",
+      "options": [
+        "Journalism",
+        "Screenwriting",
+        "Songwriting and poetry",
+        "Novel writing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bob Dylan received the Nobel Prize 'for having created new poetic expressions within the great American song tradition.' Songs like 'Blowin' in the Wind' and 'The Times They Are a-Changin'' defined an era.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-3",
+      "question": "The banjo, widely used in American folk and bluegrass, has roots in the music of which region?",
+      "options": [
+        "West African musical traditions",
+        "Asian string instruments",
+        "Native American music",
+        "European classical music"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The banjo evolved from gourd-bodied stringed instruments brought to America by enslaved Africans. It became central to American folk, bluegrass, and country music in the 18th and 19th centuries.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-4",
+      "question": "Which Scottish poet wrote 'Auld Lang Syne,' sung worldwide on New Year's Eve?",
+      "options": [
+        "Robert Burns",
+        "Robert Louis Stevenson",
+        "Walter Scott",
+        "James Boswell"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Robert Burns published 'Auld Lang Syne' in 1788, based on an older folk song. The title translates roughly as 'old long since' or 'days gone by.' Guy Lombardo popularized the New Year's tradition.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-5",
+      "question": "What style of American roots music originated in the Appalachian Mountains?",
+      "options": [
+        "Motown",
+        "Zydeco",
+        "Tejano",
+        "Bluegrass"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bluegrass developed from the folk music of Appalachian settlers, blending Scots-Irish fiddle tunes, African American blues, and gospel. Bill Monroe is considered the 'Father of Bluegrass.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-6",
+      "question": "Pete Seeger popularized which folk song that became an anthem of the civil rights movement?",
+      "options": [
+        "If I Had a Hammer",
+        "We Shall Overcome",
+        "Where Have All the Flowers Gone",
+        "Blowin' in the Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pete Seeger adapted 'We Shall Overcome' from an old gospel hymn and taught it at civil rights workshops. It became the anthem of the movement, sung at marches and rallies across the nation.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-7",
+      "question": "Flamenco, a passionate form of music and dance, originates from which region of Spain?",
+      "options": [
+        "Catalonia",
+        "Castile",
+        "Galicia",
+        "Andalusia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Flamenco developed in Andalusia, southern Spain, drawing on Roma (Gypsy), Moorish, Jewish, and Andalusian folk traditions. It features guitar, singing (cante), dance (baile), and hand clapping (palmas).",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-8",
+      "question": "The 1959 Kingston Trio recording of 'Tom Dooley' helped spark what cultural phenomenon?",
+      "options": [
+        "The disco era",
+        "The British Invasion",
+        "The American folk music revival",
+        "The punk rock movement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kingston Trio's 'Tom Dooley' sold millions of copies and brought folk music to mainstream audiences. This sparked the folk revival of the late 1950s and 1960s, paving the way for Joan Baez, Bob Dylan, and many others.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-9",
+      "question": "Which Irish instrument is a large triangular harp that appears on the country's coat of arms?",
+      "options": [
+        "The tin whistle",
+        "The Celtic harp",
+        "The bodhran",
+        "The uilleann pipes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Celtic (or Irish) harp has been Ireland's national symbol for centuries. It appears on the presidential seal, Irish euro coins, and the Guinness logo. The harp tradition dates back over 1,000 years in Ireland.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-10",
+      "question": "Joan Baez performed at which historic 1963 event where Martin Luther King Jr. gave his 'I Have a Dream' speech?",
+      "options": [
+        "The March on Washington",
+        "Woodstock",
+        "The Monterey Pop Festival",
+        "The Newport Folk Festival"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Joan Baez sang 'We Shall Overcome' and other songs at the March on Washington on August 28, 1963. She was a tireless advocate for civil rights and nonviolence throughout the 1960s.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-11",
+      "question": "Ravi Shankar introduced which Indian folk instrument to Western audiences?",
+      "options": [
+        "Sitar",
+        "Tabla",
+        "Sarod",
+        "Veena"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ravi Shankar became world-famous for his sitar performances and collaborations with Western musicians, including George Harrison of the Beatles. He performed at the Monterey Pop Festival and Woodstock.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-12",
+      "question": "What is a 'sea shanty'?",
+      "options": [
+        "A coastal folk dance",
+        "A house near the ocean",
+        "A work song sung by sailors",
+        "A type of fishing boat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sea shanties were rhythmic work songs sung by sailors to coordinate labor like hauling ropes or raising anchors. Different types of shanties matched different tasks. They experienced a viral revival on social media in 2021.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-13",
+      "question": "The 'blues' originated among African Americans in which region of the United States?",
+      "options": [
+        "The Pacific Northwest",
+        "The Great Plains",
+        "The Deep South, especially the Mississippi Delta",
+        "New England"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The blues emerged in the late 19th century from African American work songs, spirituals, and field hollers in the Mississippi Delta region. It became the foundation for jazz, rock and roll, and R&B.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-14",
+      "question": "The didgeridoo is a traditional wind instrument of which indigenous people?",
+      "options": [
+        "The San of southern Africa",
+        "The Maori of New Zealand",
+        "The Aboriginal Australians",
+        "The Inuit of Canada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The didgeridoo is a wind instrument developed by Aboriginal Australians over 1,500 years ago. Made from eucalyptus branches hollowed by termites, it produces a deep, droning sound using circular breathing.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "folk-music-traditions-15",
+      "question": "Which American folk tradition involves competitive singing of improvised verses, often humorous or boastful?",
+      "options": [
+        "The dozens",
+        "Call and response",
+        "Talking blues",
+        "Shape-note singing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The dozens' is an African American oral tradition of exchanging witty, often humorous insults in verse. It has roots in West African oral traditions and influenced modern freestyle rap and hip-hop culture.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

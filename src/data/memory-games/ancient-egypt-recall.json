@@ -1,0 +1,219 @@
+{
+  "id": "ancient-egypt-recall",
+  "title": "Ancient Egypt Recall",
+  "description": "Journey back to the land of pharaohs and pyramids! How much do you recall?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ancient-egypt-recall-1",
+      "question": "What was the name of the writing system used by ancient Egyptians?",
+      "options": [
+        "Hieroglyphics",
+        "Sanskrit",
+        "Cuneiform",
+        "Demotic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hieroglyphics was the formal writing system used in ancient Egypt, consisting of pictorial symbols representing words and sounds.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-2",
+      "question": "Which pharaoh's intact tomb was discovered by Howard Carter in 1922?",
+      "options": [
+        "Ramesses II",
+        "Tutankhamun",
+        "Khufu",
+        "Akhenaten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Howard Carter discovered the tomb of Tutankhamun (King Tut) in the Valley of the Kings in November 1922, one of the greatest archaeological finds ever.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-3",
+      "question": "What was the stone that helped scholars decipher hieroglyphics?",
+      "options": [
+        "Rosetta Stone",
+        "Palermo Stone",
+        "Moabite Stone",
+        "Philosopher's Stone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Rosetta Stone, discovered in 1799, contained the same text in hieroglyphics, Demotic, and Greek, enabling Jean-François Champollion to decode hieroglyphics in 1822.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-4",
+      "question": "Which river was essential to ancient Egyptian civilization?",
+      "options": [
+        "Euphrates",
+        "Jordan",
+        "Nile",
+        "Tigris"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Nile River was the lifeblood of ancient Egypt, providing water for irrigation, transportation, and annual floods that fertilized the surrounding farmland.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-5",
+      "question": "What was the ancient Egyptian process of preserving bodies for the afterlife called?",
+      "options": [
+        "Ossification",
+        "Mummification",
+        "Cremation",
+        "Embalming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mummification was the elaborate process of preserving bodies, involving removal of organs, drying with natron salt, and wrapping in linen bandages.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-6",
+      "question": "Which pharaoh was known for building the most temples and statues, including Abu Simbel?",
+      "options": [
+        "Thutmose III",
+        "Tutankhamun",
+        "Ramesses II",
+        "Akhenaten"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ramesses II (Ramesses the Great) ruled for 66 years and built more monuments than any other pharaoh, including the great temple at Abu Simbel.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-7",
+      "question": "What was the name of the Egyptian god of the afterlife, depicted with green skin?",
+      "options": [
+        "Horus",
+        "Ra",
+        "Anubis",
+        "Osiris"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Osiris was the god of the afterlife, death, and resurrection in ancient Egyptian religion, typically depicted with green skin symbolizing rebirth.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-8",
+      "question": "What mythical creature with a human head and lion's body guards the pyramids at Giza?",
+      "options": [
+        "Sphinx",
+        "Minotaur",
+        "Griffin",
+        "Phoenix"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Sphinx of Giza, with the body of a lion and the head of a human (believed to represent Pharaoh Khafre), guards the Giza pyramid complex.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-9",
+      "question": "Which pharaoh attempted to change Egypt's religion to worship only one god, the Aten?",
+      "options": [
+        "Akhenaten",
+        "Ramesses II",
+        "Tutankhamun",
+        "Amenhotep II"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pharaoh Akhenaten (formerly Amenhotep IV) introduced monotheistic worship of the Aten (sun disk) around 1350 BC, a radical break from traditional Egyptian religion.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-10",
+      "question": "What was the ancient Egyptian 'Book of the Dead' used for?",
+      "options": [
+        "Recording royal lineage",
+        "Guiding the dead through the afterlife",
+        "Keeping tax records",
+        "Teaching children to read"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Book of the Dead was a collection of spells and instructions placed in tombs to help the deceased navigate the afterlife and achieve eternal life.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-11",
+      "question": "Which female pharaoh ruled Egypt for over 20 years and built a famous mortuary temple?",
+      "options": [
+        "Sobekneferu",
+        "Nefertiti",
+        "Cleopatra VII",
+        "Hatshepsut"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hatshepsut ruled Egypt for about 21 years and built the magnificent mortuary temple at Deir el-Bahari, one of the finest in Egypt.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-12",
+      "question": "What was the Egyptian god Ra the god of?",
+      "options": [
+        "The Sea",
+        "The Sun",
+        "The Earth",
+        "The Moon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ra was the ancient Egyptian sun god, considered the king of the gods and the creator of all life. He was often depicted with a falcon head and sun disk.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-13",
+      "question": "Which Egyptian god had the head of a jackal and was associated with mummification?",
+      "options": [
+        "Set",
+        "Thoth",
+        "Horus",
+        "Anubis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Anubis, depicted with a jackal head, was the god of mummification and the afterlife who guided souls to the underworld.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-14",
+      "question": "What were the large stone coffins used to house the mummies of pharaohs called?",
+      "options": [
+        "Mastabas",
+        "Obelisks",
+        "Canopic jars",
+        "Sarcophagi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sarcophagi (singular: sarcophagus) were large stone coffins, often elaborately decorated, used to house the mummified remains of pharaohs and nobility.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "ancient-egypt-recall-15",
+      "question": "Which pharaoh is known as the 'Napoleon of Egypt' for his many military conquests?",
+      "options": [
+        "Thutmose III",
+        "Seti I",
+        "Ramesses II",
+        "Amenhotep III"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thutmose III is called the 'Napoleon of Egypt' due to his many successful military campaigns, expanding Egypt's empire to its greatest extent.",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

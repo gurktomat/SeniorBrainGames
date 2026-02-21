@@ -1,0 +1,219 @@
+{
+  "id": "hockey-vocabulary",
+  "title": "Hockey Vocabulary",
+  "description": "Lace up your skates and test your knowledge of ice hockey terms!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "hockey-vocabulary-1",
+      "question": "In hockey, what is a 'hat trick'?",
+      "options": [
+        "Three penalties in one period",
+        "Winning three faceoffs in a row",
+        "A goalie saving three consecutive shots",
+        "One player scoring three goals in a single game"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hat trick is when a single player scores three goals in one game. Fans traditionally celebrate by throwing hats onto the ice.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-2",
+      "question": "What is a 'power play' in hockey?",
+      "options": [
+        "When a team has a numerical advantage because the opponent has a player in the penalty box",
+        "A play involving all five skaters",
+        "A strong offensive push",
+        "An extra period of play"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A power play occurs when one team has more players on the ice because the opposing team has one or more players serving a penalty in the penalty box.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-3",
+      "question": "In hockey, what is 'icing'?",
+      "options": [
+        "A celebration involving ice",
+        "Applying ice to injuries",
+        "Shooting the puck from behind center ice across the opposing goal line without it being touched",
+        "Freezing the puck against the boards"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Icing is called when a player shoots the puck from behind the center red line all the way across the opposing team's goal line without it being touched, resulting in a faceoff in the offending team's zone.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-4",
+      "question": "What is a 'shutout' in hockey?",
+      "options": [
+        "A game in which the goaltender allows no goals",
+        "A game that goes to a shootout",
+        "Preventing the other team from taking any shots",
+        "Being eliminated from the playoffs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A shutout occurs when a goaltender prevents the opposing team from scoring any goals for the entire game, one of the most valued achievements for a goalie.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-5",
+      "question": "In hockey, what does 'five-hole' refer to?",
+      "options": [
+        "Five players shooting in a shootout",
+        "The space between a goalie's legs",
+        "Five holes in the net",
+        "A penalty lasting five minutes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The five-hole is the space between a goaltender's legs. Goalies have five 'holes': above each shoulder (1 and 2), below each arm (3 and 4), and between the legs (5).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-6",
+      "question": "What is a 'Zamboni' in hockey?",
+      "options": [
+        "A type of hockey stick",
+        "An Italian-style goal celebration",
+        "A machine that resurfaces the ice between periods",
+        "A defensive formation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A Zamboni is the brand name (now used generically) for the ice resurfacing machine that shaves, cleans, and applies a fresh layer of water to the ice surface between periods.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-7",
+      "question": "In hockey, what is a 'slap shot'?",
+      "options": [
+        "Slapping an opponent with a glove",
+        "A shot taken after falling on the ice",
+        "A powerful shot where the player winds up and strikes the puck with a full swing",
+        "A wrist shot taken while skating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A slap shot is the hardest shot in hockey, where the player raises the stick behind the body and swings down forcefully, hitting the ice just behind the puck for maximum power.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-8",
+      "question": "What does 'offside' mean in hockey?",
+      "options": [
+        "Standing behind the goal",
+        "Playing on the wrong team's bench",
+        "An attacking player entering the offensive zone before the puck",
+        "Crossing the center red line too early"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Offside is called when an attacking player crosses the blue line into the offensive zone before the puck does, resulting in a faceoff outside the zone.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-9",
+      "question": "In hockey, what is a 'breakaway'?",
+      "options": [
+        "When the ice breaks",
+        "A broken hockey stick",
+        "A fight that breaks out during play",
+        "A player skating alone toward the opposing goalie with no defenders between them"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A breakaway occurs when a player has possession of the puck and is skating toward the opposing goal with no defenders between them and the goaltender.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-10",
+      "question": "What is a 'deke' in hockey?",
+      "options": [
+        "A deceptive move to fake out an opponent",
+        "A designated shooter in a shootout",
+        "A defensive zone clearance",
+        "A type of penalty"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A deke (short for 'decoy') is a deceptive move made by a puck carrier to fake out a defender or goaltender, often involving quick stickhandling or body fakes.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-11",
+      "question": "In hockey, what is 'boarding'?",
+      "options": [
+        "Skating along the boards",
+        "Getting on the team roster",
+        "A penalty for leaving the bench",
+        "Violently checking an opponent into the boards"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Boarding is a penalty called when a player pushes, checks, or trips an opponent causing them to be thrown violently into the boards surrounding the rink.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-12",
+      "question": "What is the 'crease' in hockey?",
+      "options": [
+        "The bench area",
+        "The painted area in front of the goal where the goaltender operates",
+        "A wrinkle in the ice surface",
+        "The center ice circle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The crease is the semi-circular area painted in front of each goal, designated as the goaltender's territory. Specific rules govern player contact with the goalie in this area.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-13",
+      "question": "In hockey, what is a 'Gordie Howe hat trick'?",
+      "options": [
+        "A goal, an assist, and a fight in the same game",
+        "Three hat tricks in a season",
+        "Three goals from center ice",
+        "Three goals in the third period"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A Gordie Howe hat trick is an unofficial achievement of scoring a goal, recording an assist, and getting into a fight all in the same game, named after the legendary tough and skilled player.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-14",
+      "question": "What is 'hooking' in hockey?",
+      "options": [
+        "Using the stick blade to impede an opponent's progress",
+        "Scoring with a curved shot",
+        "A type of pass",
+        "Pulling the goalie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hooking is a penalty called when a player uses the blade of their stick to restrain or impede an opponent's movement or progress.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "hockey-vocabulary-15",
+      "question": "In hockey, what does 'pulling the goalie' mean?",
+      "options": [
+        "The goalie pulling a muscle",
+        "Removing the goalie from the team",
+        "Replacing the goaltender with an extra skater for a numerical advantage",
+        "Dragging the goalie off the ice after a fight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pulling the goalie is a strategy where a team removes their goaltender and replaces them with an extra attacker, typically used when trailing late in a game to gain a scoring advantage.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "fencing-terminology",
+  "title": "Fencing Terminology",
+  "description": "En garde! Test your knowledge of fencing vocabulary!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fencing-terminology-1",
+      "question": "In fencing, what does 'en garde' mean?",
+      "options": [
+        "The match is over",
+        "The ready position before fencing begins",
+        "Begin the match",
+        "Salute your opponent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En garde (French for 'on guard') is the command telling fencers to assume the ready position, with knees bent, weapon raised, and body sideways to present a smaller target.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-2",
+      "question": "What is a 'riposte' in fencing?",
+      "options": [
+        "A salute to the referee",
+        "A retreat backward",
+        "An opening attack",
+        "A counterattack made immediately after successfully parrying an opponent's attack"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A riposte is an offensive action made immediately after a successful parry (defensive block), taking advantage of the attacker's momentary vulnerability.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-3",
+      "question": "In fencing, what is a 'parry'?",
+      "options": [
+        "A thrust aimed at the chest",
+        "A defensive action using the blade to deflect an incoming attack",
+        "A scoring touch",
+        "A forward step toward the opponent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A parry is a defensive blade movement used to deflect or block an opponent's attacking blade, redirecting it away from the target area.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-4",
+      "question": "What is a 'touché' in fencing?",
+      "options": [
+        "A warm-up exercise",
+        "A type of fencing weapon",
+        "An acknowledgment that a valid hit has been scored",
+        "A penalty for misconduct"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Touché (French for 'touched') is called to acknowledge that a valid hit has been scored. In everyday language, it has come to mean acknowledging a good point in an argument.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-5",
+      "question": "In fencing, what is a 'lunge'?",
+      "options": [
+        "A jump backward",
+        "A spinning attack",
+        "An attacking movement where the front leg extends forward while the back leg remains stationary",
+        "A defensive crouch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The lunge is the most common attacking footwork in fencing, where the fencer extends the front leg forward while the rear leg stays planted, propelling the body toward the opponent.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-6",
+      "question": "What are the three weapons used in competitive fencing?",
+      "options": [
+        "Foil, épée, sabre",
+        "Blade, point, edge",
+        "Sword, dagger, mace",
+        "Rapier, cutlass, broadsword"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The three weapons in competitive fencing are the foil (light thrusting weapon), the épée (heavier thrusting weapon), and the sabre (cutting and thrusting weapon).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-7",
+      "question": "In fencing, what does 'right of way' (priority) refer to?",
+      "options": [
+        "The order in which fencers salute",
+        "The rule determining which fencer's touch scores when both hit simultaneously",
+        "The fencer who is standing on the right side",
+        "Which fencer enters the strip first"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right of way (priority) is a rule in foil and sabre that determines which fencer receives the point when both land touches simultaneously, favoring the fencer who initiated the attack.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-8",
+      "question": "What is a 'fleche' in fencing?",
+      "options": [
+        "A type of fencing mask",
+        "A type of arrow",
+        "An explosive running attack where the fencer launches toward the opponent",
+        "A defensive stance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A flèche (French for 'arrow') is an aggressive attacking action where the fencer pushes off the back foot and runs toward the opponent, used primarily in foil and épée.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-9",
+      "question": "In fencing, what is the 'piste' (or 'strip')?",
+      "options": [
+        "The long, narrow playing area where bouts take place",
+        "The fencing uniform",
+        "The scoring display board",
+        "A practice drill"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The piste (or strip) is the long, narrow playing area (14 meters long and 1.5 to 2 meters wide) where fencing bouts take place.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-10",
+      "question": "What is a 'bout' in fencing?",
+      "options": [
+        "A type of fencing shoe",
+        "A round of training exercises",
+        "A fencing tournament",
+        "A single competitive match between two fencers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A bout is an individual competitive match between two fencers, typically fenced to a set number of touches (5 in pool bouts, 15 in direct elimination).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-11",
+      "question": "In fencing, what is a 'feint'?",
+      "options": [
+        "The final touch of a bout",
+        "Fainting from exhaustion",
+        "A penalty for a false start",
+        "A deceptive attack intended to draw a reaction from the opponent"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A feint is a false or deceptive attack designed to provoke a defensive reaction from the opponent, opening up a target area for the real attack.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-12",
+      "question": "What is the 'corps-à-corps' in fencing?",
+      "options": [
+        "A team event in fencing",
+        "The corps of judges",
+        "A group training exercise",
+        "Body-to-body contact between two fencers, which is forbidden"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Corps-à-corps (body to body) occurs when the two fencers come into bodily contact. In modern fencing, this results in a halt to the action.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-13",
+      "question": "In fencing, what does the 'épée' target area include?",
+      "options": [
+        "Only the torso",
+        "The entire body from head to toe",
+        "Only the arms and legs",
+        "Only above the waist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In épée fencing, the valid target area is the entire body, including the head, arms, legs, feet, and torso, making it the most open of the three weapons.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-14",
+      "question": "What is 'appel' in fencing?",
+      "options": [
+        "A sharp stamp of the front foot used to startle the opponent or initiate an attack",
+        "A type of apple-shaped guard on the weapon",
+        "An appeal to the referee",
+        "A greeting between fencers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An appel is a sharp stamp of the front foot on the piste, used to startle the opponent, create a rhythm, or initiate an attack.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "fencing-terminology-15",
+      "question": "In fencing, what is a 'balestra'?",
+      "options": [
+        "A ceremonial sword",
+        "A training dummy",
+        "A type of crossbow",
+        "A short forward jump followed immediately by a lunge"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A balestra is a technique combining a short forward hop with an immediate lunge, used to close distance quickly while attacking and to surprise the opponent.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

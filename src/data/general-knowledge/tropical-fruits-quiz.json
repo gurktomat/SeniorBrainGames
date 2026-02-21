@@ -1,0 +1,219 @@
+{
+  "id": "tropical-fruits-quiz",
+  "title": "Tropical Fruits",
+  "description": "How well do you know exotic and tropical fruits from around the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tropical-fruits-quiz-1",
+      "question": "Which tropical fruit is known as the 'king of fruits' and has a notoriously strong smell?",
+      "options": [
+        "Durian",
+        "Jackfruit",
+        "Papaya",
+        "Mango"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Durian is called the 'king of fruits' in Southeast Asia. Its smell is so pungent that it is banned in many hotels and public transport systems in the region.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-2",
+      "question": "What tropical fruit contains the enzyme bromelain, which helps digest proteins?",
+      "options": [
+        "Coconut",
+        "Pineapple",
+        "Mango",
+        "Banana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pineapple contains bromelain, a protein-digesting enzyme. This is why pineapple juice is used as a meat tenderizer and why eating too much can cause mouth irritation.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-3",
+      "question": "Where did bananas originally come from?",
+      "options": [
+        "South America",
+        "Central America",
+        "Southeast Asia",
+        "Africa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bananas originated in Southeast Asia, likely in Papua New Guinea. They were domesticated thousands of years ago and spread to Africa, the Middle East, and eventually the Americas.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-4",
+      "question": "Which tropical fruit is the main ingredient in guacamole?",
+      "options": [
+        "Papaya",
+        "Plantain",
+        "Mango",
+        "Avocado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Avocado is the primary ingredient in guacamole, a traditional Mexican dip. Avocados are technically a berry and are native to south-central Mexico.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-5",
+      "question": "What is the world's largest tree-borne fruit?",
+      "options": [
+        "Durian",
+        "Breadfruit",
+        "Jackfruit",
+        "Coconut"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jackfruit is the world's largest tree-borne fruit, with individual fruits sometimes weighing over 80 pounds (36 kg). It is native to South and Southeast Asia.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-6",
+      "question": "Which tropical fruit was once so rare in Europe that King Charles II posed for a portrait receiving one as a gift?",
+      "options": [
+        "Banana",
+        "Mango",
+        "Coconut",
+        "Pineapple"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pineapple was so rare and prized in 17th-century Europe that it became a symbol of wealth and hospitality. King Charles II was painted receiving a pineapple as a royal gift.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-7",
+      "question": "What tropical fruit is also known as 'pawpaw' in some countries?",
+      "options": [
+        "Papaya",
+        "Guava",
+        "Passion fruit",
+        "Starfruit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Papaya is called 'pawpaw' in Australia and some other countries. It is rich in vitamin C, vitamin A, and the enzyme papain, which aids digestion.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-8",
+      "question": "Which fruit has a star-shaped cross section when sliced?",
+      "options": [
+        "Starfruit (carambola)",
+        "Rambutan",
+        "Lychee",
+        "Dragon fruit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Starfruit (carambola) gets its name from its distinctive star shape when sliced crosswise. It is native to Southeast Asia and has a sweet-tart flavor.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-9",
+      "question": "What is the small, spiky red fruit native to Southeast Asia that looks like a sea urchin?",
+      "options": [
+        "Lychee",
+        "Rambutan",
+        "Longan",
+        "Mangosteen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rambutan is a hairy-looking fruit native to Southeast Asia. Its name comes from the Malay word 'rambut' meaning 'hair,' referring to its spiky exterior.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-10",
+      "question": "Coconut water, found inside young coconuts, is naturally rich in which mineral?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Zinc",
+        "Potassium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Coconut water is naturally rich in potassium, containing about 600 mg per cup. It also contains natural electrolytes, making it a popular hydration drink.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-11",
+      "question": "What colorful tropical fruit has bright pink or yellow skin and white or red flesh with tiny black seeds?",
+      "options": [
+        "Guava",
+        "Passion fruit",
+        "Pomegranate",
+        "Dragon fruit (pitaya)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dragon fruit (pitaya) has a dramatic appearance with its bright pink or yellow skin and speckled flesh. It grows on a type of cactus native to Central America.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-12",
+      "question": "Which tropical fruit is often called the 'queen of fruits'?",
+      "options": [
+        "Mangosteen",
+        "Passion fruit",
+        "Papaya",
+        "Mango"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mangosteen is called the 'queen of fruits' for its delicate, sweet-tangy flavor. Queen Victoria reportedly offered a reward to anyone who could bring her fresh mangosteen.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-13",
+      "question": "Which country is the world's largest producer of mangoes?",
+      "options": [
+        "India",
+        "Mexico",
+        "Thailand",
+        "Brazil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India is the world's largest producer of mangoes, growing about 40% of the global supply. Mangoes have been cultivated in India for over 4,000 years.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-14",
+      "question": "What tropical fruit gets its name from the Spanish word for 'passion' and has a distinctive wrinkled purple skin?",
+      "options": [
+        "Fig",
+        "Passion fruit",
+        "Guava",
+        "Tamarind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passion fruit was named by Spanish missionaries who saw the flower's structure as a symbol of the Passion of Christ. It has a tart, aromatic pulp filled with seeds.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tropical-fruits-quiz-15",
+      "question": "Plantains are closely related to bananas but are typically prepared how?",
+      "options": [
+        "Dried into powder",
+        "Eaten raw as a snack",
+        "Juiced into drinks",
+        "Cooked before eating"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unlike dessert bananas, plantains are starchier and are typically cooked before eating. They are a dietary staple in many tropical countries, served fried, boiled, or baked.",
+      "difficulty": "easy",
+      "category": "food"
+    }
+  ]
+}

@@ -7,91 +7,166 @@
     {
       "id": "world-currencies-recall-1",
       "question": "What is the official currency of Japan, symbolized by ¥ and known for being one of the most traded currencies in the world?",
-      "options": ["Won", "Yuan", "Yen", "Ringgit"],
-      "correctAnswer": 2
+      "options": [
+        "Won",
+        "Ringgit",
+        "Yuan",
+        "Yen"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-currencies-recall-2",
       "question": "What is the official currency of the United Kingdom, which is the oldest currency still in use and is symbolized by £?",
-      "options": ["Euro", "Pound Sterling", "Crown", "Shilling"],
-      "correctAnswer": 1
+      "options": [
+        "Euro",
+        "Crown",
+        "Shilling",
+        "Pound Sterling"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-currencies-recall-3",
       "question": "Which currency is shared by 20 European Union countries and was introduced as physical banknotes and coins on January 1, 2002?",
-      "options": ["Euro", "European Crown", "Franc", "Mark"],
-      "correctAnswer": 0
+      "options": [
+        "European Crown",
+        "Euro",
+        "Franc",
+        "Mark"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-currencies-recall-4",
       "question": "What is the official currency of India, symbolized by the sign ₹, which was adopted in 2010?",
-      "options": ["Rupiah", "Rupee", "Ringgit", "Riel"],
-      "correctAnswer": 1
+      "options": [
+        "Ringgit",
+        "Riel",
+        "Rupee",
+        "Rupiah"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-5",
       "question": "What is the official currency of Brazil, which replaced the cruzeiro real in 1994 as part of an economic stabilization plan?",
-      "options": ["Peso", "Sol", "Real", "Escudo"],
-      "correctAnswer": 2
+      "options": [
+        "Peso",
+        "Sol",
+        "Escudo",
+        "Real"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-currencies-recall-6",
       "question": "What is the official currency of South Korea, sharing its name but not its value with the currency of North Korea?",
-      "options": ["Yen", "Yuan", "Baht", "Won"],
-      "correctAnswer": 3
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Baht"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-currencies-recall-7",
       "question": "What is the official currency of Thailand, whose name means 'weight of gold' and whose smallest unit is the satang?",
-      "options": ["Dong", "Kyat", "Baht", "Kip"],
+      "options": [
+        "Kip",
+        "Dong",
+        "Baht",
+        "Kyat"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-8",
       "question": "What is the official currency of Mexico, which shares its symbol ($) with the U.S. dollar and was actually the origin of that symbol?",
-      "options": ["Real", "Quetzal", "Peso", "Bolívar"],
-      "correctAnswer": 2
+      "options": [
+        "Peso",
+        "Quetzal",
+        "Bolívar",
+        "Real"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-currencies-recall-9",
       "question": "What is the official currency of Switzerland, known for its stability and used alongside the euro in the neighboring microstate of Liechtenstein?",
-      "options": ["Swiss Mark", "Swiss Crown", "Swiss Franc", "Swiss Guilder"],
+      "options": [
+        "Swiss Mark",
+        "Swiss Guilder",
+        "Swiss Franc",
+        "Swiss Crown"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-10",
       "question": "What is the official currency of Turkey, which underwent a major redenomination in 2005 when six zeros were removed from its value?",
-      "options": ["Turkish Dinar", "Turkish Lira", "Turkish Mark", "Turkish Pound"],
-      "correctAnswer": 1
+      "options": [
+        "Turkish Pound",
+        "Turkish Mark",
+        "Turkish Lira",
+        "Turkish Dinar"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-11",
       "question": "What is the official currency of South Africa, named after the Witwatersrand ridge where most of South Africa's gold deposits were found?",
-      "options": ["Rand", "Shilling", "Pound", "Franc"],
-      "correctAnswer": 0
+      "options": [
+        "Shilling",
+        "Franc",
+        "Rand",
+        "Pound"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-12",
       "question": "What is the official currency of Egypt, which shares its name with the currencies of several other Middle Eastern and North African countries?",
-      "options": ["Dinar", "Dirham", "Riyal", "Pound"],
-      "correctAnswer": 3
+      "options": [
+        "Riyal",
+        "Dinar",
+        "Pound",
+        "Dirham"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-currencies-recall-13",
       "question": "What is the official currency of Poland, whose name comes from the word for 'gold' and is abbreviated as PLN?",
-      "options": ["Koruna", "Forint", "Złoty", "Leu"],
-      "correctAnswer": 2
+      "options": [
+        "Leu",
+        "Złoty",
+        "Koruna",
+        "Forint"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-currencies-recall-14",
       "question": "What is the official currency of Saudi Arabia, named after the Spanish silver dollar (real) that once circulated in the region?",
-      "options": ["Dinar", "Dirham", "Riyal", "Pound"],
-      "correctAnswer": 2
+      "options": [
+        "Pound",
+        "Dinar",
+        "Dirham",
+        "Riyal"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-currencies-recall-15",
       "question": "What is the official currency of Sweden, whose name means 'crown' and is also the name used by the currencies of Denmark, Norway, Iceland, and the Czech Republic?",
-      "options": ["Mark", "Franc", "Krona", "Guilder"],
+      "options": [
+        "Mark",
+        "Franc",
+        "Krona",
+        "Guilder"
+      ],
       "correctAnswer": 2
     }
   ]

@@ -1,0 +1,219 @@
+{
+  "id": "rugby-world-quiz",
+  "title": "Rugby World",
+  "description": "Test your knowledge of rugby union, rugby league, and the Rugby World Cup!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "rugby-world-quiz-1",
+      "question": "In which country is rugby said to have originated?",
+      "options": [
+        "Wales",
+        "England",
+        "Scotland",
+        "Ireland"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rugby is said to have originated at Rugby School in Warwickshire, England, in 1823, when William Webb Ellis allegedly picked up the ball and ran with it during a football match.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-2",
+      "question": "How many players are on each team in rugby union?",
+      "options": [
+        "17",
+        "11",
+        "13",
+        "15"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A rugby union team has 15 players: 8 forwards and 7 backs. Rugby league, a different code of the sport, has 13 players per team.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-3",
+      "question": "How many points is a try worth in rugby union?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A try in rugby union is worth 5 points. After scoring a try, the team has the opportunity to kick a conversion worth 2 additional points.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-4",
+      "question": "Which country has won the most Rugby World Cup titles?",
+      "options": [
+        "New Zealand",
+        "England",
+        "Australia",
+        "South Africa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "South Africa has won the Rugby World Cup four times (1995, 2007, 2019, 2023), making them the most successful nation in the tournament's history.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-5",
+      "question": "What is the New Zealand rugby team's famous pre-match ritual?",
+      "options": [
+        "The Haka",
+        "A team song",
+        "A war cry",
+        "A prayer circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The All Blacks perform the Haka, a traditional Maori war dance, before each match. The most commonly performed Haka is 'Ka Mate,' though 'Kapa O Pango' is also used.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-6",
+      "question": "What is a 'scrum' in rugby?",
+      "options": [
+        "A method of restarting play with opposing packs pushing against each other",
+        "A penalty kick",
+        "A scoring play",
+        "A type of tackle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A scrum is a set piece used to restart play after certain stoppages. Eight forwards from each team bind together and push against each other while the ball is fed into the middle.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-7",
+      "question": "What is the Six Nations Championship?",
+      "options": [
+        "A cricket tournament",
+        "A swimming championship",
+        "An annual rugby union competition among six European nations",
+        "A soccer league"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Six Nations is an annual rugby union competition among England, France, Ireland, Italy, Scotland, and Wales. It is the oldest international rugby tournament, dating back to 1883.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-8",
+      "question": "What shape is a rugby ball?",
+      "options": [
+        "Hexagonal",
+        "Round",
+        "Oval (prolate spheroid)",
+        "Cylindrical"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A rugby ball is oval-shaped (a prolate spheroid). Early rugby balls were made from pig bladders, which naturally produced an oval shape. Modern balls are made of synthetic materials.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-9",
+      "question": "Which country won the first Rugby World Cup in 1987?",
+      "options": [
+        "South Africa",
+        "England",
+        "New Zealand",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Zealand won the inaugural Rugby World Cup in 1987, defeating France 29-9 in the final at Eden Park in Auckland. The tournament was jointly hosted by Australia and New Zealand.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-10",
+      "question": "What is a 'lineout' in rugby?",
+      "options": [
+        "A formation for a penalty kick",
+        "A scoring line near the goal",
+        "The sideline of the pitch",
+        "When the ball goes out of bounds, players jump to catch a thrown-in ball"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A lineout is used to restart play when the ball has gone into touch (out of bounds). Players from both teams line up and compete to catch the ball thrown in by a hooker.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-11",
+      "question": "How many points is a drop goal worth in rugby union?",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A drop goal in rugby union is worth 3 points. It is scored when a player drops the ball onto the ground and kicks it on the half-volley through the opponent's goalposts during open play.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-12",
+      "question": "What is 'rugby sevens'?",
+      "options": [
+        "A rugby league format",
+        "A seven-game series",
+        "Rugby played with 7 players per team",
+        "Rugby played for 7 minutes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rugby sevens is a variant of rugby union with 7 players per team instead of 15, played on a full-sized pitch with shorter halves (7 minutes each). It became an Olympic sport in 2016.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-13",
+      "question": "Which famous South African president presented the Rugby World Cup trophy to the Springboks captain in 1995?",
+      "options": [
+        "Thabo Mbeki",
+        "Desmond Tutu",
+        "Nelson Mandela",
+        "F.W. de Klerk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nelson Mandela, wearing a Springbok jersey, presented the trophy to Francois Pienaar after South Africa's 1995 World Cup victory. This moment symbolized post-apartheid national unity.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-14",
+      "question": "What is the name given to a score in rugby league worth 4 points?",
+      "options": [
+        "A try",
+        "A conversion",
+        "A touchdown",
+        "A goal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In rugby league, a try is worth 4 points (compared to 5 in rugby union). A successful conversion kick after a try adds 2 more points.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "rugby-world-quiz-15",
+      "question": "What is the William Webb Ellis Cup?",
+      "options": [
+        "The trophy for the Six Nations",
+        "An award for the best player",
+        "A club championship trophy",
+        "The Rugby World Cup trophy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The William Webb Ellis Cup is the trophy awarded to the winner of the Rugby World Cup. It is named after William Webb Ellis, who is credited with inventing the sport of rugby.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

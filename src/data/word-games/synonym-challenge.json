@@ -8,8 +8,13 @@
     {
       "id": "syn-1",
       "question": "Which word is a synonym for 'happy'?",
-      "options": ["Sad", "Joyful", "Angry", "Tired"],
-      "correctAnswer": 1,
+      "options": [
+        "Joyful",
+        "Tired",
+        "Angry",
+        "Sad"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Joyful' means feeling or expressing great pleasure or happiness.",
       "difficulty": "easy",
       "category": "language"
@@ -17,7 +22,12 @@
     {
       "id": "syn-2",
       "question": "Which word is a synonym for 'big'?",
-      "options": ["Tiny", "Large", "Narrow", "Short"],
+      "options": [
+        "Narrow",
+        "Large",
+        "Short",
+        "Tiny"
+      ],
       "correctAnswer": 1,
       "explanation": "'Large' means of considerable size, extent, or capacity.",
       "difficulty": "easy",
@@ -26,7 +36,12 @@
     {
       "id": "syn-3",
       "question": "Which word is a synonym for 'fast'?",
-      "options": ["Slow", "Heavy", "Quick", "Calm"],
+      "options": [
+        "Slow",
+        "Calm",
+        "Quick",
+        "Heavy"
+      ],
       "correctAnswer": 2,
       "explanation": "'Quick' means moving at high speed or happening in a short time.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "syn-4",
       "question": "Which word is a synonym for 'cold'?",
-      "options": ["Warm", "Chilly", "Bright", "Dry"],
+      "options": [
+        "Dry",
+        "Chilly",
+        "Warm",
+        "Bright"
+      ],
       "correctAnswer": 1,
       "explanation": "'Chilly' means noticeably cold, similar in meaning to 'cold'.",
       "difficulty": "easy",
@@ -44,7 +64,12 @@
     {
       "id": "syn-5",
       "question": "Which word is a synonym for 'smart'?",
-      "options": ["Foolish", "Lazy", "Clever", "Weak"],
+      "options": [
+        "Lazy",
+        "Weak",
+        "Clever",
+        "Foolish"
+      ],
       "correctAnswer": 2,
       "explanation": "'Clever' means quick to understand, learn, and apply ideas; intelligent.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "syn-6",
       "question": "Which word is a synonym for 'brave'?",
-      "options": ["Timid", "Courageous", "Reckless", "Cautious"],
-      "correctAnswer": 1,
+      "options": [
+        "Cautious",
+        "Timid",
+        "Courageous",
+        "Reckless"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Courageous' means showing bravery and willingness to face danger.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "syn-7",
       "question": "Which word is a synonym for 'difficult'?",
-      "options": ["Simple", "Arduous", "Quick", "Pleasant"],
-      "correctAnswer": 1,
+      "options": [
+        "Quick",
+        "Simple",
+        "Arduous",
+        "Pleasant"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Arduous' means involving or requiring strenuous effort; difficult and tiring.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "syn-8",
       "question": "Which word is a synonym for 'generous'?",
-      "options": ["Stingy", "Hostile", "Liberal", "Reserved"],
-      "correctAnswer": 2,
+      "options": [
+        "Reserved",
+        "Stingy",
+        "Hostile",
+        "Liberal"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Liberal' can mean giving freely or in large amounts, similar to generous.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "syn-9",
       "question": "Which word is a synonym for 'calm'?",
-      "options": ["Agitated", "Serene", "Frantic", "Hasty"],
-      "correctAnswer": 1,
+      "options": [
+        "Agitated",
+        "Frantic",
+        "Hasty",
+        "Serene"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Serene' means calm, peaceful, and untroubled.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "syn-10",
       "question": "Which word is a synonym for 'old'?",
-      "options": ["Modern", "Ancient", "Recent", "Fresh"],
-      "correctAnswer": 1,
+      "options": [
+        "Fresh",
+        "Recent",
+        "Modern",
+        "Ancient"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Ancient' means very old, belonging to a period long ago.",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "syn-11",
       "question": "Which word is a synonym for 'meticulous'?",
-      "options": ["Careless", "Painstaking", "Hasty", "Indifferent"],
-      "correctAnswer": 1,
+      "options": [
+        "Indifferent",
+        "Careless",
+        "Hasty",
+        "Painstaking"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Painstaking' means done with great care and thoroughness, just like meticulous.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "syn-12",
       "question": "Which word is a synonym for 'ephemeral'?",
-      "options": ["Permanent", "Fleeting", "Solid", "Ancient"],
-      "correctAnswer": 1,
+      "options": [
+        "Ancient",
+        "Permanent",
+        "Fleeting",
+        "Solid"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Fleeting' means lasting for a very short time, the same as ephemeral.",
       "difficulty": "hard",
       "category": "language"
@@ -116,7 +176,12 @@
     {
       "id": "syn-13",
       "question": "Which word is a synonym for 'benevolent'?",
-      "options": ["Malicious", "Indifferent", "Charitable", "Envious"],
+      "options": [
+        "Envious",
+        "Malicious",
+        "Charitable",
+        "Indifferent"
+      ],
       "correctAnswer": 2,
       "explanation": "'Charitable' means generous in giving to those in need, similar to benevolent.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "syn-14",
       "question": "Which word is a synonym for 'eloquent'?",
-      "options": ["Inarticulate", "Articulate", "Silent", "Confused"],
+      "options": [
+        "Inarticulate",
+        "Articulate",
+        "Silent",
+        "Confused"
+      ],
       "correctAnswer": 1,
       "explanation": "'Articulate' means fluent and clear in speech, similar to eloquent.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "syn-15",
       "question": "Which word is a synonym for 'obstinate'?",
-      "options": ["Flexible", "Stubborn", "Agreeable", "Gentle"],
-      "correctAnswer": 1,
+      "options": [
+        "Flexible",
+        "Gentle",
+        "Agreeable",
+        "Stubborn"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Stubborn' means firmly refusing to change one's mind, the same as obstinate.",
       "difficulty": "hard",
       "category": "language"

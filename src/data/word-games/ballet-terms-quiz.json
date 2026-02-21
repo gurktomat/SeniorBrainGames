@@ -1,0 +1,219 @@
+{
+  "id": "ballet-terms-quiz",
+  "title": "Ballet Terms Quiz",
+  "description": "Test your knowledge of the elegant French terminology used in ballet!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ballet-terms-quiz-1",
+      "question": "In ballet, what is a 'plié'?",
+      "options": [
+        "A leap across the stage",
+        "A jump into the air",
+        "A bending of the knees",
+        "A spin on one foot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A plié is a fundamental ballet movement involving bending the knees while maintaining a straight back. The word comes from the French 'plier,' meaning to bend.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-2",
+      "question": "What is a 'pirouette' in ballet?",
+      "options": [
+        "A high kick",
+        "A graceful bow",
+        "A controlled spin on one foot",
+        "A series of small steps"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pirouette is a controlled turn on one foot, typically on the ball of the foot or on pointe, using spotting technique to maintain balance and orientation.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-3",
+      "question": "In ballet, what does 'en pointe' mean?",
+      "options": [
+        "Pointing at the audience",
+        "Dancing on the tips of the toes in special shoes",
+        "Standing at the point of the stage",
+        "Dancing in a pointed direction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En pointe means dancing on the very tips of the toes using specially reinforced pointe shoes, a technique that requires years of training and strong foot and ankle muscles.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-4",
+      "question": "What is an 'arabesque' in ballet?",
+      "options": [
+        "A position where the dancer stands on one leg with the other extended behind",
+        "A deep curtsy",
+        "A costume decoration",
+        "A quick series of turns"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An arabesque is a position in which the dancer stands on one leg with the other leg extended straight behind the body, often with arms extended for line and balance.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-5",
+      "question": "In ballet, what is a 'grand jeté'?",
+      "options": [
+        "A large water fountain on stage",
+        "A large stage prop",
+        "A grand entrance by the lead dancer",
+        "A big, spectacular leap through the air with legs extended in a split"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A grand jeté is a dramatic leap in which the dancer springs from one foot, extends both legs in a split position in the air, and lands on the other foot.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-6",
+      "question": "What does 'pas de deux' mean in ballet?",
+      "options": [
+        "A dance for two people",
+        "A second attempt at a step",
+        "Two steps backward",
+        "A step to the left"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pas de deux literally means 'step of two' in French and refers to a dance for two performers, typically a ballerina and a male partner, often the centerpiece of a ballet.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-7",
+      "question": "In ballet, what is a 'barre'?",
+      "options": [
+        "A type of ballet shoe",
+        "A horizontal handrail used for balance during exercises",
+        "A musical term for tempo",
+        "A bar of chocolate given as a reward"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The barre is a horizontal handrail, usually mounted on the wall of a dance studio, used by dancers for balance and support during warm-up exercises.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-8",
+      "question": "What is a 'relevé' in ballet?",
+      "options": [
+        "Rising from a flat foot to the ball of the foot or onto pointe",
+        "A reverent bow",
+        "A release of the arms",
+        "A relaxation pose"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A relevé is a movement in which the dancer rises from a flat foot position to standing on the balls of the feet (demi-pointe) or on the tips of the toes (full pointe).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-9",
+      "question": "In ballet, what does 'tendu' mean?",
+      "options": [
+        "Tender or soft",
+        "Turned or twisted",
+        "Tense or stretched",
+        "Tempo or speed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tendu means 'stretched' in French. A battement tendu involves sliding the foot along the floor until only the tip of the toe remains in contact, fully stretching the leg and foot.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-10",
+      "question": "What is a 'tutu' in ballet?",
+      "options": [
+        "A musical instrument in the orchestra pit",
+        "A warm-up exercise",
+        "A type of ballet step",
+        "A skirt worn by a ballerina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tutu is the iconic skirt worn by ballerinas, which can be a short, stiff 'classical' tutu or a longer, flowing 'romantic' tutu reaching mid-calf.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-11",
+      "question": "In ballet, what is a 'chassé'?",
+      "options": [
+        "A chase scene in the story",
+        "A quick change of costume",
+        "A gliding step where one foot chases and displaces the other",
+        "A bow to the conductor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A chassé (from the French 'to chase') is a sliding step where one foot chases the other, displacing it from its position, commonly used as a traveling step.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-12",
+      "question": "What does 'adagio' refer to in ballet?",
+      "options": [
+        "Slow, controlled movements that emphasize balance and extension",
+        "The opening act of a ballet",
+        "Fast, lively dancing",
+        "Jumping and turning combinations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adagio in ballet refers to slow, sustained movements that showcase a dancer's control, balance, line, and grace, often featuring leg extensions and fluid port de bras.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-13",
+      "question": "In ballet, what are the five basic 'positions' referring to?",
+      "options": [
+        "Five specific placements of the feet",
+        "Five stage locations",
+        "Five types of jumps",
+        "Five levels of difficulty"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The five basic positions of ballet refer to five fundamental foot placements that form the foundation of all ballet technique, established in the 17th century.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-14",
+      "question": "What is a 'fouetté' in ballet?",
+      "options": [
+        "A knee bend with arms overhead",
+        "A type of whipping turn where the working leg extends and retracts",
+        "A jump from two feet to one foot",
+        "A slow promenade around the stage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fouetté (meaning 'whipped' in French) is a turning step where the dancer whips the working leg around to generate momentum, often performed in a series of continuous turns.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "ballet-terms-quiz-15",
+      "question": "In ballet, what does 'corps de ballet' mean?",
+      "options": [
+        "The physical fitness requirements for dancers",
+        "The group of dancers who perform together as an ensemble",
+        "The body of the dancer",
+        "The ballet master's notes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The corps de ballet ('body of the ballet') is the ensemble of dancers who perform as a group, providing the backdrop and support for the principal and soloist dancers.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

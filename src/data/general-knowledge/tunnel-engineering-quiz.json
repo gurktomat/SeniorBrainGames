@@ -1,0 +1,219 @@
+{
+  "id": "tunnel-engineering-quiz",
+  "title": "Tunnel Engineering",
+  "description": "Explore the fascinating world of tunnel construction and famous underground passages!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tunnel-engineering-quiz-1",
+      "question": "The Channel Tunnel connecting England and France runs under which body of water?",
+      "options": [
+        "North Sea",
+        "English Channel",
+        "Irish Sea",
+        "Bay of Biscay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Channel Tunnel (Chunnel) runs beneath the English Channel, connecting Folkestone, England to Coquelles, France. Completed in 1994, it is 50.5 km long with 37.9 km underwater.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-2",
+      "question": "What is the name of the massive tunnel boring machine (TBM) technology commonly used in modern tunnel construction?",
+      "options": [
+        "Jackhammer system",
+        "Cut and cover",
+        "Shield tunneling",
+        "Drill and blast"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shield tunneling, invented by Marc Isambard Brunel in the 1820s, uses a protective shield that advances through the ground while workers excavate and install lining segments behind it. Modern TBMs evolved from this concept.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-3",
+      "question": "The Gotthard Base Tunnel in Switzerland, the world's longest railway tunnel, is approximately how long?",
+      "options": [
+        "67 km",
+        "47 km",
+        "57 km",
+        "35 km"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Gotthard Base Tunnel is 57.1 km (35.5 miles) long, making it the world's longest and deepest railway tunnel. It runs through the Swiss Alps and opened in 2016 after 17 years of construction.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-4",
+      "question": "The Seikan Tunnel in Japan connects which two islands?",
+      "options": [
+        "Honshu and Hokkaido",
+        "Honshu and Shikoku",
+        "Kyushu and Honshu",
+        "Hokkaido and Sakhalin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Seikan Tunnel connects Honshu and Hokkaido beneath the Tsugaru Strait. At 53.85 km, it was the world's longest tunnel when completed in 1988 until the Gotthard Base Tunnel surpassed it.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-5",
+      "question": "Which tunnel construction method involves digging a trench from the surface, building the tunnel, and then covering it back up?",
+      "options": [
+        "Cut and cover",
+        "New Austrian method",
+        "Immersed tube",
+        "Bored tunneling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cut and cover is one of the simplest tunnel construction methods. A trench is excavated from the surface, the tunnel structure is built within, and then the trench is backfilled. It was used extensively for early subway systems.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-6",
+      "question": "The Mont Blanc Tunnel connects which two countries through the Alps?",
+      "options": [
+        "France and Switzerland",
+        "Switzerland and Italy",
+        "Italy and Austria",
+        "France and Italy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Mont Blanc Tunnel connects Chamonix, France, to Courmayeur, Italy, passing beneath Mont Blanc. Opened in 1965, it is 11.6 km long and is a vital road link between the two countries.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-7",
+      "question": "Who is credited with building the first underwater tunnel, the Thames Tunnel, completed in 1843?",
+      "options": [
+        "Marc Isambard Brunel",
+        "Isambard Kingdom Brunel",
+        "Thomas Telford",
+        "Robert Stephenson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marc Isambard Brunel (father of Isambard Kingdom Brunel) engineered the Thames Tunnel in London, the first tunnel successfully constructed beneath a navigable river. It used his patented tunneling shield technology.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-8",
+      "question": "The Laerdal Tunnel in Norway is the world's longest road tunnel. Approximately how long is it?",
+      "options": [
+        "14.5 km",
+        "29.5 km",
+        "19.5 km",
+        "24.5 km"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Laerdal Tunnel in Norway is 24.5 km (15.2 miles) long, making it the world's longest road tunnel. It opened in 2000 and features three large caverns with special lighting to reduce driver fatigue.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-9",
+      "question": "What major engineering challenge is always a concern when tunneling below the water table?",
+      "options": [
+        "Gas buildup",
+        "Groundwater ingress",
+        "Vibration damage",
+        "Air pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Groundwater ingress (water seeping into the tunnel) is a constant challenge when tunneling below the water table. Engineers use waterproofing membranes, grouting, and pressurized TBMs to manage water inflow.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-10",
+      "question": "The Simplon Tunnel, one of the longest railway tunnels in the world, passes through which mountain range?",
+      "options": [
+        "Pyrenees",
+        "Apennines",
+        "Carpathians",
+        "Alps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Simplon Tunnel passes through the Alps between Brig, Switzerland, and Iselle, Italy. When completed in 1906, its 19.8 km length made it the longest tunnel in the world at the time.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-11",
+      "question": "What is the 'New Austrian Tunneling Method' (NATM) primarily based on?",
+      "options": [
+        "Monitoring ground deformation to optimize support",
+        "Flooding the tunnel with concrete",
+        "Pre-cutting the entire route",
+        "Using explosives only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "NATM, developed in the 1960s, relies on monitoring the deformation of the surrounding rock and soil to determine the optimal timing and amount of support needed, allowing the ground itself to become part of the support structure.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-12",
+      "question": "The Big Dig in Boston, one of the most expensive highway projects in U.S. history, primarily involved what type of construction?",
+      "options": [
+        "Tunnel construction",
+        "Bridge building",
+        "Elevated highway",
+        "Road widening"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Big Dig (officially the Central Artery/Tunnel Project) rerouted Boston's central highway into a 3.5-mile tunnel. Completed in 2007, it cost approximately $14.6 billion, making it one of the most expensive infrastructure projects in U.S. history.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-13",
+      "question": "Which ancient civilization constructed the Tunnel of Eupalinos on the island of Samos around 530 BC?",
+      "options": [
+        "Greeks",
+        "Romans",
+        "Egyptians",
+        "Persians"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Tunnel of Eupalinos was built by the ancient Greeks on Samos around 530 BC. It is a 1,036-meter aqueduct tunnel and is remarkable because it was excavated from both ends simultaneously, meeting in the middle.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-14",
+      "question": "What is the primary purpose of ventilation shafts in long road tunnels?",
+      "options": [
+        "Removing vehicle exhaust fumes and providing fresh air",
+        "Emergency evacuation",
+        "Allowing natural light in",
+        "Drainage of water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ventilation shafts in road tunnels are essential for removing dangerous vehicle exhaust fumes including carbon monoxide and nitrogen dioxide, and for providing fresh air to maintain safe conditions for drivers.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "tunnel-engineering-quiz-15",
+      "question": "The Brenner Base Tunnel, currently under construction, will connect which two countries?",
+      "options": [
+        "France and Italy",
+        "Austria and Italy",
+        "Switzerland and Germany",
+        "Germany and Austria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Brenner Base Tunnel will connect Innsbruck, Austria, to Fortezza, Italy, beneath the Brenner Pass in the Alps. At 55 km, it will be one of the world's longest railway tunnels when completed.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

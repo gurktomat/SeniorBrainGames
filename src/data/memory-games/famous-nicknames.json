@@ -8,19 +8,19 @@
       "id": "famous-nicknames-1",
       "question": "Which U.S. President was known as 'Honest Abe'?",
       "options": [
-        "George Washington",
         "Thomas Jefferson",
-        "Abraham Lincoln",
-        "Theodore Roosevelt"
+        "George Washington",
+        "Theodore Roosevelt",
+        "Abraham Lincoln"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-nicknames-2",
       "question": "Which city is known as 'The Big Apple'?",
       "options": [
-        "Los Angeles",
         "Chicago",
+        "Los Angeles",
         "New York City",
         "San Francisco"
       ],
@@ -30,21 +30,21 @@
       "id": "famous-nicknames-3",
       "question": "Which boxer was known as 'The Greatest'?",
       "options": [
-        "Joe Louis",
         "Mike Tyson",
+        "Muhammad Ali",
         "Sugar Ray Robinson",
-        "Muhammad Ali"
+        "Joe Louis"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "famous-nicknames-4",
       "question": "Which city is called 'The Windy City'?",
       "options": [
-        "Boston",
+        "Minneapolis",
         "Chicago",
         "Detroit",
-        "Minneapolis"
+        "Boston"
       ],
       "correctAnswer": 1
     },
@@ -52,20 +52,20 @@
       "id": "famous-nicknames-5",
       "question": "Who was known as 'The Iron Lady'?",
       "options": [
-        "Indira Gandhi",
         "Angela Merkel",
-        "Margaret Thatcher",
-        "Golda Meir"
+        "Indira Gandhi",
+        "Golda Meir",
+        "Margaret Thatcher"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-nicknames-6",
       "question": "Which baseball player was called 'The Sultan of Swat'?",
       "options": [
+        "Joe DiMaggio",
         "Lou Gehrig",
         "Ty Cobb",
-        "Joe DiMaggio",
         "Babe Ruth"
       ],
       "correctAnswer": 3
@@ -74,10 +74,10 @@
       "id": "famous-nicknames-7",
       "question": "Which country is called 'The Land of the Rising Sun'?",
       "options": [
-        "China",
         "Thailand",
+        "South Korea",
         "Japan",
-        "South Korea"
+        "China"
       ],
       "correctAnswer": 2
     },
@@ -85,12 +85,12 @@
       "id": "famous-nicknames-8",
       "question": "Who was known as 'The King of Rock and Roll'?",
       "options": [
-        "Chuck Berry",
-        "Little Richard",
         "Elvis Presley",
-        "Jerry Lee Lewis"
+        "Jerry Lee Lewis",
+        "Little Richard",
+        "Chuck Berry"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-nicknames-9",
@@ -98,29 +98,29 @@
       "options": [
         "California",
         "Arizona",
-        "Florida",
-        "Hawaii"
+        "Hawaii",
+        "Florida"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-nicknames-10",
-      "question": "Who was nicknamed 'The Maid of Orl\u00e9ans'?",
+      "question": "Who was nicknamed 'The Maid of Orléans'?",
       "options": [
-        "Marie Antoinette",
-        "Catherine de Medici",
         "Joan of Arc",
-        "Eleanor of Aquitaine"
+        "Marie Antoinette",
+        "Eleanor of Aquitaine",
+        "Catherine de Medici"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-nicknames-11",
       "question": "Which hockey player was known as 'The Great One'?",
       "options": [
+        "Gordie Howe",
         "Bobby Orr",
         "Mario Lemieux",
-        "Gordie Howe",
         "Wayne Gretzky"
       ],
       "correctAnswer": 3
@@ -129,45 +129,45 @@
       "id": "famous-nicknames-12",
       "question": "Which city is known as 'The Eternal City'?",
       "options": [
-        "Athens",
-        "Rome",
         "Jerusalem",
-        "Cairo"
+        "Cairo",
+        "Rome",
+        "Athens"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-nicknames-13",
       "question": "Who was known as 'Old Blue Eyes'?",
       "options": [
-        "Dean Martin",
-        "Bing Crosby",
         "Frank Sinatra",
-        "Tony Bennett"
+        "Tony Bennett",
+        "Bing Crosby",
+        "Dean Martin"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-nicknames-14",
       "question": "Which historical leader was called 'The Little Corporal'?",
       "options": [
-        "Julius Caesar",
         "Napoleon Bonaparte",
-        "Alexander the Great",
-        "Frederick the Great"
+        "Frederick the Great",
+        "Julius Caesar",
+        "Alexander the Great"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-nicknames-15",
       "question": "Which U.S. city is called 'The City of Brotherly Love'?",
       "options": [
-        "Boston",
-        "Baltimore",
         "Philadelphia",
-        "Pittsburgh"
+        "Pittsburgh",
+        "Boston",
+        "Baltimore"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

@@ -7,92 +7,167 @@
     {
       "id": "world-lakes-1",
       "question": "Which lake in Russia is the deepest and oldest freshwater lake in the world?",
-      "options": ["Lake Ladoga", "Lake Baikal", "Caspian Sea", "Lake Onega"],
+      "options": [
+        "Lake Ladoga",
+        "Lake Baikal",
+        "Caspian Sea",
+        "Lake Onega"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-lakes-2",
       "question": "Lake Superior, the largest Great Lake by surface area, borders how many U.S. states?",
-      "options": ["Two", "Three", "Four", "Five"],
-      "correctAnswer": 1
+      "options": [
+        "Four",
+        "Five",
+        "Three",
+        "Two"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-lakes-3",
       "question": "Lake Titicaca, one of the highest navigable lakes in the world, straddles the border of which two countries?",
-      "options": ["Ecuador and Colombia", "Peru and Bolivia", "Chile and Argentina", "Brazil and Paraguay"],
-      "correctAnswer": 1
+      "options": [
+        "Ecuador and Colombia",
+        "Brazil and Paraguay",
+        "Chile and Argentina",
+        "Peru and Bolivia"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-lakes-4",
       "question": "Which African lake is the second-largest freshwater lake in the world by surface area?",
-      "options": ["Lake Tanganyika", "Lake Malawi", "Lake Victoria", "Lake Chad"],
+      "options": [
+        "Lake Chad",
+        "Lake Malawi",
+        "Lake Victoria",
+        "Lake Tanganyika"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-lakes-5",
       "question": "The Dead Sea, one of the saltiest bodies of water on Earth, is bordered by Jordan, Israel, and which other territory?",
-      "options": ["Lebanon", "Syria", "Palestine (West Bank)", "Egypt"],
+      "options": [
+        "Egypt",
+        "Lebanon",
+        "Palestine (West Bank)",
+        "Syria"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-lakes-6",
       "question": "Which Great Lake is the only one located entirely within the United States?",
-      "options": ["Lake Erie", "Lake Huron", "Lake Michigan", "Lake Ontario"],
-      "correctAnswer": 2
+      "options": [
+        "Lake Huron",
+        "Lake Erie",
+        "Lake Ontario",
+        "Lake Michigan"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-lakes-7",
       "question": "The Caspian Sea is technically classified as the world's largest what?",
-      "options": ["Ocean", "Inland sea", "Lake", "Reservoir"],
-      "correctAnswer": 2
+      "options": [
+        "Reservoir",
+        "Inland sea",
+        "Ocean",
+        "Lake"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-lakes-8",
       "question": "Loch Ness, famous for its mythical monster, is located in which country?",
-      "options": ["Ireland", "Wales", "Scotland", "England"],
-      "correctAnswer": 2
+      "options": [
+        "England",
+        "Scotland",
+        "Ireland",
+        "Wales"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-lakes-9",
       "question": "Lake Como, a popular destination for the wealthy and famous, is located in which European country?",
-      "options": ["Switzerland", "France", "Austria", "Italy"],
-      "correctAnswer": 3
+      "options": [
+        "France",
+        "Austria",
+        "Italy",
+        "Switzerland"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-lakes-10",
       "question": "The Great Salt Lake is located in which U.S. state?",
-      "options": ["Nevada", "Utah", "Colorado", "Arizona"],
-      "correctAnswer": 1
+      "options": [
+        "Colorado",
+        "Nevada",
+        "Arizona",
+        "Utah"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-lakes-11",
       "question": "Lake Tanganyika, the world's longest freshwater lake, is located on which continent?",
-      "options": ["South America", "Asia", "Africa", "North America"],
-      "correctAnswer": 2
+      "options": [
+        "Asia",
+        "Africa",
+        "North America",
+        "South America"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-lakes-12",
       "question": "Which lake in Oregon was formed by the collapse of a volcano and is known for its remarkably deep, blue water?",
-      "options": ["Lake Tahoe", "Crater Lake", "Mono Lake", "Lake Chelan"],
-      "correctAnswer": 1
+      "options": [
+        "Crater Lake",
+        "Mono Lake",
+        "Lake Chelan",
+        "Lake Tahoe"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-lakes-13",
       "question": "Lake Geneva sits on the border between France and which other country?",
-      "options": ["Germany", "Austria", "Italy", "Switzerland"],
-      "correctAnswer": 3
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Italy",
+        "Germany"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-lakes-14",
       "question": "The Aral Sea, once one of the world's largest lakes, has dramatically shrunk due to what human activity?",
-      "options": ["Mining operations", "Soviet irrigation projects", "Oil drilling", "Dam construction"],
-      "correctAnswer": 1
+      "options": [
+        "Dam construction",
+        "Oil drilling",
+        "Soviet irrigation projects",
+        "Mining operations"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-lakes-15",
       "question": "Lake Chad, which has shrunk by approximately 90% since the 1960s, is located in which part of Africa?",
-      "options": ["East Africa", "Southern Africa", "West-Central Africa", "North Africa"],
-      "correctAnswer": 2
+      "options": [
+        "North Africa",
+        "West-Central Africa",
+        "Southern Africa",
+        "East Africa"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

@@ -7,91 +7,166 @@
     {
       "id": "famous-bridges-recall-1",
       "question": "Which iconic orange-red suspension bridge spans the entrance to San Francisco Bay and was the longest suspension bridge in the world when it opened in 1937?",
-      "options": ["Bay Bridge", "Brooklyn Bridge", "Golden Gate Bridge", "Mackinac Bridge"],
-      "correctAnswer": 2
+      "options": [
+        "Golden Gate Bridge",
+        "Brooklyn Bridge",
+        "Bay Bridge",
+        "Mackinac Bridge"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-bridges-recall-2",
       "question": "Which historic bridge in London features two Gothic-style towers connected by walkways and a drawbridge that opens to allow tall ships to pass through?",
-      "options": ["London Bridge", "Westminster Bridge", "Tower Bridge", "Millennium Bridge"],
+      "options": [
+        "Westminster Bridge",
+        "London Bridge",
+        "Tower Bridge",
+        "Millennium Bridge"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-bridges-recall-3",
       "question": "Which medieval stone bridge in Prague is lined with 30 Baroque statues of saints and has connected the Old Town to the castle district since 1402?",
-      "options": ["Rialto Bridge", "Ponte Vecchio", "Charles Bridge", "Chain Bridge"],
-      "correctAnswer": 2
+      "options": [
+        "Chain Bridge",
+        "Rialto Bridge",
+        "Ponte Vecchio",
+        "Charles Bridge"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-bridges-recall-4",
       "question": "Which New York City bridge, completed in 1883, was the first steel-wire suspension bridge and connects Manhattan to Brooklyn across the East River?",
-      "options": ["George Washington Bridge", "Verrazzano-Narrows Bridge", "Manhattan Bridge", "Brooklyn Bridge"],
-      "correctAnswer": 3
+      "options": [
+        "Brooklyn Bridge",
+        "Verrazzano-Narrows Bridge",
+        "Manhattan Bridge",
+        "George Washington Bridge"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-bridges-recall-5",
       "question": "Which famous covered bridge in Florence, Italy, is lined with jewelry shops and is the only bridge in the city that survived World War II bombings?",
-      "options": ["Ponte Santa Trinita", "Ponte Vecchio", "Ponte alle Grazie", "Rialto Bridge"],
-      "correctAnswer": 1
+      "options": [
+        "Rialto Bridge",
+        "Ponte alle Grazie",
+        "Ponte Santa Trinita",
+        "Ponte Vecchio"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-bridges-recall-6",
       "question": "Which Australian bridge, nicknamed 'The Coathanger' due to its arch-based design, is one of Sydney's most photographed landmarks alongside the Opera House?",
-      "options": ["Anzac Bridge", "Story Bridge", "Sydney Harbour Bridge", "West Gate Bridge"],
+      "options": [
+        "Story Bridge",
+        "Anzac Bridge",
+        "Sydney Harbour Bridge",
+        "West Gate Bridge"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-bridges-recall-7",
       "question": "Which bridge connecting Denmark and Sweden is a combined road and rail link that includes a tunnel, an artificial island, and a cable-stayed bridge?",
-      "options": ["Great Belt Bridge", "Storebælt Bridge", "Øresund Bridge", "Fehmarn Belt Bridge"],
-      "correctAnswer": 2
+      "options": [
+        "Øresund Bridge",
+        "Great Belt Bridge",
+        "Storebælt Bridge",
+        "Fehmarn Belt Bridge"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-bridges-recall-8",
       "question": "Which ancient Roman aqueduct bridge in southern France stands nearly 50 meters high with three tiers of arches and is a UNESCO World Heritage Site?",
-      "options": ["Alcántara Bridge", "Pont du Gard", "Segovia Aqueduct", "Ponte di Augusto"],
-      "correctAnswer": 1
+      "options": [
+        "Pont du Gard",
+        "Ponte di Augusto",
+        "Segovia Aqueduct",
+        "Alcántara Bridge"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-bridges-recall-9",
       "question": "Which white marble bridge in Venice, Italy, was completed in 1591, spans the Grand Canal, and is known for its single elegant arch lined with shops?",
-      "options": ["Bridge of Sighs", "Rialto Bridge", "Ponte dell'Accademia", "Ponte degli Scalzi"],
+      "options": [
+        "Ponte degli Scalzi",
+        "Rialto Bridge",
+        "Ponte dell'Accademia",
+        "Bridge of Sighs"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-bridges-recall-10",
       "question": "Which bridge in Venice connects the Doge's Palace to the prison, and is named for the sighs of prisoners who crossed it on their way to their cells?",
-      "options": ["Rialto Bridge", "Ponte Vecchio", "Bridge of Sighs", "Ponte dell'Accademia"],
-      "correctAnswer": 2
+      "options": [
+        "Bridge of Sighs",
+        "Rialto Bridge",
+        "Ponte dell'Accademia",
+        "Ponte Vecchio"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-bridges-recall-11",
       "question": "Which cable-stayed bridge in France is the tallest bridge in the world, with one mast reaching 343 meters — taller than the Eiffel Tower?",
-      "options": ["Pont de Normandie", "Millau Viaduct", "Pont du Gard", "Viaduc de Garabit"],
-      "correctAnswer": 1
+      "options": [
+        "Pont du Gard",
+        "Pont de Normandie",
+        "Viaduc de Garabit",
+        "Millau Viaduct"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-bridges-recall-12",
       "question": "Which Japanese bridge on the island of Honshu connects the cities of Kobe and Awaji and held the record as the world's longest suspension bridge from 1998 to 2022?",
-      "options": ["Rainbow Bridge", "Akashi Kaikyo Bridge", "Seto Ohashi Bridge", "Tatara Bridge"],
-      "correctAnswer": 1
+      "options": [
+        "Rainbow Bridge",
+        "Tatara Bridge",
+        "Akashi Kaikyo Bridge",
+        "Seto Ohashi Bridge"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-bridges-recall-13",
       "question": "Which 19th-century chain bridge was the first permanent bridge across the Danube in Budapest, connecting the Buda and Pest sides of the city?",
-      "options": ["Margaret Bridge", "Liberty Bridge", "Széchenyi Chain Bridge", "Elizabeth Bridge"],
+      "options": [
+        "Margaret Bridge",
+        "Elizabeth Bridge",
+        "Széchenyi Chain Bridge",
+        "Liberty Bridge"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-bridges-recall-14",
       "question": "Which pedestrian bridge in London famously wobbled when it opened in 2000, earning the nickname 'Wobbly Bridge,' before engineers added dampers to stabilize it?",
-      "options": ["Tower Bridge", "Waterloo Bridge", "London Millennium Footbridge", "Hungerford Bridge"],
-      "correctAnswer": 2
+      "options": [
+        "Hungerford Bridge",
+        "Tower Bridge",
+        "Waterloo Bridge",
+        "London Millennium Footbridge"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-bridges-recall-15",
       "question": "Which massive bridge-tunnel system in China crosses the Pearl River Delta, connecting Hong Kong, Macau, and Zhuhai, and is the longest sea crossing in the world?",
-      "options": ["Jiaozhou Bay Bridge", "Hong Kong-Zhuhai-Macau Bridge", "Hangzhou Bay Bridge", "Donghai Bridge"],
+      "options": [
+        "Donghai Bridge",
+        "Hong Kong-Zhuhai-Macau Bridge",
+        "Hangzhou Bay Bridge",
+        "Jiaozhou Bay Bridge"
+      ],
       "correctAnswer": 1
     }
   ]

@@ -1,0 +1,219 @@
+{
+  "id": "famous-novels-quiz",
+  "title": "Famous Novels",
+  "description": "How well do you know the world's most celebrated novels and their authors?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-novels-quiz-1",
+      "question": "Who wrote 'Pride and Prejudice,' published in 1813?",
+      "options": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "George Eliot",
+        "Jane Austen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jane Austen published 'Pride and Prejudice' in 1813. The novel follows Elizabeth Bennet and Mr. Darcy and remains one of the most beloved works in English literature.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-2",
+      "question": "What is the setting of Herman Melville's 'Moby-Dick'?",
+      "options": [
+        "The California gold rush",
+        "A New England farm",
+        "The American frontier",
+        "The whaling industry at sea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Moby-Dick' (1851) follows Captain Ahab's obsessive quest to hunt a great white whale. The novel draws heavily on Melville's own experience aboard whaling ships.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-3",
+      "question": "Which Russian author wrote 'War and Peace'?",
+      "options": [
+        "Anton Chekhov",
+        "Ivan Turgenev",
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Leo Tolstoy published 'War and Peace' between 1865 and 1869. The epic novel follows several aristocratic Russian families during the Napoleonic Wars.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-4",
+      "question": "In Charles Dickens' 'A Tale of Two Cities,' which two cities are featured?",
+      "options": [
+        "London and Dublin",
+        "London and Rome",
+        "Paris and Vienna",
+        "London and Paris"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'A Tale of Two Cities' (1859) is set in London and Paris before and during the French Revolution. Its opening line, 'It was the best of times, it was the worst of times,' is among the most famous in literature.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-5",
+      "question": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "Jorge Luis Borges",
+        "Gabriel García Márquez",
+        "Pablo Neruda",
+        "Isabel Allende"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gabriel García Márquez published this landmark of magical realism in 1967. The novel chronicles seven generations of the Buendía family in the fictional town of Macondo.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-6",
+      "question": "Which novel by Harper Lee won the Pulitzer Prize in 1961?",
+      "options": [
+        "To Kill a Mockingbird",
+        "Gone with the Wind",
+        "The Color Purple",
+        "The Grapes of Wrath"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'To Kill a Mockingbird' addresses racial injustice in the American South through the eyes of young Scout Finch. It has sold over 40 million copies worldwide.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-7",
+      "question": "Who wrote 'The Great Gatsby,' set in the Jazz Age of the 1920s?",
+      "options": [
+        "William Faulkner",
+        "John Steinbeck",
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald"
+      ],
+      "correctAnswer": 3,
+      "explanation": "F. Scott Fitzgerald published 'The Great Gatsby' in 1925. The novel explores themes of wealth, class, and the American Dream through narrator Nick Carraway and the mysterious Jay Gatsby.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-8",
+      "question": "Which Charlotte Brontë novel features the governess Jane and her employer Mr. Rochester?",
+      "options": [
+        "Jane Eyre",
+        "Villette",
+        "Wuthering Heights",
+        "Agnes Grey"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Jane Eyre' (1847) is a groundbreaking novel of a woman's quest for independence and love. Charlotte Brontë originally published it under the pen name Currer Bell.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-9",
+      "question": "Who wrote 'Don Quixote,' often called the first modern novel?",
+      "options": [
+        "Pedro Calderón de la Barca",
+        "Miguel de Cervantes",
+        "Federico García Lorca",
+        "Lope de Vega"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Miguel de Cervantes published 'Don Quixote' in two parts (1605 and 1615). The tale of a deluded knight and his squire Sancho Panza is considered a founding work of Western literature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-10",
+      "question": "Which novel by Fyodor Dostoevsky explores the psychology of a murderer named Raskolnikov?",
+      "options": [
+        "Crime and Punishment",
+        "Notes from Underground",
+        "The Idiot",
+        "The Brothers Karamazov"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Crime and Punishment' (1866) follows the impoverished student Raskolnikov who murders a pawnbroker and struggles with guilt. It is one of the greatest psychological novels ever written.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-11",
+      "question": "Which 1847 novel by Emily Brontë is set on the Yorkshire moors?",
+      "options": [
+        "Jane Eyre",
+        "Middlemarch",
+        "Tess of the d'Urbervilles",
+        "Wuthering Heights"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Wuthering Heights' tells the passionate and destructive love story of Heathcliff and Catherine Earnshaw. It was Emily Brontë's only novel, published under the pen name Ellis Bell.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-12",
+      "question": "Who wrote 'The Old Man and the Sea,' a novella about a Cuban fisherman?",
+      "options": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "Jack London",
+        "Mark Twain"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ernest Hemingway published 'The Old Man and the Sea' in 1952. The story of Santiago's epic battle with a giant marlin helped win him the Nobel Prize in Literature in 1954.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-13",
+      "question": "Which Victor Hugo novel is set during the June Rebellion in Paris in 1832?",
+      "options": [
+        "Ninety-Three",
+        "Les Misérables",
+        "The Hunchback of Notre-Dame",
+        "The Man Who Laughs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Les Misérables' (1862) follows ex-convict Jean Valjean through decades of upheaval in France. Hugo's epic novel examines justice, poverty, and redemption.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-14",
+      "question": "Who wrote '1984,' a dystopian novel about totalitarian surveillance?",
+      "options": [
+        "George Orwell",
+        "Ray Bradbury",
+        "H.G. Wells",
+        "Aldous Huxley"
+      ],
+      "correctAnswer": 0,
+      "explanation": "George Orwell published '1984' in 1949. The novel introduced concepts like Big Brother, Newspeak, and thoughtcrime that have become part of everyday language.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-novels-quiz-15",
+      "question": "Which novel by Margaret Mitchell, set during the Civil War, won the 1937 Pulitzer Prize?",
+      "options": [
+        "Gone with the Wind",
+        "The Color Purple",
+        "Little Women",
+        "Beloved"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Gone with the Wind' (1936) follows Scarlett O'Hara through the Civil War and Reconstruction. Margaret Mitchell's only published novel sold millions of copies and was adapted into a legendary 1939 film.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "grains-cereals-quiz",
+  "title": "Grains & Cereals",
+  "description": "How well do you know the grains and cereals that feed the world?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "grains-cereals-quiz-1",
+      "question": "What is the most widely consumed grain in the world?",
+      "options": [
+        "Wheat",
+        "Corn",
+        "Barley",
+        "Rice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rice is the most widely consumed staple grain in the world, serving as the primary food source for more than half of the global population, particularly in Asia.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-2",
+      "question": "Which grain is used to make traditional Italian pasta?",
+      "options": [
+        "Durum wheat",
+        "Barley",
+        "Rye",
+        "Rice"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Traditional Italian pasta is made from durum wheat semolina. Durum wheat is the hardest wheat variety and produces pasta with a firm texture when cooked.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-3",
+      "question": "What grain is the primary ingredient in beer brewing?",
+      "options": [
+        "Wheat",
+        "Oats",
+        "Barley",
+        "Rice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Barley is the primary grain used in beer brewing. Malted barley provides the sugars that yeast ferments into alcohol and contributes to beer's flavor and color.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-4",
+      "question": "Which ancient grain was a staple of the Inca civilization in South America?",
+      "options": [
+        "Barley",
+        "Wheat",
+        "Quinoa",
+        "Rye"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quinoa was sacred to the Incas, who called it 'chisaya mama' or 'mother of all grains.' It is technically a seed but is prepared and eaten like a grain.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-5",
+      "question": "What is gluten?",
+      "options": [
+        "A type of starch",
+        "A protein found in wheat, barley, and rye",
+        "A vitamin in grain",
+        "A grain preservative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gluten is a group of proteins found in wheat, barley, and rye. It gives bread its chewy texture and helps dough rise and maintain its shape.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-6",
+      "question": "Corn (maize) was first domesticated in which region?",
+      "options": [
+        "South America",
+        "North America",
+        "Africa",
+        "Mesoamerica (Mexico)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Corn was first domesticated in Mesoamerica, in what is now southern Mexico, approximately 9,000 years ago from a wild grass called teosinte.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-7",
+      "question": "Which grain is the main ingredient in Scottish porridge?",
+      "options": [
+        "Barley",
+        "Oats",
+        "Millet",
+        "Wheat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oats are the traditional grain used in Scottish porridge. Oats are particularly nutritious, high in soluble fiber (beta-glucan), and can help lower cholesterol.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-8",
+      "question": "What grain is used to make Japanese sake?",
+      "options": [
+        "Barley",
+        "Rice",
+        "Millet",
+        "Wheat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sake is a Japanese alcoholic beverage made from polished rice. The rice is fermented using a special mold called koji, which converts starches to sugars.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-9",
+      "question": "Which tiny grain is the staple crop of Ethiopia and is used to make injera bread?",
+      "options": [
+        "Sorghum",
+        "Millet",
+        "Fonio",
+        "Teff"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Teff is an ancient grain native to Ethiopia. Despite being one of the smallest grains in the world, it is packed with nutrition and is used to make the spongy flatbread injera.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-10",
+      "question": "What part of the grain kernel contains the most fiber?",
+      "options": [
+        "Endosperm",
+        "Hull",
+        "Germ",
+        "Bran"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The bran is the outer layer of the grain kernel and contains the most fiber, along with B vitamins and minerals. It is removed when grains are refined into white flour.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-11",
+      "question": "Which grain was one of the first crops cultivated by humans in the Fertile Crescent?",
+      "options": [
+        "Corn",
+        "Wheat",
+        "Oats",
+        "Rice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wheat was one of the first domesticated crops, cultivated in the Fertile Crescent (modern-day Iraq, Syria, and Turkey) around 10,000 years ago, marking the beginning of agriculture.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-12",
+      "question": "What is the difference between white rice and brown rice?",
+      "options": [
+        "Brown rice retains its bran and germ layers",
+        "White rice is bleached",
+        "They come from different plants",
+        "Brown rice has added coloring"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brown rice retains its bran and germ layers, making it more nutritious. White rice has these layers removed through milling, leaving only the starchy endosperm.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-13",
+      "question": "Sorghum is a major food crop in which continent, where it is a dietary staple?",
+      "options": [
+        "South America",
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sorghum is a critical food crop in Africa, where it is a dietary staple for millions of people. It is drought-resistant and grows well in semi-arid climates.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-14",
+      "question": "What grain is traditionally used to make Russian dark bread?",
+      "options": [
+        "Buckwheat",
+        "Rye",
+        "Wheat",
+        "Barley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rye is traditionally used to make dark, dense bread in Russia and Northern Europe. Rye flour produces a bread with a distinctive, slightly sour flavor.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "grains-cereals-quiz-15",
+      "question": "Despite its name, buckwheat is not actually related to wheat. What is it?",
+      "options": [
+        "A type of rice",
+        "A root vegetable",
+        "A fruit seed related to rhubarb",
+        "A legume"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Buckwheat is not a cereal grain but a fruit seed related to rhubarb and sorrel. It is naturally gluten-free and is used to make soba noodles in Japan and blini in Russia.",
+      "difficulty": "hard",
+      "category": "food"
+    }
+  ]
+}

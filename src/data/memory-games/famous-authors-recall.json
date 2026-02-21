@@ -8,19 +8,19 @@
       "id": "famous-authors-recall-1",
       "question": "Who wrote the classic novel 'Pride and Prejudice'?",
       "options": [
-        "Charlotte Bront\u00eb",
+        "Emily Brontë",
+        "Charlotte Brontë",
         "Jane Austen",
-        "George Eliot",
-        "Emily Bront\u00eb"
+        "George Eliot"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-authors-recall-2",
       "question": "Which author wrote 'The Old Man and the Sea'?",
       "options": [
-        "F. Scott Fitzgerald",
         "John Steinbeck",
+        "F. Scott Fitzgerald",
         "Ernest Hemingway",
         "William Faulkner"
       ],
@@ -30,144 +30,144 @@
       "id": "famous-authors-recall-3",
       "question": "Who wrote '1984', the famous dystopian novel?",
       "options": [
-        "Aldous Huxley",
-        "George Orwell",
         "Ray Bradbury",
-        "H.G. Wells"
+        "H.G. Wells",
+        "Aldous Huxley",
+        "George Orwell"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-authors-recall-4",
       "question": "Which author is known for writing 'A Tale of Two Cities'?",
       "options": [
-        "Charles Dickens",
-        "Thomas Hardy",
         "Victor Hugo",
-        "Mark Twain"
+        "Thomas Hardy",
+        "Mark Twain",
+        "Charles Dickens"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-authors-recall-5",
       "question": "Who wrote the novel 'To Kill a Mockingbird'?",
       "options": [
-        "Flannery O'Connor",
         "Harper Lee",
-        "Truman Capote",
-        "Carson McCullers"
+        "Flannery O'Connor",
+        "Carson McCullers",
+        "Truman Capote"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-authors-recall-6",
       "question": "Which author wrote 'The Great Gatsby'?",
       "options": [
-        "Ernest Hemingway",
+        "Sinclair Lewis",
         "John Steinbeck",
-        "F. Scott Fitzgerald",
-        "Sinclair Lewis"
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-authors-recall-7",
       "question": "Who wrote the epic novel 'War and Peace'?",
       "options": [
         "Fyodor Dostoevsky",
-        "Anton Chekhov",
+        "Leo Tolstoy",
         "Ivan Turgenev",
-        "Leo Tolstoy"
+        "Anton Chekhov"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "famous-authors-recall-8",
       "question": "Which author created the character Sherlock Holmes?",
       "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
+        "Wilkie Collins",
         "Edgar Allan Poe",
-        "Wilkie Collins"
+        "Arthur Conan Doyle",
+        "Agatha Christie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-authors-recall-9",
       "question": "Who wrote 'The Grapes of Wrath'?",
       "options": [
-        "William Faulkner",
-        "John Steinbeck",
+        "Theodore Dreiser",
         "Upton Sinclair",
-        "Theodore Dreiser"
+        "William Faulkner",
+        "John Steinbeck"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-authors-recall-10",
       "question": "Which author wrote 'Moby-Dick'?",
       "options": [
-        "Nathaniel Hawthorne",
         "Herman Melville",
+        "Nathaniel Hawthorne",
         "Jack London",
         "James Fenimore Cooper"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-authors-recall-11",
       "question": "Who wrote the play 'Death of a Salesman'?",
       "options": [
-        "Tennessee Williams",
         "Arthur Miller",
         "Eugene O'Neill",
-        "Edward Albee"
+        "Edward Albee",
+        "Tennessee Williams"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-authors-recall-12",
       "question": "Which author wrote 'Gone with the Wind'?",
       "options": [
-        "Margaret Mitchell",
-        "Pearl S. Buck",
         "Edith Wharton",
-        "Willa Cather"
+        "Pearl S. Buck",
+        "Willa Cather",
+        "Margaret Mitchell"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-authors-recall-13",
       "question": "Who wrote 'The Canterbury Tales'?",
       "options": [
+        "John Milton",
         "William Shakespeare",
         "Geoffrey Chaucer",
-        "John Milton",
         "Edmund Spenser"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-authors-recall-14",
       "question": "Which author wrote 'One Hundred Years of Solitude'?",
       "options": [
-        "Pablo Neruda",
+        "Isabel Allende",
+        "Gabriel García Márquez",
         "Jorge Luis Borges",
-        "Gabriel Garc\u00eda M\u00e1rquez",
-        "Isabel Allende"
+        "Pablo Neruda"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-authors-recall-15",
       "question": "Who wrote the novel 'Catch-22'?",
       "options": [
         "Kurt Vonnegut",
-        "Joseph Heller",
+        "Philip Roth",
         "Norman Mailer",
-        "Philip Roth"
+        "Joseph Heller"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

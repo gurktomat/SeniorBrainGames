@@ -1,0 +1,219 @@
+{
+  "id": "mining-engineering-quiz",
+  "title": "Mining Engineering",
+  "description": "Dig deep into questions about mining engineering and the world's greatest mines!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "mining-engineering-quiz-1",
+      "question": "The Bingham Canyon Mine in Utah is the world's largest man-made excavation. What type of mine is it?",
+      "options": [
+        "Undersea mine",
+        "Open-pit mine",
+        "Underground mine",
+        "Placer mine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bingham Canyon Mine (also called Kennecott Copper Mine) is the world's largest open-pit mine, measuring over 4 km wide and 1.2 km deep. It has been in continuous operation since 1906, primarily producing copper.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-2",
+      "question": "What is the deepest mine in the world?",
+      "options": [
+        "Kidd Mine, Canada",
+        "Bingham Canyon Mine, USA",
+        "Grasberg Mine, Indonesia",
+        "Mponeng Gold Mine, South Africa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Mponeng Gold Mine in South Africa reaches depths of approximately 4 km (2.5 miles) below the surface. At such depths, rock temperatures can exceed 60 degrees C, requiring massive cooling systems for miners to work.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-3",
+      "question": "What does 'open-pit mining' (also called open-cast mining) involve?",
+      "options": [
+        "Mining under rivers",
+        "Dredging ocean floors",
+        "Digging tunnels underground",
+        "Extracting minerals from a large surface excavation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Open-pit mining involves extracting minerals by digging a large, terraced hole in the earth's surface, creating a pit that gradually deepens. It is used when ore deposits are near the surface and is more economical than underground mining for such deposits.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-4",
+      "question": "The California Gold Rush began in 1848 after gold was discovered at which location?",
+      "options": [
+        "Sacramento",
+        "Sutter's Mill",
+        "Yosemite",
+        "San Francisco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gold was discovered on January 24, 1848, at Sutter's Mill in Coloma, California, by James W. Marshall. This discovery triggered the California Gold Rush, bringing approximately 300,000 people to California from around the world.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-5",
+      "question": "What is a 'shaft mine'?",
+      "options": [
+        "A mine that uses water pressure",
+        "A mine that follows a horizontal tunnel",
+        "An open-pit mine",
+        "A mine accessed by a vertical tunnel (shaft) drilled into the ground"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A shaft mine is an underground mine accessed through a vertical tunnel (shaft) that descends from the surface to the ore body. An elevator (cage or skip) transports miners and equipment up and down the shaft.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-6",
+      "question": "What was a 'canary in a coal mine' historically used for?",
+      "options": [
+        "Detecting dangerous gases",
+        "Lighting",
+        "Companionship for miners",
+        "Timing work shifts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Canaries were used in coal mines as early warning systems for carbon monoxide and other dangerous gases. Because canaries are more sensitive to toxic gases than humans, a distressed canary warned miners to evacuate immediately.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-7",
+      "question": "The Witwatersrand Basin in South Africa is the world's largest source of which precious metal?",
+      "options": [
+        "Diamonds",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Witwatersrand Basin has produced approximately 40% of all the gold ever mined on Earth, totaling over 50,000 tonnes. The city of Johannesburg grew up around the gold mining industry in this basin.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-8",
+      "question": "What is 'longwall mining' used for?",
+      "options": [
+        "Extracting coal from long, horizontal underground faces",
+        "Mining gold veins",
+        "Open-pit excavation",
+        "Deep-sea mining"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Longwall mining is an underground coal mining method where a long wall of coal (typically 250-400 meters) is mined in a single slice. A mechanical shearer cuts coal from the face while hydraulic roof supports advance behind it.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-9",
+      "question": "The 2010 Copiapó mining accident in Chile trapped 33 miners underground for how many days before rescue?",
+      "options": [
+        "49 days",
+        "33 days",
+        "100 days",
+        "69 days"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 33 Chilean miners were trapped 700 meters underground at the San José copper-gold mine for 69 days (August 5 to October 13, 2010). All 33 were rescued alive through a specially drilled rescue shaft using a capsule called Phoenix.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-10",
+      "question": "What is 'tailings' in mining?",
+      "options": [
+        "The back end of a mine tunnel",
+        "Dynamite residue",
+        "Leftover waste material after ore has been processed",
+        "Animal tracks near mines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tailings are the waste materials left after the valuable minerals have been extracted from ore. They are typically stored in large ponds or dams and can pose significant environmental risks if not properly managed.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-11",
+      "question": "What is 'hydraulic mining' (hydraulicking)?",
+      "options": [
+        "Using underwater robots",
+        "Pumping water out of mines",
+        "Using water-powered machinery underground",
+        "Using high-pressure water jets to erode and wash away hillsides to extract gold"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hydraulic mining uses high-pressure water jets (monitors) to break apart hillsides and wash gold-bearing gravel through sluice boxes. Widely used during the Gold Rush, it was later banned in California due to severe environmental damage.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-12",
+      "question": "The Kimberley Mine ('Big Hole') in South Africa was famous for mining which precious material?",
+      "options": [
+        "Emeralds",
+        "Diamonds",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Kimberley Mine, excavated between 1871 and 1914, was a major diamond mine. The 'Big Hole' is the largest hand-excavated hole in the world, reaching 240 meters deep. It yielded approximately 14.5 million carats of diamonds.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-13",
+      "question": "What engineering challenge makes deep mining in South Africa particularly difficult?",
+      "options": [
+        "Lack of minerals",
+        "Extreme heat from the Earth's geothermal gradient",
+        "Government regulations",
+        "Flooding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At depths exceeding 3-4 km in South African mines, rock temperatures can reach 60 degrees C or more due to the geothermal gradient. Massive refrigeration systems must pump chilled air and water underground to create workable conditions.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "mining-engineering-quiz-14",
+      "question": "What is a 'Davy lamp' and why was it important in mining history?",
+      "options": [
+        "A signaling device",
+        "A searchlight for locating ore",
+        "An electric headlamp",
+        "A safety lamp that prevented methane explosions in coal mines"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sir Humphry Davy invented the Davy lamp in 1815. Its wire mesh gauze surrounding the flame dissipated heat, preventing the flame from igniting flammable methane gas (firedamp) in coal mines, dramatically improving miner safety.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "mining-engineering-quiz-15",
+      "question": "What is 'solution mining' or 'in-situ leaching' used for?",
+      "options": [
+        "Testing soil composition",
+        "Dissolving minerals underground using injected chemicals and pumping the solution to the surface",
+        "Cleaning mine equipment",
+        "Filtering water from mines"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solution mining involves injecting a solvent (such as water, acid, or alkaline solution) into an ore deposit through wells, dissolving the target minerals, and then pumping the mineral-laden solution to the surface for processing.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

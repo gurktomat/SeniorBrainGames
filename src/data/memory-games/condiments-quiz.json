@@ -1,0 +1,173 @@
+{
+  "id": "condiments-quiz",
+  "title": "Condiments Quiz",
+  "description": "Ketchup, mustard, and beyond — how well do you know the world's favorite condiments?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "condiments-quiz-1",
+      "question": "Ketchup was originally made from which ingredient before tomatoes became the standard?",
+      "options": [
+        "Mushrooms",
+        "Apples",
+        "Beets",
+        "Plums"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-2",
+      "question": "Dijon mustard gets its name from a city in which country?",
+      "options": [
+        "Belgium",
+        "France",
+        "Netherlands",
+        "Germany"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-3",
+      "question": "Which condiment is made by emulsifying oil, egg yolks, and vinegar or lemon juice?",
+      "options": [
+        "Mayonnaise",
+        "Aioli",
+        "Hollandaise",
+        "Ranch dressing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-4",
+      "question": "Soy sauce is a fermented condiment made from soybeans and which grain?",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Barley",
+        "Corn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-5",
+      "question": "Fish sauce, a pungent liquid condiment, is essential in the cuisines of which region?",
+      "options": [
+        "North Africa",
+        "Southeast Asia",
+        "Central Europe",
+        "South America"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-6",
+      "question": "Worcestershire sauce was created in which English city?",
+      "options": [
+        "London",
+        "Worcester",
+        "Birmingham",
+        "Manchester"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-7",
+      "question": "Tahini, a paste used in hummus and other dishes, is made from which seed?",
+      "options": [
+        "Sunflower seeds",
+        "Sesame seeds",
+        "Flax seeds",
+        "Pumpkin seeds"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-8",
+      "question": "Which Italian condiment, made from balsamic vinegar reduced to a thick, sweet glaze, is often drizzled on salads?",
+      "options": [
+        "Salsa verde",
+        "Pesto",
+        "Gremolata",
+        "Balsamic reduction (glaze)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "condiments-quiz-9",
+      "question": "Chutney is a condiment that originates from which cuisine?",
+      "options": [
+        "Indian",
+        "Mexican",
+        "Chinese",
+        "Japanese"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-10",
+      "question": "HP Sauce, a popular brown sauce in Britain, has a picture of which building on its label?",
+      "options": [
+        "Big Ben clock tower",
+        "Houses of Parliament",
+        "Buckingham Palace",
+        "Tower of London"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-11",
+      "question": "Chimichurri, a fresh herb sauce, is traditionally served with grilled meats in which country?",
+      "options": [
+        "Argentina",
+        "Spain",
+        "Mexico",
+        "Brazil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-12",
+      "question": "Which Japanese condiment is a citrus-based sauce often used as a dipping sauce for dumplings?",
+      "options": [
+        "Miso",
+        "Ponzu",
+        "Teriyaki",
+        "Tonkatsu sauce"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-13",
+      "question": "Relish is a chunky condiment most commonly associated with which pickled vegetable in the United States?",
+      "options": [
+        "Cucumber (pickle)",
+        "Tomato",
+        "Pepper",
+        "Onion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "condiments-quiz-14",
+      "question": "Hoisin sauce, sometimes called 'Chinese barbecue sauce,' is made from which bean?",
+      "options": [
+        "Mung bean",
+        "Soybean",
+        "Kidney bean",
+        "Black bean"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "condiments-quiz-15",
+      "question": "Which French condiment combines cornichons, capers, mustard, and herbs, and is served with meats and charcuterie?",
+      "options": [
+        "Sauce ravigote",
+        "Sauce gribiche",
+        "Rémoulade",
+        "Sauce tartare"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "highway-system-quiz",
+  "title": "Highway Systems of the World",
+  "description": "Hit the road and test your knowledge of the world's great highway systems!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "highway-system-quiz-1",
+      "question": "Which U.S. president signed the Federal-Aid Highway Act of 1956, creating the Interstate Highway System?",
+      "options": [
+        "John F. Kennedy",
+        "Dwight D. Eisenhower",
+        "Harry Truman",
+        "Lyndon B. Johnson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President Dwight D. Eisenhower signed the Federal-Aid Highway Act of 1956, which authorized the construction of 41,000 miles of interstate highways. His experience with poor roads during a 1919 military convoy inspired the project.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-2",
+      "question": "The Autobahn highway system, famous for having sections with no speed limit, is located in which country?",
+      "options": [
+        "Netherlands",
+        "Austria",
+        "Switzerland",
+        "Germany"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Germany's Autobahn is famous for its unrestricted speed sections (Richtgeschwindigkeit), where the advisory speed is 130 km/h but no legal limit is enforced. About 70% of the Autobahn has no permanent speed limit.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-3",
+      "question": "Historic Route 66 in the United States ran from Chicago to which city?",
+      "options": [
+        "San Francisco",
+        "Santa Monica",
+        "San Diego",
+        "Los Angeles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Route 66, established in 1926, ran from Chicago, Illinois, to Santa Monica, California, covering approximately 2,448 miles through eight states. It was decommissioned in 1985 but remains a cultural icon.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-4",
+      "question": "What does the 'Pan-American Highway' connect?",
+      "options": [
+        "Alaska to Argentina",
+        "Brazil to Chile",
+        "New York to Los Angeles",
+        "Canada to Mexico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Pan-American Highway is a network of roads stretching from Prudhoe Bay, Alaska, to Ushuaia, Argentina, approximately 30,000 km. It is interrupted only by the Darién Gap between Panama and Colombia.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-5",
+      "question": "In the U.S. Interstate Highway numbering system, odd-numbered interstates generally run in which direction?",
+      "options": [
+        "Circular",
+        "Diagonal",
+        "East-West",
+        "North-South"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the U.S. Interstate numbering system, odd-numbered routes (I-5, I-95, etc.) run north-south, while even-numbered routes (I-10, I-90, etc.) run east-west. Numbers increase from west to east and south to north.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-6",
+      "question": "The M1 motorway, the first full-length motorway in the UK, connects London to which city?",
+      "options": [
+        "Birmingham",
+        "Edinburgh",
+        "Manchester",
+        "Leeds"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The M1 motorway connects London to Leeds, covering approximately 193 miles. The first section opened in 1959, and it was the first full-length motorway built in the United Kingdom.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-7",
+      "question": "What is the name of the gap in the Pan-American Highway where the road network is interrupted by dense jungle?",
+      "options": [
+        "Amazon Gap",
+        "Orinoco Break",
+        "Darién Gap",
+        "Andes Passage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Darién Gap is a break of approximately 100 miles in the Pan-American Highway between Panama and Colombia. Dense jungle, swamps, and environmental concerns have prevented road construction through this area.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-8",
+      "question": "Which country has the most extensive expressway network in the world, surpassing the United States in total length?",
+      "options": [
+        "Russia",
+        "China",
+        "Brazil",
+        "India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "China has the world's longest expressway network, exceeding 160,000 km. It surpassed the U.S. Interstate Highway System in total length around 2011 and continues to expand rapidly.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-9",
+      "question": "What was the original purpose behind the creation of the U.S. Interstate Highway System?",
+      "options": [
+        "Reducing urban congestion",
+        "Connecting national parks",
+        "Tourism promotion",
+        "National defense and military transport"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Interstate Highway System was officially called the 'National System of Interstate and Defense Highways.' Eisenhower saw good highways as essential for evacuating cities during nuclear attack and moving military equipment.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-10",
+      "question": "The Karakoram Highway, one of the highest paved international roads, connects China with which country?",
+      "options": [
+        "Pakistan",
+        "Afghanistan",
+        "India",
+        "Nepal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Karakoram Highway connects China's Xinjiang region to Pakistan's Punjab province via the Khunjerab Pass at 4,693 meters elevation. Often called the 'Eighth Wonder of the World,' it took 20 years to build.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-11",
+      "question": "I-95, the longest north-south interstate highway in the United States, runs along which coast?",
+      "options": [
+        "Gulf Coast",
+        "West Coast",
+        "Great Lakes",
+        "East Coast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Interstate 95 runs along the East Coast from Miami, Florida, to Houlton, Maine, at the Canadian border. At approximately 1,920 miles, it is the longest north-south interstate in the U.S.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-12",
+      "question": "The Appian Way (Via Appia), one of the earliest and most important Roman roads, connected Rome to which city?",
+      "options": [
+        "Florence",
+        "Naples",
+        "Brindisi",
+        "Milan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Appian Way, built starting in 312 BC, connected Rome to Brindisi in southeastern Italy. It was one of the earliest and strategically most important Roman roads, known as 'regina viarum' (queen of roads).",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-13",
+      "question": "What material innovation in the early 20th century made modern highway construction much more durable?",
+      "options": [
+        "Gravel compaction",
+        "Brick pavement",
+        "Asphalt concrete",
+        "Cobblestone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asphalt concrete (hot-mix asphalt) became the standard paving material in the early 20th century, providing a smooth, durable, and relatively inexpensive surface for modern highways that could handle heavy vehicle traffic.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "highway-system-quiz-14",
+      "question": "The Stuart Highway in Australia runs from Adelaide to which northern city?",
+      "options": [
+        "Darwin",
+        "Cairns",
+        "Perth",
+        "Brisbane"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Stuart Highway runs from Adelaide in South Australia to Darwin in the Northern Territory, covering approximately 3,030 km. Named after explorer John McDouall Stuart, it traverses the Australian outback.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "highway-system-quiz-15",
+      "question": "What is a 'cloverleaf' in highway engineering?",
+      "options": [
+        "A highway interchange design",
+        "A toll collection system",
+        "A type of road surface",
+        "A speed reduction zone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A cloverleaf is a type of highway interchange where two highways cross at different levels, with loop ramps forming a four-leaf clover pattern. This design allows traffic to flow between the two highways without traffic signals.",
+      "difficulty": "easy",
+      "category": "engineering"
+    }
+  ]
+}

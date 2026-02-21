@@ -7,92 +7,167 @@
     {
       "id": "famous-siblings-1",
       "question": "Brothers Orville and Wilbur Wright are best known for achieving what historic feat in 1903?",
-      "options": ["Building the first automobile", "First powered airplane flight", "Inventing the telephone", "First transatlantic radio signal"],
-      "correctAnswer": 1
+      "options": [
+        "Inventing the telephone",
+        "First transatlantic radio signal",
+        "First powered airplane flight",
+        "Building the first automobile"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-siblings-2",
       "question": "Which famous brothers composed the music for classic songs like 'Rhapsody in Blue' and 'I Got Rhythm'?",
-      "options": ["The Sherman Brothers", "George and Ira Gershwin", "The Everly Brothers", "Simon and Garfunkel"],
-      "correctAnswer": 1
+      "options": [
+        "George and Ira Gershwin",
+        "Simon and Garfunkel",
+        "The Everly Brothers",
+        "The Sherman Brothers"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-siblings-3",
       "question": "The Brontë sisters — Charlotte, Emily, and Anne — were all famous for their work in which field?",
-      "options": ["Painting", "Science", "Literature", "Music"],
-      "correctAnswer": 2
+      "options": [
+        "Painting",
+        "Science",
+        "Music",
+        "Literature"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-siblings-4",
       "question": "Brothers Jacob and Wilhelm are better known by which surname, famous for their collection of fairy tales?",
-      "options": ["Andersen", "Grimm", "Perrault", "Aesop"],
-      "correctAnswer": 1
+      "options": [
+        "Andersen",
+        "Aesop",
+        "Grimm",
+        "Perrault"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-siblings-5",
       "question": "Which siblings starred together in the classic film 'White Christmas' (1954)?",
-      "options": ["Fred Astaire and Adele Astaire", "The Andrews Sisters", "The Marx Brothers", "None — it starred Bing Crosby and Danny Kaye"],
-      "correctAnswer": 3
+      "options": [
+        "None — it starred Bing Crosby and Danny Kaye",
+        "The Marx Brothers",
+        "Fred Astaire and Adele Astaire",
+        "The Andrews Sisters"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-siblings-6",
       "question": "John, Robert, and Ted Kennedy all served in which branch of the U.S. government?",
-      "options": ["The military", "The judiciary", "Congress", "State governorships"],
+      "options": [
+        "State governorships",
+        "The military",
+        "Congress",
+        "The judiciary"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-siblings-7",
       "question": "Venus and Serena Williams are famous siblings in which sport?",
-      "options": ["Golf", "Tennis", "Track and field", "Swimming"],
-      "correctAnswer": 1
+      "options": [
+        "Golf",
+        "Swimming",
+        "Track and field",
+        "Tennis"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-siblings-8",
       "question": "Which Marx brother was known for his silent comedy, curly wig, and playing the harp?",
-      "options": ["Groucho", "Chico", "Harpo", "Zeppo"],
-      "correctAnswer": 2
+      "options": [
+        "Harpo",
+        "Zeppo",
+        "Chico",
+        "Groucho"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-siblings-9",
       "question": "The Everly Brothers, Don and Phil, were famous for harmonizing in which music genre?",
-      "options": ["Jazz", "Rock and roll", "Classical", "Blues"],
-      "correctAnswer": 1
+      "options": [
+        "Blues",
+        "Jazz",
+        "Classical",
+        "Rock and roll"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-siblings-10",
       "question": "Brothers John and Hank are famous on YouTube under which shared surname?",
-      "options": ["Paul", "Green", "Smith", "Brown"],
+      "options": [
+        "Paul",
+        "Green",
+        "Brown",
+        "Smith"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-siblings-11",
       "question": "Which pair of brothers founded a major film studio known for producing 'Looney Tunes' and countless classic movies?",
-      "options": ["The Lumière Brothers", "The Warner Brothers", "The Coen Brothers", "The Weinstein Brothers"],
-      "correctAnswer": 1
+      "options": [
+        "The Lumière Brothers",
+        "The Coen Brothers",
+        "The Weinstein Brothers",
+        "The Warner Brothers"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-siblings-12",
       "question": "Legendary sibling act The Andrews Sisters were most popular during which era?",
-      "options": ["The Roaring Twenties", "World War II era (1940s)", "The 1960s", "The 1970s"],
-      "correctAnswer": 1
+      "options": [
+        "The 1960s",
+        "The 1970s",
+        "The Roaring Twenties",
+        "World War II era (1940s)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-siblings-13",
       "question": "In the Bible, which brothers are known for the first murder, when one killed the other out of jealousy?",
-      "options": ["Jacob and Esau", "Cain and Abel", "Moses and Aaron", "Joseph and Benjamin"],
+      "options": [
+        "Jacob and Esau",
+        "Cain and Abel",
+        "Joseph and Benjamin",
+        "Moses and Aaron"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-siblings-14",
       "question": "The Ringling Brothers, who created a famous circus, hailed from which U.S. state?",
-      "options": ["New York", "Ohio", "Wisconsin", "Iowa"],
-      "correctAnswer": 2
+      "options": [
+        "Iowa",
+        "Wisconsin",
+        "New York",
+        "Ohio"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-siblings-15",
       "question": "Which legendary acting siblings starred in the 1989 film 'Rain Man'?",
-      "options": ["The Baldwin Brothers", "The Bridges Brothers", "None — it starred Dustin Hoffman and Tom Cruise", "The Sheen Brothers"],
-      "correctAnswer": 2
+      "options": [
+        "The Sheen Brothers",
+        "None — it starred Dustin Hoffman and Tom Cruise",
+        "The Baldwin Brothers",
+        "The Bridges Brothers"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "id": "vegetable-garden-quiz",
+  "title": "Vegetable Garden Quiz",
+  "description": "Put your green thumb knowledge to the test! How much do you know about growing and identifying common garden vegetables?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "vegetable-garden-quiz-1",
+      "question": "Which vegetable is botanically a fruit and comes in varieties like Roma, Beefsteak, and Cherry?",
+      "options": [
+        "Eggplant",
+        "Tomato",
+        "Cucumber",
+        "Pepper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-2",
+      "question": "What popular garden vegetable grows underground and is harvested by digging up the soil?",
+      "options": [
+        "Lettuce",
+        "Celery",
+        "Broccoli",
+        "Carrot"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vegetable-garden-quiz-3",
+      "question": "Which vegetable is known as a \"cole crop\" and forms a tight head of leaves?",
+      "options": [
+        "Swiss Chard",
+        "Spinach",
+        "Cabbage",
+        "Kale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vegetable-garden-quiz-4",
+      "question": "What is the practice of growing plants together that benefit each other called?",
+      "options": [
+        "Intercropping",
+        "Crop rotation",
+        "Succession planting",
+        "Companion planting"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vegetable-garden-quiz-5",
+      "question": "Which garden vegetable can be harvested as a \"baby\" leaf or allowed to form a full head?",
+      "options": [
+        "Radish",
+        "Beet",
+        "Lettuce",
+        "Onion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vegetable-garden-quiz-6",
+      "question": "Zucchini belongs to which plant family?",
+      "options": [
+        "Nightshade family",
+        "Squash/Gourd family",
+        "Brassica family",
+        "Legume family"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-7",
+      "question": "Which vegetable is famous for being one of the fastest-growing, often ready to harvest in about 25 days?",
+      "options": [
+        "Pumpkin",
+        "Radish",
+        "Tomato",
+        "Corn"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-8",
+      "question": "What is the term for planting crops in a different spot each year to prevent soil depletion?",
+      "options": [
+        "No-till farming",
+        "Crop rotation",
+        "Succession planting",
+        "Raised bed gardening"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-9",
+      "question": "Which vegetable plant produces both male and female flowers on the same vine?",
+      "options": [
+        "Cucumber",
+        "Pea",
+        "Bean",
+        "Tomato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vegetable-garden-quiz-10",
+      "question": "Sweet corn is best harvested at what stage for the sweetest flavor?",
+      "options": [
+        "When the stalk dries out",
+        "When the husks fall off",
+        "When the silk turns brown",
+        "When the ears point downward"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vegetable-garden-quiz-11",
+      "question": "Which of these vegetables is a member of the allium family?",
+      "options": [
+        "Parsnip",
+        "Turnip",
+        "Onion",
+        "Potato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vegetable-garden-quiz-12",
+      "question": "What vegetable was originally purple before orange varieties were developed in the Netherlands?",
+      "options": [
+        "Beet",
+        "Carrot",
+        "Sweet Potato",
+        "Radish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-13",
+      "question": "Which vegetable plant needs a trellis or support structure because it climbs using tendrils?",
+      "options": [
+        "Bush bean",
+        "Sugar snap pea",
+        "Bell pepper",
+        "Eggplant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vegetable-garden-quiz-14",
+      "question": "Asparagus is unique among garden vegetables because it is a what?",
+      "options": [
+        "Annual that reseeds itself",
+        "Biennial that fruits every two years",
+        "Tropical plant grown as an annual",
+        "Perennial that produces for many years"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vegetable-garden-quiz-15",
+      "question": "Which vegetable gets its name from the Italian word for \"flowering crest of a cabbage\"?",
+      "options": [
+        "Brussels sprouts",
+        "Kohlrabi",
+        "Cauliflower",
+        "Broccoli"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

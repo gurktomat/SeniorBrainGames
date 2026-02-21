@@ -1,0 +1,173 @@
+{
+  "id": "reptiles-amphibians-quiz",
+  "title": "Reptiles & Amphibians",
+  "description": "Explore the scaly and slimy world of reptiles and amphibians, from giant tortoises to tiny tree frogs.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "reptiles-amphibians-quiz-1",
+      "question": "What is the key difference between reptiles and amphibians?",
+      "options": [
+        "Reptiles are larger",
+        "Reptiles have scales; amphibians have moist skin",
+        "Reptiles live only in water",
+        "Amphibians can fly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptiles-amphibians-quiz-2",
+      "question": "The Galápagos giant tortoise can live for more than how many years?",
+      "options": [
+        "50 years",
+        "200 years",
+        "150 years",
+        "100 years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptiles-amphibians-quiz-3",
+      "question": "Which lizard can change its color to blend in with its surroundings?",
+      "options": [
+        "Iguana",
+        "Skink",
+        "Gecko",
+        "Chameleon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "reptiles-amphibians-quiz-4",
+      "question": "The axolotl, a unique amphibian that can regenerate body parts, is native to which country?",
+      "options": [
+        "Brazil",
+        "Japan",
+        "Mexico",
+        "Australia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptiles-amphibians-quiz-5",
+      "question": "Which is the largest living lizard in the world?",
+      "options": [
+        "Nile monitor",
+        "Komodo dragon",
+        "Gila monster",
+        "Green iguana"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptiles-amphibians-quiz-6",
+      "question": "Frogs absorb water through what part of their body?",
+      "options": [
+        "Their feet",
+        "Their mouth",
+        "Their skin",
+        "Their eyes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptiles-amphibians-quiz-7",
+      "question": "The tuatara looks like a lizard but is actually the last surviving member of what ancient order?",
+      "options": [
+        "Testudines",
+        "Dinosauria",
+        "Rhynchocephalia",
+        "Crocodilia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "reptiles-amphibians-quiz-8",
+      "question": "What is the process called when a snake sheds its skin?",
+      "options": [
+        "Ecdysis",
+        "Molting",
+        "Metamorphosis",
+        "Shedding"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "reptiles-amphibians-quiz-9",
+      "question": "The leatherback is the largest species of what type of reptile?",
+      "options": [
+        "Sea turtle",
+        "Snake",
+        "Crocodilian",
+        "Lizard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "reptiles-amphibians-quiz-10",
+      "question": "Which amphibian goes through metamorphosis, starting life with gills and developing lungs?",
+      "options": [
+        "Caecilian",
+        "Salamander",
+        "Newt",
+        "Frog"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "reptiles-amphibians-quiz-11",
+      "question": "The gecko is famous for its ability to do what?",
+      "options": [
+        "Breathe underwater",
+        "Walk on walls and ceilings",
+        "Fly short distances",
+        "Change color"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptiles-amphibians-quiz-12",
+      "question": "Which continent has no native snake species?",
+      "options": [
+        "South America",
+        "Antarctica",
+        "Australia",
+        "Europe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptiles-amphibians-quiz-13",
+      "question": "The Chinese giant salamander is the world's largest amphibian. How long can it grow?",
+      "options": [
+        "4 feet",
+        "2 feet",
+        "6 feet",
+        "8 feet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "reptiles-amphibians-quiz-14",
+      "question": "Crocodiles have been around since the time of the dinosaurs. When did they first appear?",
+      "options": [
+        "300 million years ago",
+        "200 million years ago",
+        "100 million years ago",
+        "50 million years ago"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "reptiles-amphibians-quiz-15",
+      "question": "What is a group of frogs called?",
+      "options": [
+        "A colony",
+        "An army",
+        "A flock",
+        "A swarm"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

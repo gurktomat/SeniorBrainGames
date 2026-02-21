@@ -7,91 +7,166 @@
     {
       "id": "cat-breeds-quiz-1",
       "question": "Which cat breed has striking blue eyes, a pale body with darker points on the ears, face, paws, and tail, and a vocal personality?",
-      "options": ["Birman", "Ragdoll", "Siamese", "Balinese"],
+      "options": [
+        "Birman",
+        "Balinese",
+        "Siamese",
+        "Ragdoll"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "cat-breeds-quiz-2",
       "question": "Which large, fluffy breed is known for going limp when picked up, has blue eyes, and a gentle, docile temperament?",
-      "options": ["Persian", "Maine Coon", "Ragdoll", "Norwegian Forest Cat"],
-      "correctAnswer": 2
+      "options": [
+        "Ragdoll",
+        "Persian",
+        "Maine Coon",
+        "Norwegian Forest Cat"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-3",
       "question": "Which breed is one of the largest domestic cats, has tufted ears, a bushy tail, and is often called the 'gentle giant'?",
-      "options": ["Ragdoll", "Maine Coon", "Savannah", "Norwegian Forest Cat"],
-      "correctAnswer": 1
+      "options": [
+        "Maine Coon",
+        "Norwegian Forest Cat",
+        "Savannah",
+        "Ragdoll"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-4",
       "question": "Which breed has a flat face, long luxurious coat, and a calm, quiet demeanor, and has been a favorite since Victorian times?",
-      "options": ["Himalayan", "Persian", "Exotic Shorthair", "Birman"],
-      "correctAnswer": 1
+      "options": [
+        "Persian",
+        "Birman",
+        "Himalayan",
+        "Exotic Shorthair"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-5",
       "question": "Which hairless cat breed has large ears, wrinkled skin, and is known for seeking warmth from its owners?",
-      "options": ["Peterbald", "Donskoy", "Sphynx", "Cornish Rex"],
-      "correctAnswer": 2
+      "options": [
+        "Donskoy",
+        "Sphynx",
+        "Cornish Rex",
+        "Peterbald"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "cat-breeds-quiz-6",
       "question": "Which spotted breed was created to look like a wild ocelot but has a completely domestic temperament?",
-      "options": ["Bengal", "Savannah", "Ocicat", "Egyptian Mau"],
-      "correctAnswer": 2
+      "options": [
+        "Ocicat",
+        "Savannah",
+        "Bengal",
+        "Egyptian Mau"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-7",
       "question": "Which breed has a distinctive spotted or marbled coat that resembles a leopard's, and was developed by crossing domestic cats with Asian Leopard Cats?",
-      "options": ["Ocicat", "Savannah", "Bengal", "Egyptian Mau"],
-      "correctAnswer": 2
+      "options": [
+        "Bengal",
+        "Egyptian Mau",
+        "Ocicat",
+        "Savannah"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-8",
       "question": "Which breed has short, folded ears that give it an owl-like appearance, and originated from a barn cat in Scotland?",
-      "options": ["American Curl", "Scottish Fold", "British Shorthair", "Devon Rex"],
-      "correctAnswer": 1
+      "options": [
+        "Scottish Fold",
+        "British Shorthair",
+        "Devon Rex",
+        "American Curl"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-9",
       "question": "Which stocky breed has a dense, plush blue-gray coat, round copper eyes, and is sometimes called the 'British Blue'?",
-      "options": ["Russian Blue", "Chartreux", "British Shorthair", "Korat"],
-      "correctAnswer": 2
+      "options": [
+        "Russian Blue",
+        "Chartreux",
+        "Korat",
+        "British Shorthair"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "cat-breeds-quiz-10",
       "question": "Which slender, elegant breed has a short, shimmering blue coat, vivid green eyes, and is known for being shy with strangers but loyal to its owner?",
-      "options": ["Korat", "Russian Blue", "Chartreux", "Nebelung"],
-      "correctAnswer": 1
+      "options": [
+        "Russian Blue",
+        "Chartreux",
+        "Korat",
+        "Nebelung"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "cat-breeds-quiz-11",
       "question": "Which breed has a ticked tabby coat (each hair banded with color), large ears, and resembles ancient Egyptian cat statues?",
-      "options": ["Egyptian Mau", "Abyssinian", "Somali", "Ocicat"],
-      "correctAnswer": 1
+      "options": [
+        "Somali",
+        "Ocicat",
+        "Egyptian Mau",
+        "Abyssinian"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "cat-breeds-quiz-12",
       "question": "Which breed is known for having a naturally short or absent tail, strong hind legs, and originated on the Isle of Man?",
-      "options": ["Japanese Bobtail", "American Bobtail", "Manx", "Cymric"],
+      "options": [
+        "Cymric",
+        "American Bobtail",
+        "Manx",
+        "Japanese Bobtail"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "cat-breeds-quiz-13",
       "question": "Which breed has unusually curled-back ears, can have long or short hair, and was first discovered in California in 1981?",
-      "options": ["Scottish Fold", "American Curl", "Devon Rex", "LaPerm"],
+      "options": [
+        "Scottish Fold",
+        "American Curl",
+        "Devon Rex",
+        "LaPerm"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "cat-breeds-quiz-14",
       "question": "Which large Scandinavian breed has a thick, water-resistant double coat, tufted ears, and was a favorite of the Vikings?",
-      "options": ["Maine Coon", "Siberian", "Norwegian Forest Cat", "Ragdoll"],
-      "correctAnswer": 2
+      "options": [
+        "Siberian",
+        "Norwegian Forest Cat",
+        "Ragdoll",
+        "Maine Coon"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "cat-breeds-quiz-15",
       "question": "Which breed has a short, wavy coat that feels like crushed velvet, large bat-like ears, and a pixie-like face?",
-      "options": ["Cornish Rex", "Devon Rex", "Sphynx", "LaPerm"],
+      "options": [
+        "Sphynx",
+        "Devon Rex",
+        "LaPerm",
+        "Cornish Rex"
+      ],
       "correctAnswer": 1
     }
   ]

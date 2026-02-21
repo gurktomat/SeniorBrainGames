@@ -8,63 +8,63 @@
       "id": "landmark-locations-1",
       "question": "In which country is the Great Wall located?",
       "options": [
-        "Japan",
-        "India",
         "China",
+        "India",
+        "Japan",
         "Mongolia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-2",
       "question": "In which city would you find the Colosseum?",
       "options": [
-        "Athens",
         "Rome",
+        "Athens",
         "Istanbul",
         "Barcelona"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-3",
       "question": "The Taj Mahal is located in which country?",
       "options": [
-        "Pakistan",
-        "Bangladesh",
+        "Nepal",
         "India",
-        "Nepal"
+        "Bangladesh",
+        "Pakistan"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "landmark-locations-4",
       "question": "Machu Picchu is an ancient citadel located in which country?",
       "options": [
-        "Bolivia",
         "Peru",
-        "Ecuador",
-        "Colombia"
+        "Colombia",
+        "Bolivia",
+        "Ecuador"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-5",
       "question": "In which city is the Eiffel Tower located?",
       "options": [
-        "London",
-        "Berlin",
+        "Madrid",
         "Paris",
-        "Madrid"
+        "Berlin",
+        "London"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "landmark-locations-6",
       "question": "The Statue of Liberty stands in which city's harbor?",
       "options": [
-        "Boston",
         "Philadelphia",
+        "Boston",
         "Washington D.C.",
         "New York City"
       ],
@@ -74,52 +74,52 @@
       "id": "landmark-locations-7",
       "question": "In which country would you find the ancient city of Petra?",
       "options": [
-        "Egypt",
         "Jordan",
-        "Israel",
-        "Syria"
+        "Syria",
+        "Egypt",
+        "Israel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-8",
       "question": "The Sydney Opera House is located in which country?",
       "options": [
         "New Zealand",
-        "United Kingdom",
         "Australia",
+        "United Kingdom",
         "South Africa"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "landmark-locations-9",
       "question": "Stonehenge is found in which country?",
       "options": [
-        "Ireland",
-        "Scotland",
         "England",
-        "Wales"
+        "Wales",
+        "Scotland",
+        "Ireland"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-10",
       "question": "In which city is the Kremlin located?",
       "options": [
-        "St. Petersburg",
-        "Kiev",
         "Moscow",
-        "Warsaw"
+        "Warsaw",
+        "St. Petersburg",
+        "Kiev"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "landmark-locations-11",
       "question": "The Parthenon sits atop the Acropolis in which city?",
       "options": [
-        "Rome",
         "Istanbul",
+        "Rome",
         "Athens",
         "Cairo"
       ],
@@ -129,21 +129,21 @@
       "id": "landmark-locations-12",
       "question": "Christ the Redeemer statue overlooks which city?",
       "options": [
-        "Buenos Aires",
         "Lima",
-        "Rio de Janeiro",
-        "S\u00e3o Paulo"
+        "São Paulo",
+        "Buenos Aires",
+        "Rio de Janeiro"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "landmark-locations-13",
       "question": "In which country is Mount Fuji located?",
       "options": [
-        "China",
+        "Taiwan",
         "South Korea",
         "Japan",
-        "Taiwan"
+        "China"
       ],
       "correctAnswer": 2
     },
@@ -152,22 +152,22 @@
       "question": "The Pyramids of Giza are located near which modern city?",
       "options": [
         "Luxor",
+        "Aswan",
         "Alexandria",
-        "Cairo",
-        "Aswan"
+        "Cairo"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "landmark-locations-15",
-      "question": "In which city would you find the Sagrada Fam\u00edlia basilica?",
+      "question": "In which city would you find the Sagrada Família basilica?",
       "options": [
-        "Lisbon",
-        "Barcelona",
         "Madrid",
-        "Seville"
+        "Lisbon",
+        "Seville",
+        "Barcelona"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

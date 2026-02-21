@@ -1,0 +1,219 @@
+{
+  "id": "retro-pizza-history",
+  "title": "Retro Pizza History",
+  "description": "From neighborhood pizzerias to frozen pies, test your knowledge of how pizza became America's favorite food!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "retro-pizza-history-1",
+      "question": "Which New York City pizzeria, opened in 1905, is widely considered the first pizzeria in the United States?",
+      "options": [
+        "Di Fara Pizza",
+        "Totonno's",
+        "Lombardi's",
+        "John's of Bleecker Street"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lombardi's, located at 53½ Spring Street in Manhattan, is widely recognized as the first pizzeria in America. Gennaro Lombardi opened it in 1905.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-2",
+      "question": "Which pizza chain, known for its red roof and sit-down dining, was the first to achieve national distribution?",
+      "options": [
+        "Little Caesars",
+        "Pizza Hut",
+        "Domino's",
+        "Papa John's"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pizza Hut, founded in 1958 in Wichita, Kansas by Dan and Frank Carney, was the first pizza chain to achieve national distribution and became the largest pizza chain in America.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-3",
+      "question": "What event is credited with popularizing pizza among American GIs during World War II?",
+      "options": [
+        "Soldiers discovering pizza while stationed in Italy",
+        "Red Cross serving pizza at canteens",
+        "Italian prisoners of war cooking for troops",
+        "Pizza parlors on military bases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "American soldiers stationed in Italy during WWII discovered and fell in love with pizza. When they returned home, they created a massive demand for pizza across the country.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-4",
+      "question": "What pizza topping combination was the most popular in American pizza shops throughout the 1960s and 1970s?",
+      "options": [
+        "Plain cheese",
+        "Hawaiian (ham and pineapple)",
+        "Pepperoni",
+        "Sausage and mushroom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pepperoni has been the most popular pizza topping in America since the 1960s. It's an American invention, not traditionally Italian, created by Italian-American pizzamakers.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-5",
+      "question": "Which frozen pizza brand, one of the first widely available frozen pizzas, was created by Rose Totino in Minneapolis?",
+      "options": [
+        "Tombstone",
+        "Totino's",
+        "Red Baron",
+        "Jeno's"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rose Totino created her frozen pizza brand in the 1960s. Her crispy party-sized frozen pizzas became a grocery store staple and are still popular today.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-6",
+      "question": "What type of pizza, featuring a thick buttery crust and deep dish, originated in Chicago in 1943?",
+      "options": [
+        "Sicilian style",
+        "New York style",
+        "Detroit style",
+        "Chicago deep-dish"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chicago deep-dish pizza was created at Pizzeria Uno by Ike Sewell and Ric Riccardo in 1943. Its thick crust, inverted layers, and chunky tomato sauce made it distinctive.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-7",
+      "question": "What pizza delivery chain famously promised '30 minutes or it's free' in its advertising?",
+      "options": [
+        "Papa John's",
+        "Pizza Hut",
+        "Little Caesars",
+        "Domino's"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Domino's used the '30 minutes or it's free' guarantee from 1973 to 1993. It helped build the brand but was discontinued due to safety concerns about speeding drivers.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-8",
+      "question": "What was the popular pizza-making toy that allowed kids to create miniature pizzas with a light-bulb-powered oven?",
+      "options": [
+        "Pizza Party Maker",
+        "Pizza Factory",
+        "My Little Pizza Oven",
+        "Easy-Bake Pizza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Various pizza-making toys were popular in the 1970s and 1980s. The Easy-Bake Oven also offered pizza mix sets for children who wanted to make their own miniature pies.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-9",
+      "question": "What Little Caesars promotion, launched in 1979, offered two pizzas for the price of one?",
+      "options": [
+        "Buy One Get One",
+        "Double Deal",
+        "Two for Tuesday",
+        "Pizza! Pizza!"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Little Caesars' 'Pizza! Pizza!' promotion started in 1979, offering two pizzas for the price of one. The phrase became one of the most recognizable fast food slogans.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-10",
+      "question": "What was the name of the animatronic entertainment show at Chuck E. Cheese's pizza restaurants?",
+      "options": [
+        "Rock-afire Explosion",
+        "Munch's Make Believe Band",
+        "Pizza Time Players",
+        "The Pizza Band"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chuck E. Cheese's featured Munch's Make Believe Band, an animatronic show that entertained families while they ate pizza. The chain was founded by Nolan Bushnell (Atari's creator) in 1977.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-11",
+      "question": "What canned pizza product allowed families to make homemade pizza using a kit from Chef Boyardee?",
+      "options": [
+        "Home Pizza Maker",
+        "Quick Pizza Mix",
+        "Pizza in a Box",
+        "Chef Boyardee Pizza Kit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chef Boyardee's Pizza Kit included canned pizza sauce, a packet of dough mix, and grated cheese. It was one of the first ways many families made pizza at home in the 1960s and 1970s.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-12",
+      "question": "What type of oven was traditional New York-style pizza cooked in at neighborhood pizzerias?",
+      "options": [
+        "Wood-fired oven only",
+        "Microwave",
+        "Conveyor oven",
+        "Coal-fired or gas deck oven"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Traditional New York pizzerias used coal-fired (the original method) or gas deck ovens that produced the signature thin, crispy-yet-foldable crust that defines New York-style pizza.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-13",
+      "question": "What Italian-American snack, popular in the 1960s, was a pizza-like roll filled with pepperoni and cheese?",
+      "options": [
+        "Pizza roll",
+        "Calzone",
+        "Hot Pocket",
+        "Stromboli"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jeno's Pizza Rolls, invented by Jeno Paulucci in the 1960s, were bite-sized rolls filled with pizza ingredients. They became a hugely popular frozen snack (later renamed Totino's Pizza Rolls).",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-14",
+      "question": "What Pizza Hut menu innovation, introduced in 1980, featured a pizza with cheese stuffed inside the crust?",
+      "options": [
+        "Stuffed Crust Pizza",
+        "Pan Pizza",
+        "BigFoot Pizza",
+        "Priazzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pizza Hut introduced the Pan Pizza in 1980, featuring a thick, buttery crust cooked in a deep pan. The Stuffed Crust came later in 1995.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "retro-pizza-history-15",
+      "question": "What was the typical cost of a slice of pizza at a New York City pizzeria in the 1960s?",
+      "options": [
+        "75 cents",
+        "50 cents",
+        "5 cents",
+        "15 cents"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A slice of pizza cost about 15 cents in 1960s New York City, roughly the same as a subway ride. This price relationship between pizza and subway fare became known as the 'Pizza Principle.'",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    }
+  ]
+}

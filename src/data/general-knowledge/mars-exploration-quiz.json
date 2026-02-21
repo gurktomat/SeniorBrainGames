@@ -1,0 +1,173 @@
+{
+  "id": "mars-exploration-quiz",
+  "title": "Mars Exploration",
+  "description": "Test your knowledge of humanity's quest to explore the Red Planet",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "mars-exploration-quiz-1",
+      "question": "Which NASA rover, landing in 2021, carried the first helicopter to fly on another planet?",
+      "options": [
+        "Opportunity",
+        "Spirit",
+        "Perseverance",
+        "Curiosity"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mars-exploration-quiz-2",
+      "question": "What is the name of the small helicopter that made history by flying on Mars?",
+      "options": [
+        "Dragonfly",
+        "Ingenuity",
+        "Scout",
+        "Pioneer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mars-exploration-quiz-3",
+      "question": "What gives Mars its distinctive red color?",
+      "options": [
+        "Copper deposits",
+        "Iron oxide (rust) on its surface",
+        "Red clay soil",
+        "Volcanic ash"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mars-exploration-quiz-4",
+      "question": "Which is the tallest known volcano in the solar system, located on Mars?",
+      "options": [
+        "Mount Etna",
+        "Mauna Kea",
+        "Tharsis Montes",
+        "Olympus Mons"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mars-exploration-quiz-5",
+      "question": "NASA's twin rovers Spirit and Opportunity landed on Mars in what year?",
+      "options": [
+        "2000",
+        "2006",
+        "2004",
+        "2002"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mars-exploration-quiz-6",
+      "question": "What is the name of the vast canyon system on Mars, the largest in the solar system?",
+      "options": [
+        "Valles Marineris",
+        "Ares Vallis",
+        "Hellas Planitia",
+        "Grand Canyon Marineris"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mars-exploration-quiz-7",
+      "question": "How many moons does Mars have?",
+      "options": [
+        "Three",
+        "Two",
+        "None",
+        "One"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mars-exploration-quiz-8",
+      "question": "What are the names of Mars's two moons?",
+      "options": [
+        "Io and Europa",
+        "Phobos and Deimos",
+        "Titan and Enceladus",
+        "Triton and Charon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mars-exploration-quiz-9",
+      "question": "Which spacecraft became the first to successfully land on Mars in 1976?",
+      "options": [
+        "Phoenix",
+        "Mariner 9",
+        "Viking 1",
+        "Mars Pathfinder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mars-exploration-quiz-10",
+      "question": "Approximately how long does it take for light to travel from Mars to Earth at their closest approach?",
+      "options": [
+        "About 1 minute",
+        "About 20 minutes",
+        "About 8 minutes",
+        "About 3 minutes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mars-exploration-quiz-11",
+      "question": "What is the primary component of Mars's thin atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Methane",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mars-exploration-quiz-12",
+      "question": "Which rover held the record for longest-operating Mars rover, lasting from 2004 to 2018?",
+      "options": [
+        "Spirit",
+        "Opportunity",
+        "Curiosity",
+        "Sojourner"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mars-exploration-quiz-13",
+      "question": "What did NASA's Phoenix lander confirm the presence of on Mars in 2008?",
+      "options": [
+        "Water ice",
+        "Organic molecules",
+        "Liquid water",
+        "Microbial life"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mars-exploration-quiz-14",
+      "question": "Approximately how long is a Martian day (called a 'sol')?",
+      "options": [
+        "22 hours",
+        "28 hours 15 minutes",
+        "24 hours 37 minutes",
+        "26 hours"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mars-exploration-quiz-15",
+      "question": "Which billionaire entrepreneur has stated a goal of establishing a human colony on Mars?",
+      "options": [
+        "Elon Musk",
+        "Richard Branson",
+        "Jeff Bezos",
+        "Mark Zuckerberg"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

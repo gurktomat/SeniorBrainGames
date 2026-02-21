@@ -1,0 +1,219 @@
+{
+  "id": "modern-history-leaders-quiz",
+  "title": "Modern History Leaders Quiz",
+  "description": "How well do you recall the leaders who shaped the 20th and 21st centuries?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "modern-history-leaders-quiz-1",
+      "question": "Which US president led the nation through most of the Great Depression and World War II?",
+      "options": [
+        "Dwight Eisenhower",
+        "Franklin D. Roosevelt",
+        "Herbert Hoover",
+        "Harry Truman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Franklin D. Roosevelt served an unprecedented four terms (1933-1945), leading the nation through the Great Depression and most of World War II.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-2",
+      "question": "Which British Prime Minister led the country during World War II?",
+      "options": [
+        "Neville Chamberlain",
+        "Anthony Eden",
+        "Clement Attlee",
+        "Winston Churchill"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Winston Churchill served as Prime Minister from 1940 to 1945, inspiring the British people with his speeches and leadership during the war.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-3",
+      "question": "Which leader unified Germany in 1990 as Chancellor?",
+      "options": [
+        "Gerhard Schröder",
+        "Helmut Schmidt",
+        "Helmut Kohl",
+        "Willy Brandt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chancellor Helmut Kohl oversaw the reunification of East and West Germany on October 3, 1990, becoming known as the 'Chancellor of Unity.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-4",
+      "question": "Which Israeli Prime Minister signed the Oslo Accords with the PLO?",
+      "options": [
+        "Golda Meir",
+        "Menachem Begin",
+        "Ariel Sharon",
+        "Yitzhak Rabin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prime Minister Yitzhak Rabin signed the Oslo Accords with PLO Chairman Yasser Arafat in 1993. He was assassinated in 1995.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-5",
+      "question": "Which US president made the decision to drop atomic bombs on Japan?",
+      "options": [
+        "Harry Truman",
+        "Douglas MacArthur",
+        "Franklin D. Roosevelt",
+        "Dwight Eisenhower"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President Harry Truman authorized the use of atomic bombs on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945) to end World War II.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-6",
+      "question": "Who was the leader of the Chinese Communist Revolution and founded the People's Republic of China?",
+      "options": [
+        "Mao Zedong",
+        "Sun Yat-sen",
+        "Deng Xiaoping",
+        "Chiang Kai-shek"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mao Zedong led the Chinese Communist Party to victory and proclaimed the People's Republic of China on October 1, 1949.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-7",
+      "question": "Which Soviet leader confronted JFK during the Cuban Missile Crisis?",
+      "options": [
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Joseph Stalin",
+        "Mikhail Gorbachev"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Soviet Premier Nikita Khrushchev placed nuclear missiles in Cuba in 1962, leading to a tense standoff with President John F. Kennedy.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-8",
+      "question": "Which US president opened diplomatic relations with Communist China in 1972?",
+      "options": [
+        "Richard Nixon",
+        "Lyndon Johnson",
+        "Jimmy Carter",
+        "Gerald Ford"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President Richard Nixon made a historic visit to China in February 1972, opening diplomatic relations after decades of isolation.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-9",
+      "question": "Which Indian leader became the country's first female Prime Minister?",
+      "options": [
+        "Indira Gandhi",
+        "Pratibha Patil",
+        "Sarojini Naidu",
+        "Sonia Gandhi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Indira Gandhi served as Prime Minister of India from 1966 to 1977 and again from 1980 until her assassination in 1984.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-10",
+      "question": "Which leader ended apartheid and shared the Nobel Peace Prize with Nelson Mandela?",
+      "options": [
+        "F.W. de Klerk",
+        "Desmond Tutu",
+        "Thabo Mbeki",
+        "P.W. Botha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "South African President F.W. de Klerk began dismantling apartheid and released Nelson Mandela from prison. They shared the 1993 Nobel Peace Prize.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-11",
+      "question": "Which US president was assassinated in Dallas, Texas in 1963?",
+      "options": [
+        "John F. Kennedy",
+        "Dwight Eisenhower",
+        "Richard Nixon",
+        "Lyndon Johnson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President John F. Kennedy was assassinated on November 22, 1963, in Dallas, Texas, while riding in a motorcade.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-12",
+      "question": "Which Japanese emperor announced Japan's surrender in World War II?",
+      "options": [
+        "Emperor Akihito",
+        "Emperor Meiji",
+        "Emperor Taisho",
+        "Emperor Hirohito"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emperor Hirohito (Showa) made a radio broadcast on August 15, 1945, announcing Japan's surrender, the first time most Japanese had heard the emperor's voice.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-13",
+      "question": "Which French leader established the Fifth Republic and served as its first president?",
+      "options": [
+        "Charles de Gaulle",
+        "Georges Pompidou",
+        "Valéry Giscard d'Estaing",
+        "François Mitterrand"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Charles de Gaulle established the French Fifth Republic in 1958 and served as its president until 1969.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-14",
+      "question": "Which US president signed the Civil Rights Act of 1964?",
+      "options": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "John F. Kennedy",
+        "Dwight Eisenhower"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President Lyndon B. Johnson signed the Civil Rights Act on July 2, 1964, outlawing discrimination based on race, color, religion, sex, or national origin.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "modern-history-leaders-quiz-15",
+      "question": "Which leader said 'Mr. Gorbachev, tear down this wall!' at the Berlin Wall?",
+      "options": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "George H.W. Bush",
+        "Richard Nixon"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President Ronald Reagan delivered this famous challenge in a speech at the Brandenburg Gate in Berlin on June 12, 1987.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

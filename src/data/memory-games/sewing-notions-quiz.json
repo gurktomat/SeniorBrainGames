@@ -1,0 +1,174 @@
+{
+  "id": "sewing-notions-quiz",
+  "title": "Sewing Notions Quiz",
+  "description": "How well do you know sewing supplies and notions? Test your knowledge of needles, threads, and tools of the trade.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sewing-notions-quiz-1",
+      "question": "What is a thimble used for in sewing?",
+      "options": [
+        "Measuring fabric",
+        "Holding pins",
+        "Protecting the finger when pushing a needle",
+        "Cutting thread"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sewing-notions-quiz-2",
+      "question": "Which sewing tool is a small cushion used to hold pins and needles?",
+      "options": [
+        "Needle case",
+        "Pin cushion",
+        "Bobbin",
+        "Spool holder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sewing-notions-quiz-3",
+      "question": "What is a seam ripper used for?",
+      "options": [
+        "Cutting fabric",
+        "Measuring seam allowance",
+        "Pressing seams open",
+        "Removing unwanted stitches"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sewing-notions-quiz-4",
+      "question": "Which tool is used to transfer pattern markings onto fabric using a spiked wheel?",
+      "options": [
+        "Hem gauge",
+        "Pinking shears",
+        "Rotary cutter",
+        "Tracing wheel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sewing-notions-quiz-5",
+      "question": "What are pinking shears designed to do?",
+      "options": [
+        "Cut fabric with a zigzag edge to prevent fraying",
+        "Cut patterns from paper",
+        "Trim seam allowances evenly",
+        "Cut thread precisely"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sewing-notions-quiz-6",
+      "question": "What is a bobbin in sewing?",
+      "options": [
+        "A type of button",
+        "A needle threader",
+        "A small spool that holds the lower thread in a sewing machine",
+        "A fabric marker"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sewing-notions-quiz-7",
+      "question": "Which sewing notion is a flat, flexible strip used to measure body dimensions for fitting?",
+      "options": [
+        "French curve",
+        "Ruler",
+        "Tape measure",
+        "Hem gauge"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sewing-notions-quiz-8",
+      "question": "What is bias tape used for?",
+      "options": [
+        "Marking dart positions",
+        "Binding edges and finishing seams",
+        "Holding fabric together temporarily",
+        "Reinforcing buttonholes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sewing-notions-quiz-9",
+      "question": "Which notion is a hook-and-loop fastener commonly known by the brand name Velcro?",
+      "options": [
+        "Hook-and-loop tape",
+        "Hook and eye",
+        "Snap fastener",
+        "Frog closure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sewing-notions-quiz-10",
+      "question": "What is a bodkin used for in sewing?",
+      "options": [
+        "Cutting buttonholes",
+        "Marking fabric",
+        "Pressing seams",
+        "Threading elastic or ribbon through casings"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sewing-notions-quiz-11",
+      "question": "Which type of scissors has short, angled blades designed for trimming threads close to fabric?",
+      "options": [
+        "Dressmaker shears",
+        "Pinking shears",
+        "Embroidery scissors",
+        "Rotary cutter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sewing-notions-quiz-12",
+      "question": "What is tailor's chalk used for?",
+      "options": [
+        "Lubricating the sewing machine",
+        "Stiffening collars",
+        "Preventing fabric from slipping",
+        "Marking fabric for cutting or sewing"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sewing-notions-quiz-13",
+      "question": "Which sewing notion is a small metal or plastic device used to help push thread through the eye of a needle?",
+      "options": [
+        "Bobbin winder",
+        "Needle threader",
+        "Thimble",
+        "Stiletto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sewing-notions-quiz-14",
+      "question": "What is interfacing used for in sewing?",
+      "options": [
+        "Decorating the fabric surface",
+        "Adding structure and stability to fabric",
+        "Waterproofing garments",
+        "Creating pleats"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sewing-notions-quiz-15",
+      "question": "Which tool is a curved, transparent ruler used for drawing smooth necklines and armholes on patterns?",
+      "options": [
+        "French curve",
+        "Protractor",
+        "Straight ruler",
+        "T-square"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

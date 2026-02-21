@@ -1,0 +1,173 @@
+{
+  "id": "scientific-instruments-quiz",
+  "title": "Scientific Instruments Quiz",
+  "description": "From microscopes to spectrometers, test your recall of the tools scientists use to explore the world.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "scientific-instruments-quiz-1",
+      "question": "What instrument is used to observe very small objects by magnifying them?",
+      "options": [
+        "Microscope",
+        "Telescope",
+        "Stethoscope",
+        "Periscope"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-2",
+      "question": "What does a seismograph measure?",
+      "options": [
+        "Air pressure",
+        "Earthquake vibrations",
+        "Wind speed",
+        "Ocean depth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-instruments-quiz-3",
+      "question": "Which instrument measures atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Anemometer",
+        "Barometer",
+        "Hygrometer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "scientific-instruments-quiz-4",
+      "question": "What does an anemometer measure?",
+      "options": [
+        "Wind speed",
+        "Temperature",
+        "Humidity",
+        "Rainfall"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-5",
+      "question": "Which instrument is used to measure electric current?",
+      "options": [
+        "Ohmmeter",
+        "Ammeter",
+        "Wattmeter",
+        "Voltmeter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-instruments-quiz-6",
+      "question": "What instrument separates white light into its component colors?",
+      "options": [
+        "Prism",
+        "Filter",
+        "Mirror",
+        "Lens"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-7",
+      "question": "Who invented the first practical telescope used for astronomy?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Hans Lippershey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-8",
+      "question": "What laboratory instrument is used to measure precise volumes of liquid?",
+      "options": [
+        "Beaker",
+        "Flask",
+        "Test tube",
+        "Burette"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-instruments-quiz-9",
+      "question": "What does a Geiger counter detect?",
+      "options": [
+        "Radiation",
+        "Sound waves",
+        "Electric charge",
+        "Magnetic fields"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-10",
+      "question": "Which instrument measures temperature?",
+      "options": [
+        "Thermometer",
+        "Manometer",
+        "Hygrometer",
+        "Barometer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-11",
+      "question": "What instrument is used to measure the pH of a solution?",
+      "options": [
+        "Spectrometer",
+        "pH meter",
+        "Calorimeter",
+        "Densitometer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "scientific-instruments-quiz-12",
+      "question": "What does a hygrometer measure?",
+      "options": [
+        "Air pressure",
+        "Light intensity",
+        "Sound level",
+        "Humidity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-instruments-quiz-13",
+      "question": "What type of microscope uses electrons instead of light to achieve very high magnification?",
+      "options": [
+        "Electron microscope",
+        "Compound microscope",
+        "Stereo microscope",
+        "Phase-contrast microscope"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "scientific-instruments-quiz-14",
+      "question": "What instrument is used in chemistry to heat substances over an open flame?",
+      "options": [
+        "Autoclave",
+        "Hot plate",
+        "Crucible",
+        "Bunsen burner"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "scientific-instruments-quiz-15",
+      "question": "What instrument uses spinning to separate substances of different densities?",
+      "options": [
+        "Distillation apparatus",
+        "Spectrometer",
+        "Chromatograph",
+        "Centrifuge"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

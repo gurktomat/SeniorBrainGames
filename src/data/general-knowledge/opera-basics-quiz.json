@@ -1,0 +1,219 @@
+{
+  "id": "opera-basics-quiz",
+  "title": "Opera Basics",
+  "description": "Test your knowledge of the grand world of opera, from famous arias to legendary composers!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "opera-basics-quiz-1",
+      "question": "Which Italian composer wrote 'La Traviata,' 'Aida,' and 'Rigoletto'?",
+      "options": [
+        "Gaetano Donizetti",
+        "Giuseppe Verdi",
+        "Giacomo Puccini",
+        "Gioachino Rossini"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giuseppe Verdi was one of the most influential opera composers of the 19th century. His works remain central to the standard opera repertoire worldwide.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-2",
+      "question": "What is an 'aria' in opera?",
+      "options": [
+        "The orchestra's introduction",
+        "A group dance number",
+        "The spoken dialogue between songs",
+        "A solo vocal piece for one singer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An aria is a self-contained piece for one voice, usually expressing emotion or revealing character. Famous arias include 'Nessun Dorma' and 'La donna è mobile.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-3",
+      "question": "Which Puccini opera features the aria 'Nessun Dorma'?",
+      "options": [
+        "La Bohème",
+        "Madama Butterfly",
+        "Tosca",
+        "Turandot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Nessun Dorma' is sung by the character Calaf in 'Turandot.' It became widely popular after Luciano Pavarotti performed it at the 1990 FIFA World Cup.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-4",
+      "question": "In which country did opera originate around the year 1600?",
+      "options": [
+        "Italy",
+        "France",
+        "Germany",
+        "Austria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Opera originated in Italy, with 'Dafne' by Jacopo Peri (c. 1597) considered the first opera. Florence was the birthplace of the art form, created by a group called the Camerata.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-5",
+      "question": "Which Mozart opera tells the story of a legendary seducer and features the 'Catalogue Aria'?",
+      "options": [
+        "The Magic Flute",
+        "Don Giovanni",
+        "Così fan tutte",
+        "The Marriage of Figaro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Don Giovanni' (1787) dramatizes the exploits and downfall of the legendary Don Juan. The 'Catalogue Aria' lists Don Giovanni's numerous romantic conquests across Europe.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-6",
+      "question": "What is the term for the text or script of an opera?",
+      "options": [
+        "Recitative",
+        "Overture",
+        "Libretto",
+        "Cadenza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A libretto (Italian for 'little book') is the text of an opera, including all sung and spoken words. The person who writes it is called a librettist.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-7",
+      "question": "Which German composer created the four-opera cycle 'Der Ring des Nibelungen'?",
+      "options": [
+        "Richard Wagner",
+        "Richard Strauss",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Richard Wagner composed 'The Ring Cycle' over 26 years. The four operas, performed over about 15 hours, draw on Norse mythology and premiered at the Bayreuth Festival in 1876.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-8",
+      "question": "What type of voice is a soprano?",
+      "options": [
+        "A low female voice",
+        "The lowest male voice",
+        "A medium-range male voice",
+        "The highest female voice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Soprano is the highest vocal range, typically found in female singers. In opera, sopranos often sing the leading female roles, known as the prima donna.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-9",
+      "question": "Which Bizet opera features a fiery gypsy woman working in a cigarette factory in Seville?",
+      "options": [
+        "The Barber of Seville",
+        "The Pearl Fishers",
+        "Don Carlos",
+        "Carmen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Georges Bizet's 'Carmen' (1875) tells the tragic story of the free-spirited Carmen and the soldier Don José. It is one of the most frequently performed operas worldwide.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-10",
+      "question": "What is a 'recitative' in opera?",
+      "options": [
+        "A lively dance number",
+        "Speech-like singing that advances the plot",
+        "The final chorus of an act",
+        "A duet between the lead characters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recitative is a style of singing that mimics the rhythms of natural speech. It is used to move the story forward between the more melodic arias and ensembles.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-11",
+      "question": "Which famous tenor popularized opera for mainstream audiences with concerts like 'The Three Tenors'?",
+      "options": [
+        "Andrea Bocelli",
+        "Luciano Pavarotti",
+        "Enrico Caruso",
+        "Plácido Domingo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Luciano Pavarotti, along with Plácido Domingo and José Carreras, formed 'The Three Tenors.' Pavarotti's charisma and powerful voice brought opera to millions of new listeners.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-12",
+      "question": "In Puccini's 'La Bohème,' what is the setting of the story?",
+      "options": [
+        "Rome's artistic community",
+        "Paris's bohemian Latin Quarter",
+        "Vienna's aristocratic courts",
+        "London's theater district"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'La Bohème' (1896) follows the love story of the poet Rodolfo and the seamstress Mimì among struggling artists in Paris. It inspired the modern musical 'Rent.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-13",
+      "question": "What is the orchestral introduction played before the curtain rises called?",
+      "options": [
+        "Cadenza",
+        "Prelude",
+        "Intermezzo",
+        "Overture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An overture is the instrumental piece that opens an opera, often previewing themes and melodies that will appear later in the work. Some overtures have become popular concert pieces.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-14",
+      "question": "Which Rossini opera is a comedic tale about a clever barber in Seville?",
+      "options": [
+        "The Italian Girl in Algiers",
+        "William Tell",
+        "The Barber of Seville",
+        "Cinderella"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Barber of Seville' (1816) features the witty Figaro helping Count Almaviva woo the beautiful Rosina. Its lively overture is one of the most recognizable in all of opera.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "opera-basics-quiz-15",
+      "question": "What does 'opera buffa' mean?",
+      "options": [
+        "Tragic opera",
+        "Grand opera",
+        "Sacred opera",
+        "Comic opera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Opera buffa' is Italian for comic opera. Originating in 18th-century Naples, it features everyday characters and humorous situations, in contrast to the serious 'opera seria.'",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

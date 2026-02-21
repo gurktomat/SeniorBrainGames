@@ -1,0 +1,174 @@
+{
+  "id": "hardware-store-quiz",
+  "title": "Hardware Store Quiz",
+  "description": "Do you know your way around a hardware store? Test your recall of common hardware items and supplies.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "hardware-store-quiz-1",
+      "question": "What type of fastener has external threads and is driven with a wrench rather than a screwdriver?",
+      "options": [
+        "Bolt",
+        "Rivet",
+        "Screw",
+        "Nail"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hardware-store-quiz-2",
+      "question": "Which hardware item is a U-shaped metal piece with threaded ends, used to hang pipes?",
+      "options": [
+        "Hose clamp",
+        "Eye bolt",
+        "Pipe clamp",
+        "U-bolt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hardware-store-quiz-3",
+      "question": "What is a toggle bolt used for?",
+      "options": [
+        "Connecting two pieces of wood",
+        "Fastening roof shingles",
+        "Anchoring heavy items to hollow walls",
+        "Securing fence posts"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hardware-store-quiz-4",
+      "question": "Which product is a flexible putty-like compound used to seal gaps around windows?",
+      "options": [
+        "Wood filler",
+        "Joint compound",
+        "Caulk",
+        "Epoxy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hardware-store-quiz-5",
+      "question": "What does the abbreviation 'PVC' stand for in plumbing pipe materials?",
+      "options": [
+        "Polyvinyl Chloride",
+        "Polymer Ventilation Channel",
+        "Pressurized Vinyl Coating",
+        "Plastic Vacuum Conduit"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hardware-store-quiz-6",
+      "question": "Which hardware item is a flat, round disc placed under a nut or bolt head to distribute pressure?",
+      "options": [
+        "Gasket",
+        "Washer",
+        "Grommet",
+        "Bushing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hardware-store-quiz-7",
+      "question": "What type of adhesive creates an extremely strong bond and typically comes in two parts that must be mixed?",
+      "options": [
+        "Wood glue",
+        "Epoxy",
+        "Contact cement",
+        "Super glue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hardware-store-quiz-8",
+      "question": "Which item is a plastic insert placed into a drilled hole in drywall to hold a screw?",
+      "options": [
+        "Shim",
+        "Dowel",
+        "Wall anchor",
+        "Plug"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hardware-store-quiz-9",
+      "question": "What is a pipe wrench specifically designed to grip?",
+      "options": [
+        "Sheet metal",
+        "Hex bolts",
+        "Round pipes and fittings",
+        "Flat surfaces"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hardware-store-quiz-10",
+      "question": "Which type of sandpaper grit number indicates the coarsest surface?",
+      "options": [
+        "220 grit",
+        "40 grit",
+        "400 grit",
+        "120 grit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hardware-store-quiz-11",
+      "question": "What is plumber's tape (Teflon tape) used for?",
+      "options": [
+        "Sealing threaded pipe connections to prevent leaks",
+        "Repairing pipe leaks from outside",
+        "Insulating hot water pipes",
+        "Marking pipe cut lines"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hardware-store-quiz-12",
+      "question": "Which hardware store product is a thin, tapered piece of wood used to level surfaces?",
+      "options": [
+        "Shim",
+        "Dowel",
+        "Wedge anchor",
+        "Furring strip"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hardware-store-quiz-13",
+      "question": "What kind of saw blade is designed specifically for cutting metal?",
+      "options": [
+        "Hacksaw blade",
+        "Dado blade",
+        "Crosscut blade",
+        "Rip blade"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hardware-store-quiz-14",
+      "question": "Which product is used to fill nail holes and small imperfections in wood before painting?",
+      "options": [
+        "Mortar",
+        "Spackle",
+        "Grout",
+        "Wood putty (wood filler)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hardware-store-quiz-15",
+      "question": "What is a stud finder used for?",
+      "options": [
+        "Detecting electrical wires",
+        "Finding underground pipes",
+        "Measuring wall thickness",
+        "Locating wooden framing studs behind walls"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

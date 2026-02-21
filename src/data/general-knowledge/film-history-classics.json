@@ -1,0 +1,219 @@
+{
+  "id": "film-history-classics",
+  "title": "Film History Classics",
+  "description": "Lights, camera, action! Test your knowledge of cinema history and its greatest achievements!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "film-history-classics-1",
+      "question": "Which 1941 film, directed by Orson Welles, is often called the greatest movie ever made?",
+      "options": [
+        "Gone with the Wind",
+        "Casablanca",
+        "Citizen Kane",
+        "The Maltese Falcon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Orson Welles directed and starred in 'Citizen Kane' at age 25. Its innovative cinematography, narrative structure, and deep focus techniques revolutionized filmmaking.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-2",
+      "question": "The Lumière brothers are credited with creating the first public what in 1895?",
+      "options": [
+        "Television broadcast",
+        "Motion picture screening",
+        "Photograph",
+        "Sound recording"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Auguste and Louis Lumière held the first public screening of projected motion pictures on December 28, 1895 in Paris. Their short films, including a train arriving at a station, amazed audiences.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-3",
+      "question": "Which 1927 film was the first major 'talkie' — a feature film with synchronized dialogue?",
+      "options": [
+        "The Jazz Singer",
+        "The General",
+        "Metropolis",
+        "Sunrise"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Jazz Singer' starring Al Jolson was the first feature-length film with synchronized dialogue sequences. It signaled the end of the silent film era and transformed the movie industry.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-4",
+      "question": "Alfred Hitchcock is known as the 'Master of' which genre?",
+      "options": [
+        "Comedy",
+        "Musical",
+        "Suspense",
+        "Western"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alfred Hitchcock earned the title 'Master of Suspense' through films like 'Psycho,' 'Vertigo,' 'Rear Window,' and 'North by Northwest.' His techniques for building tension influenced generations of filmmakers.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-5",
+      "question": "Charlie Chaplin's beloved character 'The Tramp' was known for wearing what?",
+      "options": [
+        "A beret and scarf",
+        "A cowboy hat and boots",
+        "A bowler hat, baggy pants, and a cane",
+        "A top hat and monocle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tramp, with his bowler hat, tight coat, baggy trousers, oversized shoes, and cane, became one of cinema's most iconic characters. Chaplin played him in dozens of films from 1914 to 1936.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-6",
+      "question": "Which Italian film movement of the 1940s-50s featured realistic stories of everyday life using non-professional actors?",
+      "options": [
+        "Italian Neorealism",
+        "French New Wave",
+        "German Expressionism",
+        "Soviet Montage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Italian Neorealism emerged after World War II with films like Roberto Rossellini's 'Rome, Open City' and Vittorio De Sica's 'Bicycle Thieves.' They used real locations and non-professional actors to depict ordinary people's struggles.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-7",
+      "question": "What film won the first Academy Award for Best Picture in 1929?",
+      "options": [
+        "Sunrise",
+        "The Broadway Melody",
+        "Wings",
+        "All Quiet on the Western Front"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Wings' (1927), a silent film about World War I fighter pilots, won the first Academy Award for Best Picture (then called Outstanding Picture) at the ceremony held on May 16, 1929.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-8",
+      "question": "Which Japanese director made 'Seven Samurai' and 'Rashomon'?",
+      "options": [
+        "Yasujirō Ozu",
+        "Kenji Mizoguchi",
+        "Akira Kurosawa",
+        "Hayao Miyazaki"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Akira Kurosawa is widely regarded as one of the greatest filmmakers in history. 'Rashomon' (1950) introduced Japanese cinema to Western audiences, and 'Seven Samurai' (1954) has been endlessly imitated and remade.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-9",
+      "question": "The classic line 'Here's looking at you, kid' is from which 1942 film?",
+      "options": [
+        "To Have and Have Not",
+        "Casablanca",
+        "Key Largo",
+        "The Maltese Falcon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Casablanca,' starring Humphrey Bogart and Ingrid Bergman, is one of the most beloved films ever made. Set during World War II, it features some of cinema's most quotable dialogue.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-10",
+      "question": "Which 1939 film, shot in Technicolor, features the famous line 'There's no place like home'?",
+      "options": [
+        "Mr. Smith Goes to Washington",
+        "The Wizard of Oz",
+        "Gone with the Wind",
+        "Stagecoach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'The Wizard of Oz,' starring Judy Garland as Dorothy, used groundbreaking Technicolor photography to contrast the sepia-toned Kansas scenes with the vibrant Land of Oz.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-11",
+      "question": "German Expressionist cinema of the 1920s is best represented by which horror film?",
+      "options": [
+        "The Phantom of the Opera",
+        "Nosferatu",
+        "Dracula",
+        "Frankenstein"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F.W. Murnau's 'Nosferatu' (1922) used distorted sets, dramatic shadows, and eerie camera angles typical of German Expressionism. It was an unauthorized adaptation of Bram Stoker's 'Dracula.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-12",
+      "question": "Which director created the French New Wave classic 'Breathless' in 1960?",
+      "options": [
+        "Jean-Luc Godard",
+        "Alain Resnais",
+        "Claude Chabrol",
+        "François Truffaut"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jean-Luc Godard's 'Breathless' ('À bout de souffle') broke conventional filmmaking rules with jump cuts, handheld cameras, and improvisational dialogue. It became a landmark of the French New Wave movement.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-13",
+      "question": "Which silent film comedian was known for performing dangerous stunts, including hanging from a clock in 'Safety Last!'?",
+      "options": [
+        "Harold Lloyd",
+        "Charlie Chaplin",
+        "Laurel and Hardy",
+        "Buster Keaton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Harold Lloyd performed many of his own stunts, including the iconic scene of dangling from a building clock face in 'Safety Last!' (1923). He was one of the most popular and highest-paid stars of the silent era.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-14",
+      "question": "Walt Disney's 'Snow White and the Seven Dwarfs' (1937) holds what distinction?",
+      "options": [
+        "First color film",
+        "First film with a soundtrack",
+        "First feature-length animated film in English",
+        "First animated short"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Snow White and the Seven Dwarfs' was the first full-length cel-animated feature film in motion picture history produced in English. Many in Hollywood predicted it would be a disaster, calling it 'Disney's Folly,' but it became a massive hit.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "film-history-classics-15",
+      "question": "Which Billy Wilder film features Marilyn Monroe standing over a subway grate as her dress blows up?",
+      "options": [
+        "The Seven Year Itch",
+        "Some Like It Hot",
+        "Bus Stop",
+        "Gentlemen Prefer Blondes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Seven Year Itch' (1955) features the iconic scene of Marilyn Monroe's white dress billowing over a subway grate on Lexington Avenue in New York. It has become one of the most famous images in cinema history.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

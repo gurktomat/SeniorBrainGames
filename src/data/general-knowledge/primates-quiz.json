@@ -1,0 +1,173 @@
+{
+  "id": "primates-quiz",
+  "title": "Primates of the World",
+  "description": "Meet our closest relatives in the animal kingdom, from great apes to tiny lemurs.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "primates-quiz-1",
+      "question": "Which great ape is considered the closest living relative to humans?",
+      "options": [
+        "Chimpanzee",
+        "Gorilla",
+        "Orangutan",
+        "Bonobo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "primates-quiz-2",
+      "question": "Lemurs are found naturally only on which island?",
+      "options": [
+        "Java",
+        "Borneo",
+        "Sri Lanka",
+        "Madagascar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "primates-quiz-3",
+      "question": "The silverback is the dominant male in a group of which primates?",
+      "options": [
+        "Orangutans",
+        "Gorillas",
+        "Baboons",
+        "Chimpanzees"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "primates-quiz-4",
+      "question": "Which primate is known for using tools, such as sticks to extract termites?",
+      "options": [
+        "Gorilla",
+        "Gibbon",
+        "Chimpanzee",
+        "Baboon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "primates-quiz-5",
+      "question": "The orangutan's name comes from Malay words meaning what?",
+      "options": [
+        "Forest giant",
+        "Tree dweller",
+        "Red ape",
+        "Person of the forest"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "primates-quiz-6",
+      "question": "Which is the smallest primate in the world?",
+      "options": [
+        "Tarsier",
+        "Mouse lemur",
+        "Pygmy marmoset",
+        "Madame Berthe's mouse lemur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "primates-quiz-7",
+      "question": "The proboscis monkey, known for its large nose, is native to which island?",
+      "options": [
+        "Sulawesi",
+        "Sumatra",
+        "Borneo",
+        "Madagascar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "primates-quiz-8",
+      "question": "Which famous primatologist spent decades studying chimpanzees in Tanzania?",
+      "options": [
+        "Jane Goodall",
+        "Frans de Waal",
+        "Dian Fossey",
+        "Biruté Galdikas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "primates-quiz-9",
+      "question": "Gibbons are known for what distinctive form of movement through the trees?",
+      "options": [
+        "Brachiation (swinging by arms)",
+        "Crawling",
+        "Leaping",
+        "Gliding"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "primates-quiz-10",
+      "question": "The mandrill, the world's largest monkey, is recognized by what colorful feature?",
+      "options": [
+        "Blue and red face markings",
+        "A green tail",
+        "A red chest",
+        "Yellow hands"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "primates-quiz-11",
+      "question": "How many species of great apes exist today (excluding humans)?",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "8"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "primates-quiz-12",
+      "question": "The howler monkey can be heard from how far away?",
+      "options": [
+        "5 miles",
+        "3 miles",
+        "Half a mile",
+        "1 mile"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "primates-quiz-13",
+      "question": "Which ape was the subject of sign language experiments, famously learning over 1,000 signs?",
+      "options": [
+        "An orangutan named Chantek",
+        "A bonobo named Kanzi",
+        "A chimpanzee named Washoe",
+        "A gorilla named Koko"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "primates-quiz-14",
+      "question": "The golden lion tamarin is a small primate native to the rainforests of which country?",
+      "options": [
+        "Brazil",
+        "Peru",
+        "Ecuador",
+        "Colombia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "primates-quiz-15",
+      "question": "What distinguishes apes from monkeys?",
+      "options": [
+        "Apes have no tails",
+        "Apes are larger",
+        "Apes live only in Africa",
+        "Apes eat only fruit"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -8,130 +8,130 @@
       "id": "world-waterfalls-1",
       "question": "Which waterfall, located on the border of Zambia and Zimbabwe, is known locally as 'Mosi-oa-Tunya' (The Smoke That Thunders)?",
       "options": [
-        "Angel Falls",
-        "Victoria Falls",
+        "Kaieteur Falls",
         "Iguazu Falls",
-        "Kaieteur Falls"
+        "Victoria Falls",
+        "Angel Falls"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-waterfalls-2",
       "question": "What is the tallest waterfall in the world, located in Venezuela?",
       "options": [
-        "Niagara Falls",
-        "Tugela Falls",
         "Angel Falls",
-        "Yosemite Falls"
+        "Yosemite Falls",
+        "Tugela Falls",
+        "Niagara Falls"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-waterfalls-3",
       "question": "Niagara Falls sits on the border between which two countries?",
       "options": [
-        "United States and Mexico",
         "United States and Canada",
-        "Canada and Greenland",
-        "United States and Cuba"
+        "United States and Cuba",
+        "United States and Mexico",
+        "Canada and Greenland"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "world-waterfalls-4",
       "question": "The spectacular Iguazu Falls straddle the border between which two South American countries?",
       "options": [
-        "Brazil and Argentina",
-        "Brazil and Paraguay",
         "Colombia and Venezuela",
-        "Chile and Argentina"
+        "Brazil and Argentina",
+        "Chile and Argentina",
+        "Brazil and Paraguay"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "world-waterfalls-5",
       "question": "Which famous waterfall in Yosemite National Park is one of the tallest in North America?",
       "options": [
-        "Multnomah Falls",
         "Yosemite Falls",
+        "Multnomah Falls",
         "Bridalveil Fall",
         "Ribbon Fall"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "world-waterfalls-6",
       "question": "In which country would you find the stunning Plitvice Lakes waterfalls, a UNESCO World Heritage Site?",
       "options": [
-        "Slovenia",
-        "Croatia",
+        "Bosnia and Herzegovina",
         "Montenegro",
-        "Bosnia and Herzegovina"
+        "Slovenia",
+        "Croatia"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "world-waterfalls-7",
       "question": "Which waterfall in Iceland is known as the 'Golden Falls' and is one of the country's most popular tourist attractions?",
       "options": [
         "Dettifoss",
+        "Seljalandsfoss",
         "Skogafoss",
-        "Gullfoss",
-        "Seljalandsfoss"
+        "Gullfoss"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-waterfalls-8",
       "question": "Dettifoss, one of the most powerful waterfalls in Europe, is located in which country?",
       "options": [
         "Norway",
+        "Finland",
         "Iceland",
-        "Sweden",
-        "Finland"
+        "Sweden"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-waterfalls-9",
       "question": "Which of the three waterfalls at Niagara is the largest by volume?",
       "options": [
-        "American Falls",
-        "Bridal Veil Falls",
+        "Canadian Falls",
         "Horseshoe Falls",
-        "Canadian Falls"
+        "Bridal Veil Falls",
+        "American Falls"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-waterfalls-10",
       "question": "Kaieteur Falls, one of the world's most powerful waterfalls by volume, is located in which South American country?",
       "options": [
-        "Suriname",
-        "Guyana",
         "French Guiana",
-        "Venezuela"
+        "Venezuela",
+        "Guyana",
+        "Suriname"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "world-waterfalls-11",
       "question": "In which African country is the Blue Nile Falls, known locally as 'Tis Abay' (Great Smoke)?",
       "options": [
-        "Sudan",
-        "Kenya",
         "Ethiopia",
-        "Uganda"
+        "Sudan",
+        "Uganda",
+        "Kenya"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-waterfalls-12",
       "question": "Sutherland Falls, one of the tallest waterfalls in the Southern Hemisphere, is found in which country?",
       "options": [
-        "Australia",
-        "Chile",
         "South Africa",
+        "Chile",
+        "Australia",
         "New Zealand"
       ],
       "correctAnswer": 3
@@ -140,21 +140,21 @@
       "id": "world-waterfalls-13",
       "question": "Which waterfall, one of the widest in the world, is located on the Mekong River on the border of Laos and Cambodia?",
       "options": [
-        "Ban Gioc Falls",
         "Khone Phapheng Falls",
-        "Huangguoshu Waterfall",
-        "Thi Lo Su Waterfall"
+        "Thi Lo Su Waterfall",
+        "Ban Gioc Falls",
+        "Huangguoshu Waterfall"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "world-waterfalls-14",
       "question": "Which famous Swiss waterfall inspired Arthur Conan Doyle to write the scene where Sherlock Holmes battles Professor Moriarty?",
       "options": [
         "Rhine Falls",
-        "Staubbach Falls",
+        "Trummelbach Falls",
         "Reichenbach Falls",
-        "Trummelbach Falls"
+        "Staubbach Falls"
       ],
       "correctAnswer": 2
     },
@@ -162,12 +162,12 @@
       "id": "world-waterfalls-15",
       "question": "Tugela Falls, the second tallest waterfall in the world, is located in which country?",
       "options": [
+        "Mozambique",
         "Tanzania",
         "Lesotho",
-        "South Africa",
-        "Mozambique"
+        "South Africa"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

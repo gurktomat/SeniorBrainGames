@@ -1,0 +1,173 @@
+{
+  "id": "wine-tasting-vocabulary",
+  "title": "Wine Tasting Vocabulary",
+  "description": "Master the specialized language of wine tasting, from aroma descriptions to vineyard terms",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "wine-tasting-vocabulary-1",
+      "question": "In wine tasting, what does 'tannin' refer to?",
+      "options": [
+        "The alcohol content",
+        "The sugar level in wine",
+        "A naturally occurring compound that creates a dry, puckering sensation in the mouth",
+        "The color of white wine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-tasting-vocabulary-2",
+      "question": "What does 'terroir' mean in the wine world?",
+      "options": [
+        "The aging process",
+        "A type of grape",
+        "A wine region in France",
+        "The complete natural environment in which a wine is produced, including soil, climate, and topography"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wine-tasting-vocabulary-3",
+      "question": "In wine terminology, what does 'bouquet' describe?",
+      "options": [
+        "The shape of the glass",
+        "The wine label design",
+        "The complex aromas that develop in wine as it ages in the bottle",
+        "A flower arrangement at dinner"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-tasting-vocabulary-4",
+      "question": "What does it mean when a wine is described as having 'body'?",
+      "options": [
+        "The weight and fullness of the wine on the palate, from light to full",
+        "It has a dark color",
+        "It is very alcoholic",
+        "It contains sediment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wine-tasting-vocabulary-5",
+      "question": "In wine tasting, what are 'legs' or 'tears'?",
+      "options": [
+        "Cracks in the bottle",
+        "The foam on sparkling wine",
+        "The droplets of wine that cling to and run down the inside of the glass after swirling",
+        "The sediment at the bottom"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-tasting-vocabulary-6",
+      "question": "What does 'vintage' specifically refer to in wine?",
+      "options": [
+        "A high-quality wine",
+        "An expensive bottle",
+        "An old wine",
+        "The year in which the grapes were harvested"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wine-tasting-vocabulary-7",
+      "question": "In wine terminology, what does 'decanting' involve?",
+      "options": [
+        "Slowly pouring wine from its bottle into another vessel to separate it from sediment and aerate it",
+        "Corking the bottle",
+        "Chilling the wine",
+        "Adding water to wine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wine-tasting-vocabulary-8",
+      "question": "What does 'dry' mean when describing a wine?",
+      "options": [
+        "The wine is low quality",
+        "The wine has little to no residual sugar, not tasting sweet",
+        "The wine needs water added",
+        "The wine is old"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-tasting-vocabulary-9",
+      "question": "In wine tasting, what does 'finish' refer to?",
+      "options": [
+        "When the bottle is empty",
+        "The flavors and sensations that linger in the mouth after swallowing",
+        "The last sip",
+        "The end of fermentation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-tasting-vocabulary-10",
+      "question": "What is a 'sommelier'?",
+      "options": [
+        "A winemaker",
+        "A wine bottle opener",
+        "A grape farmer",
+        "A trained wine professional who specializes in wine service and pairing"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "wine-tasting-vocabulary-11",
+      "question": "In wine language, what does 'corked' mean?",
+      "options": [
+        "The wine is tainted by a chemical compound (TCA) from a contaminated cork, giving it a musty flavor",
+        "The wine has a cork",
+        "The wine is sealed properly",
+        "The wine is expensive"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wine-tasting-vocabulary-12",
+      "question": "What does 'nose' refer to in wine tasting?",
+      "options": [
+        "The overall aroma and smell of the wine",
+        "The wine expert's skill",
+        "The shape of the bottle",
+        "The first taste"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wine-tasting-vocabulary-13",
+      "question": "In wine terminology, what is 'malolactic fermentation'?",
+      "options": [
+        "A type of grape disease",
+        "Adding malt to wine",
+        "A secondary fermentation converting sharp malic acid into softer lactic acid, creating a creamier texture",
+        "A sparkling wine process"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "wine-tasting-vocabulary-14",
+      "question": "What does 'oaky' describe in wine tasting?",
+      "options": [
+        "A wine made from acorns",
+        "Flavors of vanilla, spice, or toast imparted to wine by aging in oak barrels",
+        "A woody defect",
+        "A dry, bitter taste"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "wine-tasting-vocabulary-15",
+      "question": "In wine language, what does 'brut' mean on a sparkling wine label?",
+      "options": [
+        "Strong",
+        "Bubbly",
+        "Natural",
+        "Very dry, indicating very low sugar content"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

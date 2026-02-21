@@ -1,0 +1,219 @@
+{
+  "id": "cricket-world-quiz",
+  "title": "Cricket World",
+  "description": "Test your knowledge of cricket, from its history to legendary players and tournaments!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cricket-world-quiz-1",
+      "question": "In which country did cricket originate?",
+      "options": [
+        "India",
+        "England",
+        "South Africa",
+        "Australia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cricket originated in England, with the earliest definite reference to the sport dating back to the late 16th century. It became the national sport of England by the 18th century.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-2",
+      "question": "How many players are on each team in a cricket match?",
+      "options": [
+        "11",
+        "9",
+        "12",
+        "10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each cricket team has 11 players. The team batting sends two batsmen to the pitch at a time, while all 11 fielding players are on the field.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-3",
+      "question": "What is 'The Ashes' in cricket?",
+      "options": [
+        "A batting technique",
+        "A Test series between England and Australia",
+        "The oldest cricket stadium",
+        "A trophy between India and Pakistan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ashes is a Test cricket series played between England and Australia. The name originated from a satirical obituary in 1882 that declared English cricket had 'died' after Australia's victory.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-4",
+      "question": "Who holds the record for the highest individual score in Test cricket?",
+      "options": [
+        "Sachin Tendulkar",
+        "Virender Sehwag",
+        "Brian Lara",
+        "Don Bradman"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brian Lara of the West Indies holds the record for the highest individual score in Test cricket with 400 not out against England in Antigua in 2004.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-5",
+      "question": "What does 'LBW' stand for in cricket?",
+      "options": [
+        "Long Ball Width",
+        "Left Bat Wing",
+        "Last Batsman Wins",
+        "Leg Before Wicket"
+      ],
+      "correctAnswer": 3,
+      "explanation": "LBW stands for 'Leg Before Wicket.' It is a method of dismissal where the ball would have hit the stumps but was instead blocked by the batsman's leg or body.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-6",
+      "question": "Which country won the first Cricket World Cup in 1975?",
+      "options": [
+        "Australia",
+        "India",
+        "England",
+        "West Indies"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The West Indies won the first Cricket World Cup in 1975, held in England. They defeated Australia in the final by 17 runs.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-7",
+      "question": "What is a 'century' in cricket?",
+      "options": [
+        "100 overs bowled",
+        "100 wickets taken",
+        "100 matches played",
+        "100 runs scored by a batsman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A century in cricket is when a batsman scores 100 or more runs in a single innings. Sachin Tendulkar holds the record with 100 international centuries.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-8",
+      "question": "What is Sir Donald Bradman's famous batting average in Test cricket?",
+      "options": [
+        "95.14",
+        "89.78",
+        "99.94",
+        "102.30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sir Donald Bradman of Australia had a Test batting average of 99.94, widely regarded as the greatest statistical achievement in any major sport. He needed just 4 runs in his final innings to average 100.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-9",
+      "question": "How many balls are bowled in one 'over' in cricket?",
+      "options": [
+        "5",
+        "4",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An over in cricket consists of 6 consecutive legal deliveries bowled by the same bowler. After each over, a different bowler bowls from the opposite end of the pitch.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-10",
+      "question": "What is T20 cricket?",
+      "options": [
+        "A match lasting 20 days",
+        "A format where each team bats for 20 overs",
+        "A tournament with 20 teams",
+        "Cricket played with 20 players per side"
+      ],
+      "correctAnswer": 1,
+      "explanation": "T20 (Twenty20) is a shortened format of cricket where each team bats for a maximum of 20 overs. Matches typically last about 3 hours, making it the most fast-paced format.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-11",
+      "question": "What is a 'hat-trick' in cricket?",
+      "options": [
+        "Taking three wickets in three consecutive deliveries",
+        "Hitting three sixes in a row",
+        "Winning three matches in a row",
+        "Scoring three centuries in a row"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A hat-trick in cricket is when a bowler takes a wicket with each of three consecutive deliveries. The term originated from the practice of awarding a hat to the bowler.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-12",
+      "question": "Which cricket ground is known as 'The Home of Cricket'?",
+      "options": [
+        "Eden Gardens",
+        "Lord's Cricket Ground",
+        "Melbourne Cricket Ground",
+        "The Oval"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lord's Cricket Ground in London is known as 'The Home of Cricket.' Founded in 1814 by Thomas Lord, it is the home of the Marylebone Cricket Club (MCC) and Middlesex County Cricket Club.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-13",
+      "question": "Which cricketer is known as 'The Master Blaster'?",
+      "options": [
+        "Brian Lara",
+        "Vivian Richards",
+        "Sachin Tendulkar",
+        "Ricky Ponting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sachin Tendulkar of India is known as 'The Master Blaster.' He is the highest run scorer in both Test and ODI cricket and the only player to score 100 international centuries.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-14",
+      "question": "What are the three formats of international cricket?",
+      "options": [
+        "Shield, Cup, League",
+        "T10, T20, T50",
+        "Test, ODI, T20",
+        "First Class, List A, T20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The three formats of international cricket are Test matches (5 days), One Day Internationals or ODIs (50 overs per side), and T20 Internationals (20 overs per side).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cricket-world-quiz-15",
+      "question": "Which country has won the most ICC Cricket World Cups (50-over format)?",
+      "options": [
+        "India",
+        "England",
+        "West Indies",
+        "Australia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Australia has won the most ICC Cricket World Cups with six titles (1987, 1999, 2003, 2007, 2015, 2023). They are considered the most successful team in World Cup history.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

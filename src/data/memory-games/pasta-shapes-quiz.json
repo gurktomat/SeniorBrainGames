@@ -7,91 +7,166 @@
     {
       "id": "pasta-shapes-quiz-1",
       "question": "This long, thin, cylindrical pasta is perhaps the most famous in the world. Its name comes from the Italian word for 'thin strings.' What pasta is this?",
-      "options": ["Linguine", "Fettuccine", "Spaghetti", "Capellini"],
+      "options": [
+        "Fettuccine",
+        "Linguine",
+        "Spaghetti",
+        "Capellini"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-2",
       "question": "This tube-shaped pasta has angled, quill-like ends. Its ridged surface is perfect for holding thick, chunky sauces. Its name means 'quills' or 'pens' in Italian. What pasta is this?",
-      "options": ["Rigatoni", "Penne", "Ziti", "Macaroni"],
-      "correctAnswer": 1
+      "options": [
+        "Rigatoni",
+        "Ziti",
+        "Penne",
+        "Macaroni"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-3",
       "question": "This wide, flat pasta is layered with sauce, cheese, and meat or vegetables to create a famous baked Italian dish. What pasta is this?",
-      "options": ["Pappardelle", "Fettuccine", "Lasagna", "Tagliatelle"],
-      "correctAnswer": 2
+      "options": [
+        "Tagliatelle",
+        "Fettuccine",
+        "Pappardelle",
+        "Lasagna"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "pasta-shapes-quiz-4",
       "question": "This butterfly or bow-tie shaped pasta has pinched centers and ruffled edges. Its name comes from the Italian word for 'butterflies.' What pasta is this?",
-      "options": ["Rotini", "Farfalle", "Campanelle", "Gemelli"],
-      "correctAnswer": 1
+      "options": [
+        "Campanelle",
+        "Rotini",
+        "Gemelli",
+        "Farfalle"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "pasta-shapes-quiz-5",
       "question": "This flat, ribbon-like pasta is wider than spaghetti and is the traditional partner for Alfredo sauce. Its name means 'little ribbons' in Italian. What pasta is this?",
-      "options": ["Tagliatelle", "Pappardelle", "Fettuccine", "Linguine"],
+      "options": [
+        "Tagliatelle",
+        "Linguine",
+        "Fettuccine",
+        "Pappardelle"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-6",
       "question": "This small, ear-shaped pasta from Puglia in southern Italy is traditionally served with broccoli rabe. Its name means 'little ears.' What pasta is this?",
-      "options": ["Conchiglie", "Orecchiette", "Cavatelli", "Gnocchetti"],
-      "correctAnswer": 1
+      "options": [
+        "Orecchiette",
+        "Gnocchetti",
+        "Conchiglie",
+        "Cavatelli"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "pasta-shapes-quiz-7",
       "question": "This large, ridged tube pasta is wider than penne and is often baked with sauce. Its name comes from the Italian word for 'lines' or 'grooves.' What pasta is this?",
-      "options": ["Penne", "Ziti", "Rigatoni", "Paccheri"],
+      "options": [
+        "Penne",
+        "Paccheri",
+        "Rigatoni",
+        "Ziti"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-8",
       "question": "This very thin, delicate pasta is also called 'angel hair.' It cooks in just a few minutes and pairs best with light, simple sauces. What pasta is this?",
-      "options": ["Spaghettini", "Vermicelli", "Capellini", "Fedelini"],
-      "correctAnswer": 2
+      "options": [
+        "Spaghettini",
+        "Capellini",
+        "Vermicelli",
+        "Fedelini"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "pasta-shapes-quiz-9",
       "question": "This stuffed pasta consists of small squares or circles of dough filled with meat, cheese, or vegetables. They are often served in broth or with sage butter. What pasta is this?",
-      "options": ["Tortellini", "Ravioli", "Agnolotti", "Mezzelune"],
-      "correctAnswer": 1
+      "options": [
+        "Mezzelune",
+        "Tortellini",
+        "Agnolotti",
+        "Ravioli"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "pasta-shapes-quiz-10",
       "question": "This ring-shaped stuffed pasta from Bologna is traditionally filled with a mix of pork, prosciutto, and Parmigiano-Reggiano. It is often served in broth. What pasta is this?",
-      "options": ["Ravioli", "Cappelletti", "Tortellini", "Sacchettini"],
-      "correctAnswer": 2
+      "options": [
+        "Sacchettini",
+        "Tortellini",
+        "Cappelletti",
+        "Ravioli"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "pasta-shapes-quiz-11",
       "question": "This corkscrew or spiral-shaped pasta is great at trapping sauce in its grooves. Its name comes from the Italian word meaning 'to twist.' What pasta is this?",
-      "options": ["Rotini", "Fusilli", "Gemelli", "Cavatappi"],
-      "correctAnswer": 1
+      "options": [
+        "Gemelli",
+        "Cavatappi",
+        "Fusilli",
+        "Rotini"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-12",
       "question": "This shell-shaped pasta comes in various sizes. The larger versions are often stuffed with ricotta cheese, while smaller ones are used in soups. Its name means 'shells.' What pasta is this?",
-      "options": ["Lumache", "Orecchiette", "Conchiglie", "Cavatelli"],
-      "correctAnswer": 2
+      "options": [
+        "Conchiglie",
+        "Cavatelli",
+        "Lumache",
+        "Orecchiette"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "pasta-shapes-quiz-13",
-      "question": "This very wide, flat ribbon pasta is a specialty of Tuscany and Emilia-Romagna. It pairs beautifully with rich meat rag\u00f9s. Its name means 'to gobble up.' What pasta is this?",
-      "options": ["Fettuccine", "Tagliatelle", "Pappardelle", "Mafaldine"],
+      "question": "This very wide, flat ribbon pasta is a specialty of Tuscany and Emilia-Romagna. It pairs beautifully with rich meat ragùs. Its name means 'to gobble up.' What pasta is this?",
+      "options": [
+        "Tagliatelle",
+        "Mafaldine",
+        "Pappardelle",
+        "Fettuccine"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "pasta-shapes-quiz-14",
       "question": "This small, rice-shaped pasta is often used in soups and salads. Despite looking like a grain, it is made from semolina flour just like other pasta. What pasta is this?",
-      "options": ["Couscous", "Orzo", "Acini di Pepe", "Fregola"],
+      "options": [
+        "Fregola",
+        "Orzo",
+        "Couscous",
+        "Acini di Pepe"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "pasta-shapes-quiz-15",
       "question": "This flat pasta is narrower than fettuccine but wider than spaghetti. Its name means 'little tongues' in Italian, and it is the classic match for pesto Genovese. What pasta is this?",
-      "options": ["Tagliatelle", "Linguine", "Fettuccine", "Bavette"],
+      "options": [
+        "Tagliatelle",
+        "Linguine",
+        "Bavette",
+        "Fettuccine"
+      ],
       "correctAnswer": 1
     }
   ]

@@ -7,91 +7,166 @@
     {
       "id": "gemstone-identification-1",
       "question": "Which precious gemstone is the hardest natural substance on Earth, scores 10 on the Mohs scale, and is traditionally associated with engagement rings?",
-      "options": ["Sapphire", "Ruby", "Diamond", "Emerald"],
-      "correctAnswer": 2
+      "options": [
+        "Ruby",
+        "Diamond",
+        "Sapphire",
+        "Emerald"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-2",
       "question": "Which deep red gemstone is a variety of the mineral corundum, was called the 'king of gems' in ancient India, and is the birthstone for July?",
-      "options": ["Garnet", "Ruby", "Red Spinel", "Carnelian"],
-      "correctAnswer": 1
+      "options": [
+        "Red Spinel",
+        "Garnet",
+        "Carnelian",
+        "Ruby"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "gemstone-identification-3",
       "question": "Which green gemstone gets its color from chromium and vanadium, was Cleopatra's favorite gem, and is the birthstone for May?",
-      "options": ["Peridot", "Jade", "Emerald", "Tsavorite"],
-      "correctAnswer": 2
+      "options": [
+        "Emerald",
+        "Peridot",
+        "Tsavorite",
+        "Jade"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "gemstone-identification-4",
       "question": "Which blue gemstone is a variety of corundum, is the birthstone for September, and was believed by medieval clergy to symbolize heaven?",
-      "options": ["Tanzanite", "Sapphire", "Lapis Lazuli", "Aquamarine"],
-      "correctAnswer": 1
+      "options": [
+        "Aquamarine",
+        "Tanzanite",
+        "Sapphire",
+        "Lapis Lazuli"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-5",
       "question": "Which iridescent gemstone is formed inside the shells of mollusks, comes in white, black, and golden varieties, and is the birthstone for June?",
-      "options": ["Moonstone", "Opal", "Pearl", "Mother of Pearl"],
-      "correctAnswer": 2
+      "options": [
+        "Pearl",
+        "Mother of Pearl",
+        "Moonstone",
+        "Opal"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "gemstone-identification-6",
       "question": "Which gemstone displays a spectacular play of color with flashes of rainbow hues, is the national gemstone of Australia, and is the birthstone for October?",
-      "options": ["Labradorite", "Moonstone", "Opal", "Fire Agate"],
-      "correctAnswer": 2
+      "options": [
+        "Moonstone",
+        "Fire Agate",
+        "Labradorite",
+        "Opal"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "gemstone-identification-7",
       "question": "Which purple variety of quartz was believed by the ancient Greeks to prevent intoxication, and is the birthstone for February?",
-      "options": ["Tanzanite", "Charoite", "Amethyst", "Iolite"],
-      "correctAnswer": 2
+      "options": [
+        "Iolite",
+        "Amethyst",
+        "Tanzanite",
+        "Charoite"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-8",
       "question": "Which pale blue to blue-green gemstone is named after seawater, belongs to the beryl family alongside emerald, and is the birthstone for March?",
-      "options": ["Blue Topaz", "Aquamarine", "Turquoise", "Larimar"],
+      "options": [
+        "Blue Topaz",
+        "Aquamarine",
+        "Larimar",
+        "Turquoise"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-9",
       "question": "Which opaque blue-green gemstone has been mined for thousands of years, was sacred to the ancient Egyptians, and is the birthstone for December?",
-      "options": ["Lapis Lazuli", "Aquamarine", "Turquoise", "Sodalite"],
+      "options": [
+        "Sodalite",
+        "Aquamarine",
+        "Turquoise",
+        "Lapis Lazuli"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "gemstone-identification-10",
       "question": "Which deep blue gemstone, often flecked with golden pyrite, was ground into powder to create the precious pigment ultramarine used by Renaissance painters?",
-      "options": ["Sapphire", "Sodalite", "Azurite", "Lapis Lazuli"],
-      "correctAnswer": 3
+      "options": [
+        "Lapis Lazuli",
+        "Sapphire",
+        "Azurite",
+        "Sodalite"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "gemstone-identification-11",
       "question": "Which yellowish-green gemstone is found in volcanic rock and meteorites, was called the 'gem of the sun' by ancient Egyptians, and is the birthstone for August?",
-      "options": ["Citrine", "Peridot", "Chrysoberyl", "Yellow Sapphire"],
-      "correctAnswer": 1
+      "options": [
+        "Peridot",
+        "Chrysoberyl",
+        "Citrine",
+        "Yellow Sapphire"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "gemstone-identification-12",
       "question": "Which gemstone is highly prized in Chinese culture, comes in green, white, and lavender varieties, and has been carved into jewelry and figurines for over 5,000 years?",
-      "options": ["Emerald", "Malachite", "Jade", "Aventurine"],
-      "correctAnswer": 2
+      "options": [
+        "Malachite",
+        "Jade",
+        "Emerald",
+        "Aventurine"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-13",
       "question": "Which violet-blue gemstone was discovered in Tanzania in 1967, is found nowhere else on Earth, and is one thousand times rarer than diamond?",
-      "options": ["Iolite", "Sapphire", "Tanzanite", "Amethyst"],
-      "correctAnswer": 2
+      "options": [
+        "Sapphire",
+        "Amethyst",
+        "Iolite",
+        "Tanzanite"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "gemstone-identification-14",
       "question": "Which golden-yellow variety of quartz shares its name with a citrus fruit, is often confused with yellow topaz, and is the birthstone for November?",
-      "options": ["Amber", "Citrine", "Yellow Beryl", "Golden Topaz"],
+      "options": [
+        "Yellow Beryl",
+        "Citrine",
+        "Amber",
+        "Golden Topaz"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "gemstone-identification-15",
       "question": "Which deep red gemstone is the birthstone for January, was used as a talisman by travelers in the Middle Ages, and comes in varieties including pyrope, almandine, and grossular?",
-      "options": ["Ruby", "Garnet", "Red Tourmaline", "Carnelian"],
+      "options": [
+        "Ruby",
+        "Garnet",
+        "Carnelian",
+        "Red Tourmaline"
+      ],
       "correctAnswer": 1
     }
   ]

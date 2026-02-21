@@ -1,0 +1,173 @@
+{
+  "id": "climate-science-quiz",
+  "title": "Climate Science",
+  "description": "Understand the science behind climate, greenhouse gases, and Earth's changing atmosphere",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "climate-science-quiz-1",
+      "question": "What is the greenhouse effect?",
+      "options": [
+        "Gases in the atmosphere trapping heat from the Sun",
+        "Plants growing in greenhouses",
+        "Solar flares heating Earth",
+        "The ozone layer blocking UV rays"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "climate-science-quiz-2",
+      "question": "Which gas is the primary contributor to the enhanced greenhouse effect from human activities?",
+      "options": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "climate-science-quiz-3",
+      "question": "What is the name of the international agreement signed in 2015 to combat climate change?",
+      "options": [
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Kyoto Protocol",
+        "Geneva Convention"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "climate-science-quiz-4",
+      "question": "What are ice cores drilled from glaciers used to study?",
+      "options": [
+        "Past climate conditions",
+        "Earthquake patterns",
+        "Ocean salinity",
+        "Volcanic eruptions"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "climate-science-quiz-5",
+      "question": "What is the ozone layer and where is it located?",
+      "options": [
+        "A layer of oxygen near the ground",
+        "A magnetic field around Earth",
+        "A protective layer in the stratosphere that absorbs UV radiation",
+        "A cloud layer in the troposphere"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "climate-science-quiz-6",
+      "question": "What phenomenon describes the long-term rise in Earth's average surface temperature?",
+      "options": [
+        "El Niño",
+        "Thermal expansion",
+        "Solar maximum",
+        "Global warming"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "climate-science-quiz-7",
+      "question": "Which greenhouse gas is approximately 80 times more potent than CO2 over a 20-year period?",
+      "options": [
+        "Ozone",
+        "Methane",
+        "Nitrous oxide",
+        "Water vapor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "climate-science-quiz-8",
+      "question": "What is the term for permanently frozen ground found in polar regions?",
+      "options": [
+        "Glacier",
+        "Ice shelf",
+        "Tundra",
+        "Permafrost"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "climate-science-quiz-9",
+      "question": "The Intergovernmental Panel on Climate Change (IPCC) was established by which two organizations?",
+      "options": [
+        "NASA and ESA",
+        "UNESCO and FAO",
+        "WHO and UNICEF",
+        "WMO and UNEP"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "climate-science-quiz-10",
+      "question": "What happens to sea levels when polar ice caps and glaciers melt?",
+      "options": [
+        "They stay the same",
+        "They decrease",
+        "They rise",
+        "They fluctuate randomly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "climate-science-quiz-11",
+      "question": "What is a carbon footprint?",
+      "options": [
+        "A fossil of a plant",
+        "A type of soil erosion",
+        "The total greenhouse gas emissions caused by an individual or activity",
+        "A geological formation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "climate-science-quiz-12",
+      "question": "Which chemical compounds, once used in refrigerants, were found to deplete the ozone layer?",
+      "options": [
+        "Carbon monoxide",
+        "Nitrogen oxides",
+        "Sulfur dioxide",
+        "Chlorofluorocarbons (CFCs)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "climate-science-quiz-13",
+      "question": "What is albedo in climate science?",
+      "options": [
+        "A type of cloud",
+        "The reflectivity of a surface",
+        "A greenhouse gas",
+        "A weather pattern"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "climate-science-quiz-14",
+      "question": "The Keeling Curve tracks the steady rise of what in Earth's atmosphere since 1958?",
+      "options": [
+        "Nitrogen levels",
+        "Carbon dioxide concentration",
+        "Methane levels",
+        "Oxygen levels"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "climate-science-quiz-15",
+      "question": "Which Swedish scientist first calculated that CO2 emissions from fossil fuels could cause global warming, in 1896?",
+      "options": [
+        "Alfred Nobel",
+        "Anders Celsius",
+        "Svante Arrhenius",
+        "Carl Linnaeus"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

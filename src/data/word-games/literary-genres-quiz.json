@@ -1,0 +1,173 @@
+{
+  "id": "literary-genres-quiz",
+  "title": "Literary Genres Quiz",
+  "description": "How well do you know the different genres of literature? Test your knowledge from mystery to memoir",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "literary-genres-quiz-1",
+      "question": "What literary genre features a hero's quest, magical creatures, and imaginary worlds?",
+      "options": [
+        "Biography",
+        "Satire",
+        "Fantasy",
+        "Realism"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-genres-quiz-2",
+      "question": "What genre of fiction involves solving a crime or puzzle?",
+      "options": [
+        "Historical fiction",
+        "Mystery",
+        "Romance",
+        "Science fiction"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-genres-quiz-3",
+      "question": "A novel set during World War II with fictional characters interacting with real events is an example of:",
+      "options": [
+        "Fantasy",
+        "Memoir",
+        "Historical fiction",
+        "Science fiction"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-genres-quiz-4",
+      "question": "What is a 'bildungsroman'?",
+      "options": [
+        "A novel written entirely in verse",
+        "A German horror novel",
+        "A coming-of-age story that follows a character's moral and psychological growth",
+        "A type of detective novel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-genres-quiz-5",
+      "question": "Which genre uses humor, exaggeration, or ridicule to criticize society or human behavior?",
+      "options": [
+        "Tragedy",
+        "Pastoral",
+        "Satire",
+        "Romance"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-genres-quiz-6",
+      "question": "What is the key difference between a 'memoir' and an 'autobiography'?",
+      "options": [
+        "A memoir is always shorter",
+        "A memoir is fiction; an autobiography is nonfiction",
+        "There is no difference",
+        "A memoir focuses on specific themes or periods; an autobiography covers the author's entire life"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "literary-genres-quiz-7",
+      "question": "What genre deals with futuristic technology, space travel, or alternate realities?",
+      "options": [
+        "Picaresque",
+        "Science fiction",
+        "Gothic fiction",
+        "Pastoral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-genres-quiz-8",
+      "question": "Gothic fiction is characterized by:",
+      "options": [
+        "Scientific accuracy and futuristic themes",
+        "Dark settings, mystery, and elements of horror or the supernatural",
+        "Humor and light-hearted plots",
+        "Simple language and rural settings"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-genres-quiz-9",
+      "question": "Which novel is a classic example of Gothic fiction?",
+      "options": [
+        "Pride and Prejudice",
+        "The Old Man and the Sea",
+        "To Kill a Mockingbird",
+        "Dracula"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "literary-genres-quiz-10",
+      "question": "What is 'dystopian fiction'?",
+      "options": [
+        "Fiction set in an ideal, perfect society",
+        "Fiction set in a frightening, oppressive, or degraded society",
+        "Fiction written entirely in dialogue",
+        "Fiction about tropical islands"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-genres-quiz-11",
+      "question": "Which of these is a dystopian novel?",
+      "options": [
+        "The Wind in the Willows",
+        "Little Women",
+        "Anne of Green Gables",
+        "1984"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "literary-genres-quiz-12",
+      "question": "What is the 'picaresque' genre?",
+      "options": [
+        "A novel featuring a roguish hero who lives by wits in a corrupt society",
+        "A novel set in a picturesque landscape",
+        "A children's adventure story",
+        "A romantic comedy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-genres-quiz-13",
+      "question": "What literary genre idealizes rural life and the beauty of nature?",
+      "options": [
+        "Urban fiction",
+        "Noir",
+        "Pastoral",
+        "Thriller"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-genres-quiz-14",
+      "question": "What is 'literary fiction' typically distinguished by, compared to 'genre fiction'?",
+      "options": [
+        "Always having a happy ending",
+        "Greater emphasis on style, character depth, and thematic complexity",
+        "Faster pacing and more action",
+        "Simpler vocabulary"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-genres-quiz-15",
+      "question": "What genre combines elements of detective fiction with dark, cynical themes and morally ambiguous characters?",
+      "options": [
+        "Noir fiction",
+        "Pastoral",
+        "Cozy mystery",
+        "Fable"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -7,92 +7,167 @@
     {
       "id": "word-play-quiz-1",
       "question": "What is a 'pun'?",
-      "options": ["A type of bread roll", "A joke exploiting different meanings of a word or similar-sounding words", "A punctuation mark", "A type of poem"],
+      "options": [
+        "A type of poem",
+        "A joke exploiting different meanings of a word or similar-sounding words",
+        "A type of bread roll",
+        "A punctuation mark"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-play-quiz-2",
       "question": "In the phrase 'Time flies like an arrow; fruit flies like a banana,' what type of wordplay is used?",
-      "options": ["Alliteration", "A pun using the double meaning of 'flies' and 'like'", "Onomatopoeia", "Hyperbole"],
-      "correctAnswer": 1
+      "options": [
+        "Alliteration",
+        "Hyperbole",
+        "Onomatopoeia",
+        "A pun using the double meaning of 'flies' and 'like'"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-play-quiz-3",
       "question": "What is a 'spoonerism'?",
-      "options": ["A joke about spoons", "A transposition of sounds in two or more words (e.g., 'a blushing crow' for 'a crushing blow')", "A type of limerick", "A cooking term"],
+      "options": [
+        "A type of limerick",
+        "A transposition of sounds in two or more words (e.g., 'a blushing crow' for 'a crushing blow')",
+        "A joke about spoons",
+        "A cooking term"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-play-quiz-4",
       "question": "What is a 'malapropism'?",
-      "options": ["A French cooking term", "The mistaken use of a word in place of a similar-sounding one", "A mathematical error", "A type of dance step"],
-      "correctAnswer": 1
+      "options": [
+        "A mathematical error",
+        "A French cooking term",
+        "A type of dance step",
+        "The mistaken use of a word in place of a similar-sounding one"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-play-quiz-5",
       "question": "The phrase 'I used to be a banker, but I lost interest' is an example of:",
-      "options": ["A metaphor", "A pun on the word 'interest'", "An oxymoron", "A simile"],
-      "correctAnswer": 1
+      "options": [
+        "A pun on the word 'interest'",
+        "An oxymoron",
+        "A metaphor",
+        "A simile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "word-play-quiz-6",
       "question": "What is a 'double entendre'?",
-      "options": ["A French dessert", "A phrase with two meanings, one of which is often risque", "Two people entering a room", "A musical term for playing twice"],
-      "correctAnswer": 1
+      "options": [
+        "Two people entering a room",
+        "A French dessert",
+        "A phrase with two meanings, one of which is often risque",
+        "A musical term for playing twice"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-play-quiz-7",
       "question": "An anagram rearranges the letters of a word to form a new word. Which is an anagram of 'listen'?",
-      "options": ["Tinsel", "Lentil", "Silent", "Insult"],
-      "correctAnswer": 2
+      "options": [
+        "Tinsel",
+        "Lentil",
+        "Insult",
+        "Silent"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-play-quiz-8",
       "question": "What is a 'palindrome'?",
-      "options": ["A word that sounds like what it means", "A word or phrase that reads the same backward and forward", "A word borrowed from another language", "A word with two opposite meanings"],
+      "options": [
+        "A word borrowed from another language",
+        "A word or phrase that reads the same backward and forward",
+        "A word that sounds like what it means",
+        "A word with two opposite meanings"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-play-quiz-9",
       "question": "Which of these is a palindrome?",
-      "options": ["Hello", "Racecar", "Banana", "Orange"],
-      "correctAnswer": 1
+      "options": [
+        "Banana",
+        "Orange",
+        "Racecar",
+        "Hello"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-play-quiz-10",
       "question": "'She sells seashells by the seashore' is an example of:",
-      "options": ["A pun", "Alliteration", "An oxymoron", "A malapropism"],
-      "correctAnswer": 1
+      "options": [
+        "Alliteration",
+        "A malapropism",
+        "An oxymoron",
+        "A pun"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "word-play-quiz-11",
       "question": "What is a 'Tom Swifty'?",
-      "options": ["A type of cocktail", "A pun linking a quoted sentence to its attribution adverb", "A fast runner", "A children's book character"],
-      "correctAnswer": 1
+      "options": [
+        "A fast runner",
+        "A children's book character",
+        "A pun linking a quoted sentence to its attribution adverb",
+        "A type of cocktail"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "word-play-quiz-12",
       "question": "'I'm reading a book about anti-gravity — it's impossible to put down!' This joke works because:",
-      "options": ["Anti-gravity is funny", "The phrase 'put down' has a literal and figurative meaning", "Books are heavy", "Gravity doesn't exist"],
-      "correctAnswer": 1
+      "options": [
+        "Anti-gravity is funny",
+        "Books are heavy",
+        "Gravity doesn't exist",
+        "The phrase 'put down' has a literal and figurative meaning"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "word-play-quiz-13",
       "question": "What is a 'portmanteau' word?",
-      "options": ["A very long word", "A word blending sounds and meanings of two others (e.g., 'brunch' from breakfast + lunch)", "A word from Latin", "A word that cannot be translated"],
+      "options": [
+        "A very long word",
+        "A word blending sounds and meanings of two others (e.g., 'brunch' from breakfast + lunch)",
+        "A word that cannot be translated",
+        "A word from Latin"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "word-play-quiz-14",
       "question": "An 'oxymoron' combines words with what relationship?",
-      "options": ["Similar meanings", "Opposite or contradictory meanings", "Rhyming sounds", "The same root word"],
-      "correctAnswer": 1
+      "options": [
+        "Opposite or contradictory meanings",
+        "Rhyming sounds",
+        "Similar meanings",
+        "The same root word"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "word-play-quiz-15",
       "question": "Which of these is an example of an oxymoron?",
-      "options": ["Bright sunshine", "Jumbo shrimp", "Fast car", "Loud thunder"],
-      "correctAnswer": 1
+      "options": [
+        "Jumbo shrimp",
+        "Bright sunshine",
+        "Loud thunder",
+        "Fast car"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

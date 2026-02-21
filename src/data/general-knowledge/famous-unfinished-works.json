@@ -7,92 +7,167 @@
     {
       "id": "famous-unfinished-works-1",
       "question": "Antoni Gaudí's Sagrada Família basilica in Barcelona has been under construction since which year?",
-      "options": ["1852", "1882", "1902", "1922"],
-      "correctAnswer": 1
+      "options": [
+        "1902",
+        "1852",
+        "1922",
+        "1882"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-unfinished-works-2",
       "question": "Franz Schubert's Symphony No. 8 is famously known by what nickname due to having only two completed movements?",
-      "options": ["The Unfinished", "The Incomplete", "The Abandoned", "The Fragment"],
-      "correctAnswer": 0
+      "options": [
+        "The Abandoned",
+        "The Incomplete",
+        "The Unfinished",
+        "The Fragment"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-unfinished-works-3",
       "question": "Which Charles Dickens novel was left incomplete at the time of his death in 1870?",
-      "options": ["Our Mutual Friend", "A Tale of Two Cities", "The Mystery of Edwin Drood", "Bleak House"],
-      "correctAnswer": 2
+      "options": [
+        "Bleak House",
+        "The Mystery of Edwin Drood",
+        "A Tale of Two Cities",
+        "Our Mutual Friend"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-unfinished-works-4",
       "question": "Mozart's Requiem in D minor was left unfinished at his death. Who completed it at the request of Mozart's widow?",
-      "options": ["Antonio Salieri", "Franz Xaver Süssmayr", "Joseph Haydn", "Ludwig van Beethoven"],
-      "correctAnswer": 1
+      "options": [
+        "Franz Xaver Süssmayr",
+        "Antonio Salieri",
+        "Joseph Haydn",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-unfinished-works-5",
       "question": "Leonardo da Vinci's 'Adoration of the Magi,' an unfinished masterpiece, was intended for which type of building?",
-      "options": ["A palace", "A monastery", "A cathedral", "A public square"],
+      "options": [
+        "A palace",
+        "A monastery",
+        "A cathedral",
+        "A public square"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-unfinished-works-6",
       "question": "Which massive carved monument in the Black Hills of South Dakota, begun in 1948, remains unfinished?",
-      "options": ["Mount Rushmore", "Crazy Horse Memorial", "Stone Mountain", "Sitting Bull Monument"],
-      "correctAnswer": 1
+      "options": [
+        "Crazy Horse Memorial",
+        "Sitting Bull Monument",
+        "Stone Mountain",
+        "Mount Rushmore"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-unfinished-works-7",
       "question": "Geoffrey Chaucer's 'The Canterbury Tales' was planned to include how many tales, though only 24 were completed?",
-      "options": ["50", "80", "100", "120"],
-      "correctAnswer": 3
+      "options": [
+        "80",
+        "120",
+        "100",
+        "50"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-unfinished-works-8",
       "question": "Which famous Scottish novelist left 'Weir of Hermiston' unfinished, widely considered his potential masterpiece?",
-      "options": ["Walter Scott", "Robert Burns", "Robert Louis Stevenson", "Arthur Conan Doyle"],
-      "correctAnswer": 2
+      "options": [
+        "Walter Scott",
+        "Robert Louis Stevenson",
+        "Robert Burns",
+        "Arthur Conan Doyle"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-unfinished-works-9",
       "question": "Michelangelo left several 'Prisoner' or 'Slave' sculptures unfinished. These partially carved figures appear to be emerging from what?",
-      "options": ["Bronze casts", "Blocks of marble", "Clay molds", "Wooden frames"],
-      "correctAnswer": 1
+      "options": [
+        "Wooden frames",
+        "Bronze casts",
+        "Clay molds",
+        "Blocks of marble"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-unfinished-works-10",
       "question": "Which composer left his opera 'Turandot' unfinished at his death in 1924?",
-      "options": ["Giuseppe Verdi", "Giacomo Puccini", "Richard Wagner", "Richard Strauss"],
-      "correctAnswer": 1
+      "options": [
+        "Giuseppe Verdi",
+        "Richard Strauss",
+        "Giacomo Puccini",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-unfinished-works-11",
       "question": "The Palace of the Soviets in Moscow was a grand building project that was never completed. What structure currently stands on its intended site?",
-      "options": ["The Kremlin", "Christ the Savior Cathedral", "Red Square", "Moscow State University"],
-      "correctAnswer": 1
+      "options": [
+        "Christ the Savior Cathedral",
+        "Moscow State University",
+        "Red Square",
+        "The Kremlin"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-unfinished-works-12",
       "question": "Mark Twain left which novel about a mysterious stranger unfinished at his death?",
-      "options": ["The Mysterious Stranger", "A Horse's Tale", "Captain Stormfield's Visit to Heaven", "The Gilded Age"],
-      "correctAnswer": 0
+      "options": [
+        "A Horse's Tale",
+        "Captain Stormfield's Visit to Heaven",
+        "The Gilded Age",
+        "The Mysterious Stranger"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-unfinished-works-13",
       "question": "Which English Romantic poet left 'Hyperion' and its revision 'The Fall of Hyperion' as magnificent but unfinished works?",
-      "options": ["Percy Bysshe Shelley", "Lord Byron", "John Keats", "William Wordsworth"],
-      "correctAnswer": 2
+      "options": [
+        "John Keats",
+        "Lord Byron",
+        "Percy Bysshe Shelley",
+        "William Wordsworth"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-unfinished-works-14",
       "question": "The Cincinnati Subway, built in the 1920s, is one of the most famous unfinished public works in the U.S. Why was it abandoned?",
-      "options": ["Engineering failures", "Funding ran out during the Great Depression", "An earthquake destroyed it", "Legal disputes with landowners"],
-      "correctAnswer": 1
+      "options": [
+        "Funding ran out during the Great Depression",
+        "Legal disputes with landowners",
+        "An earthquake destroyed it",
+        "Engineering failures"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-unfinished-works-15",
       "question": "Which Jane Austen novel, published posthumously in 1817, was left incomplete at her death?",
-      "options": ["Northanger Abbey", "Sanditon", "Persuasion", "Lady Susan"],
-      "correctAnswer": 1
+      "options": [
+        "Sanditon",
+        "Persuasion",
+        "Lady Susan",
+        "Northanger Abbey"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

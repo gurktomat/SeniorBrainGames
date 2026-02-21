@@ -1,0 +1,173 @@
+{
+  "id": "emergency-vehicles-quiz",
+  "title": "Emergency Vehicles Quiz",
+  "description": "Test your recall of the vehicles that rush to help in emergencies",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "emergency-vehicles-quiz-1",
+      "question": "The 'Jaws of Life' hydraulic rescue tool is most commonly found on which emergency vehicle?",
+      "options": [
+        "Fire engine/rescue truck",
+        "Ambulance",
+        "Hazmat vehicle",
+        "Police car"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "emergency-vehicles-quiz-2",
+      "question": "What is the primary purpose of a 'ladder truck' in a fire department?",
+      "options": [
+        "Carrying water",
+        "Providing an extendable aerial ladder for high-rise rescue",
+        "Pumping foam",
+        "Transporting firefighters only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "emergency-vehicles-quiz-3",
+      "question": "An ambulance equipped for advanced life support typically carries what medical professional?",
+      "options": [
+        "Pharmacist",
+        "Nurse only",
+        "Paramedic or EMT",
+        "Doctor only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "emergency-vehicles-quiz-4",
+      "question": "A 'pumper truck' (fire engine) is designed primarily to do what at a fire scene?",
+      "options": [
+        "Transport equipment only",
+        "Provide a command center",
+        "Rescue trapped people",
+        "Pump water through hoses to fight fires"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "emergency-vehicles-quiz-5",
+      "question": "Coast Guard cutters are emergency vessels used primarily for what?",
+      "options": [
+        "Submarine warfare",
+        "Deep-sea fishing",
+        "Passenger ferry service",
+        "Maritime search and rescue, law enforcement, and safety"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "emergency-vehicles-quiz-6",
+      "question": "A 'crash tender' or ARFF vehicle is stationed at what type of location?",
+      "options": [
+        "Airports",
+        "Highway interchanges",
+        "Train stations",
+        "Hospitals"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "emergency-vehicles-quiz-7",
+      "question": "What color are most fire engines traditionally painted in the United States?",
+      "options": [
+        "Red",
+        "Blue",
+        "White",
+        "Yellow"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "emergency-vehicles-quiz-8",
+      "question": "A 'hazmat' vehicle is specially equipped to handle what?",
+      "options": [
+        "High-altitude rescue",
+        "Hospital transport",
+        "Hazardous materials spills and incidents",
+        "Harbor emergencies"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "emergency-vehicles-quiz-9",
+      "question": "What is a 'tiller truck' in firefighting?",
+      "options": [
+        "A truck that carries tillage equipment",
+        "A truck used only for brush fires",
+        "A small utility truck",
+        "A hook-and-ladder truck with a separately steered rear section"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "emergency-vehicles-quiz-10",
+      "question": "Emergency vehicles use sirens and lights to do what?",
+      "options": [
+        "Signal that the emergency is over",
+        "Alert other drivers to yield the right of way",
+        "Celebrate their arrival",
+        "Communicate with dispatch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "emergency-vehicles-quiz-11",
+      "question": "A 'rescue boat' operated by fire departments is primarily used for what?",
+      "options": [
+        "Towing damaged boats",
+        "Water rescue of drowning or stranded people",
+        "Patrolling harbors",
+        "Putting out fires on the water"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "emergency-vehicles-quiz-12",
+      "question": "What does a 'mobile command center' vehicle serve as during a large emergency?",
+      "options": [
+        "A centralized coordination and communications hub",
+        "A prisoner transport",
+        "A supply depot",
+        "A medical treatment facility"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "emergency-vehicles-quiz-13",
+      "question": "A 'snowcat' or tracked rescue vehicle is used for emergency response in what conditions?",
+      "options": [
+        "Urban areas",
+        "Floods",
+        "Desert sandstorms",
+        "Heavy snow and mountainous terrain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "emergency-vehicles-quiz-14",
+      "question": "The 'Star of Life,' a blue six-pointed star, is commonly displayed on which emergency vehicle?",
+      "options": [
+        "Fire trucks",
+        "Police cars",
+        "Ambulances",
+        "Coast Guard boats"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "emergency-vehicles-quiz-15",
+      "question": "A fire department's 'tanker truck' (or water tender) is primarily used for what?",
+      "options": [
+        "Carrying fuel for other vehicles",
+        "Cleaning up after fires",
+        "Transporting large volumes of water to areas without hydrants",
+        "Pumping chemicals"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

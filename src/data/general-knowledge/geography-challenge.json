@@ -7,8 +7,13 @@
     {
       "id": "geography-1",
       "question": "What is the capital of France?",
-      "options": ["Lyon", "Marseille", "Paris", "Nice"],
-      "correctAnswer": 2,
+      "options": [
+        "Nice",
+        "Paris",
+        "Marseille",
+        "Lyon"
+      ],
+      "correctAnswer": 1,
       "explanation": "Paris has been the capital of France since the 10th century. It is home to over 2 million people and is known as the 'City of Light.'",
       "difficulty": "easy",
       "category": "geography"
@@ -16,8 +21,13 @@
     {
       "id": "geography-2",
       "question": "Which is the longest river in the world?",
-      "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
-      "correctAnswer": 1,
+      "options": [
+        "Yangtze River",
+        "Mississippi River",
+        "Nile River",
+        "Amazon River"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Nile River in Africa stretches approximately 4,132 miles, making it the longest river in the world. It flows through 11 countries.",
       "difficulty": "easy",
       "category": "geography"
@@ -25,8 +35,13 @@
     {
       "id": "geography-3",
       "question": "How many continents are there on Earth?",
-      "options": ["Five", "Six", "Seven", "Eight"],
-      "correctAnswer": 2,
+      "options": [
+        "Five",
+        "Seven",
+        "Six",
+        "Eight"
+      ],
+      "correctAnswer": 1,
       "explanation": "There are seven continents: Africa, Antarctica, Asia, Australia (Oceania), Europe, North America, and South America.",
       "difficulty": "easy",
       "category": "geography"
@@ -34,8 +49,13 @@
     {
       "id": "geography-4",
       "question": "Which is the largest continent by area?",
-      "options": ["Africa", "North America", "Asia", "Europe"],
-      "correctAnswer": 2,
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "correctAnswer": 1,
       "explanation": "Asia is the largest continent, covering about 17.2 million square miles. It is home to more than 4.5 billion people, over half the world's population.",
       "difficulty": "easy",
       "category": "geography"
@@ -43,8 +63,13 @@
     {
       "id": "geography-5",
       "question": "What is the smallest country in the world by area?",
-      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-      "correctAnswer": 1,
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "San Marino",
+        "Vatican City"
+      ],
+      "correctAnswer": 3,
       "explanation": "Vatican City is the smallest country in the world at just 0.17 square miles. It is an independent city-state surrounded entirely by Rome, Italy.",
       "difficulty": "easy",
       "category": "geography"
@@ -52,8 +77,13 @@
     {
       "id": "geography-6",
       "question": "Which U.S. state is known as the 'Sunshine State'?",
-      "options": ["California", "Florida", "Texas", "Arizona"],
-      "correctAnswer": 1,
+      "options": [
+        "Arizona",
+        "Texas",
+        "Florida",
+        "California"
+      ],
+      "correctAnswer": 2,
       "explanation": "Florida is nicknamed the 'Sunshine State' because of its warm, sunny climate. It became the 27th U.S. state in 1845.",
       "difficulty": "medium",
       "category": "geography"
@@ -61,8 +91,13 @@
     {
       "id": "geography-7",
       "question": "What is the capital of Australia?",
-      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-      "correctAnswer": 2,
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "correctAnswer": 0,
       "explanation": "Canberra is the capital of Australia, not Sydney or Melbourne. It was purpose-built as the capital in the early 20th century to resolve the rivalry between Sydney and Melbourne.",
       "difficulty": "medium",
       "category": "geography"
@@ -70,7 +105,12 @@
     {
       "id": "geography-8",
       "question": "The Amazon River flows through which continent?",
-      "options": ["Africa", "Asia", "South America", "North America"],
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "North America"
+      ],
       "correctAnswer": 2,
       "explanation": "The Amazon flows through South America, primarily through Brazil and Peru. It carries more water than any other river in the world.",
       "difficulty": "medium",
@@ -79,8 +119,13 @@
     {
       "id": "geography-9",
       "question": "Which mountain is the tallest in the world, measured from sea level?",
-      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount McKinley (Denali)"],
-      "correctAnswer": 2,
+      "options": [
+        "Mount Everest",
+        "K2",
+        "Mount McKinley (Denali)",
+        "Mount Kilimanjaro"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mount Everest stands at 29,032 feet above sea level, making it the tallest mountain on Earth. It sits on the border between Nepal and Tibet.",
       "difficulty": "medium",
       "category": "geography"
@@ -88,8 +133,13 @@
     {
       "id": "geography-10",
       "question": "Which two countries share the longest international border in the world?",
-      "options": ["United States and Mexico", "Russia and China", "United States and Canada", "Brazil and Argentina"],
-      "correctAnswer": 2,
+      "options": [
+        "United States and Mexico",
+        "United States and Canada",
+        "Russia and China",
+        "Brazil and Argentina"
+      ],
+      "correctAnswer": 1,
       "explanation": "The border between the United States and Canada stretches about 5,525 miles (including the Alaska-Canada border), making it the longest international boundary in the world.",
       "difficulty": "medium",
       "category": "geography"
@@ -97,8 +147,13 @@
     {
       "id": "geography-11",
       "question": "What is the driest continent on Earth?",
-      "options": ["Africa", "Australia", "Antarctica", "Asia"],
-      "correctAnswer": 2,
+      "options": [
+        "Australia",
+        "Antarctica",
+        "Africa",
+        "Asia"
+      ],
+      "correctAnswer": 1,
       "explanation": "Antarctica is technically the driest continent, receiving less than 2 inches of precipitation per year on average. Despite being covered in ice, it is classified as a desert.",
       "difficulty": "hard",
       "category": "geography"
@@ -106,8 +161,13 @@
     {
       "id": "geography-12",
       "question": "Which European country has the most land area?",
-      "options": ["France", "Ukraine", "Spain", "Germany"],
-      "correctAnswer": 1,
+      "options": [
+        "France",
+        "Spain",
+        "Germany",
+        "Ukraine"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ukraine is the largest country located entirely within Europe, covering about 233,000 square miles. Russia is larger overall, but most of its territory is in Asia.",
       "difficulty": "hard",
       "category": "geography"
@@ -115,7 +175,12 @@
     {
       "id": "geography-13",
       "question": "The Sahara Desert is located on which continent?",
-      "options": ["Asia", "Australia", "Africa", "South America"],
+      "options": [
+        "Australia",
+        "Asia",
+        "Africa",
+        "South America"
+      ],
       "correctAnswer": 2,
       "explanation": "The Sahara Desert covers much of North Africa and is the largest hot desert in the world, spanning about 3.6 million square miles across 11 countries.",
       "difficulty": "hard",
@@ -124,7 +189,12 @@
     {
       "id": "geography-14",
       "question": "What is the capital of Japan?",
-      "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+      "options": [
+        "Kyoto",
+        "Hiroshima",
+        "Tokyo",
+        "Osaka"
+      ],
       "correctAnswer": 2,
       "explanation": "Tokyo is the capital of Japan and one of the most populous metropolitan areas in the world with over 37 million people in the greater area.",
       "difficulty": "hard",
@@ -133,8 +203,13 @@
     {
       "id": "geography-15",
       "question": "Which body of water separates Europe from Africa at its narrowest point?",
-      "options": ["Suez Canal", "Strait of Gibraltar", "Mediterranean Sea", "Red Sea"],
-      "correctAnswer": 1,
+      "options": [
+        "Strait of Gibraltar",
+        "Mediterranean Sea",
+        "Suez Canal",
+        "Red Sea"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Strait of Gibraltar separates Europe (Spain) from Africa (Morocco) by only about 8.7 miles at its narrowest point, connecting the Atlantic Ocean to the Mediterranean Sea.",
       "difficulty": "hard",
       "category": "geography"

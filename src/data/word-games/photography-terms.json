@@ -7,92 +7,167 @@
     {
       "id": "photography-terms-1",
       "question": "In photography, what does 'aperture' control?",
-      "options": ["The color balance", "The size of the lens opening that lets in light", "The shutter speed", "The focus distance"],
-      "correctAnswer": 1
+      "options": [
+        "The focus distance",
+        "The color balance",
+        "The shutter speed",
+        "The size of the lens opening that lets in light"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "photography-terms-2",
       "question": "What does 'ISO' refer to in camera settings?",
-      "options": ["Image Stabilization Option", "The sensor's sensitivity to light", "Internal Shutter Operation", "Instant Shot Output"],
-      "correctAnswer": 1
+      "options": [
+        "Instant Shot Output",
+        "Image Stabilization Option",
+        "Internal Shutter Operation",
+        "The sensor's sensitivity to light"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "photography-terms-3",
       "question": "In photography, what is 'bokeh'?",
-      "options": ["A type of camera", "The aesthetic quality of the out-of-focus blur in an image", "A photo editing software", "A Japanese camera brand"],
-      "correctAnswer": 1
+      "options": [
+        "A Japanese camera brand",
+        "A type of camera",
+        "A photo editing software",
+        "The aesthetic quality of the out-of-focus blur in an image"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "photography-terms-4",
       "question": "What does 'depth of field' mean in photography?",
-      "options": ["How deep the camera lens is", "The range of distance in a photo that appears acceptably sharp", "The depth of the camera body", "The number of layers in an image"],
-      "correctAnswer": 1
+      "options": [
+        "The depth of the camera body",
+        "The number of layers in an image",
+        "The range of distance in a photo that appears acceptably sharp",
+        "How deep the camera lens is"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-5",
       "question": "In photography, what is 'exposure'?",
-      "options": ["Showing your photos publicly", "The amount of light that reaches the camera sensor", "The camera's brand exposure", "The size of the print"],
-      "correctAnswer": 1
+      "options": [
+        "The camera's brand exposure",
+        "Showing your photos publicly",
+        "The amount of light that reaches the camera sensor",
+        "The size of the print"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-6",
       "question": "What does 'golden hour' refer to in photography?",
-      "options": ["A one-hour photo development service", "The period shortly after sunrise or before sunset with warm, soft light", "The most expensive hour for studio rental", "The first hour a camera is used"],
-      "correctAnswer": 1
+      "options": [
+        "The first hour a camera is used",
+        "The most expensive hour for studio rental",
+        "The period shortly after sunrise or before sunset with warm, soft light",
+        "A one-hour photo development service"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-7",
       "question": "In photography, what is a 'macro' lens used for?",
-      "options": ["Wide landscape shots", "Extreme close-up photography of small subjects", "Night photography", "Portraits only"],
+      "options": [
+        "Wide landscape shots",
+        "Extreme close-up photography of small subjects",
+        "Night photography",
+        "Portraits only"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "photography-terms-8",
       "question": "What does 'white balance' control in a photograph?",
-      "options": ["The amount of white in the image", "The color temperature to ensure white objects appear white", "The brightness level", "The contrast between light and dark"],
-      "correctAnswer": 1
+      "options": [
+        "The amount of white in the image",
+        "The brightness level",
+        "The color temperature to ensure white objects appear white",
+        "The contrast between light and dark"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-9",
       "question": "In photography, what is 'shutter speed'?",
-      "options": ["How fast the camera turns on", "The length of time the camera's shutter is open to expose the sensor to light", "The speed of the autofocus", "How quickly you can take consecutive photos"],
-      "correctAnswer": 1
+      "options": [
+        "The speed of the autofocus",
+        "How quickly you can take consecutive photos",
+        "The length of time the camera's shutter is open to expose the sensor to light",
+        "How fast the camera turns on"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-10",
       "question": "What is 'composition' in photography?",
-      "options": ["The camera's material", "The arrangement of visual elements within the frame of a photograph", "The chemical process of developing film", "The number of megapixels"],
+      "options": [
+        "The camera's material",
+        "The arrangement of visual elements within the frame of a photograph",
+        "The number of megapixels",
+        "The chemical process of developing film"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "photography-terms-11",
       "question": "What does 'overexposed' mean in photography?",
-      "options": ["Too many people saw the photo", "The image is too bright because too much light hit the sensor", "The photo was taken outdoors", "The film was left in the camera too long"],
-      "correctAnswer": 1
+      "options": [
+        "The photo was taken outdoors",
+        "The film was left in the camera too long",
+        "The image is too bright because too much light hit the sensor",
+        "Too many people saw the photo"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "photography-terms-12",
       "question": "In photography, what is the 'rule of thirds'?",
-      "options": ["Always take three photos", "A composition guideline that divides the frame into a 3x3 grid for balanced placement of subjects", "Use only one-third of the frame", "A rule about three-point lighting"],
+      "options": [
+        "Always take three photos",
+        "A composition guideline that divides the frame into a 3x3 grid for balanced placement of subjects",
+        "Use only one-third of the frame",
+        "A rule about three-point lighting"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "photography-terms-13",
       "question": "What does 'RAW' mean in digital photography?",
-      "options": ["Red And White format", "An uncompressed, unprocessed image file from the camera sensor", "A type of photo printer", "Really Awesome Work"],
-      "correctAnswer": 1
+      "options": [
+        "A type of photo printer",
+        "Red And White format",
+        "Really Awesome Work",
+        "An uncompressed, unprocessed image file from the camera sensor"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "photography-terms-14",
       "question": "In photography, what is 'vignetting'?",
-      "options": ["A type of portrait", "A darkening or fading of the edges and corners of an image", "A vintage filter", "A type of camera strap"],
-      "correctAnswer": 1
+      "options": [
+        "A vintage filter",
+        "A type of camera strap",
+        "A type of portrait",
+        "A darkening or fading of the edges and corners of an image"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "photography-terms-15",
       "question": "What is a 'telephoto' lens primarily used for?",
-      "options": ["Taking phone photos", "Photographing distant subjects by magnifying them", "Wide-angle panoramas", "Underwater photography"],
-      "correctAnswer": 1
+      "options": [
+        "Taking phone photos",
+        "Wide-angle panoramas",
+        "Underwater photography",
+        "Photographing distant subjects by magnifying them"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

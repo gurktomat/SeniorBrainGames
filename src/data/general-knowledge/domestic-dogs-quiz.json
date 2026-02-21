@@ -1,0 +1,173 @@
+{
+  "id": "domestic-dogs-quiz",
+  "title": "Dogs: Our Best Friends",
+  "description": "How well do you know man's best friend? Test your knowledge of dog breeds, behavior, and history.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "domestic-dogs-quiz-1",
+      "question": "Approximately how many recognized dog breeds exist worldwide according to the FCI?",
+      "options": [
+        "100",
+        "350",
+        "500",
+        "200"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-2",
+      "question": "Which dog breed is the most popular in the United States?",
+      "options": [
+        "German shepherd",
+        "French bulldog",
+        "Golden retriever",
+        "Labrador retriever"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-3",
+      "question": "Dogs were domesticated from which wild animal?",
+      "options": [
+        "Wolf",
+        "Fox",
+        "Coyote",
+        "Jackal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "domestic-dogs-quiz-4",
+      "question": "Which breed is known as the 'firehouse dog' because of its association with fire departments?",
+      "options": [
+        "Dalmatian",
+        "German shepherd",
+        "Boxer",
+        "Labrador"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "domestic-dogs-quiz-5",
+      "question": "A dog's sense of smell is approximately how many times better than a human's?",
+      "options": [
+        "10,000 times",
+        "100,000 times",
+        "100 times",
+        "1,000 times"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-6",
+      "question": "Which is the smallest recognized dog breed?",
+      "options": [
+        "Yorkshire terrier",
+        "Pomeranian",
+        "Maltese",
+        "Chihuahua"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "domestic-dogs-quiz-7",
+      "question": "The greyhound is one of the fastest dog breeds. How fast can it run?",
+      "options": [
+        "25 mph",
+        "45 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-8",
+      "question": "Which dog breed was originally bred to rescue people in the Swiss Alps?",
+      "options": [
+        "Great Dane",
+        "St. Bernard",
+        "Newfoundland",
+        "Bernese mountain dog"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-9",
+      "question": "What is the tallest dog breed?",
+      "options": [
+        "Scottish deerhound",
+        "Irish wolfhound",
+        "Mastiff",
+        "Great Dane"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "domestic-dogs-quiz-10",
+      "question": "The basenji is unique among dogs for what characteristic?",
+      "options": [
+        "It has no fur",
+        "It can climb trees",
+        "It doesn't bark",
+        "It has six toes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "domestic-dogs-quiz-11",
+      "question": "Which dog breed is most commonly used as a guide dog for the blind?",
+      "options": [
+        "Golden retriever",
+        "Labrador retriever",
+        "Poodle",
+        "German shepherd"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "domestic-dogs-quiz-12",
+      "question": "The famous sled dog Balto helped deliver medicine to which Alaskan city in 1925?",
+      "options": [
+        "Anchorage",
+        "Juneau",
+        "Nome",
+        "Fairbanks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "domestic-dogs-quiz-13",
+      "question": "Which dog breed has a blue-black tongue?",
+      "options": [
+        "Chow Chow",
+        "Shar-Pei",
+        "Shiba Inu",
+        "Akita"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "domestic-dogs-quiz-14",
+      "question": "How many teeth does an adult dog have?",
+      "options": [
+        "42",
+        "38",
+        "32",
+        "28"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "domestic-dogs-quiz-15",
+      "question": "The Labrador retriever originated in which country?",
+      "options": [
+        "England",
+        "United States",
+        "Canada",
+        "Scotland"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

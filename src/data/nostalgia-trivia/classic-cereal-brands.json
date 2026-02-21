@@ -8,8 +8,13 @@
     {
       "id": "ccb2-1",
       "question": "What cereal features Tony the Tiger as its mascot?",
-      "options": ["Corn Flakes", "Frosted Flakes", "Sugar Smacks", "Wheaties"],
-      "correctAnswer": 1,
+      "options": [
+        "Wheaties",
+        "Sugar Smacks",
+        "Frosted Flakes",
+        "Corn Flakes"
+      ],
+      "correctAnswer": 2,
       "explanation": "Tony the Tiger has been the mascot of Frosted Flakes (originally Sugar Frosted Flakes) since 1952. His famous catchphrase is 'They're Gr-r-reat!'",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "ccb2-2",
       "question": "Which cereal mascot is a cartoon toucan named Sam?",
-      "options": ["Fruit Loops", "Froot Loops", "Fruity Pebbles", "Trix"],
-      "correctAnswer": 1,
+      "options": [
+        "Fruity Pebbles",
+        "Trix",
+        "Fruit Loops",
+        "Froot Loops"
+      ],
+      "correctAnswer": 3,
       "explanation": "Toucan Sam has been the mascot of Froot Loops since 1963. He follows his nose to the fruity taste of Froot Loops, which was introduced by Kellogg's in 1963.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "ccb2-3",
       "question": "What cereal's famous advertising slogan is 'Snap! Crackle! Pop!'?",
-      "options": ["Puffed Rice", "Rice Krispies", "Cheerios", "Special K"],
-      "correctAnswer": 1,
+      "options": [
+        "Rice Krispies",
+        "Puffed Rice",
+        "Special K",
+        "Cheerios"
+      ],
+      "correctAnswer": 0,
       "explanation": "Rice Krispies, introduced by Kellogg's in 1928, features the elf mascots Snap, Crackle, and Pop. The cereal is famous for the sounds it makes when milk is added.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "ccb2-4",
       "question": "Which cereal featured an advertising campaign claiming it was the 'Breakfast of Champions'?",
-      "options": ["Cheerios", "Total", "Wheaties", "Grape-Nuts"],
-      "correctAnswer": 2,
+      "options": [
+        "Cheerios",
+        "Wheaties",
+        "Total",
+        "Grape-Nuts"
+      ],
+      "correctAnswer": 1,
       "explanation": "Wheaties has used the slogan 'Breakfast of Champions' since 1933. The cereal is famous for featuring athletes on its box, starting with baseball player Lou Gehrig in 1934.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,7 +64,12 @@
     {
       "id": "ccb2-5",
       "question": "What is the name of the rabbit mascot who can never get his favorite cereal because 'Silly rabbit, Trix are for kids'?",
-      "options": ["Buster Bunny", "The Trix Rabbit", "Lucky the Rabbit", "Rascal Rabbit"],
+      "options": [
+        "Lucky the Rabbit",
+        "The Trix Rabbit",
+        "Buster Bunny",
+        "Rascal Rabbit"
+      ],
       "correctAnswer": 1,
       "explanation": "The Trix Rabbit has been trying to get a bowl of Trix cereal since 1959. The poor rabbit's constant failed attempts and the kids' catchphrase 'Silly rabbit, Trix are for kids!' became iconic.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "ccb2-6",
       "question": "Which cereal brand introduced 'Cap'n Crunch' in 1963?",
-      "options": ["Kellogg's", "General Mills", "Post", "Quaker Oats"],
-      "correctAnswer": 3,
+      "options": [
+        "Quaker Oats",
+        "Kellogg's",
+        "General Mills",
+        "Post"
+      ],
+      "correctAnswer": 0,
       "explanation": "Cap'n Crunch was introduced by Quaker Oats in 1963. The cereal was developed by food scientist Pamela Low, who created the unique pillow shape to stay crunchy in milk.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "ccb2-7",
       "question": "What cereal mascot is a leprechaun who protects his 'magically delicious' cereal?",
-      "options": ["Lucky from Lucky Charms", "Paddy from Irish Crunch", "Clover from Pot of Gold", "Shamrock from Celtic Crunch"],
-      "correctAnswer": 0,
+      "options": [
+        "Clover from Pot of Gold",
+        "Paddy from Irish Crunch",
+        "Shamrock from Celtic Crunch",
+        "Lucky from Lucky Charms"
+      ],
+      "correctAnswer": 3,
       "explanation": "Lucky the Leprechaun has been the mascot of Lucky Charms since its introduction in 1964. The cereal features oat pieces and colorful marshmallow shapes called 'marbits.'",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "ccb2-8",
       "question": "Which cereal brand was famously advertised with the tagline 'Mikey likes it!' in a 1972 commercial?",
-      "options": ["Grape-Nuts", "Life", "Raisin Bran", "Product 19"],
-      "correctAnswer": 1,
+      "options": [
+        "Life",
+        "Raisin Bran",
+        "Product 19",
+        "Grape-Nuts"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Life cereal commercial featuring 'Mikey' first aired in 1972 and became one of the longest-running TV commercials. Little Mikey, played by John Gilchrist, was the picky eater who surprised his brothers by liking the cereal.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "ccb2-9",
       "question": "What shape were the original Cheerios when they were first introduced in 1941?",
-      "options": ["Squares", "O-shaped rings", "Stars", "Puffed balls"],
-      "correctAnswer": 1,
+      "options": [
+        "Puffed balls",
+        "Squares",
+        "Stars",
+        "O-shaped rings"
+      ],
+      "correctAnswer": 3,
       "explanation": "Cheerios have always been O-shaped rings. They were originally called CheeriOats when introduced in 1941 and renamed Cheerios in 1945. They became the best-selling cereal in America.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "ccb2-10",
       "question": "Which Post cereal featured Fred Flintstone and Barney Rubble as mascots?",
-      "options": ["Cocoa Pebbles and Fruity Pebbles", "Honeycomb", "Alpha-Bits", "Sugar Crisp"],
-      "correctAnswer": 0,
+      "options": [
+        "Honeycomb",
+        "Sugar Crisp",
+        "Cocoa Pebbles and Fruity Pebbles",
+        "Alpha-Bits"
+      ],
+      "correctAnswer": 2,
       "explanation": "Fruity Pebbles and Cocoa Pebbles were introduced by Post in 1971, featuring Fred Flintstone and Barney Rubble. The tie-in with the Flintstones cartoon made them instant hits with kids.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "ccb2-11",
       "question": "What was Sugar Smacks cereal renamed to in 1984 in response to health-conscious consumers?",
-      "options": ["Honey Smacks", "Golden Smacks", "Natural Smacks", "Smacks"],
-      "correctAnswer": 0,
+      "options": [
+        "Smacks",
+        "Honey Smacks",
+        "Golden Smacks",
+        "Natural Smacks"
+      ],
+      "correctAnswer": 1,
       "explanation": "Sugar Smacks was renamed Honey Smacks in 1984 as cereal companies moved away from using 'Sugar' in their brand names. The cereal's mascot, Dig'em Frog, was introduced in 1972.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "ccb2-12",
       "question": "What cereal, introduced in 1961, was the first to include freeze-dried fruit pieces?",
-      "options": ["Special K with Berries", "Kellogg's Concentrate", "Post Freeze-Dried Fruit", "None — this didn't happen until the 1980s"],
-      "correctAnswer": 1,
+      "options": [
+        "Kellogg's Concentrate",
+        "Special K with Berries",
+        "Post Freeze-Dried Fruit",
+        "None — this didn't happen until the 1980s"
+      ],
+      "correctAnswer": 0,
       "explanation": "Kellogg's Concentrate, introduced in 1959, was an early experiment in dense nutrition cereal, but freeze-dried fruit in cereal became popular much later with products in the 1980s and 1990s.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "ccb2-13",
       "question": "Which cereal's mascot was originally a cartoon bee named 'Buzz' before being redesigned?",
-      "options": ["Honey Nut Cheerios", "Honeycomb", "Sugar Puffs", "Honey Bunches of Oats"],
-      "correctAnswer": 0,
+      "options": [
+        "Sugar Puffs",
+        "Honey Nut Cheerios",
+        "Honey Bunches of Oats",
+        "Honeycomb"
+      ],
+      "correctAnswer": 1,
       "explanation": "BuzzBee has been the mascot of Honey Nut Cheerios since the cereal's launch in 1979. The friendly bee character has been redesigned several times but has always been the brand's ambassador.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "ccb2-14",
       "question": "What was the original name of the Cocoa Puffs mascot bird?",
-      "options": ["Coco the Cuckoo", "Sonny the Cuckoo Bird", "Nutty the Bird", "Crazy Bird"],
-      "correctAnswer": 1,
+      "options": [
+        "Coco the Cuckoo",
+        "Crazy Bird",
+        "Sonny the Cuckoo Bird",
+        "Nutty the Bird"
+      ],
+      "correctAnswer": 2,
       "explanation": "Sonny the Cuckoo Bird has been going 'Cuckoo for Cocoa Puffs' since the cereal was introduced by General Mills in 1958. His frenzied love for Cocoa Puffs became one of advertising's most memorable campaigns.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "ccb2-15",
       "question": "Which cereal brand was developed by C.W. Post in 1897 and is still sold today under a name suggesting its main ingredients?",
-      "options": ["Grape-Nuts", "Post Toasties", "Shredded Wheat", "Ralston"],
-      "correctAnswer": 0,
+      "options": [
+        "Ralston",
+        "Post Toasties",
+        "Grape-Nuts",
+        "Shredded Wheat"
+      ],
+      "correctAnswer": 2,
       "explanation": "Grape-Nuts was created by C.W. Post in 1897 and contains neither grapes nor nuts. The name's origin is debated, but the cereal is made from wheat and barley flour. It remains one of the oldest continuously sold cereals.",
       "difficulty": "hard",
       "category": "nostalgia"

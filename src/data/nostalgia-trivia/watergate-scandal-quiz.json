@@ -1,0 +1,173 @@
+{
+  "id": "watergate-scandal-quiz",
+  "title": "Watergate Scandal Quiz",
+  "description": "How much do you remember about the scandal that brought down a presidency?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "watergate-scandal-quiz-1",
+      "question": "In what year did the Watergate break-in occur?",
+      "options": [
+        "1970",
+        "1973",
+        "1971",
+        "1972"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "watergate-scandal-quiz-2",
+      "question": "What was the Watergate — the building at the center of the scandal?",
+      "options": [
+        "A hotel and office complex",
+        "A private residence",
+        "A congressional building",
+        "A government office"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "watergate-scandal-quiz-3",
+      "question": "Whose offices were broken into at the Watergate complex?",
+      "options": [
+        "Democratic National Committee",
+        "The FBI",
+        "The Washington Post",
+        "Republican National Committee"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "watergate-scandal-quiz-4",
+      "question": "Which two Washington Post reporters investigated the Watergate scandal?",
+      "options": [
+        "Bob Woodward and Carl Bernstein",
+        "Ben Bradlee and Katharine Graham",
+        "Dan Rather and Mike Wallace",
+        "Tom Brokaw and Peter Jennings"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "watergate-scandal-quiz-5",
+      "question": "What was the codename of the famous anonymous source who helped the reporters?",
+      "options": [
+        "Deep Throat",
+        "Silent Witness",
+        "The Insider",
+        "The Shadow"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "watergate-scandal-quiz-6",
+      "question": "Who was later revealed to be 'Deep Throat' in 2005?",
+      "options": [
+        "John Dean",
+        "Gordon Liddy",
+        "Alexander Haig",
+        "Mark Felt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "watergate-scandal-quiz-7",
+      "question": "What phrase did Nixon famously say during a press conference about Watergate?",
+      "options": [
+        "'I did not have any involvement'",
+        "'I have nothing to hide'",
+        "'I am not a crook'",
+        "'The buck stops here'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "watergate-scandal-quiz-8",
+      "question": "What were the secret White House recordings that became key evidence called?",
+      "options": [
+        "The Presidential Archives",
+        "The White House Diaries",
+        "The Oval Office Files",
+        "The Nixon Tapes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "watergate-scandal-quiz-9",
+      "question": "What was the 'Saturday Night Massacre'?",
+      "options": [
+        "A violent protest outside the White House",
+        "Nixon firing the special prosecutor and top Justice officials resigning",
+        "A Senate hearing that lasted all night",
+        "The arrest of the Watergate burglars"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "watergate-scandal-quiz-10",
+      "question": "Which senator chaired the Senate Watergate Committee hearings?",
+      "options": [
+        "Barry Goldwater",
+        "Howard Baker",
+        "Sam Ervin",
+        "Ted Kennedy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "watergate-scandal-quiz-11",
+      "question": "What famous question did Senator Howard Baker repeatedly ask during the hearings?",
+      "options": [
+        "'How high does this go?'",
+        "'Do you swear to tell the truth?'",
+        "'Are you now or have you ever been?'",
+        "'What did the President know, and when did he know it?'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "watergate-scandal-quiz-12",
+      "question": "On what date did Richard Nixon resign the presidency?",
+      "options": [
+        "October 1, 1974",
+        "September 15, 1974",
+        "July 4, 1974",
+        "August 9, 1974"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "watergate-scandal-quiz-13",
+      "question": "Who became President after Nixon's resignation?",
+      "options": [
+        "Henry Kissinger",
+        "Gerald Ford",
+        "Spiro Agnew",
+        "Nelson Rockefeller"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "watergate-scandal-quiz-14",
+      "question": "What did President Ford do regarding Nixon after taking office?",
+      "options": [
+        "Had him arrested",
+        "Pardoned him",
+        "Appointed a new investigation",
+        "Ignored the matter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "watergate-scandal-quiz-15",
+      "question": "Which White House counsel testified against Nixon and became a key witness?",
+      "options": [
+        "John Dean",
+        "H.R. Haldeman",
+        "John Ehrlichman",
+        "Charles Colson"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

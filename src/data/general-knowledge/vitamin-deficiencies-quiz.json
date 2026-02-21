@@ -1,0 +1,219 @@
+{
+  "id": "vitamin-deficiencies-quiz",
+  "title": "Vitamin Deficiencies",
+  "description": "Learn about vitamins and what happens when the body doesn't get enough!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vitamin-deficiencies-quiz-1",
+      "question": "A deficiency of which vitamin causes scurvy?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Scurvy is caused by a severe deficiency of vitamin C (ascorbic acid). It was common among sailors who lacked fresh fruits and vegetables during long voyages.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-2",
+      "question": "Rickets, a condition that causes soft and weak bones in children, is caused by a lack of which vitamin?",
+      "options": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B6",
+        "Vitamin D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rickets is caused by vitamin D deficiency, which impairs calcium absorption and leads to soft, weak bones. Sunlight exposure helps the body produce vitamin D.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-3",
+      "question": "Night blindness is an early symptom of deficiency in which vitamin?",
+      "options": [
+        "Vitamin K",
+        "Vitamin E",
+        "Vitamin B1",
+        "Vitamin A"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamin A deficiency causes night blindness because vitamin A is essential for producing rhodopsin, a pigment in the retina needed for low-light vision.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-4",
+      "question": "Beriberi, a disease affecting the nervous system and heart, is caused by a lack of which vitamin?",
+      "options": [
+        "Vitamin B6",
+        "Vitamin E",
+        "Vitamin B1 (Thiamine)",
+        "Vitamin C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beriberi is caused by thiamine (vitamin B1) deficiency. It was historically common in regions where polished white rice was a dietary staple, as the milling process removes thiamine.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-5",
+      "question": "Which vitamin deficiency can cause pernicious anemia?",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin B6",
+        "Vitamin C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pernicious anemia is caused by vitamin B12 deficiency, often due to the body's inability to absorb B12 from food. It results in fatigue, weakness, and neurological problems.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-6",
+      "question": "Pellagra, characterized by the 'four Ds' (dermatitis, diarrhea, dementia, death), is caused by a deficiency of which vitamin?",
+      "options": [
+        "Vitamin B2 (Riboflavin)",
+        "Vitamin B9 (Folate)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin B5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pellagra is caused by a deficiency of niacin (vitamin B3). It was epidemic in the early 20th century in areas where corn was the primary dietary staple.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-7",
+      "question": "Which vitamin is essential for blood clotting, and its deficiency can cause excessive bleeding?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamin K is essential for synthesizing proteins needed for blood clotting. Its deficiency can lead to excessive bleeding and easy bruising.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-8",
+      "question": "Which citrus fruit was famously used by the British Navy to prevent scurvy?",
+      "options": [
+        "Grapefruits",
+        "Oranges",
+        "Lemons",
+        "Limes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The British Navy issued lime juice rations to sailors to prevent scurvy, which is how British sailors earned the nickname 'limeys.'",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-9",
+      "question": "A deficiency of folate (vitamin B9) during pregnancy can increase the risk of what?",
+      "options": [
+        "Neural tube defects in the baby",
+        "Gestational weight gain",
+        "High blood pressure",
+        "Diabetes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Folate deficiency during pregnancy significantly increases the risk of neural tube defects like spina bifida. This is why prenatal vitamins contain folic acid.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-10",
+      "question": "Which vitamin acts as an antioxidant and its deficiency can cause nerve and muscle damage?",
+      "options": [
+        "Vitamin E",
+        "Vitamin B12",
+        "Vitamin A",
+        "Vitamin D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vitamin E is a powerful antioxidant that protects cells from damage. Severe deficiency can cause nerve and muscle damage, vision problems, and weakened immunity.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-11",
+      "question": "Osteomalacia (softening of bones in adults) is typically caused by a deficiency of which vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Osteomalacia is the adult form of rickets, caused by vitamin D deficiency leading to impaired calcium absorption and bone softening.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-12",
+      "question": "Which food group is the best natural source of vitamin B12?",
+      "options": [
+        "Animal products",
+        "Vegetables",
+        "Fruits",
+        "Grains"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vitamin B12 is naturally found almost exclusively in animal products such as meat, fish, eggs, and dairy. Vegans may need supplements or fortified foods.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-13",
+      "question": "Which vitamin deficiency is the most common nutritional deficiency worldwide?",
+      "options": [
+        "Vitamin B1",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamin D deficiency is estimated to affect about 1 billion people worldwide, partly because many people get insufficient sunlight exposure and few foods are naturally rich in it.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-14",
+      "question": "Cracked lips and a sore tongue can be symptoms of a deficiency in which vitamin?",
+      "options": [
+        "Vitamin E",
+        "Vitamin A",
+        "Vitamin B2 (Riboflavin)",
+        "Vitamin C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Riboflavin (vitamin B2) deficiency can cause cracked lips (cheilosis), sore tongue, and skin problems. Good sources include dairy, eggs, and green vegetables.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": "vitamin-deficiencies-quiz-15",
+      "question": "What is the main dietary source of vitamin C?",
+      "options": [
+        "Meat and poultry",
+        "Fruits and vegetables",
+        "Dairy products",
+        "Grains and cereals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fruits and vegetables are the main sources of vitamin C, with citrus fruits, strawberries, bell peppers, and broccoli being particularly rich sources.",
+      "difficulty": "easy",
+      "category": "health"
+    }
+  ]
+}

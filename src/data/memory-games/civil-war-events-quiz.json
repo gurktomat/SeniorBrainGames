@@ -1,0 +1,219 @@
+{
+  "id": "civil-war-events-quiz",
+  "title": "Civil War Events Quiz",
+  "description": "Test your recall of the key events and figures of the American Civil War!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "civil-war-events-quiz-1",
+      "question": "Which battle is considered the turning point of the American Civil War?",
+      "options": [
+        "Battle of Vicksburg",
+        "Battle of Bull Run",
+        "Battle of Gettysburg",
+        "Battle of Antietam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Gettysburg (July 1-3, 1863) was a decisive Union victory that ended Confederate General Lee's invasion of the North.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-2",
+      "question": "What document did President Lincoln issue on January 1, 1863, freeing enslaved people in Confederate states?",
+      "options": [
+        "Emancipation Proclamation",
+        "Missouri Compromise",
+        "Gettysburg Address",
+        "13th Amendment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Emancipation Proclamation declared all enslaved people in Confederate territory to be free, transforming the war into a fight for freedom.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-3",
+      "question": "Where was the first shot of the Civil War fired in April 1861?",
+      "options": [
+        "Fort Sumter",
+        "Harper's Ferry",
+        "Fort McHenry",
+        "Manassas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Confederate forces fired on Fort Sumter in Charleston Harbor, South Carolina on April 12, 1861, beginning the American Civil War.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-4",
+      "question": "Who was the President of the Confederate States of America?",
+      "options": [
+        "Stonewall Jackson",
+        "Alexander Stephens",
+        "Robert E. Lee",
+        "Jefferson Davis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jefferson Davis served as the President of the Confederate States of America from 1861 until the end of the war in 1865.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-5",
+      "question": "Which Union general's 'March to the Sea' devastated Georgia in 1864?",
+      "options": [
+        "George McClellan",
+        "Philip Sheridan",
+        "William Tecumseh Sherman",
+        "Ulysses S. Grant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "General William Tecumseh Sherman led his famous March to the Sea from Atlanta to Savannah in November-December 1864, destroying Confederate resources.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-6",
+      "question": "Where did Robert E. Lee surrender to Ulysses S. Grant, effectively ending the Civil War?",
+      "options": [
+        "Gettysburg, Pennsylvania",
+        "Richmond, Virginia",
+        "Washington, D.C.",
+        "Appomattox Court House"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lee surrendered to Grant at Appomattox Court House, Virginia on April 9, 1865, effectively ending the American Civil War.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-7",
+      "question": "Which battle was the bloodiest single-day battle in American history?",
+      "options": [
+        "Battle of Antietam",
+        "Battle of Gettysburg",
+        "Battle of Shiloh",
+        "Battle of Fredericksburg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Battle of Antietam (Sharpsburg) on September 17, 1862, resulted in approximately 23,000 casualties, making it the bloodiest single day in American military history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-8",
+      "question": "Which Confederate general was accidentally shot by his own troops at the Battle of Chancellorsville?",
+      "options": [
+        "Stonewall Jackson",
+        "A.P. Hill",
+        "James Longstreet",
+        "J.E.B. Stuart"
+      ],
+      "correctAnswer": 0,
+      "explanation": "General Thomas 'Stonewall' Jackson was accidentally shot by Confederate soldiers at Chancellorsville in May 1863 and died eight days later.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-9",
+      "question": "What famous speech did Lincoln deliver at the dedication of a military cemetery in 1863?",
+      "options": [
+        "Emancipation Proclamation",
+        "Second Inaugural Address",
+        "Cooper Union Address",
+        "Gettysburg Address"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lincoln delivered the Gettysburg Address on November 19, 1863, a brief but powerful speech redefining the war as a struggle for equality.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-10",
+      "question": "Which ironclad warships fought the first battle between armored ships in 1862?",
+      "options": [
+        "USS Monitor and CSS Virginia",
+        "USS Hartford and CSS Tennessee",
+        "USS Kearsarge and CSS Alabama",
+        "USS Constitution and HMS Guerriere"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The USS Monitor and CSS Virginia (formerly USS Merrimack) fought at Hampton Roads on March 9, 1862, the first battle between ironclad warships.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-11",
+      "question": "Where was Abraham Lincoln assassinated?",
+      "options": [
+        "The White House",
+        "Lincoln Memorial",
+        "Ford's Theatre",
+        "Capitol Building"
+      ],
+      "correctAnswer": 2,
+      "explanation": "President Lincoln was shot by John Wilkes Booth at Ford's Theatre in Washington, D.C. on April 14, 1865, and died the following morning.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-12",
+      "question": "Which amendment to the Constitution formally abolished slavery?",
+      "options": [
+        "15th Amendment",
+        "13th Amendment",
+        "14th Amendment",
+        "12th Amendment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 13th Amendment, ratified on December 6, 1865, formally abolished slavery throughout the United States.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-13",
+      "question": "What was the name of the 54th Massachusetts Infantry, one of the first African American regiments?",
+      "options": [
+        "United States Colored Troops",
+        "Buffalo Soldiers",
+        "Harlem Hellfighters",
+        "54th Massachusetts Volunteer Infantry"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 54th Massachusetts was one of the first African American regiments in the Union Army, famous for their courageous assault on Fort Wagner in July 1863.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-14",
+      "question": "Which Union victory in 1863 gave the North control of the Mississippi River?",
+      "options": [
+        "Battle of Memphis",
+        "Battle of New Orleans",
+        "Battle of Shiloh",
+        "Siege of Vicksburg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Siege of Vicksburg ended on July 4, 1863, giving the Union complete control of the Mississippi River and splitting the Confederacy in two.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "civil-war-events-quiz-15",
+      "question": "How many states seceded from the Union to form the Confederacy?",
+      "options": [
+        "15",
+        "13",
+        "11",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eleven states seceded from the Union between December 1860 and June 1861 to form the Confederate States of America.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

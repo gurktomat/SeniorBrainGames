@@ -1,0 +1,173 @@
+{
+  "id": "seismology-terms-quiz",
+  "title": "Seismology Terms Quiz",
+  "description": "Shake up your vocabulary with the science of earthquakes, from seismic waves and fault lines to measuring techniques and tectonic forces.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "seismology-terms-quiz-1",
+      "question": "What does 'seismology' study?",
+      "options": [
+        "Weather patterns",
+        "Volcanoes",
+        "Earthquakes and seismic waves",
+        "Ocean currents"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seismology-terms-quiz-2",
+      "question": "What is the 'epicenter' of an earthquake?",
+      "options": [
+        "The deepest point underground where an earthquake starts",
+        "The center of a tectonic plate",
+        "The point on the Earth's surface directly above where an earthquake originates",
+        "The farthest point that shaking is felt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seismology-terms-quiz-3",
+      "question": "What is a 'seismograph'?",
+      "options": [
+        "A scale for measuring damage",
+        "A tool for predicting earthquakes",
+        "An instrument that detects and records the intensity and duration of ground movements",
+        "A map of fault lines"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seismology-terms-quiz-4",
+      "question": "What does the 'Richter scale' measure?",
+      "options": [
+        "The depth of an earthquake",
+        "The duration of shaking",
+        "The magnitude or energy released by an earthquake",
+        "The number of aftershocks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seismology-terms-quiz-5",
+      "question": "What is a 'fault' in geology?",
+      "options": [
+        "A type of volcanic eruption",
+        "A sinkhole",
+        "A type of earthquake wave",
+        "A fracture in the Earth's crust along which blocks of rock have moved"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seismology-terms-quiz-6",
+      "question": "What are 'aftershocks'?",
+      "options": [
+        "Smaller earthquakes that follow the main earthquake in the same area",
+        "The sound of an earthquake",
+        "Cracks in buildings after an earthquake",
+        "Warning tremors before an earthquake"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seismology-terms-quiz-7",
+      "question": "What is the 'hypocenter' (or focus) of an earthquake?",
+      "options": [
+        "The edge of a tectonic plate",
+        "The center of a city hit by an earthquake",
+        "The surface location of greatest damage",
+        "The point underground where the rupture of rock first occurs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seismology-terms-quiz-8",
+      "question": "What is 'liquefaction'?",
+      "options": [
+        "Water flooding during a tsunami",
+        "The melting of rock into magma",
+        "The flow of lava",
+        "When saturated soil loses strength during an earthquake and behaves like a liquid"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seismology-terms-quiz-9",
+      "question": "What are 'P-waves'?",
+      "options": [
+        "Waves on the ocean surface",
+        "Primary seismic waves that are the fastest and first to arrive, compressing and expanding rock",
+        "Waves that travel only through water",
+        "Waves caused by aftershocks"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seismology-terms-quiz-10",
+      "question": "What are 'S-waves'?",
+      "options": [
+        "Slow-moving ocean waves",
+        "Secondary seismic waves that move rock side to side and cannot travel through liquids",
+        "Sound waves from an earthquake",
+        "Surface waves"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seismology-terms-quiz-11",
+      "question": "What is a 'tectonic plate'?",
+      "options": [
+        "A type of rock formation",
+        "A large slab of Earth's lithosphere that moves, floats, and sometimes fractures",
+        "A layer of the atmosphere",
+        "The inner core of the Earth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seismology-terms-quiz-12",
+      "question": "What does 'subduction' describe?",
+      "options": [
+        "Plates sliding past each other",
+        "The cracking of the Earth's surface",
+        "Two plates moving apart",
+        "The process where one tectonic plate slides beneath another"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seismology-terms-quiz-13",
+      "question": "What is 'magnitude' in earthquake measurement?",
+      "options": [
+        "A numerical value representing the energy released by an earthquake",
+        "The number of people affected",
+        "The depth of the earthquake",
+        "The duration of the earthquake"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seismology-terms-quiz-14",
+      "question": "What is a 'foreshock'?",
+      "options": [
+        "A smaller earthquake that precedes a larger earthquake in the same location",
+        "An aftershock that is stronger than the main quake",
+        "The main earthquake event",
+        "A man-made vibration"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seismology-terms-quiz-15",
+      "question": "What does the 'Modified Mercalli Intensity Scale' measure?",
+      "options": [
+        "The depth of the earthquake",
+        "The observed effects and damage caused by an earthquake at specific locations",
+        "The speed of seismic waves",
+        "The magnitude of an earthquake"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -8,8 +8,13 @@
     {
       "id": "conn-1",
       "question": "What do Earth, a basketball, and a pizza all have in common?",
-      "options": ["They are all round", "They are all bouncy", "They are all orange", "They are all heavy"],
-      "correctAnswer": 0,
+      "options": [
+        "They are all bouncy",
+        "They are all orange",
+        "They are all heavy",
+        "They are all round"
+      ],
+      "correctAnswer": 3,
       "explanation": "Earth, basketballs, and pizzas are all round in shape — a sphere, a ball, and a circle respectively.",
       "difficulty": "easy",
       "category": "memory"
@@ -17,8 +22,13 @@
     {
       "id": "conn-2",
       "question": "What do shoes, gloves, and earrings all have in common?",
-      "options": ["They are made of leather", "They come in pairs", "They are worn on the hands", "They are always black"],
-      "correctAnswer": 1,
+      "options": [
+        "They are worn on the hands",
+        "They are made of leather",
+        "They come in pairs",
+        "They are always black"
+      ],
+      "correctAnswer": 2,
       "explanation": "Shoes, gloves, and earrings all come in pairs — you need two to make a complete set.",
       "difficulty": "easy",
       "category": "memory"
@@ -26,8 +36,13 @@
     {
       "id": "conn-3",
       "question": "What do an airplane, a bird, and a kite all have in common?",
-      "options": ["They all have feathers", "They all have engines", "They all fly", "They are all made of metal"],
-      "correctAnswer": 2,
+      "options": [
+        "They all have feathers",
+        "They all fly",
+        "They all have engines",
+        "They are all made of metal"
+      ],
+      "correctAnswer": 1,
       "explanation": "Airplanes, birds, and kites all fly through the air, though each uses a different method to achieve flight.",
       "difficulty": "easy",
       "category": "memory"
@@ -35,8 +50,13 @@
     {
       "id": "conn-4",
       "question": "What do a piano, a computer, and a lock all have in common?",
-      "options": ["They all use electricity", "They all have keys", "They all make music", "They are all rectangular"],
-      "correctAnswer": 1,
+      "options": [
+        "They are all rectangular",
+        "They all make music",
+        "They all use electricity",
+        "They all have keys"
+      ],
+      "correctAnswer": 3,
       "explanation": "A piano has musical keys, a computer has keyboard keys, and a lock is opened with a key — they all have keys!",
       "difficulty": "easy",
       "category": "memory"
@@ -44,8 +64,13 @@
     {
       "id": "conn-5",
       "question": "What do Saturn, a boxing ring, and a telephone all have in common?",
-      "options": ["They are all large", "They are all round", "They all have rings", "They all spin"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all round",
+        "They all have rings",
+        "They are all large",
+        "They all spin"
+      ],
+      "correctAnswer": 1,
       "explanation": "Saturn has planetary rings, boxing has a ring where fighters compete, and a telephone rings when someone calls.",
       "difficulty": "easy",
       "category": "memory"
@@ -53,8 +78,13 @@
     {
       "id": "conn-6",
       "question": "What do a king, a tooth, and the Statue of Liberty all have in common?",
-      "options": ["They are all famous", "They all have crowns", "They are all tall", "They are all old"],
-      "correctAnswer": 1,
+      "options": [
+        "They are all famous",
+        "They are all old",
+        "They all have crowns",
+        "They are all tall"
+      ],
+      "correctAnswer": 2,
       "explanation": "A king wears a crown, a tooth has a dental crown, and the Statue of Liberty wears a crown with seven rays.",
       "difficulty": "medium",
       "category": "memory"
@@ -62,8 +92,13 @@
     {
       "id": "conn-7",
       "question": "What do a dog, a comet, and a kite all have in common?",
-      "options": ["They all fly", "They are all fast", "They all have tails", "They are all found outdoors"],
-      "correctAnswer": 2,
+      "options": [
+        "They all fly",
+        "They all have tails",
+        "They are all fast",
+        "They are all found outdoors"
+      ],
+      "correctAnswer": 1,
       "explanation": "A dog wags its tail, a comet has a glowing tail of gas and dust, and a kite flies with a tail for stability.",
       "difficulty": "medium",
       "category": "memory"
@@ -71,7 +106,12 @@
     {
       "id": "conn-8",
       "question": "What do a bottle, a guitar, and a giraffe all have in common?",
-      "options": ["They are all tall", "They all have necks", "They are all hollow", "They all hold liquid"],
+      "options": [
+        "They are all tall",
+        "They all have necks",
+        "They all hold liquid",
+        "They are all hollow"
+      ],
       "correctAnswer": 1,
       "explanation": "A bottle has a narrow neck, a guitar has a neck where the fretboard is, and a giraffe is famous for its long neck.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "conn-9",
       "question": "What do a clock, a deck of cards, and a human all have in common?",
-      "options": ["They all have faces", "They all have hands", "They all have numbers", "They all tell time"],
-      "correctAnswer": 1,
+      "options": [
+        "They all have numbers",
+        "They all have faces",
+        "They all have hands",
+        "They all tell time"
+      ],
+      "correctAnswer": 2,
       "explanation": "A clock has hour and minute hands, a card game deals hands of cards, and humans have two hands.",
       "difficulty": "medium",
       "category": "memory"
@@ -89,8 +134,13 @@
     {
       "id": "conn-10",
       "question": "What do temperature, angles, and burns all have in common?",
-      "options": ["They all involve fire", "They are all dangerous", "They are all measured in degrees", "They all cause pain"],
-      "correctAnswer": 2,
+      "options": [
+        "They all involve fire",
+        "They are all measured in degrees",
+        "They are all dangerous",
+        "They all cause pain"
+      ],
+      "correctAnswer": 1,
       "explanation": "Temperature is measured in degrees (Fahrenheit or Celsius), angles are measured in degrees, and burns are classified by degree (first, second, third).",
       "difficulty": "medium",
       "category": "memory"
@@ -98,8 +148,13 @@
     {
       "id": "conn-11",
       "question": "What do a fish, a musical composition, and Lady Justice all have in common?",
-      "options": ["They are all old", "They all have scales", "They are all found in water", "They all have tails"],
-      "correctAnswer": 1,
+      "options": [
+        "They are all found in water",
+        "They all have tails",
+        "They are all old",
+        "They all have scales"
+      ],
+      "correctAnswer": 3,
       "explanation": "A fish has scales on its body, music uses scales (sequences of notes), and Lady Justice holds scales to weigh evidence.",
       "difficulty": "hard",
       "category": "memory"
@@ -107,8 +162,13 @@
     {
       "id": "conn-12",
       "question": "What do a river crossing, a guitar, and a dental procedure all have in common?",
-      "options": ["They all involve water", "They all have strings", "They all have bridges", "They all require tools"],
-      "correctAnswer": 2,
+      "options": [
+        "They all require tools",
+        "They all involve water",
+        "They all have strings",
+        "They all have bridges"
+      ],
+      "correctAnswer": 3,
       "explanation": "Rivers are crossed by bridges, a guitar has a bridge that holds the strings, and dentists create dental bridges to replace missing teeth.",
       "difficulty": "hard",
       "category": "memory"
@@ -116,8 +176,13 @@
     {
       "id": "conn-13",
       "question": "What do a river, money, and snow all have in common?",
-      "options": ["They all flow", "They are all cold", "They all have banks", "They are all liquid"],
-      "correctAnswer": 2,
+      "options": [
+        "They all flow",
+        "They are all cold",
+        "They are all liquid",
+        "They all have banks"
+      ],
+      "correctAnswer": 3,
       "explanation": "A river has riverbanks, money is stored in banks, and snow piles up in snowbanks.",
       "difficulty": "hard",
       "category": "memory"
@@ -125,8 +190,13 @@
     {
       "id": "conn-14",
       "question": "What do a prison, a chocolate candy, and a piece of music all have in common?",
-      "options": ["They are all dark", "They are all sweet", "They all have bars", "They all have cells"],
-      "correctAnswer": 2,
+      "options": [
+        "They all have cells",
+        "They all have bars",
+        "They are all dark",
+        "They are all sweet"
+      ],
+      "correctAnswer": 1,
       "explanation": "A prison has bars on its windows, chocolate comes in bars, and music is divided into bars (measures).",
       "difficulty": "hard",
       "category": "memory"
@@ -134,8 +204,13 @@
     {
       "id": "conn-15",
       "question": "What do a computer, a poker game, and a cookie all have in common?",
-      "options": ["They all have chips", "They are all digital", "They all involve bets", "They are all sweet"],
-      "correctAnswer": 0,
+      "options": [
+        "They are all digital",
+        "They all have chips",
+        "They are all sweet",
+        "They all involve bets"
+      ],
+      "correctAnswer": 1,
       "explanation": "Computers use microchips, poker games use betting chips, and cookies can have chocolate chips.",
       "difficulty": "medium",
       "category": "memory"

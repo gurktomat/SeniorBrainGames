@@ -1,0 +1,219 @@
+{
+  "id": "famous-symphonies",
+  "title": "Famous Symphonies",
+  "description": "Test your knowledge of the greatest symphonies and the composers who created them!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-symphonies-1",
+      "question": "Beethoven's Symphony No. 5 famously opens with how many notes in its iconic 'da-da-da-DUM' motif?",
+      "options": [
+        "Six",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four-note opening motif of Beethoven's Fifth Symphony (1808) — three short notes followed by one long note — is perhaps the most recognized phrase in all of classical music.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-2",
+      "question": "Which Beethoven symphony includes the choral setting of Schiller's 'Ode to Joy'?",
+      "options": [
+        "Symphony No. 3 'Eroica'",
+        "Symphony No. 9",
+        "Symphony No. 7",
+        "Symphony No. 6 'Pastoral'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beethoven's Ninth Symphony (1824) was revolutionary for including vocal soloists and a chorus in its final movement. The 'Ode to Joy' melody was later adopted as the anthem of the European Union.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-3",
+      "question": "Which composer wrote the 'Surprise Symphony,' with a sudden loud chord in the slow movement?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Haydn's Symphony No. 94 ('Surprise') features a quiet melody suddenly interrupted by a fortissimo chord. Haydn reportedly said he wanted to make the audience jump who had fallen asleep.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-4",
+      "question": "Dvořák's Symphony No. 9 is subtitled 'From the New World.' Where was he living when he wrote it?",
+      "options": [
+        "New York City",
+        "Prague",
+        "London",
+        "Vienna"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Antonín Dvořák composed this symphony in 1893 while serving as director of the National Conservatory of Music in New York City. It incorporates elements inspired by Native American and African American music.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-5",
+      "question": "Which Russian composer wrote the '1812 Overture,' often performed with real cannons?",
+      "options": [
+        "Modest Mussorgsky",
+        "Sergei Prokofiev",
+        "Pyotr Ilyich Tchaikovsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tchaikovsky composed the '1812 Overture' in 1880 to commemorate Russia's defense against Napoleon's invasion. The score calls for cannon fire and church bells in the finale.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-6",
+      "question": "Mozart composed how many symphonies during his short lifetime?",
+      "options": [
+        "51",
+        "31",
+        "21",
+        "41"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mozart composed 41 numbered symphonies, with his last three (Nos. 39, 40, and 41) written in an astonishing six-week span in the summer of 1788. He died at age 35.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-7",
+      "question": "Which symphony by Schubert is nicknamed 'Unfinished' because it has only two movements?",
+      "options": [
+        "Symphony No. 9",
+        "Symphony No. 7",
+        "Symphony No. 8",
+        "Symphony No. 5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Schubert's Symphony No. 8 in B minor (1822) consists of only two completed movements. The reason he never finished it remains a mystery, though it is one of his most beloved works.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-8",
+      "question": "Beethoven's Symphony No. 3 'Eroica' was originally dedicated to which historical figure?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Thomas Jefferson",
+        "King George III",
+        "Frederick the Great"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Beethoven originally dedicated the 'Eroica' to Napoleon, whom he admired as a champion of democracy. When Napoleon crowned himself Emperor in 1804, Beethoven angrily scratched out the dedication.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-9",
+      "question": "Which composer's Symphony No. 9 is sometimes considered 'cursed' because many composers died after their own ninth?",
+      "options": [
+        "Beethoven",
+        "All of the above",
+        "Mahler",
+        "Bruckner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'Curse of the Ninth' is a superstition noting that Beethoven, Schubert, Bruckner, Dvořák, and Mahler all died during or after composing their ninth symphonies. Mahler was so superstitious about it that he tried to avoid numbering his ninth.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-10",
+      "question": "Gustav Mahler's Symphony No. 8, requiring over 1,000 performers, is nicknamed what?",
+      "options": [
+        "Symphony of a Thousand",
+        "The Colossal Symphony",
+        "The Grand Symphony",
+        "Symphony of the Universe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mahler's Eighth Symphony (1906) is called the 'Symphony of a Thousand' because its premiere in Munich in 1910 featured 858 singers and 171 instrumentalists. The nickname was created by the concert's promoter.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-11",
+      "question": "Which Brahms symphony is sometimes called 'Beethoven's Tenth' because of its similar style?",
+      "options": [
+        "Symphony No. 1",
+        "Symphony No. 3",
+        "Symphony No. 4",
+        "Symphony No. 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brahms's Symphony No. 1 (1876) took him over 20 years to complete, partly because he felt the weight of Beethoven's legacy. Conductor Hans von Bülow called it 'Beethoven's Tenth' as a compliment.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-12",
+      "question": "Haydn is often called the 'Father of the Symphony.' Approximately how many did he compose?",
+      "options": [
+        "104",
+        "54",
+        "74",
+        "134"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Joseph Haydn composed 104 numbered symphonies over his long career, establishing the four-movement symphony form that Beethoven, Mozart, and later composers would build upon.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-13",
+      "question": "Which Tchaikovsky symphony is subtitled 'Pathétique' and was premiered just nine days before his death?",
+      "options": [
+        "Symphony No. 6",
+        "Symphony No. 7",
+        "Symphony No. 5",
+        "Symphony No. 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tchaikovsky's Symphony No. 6 'Pathétique' premiered on October 28, 1893. He died just nine days later. The unusually somber final movement has led to much speculation about the work's autobiographical nature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-14",
+      "question": "Which 20th-century American composer wrote 'Symphony No. 3,' often called 'the greatest American symphony'?",
+      "options": [
+        "Leonard Bernstein",
+        "George Gershwin",
+        "Samuel Barber",
+        "Aaron Copland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aaron Copland's Symphony No. 3 (1946) incorporates his famous 'Fanfare for the Common Man' in the final movement. It is widely considered the finest American symphony of its era.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-symphonies-15",
+      "question": "Beethoven's Symphony No. 6 is subtitled 'Pastoral.' What does it musically depict?",
+      "options": [
+        "Scenes from country life and nature",
+        "A military battle",
+        "A royal coronation",
+        "A religious ceremony"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'Pastoral' Symphony (1808) depicts scenes from rural life, including a brook, a village gathering, a thunderstorm, and a shepherd's song of thanksgiving. Each movement has a descriptive title.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

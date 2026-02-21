@@ -1,0 +1,173 @@
+{
+  "id": "allegory-parable-quiz",
+  "title": "Allegory & Parable Quiz",
+  "description": "Explore stories with hidden meanings, from ancient fables to modern allegories",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "allegory-parable-quiz-1",
+      "question": "What is an 'allegory'?",
+      "options": [
+        "A narrative in which characters, events, and settings represent abstract ideas or moral concepts",
+        "A type of rhyme scheme",
+        "A story with no deeper meaning",
+        "A story about alligators"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "allegory-parable-quiz-2",
+      "question": "What is a 'parable'?",
+      "options": [
+        "A long epic poem",
+        "A story set in a parallel universe",
+        "A short, simple story that teaches a moral or spiritual lesson",
+        "A type of mathematical equation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "allegory-parable-quiz-3",
+      "question": "How does an allegory differ from a parable?",
+      "options": [
+        "Allegories never have moral lessons",
+        "They are identical",
+        "An allegory is typically longer and more complex; a parable is short and focused on a single lesson",
+        "Parables are always about animals"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "allegory-parable-quiz-4",
+      "question": "Which of these is a famous political allegory?",
+      "options": [
+        "Little Women",
+        "Animal Farm by George Orwell",
+        "The Old Man and the Sea",
+        "Pride and Prejudice"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "allegory-parable-quiz-5",
+      "question": "Plato's 'Allegory of the Cave' illustrates which philosophical concept?",
+      "options": [
+        "The difference between perceived reality and true knowledge",
+        "The history of cave paintings",
+        "The proper way to build shelters",
+        "The importance of physical exercise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "allegory-parable-quiz-6",
+      "question": "What is a 'fable'?",
+      "options": [
+        "A long novel about family life",
+        "A poem about nature",
+        "A short story, often with animal characters, that conveys a moral lesson",
+        "A true historical account"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "allegory-parable-quiz-7",
+      "question": "Who is the ancient Greek storyteller most associated with fables?",
+      "options": [
+        "Homer",
+        "Euripides",
+        "Aesop",
+        "Socrates"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "allegory-parable-quiz-8",
+      "question": "The moral 'slow and steady wins the race' comes from which Aesop's fable?",
+      "options": [
+        "The Ant and the Grasshopper",
+        "The Tortoise and the Hare",
+        "The Boy Who Cried Wolf",
+        "The Fox and the Grapes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "allegory-parable-quiz-9",
+      "question": "John Bunyan's 'The Pilgrim's Progress' is a religious allegory about:",
+      "options": [
+        "A Christian's journey from sin to salvation",
+        "The life of a medieval pilgrim",
+        "The discovery of America",
+        "A physical journey across Europe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "allegory-parable-quiz-10",
+      "question": "In the Bible, the Parable of the Good Samaritan teaches about:",
+      "options": [
+        "The importance of wealth",
+        "Compassion and helping others regardless of social boundaries",
+        "The geography of Samaria",
+        "The rules of travel in ancient times"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "allegory-parable-quiz-11",
+      "question": "C.S. Lewis's 'The Chronicles of Narnia' is often interpreted as an allegory for:",
+      "options": [
+        "Christian theology and the story of Christ",
+        "The history of England",
+        "The Industrial Revolution",
+        "Ancient Roman politics"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "allegory-parable-quiz-12",
+      "question": "What is the difference between an allegory and a symbol?",
+      "options": [
+        "Allegories never use symbols",
+        "An allegory extends throughout an entire work; a symbol is a single element that represents something else",
+        "They are the same thing",
+        "Symbols are only found in poetry"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "allegory-parable-quiz-13",
+      "question": "Dante's 'Divine Comedy' is an allegory for:",
+      "options": [
+        "The soul's journey through sin, penance, and ultimately to God",
+        "A medieval cooking competition",
+        "The history of comedy",
+        "A vacation in Italy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "allegory-parable-quiz-14",
+      "question": "The fable of 'The Boy Who Cried Wolf' teaches which lesson?",
+      "options": [
+        "Wolves are dangerous",
+        "Nobody believes a liar, even when they are telling the truth",
+        "Boys should not be shepherds",
+        "Animals can talk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "allegory-parable-quiz-15",
+      "question": "What is a 'moral' in the context of a fable or parable?",
+      "options": [
+        "The main character's name",
+        "The setting of the story",
+        "The practical or ethical lesson that the story teaches",
+        "The author's pen name"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

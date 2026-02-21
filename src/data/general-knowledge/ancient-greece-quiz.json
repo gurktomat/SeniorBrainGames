@@ -1,0 +1,173 @@
+{
+  "id": "ancient-greece-quiz",
+  "title": "Ancient Greece Quiz",
+  "description": "Explore the birthplace of democracy, philosophy, and the Olympic Games with this ancient Greece trivia quiz.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "ancient-greece-quiz-1",
+      "question": "Which Greek city-state was known for its powerful navy and democratic government?",
+      "options": [
+        "Corinth",
+        "Athens",
+        "Sparta",
+        "Thebes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ancient-greece-quiz-2",
+      "question": "Who is considered the father of Western philosophy?",
+      "options": [
+        "Aristotle",
+        "Pythagoras",
+        "Plato",
+        "Socrates"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ancient-greece-quiz-3",
+      "question": "What epic poems about the Trojan War and Odysseus's journey home are attributed to Homer?",
+      "options": [
+        "The Iliad and The Odyssey",
+        "Theogony and Works and Days",
+        "Antigone and Oedipus Rex",
+        "The Aeneid and Metamorphoses"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greece-quiz-4",
+      "question": "In which Greek city-state were boys trained from age 7 to become fierce warriors?",
+      "options": [
+        "Thebes",
+        "Corinth",
+        "Sparta",
+        "Athens"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-greece-quiz-5",
+      "question": "What was the original purpose of the ancient Olympic Games held at Olympia?",
+      "options": [
+        "Military training",
+        "Political negotiations",
+        "Trade exhibitions",
+        "A religious festival honoring Zeus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ancient-greece-quiz-6",
+      "question": "Which Greek philosopher was a student of Socrates and wrote 'The Republic'?",
+      "options": [
+        "Diogenes",
+        "Aristotle",
+        "Epicurus",
+        "Plato"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ancient-greece-quiz-7",
+      "question": "What temple dedicated to the goddess Athena sits atop the Acropolis in Athens?",
+      "options": [
+        "The Parthenon",
+        "The Temple of Zeus",
+        "The Erechtheion",
+        "The Temple of Apollo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greece-quiz-8",
+      "question": "Which battle in 490 BC saw the Athenians defeat a much larger Persian force?",
+      "options": [
+        "Battle of Marathon",
+        "Battle of Plataea",
+        "Battle of Salamis",
+        "Battle of Thermopylae"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greece-quiz-9",
+      "question": "Who was the Macedonian king who conquered a vast empire stretching to India?",
+      "options": [
+        "Alexander the Great",
+        "Ptolemy I",
+        "Philip II",
+        "Seleucus I"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greece-quiz-10",
+      "question": "What Greek mathematician is famous for his theorem about right triangles?",
+      "options": [
+        "Archimedes",
+        "Eratosthenes",
+        "Pythagoras",
+        "Euclid"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-greece-quiz-11",
+      "question": "Which ancient Greek historian is often called the 'Father of History'?",
+      "options": [
+        "Thucydides",
+        "Polybius",
+        "Xenophon",
+        "Herodotus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ancient-greece-quiz-12",
+      "question": "What form of government did Athens pioneer, allowing citizens to vote directly on laws?",
+      "options": [
+        "Oligarchy",
+        "Tyranny",
+        "Direct democracy",
+        "Monarchy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ancient-greece-quiz-13",
+      "question": "Which Greek god was considered the king of the Olympian gods?",
+      "options": [
+        "Apollo",
+        "Hades",
+        "Poseidon",
+        "Zeus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ancient-greece-quiz-14",
+      "question": "What was the famous last stand of 300 Spartan warriors against the Persian army in 480 BC called?",
+      "options": [
+        "Battle of Thermopylae",
+        "Battle of Marathon",
+        "Battle of Gaugamela",
+        "Battle of Salamis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ancient-greece-quiz-15",
+      "question": "Which ancient Greek physician is known as the 'Father of Medicine'?",
+      "options": [
+        "Galen",
+        "Dioscorides",
+        "Hippocrates",
+        "Asclepius"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

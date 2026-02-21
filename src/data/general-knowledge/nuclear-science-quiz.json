@@ -1,0 +1,173 @@
+{
+  "id": "nuclear-science-quiz",
+  "title": "Nuclear Science",
+  "description": "Explore the power of the atom, from fission to fusion and nuclear energy",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "nuclear-science-quiz-1",
+      "question": "What is the process of splitting an atomic nucleus into smaller parts called?",
+      "options": [
+        "Nuclear synthesis",
+        "Nuclear fission",
+        "Nuclear fusion",
+        "Radioactive decay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nuclear-science-quiz-2",
+      "question": "What element is most commonly used as fuel in nuclear power plants?",
+      "options": [
+        "Uranium",
+        "Thorium",
+        "Plutonium",
+        "Radium"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-3",
+      "question": "What process powers the Sun, combining lighter atoms into heavier ones?",
+      "options": [
+        "Radioactive decay",
+        "Nuclear fission",
+        "Nuclear fusion",
+        "Chemical combustion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nuclear-science-quiz-4",
+      "question": "Who led the Manhattan Project to develop the first nuclear weapons?",
+      "options": [
+        "J. Robert Oppenheimer",
+        "Edward Teller",
+        "Niels Bohr",
+        "Enrico Fermi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-5",
+      "question": "In what year did the Chernobyl nuclear disaster occur?",
+      "options": [
+        "1986",
+        "1989",
+        "1979",
+        "1982"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-6",
+      "question": "What does a Geiger counter detect?",
+      "options": [
+        "Sound waves",
+        "Radiation",
+        "Electrical current",
+        "Magnetic fields"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nuclear-science-quiz-7",
+      "question": "Which scientist discovered radioactivity in 1896?",
+      "options": [
+        "Ernest Rutherford",
+        "Henri Becquerel",
+        "Marie Curie",
+        "Wilhelm Röntgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nuclear-science-quiz-8",
+      "question": "What is the half-life of a radioactive substance?",
+      "options": [
+        "The midpoint of a nuclear reaction",
+        "Half the energy released",
+        "The time it takes to lose all radioactivity",
+        "The time for half the atoms to decay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "nuclear-science-quiz-9",
+      "question": "Which type of radiation can be stopped by a sheet of paper?",
+      "options": [
+        "Alpha particles",
+        "Beta particles",
+        "Gamma rays",
+        "X-rays"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-10",
+      "question": "The Fukushima nuclear disaster in 2011 was triggered by what natural event?",
+      "options": [
+        "Volcanic eruption",
+        "Tornado",
+        "Earthquake and tsunami",
+        "Hurricane"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "nuclear-science-quiz-11",
+      "question": "What is the name of the first nuclear-powered submarine, launched in 1954?",
+      "options": [
+        "USS Nautilus",
+        "USS Triton",
+        "USS Seawolf",
+        "USS Enterprise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-12",
+      "question": "Which country currently has the most nuclear power reactors in operation?",
+      "options": [
+        "United States",
+        "France",
+        "China",
+        "Russia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-13",
+      "question": "What famous equation by Einstein relates mass and energy?",
+      "options": [
+        "V = IR",
+        "E = mc²",
+        "PV = nRT",
+        "F = ma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "nuclear-science-quiz-14",
+      "question": "What is the containment structure around a nuclear reactor designed to prevent?",
+      "options": [
+        "Release of radioactive materials",
+        "Power surges",
+        "Earthquakes",
+        "Flooding"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "nuclear-science-quiz-15",
+      "question": "Marie and Pierre Curie discovered which two radioactive elements?",
+      "options": [
+        "Plutonium and Neptunium",
+        "Francium and Actinium",
+        "Uranium and Thorium",
+        "Radium and Polonium"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

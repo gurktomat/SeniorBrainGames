@@ -7,91 +7,166 @@
     {
       "id": "mushroom-identification-1",
       "question": "Which prized edible mushroom has a distinctive honeycomb-like cap, grows in spring, and is highly sought after by foragers across North America and Europe?",
-      "options": ["Chanterelle", "Morel", "Porcini", "Truffle"],
-      "correctAnswer": 1
+      "options": [
+        "Truffle",
+        "Porcini",
+        "Chanterelle",
+        "Morel"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "mushroom-identification-2",
       "question": "Which iconic red mushroom with white spots is commonly depicted in fairy tales and is toxic if consumed?",
-      "options": ["Death Cap", "Fly Agaric", "Destroying Angel", "Jack-O'-Lantern"],
-      "correctAnswer": 1
+      "options": [
+        "Fly Agaric",
+        "Jack-O'-Lantern",
+        "Destroying Angel",
+        "Death Cap"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "mushroom-identification-3",
       "question": "Which mushroom grows on birch trees, resembles a chunk of burnt charcoal, and has been used in traditional medicine for centuries?",
-      "options": ["Turkey Tail", "Reishi", "Chaga", "Lion's Mane"],
-      "correctAnswer": 2
+      "options": [
+        "Lion's Mane",
+        "Chaga",
+        "Reishi",
+        "Turkey Tail"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "mushroom-identification-4",
       "question": "Which edible mushroom has a golden to yellow color, a fruity aroma, and a funnel-shaped cap with ridges instead of true gills?",
-      "options": ["Chanterelle", "Honey Mushroom", "Oyster Mushroom", "Chicken of the Woods"],
-      "correctAnswer": 0
+      "options": [
+        "Honey Mushroom",
+        "Chanterelle",
+        "Chicken of the Woods",
+        "Oyster Mushroom"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "mushroom-identification-5",
       "question": "Which large, bracket-shaped mushroom grows on oak trees, has bright orange and yellow bands, and tastes similar to chicken when cooked?",
-      "options": ["Hen of the Woods", "Turkey Tail", "Chicken of the Woods", "Reishi"],
-      "correctAnswer": 2
+      "options": [
+        "Reishi",
+        "Turkey Tail",
+        "Hen of the Woods",
+        "Chicken of the Woods"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "mushroom-identification-6",
       "question": "Which extremely deadly mushroom has a greenish-yellow cap, white gills, and is responsible for the majority of mushroom poisoning deaths worldwide?",
-      "options": ["Destroying Angel", "Fly Agaric", "Death Cap", "False Morel"],
-      "correctAnswer": 2
+      "options": [
+        "Death Cap",
+        "Fly Agaric",
+        "Destroying Angel",
+        "False Morel"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "mushroom-identification-7",
       "question": "Which white, shaggy mushroom is commonly found on lawns, has a cylindrical cap that turns inky black as it matures, and is also called the 'lawyer's wig'?",
-      "options": ["Button Mushroom", "Shaggy Mane", "Parasol Mushroom", "Puffball"],
-      "correctAnswer": 1
+      "options": [
+        "Parasol Mushroom",
+        "Puffball",
+        "Shaggy Mane",
+        "Button Mushroom"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "mushroom-identification-8",
       "question": "Which mushroom grows underground near tree roots, has an intense earthy aroma, and is one of the most expensive foods in the world by weight?",
-      "options": ["Morel", "Porcini", "Truffle", "Matsutake"],
-      "correctAnswer": 2
+      "options": [
+        "Matsutake",
+        "Porcini",
+        "Morel",
+        "Truffle"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "mushroom-identification-9",
       "question": "Which white, globe-shaped mushroom can grow to the size of a soccer ball and is edible when the interior flesh is still pure white?",
-      "options": ["Giant Puffball", "Button Mushroom", "Destroying Angel", "Parasol Mushroom"],
-      "correctAnswer": 0
+      "options": [
+        "Destroying Angel",
+        "Button Mushroom",
+        "Parasol Mushroom",
+        "Giant Puffball"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "mushroom-identification-10",
       "question": "Which popular edible mushroom grows in shelf-like clusters on dead or dying trees and has a soft, fan-shaped cap that can be white, gray, or brown?",
-      "options": ["Shiitake", "Oyster Mushroom", "Enoki", "Wood Ear"],
-      "correctAnswer": 1
+      "options": [
+        "Enoki",
+        "Wood Ear",
+        "Shiitake",
+        "Oyster Mushroom"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "mushroom-identification-11",
       "question": "Which white, cascading mushroom resembles a mane of icicles hanging from a tree and is studied for its potential brain-health benefits?",
-      "options": ["Coral Mushroom", "Cauliflower Mushroom", "Lion's Mane", "Bear's Head Tooth"],
+      "options": [
+        "Coral Mushroom",
+        "Cauliflower Mushroom",
+        "Lion's Mane",
+        "Bear's Head Tooth"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "mushroom-identification-12",
       "question": "Which mushroom has a dark, glossy, kidney-shaped cap with a lacquered appearance and has been used in traditional Chinese medicine for over 2,000 years?",
-      "options": ["Chaga", "Turkey Tail", "Shiitake", "Reishi"],
-      "correctAnswer": 3
+      "options": [
+        "Chaga",
+        "Reishi",
+        "Turkey Tail",
+        "Shiitake"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "mushroom-identification-13",
       "question": "Which thin, long-stemmed mushroom grows in tight clusters, has tiny white caps, and is commonly used in Asian soups and salads?",
-      "options": ["Oyster Mushroom", "Enoki", "Shiitake", "Maitake"],
+      "options": [
+        "Oyster Mushroom",
+        "Enoki",
+        "Shiitake",
+        "Maitake"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "mushroom-identification-14",
       "question": "Which large, feathery mushroom grows at the base of oak trees in autumn, is also called 'hen of the woods,' and is prized in Japanese cuisine?",
-      "options": ["Chanterelle", "Maitake", "Chicken of the Woods", "King Trumpet"],
-      "correctAnswer": 1
+      "options": [
+        "Maitake",
+        "Chicken of the Woods",
+        "King Trumpet",
+        "Chanterelle"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "mushroom-identification-15",
       "question": "Which colorful bracket fungus displays concentric zones of brown, tan, and green on fallen logs and is one of the most researched medicinal mushrooms?",
-      "options": ["Reishi", "Turkey Tail", "Artist's Conk", "Chicken of the Woods"],
+      "options": [
+        "Chicken of the Woods",
+        "Turkey Tail",
+        "Reishi",
+        "Artist's Conk"
+      ],
       "correctAnswer": 1
     }
   ]

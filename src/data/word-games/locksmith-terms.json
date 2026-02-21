@@ -1,0 +1,173 @@
+{
+  "id": "locksmith-terms",
+  "title": "Locksmith Terms",
+  "description": "Unlock your knowledge of the fascinating vocabulary used by locksmiths and security professionals.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "locksmith-terms-1",
+      "question": "What is a 'tumbler' in a lock?",
+      "options": [
+        "A drinking glass-shaped lock",
+        "A spring-loaded component inside a lock that must be moved to a specific position by the correct key",
+        "A type of padlock",
+        "A lock that has fallen off"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locksmith-terms-2",
+      "question": "What does 'keying alike' mean?",
+      "options": [
+        "Making keys that look similar",
+        "Setting multiple locks to be opened by the same key",
+        "Creating duplicate keys",
+        "Keys made from the same material"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locksmith-terms-3",
+      "question": "What is a 'deadbolt'?",
+      "options": [
+        "A decorative door bolt",
+        "A bolt struck by lightning",
+        "A broken bolt",
+        "A lock bolt that is moved into position by turning a key or thumb turn, with no spring mechanism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locksmith-terms-4",
+      "question": "What does 'rekeying' a lock involve?",
+      "options": [
+        "Making a copy of the existing key",
+        "Changing the internal pins or tumblers so a different key operates the lock",
+        "Removing the lock entirely",
+        "Buying a new lock"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locksmith-terms-5",
+      "question": "What is a 'master key' system?",
+      "options": [
+        "The most expensive key available",
+        "A key made by a master locksmith",
+        "A key that can never be duplicated",
+        "A system where individual keys open specific locks, but one master key opens all locks in the group"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locksmith-terms-6",
+      "question": "What is a 'cylinder' in a lock?",
+      "options": [
+        "The part of the lock into which the key is inserted and turned",
+        "A type of safe",
+        "The shape of a padlock",
+        "A round door handle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "locksmith-terms-7",
+      "question": "What does 'pick' mean in locksmithing?",
+      "options": [
+        "Breaking a lock with force",
+        "Using a specialized tool to manipulate the internal components of a lock to open it without a key",
+        "Selecting the right key for a lock",
+        "Choosing a lock at the store"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "locksmith-terms-8",
+      "question": "What is a 'strike plate'?",
+      "options": [
+        "A decorative door plate",
+        "A plate on the back of a lock",
+        "A plate that has been hit",
+        "The metal plate mounted on the door frame into which the bolt extends when the door is locked"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locksmith-terms-9",
+      "question": "What is 'key bitting'?",
+      "options": [
+        "A key that bites your finger",
+        "The key's brand marking",
+        "The specific cut pattern of ridges and valleys on a key that correspond to the lock's tumblers",
+        "Biting a key to test its metal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locksmith-terms-10",
+      "question": "What is a 'bump key'?",
+      "options": [
+        "A large oversized key",
+        "A key that vibrates when used",
+        "A specially cut key that can be used with a tapping technique to open pin tumbler locks",
+        "A key with bumps on the handle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locksmith-terms-11",
+      "question": "What does 'mortise lock' mean?",
+      "options": [
+        "A lock that fits into a pocket (mortise) cut into the edge of a door",
+        "A very old-fashioned lock",
+        "A lock for a mortuary",
+        "A lock made of mortar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "locksmith-terms-12",
+      "question": "What is a 'shackle' on a padlock?",
+      "options": [
+        "The keyhole",
+        "The body of the lock",
+        "The U-shaped metal loop that passes through the hasp or chain",
+        "The locking mechanism inside"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locksmith-terms-13",
+      "question": "What does 'key blank' refer to?",
+      "options": [
+        "A key that doesn't work",
+        "A key with no markings",
+        "A fake key used for display",
+        "An uncut key that will be machined to fit a specific lock"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "locksmith-terms-14",
+      "question": "What is 'access control' in the security industry?",
+      "options": [
+        "Controlling who has access to keys",
+        "A type of padlock",
+        "A system that regulates who can enter a building or area, using cards, codes, or biometrics",
+        "Locking all doors at night"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "locksmith-terms-15",
+      "question": "What does 'tension wrench' do in lock picking?",
+      "options": [
+        "Measures the tension of a lock spring",
+        "Applies slight rotational pressure to the lock cylinder while pins are being manipulated",
+        "Tightens loose lock screws",
+        "Removes a broken key from a lock"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

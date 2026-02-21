@@ -1,0 +1,219 @@
+{
+  "id": "baseball-legends-quiz",
+  "title": "Baseball Legends",
+  "description": "Test your knowledge of baseball history, legendary players, and the World Series!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "baseball-legends-quiz-1",
+      "question": "Who is known as 'The Sultan of Swat' and 'The Bambino'?",
+      "options": [
+        "Babe Ruth",
+        "Ted Williams",
+        "Joe DiMaggio",
+        "Lou Gehrig"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Babe Ruth, born George Herman Ruth Jr., was known by many nicknames including 'The Sultan of Swat' and 'The Bambino.' He revolutionized baseball with his power hitting.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-2",
+      "question": "Who broke the color barrier in Major League Baseball in 1947?",
+      "options": [
+        "Satchel Paige",
+        "Willie Mays",
+        "Jackie Robinson",
+        "Hank Aaron"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jackie Robinson became the first African American to play in Major League Baseball in the modern era when he debuted for the Brooklyn Dodgers on April 15, 1947.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-3",
+      "question": "How many innings are in a standard baseball game?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A standard Major League Baseball game consists of 9 innings. If the game is tied after 9 innings, extra innings are played until one team has the lead at the end of a complete inning.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-4",
+      "question": "Who holds the MLB record for most career home runs?",
+      "options": [
+        "Barry Bonds",
+        "Babe Ruth",
+        "Hank Aaron",
+        "Willie Mays"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Barry Bonds holds the MLB career home run record with 762, surpassing Hank Aaron's previous record of 755 in 2007. Babe Ruth hit 714 career home runs.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-5",
+      "question": "What is the 'World Series'?",
+      "options": [
+        "A minor league playoff",
+        "The MLB championship series",
+        "A global baseball tournament",
+        "An international exhibition game"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The World Series is the annual championship series of Major League Baseball, played between the champions of the American League and National League.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-6",
+      "question": "Which team won the World Series in 2016, ending a 108-year championship drought?",
+      "options": [
+        "Cleveland Indians",
+        "New York Mets",
+        "Chicago Cubs",
+        "Boston Red Sox"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chicago Cubs won the 2016 World Series, defeating the Cleveland Indians in 7 games. It was their first championship since 1908, ending the longest title drought in major North American sports.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-7",
+      "question": "What does a 'perfect game' mean in baseball?",
+      "options": [
+        "No opposing batter reaches base for the entire game",
+        "Hitting a home run in every at-bat",
+        "Striking out every batter",
+        "Winning by 10+ runs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A perfect game occurs when a pitcher retires every batter he faces over at least 9 innings — no hits, no walks, no errors, no hit batters. There have been only 24 in MLB history.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-8",
+      "question": "Which player had a 56-game hitting streak in 1941, a record that still stands?",
+      "options": [
+        "Mickey Mantle",
+        "Stan Musial",
+        "Joe DiMaggio",
+        "Ted Williams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joe DiMaggio of the New York Yankees had a 56-game hitting streak in 1941, one of the most unbreakable records in baseball. He got at least one hit in each of those consecutive games.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-9",
+      "question": "What is a 'no-hitter' in baseball?",
+      "options": [
+        "A game decided by walks only",
+        "A game with no extra-base hits",
+        "A game where the pitcher allows no hits",
+        "A game where no one scores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A no-hitter is a game in which a pitcher (or combination of pitchers) allows no hits to the opposing team over at least 9 innings. Walks and errors may still allow runners on base.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-10",
+      "question": "Which Japanese player became the first to be elected to the Baseball Hall of Fame?",
+      "options": [
+        "Ichiro Suzuki",
+        "Hideki Matsui",
+        "Shohei Ohtani",
+        "Hideo Nomo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ichiro Suzuki, who had 3,089 MLB hits and over 4,000 combined professional hits (including Japan), was elected to the Baseball Hall of Fame in 2025 in his first year of eligibility.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-11",
+      "question": "What is the 'Green Monster'?",
+      "options": [
+        "A type of pitch",
+        "A mascot of the Oakland Athletics",
+        "The left field wall at Fenway Park",
+        "A famous umpire"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Green Monster is the famous 37-foot-2-inch high left field wall at Fenway Park in Boston. It has been a defining feature of the ballpark since it opened in 1912.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-12",
+      "question": "Who holds the record for most career strikeouts as a pitcher?",
+      "options": [
+        "Roger Clemens",
+        "Nolan Ryan",
+        "Randy Johnson",
+        "Steve Carlton"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nolan Ryan holds the all-time record with 5,714 career strikeouts. He pitched for 27 seasons and also holds the record for most no-hitters with 7.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-13",
+      "question": "What does 'RBI' stand for in baseball?",
+      "options": [
+        "Runs By Inning",
+        "Run Batted In",
+        "Relay Ball Inside",
+        "Right Batter's Index"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RBI stands for Run Batted In. It is a statistic that credits a batter for causing a run to score, except in certain situations like double plays or errors.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-14",
+      "question": "Which team has won the most World Series championships?",
+      "options": [
+        "New York Yankees",
+        "St. Louis Cardinals",
+        "Boston Red Sox",
+        "San Francisco Giants"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The New York Yankees have won the most World Series championships with 27 titles, far more than any other team. The St. Louis Cardinals are second with 11 championships.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "baseball-legends-quiz-15",
+      "question": "What is a 'grand slam' in baseball?",
+      "options": [
+        "A home run hit with all three bases loaded",
+        "Winning all games in a series",
+        "Striking out the side",
+        "Hitting for the cycle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A grand slam is a home run hit when all three bases are occupied by runners, resulting in four runs scored. It is the most runs that can be scored on a single play.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

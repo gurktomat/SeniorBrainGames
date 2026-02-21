@@ -8,8 +8,13 @@
     {
       "id": "bt-1",
       "question": "A man pushes his car to a hotel and tells the owner he's bankrupt. Why?",
-      "options": ["He can't afford gas", "He's playing Monopoly", "The car broke down at the hotel", "He lost a bet"],
-      "correctAnswer": 1,
+      "options": [
+        "He's playing Monopoly",
+        "He can't afford gas",
+        "The car broke down at the hotel",
+        "He lost a bet"
+      ],
+      "correctAnswer": 0,
       "explanation": "He's playing Monopoly! He landed on a property with a hotel and doesn't have enough money to pay.",
       "difficulty": "medium",
       "category": "logic"
@@ -17,8 +22,13 @@
     {
       "id": "bt-2",
       "question": "What has keys but no locks, space but no room, and you can enter but can't go inside?",
-      "options": ["A map", "A keyboard", "A puzzle box", "A treasure chest"],
-      "correctAnswer": 1,
+      "options": [
+        "A map",
+        "A puzzle box",
+        "A treasure chest",
+        "A keyboard"
+      ],
+      "correctAnswer": 3,
       "explanation": "A keyboard has keys (but no locks), a space bar (but no room), and an enter key (but you can't go inside it).",
       "difficulty": "easy",
       "category": "logic"
@@ -26,7 +36,12 @@
     {
       "id": "bt-3",
       "question": "If you have a bowl with six apples and you take away four, how many do you have?",
-      "options": ["Two", "Four", "Six", "None"],
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "None"
+      ],
       "correctAnswer": 1,
       "explanation": "You have four — because you took four apples! The question asks how many YOU have, not how many are left in the bowl.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "bt-4",
       "question": "A rooster lays an egg on the peak of a roof. Which way does it roll?",
-      "options": ["Left", "Right", "Both sides equally", "Roosters don't lay eggs"],
+      "options": [
+        "Left",
+        "Right",
+        "Both sides equally",
+        "Roosters don't lay eggs"
+      ],
       "correctAnswer": 3,
       "explanation": "Roosters don't lay eggs — only hens do! This is a classic trick question.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "bt-5",
       "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
-      "options": ["A heartbeat", "The letter M", "A second", "A blink"],
-      "correctAnswer": 1,
+      "options": [
+        "A blink",
+        "A heartbeat",
+        "A second",
+        "The letter M"
+      ],
+      "correctAnswer": 3,
       "explanation": "The letter 'M' appears once in 'minute,' twice in 'moment,' and not at all in 'a thousand years.'",
       "difficulty": "medium",
       "category": "logic"
@@ -53,7 +78,12 @@
     {
       "id": "bt-6",
       "question": "A doctor gives you three pills and tells you to take one every 30 minutes. How long do the pills last?",
-      "options": ["90 minutes", "60 minutes", "45 minutes", "30 minutes"],
+      "options": [
+        "90 minutes",
+        "60 minutes",
+        "45 minutes",
+        "30 minutes"
+      ],
       "correctAnswer": 1,
       "explanation": "You take the first pill immediately, the second after 30 minutes, and the third after 60 minutes. Total time: 60 minutes.",
       "difficulty": "medium",
@@ -62,8 +92,13 @@
     {
       "id": "bt-7",
       "question": "How many months have 28 days?",
-      "options": ["One (February)", "Two", "Six", "All twelve"],
-      "correctAnswer": 3,
+      "options": [
+        "Two",
+        "All twelve",
+        "Six",
+        "One (February)"
+      ],
+      "correctAnswer": 1,
       "explanation": "All twelve months have at least 28 days! The question doesn't ask which months have ONLY 28 days.",
       "difficulty": "easy",
       "category": "logic"
@@ -71,7 +106,12 @@
     {
       "id": "bt-8",
       "question": "If two's company and three's a crowd, what are four and five?",
-      "options": ["A party", "Nine", "Too many", "A group"],
+      "options": [
+        "Too many",
+        "Nine",
+        "A party",
+        "A group"
+      ],
       "correctAnswer": 1,
       "explanation": "Four plus five equals nine! The question is a math problem disguised as a riddle about social gatherings.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "bt-9",
       "question": "Before Mount Everest was discovered, what was the tallest mountain in the world?",
-      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount McKinley"],
-      "correctAnswer": 2,
+      "options": [
+        "Mount Everest",
+        "Mount Kilimanjaro",
+        "Mount McKinley",
+        "K2"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mount Everest was still the tallest mountain — it just hadn't been discovered yet! Discovery doesn't change physical reality.",
       "difficulty": "medium",
       "category": "logic"
@@ -89,8 +134,13 @@
     {
       "id": "bt-10",
       "question": "A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?",
-      "options": ["8", "9", "17", "None"],
-      "correctAnswer": 1,
+      "options": [
+        "None",
+        "17",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 3,
       "explanation": "'All but 9' means 9 did NOT run away. So the farmer still has 9 sheep.",
       "difficulty": "easy",
       "category": "logic"
@@ -98,8 +148,13 @@
     {
       "id": "bt-11",
       "question": "What weighs more: a pound of feathers or a pound of bricks?",
-      "options": ["Feathers", "Bricks", "They weigh the same", "It depends on the type of feathers"],
-      "correctAnswer": 2,
+      "options": [
+        "Bricks",
+        "They weigh the same",
+        "Feathers",
+        "It depends on the type of feathers"
+      ],
+      "correctAnswer": 1,
       "explanation": "They both weigh exactly one pound! A pound is a pound regardless of the material.",
       "difficulty": "easy",
       "category": "logic"
@@ -107,8 +162,13 @@
     {
       "id": "bt-12",
       "question": "You see a boat filled with people. It has not sunk, but when you look again you don't see a single person on the boat. Why?",
-      "options": ["They all jumped overboard", "They went below deck", "All the people were married (not single)", "The boat sailed away"],
-      "correctAnswer": 2,
+      "options": [
+        "The boat sailed away",
+        "They all jumped overboard",
+        "They went below deck",
+        "All the people were married (not single)"
+      ],
+      "correctAnswer": 3,
       "explanation": "You don't see a SINGLE person because all the people on the boat were married — not 'single'!",
       "difficulty": "hard",
       "category": "logic"
@@ -116,8 +176,13 @@
     {
       "id": "bt-13",
       "question": "If there are 3 apples and you take away 2, how many apples do you have?",
-      "options": ["1", "2", "3", "0"],
-      "correctAnswer": 1,
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "correctAnswer": 0,
       "explanation": "You have 2 apples — the ones you took! The question asks how many YOU have.",
       "difficulty": "easy",
       "category": "logic"
@@ -125,7 +190,12 @@
     {
       "id": "bt-14",
       "question": "What can you hold in your right hand but never in your left hand?",
-      "options": ["A right-handed glove", "Your left elbow", "A mirror", "Your right hand"],
+      "options": [
+        "A right-handed glove",
+        "Your left elbow",
+        "A mirror",
+        "Your right hand"
+      ],
       "correctAnswer": 1,
       "explanation": "You can hold your left elbow in your right hand, but it's physically impossible to hold your left elbow in your left hand!",
       "difficulty": "medium",
@@ -134,8 +204,13 @@
     {
       "id": "bt-15",
       "question": "A girl kicks a soccer ball. It goes 10 feet and comes back to her. How is this possible?",
-      "options": ["She kicked it against a wall", "The wind blew it back", "She kicked it straight up in the air", "Another player returned it"],
-      "correctAnswer": 2,
+      "options": [
+        "She kicked it straight up in the air",
+        "She kicked it against a wall",
+        "Another player returned it",
+        "The wind blew it back"
+      ],
+      "correctAnswer": 0,
       "explanation": "She kicked the ball straight up in the air! Gravity brought it right back down to her.",
       "difficulty": "medium",
       "category": "logic"
@@ -143,8 +218,13 @@
     {
       "id": "bt-16",
       "question": "What gets wetter the more it dries?",
-      "options": ["A sponge", "A towel", "The sun", "Sand"],
-      "correctAnswer": 1,
+      "options": [
+        "A sponge",
+        "The sun",
+        "A towel",
+        "Sand"
+      ],
+      "correctAnswer": 2,
       "explanation": "A towel gets wetter the more it dries things! The more you use it to dry, the more water it absorbs.",
       "difficulty": "easy",
       "category": "logic"
@@ -152,8 +232,13 @@
     {
       "id": "bt-17",
       "question": "If you're running in a race and you pass the person in second place, what place are you in?",
-      "options": ["First place", "Second place", "Third place", "It depends on the race"],
-      "correctAnswer": 1,
+      "options": [
+        "It depends on the race",
+        "Third place",
+        "Second place",
+        "First place"
+      ],
+      "correctAnswer": 2,
       "explanation": "If you pass the person in second place, you take their position — you're now in second place, not first!",
       "difficulty": "easy",
       "category": "logic"
@@ -161,7 +246,12 @@
     {
       "id": "bt-18",
       "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
-      "options": ["A desert", "A map", "A painting", "A dream"],
+      "options": [
+        "A painting",
+        "A map",
+        "A dream",
+        "A desert"
+      ],
       "correctAnswer": 1,
       "explanation": "A map has cities, mountains, and water marked on it, but none of the physical things that go with them!",
       "difficulty": "medium",
@@ -170,8 +260,13 @@
     {
       "id": "bt-19",
       "question": "Two fathers and two sons go fishing. They each catch one fish. They bring home exactly three fish. How is this possible?",
-      "options": ["One fish was very large", "They threw one back", "There are only three people: grandfather, father, and son", "They lost count"],
-      "correctAnswer": 2,
+      "options": [
+        "One fish was very large",
+        "They lost count",
+        "They threw one back",
+        "There are only three people: grandfather, father, and son"
+      ],
+      "correctAnswer": 3,
       "explanation": "There are only three people: a grandfather, his son (who is also a father), and his grandson. Two fathers and two sons, but only three people!",
       "difficulty": "medium",
       "category": "logic"
@@ -179,8 +274,13 @@
     {
       "id": "bt-20",
       "question": "What disappears as soon as you say its name?",
-      "options": ["A secret", "Silence", "Darkness", "A shadow"],
-      "correctAnswer": 1,
+      "options": [
+        "Silence",
+        "Darkness",
+        "A shadow",
+        "A secret"
+      ],
+      "correctAnswer": 0,
       "explanation": "Silence disappears the moment you say its name — because by speaking, you've broken the silence!",
       "difficulty": "easy",
       "category": "logic"

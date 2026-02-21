@@ -1,0 +1,174 @@
+{
+  "id": "garage-items-quiz",
+  "title": "Garage Items Quiz",
+  "description": "Can you identify common items found in a typical home garage? From storage to maintenance supplies!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "garage-items-quiz-1",
+      "question": "What garage item is a portable container with a spout, used to store and pour gasoline?",
+      "options": [
+        "Coolant jug",
+        "Gas can (jerry can)",
+        "Oil can",
+        "Kerosene container"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "garage-items-quiz-2",
+      "question": "Which device lifts a vehicle off the ground so you can change a tire?",
+      "options": [
+        "Jack stand",
+        "Ramp",
+        "Car jack",
+        "Hoist"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garage-items-quiz-3",
+      "question": "What is a workbench used for in a garage?",
+      "options": [
+        "Storing bicycles",
+        "Parking vehicles",
+        "Providing a sturdy surface for projects, repairs, and tool storage",
+        "Washing cars"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garage-items-quiz-4",
+      "question": "Which item is a long, coiled garden hose stored on a wall-mounted reel?",
+      "options": [
+        "Hose reel",
+        "Extension cord reel",
+        "Wire drum",
+        "Cable spool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garage-items-quiz-5",
+      "question": "What is a shop vacuum designed to pick up that a regular vacuum cannot?",
+      "options": [
+        "Liquids, heavy debris, and large particles",
+        "Only fine dust",
+        "Only sawdust",
+        "Only pet hair"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garage-items-quiz-6",
+      "question": "Which safety item should be mounted on the wall of every garage for fire emergencies?",
+      "options": [
+        "Smoke detector only",
+        "Emergency blanket",
+        "Fire extinguisher",
+        "First aid kit"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garage-items-quiz-7",
+      "question": "What is a pegboard used for in a garage?",
+      "options": [
+        "Organizing and hanging tools using hooks and pegs",
+        "Soundproofing",
+        "Insulating the walls",
+        "Measuring projects"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garage-items-quiz-8",
+      "question": "Which product is a lubricant spray in a blue and yellow can, famous for its many household uses?",
+      "options": [
+        "Liquid Wrench",
+        "PB Blaster",
+        "3-In-One Oil",
+        "WD-40"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garage-items-quiz-9",
+      "question": "What are jack stands used for?",
+      "options": [
+        "Supporting a vehicle safely after it has been raised by a jack",
+        "Aligning wheels",
+        "Towing vehicles",
+        "Lifting a vehicle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garage-items-quiz-10",
+      "question": "Which garage storage solution is a set of clear plastic drawers or bins for organizing small parts?",
+      "options": [
+        "Tool chest",
+        "Parts organizer (storage bins)",
+        "Locker",
+        "Shelving unit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "garage-items-quiz-11",
+      "question": "What is a creeper used for in a garage?",
+      "options": [
+        "Climbing to high shelves",
+        "Cleaning the garage floor",
+        "Moving heavy toolboxes",
+        "Lying on and rolling under a vehicle for underneath work"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garage-items-quiz-12",
+      "question": "Which item is a heavy-duty electrical cord that extends the reach of a power outlet?",
+      "options": [
+        "Surge protector",
+        "Power strip",
+        "Extension cord",
+        "Jumper cable"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garage-items-quiz-13",
+      "question": "What is a battery charger/maintainer used for in a garage?",
+      "options": [
+        "Testing alternators",
+        "Charging power tool batteries only",
+        "Charging and maintaining car batteries",
+        "Jumping dead batteries instantly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garage-items-quiz-14",
+      "question": "Which container, usually red, is used to safely collect and dispose of used motor oil?",
+      "options": [
+        "Oil drain pan",
+        "Grease bucket",
+        "Coolant reservoir",
+        "Gas can"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garage-items-quiz-15",
+      "question": "What are tire pressure gauges used for?",
+      "options": [
+        "Inflating tires",
+        "Measuring the air pressure inside a tire",
+        "Checking tire tread depth",
+        "Balancing tires"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "wwi-events-quiz",
+  "title": "WWI Events Quiz",
+  "description": "Test your recall of the major events and figures of World War I!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "wwi-events-quiz-1",
+      "question": "What event triggered the start of World War I in 1914?",
+      "options": [
+        "Assassination of Archduke Franz Ferdinand",
+        "Russian mobilization",
+        "German invasion of Belgium",
+        "Sinking of the Lusitania"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo on June 28, 1914, triggered a chain of alliances that led to World War I.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-2",
+      "question": "What was the system of fortified ditches on the Western Front called?",
+      "options": [
+        "Trench warfare",
+        "Guerrilla warfare",
+        "Siege warfare",
+        "Bunker warfare"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trench warfare defined the Western Front, with opposing armies dug into elaborate trench systems stretching from the English Channel to Switzerland.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-3",
+      "question": "Which ship's sinking by a German U-boat helped draw the US into WWI?",
+      "options": [
+        "Bismarck",
+        "Titanic",
+        "Lusitania",
+        "Arizona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The RMS Lusitania was torpedoed by a German U-boat on May 7, 1915, killing 1,198 people including 128 Americans, fueling anti-German sentiment in the US.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-4",
+      "question": "In what year did the United States enter World War I?",
+      "options": [
+        "1917",
+        "1915",
+        "1916",
+        "1914"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The United States declared war on Germany on April 6, 1917, after years of neutrality.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-5",
+      "question": "Which battle in 1916 was one of the bloodiest in history with over a million casualties?",
+      "options": [
+        "Battle of the Marne",
+        "Battle of Ypres",
+        "Battle of Verdun",
+        "Battle of the Somme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Verdun (February-December 1916) resulted in approximately 700,000 casualties. The Battle of the Somme in the same year had over a million.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-6",
+      "question": "What was the name of the treaty that ended World War I?",
+      "options": [
+        "Treaty of Paris",
+        "Treaty of Vienna",
+        "Treaty of Versailles",
+        "Treaty of Ghent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Treaty of Versailles was signed on June 28, 1919, imposing harsh terms on Germany and redrawing the map of Europe.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-7",
+      "question": "On what date did the armistice end fighting in WWI?",
+      "options": [
+        "January 11, 1919",
+        "November 11, 1918",
+        "October 11, 1918",
+        "December 11, 1918"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The armistice took effect at the 11th hour of the 11th day of the 11th month -- November 11, 1918 at 11:00 AM.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-8",
+      "question": "Which new weapon was first used in combat during World War I?",
+      "options": [
+        "Machine gun",
+        "Submarine",
+        "Airplane bomb",
+        "Tank"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tanks were first used in combat by the British during the Battle of the Somme in September 1916, though machine guns, submarines, and aircraft also saw significant use.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-9",
+      "question": "Which empire collapsed as a result of World War I and was divided into many new nations?",
+      "options": [
+        "Russian Empire",
+        "British Empire",
+        "French Empire",
+        "Ottoman Empire"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ottoman Empire collapsed after WWI and was partitioned, eventually leading to the creation of modern Turkey and several Middle Eastern states.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-10",
+      "question": "What secret telegram from Germany to Mexico helped bring the US into the war?",
+      "options": [
+        "The Zimmermann Telegram",
+        "The Kaiser's Letter",
+        "The Berlin Dispatch",
+        "The Mexican Agreement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Zimmermann Telegram, intercepted in January 1917, proposed a German-Mexican alliance against the US and was a major factor in America entering the war.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-11",
+      "question": "Which battle in 1914 stopped the German advance toward Paris?",
+      "options": [
+        "First Battle of the Marne",
+        "Battle of Tannenberg",
+        "Battle of Liège",
+        "Battle of Mons"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The First Battle of the Marne (September 1914) halted the German advance on Paris and marked the failure of the Schlieffen Plan.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-12",
+      "question": "Which country was the first to use poison gas as a weapon on the Western Front?",
+      "options": [
+        "Britain",
+        "Austria-Hungary",
+        "Germany",
+        "France"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Germany was the first to use large-scale chemical weapons, deploying chlorine gas at the Second Battle of Ypres in April 1915.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-13",
+      "question": "Which revolution caused Russia to withdraw from World War I?",
+      "options": [
+        "February Revolution",
+        "Decembrist Revolt",
+        "Russian Civil War",
+        "October Revolution"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bolshevik October Revolution of 1917 led to Russia's withdrawal from WWI, formalized by the Treaty of Brest-Litovsk in March 1918.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-14",
+      "question": "What international organization was created after WWI to prevent future wars?",
+      "options": [
+        "European Union",
+        "League of Nations",
+        "NATO",
+        "United Nations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The League of Nations was established in 1920 as part of the Treaty of Versailles, though the US Senate refused to join. It was the predecessor to the United Nations.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "wwi-events-quiz-15",
+      "question": "Which American general commanded the American Expeditionary Forces in WWI?",
+      "options": [
+        "Dwight Eisenhower",
+        "George Patton",
+        "Douglas MacArthur",
+        "John J. Pershing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "General John J. 'Black Jack' Pershing commanded the American Expeditionary Forces in Europe during World War I.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

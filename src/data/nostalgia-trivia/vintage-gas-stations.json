@@ -7,92 +7,167 @@
     {
       "id": "vintage-gas-stations-1",
       "question": "What service did a full-service gas station attendant typically perform in addition to pumping gas?",
-      "options": ["Rotate the tires", "Check the oil and clean the windshield", "Replace the spark plugs", "Tune the radio"],
-      "correctAnswer": 1
+      "options": [
+        "Check the oil and clean the windshield",
+        "Rotate the tires",
+        "Tune the radio",
+        "Replace the spark plugs"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-gas-stations-2",
       "question": "What collectible items did many gas stations give away to attract customers in the 1950s and 1960s?",
-      "options": ["Baseball cards", "Free glasses or dinnerware", "Vinyl records", "Comic books"],
+      "options": [
+        "Baseball cards",
+        "Free glasses or dinnerware",
+        "Vinyl records",
+        "Comic books"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-gas-stations-3",
       "question": "What type of free road guides did gas stations commonly offer to traveling motorists?",
-      "options": ["GPS devices", "Road maps", "Travel magazines", "Guidebooks"],
-      "correctAnswer": 1
+      "options": [
+        "Road maps",
+        "GPS devices",
+        "Travel magazines",
+        "Guidebooks"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-gas-stations-4",
       "question": "What was the approximate price of a gallon of gasoline in the United States in 1960?",
-      "options": ["About 10 cents", "About 31 cents", "About 75 cents", "About one dollar"],
+      "options": [
+        "About one dollar",
+        "About 31 cents",
+        "About 10 cents",
+        "About 75 cents"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-gas-stations-5",
       "question": "Which oil company used the slogan 'You can trust your car to the man who wears the star'?",
-      "options": ["Mobil", "Shell", "Texaco", "Gulf"],
+      "options": [
+        "Gulf",
+        "Shell",
+        "Texaco",
+        "Mobil"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-gas-stations-6",
       "question": "What did the iconic Texaco gas station attendant uniform include?",
-      "options": ["A cowboy hat", "A white shirt, bow tie, and cap with a star", "Overalls and boots", "A red jacket and beret"],
+      "options": [
+        "A cowboy hat",
+        "A white shirt, bow tie, and cap with a star",
+        "Overalls and boots",
+        "A red jacket and beret"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-gas-stations-7",
       "question": "What was the name of the gas station chain known for its flying red horse (Pegasus) logo?",
-      "options": ["Gulf", "Sinclair", "Mobil", "Phillips 66"],
-      "correctAnswer": 2
+      "options": [
+        "Phillips 66",
+        "Sinclair",
+        "Gulf",
+        "Mobil"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-gas-stations-8",
       "question": "Which gas station brand featured a green dinosaur as its mascot?",
-      "options": ["Texaco", "Sinclair", "Shell", "Esso"],
+      "options": [
+        "Shell",
+        "Sinclair",
+        "Esso",
+        "Texaco"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-gas-stations-9",
       "question": "What type of vending machine was commonly found at gas stations dispensing cold drinks?",
-      "options": ["A soda fountain", "A chest-style Coca-Cola cooler", "A coffee machine", "A juice dispenser"],
-      "correctAnswer": 1
+      "options": [
+        "A juice dispenser",
+        "A coffee machine",
+        "A soda fountain",
+        "A chest-style Coca-Cola cooler"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-gas-stations-10",
       "question": "What event in 1973 caused long lines at gas stations across the United States?",
-      "options": ["A nationwide truckers' strike", "The Arab oil embargo", "Hurricane damage to refineries", "A pipeline explosion"],
+      "options": [
+        "Hurricane damage to refineries",
+        "The Arab oil embargo",
+        "A pipeline explosion",
+        "A nationwide truckers' strike"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-gas-stations-11",
       "question": "What promotional trading stamps could customers collect at certain gas stations?",
-      "options": ["Blue Chip Stamps", "S&H Green Stamps", "Gold Bond Stamps", "All of the above"],
-      "correctAnswer": 3
+      "options": [
+        "Blue Chip Stamps",
+        "S&H Green Stamps",
+        "All of the above",
+        "Gold Bond Stamps"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-gas-stations-12",
       "question": "What type of gas pump featured a visible glass cylinder at the top that showed the gasoline?",
-      "options": ["Digital pump", "Visible gas pump", "Gravity-feed pump", "Clock-face pump"],
-      "correctAnswer": 1
+      "options": [
+        "Digital pump",
+        "Gravity-feed pump",
+        "Visible gas pump",
+        "Clock-face pump"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-gas-stations-13",
       "question": "What was 'Ethyl' gasoline, commonly advertised at vintage gas stations?",
-      "options": ["Diesel fuel", "Leaded premium gasoline", "Kerosene for lamps", "Aviation fuel"],
-      "correctAnswer": 1
+      "options": [
+        "Leaded premium gasoline",
+        "Aviation fuel",
+        "Kerosene for lamps",
+        "Diesel fuel"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-gas-stations-14",
       "question": "What bell or signal would ring when a car drove over the hose at a gas station?",
-      "options": ["A car alarm", "A driveway bell", "A police whistle", "A fire alarm"],
-      "correctAnswer": 1
+      "options": [
+        "A driveway bell",
+        "A car alarm",
+        "A police whistle",
+        "A fire alarm"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-gas-stations-15",
       "question": "Which major oil company's name was changed from 'Standard Oil of New Jersey' to a single word?",
-      "options": ["Shell", "Amoco", "Exxon", "Sunoco"],
-      "correctAnswer": 2
+      "options": [
+        "Exxon",
+        "Sunoco",
+        "Amoco",
+        "Shell"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

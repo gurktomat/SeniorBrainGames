@@ -1,0 +1,173 @@
+{
+  "id": "whales-dolphins-quiz",
+  "title": "Whales & Dolphins",
+  "description": "Dive into the fascinating world of cetaceans, from the mighty blue whale to the playful bottlenose dolphin.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "whales-dolphins-quiz-1",
+      "question": "The blue whale is the largest animal ever to have lived. How long can it grow?",
+      "options": [
+        "80 feet",
+        "100 feet",
+        "60 feet",
+        "120 feet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "whales-dolphins-quiz-2",
+      "question": "Dolphins navigate and find prey using what sensory system?",
+      "options": [
+        "Keen eyesight",
+        "Magnetic fields",
+        "Echolocation",
+        "Sense of smell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "whales-dolphins-quiz-3",
+      "question": "Which whale is known for its complex and beautiful songs that can last for hours?",
+      "options": [
+        "Blue whale",
+        "Gray whale",
+        "Humpback whale",
+        "Sperm whale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "whales-dolphins-quiz-4",
+      "question": "Baleen whales filter food through plates made of what material?",
+      "options": [
+        "Bone",
+        "Chitin",
+        "Cartilage",
+        "Keratin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "whales-dolphins-quiz-5",
+      "question": "The sperm whale was famously depicted in which classic novel?",
+      "options": [
+        "Moby-Dick",
+        "Jaws",
+        "The Old Man and the Sea",
+        "20,000 Leagues Under the Sea"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "whales-dolphins-quiz-6",
+      "question": "Which is the only species of dolphin that lives exclusively in freshwater rivers?",
+      "options": [
+        "Spinner dolphin",
+        "Amazon river dolphin",
+        "Dusky dolphin",
+        "Common dolphin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "whales-dolphins-quiz-7",
+      "question": "How do whales and dolphins breathe?",
+      "options": [
+        "They surface to breathe through their mouth",
+        "Through their skin",
+        "Through a blowhole on top of their head",
+        "Through gills"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "whales-dolphins-quiz-8",
+      "question": "The orca, or killer whale, is actually the largest member of what family?",
+      "options": [
+        "Whale family",
+        "Dolphin family",
+        "Porpoise family",
+        "Seal family"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "whales-dolphins-quiz-9",
+      "question": "What is the term for when whales leap out of the water and crash back down?",
+      "options": [
+        "Spy-hopping",
+        "Porpoising",
+        "Breaching",
+        "Lobtailing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "whales-dolphins-quiz-10",
+      "question": "How long can a sperm whale hold its breath during a deep dive?",
+      "options": [
+        "60 minutes",
+        "15 minutes",
+        "30 minutes",
+        "90 minutes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "whales-dolphins-quiz-11",
+      "question": "The bottlenose dolphin is known for its intelligence. What is one sign of this?",
+      "options": [
+        "It builds underwater shelters",
+        "It can recognize itself in a mirror",
+        "It uses tools like hammers",
+        "It can fly short distances"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "whales-dolphins-quiz-12",
+      "question": "Which whale has the longest migration of any mammal?",
+      "options": [
+        "Blue whale",
+        "Humpback whale",
+        "Right whale",
+        "Gray whale"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "whales-dolphins-quiz-13",
+      "question": "What is the main food source for the enormous blue whale?",
+      "options": [
+        "Small fish",
+        "Plankton",
+        "Squid",
+        "Krill"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "whales-dolphins-quiz-14",
+      "question": "A group of dolphins is commonly called what?",
+      "options": [
+        "A pod",
+        "A school",
+        "A flock",
+        "A herd"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "whales-dolphins-quiz-15",
+      "question": "The narwhal, sometimes called the 'unicorn of the sea,' belongs to which group?",
+      "options": [
+        "Baleen whales",
+        "Toothed whales",
+        "Porpoises",
+        "Dolphins"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -32,11 +32,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - /data — JSON quiz/game data organized by category subdirectory
 - /lib — Utility functions, types, quiz registry, and storage
 
-## Game Categories & Routes (462 games total)
-- `/nostalgia-trivia` — 115 games (11 special + 104 quiz)
-- `/general-knowledge` — 115 games (12 special + 103 quiz)
-- `/word-games` — 115 games (22 special + 93 quiz)
-- `/memory-games` — 117 games (22 special + 95 quiz)
+## Game Categories & Routes (1569 games total)
+- `/nostalgia-trivia` — 391 games (11 special + 380 quiz)
+- `/general-knowledge` — 398 games (12 special + 386 quiz)
+- `/word-games` — 390 games (22 special + 368 quiz)
+- `/memory-games` — 390 games (22 special + 368 quiz)
 - `/daily-challenge` — 5-question daily quiz (force-dynamic, localStorage tracking)
 
 ## Data Organization
@@ -77,7 +77,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### Quiz-type games (JSON only)
 1. Create JSON in `/src/data/<category>/<slug>.json` with format: `{ id, title, description, gameCategory, questions: [...] }`
-2. Import in `src/lib/quizzes.ts`, add to category array
+2. Import in the appropriate `src/lib/quizzes-<category>.ts` file, add to array
 3. Add icon mapping in `src/lib/gameIcons.tsx`
 
 ### Special engine games
@@ -90,7 +90,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Key Files
 - `src/lib/types.ts` — All TypeScript types (Question, Quiz, GameCategory, game-specific types)
-- `src/lib/quizzes.ts` — Quiz registry with getQuizzesByCategory(), getQuizBySlug(), getDailyChallenge(), specialGameSlugs
+- `src/lib/quizzes.ts` — Main quiz registry (exports getAllQuizzes, getQuizBySlug, getDailyChallenge, specialGameSlugs, categoryInfo)
+- `src/lib/quizzes-nostalgia.ts` — Nostalgia trivia quiz imports and array
+- `src/lib/quizzes-general.ts` — General knowledge quiz imports and array
+- `src/lib/quizzes-word.ts` — Word games quiz imports and array
+- `src/lib/quizzes-memory.ts` — Memory games quiz imports and array
 - `src/lib/gameIcons.tsx` — Icon mapping for all game slugs + category colors
 - `src/lib/storage.ts` — localStorage utilities for streaks and daily completion
 - `src/app/globals.css` — Design system CSS variables and Tailwind theme

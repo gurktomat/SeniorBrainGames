@@ -1,0 +1,173 @@
+{
+  "id": "pronoun-usage-quiz",
+  "title": "Pronoun Usage Quiz",
+  "description": "He, him, who, whom? Test your knowledge of proper pronoun usage and avoid common mistakes.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "pronoun-usage-quiz-1",
+      "question": "Which is correct? '___ and I went to the store.'",
+      "options": [
+        "She",
+        "Him",
+        "Her",
+        "Me"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-2",
+      "question": "Which is correct? 'Between you and ___.'",
+      "options": [
+        "we",
+        "I",
+        "myself",
+        "me"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pronoun-usage-quiz-3",
+      "question": "When should you use 'whom' instead of 'who'?",
+      "options": [
+        "When it is the object of a verb or preposition",
+        "In formal writing only",
+        "They are always interchangeable",
+        "When it is the subject of a clause"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-4",
+      "question": "Which is correct? '___ did you give the book to?'",
+      "options": [
+        "Whose",
+        "Which",
+        "Whom",
+        "Who"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pronoun-usage-quiz-5",
+      "question": "Which sentence uses 'myself' correctly?",
+      "options": [
+        "Please give it to myself.",
+        "I made the cake myself.",
+        "John and myself went to the game.",
+        "Myself and John went to the game."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pronoun-usage-quiz-6",
+      "question": "Which is correct? 'The winners were Tom and ___.'",
+      "options": [
+        "I",
+        "mine",
+        "myself",
+        "me"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-7",
+      "question": "Which pronoun correctly refers to 'everyone'?",
+      "options": [
+        "their (singular 'they')",
+        "his",
+        "All are considered acceptable in modern usage",
+        "her"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pronoun-usage-quiz-8",
+      "question": "Which is correct? 'She is taller than ___.'",
+      "options": [
+        "me",
+        "I",
+        "Both A and B depending on context",
+        "myself"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pronoun-usage-quiz-9",
+      "question": "What type of pronoun is 'this' in 'This is my book'?",
+      "options": [
+        "Demonstrative pronoun",
+        "Reflexive pronoun",
+        "Personal pronoun",
+        "Relative pronoun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-10",
+      "question": "Which is correct? 'The teacher spoke to John and ___.'",
+      "options": [
+        "myself",
+        "mine",
+        "I",
+        "me"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pronoun-usage-quiz-11",
+      "question": "What is an antecedent?",
+      "options": [
+        "A verb that comes before a noun",
+        "A type of pronoun",
+        "A prefix meaning 'before'",
+        "The word a pronoun refers to"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pronoun-usage-quiz-12",
+      "question": "Which sentence has a clear pronoun reference?",
+      "options": [
+        "John was happy when he met Bob.",
+        "When John met Bob, he was happy.",
+        "He was happy when John met Bob.",
+        "They were happy when meeting."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-13",
+      "question": "Which is a relative pronoun?",
+      "options": [
+        "This",
+        "He",
+        "Which",
+        "They"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pronoun-usage-quiz-14",
+      "question": "Which is correct? '___ going to be a great day!'",
+      "options": [
+        "It's",
+        "Its'",
+        "Its",
+        "Itss"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pronoun-usage-quiz-15",
+      "question": "What is wrong with 'Each student must bring their own pencil' in traditional grammar?",
+      "options": [
+        "'Their' is plural but 'each student' is singular",
+        "'Each' is plural so 'their' is correct",
+        "'Pencil' should be plural",
+        "Nothing is wrong; it is always correct"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

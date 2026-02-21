@@ -1,0 +1,219 @@
+{
+  "id": "suspension-bridges-quiz",
+  "title": "Suspension Bridges",
+  "description": "Hang on tight for this quiz about the engineering marvels of suspension bridges!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "suspension-bridges-quiz-1",
+      "question": "What are the two main cables in a suspension bridge primarily responsible for?",
+      "options": [
+        "Powering the bridge lights",
+        "Connecting to the anchors only",
+        "Preventing lateral movement",
+        "Supporting the weight of the deck"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main cables in a suspension bridge carry the weight of the deck (roadway) through vertical suspender cables. The main cables transfer this load to the towers and then to the anchorages at each end.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-2",
+      "question": "The Tacoma Narrows Bridge collapse of 1940 was caused primarily by what phenomenon?",
+      "options": [
+        "Foundation failure",
+        "Overloading",
+        "Earthquake",
+        "Aeroelastic flutter from wind"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Tacoma Narrows Bridge ('Galloping Gertie') collapsed on November 7, 1940, due to aeroelastic flutter caused by wind. The bridge's narrow, shallow plate-girder deck was susceptible to wind-induced oscillations that grew catastrophically.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-3",
+      "question": "The Akashi Kaikyo Bridge in Japan has the longest main span of any suspension bridge. Approximately how long is it?",
+      "options": [
+        "2,300 meters",
+        "1,991 meters",
+        "1,280 meters",
+        "1,624 meters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Akashi Kaikyo Bridge has a main span of 1,991 meters (6,532 feet), making it the world's longest suspension bridge by main span. It connects Kobe to Awaji Island and was completed in 1998.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-4",
+      "question": "Who is considered the 'Father of the Brooklyn Bridge,' the engineer who designed it?",
+      "options": [
+        "Gustave Eiffel",
+        "Alexander Calder",
+        "John Augustus Roebling",
+        "James Buchanan Eads"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Augustus Roebling designed the Brooklyn Bridge, though he died from a tetanus infection before construction began. His son Washington Roebling oversaw construction, which was completed in 1883.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "suspension-bridges-quiz-5",
+      "question": "What is the term for the tall structures on a suspension bridge from which the main cables are draped?",
+      "options": [
+        "Stanchions",
+        "Pillars",
+        "Pylons",
+        "Towers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The towers (also called pylons in some contexts) are the tall vertical structures that support the main cables of a suspension bridge. They transmit the cable forces down to the foundations.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-6",
+      "question": "The Verrazano-Narrows Bridge connects which two New York City boroughs?",
+      "options": [
+        "Queens and the Bronx",
+        "Manhattan and Brooklyn",
+        "Staten Island and Brooklyn",
+        "Manhattan and Queens"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Verrazano-Narrows Bridge connects Staten Island and Brooklyn across the Narrows, the entrance to Upper New York Bay. When it opened in 1964, its 1,298-meter span made it the longest suspension bridge in the world.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-7",
+      "question": "What are the massive concrete structures at each end of a suspension bridge that anchor the main cables called?",
+      "options": [
+        "Footings",
+        "Anchorages",
+        "Abutments",
+        "Piers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anchorages are massive structures, often made of concrete, at each end of a suspension bridge that secure the main cables. They must resist enormous pulling forces and are typically deeply embedded in rock or heavy enough to resist the cable tension.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-8",
+      "question": "The Humber Bridge in England held the world's longest span record from 1981 to 1998. In which region of England is it located?",
+      "options": [
+        "London",
+        "Cornwall",
+        "Yorkshire/Humberside",
+        "Midlands"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Humber Bridge crosses the Humber Estuary in northeast England, connecting East Riding of Yorkshire to North Lincolnshire. Its main span of 1,410 meters was the world's longest from 1981 until the Akashi Kaikyo Bridge opened.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-9",
+      "question": "What is 'cable spinning' in suspension bridge construction?",
+      "options": [
+        "Testing cable strength",
+        "Wrapping cables around the towers",
+        "Rotating the cables for flexibility",
+        "The process of building main cables from individual wires"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cable spinning is the process of building the main cables of a suspension bridge by pulling individual wires back and forth across the span, gradually building up the cable from thousands of parallel wires bundled together.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-10",
+      "question": "The Mackinac Bridge, one of the longest suspension bridges in the Western Hemisphere, connects which two peninsulas?",
+      "options": [
+        "Long Island and Connecticut",
+        "San Francisco and Marin County",
+        "Florida Keys",
+        "Michigan's Upper and Lower Peninsulas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Mackinac Bridge ('Mighty Mac') connects Michigan's Upper and Lower Peninsulas across the Straits of Mackinac. Completed in 1957, its total length of 8,038 meters makes it one of the longest suspension bridges in the world.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-11",
+      "question": "What key difference distinguishes a cable-stayed bridge from a suspension bridge?",
+      "options": [
+        "In cable-stayed bridges, cables run directly from towers to the deck",
+        "Cable-stayed bridges have no towers",
+        "Cable-stayed bridges use wood",
+        "Suspension bridges are always shorter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In a cable-stayed bridge, cables run directly from the towers to the deck in a fan or harp pattern. In a suspension bridge, the main cables drape between towers and vertical suspender cables hang down to support the deck.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-12",
+      "question": "The 1915 Canakkale Bridge in Turkey, opened in 2022, is notable for what reason?",
+      "options": [
+        "It carries only rail traffic",
+        "It has the longest main span of any suspension bridge as of its opening",
+        "It is entirely made of wood",
+        "It was built in one year"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 1915 Canakkale Bridge, spanning the Dardanelles strait in Turkey, has a main span of 2,023 meters, surpassing the Akashi Kaikyo Bridge. The '2023' in the span length commemorates the 100th anniversary of the Turkish Republic.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "suspension-bridges-quiz-13",
+      "question": "The Golden Gate Bridge was designed by which engineer?",
+      "options": [
+        "Othmar Ammann",
+        "Joseph Strauss",
+        "David Steinman",
+        "Ralph Modjeski"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Joseph Strauss was the chief engineer of the Golden Gate Bridge, which opened in 1937. Charles Ellis and Leon Moisseiff also made significant contributions to the structural design of the bridge.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "suspension-bridges-quiz-14",
+      "question": "What problem affected workers building the foundations of the Brooklyn Bridge, caused by working in pressurized underwater chambers?",
+      "options": [
+        "Hearing loss",
+        "Caisson disease (the bends)",
+        "Hypothermia",
+        "Lead poisoning"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Workers in the pneumatic caissons of the Brooklyn Bridge suffered from caisson disease (decompression sickness or 'the bends') caused by nitrogen bubbles forming in the blood when returning to normal atmospheric pressure. Washington Roebling himself was permanently disabled by it.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "suspension-bridges-quiz-15",
+      "question": "Inca rope bridges in South America were early examples of suspension bridges. What were their cables made of?",
+      "options": [
+        "Woven grass and plant fibers",
+        "Bamboo",
+        "Animal hides",
+        "Steel wire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inca rope bridges used thick cables woven from ichu grass and other plant fibers. Some spanned over 45 meters across deep gorges in the Andes. One such bridge, the Q'eswachaka, is still rebuilt annually using traditional methods.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "poetry-meter-quiz",
+  "title": "Poetry Meter Quiz",
+  "description": "Challenge yourself with questions about rhythm, meter, and the musical patterns found in poetry",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "poetry-meter-quiz-1",
+      "question": "What is 'meter' in poetry?",
+      "options": [
+        "The number of words in a line",
+        "The topic of a poem",
+        "The pattern of stressed and unstressed syllables in a line of verse",
+        "The rhyme scheme of a poem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-meter-quiz-2",
+      "question": "What is an 'iamb' in poetry?",
+      "options": [
+        "Two unstressed syllables in a row",
+        "A stressed syllable followed by an unstressed syllable",
+        "An unstressed syllable followed by a stressed syllable",
+        "Two stressed syllables in a row"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-meter-quiz-3",
+      "question": "What meter is most commonly used in Shakespeare's plays?",
+      "options": [
+        "Iambic pentameter",
+        "Trochaic tetrameter",
+        "Dactylic hexameter",
+        "Anapestic trimeter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-meter-quiz-4",
+      "question": "How many metrical feet are in a line of 'pentameter'?",
+      "options": [
+        "Five",
+        "Four",
+        "Six",
+        "Three"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-meter-quiz-5",
+      "question": "What is a 'trochee'?",
+      "options": [
+        "A stressed syllable followed by an unstressed syllable",
+        "Three syllables with stress on the first",
+        "Two unstressed syllables",
+        "An unstressed syllable followed by a stressed syllable"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "poetry-meter-quiz-6",
+      "question": "The word 'GARDEN' (GAR-den) has the rhythm of which metrical foot?",
+      "options": [
+        "Dactyl",
+        "Anapest",
+        "Iamb",
+        "Trochee"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-meter-quiz-7",
+      "question": "What is a 'dactyl'?",
+      "options": [
+        "Two stressed syllables in a row",
+        "A stressed syllable followed by two unstressed syllables",
+        "An unstressed syllable followed by a stressed syllable",
+        "Two unstressed syllables followed by a stressed one"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "poetry-meter-quiz-8",
+      "question": "Homer's 'Iliad' and 'Odyssey' are written in which classical meter?",
+      "options": [
+        "Trochaic tetrameter",
+        "Anapestic dimeter",
+        "Dactylic hexameter",
+        "Iambic pentameter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-meter-quiz-9",
+      "question": "What is an 'anapest'?",
+      "options": [
+        "A stressed syllable followed by two unstressed syllables",
+        "Three stressed syllables in a row",
+        "A stressed syllable followed by an unstressed syllable",
+        "Two unstressed syllables followed by a stressed syllable"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-meter-quiz-10",
+      "question": "What is 'free verse'?",
+      "options": [
+        "Poetry written for free distribution",
+        "Poetry that follows strict iambic pentameter",
+        "Poetry with exactly ten syllables per line",
+        "Poetry that does not follow a regular meter or rhyme scheme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-meter-quiz-11",
+      "question": "How many metrical feet are in a line of 'tetrameter'?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-meter-quiz-12",
+      "question": "What is a 'spondee'?",
+      "options": [
+        "A three-syllable foot with stress on the middle syllable",
+        "A single stressed syllable standing alone",
+        "A metrical foot consisting of two stressed syllables",
+        "A metrical foot consisting of two unstressed syllables"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "poetry-meter-quiz-13",
+      "question": "What is 'scansion'?",
+      "options": [
+        "The topic or subject of a poem",
+        "The process of translating a poem into another language",
+        "A type of rhyme scheme",
+        "The analysis of a poem's metrical patterns"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-meter-quiz-14",
+      "question": "What is 'blank verse'?",
+      "options": [
+        "Poetry that uses only one-syllable words",
+        "Poetry with no words",
+        "Poetry with no particular form",
+        "Unrhymed iambic pentameter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "poetry-meter-quiz-15",
+      "question": "What is 'enjambment' in poetry?",
+      "options": [
+        "A type of rhyme",
+        "The continuation of a sentence beyond the end of a line without pause",
+        "The repetition of meter across stanzas",
+        "A complete stop at the end of a line"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -8,34 +8,34 @@
       "id": "business-jargon-1",
       "question": "In business, what does 'synergy' mean?",
       "options": [
-        "Working alone efficiently",
         "The combined effect being greater than the sum of individual efforts",
+        "Working alone efficiently",
         "A type of energy drink",
         "A corporate merger"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "business-jargon-2",
       "question": "What does it mean to 'pivot' in a business context?",
       "options": [
-        "To rotate office furniture",
-        "To fundamentally change business strategy or direction",
         "To hire new employees",
-        "To close the business"
+        "To close the business",
+        "To rotate office furniture",
+        "To fundamentally change business strategy or direction"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "business-jargon-3",
       "question": "What does 'ROI' stand for?",
       "options": [
-        "Rate of Income",
         "Return on Investment",
+        "Rate of Income",
         "Risk of Inflation",
         "Revenue of Industry"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "business-jargon-4",
@@ -43,8 +43,8 @@
       "options": [
         "Turn off the computers",
         "Discuss this privately or at another time",
-        "Cancel the project",
-        "Go on vacation"
+        "Go on vacation",
+        "Cancel the project"
       ],
       "correctAnswer": 1
     },
@@ -53,55 +53,55 @@
       "question": "What does 'bandwidth' mean in business jargon?",
       "options": [
         "Internet speed",
-        "The capacity or time available to handle tasks",
         "A rubber band measurement",
+        "The capacity or time available to handle tasks",
         "Office space"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "business-jargon-6",
       "question": "What is a 'stakeholder' in business?",
       "options": [
-        "Someone who owns company stock",
         "Anyone with an interest or concern in the business",
-        "A vampire hunter",
-        "The company's founder"
+        "Someone who owns company stock",
+        "The company's founder",
+        "A vampire hunter"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "business-jargon-7",
       "question": "What does 'think outside the box' mean?",
       "options": [
-        "Work from home",
         "Think creatively and unconventionally",
+        "Open a package",
         "Move to a bigger office",
-        "Open a package"
+        "Work from home"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "business-jargon-8",
       "question": "What does 'scalable' mean in business?",
       "options": [
-        "Able to climb mountains",
-        "Able to grow and handle increased demand",
+        "Able to be measured",
         "Able to be weighed",
-        "Able to be measured"
+        "Able to grow and handle increased demand",
+        "Able to climb mountains"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "business-jargon-9",
       "question": "What is 'due diligence'?",
       "options": [
-        "Paying bills on time",
-        "Thorough research and investigation before a decision",
+        "Being polite at work",
         "Working overtime",
-        "Being polite at work"
+        "Thorough research and investigation before a decision",
+        "Paying bills on time"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "business-jargon-10",
@@ -118,23 +118,23 @@
       "id": "business-jargon-11",
       "question": "What does 'KPI' stand for?",
       "options": [
-        "Key Performance Indicator",
         "Knowledge Processing Index",
+        "Key People Involved",
         "Known Profit Interest",
-        "Key People Involved"
+        "Key Performance Indicator"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "business-jargon-12",
       "question": "What does it mean to 'leverage' something in business?",
       "options": [
+        "To measure a distance",
         "To lift heavy objects",
         "To use something to maximum advantage",
-        "To apply for a loan",
-        "To measure a distance"
+        "To apply for a loan"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "business-jargon-13",
@@ -151,21 +151,21 @@
       "id": "business-jargon-14",
       "question": "What does 'touch base' mean in business?",
       "options": [
-        "Play baseball",
         "Briefly make contact or check in with someone",
         "Sign a contract",
-        "Visit the office"
+        "Visit the office",
+        "Play baseball"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "business-jargon-15",
       "question": "What does 'bottom line' refer to in business?",
       "options": [
-        "The last line of a document",
+        "The basement of a building",
         "The final financial result or most important point",
         "The company's lowest-paid worker",
-        "The basement of a building"
+        "The last line of a document"
       ],
       "correctAnswer": 1
     }

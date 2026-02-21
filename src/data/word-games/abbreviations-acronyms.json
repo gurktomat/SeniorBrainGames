@@ -8,8 +8,13 @@
     {
       "id": "acronym-1",
       "question": "What does NASA stand for?",
-      "options": ["National Aeronautics and Space Administration", "North American Space Agency", "National Air and Space Authority", "National Aerospace and Science Administration"],
-      "correctAnswer": 0,
+      "options": [
+        "National Air and Space Authority",
+        "National Aeronautics and Space Administration",
+        "National Aerospace and Science Administration",
+        "North American Space Agency"
+      ],
+      "correctAnswer": 1,
       "explanation": "NASA stands for National Aeronautics and Space Administration, established in 1958.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -17,8 +22,13 @@
     {
       "id": "acronym-2",
       "question": "What does RSVP stand for?",
-      "options": ["Reply Swiftly Very Promptly", "Répondez S'il Vous Plaît", "Respond Soon Via Post", "Return Signed Verified Papers"],
-      "correctAnswer": 1,
+      "options": [
+        "Respond Soon Via Post",
+        "Reply Swiftly Very Promptly",
+        "Return Signed Verified Papers",
+        "Répondez S'il Vous Plaît"
+      ],
+      "correctAnswer": 3,
       "explanation": "RSVP comes from the French phrase 'Répondez S'il Vous Plaît,' meaning 'Please respond.'",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -26,8 +36,13 @@
     {
       "id": "acronym-3",
       "question": "What does ASAP stand for?",
-      "options": ["Always Send A Priority", "As Soon As Possible", "At Soonest Available Point", "Arrange Swiftly And Promptly"],
-      "correctAnswer": 1,
+      "options": [
+        "Always Send A Priority",
+        "At Soonest Available Point",
+        "As Soon As Possible",
+        "Arrange Swiftly And Promptly"
+      ],
+      "correctAnswer": 2,
       "explanation": "ASAP stands for As Soon As Possible, commonly used to indicate urgency.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -35,8 +50,13 @@
     {
       "id": "acronym-4",
       "question": "What does FAQ stand for?",
-      "options": ["First Asked Questions", "Frequent Answers and Queries", "Frequently Asked Questions", "Facts And Questions"],
-      "correctAnswer": 2,
+      "options": [
+        "Frequently Asked Questions",
+        "First Asked Questions",
+        "Facts And Questions",
+        "Frequent Answers and Queries"
+      ],
+      "correctAnswer": 0,
       "explanation": "FAQ stands for Frequently Asked Questions, a format popularized by early internet forums and websites.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -44,8 +64,13 @@
     {
       "id": "acronym-5",
       "question": "What does SOS stand for?",
-      "options": ["Save Our Ship", "Send Out Signals", "Save Our Souls", "It doesn't stand for anything — it was chosen for its distinctive Morse code pattern"],
-      "correctAnswer": 3,
+      "options": [
+        "It doesn't stand for anything — it was chosen for its distinctive Morse code pattern",
+        "Send Out Signals",
+        "Save Our Ship",
+        "Save Our Souls"
+      ],
+      "correctAnswer": 0,
       "explanation": "SOS doesn't actually stand for anything. It was adopted in 1905 because its Morse code pattern (three dots, three dashes, three dots) was easy to transmit and recognize. 'Save Our Souls' is a common backronym.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -53,8 +78,13 @@
     {
       "id": "acronym-6",
       "question": "What does SCUBA stand for?",
-      "options": ["Self-Contained Underwater Breathing Apparatus", "Submersible Compact Underwater Breathing Aid", "Self-Carried Underwater Breathing Assembly", "Sealed Chamber Underwater Breathing Apparatus"],
-      "correctAnswer": 0,
+      "options": [
+        "Self-Carried Underwater Breathing Assembly",
+        "Submersible Compact Underwater Breathing Aid",
+        "Self-Contained Underwater Breathing Apparatus",
+        "Sealed Chamber Underwater Breathing Apparatus"
+      ],
+      "correctAnswer": 2,
       "explanation": "SCUBA stands for Self-Contained Underwater Breathing Apparatus. The term was coined in 1952 by Christian Lambertsen.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -62,8 +92,13 @@
     {
       "id": "acronym-7",
       "question": "What does RADAR stand for?",
-      "options": ["Remote Area Detection And Ranging", "Radio Detection And Ranging", "Rapid Distance And Ranging", "Radio Direction And Relay"],
-      "correctAnswer": 1,
+      "options": [
+        "Radio Direction And Relay",
+        "Remote Area Detection And Ranging",
+        "Radio Detection And Ranging",
+        "Rapid Distance And Ranging"
+      ],
+      "correctAnswer": 2,
       "explanation": "RADAR stands for Radio Detection And Ranging. It was developed in the early 20th century and became critical during World War II.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -71,8 +106,13 @@
     {
       "id": "acronym-8",
       "question": "What does AWOL stand for?",
-      "options": ["Away Without Official Leave", "Absent Without Official License", "Absent Without Leave", "Away Without Legitimate Cause"],
-      "correctAnswer": 2,
+      "options": [
+        "Away Without Official Leave",
+        "Away Without Legitimate Cause",
+        "Absent Without Official License",
+        "Absent Without Leave"
+      ],
+      "correctAnswer": 3,
       "explanation": "AWOL stands for Absent Without Leave, a military term for someone who is absent from their post without permission.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -80,8 +120,13 @@
     {
       "id": "acronym-9",
       "question": "What does POTUS stand for?",
-      "options": ["President Of The United States", "Power Of The United Senate", "Position Of The United States", "Premier Officer of The United States"],
-      "correctAnswer": 0,
+      "options": [
+        "Position Of The United States",
+        "Power Of The United Senate",
+        "President Of The United States",
+        "Premier Officer of The United States"
+      ],
+      "correctAnswer": 2,
       "explanation": "POTUS stands for President Of The United States. It originated as a telegraph abbreviation in the late 1800s.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -89,7 +134,12 @@
     {
       "id": "acronym-10",
       "question": "What does LASER stand for?",
-      "options": ["Light Amplification by Simulated Emission of Radiation", "Light Amplification by Stimulated Emission of Radiation", "Longitudinal Amplification of Stimulated Energy Rays", "Light Acceleration by Stimulated Electromagnetic Radiation"],
+      "options": [
+        "Light Amplification by Simulated Emission of Radiation",
+        "Light Amplification by Stimulated Emission of Radiation",
+        "Light Acceleration by Stimulated Electromagnetic Radiation",
+        "Longitudinal Amplification of Stimulated Energy Rays"
+      ],
       "correctAnswer": 1,
       "explanation": "LASER stands for Light Amplification by Stimulated Emission of Radiation. The first working laser was built in 1960.",
       "difficulty": "medium",
@@ -98,7 +148,12 @@
     {
       "id": "acronym-11",
       "question": "What does the abbreviation 'e.g.' stand for?",
-      "options": ["English Grammar", "Extra Given", "Exempli Gratia (for example)", "Example Given"],
+      "options": [
+        "English Grammar",
+        "Extra Given",
+        "Exempli Gratia (for example)",
+        "Example Given"
+      ],
       "correctAnswer": 2,
       "explanation": "'E.g.' stands for the Latin phrase 'exempli gratia,' which means 'for the sake of example' or simply 'for example.'",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "acronym-12",
       "question": "What does the abbreviation 'i.e.' stand for?",
-      "options": ["In Effect", "In Example", "It Essentially", "Id Est (that is)"],
-      "correctAnswer": 3,
+      "options": [
+        "Id Est (that is)",
+        "It Essentially",
+        "In Example",
+        "In Effect"
+      ],
+      "correctAnswer": 0,
       "explanation": "'I.e.' stands for the Latin phrase 'id est,' which means 'that is.' It is used to clarify or restate something in different words.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -116,8 +176,13 @@
     {
       "id": "acronym-13",
       "question": "What does SNAFU stand for?",
-      "options": ["System Not Able to Function Usually", "Situation Normal: All Fouled Up", "Standard Naval Action, Fully Understood", "Something Not Accounted For, Unfortunately"],
-      "correctAnswer": 1,
+      "options": [
+        "System Not Able to Function Usually",
+        "Standard Naval Action, Fully Understood",
+        "Situation Normal: All Fouled Up",
+        "Something Not Accounted For, Unfortunately"
+      ],
+      "correctAnswer": 2,
       "explanation": "SNAFU stands for 'Situation Normal: All Fouled Up' (the original military version used stronger language). It originated in the U.S. military during World War II.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -125,7 +190,12 @@
     {
       "id": "acronym-14",
       "question": "What does the medical abbreviation STAT (as in 'get this done stat') stand for?",
-      "options": ["Swiftly To Attending Team", "Standard Time for Acute Treatment", "Statim (immediately)", "Status of Treatment Administered Today"],
+      "options": [
+        "Status of Treatment Administered Today",
+        "Swiftly To Attending Team",
+        "Statim (immediately)",
+        "Standard Time for Acute Treatment"
+      ],
       "correctAnswer": 2,
       "explanation": "STAT comes from the Latin word 'statim,' meaning 'immediately' or 'at once.' It is widely used in medical settings to indicate extreme urgency.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "acronym-15",
       "question": "What does ZIP in 'ZIP code' stand for?",
-      "options": ["Zonal Identification Protocol", "Zone Improvement Plan", "Zoned Index of Postal areas", "Zoning Implementation Program"],
-      "correctAnswer": 1,
+      "options": [
+        "Zonal Identification Protocol",
+        "Zoned Index of Postal areas",
+        "Zoning Implementation Program",
+        "Zone Improvement Plan"
+      ],
+      "correctAnswer": 3,
       "explanation": "ZIP stands for Zone Improvement Plan. The system was introduced by the United States Post Office in 1963 to make mail sorting and delivery more efficient.",
       "difficulty": "hard",
       "category": "vocabulary"

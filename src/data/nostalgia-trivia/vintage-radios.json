@@ -7,92 +7,167 @@
     {
       "id": "vintage-radios-1",
       "question": "What 1938 radio broadcast, performed by Orson Welles and the Mercury Theatre, caused widespread panic because listeners believed Martians had invaded?",
-      "options": ["The Shadow", "The War of the Worlds", "The Twilight Zone", "Suspense"],
+      "options": [
+        "The Twilight Zone",
+        "The War of the Worlds",
+        "The Shadow",
+        "Suspense"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-radios-2",
       "question": "What was the name of the large, ornate radio sets that served as furniture pieces in family living rooms during the 1930s and 1940s?",
-      "options": ["Tabletop radios", "Console radios", "Cathedral radios", "Mantel radios"],
-      "correctAnswer": 1
+      "options": [
+        "Cathedral radios",
+        "Tabletop radios",
+        "Console radios",
+        "Mantel radios"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-radios-3",
       "question": "Which popular radio comedy show, starring a famously stingy comedian, ran from 1932 to 1955 and later moved to television?",
-      "options": ["The Burns and Allen Show", "The Jack Benny Program", "Fibber McGee and Molly", "The Fred Allen Show"],
-      "correctAnswer": 1
+      "options": [
+        "Fibber McGee and Molly",
+        "The Fred Allen Show",
+        "The Jack Benny Program",
+        "The Burns and Allen Show"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-radios-4",
       "question": "What invention in the late 1940s replaced vacuum tubes in radios, making portable transistor radios possible?",
-      "options": ["Integrated circuits", "Transistors", "Diodes", "Capacitors"],
-      "correctAnswer": 1
+      "options": [
+        "Integrated circuits",
+        "Capacitors",
+        "Diodes",
+        "Transistors"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-radios-5",
       "question": "Which famous radio serial, aimed at children, began each episode with 'Look! Up in the sky!'?",
-      "options": ["Buck Rogers", "The Green Hornet", "The Adventures of Superman", "Captain Midnight"],
-      "correctAnswer": 2
+      "options": [
+        "The Adventures of Superman",
+        "Buck Rogers",
+        "The Green Hornet",
+        "Captain Midnight"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-radios-6",
       "question": "What was the approximate period known as the 'Golden Age of Radio' in the United States?",
-      "options": ["1920s to 1930s", "1930s to 1950s", "1940s to 1960s", "1950s to 1970s"],
+      "options": [
+        "1920s to 1930s",
+        "1930s to 1950s",
+        "1940s to 1960s",
+        "1950s to 1970s"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-radios-7",
       "question": "Which company introduced the Regency TR-1, the first commercially sold transistor radio, in 1954?",
-      "options": ["RCA", "Zenith", "Regency Electronics (with Texas Instruments)", "Philco"],
-      "correctAnswer": 2
+      "options": [
+        "Zenith",
+        "Regency Electronics (with Texas Instruments)",
+        "Philco",
+        "RCA"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "vintage-radios-8",
       "question": "What type of radio show featured ongoing storylines, usually broadcast during daytime hours, and was sponsored by soap companies?",
-      "options": ["Variety shows", "Soap operas", "Serials", "News programs"],
+      "options": [
+        "Serials",
+        "Soap operas",
+        "News programs",
+        "Variety shows"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-radios-9",
       "question": "Which radio mystery show opened with the famous line 'Who knows what evil lurks in the hearts of men?'",
-      "options": ["Inner Sanctum", "The Shadow", "Suspense", "Lights Out"],
-      "correctAnswer": 1
+      "options": [
+        "Lights Out",
+        "Suspense",
+        "Inner Sanctum",
+        "The Shadow"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-radios-10",
       "question": "What president was the first to effectively use radio to communicate directly with the American public through 'fireside chats'?",
-      "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Harry Truman", "Calvin Coolidge"],
+      "options": [
+        "Harry Truman",
+        "Franklin D. Roosevelt",
+        "Calvin Coolidge",
+        "Herbert Hoover"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-radios-11",
       "question": "Which radio network, one of the original 'Big Three,' was known by the initials NBC?",
-      "options": ["National Broadcast Corporation", "National Broadcasting Company", "North American Broadcasting Company", "National Bureau of Communications"],
+      "options": [
+        "North American Broadcasting Company",
+        "National Broadcasting Company",
+        "National Broadcast Corporation",
+        "National Bureau of Communications"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-radios-12",
       "question": "What small, colorful plastic radios made by the Emerson company became popular accessories for teenagers in the 1950s?",
-      "options": ["Pocket radios", "Catalin radios", "Emerson 888 transistor radios", "Bakelite radios"],
+      "options": [
+        "Bakelite radios",
+        "Pocket radios",
+        "Emerson 888 transistor radios",
+        "Catalin radios"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-radios-13",
       "question": "Which radio comedian was famous for feuding on-air with Jack Benny, creating one of radio's greatest rivalries?",
-      "options": ["Bob Hope", "Red Skelton", "Fred Allen", "Milton Berle"],
-      "correctAnswer": 2
+      "options": [
+        "Red Skelton",
+        "Bob Hope",
+        "Milton Berle",
+        "Fred Allen"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-radios-14",
       "question": "What was the name of the Western radio drama that aired from 1952 to 1961 and featured Marshal Matt Dillon of Dodge City?",
-      "options": ["The Lone Ranger", "Gunsmoke", "Have Gun Will Travel", "The Roy Rogers Show"],
-      "correctAnswer": 1
+      "options": [
+        "Have Gun Will Travel",
+        "The Roy Rogers Show",
+        "Gunsmoke",
+        "The Lone Ranger"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-radios-15",
       "question": "What material, a type of early plastic, was commonly used to make radio cabinets in the 1930s and 1940s and is now highly collectible?",
-      "options": ["Celluloid", "Lucite", "Bakelite", "Formica"],
-      "correctAnswer": 2
+      "options": [
+        "Formica",
+        "Celluloid",
+        "Lucite",
+        "Bakelite"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

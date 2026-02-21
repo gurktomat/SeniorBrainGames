@@ -1,0 +1,173 @@
+{
+  "id": "baking-terms-quiz",
+  "title": "Baking Terms Quiz",
+  "description": "Do you know your baking vocabulary? From 'proof' to 'fold,' test your knowledge!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "baking-terms-quiz-1",
+      "question": "In baking, what does 'proofing' refer to?",
+      "options": [
+        "Sifting flour",
+        "Testing the oven temperature",
+        "Checking if a cake is done",
+        "Allowing yeast dough to rise"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-terms-quiz-2",
+      "question": "What does it mean to 'cream' butter and sugar together?",
+      "options": [
+        "Add cream to the mixture",
+        "Freeze them together",
+        "Melt them in a pan",
+        "Beat them until light and fluffy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-terms-quiz-3",
+      "question": "What is a 'bain-marie' (water bath) used for in baking?",
+      "options": [
+        "Sterilizing jars",
+        "Cooling baked goods quickly",
+        "Washing baking tools",
+        "Gentle, even heating to prevent cracking or curdling"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-terms-quiz-4",
+      "question": "What does 'folding' mean in a baking recipe?",
+      "options": [
+        "Rolling dough into layers",
+        "Gently combining a light mixture into a heavier one without deflating",
+        "Cutting dough in half repeatedly",
+        "Wrapping pastry around a filling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "baking-terms-quiz-5",
+      "question": "What is 'blind baking'?",
+      "options": [
+        "Pre-baking a pie crust without the filling",
+        "Baking in a dark oven",
+        "Guessing oven temperature",
+        "Baking without a recipe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-terms-quiz-6",
+      "question": "What does 'docking' dough mean?",
+      "options": [
+        "Letting it rest on a counter",
+        "Poking holes in it to prevent puffing during baking",
+        "Joining two pieces of dough together",
+        "Shaping it into a log"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "baking-terms-quiz-7",
+      "question": "What is the purpose of 'tempering' eggs in baking?",
+      "options": [
+        "Beating them until stiff peaks form",
+        "Separating the yolks from the whites",
+        "Hardening them by boiling",
+        "Gradually warming them to prevent scrambling when added to a hot mixture"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-terms-quiz-8",
+      "question": "In baking, what does 'leavening' do?",
+      "options": [
+        "Causes dough or batter to rise",
+        "Adds sweetness",
+        "Adds color to the dough",
+        "Thickens the mixture"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-terms-quiz-9",
+      "question": "What does the term 'crumb' refer to when describing a baked item?",
+      "options": [
+        "The internal texture and structure of the bread or cake",
+        "The amount of sugar used",
+        "The leftover pieces on the plate",
+        "The crust on the outside"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "baking-terms-quiz-10",
+      "question": "What is a 'couche' used for in bread baking?",
+      "options": [
+        "A bread scoring tool",
+        "A linen cloth that supports dough while it proofs",
+        "A decorative glaze",
+        "A type of oven"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "baking-terms-quiz-11",
+      "question": "What does 'scoring' bread dough before baking accomplish?",
+      "options": [
+        "Prevents the bread from rising",
+        "Adds flavor to the crust",
+        "Controls where the bread expands and allows steam to escape",
+        "Decorates the crust only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "baking-terms-quiz-12",
+      "question": "What is an 'autolyse' in bread making?",
+      "options": [
+        "A machine that kneads dough",
+        "A type of sourdough starter",
+        "A method of adding yeast",
+        "A rest period after mixing flour and water, before adding other ingredients"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "baking-terms-quiz-13",
+      "question": "What does it mean when a recipe says to bake until a toothpick comes out 'clean'?",
+      "options": [
+        "It smells done",
+        "The outside is golden",
+        "No wet batter clings to a toothpick inserted in the center",
+        "The edges have pulled away from the pan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "baking-terms-quiz-14",
+      "question": "What is a 'roux' in the context of baking and cooking?",
+      "options": [
+        "A type of pastry cream",
+        "A type of yeast",
+        "A mixture of fat and flour used to thicken sauces",
+        "A sweet glaze for pastries"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "baking-terms-quiz-15",
+      "question": "What does 'laminating' dough mean, as done when making croissants?",
+      "options": [
+        "Adding a plastic wrap cover",
+        "Rolling it very thin",
+        "Coating it with egg wash",
+        "Repeatedly folding butter into dough to create thin, flaky layers"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

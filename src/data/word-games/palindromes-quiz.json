@@ -8,7 +8,12 @@
     {
       "id": "pal-1",
       "question": "Which of these words is a palindrome?",
-      "options": ["Level", "River", "Label", "Lever"],
+      "options": [
+        "Level",
+        "Label",
+        "Lever",
+        "River"
+      ],
       "correctAnswer": 0,
       "explanation": "'Level' is a palindrome — it reads the same forwards (L-E-V-E-L) and backwards (L-E-V-E-L). It is one of the most common palindromes in everyday English.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "pal-2",
       "question": "Which of these words is a palindrome?",
-      "options": ["Noon", "Moon", "Soon", "Boon"],
-      "correctAnswer": 0,
+      "options": [
+        "Moon",
+        "Noon",
+        "Soon",
+        "Boon"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Noon' reads the same forwards and backwards: N-O-O-N. It has been a palindrome since Old English, derived from the Latin 'nona hora' (ninth hour).",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "pal-3",
       "question": "Which of these is a palindrome?",
-      "options": ["Race", "Face", "Racecar", "Racer"],
-      "correctAnswer": 2,
+      "options": [
+        "Face",
+        "Racecar",
+        "Race",
+        "Racer"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Racecar' is a famous palindrome: R-A-C-E-C-A-R reads the same forwards and backwards. It is one of the longest common single-word palindromes.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "pal-4",
       "question": "Which of these words is a palindrome?",
-      "options": ["Dad", "Mom", "Both 'Dad' and 'Mom'", "Neither"],
-      "correctAnswer": 2,
+      "options": [
+        "Dad",
+        "Mom",
+        "Neither",
+        "Both 'Dad' and 'Mom'"
+      ],
+      "correctAnswer": 3,
       "explanation": "Both 'Dad' (D-A-D) and 'Mom' (M-O-M) are palindromes! These familiar family words read the same forwards and backwards.",
       "difficulty": "easy",
       "category": "language"
@@ -44,7 +64,12 @@
     {
       "id": "pal-5",
       "question": "Which of these words is a palindrome?",
-      "options": ["Kayak", "Canoe", "Yacht", "Raft"],
+      "options": [
+        "Kayak",
+        "Yacht",
+        "Raft",
+        "Canoe"
+      ],
       "correctAnswer": 0,
       "explanation": "'Kayak' is a palindrome: K-A-Y-A-K. The word comes from the Inuit language and refers to a small, narrow watercraft.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "pal-6",
       "question": "Which famous palindrome phrase is attributed (probably falsely) to Napoleon?",
-      "options": ["\"Was it a car or a cat I saw?\"", "\"Able was I ere I saw Elba\"", "\"A man, a plan, a canal: Panama\"", "\"Never odd or even\""],
-      "correctAnswer": 1,
+      "options": [
+        "\"Was it a car or a cat I saw?\"",
+        "\"A man, a plan, a canal: Panama\"",
+        "\"Able was I ere I saw Elba\"",
+        "\"Never odd or even\""
+      ],
+      "correctAnswer": 2,
       "explanation": "\"Able was I ere I saw Elba\" is a famous palindrome attributed to Napoleon, referring to his exile to the island of Elba. While he almost certainly never said it, it perfectly captures his story.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "pal-7",
       "question": "Which of these words is a palindrome?",
-      "options": ["Refer", "Defer", "Prefer", "Infer"],
-      "correctAnswer": 0,
+      "options": [
+        "Infer",
+        "Refer",
+        "Prefer",
+        "Defer"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Refer' is a palindrome: R-E-F-E-R reads the same forwards and backwards. It comes from the Latin 'referre' meaning to carry back.",
       "difficulty": "medium",
       "category": "language"
@@ -71,7 +106,12 @@
     {
       "id": "pal-8",
       "question": "Which of these is a palindromic phrase (ignoring spaces and punctuation)?",
-      "options": ["\"Time flies fast\"", "\"Was it a car or a cat I saw\"", "\"The early bird catches the worm\"", "\"Actions speak louder than words\""],
+      "options": [
+        "\"Actions speak louder than words\"",
+        "\"Was it a car or a cat I saw\"",
+        "\"The early bird catches the worm\"",
+        "\"Time flies fast\""
+      ],
       "correctAnswer": 1,
       "explanation": "\"Was it a car or a cat I saw\" is a palindrome when you ignore spaces and punctuation: wasitacaroracatisaw reads the same in both directions.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "pal-9",
       "question": "Which of these words is a palindrome?",
-      "options": ["Civil", "Civic", "Vivid", "Livid"],
-      "correctAnswer": 1,
+      "options": [
+        "Livid",
+        "Vivid",
+        "Civil",
+        "Civic"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Civic' is a palindrome: C-I-V-I-C reads the same forwards and backwards. It comes from the Latin 'civicus,' relating to a citizen or city.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "pal-10",
       "question": "Which of these words is a palindrome?",
-      "options": ["Rotor", "Motor", "Tutor", "Stator"],
-      "correctAnswer": 0,
+      "options": [
+        "Motor",
+        "Stator",
+        "Tutor",
+        "Rotor"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Rotor' is a palindrome: R-O-T-O-R. It refers to a rotating part of a machine, and the word itself rotates perfectly in spelling!",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "pal-11",
       "question": "Which famous palindrome relates to the construction of a waterway?",
-      "options": ["\"Go hang a salami, I'm a lasagna hog\"", "\"A man, a plan, a canal: Panama\"", "\"Do geese see God?\"", "\"Mr. Owl ate my metal worm\""],
-      "correctAnswer": 1,
+      "options": [
+        "\"A man, a plan, a canal: Panama\"",
+        "\"Go hang a salami, I'm a lasagna hog\"",
+        "\"Do geese see God?\"",
+        "\"Mr. Owl ate my metal worm\""
+      ],
+      "correctAnswer": 0,
       "explanation": "\"A man, a plan, a canal: Panama\" is one of the most famous palindromes in English, referring to the building of the Panama Canal. It was coined by Leigh Mercer in 1948.",
       "difficulty": "hard",
       "category": "language"
@@ -107,7 +162,12 @@
     {
       "id": "pal-12",
       "question": "Which of these words is a palindrome?",
-      "options": ["Deified", "Defined", "Defied", "Denied"],
+      "options": [
+        "Deified",
+        "Defined",
+        "Denied",
+        "Defied"
+      ],
       "correctAnswer": 0,
       "explanation": "'Deified' is a palindrome: D-E-I-F-I-E-D. Meaning 'made into a god,' it is one of the longest common English palindromes at seven letters.",
       "difficulty": "hard",
@@ -116,7 +176,12 @@
     {
       "id": "pal-13",
       "question": "What is the term for a number that reads the same forwards and backwards (like 12321)?",
-      "options": ["A prime number", "A palindromic number", "A reflexive number", "A symmetric number"],
+      "options": [
+        "A reflexive number",
+        "A palindromic number",
+        "A symmetric number",
+        "A prime number"
+      ],
       "correctAnswer": 1,
       "explanation": "A palindromic number reads the same forwards and backwards, just like a word palindrome. Examples include 11, 121, 1331, and 12321.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "pal-14",
       "question": "Which of these is a palindrome?",
-      "options": ["Reviver", "Reviser", "Reliever", "Reviewer"],
+      "options": [
+        "Reviver",
+        "Reviser",
+        "Reliever",
+        "Reviewer"
+      ],
       "correctAnswer": 0,
       "explanation": "'Reviver' is a palindrome: R-E-V-I-V-E-R. At seven letters, it is one of the longest common English word palindromes, meaning one who revives.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "pal-15",
       "question": "What is the longest single-word palindrome commonly found in English dictionaries?",
-      "options": ["Racecar", "Rotavator", "Deified", "Redivider"],
-      "correctAnswer": 3,
+      "options": [
+        "Redivider",
+        "Rotavator",
+        "Racecar",
+        "Deified"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Redivider' (one who redivides) at nine letters is often cited as the longest common single-word palindrome in English: R-E-D-I-V-I-D-E-R.",
       "difficulty": "hard",
       "category": "language"

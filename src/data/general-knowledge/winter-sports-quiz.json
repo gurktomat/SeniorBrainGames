@@ -1,0 +1,219 @@
+{
+  "id": "winter-sports-quiz",
+  "title": "Winter Sports",
+  "description": "How well do you know skiing, skating, hockey, and other winter sports?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "winter-sports-quiz-1",
+      "question": "What is the difference between alpine skiing and cross-country skiing?",
+      "options": [
+        "Alpine is faster, cross-country is longer",
+        "Alpine uses one pole, cross-country uses two",
+        "Alpine is downhill, cross-country covers flat and varied terrain",
+        "There is no difference"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alpine skiing involves racing down a steep slope, while cross-country skiing involves traveling across flat or varied terrain using your own power for propulsion.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-2",
+      "question": "In figure skating, what is a 'triple axel'?",
+      "options": [
+        "Three consecutive jumps",
+        "Three rotations on the ice",
+        "A jump with 3.5 rotations in the air",
+        "A three-person skating formation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A triple axel is a figure skating jump with 3.5 rotations in the air. It is one of the most difficult jumps because it requires an extra half rotation compared to other triple jumps.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-3",
+      "question": "What is the Iditarod?",
+      "options": [
+        "An ice fishing competition in Canada",
+        "A cross-country ski race in Norway",
+        "A snowmobile race in Siberia",
+        "A long-distance sled dog race in Alaska"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Iditarod is a long-distance sled dog race held annually in Alaska, covering approximately 1,000 miles from Anchorage to Nome. It commemorates the 1925 serum run to Nome.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-4",
+      "question": "How many players from each team are on the ice during a standard ice hockey game?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Six players from each team are on the ice during play: one goaltender, two defensemen, and three forwards (center, left wing, right wing).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-5",
+      "question": "What is a 'slalom' in skiing?",
+      "options": [
+        "Skiing on a half-pipe",
+        "A race weaving between poles or gates",
+        "A ski jumping event",
+        "A straight downhill race"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Slalom is an alpine skiing discipline where skiers navigate a course by weaving between closely spaced poles or gates. It requires quick turns and precise technique.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-6",
+      "question": "Which country invented the sport of ice hockey?",
+      "options": [
+        "Canada",
+        "Russia",
+        "United States",
+        "Sweden"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ice hockey originated in Canada in the 19th century. The first organized indoor game was played in Montreal in 1875, and the NHL was founded in 1917.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-7",
+      "question": "What is the Vasaloppet?",
+      "options": [
+        "A Finnish ice swimming competition",
+        "A Norwegian biathlon event",
+        "A German toboggan race",
+        "A Swedish cross-country ski race"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Vasaloppet is the world's oldest and longest cross-country ski race, held annually in Sweden since 1922. The 90 km race goes from Salen to Mora, commemorating a journey by King Gustav Vasa in 1521.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-8",
+      "question": "In speed skating, what is the typical length of a 'short track' oval?",
+      "options": [
+        "100 meters",
+        "200 meters",
+        "400 meters",
+        "111.12 meters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Short track speed skating takes place on an oval track that is 111.12 meters in circumference, set up on an ice hockey-sized rink. Long track uses a 400-meter oval.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-9",
+      "question": "What is the 'halfpipe' in snowboarding?",
+      "options": [
+        "A U-shaped channel in the snow for performing aerial tricks",
+        "A type of snowboard",
+        "A plumbing technique for making snow",
+        "A narrow trail through trees"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A halfpipe is a U-shaped channel built in the snow where snowboarders ride back and forth performing aerial tricks on each wall. Olympic halfpipes are typically 22 feet (6.7 meters) high.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-10",
+      "question": "Which ice hockey trophy is awarded to the NHL champion?",
+      "options": [
+        "The Calder Cup",
+        "The Stanley Cup",
+        "The Hart Trophy",
+        "The Conn Smythe Trophy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Stanley Cup is awarded annually to the NHL playoff champion. Donated by Lord Stanley of Preston in 1893, it is the oldest professional sports trophy in North America.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-11",
+      "question": "What type of skiing involves jumping off a steep ramp and flying through the air?",
+      "options": [
+        "Cross-country skiing",
+        "Mogul skiing",
+        "Alpine skiing",
+        "Ski jumping"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ski jumping involves skiing down a steep ramp (in-run) and launching off the end to fly as far as possible. The current world record is over 250 meters (820 feet).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-12",
+      "question": "In which winter sport do competitors slide headfirst on a small sled?",
+      "options": [
+        "Luge",
+        "Skeleton",
+        "Bobsled",
+        "Toboggan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Skeleton is a sliding sport where competitors ride a small sled headfirst and face-down. It differs from luge, where riders go feet-first and face-up.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-13",
+      "question": "What are moguls in freestyle skiing?",
+      "options": [
+        "Large snow ramps",
+        "Bumps on a steep slope",
+        "Flags marking the course",
+        "Types of ski boots"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moguls are bumps formed on a steep ski slope. In mogul skiing, athletes navigate a course of moguls while performing aerial tricks, judged on technique, speed, and jump quality.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-14",
+      "question": "Which legendary figure skater from Norway won three consecutive Olympic gold medals (1928, 1932, 1936)?",
+      "options": [
+        "Peggy Fleming",
+        "Katarina Witt",
+        "Janet Lynn",
+        "Sonja Henie"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Norwegian figure skater Sonja Henie won three consecutive Olympic gold medals in 1928, 1932, and 1936. She later became a Hollywood movie star and ice show performer.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "winter-sports-quiz-15",
+      "question": "What is 'snowkiting'?",
+      "options": [
+        "Building snow sculptures shaped like kites",
+        "Flying a kite in the snow",
+        "Using a kite to pull yourself across snow on skis or a snowboard",
+        "A children's snow game"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Snowkiting involves using a large kite to pull a person across snow while they are on skis or a snowboard. It allows riders to travel uphill and across flat terrain.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

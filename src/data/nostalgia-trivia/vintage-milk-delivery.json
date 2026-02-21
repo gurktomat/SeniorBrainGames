@@ -1,0 +1,219 @@
+{
+  "id": "vintage-milk-delivery",
+  "title": "Vintage Milk Delivery",
+  "description": "Remember when the milkman came to your door? Test your knowledge of the beloved milk delivery era!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vintage-milk-delivery-1",
+      "question": "What type of container was milk most commonly delivered in by the milkman in the 1940s and 1950s?",
+      "options": [
+        "Wax cartons",
+        "Metal cans",
+        "Plastic jugs",
+        "Glass bottles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Milk was delivered in reusable glass bottles that were left on doorsteps. Customers would rinse the empty bottles and leave them out for the milkman to collect and return to the dairy.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-2",
+      "question": "What was the small metal or wooden container on the porch where the milkman would leave bottles called?",
+      "options": [
+        "Milk box",
+        "Dairy case",
+        "Milk chute",
+        "Bottle holder"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The milk box (or milk delivery box) sat on the porch or was built into the wall of the house. It kept milk cool and protected from animals until the homeowner retrieved it.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-3",
+      "question": "Before homogenization became standard, what would rise to the top of a glass milk bottle?",
+      "options": [
+        "A layer of cream",
+        "Whey",
+        "Butter chunks",
+        "Foam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Before homogenization, cream naturally rose to the top of the milk bottle. Many families would pour it off for coffee or whipping, or shake the bottle to mix it back in.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-4",
+      "question": "What color was the cap on a standard whole milk bottle from most dairies?",
+      "options": [
+        "Red",
+        "Silver",
+        "Green",
+        "Blue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Red caps typically indicated whole milk, while blue indicated skim milk and gold or yellow indicated buttermilk, though colors varied somewhat by dairy.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-5",
+      "question": "How often did the milkman typically deliver milk to homes in the 1950s?",
+      "options": [
+        "Daily",
+        "Twice a week",
+        "Once a week",
+        "Every other day or three times a week"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Most milk delivery services came every other day or three times a week (Monday, Wednesday, Friday was common). Some busy households received daily delivery.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-6",
+      "question": "What other dairy products did the milkman commonly deliver besides milk?",
+      "options": [
+        "Ice cream only",
+        "Only milk",
+        "Cheese and yogurt",
+        "Butter, cream, eggs, and cottage cheese"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The milkman delivered a variety of dairy products including butter, cream, eggs, cottage cheese, and sometimes orange juice, bread, and other staples.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-7",
+      "question": "What would happen to milk left on the porch too long in winter in northern states?",
+      "options": [
+        "Nothing would happen",
+        "The cream would freeze and push the cap up",
+        "It would spoil immediately",
+        "It would turn yellow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In freezing temperatures, the cream at the top of the milk bottle would freeze and expand, pushing the cardboard cap several inches above the bottle top, creating a distinctive frozen column.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-8",
+      "question": "What was the name of the large dairy company that was one of the biggest milk delivery services in the northeastern United States?",
+      "options": [
+        "Borden's",
+        "Land O'Lakes",
+        "Carnation",
+        "Dean Foods"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Borden's, with its famous Elsie the Cow mascot, was one of the largest dairy companies in America and operated extensive home milk delivery services throughout the mid-20th century.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-9",
+      "question": "What type of vehicle did milkmen typically drive for their delivery routes?",
+      "options": [
+        "Open-sided electric or step-van trucks",
+        "Horse-drawn wagons only",
+        "Regular pickup trucks",
+        "Station wagons"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Milkmen drove distinctive open-sided delivery trucks (often electric-powered in urban areas) or step-vans that allowed them to hop on and off quickly at each stop.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-10",
+      "question": "What did families typically leave out with their empty bottles to communicate their order to the milkman?",
+      "options": [
+        "A phone message",
+        "A flag on the milk box",
+        "A note or order card in the empty bottle",
+        "Nothing, the order was always the same"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Families would leave a note or small order card in or next to their empty bottles telling the milkman what they needed for the next delivery.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-11",
+      "question": "Approximately what decade saw the sharp decline of home milk delivery in America?",
+      "options": [
+        "1980s",
+        "1960s",
+        "1970s",
+        "1950s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Home milk delivery began declining sharply in the 1960s as supermarkets grew and home refrigerators improved. By the 1970s, only a small percentage of homes still received delivery.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-12",
+      "question": "What was Elsie the Cow famous for being?",
+      "options": [
+        "Borden's dairy mascot since 1936",
+        "A government milk promotion symbol",
+        "A cartoon on milk cartons",
+        "A children's TV character"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Elsie the Cow became Borden's official mascot in 1936 and was one of the most recognized advertising icons in America. She appeared on bottles, cartons, and in countless ads.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-13",
+      "question": "What was the standard size of a home-delivery milk bottle in the United States?",
+      "options": [
+        "Half gallon",
+        "Pint",
+        "Gallon",
+        "Quart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The standard home-delivery milk bottle was a quart (32 ounces). Families would typically order several quarts per delivery depending on family size.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-14",
+      "question": "Before motorized trucks, how did milkmen originally make their deliveries in the early 1900s?",
+      "options": [
+        "By horse-drawn wagon",
+        "On foot with a cart",
+        "By train",
+        "On bicycles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Early milkmen made their rounds by horse-drawn wagon. The horses often learned the route so well they would stop at each house automatically without being directed.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-milk-delivery-15",
+      "question": "What type of cap was used to seal glass milk bottles before aluminum foil caps became standard?",
+      "options": [
+        "Rubber caps",
+        "Wax seals",
+        "Cork stoppers",
+        "Cardboard disc caps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cardboard disc caps (also called milk caps or pogs) were pressed into the bottle top. Children collected and played games with them, eventually inspiring the 1990s Pogs craze.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    }
+  ]
+}

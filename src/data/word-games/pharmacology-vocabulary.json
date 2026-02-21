@@ -1,0 +1,173 @@
+{
+  "id": "pharmacology-vocabulary",
+  "title": "Pharmacology Vocabulary",
+  "description": "Explore the science of medicines and drugs, from how medications work in the body to drug interactions and pharmaceutical terms.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "pharmacology-vocabulary-1",
+      "question": "What does 'pharmacology' study?",
+      "options": [
+        "The manufacturing of pills",
+        "The study of pharmacy buildings",
+        "The history of medicine",
+        "The science of how drugs interact with biological systems"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-2",
+      "question": "What is a 'dose' in pharmacology?",
+      "options": [
+        "The measured quantity of a drug to be taken at one time",
+        "The shelf life of a drug",
+        "A side effect of a medication",
+        "A type of medicine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacology-vocabulary-3",
+      "question": "What does 'analgesic' mean?",
+      "options": [
+        "A drug that stops bleeding",
+        "A drug that relieves pain without causing loss of consciousness",
+        "A drug that causes sleep",
+        "A drug that reduces fever"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pharmacology-vocabulary-4",
+      "question": "What is a 'side effect'?",
+      "options": [
+        "An unwanted or secondary effect that occurs in addition to the desired therapeutic effect",
+        "A drug interaction",
+        "The expiration of a medication",
+        "The main purpose of a drug"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacology-vocabulary-5",
+      "question": "What does 'bioavailability' measure?",
+      "options": [
+        "The size of a pill",
+        "The cost of a medication",
+        "The proportion of a drug that reaches the bloodstream and is available to have an active effect",
+        "How long a drug lasts on the shelf"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacology-vocabulary-6",
+      "question": "What is a 'placebo'?",
+      "options": [
+        "A powerful painkiller",
+        "A drug that cures all diseases",
+        "A new type of antibiotic",
+        "An inactive substance given in place of a real drug, often used in clinical trials"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-7",
+      "question": "What does 'contraindication' mean?",
+      "options": [
+        "A positive drug interaction",
+        "A recommendation to take a drug",
+        "The correct dosage of a drug",
+        "A condition or factor that makes a particular treatment or procedure inadvisable"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-8",
+      "question": "What is 'half-life' in pharmacology?",
+      "options": [
+        "The shelf life divided by two",
+        "Half the recommended dose",
+        "Half the duration of treatment",
+        "The time it takes for the concentration of a drug in the body to be reduced by half"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-9",
+      "question": "What is an 'antipyretic'?",
+      "options": [
+        "A drug that reduces swelling",
+        "A drug that prevents infection",
+        "A drug that relieves pain",
+        "A drug that reduces fever"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-10",
+      "question": "What does 'drug interaction' refer to?",
+      "options": [
+        "The absorption of a drug in the stomach",
+        "Taking a drug as prescribed",
+        "The manufacturing of a drug",
+        "When one drug affects the activity or effectiveness of another drug when both are taken together"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacology-vocabulary-11",
+      "question": "What is a 'generic drug'?",
+      "options": [
+        "A brand-name drug",
+        "A drug that requires a prescription",
+        "A medication that is equivalent to a brand-name drug but sold under its chemical name at a lower cost",
+        "A drug still being tested"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacology-vocabulary-12",
+      "question": "What does 'pharmacokinetics' study?",
+      "options": [
+        "How the body absorbs, distributes, metabolizes, and excretes drugs",
+        "How drugs are manufactured",
+        "The chemical structure of drugs",
+        "The history of drug discovery"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacology-vocabulary-13",
+      "question": "What is 'tolerance' in pharmacology?",
+      "options": [
+        "The ability to swallow large pills",
+        "A condition where the body requires increasingly larger doses of a drug to achieve the same effect",
+        "The maximum safe dose of a drug",
+        "A drug's shelf stability"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pharmacology-vocabulary-14",
+      "question": "What is an 'antihistamine'?",
+      "options": [
+        "A drug that prevents blood clots",
+        "A drug that increases blood pressure",
+        "A drug that counteracts the effects of histamine, commonly used to treat allergies",
+        "A type of vitamin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacology-vocabulary-15",
+      "question": "What does 'over-the-counter' (OTC) mean for medications?",
+      "options": [
+        "A drug that must be injected",
+        "A drug that is experimental",
+        "A drug that is only available in hospitals",
+        "A drug that can be purchased without a prescription"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

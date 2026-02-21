@@ -1,0 +1,219 @@
+{
+  "id": "pipeline-engineering-quiz",
+  "title": "Pipeline Engineering",
+  "description": "Flow through questions about the world's great pipelines and fluid transport systems!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "pipeline-engineering-quiz-1",
+      "question": "The Trans-Alaska Pipeline System (TAPS) carries oil from Prudhoe Bay to which port city?",
+      "options": [
+        "Fairbanks",
+        "Anchorage",
+        "Juneau",
+        "Valdez"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Trans-Alaska Pipeline carries crude oil 800 miles from Prudhoe Bay on the Arctic coast to the ice-free port of Valdez on Prince William Sound, where it is loaded onto tankers for shipment.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-2",
+      "question": "Why is approximately half of the Trans-Alaska Pipeline built above ground on supports?",
+      "options": [
+        "To save money",
+        "For easier inspection",
+        "Due to earthquake regulations",
+        "To prevent the hot oil from melting the permafrost beneath"
+      ],
+      "correctAnswer": 3,
+      "explanation": "About 420 of the pipeline's 800 miles are elevated on supports to prevent the warm oil (flowing at about 140 degrees F) from melting the permafrost beneath, which would destabilize both the pipeline and the ground.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-3",
+      "question": "The Keystone Pipeline System transports crude oil from which Canadian province to refineries in the United States?",
+      "options": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "Saskatchewan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Keystone Pipeline System transports crude oil from the oil sands of Alberta, Canada, to refineries in the United States, including facilities in Illinois, Oklahoma, and the Gulf Coast of Texas.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-4",
+      "question": "What are 'pig launchers' and 'pig receivers' used for in pipeline operations?",
+      "options": [
+        "Transporting livestock",
+        "Emergency shutdown equipment",
+        "Connecting pipeline sections",
+        "Launching and receiving devices that clean and inspect the inside of pipelines"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pipeline 'pigs' are devices pushed through pipelines by product flow to clean the interior, inspect for corrosion or damage, and separate different products. Pig launchers insert them and pig receivers retrieve them at the other end.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-5",
+      "question": "Nord Stream, a controversial natural gas pipeline, runs under which body of water?",
+      "options": [
+        "Baltic Sea",
+        "North Sea",
+        "Black Sea",
+        "Mediterranean Sea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Nord Stream pipelines run under the Baltic Sea from Russia to Germany. Nord Stream 1 began operations in 2011, while Nord Stream 2 was completed in 2021 but became politically controversial due to the Russia-Ukraine conflict.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-6",
+      "question": "What is 'cathodic protection' used for in pipeline engineering?",
+      "options": [
+        "Maintaining pressure",
+        "Preventing corrosion of metal pipelines",
+        "Filtering contaminants",
+        "Protecting against theft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cathodic protection is an electrochemical technique used to prevent corrosion of metal pipelines buried underground or submerged underwater. It works by making the pipeline the cathode of an electrochemical cell, protecting it from rusting.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-7",
+      "question": "The Druzhba Pipeline ('Friendship Pipeline') is the world's longest oil pipeline network, originating in which country?",
+      "options": [
+        "Russia",
+        "Kazakhstan",
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Druzhba Pipeline originates in Russia and transports oil to refineries in multiple European countries including Poland, Germany, Czech Republic, Slovakia, and Hungary. At over 5,500 km, it is the world's longest oil pipeline network.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-8",
+      "question": "What is an 'HDD' (Horizontal Directional Drill) used for in pipeline construction?",
+      "options": [
+        "Testing soil samples",
+        "Installing pipelines underground without digging trenches, such as under rivers",
+        "Creating ventilation shafts",
+        "Drilling oil wells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Horizontal Directional Drilling (HDD) is a trenchless method for installing pipelines underground, particularly useful for crossing rivers, roads, and environmentally sensitive areas without surface disruption.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-9",
+      "question": "What is the main purpose of 'pump stations' or 'compressor stations' along a pipeline?",
+      "options": [
+        "Storing product",
+        "Heating the product",
+        "Testing product quality",
+        "Maintaining pressure and flow as product travels long distances"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pump stations (for liquids) and compressor stations (for gas) are spaced along pipelines to maintain adequate pressure and flow rate. Friction and elevation changes cause pressure loss over distance, so these stations re-pressurize the product.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-10",
+      "question": "The Big Inch and Little Big Inch pipelines were emergency wartime projects during which conflict?",
+      "options": [
+        "Korean War",
+        "World War I",
+        "Cold War",
+        "World War II"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Big Inch (24-inch crude oil) and Little Big Inch (20-inch refined products) pipelines were built during World War II to transport petroleum from Texas to the East Coast, replacing tanker ships that were being sunk by German U-boats.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "pipeline-engineering-quiz-11",
+      "question": "What material are most modern long-distance oil and gas pipelines made from?",
+      "options": [
+        "Carbon steel",
+        "PVC plastic",
+        "Copper",
+        "Aluminum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most long-distance oil and gas pipelines are made from carbon steel, which provides the necessary strength to withstand high internal pressures and external loads. The steel is coated externally to prevent corrosion.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-12",
+      "question": "What is a 'SCADA system' in pipeline operations?",
+      "options": [
+        "A computerized system for monitoring and controlling pipeline operations remotely",
+        "A safety valve",
+        "A flow measurement device",
+        "A type of pipe joint"
+      ],
+      "correctAnswer": 0,
+      "explanation": "SCADA (Supervisory Control and Data Acquisition) is a computerized system that monitors and controls pipeline operations remotely, including flow rates, pressures, temperatures, and pump station operations across the entire pipeline network.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-13",
+      "question": "The Baku-Tbilisi-Ceyhan pipeline transports oil from the Caspian Sea to which country's Mediterranean coast?",
+      "options": [
+        "Greece",
+        "Egypt",
+        "Syria",
+        "Turkey"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The BTC pipeline runs 1,768 km from Baku, Azerbaijan, through Tbilisi, Georgia, to Ceyhan on Turkey's Mediterranean coast. Opened in 2006, it was designed to transport Caspian oil to Western markets without passing through Russia.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-14",
+      "question": "What is 'batching' in pipeline transportation?",
+      "options": [
+        "Testing pipeline capacity",
+        "Mixing different products together",
+        "Storing products in tanks",
+        "Sending different products sequentially in the same pipeline with separators"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Batching involves sending different petroleum products (gasoline, diesel, jet fuel) sequentially through the same pipeline. Mechanical or liquid separators, or simply the sharp interface between products, keeps them mostly distinct.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "pipeline-engineering-quiz-15",
+      "question": "What environmental concern is particularly associated with subsea pipeline construction?",
+      "options": [
+        "Noise pollution only",
+        "Air pollution from construction vehicles",
+        "Disruption to marine ecosystems and risk of underwater oil spills",
+        "Light pollution at night"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Subsea pipelines pose risks including disruption to marine ecosystems during construction, potential for underwater leaks or spills, and interference with fishing and marine life. Environmental impact assessments are required before construction.",
+      "difficulty": "easy",
+      "category": "engineering"
+    }
+  ]
+}

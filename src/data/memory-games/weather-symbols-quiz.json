@@ -7,92 +7,167 @@
     {
       "id": "weather-symbols-quiz-1",
       "question": "On a weather map, what does a red line with semicircles represent?",
-      "options": ["A cold front", "A warm front", "A stationary front", "An occluded front"],
-      "correctAnswer": 1
+      "options": [
+        "A cold front",
+        "An occluded front",
+        "A warm front",
+        "A stationary front"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "weather-symbols-quiz-2",
       "question": "What does the term 'barometric pressure' refer to?",
-      "options": ["Wind speed", "Humidity level", "The weight of the atmosphere", "Temperature variation"],
+      "options": [
+        "Wind speed",
+        "Temperature variation",
+        "The weight of the atmosphere",
+        "Humidity level"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "weather-symbols-quiz-3",
       "question": "On a weather map, closely packed isobars indicate what condition?",
-      "options": ["Calm weather", "Strong winds", "Heavy rain", "Fog"],
-      "correctAnswer": 1
+      "options": [
+        "Fog",
+        "Calm weather",
+        "Strong winds",
+        "Heavy rain"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "weather-symbols-quiz-4",
       "question": "What instrument is used to measure atmospheric pressure?",
-      "options": ["Thermometer", "Hygrometer", "Barometer", "Anemometer"],
-      "correctAnswer": 2
+      "options": [
+        "Thermometer",
+        "Hygrometer",
+        "Anemometer",
+        "Barometer"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-symbols-quiz-5",
       "question": "A large letter 'H' on a weather map indicates what?",
-      "options": ["A hurricane warning", "High humidity area", "A high-pressure system", "Heavy rainfall expected"],
-      "correctAnswer": 2
+      "options": [
+        "A high-pressure system",
+        "A hurricane warning",
+        "High humidity area",
+        "Heavy rainfall expected"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "weather-symbols-quiz-6",
       "question": "What does an anemometer measure?",
-      "options": ["Rainfall", "Wind speed", "Air temperature", "Humidity"],
+      "options": [
+        "Air temperature",
+        "Wind speed",
+        "Rainfall",
+        "Humidity"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-symbols-quiz-7",
       "question": "On a weather map, what does a line with alternating triangles and semicircles represent?",
-      "options": ["A warm front", "A cold front", "A stationary front", "An occluded front"],
-      "correctAnswer": 2
+      "options": [
+        "A stationary front",
+        "An occluded front",
+        "A warm front",
+        "A cold front"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "weather-symbols-quiz-8",
       "question": "What type of cloud is flat and layered, often covering the sky like a gray blanket?",
-      "options": ["Cumulus", "Cirrus", "Stratus", "Cumulonimbus"],
-      "correctAnswer": 2
+      "options": [
+        "Stratus",
+        "Cumulus",
+        "Cumulonimbus",
+        "Cirrus"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "weather-symbols-quiz-9",
       "question": "What does the Beaufort scale measure?",
-      "options": ["Earthquake intensity", "Wind force", "Rainfall amount", "Temperature extremes"],
+      "options": [
+        "Temperature extremes",
+        "Wind force",
+        "Rainfall amount",
+        "Earthquake intensity"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-symbols-quiz-10",
       "question": "A large letter 'L' on a weather map typically indicates what?",
-      "options": ["Lightning risk area", "Low visibility", "A low-pressure system", "Low temperature zone"],
-      "correctAnswer": 2
+      "options": [
+        "Low temperature zone",
+        "Lightning risk area",
+        "Low visibility",
+        "A low-pressure system"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-symbols-quiz-11",
       "question": "What are the high, wispy clouds made of ice crystals called?",
-      "options": ["Stratus", "Cumulus", "Cirrus", "Nimbus"],
-      "correctAnswer": 2
+      "options": [
+        "Cirrus",
+        "Nimbus",
+        "Cumulus",
+        "Stratus"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "weather-symbols-quiz-12",
       "question": "What weather phenomenon is measured on the Fujita (or Enhanced Fujita) Scale?",
-      "options": ["Hurricanes", "Tornadoes", "Earthquakes", "Blizzards"],
-      "correctAnswer": 1
+      "options": [
+        "Blizzards",
+        "Hurricanes",
+        "Tornadoes",
+        "Earthquakes"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "weather-symbols-quiz-13",
       "question": "What does a weather vane (or wind vane) indicate?",
-      "options": ["Wind speed", "Wind direction", "Air pressure", "Humidity"],
+      "options": [
+        "Wind speed",
+        "Wind direction",
+        "Humidity",
+        "Air pressure"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "weather-symbols-quiz-14",
       "question": "What term describes the temperature at which air becomes saturated and water vapor condenses?",
-      "options": ["Heat index", "Dew point", "Wind chill", "Relative humidity"],
-      "correctAnswer": 1
+      "options": [
+        "Wind chill",
+        "Relative humidity",
+        "Heat index",
+        "Dew point"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "weather-symbols-quiz-15",
       "question": "On a weather map, lines connecting points of equal atmospheric pressure are called what?",
-      "options": ["Isotherms", "Isobars", "Contour lines", "Isohyets"],
-      "correctAnswer": 1
+      "options": [
+        "Isobars",
+        "Isohyets",
+        "Contour lines",
+        "Isotherms"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

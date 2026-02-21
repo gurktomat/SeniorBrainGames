@@ -8,7 +8,12 @@
     {
       "id": "crs-1",
       "question": "Which famous radio drama caused mass panic on October 30, 1938, when listeners believed Martians were actually invading Earth?",
-      "options": ["The Shadow", "The War of the Worlds", "Lights Out", "Suspense"],
+      "options": [
+        "Lights Out",
+        "The War of the Worlds",
+        "The Shadow",
+        "Suspense"
+      ],
       "correctAnswer": 1,
       "explanation": "Orson Welles' Mercury Theatre broadcast of H.G. Wells' 'The War of the Worlds' was performed as a series of simulated news bulletins. Some listeners who tuned in late believed the alien invasion was real.",
       "difficulty": "easy",
@@ -17,7 +22,12 @@
     {
       "id": "crs-2",
       "question": "What was the opening line of the radio show 'The Shadow'?",
-      "options": ["'Good evening, friends...'", "'Who knows what evil lurks in the hearts of men?'", "'The Shadow strikes again!'", "'Look out, evil-doers!'"],
+      "options": [
+        "'Good evening, friends...'",
+        "'Who knows what evil lurks in the hearts of men?'",
+        "'The Shadow strikes again!'",
+        "'Look out, evil-doers!'"
+      ],
       "correctAnswer": 1,
       "explanation": "'Who knows what evil lurks in the hearts of men? The Shadow knows!' This iconic opening, followed by an eerie laugh, made The Shadow one of the most memorable radio programs of the 1930s and 1940s.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "crs-3",
       "question": "Which comedy duo starred in one of radio's most popular shows from 1950 to 1965, later transitioning to television?",
-      "options": ["Abbott and Costello", "Burns and Allen", "Martin and Lewis", "Laurel and Hardy"],
-      "correctAnswer": 1,
+      "options": [
+        "Martin and Lewis",
+        "Laurel and Hardy",
+        "Abbott and Costello",
+        "Burns and Allen"
+      ],
+      "correctAnswer": 3,
       "explanation": "George Burns and Gracie Allen were one of radio's most beloved comedy teams. Their show ran on radio from 1932 to 1950 before successfully transitioning to television, where it ran until 1958.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "crs-4",
       "question": "What long-running radio soap opera, which began in 1937, followed the lives of the Hughes family in the fictional town of Oakdale?",
-      "options": ["The Guiding Light", "As the World Turns", "Ma Perkins", "The Romance of Helen Trent"],
-      "correctAnswer": 0,
+      "options": [
+        "Ma Perkins",
+        "The Romance of Helen Trent",
+        "As the World Turns",
+        "The Guiding Light"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Guiding Light began on radio in 1937 and transitioned to television in 1952. It became the longest-running drama in broadcast history before ending in 2009 after 72 years.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "crs-5",
       "question": "Which radio comedian was famous for his long pauses, penny-pinching persona, and claiming to be perpetually 39 years old?",
-      "options": ["Bob Hope", "Jack Benny", "Fred Allen", "Red Skelton"],
-      "correctAnswer": 1,
+      "options": [
+        "Fred Allen",
+        "Bob Hope",
+        "Red Skelton",
+        "Jack Benny"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jack Benny's radio show ran from 1932 to 1955 and was one of the most popular programs in radio history. His comedic persona as a vain, stingy man who was always 39 became legendary.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "crs-6",
       "question": "What Western radio drama featured the adventures of a masked former Texas Ranger and his companion Tonto?",
-      "options": ["Gunsmoke", "The Lone Ranger", "Have Gun – Will Travel", "The Cisco Kid"],
-      "correctAnswer": 1,
+      "options": [
+        "Have Gun – Will Travel",
+        "The Cisco Kid",
+        "Gunsmoke",
+        "The Lone Ranger"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Lone Ranger debuted on radio in 1933 on WXYZ in Detroit. The show's use of the William Tell Overture as its theme music and the cry of 'Hi-Yo, Silver!' became iconic in American pop culture.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "crs-7",
       "question": "Which radio variety show, hosted by a former vaudeville comedian, featured the famous ventriloquist dummy Charlie McCarthy?",
-      "options": ["The Jack Benny Program", "The Edgar Bergen and Charlie McCarthy Show", "The Fred Allen Show", "Arthur Godfrey's Talent Scouts"],
-      "correctAnswer": 1,
+      "options": [
+        "The Jack Benny Program",
+        "The Fred Allen Show",
+        "Arthur Godfrey's Talent Scouts",
+        "The Edgar Bergen and Charlie McCarthy Show"
+      ],
+      "correctAnswer": 3,
       "explanation": "Edgar Bergen's ventriloquist act with Charlie McCarthy was enormously popular on radio from 1937 to 1956. Ironically, ventriloquism on radio meant listeners couldn't see if his lips moved!",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "crs-8",
       "question": "What famous radio show, which began in 1929, featured the characters of Amos Jones and Andrew Hogg Brown?",
-      "options": ["Amos 'n' Andy", "Fibber McGee and Molly", "The Great Gildersleeve", "Sam 'n' Henry"],
-      "correctAnswer": 0,
+      "options": [
+        "The Great Gildersleeve",
+        "Amos 'n' Andy",
+        "Sam 'n' Henry",
+        "Fibber McGee and Molly"
+      ],
+      "correctAnswer": 1,
       "explanation": "Amos 'n' Andy was one of the most popular radio shows in American history, running from 1928 to 1960. At its peak, it drew an audience of 40 million listeners, and some businesses adjusted schedules around it.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "crs-9",
       "question": "Which radio show, debuting in 1947, began each episode with 'It's a beautiful day in Dogersville'?",
-      "options": ["Our Miss Brooks", "The Phil Harris-Alice Faye Show", "My Friend Irma", "The Life of Riley"],
-      "correctAnswer": 3,
+      "options": [
+        "The Phil Harris-Alice Faye Show",
+        "Our Miss Brooks",
+        "The Life of Riley",
+        "My Friend Irma"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Life of Riley, starring William Bendix (and later on TV, Jackie Gleason), was a popular radio sitcom about a well-meaning but bumbling family man. Riley's catchphrase was 'What a revoltin' development this is!'",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -89,7 +134,12 @@
     {
       "id": "crs-10",
       "question": "What radio detective show, which debuted in 1949, featured a tough Los Angeles private investigator and later became a popular TV series?",
-      "options": ["Sam Spade", "Philip Marlowe", "Dragnet", "Richard Diamond"],
+      "options": [
+        "Sam Spade",
+        "Richard Diamond",
+        "Dragnet",
+        "Philip Marlowe"
+      ],
       "correctAnswer": 2,
       "explanation": "Dragnet, created by and starring Jack Webb as Sergeant Joe Friday, debuted on radio in 1949. Its famous opening — 'The story you are about to hear is true' — and 'Just the facts, ma'am' became cultural touchstones.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "crs-11",
       "question": "Which radio show featured a cluttered hall closet that became a running gag, with items crashing out whenever the door was opened?",
-      "options": ["The Great Gildersleeve", "Fibber McGee and Molly", "The Burns and Allen Show", "Blondie"],
-      "correctAnswer": 1,
+      "options": [
+        "The Burns and Allen Show",
+        "The Great Gildersleeve",
+        "Blondie",
+        "Fibber McGee and Molly"
+      ],
+      "correctAnswer": 3,
       "explanation": "Fibber McGee and Molly ran from 1935 to 1959. The hall closet gag, where Fibber would open the closet and an avalanche of items would crash out with elaborate sound effects, became one of radio's most famous bits.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -107,7 +162,12 @@
     {
       "id": "crs-12",
       "question": "What radio adventure series featured the line 'Look! Up in the sky! It's a bird! It's a plane!'?",
-      "options": ["Captain Midnight", "The Green Hornet", "The Adventures of Superman", "Buck Rogers"],
+      "options": [
+        "Captain Midnight",
+        "The Green Hornet",
+        "The Adventures of Superman",
+        "Buck Rogers"
+      ],
       "correctAnswer": 2,
       "explanation": "The Adventures of Superman radio series ran from 1940 to 1951. Bud Collyer voiced Superman/Clark Kent. The show actually introduced many elements later adopted by the comics, including kryptonite and Jimmy Olsen.",
       "difficulty": "easy",
@@ -116,7 +176,12 @@
     {
       "id": "crs-13",
       "question": "Which long-running radio Western was set in Dodge City, Kansas, and featured Marshal Matt Dillon?",
-      "options": ["The Lone Ranger", "Gunsmoke", "Have Gun – Will Travel", "Fort Laramie"],
+      "options": [
+        "Fort Laramie",
+        "Gunsmoke",
+        "Have Gun – Will Travel",
+        "The Lone Ranger"
+      ],
       "correctAnswer": 1,
       "explanation": "Gunsmoke ran on CBS Radio from 1952 to 1961, with William Conrad as Matt Dillon. It then became the longest-running prime-time live-action series in television history (1955-1975) with James Arness.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "crs-14",
       "question": "What was the name of the popular children's radio show that encouraged kids to drink Ovaltine and featured secret decoder rings?",
-      "options": ["Captain Midnight", "Little Orphan Annie", "The Adventures of Superman", "Jack Armstrong, the All-American Boy"],
-      "correctAnswer": 1,
+      "options": [
+        "The Adventures of Superman",
+        "Captain Midnight",
+        "Little Orphan Annie",
+        "Jack Armstrong, the All-American Boy"
+      ],
+      "correctAnswer": 2,
       "explanation": "Little Orphan Annie, sponsored by Ovaltine, ran on radio from 1931 to 1942. The show's decoder pins and secret messages became legendary. A Christmas Story (1983) famously referenced the Ovaltine decoder.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "crs-15",
       "question": "Which radio horror anthology series, known for its graphic sound effects, was introduced with the sound of a creaking door?",
-      "options": ["Suspense", "The Whistler", "Inner Sanctum Mysteries", "Lights Out"],
-      "correctAnswer": 2,
+      "options": [
+        "Lights Out",
+        "The Whistler",
+        "Suspense",
+        "Inner Sanctum Mysteries"
+      ],
+      "correctAnswer": 3,
       "explanation": "Inner Sanctum Mysteries (1941-1952) was famous for its creaking door opening, host Raymond's macabre humor, and spine-tingling stories. The creaking door sound effect became one of the most iconic in radio history.",
       "difficulty": "hard",
       "category": "nostalgia"

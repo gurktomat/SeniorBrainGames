@@ -1,0 +1,173 @@
+{
+  "id": "deer-species-quiz",
+  "title": "Deer Species Quiz",
+  "description": "Test your knowledge of the graceful deer family, from majestic elk to tiny muntjacs",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "deer-species-quiz-1",
+      "question": "Which member of the deer family is the largest, with males weighing up to 1,800 pounds and sporting massive palmate antlers?",
+      "options": [
+        "Red Deer",
+        "Elk",
+        "Moose",
+        "Caribou"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deer-species-quiz-2",
+      "question": "Which is the only deer species in which both males and females grow antlers?",
+      "options": [
+        "Elk",
+        "White-tailed Deer",
+        "Moose",
+        "Caribou/Reindeer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deer-species-quiz-3",
+      "question": "What is a male deer typically called?",
+      "options": [
+        "Stag",
+        "Buck",
+        "Bull",
+        "Ram"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deer-species-quiz-4",
+      "question": "Which deer species is the most common in North America and is known for raising its white tail as an alarm signal?",
+      "options": [
+        "Key Deer",
+        "White-tailed Deer",
+        "Mule Deer",
+        "Black-tailed Deer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deer-species-quiz-5",
+      "question": "Which large North American deer has a distinctive bugling call during the autumn mating season?",
+      "options": [
+        "Moose",
+        "Mule Deer",
+        "Caribou",
+        "Elk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deer-species-quiz-6",
+      "question": "Which small Asian deer has tusks (elongated canine teeth) instead of antlers?",
+      "options": [
+        "Water Deer",
+        "Mouse Deer",
+        "Tufted Deer",
+        "Muntjac"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deer-species-quiz-7",
+      "question": "Which European deer has a spotted coat in summer and is commonly kept in deer parks?",
+      "options": [
+        "Fallow Deer",
+        "Red Deer",
+        "Roe Deer",
+        "Sika Deer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deer-species-quiz-8",
+      "question": "What is the soft, velvet-like covering on growing deer antlers called?",
+      "options": [
+        "Fur",
+        "Moss",
+        "Down",
+        "Velvet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deer-species-quiz-9",
+      "question": "Which tiny deer from Southeast Asia is one of the smallest hoofed mammals, standing only about 12 inches tall?",
+      "options": [
+        "Muntjac",
+        "Pudu",
+        "Mouse Deer",
+        "Key Deer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deer-species-quiz-10",
+      "question": "Which deer species is domesticated by the Sami people of northern Scandinavia and used for pulling sleds?",
+      "options": [
+        "Moose",
+        "Reindeer",
+        "Red Deer",
+        "Fallow Deer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deer-species-quiz-11",
+      "question": "Which South American deer is the smallest deer species in the world, standing only about 13 inches at the shoulder?",
+      "options": [
+        "Marsh Deer",
+        "Pampas Deer",
+        "Pudu",
+        "Brocket Deer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deer-species-quiz-12",
+      "question": "Which North American deer gets its name from its large, mule-like ears?",
+      "options": [
+        "Key Deer",
+        "White-tailed Deer",
+        "Pronghorn",
+        "Mule Deer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deer-species-quiz-13",
+      "question": "How often do most male deer shed and regrow their antlers?",
+      "options": [
+        "Every year",
+        "Every six months",
+        "They never shed them",
+        "Every two years"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deer-species-quiz-14",
+      "question": "Which deer, now found wild in parts of England, was originally native to East Asia and has a spotted coat and distinctive bark-like call?",
+      "options": [
+        "Muntjac",
+        "Fallow Deer",
+        "Roe Deer",
+        "Sika Deer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deer-species-quiz-15",
+      "question": "Which extinct Irish deer, also known as the Irish Elk, had the largest antlers of any known deer, spanning up to 12 feet?",
+      "options": [
+        "Giant Deer (Megaloceros)",
+        "Stag-Moose",
+        "Irish Elk",
+        "Broad-fronted Moose"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

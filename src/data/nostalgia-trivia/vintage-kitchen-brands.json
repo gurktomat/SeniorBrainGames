@@ -8,8 +8,13 @@
     {
       "id": "vkb-1",
       "question": "Which brand of colorful, stackable food storage containers became a household staple through home parties?",
-      "options": ["Rubbermaid", "Tupperware", "Pyrex", "Corning"],
-      "correctAnswer": 1,
+      "options": [
+        "Rubbermaid",
+        "Corning",
+        "Tupperware",
+        "Pyrex"
+      ],
+      "correctAnswer": 2,
       "explanation": "Tupperware became famous through its home party sales model, pioneered by Brownie Wise in the 1950s. The airtight seal and durable plastic containers revolutionized food storage.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "vkb-2",
       "question": "What brand of glass bakeware, known for its colorful mixing bowls and casserole dishes, was a kitchen essential?",
-      "options": ["Anchor Hocking", "Pyrex", "Fire-King", "Corelle"],
-      "correctAnswer": 1,
+      "options": [
+        "Anchor Hocking",
+        "Corelle",
+        "Fire-King",
+        "Pyrex"
+      ],
+      "correctAnswer": 3,
       "explanation": "Pyrex, introduced by Corning Glass Works in 1915, became a kitchen essential by the mid-20th century. Their colorful patterned mixing bowls and casserole dishes are now highly collectible.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "vkb-3",
       "question": "Which stand mixer brand, known for its iconic design, has been a kitchen staple since the 1930s?",
-      "options": ["Sunbeam", "Hamilton Beach", "KitchenAid", "Oster"],
-      "correctAnswer": 2,
+      "options": [
+        "Hamilton Beach",
+        "KitchenAid",
+        "Oster",
+        "Sunbeam"
+      ],
+      "correctAnswer": 1,
       "explanation": "KitchenAid introduced its stand mixer in 1919 and the iconic tilt-head design in the 1930s. The sturdy mixers became a symbol of home baking and are still produced in dozens of colors today.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "vkb-4",
       "question": "What kitchen appliance brand was known for its Mixmaster, one of the first affordable home electric mixers?",
-      "options": ["General Electric", "Sunbeam", "Westinghouse", "Waring"],
-      "correctAnswer": 1,
+      "options": [
+        "Westinghouse",
+        "General Electric",
+        "Waring",
+        "Sunbeam"
+      ],
+      "correctAnswer": 3,
       "explanation": "Sunbeam introduced the Mixmaster in 1930, and it became one of the best-selling kitchen appliances in America. The name 'Mixmaster' became so popular it was used generically for any stand mixer.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,7 +64,12 @@
     {
       "id": "vkb-5",
       "question": "Which brand of cast iron cookware, known for its seasoned skillets, has been manufactured in the U.S. since 1896?",
-      "options": ["Wagner", "Griswold", "Lodge", "Le Creuset"],
+      "options": [
+        "Wagner",
+        "Griswold",
+        "Lodge",
+        "Le Creuset"
+      ],
       "correctAnswer": 2,
       "explanation": "Lodge Cast Iron has been manufacturing cookware in South Pittsburg, Tennessee, since 1896. Their pre-seasoned cast iron skillets are a kitchen staple that lasts for generations with proper care.",
       "difficulty": "easy",
@@ -53,7 +78,12 @@
     {
       "id": "vkb-6",
       "question": "What was the name of the Corning dinnerware line, featuring a distinctive floral pattern, that was nearly unbreakable?",
-      "options": ["Fiesta Ware", "Corelle", "Melamine", "Melmac"],
+      "options": [
+        "Melmac",
+        "Corelle",
+        "Fiesta Ware",
+        "Melamine"
+      ],
       "correctAnswer": 1,
       "explanation": "Corelle, introduced by Corning in 1970, was made from Vitrelle glass laminate that was lightweight and remarkably resistant to breaking. The Butterfly Gold and Spring Blossom patterns were everywhere in 1970s kitchens.",
       "difficulty": "medium",
@@ -62,7 +92,12 @@
     {
       "id": "vkb-7",
       "question": "Which popular electric slow cooker brand became synonymous with easy home cooking in the 1970s?",
-      "options": ["Hamilton Beach", "Rival Crock-Pot", "West Bend", "Presto"],
+      "options": [
+        "Hamilton Beach",
+        "Rival Crock-Pot",
+        "Presto",
+        "West Bend"
+      ],
       "correctAnswer": 1,
       "explanation": "The Rival Crock-Pot was introduced in 1971 and became a kitchen sensation. The slow cooker allowed busy families to prepare meals in the morning and have dinner ready by evening.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "vkb-8",
       "question": "What brand produced the famous 'Cornflower Blue' pattern on white glass-ceramic cookware?",
-      "options": ["Pyrex", "Corning Ware", "Fire-King", "Anchor Hocking"],
-      "correctAnswer": 1,
+      "options": [
+        "Pyrex",
+        "Fire-King",
+        "Corning Ware",
+        "Anchor Hocking"
+      ],
+      "correctAnswer": 2,
       "explanation": "Corning Ware with the Cornflower Blue pattern was introduced in 1958. The glass-ceramic material could go from freezer to oven to table, making it revolutionary for mid-century kitchens.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "vkb-9",
       "question": "Which company made the popular 'Harvest' pattern percolator coffee pots in the 1960s and 1970s?",
-      "options": ["Mr. Coffee", "Corning", "Pyrex", "West Bend"],
-      "correctAnswer": 2,
+      "options": [
+        "Pyrex",
+        "Mr. Coffee",
+        "Corning",
+        "West Bend"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pyrex made popular stovetop percolator coffee pots with patterns like Harvest and other decorative designs. Before automatic drip coffee makers, these glass percolators were in most American kitchens.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,7 +134,12 @@
     {
       "id": "vkb-10",
       "question": "What colorful line of heavy pottery dinnerware, first produced in 1936, featured bold solid colors?",
-      "options": ["Fiesta Ware", "Bauer Pottery", "Frankoma", "Hall China"],
+      "options": [
+        "Fiesta Ware",
+        "Bauer Pottery",
+        "Frankoma",
+        "Hall China"
+      ],
       "correctAnswer": 0,
       "explanation": "Fiesta Ware was introduced by the Homer Laughlin China Company in 1936. Its Art Deco design and bold colors like red, cobalt blue, and ivory made it instantly popular. Original vintage pieces are highly collectible.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "vkb-11",
       "question": "Which brand introduced the first automatic drip coffee maker for home use in 1972?",
-      "options": ["Bunn", "Mr. Coffee", "Braun", "Melitta"],
-      "correctAnswer": 1,
+      "options": [
+        "Melitta",
+        "Braun",
+        "Bunn",
+        "Mr. Coffee"
+      ],
+      "correctAnswer": 3,
       "explanation": "Mr. Coffee, introduced in 1972 and famously endorsed by baseball legend Joe DiMaggio, brought automatic drip coffee making to American homes. It replaced the percolator as the standard way to brew coffee.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "vkb-12",
       "question": "What type of plastic dinnerware, popular in the 1950s and 1960s, was marketed as virtually unbreakable?",
-      "options": ["Bakelite", "Melmac", "Lucite", "Celluloid"],
-      "correctAnswer": 1,
+      "options": [
+        "Melmac",
+        "Lucite",
+        "Celluloid",
+        "Bakelite"
+      ],
+      "correctAnswer": 0,
       "explanation": "Melmac was the brand name for melamine dinnerware that was hugely popular in the 1950s and 1960s. Marketed as unbreakable and available in pastel colors, it was ideal for families with children.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "vkb-13",
       "question": "Which now-collectible Pyrex mixing bowl set from the 1940s-1950s featured nesting bowls in primary colors?",
-      "options": ["The Rainbow Set", "The Primary Colors Set", "The Americana Set", "The Mixing Set"],
-      "correctAnswer": 1,
+      "options": [
+        "The Americana Set",
+        "The Mixing Set",
+        "The Rainbow Set",
+        "The Primary Colors Set"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Pyrex Primary Colors mixing bowl set (1945-1960s) featured four nesting bowls in blue, red, green, and yellow. These are among the most collectible and valuable vintage Pyrex pieces today.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,7 +190,12 @@
     {
       "id": "vkb-14",
       "question": "What was the name of the Oster product that popularized blending drinks at home in the 1960s?",
-      "options": ["The Oster Mixer", "The Osterizer", "The Oster Blendmaster", "The Oster Whip"],
+      "options": [
+        "The Oster Mixer",
+        "The Osterizer",
+        "The Oster Blendmaster",
+        "The Oster Whip"
+      ],
       "correctAnswer": 1,
       "explanation": "The Osterizer blender, originally designed by John Oster in 1946, became a kitchen staple by the 1960s. Its chrome base and glass pitcher were iconic, and the name 'Osterizer' became synonymous with blending.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "vkb-15",
       "question": "Which company produced the Vitamix blender, originally demonstrated through traveling road shows in the 1950s?",
-      "options": ["Waring", "Vitamix Corporation", "Hamilton Beach", "Cuisinart"],
-      "correctAnswer": 1,
+      "options": [
+        "Cuisinart",
+        "Hamilton Beach",
+        "Waring",
+        "Vitamix Corporation"
+      ],
+      "correctAnswer": 3,
       "explanation": "Vitamix Corporation, founded by William Grover Barnard, popularized their blenders through traveling demonstrations and one of the first TV infomercials in 1949. The family-owned company has been making blenders since 1937.",
       "difficulty": "hard",
       "category": "nostalgia"

@@ -1,0 +1,219 @@
+{
+  "id": "soccer-legends-quiz",
+  "title": "Soccer Legends",
+  "description": "How well do you know the greatest soccer players and clubs in football history?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "soccer-legends-quiz-1",
+      "question": "Which Brazilian player is often considered the greatest soccer player of all time and won three World Cups?",
+      "options": [
+        "Pele",
+        "Ronaldo",
+        "Ronaldinho",
+        "Garrincha"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pele (Edson Arantes do Nascimento) is widely regarded as one of the greatest soccer players ever. He won three FIFA World Cups with Brazil (1958, 1962, 1970) and scored over 1,000 career goals.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-2",
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "options": [
+        "Real Madrid",
+        "AC Milan",
+        "Liverpool",
+        "Barcelona"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Real Madrid has won the most Champions League (formerly European Cup) titles with 15 victories, far more than any other club. AC Milan is second with 7 titles.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-3",
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lionel Messi has won a record 8 Ballon d'Or awards (2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023). Cristiano Ronaldo has won 5.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-4",
+      "question": "What is the 'offside rule' in soccer?",
+      "options": [
+        "A player cannot touch the ball with their hands",
+        "A player is in an offside position if nearer to the goal line than both the ball and the second-last opponent when the ball is played",
+        "A player cannot go behind the goal",
+        "A player must stay in their half"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A player is offside if they are nearer to the opponent's goal line than both the ball and the second-last defender when the ball is played to them, and they are actively involved in play.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-5",
+      "question": "Which Dutch concept revolutionized soccer in the 1970s under coach Rinus Michels?",
+      "options": [
+        "Total Football",
+        "Catenaccio",
+        "Tiki-taka",
+        "The W-M formation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Total Football was a tactical system where any outfield player could take over the role of any other player. It was perfected by the Netherlands and Ajax Amsterdam in the early 1970s.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-6",
+      "question": "Which English club achieved a league season without a single defeat in 2003-04?",
+      "options": [
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arsenal went unbeaten throughout the 2003-04 Premier League season, winning 26 and drawing 12 of their 38 matches. They became known as 'The Invincibles.'",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-7",
+      "question": "Who is the all-time top scorer in men's international soccer?",
+      "options": [
+        "Ali Daei",
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Pele"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cristiano Ronaldo holds the record for most goals in men's international soccer, surpassing Ali Daei's previous record of 109 goals. Ronaldo continues to add to his tally for Portugal.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-8",
+      "question": "What is the English Premier League?",
+      "options": [
+        "The top tier of English football",
+        "England's second division",
+        "An international tournament",
+        "A cup competition"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The English Premier League (EPL) is the top tier of English football, consisting of 20 clubs. Founded in 1992, it is the most-watched football league in the world.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-9",
+      "question": "Which goalkeeper is often regarded as the greatest of all time?",
+      "options": [
+        "Gianluigi Buffon",
+        "Lev Yashin",
+        "Peter Schmeichel",
+        "Manuel Neuer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lev Yashin of the Soviet Union is widely considered the greatest goalkeeper of all time. He is the only goalkeeper to have won the Ballon d'Or (1963) and saved over 150 penalty kicks.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-10",
+      "question": "What does 'hat-trick' mean in soccer?",
+      "options": [
+        "Three assists in one game",
+        "Three consecutive wins",
+        "Three yellow cards",
+        "Three goals scored by one player in a single match"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hat-trick in soccer is when a single player scores three goals in one match. The term originated in cricket and has been adopted across many sports.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-11",
+      "question": "Which German player scored a record 5 goals in a single World Cup match in 2002?",
+      "options": [
+        "Oleg Salenko",
+        "Miroslav Klose",
+        "Gerd Muller",
+        "Jurgen Klinsmann"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oleg Salenko of Russia (not Germany) scored 5 goals against Cameroon at the 1994 World Cup, the record for most goals in a single World Cup match.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-12",
+      "question": "What is 'El Clasico'?",
+      "options": [
+        "The World Cup final",
+        "A Portuguese cup competition",
+        "The Italian derby",
+        "The match between Real Madrid and Barcelona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Clasico is the name given to the rivalry match between Real Madrid and FC Barcelona, two of the most successful and popular football clubs in the world.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-13",
+      "question": "Which player was nicknamed 'The Black Pearl' and 'The King of Football' in Portugal?",
+      "options": [
+        "Rui Costa",
+        "Cristiano Ronaldo",
+        "Eusebio",
+        "Luis Figo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eusebio da Silva Ferreira, born in Mozambique, was known as 'The Black Pearl' and is considered the greatest Portuguese footballer before Cristiano Ronaldo. He won the Ballon d'Or in 1965.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-14",
+      "question": "How long is a standard professional soccer match?",
+      "options": [
+        "100 minutes",
+        "120 minutes",
+        "80 minutes",
+        "90 minutes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A standard professional soccer match is 90 minutes, divided into two 45-minute halves. Additional time (stoppage time) is added at the referee's discretion for delays during play.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "soccer-legends-quiz-15",
+      "question": "Which player is known as 'CR7' and has played for Sporting, Manchester United, Real Madrid, Juventus, and Al-Nassr?",
+      "options": [
+        "Cafu",
+        "Cristiano Ronaldo",
+        "Carlos Rui",
+        "Clarence Seedorf"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cristiano Ronaldo, known as 'CR7' for his initials and shirt number, has played for Sporting Lisbon, Manchester United, Real Madrid, Juventus, and Al-Nassr throughout his legendary career.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

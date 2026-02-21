@@ -1,0 +1,173 @@
+{
+  "id": "famous-experiments-quiz",
+  "title": "Famous Experiments Quiz",
+  "description": "From Galileo's falling objects to the double-slit experiment, test your recall of history's most important scientific experiments.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-experiments-quiz-1",
+      "question": "Who reportedly dropped objects from the Leaning Tower of Pisa to test gravity?",
+      "options": [
+        "Aristotle",
+        "Archimedes",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-experiments-quiz-2",
+      "question": "Benjamin Franklin's famous kite experiment demonstrated the nature of what?",
+      "options": [
+        "Static charge",
+        "Lightning as electricity",
+        "Air pressure",
+        "Wind patterns"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-3",
+      "question": "What did the Michelson-Morley experiment of 1887 fail to detect, leading to important physics discoveries?",
+      "options": [
+        "Dark matter",
+        "Luminiferous aether",
+        "Gravitational waves",
+        "Cosmic radiation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-4",
+      "question": "Which experiment demonstrated the wave nature of electrons?",
+      "options": [
+        "Millikan's oil drop experiment",
+        "The photoelectric effect",
+        "Rutherford's gold foil experiment",
+        "The double-slit experiment"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-experiments-quiz-5",
+      "question": "Ernest Rutherford's gold foil experiment led to the discovery of what?",
+      "options": [
+        "The electron",
+        "The atomic nucleus",
+        "The neutron",
+        "Radioactivity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-6",
+      "question": "Louis Pasteur's famous experiment with swan-neck flasks disproved which theory?",
+      "options": [
+        "Spontaneous generation",
+        "Germ theory",
+        "Humoral theory",
+        "Miasma theory"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-experiments-quiz-7",
+      "question": "What did Robert Millikan measure in his oil drop experiment?",
+      "options": [
+        "Gravitational constant",
+        "Charge of an electron",
+        "Speed of light",
+        "Mass of a proton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-8",
+      "question": "The Miller-Urey experiment of 1952 simulated conditions to test the formation of what?",
+      "options": [
+        "Crystals",
+        "Amino acids from early Earth conditions",
+        "Magnetic fields",
+        "Nuclear reactions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-9",
+      "question": "Who conducted the first controlled nuclear chain reaction in 1942?",
+      "options": [
+        "Niels Bohr",
+        "Leo Szilard",
+        "Enrico Fermi",
+        "Robert Oppenheimer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-experiments-quiz-10",
+      "question": "Gregor Mendel's experiments with pea plants established the foundation of what field?",
+      "options": [
+        "Genetics",
+        "Ecology",
+        "Evolution",
+        "Botany"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-experiments-quiz-11",
+      "question": "The Hershey-Chase experiment of 1952 confirmed that genetic information is carried by what?",
+      "options": [
+        "RNA",
+        "Lipids",
+        "DNA",
+        "Proteins"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-experiments-quiz-12",
+      "question": "Isaac Newton's prism experiment demonstrated that white light is composed of what?",
+      "options": [
+        "A single wavelength",
+        "A spectrum of colors",
+        "Two colors",
+        "Invisible rays only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-13",
+      "question": "What did the Hubble Space Telescope's Deep Field observation reveal in 1995?",
+      "options": [
+        "Dark energy",
+        "Thousands of galaxies in a tiny patch of sky",
+        "New planets in our solar system",
+        "The edge of the universe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-experiments-quiz-14",
+      "question": "Edward Jenner's famous experiment in 1796 led to the development of what?",
+      "options": [
+        "Anesthesia",
+        "Antibiotics",
+        "The smallpox vaccine",
+        "X-ray imaging"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-experiments-quiz-15",
+      "question": "The CERN Large Hadron Collider confirmed the existence of which particle in 2012?",
+      "options": [
+        "Graviton",
+        "Higgs boson",
+        "Dark matter particle",
+        "Tachyon"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

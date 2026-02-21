@@ -1,0 +1,173 @@
+{
+  "id": "microbiology-vocabulary",
+  "title": "Microbiology Vocabulary",
+  "description": "Explore the invisible world of microorganisms with terms about bacteria, viruses, fungi, and the microscopic life all around us.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "microbiology-vocabulary-1",
+      "question": "What is a 'pathogen'?",
+      "options": [
+        "A beneficial bacterium",
+        "A microorganism that causes disease",
+        "A type of microscope",
+        "A chemical that kills bacteria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microbiology-vocabulary-2",
+      "question": "What does 'antibiotic' mean?",
+      "options": [
+        "A substance that kills or inhibits the growth of bacteria",
+        "A substance that promotes bacterial growth",
+        "A vaccine ingredient",
+        "A type of virus"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microbiology-vocabulary-3",
+      "question": "What is a 'bacteriophage'?",
+      "options": [
+        "A virus that infects and replicates within bacteria",
+        "A disease caused by bacteria",
+        "A type of fungus",
+        "A bacterial colony"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microbiology-vocabulary-4",
+      "question": "What does 'sterilization' achieve?",
+      "options": [
+        "The complete elimination of all forms of microbial life",
+        "Removing toxins from food",
+        "Slowing bacterial growth",
+        "Reducing the number of bacteria"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microbiology-vocabulary-5",
+      "question": "What is the 'microbiome'?",
+      "options": [
+        "A laboratory for studying microbes",
+        "A sterilization technique",
+        "The community of microorganisms living in a particular environment, such as the human body",
+        "A type of microscope"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "microbiology-vocabulary-6",
+      "question": "What is an 'amoeba'?",
+      "options": [
+        "A parasitic worm",
+        "A single-celled organism that moves by changing shape using pseudopods",
+        "A type of virus",
+        "A type of bacteria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microbiology-vocabulary-7",
+      "question": "What does 'fermentation' involve?",
+      "options": [
+        "Heating food to kill germs",
+        "A metabolic process where microorganisms break down sugars without oxygen",
+        "Freezing bacteria to preserve them",
+        "Filtering water to remove impurities"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microbiology-vocabulary-8",
+      "question": "What is a 'petri dish' used for?",
+      "options": [
+        "Storing chemicals",
+        "Culturing and observing microorganisms in a laboratory",
+        "Viewing cells under a microscope",
+        "Measuring temperature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microbiology-vocabulary-9",
+      "question": "What is 'antibiotic resistance'?",
+      "options": [
+        "The ability of bacteria to survive exposure to antibiotics that would normally kill them",
+        "An allergy to antibiotics",
+        "The side effects of taking antibiotics",
+        "A person's immunity to disease"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microbiology-vocabulary-10",
+      "question": "What does 'anaerobic' mean?",
+      "options": [
+        "Producing oxygen",
+        "Requiring oxygen to survive",
+        "Breathing through gills",
+        "Living or occurring in the absence of oxygen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microbiology-vocabulary-11",
+      "question": "What is 'pasteurization'?",
+      "options": [
+        "A way to freeze-dry food",
+        "A chemical preservative",
+        "A method of growing bacteria",
+        "A heat treatment process that kills harmful microorganisms in food and beverages"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microbiology-vocabulary-12",
+      "question": "What is a 'prion'?",
+      "options": [
+        "A tiny bacterium",
+        "A type of fungal spore",
+        "A misfolded protein that can cause disease by inducing other proteins to misfold",
+        "A beneficial gut microbe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "microbiology-vocabulary-13",
+      "question": "What does 'contagious' mean?",
+      "options": [
+        "Caused by bacteria only",
+        "Treatable with antibiotics",
+        "Capable of being spread from one person or organism to another",
+        "Visible under a microscope"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "microbiology-vocabulary-14",
+      "question": "What is a 'biofilm'?",
+      "options": [
+        "A documentary about microbes",
+        "A thin layer of microorganisms that adheres to a surface",
+        "A type of laboratory slide",
+        "A protective covering for wounds"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microbiology-vocabulary-15",
+      "question": "What is 'gram staining' used for?",
+      "options": [
+        "Weighing bacteria",
+        "A laboratory technique to classify bacteria into two groups based on cell wall structure",
+        "Measuring antibiotic effectiveness",
+        "Coloring microscope lenses"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

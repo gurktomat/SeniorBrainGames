@@ -1,0 +1,219 @@
+{
+  "id": "vintage-fast-food-chains",
+  "title": "Vintage Fast Food Chains",
+  "description": "Test your memory of the fast food restaurants that shaped American dining from the 1940s through the 1980s!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "vintage-fast-food-chains-1",
+      "question": "Which fast food chain, founded in 1940 by brothers Richard and Maurice, originally started as a barbecue restaurant in San Bernardino, California?",
+      "options": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King",
+        "Jack in the Box"
+      ],
+      "correctAnswer": 1,
+      "explanation": "McDonald's was founded by the McDonald brothers in 1940 as a barbecue restaurant before being transformed into a hamburger stand in 1948.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-2",
+      "question": "What was the original name of Burger King when it opened in 1953?",
+      "options": [
+        "Insta-Burger King",
+        "King Burger",
+        "Whopper House",
+        "Flame Burger"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Burger King was originally called Insta-Burger King when it opened in Jacksonville, Florida in 1953. It was renamed Burger King in 1959.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-3",
+      "question": "Which fast food chain introduced the first modern drive-through window in 1975?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Jack in the Box",
+        "Wendy's"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Wendy's is credited with introducing the first modern drive-through window in 1975 at their location in Oklahoma City.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-4",
+      "question": "Howard Johnson's restaurants were famous for offering how many flavors of ice cream?",
+      "options": [
+        "21",
+        "31",
+        "28",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Howard Johnson's was famous for its 28 flavors of ice cream, which helped make it the largest restaurant chain in America during the 1960s.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-5",
+      "question": "Which fast food restaurant chain used the slogan 'Where's the beef?' in a famous 1984 TV commercial?",
+      "options": [
+        "Burger King",
+        "Roy Rogers",
+        "Hardee's",
+        "Wendy's"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Wendy's aired the iconic 'Where's the beef?' commercial in 1984 featuring Clara Peller. The phrase became a national catchphrase.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-6",
+      "question": "What was the name of the mascot for the Big Boy restaurant chain?",
+      "options": [
+        "Little Chef",
+        "Big Boy Bob",
+        "Bob's Big Boy",
+        "Chubby Charlie"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bob's Big Boy featured a chubby boy mascot in checkered overalls holding a large hamburger. The character was created in 1936 by Bob Wian.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-7",
+      "question": "Which fried chicken chain was founded by a 65-year-old Harland Sanders using his $105 Social Security check?",
+      "options": [
+        "Church's Chicken",
+        "Chick-fil-A",
+        "Popeyes",
+        "Kentucky Fried Chicken"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Colonel Harland Sanders used his first Social Security check to help fund his Kentucky Fried Chicken franchise business in 1952, at age 65.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-8",
+      "question": "What was the name of the drive-in restaurant chain famous for carhops on roller skates?",
+      "options": [
+        "Dog n Suds",
+        "Sonic Drive-In",
+        "Steak 'n Shake",
+        "A&W"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sonic Drive-In, founded in 1953 in Shawnee, Oklahoma, became famous for its carhops who delivered food to your car, often on roller skates.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-9",
+      "question": "Which pizza chain was the first to offer home delivery, starting in 1960?",
+      "options": [
+        "Pizza Hut",
+        "Little Caesars",
+        "Papa John's",
+        "Domino's"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Domino's Pizza, founded in 1960, pioneered the pizza delivery model and built their entire brand around fast home delivery.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-10",
+      "question": "What did McDonald's famously sell its hamburgers for when it first opened with its Speedee Service System?",
+      "options": [
+        "5 cents",
+        "10 cents",
+        "15 cents",
+        "25 cents"
+      ],
+      "correctAnswer": 2,
+      "explanation": "McDonald's sold their hamburgers for 15 cents when they launched the Speedee Service System in 1948, offering fast, affordable food.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-11",
+      "question": "Which fast food chain introduced the concept of a 'value meal' combining a burger, fries, and drink in the 1960s?",
+      "options": [
+        "McDonald's",
+        "Wendy's",
+        "Burger King",
+        "Jack in the Box"
+      ],
+      "correctAnswer": 0,
+      "explanation": "McDonald's pioneered the value meal concept in the 1960s, bundling a burger, fries, and drink together at a discounted price.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-12",
+      "question": "What was the name of the root beer stand chain founded in 1919 that became one of America's first franchise restaurants?",
+      "options": [
+        "Mug Root Beer Stand",
+        "Barq's Drive-In",
+        "A&W",
+        "Dog n Suds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A&W Root Beer was founded in 1919 by Roy Allen and Frank Wright. It became one of America's first franchise restaurant chains in 1925.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-13",
+      "question": "Which taco chain was founded by Glen Bell in 1962 in Downey, California?",
+      "options": [
+        "Taco Bell",
+        "Taco Bueno",
+        "Del Taco",
+        "Taco John's"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Taco Bell was founded by Glen Bell in 1962. Bell had previously operated a hot dog stand and several Mexican food restaurants before launching the chain.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-14",
+      "question": "What was the signature item at White Castle, one of America's oldest fast food chains founded in 1921?",
+      "options": [
+        "Chicken sandwiches",
+        "Quarter-pound burgers",
+        "Small square hamburgers called 'sliders'",
+        "Hot dogs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "White Castle, founded in 1921 in Wichita, Kansas, was famous for its small, square hamburgers nicknamed 'sliders' that were steam-grilled on a bed of onions.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "vintage-fast-food-chains-15",
+      "question": "Which restaurant chain was known for its orange-roofed buildings and became the largest food chain in America in the 1960s and early 1970s?",
+      "options": [
+        "Denny's",
+        "Howard Johnson's",
+        "Perkins",
+        "Friendly's"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Howard Johnson's, with its distinctive orange roof and weathervane, was the largest restaurant chain in America during the 1960s with over 1,000 locations.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    }
+  ]
+}

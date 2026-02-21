@@ -1,0 +1,173 @@
+{
+  "id": "rice-dishes-quiz",
+  "title": "Rice Dishes Quiz",
+  "description": "Rice is a staple across the globe — can you identify these famous rice dishes?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "rice-dishes-quiz-1",
+      "question": "Paella is a famous rice dish that originated in which country?",
+      "options": [
+        "Portugal",
+        "Italy",
+        "Mexico",
+        "Spain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-2",
+      "question": "Which Italian rice dish is cooked slowly with broth to achieve a creamy consistency?",
+      "options": [
+        "Arancini",
+        "Polenta",
+        "Orzo",
+        "Risotto"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-3",
+      "question": "Biryani, a fragrant layered rice dish, is a beloved staple of which cuisine?",
+      "options": [
+        "Ethiopian",
+        "Turkish",
+        "Chinese",
+        "Indian"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-4",
+      "question": "Which Japanese rice dish features a bowl of rice topped with various ingredients like fish, meat, or vegetables?",
+      "options": [
+        "Donburi",
+        "Ochazuke",
+        "Onigiri",
+        "Sekihan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rice-dishes-quiz-5",
+      "question": "Jambalaya is a rice dish associated with which regional American cuisine?",
+      "options": [
+        "Cajun/Creole",
+        "Tex-Mex",
+        "Southern Appalachian",
+        "Pacific Northwest"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rice-dishes-quiz-6",
+      "question": "Nasi goreng, a popular fried rice dish, is considered the national dish of which country?",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Philippines",
+        "Thailand"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rice-dishes-quiz-7",
+      "question": "Which Middle Eastern rice dish is flavored with saffron and often served with lamb or chicken?",
+      "options": [
+        "Pilaf",
+        "Tabbouleh",
+        "Falafel",
+        "Couscous"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rice-dishes-quiz-8",
+      "question": "Arroz con pollo, meaning 'rice with chicken,' is a staple dish in which cuisines?",
+      "options": [
+        "Indian and Pakistani",
+        "Italian and Greek",
+        "French and Belgian",
+        "Latin American and Spanish"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-9",
+      "question": "What is the name of the Sicilian street food made of breaded and fried rice balls stuffed with ragù and cheese?",
+      "options": [
+        "Suppli",
+        "Coxinha",
+        "Arancini",
+        "Croquetas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rice-dishes-quiz-10",
+      "question": "Congee is a comforting rice porridge popular in which part of the world?",
+      "options": [
+        "South America",
+        "Eastern Europe",
+        "North Africa",
+        "East and Southeast Asia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-11",
+      "question": "Which West African rice dish, made with tomatoes, peppers, and spices, is often called 'party rice'?",
+      "options": [
+        "Waakye",
+        "Banku",
+        "Jollof rice",
+        "Fufu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rice-dishes-quiz-12",
+      "question": "Sticky rice (glutinous rice) is a staple accompaniment in which Southeast Asian country's cuisine?",
+      "options": [
+        "Philippines",
+        "Vietnam",
+        "Indonesia",
+        "Laos"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rice-dishes-quiz-13",
+      "question": "Kedgeree, a rice dish with smoked fish, eggs, and curry powder, was adapted from Indian cuisine by which country?",
+      "options": [
+        "Netherlands",
+        "Britain",
+        "France",
+        "Portugal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rice-dishes-quiz-14",
+      "question": "Which Korean rice dish features rice topped with vegetables, meat, a fried egg, and gochujang sauce?",
+      "options": [
+        "Bibimbap",
+        "Japchae",
+        "Kimchi fried rice",
+        "Kimbap"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rice-dishes-quiz-15",
+      "question": "What is the key spice that gives traditional paella its distinctive yellow color?",
+      "options": [
+        "Curry powder",
+        "Saffron",
+        "Paprika",
+        "Turmeric"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

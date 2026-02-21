@@ -1,0 +1,173 @@
+{
+  "id": "space-race-quiz",
+  "title": "Space Race Quiz",
+  "description": "From Sputnik to the Space Shuttle, relive the thrilling competition to conquer the final frontier.",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "space-race-quiz-1",
+      "question": "What year did the Soviet Union launch Sputnik, the first artificial satellite?",
+      "options": [
+        "1955",
+        "1956",
+        "1957",
+        "1958"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-race-quiz-2",
+      "question": "What was the name of the dog the Soviets sent into space aboard Sputnik 2?",
+      "options": [
+        "Zvezdochka",
+        "Belka",
+        "Strelka",
+        "Laika"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-race-quiz-3",
+      "question": "Who was the first human in space?",
+      "options": [
+        "Alan Shepard",
+        "Valentina Tereshkova",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-race-quiz-4",
+      "question": "Who was the first American in space?",
+      "options": [
+        "Gus Grissom",
+        "John Glenn",
+        "Scott Carpenter",
+        "Alan Shepard"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-race-quiz-5",
+      "question": "What was the name of NASA's first manned space program?",
+      "options": [
+        "Gemini",
+        "Mercury",
+        "Apollo",
+        "Skylab"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-race-quiz-6",
+      "question": "What was the first woman in space, a Soviet cosmonaut, named?",
+      "options": [
+        "Sally Ride",
+        "Valentina Tereshkova",
+        "Svetlana Savitskaya",
+        "Kathryn Sullivan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-race-quiz-7",
+      "question": "What NASA program bridged the gap between Mercury and Apollo?",
+      "options": [
+        "Gemini",
+        "Pioneer",
+        "Vanguard",
+        "Skylab"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "space-race-quiz-8",
+      "question": "Which Apollo mission suffered a tragic launchpad fire in 1967 that killed three astronauts?",
+      "options": [
+        "Apollo 8",
+        "Apollo 11",
+        "Apollo 1",
+        "Apollo 7"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "space-race-quiz-9",
+      "question": "Who were the three astronauts killed in the Apollo 1 fire?",
+      "options": [
+        "Grissom, White, Chaffee",
+        "Shepard, Glenn, Carpenter",
+        "Schirra, Cooper, Slayton",
+        "Armstrong, Aldrin, Collins"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "space-race-quiz-10",
+      "question": "What was America's first space station called?",
+      "options": [
+        "Salyut",
+        "Freedom",
+        "Mir",
+        "Skylab"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-race-quiz-11",
+      "question": "What was the joint U.S.-Soviet space mission in 1975?",
+      "options": [
+        "Mercury-Vostok Project",
+        "Apollo-Soyuz Test Project",
+        "Skylab-Salyut Mission",
+        "Gemini-Soyuz Docking"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-race-quiz-12",
+      "question": "Who was the first American woman in space?",
+      "options": [
+        "Judith Resnik",
+        "Sally Ride",
+        "Kathryn Sullivan",
+        "Mae Jemison"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "space-race-quiz-13",
+      "question": "What was the name of the first reusable spacecraft, launched in 1981?",
+      "options": [
+        "The Space Shuttle Discovery",
+        "The Space Shuttle Enterprise",
+        "The Space Shuttle Challenger",
+        "The Space Shuttle Columbia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "space-race-quiz-14",
+      "question": "What phrase did Alan Shepard supposedly say before his first spaceflight in 1961?",
+      "options": [
+        "'Light this candle'",
+        "'Let's get this show on the road'",
+        "'Here we go'",
+        "'Ready for liftoff'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "space-race-quiz-15",
+      "question": "What did President Kennedy tell Congress in May 1961 about space exploration?",
+      "options": [
+        "To build a space station",
+        "To land a man on the Moon before the decade was out",
+        "To match the Soviet Union's achievements",
+        "To send a probe to Mars"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

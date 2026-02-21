@@ -1,0 +1,173 @@
+{
+  "id": "chemical-compounds-quiz",
+  "title": "Chemical Compounds Quiz",
+  "description": "Can you recall the formulas and names of common chemical compounds? Test your chemistry knowledge!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "chemical-compounds-quiz-1",
+      "question": "What is the chemical formula for water?",
+      "options": [
+        "OH2",
+        "H2O",
+        "H2O2",
+        "HO"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-2",
+      "question": "What is the common name for sodium chloride?",
+      "options": [
+        "Sugar",
+        "Chalk",
+        "Baking soda",
+        "Table salt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemical-compounds-quiz-3",
+      "question": "What is the chemical formula for carbon dioxide?",
+      "options": [
+        "CO",
+        "C2O",
+        "CO2",
+        "CO3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "chemical-compounds-quiz-4",
+      "question": "Which compound has the formula NaHCO3 and is commonly used in baking?",
+      "options": [
+        "Baking powder",
+        "Baking soda",
+        "Cream of tartar",
+        "Table salt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-5",
+      "question": "What is the chemical formula for methane, the main component of natural gas?",
+      "options": [
+        "CO2",
+        "C2H6",
+        "C3H8",
+        "CH4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemical-compounds-quiz-6",
+      "question": "Hydrogen peroxide has the chemical formula:",
+      "options": [
+        "H2O2",
+        "HO2",
+        "H2O",
+        "H3O"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemical-compounds-quiz-7",
+      "question": "What compound is commonly known as 'laughing gas'?",
+      "options": [
+        "Nitrous oxide",
+        "Nitrogen dioxide",
+        "Sulfur dioxide",
+        "Carbon monoxide"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemical-compounds-quiz-8",
+      "question": "What is the chemical formula for glucose?",
+      "options": [
+        "CH2O",
+        "C6H12O6",
+        "C2H5OH",
+        "C12H22O11"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-9",
+      "question": "Which compound with formula CaCO3 is found in limestone and chalk?",
+      "options": [
+        "Calcium sulfate",
+        "Calcium carbonate",
+        "Calcium oxide",
+        "Calcium chloride"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-10",
+      "question": "What is the chemical formula for ammonia?",
+      "options": [
+        "NO3",
+        "NH4",
+        "N2H4",
+        "NH3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemical-compounds-quiz-11",
+      "question": "Acetic acid, the main component of vinegar, has the formula:",
+      "options": [
+        "CH3COOH",
+        "HCl",
+        "H2SO4",
+        "C6H8O7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "chemical-compounds-quiz-12",
+      "question": "What is the common name for the compound with formula C2H5OH?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Butanol",
+        "Propanol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-13",
+      "question": "Which compound is known as 'dry ice'?",
+      "options": [
+        "Solid nitrogen",
+        "Solid carbon dioxide",
+        "Frozen water",
+        "Solid oxygen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "chemical-compounds-quiz-14",
+      "question": "What is the chemical formula for sulfuric acid?",
+      "options": [
+        "H2SO3",
+        "H2S",
+        "HSO4",
+        "H2SO4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "chemical-compounds-quiz-15",
+      "question": "Which common compound has the formula C12H22O11?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Starch",
+        "Sucrose (table sugar)"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

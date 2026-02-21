@@ -7,91 +7,166 @@
     {
       "id": "world-archipelagos-1",
       "question": "Which archipelago, consisting of over 17,000 islands, is the world's largest by number of islands?",
-      "options": ["Philippines", "Indonesia", "Japan", "Maldives"],
-      "correctAnswer": 1
+      "options": [
+        "Philippines",
+        "Maldives",
+        "Indonesia",
+        "Japan"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-archipelagos-2",
       "question": "The Galápagos Islands, which inspired Darwin's theory of evolution, belong to which country?",
-      "options": ["Peru", "Colombia", "Ecuador", "Chile"],
-      "correctAnswer": 2
+      "options": [
+        "Colombia",
+        "Peru",
+        "Chile",
+        "Ecuador"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-archipelagos-3",
       "question": "The Hawaiian archipelago is the most geographically isolated major island chain on Earth. How many main islands does it have?",
-      "options": ["5", "6", "8", "10"],
-      "correctAnswer": 2
+      "options": [
+        "5",
+        "10",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-archipelagos-4",
       "question": "The Canary Islands, a popular tourist destination off the coast of Africa, are governed by which European country?",
-      "options": ["Portugal", "France", "Italy", "Spain"],
-      "correctAnswer": 3
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-archipelagos-5",
       "question": "Which Scandinavian archipelago, known for its distinctive red wooden houses, lies between Sweden and Finland?",
-      "options": ["Lofoten Islands", "Faroe Islands", "Åland Islands", "Svalbard"],
-      "correctAnswer": 2
+      "options": [
+        "Åland Islands",
+        "Lofoten Islands",
+        "Faroe Islands",
+        "Svalbard"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-archipelagos-6",
       "question": "The Maldives, the lowest-lying country in the world, is an archipelago in which ocean?",
-      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
-      "correctAnswer": 2
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-archipelagos-7",
       "question": "Which Greek archipelago in the Aegean Sea includes islands like Mykonos, Santorini, and Naxos?",
-      "options": ["Dodecanese", "Ionian Islands", "Cyclades", "Sporades"],
-      "correctAnswer": 2
+      "options": [
+        "Dodecanese",
+        "Cyclades",
+        "Sporades",
+        "Ionian Islands"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-archipelagos-8",
       "question": "The Florida Keys are an archipelago stretching about 120 miles from the southern tip of Florida. What is the southernmost island?",
-      "options": ["Marathon Key", "Big Pine Key", "Key Largo", "Key West"],
-      "correctAnswer": 3
+      "options": [
+        "Marathon Key",
+        "Key Largo",
+        "Key West",
+        "Big Pine Key"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-archipelagos-9",
       "question": "The Svalbard archipelago, home to more polar bears than people, is governed by which country?",
-      "options": ["Denmark", "Russia", "Norway", "Canada"],
+      "options": [
+        "Russia",
+        "Canada",
+        "Norway",
+        "Denmark"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-archipelagos-10",
       "question": "Which Caribbean archipelago includes islands such as Nassau, Grand Bahama, and the Exumas?",
-      "options": ["Turks and Caicos", "The Bahamas", "British Virgin Islands", "Cayman Islands"],
+      "options": [
+        "British Virgin Islands",
+        "The Bahamas",
+        "Cayman Islands",
+        "Turks and Caicos"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-archipelagos-11",
       "question": "The Thousand Islands archipelago, popular with tourists, straddles the border between the U.S. and which country?",
-      "options": ["Mexico", "Canada", "Cuba", "Bermuda"],
+      "options": [
+        "Bermuda",
+        "Canada",
+        "Mexico",
+        "Cuba"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-archipelagos-12",
       "question": "The Azores, a mid-Atlantic archipelago known for whale watching, belong to which country?",
-      "options": ["Spain", "United Kingdom", "France", "Portugal"],
+      "options": [
+        "United Kingdom",
+        "Spain",
+        "France",
+        "Portugal"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "world-archipelagos-13",
       "question": "Japan's archipelago consists of four main islands. Which is the largest?",
-      "options": ["Kyushu", "Shikoku", "Hokkaido", "Honshu"],
-      "correctAnswer": 3
+      "options": [
+        "Hokkaido",
+        "Honshu",
+        "Shikoku",
+        "Kyushu"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-archipelagos-14",
       "question": "The Seychelles, an archipelago of 115 islands, is located off the east coast of which continent?",
-      "options": ["Asia", "South America", "Africa", "Australia"],
-      "correctAnswer": 2
+      "options": [
+        "South America",
+        "Asia",
+        "Australia",
+        "Africa"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-archipelagos-15",
       "question": "Which Scottish archipelago, known for Neolithic sites like Skara Brae, lies north of the Scottish mainland?",
-      "options": ["Hebrides", "Shetland Islands", "Orkney Islands", "Isle of Skye"],
+      "options": [
+        "Shetland Islands",
+        "Hebrides",
+        "Orkney Islands",
+        "Isle of Skye"
+      ],
       "correctAnswer": 2
     }
   ]

@@ -1,0 +1,173 @@
+{
+  "id": "sentence-types-quiz",
+  "title": "Sentence Types Quiz",
+  "description": "Simple, compound, complex, or compound-complex? Identify the four main sentence types in English.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "sentence-types-quiz-1",
+      "question": "What type of sentence is 'The cat sat on the mat'?",
+      "options": [
+        "Compound",
+        "Simple",
+        "Complex",
+        "Compound-complex"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sentence-types-quiz-2",
+      "question": "What type of sentence is 'I went to the store, and she stayed home'?",
+      "options": [
+        "Simple",
+        "Compound",
+        "Complex",
+        "Compound-complex"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sentence-types-quiz-3",
+      "question": "What type of sentence is 'Although it rained, we went for a walk'?",
+      "options": [
+        "Compound",
+        "Compound-complex",
+        "Complex",
+        "Simple"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-types-quiz-4",
+      "question": "A compound sentence contains ___.",
+      "options": [
+        "Two or more independent clauses joined by a conjunction",
+        "One independent and one dependent clause",
+        "One independent clause",
+        "No clauses"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-types-quiz-5",
+      "question": "A complex sentence contains ___.",
+      "options": [
+        "Two independent clauses",
+        "No conjunctions",
+        "Only dependent clauses",
+        "One independent clause and at least one dependent clause"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-types-quiz-6",
+      "question": "Which is a compound-complex sentence?",
+      "options": [
+        "Although she was tired, she laughed.",
+        "She laughed, and he smiled.",
+        "Although she was tired, she laughed, and he smiled.",
+        "She laughed."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sentence-types-quiz-7",
+      "question": "Which is a declarative sentence?",
+      "options": [
+        "The sky is blue.",
+        "Close the door!",
+        "Is it raining?",
+        "What a beautiful day!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-types-quiz-8",
+      "question": "Which is an interrogative sentence?",
+      "options": [
+        "What an early departure!",
+        "Did she leave early?",
+        "Leave early!",
+        "She left early."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sentence-types-quiz-9",
+      "question": "Which is an imperative sentence?",
+      "options": [
+        "The door is open.",
+        "Is the door open?",
+        "What an open door!",
+        "Please close the door."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-types-quiz-10",
+      "question": "Which is an exclamatory sentence?",
+      "options": [
+        "What an amazing race!",
+        "Did she win?",
+        "Win the race!",
+        "She won the race."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-types-quiz-11",
+      "question": "What makes a clause 'dependent'?",
+      "options": [
+        "It has no subject",
+        "It has no verb",
+        "It is very short",
+        "It has a subject and verb but cannot stand alone as a sentence"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-types-quiz-12",
+      "question": "Which word typically begins a dependent clause?",
+      "options": [
+        "So",
+        "And",
+        "But",
+        "Because"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sentence-types-quiz-13",
+      "question": "Identify the sentence type: 'When the bell rang, students rushed out, and the teachers sighed.'",
+      "options": [
+        "Compound-complex",
+        "Complex",
+        "Simple",
+        "Compound"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-types-quiz-14",
+      "question": "Which coordinating conjunctions join independent clauses in compound sentences?",
+      "options": [
+        "For, and, nor, but, or, yet, so (FANBOYS)",
+        "However, therefore, moreover",
+        "Who, which, that",
+        "Because, although, when"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sentence-types-quiz-15",
+      "question": "Identify the sentence type: 'She reads books and writes poems.'",
+      "options": [
+        "Complex",
+        "Compound-complex",
+        "Compound",
+        "Simple (compound predicate)"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

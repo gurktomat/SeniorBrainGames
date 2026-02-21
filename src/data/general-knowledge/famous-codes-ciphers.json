@@ -8,7 +8,12 @@
     {
       "id": "famous-codes-ciphers-1",
       "question": "What was the name of the German encryption machine that the Allies famously cracked during World War II?",
-      "options": ["SIGABA", "Enigma", "Lorenz", "Purple"],
+      "options": [
+        "SIGABA",
+        "Enigma",
+        "Purple",
+        "Lorenz"
+      ],
       "correctAnswer": 1,
       "explanation": "The Enigma machine was used by Nazi Germany to encrypt military communications. Breaking the Enigma code at Bletchley Park is estimated to have shortened the war by at least two years.",
       "difficulty": "easy",
@@ -17,7 +22,12 @@
     {
       "id": "famous-codes-ciphers-2",
       "question": "Which British mathematician is credited as the lead figure in cracking the Enigma code?",
-      "options": ["Isaac Newton", "Charles Babbage", "Alan Turing", "Stephen Hawking"],
+      "options": [
+        "Isaac Newton",
+        "Charles Babbage",
+        "Alan Turing",
+        "Stephen Hawking"
+      ],
       "correctAnswer": 2,
       "explanation": "Alan Turing led the team at Bletchley Park that cracked the Enigma code. He designed the Bombe machine that could rapidly test possible Enigma settings, and is considered the father of computer science.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "famous-codes-ciphers-3",
       "question": "The Caesar cipher, one of the oldest known encryption methods, was used by which historical figure?",
-      "options": ["Alexander the Great", "Julius Caesar", "Augustus Caesar", "Nero"],
-      "correctAnswer": 1,
+      "options": [
+        "Augustus Caesar",
+        "Alexander the Great",
+        "Julius Caesar",
+        "Nero"
+      ],
+      "correctAnswer": 2,
       "explanation": "Julius Caesar used a simple substitution cipher where each letter was shifted by a fixed number of positions in the alphabet. He typically used a shift of three, so A became D, B became E, and so on.",
       "difficulty": "easy",
       "category": "history"
@@ -35,7 +50,12 @@
     {
       "id": "famous-codes-ciphers-4",
       "question": "What is the Rosetta Stone, discovered in Egypt in 1799?",
-      "options": ["A treasure map", "A stone inscribed with the same text in three scripts", "An ancient computer", "A mathematical puzzle"],
+      "options": [
+        "A mathematical puzzle",
+        "A stone inscribed with the same text in three scripts",
+        "An ancient computer",
+        "A treasure map"
+      ],
       "correctAnswer": 1,
       "explanation": "The Rosetta Stone bears the same decree written in three scripts: Ancient Egyptian hieroglyphs, Demotic script, and Ancient Greek. It was the key to deciphering Egyptian hieroglyphs, primarily by Jean-François Champollion in 1822.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "famous-codes-ciphers-5",
       "question": "What language did the U.S. Marines use as an unbreakable code during World War II in the Pacific?",
-      "options": ["Cherokee", "Navajo", "Apache", "Choctaw"],
-      "correctAnswer": 1,
+      "options": [
+        "Navajo",
+        "Apache",
+        "Choctaw",
+        "Cherokee"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Navajo Code Talkers used their native language to transmit secret military messages. The Navajo language had no written form and was so complex that the Japanese were never able to crack it.",
       "difficulty": "medium",
       "category": "history"
@@ -53,8 +78,13 @@
     {
       "id": "famous-codes-ciphers-6",
       "question": "What is the Voynich Manuscript?",
-      "options": ["A decoded medieval spy document", "A mysterious undeciphered illustrated book from the 15th century", "Leonardo da Vinci's secret notebook", "An ancient Greek mathematical text"],
-      "correctAnswer": 1,
+      "options": [
+        "A decoded medieval spy document",
+        "An ancient Greek mathematical text",
+        "A mysterious undeciphered illustrated book from the 15th century",
+        "Leonardo da Vinci's secret notebook"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Voynich Manuscript is a mysterious illustrated book written in an unknown writing system and language, dated to the early 15th century. Despite intense study by cryptographers, it has never been deciphered.",
       "difficulty": "medium",
       "category": "history"
@@ -62,8 +92,13 @@
     {
       "id": "famous-codes-ciphers-7",
       "question": "What was Morse code originally developed for?",
-      "options": ["Military communication", "Telegraph communication", "Naval flag signals", "Lighthouse signals"],
-      "correctAnswer": 1,
+      "options": [
+        "Naval flag signals",
+        "Lighthouse signals",
+        "Military communication",
+        "Telegraph communication"
+      ],
+      "correctAnswer": 3,
       "explanation": "Morse code was developed by Samuel Morse and Alfred Vail in the 1830s for use with the electric telegraph. It encodes letters and numbers as sequences of dots and dashes (short and long signals).",
       "difficulty": "easy",
       "category": "history"
@@ -71,8 +106,13 @@
     {
       "id": "famous-codes-ciphers-8",
       "question": "Which ancient Greek device is considered one of the earliest known forms of military cryptography?",
-      "options": ["The Antikythera mechanism", "The scytale", "The abacus", "The astrolabe"],
-      "correctAnswer": 1,
+      "options": [
+        "The scytale",
+        "The astrolabe",
+        "The abacus",
+        "The Antikythera mechanism"
+      ],
+      "correctAnswer": 0,
       "explanation": "The scytale was used by the ancient Spartans for military communication. A strip of leather was wrapped around a wooden rod of specific diameter, and the message was written across the wound leather. Only someone with a rod of the same size could read it.",
       "difficulty": "hard",
       "category": "history"
@@ -80,8 +120,13 @@
     {
       "id": "famous-codes-ciphers-9",
       "question": "What famous unsolved cipher has been sent by a serial killer to newspapers in the San Francisco area in the late 1960s?",
-      "options": ["The Beale ciphers", "The Zodiac ciphers", "The Dorabella cipher", "The Kryptos code"],
-      "correctAnswer": 1,
+      "options": [
+        "The Kryptos code",
+        "The Beale ciphers",
+        "The Dorabella cipher",
+        "The Zodiac ciphers"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Zodiac Killer sent four encrypted messages to San Francisco Bay Area newspapers in 1969-1970. The first was cracked within a week, but the Z-340 cipher wasn't solved until 2020, over 50 years later.",
       "difficulty": "medium",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "famous-codes-ciphers-10",
       "question": "What is steganography?",
-      "options": ["The study of ancient writing", "Hiding a message within another message or image", "Breaking complex codes", "Writing in mirror image"],
-      "correctAnswer": 1,
+      "options": [
+        "Hiding a message within another message or image",
+        "The study of ancient writing",
+        "Writing in mirror image",
+        "Breaking complex codes"
+      ],
+      "correctAnswer": 0,
       "explanation": "Steganography is the practice of hiding secret information within something that appears ordinary, such as invisible ink on a letter, or hidden data within a digital image. Unlike encryption, the goal is to hide the existence of the message itself.",
       "difficulty": "medium",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "famous-codes-ciphers-11",
       "question": "Which secret CIA sculpture at their headquarters in Langley, Virginia, contains a still partially unsolved code?",
-      "options": ["The Agency Seal", "Kryptos", "The Book of Secrets", "Langley Stone"],
-      "correctAnswer": 1,
+      "options": [
+        "The Agency Seal",
+        "Langley Stone",
+        "Kryptos",
+        "The Book of Secrets"
+      ],
+      "correctAnswer": 2,
       "explanation": "Kryptos is a sculpture by artist Jim Sanborn installed at CIA headquarters in 1990. It contains four encrypted messages. Three have been solved, but the fourth section (K4) remains one of the most famous unsolved codes.",
       "difficulty": "hard",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "famous-codes-ciphers-12",
       "question": "What was 'ULTRA,' the top-secret designation used during World War II?",
-      "options": ["A type of submarine", "Intelligence from decrypted enemy communications", "A special forces unit", "A new type of radar"],
-      "correctAnswer": 1,
+      "options": [
+        "A type of submarine",
+        "A new type of radar",
+        "Intelligence from decrypted enemy communications",
+        "A special forces unit"
+      ],
+      "correctAnswer": 2,
       "explanation": "ULTRA was the designation for intelligence obtained by breaking encrypted enemy communications, primarily the German Enigma and Lorenz ciphers. It was one of the most closely guarded secrets of the war.",
       "difficulty": "medium",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "famous-codes-ciphers-13",
       "question": "What does the term 'plaintext' mean in cryptography?",
-      "options": ["A simple font style", "The original unencrypted message", "A type of cipher", "Text written in plain language"],
-      "correctAnswer": 1,
+      "options": [
+        "The original unencrypted message",
+        "A simple font style",
+        "Text written in plain language",
+        "A type of cipher"
+      ],
+      "correctAnswer": 0,
       "explanation": "In cryptography, plaintext refers to the original readable message before encryption. Once encrypted, it becomes 'ciphertext.' The process of converting ciphertext back to plaintext is called decryption.",
       "difficulty": "easy",
       "category": "history"
@@ -125,8 +190,13 @@
     {
       "id": "famous-codes-ciphers-14",
       "question": "Which famous code-breaking facility was located at a country estate in Buckinghamshire, England?",
-      "options": ["MI5 headquarters", "Bletchley Park", "Chartwell Manor", "Station X at Blenheim"],
-      "correctAnswer": 1,
+      "options": [
+        "Chartwell Manor",
+        "Station X at Blenheim",
+        "MI5 headquarters",
+        "Bletchley Park"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bletchley Park was the central site for British codebreaking during World War II. At its peak, about 10,000 people worked there, including mathematicians, linguists, and chess champions, breaking Axis codes.",
       "difficulty": "medium",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "famous-codes-ciphers-15",
       "question": "Mary, Queen of Scots, was convicted of treason partly based on encrypted letters she wrote. What was her cipher's weakness?",
-      "options": ["She used the same key for all messages", "Her cipher was a simple substitution easily cracked by frequency analysis", "She accidentally sent the key with a message", "Her scribe was a double agent"],
-      "correctAnswer": 1,
+      "options": [
+        "Her cipher was a simple substitution easily cracked by frequency analysis",
+        "Her scribe was a double agent",
+        "She used the same key for all messages",
+        "She accidentally sent the key with a message"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mary used a nomenclator cipher (substitution with some code words), but it was cracked by Elizabeth I's spymaster Sir Francis Walsingham's codebreaker. Frequency analysis of the simple substitution elements revealed her treasonous correspondence.",
       "difficulty": "hard",
       "category": "history"

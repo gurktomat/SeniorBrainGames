@@ -8,8 +8,13 @@
     {
       "id": "fl-1",
       "question": "Which company's logo features a simple bitten apple silhouette?",
-      "options": ["Microsoft", "Apple", "Samsung", "Google"],
-      "correctAnswer": 1,
+      "options": [
+        "Google",
+        "Samsung",
+        "Microsoft",
+        "Apple"
+      ],
+      "correctAnswer": 3,
       "explanation": "Apple's iconic logo is a simple apple silhouette with a bite taken out of it. The 'bite' was reportedly included so the apple wouldn't be confused with a cherry.",
       "difficulty": "easy",
       "category": "recall"
@@ -17,7 +22,12 @@
     {
       "id": "fl-2",
       "question": "Which fast-food chain is known for its golden arches logo?",
-      "options": ["Burger King", "Wendy's", "McDonald's", "Arby's"],
+      "options": [
+        "Burger King",
+        "Wendy's",
+        "McDonald's",
+        "Arby's"
+      ],
       "correctAnswer": 2,
       "explanation": "McDonald's golden arches, forming the letter 'M,' are one of the most recognized logos in the world. The arches were inspired by the original restaurant's architecture.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "fl-3",
       "question": "Which athletic brand uses a simple curved checkmark (swoosh) as its logo?",
-      "options": ["Adidas", "Puma", "Reebok", "Nike"],
-      "correctAnswer": 3,
+      "options": [
+        "Adidas",
+        "Nike",
+        "Reebok",
+        "Puma"
+      ],
+      "correctAnswer": 1,
       "explanation": "Nike's 'Swoosh' logo was designed by graphic design student Carolyn Davidson in 1971 for just $35. It represents the wing of the Greek goddess Nike.",
       "difficulty": "easy",
       "category": "recall"
@@ -35,8 +50,13 @@
     {
       "id": "fl-4",
       "question": "Which car manufacturer has a logo featuring four interlocking rings?",
-      "options": ["BMW", "Mercedes-Benz", "Audi", "Volkswagen"],
-      "correctAnswer": 2,
+      "options": [
+        "BMW",
+        "Mercedes-Benz",
+        "Volkswagen",
+        "Audi"
+      ],
+      "correctAnswer": 3,
       "explanation": "Audi's logo of four interlocking rings represents the merger of four car companies — Audi, DKW, Horch, and Wanderer — into the Auto Union in 1932.",
       "difficulty": "easy",
       "category": "recall"
@@ -44,8 +64,13 @@
     {
       "id": "fl-5",
       "question": "Which company uses a logo of a mermaid (siren) in a green circle?",
-      "options": ["Starbucks", "Dunkin'", "Peet's Coffee", "Tim Hortons"],
-      "correctAnswer": 0,
+      "options": [
+        "Peet's Coffee",
+        "Starbucks",
+        "Tim Hortons",
+        "Dunkin'"
+      ],
+      "correctAnswer": 1,
       "explanation": "Starbucks uses a twin-tailed mermaid (siren) as its logo. The image was inspired by a 16th-century Norse woodcut found by the company's co-founders.",
       "difficulty": "easy",
       "category": "recall"
@@ -53,7 +78,12 @@
     {
       "id": "fl-6",
       "question": "Which car brand has a logo featuring a prancing horse on a yellow background?",
-      "options": ["Porsche", "Lamborghini", "Ferrari", "Maserati"],
+      "options": [
+        "Maserati",
+        "Lamborghini",
+        "Ferrari",
+        "Porsche"
+      ],
       "correctAnswer": 2,
       "explanation": "Ferrari's prancing horse (Cavallino Rampante) was originally the emblem of Italian WWI pilot Francesco Baracca. Enzo Ferrari adopted it in 1929.",
       "difficulty": "medium",
@@ -62,8 +92,13 @@
     {
       "id": "fl-7",
       "question": "Which technology company is known for its multicolored 'window' logo divided into four panes?",
-      "options": ["Google", "IBM", "Microsoft", "Intel"],
-      "correctAnswer": 2,
+      "options": [
+        "Google",
+        "IBM",
+        "Intel",
+        "Microsoft"
+      ],
+      "correctAnswer": 3,
       "explanation": "Microsoft's logo features four colored squares (blue, orange, green, and yellow) arranged as a window, representing its flagship Windows operating system.",
       "difficulty": "medium",
       "category": "recall"
@@ -71,8 +106,13 @@
     {
       "id": "fl-8",
       "question": "Which luxury fashion brand uses interlocking 'C' letters as its logo?",
-      "options": ["Calvin Klein", "Cartier", "Chanel", "Coach"],
-      "correctAnswer": 2,
+      "options": [
+        "Cartier",
+        "Calvin Klein",
+        "Coach",
+        "Chanel"
+      ],
+      "correctAnswer": 3,
       "explanation": "Chanel's interlocking CC logo was designed by Coco Chanel herself in 1925. The two C's face in opposite directions and overlap, representing her initials.",
       "difficulty": "medium",
       "category": "recall"
@@ -80,8 +120,13 @@
     {
       "id": "fl-9",
       "question": "Which delivery company uses an arrow hidden between the 'E' and 'x' in its logo?",
-      "options": ["UPS", "DHL", "FedEx", "USPS"],
-      "correctAnswer": 2,
+      "options": [
+        "UPS",
+        "FedEx",
+        "DHL",
+        "USPS"
+      ],
+      "correctAnswer": 1,
       "explanation": "The FedEx logo contains a hidden arrow between the letters 'E' and 'x,' symbolizing speed and precision. It is considered one of the cleverest logos ever designed.",
       "difficulty": "medium",
       "category": "recall"
@@ -89,8 +134,13 @@
     {
       "id": "fl-10",
       "question": "Which car manufacturer's logo features a three-pointed star inside a circle?",
-      "options": ["BMW", "Mercedes-Benz", "Audi", "Lexus"],
-      "correctAnswer": 1,
+      "options": [
+        "Lexus",
+        "Audi",
+        "Mercedes-Benz",
+        "BMW"
+      ],
+      "correctAnswer": 2,
       "explanation": "Mercedes-Benz's three-pointed star represents the company's ambition to dominate land, sea, and air transportation. It was first used in 1909.",
       "difficulty": "medium",
       "category": "recall"
@@ -98,8 +148,13 @@
     {
       "id": "fl-11",
       "question": "Which brand features a logo of three stripes, originally representing a mountain?",
-      "options": ["Nike", "Puma", "New Balance", "Adidas"],
-      "correctAnswer": 3,
+      "options": [
+        "Adidas",
+        "Nike",
+        "Puma",
+        "New Balance"
+      ],
+      "correctAnswer": 0,
       "explanation": "Adidas's three-stripe logo was redesigned in 1991 to form a mountain shape, symbolizing the challenges athletes face. The original three stripes date back to 1949.",
       "difficulty": "hard",
       "category": "recall"
@@ -107,8 +162,13 @@
     {
       "id": "fl-12",
       "question": "Which company's logo features a smiling arrow going from A to Z?",
-      "options": ["eBay", "Amazon", "Alibaba", "Walmart"],
-      "correctAnswer": 1,
+      "options": [
+        "Amazon",
+        "Alibaba",
+        "eBay",
+        "Walmart"
+      ],
+      "correctAnswer": 0,
       "explanation": "Amazon's logo features an orange arrow pointing from the letter 'A' to 'Z,' indicating they sell everything from A to Z. The arrow also forms a smile.",
       "difficulty": "hard",
       "category": "recall"
@@ -116,7 +176,12 @@
     {
       "id": "fl-13",
       "question": "Which Italian car brand uses a logo featuring a trident?",
-      "options": ["Alfa Romeo", "Ferrari", "Maserati", "Fiat"],
+      "options": [
+        "Ferrari",
+        "Fiat",
+        "Maserati",
+        "Alfa Romeo"
+      ],
       "correctAnswer": 2,
       "explanation": "Maserati's trident logo was inspired by the Fountain of Neptune in Bologna, Italy, where the company was founded in 1914.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "fl-14",
       "question": "Which electronics company is known for its logo that resembles a musical note or quarter note?",
-      "options": ["Beats by Dre", "Bose", "JBL", "Sennheiser"],
+      "options": [
+        "Beats by Dre",
+        "JBL",
+        "Bose",
+        "Sennheiser"
+      ],
       "correctAnswer": 0,
       "explanation": "Beats by Dre has a lowercase 'b' enclosed in a circle that resembles a person wearing headphones or a musical note, reinforcing its audio brand identity.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "fl-15",
       "question": "Which brand's logo features a crown and has been associated with watchmaking since 1905?",
-      "options": ["Omega", "Rolex", "Tag Heuer", "Patek Philippe"],
-      "correctAnswer": 1,
+      "options": [
+        "Patek Philippe",
+        "Tag Heuer",
+        "Omega",
+        "Rolex"
+      ],
+      "correctAnswer": 3,
       "explanation": "Rolex's five-pointed crown logo has been a symbol of prestige in watchmaking since the company was founded by Hans Wilsdorf in 1905 in London.",
       "difficulty": "hard",
       "category": "recall"

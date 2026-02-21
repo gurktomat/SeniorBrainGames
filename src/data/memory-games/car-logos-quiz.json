@@ -7,92 +7,167 @@
     {
       "id": "car-logos-quiz-1",
       "question": "Which car manufacturer features a prancing horse on its logo?",
-      "options": ["Lamborghini", "Ferrari", "Porsche", "Mustang"],
-      "correctAnswer": 1
+      "options": [
+        "Lamborghini",
+        "Porsche",
+        "Mustang",
+        "Ferrari"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "car-logos-quiz-2",
       "question": "Which car brand's logo consists of four interlocking rings?",
-      "options": ["BMW", "Mercedes-Benz", "Audi", "Volkswagen"],
-      "correctAnswer": 2
+      "options": [
+        "Mercedes-Benz",
+        "BMW",
+        "Volkswagen",
+        "Audi"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "car-logos-quiz-3",
       "question": "The three-pointed star logo represents which luxury car brand?",
-      "options": ["Lexus", "Mercedes-Benz", "Lincoln", "Cadillac"],
-      "correctAnswer": 1
+      "options": [
+        "Cadillac",
+        "Lincoln",
+        "Lexus",
+        "Mercedes-Benz"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "car-logos-quiz-4",
       "question": "Which Italian sports car maker features a charging bull on its emblem?",
-      "options": ["Ferrari", "Maserati", "Alfa Romeo", "Lamborghini"],
-      "correctAnswer": 3
+      "options": [
+        "Ferrari",
+        "Maserati",
+        "Lamborghini",
+        "Alfa Romeo"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "car-logos-quiz-5",
       "question": "The blue and white roundel logo, said to represent a spinning propeller, belongs to which brand?",
-      "options": ["Volkswagen", "BMW", "Volvo", "Saab"],
-      "correctAnswer": 1
+      "options": [
+        "Saab",
+        "Volvo",
+        "Volkswagen",
+        "BMW"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "car-logos-quiz-6",
       "question": "Which car company uses a logo featuring a trident?",
-      "options": ["Alfa Romeo", "Maserati", "Lancia", "Bugatti"],
-      "correctAnswer": 1
+      "options": [
+        "Maserati",
+        "Lancia",
+        "Alfa Romeo",
+        "Bugatti"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "car-logos-quiz-7",
       "question": "The bowtie-shaped logo is the symbol of which American car brand?",
-      "options": ["Ford", "Dodge", "Chevrolet", "Buick"],
-      "correctAnswer": 2
+      "options": [
+        "Chevrolet",
+        "Ford",
+        "Buick",
+        "Dodge"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "car-logos-quiz-8",
       "question": "Which Swedish car brand's logo features an arrow pointing diagonally upward from a circle, the ancient symbol for iron?",
-      "options": ["Saab", "Volvo", "Koenigsegg", "Scania"],
-      "correctAnswer": 1
+      "options": [
+        "Volvo",
+        "Scania",
+        "Koenigsegg",
+        "Saab"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "car-logos-quiz-9",
       "question": "Which Japanese car maker's logo is a stylized letter 'H' inside an oval?",
-      "options": ["Hyundai", "Honda", "Hino", "Holden"],
-      "correctAnswer": 1
+      "options": [
+        "Hyundai",
+        "Hino",
+        "Honda",
+        "Holden"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "car-logos-quiz-10",
       "question": "The Spirit of Ecstasy hood ornament is found on which luxury brand?",
-      "options": ["Bentley", "Rolls-Royce", "Jaguar", "Aston Martin"],
-      "correctAnswer": 1
+      "options": [
+        "Bentley",
+        "Jaguar",
+        "Aston Martin",
+        "Rolls-Royce"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "car-logos-quiz-11",
       "question": "Which British car brand features a leaping cat in its logo?",
-      "options": ["Aston Martin", "Bentley", "Jaguar", "Lotus"],
-      "correctAnswer": 2
+      "options": [
+        "Lotus",
+        "Jaguar",
+        "Bentley",
+        "Aston Martin"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "car-logos-quiz-12",
       "question": "Porsche's logo features a horse in its center. From which German city does this horse originate?",
-      "options": ["Munich", "Berlin", "Stuttgart", "Frankfurt"],
-      "correctAnswer": 2
+      "options": [
+        "Stuttgart",
+        "Frankfurt",
+        "Munich",
+        "Berlin"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "car-logos-quiz-13",
       "question": "Which car brand's logo features wings extending from a letter 'B'?",
-      "options": ["Bugatti", "Bentley", "Bristol", "BMW"],
-      "correctAnswer": 1
+      "options": [
+        "BMW",
+        "Bugatti",
+        "Bentley",
+        "Bristol"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "car-logos-quiz-14",
       "question": "Toyota's current logo consists of three overlapping shapes. What are they?",
-      "options": ["Three squares", "Three circles", "Three ovals", "Three triangles"],
+      "options": [
+        "Three triangles",
+        "Three circles",
+        "Three ovals",
+        "Three squares"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "car-logos-quiz-15",
       "question": "Which American car brand originally used a logo inspired by the family crest of Antoine de la Mothe Cadillac?",
-      "options": ["Lincoln", "Chrysler", "Cadillac", "Buick"],
-      "correctAnswer": 2
+      "options": [
+        "Cadillac",
+        "Chrysler",
+        "Lincoln",
+        "Buick"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "id": "elevator-escalator-quiz",
+  "title": "Elevators & Escalators",
+  "description": "Rise to the challenge with questions about the history of elevators and escalators!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "elevator-escalator-quiz-1",
+      "question": "Who demonstrated the first safety elevator at the Crystal Palace exhibition in New York in 1854?",
+      "options": [
+        "Thomas Edison",
+        "Elisha Otis",
+        "Alexander Graham Bell",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elisha Otis demonstrated his safety elevator at the Crystal Palace in 1854, standing on a platform and having the rope cut to show his safety mechanism would prevent a fall. This made tall buildings practical for the first time.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "elevator-escalator-quiz-2",
+      "question": "What was the revolutionary safety feature of Elisha Otis's elevator?",
+      "options": [
+        "An automatic brake that engaged if the cable broke",
+        "A backup cable system",
+        "A padded floor",
+        "An emergency bell"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Otis's safety mechanism used a spring-loaded device with teeth that engaged ratchet bars on the guide rails if the hoisting rope broke, immediately stopping the elevator from falling. This was the key innovation enabling modern elevators.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-3",
+      "question": "The first commercial electric elevator was installed in 1889 in which building?",
+      "options": [
+        "Eiffel Tower",
+        "Flatiron Building",
+        "Empire State Building",
+        "Demarest Building, New York"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The first commercially successful electric elevator was installed in the Demarest Building in New York City in 1889, designed by Otis Brothers & Co. Electric elevators were faster and cleaner than the hydraulic models they replaced.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "elevator-escalator-quiz-4",
+      "question": "What type of escalator was first demonstrated at the Paris Exposition of 1900?",
+      "options": [
+        "Wooden steps moving on a belt",
+        "Inclined moving walkway",
+        "Spiral escalator",
+        "Moving stairway with flat steps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Otis Elevator Company demonstrated a moving stairway with flat steps at the 1900 Paris Exposition. Earlier versions included Jesse Reno's inclined moving walkway (1896) and Charles Seeberger's flat-step design that Otis acquired.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "elevator-escalator-quiz-5",
+      "question": "Modern high-rise elevators use which system to achieve fast speeds with smooth rides?",
+      "options": [
+        "Geared traction with steel cables",
+        "Gearless traction with steel cables and counterweights",
+        "Hydraulic pistons",
+        "Pneumatic pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gearless traction elevators use a motor directly connected to the sheave (pulley) with steel cables and a counterweight. This system allows speeds over 20 mph and smooth acceleration, essential for tall buildings.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-6",
+      "question": "The Burj Khalifa has some of the fastest elevators in the world. How fast do they travel?",
+      "options": [
+        "5 meters per second",
+        "10 meters per second",
+        "15 meters per second",
+        "20 meters per second"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Burj Khalifa's elevators travel at 10 meters per second (36 km/h or 22 mph), taking about 60 seconds to reach the observation deck on the 124th floor. Even faster elevators exist in other buildings, such as the Shanghai Tower.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-7",
+      "question": "What is a 'paternoster' elevator?",
+      "options": [
+        "A round elevator",
+        "A prayer room elevator",
+        "An elevator for clergy",
+        "A continuously moving chain of open compartments that riders step on and off"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A paternoster is a continuously moving chain of open compartments (without doors) that travel in a loop. Riders step on and off at each floor. Named after the rosary prayer beads they resemble, most have been phased out for safety reasons.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-8",
+      "question": "What purpose does a counterweight serve in a traction elevator system?",
+      "options": [
+        "Controlling speed",
+        "Balancing the weight of the car and passengers to reduce motor effort",
+        "Emergency braking",
+        "Providing backup power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The counterweight, typically weighing the same as the car plus 40% of its maximum passenger load, balances the system so the motor only needs to move the difference in weight. This dramatically reduces energy consumption.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-9",
+      "question": "The 'double-deck elevator' concept, used in some skyscrapers, works by doing what?",
+      "options": [
+        "Carrying two separate cabins stacked vertically",
+        "Having two doors on each side",
+        "Serving two buildings",
+        "Moving twice as fast"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Double-deck elevators have two cabins stacked vertically in the same shaft, with one serving odd-numbered floors and the other serving even-numbered floors simultaneously. This doubles capacity without needing additional shafts.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-10",
+      "question": "Which company developed the MULTI elevator system that can move both vertically and horizontally without cables?",
+      "options": [
+        "KONE",
+        "Otis",
+        "Schindler",
+        "ThyssenKrupp"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ThyssenKrupp developed the MULTI system, which uses linear motor technology (similar to maglev trains) to move elevator cabins vertically and horizontally without cables. This allows multiple cabins in one shaft and sideways movement.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-11",
+      "question": "Why do escalators have comb plates (the toothed metal plates) at the top and bottom?",
+      "options": [
+        "To generate electricity",
+        "To clean shoes",
+        "Decoration",
+        "To prevent objects from getting caught in the gap between steps and landing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Comb plates have interlocking teeth that mesh with grooves in the escalator steps to prevent objects (clothing, shoelaces, fingers) from getting trapped in the gap between the moving steps and the stationary landing.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-12",
+      "question": "What is a 'sky lobby' in a tall building's elevator system?",
+      "options": [
+        "A rooftop restaurant",
+        "An intermediate floor where passengers transfer between express and local elevators",
+        "A helicopter landing pad",
+        "An outdoor observation deck"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A sky lobby is an intermediate floor in a skyscraper where passengers transfer from express elevators to local elevators serving a specific zone of floors. This reduces the number of elevator shafts needed, freeing up valuable floor space.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-13",
+      "question": "The glass elevators on the exterior of the Eiffel Tower use what power system?",
+      "options": [
+        "Hydraulic power",
+        "Electric traction",
+        "Steam power",
+        "Manual winch"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Eiffel Tower's original elevators used hydraulic power to operate. The tower has had various elevator systems since 1889, with modern upgrades, but the principle of hydraulic lift has been maintained for some of the historic elevators.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "elevator-escalator-quiz-14",
+      "question": "What innovation did 'destination dispatch' technology bring to elevator systems?",
+      "options": [
+        "Passengers select their floor before entering, and are grouped efficiently",
+        "Transparent elevator walls",
+        "Faster doors",
+        "Voice-activated controls"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Destination dispatch has passengers enter their desired floor on a keypad in the lobby before boarding. The system groups passengers going to similar floors into the same elevator, reducing stops and wait times by up to 30%.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "elevator-escalator-quiz-15",
+      "question": "The world's longest escalator system is located in which city's transportation network?",
+      "options": [
+        "Stockholm Metro",
+        "Moscow Metro",
+        "London Underground",
+        "Hong Kong's Central-Mid-Levels system"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hong Kong's Central-Mid-Levels escalator system is the world's longest outdoor covered escalator system at 800 meters. It connects the Central district to the Mid-Levels residential area, carrying over 85,000 people daily.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

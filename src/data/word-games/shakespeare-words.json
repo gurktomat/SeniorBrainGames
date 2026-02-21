@@ -8,120 +8,120 @@
       "id": "shakespeare-words-1",
       "question": "Which common English word meaning 'murder by a hired killer' was coined by Shakespeare?",
       "options": [
+        "Manslaughter",
         "Assassination",
-        "Homicide",
         "Execution",
-        "Manslaughter"
+        "Homicide"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "shakespeare-words-2",
       "question": "Shakespeare invented the phrase 'break the ice.' In which play does it first appear?",
       "options": [
-        "Hamlet",
         "The Taming of the Shrew",
-        "Romeo and Juliet",
-        "A Midsummer Night's Dream"
+        "Hamlet",
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "shakespeare-words-3",
       "question": "Which word meaning 'supremely beautiful or wonderful' is attributed to Shakespeare?",
       "options": [
-        "Gorgeous",
         "Magnificent",
-        "Sublime",
-        "Splendid"
+        "Splendid",
+        "Gorgeous",
+        "Sublime"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "shakespeare-words-4",
       "question": "The phrase 'wild goose chase' was first used by Shakespeare in which play?",
       "options": [
         "Macbeth",
-        "Romeo and Juliet",
         "Othello",
+        "Romeo and Juliet",
         "King Lear"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "shakespeare-words-5",
       "question": "Which word meaning 'to consciously choose not to appear or attend' was coined by Shakespeare?",
       "options": [
-        "Absent",
-        "Vanish",
         "Disappear",
-        "Eclipse"
+        "Eclipse",
+        "Absent",
+        "Vanish"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "shakespeare-words-6",
       "question": "Shakespeare is credited with first using the word 'lonely.' What does it mean?",
       "options": [
-        "Being in a crowd",
         "Sad because of having no companions",
+        "Being in a crowd",
         "Living in the countryside",
         "Traveling alone"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "shakespeare-words-7",
       "question": "Which common phrase meaning 'disappeared without explanation' comes from Shakespeare's The Tempest?",
       "options": [
-        "Gone with the wind",
         "Vanished into thin air",
-        "Lost at sea",
-        "Out of sight"
+        "Gone with the wind",
+        "Out of sight",
+        "Lost at sea"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "shakespeare-words-8",
       "question": "Which word meaning 'of poor quality or little value' was first recorded in Shakespeare's works?",
       "options": [
-        "Worthless",
+        "Inferior",
         "Cheap",
-        "Lackluster",
-        "Inferior"
+        "Worthless",
+        "Lackluster"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "shakespeare-words-9",
       "question": "The phrase 'heart of gold' first appeared in which Shakespeare play?",
       "options": [
         "The Merchant of Venice",
-        "Henry V",
         "Much Ado About Nothing",
-        "Twelfth Night"
+        "Twelfth Night",
+        "Henry V"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "shakespeare-words-10",
       "question": "Which word meaning 'causing shock or horror' is attributed to Shakespeare?",
       "options": [
-        "Frightening",
-        "Terrifying",
         "Gloomy",
-        "Eyeball"
+        "Terrifying",
+        "Eyeball",
+        "Frightening"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "shakespeare-words-11",
       "question": "Shakespeare coined the phrase 'green-eyed monster.' What does it refer to?",
       "options": [
-        "Greed",
-        "Jealousy",
         "Envy of nature",
-        "Fear"
+        "Jealousy",
+        "Fear",
+        "Greed"
       ],
       "correctAnswer": 1
     },
@@ -131,8 +131,8 @@
       "options": [
         "Friendship",
         "Companionship",
-        "Fellowship",
-        "Partnership"
+        "Partnership",
+        "Fellowship"
       ],
       "correctAnswer": 0
     },
@@ -140,34 +140,34 @@
       "id": "shakespeare-words-13",
       "question": "The word 'bedroom' first appeared in which Shakespeare play?",
       "options": [
+        "Hamlet",
         "Othello",
-        "A Midsummer Night's Dream",
         "The Merry Wives of Windsor",
-        "Hamlet"
+        "A Midsummer Night's Dream"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "shakespeare-words-14",
       "question": "Which phrase meaning 'neither here nor there' (unimportant) was coined by Shakespeare in Othello?",
       "options": [
-        "Neither here nor there",
         "All that glitters is not gold",
         "Love is blind",
-        "A sorry sight"
+        "A sorry sight",
+        "Neither here nor there"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "shakespeare-words-15",
       "question": "Which word meaning 'grand or important event' was first recorded in Shakespeare's works?",
       "options": [
-        "Ceremony",
         "Pageantry",
-        "Eventful",
-        "Spectacle"
+        "Ceremony",
+        "Spectacle",
+        "Eventful"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

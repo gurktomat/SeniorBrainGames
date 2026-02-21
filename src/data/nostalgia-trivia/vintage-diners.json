@@ -8,10 +8,10 @@
       "id": "vintage-diners-1",
       "question": "What type of converted vehicle inspired the design of the first American diners in the late 1800s?",
       "options": [
-        "Trains",
-        "Horse-drawn lunch wagons",
         "Buses",
-        "Trolley cars"
+        "Horse-drawn lunch wagons",
+        "Trolley cars",
+        "Trains"
       ],
       "correctAnswer": 1
     },
@@ -20,11 +20,11 @@
       "question": "What material gave many 1950s diners their distinctive shiny, streamlined exterior?",
       "options": [
         "Brick",
-        "Stainless steel",
         "Wood paneling",
-        "Copper"
+        "Copper",
+        "Stainless steel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-3",
@@ -32,52 +32,52 @@
       "options": [
         "Bar stools only",
         "Folding chairs",
-        "Booths",
-        "Picnic tables"
+        "Picnic tables",
+        "Booths"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-4",
       "question": "What classic diner dessert features a tall glass with ice cream, syrup, whipped cream, and a cherry on top?",
       "options": [
-        "Banana split",
-        "Ice cream sundae",
+        "Root beer float",
         "Milkshake",
-        "Root beer float"
+        "Ice cream sundae",
+        "Banana split"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-diners-5",
       "question": "In classic diner lingo, what did a waitress mean when she called out 'Adam and Eve on a raft'?",
       "options": [
-        "Ham and cheese sandwich",
-        "Two poached eggs on toast",
+        "Pancakes with butter",
         "Bacon and eggs",
-        "Pancakes with butter"
+        "Ham and cheese sandwich",
+        "Two poached eggs on toast"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-6",
       "question": "What spinning seat at the counter became an iconic feature of American diners?",
       "options": [
-        "Rocking chair",
-        "Swivel bar stool",
         "Recliner",
-        "Folding stool"
+        "Folding stool",
+        "Rocking chair",
+        "Swivel bar stool"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-7",
       "question": "What device at each booth allowed diner customers to select and play songs?",
       "options": [
-        "A radio dial",
+        "A music box",
         "A tabletop jukebox selector",
         "A record player",
-        "A music box"
+        "A radio dial"
       ],
       "correctAnswer": 1
     },
@@ -85,89 +85,89 @@
       "id": "vintage-diners-8",
       "question": "What classic diner beverage was typically served in a thick glass with a metal mixing cup on the side?",
       "options": [
-        "Coffee",
         "Milkshake",
         "Orange juice",
-        "Hot chocolate"
+        "Hot chocolate",
+        "Coffee"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "vintage-diners-9",
       "question": "What was the name for the large, bright signs that often featured neon lighting outside diners?",
       "options": [
-        "Marquee signs",
         "Neon signs",
+        "Marquee signs",
         "Billboard signs",
         "Sandwich boards"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "vintage-diners-10",
       "question": "In diner slang, what did 'a bowl of red' refer to?",
       "options": [
-        "Tomato soup",
-        "Chili",
         "Beet salad",
-        "Spaghetti sauce"
+        "Spaghetti sauce",
+        "Tomato soup",
+        "Chili"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-11",
       "question": "What open-faced hot sandwich smothered in gravy was a staple on many diner menus?",
       "options": [
-        "Reuben",
-        "Club sandwich",
         "Hot turkey sandwich",
+        "Club sandwich",
+        "Reuben",
         "BLT"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-diners-12",
       "question": "What type of pie, displayed under glass domes on the counter, was a classic diner favorite?",
       "options": [
-        "Pumpkin pie",
         "Apple pie",
+        "Pecan pie",
         "Key lime pie",
-        "Pecan pie"
+        "Pumpkin pie"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "vintage-diners-13",
       "question": "What was the typical flooring material in classic American diners, laid in a black-and-white pattern?",
       "options": [
-        "Hardwood",
-        "Carpet",
         "Checkerboard tile",
-        "Concrete"
+        "Concrete",
+        "Hardwood",
+        "Carpet"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-diners-14",
       "question": "Which iconic TV show set in a 1950s diner starred Ron Howard and Henry Winkler?",
       "options": [
         "Laverne & Shirley",
-        "Happy Days",
+        "Seinfeld",
         "Cheers",
-        "Seinfeld"
+        "Happy Days"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-diners-15",
       "question": "What breakfast dish of eggs, hash browns, meat, and toast was commonly known as the diner 'special'?",
       "options": [
-        "Continental breakfast",
-        "The Grand Slam",
         "Blue plate special",
-        "Eggs Benedict"
+        "Eggs Benedict",
+        "Continental breakfast",
+        "The Grand Slam"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

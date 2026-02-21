@@ -7,91 +7,166 @@
     {
       "id": "retro-bicycles-1",
       "question": "Which iconic Schwinn bicycle, introduced in 1963, featured a banana seat and high-rise handlebars?",
-      "options": ["Schwinn Varsity", "Schwinn Stingray", "Schwinn Phantom", "Schwinn Continental"],
-      "correctAnswer": 1
+      "options": [
+        "Schwinn Continental",
+        "Schwinn Phantom",
+        "Schwinn Stingray",
+        "Schwinn Varsity"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-bicycles-2",
       "question": "What type of early bicycle, popular in the 1870s, had an enormous front wheel and a tiny rear wheel?",
-      "options": ["Velocipede", "Penny-farthing", "Draisine", "Safety bicycle"],
-      "correctAnswer": 1
+      "options": [
+        "Penny-farthing",
+        "Safety bicycle",
+        "Velocipede",
+        "Draisine"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-bicycles-3",
       "question": "Which BMX bicycle brand became hugely popular in the 1970s and 1980s with its distinctive padded crossbar?",
-      "options": ["Redline", "Mongoose", "Haro", "Kuwahara"],
-      "correctAnswer": 1
+      "options": [
+        "Kuwahara",
+        "Haro",
+        "Mongoose",
+        "Redline"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-bicycles-4",
       "question": "In the 1982 film 'E.T. the Extra-Terrestrial,' Elliott and his friends famously escape on which type of bikes?",
-      "options": ["Ten-speed racers", "Mountain bikes", "BMX bikes", "Tandem bikes"],
-      "correctAnswer": 2
+      "options": [
+        "Mountain bikes",
+        "BMX bikes",
+        "Ten-speed racers",
+        "Tandem bikes"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-bicycles-5",
       "question": "What was the name of the classic 10-speed bicycle that became a fitness craze in the 1970s?",
-      "options": ["Road racer", "Touring bike", "English racer", "Speed bike"],
-      "correctAnswer": 2
+      "options": [
+        "Speed bike",
+        "Road racer",
+        "Touring bike",
+        "English racer"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-bicycles-6",
       "question": "Which French cycling race, first held in 1903, is the most famous bicycle race in the world?",
-      "options": ["Giro d'Italia", "Vuelta a Espana", "Tour de France", "Paris-Roubaix"],
-      "correctAnswer": 2
+      "options": [
+        "Giro d'Italia",
+        "Paris-Roubaix",
+        "Vuelta a Espana",
+        "Tour de France"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-bicycles-7",
       "question": "The Schwinn Phantom, a classic cruiser bike from the 1950s, was notable for what distinctive feature?",
-      "options": ["Neon paint", "Built-in headlight and chrome fenders", "Electric motor", "Wooden wheels"],
-      "correctAnswer": 1
+      "options": [
+        "Built-in headlight and chrome fenders",
+        "Neon paint",
+        "Wooden wheels",
+        "Electric motor"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-bicycles-8",
       "question": "What accessory, clipped to bicycle wheel spokes, made a motorlike sound as kids rode in the 1950s and 1960s?",
-      "options": ["A bell", "A playing card", "A whistle", "A horn"],
-      "correctAnswer": 1
+      "options": [
+        "A playing card",
+        "A whistle",
+        "A horn",
+        "A bell"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-bicycles-9",
       "question": "Which American bicycle manufacturer, founded in 1895 in Chicago, became the most iconic U.S. bike brand of the 20th century?",
-      "options": ["Huffy", "Murray", "Schwinn", "Raleigh"],
-      "correctAnswer": 2
+      "options": [
+        "Huffy",
+        "Murray",
+        "Raleigh",
+        "Schwinn"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-bicycles-10",
       "question": "What was the name of the small-wheeled folding bicycle, designed by Alex Moulton in the 1960s, that became a British icon?",
-      "options": ["Brompton", "Moulton bicycle", "Raleigh Chopper", "Dawes Galaxy"],
-      "correctAnswer": 1
+      "options": [
+        "Raleigh Chopper",
+        "Brompton",
+        "Moulton bicycle",
+        "Dawes Galaxy"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-bicycles-11",
       "question": "The Raleigh Chopper, with its distinctive long seat and high handlebars, became a sensation in which decade?",
-      "options": ["1950s", "1960s", "1970s", "1980s"],
-      "correctAnswer": 2
+      "options": [
+        "1960s",
+        "1980s",
+        "1950s",
+        "1970s"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-bicycles-12",
       "question": "What type of bicycle, designed for off-road riding on rough terrain, emerged in the late 1970s in California?",
-      "options": ["Touring bike", "Cyclocross bike", "Mountain bike", "Recumbent bike"],
-      "correctAnswer": 2
+      "options": [
+        "Mountain bike",
+        "Touring bike",
+        "Cyclocross bike",
+        "Recumbent bike"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-bicycles-13",
       "question": "Which classic cycling film from 1979 follows four young friends in Bloomington, Indiana, competing in the Little 500 race?",
-      "options": ["American Flyers", "Breaking Away", "Rad", "The Bicycle Thief"],
+      "options": [
+        "The Bicycle Thief",
+        "Breaking Away",
+        "American Flyers",
+        "Rad"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-bicycles-14",
       "question": "What was the popular 1960s bicycle accessory that consisted of long colorful strips of plastic streaming from the handlebars?",
-      "options": ["Streamers", "Pinwheels", "Flags", "Tassels"],
-      "correctAnswer": 0
+      "options": [
+        "Pinwheels",
+        "Flags",
+        "Streamers",
+        "Tassels"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-bicycles-15",
       "question": "The 'bicycle built for two' is more formally known as what type of bike?",
-      "options": ["Dual bike", "Tandem bicycle", "Companion cycle", "Double rider"],
+      "options": [
+        "Companion cycle",
+        "Tandem bicycle",
+        "Dual bike",
+        "Double rider"
+      ],
       "correctAnswer": 1
     }
   ]

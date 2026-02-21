@@ -9,33 +9,33 @@
       "question": "Which architect designed the iconic Fallingwater house in Pennsylvania?",
       "options": [
         "Ludwig Mies van der Rohe",
+        "Louis Sullivan",
         "Le Corbusier",
-        "Frank Lloyd Wright",
-        "Louis Sullivan"
+        "Frank Lloyd Wright"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-architects-2",
-      "question": "Antoni Gaud\u00ed's unfinished masterpiece, the Sagrada Fam\u00edlia, is located in which city?",
+      "question": "Antoni Gaudí's unfinished masterpiece, the Sagrada Família, is located in which city?",
       "options": [
+        "Valencia",
         "Madrid",
         "Lisbon",
-        "Barcelona",
-        "Valencia"
+        "Barcelona"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-architects-3",
       "question": "Which architect designed the Sydney Opera House?",
       "options": [
-        "Oscar Niemeyer",
-        "J\u00f8rn Utzon",
         "Renzo Piano",
-        "Frank Gehry"
+        "Frank Gehry",
+        "Oscar Niemeyer",
+        "Jørn Utzon"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-architects-4",
@@ -52,43 +52,43 @@
       "id": "famous-architects-5",
       "question": "Which Italian architect designed the colonnade of St. Peter's Square in Vatican City?",
       "options": [
-        "Michelangelo",
         "Gian Lorenzo Bernini",
+        "Filippo Brunelleschi",
         "Andrea Palladio",
-        "Filippo Brunelleschi"
+        "Michelangelo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-architects-6",
       "question": "Frank Gehry is famous for designing which titanium-clad museum in Bilbao, Spain?",
       "options": [
-        "Prado Museum",
-        "Louvre Abu Dhabi",
+        "Centre Pompidou",
         "Guggenheim Museum Bilbao",
-        "Centre Pompidou"
+        "Prado Museum",
+        "Louvre Abu Dhabi"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-architects-7",
       "question": "Which architect designed the dome of the Florence Cathedral, a marvel of Renaissance engineering?",
       "options": [
         "Leon Battista Alberti",
-        "Filippo Brunelleschi",
         "Donato Bramante",
+        "Filippo Brunelleschi",
         "Michelangelo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-architects-8",
       "question": "I.M. Pei designed the glass pyramid entrance to which famous museum?",
       "options": [
-        "British Museum",
         "Metropolitan Museum of Art",
+        "Hermitage Museum",
         "The Louvre",
-        "Hermitage Museum"
+        "British Museum"
       ],
       "correctAnswer": 2
     },
@@ -98,8 +98,8 @@
       "options": [
         "Frank Lloyd Wright",
         "Louis Sullivan",
-        "Daniel Burnham",
-        "Henry Hobson Richardson"
+        "Henry Hobson Richardson",
+        "Daniel Burnham"
       ],
       "correctAnswer": 1
     },
@@ -107,12 +107,12 @@
       "id": "famous-architects-10",
       "question": "Zaha Hadid, the first woman to win the Pritzker Architecture Prize, was born in which country?",
       "options": [
-        "Iran",
-        "Iraq",
+        "Egypt",
         "Lebanon",
-        "Egypt"
+        "Iran",
+        "Iraq"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-architects-11",
@@ -140,12 +140,12 @@
       "id": "famous-architects-13",
       "question": "Which architect designed the Guggenheim Museum in New York City, known for its spiral design?",
       "options": [
-        "Philip Johnson",
         "Frank Lloyd Wright",
-        "Eero Saarinen",
-        "Louis Kahn"
+        "Philip Johnson",
+        "Louis Kahn",
+        "Eero Saarinen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-architects-14",
@@ -153,7 +153,7 @@
       "options": [
         "Buenos Aires",
         "Lima",
-        "Bras\u00edlia",
+        "Brasília",
         "Santiago"
       ],
       "correctAnswer": 2
@@ -162,12 +162,12 @@
       "id": "famous-architects-15",
       "question": "Which architect designed the Centre Pompidou in Paris, known for its inside-out design with exposed pipes and ducts?",
       "options": [
+        "Santiago Calatrava",
         "Norman Foster",
         "Renzo Piano and Richard Rogers",
-        "Jean Nouvel",
-        "Santiago Calatrava"
+        "Jean Nouvel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

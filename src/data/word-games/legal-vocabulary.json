@@ -8,7 +8,12 @@
     {
       "id": "lgv-1",
       "question": "What does the legal term 'plaintiff' refer to?",
-      "options": ["The judge in a trial", "The person who brings a case to court", "The person accused of a crime", "A witness in court"],
+      "options": [
+        "A witness in court",
+        "The person who brings a case to court",
+        "The judge in a trial",
+        "The person accused of a crime"
+      ],
       "correctAnswer": 1,
       "explanation": "A plaintiff is the person or party who initiates a lawsuit by filing a complaint in court. The word comes from the Old French 'plaintif,' meaning 'complaining.' In criminal cases, this role is typically filled by the government or prosecution.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "lgv-2",
       "question": "What does 'verdict' mean in a legal context?",
-      "options": ["The opening statement", "The formal decision made by a jury or judge", "The sentencing phase", "A type of legal document"],
-      "correctAnswer": 1,
+      "options": [
+        "The formal decision made by a jury or judge",
+        "A type of legal document",
+        "The sentencing phase",
+        "The opening statement"
+      ],
+      "correctAnswer": 0,
       "explanation": "A verdict is the formal finding or decision made by a jury or judge at the end of a trial. The word comes from the Latin 'vere dictum,' meaning 'truly spoken.'",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "lgv-3",
       "question": "What does 'bail' refer to in the legal system?",
-      "options": ["A punishment for a crime", "Money paid to secure temporary release from custody", "A type of prison sentence", "An appeal to a higher court"],
-      "correctAnswer": 1,
+      "options": [
+        "Money paid to secure temporary release from custody",
+        "A type of prison sentence",
+        "An appeal to a higher court",
+        "A punishment for a crime"
+      ],
+      "correctAnswer": 0,
       "explanation": "Bail is a sum of money or other security deposited with the court to ensure that an accused person will return for their trial. If the defendant appears as required, the bail is typically returned.",
       "difficulty": "easy",
       "category": "language"
@@ -35,8 +50,13 @@
     {
       "id": "lgv-4",
       "question": "What does the term 'defendant' mean?",
-      "options": ["The person who files a lawsuit", "The lawyer in a case", "The person accused or sued in a court case", "The judge's assistant"],
-      "correctAnswer": 2,
+      "options": [
+        "The judge's assistant",
+        "The person accused or sued in a court case",
+        "The person who files a lawsuit",
+        "The lawyer in a case"
+      ],
+      "correctAnswer": 1,
       "explanation": "A defendant is the person or entity against whom a lawsuit is brought (civil court) or who is accused of a crime (criminal court). They must 'defend' themselves against the charges or claims made by the plaintiff or prosecution.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "lgv-5",
       "question": "What does 'testimony' mean in court?",
-      "options": ["A written contract", "A formal statement given under oath by a witness", "A type of evidence found at a crime scene", "The judge's final ruling"],
-      "correctAnswer": 1,
+      "options": [
+        "A written contract",
+        "The judge's final ruling",
+        "A formal statement given under oath by a witness",
+        "A type of evidence found at a crime scene"
+      ],
+      "correctAnswer": 2,
       "explanation": "Testimony is a formal, sworn statement made by a witness in court, typically given orally during a trial. The word comes from the Latin 'testimonium,' meaning 'evidence' or 'witness.'",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "lgv-6",
       "question": "What does 'habeas corpus' mean?",
-      "options": ["Guilty as charged", "A legal right requiring a person to be brought before a judge", "An agreement between parties", "The body of evidence in a case"],
-      "correctAnswer": 1,
+      "options": [
+        "Guilty as charged",
+        "The body of evidence in a case",
+        "An agreement between parties",
+        "A legal right requiring a person to be brought before a judge"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Habeas corpus' is a fundamental legal principle that requires authorities to bring a detained person before a court to determine whether their imprisonment is lawful. The Latin phrase means 'you shall have the body.'",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "lgv-7",
       "question": "What does 'perjury' mean?",
-      "options": ["Stealing property", "Deliberately lying under oath in court", "Breaking a contract", "Refusing to appear in court"],
-      "correctAnswer": 1,
+      "options": [
+        "Breaking a contract",
+        "Refusing to appear in court",
+        "Stealing property",
+        "Deliberately lying under oath in court"
+      ],
+      "correctAnswer": 3,
       "explanation": "Perjury is the criminal offense of deliberately making false or misleading statements while under oath in a court of law. It is a serious crime because the justice system depends on truthful testimony.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "lgv-8",
       "question": "What does the legal term 'statute of limitations' refer to?",
-      "options": ["A limit on the number of witnesses", "The maximum time after an event within which legal proceedings may begin", "A restriction on courtroom behavior", "The maximum prison sentence for a crime"],
-      "correctAnswer": 1,
+      "options": [
+        "The maximum prison sentence for a crime",
+        "A restriction on courtroom behavior",
+        "The maximum time after an event within which legal proceedings may begin",
+        "A limit on the number of witnesses"
+      ],
+      "correctAnswer": 2,
       "explanation": "A statute of limitations sets the maximum time period after an event within which legal proceedings can be initiated. Once this deadline passes, the claim or prosecution is typically barred. Different offenses have different time limits.",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "lgv-9",
       "question": "What does 'acquittal' mean?",
-      "options": ["A guilty verdict", "A judgment that a person is not guilty of the crime charged", "A plea bargain", "A mistrial declaration"],
-      "correctAnswer": 1,
+      "options": [
+        "A guilty verdict",
+        "A plea bargain",
+        "A mistrial declaration",
+        "A judgment that a person is not guilty of the crime charged"
+      ],
+      "correctAnswer": 3,
       "explanation": "An acquittal is a legal judgment that officially declares a defendant not guilty of the criminal charges brought against them. Once acquitted, a defendant generally cannot be tried again for the same offense due to double jeopardy protections.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "lgv-10",
       "question": "What does 'subpoena' mean?",
-      "options": ["A type of punishment", "A legal document ordering someone to attend court or produce evidence", "An appeal to a higher court", "A plea of not guilty"],
-      "correctAnswer": 1,
+      "options": [
+        "A legal document ordering someone to attend court or produce evidence",
+        "A plea of not guilty",
+        "An appeal to a higher court",
+        "A type of punishment"
+      ],
+      "correctAnswer": 0,
       "explanation": "A subpoena is a written legal order requiring a person to appear in court as a witness or to produce specified documents or evidence. The Latin term means 'under penalty,' reflecting the consequences of failing to comply.",
       "difficulty": "medium",
       "category": "language"
@@ -98,7 +148,12 @@
     {
       "id": "lgv-11",
       "question": "What does the Latin legal phrase 'pro bono' mean?",
-      "options": ["For the prosecution", "For the public good; professional work done without charge", "For the defense", "For the record"],
+      "options": [
+        "For the prosecution",
+        "For the public good; professional work done without charge",
+        "For the defense",
+        "For the record"
+      ],
       "correctAnswer": 1,
       "explanation": "'Pro bono' is short for 'pro bono publico,' meaning 'for the public good.' It refers to professional work undertaken voluntarily and without payment, especially legal services provided free of charge to those who cannot afford them.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "lgv-12",
       "question": "What does 'precedent' mean in law?",
-      "options": ["The president of a court", "A previous court decision used as a guide for future cases", "The first witness called to testify", "A preliminary hearing"],
-      "correctAnswer": 1,
+      "options": [
+        "The president of a court",
+        "A preliminary hearing",
+        "A previous court decision used as a guide for future cases",
+        "The first witness called to testify"
+      ],
+      "correctAnswer": 2,
       "explanation": "A legal precedent is a prior court decision that serves as an authoritative rule or guide for deciding subsequent cases involving similar issues or facts. The principle of following precedent is known as 'stare decisis.'",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "lgv-13",
       "question": "What does 'litigation' refer to?",
-      "options": ["The process of making new laws", "The process of taking legal action or resolving disputes in court", "The study of law at university", "The enforcement of traffic rules"],
-      "correctAnswer": 1,
+      "options": [
+        "The enforcement of traffic rules",
+        "The process of making new laws",
+        "The process of taking legal action or resolving disputes in court",
+        "The study of law at university"
+      ],
+      "correctAnswer": 2,
       "explanation": "Litigation is the process of taking a dispute to a court of law for resolution. It encompasses the entire process of filing a lawsuit, conducting discovery, going to trial, and any subsequent appeals.",
       "difficulty": "hard",
       "category": "language"
@@ -125,7 +190,12 @@
     {
       "id": "lgv-14",
       "question": "What does the legal term 'indictment' mean?",
-      "options": ["A prison sentence", "A formal charge or accusation of a serious crime", "A pardon from the governor", "A witness protection agreement"],
+      "options": [
+        "A witness protection agreement",
+        "A formal charge or accusation of a serious crime",
+        "A prison sentence",
+        "A pardon from the governor"
+      ],
       "correctAnswer": 1,
       "explanation": "An indictment is a formal written accusation charging a person with a crime, typically issued by a grand jury after reviewing evidence presented by a prosecutor. Being indicted does not mean a person is guilty—it means there is sufficient evidence to proceed to trial.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "lgv-15",
       "question": "What does 'jurisprudence' mean?",
-      "options": ["The selection of jury members", "The theory and philosophy of law", "A jury's deliberation process", "The study of court architecture"],
-      "correctAnswer": 1,
+      "options": [
+        "The study of court architecture",
+        "The selection of jury members",
+        "The theory and philosophy of law",
+        "A jury's deliberation process"
+      ],
+      "correctAnswer": 2,
       "explanation": "Jurisprudence is the study and theory of law, including its principles, concepts, and philosophy. It examines what law is, how it should be applied, and its role in society. The word comes from the Latin 'juris prudentia,' meaning 'knowledge of the law.'",
       "difficulty": "hard",
       "category": "language"

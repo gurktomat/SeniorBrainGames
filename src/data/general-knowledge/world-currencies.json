@@ -8,7 +8,12 @@
     {
       "id": "wc-1",
       "question": "What is the official currency of Japan?",
-      "options": ["Won", "Yuan", "Yen", "Ringgit"],
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit"
+      ],
       "correctAnswer": 2,
       "explanation": "The Japanese yen (¥) has been the official currency of Japan since 1871. The word 'yen' means 'round object' in Japanese.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "wc-2",
       "question": "Which country uses the currency called the 'baht'?",
-      "options": ["Vietnam", "Thailand", "Cambodia", "Myanmar"],
-      "correctAnswer": 1,
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "Myanmar",
+        "Cambodia"
+      ],
+      "correctAnswer": 0,
       "explanation": "The baht is the official currency of Thailand. One baht is divided into 100 satang.",
       "difficulty": "easy",
       "category": "geography"
@@ -26,8 +36,13 @@
     {
       "id": "wc-3",
       "question": "What is the official currency of the United Kingdom?",
-      "options": ["Euro", "Dollar", "Pound Sterling", "Crown"],
-      "correctAnswer": 2,
+      "options": [
+        "Euro",
+        "Crown",
+        "Dollar",
+        "Pound Sterling"
+      ],
+      "correctAnswer": 3,
       "explanation": "The pound sterling (£) is the world's oldest currency still in use, dating back over 1,200 years.",
       "difficulty": "easy",
       "category": "geography"
@@ -35,8 +50,13 @@
     {
       "id": "wc-4",
       "question": "Which currency is used in India?",
-      "options": ["Rupee", "Rupiah", "Ringgit", "Riel"],
-      "correctAnswer": 0,
+      "options": [
+        "Riel",
+        "Ringgit",
+        "Rupiah",
+        "Rupee"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Indian rupee (₹) is the official currency of India. The word 'rupee' is derived from the Sanskrit word 'rupya,' meaning wrought silver.",
       "difficulty": "easy",
       "category": "geography"
@@ -44,8 +64,13 @@
     {
       "id": "wc-5",
       "question": "What currency do they use in Brazil?",
-      "options": ["Peso", "Real", "Sol", "Escudo"],
-      "correctAnswer": 1,
+      "options": [
+        "Escudo",
+        "Peso",
+        "Sol",
+        "Real"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Brazilian real (R$) was introduced in 1994 as part of a plan to stabilize the Brazilian economy. 'Real' means 'royal' in Portuguese.",
       "difficulty": "easy",
       "category": "geography"
@@ -53,8 +78,13 @@
     {
       "id": "wc-6",
       "question": "Which country uses the 'zloty' as its currency?",
-      "options": ["Czech Republic", "Hungary", "Poland", "Romania"],
-      "correctAnswer": 2,
+      "options": [
+        "Hungary",
+        "Romania",
+        "Czech Republic",
+        "Poland"
+      ],
+      "correctAnswer": 3,
       "explanation": "The zloty (zł) is the official currency of Poland. The name literally means 'golden' in Polish.",
       "difficulty": "medium",
       "category": "geography"
@@ -62,8 +92,13 @@
     {
       "id": "wc-7",
       "question": "What is the official currency of South Africa?",
-      "options": ["Shilling", "Rand", "Kwacha", "Pula"],
-      "correctAnswer": 1,
+      "options": [
+        "Pula",
+        "Shilling",
+        "Kwacha",
+        "Rand"
+      ],
+      "correctAnswer": 3,
       "explanation": "The South African rand (R) takes its name from the Witwatersrand, the ridge upon which Johannesburg is built and where most of South Africa's gold deposits were found.",
       "difficulty": "medium",
       "category": "geography"
@@ -71,8 +106,13 @@
     {
       "id": "wc-8",
       "question": "Which of these countries does NOT use the euro?",
-      "options": ["Portugal", "Switzerland", "Finland", "Ireland"],
-      "correctAnswer": 1,
+      "options": [
+        "Switzerland",
+        "Portugal",
+        "Finland",
+        "Ireland"
+      ],
+      "correctAnswer": 0,
       "explanation": "Switzerland uses the Swiss franc (CHF), not the euro. Switzerland is not a member of the European Union and has maintained its own currency.",
       "difficulty": "medium",
       "category": "geography"
@@ -80,8 +120,13 @@
     {
       "id": "wc-9",
       "question": "What is the currency of Turkey?",
-      "options": ["Dinar", "Lira", "Dirham", "Manat"],
-      "correctAnswer": 1,
+      "options": [
+        "Manat",
+        "Dirham",
+        "Lira",
+        "Dinar"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Turkish lira (₺) is the currency of Turkey. The name 'lira' comes from the Latin word 'libra,' meaning pound.",
       "difficulty": "medium",
       "category": "geography"
@@ -89,8 +134,13 @@
     {
       "id": "wc-10",
       "question": "Which country uses the 'krona' as its currency?",
-      "options": ["Norway", "Sweden", "Denmark", "All of the above"],
-      "correctAnswer": 1,
+      "options": [
+        "Sweden",
+        "All of the above",
+        "Norway",
+        "Denmark"
+      ],
+      "correctAnswer": 0,
       "explanation": "Sweden uses the krona (SEK). While Norway uses the krone and Denmark uses the krone as well, the specific spelling 'krona' is used by Sweden (and Iceland).",
       "difficulty": "medium",
       "category": "geography"
@@ -98,8 +148,13 @@
     {
       "id": "wc-11",
       "question": "What is the currency of South Korea?",
-      "options": ["Yen", "Yuan", "Dong", "Won"],
-      "correctAnswer": 3,
+      "options": [
+        "Dong",
+        "Yuan",
+        "Won",
+        "Yen"
+      ],
+      "correctAnswer": 2,
       "explanation": "The South Korean won (₩) is the official currency of South Korea. The word 'won' is a cognate of the Chinese yuan and Japanese yen.",
       "difficulty": "medium",
       "category": "geography"
@@ -107,7 +162,12 @@
     {
       "id": "wc-12",
       "question": "Which currency is nicknamed the 'loonie'?",
-      "options": ["Australian Dollar", "New Zealand Dollar", "Canadian Dollar", "Singapore Dollar"],
+      "options": [
+        "Australian Dollar",
+        "New Zealand Dollar",
+        "Canadian Dollar",
+        "Singapore Dollar"
+      ],
       "correctAnswer": 2,
       "explanation": "The Canadian dollar is nicknamed the 'loonie' because the one-dollar coin features an image of a common loon, a bird found throughout Canada.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "wc-13",
       "question": "What is the official currency of Vietnam?",
-      "options": ["Baht", "Riel", "Dong", "Kip"],
-      "correctAnswer": 2,
+      "options": [
+        "Dong",
+        "Baht",
+        "Riel",
+        "Kip"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Vietnamese dong (₫) is the currency of Vietnam. The word 'dong' comes from the Vietnamese term for the Chinese bronze coins used in ancient times.",
       "difficulty": "hard",
       "category": "geography"
@@ -125,8 +190,13 @@
     {
       "id": "wc-14",
       "question": "Which country uses the 'sol' as its currency?",
-      "options": ["Chile", "Peru", "Ecuador", "Colombia"],
-      "correctAnswer": 1,
+      "options": [
+        "Chile",
+        "Ecuador",
+        "Colombia",
+        "Peru"
+      ],
+      "correctAnswer": 3,
       "explanation": "The sol is the currency of Peru. The name comes from the Latin word 'solidus' and also means 'sun' in Spanish, a reference to the Inca sun god Inti.",
       "difficulty": "hard",
       "category": "geography"
@@ -134,8 +204,13 @@
     {
       "id": "wc-15",
       "question": "What is the currency of Hungary?",
-      "options": ["Koruna", "Forint", "Leu", "Kuna"],
-      "correctAnswer": 1,
+      "options": [
+        "Kuna",
+        "Koruna",
+        "Forint",
+        "Leu"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Hungarian forint (Ft) is the currency of Hungary. The name comes from the city of Florence, Italy, where gold coins called 'fiorino d'oro' were minted in 1252.",
       "difficulty": "hard",
       "category": "geography"

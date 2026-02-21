@@ -7,92 +7,167 @@
     {
       "id": "world-fjords-1",
       "question": "Which country is most famous for its fjords and has over 1,000 of them along its coastline?",
-      "options": ["Iceland", "Sweden", "Norway", "Finland"],
-      "correctAnswer": 2
+      "options": [
+        "Iceland",
+        "Norway",
+        "Sweden",
+        "Finland"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-fjords-2",
       "question": "The Geirangerfjord, a UNESCO World Heritage Site, is famous for the 'Seven Sisters' waterfall. Where is it?",
-      "options": ["New Zealand", "Norway", "Canada", "Chile"],
-      "correctAnswer": 1
+      "options": [
+        "Canada",
+        "Chile",
+        "New Zealand",
+        "Norway"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-fjords-3",
       "question": "How are fjords typically formed?",
-      "options": ["By volcanic eruptions", "By tectonic plate movement", "By glacial erosion", "By river erosion"],
-      "correctAnswer": 2
+      "options": [
+        "By glacial erosion",
+        "By tectonic plate movement",
+        "By river erosion",
+        "By volcanic eruptions"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-4",
       "question": "Milford Sound, one of the world's most famous fjords, is located in which country?",
-      "options": ["Australia", "Chile", "Norway", "New Zealand"],
+      "options": [
+        "Norway",
+        "Australia",
+        "Chile",
+        "New Zealand"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "world-fjords-5",
       "question": "The Sognefjord, Norway's longest fjord, extends approximately how far inland?",
-      "options": ["50 miles", "100 miles", "127 miles", "200 miles"],
-      "correctAnswer": 2
+      "options": [
+        "100 miles",
+        "127 miles",
+        "50 miles",
+        "200 miles"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-fjords-6",
       "question": "Which Canadian province is known for its dramatic fjords, including Western Brook Pond in Gros Morne National Park?",
-      "options": ["Nova Scotia", "British Columbia", "Newfoundland and Labrador", "Quebec"],
-      "correctAnswer": 2
+      "options": [
+        "Newfoundland and Labrador",
+        "Quebec",
+        "Nova Scotia",
+        "British Columbia"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-7",
       "question": "The Kenai Fjords National Park, featuring tidewater glaciers, is located in which U.S. state?",
-      "options": ["Washington", "Alaska", "Maine", "Hawaii"],
-      "correctAnswer": 1
+      "options": [
+        "Hawaii",
+        "Washington",
+        "Alaska",
+        "Maine"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-fjords-8",
       "question": "Scoresby Sund, the world's longest fjord system at over 200 miles, is found in which territory?",
-      "options": ["Svalbard", "Iceland", "Greenland", "Canadian Arctic"],
-      "correctAnswer": 2
+      "options": [
+        "Greenland",
+        "Canadian Arctic",
+        "Svalbard",
+        "Iceland"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-9",
       "question": "The Lysefjord in Norway is famous for which dramatic cliff that rises 1,982 feet above the water?",
-      "options": ["Trolltunga", "Preikestolen (Pulpit Rock)", "Kjeragbolten", "North Cape"],
-      "correctAnswer": 1
+      "options": [
+        "Preikestolen (Pulpit Rock)",
+        "Kjeragbolten",
+        "Trolltunga",
+        "North Cape"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-10",
       "question": "Chile's fjord region in Patagonia is part of which larger geographic feature?",
-      "options": ["Atacama Desert", "Andes Mountains coastline", "Pampas grasslands", "Amazon Basin"],
-      "correctAnswer": 1
+      "options": [
+        "Atacama Desert",
+        "Amazon Basin",
+        "Pampas grasslands",
+        "Andes Mountains coastline"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-fjords-11",
       "question": "What is a 'sill' in the context of fjord geography?",
-      "options": ["A waterfall at the fjord's head", "A shallow area at the fjord's mouth left by a glacier", "A type of fjord vegetation", "A narrow passage between two fjords"],
+      "options": [
+        "A type of fjord vegetation",
+        "A shallow area at the fjord's mouth left by a glacier",
+        "A waterfall at the fjord's head",
+        "A narrow passage between two fjords"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-fjords-12",
       "question": "The Nærøyfjord, one of the narrowest fjords in Europe at just 820 feet wide, is a branch of which larger Norwegian fjord?",
-      "options": ["Hardangerfjord", "Sognefjord", "Geirangerfjord", "Trondheimsfjord"],
-      "correctAnswer": 1
+      "options": [
+        "Sognefjord",
+        "Geirangerfjord",
+        "Trondheimsfjord",
+        "Hardangerfjord"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-13",
       "question": "Doubtful Sound, a remote and pristine fjord in New Zealand, is located in which national park?",
-      "options": ["Abel Tasman", "Tongariro", "Fiordland", "Mount Cook"],
-      "correctAnswer": 2
+      "options": [
+        "Abel Tasman",
+        "Tongariro",
+        "Mount Cook",
+        "Fiordland"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-fjords-14",
       "question": "The word 'fjord' comes from which language?",
-      "options": ["Finnish", "Old Norse", "Gaelic", "Icelandic"],
-      "correctAnswer": 1
+      "options": [
+        "Old Norse",
+        "Gaelic",
+        "Icelandic",
+        "Finnish"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-fjords-15",
       "question": "Which Scottish sea inlet, technically a fjord, is famous for its legendary monster?",
-      "options": ["Loch Lomond", "Loch Ness", "Loch Katrine", "Loch Tay"],
-      "correctAnswer": 1
+      "options": [
+        "Loch Tay",
+        "Loch Lomond",
+        "Loch Katrine",
+        "Loch Ness"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

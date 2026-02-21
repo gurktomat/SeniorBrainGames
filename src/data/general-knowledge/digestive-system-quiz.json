@@ -1,0 +1,219 @@
+{
+  "id": "digestive-system-quiz",
+  "title": "The Digestive System",
+  "description": "How well do you know how the digestive system works?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "digestive-system-quiz-1",
+      "question": "What is the first organ in the digestive system where food begins to be broken down?",
+      "options": [
+        "Esophagus",
+        "Mouth",
+        "Small intestine",
+        "Stomach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digestion begins in the mouth, where teeth mechanically break down food and saliva contains enzymes (like amylase) that start the chemical digestion of starches.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-2",
+      "question": "What is the muscular tube that carries food from the mouth to the stomach?",
+      "options": [
+        "Bronchus",
+        "Pharynx",
+        "Trachea",
+        "Esophagus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The esophagus is a muscular tube about 10 inches long that uses wave-like contractions called peristalsis to push food from the mouth to the stomach.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-3",
+      "question": "What strong acid does the stomach produce to break down food?",
+      "options": [
+        "Hydrochloric acid",
+        "Citric acid",
+        "Acetic acid",
+        "Sulfuric acid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The stomach produces hydrochloric acid (HCl) with a pH of 1.5-3.5, strong enough to dissolve metal. A mucus lining protects the stomach from digesting itself.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-4",
+      "question": "Where does most nutrient absorption occur in the digestive system?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Esophagus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The small intestine is where about 90% of nutrient absorption occurs. Its inner walls are covered with tiny finger-like projections called villi that increase the surface area for absorption.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-5",
+      "question": "What organ produces bile to help digest fats?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Gallbladder",
+        "Stomach"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The liver produces bile, which is stored in the gallbladder and released into the small intestine to help emulsify and digest fats.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-6",
+      "question": "What is the approximate total length of the digestive tract from mouth to anus?",
+      "options": [
+        "About 15 feet",
+        "About 5 feet",
+        "About 30 feet",
+        "About 50 feet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The human digestive tract is approximately 30 feet (9 meters) long. The small intestine alone accounts for about 20 feet of this length.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-7",
+      "question": "What is the main function of the large intestine (colon)?",
+      "options": [
+        "Absorb nutrients",
+        "Absorb water and form solid waste",
+        "Digest proteins",
+        "Produce bile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The large intestine primarily absorbs water and electrolytes from remaining food matter, forming solid waste (feces) for elimination. It also houses trillions of beneficial bacteria.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-8",
+      "question": "What organ produces insulin and digestive enzymes?",
+      "options": [
+        "Pancreas",
+        "Gallbladder",
+        "Spleen",
+        "Liver"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pancreas has dual functions: it produces digestive enzymes (exocrine function) that break down carbohydrates, proteins, and fats, and it produces insulin (endocrine function) to regulate blood sugar.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-9",
+      "question": "What are probiotics?",
+      "options": [
+        "Vitamins for digestion",
+        "Digestive enzymes",
+        "Beneficial live bacteria that support gut health",
+        "Antibiotics for the gut"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Probiotics are live beneficial bacteria and yeasts that support digestive health. They are found in fermented foods like yogurt, kefir, and sauerkraut, and help maintain a healthy gut microbiome.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-10",
+      "question": "How long does it typically take for food to pass through the entire digestive system?",
+      "options": [
+        "1 week",
+        "24-72 hours",
+        "6-8 hours",
+        "2-4 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Food typically takes 24-72 hours to pass through the entire digestive system. It spends 2-6 hours in the stomach, 6-8 hours in the small intestine, and up to 36 hours in the large intestine.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-11",
+      "question": "What is the term for the wave-like muscle contractions that move food through the digestive tract?",
+      "options": [
+        "Peristalsis",
+        "Absorption",
+        "Diffusion",
+        "Osmosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Peristalsis is the series of wave-like muscle contractions that move food through the digestive tract. These involuntary contractions work even when you are upside down.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-12",
+      "question": "What is the human gut microbiome?",
+      "options": [
+        "A disease of the intestines",
+        "The community of trillions of microorganisms in the digestive tract",
+        "The lining of the stomach",
+        "A type of digestive enzyme"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The gut microbiome consists of trillions of bacteria, viruses, and fungi living in the digestive tract. These microorganisms aid digestion, produce vitamins, and influence immune function.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-13",
+      "question": "What is the function of the appendix?",
+      "options": [
+        "It has no function",
+        "It may serve as a reservoir for beneficial gut bacteria",
+        "It produces bile",
+        "It filters blood"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Once thought to be vestigial, recent research suggests the appendix may serve as a safe house for beneficial gut bacteria, helping to repopulate the gut after illness.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-14",
+      "question": "What common condition occurs when stomach acid flows back into the esophagus?",
+      "options": [
+        "Appendicitis",
+        "Acid reflux (GERD)",
+        "Crohn's disease",
+        "Ulcer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acid reflux (gastroesophageal reflux disease or GERD) occurs when the lower esophageal sphincter doesn't close properly, allowing stomach acid to flow back into the esophagus, causing heartburn.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "digestive-system-quiz-15",
+      "question": "What type of dietary fiber helps promote regular bowel movements?",
+      "options": [
+        "Insoluble fiber",
+        "Protein fiber",
+        "Soluble fiber only",
+        "Mineral fiber"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Insoluble fiber (found in whole grains, nuts, and vegetables) adds bulk to stool and helps food pass more quickly through the digestive tract, promoting regular bowel movements.",
+      "difficulty": "easy",
+      "category": "health"
+    }
+  ]
+}

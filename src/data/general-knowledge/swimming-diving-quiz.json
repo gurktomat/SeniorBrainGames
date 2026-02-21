@@ -1,0 +1,219 @@
+{
+  "id": "swimming-diving-quiz",
+  "title": "Swimming & Diving",
+  "description": "Dive into your knowledge of competitive swimming, diving, and aquatic sports!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "swimming-diving-quiz-1",
+      "question": "How many Olympic medals did Michael Phelps win in total across his career?",
+      "options": [
+        "23",
+        "28",
+        "25",
+        "31"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Michael Phelps won 28 Olympic medals (23 gold, 3 silver, 2 bronze), making him the most decorated Olympian of all time. He competed in five Olympic Games from 2000 to 2016.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-2",
+      "question": "What are the four competitive swimming strokes?",
+      "options": [
+        "Freestyle, backstroke, doggy paddle, butterfly",
+        "Freestyle, backstroke, breaststroke, dolphin kick",
+        "Freestyle, backstroke, breaststroke, butterfly",
+        "Freestyle, backstroke, breaststroke, sidestroke"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four competitive swimming strokes are freestyle (front crawl), backstroke, breaststroke, and butterfly. The individual medley (IM) combines all four strokes in one race.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-3",
+      "question": "What is the standard length of an Olympic swimming pool?",
+      "options": [
+        "75 meters",
+        "100 meters",
+        "50 meters",
+        "25 meters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An Olympic swimming pool is 50 meters long, often called a 'long course' pool. Short course pools are 25 meters. The pool must have 8 lanes for Olympic competition.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-4",
+      "question": "In competitive diving, what is a 'pike' position?",
+      "options": [
+        "Body bent at the hips with straight legs",
+        "Arms extended overhead",
+        "Body tucked into a ball",
+        "Body straight with no bend"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In the pike position, the diver bends at the hips with legs straight and toes pointed, forming an L or V shape. The three main diving positions are tuck, pike, and straight (layout).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-5",
+      "question": "How high is the Olympic platform diving board?",
+      "options": [
+        "7.5 meters",
+        "5 meters",
+        "15 meters",
+        "10 meters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Olympic platform diving board is 10 meters (approximately 33 feet) high. The springboard events are held at 3 meters. Divers hit the water at speeds of up to 35 mph from the platform.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-6",
+      "question": "What is the individual medley (IM) in swimming?",
+      "options": [
+        "A race combining all four strokes",
+        "A distance swimming event",
+        "A team relay event",
+        "A race using only one stroke"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The individual medley combines all four strokes in one race: butterfly, backstroke, breaststroke, then freestyle. The most common distances are 200m and 400m IM.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-7",
+      "question": "Which Australian swimmer is known as 'The Thorpedo'?",
+      "options": [
+        "Ian Thorpe",
+        "Kieren Perkins",
+        "Murray Rose",
+        "Grant Hackett"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ian Thorpe, nicknamed 'The Thorpedo' and 'Thorpey,' won five Olympic gold medals. He was known for his remarkably large feet (size 17) and powerful freestyle stroke.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-8",
+      "question": "What is synchronized swimming now officially called?",
+      "options": [
+        "Aquatic gymnastics",
+        "Artistic swimming",
+        "Team swimming",
+        "Water ballet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In 2017, FINA (now World Aquatics) officially renamed synchronized swimming to 'artistic swimming.' The sport combines swimming, dance, and gymnastics performed in water.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-9",
+      "question": "What is water polo?",
+      "options": [
+        "An underwater obstacle course",
+        "Swimming races on horseback",
+        "A diving competition in pairs",
+        "A team sport played in water with goals and a ball"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Water polo is a team sport played in a pool where two teams of seven try to throw a ball into the opposing team's goal. It has been an Olympic sport since 1900.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-10",
+      "question": "Which female swimmer won the most Olympic gold medals?",
+      "options": [
+        "Jenny Thompson",
+        "Katie Ledecky",
+        "Dara Torres",
+        "Natalie Coughlin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jenny Thompson won 8 Olympic gold medals (all in relay events) across four Olympic Games (1992-2004). Katie Ledecky has won 7 individual Olympic gold medals.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-11",
+      "question": "What technique is used at the start of a backstroke race?",
+      "options": [
+        "Diving from the starting block",
+        "Running start from the deck",
+        "Starting in the water holding the wall",
+        "Floating on the back"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In backstroke races, swimmers start in the water while gripping a handle on the starting block or the pool wall, then push off backward at the starting signal.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-12",
+      "question": "What is open water swimming in the Olympics?",
+      "options": [
+        "A pool race with no lane ropes",
+        "Swimming in the rain",
+        "A relay in an outdoor pool",
+        "A long-distance race in a natural body of water"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Open water swimming is a long-distance race (10 km at the Olympics) conducted in a natural body of water such as a lake, river, or ocean. It became an Olympic event in 2008.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-13",
+      "question": "Which country has historically dominated Olympic diving?",
+      "options": [
+        "United States",
+        "Australia",
+        "Russia",
+        "China"
+      ],
+      "correctAnswer": 3,
+      "explanation": "China has dominated Olympic diving since the 1980s, winning the majority of gold medals. Chinese divers have won over 40 Olympic gold medals in the sport.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-14",
+      "question": "How many lanes does a standard Olympic swimming pool have?",
+      "options": [
+        "12",
+        "6",
+        "10",
+        "8"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A standard Olympic swimming pool has 8 lanes, each 2.5 meters wide. The pool is 50 meters long and at least 2 meters deep.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "swimming-diving-quiz-15",
+      "question": "What is the 'dolphin kick' used in?",
+      "options": [
+        "Butterfly stroke",
+        "Freestyle",
+        "Breaststroke",
+        "Backstroke"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The dolphin kick is the primary kicking technique used in the butterfly stroke. Both legs move together in a wave-like motion resembling a dolphin's tail. It is also used in underwater phases of all strokes.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

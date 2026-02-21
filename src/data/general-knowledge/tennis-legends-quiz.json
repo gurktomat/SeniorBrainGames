@@ -1,0 +1,219 @@
+{
+  "id": "tennis-legends-quiz",
+  "title": "Tennis Legends",
+  "description": "How well do you know the greatest tennis players and Grand Slam history?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tennis-legends-quiz-1",
+      "question": "What are the four Grand Slam tennis tournaments?",
+      "options": [
+        "US Open, French Open, Wimbledon, Canadian Open",
+        "US Open, French Open, Wimbledon, Indian Wells",
+        "US Open, French Open, Wimbledon, Australian Open",
+        "US Open, French Open, Wimbledon, Italian Open"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four Grand Slam tournaments are the Australian Open, French Open (Roland Garros), Wimbledon, and US Open. They are the most prestigious events in tennis.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-2",
+      "question": "Which male tennis player holds the record for most Grand Slam singles titles?",
+      "options": [
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Pete Sampras",
+        "Roger Federer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Novak Djokovic holds the record for most Grand Slam singles titles with 24 as of 2024, surpassing Rafael Nadal's 22 and Roger Federer's 20.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-3",
+      "question": "On what surface is Wimbledon played?",
+      "options": [
+        "Grass",
+        "Carpet",
+        "Hard court",
+        "Clay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wimbledon is played on grass courts, making it the only Grand Slam tournament played on this surface. The tournament has been held at the All England Club since 1877.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-4",
+      "question": "Which female tennis player won 23 Grand Slam singles titles?",
+      "options": [
+        "Martina Navratilova",
+        "Steffi Graf",
+        "Margaret Court",
+        "Serena Williams"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Serena Williams won 23 Grand Slam singles titles in the Open Era, the most by any player during this period. Margaret Court holds the all-time record with 24 (including pre-Open Era titles).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-5",
+      "question": "What is a 'Grand Slam' in tennis (as an achievement)?",
+      "options": [
+        "Winning three consecutive tournaments",
+        "Winning a match without losing a set",
+        "Winning 10 majors",
+        "Winning all four Grand Slam tournaments in one calendar year"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Grand Slam in tennis means winning all four major tournaments (Australian Open, French Open, Wimbledon, US Open) in the same calendar year. Only a handful of players have achieved this.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-6",
+      "question": "Which tennis player was known as 'The Ice Man' for his calm demeanor?",
+      "options": [
+        "Boris Becker",
+        "Bjorn Borg",
+        "Stefan Edberg",
+        "Ivan Lendl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bjorn Borg of Sweden was known as 'The Ice Man' or 'Ice-Borg' for his cool, unflappable demeanor on court. He won 11 Grand Slam titles and 6 consecutive French Opens.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-7",
+      "question": "What is the scoring sequence in a tennis game?",
+      "options": [
+        "15, 30, 40, game",
+        "10, 20, 30, game",
+        "1, 2, 3, game",
+        "15, 30, 45, game"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tennis uses the scoring sequence love (0), 15, 30, 40, game. If both players reach 40, it is called 'deuce,' and a player must win by two consecutive points.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-8",
+      "question": "Who was the first African American man to win a Grand Slam singles title?",
+      "options": [
+        "MaliVai Washington",
+        "James Blake",
+        "Yannick Noah",
+        "Arthur Ashe"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Arthur Ashe became the first African American man to win a Grand Slam singles title at the 1968 US Open. He also won the Australian Open (1970) and Wimbledon (1975).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-9",
+      "question": "What is a 'tiebreak' in tennis?",
+      "options": [
+        "A coin toss to decide the winner",
+        "An extra match to decide a draw",
+        "A sudden death point",
+        "A special game played when a set is tied at 6-6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tiebreak is a special game played when a set reaches 6-6. Players alternate serves, and the first to reach 7 points (with a 2-point lead) wins the tiebreak and the set.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-10",
+      "question": "Which Spanish player is known as 'The King of Clay'?",
+      "options": [
+        "Juan Martin del Potro",
+        "Carlos Alcaraz",
+        "David Ferrer",
+        "Rafael Nadal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rafael Nadal is known as 'The King of Clay' for his dominance on clay courts, especially at the French Open where he won a record 14 titles.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-11",
+      "question": "What was unique about the longest match in Wimbledon history between Isner and Mahut in 2010?",
+      "options": [
+        "Both of these",
+        "The final set ended 70-68",
+        "Neither of these",
+        "It lasted 11 hours 5 minutes over 3 days"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 2010 Wimbledon match between John Isner and Nicolas Mahut lasted 11 hours 5 minutes over three days, with the final set ending 70-68 in Isner's favor. It remains the longest match in tennis history.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-12",
+      "question": "What is an 'ace' in tennis?",
+      "options": [
+        "Hitting a winner from the baseline",
+        "Winning a set 6-0",
+        "Winning a game without losing a point",
+        "A serve that the opponent cannot return"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An ace is a legal serve that the receiving player is unable to touch with their racket. It is an outright point for the server.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-13",
+      "question": "Which female player achieved the Calendar Year Grand Slam in 1988?",
+      "options": [
+        "Martina Navratilova",
+        "Chris Evert",
+        "Steffi Graf",
+        "Monica Seles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Steffi Graf won all four Grand Slam titles and the Olympic gold medal in 1988, achieving what is called the 'Golden Slam' — the only player ever to do so in a single calendar year.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-14",
+      "question": "What surface is the French Open played on?",
+      "options": [
+        "Indoor carpet",
+        "Clay",
+        "Grass",
+        "Hard court"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The French Open (Roland Garros) is played on red clay courts. The slower surface favors baseline players with heavy topspin and stamina.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "tennis-legends-quiz-15",
+      "question": "Which twins both reached world No. 1 in doubles tennis?",
+      "options": [
+        "The Murray brothers",
+        "The Woodies",
+        "The Williams sisters",
+        "The Bryan brothers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bob and Mike Bryan, identical twins from the United States, became the most successful doubles team in tennis history, winning 16 Grand Slam men's doubles titles together.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

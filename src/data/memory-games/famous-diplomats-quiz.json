@@ -1,0 +1,219 @@
+{
+  "id": "famous-diplomats-quiz",
+  "title": "Famous Diplomats Quiz",
+  "description": "How well do you recall the diplomats who shaped international relations?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-diplomats-quiz-1",
+      "question": "Which diplomat served as US Secretary of State and won the Nobel Peace Prize for negotiating the end of the Vietnam War?",
+      "options": [
+        "Dean Rusk",
+        "George Shultz",
+        "Henry Kissinger",
+        "Cyrus Vance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Henry Kissinger won the 1973 Nobel Peace Prize for negotiating the Paris Peace Accords that ended US involvement in the Vietnam War.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-2",
+      "question": "Which diplomat helped create the United Nations and served as its first Secretary-General?",
+      "options": [
+        "Trygve Lie",
+        "U Thant",
+        "Kofi Annan",
+        "Dag Hammarskjöld"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trygve Lie of Norway served as the first Secretary-General of the United Nations from 1946 to 1952.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-3",
+      "question": "Which Austrian diplomat organized the Congress of Vienna after Napoleon's defeat?",
+      "options": [
+        "Otto von Bismarck",
+        "Castlereagh",
+        "Klemens von Metternich",
+        "Talleyrand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prince Klemens von Metternich hosted and dominated the Congress of Vienna (1814-1815), which redesigned Europe's political map after the Napoleonic Wars.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-4",
+      "question": "Which American diplomat developed the 'containment' policy against Soviet expansion?",
+      "options": [
+        "Dean Acheson",
+        "John Foster Dulles",
+        "George Marshall",
+        "George Kennan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "George Kennan articulated the containment policy in his famous 1947 'Long Telegram' and X Article, shaping US Cold War strategy for decades.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-5",
+      "question": "Which South African leader negotiated the end of apartheid and became the country's first Black president?",
+      "options": [
+        "Nelson Mandela",
+        "F.W. de Klerk",
+        "Desmond Tutu",
+        "Steve Biko"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nelson Mandela negotiated with President F.W. de Klerk to end apartheid and became South Africa's first Black president in 1994.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-6",
+      "question": "Which US diplomat created the Marshall Plan to rebuild post-WWII Europe?",
+      "options": [
+        "Averell Harriman",
+        "Harry Truman",
+        "Dean Acheson",
+        "George Marshall"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Secretary of State George C. Marshall proposed the European Recovery Program (Marshall Plan) in 1947, winning the Nobel Peace Prize in 1953.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-7",
+      "question": "Which Egyptian president signed the Camp David Accords with Israel in 1978?",
+      "options": [
+        "Hosni Mubarak",
+        "Anwar Sadat",
+        "Gamal Abdel Nasser",
+        "Mohamed Morsi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anwar Sadat signed the Camp David Accords with Israeli Prime Minister Menachem Begin in 1978, mediated by President Jimmy Carter.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-8",
+      "question": "Which UN Secretary-General died in a mysterious plane crash in Africa in 1961?",
+      "options": [
+        "U Thant",
+        "Dag Hammarskjöld",
+        "Trygve Lie",
+        "Kurt Waldheim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dag Hammarskjöld, the second UN Secretary-General, died in a plane crash in Northern Rhodesia (now Zambia) on September 18, 1961.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-9",
+      "question": "Which French diplomat represented France at the Congress of Vienna despite France having lost the Napoleonic Wars?",
+      "options": [
+        "Napoleon",
+        "Metternich",
+        "Talleyrand",
+        "Louis XVIII"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Charles Maurice de Talleyrand skillfully represented France at the Congress of Vienna and managed to protect French interests despite being on the losing side.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-10",
+      "question": "Which diplomat was known as the architect of German unification in the 19th century?",
+      "options": [
+        "Otto von Bismarck",
+        "Klemens von Metternich",
+        "Friedrich von Holstein",
+        "Wilhelm I"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Otto von Bismarck, the 'Iron Chancellor,' used diplomacy and warfare to unite the German states into the German Empire in 1871.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-11",
+      "question": "Which American president brokered the Camp David Accords between Egypt and Israel?",
+      "options": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Richard Nixon",
+        "Ronald Reagan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President Jimmy Carter mediated the 1978 Camp David Accords between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-12",
+      "question": "Which US First Lady served as a delegate to the United Nations and helped draft the Universal Declaration of Human Rights?",
+      "options": [
+        "Bess Truman",
+        "Lady Bird Johnson",
+        "Jacqueline Kennedy",
+        "Eleanor Roosevelt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Eleanor Roosevelt chaired the UN committee that drafted the Universal Declaration of Human Rights, adopted in 1948.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-13",
+      "question": "Which diplomat's 'shuttle diplomacy' helped negotiate a ceasefire in the 1973 Arab-Israeli War?",
+      "options": [
+        "Zbigniew Brzezinski",
+        "James Baker",
+        "Henry Kissinger",
+        "George Shultz"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Henry Kissinger pioneered 'shuttle diplomacy,' traveling between Middle Eastern capitals to negotiate a ceasefire and disengagement agreements after the 1973 Yom Kippur War.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-14",
+      "question": "Which Ghanaian diplomat served as UN Secretary-General and won the Nobel Peace Prize in 2001?",
+      "options": [
+        "Ban Ki-moon",
+        "Javier Pérez de Cuéllar",
+        "Kofi Annan",
+        "Boutros Boutros-Ghali"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kofi Annan of Ghana served as UN Secretary-General from 1997 to 2006 and was awarded the Nobel Peace Prize in 2001.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-diplomats-quiz-15",
+      "question": "Which American president proposed the 'Fourteen Points' as a basis for peace after World War I?",
+      "options": [
+        "Woodrow Wilson",
+        "Calvin Coolidge",
+        "Theodore Roosevelt",
+        "Warren Harding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "President Woodrow Wilson presented his Fourteen Points to Congress in January 1918, outlining principles for peace including the creation of the League of Nations.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

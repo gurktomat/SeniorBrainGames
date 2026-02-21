@@ -8,8 +8,13 @@
     {
       "id": "wcui-1",
       "question": "Sushi, a dish made with vinegared rice and various toppings, originated in which country?",
-      "options": ["China", "Japan", "Korea", "Thailand"],
-      "correctAnswer": 1,
+      "options": [
+        "Korea",
+        "Thailand",
+        "China",
+        "Japan"
+      ],
+      "correctAnswer": 3,
       "explanation": "Sushi originated in Japan, evolving over centuries from a method of preserving fish in fermented rice. Modern nigiri sushi was developed in Tokyo in the early 19th century.",
       "difficulty": "easy",
       "category": "culture"
@@ -17,7 +22,12 @@
     {
       "id": "wcui-2",
       "question": "Which country is the birthplace of pizza?",
-      "options": ["France", "Greece", "Italy", "Spain"],
+      "options": [
+        "France",
+        "Greece",
+        "Italy",
+        "Spain"
+      ],
       "correctAnswer": 2,
       "explanation": "Modern pizza originated in Naples, Italy, in the 18th century. The classic Margherita pizza, topped with tomato, mozzarella, and basil, was reportedly created in 1889 to honor Queen Margherita.",
       "difficulty": "easy",
@@ -26,8 +36,13 @@
     {
       "id": "wcui-3",
       "question": "Tacos, burritos, and enchiladas are staple foods from which country's cuisine?",
-      "options": ["Spain", "Mexico", "Argentina", "Brazil"],
-      "correctAnswer": 1,
+      "options": [
+        "Mexico",
+        "Brazil",
+        "Spain",
+        "Argentina"
+      ],
+      "correctAnswer": 0,
       "explanation": "These dishes are all staples of Mexican cuisine, which was designated a UNESCO Intangible Cultural Heritage in 2010 for its ancient techniques and communal traditions.",
       "difficulty": "easy",
       "category": "culture"
@@ -35,8 +50,13 @@
     {
       "id": "wcui-4",
       "question": "Which spice gives curry its distinctive yellow color?",
-      "options": ["Paprika", "Saffron", "Turmeric", "Cumin"],
-      "correctAnswer": 2,
+      "options": [
+        "Cumin",
+        "Turmeric",
+        "Paprika",
+        "Saffron"
+      ],
+      "correctAnswer": 1,
       "explanation": "Turmeric gives curry its characteristic bright yellow color. It contains curcumin, a compound that has been studied for its anti-inflammatory and antioxidant properties.",
       "difficulty": "easy",
       "category": "culture"
@@ -44,8 +64,13 @@
     {
       "id": "wcui-5",
       "question": "Croissants, often associated with France, were actually inspired by a crescent-shaped pastry from which country?",
-      "options": ["Austria", "Belgium", "Germany", "Switzerland"],
-      "correctAnswer": 0,
+      "options": [
+        "Belgium",
+        "Austria",
+        "Germany",
+        "Switzerland"
+      ],
+      "correctAnswer": 1,
       "explanation": "The croissant was inspired by the Austrian kipferl, a crescent-shaped pastry. The story links it to the 1683 Ottoman siege of Vienna, though French bakers later perfected the flaky, buttery version we know today.",
       "difficulty": "easy",
       "category": "culture"
@@ -53,8 +78,13 @@
     {
       "id": "wcui-6",
       "question": "Kimchi, a fermented vegetable dish, is a cornerstone of which country's cuisine?",
-      "options": ["Japan", "China", "Vietnam", "South Korea"],
-      "correctAnswer": 3,
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correctAnswer": 2,
       "explanation": "Kimchi is a staple of Korean cuisine, typically made from napa cabbage or radishes fermented with chili pepper, garlic, ginger, and salted seafood. There are hundreds of regional varieties.",
       "difficulty": "medium",
       "category": "culture"
@@ -62,8 +92,13 @@
     {
       "id": "wcui-7",
       "question": "What is the traditional main ingredient in a Greek moussaka?",
-      "options": ["Zucchini", "Potato", "Eggplant", "Tomato"],
-      "correctAnswer": 2,
+      "options": [
+        "Potato",
+        "Eggplant",
+        "Zucchini",
+        "Tomato"
+      ],
+      "correctAnswer": 1,
       "explanation": "Greek moussaka is a layered casserole dish traditionally made with sliced eggplant, ground meat (usually lamb), and topped with a creamy bechamel sauce. It was popularized in its modern form by chef Nikolaos Tselementes in the 1920s.",
       "difficulty": "medium",
       "category": "culture"
@@ -71,8 +106,13 @@
     {
       "id": "wcui-8",
       "question": "Pho, a fragrant noodle soup, is the national dish of which country?",
-      "options": ["Thailand", "Vietnam", "Laos", "Cambodia"],
-      "correctAnswer": 1,
+      "options": [
+        "Thailand",
+        "Cambodia",
+        "Laos",
+        "Vietnam"
+      ],
+      "correctAnswer": 3,
       "explanation": "Pho is a Vietnamese soup consisting of broth, rice noodles, herbs, and meat (usually beef or chicken). It originated in northern Vietnam in the early 20th century and is now beloved worldwide.",
       "difficulty": "medium",
       "category": "culture"
@@ -80,8 +120,13 @@
     {
       "id": "wcui-9",
       "question": "Which Middle Eastern dip is made primarily from chickpeas, tahini, lemon juice, and garlic?",
-      "options": ["Baba ganoush", "Tzatziki", "Hummus", "Labneh"],
-      "correctAnswer": 2,
+      "options": [
+        "Tzatziki",
+        "Hummus",
+        "Baba ganoush",
+        "Labneh"
+      ],
+      "correctAnswer": 1,
       "explanation": "Hummus is a creamy dip made from mashed chickpeas blended with tahini (sesame paste), lemon juice, and garlic. It has been eaten in the Middle East for centuries and is now popular globally.",
       "difficulty": "medium",
       "category": "culture"
@@ -89,8 +134,13 @@
     {
       "id": "wcui-10",
       "question": "Paella, a rice dish cooked in a wide shallow pan, originated in which region of Spain?",
-      "options": ["Catalonia", "Andalusia", "Valencia", "Galicia"],
-      "correctAnswer": 2,
+      "options": [
+        "Catalonia",
+        "Valencia",
+        "Galicia",
+        "Andalusia"
+      ],
+      "correctAnswer": 1,
       "explanation": "Paella originated in the Valencia region of eastern Spain. Traditional Valencian paella includes rice, green beans, white beans, rabbit, chicken, and snails, cooked over an open fire with saffron.",
       "difficulty": "medium",
       "category": "culture"
@@ -98,7 +148,12 @@
     {
       "id": "wcui-11",
       "question": "Which Ethiopian bread, made from teff flour and used as both plate and utensil, is a staple of the cuisine?",
-      "options": ["Naan", "Injera", "Pita", "Chapati"],
+      "options": [
+        "Naan",
+        "Injera",
+        "Chapati",
+        "Pita"
+      ],
       "correctAnswer": 1,
       "explanation": "Injera is a spongy, sourdough flatbread made from teff flour, unique to Ethiopian and Eritrean cuisine. Diners tear off pieces to scoop up stews and vegetables, making it both plate and utensil.",
       "difficulty": "hard",
@@ -107,7 +162,12 @@
     {
       "id": "wcui-12",
       "question": "What is the Japanese practice of 'umami,' identified by chemist Kikunae Ikeda in 1908?",
-      "options": ["A tea ceremony technique", "The fifth basic taste", "A rice cooking method", "A knife skill"],
+      "options": [
+        "A tea ceremony technique",
+        "The fifth basic taste",
+        "A rice cooking method",
+        "A knife skill"
+      ],
       "correctAnswer": 1,
       "explanation": "Umami is the fifth basic taste (alongside sweet, sour, salty, and bitter), described as a savory or meaty flavor. It was identified by Japanese chemist Kikunae Ikeda in 1908 from the glutamate in kombu seaweed.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "wcui-13",
       "question": "Ceviche, a dish of raw fish cured in citrus juice, is considered the national dish of which country?",
-      "options": ["Mexico", "Ecuador", "Peru", "Chile"],
-      "correctAnswer": 2,
+      "options": [
+        "Peru",
+        "Mexico",
+        "Ecuador",
+        "Chile"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ceviche is considered the national dish of Peru, where it has been prepared for thousands of years. The citric acid in lime juice denatures the proteins in the fish, effectively 'cooking' it without heat.",
       "difficulty": "hard",
       "category": "culture"
@@ -125,7 +190,12 @@
     {
       "id": "wcui-14",
       "question": "Which spice, the world's most expensive by weight, is derived from the stigmas of a crocus flower?",
-      "options": ["Vanilla", "Cardamom", "Saffron", "Star anise"],
+      "options": [
+        "Vanilla",
+        "Star anise",
+        "Saffron",
+        "Cardamom"
+      ],
       "correctAnswer": 2,
       "explanation": "Saffron is the world's most expensive spice by weight, derived from the hand-picked stigmas of the Crocus sativus flower. It takes about 75,000 flowers to produce one pound of saffron.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "wcui-15",
       "question": "Tagine, a slow-cooked stew named after the conical clay pot it's cooked in, is a signature dish of which country?",
-      "options": ["Tunisia", "Egypt", "Morocco", "Algeria"],
-      "correctAnswer": 2,
+      "options": [
+        "Algeria",
+        "Tunisia",
+        "Egypt",
+        "Morocco"
+      ],
+      "correctAnswer": 3,
       "explanation": "Tagine is a signature dish of Moroccan cuisine, named after the distinctive conical earthenware pot in which it's cooked. The cone-shaped lid traps steam, creating tender, flavorful dishes with minimal liquid.",
       "difficulty": "hard",
       "category": "culture"

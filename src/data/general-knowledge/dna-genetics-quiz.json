@@ -1,0 +1,173 @@
+{
+  "id": "dna-genetics-quiz",
+  "title": "DNA & Genetics",
+  "description": "Unravel the mysteries of DNA, genes, and heredity in this genetics quiz",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "dna-genetics-quiz-1",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Dynamic Nucleic Arrangement",
+        "Deoxyribonucleic Acid",
+        "Dual Nitrogen Alloy",
+        "Dinitrogen Acid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-2",
+      "question": "Who discovered the double helix structure of DNA in 1953?",
+      "options": [
+        "Gregor Mendel and Charles Darwin",
+        "James Watson and Francis Crick",
+        "Barbara McClintock and Thomas Morgan",
+        "Rosalind Franklin and Linus Pauling"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-3",
+      "question": "Which scientist is known as the 'father of genetics' for his work with pea plants?",
+      "options": [
+        "Louis Pasteur",
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Carl Linnaeus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-4",
+      "question": "How many pairs of chromosomes does a typical human cell contain?",
+      "options": [
+        "21",
+        "23",
+        "46",
+        "25"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-5",
+      "question": "Which four bases make up the 'rungs' of the DNA ladder?",
+      "options": [
+        "Arginine, Threonine, Glutamine, Choline",
+        "Adenine, Thymine, Guanine, Cytosine",
+        "Alanine, Tryptophan, Glycine, Cysteine",
+        "Asparagine, Tyrosine, Glucose, Cellulose"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-6",
+      "question": "What is the term for a section of DNA that codes for a specific protein?",
+      "options": [
+        "Genome",
+        "Allele",
+        "Gene",
+        "Chromosome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-7",
+      "question": "What project, completed in 2003, mapped the entire human genome?",
+      "options": [
+        "Gene Therapy Project",
+        "DNA Initiative",
+        "Human Genome Project",
+        "Genetic Atlas Project"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-8",
+      "question": "What is the name of the process by which DNA makes a copy of itself?",
+      "options": [
+        "Translation",
+        "Mutation",
+        "Replication",
+        "Transcription"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-9",
+      "question": "Dolly the sheep, born in 1996, was famous for being the first what?",
+      "options": [
+        "Test-tube animal",
+        "Animal with artificial DNA",
+        "Genetically modified animal",
+        "Cloned mammal from an adult cell"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dna-genetics-quiz-10",
+      "question": "What revolutionary gene-editing technology was developed in the 2010s?",
+      "options": [
+        "CRISPR-Cas9",
+        "Gel electrophoresis",
+        "PCR",
+        "Western blot"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dna-genetics-quiz-11",
+      "question": "What type of inheritance pattern means a trait is only expressed when two copies of the allele are present?",
+      "options": [
+        "Codominant",
+        "Polygenic",
+        "Recessive",
+        "Dominant"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-12",
+      "question": "Which molecule carries genetic instructions from DNA to the ribosome for protein synthesis?",
+      "options": [
+        "Transfer RNA",
+        "Messenger RNA",
+        "Ribosomal RNA",
+        "MicroRNA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-13",
+      "question": "What is a change in the DNA sequence called?",
+      "options": [
+        "Translation",
+        "Mutation",
+        "Replication",
+        "Transcription"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dna-genetics-quiz-14",
+      "question": "Which sex chromosomes determine a biological male in humans?",
+      "options": [
+        "XO",
+        "XX",
+        "XY",
+        "YY"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dna-genetics-quiz-15",
+      "question": "Whose X-ray crystallography work was crucial to discovering DNA's structure?",
+      "options": [
+        "Lise Meitner",
+        "Dorothy Hodgkin",
+        "Rosalind Franklin",
+        "Marie Curie"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

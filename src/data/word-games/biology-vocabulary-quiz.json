@@ -1,0 +1,173 @@
+{
+  "id": "biology-vocabulary-quiz",
+  "title": "Biology Vocabulary Quiz",
+  "description": "Discover the language of life sciences, from cells and organisms to ecosystems and evolution.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "biology-vocabulary-quiz-1",
+      "question": "What is 'photosynthesis'?",
+      "options": [
+        "The breakdown of food in the stomach",
+        "The process by which plants convert sunlight into chemical energy",
+        "The movement of water through soil",
+        "The reproduction of cells"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "biology-vocabulary-quiz-2",
+      "question": "What does 'mitosis' refer to?",
+      "options": [
+        "The death of cells",
+        "The movement of organisms",
+        "A type of cell division that results in two identical daughter cells",
+        "The study of muscles"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "biology-vocabulary-quiz-3",
+      "question": "What is a 'chromosome'?",
+      "options": [
+        "A part of the cell membrane",
+        "An organ in the body",
+        "A type of protein",
+        "A thread-like structure of DNA that carries genetic information"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-4",
+      "question": "What does 'osmosis' describe?",
+      "options": [
+        "The formation of new cells",
+        "The evaporation of water from leaves",
+        "The movement of water through a semipermeable membrane from low to high solute concentration",
+        "The digestion of proteins"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "biology-vocabulary-quiz-5",
+      "question": "What is 'taxonomy'?",
+      "options": [
+        "The study of diseases",
+        "The measurement of body temperature",
+        "The science of classifying and naming organisms",
+        "The study of fossils"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "biology-vocabulary-quiz-6",
+      "question": "What does 'symbiosis' mean?",
+      "options": [
+        "The death of an organism",
+        "The migration of animals",
+        "Competition between species",
+        "A close and often long-term interaction between different species"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-7",
+      "question": "What is 'metabolism'?",
+      "options": [
+        "The sum of all chemical reactions in a living organism",
+        "The process of breathing",
+        "The growth of bones",
+        "The movement of blood through veins"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "biology-vocabulary-quiz-8",
+      "question": "What is an 'enzyme'?",
+      "options": [
+        "A type of blood cell",
+        "A structural protein in muscles",
+        "A type of hormone",
+        "A biological catalyst that speeds up chemical reactions in the body"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-9",
+      "question": "What does 'adaptation' mean in biology?",
+      "options": [
+        "The process of decay",
+        "The migration of animals",
+        "The extinction of a species",
+        "A trait that helps an organism survive and reproduce in its environment"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-10",
+      "question": "What is 'cytoplasm'?",
+      "options": [
+        "The wall of a plant cell",
+        "The jelly-like substance inside a cell that surrounds the nucleus",
+        "The DNA in a cell",
+        "The outer shell of a cell"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "biology-vocabulary-quiz-11",
+      "question": "What is a 'genome'?",
+      "options": [
+        "A type of cell",
+        "A single gene",
+        "The complete set of genetic material in an organism",
+        "A protein molecule"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "biology-vocabulary-quiz-12",
+      "question": "What does 'biodiversity' refer to?",
+      "options": [
+        "The variety of life forms in an ecosystem or on Earth",
+        "The number of plants in a garden",
+        "The depth of the ocean",
+        "The height of a forest canopy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "biology-vocabulary-quiz-13",
+      "question": "What is 'homeostasis'?",
+      "options": [
+        "The process of reproduction",
+        "The growth of new tissue",
+        "The ability to move quickly",
+        "The maintenance of a stable internal environment in an organism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-14",
+      "question": "What does 'mutation' mean in biology?",
+      "options": [
+        "The growth of an organism",
+        "The death of a cell",
+        "The splitting of a cell",
+        "A change in the DNA sequence of an organism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "biology-vocabulary-quiz-15",
+      "question": "What is 'cellular respiration'?",
+      "options": [
+        "Breathing through the nose",
+        "The process by which cells break down glucose to produce energy",
+        "The movement of air in the lungs",
+        "The absorption of oxygen through the skin"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

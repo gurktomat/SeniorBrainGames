@@ -1,0 +1,219 @@
+{
+  "id": "modern-art-movements",
+  "title": "Modern Art Movements",
+  "description": "From Cubism to Pop Art, explore the revolutionary movements that changed the world of art!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "modern-art-movements-1",
+      "question": "Which art movement, pioneered by Pablo Picasso and Georges Braque, broke objects into geometric shapes?",
+      "options": [
+        "Expressionism",
+        "Cubism",
+        "Surrealism",
+        "Fauvism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cubism (c. 1907-1920s) revolutionized painting by depicting subjects from multiple viewpoints simultaneously. Picasso's 'Les Demoiselles d'Avignon' (1907) is considered a proto-Cubist masterpiece.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-2",
+      "question": "Which movement, led by André Breton, sought to channel the unconscious mind in art?",
+      "options": [
+        "Art Nouveau",
+        "Surrealism",
+        "Dadaism",
+        "Minimalism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Surrealism emerged in the 1920s, inspired by Sigmund Freud's theories of the unconscious. Artists like Salvador Dalí and René Magritte created dreamlike, irrational images.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-3",
+      "question": "Andy Warhol's Campbell's Soup Cans and Marilyn Monroe portraits are icons of which movement?",
+      "options": [
+        "Op Art",
+        "Minimalism",
+        "Abstract Expressionism",
+        "Pop Art"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pop Art emerged in the 1950s and 1960s, drawing on popular culture, advertising, and mass media. Warhol's silk-screen prints of consumer products and celebrities defined the movement.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-4",
+      "question": "Which early 20th-century movement used bold, non-naturalistic colors, earning its artists the nickname 'wild beasts'?",
+      "options": [
+        "Cubism",
+        "Futurism",
+        "Fauvism",
+        "Impressionism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fauvism was named by critic Louis Vauxcelles, who called the painters 'les fauves' (the wild beasts) at the 1905 Salon d'Automne. Henri Matisse was the movement's leading figure.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-5",
+      "question": "Jackson Pollock was a leading figure of which American art movement?",
+      "options": [
+        "Abstract Expressionism",
+        "Photorealism",
+        "Color Field Painting",
+        "Pop Art"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Abstract Expressionism emerged in New York in the 1940s and was the first major American art movement to achieve international influence. Pollock's signature 'drip paintings' were created by pouring paint onto canvas laid on the floor.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-6",
+      "question": "The Dada movement originated during World War I in which Swiss city?",
+      "options": [
+        "Zurich",
+        "Bern",
+        "Basel",
+        "Geneva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dada began in 1916 at the Cabaret Voltaire in Zurich, founded by artists protesting the war and the culture they blamed for it. The movement embraced absurdity and anti-art sentiments.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-7",
+      "question": "Which movement, associated with Piet Mondrian, reduced art to geometric shapes and primary colors?",
+      "options": [
+        "Suprematism",
+        "Bauhaus",
+        "De Stijl (Neoplasticism)",
+        "Constructivism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "De Stijl ('The Style'), founded in 1917 in the Netherlands, sought universal beauty through abstraction. Mondrian's compositions of black lines and blocks of red, blue, and yellow became its most recognized works.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-8",
+      "question": "Which Italian movement celebrated speed, machinery, and modern technology in art?",
+      "options": [
+        "Metaphysical Art",
+        "Futurism",
+        "Neo-Expressionism",
+        "Arte Povera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Futurism was founded by Filippo Marinetti in 1909. The movement glorified modernity, speed, and industrial progress. Artists like Umberto Boccioni captured movement and dynamism in their paintings and sculptures.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-9",
+      "question": "Marcel Duchamp's 'Fountain,' a signed urinal submitted as art, challenged conventions of which movement?",
+      "options": [
+        "Dada",
+        "Futurism",
+        "Cubism",
+        "Surrealism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Duchamp submitted the porcelain urinal, signed 'R. Mutt,' to a 1917 exhibition. This 'readymade' challenged the very definition of art and became one of the most influential works of the 20th century.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-10",
+      "question": "Which German school of art and design, founded by Walter Gropius in 1919, combined crafts and fine arts?",
+      "options": [
+        "De Stijl",
+        "Bauhaus",
+        "Arts and Crafts",
+        "Vienna Secession"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bauhaus school (1919-1933) profoundly influenced modern art, architecture, and design. Teachers included Paul Klee, Wassily Kandinsky, and László Moholy-Nagy. The Nazis forced it to close in 1933.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-11",
+      "question": "Which movement featured artists like Donald Judd and Dan Flavin using simple geometric forms?",
+      "options": [
+        "Minimalism",
+        "Land Art",
+        "Conceptual Art",
+        "Fluxus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Minimalism emerged in the 1960s, stripping art down to its essential geometric elements. The movement rejected the emotional intensity of Abstract Expressionism in favor of impersonal, industrial forms.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-12",
+      "question": "Salvador Dalí's 'The Persistence of Memory' features what famous melting objects?",
+      "options": [
+        "Ice cream cones",
+        "Faces",
+        "Candles",
+        "Clocks"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The Persistence of Memory' (1931) features soft, melting pocket watches draped over a barren landscape. Dalí said the idea came from observing Camembert cheese melting in the sun.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-13",
+      "question": "Which Post-Impressionist painter is famous for painting Tahitian women and vibrant tropical scenes?",
+      "options": [
+        "Paul Gauguin",
+        "Georges Seurat",
+        "Henri de Toulouse-Lautrec",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Paul Gauguin left France for Tahiti in 1891 seeking a more 'primitive' and authentic way of life. His bold colors and simplified forms influenced Fauvism and other modern movements.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-14",
+      "question": "The Art Nouveau movement of the late 1800s was characterized by what type of forms?",
+      "options": [
+        "Flowing organic curves inspired by nature",
+        "Sharp geometric angles",
+        "Random splashes and drips",
+        "Solid blocks of primary colors"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Art Nouveau (c. 1890-1910) featured sinuous, flowing lines inspired by plants, flowers, and insects. The style appeared in architecture, furniture, jewelry, and poster design across Europe.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "modern-art-movements-15",
+      "question": "Which artist is famous for large-scale wrapping projects, including wrapping the Reichstag in Berlin?",
+      "options": [
+        "Christo and Jeanne-Claude",
+        "Ai Weiwei",
+        "Jeff Koons",
+        "Banksy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Christo and Jeanne-Claude created monumental environmental artworks, including wrapping the Reichstag in silvery fabric in 1995. Their temporary installations transformed landmarks and landscapes worldwide.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

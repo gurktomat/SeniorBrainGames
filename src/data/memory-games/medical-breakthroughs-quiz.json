@@ -1,0 +1,173 @@
+{
+  "id": "medical-breakthroughs-quiz",
+  "title": "Medical Breakthroughs Quiz",
+  "description": "From vaccines to organ transplants, test your recall of the most important medical breakthroughs in history.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "medical-breakthroughs-quiz-1",
+      "question": "Who discovered penicillin, the first widely used antibiotic?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Paul Ehrlich",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-2",
+      "question": "In what decade were X-rays discovered by Wilhelm Röntgen?",
+      "options": [
+        "1880s",
+        "1890s",
+        "1900s",
+        "1870s"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-3",
+      "question": "Who performed the first successful human heart transplant in 1967?",
+      "options": [
+        "Norman Shumway",
+        "Christiaan Barnard",
+        "Denton Cooley",
+        "Michael DeBakey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-4",
+      "question": "What medical imaging technology uses magnetic fields and radio waves?",
+      "options": [
+        "MRI",
+        "Ultrasound",
+        "CT scan",
+        "X-ray"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medical-breakthroughs-quiz-5",
+      "question": "Who developed the first successful polio vaccine in 1955?",
+      "options": [
+        "John Enders",
+        "Albert Sabin",
+        "Jonas Salk",
+        "Hilary Koprowski"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medical-breakthroughs-quiz-6",
+      "question": "What was the first disease to be eradicated worldwide through vaccination?",
+      "options": [
+        "Tuberculosis",
+        "Smallpox",
+        "Polio",
+        "Measles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-7",
+      "question": "Who is considered the pioneer of antiseptic surgery?",
+      "options": [
+        "William Halsted",
+        "Joseph Lister",
+        "Ignaz Semmelweis",
+        "Robert Koch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-8",
+      "question": "What revolutionary medical tool did René Laennec invent in 1816?",
+      "options": [
+        "Thermometer",
+        "Blood pressure cuff",
+        "Syringe",
+        "Stethoscope"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-breakthroughs-quiz-9",
+      "question": "The Human Genome Project, completed in 2003, mapped all the genes in what?",
+      "options": [
+        "Plant DNA",
+        "A single chromosome",
+        "Animal DNA",
+        "Human DNA"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-breakthroughs-quiz-10",
+      "question": "Who discovered insulin as a treatment for diabetes in 1921?",
+      "options": [
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Frederick Banting and Charles Best"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-breakthroughs-quiz-11",
+      "question": "What type of anesthesia was first publicly demonstrated in 1846 at Massachusetts General Hospital?",
+      "options": [
+        "Chloroform",
+        "Spinal anesthesia",
+        "Ether anesthesia",
+        "Local anesthesia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medical-breakthroughs-quiz-12",
+      "question": "What technology allows doctors to see a baby in the womb using sound waves?",
+      "options": [
+        "X-ray",
+        "CT scan",
+        "MRI",
+        "Ultrasound"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-breakthroughs-quiz-13",
+      "question": "Who developed the technique of pasteurization?",
+      "options": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-breakthroughs-quiz-14",
+      "question": "What groundbreaking medical procedure involves using a patient's own immune cells to fight cancer?",
+      "options": [
+        "Gene therapy",
+        "Chemotherapy",
+        "Radiation therapy",
+        "Immunotherapy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-breakthroughs-quiz-15",
+      "question": "What device, first implanted in 1958, helps regulate the heartbeat?",
+      "options": [
+        "Pacemaker",
+        "Defibrillator",
+        "Stent",
+        "Heart valve"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

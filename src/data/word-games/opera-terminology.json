@@ -1,0 +1,219 @@
+{
+  "id": "opera-terminology",
+  "title": "Opera Terminology",
+  "description": "How well do you know the language of opera and vocal performance?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "opera-terminology-1",
+      "question": "In opera, what is an 'aria'?",
+      "options": [
+        "A self-contained piece for one voice, usually expressing emotion",
+        "The orchestra section",
+        "A group chorus number",
+        "The stage set design"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An aria is a solo vocal piece in an opera, typically elaborate and melodic, in which a character expresses their emotions or reflects on their situation.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-2",
+      "question": "What does 'libretto' mean in opera?",
+      "options": [
+        "A type of vocal range",
+        "The conductor's baton",
+        "The text or script of an opera",
+        "A small book of sheet music"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The libretto (Italian for 'little book') is the text of an opera, including all the words sung by the performers and any spoken dialogue.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-3",
+      "question": "In opera, what is a 'recitative'?",
+      "options": [
+        "A repeated musical theme",
+        "A style of singing that imitates natural speech patterns",
+        "A recording of a performance",
+        "A rehearsal session"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recitative is a style of vocal delivery that closely mirrors the rhythms and inflections of natural speech, used to advance the plot between arias.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-4",
+      "question": "What is a 'soprano' in opera?",
+      "options": [
+        "A style of singing softly",
+        "The lowest female voice type",
+        "The highest female voice type",
+        "A type of musical instrument"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Soprano is the highest female voice type in opera, typically ranging from middle C to high C and above. Soprano roles often include the heroine.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-5",
+      "question": "In opera, what is a 'coloratura'?",
+      "options": [
+        "Elaborate, ornamental vocal passages with rapid runs and trills",
+        "The color of stage lighting",
+        "A type of opera set in a colorful locale",
+        "The painted scenery on stage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coloratura refers to elaborate, agile vocal ornamentation including rapid scales, trills, and other virtuosic passages, requiring exceptional vocal technique.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-6",
+      "question": "What is a 'baritone' voice in opera?",
+      "options": [
+        "A voice that only whispers",
+        "The highest male voice",
+        "A female voice with a deep range",
+        "A male voice between tenor and bass"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Baritone is a male voice type that falls between the higher tenor and the lower bass, often cast as villains, fathers, or noble characters in opera.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-7",
+      "question": "In opera, what does 'bel canto' mean?",
+      "options": [
+        "Beautiful singing",
+        "Bold canvas",
+        "Bell chanting",
+        "Below center"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bel canto (Italian for 'beautiful singing') is an opera style emphasizing beauty of tone, elegant phrasing, and virtuosic agility, associated with Rossini, Donizetti, and Bellini.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-8",
+      "question": "What is the 'overture' in an opera?",
+      "options": [
+        "An instrumental introduction played before the curtain rises",
+        "A singer's opening bow",
+        "The final act",
+        "The intermission music"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The overture is an orchestral piece played at the beginning of an opera before the curtain rises, often introducing themes and setting the mood for the drama to follow.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-9",
+      "question": "In opera, what is a 'diva'?",
+      "options": [
+        "A distinguished female opera singer, especially a leading soprano",
+        "A dance sequence",
+        "A type of costume",
+        "A stage director"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diva (Italian for 'goddess') originally referred to a distinguished, celebrated female opera singer, particularly a leading soprano. It has since been used more broadly.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-10",
+      "question": "What does 'fortissimo' mean in opera and music?",
+      "options": [
+        "Very slow",
+        "Very fast",
+        "Very soft",
+        "Very loud"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fortissimo (abbreviated 'ff') is a dynamic marking meaning 'very loud,' directing performers to sing or play with great volume and intensity.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-11",
+      "question": "In opera, what is a 'duet'?",
+      "options": [
+        "A solo with accompaniment",
+        "A musical piece performed by two singers",
+        "A double performance on two stages",
+        "A second act of the opera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A duet is a musical composition for two performers singing together, often used in opera for love scenes, confrontations, or dramatic exchanges between characters.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-12",
+      "question": "What is 'vibrato' in vocal performance?",
+      "options": [
+        "A slight, rapid fluctuation in pitch that adds warmth to the voice",
+        "A sharp increase in volume",
+        "Speaking instead of singing",
+        "Singing without any expression"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vibrato is a slight, rapid oscillation in pitch that occurs naturally in a well-produced singing voice, adding warmth, richness, and expressiveness to the tone.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-13",
+      "question": "In opera, what is the 'prima donna'?",
+      "options": [
+        "The first audience member seated",
+        "The leading female singer in an opera",
+        "The costume designer",
+        "The opening musical note"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prima donna (Italian for 'first lady') is the leading female singer in an opera, typically the soprano who performs the principal role.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-14",
+      "question": "What is a 'falsetto' voice?",
+      "options": [
+        "A voice used only in rehearsals",
+        "A vocal register above the normal range, producing a lighter, higher tone",
+        "A false start to a performance",
+        "A fake accent used on stage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Falsetto is a vocal technique used primarily by male singers to produce tones in a register above their normal range, creating a lighter, breathier quality.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "opera-terminology-15",
+      "question": "In opera, what is the 'finale'?",
+      "options": [
+        "The opening number",
+        "The concluding section of an act or the entire opera",
+        "A fine-tuning rehearsal",
+        "The final payment to performers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The finale is the closing section of an act or the entire opera, often involving multiple characters singing together in an elaborate, dramatic conclusion.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

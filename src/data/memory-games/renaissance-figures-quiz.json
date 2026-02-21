@@ -1,0 +1,219 @@
+{
+  "id": "renaissance-figures-quiz",
+  "title": "Renaissance Figures Quiz",
+  "description": "How well do you remember the brilliant minds of the Renaissance?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "renaissance-figures-quiz-1",
+      "question": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
+      "options": [
+        "Raphael",
+        "Leonardo da Vinci",
+        "Donatello",
+        "Michelangelo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512, one of the most acclaimed artistic achievements in history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-2",
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Sandro Botticelli"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa between approximately 1503 and 1519. It is now housed in the Louvre Museum in Paris.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-3",
+      "question": "Which Renaissance figure proposed that the Earth revolves around the Sun?",
+      "options": [
+        "Galileo Galilei",
+        "Tycho Brahe",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nicolaus Copernicus published his heliocentric theory in 1543 in 'On the Revolutions of the Celestial Spheres.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-4",
+      "question": "Who wrote 'The Prince,' a famous treatise on political power?",
+      "options": [
+        "Baldassare Castiglione",
+        "Erasmus",
+        "Thomas More",
+        "Niccolò Machiavelli"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Niccolò Machiavelli wrote 'The Prince' in 1513, a groundbreaking work on political strategy and the use of power.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-5",
+      "question": "Which wealthy Florentine family were the greatest patrons of Renaissance art?",
+      "options": [
+        "Medici family",
+        "Este family",
+        "Borgia family",
+        "Sforza family"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Medici family, especially Lorenzo the Magnificent, were the most influential patrons of art and culture during the Italian Renaissance.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-6",
+      "question": "Which inventor developed the printing press with movable type around 1440?",
+      "options": [
+        "Leonardo da Vinci",
+        "William Caxton",
+        "Johannes Gutenberg",
+        "Aldus Manutius"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Johannes Gutenberg invented the printing press with movable type around 1440, revolutionizing the spread of knowledge in Europe.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-7",
+      "question": "Who sculpted the famous bronze doors of the Florence Baptistery, called the 'Gates of Paradise'?",
+      "options": [
+        "Benvenuto Cellini",
+        "Michelangelo",
+        "Donatello",
+        "Lorenzo Ghiberti"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lorenzo Ghiberti created the bronze doors of the Florence Baptistery (1425-1452), which Michelangelo reportedly called the 'Gates of Paradise.'",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-8",
+      "question": "Which Renaissance playwright wrote 'Romeo and Juliet' and 'Hamlet'?",
+      "options": [
+        "Christopher Marlowe",
+        "Ben Jonson",
+        "William Shakespeare",
+        "Edmund Spenser"
+      ],
+      "correctAnswer": 2,
+      "explanation": "William Shakespeare wrote over 37 plays during the English Renaissance, including Romeo and Juliet (c. 1597) and Hamlet (c. 1600).",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-9",
+      "question": "Who was the Renaissance astronomer put on trial by the Inquisition for supporting heliocentrism?",
+      "options": [
+        "Giordano Bruno",
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Galileo Galilei was tried by the Roman Inquisition in 1633 for supporting the Copernican heliocentric model and spent the rest of his life under house arrest.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-10",
+      "question": "Which Renaissance artist painted 'The School of Athens'?",
+      "options": [
+        "Leonardo da Vinci",
+        "Titian",
+        "Raphael",
+        "Michelangelo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Raphael painted 'The School of Athens' between 1509 and 1511 in the Vatican's Apostolic Palace, depicting famous philosophers of antiquity.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-11",
+      "question": "Who wrote 'Utopia,' describing an ideal society on a fictional island?",
+      "options": [
+        "Niccolò Machiavelli",
+        "Erasmus",
+        "Francis Bacon",
+        "Thomas More"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sir Thomas More published 'Utopia' in 1516, describing an ideal commonwealth on a fictional island. He was later executed by Henry VIII.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-12",
+      "question": "Which Renaissance artist created the sculpture 'David' standing over 14 feet tall?",
+      "options": [
+        "Ghiberti",
+        "Donatello",
+        "Michelangelo",
+        "Bernini"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Michelangelo sculpted his famous marble David between 1501 and 1504. It stands 17 feet tall in the Galleria dell'Accademia in Florence.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-13",
+      "question": "Which Dutch humanist scholar was known as the 'Prince of the Humanists'?",
+      "options": [
+        "Thomas More",
+        "Giovanni Boccaccio",
+        "Desiderius Erasmus",
+        "Petrarch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Desiderius Erasmus of Rotterdam was the greatest scholar of the Northern Renaissance, known for his wit and his critiques of the Catholic Church.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-14",
+      "question": "Who is considered the 'Father of the Renaissance' and wrote poetry in Italian rather than Latin?",
+      "options": [
+        "Petrarch",
+        "Giovanni Boccaccio",
+        "Lorenzo de Medici",
+        "Dante Alighieri"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Petrarch (Francesco Petrarca) is often called the 'Father of the Renaissance' and 'Father of Humanism' for his devotion to classical learning.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "renaissance-figures-quiz-15",
+      "question": "Which Renaissance painter was known for his vivid use of color and painted 'Venus of Urbino'?",
+      "options": [
+        "Raphael",
+        "Titian",
+        "Tintoretto",
+        "Veronese"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Titian (Tiziano Vecelli) was the leading painter of the Venetian school and was famous for his masterful use of color and his painting 'Venus of Urbino' (1538).",
+      "difficulty": "hard",
+      "category": "history"
+    }
+  ]
+}

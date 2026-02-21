@@ -1,0 +1,173 @@
+{
+  "id": "apostrophe-rules-quiz",
+  "title": "Apostrophe Rules Quiz",
+  "description": "Apostrophes cause more confusion than almost any other punctuation mark. See if you can use them correctly!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "apostrophe-rules-quiz-1",
+      "question": "What are the two main uses of apostrophes?",
+      "options": [
+        "Contractions and possession",
+        "Quotations and lists",
+        "Abbreviations and dates",
+        "Plurals and emphasis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "apostrophe-rules-quiz-2",
+      "question": "Which is correct?",
+      "options": [
+        "The dog wagged its tail.",
+        "The dog wagged its' tail.",
+        "The dog wagged it tail.",
+        "The dog wagged it's tail."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "apostrophe-rules-quiz-3",
+      "question": "Which contraction is correct for 'they are'?",
+      "options": [
+        "Theyre",
+        "They're",
+        "There",
+        "Their"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "apostrophe-rules-quiz-4",
+      "question": "Should an apostrophe be used for the plural of numbers? 'She scored in the ___.'",
+      "options": [
+        "90s'",
+        "90s",
+        "90's",
+        "Both A and B are accepted"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "apostrophe-rules-quiz-5",
+      "question": "Which is correct for a sign at a shop?",
+      "options": [
+        "Apples for sale",
+        "Apple's for sale",
+        "Apple for sale's",
+        "Apples' for sale"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "apostrophe-rules-quiz-6",
+      "question": "What does the apostrophe represent in 'don't'?",
+      "options": [
+        "Emphasis",
+        "The missing letter 'o' in 'not'",
+        "Plural",
+        "Possession"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "apostrophe-rules-quiz-7",
+      "question": "Which is correct? '___ the best restaurant in town.'",
+      "options": [
+        "Its'",
+        "Itss",
+        "Its",
+        "It's"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "apostrophe-rules-quiz-8",
+      "question": "How do you write the possessive of 'everybody'?",
+      "options": [
+        "Everybodys",
+        "Everybodys'",
+        "Everybody's",
+        "Everybodies"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "apostrophe-rules-quiz-9",
+      "question": "Which decade reference is correct?",
+      "options": [
+        "The 1960s' were exciting.",
+        "Both A and B are widely accepted.",
+        "The 1960's were exciting.",
+        "The 1960s were exciting."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "apostrophe-rules-quiz-10",
+      "question": "Which is the correct contraction for 'who is'?",
+      "options": [
+        "Whos",
+        "Who'is",
+        "Whose",
+        "Who's"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "apostrophe-rules-quiz-11",
+      "question": "Should 'DVDs' have an apostrophe when plural?",
+      "options": [
+        "It should be DVD's'",
+        "Yes: DVD's",
+        "Either is correct",
+        "No: DVDs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "apostrophe-rules-quiz-12",
+      "question": "Which is correct? 'Mind your ___ and ___.'",
+      "options": [
+        "Both A and B are debated, but A is traditional",
+        "ps and qs",
+        "p's and q's",
+        "p's and q's"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "apostrophe-rules-quiz-13",
+      "question": "What does 'o'clock' stand for?",
+      "options": [
+        "One clock",
+        "Our clock",
+        "Of the clock",
+        "On the clock"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "apostrophe-rules-quiz-14",
+      "question": "Which is correct? '___ coming to dinner tonight?'",
+      "options": [
+        "Whos'",
+        "Who's",
+        "Whom's",
+        "Whose"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "apostrophe-rules-quiz-15",
+      "question": "Which common error is known as the 'greengrocer's apostrophe'?",
+      "options": [
+        "Using apostrophes in abbreviations",
+        "Using apostrophes in contractions",
+        "Adding apostrophes to make simple plurals (e.g., 'banana's')",
+        "Forgetting apostrophes in possessives"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

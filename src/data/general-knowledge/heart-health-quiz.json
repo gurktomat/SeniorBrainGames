@@ -1,0 +1,219 @@
+{
+  "id": "heart-health-quiz",
+  "title": "Heart Health",
+  "description": "How much do you know about keeping your heart healthy?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "heart-health-quiz-1",
+      "question": "How many times does the average human heart beat per day?",
+      "options": [
+        "About 50,000",
+        "About 500,000",
+        "About 200,000",
+        "About 100,000"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The average human heart beats approximately 100,000 times per day, pumping about 2,000 gallons of blood through 60,000 miles of blood vessels.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-2",
+      "question": "What is the leading cause of death worldwide?",
+      "options": [
+        "Respiratory infections",
+        "Cardiovascular disease",
+        "Diabetes",
+        "Cancer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardiovascular disease is the leading cause of death globally, responsible for approximately 17.9 million deaths each year according to the World Health Organization.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-3",
+      "question": "What type of cholesterol is considered 'good' cholesterol?",
+      "options": [
+        "LDL",
+        "VLDL",
+        "Triglycerides",
+        "HDL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "HDL (High-Density Lipoprotein) is considered 'good' cholesterol because it helps remove other forms of cholesterol from the bloodstream, reducing the risk of heart disease.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-4",
+      "question": "Which diet is widely recommended for heart health and is based on the eating patterns of Mediterranean countries?",
+      "options": [
+        "Paleo diet",
+        "Mediterranean diet",
+        "Atkins diet",
+        "Keto diet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Mediterranean diet, rich in fruits, vegetables, whole grains, fish, and olive oil, is one of the most studied and recommended diets for heart health.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-5",
+      "question": "What is normal resting blood pressure considered to be?",
+      "options": [
+        "90/50 mmHg",
+        "140/90 mmHg",
+        "160/100 mmHg",
+        "120/80 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Normal resting blood pressure is generally around 120/80 mmHg. The top number (systolic) measures pressure when the heart beats, and the bottom (diastolic) measures pressure between beats.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-6",
+      "question": "What mineral, consumed in excess, can raise blood pressure?",
+      "options": [
+        "Potassium",
+        "Magnesium",
+        "Sodium",
+        "Calcium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Excess sodium (salt) intake causes the body to retain water, increasing blood volume and raising blood pressure. Most health guidelines recommend limiting sodium to less than 2,300 mg per day.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-7",
+      "question": "What is a heart attack (myocardial infarction)?",
+      "options": [
+        "A blood clot blocking blood flow to the heart muscle",
+        "High blood pressure",
+        "An irregular heartbeat",
+        "The heart stopping completely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A heart attack occurs when a blood clot blocks blood flow in a coronary artery, depriving part of the heart muscle of oxygen. Without treatment, the affected tissue dies.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-8",
+      "question": "How many minutes of moderate exercise per week do health experts recommend for heart health?",
+      "options": [
+        "75 minutes",
+        "300 minutes",
+        "30 minutes",
+        "150 minutes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The American Heart Association recommends at least 150 minutes of moderate-intensity aerobic exercise per week (about 30 minutes, 5 days a week) for cardiovascular health.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-9",
+      "question": "Which type of fat is considered the most harmful to heart health?",
+      "options": [
+        "Trans fat",
+        "Omega-3 fat",
+        "Polyunsaturated fat",
+        "Monounsaturated fat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trans fats are the most harmful type of dietary fat for heart health. They raise LDL ('bad') cholesterol and lower HDL ('good') cholesterol, increasing heart disease risk.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-10",
+      "question": "What medical condition is sometimes called 'the silent killer' because it often has no symptoms?",
+      "options": [
+        "Both B and C",
+        "High cholesterol",
+        "High blood pressure (hypertension)",
+        "Diabetes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Both high blood pressure and high cholesterol are called 'silent killers' because they typically have no symptoms but can lead to heart attacks and strokes if untreated.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-11",
+      "question": "Which fish oil supplement is commonly taken for heart health?",
+      "options": [
+        "Vitamin D",
+        "Omega-3 fatty acids",
+        "Iron supplements",
+        "Calcium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Omega-3 fatty acid supplements (fish oil) are commonly taken for heart health. They may help lower triglycerides, reduce inflammation, and decrease the risk of abnormal heart rhythms.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-12",
+      "question": "What is the four-chambered structure of the human heart?",
+      "options": [
+        "Four ventricles",
+        "Two aortas and two veins",
+        "Four atria",
+        "Two atria and two ventricles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The human heart has four chambers: two upper chambers (atria) that receive blood and two lower chambers (ventricles) that pump blood out to the body and lungs.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-13",
+      "question": "What fruit has been shown to help lower blood pressure due to its high potassium content?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Grape",
+        "Pear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bananas are rich in potassium (about 422 mg per banana), which helps counteract the effects of sodium and relaxes blood vessel walls, helping to lower blood pressure.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-14",
+      "question": "What is atrial fibrillation (AFib)?",
+      "options": [
+        "A heart valve condition",
+        "A blood pressure medication",
+        "An irregular, often rapid heart rhythm",
+        "A type of heart surgery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Atrial fibrillation is the most common type of heart arrhythmia, causing the upper chambers (atria) to beat irregularly and rapidly. It increases the risk of stroke and heart failure.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": "heart-health-quiz-15",
+      "question": "What is the main purpose of a stent placed during cardiac surgery?",
+      "options": [
+        "To keep a blocked artery open",
+        "To regulate heart rhythm",
+        "To replace a heart valve",
+        "To measure blood pressure"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A stent is a small mesh tube inserted into a blocked or narrowed coronary artery during angioplasty. It props the artery open to restore blood flow to the heart muscle.",
+      "difficulty": "medium",
+      "category": "health"
+    }
+  ]
+}

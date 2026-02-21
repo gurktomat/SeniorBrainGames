@@ -7,92 +7,167 @@
     {
       "id": "false-friends-1",
       "question": "In French, 'actuellement' does NOT mean 'actually.' What does it mean?",
-      "options": ["Exactly", "Currently", "Truthfully", "Factually"],
+      "options": [
+        "Factually",
+        "Currently",
+        "Truthfully",
+        "Exactly"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "false-friends-2",
       "question": "The German word 'Gift' does not mean a present. What does it mean?",
-      "options": ["Talent", "Poison", "Luck", "Wrapping"],
+      "options": [
+        "Luck",
+        "Poison",
+        "Talent",
+        "Wrapping"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "false-friends-3",
       "question": "In Italian, 'camera' does not refer to a photography device. What does it mean?",
-      "options": ["Window", "Room", "Mirror", "Picture"],
-      "correctAnswer": 1
+      "options": [
+        "Picture",
+        "Mirror",
+        "Window",
+        "Room"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "false-friends-4",
       "question": "The Spanish word 'embarazada' does NOT mean embarrassed. What does it mean?",
-      "options": ["Confused", "Angry", "Pregnant", "Ashamed"],
-      "correctAnswer": 2
+      "options": [
+        "Ashamed",
+        "Confused",
+        "Angry",
+        "Pregnant"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "false-friends-5",
       "question": "In French, 'libraire' does not mean library. What does it mean?",
-      "options": ["Bookshop", "Free space", "Reading room", "Publisher"],
-      "correctAnswer": 0
+      "options": [
+        "Reading room",
+        "Free space",
+        "Bookshop",
+        "Publisher"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "false-friends-6",
       "question": "The German word 'Rat' does not refer to a rodent. What does it mean?",
-      "options": ["Wheel", "Council or advice", "Race", "Judge"],
-      "correctAnswer": 1
+      "options": [
+        "Council or advice",
+        "Judge",
+        "Wheel",
+        "Race"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "false-friends-7",
       "question": "In Portuguese, 'puxe' (on a door) does not mean push. What does it mean?",
-      "options": ["Slide", "Pull", "Knock", "Lock"],
-      "correctAnswer": 1
+      "options": [
+        "Slide",
+        "Knock",
+        "Pull",
+        "Lock"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "false-friends-8",
       "question": "The French word 'bras' does not refer to undergarments. What does it mean?",
-      "options": ["Chest", "Arm", "Shoulder", "Back"],
+      "options": [
+        "Back",
+        "Arm",
+        "Shoulder",
+        "Chest"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "false-friends-9",
       "question": "In Spanish, 'constipado' does NOT mean constipated. What does it mean?",
-      "options": ["Exhausted", "Having a cold", "Upset stomach", "Dizzy"],
-      "correctAnswer": 1
+      "options": [
+        "Upset stomach",
+        "Exhausted",
+        "Having a cold",
+        "Dizzy"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "false-friends-10",
       "question": "The Italian word 'firma' does not mean a business firm. What does it mean?",
-      "options": ["Stamp", "Contract", "Signature", "Brand"],
+      "options": [
+        "Brand",
+        "Contract",
+        "Signature",
+        "Stamp"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "false-friends-11",
       "question": "In French, 'assister' does NOT mean to assist. What does it mean?",
-      "options": ["To attend or be present", "To sit down", "To agree", "To support"],
+      "options": [
+        "To attend or be present",
+        "To sit down",
+        "To support",
+        "To agree"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "false-friends-12",
       "question": "The German word 'Handy' does not mean handy or convenient. What does it mean?",
-      "options": ["Glove", "Mobile phone", "Remote control", "Tool"],
-      "correctAnswer": 1
+      "options": [
+        "Remote control",
+        "Tool",
+        "Mobile phone",
+        "Glove"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "false-friends-13",
       "question": "In Spanish, 'sensible' does NOT mean sensible. What does it mean?",
-      "options": ["Intelligent", "Sensitive", "Reasonable", "Careful"],
-      "correctAnswer": 1
+      "options": [
+        "Careful",
+        "Intelligent",
+        "Reasonable",
+        "Sensitive"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "false-friends-14",
       "question": "The French word 'préservatif' does not mean preservative. What does it mean?",
-      "options": ["Jam jar", "Condom", "Vitamin", "Sunscreen"],
-      "correctAnswer": 1
+      "options": [
+        "Jam jar",
+        "Vitamin",
+        "Condom",
+        "Sunscreen"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "false-friends-15",
       "question": "In Italian, 'magazzino' does not mean magazine (publication). What does it mean?",
-      "options": ["Shopping mall", "Warehouse or store", "Newsstand", "Office"],
-      "correctAnswer": 1
+      "options": [
+        "Newsstand",
+        "Shopping mall",
+        "Warehouse or store",
+        "Office"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

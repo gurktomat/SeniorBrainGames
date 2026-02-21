@@ -8,8 +8,13 @@
     {
       "id": "fa-1",
       "question": "Who painted the Mona Lisa?",
-      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Sandro Botticelli"],
-      "correctAnswer": 2,
+      "options": [
+        "Michelangelo",
+        "Raphael",
+        "Sandro Botticelli",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 3,
       "explanation": "Leonardo da Vinci painted the Mona Lisa between approximately 1503 and 1519. It is believed to depict Lisa Gherardini, the wife of a Florentine merchant. The painting hangs in the Louvre Museum in Paris.",
       "difficulty": "easy",
       "category": "art"
@@ -17,8 +22,13 @@
     {
       "id": "fa-2",
       "question": "Which Dutch artist is famous for painting 'The Starry Night'?",
-      "options": ["Rembrandt", "Johannes Vermeer", "Vincent van Gogh", "Piet Mondrian"],
-      "correctAnswer": 2,
+      "options": [
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Piet Mondrian",
+        "Rembrandt"
+      ],
+      "correctAnswer": 1,
       "explanation": "Vincent van Gogh painted The Starry Night in June 1889 while staying at the Saint-Paul-de-Mausole asylum in Saint-Rémy-de-Provence, France. The painting depicts the view from his window at night.",
       "difficulty": "easy",
       "category": "art"
@@ -26,8 +36,13 @@
     {
       "id": "fa-3",
       "question": "Which artist painted the ceiling of the Sistine Chapel in Vatican City?",
-      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Caravaggio"],
-      "correctAnswer": 1,
+      "options": [
+        "Caravaggio",
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
       "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512, commissioned by Pope Julius II. The iconic 'Creation of Adam' panel is one of the most replicated religious images in history.",
       "difficulty": "easy",
       "category": "art"
@@ -35,8 +50,13 @@
     {
       "id": "fa-4",
       "question": "Who is known as the founder of Cubism along with Georges Braque?",
-      "options": ["Salvador Dalí", "Henri Matisse", "Pablo Picasso", "Joan Miró"],
-      "correctAnswer": 2,
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Henri Matisse",
+        "Joan Miró"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pablo Picasso and Georges Braque developed Cubism in the early 1900s. Picasso's 1907 painting 'Les Demoiselles d'Avignon' is considered a pioneering work of the Cubist movement.",
       "difficulty": "easy",
       "category": "art"
@@ -44,8 +64,13 @@
     {
       "id": "fa-5",
       "question": "Which artist is famous for his paintings of Campbell's soup cans and Marilyn Monroe?",
-      "options": ["Roy Lichtenstein", "Andy Warhol", "Jasper Johns", "Keith Haring"],
-      "correctAnswer": 1,
+      "options": [
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Keith Haring",
+        "Andy Warhol"
+      ],
+      "correctAnswer": 3,
       "explanation": "Andy Warhol was a leading figure in the pop art movement. His 1962 series of Campbell's Soup Cans and his silkscreen prints of Marilyn Monroe became iconic images of 20th-century art.",
       "difficulty": "easy",
       "category": "art"
@@ -53,8 +78,13 @@
     {
       "id": "fa-6",
       "question": "Which Spanish artist was known for surrealist works featuring melting clocks?",
-      "options": ["Pablo Picasso", "Francisco Goya", "Salvador Dalí", "Joan Miró"],
-      "correctAnswer": 2,
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Francisco Goya",
+        "Joan Miró"
+      ],
+      "correctAnswer": 0,
       "explanation": "Salvador Dalí painted 'The Persistence of Memory' in 1931, featuring his famous melting clocks. Dalí was a leading figure in the Surrealist movement, known for his striking and bizarre imagery.",
       "difficulty": "medium",
       "category": "art"
@@ -62,8 +92,13 @@
     {
       "id": "fa-7",
       "question": "Which French artist is considered the father of Impressionism and painted 'Water Lilies'?",
-      "options": ["Pierre-Auguste Renoir", "Edgar Degas", "Claude Monet", "Édouard Manet"],
-      "correctAnswer": 2,
+      "options": [
+        "Claude Monet",
+        "Edgar Degas",
+        "Édouard Manet",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 0,
       "explanation": "Claude Monet is considered a founder of French Impressionism. His 'Water Lilies' series, painted at his garden in Giverny over the last 30 years of his life, comprises about 250 oil paintings.",
       "difficulty": "medium",
       "category": "art"
@@ -71,8 +106,13 @@
     {
       "id": "fa-8",
       "question": "Which Dutch master painted 'Girl with a Pearl Earring'?",
-      "options": ["Rembrandt van Rijn", "Johannes Vermeer", "Frans Hals", "Jan Steen"],
-      "correctAnswer": 1,
+      "options": [
+        "Jan Steen",
+        "Frans Hals",
+        "Rembrandt van Rijn",
+        "Johannes Vermeer"
+      ],
+      "correctAnswer": 3,
       "explanation": "Johannes Vermeer painted 'Girl with a Pearl Earring' around 1665. Often called the 'Mona Lisa of the North,' it is one of the most famous paintings in the world, housed in the Mauritshuis museum in The Hague.",
       "difficulty": "medium",
       "category": "art"
@@ -80,7 +120,12 @@
     {
       "id": "fa-9",
       "question": "Which Mexican artist is known for her vivid self-portraits and works inspired by Mexican folk art?",
-      "options": ["Frida Kahlo", "Diego Rivera", "Remedios Varo", "Leonora Carrington"],
+      "options": [
+        "Frida Kahlo",
+        "Leonora Carrington",
+        "Remedios Varo",
+        "Diego Rivera"
+      ],
       "correctAnswer": 0,
       "explanation": "Frida Kahlo is renowned for her deeply personal self-portraits that explored themes of identity, pain, and the human body. Of her 143 paintings, 55 are self-portraits.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "fa-10",
       "question": "Which artist created 'The Birth of Venus,' depicting the goddess emerging from the sea on a shell?",
-      "options": ["Titian", "Sandro Botticelli", "Leonardo da Vinci", "Giovanni Bellini"],
-      "correctAnswer": 1,
+      "options": [
+        "Giovanni Bellini",
+        "Titian",
+        "Sandro Botticelli",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
       "explanation": "Sandro Botticelli painted 'The Birth of Venus' around 1485. The painting depicts the goddess Venus arriving at the shore after her birth, standing on a giant scallop shell. It hangs in the Uffizi Gallery in Florence.",
       "difficulty": "medium",
       "category": "art"
@@ -98,8 +148,13 @@
     {
       "id": "fa-11",
       "question": "Which Norwegian artist painted 'The Scream,' one of the most iconic images in art history?",
-      "options": ["Edvard Munch", "Gustav Klimt", "Egon Schiele", "Akseli Gallen-Kallela"],
-      "correctAnswer": 0,
+      "options": [
+        "Gustav Klimt",
+        "Edvard Munch",
+        "Egon Schiele",
+        "Akseli Gallen-Kallela"
+      ],
+      "correctAnswer": 1,
       "explanation": "Edvard Munch created 'The Scream' in 1893. The painting's agonized figure has become one of the most recognized images in art, symbolizing the anxiety of the modern age.",
       "difficulty": "hard",
       "category": "art"
@@ -107,7 +162,12 @@
     {
       "id": "fa-12",
       "question": "Which artist is known for his large-scale drip paintings and is considered a leading figure of Abstract Expressionism?",
-      "options": ["Mark Rothko", "Willem de Kooning", "Jackson Pollock", "Franz Kline"],
+      "options": [
+        "Mark Rothko",
+        "Willem de Kooning",
+        "Jackson Pollock",
+        "Franz Kline"
+      ],
       "correctAnswer": 2,
       "explanation": "Jackson Pollock revolutionized art with his 'drip technique,' where he poured and dripped paint onto large canvases laid on the floor. He became the most famous figure of the Abstract Expressionist movement.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "fa-13",
       "question": "Which Renaissance artist painted 'The School of Athens,' depicting Greek philosophers?",
-      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
-      "correctAnswer": 2,
+      "options": [
+        "Raphael",
+        "Michelangelo",
+        "Titian",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 0,
       "explanation": "Raphael painted 'The School of Athens' between 1509 and 1511 as part of his commission to decorate the Vatican's Apostolic Palace. The fresco features depictions of Plato, Aristotle, and other Greek philosophers.",
       "difficulty": "hard",
       "category": "art"
@@ -125,8 +190,13 @@
     {
       "id": "fa-14",
       "question": "Which Austrian artist is famous for his golden painting 'The Kiss'?",
-      "options": ["Egon Schiele", "Gustav Klimt", "Oskar Kokoschka", "Koloman Moser"],
-      "correctAnswer": 1,
+      "options": [
+        "Koloman Moser",
+        "Oskar Kokoschka",
+        "Gustav Klimt",
+        "Egon Schiele"
+      ],
+      "correctAnswer": 2,
       "explanation": "Gustav Klimt painted 'The Kiss' between 1907 and 1908 during his 'Golden Phase.' The painting, which features gold leaf and ornate patterns, is housed in the Belvedere Museum in Vienna.",
       "difficulty": "hard",
       "category": "art"
@@ -134,8 +204,13 @@
     {
       "id": "fa-15",
       "question": "Which Baroque artist was known for his dramatic use of light and shadow (chiaroscuro) in works like 'The Calling of Saint Matthew'?",
-      "options": ["Peter Paul Rubens", "Caravaggio", "Diego Velázquez", "Artemisia Gentileschi"],
-      "correctAnswer": 1,
+      "options": [
+        "Diego Velázquez",
+        "Artemisia Gentileschi",
+        "Caravaggio",
+        "Peter Paul Rubens"
+      ],
+      "correctAnswer": 2,
       "explanation": "Caravaggio (Michelangelo Merisi da Caravaggio) was a revolutionary Baroque artist known for his dramatic use of chiaroscuro — strong contrasts between light and dark. His techniques influenced generations of painters.",
       "difficulty": "hard",
       "category": "art"

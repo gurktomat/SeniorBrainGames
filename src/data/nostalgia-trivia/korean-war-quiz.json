@@ -1,0 +1,173 @@
+{
+  "id": "korean-war-quiz",
+  "title": "Korean War Quiz",
+  "description": "Often called the 'Forgotten War,' the Korean conflict shaped the Cold War era. How much do you remember?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "korean-war-quiz-1",
+      "question": "In what year did the Korean War begin?",
+      "options": [
+        "1948",
+        "1951",
+        "1949",
+        "1950"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "korean-war-quiz-2",
+      "question": "What parallel divided North and South Korea?",
+      "options": [
+        "The 39th Parallel",
+        "The 38th Parallel",
+        "The 37th Parallel",
+        "The 36th Parallel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "korean-war-quiz-3",
+      "question": "Which general commanded UN forces in Korea and was later fired by President Truman?",
+      "options": [
+        "Douglas MacArthur",
+        "George Patton",
+        "Dwight Eisenhower",
+        "Omar Bradley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "korean-war-quiz-4",
+      "question": "Why did President Truman relieve General MacArthur of his command?",
+      "options": [
+        "He retired voluntarily",
+        "He lost a major battle",
+        "He publicly disagreed with Truman's limited war policy",
+        "He refused to follow orders"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "korean-war-quiz-5",
+      "question": "What was the brilliant amphibious landing behind enemy lines that turned the tide of the war?",
+      "options": [
+        "The Seoul Offensive",
+        "The Pusan Landing",
+        "The Wonsan Invasion",
+        "The Inchon Landing"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "korean-war-quiz-6",
+      "question": "Which country entered the Korean War on the side of North Korea in late 1950?",
+      "options": [
+        "China",
+        "Japan",
+        "The Soviet Union",
+        "Vietnam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "korean-war-quiz-7",
+      "question": "What was the famous battle where U.S. Marines fought their way out of a Chinese encirclement in brutal cold?",
+      "options": [
+        "The Battle of Pusan",
+        "The Battle of the Chosin Reservoir",
+        "The Battle of Heartbreak Ridge",
+        "The Battle of Pork Chop Hill"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "korean-war-quiz-8",
+      "question": "In what year was the armistice signed that ended active fighting?",
+      "options": [
+        "1951",
+        "1954",
+        "1953",
+        "1952"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "korean-war-quiz-9",
+      "question": "What popular TV show, running from 1972-1983, was set during the Korean War?",
+      "options": [
+        "China Beach",
+        "M*A*S*H",
+        "Hogan's Heroes",
+        "Combat!"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "korean-war-quiz-10",
+      "question": "Approximately how many American service members died in the Korean War?",
+      "options": [
+        "About 75,000",
+        "About 55,000",
+        "About 20,000",
+        "About 37,000"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "korean-war-quiz-11",
+      "question": "What nickname was given to the Korean War because it received less public attention than WWII or Vietnam?",
+      "options": [
+        "The Unknown Conflict",
+        "The Forgotten War",
+        "The Hidden War",
+        "The Silent War"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "korean-war-quiz-12",
+      "question": "Which U.S. President was elected partly on a promise to end the Korean War?",
+      "options": [
+        "Dwight Eisenhower",
+        "Richard Nixon",
+        "Harry Truman",
+        "John F. Kennedy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "korean-war-quiz-13",
+      "question": "What was the defensive perimeter that UN forces held in the southeast corner of Korea in 1950?",
+      "options": [
+        "The Seoul Line",
+        "The Inchon Defensive",
+        "The Pusan Perimeter",
+        "The DMZ"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "korean-war-quiz-14",
+      "question": "What type of aircraft became famous during the Korean War for air-to-air combat?",
+      "options": [
+        "P-51 Mustangs",
+        "F-86 Sabres",
+        "B-29 bombers",
+        "F-4 Phantoms"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "korean-war-quiz-15",
+      "question": "Has a formal peace treaty ever been signed to officially end the Korean War?",
+      "options": [
+        "Yes, in 1960",
+        "Yes, in 1975",
+        "Yes, in 1954",
+        "No, only an armistice"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

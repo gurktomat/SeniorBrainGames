@@ -7,91 +7,166 @@
     {
       "id": "classic-romance-movies-1",
       "question": "In the 1942 film 'Casablanca,' Humphrey Bogart tells Ingrid Bergman, 'Here's looking at you, ___.'",
-      "options": ["Sweetheart", "Darling", "Kid", "Dear"],
-      "correctAnswer": 2
+      "options": [
+        "Dear",
+        "Kid",
+        "Darling",
+        "Sweetheart"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-romance-movies-2",
       "question": "Which 1961 film starring Audrey Hepburn features the iconic scene of her eating breakfast outside Tiffany's?",
-      "options": ["Roman Holiday", "Breakfast at Tiffany's", "Funny Face", "Sabrina"],
-      "correctAnswer": 1
+      "options": [
+        "Funny Face",
+        "Sabrina",
+        "Roman Holiday",
+        "Breakfast at Tiffany's"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-romance-movies-3",
       "question": "In 'Gone with the Wind' (1939), what is the name of the plantation where Scarlett O'Hara grows up?",
-      "options": ["Twelve Oaks", "Tara", "Belle Reve", "Manderley"],
-      "correctAnswer": 1
+      "options": [
+        "Belle Reve",
+        "Twelve Oaks",
+        "Tara",
+        "Manderley"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-romance-movies-4",
       "question": "Which classic 1953 romance film features Burt Lancaster and Deborah Kerr kissing on the beach as waves crash over them?",
-      "options": ["An Affair to Remember", "From Here to Eternity", "The Quiet Man", "Mogambo"],
-      "correctAnswer": 1
+      "options": [
+        "From Here to Eternity",
+        "The Quiet Man",
+        "An Affair to Remember",
+        "Mogambo"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-romance-movies-5",
       "question": "Cary Grant and Deborah Kerr agreed to meet at the top of which building in the 1957 film 'An Affair to Remember'?",
-      "options": ["Chrysler Building", "Statue of Liberty", "Empire State Building", "Rockefeller Center"],
+      "options": [
+        "Statue of Liberty",
+        "Rockefeller Center",
+        "Empire State Building",
+        "Chrysler Building"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-romance-movies-6",
       "question": "In the 1955 film 'Lady and the Tramp,' the two dogs share a romantic dinner eating which food?",
-      "options": ["Pizza", "Spaghetti and meatballs", "Hot dogs", "Steak"],
+      "options": [
+        "Hot dogs",
+        "Spaghetti and meatballs",
+        "Pizza",
+        "Steak"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-romance-movies-7",
       "question": "Which actress starred opposite Gregory Peck in the 1953 romantic comedy 'Roman Holiday'?",
-      "options": ["Grace Kelly", "Audrey Hepburn", "Elizabeth Taylor", "Sophia Loren"],
-      "correctAnswer": 1
+      "options": [
+        "Audrey Hepburn",
+        "Elizabeth Taylor",
+        "Sophia Loren",
+        "Grace Kelly"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-romance-movies-8",
       "question": "In 'Casablanca,' what is the name of the nightclub owned by Humphrey Bogart's character Rick?",
-      "options": ["The Blue Parrot", "Rick's Café Américain", "The Moonlight Club", "Sam's Place"],
+      "options": [
+        "The Moonlight Club",
+        "Rick's Café Américain",
+        "The Blue Parrot",
+        "Sam's Place"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-romance-movies-9",
       "question": "Which 1939 film features the famous line 'Frankly, my dear, I don't give a damn'?",
-      "options": ["Wuthering Heights", "The Wizard of Oz", "Gone with the Wind", "Mr. Smith Goes to Washington"],
-      "correctAnswer": 2
+      "options": [
+        "The Wizard of Oz",
+        "Wuthering Heights",
+        "Mr. Smith Goes to Washington",
+        "Gone with the Wind"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-romance-movies-10",
       "question": "Spencer Tracy and Katharine Hepburn starred together in how many films over their legendary partnership?",
-      "options": ["Five", "Nine", "Twelve", "Fifteen"],
+      "options": [
+        "Five",
+        "Nine",
+        "Fifteen",
+        "Twelve"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-romance-movies-11",
       "question": "Which 1965 musical romance film stars Julie Andrews as Maria, a young woman who becomes governess to seven children?",
-      "options": ["My Fair Lady", "Mary Poppins", "The Sound of Music", "West Side Story"],
+      "options": [
+        "My Fair Lady",
+        "West Side Story",
+        "The Sound of Music",
+        "Mary Poppins"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-romance-movies-12",
       "question": "In the 1944 film 'To Have and Have Not,' which real-life couple starred together for the first time?",
-      "options": ["Clark Gable and Carole Lombard", "Humphrey Bogart and Lauren Bacall", "Paul Newman and Joanne Woodward", "Spencer Tracy and Katharine Hepburn"],
-      "correctAnswer": 1
+      "options": [
+        "Paul Newman and Joanne Woodward",
+        "Clark Gable and Carole Lombard",
+        "Humphrey Bogart and Lauren Bacall",
+        "Spencer Tracy and Katharine Hepburn"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-romance-movies-13",
       "question": "Which Alfred Hitchcock film features a retired detective who becomes obsessed with a mysterious woman he is hired to follow?",
-      "options": ["Rear Window", "Vertigo", "North by Northwest", "Notorious"],
-      "correctAnswer": 1
+      "options": [
+        "North by Northwest",
+        "Notorious",
+        "Rear Window",
+        "Vertigo"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-romance-movies-14",
       "question": "What classic 1967 film stars Dustin Hoffman as a young graduate who has an affair with an older woman, Mrs. Robinson?",
-      "options": ["Bonnie and Clyde", "The Graduate", "Guess Who's Coming to Dinner", "In the Heat of the Night"],
-      "correctAnswer": 1
+      "options": [
+        "The Graduate",
+        "In the Heat of the Night",
+        "Guess Who's Coming to Dinner",
+        "Bonnie and Clyde"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-romance-movies-15",
       "question": "Which iconic 1961 musical retells Shakespeare's 'Romeo and Juliet' with rival gangs in New York City?",
-      "options": ["Grease", "West Side Story", "The Music Man", "My Fair Lady"],
+      "options": [
+        "My Fair Lady",
+        "West Side Story",
+        "The Music Man",
+        "Grease"
+      ],
       "correctAnswer": 1
     }
   ]

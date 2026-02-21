@@ -8,7 +8,12 @@
     {
       "id": "asc-1",
       "question": "What do 'diamond,' 'heart,' 'club,' and 'spade' have in common?",
-      "options": ["They are shapes", "They are suits in a deck of cards", "They are types of tools", "They are gemstone cuts"],
+      "options": [
+        "They are types of tools",
+        "They are suits in a deck of cards",
+        "They are gemstone cuts",
+        "They are shapes"
+      ],
       "correctAnswer": 1,
       "explanation": "Diamond, heart, club, and spade are the four suits in a standard deck of playing cards. Each suit has 13 cards, making 52 cards total.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "asc-2",
       "question": "What connects 'Mercury,' 'Venus,' 'Mars,' and 'Jupiter'?",
-      "options": ["They are all Greek gods", "They are all planets AND Roman gods", "They are constellations", "They are types of rockets"],
-      "correctAnswer": 1,
+      "options": [
+        "They are all planets AND Roman gods",
+        "They are constellations",
+        "They are types of rockets",
+        "They are all Greek gods"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mercury, Venus, Mars, and Jupiter are all planets in our solar system AND names of ancient Roman gods. The planets were named by ancient Romans who observed them in the night sky.",
       "difficulty": "easy",
       "category": "recall"
@@ -26,8 +36,13 @@
     {
       "id": "asc-3",
       "question": "What do 'bass,' 'bow,' and 'lead' have in common?",
-      "options": ["They are musical terms", "They are fishing terms", "They are all words with two different pronunciations and meanings", "They are all metals"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all words with two different pronunciations and meanings",
+        "They are fishing terms",
+        "They are all metals",
+        "They are musical terms"
+      ],
+      "correctAnswer": 0,
       "explanation": "Bass, bow, and lead are all heteronyms — words spelled the same but with different pronunciations and meanings (e.g., bass fish vs. bass guitar, bow and arrow vs. take a bow).",
       "difficulty": "easy",
       "category": "recall"
@@ -35,8 +50,13 @@
     {
       "id": "asc-4",
       "question": "What connects 'Washington,' 'Jefferson,' 'Roosevelt,' and 'Lincoln'?",
-      "options": ["They all served two terms", "They are on Mount Rushmore", "They were all generals", "They all died in office"],
-      "correctAnswer": 1,
+      "options": [
+        "They all served two terms",
+        "They were all generals",
+        "They are on Mount Rushmore",
+        "They all died in office"
+      ],
+      "correctAnswer": 2,
       "explanation": "Washington, Jefferson, Theodore Roosevelt, and Lincoln are the four presidents carved into Mount Rushmore in South Dakota, completed in 1941.",
       "difficulty": "easy",
       "category": "recall"
@@ -44,7 +64,12 @@
     {
       "id": "asc-5",
       "question": "What do 'robin,' 'cardinal,' 'eagle,' and 'blue jay' have in common beyond being birds?",
-      "options": ["They are all migratory birds", "They are all named after colors", "They are all names of sports teams", "They are all songbirds"],
+      "options": [
+        "They are all migratory birds",
+        "They are all named after colors",
+        "They are all names of sports teams",
+        "They are all songbirds"
+      ],
       "correctAnswer": 2,
       "explanation": "Robin, Cardinal, Eagle, and Blue Jay are all names of professional sports teams — the Orioles (close to robin), Cardinals, Eagles, and Blue Jays, among others.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "asc-6",
       "question": "What connects 'spring,' 'fall,' 'bank,' and 'match'?",
-      "options": ["They are all seasons", "They all relate to money", "They all have multiple unrelated meanings", "They are all sports terms"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all seasons",
+        "They all relate to money",
+        "They are all sports terms",
+        "They all have multiple unrelated meanings"
+      ],
+      "correctAnswer": 3,
       "explanation": "Spring (season/water source/coil), fall (season/to tumble), bank (financial/river edge), and match (game/fire starter) all have multiple completely different meanings.",
       "difficulty": "medium",
       "category": "recall"
@@ -62,8 +92,13 @@
     {
       "id": "asc-7",
       "question": "What do 'Nile,' 'Amazon,' 'Mississippi,' and 'Danube' have in common?",
-      "options": ["They are all in Africa", "They are the four longest rivers in the world", "They are all major rivers", "They all flow north"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all major rivers",
+        "They all flow north",
+        "They are all in Africa",
+        "They are the four longest rivers in the world"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Nile, Amazon, Mississippi, and Danube are all major rivers on different continents: Africa, South America, North America, and Europe respectively.",
       "difficulty": "medium",
       "category": "recall"
@@ -71,7 +106,12 @@
     {
       "id": "asc-8",
       "question": "What connects 'baker's dozen,' 'unlucky,' 'Friday the ___,' and 'Apollo ___'?",
-      "options": ["The number 7", "The number 11", "The number 13", "The number 12"],
+      "options": [
+        "The number 7",
+        "The number 12",
+        "The number 13",
+        "The number 11"
+      ],
       "correctAnswer": 2,
       "explanation": "They are all associated with the number 13: a baker's dozen is 13, 13 is considered unlucky, 'Friday the 13th' is a superstitious date, and Apollo 13 was the famous troubled NASA mission.",
       "difficulty": "medium",
@@ -80,7 +120,12 @@
     {
       "id": "asc-9",
       "question": "What do 'Granny Smith,' 'Fuji,' 'Honeycrisp,' and 'Gala' have in common?",
-      "options": ["They are types of pears", "They are Japanese cities", "They are varieties of apples", "They are types of roses"],
+      "options": [
+        "They are types of roses",
+        "They are Japanese cities",
+        "They are varieties of apples",
+        "They are types of pears"
+      ],
       "correctAnswer": 2,
       "explanation": "Granny Smith, Fuji, Honeycrisp, and Gala are all popular varieties of apples. Granny Smith is tart and green, while Fuji and Gala are sweet and red.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "asc-10",
       "question": "What connects 'ivory,' 'ebony,' 'grand,' and 'upright'?",
-      "options": ["They are all colors", "They all describe types or parts of pianos", "They are furniture styles", "They are chess terms"],
-      "correctAnswer": 1,
+      "options": [
+        "They all describe types or parts of pianos",
+        "They are all colors",
+        "They are furniture styles",
+        "They are chess terms"
+      ],
+      "correctAnswer": 0,
       "explanation": "They all relate to pianos: ivory and ebony describe the traditional materials for white and black piano keys, while grand and upright are types of pianos.",
       "difficulty": "medium",
       "category": "recall"
@@ -98,8 +148,13 @@
     {
       "id": "asc-11",
       "question": "What do 'Lima,' 'Kidney,' 'Navy,' and 'Pinto' have in common?",
-      "options": ["They are all military terms", "They are all colors", "They are all types of beans", "They are all car models"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all types of beans",
+        "They are all colors",
+        "They are all military terms",
+        "They are all car models"
+      ],
+      "correctAnswer": 0,
       "explanation": "Lima, kidney, navy, and pinto are all types of beans. Each has a distinct appearance and is used in different cuisines around the world.",
       "difficulty": "hard",
       "category": "recall"
@@ -107,7 +162,12 @@
     {
       "id": "asc-12",
       "question": "What connects 'carat,' 'table,' 'crown,' and 'pavilion'?",
-      "options": ["They are monarchy terms", "They are furniture parts", "They are parts or measurements of a cut gemstone", "They are card game terms"],
+      "options": [
+        "They are monarchy terms",
+        "They are furniture parts",
+        "They are parts or measurements of a cut gemstone",
+        "They are card game terms"
+      ],
       "correctAnswer": 2,
       "explanation": "Carat (weight), table (flat top surface), crown (upper portion), and pavilion (lower portion) are all terms used to describe parts or measurements of a cut gemstone, particularly a diamond.",
       "difficulty": "hard",
@@ -116,8 +176,13 @@
     {
       "id": "asc-13",
       "question": "What do 'Old Faithful,' 'Yellowstone,' 'Grand Prismatic,' and 'Mammoth Hot Springs' have in common?",
-      "options": ["They are all in Montana", "They are all geysers", "They are all features in Yellowstone National Park", "They are all in Wyoming"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all in Montana",
+        "They are all features in Yellowstone National Park",
+        "They are all geysers",
+        "They are all in Wyoming"
+      ],
+      "correctAnswer": 1,
       "explanation": "Old Faithful (geyser), Grand Prismatic Spring (hot spring), and Mammoth Hot Springs are all famous features within Yellowstone National Park, America's first national park.",
       "difficulty": "hard",
       "category": "recall"
@@ -125,8 +190,13 @@
     {
       "id": "asc-14",
       "question": "What connects 'treble,' 'bass,' 'alto,' and 'tenor'?",
-      "options": ["They are all musical clefs", "They are all vocal ranges or musical terms", "They are all instruments", "They are all dance styles"],
-      "correctAnswer": 1,
+      "options": [
+        "They are all instruments",
+        "They are all musical clefs",
+        "They are all vocal ranges or musical terms",
+        "They are all dance styles"
+      ],
+      "correctAnswer": 2,
       "explanation": "Treble, bass, alto, and tenor are all terms used in music. Treble and bass are clefs, while alto, tenor, treble (soprano), and bass are vocal ranges.",
       "difficulty": "hard",
       "category": "recall"
@@ -134,7 +204,12 @@
     {
       "id": "asc-15",
       "question": "What do 'Windsor,' 'half-Windsor,' 'four-in-hand,' and 'Pratt' have in common?",
-      "options": ["They are castle names", "They are types of knots for neckties", "They are horse-drawn carriage types", "They are royal family names"],
+      "options": [
+        "They are horse-drawn carriage types",
+        "They are types of knots for neckties",
+        "They are royal family names",
+        "They are castle names"
+      ],
       "correctAnswer": 1,
       "explanation": "Windsor, half-Windsor, four-in-hand, and Pratt are all types of necktie knots. The four-in-hand is the most common, while the Windsor is the most formal.",
       "difficulty": "hard",

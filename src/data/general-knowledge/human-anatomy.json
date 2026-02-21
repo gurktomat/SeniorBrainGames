@@ -9,132 +9,132 @@
       "question": "How many bones are in the adult human body?",
       "options": [
         "186",
-        "206",
         "256",
+        "206",
         "312"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "human-anatomy-2",
       "question": "What is the largest organ in the human body?",
       "options": [
-        "Liver",
-        "Brain",
         "Skin",
-        "Lungs"
+        "Liver",
+        "Lungs",
+        "Brain"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "human-anatomy-3",
       "question": "Which bone is the longest in the human body?",
       "options": [
+        "Spine",
         "Tibia",
         "Humerus",
-        "Femur",
-        "Spine"
+        "Femur"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-4",
       "question": "What organ is responsible for filtering blood and removing toxins?",
       "options": [
-        "Heart",
         "Kidneys",
         "Liver",
+        "Heart",
         "Spleen"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "human-anatomy-5",
       "question": "How many chambers does the human heart have?",
       "options": [
         "Two",
-        "Three",
         "Four",
+        "Three",
         "Five"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "human-anatomy-6",
       "question": "What is the smallest bone in the human body?",
       "options": [
-        "Stapes",
-        "Phalanx",
+        "Patella",
         "Coccyx",
-        "Patella"
+        "Phalanx",
+        "Stapes"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-7",
       "question": "Which part of the brain is responsible for balance and coordination?",
       "options": [
-        "Cerebrum",
-        "Cerebellum",
+        "Hypothalamus",
         "Brain Stem",
-        "Hypothalamus"
+        "Cerebrum",
+        "Cerebellum"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-8",
       "question": "What is the main function of red blood cells?",
       "options": [
         "Fight infection",
+        "Produce hormones",
         "Carry oxygen",
-        "Clot blood",
-        "Produce hormones"
+        "Clot blood"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "human-anatomy-9",
       "question": "Which organ produces insulin?",
       "options": [
         "Liver",
-        "Pancreas",
         "Gallbladder",
+        "Pancreas",
         "Thyroid"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "human-anatomy-10",
       "question": "What is the name of the large muscle that separates the chest from the abdomen and aids in breathing?",
       "options": [
-        "Trapezius",
         "Diaphragm",
-        "Pectoralis",
-        "Intercostal"
+        "Trapezius",
+        "Intercostal",
+        "Pectoralis"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "human-anatomy-11",
       "question": "How many pairs of ribs does a typical human have?",
       "options": [
-        "10",
+        "14",
         "11",
-        "12",
-        "14"
+        "10",
+        "12"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-12",
       "question": "What type of joint is the knee?",
       "options": [
         "Ball and socket",
+        "Gliding",
         "Pivot",
-        "Hinge",
-        "Gliding"
+        "Hinge"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-13",
@@ -142,21 +142,21 @@
       "options": [
         "Veins",
         "Capillaries",
-        "Arteries",
-        "Venules"
+        "Venules",
+        "Arteries"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "human-anatomy-14",
       "question": "What is the colored part of the eye called?",
       "options": [
-        "Pupil",
-        "Cornea",
         "Retina",
-        "Iris"
+        "Cornea",
+        "Iris",
+        "Pupil"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "human-anatomy-15",

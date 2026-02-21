@@ -8,8 +8,13 @@
     {
       "id": "ar-1",
       "question": "What does the acronym 'NASA' stand for?",
-      "options": ["National Air and Space Agency", "National Aeronautics and Space Administration", "North American Space Administration", "National Aerospace and Science Agency"],
-      "correctAnswer": 1,
+      "options": [
+        "North American Space Administration",
+        "National Aerospace and Science Agency",
+        "National Air and Space Agency",
+        "National Aeronautics and Space Administration"
+      ],
+      "correctAnswer": 3,
       "explanation": "NASA stands for the National Aeronautics and Space Administration. It was established in 1958 by President Eisenhower.",
       "difficulty": "easy",
       "category": "recall"
@@ -17,8 +22,13 @@
     {
       "id": "ar-2",
       "question": "What does 'FBI' stand for?",
-      "options": ["Federal Bureau of Intelligence", "Federal Bureau of Investigation", "Federal Board of Inquiry", "Federal Bureau of Inspection"],
-      "correctAnswer": 1,
+      "options": [
+        "Federal Board of Inquiry",
+        "Federal Bureau of Inspection",
+        "Federal Bureau of Investigation",
+        "Federal Bureau of Intelligence"
+      ],
+      "correctAnswer": 2,
       "explanation": "FBI stands for the Federal Bureau of Investigation. It is the principal federal law enforcement agency of the United States.",
       "difficulty": "easy",
       "category": "recall"
@@ -26,8 +36,13 @@
     {
       "id": "ar-3",
       "question": "What does the acronym 'ASAP' stand for?",
-      "options": ["As Swiftly As Practical", "As Soon As Possible", "As Simple As Possible", "At Soonest Achievable Point"],
-      "correctAnswer": 1,
+      "options": [
+        "As Soon As Possible",
+        "As Swiftly As Practical",
+        "As Simple As Possible",
+        "At Soonest Achievable Point"
+      ],
+      "correctAnswer": 0,
       "explanation": "ASAP stands for 'As Soon As Possible.' It has been in common use since the mid-20th century.",
       "difficulty": "easy",
       "category": "recall"
@@ -35,8 +50,13 @@
     {
       "id": "ar-4",
       "question": "What does 'ATM' stand for in banking?",
-      "options": ["Automatic Transfer Machine", "Automated Teller Machine", "Automatic Transaction Machine", "Automated Transfer Mechanism"],
-      "correctAnswer": 1,
+      "options": [
+        "Automatic Transfer Machine",
+        "Automated Transfer Mechanism",
+        "Automatic Transaction Machine",
+        "Automated Teller Machine"
+      ],
+      "correctAnswer": 3,
       "explanation": "ATM stands for Automated Teller Machine. The first modern ATM was installed at a Barclays Bank in London in 1967.",
       "difficulty": "easy",
       "category": "recall"
@@ -44,8 +64,13 @@
     {
       "id": "ar-5",
       "question": "What does 'DIY' stand for?",
-      "options": ["Do It Yourself", "Design It Yourself", "Deliver It Yourself", "Develop It Yourself"],
-      "correctAnswer": 0,
+      "options": [
+        "Design It Yourself",
+        "Do It Yourself",
+        "Deliver It Yourself",
+        "Develop It Yourself"
+      ],
+      "correctAnswer": 1,
       "explanation": "DIY stands for 'Do It Yourself,' referring to building, modifying, or repairing things without professional help.",
       "difficulty": "easy",
       "category": "recall"
@@ -53,8 +78,13 @@
     {
       "id": "ar-6",
       "question": "What does the acronym 'SCUBA' stand for?",
-      "options": ["Self-Contained Underwater Breathing Aid", "Self-Contained Underwater Breathing Apparatus", "Submersible Compressed Underwater Breathing Apparatus", "Standard Compressed Underwater Breathing Aid"],
-      "correctAnswer": 1,
+      "options": [
+        "Self-Contained Underwater Breathing Apparatus",
+        "Standard Compressed Underwater Breathing Aid",
+        "Submersible Compressed Underwater Breathing Apparatus",
+        "Self-Contained Underwater Breathing Aid"
+      ],
+      "correctAnswer": 0,
       "explanation": "SCUBA stands for Self-Contained Underwater Breathing Apparatus. The term was coined by Christian Lambertsen in 1954.",
       "difficulty": "medium",
       "category": "recall"
@@ -62,8 +92,13 @@
     {
       "id": "ar-7",
       "question": "What does 'RSVP' stand for?",
-      "options": ["Reply Soon Very Promptly", "Respondez S'il Vous Plait", "Require Special Verified Presence", "Return Stamped Verified Post"],
-      "correctAnswer": 1,
+      "options": [
+        "Respondez S'il Vous Plait",
+        "Require Special Verified Presence",
+        "Return Stamped Verified Post",
+        "Reply Soon Very Promptly"
+      ],
+      "correctAnswer": 0,
       "explanation": "RSVP stands for 'Respondez S'il Vous Plait,' which is French for 'Please Respond.' It is used on invitations to request a reply.",
       "difficulty": "medium",
       "category": "recall"
@@ -71,8 +106,13 @@
     {
       "id": "ar-8",
       "question": "What does 'RADAR' stand for?",
-      "options": ["Radio Detection and Ranging", "Radio Direction and Ranging", "Remote Area Detection and Ranging", "Rapid Detection and Response"],
-      "correctAnswer": 0,
+      "options": [
+        "Rapid Detection and Response",
+        "Radio Detection and Ranging",
+        "Remote Area Detection and Ranging",
+        "Radio Direction and Ranging"
+      ],
+      "correctAnswer": 1,
       "explanation": "RADAR stands for Radio Detection And Ranging. It was developed during World War II and uses radio waves to detect objects.",
       "difficulty": "medium",
       "category": "recall"
@@ -80,8 +120,13 @@
     {
       "id": "ar-9",
       "question": "What does 'SOS' stand for in maritime distress signals?",
-      "options": ["Save Our Souls", "Save Our Ship", "Signal of Survival", "It doesn't stand for anything specific"],
-      "correctAnswer": 3,
+      "options": [
+        "It doesn't stand for anything specific",
+        "Signal of Survival",
+        "Save Our Ship",
+        "Save Our Souls"
+      ],
+      "correctAnswer": 0,
       "explanation": "SOS does not actually stand for anything. It was chosen because its Morse code pattern (three dots, three dashes, three dots) is easy to recognize.",
       "difficulty": "medium",
       "category": "recall"
@@ -89,8 +134,13 @@
     {
       "id": "ar-10",
       "question": "What does 'CEO' stand for?",
-      "options": ["Chief Executive Officer", "Chief Executive Operator", "Corporate Executive Officer", "Central Executive Officer"],
-      "correctAnswer": 0,
+      "options": [
+        "Corporate Executive Officer",
+        "Chief Executive Operator",
+        "Chief Executive Officer",
+        "Central Executive Officer"
+      ],
+      "correctAnswer": 2,
       "explanation": "CEO stands for Chief Executive Officer, the highest-ranking executive in a company responsible for making major corporate decisions.",
       "difficulty": "medium",
       "category": "recall"
@@ -98,8 +148,13 @@
     {
       "id": "ar-11",
       "question": "What does the acronym 'LASER' stand for?",
-      "options": ["Light Amplified by Simulated Emission of Radiation", "Light Amplification by Stimulated Emission of Radiation", "Light Amplified by Stimulated Energy Radiation", "Luminous Amplification by Stimulated Emission of Radiation"],
-      "correctAnswer": 1,
+      "options": [
+        "Light Amplified by Simulated Emission of Radiation",
+        "Light Amplified by Stimulated Energy Radiation",
+        "Luminous Amplification by Stimulated Emission of Radiation",
+        "Light Amplification by Stimulated Emission of Radiation"
+      ],
+      "correctAnswer": 3,
       "explanation": "LASER stands for Light Amplification by Stimulated Emission of Radiation. The first working laser was built by Theodore Maiman in 1960.",
       "difficulty": "hard",
       "category": "recall"
@@ -107,8 +162,13 @@
     {
       "id": "ar-12",
       "question": "What does 'CAPTCHA' stand for?",
-      "options": ["Computer Automated Program to Tell Computers and Humans Apart", "Completely Automated Public Turing test to tell Computers and Humans Apart", "Centralized Automated Public Testing for Computer and Human Authentication", "Computer-Aided Program for Testing Computer-Human Authenticity"],
-      "correctAnswer": 1,
+      "options": [
+        "Centralized Automated Public Testing for Computer and Human Authentication",
+        "Computer-Aided Program for Testing Computer-Human Authenticity",
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Computer Automated Program to Tell Computers and Humans Apart"
+      ],
+      "correctAnswer": 2,
       "explanation": "CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. It was coined in 2003 by researchers at Carnegie Mellon.",
       "difficulty": "hard",
       "category": "recall"
@@ -116,8 +176,13 @@
     {
       "id": "ar-13",
       "question": "What does the medical acronym 'MRI' stand for?",
-      "options": ["Magnetic Radiation Imaging", "Magnetic Resonance Imaging", "Medical Resonance Imaging", "Molecular Resonance Imaging"],
-      "correctAnswer": 1,
+      "options": [
+        "Molecular Resonance Imaging",
+        "Medical Resonance Imaging",
+        "Magnetic Resonance Imaging",
+        "Magnetic Radiation Imaging"
+      ],
+      "correctAnswer": 2,
       "explanation": "MRI stands for Magnetic Resonance Imaging. It uses strong magnetic fields and radio waves to generate images of organs and structures inside the body.",
       "difficulty": "hard",
       "category": "recall"
@@ -125,8 +190,13 @@
     {
       "id": "ar-14",
       "question": "What does 'AWOL' stand for?",
-      "options": ["Away Without Official License", "Absent Without Official Leave", "Away Without Lawful Order", "Absent With Outstanding Leave"],
-      "correctAnswer": 1,
+      "options": [
+        "Absent Without Official Leave",
+        "Away Without Lawful Order",
+        "Away Without Official License",
+        "Absent With Outstanding Leave"
+      ],
+      "correctAnswer": 0,
       "explanation": "AWOL stands for Absent Without Official Leave. It is a military term for someone who leaves their post or duty without permission.",
       "difficulty": "hard",
       "category": "recall"
@@ -134,8 +204,13 @@
     {
       "id": "ar-15",
       "question": "What does 'SONAR' stand for?",
-      "options": ["Sound Navigation and Ranging", "Sonic Navigation and Radar", "Subsurface Object Navigation and Ranging", "Sound Oriented Navigation and Ranging"],
-      "correctAnswer": 0,
+      "options": [
+        "Subsurface Object Navigation and Ranging",
+        "Sonic Navigation and Radar",
+        "Sound Navigation and Ranging",
+        "Sound Oriented Navigation and Ranging"
+      ],
+      "correctAnswer": 2,
       "explanation": "SONAR stands for Sound Navigation And Ranging. It uses sound propagation to navigate, detect, and communicate underwater.",
       "difficulty": "hard",
       "category": "recall"

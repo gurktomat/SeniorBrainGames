@@ -9,64 +9,64 @@
       "question": "Which ice cream brand, founded in 1907, was known for its '31 Flavors' slogan?",
       "options": [
         "Dairy Queen",
+        "Friendly's",
         "Baskin-Robbins",
-        "Howard Johnson's",
-        "Friendly's"
+        "Howard Johnson's"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-ice-cream-2",
       "question": "What frozen treat on a stick was invented by an 11-year-old boy who left a soda mixture outside overnight in 1905?",
       "options": [
-        "The Fudgsicle",
-        "The Creamsicle",
         "The Popsicle",
-        "The Drumstick"
+        "The Drumstick",
+        "The Creamsicle",
+        "The Fudgsicle"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "vintage-ice-cream-3",
       "question": "What is the name of the ice cream dessert served in a tall glass with soda, syrup, and whipped cream?",
       "options": [
         "A sundae",
-        "A float",
         "An ice cream soda",
-        "A parfait"
+        "A parfait",
+        "A float"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "vintage-ice-cream-4",
       "question": "Which restaurant chain, founded in 1925, was famous for its 28 flavors of ice cream and orange-roofed buildings?",
       "options": [
-        "Dairy Queen",
+        "Carvel",
         "Friendly's",
-        "Howard Johnson's",
-        "Carvel"
+        "Dairy Queen",
+        "Howard Johnson's"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "vintage-ice-cream-5",
       "question": "What is the traditional way to make a banana split?",
       "options": [
-        "A banana sliced lengthwise with three scoops of ice cream and toppings",
-        "A banana blended into a milkshake",
+        "A banana served with a single scoop",
         "A banana dipped in chocolate",
-        "A banana served with a single scoop"
+        "A banana blended into a milkshake",
+        "A banana sliced lengthwise with three scoops of ice cream and toppings"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "vintage-ice-cream-6",
       "question": "What novelty ice cream treat features vanilla ice cream coated in a chocolate shell on a stick?",
       "options": [
         "The Drumstick",
-        "The Klondike Bar",
+        "The Dove Bar",
         "The Eskimo Pie",
-        "The Dove Bar"
+        "The Klondike Bar"
       ],
       "correctAnswer": 2
     },
@@ -75,11 +75,11 @@
       "question": "Which ice cream truck jingle, based on a traditional folk tune, could be heard in neighborhoods across America?",
       "options": [
         "Yankee Doodle",
-        "The Entertainer",
         "Turkey in the Straw",
+        "The Entertainer",
         "Pop Goes the Weasel"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "vintage-ice-cream-8",
@@ -96,34 +96,34 @@
       "id": "vintage-ice-cream-9",
       "question": "Which ice cream novelty features a cone-shaped wafer with ice cream inside, topped with a chocolate and nut coating?",
       "options": [
-        "The Nutty Buddy",
-        "The Drumstick",
         "The Choco Taco",
-        "The Ice Cream Sandwich"
+        "The Ice Cream Sandwich",
+        "The Drumstick",
+        "The Nutty Buddy"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-ice-cream-10",
       "question": "What was the original flavor combination of a Creamsicle?",
       "options": [
-        "Strawberry and vanilla",
         "Orange and vanilla",
         "Lemon and vanilla",
-        "Grape and vanilla"
+        "Grape and vanilla",
+        "Strawberry and vanilla"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "vintage-ice-cream-11",
       "question": "Which ice cream brand's advertising slogan asked 'What would you do for a Klondike Bar?'",
       "options": [
         "Good Humor",
+        "Breyers",
         "Klondike",
-        "Blue Bunny",
-        "Breyers"
+        "Blue Bunny"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-ice-cream-12",
@@ -131,43 +131,43 @@
       "options": [
         "A ladle",
         "A spade",
-        "An ice cream scoop or disher",
-        "A melon baller"
+        "A melon baller",
+        "An ice cream scoop or disher"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "vintage-ice-cream-13",
       "question": "What soft-serve ice cream chain, founded in 1940, became famous for its Blizzard treats?",
       "options": [
-        "Carvel",
-        "Dairy Queen",
+        "Mister Softee",
         "Tastee-Freez",
-        "Mister Softee"
+        "Carvel",
+        "Dairy Queen"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "vintage-ice-cream-14",
       "question": "What was unique about Neapolitan ice cream?",
       "options": [
-        "It was served only in Naples",
-        "It came in three flavors \u2014 chocolate, vanilla, and strawberry \u2014 in one container",
+        "It was the first sugar-free ice cream",
         "It was made with real Italian cream",
-        "It was the first sugar-free ice cream"
+        "It came in three flavors — chocolate, vanilla, and strawberry — in one container",
+        "It was served only in Naples"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "vintage-ice-cream-15",
       "question": "Which ice cream brand, started in 1978 in a renovated gas station in Vermont, became known for its creative flavor names?",
       "options": [
-        "Haagen-Dazs",
-        "Ben & Jerry's",
         "Breyers",
-        "Turkey Hill"
+        "Turkey Hill",
+        "Ben & Jerry's",
+        "Haagen-Dazs"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -7,92 +7,167 @@
     {
       "id": "retro-breakfast-cereals-1",
       "question": "What cereal featured Tony the Tiger as its mascot with the catchphrase 'They're Gr-r-reat!'?",
-      "options": ["Corn Flakes", "Frosted Flakes", "Sugar Smacks", "Wheaties"],
-      "correctAnswer": 1
+      "options": [
+        "Sugar Smacks",
+        "Corn Flakes",
+        "Frosted Flakes",
+        "Wheaties"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-breakfast-cereals-2",
       "question": "Which cereal mascot was a cartoon toucan named Sam?",
-      "options": ["Cocoa Puffs", "Fruit Loops", "Froot Loops", "Trix"],
-      "correctAnswer": 2
+      "options": [
+        "Cocoa Puffs",
+        "Froot Loops",
+        "Fruit Loops",
+        "Trix"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-breakfast-cereals-3",
       "question": "What cereal's advertising slogan was 'Silly rabbit, Trix are for kids!'?",
-      "options": ["Lucky Charms", "Cocoa Puffs", "Trix", "Cookie Crisp"],
-      "correctAnswer": 2
+      "options": [
+        "Cookie Crisp",
+        "Lucky Charms",
+        "Cocoa Puffs",
+        "Trix"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-breakfast-cereals-4",
       "question": "Which cereal box famously featured photos of champion athletes on the front, calling them 'The Breakfast of Champions'?",
-      "options": ["Total", "Wheaties", "Grape-Nuts", "Cheerios"],
-      "correctAnswer": 1
+      "options": [
+        "Wheaties",
+        "Total",
+        "Grape-Nuts",
+        "Cheerios"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-breakfast-cereals-5",
       "question": "What were the three mascots for Rice Krispies called?",
-      "options": ["Snap, Crackle, and Pop", "Chip, Dale, and Rustle", "Click, Clack, and Crack", "Tip, Tap, and Top"],
-      "correctAnswer": 0
+      "options": [
+        "Chip, Dale, and Rustle",
+        "Click, Clack, and Crack",
+        "Tip, Tap, and Top",
+        "Snap, Crackle, and Pop"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-breakfast-cereals-6",
       "question": "Which cereal featured a leprechaun mascot named Lucky who guarded his 'magically delicious' marshmallow shapes?",
-      "options": ["Lucky Charms", "Froot Loops", "Cap'n Crunch", "Trix"],
-      "correctAnswer": 0
+      "options": [
+        "Froot Loops",
+        "Lucky Charms",
+        "Cap'n Crunch",
+        "Trix"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-breakfast-cereals-7",
       "question": "What was the name of the cartoon bird mascot who was 'cuckoo for Cocoa Puffs'?",
-      "options": ["Woodstock", "Toucan Sam", "Sonny the Cuckoo Bird", "Buzz the Bee"],
-      "correctAnswer": 2
+      "options": [
+        "Woodstock",
+        "Buzz the Bee",
+        "Toucan Sam",
+        "Sonny the Cuckoo Bird"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-breakfast-cereals-8",
       "question": "What naval officer character served as the mascot for Cap'n Crunch cereal?",
-      "options": ["Admiral Crunch", "Captain Horatio Magellan Crunch", "Commander Crunch", "Skipper Crunch"],
-      "correctAnswer": 1
+      "options": [
+        "Admiral Crunch",
+        "Skipper Crunch",
+        "Captain Horatio Magellan Crunch",
+        "Commander Crunch"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-breakfast-cereals-9",
       "question": "What type of prize was commonly found inside cereal boxes during the 1950s and 1960s?",
-      "options": ["Cash vouchers", "Small plastic toys or decoder rings", "Clothing items", "Board games"],
-      "correctAnswer": 1
+      "options": [
+        "Clothing items",
+        "Cash vouchers",
+        "Board games",
+        "Small plastic toys or decoder rings"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-breakfast-cereals-10",
       "question": "Which cereal brand introduced a contest that let kids send in box tops for prizes?",
-      "options": ["Post cereals only", "Kellogg's only", "Many cereal brands offered box-top promotions", "General Mills only"],
-      "correctAnswer": 2
+      "options": [
+        "Many cereal brands offered box-top promotions",
+        "Post cereals only",
+        "Kellogg's only",
+        "General Mills only"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-breakfast-cereals-11",
       "question": "What Quaker Oats cereal featured a cartoon prospector character and was known for its sweet corn flavor?",
-      "options": ["Cap'n Crunch", "Quisp", "King Vitaman", "Quake"],
-      "correctAnswer": 1
+      "options": [
+        "King Vitaman",
+        "Quake",
+        "Cap'n Crunch",
+        "Quisp"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-breakfast-cereals-12",
       "question": "What General Mills cereal, introduced in 1971, was shaped like small ghosts, bats, and other spooky shapes?",
-      "options": ["Boo Berry", "Count Chocula", "Franken Berry", "All three were introduced around this time"],
-      "correctAnswer": 3
+      "options": [
+        "Franken Berry",
+        "Boo Berry",
+        "All three were introduced around this time",
+        "Count Chocula"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-breakfast-cereals-13",
       "question": "What hot breakfast cereal, made from oats, has been sold in a cylindrical container with a Quaker man on it since 1877?",
-      "options": ["Cream of Wheat", "Malt-O-Meal", "Quaker Oats", "Maypo"],
-      "correctAnswer": 2
+      "options": [
+        "Quaker Oats",
+        "Maypo",
+        "Malt-O-Meal",
+        "Cream of Wheat"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-breakfast-cereals-14",
       "question": "Which Post cereal, introduced in 1897, was marketed with the claim that the name came from the creator's belief in 'grape sugar'?",
-      "options": ["Grape-Nuts", "Raisin Bran", "Alpha-Bits", "Honeycomb"],
+      "options": [
+        "Grape-Nuts",
+        "Raisin Bran",
+        "Alpha-Bits",
+        "Honeycomb"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "retro-breakfast-cereals-15",
       "question": "What breakfast cereal mascot was a friendly bee named Buzz?",
-      "options": ["Honey Smacks", "Honeycomb", "Honey Nut Cheerios", "Golden Grahams"],
-      "correctAnswer": 2
+      "options": [
+        "Honey Nut Cheerios",
+        "Honey Smacks",
+        "Honeycomb",
+        "Golden Grahams"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

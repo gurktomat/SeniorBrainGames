@@ -7,92 +7,167 @@
     {
       "id": "dance-vocabulary-1",
       "question": "In ballet, what is a 'plie'?",
-      "options": ["A jump into the air", "A bending of the knees while keeping the back straight", "A spin on one foot", "A bow to the audience"],
-      "correctAnswer": 1
+      "options": [
+        "A bow to the audience",
+        "A jump into the air",
+        "A bending of the knees while keeping the back straight",
+        "A spin on one foot"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-vocabulary-2",
       "question": "What does 'pirouette' mean in dance?",
-      "options": ["A graceful walk", "A full turn of the body on one foot", "A leap across the stage", "A curtsy"],
-      "correctAnswer": 1
+      "options": [
+        "A graceful walk",
+        "A curtsy",
+        "A leap across the stage",
+        "A full turn of the body on one foot"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-vocabulary-3",
       "question": "In ballet, what is an 'arabesque'?",
-      "options": ["A type of tutu", "A position where the dancer stands on one leg with the other extended behind", "A fast spinning move", "A group dance formation"],
-      "correctAnswer": 1
+      "options": [
+        "A type of tutu",
+        "A group dance formation",
+        "A fast spinning move",
+        "A position where the dancer stands on one leg with the other extended behind"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-vocabulary-4",
       "question": "What is a 'pas de deux' in ballet?",
-      "options": ["A solo performance", "A dance for two performers", "A step backward", "The final act"],
-      "correctAnswer": 1
+      "options": [
+        "A dance for two performers",
+        "The final act",
+        "A solo performance",
+        "A step backward"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-vocabulary-5",
       "question": "In dance, what does 'choreography' refer to?",
-      "options": ["The music selection", "The planned sequence of steps and movements in a dance", "The costume design", "The stage lighting"],
-      "correctAnswer": 1
+      "options": [
+        "The planned sequence of steps and movements in a dance",
+        "The costume design",
+        "The music selection",
+        "The stage lighting"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-vocabulary-6",
       "question": "What is the 'foxtrot'?",
-      "options": ["A dance performed with a fox", "A smooth ballroom dance with long, flowing movements in 4/4 time", "A fast Irish dance", "A Latin dance with hip movements"],
+      "options": [
+        "A dance performed with a fox",
+        "A smooth ballroom dance with long, flowing movements in 4/4 time",
+        "A fast Irish dance",
+        "A Latin dance with hip movements"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "dance-vocabulary-7",
       "question": "In ballet, what does 'en pointe' mean?",
-      "options": ["Pointing at the audience", "Dancing on the tips of the toes in special shoes", "Making a sharp point with the hand", "The pointed position of the feet"],
-      "correctAnswer": 1
+      "options": [
+        "The pointed position of the feet",
+        "Making a sharp point with the hand",
+        "Dancing on the tips of the toes in special shoes",
+        "Pointing at the audience"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-vocabulary-8",
       "question": "What is the 'cha-cha' characterized by?",
-      "options": ["Slow, sweeping movements", "A syncopated rhythm with a distinctive triple step pattern", "High jumps and leaps", "Only arm movements"],
-      "correctAnswer": 1
+      "options": [
+        "High jumps and leaps",
+        "Slow, sweeping movements",
+        "A syncopated rhythm with a distinctive triple step pattern",
+        "Only arm movements"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-vocabulary-9",
       "question": "In dance terminology, what is a 'barre'?",
-      "options": ["A type of dance shoe", "A horizontal bar used for balance during ballet exercises", "A drinking establishment for dancers", "A restriction on certain moves"],
-      "correctAnswer": 1
+      "options": [
+        "A horizontal bar used for balance during ballet exercises",
+        "A type of dance shoe",
+        "A drinking establishment for dancers",
+        "A restriction on certain moves"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-vocabulary-10",
       "question": "What is a 'grand jete' in ballet?",
-      "options": ["A grand entrance", "A large, dramatic leap where the dancer does a split in the air", "A deep bow", "A slow, graceful walk"],
-      "correctAnswer": 1
+      "options": [
+        "A grand entrance",
+        "A deep bow",
+        "A slow, graceful walk",
+        "A large, dramatic leap where the dancer does a split in the air"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-vocabulary-11",
       "question": "What dance is known for its sharp head turns called 'snaps'?",
-      "options": ["Waltz", "Tango", "Polka", "Ballet"],
-      "correctAnswer": 1
+      "options": [
+        "Waltz",
+        "Polka",
+        "Ballet",
+        "Tango"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dance-vocabulary-12",
       "question": "In dance, what does 'tempo rubato' mean?",
-      "options": ["Dancing in a robotic style", "Flexible timing where the dancer slightly speeds up or slows down for expression", "A fast dance tempo", "Dancing without music"],
-      "correctAnswer": 1
+      "options": [
+        "Flexible timing where the dancer slightly speeds up or slows down for expression",
+        "Dancing without music",
+        "A fast dance tempo",
+        "Dancing in a robotic style"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-vocabulary-13",
       "question": "What is a 'waltz' time signature?",
-      "options": ["2/4 time", "3/4 time", "4/4 time", "6/8 time"],
-      "correctAnswer": 1
+      "options": [
+        "3/4 time",
+        "6/8 time",
+        "4/4 time",
+        "2/4 time"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dance-vocabulary-14",
       "question": "In ballet, what is a 'releve'?",
-      "options": ["A relaxation pose", "Rising up onto the balls of the feet or onto pointe", "A reclining position", "A reverence or bow"],
-      "correctAnswer": 1
+      "options": [
+        "A reverence or bow",
+        "A reclining position",
+        "Rising up onto the balls of the feet or onto pointe",
+        "A relaxation pose"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dance-vocabulary-15",
       "question": "What is 'flamenco' most associated with?",
-      "options": ["France", "Spain, featuring rhythmic footwork, hand clapping, and guitar music", "Italy", "Argentina"],
-      "correctAnswer": 1
+      "options": [
+        "France",
+        "Argentina",
+        "Italy",
+        "Spain, featuring rhythmic footwork, hand clapping, and guitar music"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

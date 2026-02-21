@@ -1,0 +1,173 @@
+{
+  "id": "medieval-philosophy-quiz",
+  "title": "Medieval Philosophy",
+  "description": "Explore the great thinkers who bridged ancient wisdom and the modern world",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "medieval-philosophy-quiz-1",
+      "question": "Thomas Aquinas attempted to reconcile the philosophy of which ancient thinker with Christian theology?",
+      "options": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Epicurus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medieval-philosophy-quiz-2",
+      "question": "What are the 'Five Ways' of Thomas Aquinas?",
+      "options": [
+        "Five moral virtues",
+        "Five stages of the soul",
+        "Five sacraments",
+        "Five arguments for the existence of God"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medieval-philosophy-quiz-3",
+      "question": "Augustine of Hippo wrote which influential autobiographical work?",
+      "options": [
+        "Confessions",
+        "Summa Theologica",
+        "The Republic",
+        "The Prince"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-4",
+      "question": "The 'problem of universals' was a major debate in medieval philosophy. What did it concern?",
+      "options": [
+        "The number of angels",
+        "The size of the universe",
+        "Whether abstract concepts exist independently of specific things",
+        "The shape of the earth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medieval-philosophy-quiz-5",
+      "question": "Averroes (Ibn Rushd) was a medieval philosopher from which cultural tradition?",
+      "options": [
+        "Christian European",
+        "Jewish",
+        "Byzantine",
+        "Islamic (Andalusian)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medieval-philosophy-quiz-6",
+      "question": "Maimonides, author of 'Guide for the Perplexed,' was a philosopher of which faith?",
+      "options": [
+        "Christianity",
+        "Judaism",
+        "Zoroastrianism",
+        "Islam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medieval-philosophy-quiz-7",
+      "question": "What was 'scholasticism' in medieval philosophy?",
+      "options": [
+        "A method of critical thought combining faith and reason",
+        "A form of art",
+        "A type of monastery",
+        "A rejection of learning"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-8",
+      "question": "Anselm of Canterbury formulated which famous argument for God's existence?",
+      "options": [
+        "The ontological argument",
+        "The teleological argument",
+        "The moral argument",
+        "The cosmological argument"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-9",
+      "question": "William of Ockham is best known for which principle?",
+      "options": [
+        "Ockham's Razor (simplicity principle)",
+        "The social contract",
+        "The divine right of kings",
+        "The golden mean"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-10",
+      "question": "Boethius wrote 'The Consolation of Philosophy' while in what situation?",
+      "options": [
+        "Imprisoned and awaiting execution",
+        "Serving as pope",
+        "Teaching at a university",
+        "Traveling abroad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-11",
+      "question": "Avicenna (Ibn Sina) was a medieval philosopher who also made major contributions to what field?",
+      "options": [
+        "Navigation",
+        "Astronomy",
+        "Architecture",
+        "Medicine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medieval-philosophy-quiz-12",
+      "question": "Peter Abelard was a medieval philosopher famous for what controversy?",
+      "options": [
+        "Denying God's existence",
+        "Leading a crusade",
+        "His love affair with Heloise and his work on universals",
+        "Inventing the printing press"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medieval-philosophy-quiz-13",
+      "question": "What was Augustine's concept of 'original sin'?",
+      "options": [
+        "That all humans inherit a sinful nature from Adam and Eve",
+        "That sin does not exist",
+        "That sin was invented by philosophers",
+        "That only monks can sin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-14",
+      "question": "Duns Scotus was a medieval philosopher known for emphasizing the importance of what?",
+      "options": [
+        "The will and individual freedom",
+        "Economic theory",
+        "Military power",
+        "Agricultural science"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medieval-philosophy-quiz-15",
+      "question": "Al-Ghazali's 'The Incoherence of the Philosophers' argued against the primacy of what?",
+      "options": [
+        "Science",
+        "Religion",
+        "Greek philosophical reasoning over Islamic theology",
+        "Art and music"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

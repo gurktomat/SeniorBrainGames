@@ -1,0 +1,219 @@
+{
+  "id": "womens-history-quiz",
+  "title": "Women's History Quiz",
+  "description": "Celebrate the remarkable women who made history! How many can you recall?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "womens-history-quiz-1",
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Jacqueline Cochran"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean on May 20-21, 1932.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-2",
+      "question": "Which woman is known as the 'Mother of the Modern Civil Rights Movement'?",
+      "options": [
+        "Rosa Parks",
+        "Harriet Tubman",
+        "Sojourner Truth",
+        "Ida B. Wells"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rosa Parks earned this title after her refusal to give up her bus seat in 1955 helped spark the Montgomery Bus Boycott.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-3",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Jane Addams",
+        "Bertha von Suttner",
+        "Mother Teresa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marie Curie won the Nobel Prize in Physics in 1903, shared with her husband Pierre and Henri Becquerel. She later won a second Nobel Prize in Chemistry in 1911.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-4",
+      "question": "Which leader of the women's suffrage movement was arrested for voting in the 1872 presidential election?",
+      "options": [
+        "Alice Paul",
+        "Lucretia Mott",
+        "Elizabeth Cady Stanton",
+        "Susan B. Anthony"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Susan B. Anthony was arrested and fined for voting illegally in the 1872 presidential election, bringing national attention to women's suffrage.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-5",
+      "question": "Who was the first woman to serve as Prime Minister of the United Kingdom?",
+      "options": [
+        "Theresa May",
+        "Barbara Castle",
+        "Margaret Thatcher",
+        "Queen Victoria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Margaret Thatcher became the UK's first female Prime Minister in 1979 and served until 1990, earning the nickname 'The Iron Lady.'",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-6",
+      "question": "Which woman led enslaved people to freedom via the Underground Railroad?",
+      "options": [
+        "Phillis Wheatley",
+        "Harriet Tubman",
+        "Mary McLeod Bethune",
+        "Sojourner Truth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Harriet Tubman escaped slavery and then made roughly 13 missions to rescue approximately 70 enslaved people using the Underground Railroad.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-7",
+      "question": "Who was the first woman in space?",
+      "options": [
+        "Sally Ride",
+        "Valentina Tereshkova",
+        "Mae Jemison",
+        "Svetlana Savitskaya"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Soviet cosmonaut Valentina Tereshkova became the first woman in space on June 16, 1963, aboard Vostok 6.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-8",
+      "question": "Which nurse is considered the founder of modern nursing?",
+      "options": [
+        "Florence Nightingale",
+        "Mary Seacole",
+        "Dorothea Dix",
+        "Clara Barton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Florence Nightingale revolutionized nursing during the Crimean War (1853-1856) and established the first professional nursing school.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-9",
+      "question": "Who was the first female Secretary of State of the United States?",
+      "options": [
+        "Hillary Clinton",
+        "Madeleine Albright",
+        "Janet Reno",
+        "Condoleezza Rice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Madeleine Albright became the first female Secretary of State in 1997, serving under President Bill Clinton.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-10",
+      "question": "Which French teenager led the French army to several victories during the Hundred Years' War?",
+      "options": [
+        "Marie Antoinette",
+        "Eleanor of Aquitaine",
+        "Charlotte Corday",
+        "Joan of Arc"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Joan of Arc, a peasant girl, led the French army to key victories at age 17-19 before being captured and burned at the stake in 1431.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-11",
+      "question": "Who wrote 'The Feminine Mystique,' sparking the second wave of feminism?",
+      "options": [
+        "Gloria Steinem",
+        "Simone de Beauvoir",
+        "Betty Friedan",
+        "Bell Hooks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Betty Friedan published 'The Feminine Mystique' in 1963, challenging the idea that women could only find fulfillment as housewives and mothers.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-12",
+      "question": "Which woman was the first to earn a medical degree in the United States?",
+      "options": [
+        "Clara Barton",
+        "Virginia Apgar",
+        "Elizabeth Blackwell",
+        "Mary Edwards Walker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elizabeth Blackwell became the first woman to receive a medical degree in the US in 1849, graduating from Geneva Medical College in New York.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-13",
+      "question": "Which activist and author wrote 'Silent Spring,' launching the modern environmental movement?",
+      "options": [
+        "Rachel Carson",
+        "Sylvia Earle",
+        "Jane Goodall",
+        "Wangari Maathai"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rachel Carson published 'Silent Spring' in 1962, documenting the harmful effects of pesticides and sparking the modern environmental movement.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-14",
+      "question": "Who was the first African American woman to win an Academy Award for Best Actress?",
+      "options": [
+        "Cicely Tyson",
+        "Halle Berry",
+        "Dorothy Dandridge",
+        "Whoopi Goldberg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Halle Berry won the Academy Award for Best Actress in 2002 for her role in 'Monster's Ball.'",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "womens-history-quiz-15",
+      "question": "Which woman organized the Seneca Falls Convention, the first women's rights convention in the US?",
+      "options": [
+        "Elizabeth Cady Stanton",
+        "Lucy Stone",
+        "Susan B. Anthony",
+        "Lucretia Mott"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Elizabeth Cady Stanton, along with Lucretia Mott, organized the Seneca Falls Convention in 1848, where the Declaration of Sentiments was drafted.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

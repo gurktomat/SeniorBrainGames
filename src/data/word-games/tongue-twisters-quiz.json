@@ -8,12 +8,12 @@
       "id": "tongue-twisters-quiz-1",
       "question": "Complete the tongue twister: 'She ___ seashells by the seashore.'",
       "options": [
-        "Sold",
-        "Sells",
         "Found",
-        "Saw"
+        "Saw",
+        "Sold",
+        "Sells"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "tongue-twisters-quiz-2",
@@ -21,8 +21,8 @@
       "options": [
         "Peaches",
         "Peppers",
-        "Pears",
-        "Plums"
+        "Plums",
+        "Pears"
       ],
       "correctAnswer": 1
     },
@@ -30,78 +30,78 @@
       "id": "tongue-twisters-quiz-3",
       "question": "Complete the tongue twister: 'How much ___ would a woodchuck chuck if a woodchuck could chuck ___?'",
       "options": [
-        "Lumber / lumber",
-        "Bark / bark",
         "Wood / wood",
-        "Timber / timber"
+        "Bark / bark",
+        "Timber / timber",
+        "Lumber / lumber"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "tongue-twisters-quiz-4",
       "question": "Complete the tongue twister: 'Betty Botter bought some ___.'",
       "options": [
-        "Bread",
         "Butter",
-        "Biscuits",
-        "Berries"
+        "Bread",
+        "Berries",
+        "Biscuits"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "tongue-twisters-quiz-5",
       "question": "Complete the tongue twister: 'I scream, you scream, we all scream for ___.'",
       "options": [
-        "Ice cream",
+        "Popcorn",
         "Chocolate",
-        "Candy",
-        "Popcorn"
+        "Ice cream",
+        "Candy"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "tongue-twisters-quiz-6",
       "question": "Complete the tongue twister: 'Red ___, yellow ___.'",
       "options": [
         "Truck / truck",
-        "Lorry / lorry",
+        "Car / car",
         "Bus / bus",
-        "Car / car"
+        "Lorry / lorry"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "tongue-twisters-quiz-7",
       "question": "Complete the tongue twister: 'Fuzzy Wuzzy was a ___. Fuzzy Wuzzy had no hair.'",
       "options": [
-        "Cat",
         "Bear",
+        "Bunny",
         "Dog",
-        "Bunny"
+        "Cat"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "tongue-twisters-quiz-8",
       "question": "Complete the tongue twister: 'Rubber baby buggy ___.'",
       "options": [
-        "Bumpers",
-        "Buttons",
+        "Brakes",
         "Buckets",
-        "Brakes"
+        "Bumpers",
+        "Buttons"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "tongue-twisters-quiz-9",
       "question": "Complete the tongue twister: 'Toy boat, toy boat, toy ___.'",
       "options": [
-        "Ship",
         "Car",
-        "Boat",
-        "Train"
+        "Train",
+        "Ship",
+        "Boat"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "tongue-twisters-quiz-10",
@@ -109,8 +109,8 @@
       "options": [
         "'P' and 'C' sounds",
         "'T' and 'D' sounds",
-        "'S' and 'Z' sounds",
-        "'M' and 'N' sounds"
+        "'M' and 'N' sounds",
+        "'S' and 'Z' sounds"
       ],
       "correctAnswer": 0
     },
@@ -119,33 +119,33 @@
       "question": "Complete the tongue twister: 'Six slippery snails slid slowly ___.'",
       "options": [
         "Sideways",
-        "Seaward",
         "Southward",
-        "Somewhere"
+        "Somewhere",
+        "Seaward"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "tongue-twisters-quiz-12",
       "question": "Complete the tongue twister: 'Which ___ watches which watch?'",
       "options": [
+        "Wizard",
         "Woman",
         "Witch",
-        "Wizard",
         "Watcher"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "tongue-twisters-quiz-13",
       "question": "Complete the tongue twister: 'I saw ___ sitting in a shoe shine shop.'",
       "options": [
-        "Sally",
         "Susie",
+        "Sarah",
         "Sandy",
-        "Sarah"
+        "Sally"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "tongue-twisters-quiz-14",
@@ -162,12 +162,12 @@
       "id": "tongue-twisters-quiz-15",
       "question": "Complete the tongue twister: 'Fresh French fried ___ fritters.'",
       "options": [
+        "Frog",
         "Fruit",
         "Fish",
-        "Frog",
         "Flour"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

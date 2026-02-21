@@ -1,0 +1,173 @@
+{
+  "id": "comma-rules-quiz",
+  "title": "Comma Rules Quiz",
+  "description": "Master the art of the comma! Test your knowledge of when and where to place this essential punctuation mark.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "comma-rules-quiz-1",
+      "question": "Which sentence uses commas correctly?",
+      "options": [
+        "Before leaving she, grabbed her coat.",
+        "Before, leaving she grabbed her coat.",
+        "Before leaving she grabbed, her coat.",
+        "Before leaving, she grabbed her coat."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "comma-rules-quiz-2",
+      "question": "Where should the comma go? 'Well I think you're right.'",
+      "options": [
+        "Well I think, you're right.",
+        "No comma is needed.",
+        "Well, I think you're right.",
+        "Well I, think you're right."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "comma-rules-quiz-3",
+      "question": "Which sentence correctly uses the Oxford comma?",
+      "options": [
+        "I bought apples, oranges, and bananas.",
+        "I bought apples oranges and bananas.",
+        "I bought, apples, oranges and bananas.",
+        "I bought apples, oranges and, bananas."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-4",
+      "question": "Which sentence uses commas correctly with a nonessential clause?",
+      "options": [
+        "My sister, who lives in Boston, is a doctor.",
+        "My sister who lives in Boston, is a doctor.",
+        "My sister who lives in Boston is a doctor.",
+        "My sister, who lives in Boston is a doctor."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-5",
+      "question": "Which is correct when addressing someone directly?",
+      "options": [
+        "Let's eat, Grandma!",
+        "Let's eat Grandma!",
+        "Let's, eat Grandma!",
+        "Lets eat, Grandma!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-6",
+      "question": "Where does the comma belong? 'On January 1 2020 we celebrated.'",
+      "options": [
+        "On January 1, 2020, we celebrated.",
+        "On January 1 2020, we celebrated.",
+        "On January, 1 2020 we celebrated.",
+        "On, January 1 2020 we celebrated."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-7",
+      "question": "Which sentence uses a comma correctly with a coordinating conjunction?",
+      "options": [
+        "She sang and, he played guitar.",
+        "She sang, and he played guitar.",
+        "She, sang and he played guitar.",
+        "She sang, and, he played guitar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "comma-rules-quiz-8",
+      "question": "Is a comma needed? 'The tall dark and handsome stranger arrived.'",
+      "options": [
+        "The tall, dark, and handsome stranger arrived.",
+        "The tall, dark and, handsome stranger arrived.",
+        "The tall dark, and handsome stranger arrived.",
+        "No commas are needed."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-9",
+      "question": "Which sentence correctly uses a comma after an introductory phrase?",
+      "options": [
+        "In, the morning we go for a walk.",
+        "In the morning we go for a walk.",
+        "In the, morning we go for a walk.",
+        "In the morning, we go for a walk."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "comma-rules-quiz-10",
+      "question": "Which use of commas is correct in a city and state?",
+      "options": [
+        "Nashville, Tennessee is lovely.",
+        "Nashville Tennessee, is lovely.",
+        "Nashville Tennessee is lovely.",
+        "Nashville, Tennessee, is lovely."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "comma-rules-quiz-11",
+      "question": "Which sentence correctly avoids a comma splice?",
+      "options": [
+        "She, loves reading and he, prefers movies.",
+        "She loves reading he prefers movies.",
+        "She loves reading, and he prefers movies.",
+        "She loves reading, he prefers movies."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "comma-rules-quiz-12",
+      "question": "Where does the comma go with a quotation? 'She said I'll be there soon.'",
+      "options": [
+        "She said \"I'll be there soon\".",
+        "She said, \"I'll be there soon.\"",
+        "She, said \"I'll be there soon.\"",
+        "She said \"I'll be there, soon.\""
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "comma-rules-quiz-13",
+      "question": "Which sentence uses commas correctly with an appositive?",
+      "options": [
+        "My neighbor a retired teacher, helps me garden.",
+        "My neighbor a retired teacher helps me garden.",
+        "My neighbor, a retired teacher helps me garden.",
+        "My neighbor, a retired teacher, helps me garden."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "comma-rules-quiz-14",
+      "question": "Should there be a comma? 'Although it was raining we went for a walk.'",
+      "options": [
+        "Although it was raining, we went for a walk.",
+        "Although it was raining we went, for a walk.",
+        "No comma is needed.",
+        "Although, it was raining we went for a walk."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "comma-rules-quiz-15",
+      "question": "Which is the correct use of commas with 'however'?",
+      "options": [
+        "I wanted to go however I was, too tired.",
+        "I wanted to go however, I was too tired.",
+        "I wanted to go, however I was too tired.",
+        "I wanted to go; however, I was too tired."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

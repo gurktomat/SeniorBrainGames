@@ -1,0 +1,219 @@
+{
+  "id": "world-folk-tales",
+  "title": "World Folk Tales",
+  "description": "Explore beloved folk tales and fairy tales from cultures around the world!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "world-folk-tales-1",
+      "question": "The Brothers Grimm, who collected famous fairy tales, were from which country?",
+      "options": [
+        "France",
+        "Germany",
+        "England",
+        "Denmark"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jacob and Wilhelm Grimm were German academics who published their collection of fairy tales ('Grimms' Fairy Tales') in 1812. It included stories like 'Cinderella,' 'Snow White,' and 'Hansel and Gretel.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-2",
+      "question": "Hans Christian Andersen, author of 'The Little Mermaid' and 'The Ugly Duckling,' was from which country?",
+      "options": [
+        "Denmark",
+        "Finland",
+        "Sweden",
+        "Norway"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hans Christian Andersen (1805-1875) was a Danish author whose fairy tales have been translated into over 125 languages. Unlike the Grimms, Andersen created original stories rather than collecting folk tales.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-3",
+      "question": "'One Thousand and One Nights' (Arabian Nights) is framed by the story of which storyteller?",
+      "options": [
+        "Ali Baba",
+        "Sinbad",
+        "Aladdin",
+        "Scheherazade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Scheherazade tells stories to King Shahryar each night, always leaving a cliffhanger so he will spare her life to hear the ending. This frame story connects tales like 'Aladdin,' 'Ali Baba,' and 'Sinbad.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-4",
+      "question": "In the Aesop's fable 'The Tortoise and the Hare,' what lesson does the story teach?",
+      "options": [
+        "Might makes right",
+        "Look before you leap",
+        "Slow and steady wins the race",
+        "Early bird catches the worm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In this famous fable, the overconfident hare takes a nap during the race, allowing the persistent tortoise to win. Aesop's fables, dating to ancient Greece, use animals to teach moral lessons.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-5",
+      "question": "In the African folk tale tradition, what animal is often the clever trickster?",
+      "options": [
+        "The elephant",
+        "The giraffe",
+        "The lion",
+        "Anansi the spider"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Anansi the spider is a beloved trickster figure in West African and Caribbean folklore, originally from the Ashanti people of Ghana. He uses his wits to outsmart much larger and stronger animals.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-6",
+      "question": "In the original Grimm Brothers' version, what does the Big Bad Wolf do to the first two pigs' houses?",
+      "options": [
+        "Blows them down",
+        "Burns them down",
+        "Knocks them over",
+        "Floods them"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Three Little Pigs' features a wolf who blows down houses of straw and sticks but cannot destroy the brick house. The story, with versions across many cultures, teaches the value of hard work and planning.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-7",
+      "question": "The Japanese folk tale of Momotarō is about a boy born from what fruit?",
+      "options": [
+        "A cherry",
+        "A peach",
+        "A plum",
+        "A persimmon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Momotarō ('Peach Boy') is one of Japan's most beloved folk tales. An elderly couple finds a giant peach floating down a river, and inside is a boy who grows up to defeat the demons (oni) of Onigashima island.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-8",
+      "question": "In the Native American Coyote tales, Coyote typically serves what role?",
+      "options": [
+        "Trickster and cultural hero",
+        "Silent observer",
+        "Evil villain",
+        "Wise elder"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coyote is a central trickster figure in the folklore of many Native American nations. He is both foolish and clever, and his adventures often explain the origins of natural features or cultural practices.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-9",
+      "question": "Charles Perrault, who wrote versions of 'Cinderella' and 'Sleeping Beauty,' was from which country?",
+      "options": [
+        "Italy",
+        "Germany",
+        "England",
+        "France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Charles Perrault (1628-1703) published 'Tales of Mother Goose' in 1697, which included 'Cinderella,' 'Sleeping Beauty,' 'Little Red Riding Hood,' and 'Puss in Boots.' His versions became the best-known forms of these stories.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-10",
+      "question": "In Russian folk tales, Baba Yaga is what kind of character?",
+      "options": [
+        "A fearsome witch who lives in a hut on chicken legs",
+        "A wise king",
+        "A beautiful princess",
+        "A friendly dragon"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Baba Yaga is a supernatural witch-like figure in Slavic folklore. She lives in a hut that stands on giant chicken legs and can be either a villain or a helpful guide, depending on the story.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-11",
+      "question": "The Indian collection of animal fables 'Panchatantra' was originally written to teach what?",
+      "options": [
+        "Political wisdom and practical life lessons to young princes",
+        "Religious devotion",
+        "Mathematics",
+        "Agricultural techniques"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'Panchatantra' (c. 300 BC) was composed to educate the sons of a king in the principles of wise governance. Its animal fables teach lessons about politics, human nature, and practical wisdom.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-12",
+      "question": "In the Chinese folk tale, what does the Monkey King (Sun Wukong) accompany the monk Xuanzang to retrieve?",
+      "options": [
+        "Buddhist scriptures from India",
+        "A magical sword",
+        "An emperor's crown",
+        "A dragon's pearl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sun Wukong, the Monkey King from 'Journey to the West' (16th century), accompanies the monk Xuanzang on a pilgrimage to India to retrieve Buddhist sutras. The story is one of the most beloved in Chinese literature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-13",
+      "question": "In the folk tale 'Rumpelstiltskin,' the miller's daughter must guess what to save her child?",
+      "options": [
+        "The location of hidden gold",
+        "A magic spell",
+        "The little man's name",
+        "A riddle's answer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the Brothers Grimm tale, a strange little man spins straw into gold for the miller's daughter but demands her firstborn child. She can keep the child only if she can guess his name: Rumpelstiltskin.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-14",
+      "question": "Which Irish folk tale tradition features small, mischievous fairy shoemakers who guard pots of gold?",
+      "options": [
+        "Púca",
+        "Leprechauns",
+        "Selkies",
+        "Banshees"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leprechauns are small fairy beings in Irish folklore, traditionally depicted as old men who are shoemakers. They are said to hide pots of gold at the end of rainbows and grant wishes if caught.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "world-folk-tales-15",
+      "question": "In the Grimm Brothers' version of 'Cinderella,' what helps Cinderella instead of a fairy godmother?",
+      "options": [
+        "A talking cat",
+        "A wishing well",
+        "A tree growing on her mother's grave and white birds",
+        "A magic mirror"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the Grimms' 'Aschenputtel,' Cinderella plants a hazel twig on her mother's grave that grows into a tree. A white bird in the tree grants her wishes, providing the beautiful dress and golden slippers for the ball.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

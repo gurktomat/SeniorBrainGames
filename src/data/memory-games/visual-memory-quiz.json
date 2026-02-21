@@ -8,8 +8,13 @@
     {
       "id": "vmq-1",
       "question": "On a standard traffic light, which color is on top?",
-      "options": ["Green", "Yellow", "Red", "It varies by country"],
-      "correctAnswer": 2,
+      "options": [
+        "It varies by country",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "correctAnswer": 3,
       "explanation": "On a standard vertical traffic light, red is always on top. This consistent placement helps colorblind drivers identify the signal by position.",
       "difficulty": "easy",
       "category": "recall"
@@ -17,8 +22,13 @@
     {
       "id": "vmq-2",
       "question": "How many stripes are on the American flag?",
-      "options": ["11", "12", "13", "15"],
-      "correctAnswer": 2,
+      "options": [
+        "15",
+        "13",
+        "12",
+        "11"
+      ],
+      "correctAnswer": 1,
       "explanation": "The American flag has 13 stripes — 7 red and 6 white — representing the original 13 colonies that declared independence from Britain.",
       "difficulty": "easy",
       "category": "recall"
@@ -26,7 +36,12 @@
     {
       "id": "vmq-3",
       "question": "What color is the 'M' in the McDonald's logo?",
-      "options": ["Red", "Yellow", "White", "Orange"],
+      "options": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "White"
+      ],
       "correctAnswer": 1,
       "explanation": "The McDonald's 'Golden Arches' M is yellow (gold). This bright color was chosen to be eye-catching and is now one of the most recognizable logos in the world.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "vmq-4",
       "question": "On a standard keyboard, which letter is between 'A' and 'D'?",
-      "options": ["W", "E", "S", "F"],
+      "options": [
+        "W",
+        "E",
+        "S",
+        "F"
+      ],
       "correctAnswer": 2,
       "explanation": "On a standard QWERTY keyboard, the letter 'S' sits between 'A' and 'D' on the home row.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "vmq-5",
       "question": "What shape is a standard stop sign?",
-      "options": ["Circle", "Square", "Octagon", "Hexagon"],
-      "correctAnswer": 2,
+      "options": [
+        "Square",
+        "Circle",
+        "Hexagon",
+        "Octagon"
+      ],
+      "correctAnswer": 3,
       "explanation": "A standard stop sign is an octagon (8 sides). This unique shape allows drivers to recognize it from any angle, even from behind.",
       "difficulty": "easy",
       "category": "recall"
@@ -53,8 +78,13 @@
     {
       "id": "vmq-6",
       "question": "On which side of a standard U.S. penny does Abraham Lincoln face?",
-      "options": ["He faces left", "He faces right", "He faces forward", "It alternates by year"],
-      "correctAnswer": 1,
+      "options": [
+        "He faces forward",
+        "He faces left",
+        "It alternates by year",
+        "He faces right"
+      ],
+      "correctAnswer": 3,
       "explanation": "On a U.S. penny, Abraham Lincoln faces to the right. Interestingly, Lincoln is the only president on a U.S. coin who faces right; all others face left.",
       "difficulty": "medium",
       "category": "recall"
@@ -62,8 +92,13 @@
     {
       "id": "vmq-7",
       "question": "What are the two colors of the Facebook logo?",
-      "options": ["Blue and red", "Blue and white", "Blue and yellow", "Blue and green"],
-      "correctAnswer": 1,
+      "options": [
+        "Blue and white",
+        "Blue and yellow",
+        "Blue and red",
+        "Blue and green"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Facebook logo uses blue and white. Mark Zuckerberg chose blue because he is red-green colorblind and blue is the richest color he can see.",
       "difficulty": "medium",
       "category": "recall"
@@ -71,8 +106,13 @@
     {
       "id": "vmq-8",
       "question": "How many dots are on a standard pair of dice (both dice combined)?",
-      "options": ["36", "42", "21", "48"],
-      "correctAnswer": 1,
+      "options": [
+        "21",
+        "48",
+        "36",
+        "42"
+      ],
+      "correctAnswer": 3,
       "explanation": "Each die has 21 dots (1+2+3+4+5+6), so a pair of dice has 42 dots total.",
       "difficulty": "medium",
       "category": "recall"
@@ -80,8 +120,13 @@
     {
       "id": "vmq-9",
       "question": "In which direction does the Statue of Liberty face?",
-      "options": ["North", "South", "Southeast", "Northwest"],
-      "correctAnswer": 2,
+      "options": [
+        "North",
+        "Northwest",
+        "South",
+        "Southeast"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Statue of Liberty faces southeast, looking toward the ocean and France, the country that gifted the statue to the United States.",
       "difficulty": "medium",
       "category": "recall"
@@ -89,8 +134,13 @@
     {
       "id": "vmq-10",
       "question": "What color are the stars on the flag of the European Union?",
-      "options": ["White", "Gold/Yellow", "Silver", "Blue"],
-      "correctAnswer": 1,
+      "options": [
+        "Gold/Yellow",
+        "Blue",
+        "Silver",
+        "White"
+      ],
+      "correctAnswer": 0,
       "explanation": "The European Union flag features 12 gold (yellow) stars arranged in a circle on a blue background. The 12 stars represent unity and completeness, not the number of member states.",
       "difficulty": "medium",
       "category": "recall"
@@ -98,7 +148,12 @@
     {
       "id": "vmq-11",
       "question": "On a standard analog clock, what number is directly opposite 12?",
-      "options": ["3", "5", "6", "9"],
+      "options": [
+        "5",
+        "3",
+        "6",
+        "9"
+      ],
       "correctAnswer": 2,
       "explanation": "On a standard analog clock, 6 is directly opposite 12. The numbers are evenly spaced, with each number 30 degrees apart around the clock face.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "vmq-12",
       "question": "On a U.S. one-dollar bill, which direction does George Washington face?",
-      "options": ["Left", "Right", "Forward", "Slightly left"],
-      "correctAnswer": 0,
+      "options": [
+        "Forward",
+        "Left",
+        "Right",
+        "Slightly left"
+      ],
+      "correctAnswer": 1,
       "explanation": "On the U.S. one-dollar bill, George Washington faces to the left (from the viewer's perspective). The portrait is based on the unfinished 1796 painting by Gilbert Stuart.",
       "difficulty": "hard",
       "category": "recall"
@@ -116,7 +176,12 @@
     {
       "id": "vmq-13",
       "question": "How many rings are in the Olympic symbol?",
-      "options": ["4", "5", "6", "7"],
+      "options": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
       "correctAnswer": 1,
       "explanation": "The Olympic symbol has 5 interlocking rings in blue, yellow, black, green, and red. They represent the five continents participating in the Olympic movement.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "vmq-14",
       "question": "On a standard computer keyboard, which punctuation mark shares the key with the number 1?",
-      "options": ["@ symbol", "! exclamation mark", "# hashtag", "$ dollar sign"],
+      "options": [
+        "@ symbol",
+        "! exclamation mark",
+        "$ dollar sign",
+        "# hashtag"
+      ],
       "correctAnswer": 1,
       "explanation": "On a standard U.S. QWERTY keyboard, the exclamation mark (!) shares the key with the number 1. You press Shift+1 to type it.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "vmq-15",
       "question": "What color is the circle in the Japanese flag?",
-      "options": ["Orange", "Red", "Crimson", "Maroon"],
-      "correctAnswer": 1,
+      "options": [
+        "Maroon",
+        "Crimson",
+        "Orange",
+        "Red"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Japanese flag features a red circle (representing the sun) on a white background. The flag is officially called 'Nisshoki' (sun-mark flag) or 'Hinomaru' (circle of the sun).",
       "difficulty": "hard",
       "category": "recall"

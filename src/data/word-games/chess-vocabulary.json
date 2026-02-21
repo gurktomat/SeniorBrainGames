@@ -7,92 +7,167 @@
     {
       "id": "chess-vocabulary-1",
       "question": "What does 'checkmate' mean in chess?",
-      "options": ["The king is in danger but can escape", "The king is under attack and cannot escape, ending the game", "A player resigns voluntarily", "Both players agree to a draw"],
-      "correctAnswer": 1
+      "options": [
+        "The king is under attack and cannot escape, ending the game",
+        "A player resigns voluntarily",
+        "The king is in danger but can escape",
+        "Both players agree to a draw"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-2",
       "question": "What is 'castling' in chess?",
-      "options": ["Capturing an opponent's piece", "A special move involving the king and a rook switching positions", "Promoting a pawn to a queen", "Moving a bishop diagonally across the board"],
-      "correctAnswer": 1
+      "options": [
+        "Moving a bishop diagonally across the board",
+        "Capturing an opponent's piece",
+        "Promoting a pawn to a queen",
+        "A special move involving the king and a rook switching positions"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "chess-vocabulary-3",
       "question": "What does 'stalemate' mean?",
-      "options": ["One player has won decisively", "A draw where the player to move has no legal moves but is not in check", "A situation where both players are in check", "When time runs out"],
-      "correctAnswer": 1
+      "options": [
+        "A draw where the player to move has no legal moves but is not in check",
+        "When time runs out",
+        "One player has won decisively",
+        "A situation where both players are in check"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-4",
       "question": "What is 'en passant' in chess?",
-      "options": ["Moving a knight in an L-shape", "A special pawn capture where a pawn takes an adjacent pawn that just moved two squares", "Placing a piece back on the board after capture", "A defensive move to protect the king"],
-      "correctAnswer": 1
+      "options": [
+        "A special pawn capture where a pawn takes an adjacent pawn that just moved two squares",
+        "Moving a knight in an L-shape",
+        "Placing a piece back on the board after capture",
+        "A defensive move to protect the king"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-5",
       "question": "What is a 'gambit' in chess?",
-      "options": ["A defensive formation of pieces", "An opening strategy where a player sacrifices material for an advantage", "A move that puts the opponent in check", "A quick victory in under ten moves"],
+      "options": [
+        "A defensive formation of pieces",
+        "An opening strategy where a player sacrifices material for an advantage",
+        "A quick victory in under ten moves",
+        "A move that puts the opponent in check"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "chess-vocabulary-6",
       "question": "What does 'fianchetto' mean in chess?",
-      "options": ["A small chess piece", "Developing a bishop to the long diagonal by moving the knight's pawn one square", "A type of endgame technique", "Capturing a piece while in check"],
-      "correctAnswer": 1
+      "options": [
+        "Capturing a piece while in check",
+        "A small chess piece",
+        "A type of endgame technique",
+        "Developing a bishop to the long diagonal by moving the knight's pawn one square"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "chess-vocabulary-7",
       "question": "What is a 'fork' in chess?",
-      "options": ["Splitting the board in half", "A move where one piece attacks two or more enemy pieces simultaneously", "Trading pieces of equal value", "A type of opening move"],
-      "correctAnswer": 1
+      "options": [
+        "A move where one piece attacks two or more enemy pieces simultaneously",
+        "Trading pieces of equal value",
+        "Splitting the board in half",
+        "A type of opening move"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-8",
       "question": "What does 'pin' mean as a chess tactic?",
-      "options": ["Fastening a piece to the board", "An attack on a piece that cannot move without exposing a more valuable piece behind it", "Placing all pawns in a row", "A move that forces a draw"],
-      "correctAnswer": 1
+      "options": [
+        "An attack on a piece that cannot move without exposing a more valuable piece behind it",
+        "Placing all pawns in a row",
+        "Fastening a piece to the board",
+        "A move that forces a draw"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-9",
       "question": "What is 'promotion' in chess?",
-      "options": ["Moving a piece to a more important square", "When a pawn reaches the opposite end of the board and becomes another piece", "Elevating a player's ranking", "Winning a tournament round"],
+      "options": [
+        "Moving a piece to a more important square",
+        "When a pawn reaches the opposite end of the board and becomes another piece",
+        "Elevating a player's ranking",
+        "Winning a tournament round"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "chess-vocabulary-10",
       "question": "What is the 'endgame' in chess?",
-      "options": ["The very first move of a game", "The final phase of the game when few pieces remain on the board", "When a player resigns", "A tiebreaker round"],
-      "correctAnswer": 1
+      "options": [
+        "The final phase of the game when few pieces remain on the board",
+        "When a player resigns",
+        "The very first move of a game",
+        "A tiebreaker round"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-11",
       "question": "What does 'Zugzwang' mean in chess?",
-      "options": ["A powerful attacking move", "A situation where any move a player makes will worsen their position", "A defensive wall of pawns", "A surprise checkmate"],
-      "correctAnswer": 1
+      "options": [
+        "A situation where any move a player makes will worsen their position",
+        "A powerful attacking move",
+        "A surprise checkmate",
+        "A defensive wall of pawns"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "chess-vocabulary-12",
       "question": "What is a 'skewer' in chess?",
-      "options": ["A row of pawns protecting the king", "An attack on a valuable piece that forces it to move, exposing a less valuable piece behind it", "A simultaneous attack on the king and queen", "A technique for fast play"],
-      "correctAnswer": 1
+      "options": [
+        "A row of pawns protecting the king",
+        "A simultaneous attack on the king and queen",
+        "A technique for fast play",
+        "An attack on a valuable piece that forces it to move, exposing a less valuable piece behind it"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "chess-vocabulary-13",
       "question": "What does 'blitz' mean in chess?",
-      "options": ["A very long, slow game", "A fast-paced game with very short time controls", "A game played without a board", "A game played by correspondence"],
-      "correctAnswer": 1
+      "options": [
+        "A very long, slow game",
+        "A game played without a board",
+        "A fast-paced game with very short time controls",
+        "A game played by correspondence"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "chess-vocabulary-14",
       "question": "What is a 'sacrifice' in chess?",
-      "options": ["Losing a game on purpose", "Deliberately giving up a piece to gain a strategic advantage", "Refusing to make a move", "Trading queens at the start of a game"],
-      "correctAnswer": 1
+      "options": [
+        "Losing a game on purpose",
+        "Refusing to make a move",
+        "Deliberately giving up a piece to gain a strategic advantage",
+        "Trading queens at the start of a game"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "chess-vocabulary-15",
       "question": "What is the 'opening' in chess?",
-      "options": ["The hole in the center of the board", "The initial phase of the game where players develop their pieces", "The first capture of the game", "A gap in the opponent's pawn structure"],
-      "correctAnswer": 1
+      "options": [
+        "A gap in the opponent's pawn structure",
+        "The hole in the center of the board",
+        "The first capture of the game",
+        "The initial phase of the game where players develop their pieces"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

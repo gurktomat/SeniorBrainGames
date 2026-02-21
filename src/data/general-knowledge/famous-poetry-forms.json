@@ -1,0 +1,219 @@
+{
+  "id": "famous-poetry-forms",
+  "title": "Famous Poetry Forms",
+  "description": "Explore the beautiful world of poetry, from sonnets to haiku and everything in between!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-poetry-forms-1",
+      "question": "A haiku is a traditional Japanese poem consisting of how many syllables?",
+      "options": [
+        "24",
+        "14",
+        "17",
+        "21"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A haiku consists of 17 syllables arranged in three lines of 5, 7, and 5 syllables. Traditional haiku often reference nature and a specific season. Matsuo Basho is considered the greatest haiku master.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-2",
+      "question": "A Shakespearean sonnet has how many lines?",
+      "options": [
+        "10",
+        "16",
+        "14",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A Shakespearean (or English) sonnet has 14 lines in iambic pentameter, arranged as three quatrains and a final couplet, with the rhyme scheme ABAB CDCD EFEF GG.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-3",
+      "question": "Which type of poem tells a story, often set to music, and typically has a repeated refrain?",
+      "options": [
+        "Elegy",
+        "Limerick",
+        "Ballad",
+        "Ode"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ballads are narrative poems that tell a story, often about love, adventure, or tragedy. They originated as oral folk songs and typically feature quatrains with a repeating refrain.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-4",
+      "question": "A limerick is a humorous poem with how many lines?",
+      "options": [
+        "Four",
+        "Five",
+        "Three",
+        "Six"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A limerick has five lines with an AABBA rhyme scheme. The first, second, and fifth lines have three stressed syllables, while the third and fourth have two. Edward Lear popularized the form.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-5",
+      "question": "An 'ode' is typically a poem that does what?",
+      "options": [
+        "Describes a journey",
+        "Mourns the dead",
+        "Praises or celebrates a subject",
+        "Tells a joke"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An ode is a lyric poem that addresses and celebrates a person, place, thing, or idea. Famous examples include Keats's 'Ode on a Grecian Urn' and Shelley's 'Ode to the West Wind.'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-6",
+      "question": "What is 'free verse' poetry?",
+      "options": [
+        "Poetry that can be read in any order",
+        "Poetry that is always about freedom",
+        "Poetry without a regular meter or rhyme scheme",
+        "Poetry written for free publications"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Free verse does not follow regular meter, rhyme, or line length. Walt Whitman's 'Leaves of Grass' (1855) is considered a landmark of free verse. Most modern poetry is written in free verse.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-7",
+      "question": "Which Italian poet created the Petrarchan sonnet form?",
+      "options": [
+        "Dante Alighieri",
+        "Francesco Petrarch",
+        "Ludovico Ariosto",
+        "Giovanni Boccaccio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Francesco Petrarch (1304-1374) developed the Italian sonnet form with an octave (8 lines) and sestet (6 lines). His 'Canzoniere,' a sequence of 366 poems, most addressed to his beloved Laura, became the model for love poetry.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-8",
+      "question": "An 'elegy' is a poem that serves what purpose?",
+      "options": [
+        "Celebrates a wedding",
+        "Praises a hero",
+        "Mourns the dead or reflects on loss",
+        "Describes a landscape"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An elegy is a mournful poem, typically lamenting someone who has died. Famous elegies include Thomas Gray's 'Elegy Written in a Country Churchyard' and Walt Whitman's 'O Captain! My Captain!'",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-9",
+      "question": "What is an 'epic poem'?",
+      "options": [
+        "A long narrative poem about heroic deeds",
+        "A very short poem",
+        "A poem written for children",
+        "A poem with exactly 100 lines"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An epic is a lengthy narrative poem celebrating the adventures of a hero figure. Homer's 'Iliad' and 'Odyssey,' Virgil's 'Aeneid,' and Milton's 'Paradise Lost' are among the greatest epics.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-10",
+      "question": "What poetic device involves the repetition of consonant sounds at the beginning of words?",
+      "options": [
+        "Onomatopoeia",
+        "Assonance",
+        "Alliteration",
+        "Metaphor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alliteration is the repetition of initial consonant sounds, as in 'Peter Piper picked a peck of pickled peppers.' It creates rhythm and emphasis and is one of the oldest poetic devices.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-11",
+      "question": "A 'villanelle' is a 19-line poem with a specific pattern of repeating lines. Which famous poem uses this form?",
+      "options": [
+        "Do Not Go Gentle into That Good Night by Dylan Thomas",
+        "The Waste Land by T.S. Eliot",
+        "The Road Not Taken by Robert Frost",
+        "Howl by Allen Ginsberg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dylan Thomas's 'Do Not Go Gentle into That Good Night' (1951) is the most famous villanelle in English. The form uses five tercets and a quatrain, with two refrains alternating throughout.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-12",
+      "question": "What is 'iambic pentameter'?",
+      "options": [
+        "A line of verse with five pairs of unstressed-stressed syllables",
+        "A rhyme scheme of five alternating sounds",
+        "A poem with five stanzas",
+        "A poem written in five languages"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iambic pentameter consists of five 'iambs' — pairs of syllables where an unstressed syllable is followed by a stressed one (da-DUM). Shakespeare wrote most of his plays and sonnets in this meter.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-13",
+      "question": "Dante's 'Divine Comedy' is written in which poetic form he invented?",
+      "options": [
+        "Spenserian stanza",
+        "Ottava rima",
+        "Terza rima",
+        "Blank verse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Terza rima uses interlocking three-line stanzas with the rhyme scheme ABA BCB CDC. Dante invented this form for his 'Divine Comedy' (c. 1308-1321), an epic journey through Hell, Purgatory, and Paradise.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-14",
+      "question": "What is a 'couplet' in poetry?",
+      "options": [
+        "A stanza with two syllables per line",
+        "A poem for two voices",
+        "A pair of poems on the same topic",
+        "Two consecutive rhyming lines"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A couplet is a pair of successive lines that usually rhyme and have the same meter. The 'heroic couplet' (in iambic pentameter) was perfected by Alexander Pope in the 18th century.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-poetry-forms-15",
+      "question": "The Japanese 'tanka' poem extends the haiku form to how many lines?",
+      "options": [
+        "Seven",
+        "Six",
+        "Five",
+        "Four"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tanka is a five-line poem with a syllable pattern of 5-7-5-7-7 (31 total syllables). It predates the haiku and was the dominant form of Japanese poetry for over a thousand years.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

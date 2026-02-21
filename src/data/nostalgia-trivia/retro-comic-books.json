@@ -7,92 +7,167 @@
     {
       "id": "retro-comic-books-1",
       "question": "In what year did Superman first appear in Action Comics #1?",
-      "options": ["1933", "1938", "1941", "1945"],
-      "correctAnswer": 1
+      "options": [
+        "1945",
+        "1941",
+        "1938",
+        "1933"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-comic-books-2",
       "question": "Who created Batman, the Dark Knight detective who debuted in 1939?",
-      "options": ["Stan Lee and Jack Kirby", "Jerry Siegel and Joe Shuster", "Bob Kane and Bill Finger", "Joe Simon and Jack Kirby"],
+      "options": [
+        "Jerry Siegel and Joe Shuster",
+        "Stan Lee and Jack Kirby",
+        "Bob Kane and Bill Finger",
+        "Joe Simon and Jack Kirby"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-comic-books-3",
       "question": "Which patriotic superhero was created by Joe Simon and Jack Kirby in 1941?",
-      "options": ["The Shield", "Captain America", "Uncle Sam", "The Star-Spangled Kid"],
-      "correctAnswer": 1
+      "options": [
+        "The Shield",
+        "Uncle Sam",
+        "The Star-Spangled Kid",
+        "Captain America"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-comic-books-4",
       "question": "What was the name of Superman's home planet?",
-      "options": ["Asgard", "Krypton", "Thanagar", "Oa"],
-      "correctAnswer": 1
+      "options": [
+        "Krypton",
+        "Oa",
+        "Asgard",
+        "Thanagar"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-comic-books-5",
       "question": "Which comic book publisher introduced the Fantastic Four, Spider-Man, and the X-Men in the early 1960s?",
-      "options": ["DC Comics", "Marvel Comics", "Charlton Comics", "Dell Comics"],
-      "correctAnswer": 1
+      "options": [
+        "Dell Comics",
+        "DC Comics",
+        "Charlton Comics",
+        "Marvel Comics"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-comic-books-6",
       "question": "What was Wonder Woman's civilian identity in the Golden Age comics?",
-      "options": ["Lois Lane", "Diana Prince", "Carol Danvers", "Jean Grey"],
+      "options": [
+        "Jean Grey",
+        "Diana Prince",
+        "Carol Danvers",
+        "Lois Lane"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-comic-books-7",
       "question": "Which Archie Comics character was known for his love of hamburgers?",
-      "options": ["Archie Andrews", "Reggie Mantle", "Jughead Jones", "Moose Mason"],
+      "options": [
+        "Archie Andrews",
+        "Reggie Mantle",
+        "Jughead Jones",
+        "Moose Mason"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-comic-books-8",
       "question": "What type of radiation gave the Incredible Hulk his powers in his 1962 debut?",
-      "options": ["Solar radiation", "Cosmic rays", "Gamma radiation", "X-rays"],
-      "correctAnswer": 2
+      "options": [
+        "Cosmic rays",
+        "Solar radiation",
+        "X-rays",
+        "Gamma radiation"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-comic-books-9",
       "question": "The 'Comics Code Authority' seal of approval was introduced in what decade to regulate comic content?",
-      "options": ["1940s", "1950s", "1960s", "1970s"],
-      "correctAnswer": 1
+      "options": [
+        "1950s",
+        "1970s",
+        "1960s",
+        "1940s"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-comic-books-10",
       "question": "Which Golden Age superhero was known as the 'Fastest Man Alive'?",
-      "options": ["The Flash (Jay Garrick)", "Quicksilver", "Superman", "Captain Marvel"],
-      "correctAnswer": 0
+      "options": [
+        "Captain Marvel",
+        "Superman",
+        "Quicksilver",
+        "The Flash (Jay Garrick)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-comic-books-11",
       "question": "What classic comic strip character, created by Chester Gould, was a square-jawed detective?",
-      "options": ["The Spirit", "Dick Tracy", "Mandrake the Magician", "The Phantom"],
-      "correctAnswer": 1
+      "options": [
+        "Dick Tracy",
+        "The Phantom",
+        "The Spirit",
+        "Mandrake the Magician"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-comic-books-12",
       "question": "In the Silver Age, what teenager was bitten by a radioactive spider?",
-      "options": ["Bruce Banner", "Peter Parker", "Matt Murdock", "Johnny Storm"],
-      "correctAnswer": 1
+      "options": [
+        "Matt Murdock",
+        "Bruce Banner",
+        "Peter Parker",
+        "Johnny Storm"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-comic-books-13",
       "question": "What was the original price of most comic books during the Golden Age in the 1940s?",
-      "options": ["5 cents", "10 cents", "25 cents", "50 cents"],
+      "options": [
+        "50 cents",
+        "10 cents",
+        "25 cents",
+        "5 cents"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-comic-books-14",
       "question": "Which company published 'Tales from the Crypt' and other horror comics before the Comics Code?",
-      "options": ["Marvel Comics", "DC Comics", "EC Comics", "Fawcett Comics"],
+      "options": [
+        "Fawcett Comics",
+        "Marvel Comics",
+        "EC Comics",
+        "DC Comics"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-comic-books-15",
       "question": "What magic word did young Billy Batson shout to transform into Captain Marvel?",
-      "options": ["Alakazam", "Shazam", "Excelsior", "Kimota"],
-      "correctAnswer": 1
+      "options": [
+        "Alakazam",
+        "Excelsior",
+        "Kimota",
+        "Shazam"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

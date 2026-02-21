@@ -8,8 +8,13 @@
     {
       "id": "fsh-1",
       "question": "Which famous ocean liner sank on its maiden voyage in April 1912 after striking an iceberg?",
-      "options": ["RMS Lusitania", "RMS Titanic", "SS Normandie", "RMS Olympic"],
-      "correctAnswer": 1,
+      "options": [
+        "RMS Titanic",
+        "RMS Lusitania",
+        "SS Normandie",
+        "RMS Olympic"
+      ],
+      "correctAnswer": 0,
       "explanation": "The RMS Titanic sank on April 15, 1912, during its maiden voyage from Southampton to New York City, resulting in the deaths of more than 1,500 people.",
       "difficulty": "easy",
       "category": "history"
@@ -17,8 +22,13 @@
     {
       "id": "fsh-2",
       "question": "What was the name of the ship on which the Pilgrims sailed to America in 1620?",
-      "options": ["Santa Maria", "Mayflower", "Golden Hind", "Speedwell"],
-      "correctAnswer": 1,
+      "options": [
+        "Speedwell",
+        "Golden Hind",
+        "Mayflower",
+        "Santa Maria"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Mayflower carried 102 passengers, known as the Pilgrims, from Plymouth, England, to the New World in 1620, where they established Plymouth Colony in Massachusetts.",
       "difficulty": "easy",
       "category": "history"
@@ -26,8 +36,13 @@
     {
       "id": "fsh-3",
       "question": "Which ship was Charles Darwin's vessel during his famous voyage of scientific discovery?",
-      "options": ["HMS Victory", "HMS Beagle", "HMS Endeavour", "HMS Bounty"],
-      "correctAnswer": 1,
+      "options": [
+        "HMS Endeavour",
+        "HMS Victory",
+        "HMS Bounty",
+        "HMS Beagle"
+      ],
+      "correctAnswer": 3,
       "explanation": "HMS Beagle carried Charles Darwin on his five-year voyage (1831-1836) around the world, during which he made the observations that led to his theory of evolution by natural selection.",
       "difficulty": "easy",
       "category": "history"
@@ -35,8 +50,13 @@
     {
       "id": "fsh-4",
       "question": "What was the name of Noah's vessel in the Bible?",
-      "options": ["The Ark", "The Galilee", "The Covenant", "The Exodus"],
-      "correctAnswer": 0,
+      "options": [
+        "The Exodus",
+        "The Covenant",
+        "The Galilee",
+        "The Ark"
+      ],
+      "correctAnswer": 3,
       "explanation": "According to the Book of Genesis, Noah built the Ark at God's command to save his family and pairs of every animal species from a great flood.",
       "difficulty": "easy",
       "category": "history"
@@ -44,8 +64,13 @@
     {
       "id": "fsh-5",
       "question": "Which ship did Christopher Columbus command as his flagship on his 1492 voyage?",
-      "options": ["Niña", "Pinta", "Santa Maria", "Victoria"],
-      "correctAnswer": 2,
+      "options": [
+        "Victoria",
+        "Santa Maria",
+        "Niña",
+        "Pinta"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Santa Maria was the largest of Columbus's three ships on his 1492 voyage. It ran aground off the coast of Hispaniola on Christmas Day 1492.",
       "difficulty": "easy",
       "category": "history"
@@ -53,8 +78,13 @@
     {
       "id": "fsh-6",
       "question": "Which German battleship, nicknamed 'The Beast,' was sunk by the Royal Navy in May 1941?",
-      "options": ["Tirpitz", "Bismarck", "Scharnhorst", "Graf Spee"],
-      "correctAnswer": 1,
+      "options": [
+        "Bismarck",
+        "Scharnhorst",
+        "Graf Spee",
+        "Tirpitz"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Bismarck was one of the largest battleships ever built by Germany. After sinking HMS Hood, it was pursued and sunk by the Royal Navy on May 27, 1941.",
       "difficulty": "medium",
       "category": "history"
@@ -62,7 +92,12 @@
     {
       "id": "fsh-7",
       "question": "What was the name of Sir Francis Drake's ship in which he circumnavigated the globe (1577-1580)?",
-      "options": ["Revenge", "Ark Royal", "Golden Hind", "Mary Rose"],
+      "options": [
+        "Mary Rose",
+        "Ark Royal",
+        "Golden Hind",
+        "Revenge"
+      ],
       "correctAnswer": 2,
       "explanation": "Sir Francis Drake's Golden Hind completed the second circumnavigation of the globe between 1577 and 1580. The ship was originally called the Pelican but was renamed during the voyage.",
       "difficulty": "medium",
@@ -71,7 +106,12 @@
     {
       "id": "fsh-8",
       "question": "Which famous ship was the flagship of Admiral Horatio Nelson at the Battle of Trafalgar in 1805?",
-      "options": ["HMS Warrior", "HMS Victory", "HMS Sovereign", "HMS Royal Oak"],
+      "options": [
+        "HMS Warrior",
+        "HMS Victory",
+        "HMS Sovereign",
+        "HMS Royal Oak"
+      ],
       "correctAnswer": 1,
       "explanation": "HMS Victory served as Admiral Nelson's flagship at the Battle of Trafalgar on October 21, 1805. Nelson was mortally wounded during the battle but Britain won a decisive victory.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "fsh-9",
       "question": "Which ship became the first nuclear-powered submarine, launched in 1954?",
-      "options": ["USS Skipjack", "USS Nautilus", "USS Triton", "USS Seawolf"],
-      "correctAnswer": 1,
+      "options": [
+        "USS Seawolf",
+        "USS Skipjack",
+        "USS Nautilus",
+        "USS Triton"
+      ],
+      "correctAnswer": 2,
       "explanation": "USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine, launched on January 21, 1954. In 1958, it became the first submarine to complete a submerged transit of the North Pole.",
       "difficulty": "medium",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "fsh-10",
       "question": "Which luxury ocean liner held the Blue Riband for the fastest Atlantic crossing from 1952 to 1998?",
-      "options": ["RMS Queen Mary", "SS United States", "SS Normandie", "RMS Queen Elizabeth"],
-      "correctAnswer": 1,
+      "options": [
+        "RMS Queen Mary",
+        "SS Normandie",
+        "SS United States",
+        "RMS Queen Elizabeth"
+      ],
+      "correctAnswer": 2,
       "explanation": "The SS United States set the transatlantic speed record in July 1952, crossing from New York to England in 3 days, 10 hours, and 40 minutes at an average speed of 35.59 knots.",
       "difficulty": "hard",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "fsh-11",
       "question": "The crew of which ship famously mutinied in 1789, setting Captain William Bligh adrift?",
-      "options": ["HMS Bounty", "HMS Pandora", "HMS Resolution", "HMS Discovery"],
-      "correctAnswer": 0,
+      "options": [
+        "HMS Pandora",
+        "HMS Discovery",
+        "HMS Resolution",
+        "HMS Bounty"
+      ],
+      "correctAnswer": 3,
       "explanation": "The mutiny on HMS Bounty occurred on April 28, 1789. Fletcher Christian led the mutineers, who set Captain Bligh and 18 loyal crew members adrift in a small boat. Bligh remarkably navigated 3,618 miles to safety.",
       "difficulty": "medium",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "fsh-12",
       "question": "Which Confederate ironclad warship fought the USS Monitor in the first battle between ironclad ships in 1862?",
-      "options": ["CSS Alabama", "CSS Virginia", "CSS Tennessee", "CSS Shenandoah"],
-      "correctAnswer": 1,
+      "options": [
+        "CSS Virginia",
+        "CSS Tennessee",
+        "CSS Shenandoah",
+        "CSS Alabama"
+      ],
+      "correctAnswer": 0,
       "explanation": "The CSS Virginia (originally the USS Merrimack) fought the USS Monitor at the Battle of Hampton Roads on March 9, 1862 — the first engagement between ironclad warships, revolutionizing naval warfare.",
       "difficulty": "hard",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "fsh-13",
       "question": "Which ship was the first to successfully complete a voyage through the Northwest Passage (1903-1906)?",
-      "options": ["Fram", "Gjøa", "Endurance", "Terra Nova"],
-      "correctAnswer": 1,
+      "options": [
+        "Fram",
+        "Terra Nova",
+        "Endurance",
+        "Gjøa"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Gjøa, captained by Norwegian explorer Roald Amundsen, was the first vessel to successfully navigate the entire Northwest Passage, completing the journey between 1903 and 1906.",
       "difficulty": "hard",
       "category": "history"
@@ -125,8 +190,13 @@
     {
       "id": "fsh-14",
       "question": "Which ship was Ernest Shackleton's vessel that became trapped in Antarctic ice in 1915?",
-      "options": ["Discovery", "Terra Nova", "Endurance", "Nimrod"],
-      "correctAnswer": 2,
+      "options": [
+        "Discovery",
+        "Nimrod",
+        "Terra Nova",
+        "Endurance"
+      ],
+      "correctAnswer": 3,
       "explanation": "Shackleton's Endurance became trapped in pack ice in the Weddell Sea in January 1915 and was eventually crushed. The remarkable survival story of Shackleton and his crew is one of history's greatest tales of endurance.",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "fsh-15",
       "question": "Which British passenger liner was torpedoed by a German U-boat in 1915, contributing to the U.S. entering World War I?",
-      "options": ["RMS Titanic", "RMS Olympic", "RMS Lusitania", "RMS Mauretania"],
-      "correctAnswer": 2,
+      "options": [
+        "RMS Mauretania",
+        "RMS Olympic",
+        "RMS Titanic",
+        "RMS Lusitania"
+      ],
+      "correctAnswer": 3,
       "explanation": "The RMS Lusitania was sunk by a German submarine on May 7, 1915, off the coast of Ireland, killing 1,198 people including 128 Americans. The event helped shift U.S. public opinion toward entering WWI.",
       "difficulty": "hard",
       "category": "history"

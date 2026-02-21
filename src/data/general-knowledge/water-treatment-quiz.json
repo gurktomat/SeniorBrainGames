@@ -1,0 +1,219 @@
+{
+  "id": "water-treatment-quiz",
+  "title": "Water Treatment & Supply",
+  "description": "Dive into questions about water treatment, purification, and supply engineering!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "water-treatment-quiz-1",
+      "question": "What chemical is most commonly used to disinfect drinking water in municipal water treatment plants?",
+      "options": [
+        "Hydrogen peroxide",
+        "Chlorine",
+        "Fluoride",
+        "Iodine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chlorine is the most widely used disinfectant in municipal water treatment worldwide. It effectively kills bacteria, viruses, and other pathogens, and provides residual protection as water travels through the distribution system.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-2",
+      "question": "What is the process of removing salt from seawater to make it drinkable called?",
+      "options": [
+        "Distillation",
+        "Filtration",
+        "Desalination",
+        "Pasteurization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Desalination is the process of removing dissolved salts and minerals from seawater or brackish water to produce fresh water. The two main methods are reverse osmosis and thermal distillation.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-3",
+      "question": "In water treatment, what does the sedimentation process accomplish?",
+      "options": [
+        "Increases water pressure",
+        "Allows heavy particles to settle to the bottom",
+        "Kills bacteria",
+        "Adds minerals to water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sedimentation is a physical process where gravity causes suspended particles and floc to settle to the bottom of a tank. The clear water above is then drawn off for further treatment, while the settled material (sludge) is removed.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-4",
+      "question": "The ancient Romans built extensive aqueduct systems to supply water. Which famous aqueduct near Nimes, France, still stands today?",
+      "options": [
+        "Pont du Gard",
+        "Aqua Appia",
+        "Aqueduct of Segovia",
+        "Aqua Claudia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Pont du Gard is a Roman aqueduct bridge built in the 1st century AD near Nimes, France. Standing 49 meters high with three tiers of arches, it is one of the best-preserved Roman aqueducts and a UNESCO World Heritage Site.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "water-treatment-quiz-5",
+      "question": "What is 'reverse osmosis' in water treatment?",
+      "options": [
+        "Heating water to kill bacteria",
+        "Forcing water through a semi-permeable membrane to remove contaminants",
+        "Adding chemicals to water",
+        "Using UV light to purify water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reverse osmosis forces water under high pressure through a semi-permeable membrane that blocks most dissolved salts, organics, bacteria, and pyrogens. It is widely used in desalination and water purification systems.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-6",
+      "question": "Which country is the world's largest producer of desalinated water?",
+      "options": [
+        "Australia",
+        "Saudi Arabia",
+        "Israel",
+        "United Arab Emirates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saudi Arabia is the world's largest producer of desalinated water, producing approximately 22% of the world's desalinated water. The country relies heavily on desalination due to its arid climate and limited freshwater resources.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-7",
+      "question": "What is the purpose of adding fluoride to municipal drinking water?",
+      "options": [
+        "To remove heavy metals",
+        "To improve taste",
+        "To kill bacteria",
+        "To prevent tooth decay"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fluoride is added to drinking water (fluoridation) primarily to prevent tooth decay. The practice began in the United States in 1945 and has been credited with significantly reducing dental cavities in communities that practice it.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-8",
+      "question": "What is 'coagulation' in the water treatment process?",
+      "options": [
+        "Straining water through cloth",
+        "Freezing water to kill pathogens",
+        "Adding chemicals to cause fine particles to clump together",
+        "Boiling water for purification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coagulation involves adding chemicals (coagulants) like aluminum sulfate to raw water. These chemicals neutralize the electrical charges on fine particles, causing them to clump together into larger particles called 'floc' that can be removed.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-9",
+      "question": "The Croton Aqueduct, completed in 1842, brought clean water to which major American city?",
+      "options": [
+        "Chicago",
+        "Boston",
+        "New York City",
+        "Philadelphia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Croton Aqueduct brought clean water from the Croton River in Westchester County to New York City, covering 41 miles. It was built in response to a devastating cholera epidemic and water shortages in the growing city.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "water-treatment-quiz-10",
+      "question": "What is an 'activated sludge' process used for in wastewater treatment?",
+      "options": [
+        "Biologically breaking down organic matter",
+        "Generating electricity",
+        "Filtering out metals",
+        "Storing treated water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The activated sludge process uses microorganisms to biologically break down organic matter in wastewater. Air is pumped into tanks to support the microorganisms, which consume organic pollutants and form settleable floc.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-11",
+      "question": "Dr. John Snow's 1854 investigation of a cholera outbreak in London linked the disease to what?",
+      "options": [
+        "Contaminated water from a public pump",
+        "Bad air (miasma)",
+        "Rat infestations",
+        "Infected food"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dr. John Snow traced a cholera outbreak in London's Soho district to the Broad Street water pump. His work was pioneering in epidemiology and helped establish the connection between contaminated water and disease.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "water-treatment-quiz-12",
+      "question": "What does UV disinfection use to treat water?",
+      "options": [
+        "Ultraviolet light",
+        "Electrical current",
+        "Heat",
+        "Sound waves"
+      ],
+      "correctAnswer": 0,
+      "explanation": "UV disinfection uses ultraviolet light (specifically UV-C at 254 nanometers) to inactivate microorganisms by damaging their DNA, preventing them from reproducing. It is chemical-free and increasingly used in water treatment.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-13",
+      "question": "What is a 'water table' in hydrogeology?",
+      "options": [
+        "A tidal measurement system",
+        "A measurement chart for water quality",
+        "A platform for water testing equipment",
+        "The upper surface of groundwater saturation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The water table is the upper surface of the zone where soil and rock are fully saturated with groundwater. Its depth varies by location, season, and precipitation, and it is crucial for well placement and water supply planning.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-14",
+      "question": "Singapore's NEWater program recycles treated wastewater for drinking. What technology does it primarily rely on?",
+      "options": [
+        "Chemical treatment only",
+        "Chlorination only",
+        "Microfiltration, reverse osmosis, and UV disinfection",
+        "Boiling and condensation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Singapore's NEWater uses a multi-barrier approach: microfiltration removes particles, reverse osmosis removes dissolved salts and contaminants, and UV disinfection provides final sterilization. It meets up to 40% of Singapore's water demand.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "water-treatment-quiz-15",
+      "question": "What was the main engineering challenge that led to the construction of the London sewage system in the 1860s?",
+      "options": [
+        "Industrial pollution",
+        "Population growth",
+        "Flooding",
+        "The Great Stink of 1858"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Great Stink of 1858, caused by raw sewage in the River Thames during a hot summer, made Parliament nearly uninhabitable and prompted the construction of London's modern sewer system, engineered by Joseph Bazalgette.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

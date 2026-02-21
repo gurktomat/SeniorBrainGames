@@ -1,0 +1,219 @@
+{
+  "id": "airport-design-quiz",
+  "title": "Airport Design & Architecture",
+  "description": "Soar through questions about the world's most impressive airports and aviation facilities!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "airport-design-quiz-1",
+      "question": "Which airport, opened in 2019, features a massive starfish-shaped terminal designed by Zaha Hadid Architects?",
+      "options": [
+        "Istanbul Airport",
+        "Beijing Daxing International Airport",
+        "Hamad International Airport",
+        "Singapore Changi Airport"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beijing Daxing International Airport, designed by Zaha Hadid Architects, opened in 2019. Its starfish-shaped design with a central hub and six curved concourses allows passengers to reach any gate within an 8-minute walk.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-2",
+      "question": "Which airport has been repeatedly voted the world's best airport and features a famous indoor waterfall and butterfly garden?",
+      "options": [
+        "Hong Kong International Airport",
+        "Singapore Changi Airport",
+        "Dubai International Airport",
+        "Incheon International Airport"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Singapore Changi Airport has been voted the world's best airport numerous times. Its Jewel complex features the world's tallest indoor waterfall (40 meters), along with gardens, a hedge maze, and a butterfly garden.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-3",
+      "question": "Kansai International Airport in Japan is unique because it was built on what?",
+      "options": [
+        "Reclaimed swamp land",
+        "An artificial island",
+        "A converted military base",
+        "A mountain top"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kansai International Airport, designed by Renzo Piano, was built on a 4 km by 1 km artificial island in Osaka Bay. Opened in 1994, it was the first airport built on an artificial island and is visible from space.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-4",
+      "question": "What is the busiest airport in the world by passenger traffic?",
+      "options": [
+        "Beijing Capital",
+        "London Heathrow",
+        "Hartsfield-Jackson Atlanta",
+        "Dubai International"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hartsfield-Jackson Atlanta International Airport has been the world's busiest airport by passenger traffic for most years since 1998, handling over 90 million passengers annually. Its central location as a hub contributes to its dominance.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-5",
+      "question": "TWA Flight Center at JFK Airport, designed by which architect, is an iconic example of mid-century modern architecture?",
+      "options": [
+        "Frank Lloyd Wright",
+        "Philip Johnson",
+        "Louis Kahn",
+        "Eero Saarinen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The TWA Flight Center (now TWA Hotel) was designed by Finnish-American architect Eero Saarinen and opened in 1962. Its swooping concrete curves were meant to evoke the excitement of flight.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-6",
+      "question": "Denver International Airport is known for its distinctive roof design that resembles what?",
+      "options": [
+        "Aircraft wings",
+        "Cloud formations",
+        "Mountain peaks",
+        "Ocean waves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Denver International Airport's white tensile fabric roof, designed by Fentress Architects, features peaks that resemble the snow-capped Rocky Mountains visible from the airport. The roof uses Teflon-coated fiberglass fabric.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-7",
+      "question": "What is an 'aerodrome' in aviation terminology?",
+      "options": [
+        "A fuel storage facility",
+        "A location where aircraft can take off and land",
+        "A type of aircraft hangar",
+        "An air traffic control tower"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An aerodrome is any location from which aircraft flight operations take place, whether or not it has facilities for passenger handling. The term is used internationally, while Americans typically use 'airport' or 'airfield.'",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-8",
+      "question": "Which airport features the longest commercial runway in the world at approximately 5,500 meters?",
+      "options": [
+        "King Fahd Airport, Saudi Arabia",
+        "Dubai International Airport, UAE",
+        "Denver International Airport, USA",
+        "Qamdo Bamda Airport, China"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qamdo Bamda Airport in Tibet, China, has the world's longest commercial runway at 5,500 meters (18,045 feet). The extreme length is necessary because the airport sits at 4,334 meters elevation, where thinner air requires higher takeoff speeds.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-9",
+      "question": "What does the airport code 'IATA' stand for?",
+      "options": [
+        "International Airline Transport Authority",
+        "International Airport Terminal Administration",
+        "International Aviation Travel Alliance",
+        "International Air Transport Association"
+      ],
+      "correctAnswer": 3,
+      "explanation": "IATA stands for International Air Transport Association. Founded in 1945, IATA assigns three-letter codes to airports worldwide (e.g., LAX, JFK, LHR) and sets standards for the airline industry.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-10",
+      "question": "King Fahd International Airport in Saudi Arabia holds what notable record?",
+      "options": [
+        "Tallest control tower",
+        "Largest airport by total area",
+        "Most runways",
+        "Most terminals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King Fahd International Airport near Dammam, Saudi Arabia, is the largest airport in the world by total area, covering 776 square kilometers (300 square miles), larger than the country of Bahrain.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-11",
+      "question": "What is the primary purpose of an airport's control tower?",
+      "options": [
+        "Weather monitoring only",
+        "Fuel management",
+        "Passenger communication",
+        "Managing aircraft on the ground and in nearby airspace"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An airport control tower houses air traffic controllers who manage the safe movement of aircraft on the ground (taxiing, takeoff, landing) and in the airport's immediate airspace, typically within 5-10 miles.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-12",
+      "question": "The architectural firm Foster + Partners designed which iconic airport terminal featuring a dragon-like roof?",
+      "options": [
+        "Beijing Capital Airport Terminal 3",
+        "Shenzhen Bao'an Airport",
+        "Chengdu Tianfu Airport",
+        "Hong Kong International Airport"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Foster + Partners designed Beijing Capital Airport Terminal 3, which opened in 2008 for the Olympics. Its dragon-shaped roof spans 1.3 km with a distinctive red and gold color scheme inspired by Chinese culture.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-13",
+      "question": "What is a 'jetway' or 'jet bridge' at an airport?",
+      "options": [
+        "A fuel line system",
+        "An enclosed walkway connecting the terminal to an aircraft",
+        "The taxiway for jets",
+        "A runway for jet aircraft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A jetway (or jet bridge) is an enclosed, movable connector that extends from an airport terminal gate to an aircraft door, allowing passengers to board and disembark without going outside onto the tarmac.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-14",
+      "question": "Istanbul Airport, which opened in 2018, was designed to eventually handle how many passengers annually at full capacity?",
+      "options": [
+        "100 million",
+        "150 million",
+        "200 million",
+        "250 million"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Istanbul Airport was designed with an ultimate capacity of 200 million passengers per year when all phases are completed. It replaced Atatürk Airport as Istanbul's primary international airport.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "airport-design-quiz-15",
+      "question": "What structural system did the original Dulles International Airport terminal, designed by Eero Saarinen, use for its distinctive curved roof?",
+      "options": [
+        "Geodesic dome",
+        "Steel trusses",
+        "Suspended cables between concrete columns",
+        "Reinforced concrete shell"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dulles Airport's main terminal, completed in 1962, features a roof suspended by steel cables hung between two rows of outward-leaning concrete columns. This innovative design created a dramatic, column-free interior space.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

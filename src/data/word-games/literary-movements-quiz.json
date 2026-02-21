@@ -1,0 +1,173 @@
+{
+  "id": "literary-movements-quiz",
+  "title": "Literary Movements Quiz",
+  "description": "Journey through the great literary movements, from Romanticism to Modernism and beyond",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "literary-movements-quiz-1",
+      "question": "Which literary movement emphasized emotion, individualism, and the beauty of nature?",
+      "options": [
+        "Realism",
+        "Romanticism",
+        "Postmodernism",
+        "Naturalism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-movements-quiz-2",
+      "question": "Which poet is most associated with English Romanticism?",
+      "options": [
+        "William Wordsworth",
+        "Samuel Johnson",
+        "T.S. Eliot",
+        "Alexander Pope"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-3",
+      "question": "What literary movement aimed to depict life as it actually is, without idealization?",
+      "options": [
+        "Realism",
+        "Romanticism",
+        "Surrealism",
+        "Expressionism"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-4",
+      "question": "What is 'Naturalism' in literature?",
+      "options": [
+        "A movement celebrating optimism",
+        "Writing exclusively outdoors",
+        "An extreme form of realism that views human behavior as determined by environment, heredity, and social conditions",
+        "Writing about nature and wildlife"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-movements-quiz-5",
+      "question": "Which author is considered a leading figure of American Naturalism?",
+      "options": [
+        "Theodore Dreiser",
+        "Mark Twain",
+        "F. Scott Fitzgerald",
+        "Ralph Waldo Emerson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-6",
+      "question": "The Modernist movement in literature (early 20th century) was characterized by:",
+      "options": [
+        "Simple, traditional storytelling",
+        "Experimentation with form, stream of consciousness, and a break from traditional narrative structures",
+        "Exclusive focus on nature poetry",
+        "Strict adherence to Victorian values"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-movements-quiz-7",
+      "question": "Which of these is a landmark Modernist novel?",
+      "options": [
+        "Ivanhoe by Walter Scott",
+        "Robinson Crusoe",
+        "Tom Jones by Henry Fielding",
+        "Ulysses by James Joyce"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "literary-movements-quiz-8",
+      "question": "What literary movement questioned the idea of objective truth and played with narrative conventions?",
+      "options": [
+        "Postmodernism",
+        "Neoclassicism",
+        "Classicism",
+        "Romanticism"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-9",
+      "question": "The 'Harlem Renaissance' was a flourishing of African American literature and art centered in:",
+      "options": [
+        "The 1970s in Los Angeles",
+        "The 1920s and 1930s in Harlem, New York",
+        "The 1860s in Boston",
+        "The 1950s in Chicago"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-movements-quiz-10",
+      "question": "Which poet was a central figure of the Harlem Renaissance?",
+      "options": [
+        "Langston Hughes",
+        "Walt Whitman",
+        "Robert Frost",
+        "Emily Dickinson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-11",
+      "question": "The 'Beat Generation' writers of the 1950s were known for:",
+      "options": [
+        "Victorian-style novels",
+        "Strict formalism and adherence to rules",
+        "Writing only about war",
+        "Rejecting mainstream values and exploring spontaneous prose, jazz, and spirituality"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "literary-movements-quiz-12",
+      "question": "Which writer is a key figure of the Beat Generation?",
+      "options": [
+        "Jack Kerouac",
+        "Virginia Woolf",
+        "Jane Austen",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "literary-movements-quiz-13",
+      "question": "What is 'Transcendentalism'?",
+      "options": [
+        "A European poetry movement",
+        "A movement focused on transportation in literature",
+        "A 19th-century American movement emphasizing individualism, nature, and spiritual experience over materialism",
+        "A form of science fiction"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "literary-movements-quiz-14",
+      "question": "Which author is most associated with Transcendentalism?",
+      "options": [
+        "Nathaniel Hawthorne",
+        "Ralph Waldo Emerson",
+        "Edgar Allan Poe",
+        "Herman Melville"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "literary-movements-quiz-15",
+      "question": "What characterized the 'Existentialist' literary movement?",
+      "options": [
+        "Strict religious themes only",
+        "Exploration of individual freedom, choice, meaning, and the absurdity of human existence",
+        "Celebration of wealth and social status",
+        "A focus on fairy tales and fantasy"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

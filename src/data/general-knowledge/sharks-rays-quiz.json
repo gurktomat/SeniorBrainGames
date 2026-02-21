@@ -1,0 +1,173 @@
+{
+  "id": "sharks-rays-quiz",
+  "title": "Sharks & Rays",
+  "description": "Explore the world of sharks and rays, ancient predators that have roamed the oceans for hundreds of millions of years.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "sharks-rays-quiz-1",
+      "question": "How long have sharks existed on Earth?",
+      "options": [
+        "50 million years",
+        "150 million years",
+        "450 million years",
+        "300 million years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sharks-rays-quiz-2",
+      "question": "What is the largest species of shark alive today?",
+      "options": [
+        "Basking shark",
+        "Whale shark",
+        "Great white shark",
+        "Hammerhead shark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sharks-rays-quiz-3",
+      "question": "Shark skeletons are made entirely of what material instead of bone?",
+      "options": [
+        "Keratin",
+        "Cartilage",
+        "Chitin",
+        "Calcium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sharks-rays-quiz-4",
+      "question": "The hammerhead shark's wide head helps it with what ability?",
+      "options": [
+        "Swimming faster",
+        "Breaking through coral",
+        "Enhanced electroreception and wider field of vision",
+        "Attracting mates"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sharks-rays-quiz-5",
+      "question": "Which ray species can deliver a powerful electric shock of up to 220 volts?",
+      "options": [
+        "Stingray",
+        "Electric ray",
+        "Eagle ray",
+        "Manta ray"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sharks-rays-quiz-6",
+      "question": "The great white shark can detect a single drop of blood in how much water?",
+      "options": [
+        "25 gallons",
+        "A million drops of water",
+        "A bathtub",
+        "A swimming pool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sharks-rays-quiz-7",
+      "question": "Manta rays are the largest rays in the world. What do they primarily eat?",
+      "options": [
+        "Seaweed",
+        "Plankton and small crustaceans",
+        "Small fish",
+        "Coral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sharks-rays-quiz-8",
+      "question": "How many rows of teeth can a shark go through in its lifetime?",
+      "options": [
+        "Hundreds",
+        "Dozens",
+        "Tens of thousands",
+        "Thousands"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sharks-rays-quiz-9",
+      "question": "The cookiecutter shark gets its name from doing what?",
+      "options": [
+        "Having spots that look like cookies",
+        "Taking round, cookie-shaped bites from larger animals",
+        "Living near bakeries on shore",
+        "Its circular body shape"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sharks-rays-quiz-10",
+      "question": "Which shark species is known for being able to survive in both salt and fresh water?",
+      "options": [
+        "Bull shark",
+        "Reef shark",
+        "Tiger shark",
+        "Nurse shark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sharks-rays-quiz-11",
+      "question": "The Greenland shark is notable for what remarkable characteristic?",
+      "options": [
+        "It can live for over 400 years",
+        "It glows in the dark",
+        "It's the fastest shark",
+        "It's the smallest shark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sharks-rays-quiz-12",
+      "question": "What special organ allows sharks to detect the electrical fields of other animals?",
+      "options": [
+        "Denticles",
+        "Spiracles",
+        "Lateral line",
+        "Ampullae of Lorenzini"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sharks-rays-quiz-13",
+      "question": "The basking shark is the second-largest fish. How does it feed?",
+      "options": [
+        "Filter feeding with its enormous mouth open",
+        "Hunting large prey",
+        "Scavenging the ocean floor",
+        "Eating coral"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sharks-rays-quiz-14",
+      "question": "Stingrays have their venomous stinger located where on their body?",
+      "options": [
+        "On their fins",
+        "On their back",
+        "On their tail",
+        "On their mouth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sharks-rays-quiz-15",
+      "question": "Approximately how many known species of sharks exist today?",
+      "options": [
+        "250",
+        "100",
+        "1,000",
+        "500"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

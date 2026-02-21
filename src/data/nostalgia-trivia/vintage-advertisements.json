@@ -8,8 +8,13 @@
     {
       "id": "va-1",
       "question": "Which brand used the famous slogan 'Where's the beef?' in a 1984 TV commercial?",
-      "options": ["McDonald's", "Burger King", "Wendy's", "Hardee's"],
-      "correctAnswer": 2,
+      "options": [
+        "Hardee's",
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "correctAnswer": 3,
       "explanation": "Wendy's iconic 'Where's the beef?' commercial featured Clara Peller and became a national catchphrase. It was one of the most successful advertising campaigns of the 1980s.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "va-2",
       "question": "What cigarette brand featured the 'Marlboro Man' in its long-running advertising campaign?",
-      "options": ["Camel", "Lucky Strike", "Marlboro", "Winston"],
-      "correctAnswer": 2,
+      "options": [
+        "Marlboro",
+        "Camel",
+        "Lucky Strike",
+        "Winston"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Marlboro Man campaign, which began in 1955, is considered one of the most iconic advertising campaigns ever. It transformed Marlboro from a women's cigarette to the best-selling cigarette in the world.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "va-3",
       "question": "Which company's 1971 commercial featured a hilltop gathering of young people singing 'I'd Like to Buy the World a Coke'?",
-      "options": ["Pepsi", "Coca-Cola", "Dr Pepper", "7-Up"],
-      "correctAnswer": 1,
+      "options": [
+        "Coca-Cola",
+        "Pepsi",
+        "7-Up",
+        "Dr Pepper"
+      ],
+      "correctAnswer": 0,
       "explanation": "Coca-Cola's 'Hilltop' commercial became one of the most celebrated ads in television history. The song was so popular it was re-recorded as 'I'd Like to Teach the World to Sing' and became a hit single.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "va-4",
       "question": "What product did the 'Madge the Manicurist' promote in commercials throughout the 1960s-1980s with the line 'You're soaking in it'?",
-      "options": ["Dawn dish soap", "Ivory soap", "Palmolive dish liquid", "Joy dish soap"],
-      "correctAnswer": 2,
+      "options": [
+        "Palmolive dish liquid",
+        "Ivory soap",
+        "Joy dish soap",
+        "Dawn dish soap"
+      ],
+      "correctAnswer": 0,
       "explanation": "Madge the Manicurist, played by Jan Miner, appeared in Palmolive dish liquid commercials for over 20 years. She would surprise customers by revealing they were soaking their hands in Palmolive.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "va-5",
       "question": "Which cereal brand's mascot repeatedly tried to get cereal from kids who said 'Silly rabbit, Trix are for kids!'?",
-      "options": ["Lucky Charms", "Trix", "Cocoa Puffs", "Froot Loops"],
-      "correctAnswer": 1,
+      "options": [
+        "Cocoa Puffs",
+        "Lucky Charms",
+        "Froot Loops",
+        "Trix"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Trix Rabbit has been trying to get his hands on Trix cereal since 1959. The 'Silly rabbit, Trix are for kids!' tagline became one of the most recognized in advertising history.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "va-6",
       "question": "What brand featured Mr. Whipple squeezing toilet paper in its TV commercials from 1964 to 1985?",
-      "options": ["Scott", "Cottonelle", "Charmin", "Northern"],
-      "correctAnswer": 2,
+      "options": [
+        "Cottonelle",
+        "Charmin",
+        "Scott",
+        "Northern"
+      ],
+      "correctAnswer": 1,
       "explanation": "Mr. Whipple, played by Dick Wilson, appeared in over 500 Charmin commercials. His catchphrase 'Please don't squeeze the Charmin!' made him one of the most recognizable ad characters of the era.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,7 +92,12 @@
     {
       "id": "va-7",
       "question": "Which automobile company used the slogan 'See the USA in your Chevrolet' in the 1950s?",
-      "options": ["Ford", "Chrysler", "Chevrolet", "Buick"],
+      "options": [
+        "Chrysler",
+        "Buick",
+        "Chevrolet",
+        "Ford"
+      ],
       "correctAnswer": 2,
       "explanation": "Dinah Shore famously sang 'See the USA in your Chevrolet' as the theme for The Dinah Shore Chevy Show throughout the 1950s and 1960s. It became one of the most memorable jingles of the era.",
       "difficulty": "easy",
@@ -71,7 +106,12 @@
     {
       "id": "va-8",
       "question": "What was the name of the animated character who promoted StarKist Tuna but kept getting rejected?",
-      "options": ["Sammy the Seal", "Charlie the Tuna", "Freddie the Fish", "Benny the Bass"],
+      "options": [
+        "Freddie the Fish",
+        "Charlie the Tuna",
+        "Sammy the Seal",
+        "Benny the Bass"
+      ],
       "correctAnswer": 1,
       "explanation": "Charlie the Tuna has been StarKist's mascot since 1961. Despite his attempts to show he had 'good taste,' he was always rejected because StarKist wanted tuna that 'tastes good,' not tuna with good taste.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "va-9",
       "question": "Which hair coloring product used the slogan 'Does she or doesn't she? Only her hairdresser knows for sure'?",
-      "options": ["L'Oréal", "Clairol", "Revlon", "Miss Clairol"],
-      "correctAnswer": 3,
+      "options": [
+        "L'Oréal",
+        "Revlon",
+        "Miss Clairol",
+        "Clairol"
+      ],
+      "correctAnswer": 2,
       "explanation": "Miss Clairol's famous 1956 campaign by copywriter Shirley Polykoff revolutionized the hair color industry. Before this campaign, only about 7% of women colored their hair; within a decade, that number rose dramatically.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "va-10",
       "question": "Which company's mascot, introduced in 1965, was a muscular sailor who demonstrated cleaning power?",
-      "options": ["Ajax", "Mr. Clean", "Comet", "Spic and Span"],
-      "correctAnswer": 1,
+      "options": [
+        "Comet",
+        "Spic and Span",
+        "Ajax",
+        "Mr. Clean"
+      ],
+      "correctAnswer": 3,
       "explanation": "Mr. Clean, with his bald head, earring, and muscular build, was introduced by Procter & Gamble in 1958 (the TV jingle debuted then). He became one of the most enduring brand mascots in American advertising history.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "va-11",
       "question": "What brand used the famous 'Plop, plop, fizz, fizz, oh what a relief it is' jingle?",
-      "options": ["Bromo-Seltzer", "Pepto-Bismol", "Alka-Seltzer", "Tums"],
-      "correctAnswer": 2,
+      "options": [
+        "Bromo-Seltzer",
+        "Alka-Seltzer",
+        "Pepto-Bismol",
+        "Tums"
+      ],
+      "correctAnswer": 1,
       "explanation": "Alka-Seltzer's catchy jingle became one of the most recognized in advertising. Another famous Alka-Seltzer ad featured the line 'I can't believe I ate the whole thing.'",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "va-12",
       "question": "Which fast food chain introduced the 'Have it your way' slogan in 1974?",
-      "options": ["Wendy's", "McDonald's", "Burger King", "Jack in the Box"],
-      "correctAnswer": 2,
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Jack in the Box"
+      ],
+      "correctAnswer": 1,
       "explanation": "Burger King's 'Have it your way' campaign launched in 1974, emphasizing custom-made burgers as opposed to McDonald's standardized assembly. The slogan was used for decades and revived multiple times.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "va-13",
       "question": "Which company ran the 'We try harder' advertising campaign starting in 1962?",
-      "options": ["Hertz", "Avis", "National", "Budget"],
-      "correctAnswer": 1,
+      "options": [
+        "Avis",
+        "Hertz",
+        "National",
+        "Budget"
+      ],
+      "correctAnswer": 0,
       "explanation": "Avis rent-a-car launched 'We try harder' in 1962, cleverly turning their number-two position behind Hertz into an advantage. The campaign is considered one of the greatest in advertising history.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "va-14",
       "question": "What brand featured a little boy and his dog Spot in TV commercials for paper towels?",
-      "options": ["Bounty", "Brawny", "Viva", "Hi-Dri"],
-      "correctAnswer": 0,
+      "options": [
+        "Viva",
+        "Brawny",
+        "Bounty",
+        "Hi-Dri"
+      ],
+      "correctAnswer": 2,
       "explanation": "Bounty paper towels used the tagline 'the quicker picker-upper' and featured numerous family and kid-friendly scenarios demonstrating the towels' absorbency throughout the 1970s and 1980s.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "va-15",
       "question": "Which battery company used the Energizer Bunny in commercials starting in 1989?",
-      "options": ["Duracell", "Eveready", "Energizer", "Rayovac"],
-      "correctAnswer": 2,
+      "options": [
+        "Duracell",
+        "Eveready",
+        "Rayovac",
+        "Energizer"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Energizer Bunny was introduced in 1989 as a parody of Duracell's drumming bunny commercials. The pink bunny that 'keeps going and going' became one of the most iconic advertising mascots of the late 20th century.",
       "difficulty": "hard",
       "category": "nostalgia"

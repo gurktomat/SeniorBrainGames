@@ -1,0 +1,173 @@
+{
+  "id": "andy-griffith-show-trivia",
+  "title": "The Andy Griffith Show Trivia",
+  "description": "Take a trip back to Mayberry! How well do you remember Andy, Barney, Opie, and the rest of the beloved townsfolk?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "andy-griffith-show-trivia-1",
+      "question": "What was Andy Taylor's official title in Mayberry?",
+      "options": [
+        "Judge",
+        "Mayor",
+        "Town Marshal",
+        "Sheriff"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "andy-griffith-show-trivia-2",
+      "question": "Who played Andy Taylor's son Opie?",
+      "options": [
+        "Ron Howard",
+        "Jay North",
+        "Billy Mumy",
+        "Jerry Mathers"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-3",
+      "question": "What was Aunt Bee's full name on the show?",
+      "options": [
+        "Bernice Taylor",
+        "Barbara Taylor",
+        "Bee Taylor",
+        "Beatrice Taylor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "andy-griffith-show-trivia-4",
+      "question": "Who played the beloved Aunt Bee?",
+      "options": [
+        "Frances Bavier",
+        "Aneta Corsaut",
+        "Hope Summers",
+        "Betty Lynn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-5",
+      "question": "What was the name of the town drunk who would let himself into jail?",
+      "options": [
+        "Otis Campbell",
+        "Howard Sprague",
+        "Ernest T. Bass",
+        "Floyd Lawson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-6",
+      "question": "What was the name of the fishing hole where Andy and Opie were seen in the opening credits?",
+      "options": [
+        "Franklin Lake",
+        "Myers Lake",
+        "Taylor Pond",
+        "Tucker's Lake"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "andy-griffith-show-trivia-7",
+      "question": "Which hillbilly character was known for throwing rocks through windows to get attention?",
+      "options": [
+        "Malcolm Merriweather",
+        "Otis Campbell",
+        "Briscoe Darling",
+        "Ernest T. Bass"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "andy-griffith-show-trivia-8",
+      "question": "What instrument did Andy Taylor often play on the show?",
+      "options": [
+        "Harmonica",
+        "Fiddle",
+        "Banjo",
+        "Guitar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "andy-griffith-show-trivia-9",
+      "question": "In which state was the fictional town of Mayberry located?",
+      "options": [
+        "North Carolina",
+        "Tennessee",
+        "Virginia",
+        "Georgia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-10",
+      "question": "Who replaced Don Knotts as the deputy when Barney Fife left the show?",
+      "options": [
+        "Howard Sprague",
+        "Warren Ferguson",
+        "Goober Pyle",
+        "Emmett Clark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "andy-griffith-show-trivia-11",
+      "question": "What was Barney Fife's middle name?",
+      "options": [
+        "Milton",
+        "Bernard",
+        "Oliver",
+        "Palmer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-12",
+      "question": "Who played the Darling family patriarch Briscoe Darling?",
+      "options": [
+        "Denver Pyle",
+        "Howard McNear",
+        "Hal Smith",
+        "Jack Dodson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-13",
+      "question": "What did Andy and Opie carry while walking down the dirt road in the famous opening credits?",
+      "options": [
+        "Baseball bats",
+        "Fishing poles",
+        "Slingshots",
+        "Lunch boxes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "andy-griffith-show-trivia-14",
+      "question": "Which actor played Goober Pyle, Gomer's cousin, on the show?",
+      "options": [
+        "George Lindsey",
+        "Howard McNear",
+        "Jack Burns",
+        "Jim Nabors"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "andy-griffith-show-trivia-15",
+      "question": "What was the name of the whistled theme song that became iconic with the show?",
+      "options": [
+        "Walking to the Lake",
+        "The Mayberry Song",
+        "The Andy Griffith Theme",
+        "Fishin' Hole"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

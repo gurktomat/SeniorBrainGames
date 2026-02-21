@@ -1,0 +1,173 @@
+{
+  "id": "solar-system-quiz",
+  "title": "Solar System Quiz",
+  "description": "Journey through our cosmic neighborhood! Test your recall of planets, moons, and other objects in our solar system.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "solar-system-quiz-1",
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Earth",
+        "Venus"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "solar-system-quiz-2",
+      "question": "What is the Great Red Spot on Jupiter?",
+      "options": [
+        "An impact crater",
+        "A mountain",
+        "A volcano",
+        "A giant storm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "solar-system-quiz-3",
+      "question": "Which planet was reclassified as a dwarf planet in 2006?",
+      "options": [
+        "Ceres",
+        "Neptune",
+        "Pluto",
+        "Uranus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "solar-system-quiz-4",
+      "question": "What are Saturn's rings primarily made of?",
+      "options": [
+        "Volcanic debris",
+        "Ice and rock particles",
+        "Gas and dust",
+        "Liquid metal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-5",
+      "question": "Which moon of Saturn has a thick atmosphere and lakes of liquid methane?",
+      "options": [
+        "Titan",
+        "Enceladus",
+        "Mimas",
+        "Rhea"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "solar-system-quiz-6",
+      "question": "How long does it take Earth to orbit the Sun?",
+      "options": [
+        "360 days",
+        "365.25 days",
+        "354 days",
+        "370 days"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-7",
+      "question": "What is the asteroid belt located between?",
+      "options": [
+        "Jupiter and Saturn",
+        "Mars and Jupiter",
+        "Saturn and Uranus",
+        "Earth and Mars"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-8",
+      "question": "Which planet has the most moons in our solar system?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "solar-system-quiz-9",
+      "question": "What is the tallest volcano in the solar system?",
+      "options": [
+        "Io's volcanoes (Jupiter's moon)",
+        "Olympus Mons (Mars)",
+        "Mount Everest (Earth)",
+        "Maat Mons (Venus)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-10",
+      "question": "Which inner planet has no atmosphere and extreme temperature swings?",
+      "options": [
+        "Earth's Moon",
+        "Mercury",
+        "Venus",
+        "Mars"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-11",
+      "question": "What gives Mars its reddish appearance?",
+      "options": [
+        "Iron oxide (rust) on its surface",
+        "Red sand dunes",
+        "Volcanic lava",
+        "Atmospheric gases"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "solar-system-quiz-12",
+      "question": "Which planet rotates backwards compared to most other planets?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Neptune"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "solar-system-quiz-13",
+      "question": "What is the Sun primarily composed of?",
+      "options": [
+        "Iron and nickel",
+        "Hydrogen and helium",
+        "Helium and oxygen",
+        "Carbon and nitrogen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "solar-system-quiz-14",
+      "question": "Which Jupiter moon is believed to have a subsurface ocean that might harbor life?",
+      "options": [
+        "Europa",
+        "Ganymede",
+        "Callisto",
+        "Io"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "solar-system-quiz-15",
+      "question": "What is the name of the boundary where the Sun's influence ends and interstellar space begins?",
+      "options": [
+        "Oort Cloud",
+        "Heliopause",
+        "Heliosphere",
+        "Kuiper Belt"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

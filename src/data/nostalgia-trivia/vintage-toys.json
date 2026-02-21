@@ -7,8 +7,13 @@
     {
       "id": "toys-1",
       "question": "The Slinky was accidentally invented in 1943 by a naval engineer. What was he originally trying to develop?",
-      "options": ["A new type of spring for watches", "Tension springs for sensitive instruments on ships", "A coiled antenna for radios", "A shock absorber for tanks"],
-      "correctAnswer": 1,
+      "options": [
+        "A coiled antenna for radios",
+        "A new type of spring for watches",
+        "A shock absorber for tanks",
+        "Tension springs for sensitive instruments on ships"
+      ],
+      "correctAnswer": 3,
       "explanation": "Richard James was working with tension springs to stabilize sensitive instruments on Navy ships when one fell off a shelf and 'walked' down — inspiring the Slinky.",
       "difficulty": "medium",
       "decade": "1940s",
@@ -17,8 +22,13 @@
     {
       "id": "toys-2",
       "question": "The Etch A Sketch was introduced to American children in 1960. In which country was it originally invented?",
-      "options": ["United States", "Japan", "France", "Germany"],
-      "correctAnswer": 2,
+      "options": [
+        "France",
+        "Germany",
+        "Japan",
+        "United States"
+      ],
+      "correctAnswer": 0,
       "explanation": "French inventor Andre Cassagnes created the Etch A Sketch (originally called 'L'Ecran Magique') in the late 1950s. Ohio Art Company brought it to the American market in 1960.",
       "difficulty": "hard",
       "decade": "1960s",
@@ -27,8 +37,13 @@
     {
       "id": "toys-3",
       "question": "Approximately how many Hula Hoops were sold in the first four months after Wham-O introduced them in 1958?",
-      "options": ["5 million", "10 million", "25 million", "50 million"],
-      "correctAnswer": 2,
+      "options": [
+        "25 million",
+        "10 million",
+        "50 million",
+        "5 million"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Hula Hoop craze was one of the biggest fads in American history. Wham-O sold an estimated 25 million hoops in just four months, and over 100 million in the first year.",
       "difficulty": "hard",
       "decade": "1950s",
@@ -37,8 +52,13 @@
     {
       "id": "toys-4",
       "question": "When Mr. Potato Head was first sold in 1952, what made it unique among toys at the time?",
-      "options": ["It was the first toy to talk", "It was the first toy advertised on television", "It was the first toy made entirely of plastic", "It was the first toy sold in cereal boxes"],
-      "correctAnswer": 1,
+      "options": [
+        "It was the first toy made entirely of plastic",
+        "It was the first toy sold in cereal boxes",
+        "It was the first toy advertised on television",
+        "It was the first toy to talk"
+      ],
+      "correctAnswer": 2,
       "explanation": "Mr. Potato Head became the first toy ever advertised on television in 1952. Originally, kids used real potatoes — the plastic body wasn't included until 1964!",
       "difficulty": "medium",
       "decade": "1950s",
@@ -47,8 +67,13 @@
     {
       "id": "toys-5",
       "question": "The first Barbie doll debuted at the American International Toy Fair in 1959. What was Barbie's full name?",
-      "options": ["Barbara Millicent Roberts", "Barbara Ann Handler", "Barbara Jean Carson", "Barbara Louise Mattel"],
-      "correctAnswer": 0,
+      "options": [
+        "Barbara Louise Mattel",
+        "Barbara Ann Handler",
+        "Barbara Millicent Roberts",
+        "Barbara Jean Carson"
+      ],
+      "correctAnswer": 2,
       "explanation": "Barbie's full name is Barbara Millicent Roberts. Creator Ruth Handler named her after her daughter Barbara. The doll was inspired by a German doll called Bild Lilli.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -57,8 +82,13 @@
     {
       "id": "toys-6",
       "question": "GI Joe was introduced by Hasbro in 1964. What term did Hasbro coin to market GI Joe to boys?",
-      "options": ["Action hero", "Action figure", "Battle buddy", "Combat toy"],
-      "correctAnswer": 1,
+      "options": [
+        "Battle buddy",
+        "Combat toy",
+        "Action hero",
+        "Action figure"
+      ],
+      "correctAnswer": 3,
       "explanation": "Hasbro invented the term 'action figure' to market GI Joe because they believed boys wouldn't want to play with a 'doll.' The term has been used for similar toys ever since.",
       "difficulty": "easy",
       "decade": "1960s",
@@ -67,7 +97,12 @@
     {
       "id": "toys-7",
       "question": "Lite-Brite, the toy that let children create illuminated pictures with colored pegs, was introduced in what year?",
-      "options": ["1963", "1967", "1971", "1975"],
+      "options": [
+        "1963",
+        "1967",
+        "1975",
+        "1971"
+      ],
       "correctAnswer": 1,
       "explanation": "Hasbro released Lite-Brite in 1967. Children placed translucent colored pegs into a backlit black panel to create glowing pictures. The jingle 'Lite-Brite, making things with light' became unforgettable.",
       "difficulty": "medium",
@@ -77,7 +112,12 @@
     {
       "id": "toys-8",
       "question": "The Easy-Bake Oven, introduced by Kenner in 1963, originally used what as its heat source?",
-      "options": ["A small gas burner", "Two 100-watt incandescent light bulbs", "A battery-powered heating element", "A wind-up friction motor"],
+      "options": [
+        "A small gas burner",
+        "Two 100-watt incandescent light bulbs",
+        "A wind-up friction motor",
+        "A battery-powered heating element"
+      ],
       "correctAnswer": 1,
       "explanation": "The original Easy-Bake Oven used two 100-watt incandescent light bulbs to bake tiny cakes and treats. Over 30 million units have been sold since its introduction.",
       "difficulty": "easy",
@@ -87,8 +127,13 @@
     {
       "id": "toys-9",
       "question": "Spirograph, the geometric drawing toy, was invented by a British engineer named Denys Fisher. In what year was it first sold in the US?",
-      "options": ["1960", "1962", "1966", "1970"],
-      "correctAnswer": 2,
+      "options": [
+        "1960",
+        "1966",
+        "1962",
+        "1970"
+      ],
+      "correctAnswer": 1,
       "explanation": "Spirograph hit American shelves in 1966 after Kenner licensed it from British inventor Denys Fisher. It won the 1967 Toy of the Year award in the UK.",
       "difficulty": "hard",
       "decade": "1960s",
@@ -97,8 +142,13 @@
     {
       "id": "toys-10",
       "question": "Hot Wheels die-cast cars were introduced by Mattel in 1968 to compete with which established toy car brand?",
-      "options": ["Tonka", "Matchbox", "Corgi", "Dinky"],
-      "correctAnswer": 1,
+      "options": [
+        "Matchbox",
+        "Tonka",
+        "Corgi",
+        "Dinky"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mattel created Hot Wheels specifically to challenge Matchbox's dominance. With faster wheels and flashier designs, Hot Wheels quickly became the best-selling toy car brand in the world.",
       "difficulty": "easy",
       "decade": "1960s",
@@ -107,8 +157,13 @@
     {
       "id": "toys-11",
       "question": "Lincoln Logs, the notched miniature log building toy, were invented in 1916 by the son of which famous American?",
-      "options": ["Abraham Lincoln", "Thomas Edison", "Frank Lloyd Wright", "Henry Ford"],
-      "correctAnswer": 2,
+      "options": [
+        "Frank Lloyd Wright",
+        "Thomas Edison",
+        "Henry Ford",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": 0,
       "explanation": "John Lloyd Wright, son of architect Frank Lloyd Wright, invented Lincoln Logs. He was reportedly inspired by the interlocking log construction technique used in his father's Imperial Hotel in Tokyo.",
       "difficulty": "hard",
       "decade": "1940s",
@@ -117,7 +172,12 @@
     {
       "id": "toys-12",
       "question": "Tinkertoys, the wooden construction set with spools and sticks, were first sold at a toy fair in which year?",
-      "options": ["1914", "1924", "1934", "1944"],
+      "options": [
+        "1914",
+        "1924",
+        "1944",
+        "1934"
+      ],
       "correctAnswer": 0,
       "explanation": "Charles Pajeau introduced Tinkertoys at the 1914 American Toy Fair. He got the idea watching children play with pencils and empty spools of thread.",
       "difficulty": "medium",
@@ -127,8 +187,13 @@
     {
       "id": "toys-13",
       "question": "Rock 'Em Sock 'Em Robots, the boxing game with two plastic robots, was manufactured by which toy company?",
-      "options": ["Hasbro", "Mattel", "Marx", "Kenner"],
-      "correctAnswer": 2,
+      "options": [
+        "Marx",
+        "Mattel",
+        "Hasbro",
+        "Kenner"
+      ],
+      "correctAnswer": 0,
       "explanation": "Marx Toys introduced Rock 'Em Sock 'Em Robots in 1964. The famous tagline was 'You knocked his block off!' when a robot's head popped up after a winning punch.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -137,7 +202,12 @@
     {
       "id": "toys-14",
       "question": "How many smaller cubes make up a standard Rubik's Cube?",
-      "options": ["9", "16", "26", "27"],
+      "options": [
+        "16",
+        "27",
+        "26",
+        "9"
+      ],
       "correctAnswer": 2,
       "explanation": "A Rubik's Cube has 26 visible smaller cubes (called cubies) — 8 corners, 12 edges, and 6 centers. Hungarian professor Erno Rubik invented it in 1974, and it became a worldwide sensation in the 1980s.",
       "difficulty": "easy",
@@ -147,8 +217,13 @@
     {
       "id": "toys-15",
       "question": "Cabbage Patch Kids caused near-riots in stores during what holiday season?",
-      "options": ["Christmas 1981", "Christmas 1982", "Christmas 1983", "Christmas 1984"],
-      "correctAnswer": 2,
+      "options": [
+        "Christmas 1983",
+        "Christmas 1984",
+        "Christmas 1982",
+        "Christmas 1981"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Cabbage Patch Kids craze peaked at Christmas 1983, when demand far outstripped supply. Parents got into actual fistfights in stores trying to buy the dolls, each of which came with unique adoption papers.",
       "difficulty": "easy",
       "decade": "1980s",

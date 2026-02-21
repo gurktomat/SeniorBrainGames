@@ -1,0 +1,219 @@
+{
+  "id": "extreme-sports-quiz",
+  "title": "Extreme Sports",
+  "description": "How much do you know about extreme and adventure sports?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "extreme-sports-quiz-1",
+      "question": "What is bungee jumping?",
+      "options": [
+        "Jumping between buildings",
+        "Base jumping from cliffs",
+        "Skydiving without a parachute",
+        "Jumping from a height while attached to an elastic cord"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bungee jumping involves jumping from a tall structure while connected to a large elastic cord. The modern sport was inspired by the 'land diving' ritual of Vanuatu islanders.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-2",
+      "question": "What does BASE stand in BASE jumping?",
+      "options": [
+        "Balanced, Airborne, Speed, Entry",
+        "Building, Antenna, Span, Earth",
+        "Bold, Aerial, Sport, Extreme",
+        "Bridge, Arch, Sky, Elevation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BASE stands for Building, Antenna, Span (bridge), and Earth (cliff). BASE jumpers parachute from these fixed objects rather than from aircraft.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-3",
+      "question": "Which extreme sport involves riding ocean waves while standing on a board?",
+      "options": [
+        "Wakeboarding",
+        "Surfing",
+        "Windsurfing",
+        "Kiteboarding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Surfing involves riding ocean waves on a surfboard. Originating in Polynesia, it became an Olympic sport at the 2020 Tokyo Games.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-4",
+      "question": "What is the name for skydiving in formation while performing acrobatic maneuvers?",
+      "options": [
+        "Freestyle skydiving",
+        "Formation skydiving",
+        "Canopy piloting",
+        "Wingsuit flying"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Formation skydiving involves groups of skydivers forming geometric patterns in freefall. Teams compete to complete as many formations as possible before deploying parachutes.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-5",
+      "question": "Which extreme sport involves descending whitewater rapids in an inflatable raft?",
+      "options": [
+        "Whitewater rafting",
+        "Canoeing",
+        "Kayaking",
+        "Jet skiing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Whitewater rafting involves navigating turbulent river waters in an inflatable raft. Rapids are rated from Class I (easy) to Class VI (nearly impossible).",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-6",
+      "question": "Who performed the first documented skydive from the edge of space in 2012?",
+      "options": [
+        "Luke Aikins",
+        "Alan Eustace",
+        "Joe Kittinger",
+        "Felix Baumgartner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Felix Baumgartner jumped from 128,100 feet (39,045 meters) during the Red Bull Stratos project in 2012, breaking the speed of sound during freefall at Mach 1.25.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-7",
+      "question": "What is parkour?",
+      "options": [
+        "Underwater cave diving",
+        "Extreme mountain biking",
+        "Training to move through urban environments efficiently",
+        "Indoor rock climbing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Parkour is a training discipline where practitioners navigate urban or natural environments by running, jumping, climbing, and vaulting. It originated in France in the late 1980s.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-8",
+      "question": "In skateboarding, what is an 'ollie'?",
+      "options": [
+        "A type of skateboard",
+        "A spinning trick",
+        "A jump performed without using the hands",
+        "A grinding move on a rail"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An ollie is a skateboarding trick where the rider jumps into the air without using their hands, achieved by snapping the tail of the board. It was invented by Alan 'Ollie' Gelfand in 1978.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-9",
+      "question": "What extreme sport involves climbing ice formations such as frozen waterfalls?",
+      "options": [
+        "Ice climbing",
+        "Free solo climbing",
+        "Mountaineering",
+        "Crevasse rescue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ice climbing involves ascending ice formations like frozen waterfalls, ice-covered rock faces, and glaciers using specialized equipment including ice axes and crampons.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-10",
+      "question": "Which skateboarder landed the first documented 900 (2.5 revolutions) in competition?",
+      "options": [
+        "Bob Burnquist",
+        "Shaun White",
+        "Tony Hawk",
+        "Rodney Mullen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tony Hawk landed the first 900 in competition at the 1999 X Games in San Francisco. The trick involves 2.5 aerial rotations (900 degrees) on a skateboard.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-11",
+      "question": "What is free solo climbing?",
+      "options": [
+        "Climbing indoor walls",
+        "Climbing alone with ropes",
+        "Climbing without any ropes or safety equipment",
+        "Climbing with a partner but no ropes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Free solo climbing means climbing without any ropes, harnesses, or protective equipment. Alex Honnold's free solo ascent of El Capitan in 2017 was documented in the film 'Free Solo.'",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-12",
+      "question": "What is the X Games?",
+      "options": [
+        "An annual extreme sports event",
+        "A military training exercise",
+        "A video game tournament",
+        "A CrossFit competition"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The X Games is an annual extreme sports event hosted by ESPN, featuring competitions in skateboarding, BMX, motocross, and other action sports. The first X Games was held in 1995.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-13",
+      "question": "Which extreme water sport involves being towed behind a boat while attached to a large kite?",
+      "options": [
+        "Flyboarding",
+        "Parasailing",
+        "Water skiing",
+        "Kitesurfing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parasailing (also called parascending) involves being towed behind a boat while attached to a parachute-like canopy. The rider is lifted into the air by the wind.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-14",
+      "question": "What type of bicycle is used in BMX racing?",
+      "options": [
+        "Small 20-inch wheeled bike",
+        "Road bike",
+        "Recumbent bike",
+        "Mountain bike"
+      ],
+      "correctAnswer": 0,
+      "explanation": "BMX bikes have small 20-inch wheels. BMX stands for Bicycle Motocross. The sport became an Olympic event at the 2008 Beijing Games.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "extreme-sports-quiz-15",
+      "question": "What is wingsuit flying?",
+      "options": [
+        "Skydiving in a suit that adds surface area for gliding",
+        "Flying a small aircraft",
+        "Hang gliding in a prone position",
+        "Using a jetpack"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wingsuit flying involves wearing a specially designed jumpsuit with fabric between the legs and under the arms to create lift and allow the wearer to glide through the air before deploying a parachute.",
+      "difficulty": "medium",
+      "category": "sports"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "bear-species-quiz",
+  "title": "Bear Species Quiz",
+  "description": "Discover how much you know about the eight bear species found around the world",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bear-species-quiz-1",
+      "question": "Which bear species is the largest land carnivore in the world, with males weighing up to 1,500 pounds?",
+      "options": [
+        "Kodiak Bear",
+        "Asiatic Black Bear",
+        "Grizzly Bear",
+        "Polar Bear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-2",
+      "question": "Which bear species has a distinctive white V-shaped or crescent-shaped patch on its chest?",
+      "options": [
+        "Asiatic Black Bear",
+        "Sun Bear",
+        "Spectacled Bear",
+        "Sloth Bear"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bear-species-quiz-3",
+      "question": "Which bear is the only bear species native to South America?",
+      "options": [
+        "Sun Bear",
+        "Giant Panda",
+        "Sloth Bear",
+        "Spectacled Bear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-4",
+      "question": "Which is the smallest bear species in the world, found in the tropical forests of Southeast Asia?",
+      "options": [
+        "Sloth Bear",
+        "Asian Black Bear",
+        "Sun Bear",
+        "Spectacled Bear"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bear-species-quiz-5",
+      "question": "Which bear species has a diet that consists of about 99% bamboo?",
+      "options": [
+        "Red Panda",
+        "Spectacled Bear",
+        "Sun Bear",
+        "Giant Panda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-6",
+      "question": "Which bear species from India has long, shaggy fur, a long muzzle, and specially adapted lips for sucking up insects?",
+      "options": [
+        "Sun Bear",
+        "Asiatic Black Bear",
+        "Sloth Bear",
+        "Spectacled Bear"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bear-species-quiz-7",
+      "question": "What color is a polar bear's skin underneath its white-appearing fur?",
+      "options": [
+        "Black",
+        "Pink",
+        "White",
+        "Grey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bear-species-quiz-8",
+      "question": "Which subspecies of brown bear is found on Kodiak Island, Alaska, and rivals the polar bear in size?",
+      "options": [
+        "Eurasian Brown Bear",
+        "Kodiak Bear",
+        "Grizzly Bear",
+        "Kamchatka Brown Bear"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bear-species-quiz-9",
+      "question": "Which bear gets its name from the markings around its eyes that resemble eyeglasses?",
+      "options": [
+        "Raccoon Bear",
+        "Panda Bear",
+        "Masked Bear",
+        "Spectacled Bear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-10",
+      "question": "How many recognized species of bears exist in the world today?",
+      "options": [
+        "Twelve",
+        "Six",
+        "Ten",
+        "Eight"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-11",
+      "question": "Which bear species is known for having an exceptionally long tongue (up to 10 inches) used to extract honey from beehives?",
+      "options": [
+        "Asiatic Black Bear",
+        "Spectacled Bear",
+        "Sun Bear",
+        "Sloth Bear"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bear-species-quiz-12",
+      "question": "Grizzly bears are a subspecies of which broader bear species?",
+      "options": [
+        "Polar Bear",
+        "American Black Bear",
+        "Brown Bear",
+        "Asiatic Black Bear"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bear-species-quiz-13",
+      "question": "Which bear species is the most common in North America, with a population estimated at around 800,000?",
+      "options": [
+        "Brown Bear",
+        "Grizzly Bear",
+        "Polar Bear",
+        "American Black Bear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bear-species-quiz-14",
+      "question": "Which bear can run at speeds of up to 35 miles per hour despite its large size?",
+      "options": [
+        "Grizzly Bear",
+        "Polar Bear",
+        "American Black Bear",
+        "Kodiak Bear"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bear-species-quiz-15",
+      "question": "Which bear species is classified as a marine mammal because it spends much of its life on sea ice?",
+      "options": [
+        "Spectacled Bear",
+        "Polar Bear",
+        "Kodiak Bear",
+        "Brown Bear"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

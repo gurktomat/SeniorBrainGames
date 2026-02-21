@@ -7,92 +7,167 @@
     {
       "id": "spelling-rules-1",
       "question": "The famous rule is 'i before e except after c.' Which word correctly follows this rule?",
-      "options": ["Recieve", "Beleive", "Receive", "Decieve"],
-      "correctAnswer": 2
+      "options": [
+        "Receive",
+        "Recieve",
+        "Beleive",
+        "Decieve"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "spelling-rules-2",
       "question": "Which of these is a well-known EXCEPTION to the 'i before e' rule?",
-      "options": ["Thief", "Piece", "Weird", "Brief"],
-      "correctAnswer": 2
+      "options": [
+        "Weird",
+        "Thief",
+        "Piece",
+        "Brief"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "spelling-rules-3",
       "question": "When adding '-ing' to 'hope,' what happens to the silent 'e'?",
-      "options": ["It stays: hopeing", "It is dropped: hoping", "It doubles: hopping", "It changes to 'i': hoping"],
-      "correctAnswer": 1
+      "options": [
+        "It changes to 'i': hoping",
+        "It stays: hopeing",
+        "It doubles: hopping",
+        "It is dropped: hoping"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "spelling-rules-4",
       "question": "Which is the correct spelling?",
-      "options": ["Occassion", "Ocassion", "Occasion", "Ocasion"],
+      "options": [
+        "Occassion",
+        "Ocasion",
+        "Occasion",
+        "Ocassion"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "spelling-rules-5",
       "question": "When adding a suffix to a word ending in consonant + 'y,' what happens to the 'y'?",
-      "options": ["It stays the same", "It changes to 'i'", "It is dropped", "It doubles"],
-      "correctAnswer": 1
+      "options": [
+        "It is dropped",
+        "It doubles",
+        "It changes to 'i'",
+        "It stays the same"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "spelling-rules-6",
       "question": "Applying the rule from the previous question, what is the plural of 'baby'?",
-      "options": ["Babys", "Babyes", "Babies", "Babyies"],
-      "correctAnswer": 2
+      "options": [
+        "Babys",
+        "Babyies",
+        "Babyes",
+        "Babies"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "spelling-rules-7",
       "question": "Which spelling is correct?",
-      "options": ["Accomodate", "Accommodate", "Acommodate", "Acomodate"],
-      "correctAnswer": 1
+      "options": [
+        "Acommodate",
+        "Acomodate",
+        "Accommodate",
+        "Accomodate"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "spelling-rules-8",
       "question": "When a one-syllable word ends in a single vowel + single consonant, what happens when adding '-ing'?",
-      "options": ["Nothing changes", "The consonant doubles", "The vowel changes", "An 'e' is added"],
-      "correctAnswer": 1
+      "options": [
+        "The consonant doubles",
+        "The vowel changes",
+        "Nothing changes",
+        "An 'e' is added"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "spelling-rules-9",
       "question": "Using the doubling rule, which is correct when adding '-ing' to 'run'?",
-      "options": ["Runing", "Running", "Runeing", "Runing"],
-      "correctAnswer": 1
+      "options": [
+        "Runing",
+        "Runing",
+        "Running",
+        "Runeing"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "spelling-rules-10",
       "question": "Which of these words is spelled correctly?",
-      "options": ["Seperate", "Separate", "Seperete", "Separete"],
-      "correctAnswer": 1
+      "options": [
+        "Seperete",
+        "Seperate",
+        "Separete",
+        "Separate"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "spelling-rules-11",
       "question": "To make most nouns ending in '-f' or '-fe' plural, you change the ending to what?",
-      "options": ["-fs", "-fes", "-ves", "-ffs"],
-      "correctAnswer": 2
+      "options": [
+        "-ffs",
+        "-fes",
+        "-fs",
+        "-ves"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "spelling-rules-12",
       "question": "Using the rule above, what is the plural of 'knife'?",
-      "options": ["Knifes", "Kniffs", "Knive", "Knives"],
+      "options": [
+        "Knive",
+        "Kniffs",
+        "Knifes",
+        "Knives"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "spelling-rules-13",
       "question": "Which of these commonly misspelled words IS spelled correctly?",
-      "options": ["Definately", "Definatly", "Definitely", "Definitly"],
-      "correctAnswer": 2
+      "options": [
+        "Definitly",
+        "Definitely",
+        "Definatly",
+        "Definately"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "spelling-rules-14",
       "question": "When adding '-ful' as a suffix, how many l's does it have?",
-      "options": ["One l: -ful", "Two l's: -full", "It varies by word", "Three l's: -fulll"],
-      "correctAnswer": 0
+      "options": [
+        "Three l's: -fulll",
+        "One l: -ful",
+        "It varies by word",
+        "Two l's: -full"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "spelling-rules-15",
       "question": "Which is the correct spelling?",
-      "options": ["Neccessary", "Necessary", "Necessery", "Neccesary"],
-      "correctAnswer": 1
+      "options": [
+        "Neccessary",
+        "Neccesary",
+        "Necessary",
+        "Necessery"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

@@ -1,0 +1,174 @@
+{
+  "id": "camping-gear-quiz",
+  "title": "Camping Gear Quiz",
+  "description": "How well do you know camping equipment and outdoor gear? Test your knowledge of essential camping items.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "camping-gear-quiz-1",
+      "question": "What camping item is a portable shelter made of fabric supported by poles and secured with stakes?",
+      "options": [
+        "Bivvy",
+        "Tent",
+        "Tarp",
+        "Hammock"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-2",
+      "question": "Which camping gear item is an insulated bag designed for sleeping outdoors?",
+      "options": [
+        "Quilt",
+        "Sleeping bag",
+        "Bivouac sack",
+        "Blanket roll"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-3",
+      "question": "What is a camp stove used for?",
+      "options": [
+        "Heating the tent",
+        "Cooking food and boiling water at a campsite",
+        "Drying wet clothes",
+        "Starting campfires"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-4",
+      "question": "Which navigation tool uses a magnetized needle to indicate direction?",
+      "options": [
+        "GPS device",
+        "Altimeter",
+        "Sextant",
+        "Compass"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camping-gear-quiz-5",
+      "question": "What camping item is an inflatable or foam pad placed under a sleeping bag for insulation and comfort?",
+      "options": [
+        "Cot",
+        "Sleeping pad",
+        "Ground cloth",
+        "Air mattress"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-6",
+      "question": "Which portable light source is worn on the forehead, leaving both hands free?",
+      "options": [
+        "Lantern",
+        "Headlamp",
+        "Flashlight",
+        "Glow stick"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-7",
+      "question": "What is a multi-tool (like a Swiss Army knife) valued for in camping?",
+      "options": [
+        "Its single sharp blade",
+        "Its use as a compass",
+        "Its fire-starting ability",
+        "Having multiple tools (knife, pliers, screwdriver, etc.) in one compact device"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camping-gear-quiz-8",
+      "question": "Which container keeps beverages hot or cold for extended periods using vacuum insulation?",
+      "options": [
+        "Water bottle",
+        "Canteen",
+        "Hydration bladder",
+        "Thermos (vacuum flask)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camping-gear-quiz-9",
+      "question": "What is a bear canister used for?",
+      "options": [
+        "Carrying water",
+        "Storing food in a hard-sided container to keep it safe from bears",
+        "Cooking food over a fire",
+        "Collecting rainwater"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-10",
+      "question": "Which device purifies water from natural sources, making it safe to drink?",
+      "options": [
+        "Canteen",
+        "Thermos",
+        "Water jug",
+        "Portable water filter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camping-gear-quiz-11",
+      "question": "What is a tarp used for in camping?",
+      "options": [
+        "Only for carrying firewood",
+        "As a versatile shelter, ground cover, or rain fly",
+        "Only for covering food",
+        "Only as a ground cover"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camping-gear-quiz-12",
+      "question": "Which fire-starting tool creates sparks when scraped with a metal striker?",
+      "options": [
+        "Lighter",
+        "Flint and steel",
+        "Ferrocerium rod (fire steel)",
+        "Magnifying glass"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camping-gear-quiz-13",
+      "question": "What is a carabiner clip commonly used for in camping?",
+      "options": [
+        "Purifying water",
+        "Cutting rope",
+        "Quickly attaching and detaching gear to packs and lines",
+        "Starting fires"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camping-gear-quiz-14",
+      "question": "Which camping cookware item is a lightweight metal cup that can also be used for cooking over a fire?",
+      "options": [
+        "Sierra cup (camp cup)",
+        "Thermos cup",
+        "Mug",
+        "Shot glass"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "camping-gear-quiz-15",
+      "question": "What is paracord (parachute cord) valued for in camping?",
+      "options": [
+        "Its ability to conduct electricity",
+        "Its strength and versatility for tying, securing, and emergency uses",
+        "Its waterproof properties",
+        "Its elastic stretch"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

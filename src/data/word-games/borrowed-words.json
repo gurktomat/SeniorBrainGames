@@ -7,92 +7,167 @@
     {
       "id": "borrowed-words-1",
       "question": "The word 'kindergarten' was borrowed into English from which language?",
-      "options": ["French", "Dutch", "German", "Swedish"],
-      "correctAnswer": 2
+      "options": [
+        "Swedish",
+        "Dutch",
+        "French",
+        "German"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-2",
       "question": "From which language does the English word 'tsunami' originate?",
-      "options": ["Chinese", "Korean", "Hawaiian", "Japanese"],
-      "correctAnswer": 3
+      "options": [
+        "Japanese",
+        "Korean",
+        "Chinese",
+        "Hawaiian"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "borrowed-words-3",
       "question": "The word 'chocolate' entered English from which language family?",
-      "options": ["French", "Nahuatl (Aztec)", "Portuguese", "Arabic"],
-      "correctAnswer": 1
+      "options": [
+        "Nahuatl (Aztec)",
+        "Portuguese",
+        "Arabic",
+        "French"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "borrowed-words-4",
       "question": "Which language gave English the word 'algebra'?",
-      "options": ["Greek", "Latin", "Arabic", "Persian"],
-      "correctAnswer": 2
+      "options": [
+        "Arabic",
+        "Greek",
+        "Latin",
+        "Persian"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "borrowed-words-5",
       "question": "The word 'ballet' was borrowed from which language?",
-      "options": ["Italian", "French", "Spanish", "Russian"],
-      "correctAnswer": 1
+      "options": [
+        "Russian",
+        "Italian",
+        "Spanish",
+        "French"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-6",
       "question": "From which language does the word 'safari' originate?",
-      "options": ["Hindi", "Swahili (from Arabic)", "Zulu", "Afrikaans"],
-      "correctAnswer": 1
+      "options": [
+        "Hindi",
+        "Afrikaans",
+        "Zulu",
+        "Swahili (from Arabic)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-7",
       "question": "The English word 'shampoo' comes from which language?",
-      "options": ["French", "Japanese", "Hindi", "Turkish"],
+      "options": [
+        "Japanese",
+        "French",
+        "Hindi",
+        "Turkish"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "borrowed-words-8",
       "question": "Which language contributed the word 'ketchup' to English?",
-      "options": ["Malay/Chinese", "Spanish", "Italian", "Dutch"],
-      "correctAnswer": 0
+      "options": [
+        "Dutch",
+        "Malay/Chinese",
+        "Spanish",
+        "Italian"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "borrowed-words-9",
       "question": "The word 'piano' is borrowed from which language?",
-      "options": ["German", "French", "Italian", "Spanish"],
-      "correctAnswer": 2
+      "options": [
+        "Italian",
+        "Spanish",
+        "German",
+        "French"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "borrowed-words-10",
       "question": "From which language does the English word 'yogurt' originate?",
-      "options": ["Greek", "Arabic", "Turkish", "Persian"],
+      "options": [
+        "Arabic",
+        "Persian",
+        "Turkish",
+        "Greek"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "borrowed-words-11",
       "question": "The word 'mosquito' entered English from which language?",
-      "options": ["Portuguese", "Spanish", "Italian", "French"],
-      "correctAnswer": 1
+      "options": [
+        "Portuguese",
+        "French",
+        "Italian",
+        "Spanish"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-12",
       "question": "Which language gave English the word 'pajamas'?",
-      "options": ["Arabic", "Hindi/Urdu (from Persian)", "Turkish", "Chinese"],
-      "correctAnswer": 1
+      "options": [
+        "Hindi/Urdu (from Persian)",
+        "Chinese",
+        "Arabic",
+        "Turkish"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "borrowed-words-13",
       "question": "The word 'cookie' was borrowed into American English from which language?",
-      "options": ["German", "French", "Dutch", "Swedish"],
-      "correctAnswer": 2
+      "options": [
+        "Swedish",
+        "French",
+        "German",
+        "Dutch"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-14",
       "question": "From which language does the word 'sofa' originate?",
-      "options": ["French", "Turkish", "Arabic", "Persian"],
-      "correctAnswer": 2
+      "options": [
+        "Persian",
+        "French",
+        "Turkish",
+        "Arabic"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "borrowed-words-15",
       "question": "The word 'karate' was borrowed from which language?",
-      "options": ["Chinese", "Korean", "Japanese", "Thai"],
-      "correctAnswer": 2
+      "options": [
+        "Korean",
+        "Chinese",
+        "Thai",
+        "Japanese"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

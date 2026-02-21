@@ -7,7 +7,12 @@
     {
       "id": "rms-1",
       "question": "Which actress starred opposite Humphrey Bogart in the classic 1942 film 'Casablanca'?",
-      "options": ["Lauren Bacall", "Ingrid Bergman", "Katharine Hepburn", "Audrey Hepburn"],
+      "options": [
+        "Audrey Hepburn",
+        "Ingrid Bergman",
+        "Lauren Bacall",
+        "Katharine Hepburn"
+      ],
       "correctAnswer": 1,
       "explanation": "Ingrid Bergman played Ilsa Lund in Casablanca. Her chemistry with Bogart made 'Here's looking at you, kid' one of cinema's most famous lines.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "rms-2",
       "question": "James Dean became a symbol of teenage rebellion with which 1955 film?",
-      "options": ["East of Eden", "Rebel Without a Cause", "Giant", "The Wild One"],
-      "correctAnswer": 1,
+      "options": [
+        "Rebel Without a Cause",
+        "East of Eden",
+        "The Wild One",
+        "Giant"
+      ],
+      "correctAnswer": 0,
       "explanation": "Rebel Without a Cause (1955) cemented James Dean's status as a cultural icon. Tragically, he died in a car crash at age 24, just weeks before the film's release.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -27,7 +37,12 @@
     {
       "id": "rms-3",
       "question": "Which blonde bombshell actress famously stood over a subway grate in 'The Seven Year Itch' (1955)?",
-      "options": ["Jayne Mansfield", "Marilyn Monroe", "Kim Novak", "Grace Kelly"],
+      "options": [
+        "Kim Novak",
+        "Marilyn Monroe",
+        "Grace Kelly",
+        "Jayne Mansfield"
+      ],
       "correctAnswer": 1,
       "explanation": "Marilyn Monroe's white dress billowing over a subway grate in The Seven Year Itch became one of the most iconic images in movie history.",
       "difficulty": "easy",
@@ -37,8 +52,13 @@
     {
       "id": "rms-4",
       "question": "Which legendary actor played Atticus Finch in 'To Kill a Mockingbird' (1962)?",
-      "options": ["James Stewart", "Gregory Peck", "Henry Fonda", "Spencer Tracy"],
-      "correctAnswer": 1,
+      "options": [
+        "Gregory Peck",
+        "James Stewart",
+        "Henry Fonda",
+        "Spencer Tracy"
+      ],
+      "correctAnswer": 0,
       "explanation": "Gregory Peck won the Academy Award for Best Actor for his portrayal of the principled lawyer Atticus Finch, a role he considered his favorite.",
       "difficulty": "easy",
       "decade": "1960s",
@@ -47,7 +67,12 @@
     {
       "id": "rms-5",
       "question": "Sean Connery became famous as the first actor to play which suave secret agent on screen?",
-      "options": ["Jason Bourne", "James Bond", "Jack Ryan", "Napoleon Solo"],
+      "options": [
+        "Jason Bourne",
+        "James Bond",
+        "Napoleon Solo",
+        "Jack Ryan"
+      ],
       "correctAnswer": 1,
       "explanation": "Sean Connery first appeared as James Bond in 'Dr. No' (1962) and went on to play 007 in six official Bond films.",
       "difficulty": "easy",
@@ -57,8 +82,13 @@
     {
       "id": "rms-6",
       "question": "Which actress won an Oscar for playing Holly Golightly in 'Breakfast at Tiffany's' — wait, she was nominated but didn't win! Who played Holly?",
-      "options": ["Grace Kelly", "Audrey Hepburn", "Elizabeth Taylor", "Doris Day"],
-      "correctAnswer": 1,
+      "options": [
+        "Grace Kelly",
+        "Elizabeth Taylor",
+        "Doris Day",
+        "Audrey Hepburn"
+      ],
+      "correctAnswer": 3,
       "explanation": "Audrey Hepburn's portrayal of Holly Golightly in 1961 is one of cinema's most beloved performances. She was nominated for an Oscar but lost to Sophia Loren that year.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -67,8 +97,13 @@
     {
       "id": "rms-7",
       "question": "Which actor starred in both 'The Great Escape' (1963) and 'Bullitt' (1968), known for doing many of his own stunts?",
-      "options": ["Paul Newman", "Steve McQueen", "Clint Eastwood", "Charles Bronson"],
-      "correctAnswer": 1,
+      "options": [
+        "Clint Eastwood",
+        "Paul Newman",
+        "Steve McQueen",
+        "Charles Bronson"
+      ],
+      "correctAnswer": 2,
       "explanation": "Steve McQueen was known as the 'King of Cool.' His motorcycle jump in The Great Escape and the car chase in Bullitt are legendary action sequences.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -77,8 +112,13 @@
     {
       "id": "rms-8",
       "question": "Who played Vito Corleone in 'The Godfather' (1972)?",
-      "options": ["Robert De Niro", "Al Pacino", "Marlon Brando", "Jack Nicholson"],
-      "correctAnswer": 2,
+      "options": [
+        "Marlon Brando",
+        "Jack Nicholson",
+        "Al Pacino",
+        "Robert De Niro"
+      ],
+      "correctAnswer": 0,
       "explanation": "Marlon Brando won the Academy Award for his iconic portrayal of Don Vito Corleone, but famously refused the Oscar in protest.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -87,8 +127,13 @@
     {
       "id": "rms-9",
       "question": "Which actress became famous for her role as Princess Leia in the original 'Star Wars' (1977)?",
-      "options": ["Sigourney Weaver", "Carrie Fisher", "Meryl Streep", "Diane Keaton"],
-      "correctAnswer": 1,
+      "options": [
+        "Diane Keaton",
+        "Meryl Streep",
+        "Carrie Fisher",
+        "Sigourney Weaver"
+      ],
+      "correctAnswer": 2,
       "explanation": "Carrie Fisher made Princess Leia an iconic character — tough, witty, and independent. She continued the role across multiple Star Wars films.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -97,8 +142,13 @@
     {
       "id": "rms-10",
       "question": "Which actor's career took off after starring in 'Saturday Night Fever' (1977) and 'Grease' (1978)?",
-      "options": ["Richard Gere", "John Travolta", "Robert Redford", "Burt Reynolds"],
-      "correctAnswer": 1,
+      "options": [
+        "John Travolta",
+        "Robert Redford",
+        "Richard Gere",
+        "Burt Reynolds"
+      ],
+      "correctAnswer": 0,
       "explanation": "John Travolta became a global superstar with back-to-back hits. His white suit disco dance in Saturday Night Fever became a defining image of the 1970s.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -107,8 +157,13 @@
     {
       "id": "rms-11",
       "question": "Clint Eastwood became a star in the 1960s playing 'The Man with No Name' in a trilogy of films by which director?",
-      "options": ["John Ford", "Sergio Leone", "Sam Peckinpah", "Howard Hawks"],
-      "correctAnswer": 1,
+      "options": [
+        "Sergio Leone",
+        "Sam Peckinpah",
+        "John Ford",
+        "Howard Hawks"
+      ],
+      "correctAnswer": 0,
       "explanation": "Sergio Leone's 'Dollars Trilogy' — A Fistful of Dollars, For a Few Dollars More, and The Good, the Bad and the Ugly — made Eastwood an international star.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -117,7 +172,12 @@
     {
       "id": "rms-12",
       "question": "Which actress starred alongside Dustin Hoffman in 'Tootsie' (1982) and later won an Oscar for 'Blue Sky' (1994)?",
-      "options": ["Sally Field", "Jessica Lange", "Meryl Streep", "Sissy Spacek"],
+      "options": [
+        "Sally Field",
+        "Jessica Lange",
+        "Meryl Streep",
+        "Sissy Spacek"
+      ],
       "correctAnswer": 1,
       "explanation": "Jessica Lange co-starred in Tootsie and won her first Oscar (Supporting Actress) that same year for the film. She later won Best Actress for Blue Sky.",
       "difficulty": "hard",
@@ -127,8 +187,13 @@
     {
       "id": "rms-13",
       "question": "Which actor played Indiana Jones in 'Raiders of the Lost Ark' (1981)?",
-      "options": ["Tom Selleck", "Harrison Ford", "Kurt Russell", "Mel Gibson"],
-      "correctAnswer": 1,
+      "options": [
+        "Mel Gibson",
+        "Kurt Russell",
+        "Tom Selleck",
+        "Harrison Ford"
+      ],
+      "correctAnswer": 3,
       "explanation": "Harrison Ford brought Indiana Jones to life and made the fedora and bullwhip iconic. Tom Selleck was originally considered but couldn't take the role due to his Magnum, P.I. schedule.",
       "difficulty": "easy",
       "decade": "1980s",
@@ -137,8 +202,13 @@
     {
       "id": "rms-14",
       "question": "Which actress starred in 'Gentlemen Prefer Blondes' (1953) alongside Jane Russell?",
-      "options": ["Doris Day", "Marilyn Monroe", "Betty Grable", "Debbie Reynolds"],
-      "correctAnswer": 1,
+      "options": [
+        "Debbie Reynolds",
+        "Betty Grable",
+        "Doris Day",
+        "Marilyn Monroe"
+      ],
+      "correctAnswer": 3,
       "explanation": "Marilyn Monroe's performance of 'Diamonds Are a Girl's Best Friend' in this film became one of the most famous musical numbers in movie history.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -147,8 +217,13 @@
     {
       "id": "rms-15",
       "question": "Robert Redford and Paul Newman first starred together in which 1969 Western?",
-      "options": ["The Sting", "Butch Cassidy and the Sundance Kid", "Cool Hand Luke", "The Wild Bunch"],
-      "correctAnswer": 1,
+      "options": [
+        "Butch Cassidy and the Sundance Kid",
+        "The Wild Bunch",
+        "The Sting",
+        "Cool Hand Luke"
+      ],
+      "correctAnswer": 0,
       "explanation": "Butch Cassidy and the Sundance Kid made Redford and Newman one of Hollywood's greatest on-screen duos. They reunited for The Sting in 1973.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -157,7 +232,12 @@
     {
       "id": "rms-16",
       "question": "Which 1980s action star was known for his roles in 'First Blood' (1982) and 'Rocky' (1976)?",
-      "options": ["Arnold Schwarzenegger", "Bruce Willis", "Sylvester Stallone", "Chuck Norris"],
+      "options": [
+        "Bruce Willis",
+        "Arnold Schwarzenegger",
+        "Sylvester Stallone",
+        "Chuck Norris"
+      ],
       "correctAnswer": 2,
       "explanation": "Sylvester Stallone wrote and starred in Rocky, earning Oscar nominations for both writing and acting. He continued both the Rocky and Rambo franchises for decades.",
       "difficulty": "easy",
@@ -167,8 +247,13 @@
     {
       "id": "rms-17",
       "question": "Which actress was known as 'America's Sweetheart' in the 1950s-60s and starred in films like 'Pillow Talk' (1959)?",
-      "options": ["Debbie Reynolds", "Doris Day", "Sandra Dee", "Natalie Wood"],
-      "correctAnswer": 1,
+      "options": [
+        "Natalie Wood",
+        "Sandra Dee",
+        "Debbie Reynolds",
+        "Doris Day"
+      ],
+      "correctAnswer": 3,
       "explanation": "Doris Day starred in a string of romantic comedies and was one of the biggest box office draws of the late 1950s and 1960s.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -177,8 +262,13 @@
     {
       "id": "rms-18",
       "question": "Who directed and starred in 'Annie Hall' (1977), winning the Oscar for Best Picture?",
-      "options": ["Mel Brooks", "Woody Allen", "Gene Wilder", "Dustin Hoffman"],
-      "correctAnswer": 1,
+      "options": [
+        "Dustin Hoffman",
+        "Gene Wilder",
+        "Woody Allen",
+        "Mel Brooks"
+      ],
+      "correctAnswer": 2,
       "explanation": "Woody Allen wrote, directed, and starred in Annie Hall, which won four Academy Awards including Best Picture and Best Director.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -187,8 +277,13 @@
     {
       "id": "rms-19",
       "question": "Which actress played Scarlett O'Hara in 'Gone with the Wind' (1939) and later won another Oscar for 'A Streetcar Named Desire' (1951)?",
-      "options": ["Vivien Leigh", "Bette Davis", "Joan Crawford", "Olivia de Havilland"],
-      "correctAnswer": 0,
+      "options": [
+        "Olivia de Havilland",
+        "Vivien Leigh",
+        "Bette Davis",
+        "Joan Crawford"
+      ],
+      "correctAnswer": 1,
       "explanation": "British actress Vivien Leigh won Academy Awards for both roles, two of the most celebrated performances in film history.",
       "difficulty": "medium",
       "decade": "1950s",
@@ -197,8 +292,13 @@
     {
       "id": "rms-20",
       "question": "Which actor became the highest-paid movie star of the 1970s with films like 'Smokey and the Bandit' and 'The Longest Yard'?",
-      "options": ["Burt Reynolds", "Robert Redford", "Jack Nicholson", "Warren Beatty"],
-      "correctAnswer": 0,
+      "options": [
+        "Jack Nicholson",
+        "Burt Reynolds",
+        "Robert Redford",
+        "Warren Beatty"
+      ],
+      "correctAnswer": 1,
       "explanation": "Burt Reynolds was the #1 box office star for five consecutive years (1978–1982). His mustache and charm made him one of the decade's biggest icons.",
       "difficulty": "medium",
       "decade": "1970s",

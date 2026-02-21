@@ -1,0 +1,219 @@
+{
+  "id": "classic-diner-food",
+  "title": "Classic Diner Food",
+  "description": "Slide into a booth and test your knowledge of the iconic dishes served at America's beloved diners!",
+  "gameCategory": "nostalgia-trivia",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "classic-diner-food-1",
+      "question": "What classic diner breakfast featured two eggs, bacon or sausage, toast, and hash browns?",
+      "options": [
+        "The All-American",
+        "The Lumberjack",
+        "The Continental",
+        "The Grand Slam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Grand Slam, made famous by Denny's, was one of the most iconic diner breakfasts. However, the 'two eggs any style' breakfast has been a diner staple since the 1940s.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-2",
+      "question": "What was the classic diner sandwich made with bacon, lettuce, and tomato on toasted white bread?",
+      "options": [
+        "Hero sandwich",
+        "BLT",
+        "Dagwood sandwich",
+        "Club sandwich"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The BLT (Bacon, Lettuce, and Tomato) became one of America's most popular sandwiches in the post-WWII era. Diners served millions of them with a side of chips or fries.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-3",
+      "question": "What diner specialty was a hamburger patty covered in gravy, traditionally served with mashed potatoes?",
+      "options": [
+        "Swiss steak",
+        "Salisbury steak",
+        "Chopped steak",
+        "Country fried steak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salisbury steak, named after Dr. James Salisbury, was a diner mainstay. The seasoned ground beef patty smothered in mushroom gravy was comfort food at its finest.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-4",
+      "question": "What was the diner slang term for a cup of coffee?",
+      "options": [
+        "A java",
+        "A mud",
+        "A joe",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diner slang for coffee included 'a cup of joe,' 'java,' and 'mud.' Diner waitresses were famous for their colorful slang and calling out orders to the cook.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-5",
+      "question": "What classic diner pie was served in virtually every American diner and featured a meringue topping?",
+      "options": [
+        "Coconut cream pie",
+        "Apple pie",
+        "Cherry pie",
+        "Lemon meringue pie"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lemon meringue pie, with its bright yellow filling and towering meringue, was one of the most popular diner pies. It sat proudly in the spinning glass pie case on the counter.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-6",
+      "question": "What diner term meant 'with onions' when ordering a hamburger?",
+      "options": [
+        "All the way",
+        "With tears",
+        "Dragged through the garden",
+        "On a raft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In classic diner lingo, ordering a burger 'with tears' meant adding onions. 'Dragged through the garden' meant with lettuce and tomato.",
+      "difficulty": "hard",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-7",
+      "question": "What was the standard diner accompaniment served in a small bowl alongside every sandwich?",
+      "options": [
+        "French fries",
+        "A pickle",
+        "Potato salad",
+        "Coleslaw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dill pickle spear or pickle slices were served alongside virtually every sandwich in American diners. The pickle was as much a part of the meal as the sandwich itself.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-8",
+      "question": "What classic diner dish consisted of ground beef cooked with onions and served on a toasted bun, similar to a loose-meat sandwich?",
+      "options": [
+        "Maid-Rite",
+        "Loose Meat Sandwich",
+        "Sloppy Joe",
+        "Patty Melt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sloppy Joes, featuring seasoned ground beef in a tangy tomato-based sauce on a hamburger bun, were a diner and home cooking staple since the 1940s.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-9",
+      "question": "What was a 'Blue Plate Special' at a classic diner?",
+      "options": [
+        "A meal served on a blue plate",
+        "The chef's creative special",
+        "The most expensive item on the menu",
+        "A daily special of a complete meal at a reduced price"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Blue Plate Special was a complete meal (typically meat, two vegetables, bread, and sometimes dessert) offered at a special low price. It originated from divided blue plates used in diners.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-10",
+      "question": "What diner breakfast item was a sandwich of French toast stuffed with cream cheese and served with syrup?",
+      "options": [
+        "Stuffed French Toast",
+        "Texas Toast",
+        "Monte Cristo",
+        "French Toast Deluxe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Monte Cristo, a sandwich dipped in egg batter and fried like French toast, was a popular diner brunch item. Versions varied from sweet to savory across different diners.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-11",
+      "question": "What grilled sandwich combined ham, turkey, Swiss cheese, and Russian dressing, typically served on rye bread?",
+      "options": [
+        "Club sandwich",
+        "Reuben",
+        "Rachel",
+        "Dagwood"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Rachel sandwich was a variation of the Reuben, using turkey (or pastrami) instead of corned beef, and coleslaw instead of sauerkraut, on grilled rye with Swiss cheese.",
+      "difficulty": "medium",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-12",
+      "question": "What was the classic diner term for a hamburger with cheese?",
+      "options": [
+        "A golden burger",
+        "A cheeseburger",
+        "A cheese wheel",
+        "A cowboy burger"
+      ],
+      "correctAnswer": 1,
+      "explanation": "While it seems obvious today, the cheeseburger was a diner innovation. Lionel Sternberger is often credited with inventing it in the late 1920s at his father's Pasadena, California sandwich shop.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-13",
+      "question": "What spinning display case sat on diner counters showcasing the day's available desserts?",
+      "options": [
+        "Sweet spinner",
+        "Pie case",
+        "Cake dome",
+        "Dessert carousel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The revolving pie case, usually chrome and glass, sat on the diner counter displaying whole pies and cakes. It was often the first thing customers noticed and the last thing they ordered from.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-14",
+      "question": "What type of milkshake was made by blending ice cream, milk, and malt powder at the diner counter?",
+      "options": [
+        "A shake",
+        "A malted",
+        "A frappe",
+        "A freeze"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A malted (or malt) was a milkshake made with the addition of malted milk powder, giving it a distinctive rich, slightly toasty flavor that many people preferred over a plain shake.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    },
+    {
+      "id": "classic-diner-food-15",
+      "question": "What diner classic featured a hamburger patty on rye bread with grilled onions and melted Swiss cheese?",
+      "options": [
+        "Griddle burger",
+        "French dip",
+        "Patty melt",
+        "Mushroom Swiss burger"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The patty melt, served on grilled rye bread with Swiss cheese and caramelized onions, was a beloved diner variation on the classic hamburger that combined the best of a burger and a grilled sandwich.",
+      "difficulty": "easy",
+      "category": "nostalgia"
+    }
+  ]
+}

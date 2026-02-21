@@ -1,0 +1,219 @@
+{
+  "id": "cinema-vocabulary",
+  "title": "Cinema Vocabulary",
+  "description": "Lights, camera, action! How well do you know filmmaking terminology?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cinema-vocabulary-1",
+      "question": "In filmmaking, what is a 'dolly shot'?",
+      "options": [
+        "A close-up of a character's face",
+        "A shot featuring a doll or puppet",
+        "A shot where the camera moves on a wheeled platform",
+        "A shot taken from above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dolly shot involves the camera mounted on a wheeled platform (dolly) that rolls along tracks or a smooth surface, creating fluid forward, backward, or lateral movement.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-2",
+      "question": "What does 'mise-en-scène' mean in cinema?",
+      "options": [
+        "A scene filmed on location",
+        "A musical scene in a film",
+        "The final edited version of a film",
+        "The arrangement of everything that appears in the frame"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mise-en-scène (French for 'placing on stage') refers to everything visible in the frame: set design, lighting, costumes, props, and the arrangement of actors.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-3",
+      "question": "In film, what is a 'MacGuffin'?",
+      "options": [
+        "A type of camera lens",
+        "A comedic character type",
+        "A plot device that motivates characters but has little importance itself",
+        "A special effects technique"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A MacGuffin is a plot device, often an object or goal, that drives the characters' actions but is ultimately unimportant to the story. Alfred Hitchcock popularized the term.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-4",
+      "question": "What is a 'gaffer' in film production?",
+      "options": [
+        "The chief electrician responsible for lighting",
+        "The person who manages extras",
+        "The person who operates the boom microphone",
+        "The assistant director"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The gaffer is the chief electrician on a film set, responsible for the execution of the lighting plan in collaboration with the director of photography.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-5",
+      "question": "In cinema, what does 'montage' refer to?",
+      "options": [
+        "A sequence of short shots edited together to condense time or information",
+        "The opening credits",
+        "A single long take without cuts",
+        "A mountain scene in a film"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A montage is a filmmaking technique where a series of short shots are edited together to condense time, convey information, or create a specific emotional effect.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-6",
+      "question": "What is a 'key grip' on a film set?",
+      "options": [
+        "The lead actor's personal assistant",
+        "The person who holds the clapperboard",
+        "The head of the grip department responsible for camera support and rigging",
+        "The person who locks the set doors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The key grip is the head of the grip department, overseeing all rigging, camera support equipment, dollies, cranes, and anything that shapes or blocks light on set.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-7",
+      "question": "In film, what is a 'tracking shot'?",
+      "options": [
+        "A shot that follows animal tracks",
+        "A time-lapse recording",
+        "A shot used to track continuity errors",
+        "A shot where the camera moves alongside or follows a subject"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tracking shot is any shot where the camera physically moves through space to follow, lead, or move alongside a subject, creating dynamic and immersive visuals.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-8",
+      "question": "What does 'foley' refer to in filmmaking?",
+      "options": [
+        "A special camera filter",
+        "A film shot in slow motion",
+        "The reproduction of everyday sound effects added in post-production",
+        "A type of film festival"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Foley is the art of creating and recording everyday sound effects (footsteps, clothing rustles, door creaks) in post-production to enhance the audio realism of a film.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-9",
+      "question": "In cinema, what is a 'jump cut'?",
+      "options": [
+        "Editing out action sequences",
+        "A cut to a scene with jumping",
+        "An abrupt transition between two shots that breaks continuity",
+        "A cut from one camera angle to a drastically different one"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A jump cut is an abrupt edit between two sequential shots of the same subject from slightly different positions, creating a jarring effect that breaks spatial or temporal continuity.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-10",
+      "question": "What is 'aspect ratio' in cinema?",
+      "options": [
+        "The proportional relationship between the width and height of the image",
+        "The ratio of actors to crew members",
+        "The ratio of dialogue to action in a film",
+        "The percentage of the budget spent on special effects"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aspect ratio describes the proportional relationship between the width and height of a film's image, such as 16:9 (widescreen) or 4:3 (standard).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-11",
+      "question": "In filmmaking, what is 'ADR'?",
+      "options": [
+        "Advanced Digital Recording",
+        "Assistant Director's Report",
+        "Artistic Design Review",
+        "Automated Dialogue Replacement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ADR (Automated Dialogue Replacement, also called 'looping') is the process of re-recording dialogue in a studio after filming, to replace unclear or unusable original audio.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-12",
+      "question": "What is a 'storyboard' in filmmaking?",
+      "options": [
+        "A bulletin board listing the cast",
+        "A sequence of drawn panels illustrating planned shots and scenes",
+        "The schedule for filming",
+        "A board game based on a movie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A storyboard is a series of illustrated panels that pre-visualize the sequence of shots in a film, helping directors plan camera angles, framing, and scene progression.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-13",
+      "question": "In cinema, what does 'pan' mean?",
+      "options": [
+        "A panoramic landscape shot",
+        "A negative review of the film",
+        "A horizontal rotation of the camera from a fixed position",
+        "A cooking scene"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pan is a camera movement where the camera rotates horizontally (left or right) on its axis from a stationary position, used to follow action or reveal a scene.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-14",
+      "question": "What is a 'cliffhanger' in cinema?",
+      "options": [
+        "A scene filmed on a cliff",
+        "A dramatic camera angle from above",
+        "A stunt involving hanging from a height",
+        "An unresolved ending that leaves the audience in suspense"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A cliffhanger is a narrative device where a story ends at a moment of high suspense or unresolved conflict, compelling the audience to want to see the resolution.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "cinema-vocabulary-15",
+      "question": "In filmmaking, what is a 'best boy'?",
+      "options": [
+        "The lead animal trainer",
+        "The youngest crew member",
+        "The chief assistant to either the gaffer or the key grip",
+        "The director's favorite actor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best boy is the chief assistant to either the gaffer (best boy electric) or the key grip (best boy grip), helping manage the electrical or grip department crew and equipment.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "sports-venues-quiz",
+  "title": "Sports Venues Quiz",
+  "description": "Recall facts about famous arenas, stadiums, and sporting venues around the globe",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sports-venues-quiz-1",
+      "question": "Madison Square Garden, nicknamed 'The Garden,' is located in which U.S. city?",
+      "options": [
+        "New York City",
+        "Chicago",
+        "Philadelphia",
+        "Boston"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-venues-quiz-2",
+      "question": "Wembley Stadium is the national football stadium of which country?",
+      "options": [
+        "Spain",
+        "Germany",
+        "France",
+        "England"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-venues-quiz-3",
+      "question": "The Melbourne Cricket Ground (MCG) is located in which country?",
+      "options": [
+        "India",
+        "England",
+        "South Africa",
+        "Australia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-venues-quiz-4",
+      "question": "Wimbledon is famous as the oldest tennis tournament in the world. On what surface is it played?",
+      "options": [
+        "Carpet",
+        "Grass",
+        "Hard court",
+        "Clay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-venues-quiz-5",
+      "question": "The Camp Nou is the home stadium of which famous football (soccer) club?",
+      "options": [
+        "FC Barcelona",
+        "Atletico Madrid",
+        "Manchester United",
+        "Real Madrid"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-venues-quiz-6",
+      "question": "Fenway Park, one of the oldest baseball stadiums in America, is home to which team?",
+      "options": [
+        "Chicago Cubs",
+        "Philadelphia Phillies",
+        "Boston Red Sox",
+        "New York Yankees"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-venues-quiz-7",
+      "question": "The Augusta National Golf Club hosts which prestigious annual golf tournament?",
+      "options": [
+        "The Open Championship",
+        "The Masters",
+        "The US Open",
+        "The PGA Championship"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-venues-quiz-8",
+      "question": "Lord's Cricket Ground, known as 'The Home of Cricket,' is in which city?",
+      "options": [
+        "Mumbai",
+        "Sydney",
+        "Cape Town",
+        "London"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-venues-quiz-9",
+      "question": "The Maracana Stadium, once the world's largest, is located in which city?",
+      "options": [
+        "Rio de Janeiro",
+        "Sao Paulo",
+        "Buenos Aires",
+        "Mexico City"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-venues-quiz-10",
+      "question": "Lambeau Field, known as 'The Frozen Tundra,' is home to which NFL team?",
+      "options": [
+        "Green Bay Packers",
+        "Detroit Lions",
+        "Minnesota Vikings",
+        "Chicago Bears"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-venues-quiz-11",
+      "question": "Roland Garros in Paris hosts which Grand Slam tennis tournament?",
+      "options": [
+        "US Open",
+        "Australian Open",
+        "French Open",
+        "Wimbledon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-venues-quiz-12",
+      "question": "The Rose Bowl stadium, famous for its New Year's Day college football game, is in which U.S. state?",
+      "options": [
+        "Florida",
+        "Texas",
+        "California",
+        "Ohio"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-venues-quiz-13",
+      "question": "Old Trafford is the home ground of which English football club?",
+      "options": [
+        "Chelsea",
+        "Liverpool FC",
+        "Manchester United",
+        "Arsenal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-venues-quiz-14",
+      "question": "The Colosseum in Rome was an ancient venue used primarily for what?",
+      "options": [
+        "Horse racing",
+        "Theater performances",
+        "Gladiatorial contests and public spectacles",
+        "Political meetings"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-venues-quiz-15",
+      "question": "Yankee Stadium, 'The House That Ruth Built,' was the original home of which baseball team?",
+      "options": [
+        "New York Mets",
+        "Brooklyn Dodgers",
+        "Boston Red Sox",
+        "New York Yankees"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

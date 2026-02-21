@@ -8,8 +8,13 @@
     {
       "id": "ac-1",
       "question": "Which ancient civilization built the pyramids at Giza?",
-      "options": ["Roman", "Greek", "Egyptian", "Mesopotamian"],
-      "correctAnswer": 2,
+      "options": [
+        "Roman",
+        "Egyptian",
+        "Greek",
+        "Mesopotamian"
+      ],
+      "correctAnswer": 1,
       "explanation": "The ancient Egyptians built the pyramids at Giza around 2560 BC. The Great Pyramid of Giza, built for Pharaoh Khufu, is the oldest and largest of the three pyramids and the only surviving wonder of the ancient world.",
       "difficulty": "easy",
       "category": "history"
@@ -17,8 +22,13 @@
     {
       "id": "ac-2",
       "question": "What writing system did the ancient Egyptians use?",
-      "options": ["Cuneiform", "Hieroglyphics", "Sanskrit", "Linear B"],
-      "correctAnswer": 1,
+      "options": [
+        "Sanskrit",
+        "Linear B",
+        "Cuneiform",
+        "Hieroglyphics"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ancient Egyptians used hieroglyphics, a writing system consisting of pictorial symbols. The Rosetta Stone, discovered in 1799, was the key to deciphering hieroglyphics in 1822 by Jean-François Champollion.",
       "difficulty": "easy",
       "category": "history"
@@ -26,7 +36,12 @@
     {
       "id": "ac-3",
       "question": "Which ancient civilization is credited with inventing democracy?",
-      "options": ["Roman", "Egyptian", "Persian", "Greek"],
+      "options": [
+        "Egyptian",
+        "Roman",
+        "Persian",
+        "Greek"
+      ],
       "correctAnswer": 3,
       "explanation": "Ancient Greece, specifically Athens, is credited with developing democracy around 508-507 BC under the reforms of Cleisthenes. Citizens could directly participate in political decision-making.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "ac-4",
       "question": "The Roman Empire's capital was which city?",
-      "options": ["Athens", "Alexandria", "Rome", "Constantinople"],
-      "correctAnswer": 2,
+      "options": [
+        "Alexandria",
+        "Athens",
+        "Constantinople",
+        "Rome"
+      ],
+      "correctAnswer": 3,
       "explanation": "Rome was the capital of the Roman Empire, which at its height controlled much of Europe, North Africa, and the Middle East. The city was founded, according to legend, in 753 BC.",
       "difficulty": "easy",
       "category": "history"
@@ -44,8 +64,13 @@
     {
       "id": "ac-5",
       "question": "Which ancient civilization built Machu Picchu high in the Andes Mountains?",
-      "options": ["Aztec", "Maya", "Inca", "Olmec"],
-      "correctAnswer": 2,
+      "options": [
+        "Inca",
+        "Maya",
+        "Aztec",
+        "Olmec"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Inca civilization built Machu Picchu around 1450 AD in present-day Peru. This remarkable stone city, perched at nearly 8,000 feet elevation, was likely a royal estate for the Inca emperor Pachacuti.",
       "difficulty": "easy",
       "category": "history"
@@ -53,8 +78,13 @@
     {
       "id": "ac-6",
       "question": "Which ancient civilization developed cuneiform, one of the earliest known writing systems?",
-      "options": ["Egyptian", "Sumerian", "Chinese", "Indus Valley"],
-      "correctAnswer": 1,
+      "options": [
+        "Sumerian",
+        "Indus Valley",
+        "Egyptian",
+        "Chinese"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Sumerians of Mesopotamia (modern-day Iraq) developed cuneiform writing around 3400 BC. They pressed wedge-shaped marks into soft clay tablets, and the system was later adopted by other civilizations.",
       "difficulty": "medium",
       "category": "history"
@@ -62,7 +92,12 @@
     {
       "id": "ac-7",
       "question": "What was the name of the Aztec capital city, built on an island in Lake Texcoco?",
-      "options": ["Cusco", "Teotihuacan", "Tenochtitlan", "Tikal"],
+      "options": [
+        "Cusco",
+        "Teotihuacan",
+        "Tenochtitlan",
+        "Tikal"
+      ],
       "correctAnswer": 2,
       "explanation": "Tenochtitlan was the capital of the Aztec Empire, founded in 1325 on an island in Lake Texcoco. At its peak, it was one of the largest cities in the world with a population of over 200,000. Modern-day Mexico City was built on its ruins.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "ac-8",
       "question": "Which ancient civilization created the concept of zero as a mathematical placeholder?",
-      "options": ["Greek", "Roman", "Maya", "Egyptian"],
-      "correctAnswer": 2,
+      "options": [
+        "Roman",
+        "Maya",
+        "Egyptian",
+        "Greek"
+      ],
+      "correctAnswer": 1,
       "explanation": "The ancient Maya independently developed the concept of zero around the 4th century AD, using it as a placeholder in their vigesimal (base-20) number system. The Babylonians and Indians also developed the concept independently.",
       "difficulty": "medium",
       "category": "history"
@@ -80,8 +120,13 @@
     {
       "id": "ac-9",
       "question": "The Terracotta Army, a collection of thousands of life-sized clay soldiers, was buried with which Chinese emperor?",
-      "options": ["Kublai Khan", "Qin Shi Huang", "Emperor Wu", "Confucius"],
-      "correctAnswer": 1,
+      "options": [
+        "Confucius",
+        "Kublai Khan",
+        "Emperor Wu",
+        "Qin Shi Huang"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Terracotta Army was buried with Qin Shi Huang, the first Emperor of China, around 210-209 BC. Discovered in 1974, the army consists of approximately 8,000 soldiers, 130 chariots, and 670 horses.",
       "difficulty": "medium",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "ac-10",
       "question": "Which ancient Roman structure was used for gladiatorial contests and public spectacles?",
-      "options": ["Pantheon", "Forum", "Colosseum", "Circus Maximus"],
-      "correctAnswer": 2,
+      "options": [
+        "Forum",
+        "Colosseum",
+        "Pantheon",
+        "Circus Maximus"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Colosseum (Flavian Amphitheatre) was the largest amphitheatre in the Roman world, built between 70-80 AD. It could hold up to 80,000 spectators and hosted gladiatorial contests, animal hunts, and mock naval battles.",
       "difficulty": "medium",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "ac-11",
       "question": "The Indus Valley Civilization, one of the world's earliest urban civilizations, was located in which modern-day region?",
-      "options": ["Egypt and Sudan", "Iraq and Syria", "Pakistan and northwest India", "China and Mongolia"],
-      "correctAnswer": 2,
+      "options": [
+        "Iraq and Syria",
+        "Pakistan and northwest India",
+        "China and Mongolia",
+        "Egypt and Sudan"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Indus Valley Civilization (c. 3300-1300 BC) flourished in what is now Pakistan and northwest India. Its major cities, Mohenjo-daro and Harappa, featured advanced urban planning including grid-pattern streets and sewage systems.",
       "difficulty": "hard",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "ac-12",
       "question": "Which ancient civilization built the city of Petra, carved into rose-red rock cliffs?",
-      "options": ["Phoenicians", "Nabataeans", "Assyrians", "Hittites"],
-      "correctAnswer": 1,
+      "options": [
+        "Hittites",
+        "Assyrians",
+        "Phoenicians",
+        "Nabataeans"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Nabataeans carved the city of Petra into the sandstone cliffs of southern Jordan around the 4th century BC. It served as their capital and a major trading hub. The Treasury (Al-Khazneh) is its most famous structure.",
       "difficulty": "hard",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "ac-13",
       "question": "What was the primary building material used by the ancient Mesopotamians, due to the lack of stone in the region?",
-      "options": ["Granite", "Marble", "Mud brick", "Limestone"],
-      "correctAnswer": 2,
+      "options": [
+        "Mud brick",
+        "Marble",
+        "Granite",
+        "Limestone"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ancient Mesopotamians primarily used mud bricks (adobe) for construction because the river plains of the Tigris and Euphrates had abundant clay but very little stone. Their ziggurats and cities were built from sun-dried and kiln-fired mud bricks.",
       "difficulty": "hard",
       "category": "history"
@@ -125,7 +190,12 @@
     {
       "id": "ac-14",
       "question": "Which ancient civilization developed the first known legal code, predating Hammurabi's Code?",
-      "options": ["Babylonian", "Sumerian", "Hittite", "Assyrian"],
+      "options": [
+        "Assyrian",
+        "Sumerian",
+        "Babylonian",
+        "Hittite"
+      ],
       "correctAnswer": 1,
       "explanation": "The Sumerians created the Code of Ur-Nammu around 2100-2050 BC, making it the oldest surviving legal code. It predates the more famous Code of Hammurabi (c. 1754 BC) by roughly three centuries.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "ac-15",
       "question": "The Minoan civilization, one of Europe's earliest advanced cultures, was centered on which island?",
-      "options": ["Sicily", "Cyprus", "Crete", "Sardinia"],
-      "correctAnswer": 2,
+      "options": [
+        "Crete",
+        "Cyprus",
+        "Sardinia",
+        "Sicily"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Minoan civilization (c. 2700-1450 BC) was centered on the island of Crete in the Aegean Sea. Named after the legendary King Minos, they built elaborate palaces like Knossos and developed Linear A script.",
       "difficulty": "hard",
       "category": "history"

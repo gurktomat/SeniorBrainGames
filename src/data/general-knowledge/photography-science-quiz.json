@@ -1,0 +1,173 @@
+{
+  "id": "photography-science-quiz",
+  "title": "The Science of Photography",
+  "description": "Explore the science and technology behind capturing images, from film to digital",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "photography-science-quiz-1",
+      "question": "What is the earliest known photographic process, announced in 1839?",
+      "options": [
+        "Daguerreotype",
+        "Calotype",
+        "Polaroid",
+        "Tintype"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-2",
+      "question": "What does a camera lens do to light to create an image?",
+      "options": [
+        "Absorbs it",
+        "Filters out all colors",
+        "Focuses it onto a sensor or film",
+        "Reflects it randomly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "photography-science-quiz-3",
+      "question": "What is the 'aperture' of a camera lens?",
+      "options": [
+        "The focus distance",
+        "The opening that controls how much light enters",
+        "The zoom level",
+        "The shutter speed"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "photography-science-quiz-4",
+      "question": "George Eastman founded which company that made photography accessible to the masses?",
+      "options": [
+        "Fuji",
+        "Canon",
+        "Kodak",
+        "Nikon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "photography-science-quiz-5",
+      "question": "What chemical process was traditionally used to develop photographs from film?",
+      "options": [
+        "Photochemical development using silver halides",
+        "Digital conversion",
+        "Electrolysis",
+        "Laser printing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-6",
+      "question": "What does ISO measure in photography?",
+      "options": [
+        "Lens diameter",
+        "Color depth",
+        "Image size",
+        "Sensitivity to light"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "photography-science-quiz-7",
+      "question": "Edwin Land invented which type of camera that produced instant prints?",
+      "options": [
+        "Polaroid camera",
+        "Disposable camera",
+        "Box camera",
+        "Rangefinder camera"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-8",
+      "question": "What does a digital camera use instead of film to capture images?",
+      "options": [
+        "An electronic image sensor",
+        "Magnetic tape",
+        "A laser",
+        "Thermal paper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-9",
+      "question": "What is the term for the amount of time a camera's shutter is open during exposure?",
+      "options": [
+        "Aperture",
+        "Focal length",
+        "Shutter speed",
+        "White balance"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "photography-science-quiz-10",
+      "question": "The pinhole camera, one of the simplest image-forming devices, works on which principle?",
+      "options": [
+        "Polarization",
+        "Rectilinear propagation of light",
+        "Diffraction",
+        "Refraction"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "photography-science-quiz-11",
+      "question": "What does the term 'megapixel' refer to in digital photography?",
+      "options": [
+        "The size of the lens",
+        "The storage capacity",
+        "The speed of the processor",
+        "One million pixels of image resolution"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "photography-science-quiz-12",
+      "question": "What part of the electromagnetic spectrum do infrared cameras detect?",
+      "options": [
+        "Visible light",
+        "Gamma rays",
+        "Ultraviolet radiation",
+        "Heat radiation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "photography-science-quiz-13",
+      "question": "What is the 'depth of field' in photography?",
+      "options": [
+        "The range of distance that appears sharp in a photo",
+        "The distance from camera to subject",
+        "The width of the image",
+        "The brightness of the photo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-14",
+      "question": "What technology replaced chemical darkrooms for most professional photographers?",
+      "options": [
+        "Digital image editing software",
+        "Overhead projectors",
+        "Photocopiers",
+        "Fax machines"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "photography-science-quiz-15",
+      "question": "The first photograph of Earth taken from space was captured during which NASA program?",
+      "options": [
+        "Mercury",
+        "Apollo",
+        "Gemini",
+        "Explorer"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

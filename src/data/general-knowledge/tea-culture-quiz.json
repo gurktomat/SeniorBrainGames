@@ -1,0 +1,219 @@
+{
+  "id": "tea-culture-quiz",
+  "title": "Tea Culture & History",
+  "description": "Explore the fascinating world of tea from cultivation to ceremony!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "tea-culture-quiz-1",
+      "question": "Where did tea originate?",
+      "options": [
+        "Sri Lanka",
+        "China",
+        "India",
+        "Japan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tea originated in China, where it has been consumed for thousands of years. According to legend, Emperor Shen Nung discovered tea in 2737 BC when tea leaves blew into his boiling water.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-2",
+      "question": "What plant do all true teas (black, green, white, oolong) come from?",
+      "options": [
+        "Camellia japonica",
+        "Thea viridis",
+        "Camellia sinensis",
+        "Different plants for each type"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All true teas come from the Camellia sinensis plant. The differences between black, green, white, and oolong tea come from how the leaves are processed after harvesting.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-3",
+      "question": "What is the traditional Japanese tea ceremony called?",
+      "options": [
+        "Chanoyu",
+        "Origami",
+        "Kabuki",
+        "Ikebana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chanoyu (also called chado or sado, meaning 'the way of tea') is the traditional Japanese tea ceremony, a choreographed ritual of preparing and serving matcha green tea.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-4",
+      "question": "What type of tea is the most oxidized?",
+      "options": [
+        "Black tea",
+        "Oolong tea",
+        "White tea",
+        "Green tea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Black tea is the most oxidized type of tea. The leaves are fully oxidized, giving them their dark color and strong, robust flavor compared to less-oxidized varieties.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-5",
+      "question": "Which country consumes the most tea per person?",
+      "options": [
+        "Turkey",
+        "England",
+        "China",
+        "India"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Turkey has the highest per capita tea consumption in the world, with the average Turk consuming about 7 pounds of tea per year, mostly as cay (Turkish black tea).",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-6",
+      "question": "What historical event in 1773 involved colonists dumping tea into Boston Harbor?",
+      "options": [
+        "The American Revolution",
+        "The War of 1812",
+        "The Boston Tea Party",
+        "The Continental Congress"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Boston Tea Party occurred on December 16, 1773, when colonists protested British taxation by dumping 342 chests of tea into Boston Harbor, a key event leading to the American Revolution.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-7",
+      "question": "What is matcha?",
+      "options": [
+        "A tea flavoring",
+        "A herbal tea blend",
+        "Finely ground green tea powder",
+        "A type of black tea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Matcha is finely ground powder made from specially grown green tea leaves. Unlike regular tea, you consume the whole leaf, getting more antioxidants and caffeine.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-8",
+      "question": "What is the traditional afternoon tea time in England?",
+      "options": [
+        "2:00 PM",
+        "5:00 PM",
+        "3:00 PM",
+        "4:00 PM"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Traditional British afternoon tea is typically served around 4:00 PM. It was popularized by Anna, the 7th Duchess of Bedford, in the 1840s to bridge the gap between lunch and dinner.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-9",
+      "question": "What Indian spiced tea drink combines black tea with aromatic spices and milk?",
+      "options": [
+        "Thandai",
+        "Lassi",
+        "Nimbu pani",
+        "Chai"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chai (masala chai) is a spiced tea drink from India made by brewing black tea with a mixture of spices such as cardamom, cinnamon, ginger, and cloves, along with milk and sugar.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-10",
+      "question": "Which type of tea is made from minimally processed young leaves and buds?",
+      "options": [
+        "Black tea",
+        "White tea",
+        "Oolong tea",
+        "Pu-erh tea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "White tea is made from young leaves and buds that undergo minimal processing (just withering and drying). It is the least processed type of tea and has a delicate, subtle flavor.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-11",
+      "question": "What is Earl Grey tea flavored with?",
+      "options": [
+        "Jasmine",
+        "Mint",
+        "Vanilla",
+        "Bergamot orange"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Earl Grey is a black tea flavored with oil of bergamot, a citrus fruit grown mainly in Italy. It is named after Charles Grey, the 2nd Earl Grey and British Prime Minister in the 1830s.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-12",
+      "question": "What Chinese tea is aged and fermented, sometimes for decades, and improves with age like wine?",
+      "options": [
+        "Tieguanyin",
+        "Jasmine",
+        "Pu-erh",
+        "Longjing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pu-erh is a fermented tea from Yunnan province that can be aged for years or even decades. Like fine wine, well-aged pu-erh is highly prized and can command high prices.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-13",
+      "question": "What South American caffeinated drink is traditionally consumed from a gourd with a metal straw?",
+      "options": [
+        "Coca tea",
+        "Yerba mate",
+        "Guarana",
+        "Guayusa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Yerba mate is a caffeinated drink from South America made from the leaves of the Ilex paraguariensis plant. It is traditionally drunk from a gourd (mate) through a metal straw (bombilla).",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-14",
+      "question": "Which British company established vast tea plantations in India and Ceylon (Sri Lanka)?",
+      "options": [
+        "Fortnum & Mason",
+        "Harrods",
+        "The British East India Company",
+        "Twinings"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The British East India Company played a central role in establishing tea plantations in India and Ceylon to break China's monopoly on tea production in the 19th century.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "tea-culture-quiz-15",
+      "question": "What North African country is famous for its mint tea, traditionally poured from a height?",
+      "options": [
+        "Tunisia",
+        "Morocco",
+        "Algeria",
+        "Egypt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Morocco is famous for its mint tea (Moroccan whiskey, as it is jokingly called). It is poured from a height to create a frothy top and is a symbol of hospitality.",
+      "difficulty": "medium",
+      "category": "food"
+    }
+  ]
+}

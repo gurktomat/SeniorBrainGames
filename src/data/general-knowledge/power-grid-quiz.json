@@ -1,0 +1,219 @@
+{
+  "id": "power-grid-quiz",
+  "title": "Electrical Power Grids",
+  "description": "Get charged up with questions about the world's electrical power grid systems!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "power-grid-quiz-1",
+      "question": "Which famous inventor championed direct current (DC) power distribution in the 'War of Currents'?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "George Westinghouse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thomas Edison championed direct current (DC) power distribution in the late 1880s 'War of Currents' against Nikola Tesla and George Westinghouse, who promoted alternating current (AC). AC ultimately won due to its ability to be transmitted over long distances.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "power-grid-quiz-2",
+      "question": "Why did alternating current (AC) win over direct current (DC) for power distribution?",
+      "options": [
+        "AC is safer",
+        "AC voltage can be easily transformed for efficient long-distance transmission",
+        "AC is cheaper to generate",
+        "DC was patented and too expensive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AC won because transformers can easily step up AC voltage for efficient long-distance transmission (reducing energy loss) and step it down for safe household use. DC could not be easily transformed with the technology of the era.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-3",
+      "question": "What is the standard household electrical frequency in the United States?",
+      "options": [
+        "120 Hz",
+        "60 Hz",
+        "100 Hz",
+        "50 Hz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The United States uses 60 Hz as its standard electrical frequency. Most of the Americas and parts of Asia use 60 Hz, while Europe, Africa, most of Asia, and Australia use 50 Hz.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-4",
+      "question": "What is the purpose of a power transformer in the electrical grid?",
+      "options": [
+        "Converting AC to DC",
+        "Generating electricity",
+        "Changing voltage levels for transmission and distribution",
+        "Storing electricity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transformers change voltage levels in the power grid. Step-up transformers increase voltage for efficient long-distance transmission (reducing current and thus energy loss), while step-down transformers reduce voltage for safe local use.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-5",
+      "question": "The 2003 Northeast blackout affected 55 million people in the United States and Canada. What initially triggered it?",
+      "options": [
+        "A deliberate attack",
+        "A hurricane",
+        "A software bug combined with overgrown trees touching power lines",
+        "An earthquake"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 2003 Northeast blackout was initially triggered by high-voltage power lines sagging into overgrown trees in Ohio, combined with a software bug in the alarm system at FirstEnergy that prevented operators from recognizing the problem in time.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "power-grid-quiz-6",
+      "question": "What is a 'smart grid' in modern electrical engineering?",
+      "options": [
+        "An electrical grid with digital technology for two-way communication and automated management",
+        "A wireless power system",
+        "A grid powered by artificial intelligence only",
+        "A miniature personal power grid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A smart grid uses digital communication technology and sensors throughout the power network to monitor and manage electricity flow in real-time. It enables two-way communication, better demand response, and integration of renewable energy sources.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-7",
+      "question": "The first commercial power station in the world, Pearl Street Station, was opened by Edison in 1882 in which city?",
+      "options": [
+        "Boston",
+        "New York City",
+        "Chicago",
+        "Philadelphia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thomas Edison opened the Pearl Street Station in lower Manhattan, New York City, on September 4, 1882. It initially served 85 customers with 400 lamps, marking the beginning of the commercial electric power industry.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "power-grid-quiz-8",
+      "question": "High-voltage transmission lines typically carry electricity at what voltage range?",
+      "options": [
+        "Over 1 million volts",
+        "10,000-50,000 volts",
+        "115,000-765,000 volts",
+        "1,000-5,000 volts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "High-voltage transmission lines in the U.S. typically operate at voltages ranging from 115,000 to 765,000 volts (115 kV to 765 kV). Some ultra-high-voltage lines operate at even higher voltages, particularly in China and Brazil.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-9",
+      "question": "What is 'grid frequency regulation' and why is it important?",
+      "options": [
+        "Controlling how often the grid turns on and off",
+        "Setting prices for electricity",
+        "Maintaining the precise frequency (50 or 60 Hz) by balancing electricity supply and demand",
+        "Regulating the number of power plants"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Grid frequency must be maintained precisely (within fractions of a hertz) by constantly balancing electricity supply and demand. If demand exceeds supply, frequency drops; if supply exceeds demand, it rises. Deviation can damage equipment and cause blackouts.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-10",
+      "question": "What is a 'microgrid' in electrical engineering?",
+      "options": [
+        "A solar panel system",
+        "A miniature transformer",
+        "A localized group of electricity sources that can operate independently from the main grid",
+        "A very small battery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A microgrid is a localized electrical system with its own generation sources (solar, wind, generators), storage, and loads that can operate connected to the main grid or independently ('islanded') during outages.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-11",
+      "question": "The Rural Electrification Act of 1936 in the United States aimed to bring electricity to where?",
+      "options": [
+        "Major cities",
+        "Industrial factories",
+        "Rural farming communities",
+        "Military bases"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Rural Electrification Act of 1936 provided federal loans to bring electricity to rural areas where private utilities refused to serve due to low population density. By 1950, over 90% of U.S. farms had electricity, up from about 10% in 1936.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "power-grid-quiz-12",
+      "question": "What is 'load shedding' in electrical grid management?",
+      "options": [
+        "Reducing the weight of power lines",
+        "Deliberately cutting power to certain areas to prevent a total grid collapse",
+        "Lowering voltage slightly",
+        "Disconnecting unused power plants"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Load shedding is the deliberate and controlled shutdown of electricity to specific areas when demand exceeds available supply. It prevents the entire grid from collapsing and is used as a last resort during power emergencies.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-13",
+      "question": "What role do 'pumped-storage hydroelectric' plants play in the power grid?",
+      "options": [
+        "They purify water for drinking",
+        "They cool nuclear reactors",
+        "They store energy by pumping water uphill when demand is low and releasing it when demand is high",
+        "They generate power from ocean waves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pumped-storage hydroelectric plants store energy by pumping water to an upper reservoir when electricity demand (and price) is low, then releasing it through turbines when demand is high. They are the largest form of grid-scale energy storage.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-14",
+      "question": "The U.S. electrical grid is divided into three main interconnections. Which is NOT one of them?",
+      "options": [
+        "Texas (ERCOT) Interconnection",
+        "Western Interconnection",
+        "Eastern Interconnection",
+        "Central Interconnection"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The three main U.S. grid interconnections are the Eastern Interconnection, the Western Interconnection, and the Texas (ERCOT) Interconnection. There is no 'Central Interconnection.' Texas operates its own grid largely independently.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "power-grid-quiz-15",
+      "question": "What is HVDC (High-Voltage Direct Current) transmission used for in modern power grids?",
+      "options": [
+        "Local neighborhood distribution",
+        "Battery charging stations",
+        "Powering household appliances",
+        "Efficient long-distance power transmission and connecting different AC grids"
+      ],
+      "correctAnswer": 3,
+      "explanation": "HVDC transmission is used for very long-distance power transmission (where it is more efficient than AC) and for connecting AC grids that operate at different frequencies. It is also used for submarine cable connections between countries.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

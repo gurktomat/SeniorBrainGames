@@ -1,0 +1,173 @@
+{
+  "id": "animal-records-quiz",
+  "title": "Animal World Records",
+  "description": "Which animals are the fastest, tallest, heaviest, and most extreme? Find out in this record-breaking quiz!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "animal-records-quiz-1",
+      "question": "What is the fastest animal on Earth when diving?",
+      "options": [
+        "Cheetah",
+        "Sailfish",
+        "Peregrine falcon",
+        "Golden eagle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-records-quiz-2",
+      "question": "Which animal has the longest lifespan of any vertebrate?",
+      "options": [
+        "Bowhead whale",
+        "Greenland shark",
+        "Koi fish",
+        "Galápagos tortoise"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-3",
+      "question": "The African bush elephant holds the record for being the heaviest land animal. What does a large male weigh?",
+      "options": [
+        "8 tons",
+        "6 tons",
+        "4 tons",
+        "11 tons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-4",
+      "question": "Which insect has the longest migration of any insect species?",
+      "options": [
+        "Desert locust",
+        "Monarch butterfly",
+        "Dragonfly",
+        "Painted lady butterfly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-5",
+      "question": "The blue whale's heart is roughly the size of what?",
+      "options": [
+        "A refrigerator",
+        "A small car",
+        "A basketball",
+        "A golf cart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-6",
+      "question": "Which bird has the largest wingspan of any living bird?",
+      "options": [
+        "California condor",
+        "Wandering albatross",
+        "Marabou stork",
+        "Andean condor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-7",
+      "question": "The sailfish holds the record as the fastest fish. What is its top speed?",
+      "options": [
+        "80 mph",
+        "40 mph",
+        "68 mph",
+        "50 mph"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-records-quiz-8",
+      "question": "Which animal has the most powerful bite force ever measured?",
+      "options": [
+        "Great white shark",
+        "Grizzly bear",
+        "Saltwater crocodile",
+        "Hippopotamus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-records-quiz-9",
+      "question": "The flea can jump approximately how many times its own body length?",
+      "options": [
+        "50 times",
+        "20 times",
+        "100 times",
+        "150 times"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "animal-records-quiz-10",
+      "question": "Which is the loudest animal on Earth?",
+      "options": [
+        "African elephant",
+        "Sperm whale",
+        "Howler monkey",
+        "Blue whale"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-11",
+      "question": "The ostrich lays the largest egg of any living bird. How heavy can one egg be?",
+      "options": [
+        "5 pounds",
+        "3 pounds",
+        "1 pound",
+        "2 pounds"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "animal-records-quiz-12",
+      "question": "Which animal sleeps the most, averaging about 22 hours per day?",
+      "options": [
+        "Brown bat",
+        "Sloth",
+        "Koala",
+        "Cat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-records-quiz-13",
+      "question": "The mantis shrimp has the fastest strike in the animal kingdom. How fast is it?",
+      "options": [
+        "The speed of a .22 caliber bullet",
+        "100 mph",
+        "50 mph",
+        "30 mph"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "animal-records-quiz-14",
+      "question": "Which animal can regenerate its entire body from just a small piece?",
+      "options": [
+        "Gecko",
+        "Axolotl",
+        "Planarian flatworm",
+        "Starfish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "animal-records-quiz-15",
+      "question": "The cheetah can accelerate from 0 to 60 mph in approximately how many seconds?",
+      "options": [
+        "7 seconds",
+        "3 seconds",
+        "2 seconds",
+        "5 seconds"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

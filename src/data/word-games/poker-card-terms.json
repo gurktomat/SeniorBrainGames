@@ -1,0 +1,219 @@
+{
+  "id": "poker-card-terms",
+  "title": "Poker & Card Terms",
+  "description": "Put your poker face on and test your card game vocabulary!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "poker-card-terms-1",
+      "question": "In poker, what does it mean to 'bluff'?",
+      "options": [
+        "To reveal your hand early",
+        "To call every bet regardless of cards",
+        "To fold a winning hand",
+        "To bet aggressively with a weak hand to make opponents fold"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bluffing is betting or raising with a weak hand to convince opponents you have a strong hand, causing them to fold superior hands.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-2",
+      "question": "In poker, what is the 'flop'?",
+      "options": [
+        "A bad hand",
+        "The final card dealt",
+        "A failed bluff attempt",
+        "The first three community cards dealt face up in Texas Hold'em"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The flop is the first three community cards dealt face up in Texas Hold'em and Omaha poker, following the first round of betting.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-3",
+      "question": "What is a 'full house' in poker?",
+      "options": [
+        "Three of a kind plus a pair",
+        "All players still in the hand",
+        "Five cards of the same suit",
+        "Five consecutive cards"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A full house is a poker hand consisting of three cards of one rank and two cards of another rank, such as three Kings and two Sevens.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-4",
+      "question": "In poker, what does 'going all-in' mean?",
+      "options": [
+        "Playing every hand in a session",
+        "Betting all of your remaining chips on a single hand",
+        "Entering every tournament available",
+        "Joining a new table"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Going all-in means wagering all of your remaining chips on the current hand. If you lose, you are eliminated; if you win, you double up or more.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-5",
+      "question": "What is the 'river' in Texas Hold'em poker?",
+      "options": [
+        "The line of chips in the pot",
+        "The discard pile",
+        "The first card dealt to each player",
+        "The fifth and final community card"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The river is the fifth and final community card dealt in Texas Hold'em, following the flop (three cards) and the turn (fourth card).",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-6",
+      "question": "In poker, what is a 'tell'?",
+      "options": [
+        "A scoring method",
+        "A rule violation",
+        "An announcement of your hand",
+        "A subconscious behavior that reveals information about a player's hand"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tell is an unconscious action, behavior, or habit that gives away information about the strength of a player's hand, such as nervous fidgeting or a change in posture.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-7",
+      "question": "What does 'the nuts' mean in poker?",
+      "options": [
+        "A terrible hand",
+        "The chips in the center of the table",
+        "The best possible hand given the community cards",
+        "A mandatory bet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The nuts' refers to the best possible hand at any given point in a poker game, based on the community cards showing.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-8",
+      "question": "In poker, what is a 'bad beat'?",
+      "options": [
+        "Playing poorly throughout a session",
+        "A penalty for slow play",
+        "Losing a hand despite having been a strong statistical favorite",
+        "Being dealt bad cards all night"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A bad beat occurs when a player with a statistically strong hand loses to an opponent who made a lucky draw, often against the odds.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-9",
+      "question": "What are 'blinds' in poker?",
+      "options": [
+        "Cards dealt face down",
+        "Decorative covers for the card deck",
+        "Mandatory bets posted before cards are dealt",
+        "Players who cannot see their cards"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Blinds are forced bets placed by two players before any cards are dealt, consisting of the small blind and big blind, used to create action and build the pot.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-10",
+      "question": "In poker, what does it mean to 'check-raise'?",
+      "options": [
+        "Checking your cards then raising your seat",
+        "Raising the blinds between hands",
+        "Checking for marked cards",
+        "Initially checking and then raising after an opponent bets"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A check-raise is a deceptive play where a player first checks (passes) and then raises after an opponent bets, often used to trap opponents into committing more chips.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-11",
+      "question": "What is a 'straight flush' in poker?",
+      "options": [
+        "Five cards of the same suit in sequence",
+        "Four cards of the same rank",
+        "Three pairs in one hand",
+        "Five cards in sequence of different suits"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A straight flush is five consecutive cards all of the same suit, such as 5-6-7-8-9 of hearts. It is the second-highest hand, below a royal flush.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-12",
+      "question": "In poker, what does 'on tilt' mean?",
+      "options": [
+        "Leaning back in your chair",
+        "Playing emotionally and making poor decisions after a bad hand",
+        "Having an unbeatable winning streak",
+        "Tilting your cards so opponents can see them"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Being 'on tilt' means a player is making irrational, emotional decisions, usually triggered by frustration from a bad beat or losing streak.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-13",
+      "question": "What is the 'ante' in poker?",
+      "options": [
+        "The opening card in a hand",
+        "A small forced bet that all players must post before a hand",
+        "The player to the left of the dealer",
+        "The anti-cheating device"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An ante is a small mandatory bet that every player at the table must contribute before a hand is dealt, ensuring there is always something in the pot to play for.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-14",
+      "question": "In poker, what is a 'pocket pair'?",
+      "options": [
+        "Two cards hidden in your pocket",
+        "Two pairs showing on the board",
+        "A pair of jokers",
+        "Two hole cards of the same rank dealt to a player"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pocket pair refers to being dealt two hole cards (private cards) of the same rank, such as two Queens or two Fives.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "poker-card-terms-15",
+      "question": "What does 'muck' mean in poker?",
+      "options": [
+        "To clean the table",
+        "To shuffle the deck",
+        "To split the pot",
+        "To discard or fold your hand without showing it"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To muck means to fold and discard your hand face down without revealing your cards. The muck is also the pile of discarded cards.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

@@ -7,92 +7,167 @@
     {
       "id": "olympic-host-cities-1",
       "question": "Which city hosted the first modern Olympic Games in 1896?",
-      "options": ["Rome", "Paris", "Athens", "London"],
+      "options": [
+        "Rome",
+        "Paris",
+        "Athens",
+        "London"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "olympic-host-cities-2",
       "question": "The 1936 Summer Olympics, controversially held during the Nazi era, took place in which city?",
-      "options": ["Munich", "Berlin", "Vienna", "Hamburg"],
-      "correctAnswer": 1
+      "options": [
+        "Munich",
+        "Hamburg",
+        "Berlin",
+        "Vienna"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "olympic-host-cities-3",
       "question": "Which city hosted the Summer Olympics in both 1908 and 1948?",
-      "options": ["Paris", "Los Angeles", "London", "Stockholm"],
+      "options": [
+        "Paris",
+        "Stockholm",
+        "London",
+        "Los Angeles"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "olympic-host-cities-4",
       "question": "The 1964 Summer Olympics were the first to be held in Asia. Which city was the host?",
-      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
-      "correctAnswer": 2
+      "options": [
+        "Bangkok",
+        "Tokyo",
+        "Seoul",
+        "Beijing"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "olympic-host-cities-5",
       "question": "Which Australian city hosted the 2000 Summer Olympics?",
-      "options": ["Melbourne", "Sydney", "Brisbane", "Perth"],
-      "correctAnswer": 1
+      "options": [
+        "Perth",
+        "Brisbane",
+        "Melbourne",
+        "Sydney"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "olympic-host-cities-6",
       "question": "The 1980 Summer Olympics, boycotted by many Western nations, were held in which city?",
-      "options": ["East Berlin", "Warsaw", "Moscow", "Leningrad"],
-      "correctAnswer": 2
+      "options": [
+        "Moscow",
+        "Warsaw",
+        "Leningrad",
+        "East Berlin"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "olympic-host-cities-7",
       "question": "Which city hosted the 1992 Summer Olympics, featuring the famous Dream Team in basketball?",
-      "options": ["Madrid", "Barcelona", "Atlanta", "Seoul"],
-      "correctAnswer": 1
+      "options": [
+        "Barcelona",
+        "Seoul",
+        "Atlanta",
+        "Madrid"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "olympic-host-cities-8",
       "question": "The tragic 1972 Summer Olympics, marred by the Munich massacre, took place in which country?",
-      "options": ["Austria", "Switzerland", "West Germany", "East Germany"],
+      "options": [
+        "Switzerland",
+        "Austria",
+        "West Germany",
+        "East Germany"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "olympic-host-cities-9",
       "question": "Which South American city became the first on the continent to host the Summer Olympics in 2016?",
-      "options": ["Buenos Aires", "São Paulo", "Rio de Janeiro", "Lima"],
-      "correctAnswer": 2
+      "options": [
+        "Buenos Aires",
+        "Rio de Janeiro",
+        "Lima",
+        "São Paulo"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "olympic-host-cities-10",
       "question": "The 1984 Summer Olympics, boycotted by the Soviet Union, were held in which city?",
-      "options": ["New York", "Chicago", "Los Angeles", "Atlanta"],
-      "correctAnswer": 2
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Chicago",
+        "Atlanta"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "olympic-host-cities-11",
       "question": "Which Scandinavian city hosted the 1952 Summer Olympics?",
-      "options": ["Stockholm", "Oslo", "Helsinki", "Copenhagen"],
-      "correctAnswer": 2
+      "options": [
+        "Helsinki",
+        "Oslo",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "olympic-host-cities-12",
       "question": "The 2008 Summer Olympics were held in which Asian capital city?",
-      "options": ["Tokyo", "Seoul", "New Delhi", "Beijing"],
-      "correctAnswer": 3
+      "options": [
+        "New Delhi",
+        "Tokyo",
+        "Beijing",
+        "Seoul"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "olympic-host-cities-13",
       "question": "Which Canadian city hosted the Winter Olympics in 2010?",
-      "options": ["Toronto", "Montreal", "Calgary", "Vancouver"],
-      "correctAnswer": 3
+      "options": [
+        "Vancouver",
+        "Calgary",
+        "Montreal",
+        "Toronto"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "olympic-host-cities-14",
       "question": "The 1960 Summer Olympics were held in which European capital?",
-      "options": ["Athens", "Rome", "Paris", "Madrid"],
-      "correctAnswer": 1
+      "options": [
+        "Madrid",
+        "Paris",
+        "Athens",
+        "Rome"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "olympic-host-cities-15",
       "question": "Which city hosted the 2012 Summer Olympics, its third time hosting the Games?",
-      "options": ["Paris", "London", "Athens", "Los Angeles"],
-      "correctAnswer": 1
+      "options": [
+        "London",
+        "Los Angeles",
+        "Paris",
+        "Athens"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

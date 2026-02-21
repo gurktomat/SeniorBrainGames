@@ -1,0 +1,174 @@
+{
+  "id": "automotive-tools-quiz",
+  "title": "Automotive Tools Quiz",
+  "description": "How well do you know automotive tools and car maintenance equipment? Test your knowledge!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "automotive-tools-quiz-1",
+      "question": "Which tool is a cross-shaped wrench with four different socket sizes used for removing lug nuts?",
+      "options": [
+        "Socket wrench",
+        "Lug wrench (4-way wrench)",
+        "Box wrench",
+        "Torque wrench"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "automotive-tools-quiz-2",
+      "question": "What is a torque wrench used for?",
+      "options": [
+        "Loosening rusted bolts",
+        "Measuring bolt diameter",
+        "Cutting bolts",
+        "Tightening bolts to a specific, precise amount of force"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "automotive-tools-quiz-3",
+      "question": "Which tool has a ratcheting mechanism and interchangeable sockets for turning nuts and bolts?",
+      "options": [
+        "Adjustable wrench",
+        "Combination wrench",
+        "Socket wrench (ratchet)",
+        "Allen key"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "automotive-tools-quiz-4",
+      "question": "What is an OBD-II scanner used for?",
+      "options": [
+        "Measuring tire pressure",
+        "Aligning headlights",
+        "Testing battery voltage",
+        "Reading diagnostic trouble codes from a vehicle's computer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "automotive-tools-quiz-5",
+      "question": "Which tool is used to grip and turn oil filters during an oil change?",
+      "options": [
+        "Channel locks",
+        "Strap wrench",
+        "Pipe wrench",
+        "Oil filter wrench"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "automotive-tools-quiz-6",
+      "question": "What are jumper cables used for?",
+      "options": [
+        "Connecting a dead car battery to a charged one to jump-start the vehicle",
+        "Charging batteries overnight",
+        "Testing alternators",
+        "Welding metal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "automotive-tools-quiz-7",
+      "question": "Which tool is used to check the specific gravity of battery acid to test a car battery's charge?",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Multimeter",
+        "Hydrometer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "automotive-tools-quiz-8",
+      "question": "What is a breaker bar used for?",
+      "options": [
+        "Providing extra leverage to loosen very tight or seized bolts",
+        "Breaking bolts deliberately",
+        "Cutting metal bars",
+        "Measuring bolt length"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "automotive-tools-quiz-9",
+      "question": "Which specialized pliers have locking jaws that clamp onto objects and stay locked without hand pressure?",
+      "options": [
+        "Needle-nose pliers",
+        "Slip-joint pliers",
+        "Locking pliers (Vise-Grips)",
+        "Snap ring pliers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "automotive-tools-quiz-10",
+      "question": "What is a spark plug socket?",
+      "options": [
+        "A decorative plug cover",
+        "A socket for headlight bulbs",
+        "A deep socket with a rubber insert designed to grip and remove spark plugs",
+        "A socket for electrical outlets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "automotive-tools-quiz-11",
+      "question": "Which device is used to safely bleed air from brake lines when replacing brake fluid?",
+      "options": [
+        "Brake drum puller",
+        "Brake bleeder kit",
+        "Brake pad spreader",
+        "Brake caliper tool"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "automotive-tools-quiz-12",
+      "question": "What is a combination wrench?",
+      "options": [
+        "A wrench that adjusts to any size",
+        "A wrench that combines two different tools",
+        "A wrench with an open end on one side and a closed (box) end of the same size on the other",
+        "A wrench for combination locks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "automotive-tools-quiz-13",
+      "question": "Which tool is a funnel-like device used to add fluids to a car without spilling?",
+      "options": [
+        "Measuring cup",
+        "Fluid extractor",
+        "Funnel",
+        "Siphon pump"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "automotive-tools-quiz-14",
+      "question": "What is a ball joint separator (pickle fork) used for?",
+      "options": [
+        "Adjusting brake pads",
+        "Removing wheel bearings",
+        "Aligning wheels",
+        "Separating ball joints and tie rod ends from their sockets"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "automotive-tools-quiz-15",
+      "question": "Which measuring device has a dial or digital display and is used to check tire tread depth?",
+      "options": [
+        "Micrometer",
+        "Caliper",
+        "Tread depth gauge",
+        "Feeler gauge"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

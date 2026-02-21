@@ -1,0 +1,173 @@
+{
+  "id": "world-desserts-quiz",
+  "title": "World Desserts Quiz",
+  "description": "Satisfy your sweet tooth with this quiz about famous desserts from around the globe!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-desserts-quiz-1",
+      "question": "Tiramisu, meaning 'pick me up,' is a coffee-flavored dessert from which country?",
+      "options": [
+        "France",
+        "Italy",
+        "Austria",
+        "Spain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-desserts-quiz-2",
+      "question": "Baklava is a sweet pastry made with layers of phyllo dough, nuts, and syrup. It is popular in which regions?",
+      "options": [
+        "Scandinavia",
+        "East Asia",
+        "South America",
+        "Middle East and Mediterranean"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-desserts-quiz-3",
+      "question": "Crème brûlée is a French dessert distinguished by its topping of what?",
+      "options": [
+        "Whipped cream",
+        "Caramelized sugar (hard caramel crust)",
+        "Chocolate ganache",
+        "Meringue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-desserts-quiz-4",
+      "question": "Mochi is a chewy Japanese dessert made from which ingredient?",
+      "options": [
+        "Wheat flour",
+        "Tapioca starch",
+        "Pounded glutinous rice",
+        "Coconut milk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-desserts-quiz-5",
+      "question": "Which Austrian dessert is a rich chocolate cake with a thin layer of apricot jam?",
+      "options": [
+        "Dobos Torte",
+        "Black Forest Cake",
+        "Linzer Torte",
+        "Sachertorte"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-desserts-quiz-6",
+      "question": "Churros, fried dough pastries often dipped in chocolate, are a traditional treat from which country?",
+      "options": [
+        "Mexico",
+        "Portugal",
+        "Brazil",
+        "Spain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-desserts-quiz-7",
+      "question": "Which Indian dessert consists of fried dough balls soaked in sugar syrup?",
+      "options": [
+        "Barfi",
+        "Jalebi",
+        "Rasgulla",
+        "Gulab jamun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-desserts-quiz-8",
+      "question": "Pavlova, a meringue-based dessert topped with fruit and cream, is claimed by which two countries?",
+      "options": [
+        "Britain and Ireland",
+        "Australia and New Zealand",
+        "USA and Canada",
+        "France and Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-desserts-quiz-9",
+      "question": "Which Turkish dessert features thin strands of spun sugar wrapped around fillings like pistachios?",
+      "options": [
+        "Pismaniye (Turkish cotton candy/floss halva)",
+        "Künefe",
+        "Lokum (Turkish delight)",
+        "Tulumba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-desserts-quiz-10",
+      "question": "Flan (crème caramel) is a custard dessert especially popular in which cuisines?",
+      "options": [
+        "Indian and Thai",
+        "Spanish and Latin American",
+        "Chinese and Japanese",
+        "German and Polish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-desserts-quiz-11",
+      "question": "Which French dessert features choux pastry puffs stacked into a cone shape, held together with caramel?",
+      "options": [
+        "Éclair",
+        "Paris-Brest",
+        "Croquembouche",
+        "Profiteroles"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-desserts-quiz-12",
+      "question": "Tres leches cake, soaked in three types of milk, is a beloved dessert in which region?",
+      "options": [
+        "Scandinavia",
+        "Latin America",
+        "North Africa",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-desserts-quiz-13",
+      "question": "Which Portuguese dessert is a small custard tart with a flaky crust, called pastel de nata?",
+      "options": [
+        "A chocolate mousse cup",
+        "A fruit tart",
+        "A rice pudding",
+        "An egg custard tart"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-desserts-quiz-14",
+      "question": "Kanelbullar (cinnamon buns) are a beloved pastry tradition in which country?",
+      "options": [
+        "Denmark",
+        "Finland",
+        "Sweden",
+        "Norway"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-desserts-quiz-15",
+      "question": "Which classic British dessert features sponge cake, custard, fruit, jelly, and whipped cream layered in a glass bowl?",
+      "options": [
+        "Spotted dick",
+        "Eton mess",
+        "Trifle",
+        "Sticky toffee pudding"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

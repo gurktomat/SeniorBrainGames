@@ -7,7 +7,12 @@
     {
       "id": "capitals-1",
       "question": "What is the capital city of France?",
-      "options": ["Marseille", "Lyon", "Paris", "Nice"],
+      "options": [
+        "Nice",
+        "Lyon",
+        "Paris",
+        "Marseille"
+      ],
       "correctAnswer": 2,
       "explanation": "Paris has been the capital of France since the 10th century. Known as the 'City of Light,' it is home to the Eiffel Tower and the Louvre.",
       "difficulty": "easy",
@@ -16,7 +21,12 @@
     {
       "id": "capitals-2",
       "question": "What is the capital city of Japan?",
-      "options": ["Osaka", "Kyoto", "Hiroshima", "Tokyo"],
+      "options": [
+        "Kyoto",
+        "Hiroshima",
+        "Osaka",
+        "Tokyo"
+      ],
       "correctAnswer": 3,
       "explanation": "Tokyo became Japan's capital in 1868 when the emperor moved there from Kyoto. It is the most populous metropolitan area in the world.",
       "difficulty": "easy",
@@ -25,8 +35,13 @@
     {
       "id": "capitals-3",
       "question": "What is the capital city of Australia?",
-      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-      "correctAnswer": 2,
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "correctAnswer": 1,
       "explanation": "Canberra was purpose-built as the capital in 1913 because Sydney and Melbourne could not agree on which city should hold the title.",
       "difficulty": "medium",
       "category": "geography"
@@ -34,8 +49,13 @@
     {
       "id": "capitals-4",
       "question": "What is the capital city of Brazil?",
-      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
-      "correctAnswer": 2,
+      "options": [
+        "Brasília",
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correctAnswer": 0,
       "explanation": "Brasília replaced Rio de Janeiro as the capital in 1960. It was designed by architect Oscar Niemeyer and urban planner Lúcio Costa.",
       "difficulty": "medium",
       "category": "geography"
@@ -43,8 +63,13 @@
     {
       "id": "capitals-5",
       "question": "What is the capital city of Egypt?",
-      "options": ["Alexandria", "Cairo", "Luxor", "Giza"],
-      "correctAnswer": 1,
+      "options": [
+        "Alexandria",
+        "Giza",
+        "Cairo",
+        "Luxor"
+      ],
+      "correctAnswer": 2,
       "explanation": "Cairo is the largest city in Africa and the Arab world. It sits along the Nile River, near the ancient pyramids of Giza.",
       "difficulty": "easy",
       "category": "geography"
@@ -52,8 +77,13 @@
     {
       "id": "capitals-6",
       "question": "What is the capital city of Canada?",
-      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
-      "correctAnswer": 3,
+      "options": [
+        "Montreal",
+        "Ottawa",
+        "Vancouver",
+        "Toronto"
+      ],
+      "correctAnswer": 1,
       "explanation": "Ottawa was chosen as the capital by Queen Victoria in 1857. Many people mistakenly think Toronto or Montreal is the capital.",
       "difficulty": "medium",
       "category": "geography"
@@ -61,8 +91,13 @@
     {
       "id": "capitals-7",
       "question": "What is the capital city of India?",
-      "options": ["Mumbai", "New Delhi", "Kolkata", "Bangalore"],
-      "correctAnswer": 1,
+      "options": [
+        "New Delhi",
+        "Bangalore",
+        "Mumbai",
+        "Kolkata"
+      ],
+      "correctAnswer": 0,
       "explanation": "New Delhi was inaugurated as India's capital in 1931, replacing Calcutta. It was designed by British architects Edwin Lutyens and Herbert Baker.",
       "difficulty": "easy",
       "category": "geography"
@@ -70,7 +105,12 @@
     {
       "id": "capitals-8",
       "question": "What is the capital city of South Korea?",
-      "options": ["Busan", "Seoul", "Incheon", "Daegu"],
+      "options": [
+        "Busan",
+        "Seoul",
+        "Daegu",
+        "Incheon"
+      ],
       "correctAnswer": 1,
       "explanation": "Seoul has been the capital of Korea for over 600 years since the Joseon Dynasty. Its name means 'capital' in Korean.",
       "difficulty": "easy",
@@ -79,7 +119,12 @@
     {
       "id": "capitals-9",
       "question": "What is the capital city of Argentina?",
-      "options": ["Córdoba", "Mendoza", "Buenos Aires", "Rosario"],
+      "options": [
+        "Rosario",
+        "Córdoba",
+        "Buenos Aires",
+        "Mendoza"
+      ],
       "correctAnswer": 2,
       "explanation": "Buenos Aires means 'good airs' or 'fair winds' in Spanish. It is often called the 'Paris of South America' for its European-style architecture.",
       "difficulty": "medium",
@@ -88,7 +133,12 @@
     {
       "id": "capitals-10",
       "question": "What is the capital city of South Africa's executive branch?",
-      "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+      "options": [
+        "Cape Town",
+        "Johannesburg",
+        "Pretoria",
+        "Durban"
+      ],
       "correctAnswer": 2,
       "explanation": "South Africa uniquely has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial).",
       "difficulty": "hard",
@@ -97,7 +147,12 @@
     {
       "id": "capitals-11",
       "question": "What is the capital city of Thailand?",
-      "options": ["Chiang Mai", "Phuket", "Bangkok", "Pattaya"],
+      "options": [
+        "Pattaya",
+        "Chiang Mai",
+        "Bangkok",
+        "Phuket"
+      ],
       "correctAnswer": 2,
       "explanation": "Bangkok's full ceremonial name is the longest city name in the world at 168 letters! Locals often call it 'Krung Thep,' meaning 'City of Angels.'",
       "difficulty": "medium",
@@ -106,8 +161,13 @@
     {
       "id": "capitals-12",
       "question": "What is the capital city of Norway?",
-      "options": ["Bergen", "Oslo", "Stavanger", "Tromsø"],
-      "correctAnswer": 1,
+      "options": [
+        "Oslo",
+        "Bergen",
+        "Stavanger",
+        "Tromsø"
+      ],
+      "correctAnswer": 0,
       "explanation": "Oslo has been Norway's capital since 1814. It was known as Christiania from 1624 to 1925 before reverting to its original Viking-era name.",
       "difficulty": "medium",
       "category": "geography"
@@ -115,8 +175,13 @@
     {
       "id": "capitals-13",
       "question": "What is the capital city of Turkey?",
-      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
-      "correctAnswer": 1,
+      "options": [
+        "Izmir",
+        "Antalya",
+        "Ankara",
+        "Istanbul"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ankara became Turkey's capital in 1923 when the Republic was founded by Atatürk. Istanbul, though larger, serves as the cultural and economic hub.",
       "difficulty": "hard",
       "category": "geography"
@@ -124,8 +189,13 @@
     {
       "id": "capitals-14",
       "question": "What is the capital city of New Zealand?",
-      "options": ["Auckland", "Christchurch", "Wellington", "Queenstown"],
-      "correctAnswer": 2,
+      "options": [
+        "Christchurch",
+        "Wellington",
+        "Auckland",
+        "Queenstown"
+      ],
+      "correctAnswer": 1,
       "explanation": "Wellington became New Zealand's capital in 1865 due to its central location. It is the world's southernmost capital of a sovereign state.",
       "difficulty": "hard",
       "category": "geography"
@@ -133,8 +203,13 @@
     {
       "id": "capitals-15",
       "question": "What is the capital city of Peru?",
-      "options": ["Cusco", "Arequipa", "Lima", "Trujillo"],
-      "correctAnswer": 2,
+      "options": [
+        "Lima",
+        "Arequipa",
+        "Cusco",
+        "Trujillo"
+      ],
+      "correctAnswer": 0,
       "explanation": "Lima was founded by Spanish conquistador Francisco Pizarro in 1535. It is home to one of the oldest universities in the Americas, founded in 1551.",
       "difficulty": "hard",
       "category": "geography"

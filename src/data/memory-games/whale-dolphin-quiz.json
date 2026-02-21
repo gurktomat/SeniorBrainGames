@@ -7,92 +7,167 @@
     {
       "id": "whale-dolphin-quiz-1",
       "question": "Which marine mammal is the largest animal ever known to have lived on Earth, reaching lengths of up to 100 feet and weighing as much as 200 tons?",
-      "options": ["Humpback Whale", "Fin Whale", "Blue Whale", "Sperm Whale"],
-      "correctAnswer": 2
+      "options": [
+        "Blue Whale",
+        "Sperm Whale",
+        "Fin Whale",
+        "Humpback Whale"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "whale-dolphin-quiz-2",
       "question": "Which whale is known for its long, complex songs that can travel thousands of miles through the ocean and for its spectacular breaching behavior?",
-      "options": ["Gray Whale", "Humpback Whale", "Minke Whale", "Bowhead Whale"],
-      "correctAnswer": 1
+      "options": [
+        "Bowhead Whale",
+        "Gray Whale",
+        "Humpback Whale",
+        "Minke Whale"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "whale-dolphin-quiz-3",
       "question": "Which toothed whale has the largest brain of any animal and was famously featured in Herman Melville's novel 'Moby-Dick'?",
-      "options": ["Sperm Whale", "Beluga Whale", "Pilot Whale", "Beaked Whale"],
+      "options": [
+        "Sperm Whale",
+        "Pilot Whale",
+        "Beaked Whale",
+        "Beluga Whale"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "whale-dolphin-quiz-4",
       "question": "Which small, white whale is sometimes called the 'canary of the sea' because of its wide range of vocalizations including clicks, whistles, and chirps?",
-      "options": ["Narwhal", "Beluga Whale", "Irrawaddy Dolphin", "Amazon River Dolphin"],
+      "options": [
+        "Irrawaddy Dolphin",
+        "Beluga Whale",
+        "Amazon River Dolphin",
+        "Narwhal"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "whale-dolphin-quiz-5",
       "question": "Which Arctic whale has a long, spiral tusk that can grow up to 10 feet, earning it the nickname 'unicorn of the sea'?",
-      "options": ["Beluga Whale", "Bowhead Whale", "Narwhal", "Blue Whale"],
-      "correctAnswer": 2
+      "options": [
+        "Bowhead Whale",
+        "Narwhal",
+        "Blue Whale",
+        "Beluga Whale"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "whale-dolphin-quiz-6",
       "question": "Which is the fastest dolphin species, capable of swimming at speeds up to 20 miles per hour, and is commonly seen riding the bow waves of boats?",
-      "options": ["Spinner Dolphin", "Common Dolphin", "Bottlenose Dolphin", "Striped Dolphin"],
-      "correctAnswer": 1
+      "options": [
+        "Spinner Dolphin",
+        "Bottlenose Dolphin",
+        "Striped Dolphin",
+        "Common Dolphin"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "whale-dolphin-quiz-7",
       "question": "Which dolphin is actually the largest member of the oceanic dolphin family, known for its black-and-white coloring and hunting in coordinated pods?",
-      "options": ["Pilot Whale", "Orca (Killer Whale)", "False Killer Whale", "Risso's Dolphin"],
-      "correctAnswer": 1
+      "options": [
+        "Risso's Dolphin",
+        "False Killer Whale",
+        "Orca (Killer Whale)",
+        "Pilot Whale"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "whale-dolphin-quiz-8",
       "question": "Which whale is known for its extremely long migrations, traveling up to 12,000 miles round trip between Arctic feeding grounds and Mexican breeding lagoons?",
-      "options": ["Humpback Whale", "Minke Whale", "Gray Whale", "Right Whale"],
-      "correctAnswer": 2
+      "options": [
+        "Gray Whale",
+        "Humpback Whale",
+        "Right Whale",
+        "Minke Whale"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "whale-dolphin-quiz-9",
       "question": "Which dolphin is famous for its acrobatic spinning leaps, rotating up to seven times on a single jump out of the water?",
-      "options": ["Bottlenose Dolphin", "Dusky Dolphin", "Spinner Dolphin", "Pacific White-Sided Dolphin"],
-      "correctAnswer": 2
+      "options": [
+        "Spinner Dolphin",
+        "Bottlenose Dolphin",
+        "Dusky Dolphin",
+        "Pacific White-Sided Dolphin"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "whale-dolphin-quiz-10",
       "question": "Which whale has a distinctive pink coloration and lives exclusively in freshwater rivers of South America, including the Amazon?",
-      "options": ["Beluga Whale", "Irrawaddy Dolphin", "Yangtze River Dolphin", "Amazon River Dolphin"],
-      "correctAnswer": 3
+      "options": [
+        "Beluga Whale",
+        "Irrawaddy Dolphin",
+        "Amazon River Dolphin",
+        "Yangtze River Dolphin"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "whale-dolphin-quiz-11",
       "question": "Which baleen whale is the second-largest animal on Earth, identifiable by its asymmetrical coloring — dark on the left jaw and white on the right?",
-      "options": ["Sei Whale", "Blue Whale", "Fin Whale", "Bryde's Whale"],
-      "correctAnswer": 2
+      "options": [
+        "Blue Whale",
+        "Fin Whale",
+        "Bryde's Whale",
+        "Sei Whale"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "whale-dolphin-quiz-12",
       "question": "Which Arctic whale can live over 200 years, making it one of the longest-lived mammals, and has an extremely thick skull used to break through sea ice?",
-      "options": ["Narwhal", "Gray Whale", "Beluga Whale", "Bowhead Whale"],
-      "correctAnswer": 3
+      "options": [
+        "Bowhead Whale",
+        "Narwhal",
+        "Gray Whale",
+        "Beluga Whale"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "whale-dolphin-quiz-13",
       "question": "Which dolphin species is the most commonly seen in aquariums and marine parks, known for its curved mouth that gives it a permanent 'smile'?",
-      "options": ["Common Dolphin", "Bottlenose Dolphin", "Spinner Dolphin", "Spotted Dolphin"],
-      "correctAnswer": 1
+      "options": [
+        "Spinner Dolphin",
+        "Common Dolphin",
+        "Spotted Dolphin",
+        "Bottlenose Dolphin"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "whale-dolphin-quiz-14",
       "question": "Which small porpoise is the most endangered cetacean in the world, with fewer than 10 individuals remaining in Mexico's Gulf of California?",
-      "options": ["Hector's Dolphin", "Maui's Dolphin", "Vaquita", "Harbour Porpoise"],
-      "correctAnswer": 2
+      "options": [
+        "Harbour Porpoise",
+        "Vaquita",
+        "Hector's Dolphin",
+        "Maui's Dolphin"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "whale-dolphin-quiz-15",
       "question": "Which large whale was hunted nearly to extinction for the oil in its head cavity, which was used for lamp fuel and lubricants in the 18th and 19th centuries?",
-      "options": ["Blue Whale", "Right Whale", "Sperm Whale", "Gray Whale"],
-      "correctAnswer": 2
+      "options": [
+        "Sperm Whale",
+        "Right Whale",
+        "Gray Whale",
+        "Blue Whale"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

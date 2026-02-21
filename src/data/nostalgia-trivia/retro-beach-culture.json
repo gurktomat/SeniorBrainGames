@@ -7,92 +7,167 @@
     {
       "id": "retro-beach-culture-1",
       "question": "Which duo starred in a series of 'Beach Party' movies in the 1960s, starting with the 1963 original?",
-      "options": ["Elvis Presley and Ann-Margret", "Frankie Avalon and Annette Funicello", "Troy Donahue and Sandra Dee", "Tab Hunter and Debbie Reynolds"],
-      "correctAnswer": 1
+      "options": [
+        "Elvis Presley and Ann-Margret",
+        "Tab Hunter and Debbie Reynolds",
+        "Troy Donahue and Sandra Dee",
+        "Frankie Avalon and Annette Funicello"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-2",
       "question": "Which band, led by Brian Wilson, became synonymous with California surf culture and songs like 'Surfin' U.S.A.'?",
-      "options": ["Jan and Dean", "The Beach Boys", "The Ventures", "Dick Dale and the Del-Tones"],
-      "correctAnswer": 1
+      "options": [
+        "Dick Dale and the Del-Tones",
+        "The Ventures",
+        "Jan and Dean",
+        "The Beach Boys"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-3",
       "question": "What was the name of the 1959 Sandra Dee film that helped popularize the image of the California beach girl?",
-      "options": ["Beach Blanket Bingo", "Gidget", "Blue Hawaii", "Where the Boys Are"],
-      "correctAnswer": 1
+      "options": [
+        "Where the Boys Are",
+        "Blue Hawaii",
+        "Beach Blanket Bingo",
+        "Gidget"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-4",
       "question": "Which guitarist, known as the 'King of the Surf Guitar,' recorded the iconic instrumental 'Misirlou' in 1962?",
-      "options": ["Duane Eddy", "Link Wray", "Dick Dale", "The Chantays"],
-      "correctAnswer": 2
+      "options": [
+        "Link Wray",
+        "The Chantays",
+        "Duane Eddy",
+        "Dick Dale"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-5",
       "question": "In the Beach Boys' hit 'Surfer Girl,' Brian Wilson sings about a girl doing what at the beach?",
-      "options": ["Dancing on the sand", "Sitting on the shore", "Surfing the waves", "Walking by the sea"],
-      "correctAnswer": 2
+      "options": [
+        "Dancing on the sand",
+        "Sitting on the shore",
+        "Walking by the sea",
+        "Surfing the waves"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-6",
       "question": "Which 1961 Elvis Presley film is set in Hawaii and features the hit song 'Can't Help Falling in Love'?",
-      "options": ["Fun in Acapulco", "Blue Hawaii", "Paradise, Hawaiian Style", "Girls! Girls! Girls!"],
-      "correctAnswer": 1
+      "options": [
+        "Blue Hawaii",
+        "Paradise, Hawaiian Style",
+        "Fun in Acapulco",
+        "Girls! Girls! Girls!"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-beach-culture-7",
       "question": "What type of two-piece swimsuit, named after a Pacific atoll, caused a sensation when it debuted in 1946?",
-      "options": ["Tankini", "Bikini", "Monokini", "Bandeau"],
+      "options": [
+        "Tankini",
+        "Bikini",
+        "Monokini",
+        "Bandeau"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-beach-culture-8",
       "question": "Which popular 1960s toy was a lightweight disc that people threw to each other on the beach?",
-      "options": ["Hula Hoop", "Frisbee", "Boomerang", "Paddle Ball"],
-      "correctAnswer": 1
+      "options": [
+        "Hula Hoop",
+        "Paddle Ball",
+        "Frisbee",
+        "Boomerang"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-beach-culture-9",
       "question": "The surf culture of the 1960s was centered mainly around which U.S. state?",
-      "options": ["Florida", "Hawaii", "California", "New Jersey"],
+      "options": [
+        "Florida",
+        "Hawaii",
+        "California",
+        "New Jersey"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-beach-culture-10",
       "question": "Jan and Dean had a number-one hit in 1963 about a famous California surfing spot. What was the song called?",
-      "options": ["Surf City", "Sidewalk Surfin'", "Dead Man's Curve", "The Little Old Lady from Pasadena"],
+      "options": [
+        "Surf City",
+        "Dead Man's Curve",
+        "Sidewalk Surfin'",
+        "The Little Old Lady from Pasadena"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "retro-beach-culture-11",
       "question": "Which 1966 documentary film by Bruce Brown followed two surfers traveling the world in search of the perfect wave?",
-      "options": ["Big Wednesday", "North Shore", "The Endless Summer", "Riding Giants"],
-      "correctAnswer": 2
+      "options": [
+        "The Endless Summer",
+        "North Shore",
+        "Riding Giants",
+        "Big Wednesday"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-beach-culture-12",
       "question": "What type of long, flat surfboard was most commonly used by surfers in the early 1960s?",
-      "options": ["Shortboard", "Longboard", "Bodyboard", "Fish board"],
-      "correctAnswer": 1
+      "options": [
+        "Bodyboard",
+        "Shortboard",
+        "Fish board",
+        "Longboard"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-beach-culture-13",
       "question": "Which brand of suntan lotion featured a little girl having her swimsuit pulled down by a dog in its advertisements?",
-      "options": ["Hawaiian Tropic", "Bain de Soleil", "Coppertone", "Sea & Ski"],
+      "options": [
+        "Hawaiian Tropic",
+        "Sea & Ski",
+        "Coppertone",
+        "Bain de Soleil"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-beach-culture-14",
       "question": "What was the name of the popular Volkswagen vehicle that became an icon of 1960s beach and surf culture?",
-      "options": ["The Beetle", "The VW Bus (Microbus)", "The Karmann Ghia", "The Thing"],
-      "correctAnswer": 1
+      "options": [
+        "The Karmann Ghia",
+        "The Thing",
+        "The VW Bus (Microbus)",
+        "The Beetle"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-beach-culture-15",
       "question": "Which 1960 film starring Connie Francis and George Hamilton follows college students heading to Fort Lauderdale for spring break?",
-      "options": ["Beach Party", "Where the Boys Are", "Palm Springs Weekend", "Muscle Beach Party"],
-      "correctAnswer": 1
+      "options": [
+        "Where the Boys Are",
+        "Muscle Beach Party",
+        "Beach Party",
+        "Palm Springs Weekend"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

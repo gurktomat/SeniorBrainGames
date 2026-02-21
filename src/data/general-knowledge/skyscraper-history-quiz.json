@@ -1,0 +1,219 @@
+{
+  "id": "skyscraper-history-quiz",
+  "title": "Skyscraper History",
+  "description": "How much do you know about the towering achievements of skyscraper engineering?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "skyscraper-history-quiz-1",
+      "question": "Which building, completed in 2010, is currently the world's tallest skyscraper at 828 meters?",
+      "options": [
+        "One World Trade Center",
+        "Taipei 101",
+        "Shanghai Tower",
+        "Burj Khalifa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Burj Khalifa in Dubai, UAE, stands at 828 meters (2,717 feet) with 163 floors. Designed by Adrian Smith of Skidmore, Owings & Merrill, it surpassed the previous record holder, Taipei 101.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-2",
+      "question": "The Home Insurance Building in Chicago, often considered the world's first skyscraper, was built in which year?",
+      "options": [
+        "1871",
+        "1885",
+        "1901",
+        "1893"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Home Insurance Building, completed in 1885 in Chicago, is widely considered the first skyscraper. It was the first building to use a steel structural frame to bear the weight of the building rather than just load-bearing walls.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-3",
+      "question": "The Empire State Building held the record as the world's tallest building for how many years?",
+      "options": [
+        "25 years",
+        "50 years",
+        "40 years",
+        "30 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Empire State Building was the world's tallest building for approximately 40 years, from its completion in 1931 until the World Trade Center's North Tower surpassed it in 1970.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-4",
+      "question": "What structural innovation made tall skyscrapers possible by eliminating the need for extremely thick load-bearing walls?",
+      "options": [
+        "Steel frame construction",
+        "Pre-stressed concrete",
+        "Reinforced concrete",
+        "Glass curtain walls"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Steel frame construction was the key innovation that made skyscrapers possible. Instead of relying on thick masonry walls to support the building's weight, a steel skeleton bore the loads, allowing buildings to rise much taller.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-5",
+      "question": "Which architect designed the Chrysler Building, famous for its Art Deco stainless steel crown?",
+      "options": [
+        "Frank Lloyd Wright",
+        "William Van Alen",
+        "Raymond Hood",
+        "Ludwig Mies van der Rohe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "William Van Alen designed the Chrysler Building, completed in 1930 in New York City. Its distinctive Art Deco crown with triangular windows and stainless steel cladding makes it one of the most recognizable skyscrapers in the world.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-6",
+      "question": "What is the purpose of a tuned mass damper in a skyscraper?",
+      "options": [
+        "Reduce swaying caused by wind and earthquakes",
+        "Generate electricity",
+        "Support the foundation",
+        "Improve elevator speed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A tuned mass damper is a large pendulum or mass system installed near the top of a skyscraper to counteract building sway caused by wind and seismic activity. Taipei 101 has a famous 730-ton tuned mass damper on display.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-7",
+      "question": "The Petronas Towers in Kuala Lumpur, Malaysia, were the world's tallest buildings from 1998 to 2004. Who designed them?",
+      "options": [
+        "Renzo Piano",
+        "Cesar Pelli",
+        "I.M. Pei",
+        "Norman Foster"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Argentine-American architect Cesar Pelli designed the Petronas Towers, which stand at 452 meters. The twin towers are connected by a sky bridge at the 41st and 42nd floors and feature Islamic geometric patterns.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-8",
+      "question": "Which city is home to the most skyscrapers (buildings over 150 meters) in the world?",
+      "options": [
+        "New York City",
+        "Hong Kong",
+        "Dubai",
+        "Shanghai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hong Kong has the most skyscrapers of any city in the world, with over 500 buildings exceeding 150 meters in height. The city's limited land area and hilly terrain drove vertical construction.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-9",
+      "question": "The Flatiron Building in New York City, completed in 1902, is famous for its unusual what?",
+      "options": [
+        "Triangular shape",
+        "Height",
+        "Rotating floors",
+        "Underground levels"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Flatiron Building is famous for its distinctive triangular shape, designed by Daniel Burnham to fit the triangular block formed by Broadway, Fifth Avenue, and 22nd Street. It is only 6 feet wide at its narrowest point.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-10",
+      "question": "What is a 'supertall' skyscraper, according to the Council on Tall Buildings and Urban Habitat?",
+      "options": [
+        "Over 300 meters",
+        "Over 200 meters",
+        "Over 400 meters",
+        "Over 500 meters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Council on Tall Buildings and Urban Habitat defines a 'supertall' building as one exceeding 300 meters (984 feet) in height. Buildings over 600 meters are classified as 'megatall.'",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-11",
+      "question": "The Willis Tower (formerly Sears Tower) in Chicago features which distinctive structural system?",
+      "options": [
+        "Diagrid",
+        "Single tube",
+        "Bundled tube",
+        "Outrigger"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Willis Tower, designed by Fazlur Rahman Khan, uses a bundled tube structural system consisting of nine square tubes of different heights bundled together. This innovative design was more efficient than a single tube for tall buildings.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-12",
+      "question": "Which engineer is often called the 'father of tubular designs' for his revolutionary skyscraper structural systems?",
+      "options": [
+        "William Le Baron Jenney",
+        "Fazlur Rahman Khan",
+        "Othmar Ammann",
+        "Leslie Robertson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fazlur Rahman Khan, a Bangladeshi-American structural engineer at SOM, revolutionized skyscraper design with his tubular structural systems. He designed the John Hancock Center and the Sears Tower (now Willis Tower).",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-13",
+      "question": "The Shanghai Tower, China's tallest building, features what distinctive exterior design element?",
+      "options": [
+        "A rotating spire",
+        "A pyramid shape",
+        "External buttresses",
+        "A twisting form that rotates 120 degrees"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Shanghai Tower features a twisting form that rotates 120 degrees as it rises 632 meters. This twist reduces wind loads on the building by 24%, which significantly decreased the amount of structural material needed.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "skyscraper-history-quiz-14",
+      "question": "One World Trade Center in New York City rises to a symbolic height of how many feet?",
+      "options": [
+        "1,500 feet",
+        "1,368 feet",
+        "1,900 feet",
+        "1,776 feet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "One World Trade Center rises to a symbolic 1,776 feet (541 meters), a reference to the year 1776 when the Declaration of Independence was signed. It opened in 2014 and is the tallest building in the Western Hemisphere.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "skyscraper-history-quiz-15",
+      "question": "What safety innovation did Elisha Otis demonstrate at the 1854 Crystal Palace exhibition that made skyscrapers practical?",
+      "options": [
+        "Emergency escape chutes",
+        "Fireproof stairwells",
+        "Sprinkler systems",
+        "Safety elevator with automatic brakes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Elisha Otis demonstrated his safety elevator at the 1854 Crystal Palace in New York, showing that if the hoisting cable broke, a safety mechanism would prevent the elevator from falling. This made tall buildings practical for occupants.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

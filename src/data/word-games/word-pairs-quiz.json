@@ -8,8 +8,13 @@
     {
       "id": "wp-1",
       "question": "Which word naturally pairs with 'bread' in a common English expression?",
-      "options": ["Cake", "Butter", "Water", "Cheese"],
-      "correctAnswer": 1,
+      "options": [
+        "Cheese",
+        "Water",
+        "Cake",
+        "Butter"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Bread and butter' is one of the most common word pairs in English, referring both to the food and metaphorically to one's livelihood or basic source of income.",
       "difficulty": "easy",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "wp-2",
       "question": "Complete the common pair: 'salt and ___'?",
-      "options": ["Sugar", "Vinegar", "Pepper", "Water"],
-      "correctAnswer": 2,
+      "options": [
+        "Water",
+        "Pepper",
+        "Sugar",
+        "Vinegar"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Salt and pepper' is an inseparable word pair. These two seasonings have been paired together for centuries and the phrase is also used to describe a mix of black and gray hair.",
       "difficulty": "easy",
       "category": "language"
@@ -26,8 +36,13 @@
     {
       "id": "wp-3",
       "question": "Which word completes the pair: 'trial and ___'?",
-      "options": ["Tribulation", "Error", "Judgment", "Justice"],
-      "correctAnswer": 1,
+      "options": [
+        "Judgment",
+        "Justice",
+        "Tribulation",
+        "Error"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Trial and error' is a common word pair meaning a method of reaching a solution by trying various means and noting failures. It has been used in English since the 1800s.",
       "difficulty": "easy",
       "category": "language"
@@ -35,7 +50,12 @@
     {
       "id": "wp-4",
       "question": "Complete the word pair: 'pros and ___'?",
-      "options": ["Losses", "Cons", "Wins", "Gains"],
+      "options": [
+        "Gains",
+        "Cons",
+        "Losses",
+        "Wins"
+      ],
       "correctAnswer": 1,
       "explanation": "'Pros and cons' is a standard word pair used when weighing advantages and disadvantages. It comes from the Latin 'pro et contra' meaning 'for and against.'",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "wp-5",
       "question": "Which word pairs with 'black' in a common expression about injury?",
-      "options": ["Red", "Blue", "White", "Purple"],
-      "correctAnswer": 1,
+      "options": [
+        "Blue",
+        "Purple",
+        "White",
+        "Red"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Black and blue' is a common word pair describing the colors of a bruise. It has been used in English since at least the 13th century.",
       "difficulty": "easy",
       "category": "language"
@@ -53,8 +78,13 @@
     {
       "id": "wp-6",
       "question": "Complete the pair: 'aches and ___'?",
-      "options": ["Breaks", "Hurts", "Pains", "Fevers"],
-      "correctAnswer": 2,
+      "options": [
+        "Hurts",
+        "Pains",
+        "Fevers",
+        "Breaks"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Aches and pains' is a common word pair referring to various minor physical discomforts. The two words reinforce each other's meaning.",
       "difficulty": "medium",
       "category": "language"
@@ -62,8 +92,13 @@
     {
       "id": "wp-7",
       "question": "Which word completes this pair: 'wear and ___'?",
-      "options": ["Rip", "Tear", "Break", "Fade"],
-      "correctAnswer": 1,
+      "options": [
+        "Rip",
+        "Fade",
+        "Break",
+        "Tear"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Wear and tear' refers to damage that naturally occurs from ordinary use over time. It is commonly used in legal and insurance contexts.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "wp-8",
       "question": "Complete the word pair: 'nook and ___'?",
-      "options": ["Corner", "Cranny", "Crevice", "Crack"],
-      "correctAnswer": 1,
+      "options": [
+        "Crevice",
+        "Crack",
+        "Corner",
+        "Cranny"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Nook and cranny' means every part or aspect of a place. A nook is a corner or recess, while a cranny is a small narrow opening or crack.",
       "difficulty": "medium",
       "category": "language"
@@ -80,7 +120,12 @@
     {
       "id": "wp-9",
       "question": "Which word pairs with 'hue' in a common expression?",
-      "options": ["Color", "Cry", "Shade", "Tone"],
+      "options": [
+        "Shade",
+        "Cry",
+        "Color",
+        "Tone"
+      ],
       "correctAnswer": 1,
       "explanation": "'Hue and cry' is a word pair meaning a loud public outcry. It originated in Anglo-Norman law, where it referred to the call for the pursuit of a criminal.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "wp-10",
       "question": "Complete the pair: 'part and ___'?",
-      "options": ["Portion", "Piece", "Parcel", "Package"],
-      "correctAnswer": 2,
+      "options": [
+        "Parcel",
+        "Portion",
+        "Piece",
+        "Package"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Part and parcel' means an essential or integral component of something. The word 'parcel' here has the older meaning of 'part,' so the phrase is almost a redundancy for emphasis.",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "wp-11",
       "question": "Which word completes: 'wax and ___'?",
-      "options": ["Wane", "Shine", "Polish", "Melt"],
-      "correctAnswer": 0,
+      "options": [
+        "Polish",
+        "Melt",
+        "Shine",
+        "Wane"
+      ],
+      "correctAnswer": 3,
       "explanation": "'Wax and wane' means to increase and decrease. Originally used to describe the phases of the moon, it now describes anything that fluctuates over time.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "wp-12",
       "question": "Complete the pair: 'flotsam and ___'?",
-      "options": ["Wreckage", "Debris", "Jetsam", "Salvage"],
-      "correctAnswer": 2,
+      "options": [
+        "Wreckage",
+        "Jetsam",
+        "Salvage",
+        "Debris"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Flotsam and jetsam' originally referred to maritime law: flotsam is wreckage found floating, while jetsam is cargo deliberately thrown overboard. Together they mean odds and ends or discarded items.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "wp-13",
       "question": "Which word pairs with 'beck' in an old English expression?",
-      "options": ["Call", "Wave", "Nod", "Whistle"],
-      "correctAnswer": 0,
+      "options": [
+        "Nod",
+        "Whistle",
+        "Call",
+        "Wave"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Beck and call' means ready to obey someone's orders immediately. 'Beck' is an archaic word meaning a gesture of command, essentially a shortened form of 'beckon.'",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "wp-14",
       "question": "Complete the word pair: 'vim and ___'?",
-      "options": ["Verve", "Vigor", "Vitality", "Value"],
-      "correctAnswer": 1,
+      "options": [
+        "Verve",
+        "Value",
+        "Vigor",
+        "Vitality"
+      ],
+      "correctAnswer": 2,
       "explanation": "'Vim and vigor' means energy and enthusiasm. 'Vim' comes from the Latin 'vis' meaning force or energy, while 'vigor' comes from the Latin 'vigere' meaning to thrive.",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "wp-15",
       "question": "Which word completes: 'kith and ___'?",
-      "options": ["Kind", "Kin", "King", "Kit"],
+      "options": [
+        "Kind",
+        "Kin",
+        "King",
+        "Kit"
+      ],
       "correctAnswer": 1,
       "explanation": "'Kith and kin' means friends and relatives. 'Kith' is an Old English word meaning acquaintances or friends, while 'kin' means family or relatives.",
       "difficulty": "hard",

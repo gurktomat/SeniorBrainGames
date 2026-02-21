@@ -1,0 +1,219 @@
+{
+  "id": "revolutionary-leaders-quiz",
+  "title": "Revolutionary Leaders Quiz",
+  "description": "Can you recall the leaders who sparked revolutions and changed the course of history?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "revolutionary-leaders-quiz-1",
+      "question": "Who was the principal author of the Declaration of Independence?",
+      "options": [
+        "Benjamin Franklin",
+        "James Madison",
+        "John Adams",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence, drafted in June 1776.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-2",
+      "question": "Which leader of the French Revolution was known as 'The Incorruptible'?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Jean-Paul Marat",
+        "Georges Danton",
+        "Maximilien Robespierre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Maximilien Robespierre earned the nickname 'The Incorruptible' for his rigid adherence to his principles, though he oversaw the Reign of Terror.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-3",
+      "question": "Who led the Haitian Revolution, the only successful slave revolt in history?",
+      "options": [
+        "Henri Christophe",
+        "Alexandre Pétion",
+        "Toussaint Louverture",
+        "Jean-Jacques Dessalines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Toussaint Louverture was the most prominent leader of the Haitian Revolution, which began in 1791 and led to Haiti's independence in 1804.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-4",
+      "question": "Who led the Cuban Revolution and became Cuba's leader in 1959?",
+      "options": [
+        "Fidel Castro",
+        "Raúl Castro",
+        "Che Guevara",
+        "Camilo Cienfuegos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fidel Castro led the Cuban Revolution that overthrew the Batista regime in 1959 and ruled Cuba for nearly five decades.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-5",
+      "question": "Which South American liberator freed much of the continent from Spanish rule?",
+      "options": [
+        "Antonio José de Sucre",
+        "Simón Bolívar",
+        "Bernardo O'Higgins",
+        "José de San Martín"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simón Bolívar, known as 'The Liberator,' led independence movements across Venezuela, Colombia, Ecuador, Peru, and Bolivia.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-6",
+      "question": "Who led India's non-violent independence movement against British rule?",
+      "options": [
+        "B.R. Ambedkar",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mahatma Gandhi led India's independence movement through non-violent civil disobedience, achieving independence in 1947.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-7",
+      "question": "Which leader sparked the Protestant Reformation by nailing his 95 Theses to a church door?",
+      "options": [
+        "Huldrych Zwingli",
+        "Martin Luther",
+        "John Knox",
+        "John Calvin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Martin Luther posted his 95 Theses on the door of the Castle Church in Wittenberg in 1517, launching the Protestant Reformation.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-8",
+      "question": "Who was the leader of the Bolshevik Revolution in Russia in 1917?",
+      "options": [
+        "Leon Trotsky",
+        "Alexander Kerensky",
+        "Vladimir Lenin",
+        "Joseph Stalin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vladimir Lenin led the Bolsheviks in the October Revolution of 1917, establishing the world's first communist state.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-9",
+      "question": "Which Chinese revolutionary leader founded the Republic of China in 1912?",
+      "options": [
+        "Chiang Kai-shek",
+        "Sun Yat-sen",
+        "Yuan Shikai",
+        "Mao Zedong"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sun Yat-sen is considered the 'Father of the Nation' in China for his role in overthrowing the Qing Dynasty and founding the Republic of China.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-10",
+      "question": "Who was the Argentine revolutionary who fought alongside Fidel Castro?",
+      "options": [
+        "Jorge Luis Borges",
+        "Carlos Gardel",
+        "Juan Perón",
+        "Che Guevara"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ernesto 'Che' Guevara was an Argentine Marxist revolutionary who played a key role in the Cuban Revolution alongside Fidel Castro.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-11",
+      "question": "Which Mexican revolutionary leader fought for land reform and peasant rights?",
+      "options": [
+        "Venustiano Carranza",
+        "Pancho Villa",
+        "Porfirio Díaz",
+        "Emiliano Zapata"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emiliano Zapata led the peasant revolution in southern Mexico, fighting under the slogan 'Tierra y Libertad' (Land and Liberty).",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-12",
+      "question": "Who led the Irish rebellion at the General Post Office in the 1916 Easter Rising?",
+      "options": [
+        "Éamon de Valera",
+        "James Connolly",
+        "Patrick Pearse",
+        "Michael Collins"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Patrick Pearse was the commander-in-chief of the Easter Rising and proclaimed the Irish Republic from the GPO in Dublin in 1916.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-13",
+      "question": "Which Turkish leader established the Republic of Turkey from the Ottoman Empire's ashes?",
+      "options": [
+        "İsmet İnönü",
+        "Enver Pasha",
+        "Mustafa Kemal Atatürk",
+        "Süleyman Demirel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mustafa Kemal Atatürk founded the Republic of Turkey in 1923 and implemented sweeping modernization reforms.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-14",
+      "question": "Which Polish labor leader founded the Solidarity movement?",
+      "options": [
+        "Wojciech Jaruzelski",
+        "Lech Walesa",
+        "Tadeusz Mazowiecki",
+        "Lech Kaczynski"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lech Walesa co-founded the Solidarity trade union in 1980, which played a crucial role in ending communist rule in Poland.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "revolutionary-leaders-quiz-15",
+      "question": "Who was the first president of the United States, leading the nation after the American Revolution?",
+      "options": [
+        "George Washington",
+        "John Adams",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "George Washington served as the first President of the United States from 1789 to 1797, having led the Continental Army during the Revolution.",
+      "difficulty": "easy",
+      "category": "history"
+    }
+  ]
+}

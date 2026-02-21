@@ -1,0 +1,173 @@
+{
+  "id": "physics-terms-quiz",
+  "title": "Physics Terms Quiz",
+  "description": "Explore the language of physics, from fundamental forces and motion to energy, waves, and the laws governing our universe.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "physics-terms-quiz-1",
+      "question": "What does the term 'inertia' describe?",
+      "options": [
+        "The speed at which an object travels",
+        "The tendency of an object to resist changes in its state of motion",
+        "The force of gravity on an object",
+        "The energy stored in a spring"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "physics-terms-quiz-2",
+      "question": "What is 'kinetic energy'?",
+      "options": [
+        "Energy an object possesses due to its motion",
+        "Energy stored in chemical bonds",
+        "Energy stored due to position",
+        "Energy from the sun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "physics-terms-quiz-3",
+      "question": "What does 'entropy' measure in physics?",
+      "options": [
+        "The mass of an atom",
+        "The total energy in a system",
+        "The speed of light",
+        "The degree of disorder or randomness in a system"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-terms-quiz-4",
+      "question": "What is 'friction'?",
+      "options": [
+        "The pull of gravity",
+        "A type of energy",
+        "A force that opposes the relative motion of surfaces in contact",
+        "The vibration of molecules"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-terms-quiz-5",
+      "question": "In physics, what is a 'vector'?",
+      "options": [
+        "A quantity with only magnitude",
+        "A quantity that has both magnitude and direction",
+        "A type of wave",
+        "A unit of measurement"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "physics-terms-quiz-6",
+      "question": "What does 'refraction' refer to?",
+      "options": [
+        "The splitting of an atom",
+        "The bouncing of light off a surface",
+        "The bending of light as it passes from one medium to another",
+        "The absorption of light by a material"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-terms-quiz-7",
+      "question": "What is 'torque'?",
+      "options": [
+        "The speed of a spinning object",
+        "A rotational force that tends to cause rotation",
+        "A unit of electrical resistance",
+        "A measure of temperature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "physics-terms-quiz-8",
+      "question": "What does 'wavelength' describe?",
+      "options": [
+        "The distance between successive crests of a wave",
+        "The loudness of a sound",
+        "The speed of a wave",
+        "The height of a wave"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "physics-terms-quiz-9",
+      "question": "What is 'momentum'?",
+      "options": [
+        "The energy of a stationary object",
+        "The acceleration due to gravity",
+        "The force needed to stop an object",
+        "The product of an object's mass and velocity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-terms-quiz-10",
+      "question": "What does 'amplitude' refer to in wave physics?",
+      "options": [
+        "The speed of a wave",
+        "The frequency of a wave",
+        "The maximum displacement of a wave from its rest position",
+        "The direction a wave travels"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-terms-quiz-11",
+      "question": "What is a 'photon'?",
+      "options": [
+        "A negatively charged particle",
+        "A type of sound wave",
+        "The nucleus of a hydrogen atom",
+        "A particle representing a quantum of light"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-terms-quiz-12",
+      "question": "What does 'acceleration' mean?",
+      "options": [
+        "The rate of change of velocity over time",
+        "The mass of a moving object",
+        "The total distance traveled",
+        "The force applied to an object"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "physics-terms-quiz-13",
+      "question": "What is 'potential energy'?",
+      "options": [
+        "Energy lost to friction",
+        "Energy of motion",
+        "Heat energy from the sun",
+        "Stored energy due to an object's position or condition"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-terms-quiz-14",
+      "question": "What does the term 'viscosity' describe?",
+      "options": [
+        "The density of a gas",
+        "The elasticity of a solid",
+        "A fluid's resistance to flow",
+        "The brightness of light"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-terms-quiz-15",
+      "question": "What is 'diffraction'?",
+      "options": [
+        "The bending and spreading of waves around obstacles or through openings",
+        "The reflection of sound waves",
+        "The conversion of heat to light",
+        "Light being absorbed by a surface"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

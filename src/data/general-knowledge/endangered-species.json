@@ -1,0 +1,173 @@
+{
+  "id": "endangered-species",
+  "title": "Endangered Species",
+  "description": "Learn about the world's most threatened animals and the conservation efforts to save them.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "endangered-species-1",
+      "question": "What organization maintains the 'Red List' of threatened species?",
+      "options": [
+        "WWF",
+        "UNESCO",
+        "Greenpeace",
+        "IUCN"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "endangered-species-2",
+      "question": "The giant panda was downlisted from 'Endangered' to what status in 2016?",
+      "options": [
+        "Vulnerable",
+        "Conservation Dependent",
+        "Least Concern",
+        "Near Threatened"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-3",
+      "question": "Which rhinoceros species is the most critically endangered with only about 80 individuals left?",
+      "options": [
+        "Indian Rhino",
+        "Javan Rhino",
+        "Black Rhino",
+        "White Rhino"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-4",
+      "question": "The vaquita, the world's most endangered marine mammal, is found only in which body of water?",
+      "options": [
+        "Bay of Bengal",
+        "Coral Sea",
+        "Gulf of California",
+        "Mediterranean Sea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-5",
+      "question": "What is the main threat to orangutans in Borneo and Sumatra?",
+      "options": [
+        "Deforestation for palm oil",
+        "Climate change",
+        "Disease",
+        "Poaching"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "endangered-species-6",
+      "question": "Which sea turtle species is the largest and is listed as vulnerable?",
+      "options": [
+        "Loggerhead Turtle",
+        "Hawksbill Turtle",
+        "Green Sea Turtle",
+        "Leatherback Turtle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "endangered-species-7",
+      "question": "The California condor was brought back from the brink of extinction. How many remained in 1987?",
+      "options": [
+        "103",
+        "250",
+        "27",
+        "52"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-8",
+      "question": "Which great ape species is critically endangered and found only in central Africa?",
+      "options": [
+        "Bonobo",
+        "Mountain Gorilla",
+        "Orangutan",
+        "Chimpanzee"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-9",
+      "question": "What is the primary reason elephants are poached?",
+      "options": [
+        "Bones",
+        "Hide",
+        "Meat",
+        "Ivory tusks"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "endangered-species-10",
+      "question": "The Tasmanian devil is threatened by what unusual disease?",
+      "options": [
+        "Canine distemper",
+        "Devil facial tumor disease",
+        "Avian flu",
+        "Rabies"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-11",
+      "question": "Which bird, once thought extinct, was rediscovered in 2004 in Arkansas?",
+      "options": [
+        "Carolina Parakeet",
+        "Ivory-billed Woodpecker",
+        "Passenger Pigeon",
+        "Dodo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-12",
+      "question": "What endangered animal is the symbol of the World Wildlife Fund (WWF)?",
+      "options": [
+        "Elephant",
+        "Giant Panda",
+        "Polar Bear",
+        "Tiger"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-13",
+      "question": "The Yangtze River dolphin (baiji) was declared functionally extinct in which year?",
+      "options": [
+        "2010",
+        "1998",
+        "2006",
+        "2002"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "endangered-species-14",
+      "question": "Which island nation is home to many unique endangered species including lemurs?",
+      "options": [
+        "New Zealand",
+        "Madagascar",
+        "Sri Lanka",
+        "Fiji"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "endangered-species-15",
+      "question": "What endangered whale species was nearly hunted to extinction and now numbers around 350?",
+      "options": [
+        "Humpback Whale",
+        "Sperm Whale",
+        "Blue Whale",
+        "North Atlantic Right Whale"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

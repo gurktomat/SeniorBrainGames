@@ -1,0 +1,173 @@
+{
+  "id": "world-bridges-quiz",
+  "title": "World Bridges Quiz",
+  "description": "Span the globe with this quiz about the world's most famous and impressive bridges, from ancient stone arches to modern marvels.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-bridges-quiz-1",
+      "question": "The Golden Gate Bridge, painted in its signature 'International Orange,' spans the entrance to which bay?",
+      "options": [
+        "Tampa Bay",
+        "Monterey Bay",
+        "Chesapeake Bay",
+        "San Francisco Bay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-2",
+      "question": "Tower Bridge, often confused with London Bridge, features two towers connected by what type of walkways?",
+      "options": [
+        "Open-air walkways",
+        "Underground tunnels",
+        "Covered walkways",
+        "High-level walkways with glass floors"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-3",
+      "question": "The Rialto Bridge, one of the oldest bridges crossing the Grand Canal, is located in which Italian city?",
+      "options": [
+        "Naples",
+        "Florence",
+        "Rome",
+        "Venice"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-4",
+      "question": "The Sydney Harbour Bridge, nicknamed 'The Coat Hanger,' is located in which country?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Canada",
+        "South Africa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-bridges-quiz-5",
+      "question": "The Millau Viaduct, the tallest bridge in the world at 343 meters, is located in which country?",
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Spain",
+        "France"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-6",
+      "question": "The Ponte Vecchio, a medieval stone bridge lined with shops, crosses the Arno River in which city?",
+      "options": [
+        "Venice",
+        "Florence",
+        "Rome",
+        "Siena"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-bridges-quiz-7",
+      "question": "The Brooklyn Bridge, completed in 1883, connects Manhattan to which New York City borough?",
+      "options": [
+        "Staten Island",
+        "Brooklyn",
+        "Queens",
+        "The Bronx"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-bridges-quiz-8",
+      "question": "The Akashi Kaikyo Bridge in Japan holds the record as the world's longest what type of bridge?",
+      "options": [
+        "Cable-stayed bridge",
+        "Suspension bridge",
+        "Beam bridge",
+        "Arch bridge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-bridges-quiz-9",
+      "question": "The Chain Bridge (Széchenyi Lánchíd), a famous suspension bridge over the Danube, is in which city?",
+      "options": [
+        "Prague",
+        "Vienna",
+        "Bratislava",
+        "Budapest"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-10",
+      "question": "The Øresund Bridge connects Copenhagen, Denmark, to which Swedish city?",
+      "options": [
+        "Malmö",
+        "Stockholm",
+        "Helsingborg",
+        "Gothenburg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-bridges-quiz-11",
+      "question": "The Forth Bridge, a cantilever railway bridge and UNESCO World Heritage Site, is located in which country?",
+      "options": [
+        "Wales",
+        "Scotland",
+        "England",
+        "Ireland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-bridges-quiz-12",
+      "question": "The Stari Most (Old Bridge) in Mostar, destroyed in 1993 and rebuilt in 2004, is in which country?",
+      "options": [
+        "Croatia",
+        "Serbia",
+        "Montenegro",
+        "Bosnia and Herzegovina"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-bridges-quiz-13",
+      "question": "The Confederation Bridge, the longest bridge over ice-covered waters, connects Prince Edward Island to which Canadian province?",
+      "options": [
+        "Quebec",
+        "Newfoundland",
+        "New Brunswick",
+        "Nova Scotia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-bridges-quiz-14",
+      "question": "The Danyang-Kunshan Grand Bridge, the longest bridge in the world at about 164 km, is located in which country?",
+      "options": [
+        "India",
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-bridges-quiz-15",
+      "question": "The Pont du Gard, an ancient Roman aqueduct bridge, is located in the south of which country?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

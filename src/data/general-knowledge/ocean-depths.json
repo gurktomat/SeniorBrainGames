@@ -8,8 +8,13 @@
     {
       "id": "ocean-depths-1",
       "question": "What is the deepest known point in the world's oceans?",
-      "options": ["Tonga Trench", "Puerto Rico Trench", "Challenger Deep", "Java Trench"],
-      "correctAnswer": 2,
+      "options": [
+        "Puerto Rico Trench",
+        "Tonga Trench",
+        "Java Trench",
+        "Challenger Deep"
+      ],
+      "correctAnswer": 3,
       "explanation": "Challenger Deep, located in the Mariana Trench in the western Pacific Ocean, reaches approximately 36,000 feet (about 11,000 meters) below sea level, making it the deepest known point on Earth.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -17,7 +22,12 @@
     {
       "id": "ocean-depths-2",
       "question": "Who was the first person to reach the bottom of the Mariana Trench in 1960?",
-      "options": ["Robert Ballard", "Jacques Cousteau", "Jacques Piccard and Don Walsh", "Sylvia Earle"],
+      "options": [
+        "Jacques Cousteau",
+        "Sylvia Earle",
+        "Jacques Piccard and Don Walsh",
+        "Robert Ballard"
+      ],
       "correctAnswer": 2,
       "explanation": "Swiss oceanographer Jacques Piccard and U.S. Navy Lieutenant Don Walsh descended to the bottom of the Challenger Deep on January 23, 1960, in the bathyscaphe Trieste.",
       "difficulty": "medium",
@@ -26,7 +36,12 @@
     {
       "id": "ocean-depths-3",
       "question": "What percentage of the ocean floor has been mapped in detail?",
-      "options": ["About 5%", "About 25%", "About 50%", "About 75%"],
+      "options": [
+        "About 5%",
+        "About 25%",
+        "About 75%",
+        "About 50%"
+      ],
       "correctAnswer": 1,
       "explanation": "As of recent estimates, only about 25% of the ocean floor has been mapped to modern standards using high-resolution sonar. Much of the deep ocean remains unexplored and unmapped.",
       "difficulty": "medium",
@@ -35,8 +50,13 @@
     {
       "id": "ocean-depths-4",
       "question": "What is the name for the region of the ocean where sunlight cannot penetrate?",
-      "options": ["Twilight zone", "Aphotic zone", "Pelagic zone", "Benthic zone"],
-      "correctAnswer": 1,
+      "options": [
+        "Twilight zone",
+        "Pelagic zone",
+        "Aphotic zone",
+        "Benthic zone"
+      ],
+      "correctAnswer": 2,
       "explanation": "The aphotic zone (also called the midnight zone) is the part of the ocean where no sunlight reaches, generally below about 3,300 feet (1,000 meters). 'Aphotic' means 'without light.'",
       "difficulty": "medium",
       "category": "oceanography"
@@ -44,8 +64,13 @@
     {
       "id": "ocean-depths-5",
       "question": "What phenomenon allows deep-sea creatures to produce their own light?",
-      "options": ["Phosphorescence", "Fluorescence", "Bioluminescence", "Chemiluminescence"],
-      "correctAnswer": 2,
+      "options": [
+        "Fluorescence",
+        "Chemiluminescence",
+        "Phosphorescence",
+        "Bioluminescence"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bioluminescence is the production of light by living organisms through chemical reactions. About 76% of deep-sea creatures use bioluminescence to attract prey, find mates, or escape predators.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -53,8 +78,13 @@
     {
       "id": "ocean-depths-6",
       "question": "Which ocean is the deepest on average?",
-      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-      "correctAnswer": 2,
+      "options": [
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Pacific Ocean is the deepest ocean with an average depth of about 14,040 feet (4,280 meters). It is also the largest and oldest of the world's ocean basins.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -62,8 +92,13 @@
     {
       "id": "ocean-depths-7",
       "question": "What are hydrothermal vents on the ocean floor commonly called?",
-      "options": ["Sea geysers", "Black smokers", "Ocean volcanoes", "Deep bubblers"],
-      "correctAnswer": 1,
+      "options": [
+        "Sea geysers",
+        "Deep bubblers",
+        "Ocean volcanoes",
+        "Black smokers"
+      ],
+      "correctAnswer": 3,
       "explanation": "Hydrothermal vents are often called black smokers because they emit dark plumes of superheated, mineral-rich water that looks like black smoke. They can reach temperatures above 700°F (370°C).",
       "difficulty": "medium",
       "category": "oceanography"
@@ -71,8 +106,13 @@
     {
       "id": "ocean-depths-8",
       "question": "What is the largest structure built by living organisms on Earth?",
-      "options": ["The Amazon rainforest", "The Great Barrier Reef", "The Appalachian Mountains", "The Sahara Desert"],
-      "correctAnswer": 1,
+      "options": [
+        "The Appalachian Mountains",
+        "The Amazon rainforest",
+        "The Great Barrier Reef",
+        "The Sahara Desert"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Great Barrier Reef off the coast of Australia is the largest structure made by living organisms. Stretching over 1,400 miles (2,300 km), it is built by billions of tiny coral polyps.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -80,8 +120,13 @@
     {
       "id": "ocean-depths-9",
       "question": "At what depth does the 'midnight zone' of the ocean begin?",
-      "options": ["200 meters (660 feet)", "500 meters (1,640 feet)", "1,000 meters (3,300 feet)", "2,000 meters (6,600 feet)"],
-      "correctAnswer": 2,
+      "options": [
+        "200 meters (660 feet)",
+        "1,000 meters (3,300 feet)",
+        "2,000 meters (6,600 feet)",
+        "500 meters (1,640 feet)"
+      ],
+      "correctAnswer": 1,
       "explanation": "The midnight zone (bathypelagic zone) begins at about 1,000 meters (3,300 feet) depth. At this depth, no sunlight penetrates and temperatures hover just above freezing.",
       "difficulty": "hard",
       "category": "oceanography"
@@ -89,8 +134,13 @@
     {
       "id": "ocean-depths-10",
       "question": "What is the Mid-Atlantic Ridge?",
-      "options": ["A coral reef system", "An undersea mountain range", "A deep ocean trench", "A submarine canyon"],
-      "correctAnswer": 1,
+      "options": [
+        "An undersea mountain range",
+        "A coral reef system",
+        "A submarine canyon",
+        "A deep ocean trench"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Mid-Atlantic Ridge is an undersea mountain range that runs down the center of the Atlantic Ocean for about 10,000 miles. It is formed where tectonic plates are spreading apart.",
       "difficulty": "medium",
       "category": "oceanography"
@@ -98,8 +148,13 @@
     {
       "id": "ocean-depths-11",
       "question": "Which deep-sea fish is known for the bioluminescent lure dangling from its head?",
-      "options": ["Viperfish", "Gulper eel", "Anglerfish", "Lanternfish"],
-      "correctAnswer": 2,
+      "options": [
+        "Gulper eel",
+        "Viperfish",
+        "Lanternfish",
+        "Anglerfish"
+      ],
+      "correctAnswer": 3,
       "explanation": "The anglerfish has a bioluminescent lure called an esca that dangles from a modified dorsal spine on its head. It uses this glowing lure to attract prey in the pitch-dark deep ocean.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -107,8 +162,13 @@
     {
       "id": "ocean-depths-12",
       "question": "What causes ocean tides?",
-      "options": ["Wind patterns", "Earth's rotation alone", "Gravitational pull of the Moon and Sun", "Underwater volcanic activity"],
-      "correctAnswer": 2,
+      "options": [
+        "Wind patterns",
+        "Underwater volcanic activity",
+        "Earth's rotation alone",
+        "Gravitational pull of the Moon and Sun"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ocean tides are primarily caused by the gravitational pull of the Moon and, to a lesser extent, the Sun on Earth's oceans. The Moon's proximity to Earth makes it the dominant tidal force.",
       "difficulty": "easy",
       "category": "oceanography"
@@ -116,8 +176,13 @@
     {
       "id": "ocean-depths-13",
       "question": "What is the deepest-living fish ever discovered?",
-      "options": ["Barreleye fish", "Hadal snailfish", "Giant oarfish", "Coelacanth"],
-      "correctAnswer": 1,
+      "options": [
+        "Barreleye fish",
+        "Giant oarfish",
+        "Hadal snailfish",
+        "Coelacanth"
+      ],
+      "correctAnswer": 2,
       "explanation": "The hadal snailfish (Pseudoliparis swirei) has been found at depths exceeding 26,000 feet (8,000 meters) in the Mariana Trench, making it the deepest-living fish ever recorded.",
       "difficulty": "hard",
       "category": "oceanography"
@@ -125,8 +190,13 @@
     {
       "id": "ocean-depths-14",
       "question": "What is the Great Blue Hole off the coast of Belize?",
-      "options": ["An underwater volcano", "A giant underwater sinkhole", "A deep ocean trench", "A coral reef formation"],
-      "correctAnswer": 1,
+      "options": [
+        "An underwater volcano",
+        "A coral reef formation",
+        "A deep ocean trench",
+        "A giant underwater sinkhole"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Great Blue Hole is a giant marine sinkhole off the coast of Belize, over 980 feet (300 meters) across and 410 feet (125 meters) deep. It was formed during ice ages when sea levels were lower.",
       "difficulty": "medium",
       "category": "oceanography"
@@ -134,8 +204,13 @@
     {
       "id": "ocean-depths-15",
       "question": "What extreme condition, besides darkness, do creatures face in the deepest parts of the ocean?",
-      "options": ["Extreme heat", "Crushing water pressure", "Toxic oxygen levels", "Strong ocean currents"],
-      "correctAnswer": 1,
+      "options": [
+        "Extreme heat",
+        "Toxic oxygen levels",
+        "Strong ocean currents",
+        "Crushing water pressure"
+      ],
+      "correctAnswer": 3,
       "explanation": "At the bottom of the Mariana Trench, the water pressure is over 15,000 pounds per square inch — more than 1,000 times the atmospheric pressure at sea level. Deep-sea organisms have adapted to withstand this crushing force.",
       "difficulty": "medium",
       "category": "oceanography"

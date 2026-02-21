@@ -1,0 +1,173 @@
+{
+  "id": "world-sacred-texts-quiz",
+  "title": "World Sacred Texts",
+  "description": "How well do you know the holy books and scriptures of world religions?",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "world-sacred-texts-quiz-1",
+      "question": "What is the holy book of Islam?",
+      "options": [
+        "The Tripitaka",
+        "The Vedas",
+        "The Torah",
+        "The Quran"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-sacred-texts-quiz-2",
+      "question": "The Torah is the foundational sacred text of which religion?",
+      "options": [
+        "Judaism",
+        "Hinduism",
+        "Zoroastrianism",
+        "Christianity"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-sacred-texts-quiz-3",
+      "question": "The Tripitaka (Pali Canon) is a sacred text collection of which religion?",
+      "options": [
+        "Sikhism",
+        "Hinduism",
+        "Buddhism",
+        "Jainism"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-sacred-texts-quiz-4",
+      "question": "How many books are in the standard Protestant Bible?",
+      "options": [
+        "66",
+        "39",
+        "73",
+        "46"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-sacred-texts-quiz-5",
+      "question": "The Guru Granth Sahib is the central scripture of which religion?",
+      "options": [
+        "Jainism",
+        "Sikhism",
+        "Buddhism",
+        "Hinduism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-sacred-texts-quiz-6",
+      "question": "What language was the Quran originally written in?",
+      "options": [
+        "Arabic",
+        "Persian",
+        "Turkish",
+        "Hebrew"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-sacred-texts-quiz-7",
+      "question": "The Tao Te Ching is attributed to which ancient Chinese philosopher?",
+      "options": [
+        "Confucius",
+        "Lao Tzu",
+        "Zhuangzi",
+        "Mencius"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-sacred-texts-quiz-8",
+      "question": "The Avesta is the primary scripture of which ancient religion?",
+      "options": [
+        "Mithraism",
+        "Manichaeism",
+        "Zoroastrianism",
+        "Mandaeism"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-sacred-texts-quiz-9",
+      "question": "Which Hindu text is one of the longest epic poems ever written, containing over 100,000 verses?",
+      "options": [
+        "Bhagavad Gita",
+        "Ramayana",
+        "Mahabharata",
+        "Rig Veda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-sacred-texts-quiz-10",
+      "question": "The Dead Sea Scrolls, discovered in 1947, contained texts from which religious tradition?",
+      "options": [
+        "Zoroastrianism",
+        "Christianity",
+        "Islam",
+        "Judaism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-sacred-texts-quiz-11",
+      "question": "The 'Analects' is a collection of sayings and ideas attributed to which thinker?",
+      "options": [
+        "Sun Tzu",
+        "Lao Tzu",
+        "Buddha",
+        "Confucius"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-sacred-texts-quiz-12",
+      "question": "In how many chapters (surahs) is the Quran divided?",
+      "options": [
+        "200",
+        "150",
+        "66",
+        "114"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-sacred-texts-quiz-13",
+      "question": "The Book of Mormon is a sacred text of which religious movement?",
+      "options": [
+        "Seventh-day Adventism",
+        "The Church of Jesus Christ of Latter-day Saints",
+        "Christian Science",
+        "Jehovah's Witnesses"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-sacred-texts-quiz-14",
+      "question": "The Upanishads are philosophical texts that form the concluding part of which scriptures?",
+      "options": [
+        "The Vedas",
+        "The Puranas",
+        "The Tantras",
+        "The Sutras"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-sacred-texts-quiz-15",
+      "question": "The Talmud is a central text in which religious tradition?",
+      "options": [
+        "Christianity",
+        "Islam",
+        "Judaism",
+        "Baha'i Faith"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

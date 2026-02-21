@@ -8,8 +8,13 @@
     {
       "id": "nh-1",
       "question": "Which vitamin is primarily obtained from exposure to sunlight?",
-      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
-      "correctAnswer": 3,
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 0,
       "explanation": "Vitamin D is produced by the skin when exposed to ultraviolet B (UVB) rays from sunlight. It is essential for calcium absorption and bone health.",
       "difficulty": "easy",
       "category": "health"
@@ -17,8 +22,13 @@
     {
       "id": "nh-2",
       "question": "Which nutrient is the body's primary source of quick energy?",
-      "options": ["Protein", "Fat", "Carbohydrates", "Vitamins"],
-      "correctAnswer": 2,
+      "options": [
+        "Protein",
+        "Carbohydrates",
+        "Vitamins",
+        "Fat"
+      ],
+      "correctAnswer": 1,
       "explanation": "Carbohydrates are the body's preferred and quickest source of energy. They are broken down into glucose, which fuels cells, tissues, and organs.",
       "difficulty": "easy",
       "category": "health"
@@ -26,8 +36,13 @@
     {
       "id": "nh-3",
       "question": "What mineral is essential for strong bones and teeth?",
-      "options": ["Iron", "Calcium", "Zinc", "Potassium"],
-      "correctAnswer": 1,
+      "options": [
+        "Potassium",
+        "Zinc",
+        "Calcium",
+        "Iron"
+      ],
+      "correctAnswer": 2,
       "explanation": "Calcium is the most abundant mineral in the body and is critical for building and maintaining strong bones and teeth. About 99% of the body's calcium is stored in bones.",
       "difficulty": "easy",
       "category": "health"
@@ -35,8 +50,13 @@
     {
       "id": "nh-4",
       "question": "Which fruit is known for being very high in potassium?",
-      "options": ["Apple", "Orange", "Banana", "Grape"],
-      "correctAnswer": 2,
+      "options": [
+        "Orange",
+        "Grape",
+        "Apple",
+        "Banana"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bananas are well known for their high potassium content. A medium banana contains about 422 mg of potassium, which helps regulate heart rhythm and muscle function.",
       "difficulty": "easy",
       "category": "health"
@@ -44,8 +64,13 @@
     {
       "id": "nh-5",
       "question": "Approximately how much of the human body is made up of water?",
-      "options": ["About 30%", "About 45%", "About 60%", "About 80%"],
-      "correctAnswer": 2,
+      "options": [
+        "About 30%",
+        "About 80%",
+        "About 45%",
+        "About 60%"
+      ],
+      "correctAnswer": 3,
       "explanation": "The human body is approximately 60% water. Water is essential for nearly every bodily function, including temperature regulation, nutrient transport, and waste removal.",
       "difficulty": "easy",
       "category": "health"
@@ -53,8 +78,13 @@
     {
       "id": "nh-6",
       "question": "Which vitamin is commonly associated with preventing scurvy?",
-      "options": ["Vitamin A", "Vitamin B6", "Vitamin C", "Vitamin K"],
-      "correctAnswer": 2,
+      "options": [
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin B6",
+        "Vitamin C"
+      ],
+      "correctAnswer": 3,
       "explanation": "Vitamin C (ascorbic acid) prevents scurvy, a disease once common among sailors. Citrus fruits, which are rich in vitamin C, were famously used by the British Navy to prevent it.",
       "difficulty": "medium",
       "category": "health"
@@ -62,8 +92,13 @@
     {
       "id": "nh-7",
       "question": "Which type of fat is generally considered the healthiest for the heart?",
-      "options": ["Trans fat", "Saturated fat", "Monounsaturated fat", "Hydrogenated fat"],
-      "correctAnswer": 2,
+      "options": [
+        "Hydrogenated fat",
+        "Monounsaturated fat",
+        "Trans fat",
+        "Saturated fat"
+      ],
+      "correctAnswer": 1,
       "explanation": "Monounsaturated fats, found in olive oil, avocados, and nuts, are considered heart-healthy. They can help reduce bad cholesterol levels and lower the risk of heart disease.",
       "difficulty": "medium",
       "category": "health"
@@ -71,7 +106,12 @@
     {
       "id": "nh-8",
       "question": "What does 'BMI' stand for in health measurements?",
-      "options": ["Body Mass Index", "Biological Metabolism Indicator", "Basic Muscle Integrity", "Body Mineral Intake"],
+      "options": [
+        "Body Mass Index",
+        "Body Mineral Intake",
+        "Biological Metabolism Indicator",
+        "Basic Muscle Integrity"
+      ],
       "correctAnswer": 0,
       "explanation": "BMI stands for Body Mass Index, a measurement that uses height and weight to estimate body fat. It is widely used as a screening tool for weight categories.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "nh-9",
       "question": "Which of the following foods is the richest source of omega-3 fatty acids?",
-      "options": ["Chicken breast", "Salmon", "White rice", "Whole wheat bread"],
-      "correctAnswer": 1,
+      "options": [
+        "Whole wheat bread",
+        "Chicken breast",
+        "White rice",
+        "Salmon"
+      ],
+      "correctAnswer": 3,
       "explanation": "Salmon is one of the richest sources of omega-3 fatty acids (EPA and DHA), which support heart health, brain function, and help reduce inflammation.",
       "difficulty": "medium",
       "category": "health"
@@ -89,8 +134,13 @@
     {
       "id": "nh-10",
       "question": "Fiber in the diet primarily helps with which bodily function?",
-      "options": ["Vision", "Digestion", "Hearing", "Blood clotting"],
-      "correctAnswer": 1,
+      "options": [
+        "Vision",
+        "Blood clotting",
+        "Digestion",
+        "Hearing"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dietary fiber promotes healthy digestion by adding bulk to stool and helping food move through the digestive tract. It can also help lower cholesterol and regulate blood sugar levels.",
       "difficulty": "medium",
       "category": "health"
@@ -98,8 +148,13 @@
     {
       "id": "nh-11",
       "question": "Which B vitamin is especially important during pregnancy to prevent neural tube defects?",
-      "options": ["B1 (Thiamine)", "B6 (Pyridoxine)", "B9 (Folate)", "B12 (Cobalamin)"],
-      "correctAnswer": 2,
+      "options": [
+        "B12 (Cobalamin)",
+        "B6 (Pyridoxine)",
+        "B1 (Thiamine)",
+        "B9 (Folate)"
+      ],
+      "correctAnswer": 3,
       "explanation": "Folate (vitamin B9), often taken as folic acid in supplements, is crucial during early pregnancy. Adequate intake significantly reduces the risk of neural tube defects like spina bifida.",
       "difficulty": "hard",
       "category": "health"
@@ -107,8 +162,13 @@
     {
       "id": "nh-12",
       "question": "What is the recommended daily sodium intake for most adults, according to the American Heart Association?",
-      "options": ["No more than 1,500 mg", "No more than 2,300 mg", "No more than 3,500 mg", "No more than 5,000 mg"],
-      "correctAnswer": 0,
+      "options": [
+        "No more than 3,500 mg",
+        "No more than 1,500 mg",
+        "No more than 2,300 mg",
+        "No more than 5,000 mg"
+      ],
+      "correctAnswer": 1,
       "explanation": "The American Heart Association recommends an ideal limit of no more than 1,500 mg of sodium per day for most adults, with an upper limit of 2,300 mg. Excess sodium is linked to high blood pressure.",
       "difficulty": "hard",
       "category": "health"
@@ -116,8 +176,13 @@
     {
       "id": "nh-13",
       "question": "Which antioxidant gives tomatoes their red color and has been linked to reduced cancer risk?",
-      "options": ["Beta-carotene", "Lutein", "Lycopene", "Anthocyanin"],
-      "correctAnswer": 2,
+      "options": [
+        "Anthocyanin",
+        "Beta-carotene",
+        "Lutein",
+        "Lycopene"
+      ],
+      "correctAnswer": 3,
       "explanation": "Lycopene is the powerful antioxidant that gives tomatoes their red color. Research suggests it may help reduce the risk of certain cancers, particularly prostate cancer.",
       "difficulty": "hard",
       "category": "health"
@@ -125,7 +190,12 @@
     {
       "id": "nh-14",
       "question": "Which essential amino acid is often cited as the 'limiting amino acid' in most plant-based proteins?",
-      "options": ["Leucine", "Lysine", "Tryptophan", "Methionine"],
+      "options": [
+        "Methionine",
+        "Lysine",
+        "Leucine",
+        "Tryptophan"
+      ],
       "correctAnswer": 1,
       "explanation": "Lysine is often the limiting amino acid in many plant-based protein sources, particularly grains. Legumes are a good complementary source, which is why beans and rice together form a complete protein.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "nh-15",
       "question": "What is the primary role of iron in the human body?",
-      "options": ["Building strong bones", "Transporting oxygen in the blood", "Regulating body temperature", "Producing digestive enzymes"],
-      "correctAnswer": 1,
+      "options": [
+        "Building strong bones",
+        "Producing digestive enzymes",
+        "Transporting oxygen in the blood",
+        "Regulating body temperature"
+      ],
+      "correctAnswer": 2,
       "explanation": "Iron is a key component of hemoglobin, the protein in red blood cells that carries oxygen from the lungs to the rest of the body. Iron deficiency can lead to anemia and fatigue.",
       "difficulty": "hard",
       "category": "health"

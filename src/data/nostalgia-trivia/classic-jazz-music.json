@@ -7,92 +7,167 @@
     {
       "id": "classic-jazz-music-1",
       "question": "Which trumpeter was known as 'Satchmo' and recorded the iconic 'What a Wonderful World'?",
-      "options": ["Dizzy Gillespie", "Louis Armstrong", "Miles Davis", "Chet Baker"],
-      "correctAnswer": 1
+      "options": [
+        "Dizzy Gillespie",
+        "Miles Davis",
+        "Louis Armstrong",
+        "Chet Baker"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-jazz-music-2",
       "question": "What instrument did Duke Ellington primarily play?",
-      "options": ["Trumpet", "Saxophone", "Piano", "Clarinet"],
-      "correctAnswer": 2
+      "options": [
+        "Saxophone",
+        "Piano",
+        "Trumpet",
+        "Clarinet"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-3",
       "question": "Which jazz singer was known as 'Lady Day'?",
-      "options": ["Ella Fitzgerald", "Sarah Vaughan", "Billie Holiday", "Nina Simone"],
+      "options": [
+        "Nina Simone",
+        "Sarah Vaughan",
+        "Billie Holiday",
+        "Ella Fitzgerald"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-jazz-music-4",
       "question": "Miles Davis's 1959 album 'Kind of Blue' is considered a landmark in which style of jazz?",
-      "options": ["Bebop", "Dixieland", "Modal jazz", "Free jazz"],
-      "correctAnswer": 2
+      "options": [
+        "Dixieland",
+        "Free jazz",
+        "Bebop",
+        "Modal jazz"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-jazz-music-5",
       "question": "Which clarinetist led one of the most popular swing bands of the 1930s and was known as the 'King of Swing'?",
-      "options": ["Artie Shaw", "Benny Goodman", "Woody Herman", "Jimmy Dorsey"],
-      "correctAnswer": 1
+      "options": [
+        "Woody Herman",
+        "Jimmy Dorsey",
+        "Artie Shaw",
+        "Benny Goodman"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-jazz-music-6",
       "question": "What New Orleans neighborhood is widely considered the birthplace of jazz?",
-      "options": ["The French Quarter", "Storyville", "The Garden District", "Tremé"],
+      "options": [
+        "The French Quarter",
+        "Storyville",
+        "The Garden District",
+        "Tremé"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-7",
       "question": "Ella Fitzgerald was famous for which vocal technique that involves singing improvised melodies with nonsense syllables?",
-      "options": ["Vibrato", "Falsetto", "Scat singing", "Yodeling"],
-      "correctAnswer": 2
+      "options": [
+        "Scat singing",
+        "Falsetto",
+        "Vibrato",
+        "Yodeling"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-jazz-music-8",
       "question": "Which saxophonist recorded the influential bebop album 'A Love Supreme' in 1965?",
-      "options": ["Charlie Parker", "John Coltrane", "Sonny Rollins", "Coleman Hawkins"],
+      "options": [
+        "Charlie Parker",
+        "John Coltrane",
+        "Coleman Hawkins",
+        "Sonny Rollins"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-9",
       "question": "The Cotton Club, a famous jazz venue in the 1920s and 1930s, was located in which New York City neighborhood?",
-      "options": ["Greenwich Village", "Times Square", "Harlem", "Brooklyn Heights"],
-      "correctAnswer": 2
+      "options": [
+        "Greenwich Village",
+        "Harlem",
+        "Brooklyn Heights",
+        "Times Square"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-10",
       "question": "Which pianist and composer wrote 'Take the A Train,' the signature tune of the Duke Ellington Orchestra?",
-      "options": ["Thelonious Monk", "Billy Strayhorn", "Count Basie", "Art Tatum"],
-      "correctAnswer": 1
+      "options": [
+        "Art Tatum",
+        "Count Basie",
+        "Thelonious Monk",
+        "Billy Strayhorn"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-jazz-music-11",
       "question": "What was the name of the jazz era of the 1920s, often associated with flappers and prohibition?",
-      "options": ["The Swing Era", "The Jazz Age", "The Bebop Revolution", "The Cool Period"],
-      "correctAnswer": 1
+      "options": [
+        "The Swing Era",
+        "The Cool Period",
+        "The Bebop Revolution",
+        "The Jazz Age"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-jazz-music-12",
       "question": "Which jazz trumpeter was known for his puffed-out cheeks and bent trumpet, and helped pioneer bebop?",
-      "options": ["Freddie Hubbard", "Clifford Brown", "Dizzy Gillespie", "Lee Morgan"],
-      "correctAnswer": 2
+      "options": [
+        "Lee Morgan",
+        "Dizzy Gillespie",
+        "Freddie Hubbard",
+        "Clifford Brown"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-13",
       "question": "Dave Brubeck's 'Take Five' is written in what unusual time signature?",
-      "options": ["3/4 time", "5/4 time", "7/8 time", "6/8 time"],
+      "options": [
+        "7/8 time",
+        "5/4 time",
+        "3/4 time",
+        "6/8 time"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-jazz-music-14",
       "question": "Which singer, known as 'The First Lady of Song,' won 13 Grammy Awards and was celebrated for her Songbook albums?",
-      "options": ["Dinah Washington", "Ella Fitzgerald", "Peggy Lee", "Anita O'Day"],
-      "correctAnswer": 1
+      "options": [
+        "Peggy Lee",
+        "Anita O'Day",
+        "Ella Fitzgerald",
+        "Dinah Washington"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-jazz-music-15",
       "question": "Which famous jazz festival, held annually in Rhode Island since 1954, is one of the oldest in the world?",
-      "options": ["Monterey Jazz Festival", "New Orleans Jazz Fest", "Newport Jazz Festival", "Montreal Jazz Festival"],
-      "correctAnswer": 2
+      "options": [
+        "New Orleans Jazz Fest",
+        "Newport Jazz Festival",
+        "Monterey Jazz Festival",
+        "Montreal Jazz Festival"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

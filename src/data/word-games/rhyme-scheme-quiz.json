@@ -1,0 +1,173 @@
+{
+  "id": "rhyme-scheme-quiz",
+  "title": "Rhyme Scheme Quiz",
+  "description": "Test your ability to identify and understand the rhyme patterns that give poetry its musical quality",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "rhyme-scheme-quiz-1",
+      "question": "What is a 'rhyme scheme'?",
+      "options": [
+        "A plan to make words rhyme",
+        "A list of rhyming words",
+        "The pattern of end rhymes in a poem, represented by letters like ABAB",
+        "The rhythm of a poem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-2",
+      "question": "In the rhyme scheme ABAB, which lines rhyme with each other?",
+      "options": [
+        "Lines 1 and 3, lines 2 and 4",
+        "No lines rhyme",
+        "All four lines rhyme",
+        "Lines 1 and 2, lines 3 and 4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "rhyme-scheme-quiz-3",
+      "question": "What rhyme scheme do the quatrains of a Shakespearean sonnet follow?",
+      "options": [
+        "AABB",
+        "ABBA",
+        "ABAB",
+        "ABCD"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-4",
+      "question": "What is a 'couplet' rhyme scheme?",
+      "options": [
+        "ABAB",
+        "AA (two consecutive rhyming lines)",
+        "ABCABC",
+        "ABBA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyme-scheme-quiz-5",
+      "question": "What is 'perfect rhyme' (also called exact rhyme or true rhyme)?",
+      "options": [
+        "Words that are spelled the same",
+        "Words where the final stressed vowel and all following sounds are identical, like 'cat' and 'hat'",
+        "Any words that sound somewhat similar",
+        "Words that have the same number of syllables"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyme-scheme-quiz-6",
+      "question": "What is 'slant rhyme' (also called near rhyme or half rhyme)?",
+      "options": [
+        "Words that rhyme in another language",
+        "Words that rhyme perfectly",
+        "Words with similar but not identical sounds, like 'shape' and 'keep'",
+        "Words that rhyme only when whispered"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-7",
+      "question": "What is 'internal rhyme'?",
+      "options": [
+        "A rhyme between the title and the last line",
+        "A rhyme that occurs within a single line of poetry, rather than at the end of lines",
+        "A hidden rhyme the reader must discover",
+        "A rhyme that occurs only in the poet's mind"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyme-scheme-quiz-8",
+      "question": "What rhyme scheme does a limerick follow?",
+      "options": [
+        "ABCABC",
+        "AABB",
+        "ABAB",
+        "AABBA"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rhyme-scheme-quiz-9",
+      "question": "What is 'eye rhyme'?",
+      "options": [
+        "A rhyme you can only see on paper",
+        "A rhyme about eyes",
+        "A rhyme between two visual poems",
+        "Words that look like they should rhyme based on spelling but do not sound alike, such as 'love' and 'move'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rhyme-scheme-quiz-10",
+      "question": "The rhyme scheme ABBA is also known as:",
+      "options": [
+        "Free rhyme",
+        "Running rhyme",
+        "Alternate rhyme",
+        "Enclosed rhyme (or envelope rhyme)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "rhyme-scheme-quiz-11",
+      "question": "What rhyme scheme does a Petrarchan sonnet's octave (first 8 lines) typically follow?",
+      "options": [
+        "ABCDABCD",
+        "ABABABAB",
+        "ABBAABBA",
+        "AABBCCDD"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-12",
+      "question": "What is 'masculine rhyme'?",
+      "options": [
+        "Rhyme in action poetry",
+        "A particularly strong-sounding rhyme",
+        "A rhyme on a single stressed syllable at the end of a line, like 'bake' and 'lake'",
+        "Rhyme used only by male poets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-13",
+      "question": "What is 'feminine rhyme'?",
+      "options": [
+        "Rhyme used only by female poets",
+        "A soft, gentle-sounding rhyme",
+        "A rhyme involving two or more syllables, where the stress falls on the first, like 'living' and 'giving'",
+        "Rhyme in romantic poetry only"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "rhyme-scheme-quiz-14",
+      "question": "The interlocking rhyme scheme ABA BCB CDC is characteristic of which poetic form?",
+      "options": [
+        "Limerick",
+        "Terza rima (used by Dante in the Divine Comedy)",
+        "Sonnet",
+        "Haiku"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "rhyme-scheme-quiz-15",
+      "question": "What is 'free verse' in terms of rhyme scheme?",
+      "options": [
+        "Poetry that uses only perfect rhymes",
+        "Poetry that does not follow any regular rhyme scheme or meter",
+        "Poetry that strictly follows ABAB",
+        "Poetry that is free to download"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -8,8 +8,13 @@
     {
       "id": "bf-1",
       "question": "Approximately how much does the average adult human brain weigh?",
-      "options": ["1 pound", "2 pounds", "3 pounds", "4 pounds"],
-      "correctAnswer": 2,
+      "options": [
+        "1 pound",
+        "3 pounds",
+        "2 pounds",
+        "4 pounds"
+      ],
+      "correctAnswer": 1,
       "explanation": "The average adult human brain weighs about 3 pounds (1.4 kilograms). Despite being only about 2% of body weight, it uses about 20% of the body's energy.",
       "difficulty": "easy",
       "category": "science"
@@ -17,8 +22,13 @@
     {
       "id": "bf-2",
       "question": "What percentage of the brain is made up of water?",
-      "options": ["About 50%", "About 60%", "About 73%", "About 90%"],
-      "correctAnswer": 2,
+      "options": [
+        "About 60%",
+        "About 73%",
+        "About 90%",
+        "About 50%"
+      ],
+      "correctAnswer": 1,
       "explanation": "The brain is about 73% water. Even mild dehydration (just 2%) can affect attention, memory, and other cognitive skills.",
       "difficulty": "easy",
       "category": "science"
@@ -26,8 +36,13 @@
     {
       "id": "bf-3",
       "question": "What is the largest part of the human brain called?",
-      "options": ["Cerebellum", "Brain stem", "Cerebrum", "Hypothalamus"],
-      "correctAnswer": 2,
+      "options": [
+        "Hypothalamus",
+        "Cerebrum",
+        "Cerebellum",
+        "Brain stem"
+      ],
+      "correctAnswer": 1,
       "explanation": "The cerebrum is the largest part of the brain, making up about 85% of its total weight. It is responsible for thinking, learning, memory, and voluntary movements.",
       "difficulty": "easy",
       "category": "science"
@@ -35,8 +50,13 @@
     {
       "id": "bf-4",
       "question": "How many main lobes does each hemisphere of the brain have?",
-      "options": ["2", "3", "4", "5"],
-      "correctAnswer": 2,
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 3,
       "explanation": "Each hemisphere has 4 main lobes: frontal (reasoning, planning), parietal (sensory processing), temporal (hearing, memory), and occipital (vision).",
       "difficulty": "easy",
       "category": "science"
@@ -44,8 +64,13 @@
     {
       "id": "bf-5",
       "question": "What are the cells in the brain that transmit information called?",
-      "options": ["Platelets", "Neurons", "Red blood cells", "Stem cells"],
-      "correctAnswer": 1,
+      "options": [
+        "Platelets",
+        "Stem cells",
+        "Red blood cells",
+        "Neurons"
+      ],
+      "correctAnswer": 3,
       "explanation": "Neurons are the brain's information-transmitting cells. The human brain contains approximately 86 billion neurons, each connected to thousands of others.",
       "difficulty": "easy",
       "category": "science"
@@ -53,8 +78,13 @@
     {
       "id": "bf-6",
       "question": "Which part of the brain is responsible for balance and coordination?",
-      "options": ["Cerebrum", "Cerebellum", "Brain stem", "Thalamus"],
-      "correctAnswer": 1,
+      "options": [
+        "Cerebrum",
+        "Thalamus",
+        "Brain stem",
+        "Cerebellum"
+      ],
+      "correctAnswer": 3,
       "explanation": "The cerebellum, located at the back of the brain, controls balance, coordination, and fine motor skills. It contains about 50% of the brain's neurons despite being only 10% of its volume.",
       "difficulty": "medium",
       "category": "science"
@@ -62,7 +92,12 @@
     {
       "id": "bf-7",
       "question": "What is the term for the brain's ability to reorganize itself by forming new neural connections?",
-      "options": ["Neurogenesis", "Neuroplasticity", "Neurotransmission", "Neurodegeneration"],
+      "options": [
+        "Neurogenesis",
+        "Neuroplasticity",
+        "Neurotransmission",
+        "Neurodegeneration"
+      ],
       "correctAnswer": 1,
       "explanation": "Neuroplasticity is the brain's remarkable ability to reorganize itself by forming new neural connections throughout life. This ability is crucial for learning, memory, and recovery from brain injuries.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "bf-8",
       "question": "Approximately how fast can information travel along neurons in the brain?",
-      "options": ["Up to 2 mph", "Up to 25 mph", "Up to 120 mph", "Up to 268 mph"],
-      "correctAnswer": 3,
+      "options": [
+        "Up to 120 mph",
+        "Up to 2 mph",
+        "Up to 268 mph",
+        "Up to 25 mph"
+      ],
+      "correctAnswer": 2,
       "explanation": "Information can travel along neurons at speeds up to 268 mph (431 km/h). The speed varies depending on the type of neuron and whether it has a myelin sheath.",
       "difficulty": "medium",
       "category": "science"
@@ -80,8 +120,13 @@
     {
       "id": "bf-9",
       "question": "What chemical messenger is often called the 'feel-good' neurotransmitter?",
-      "options": ["Acetylcholine", "Serotonin", "Dopamine", "Glutamate"],
-      "correctAnswer": 2,
+      "options": [
+        "Acetylcholine",
+        "Serotonin",
+        "Glutamate",
+        "Dopamine"
+      ],
+      "correctAnswer": 3,
       "explanation": "Dopamine is often called the 'feel-good' neurotransmitter because it plays a key role in reward, motivation, and pleasure. It is also important for motor control and focus.",
       "difficulty": "medium",
       "category": "science"
@@ -89,8 +134,13 @@
     {
       "id": "bf-10",
       "question": "Which part of the brain is most associated with forming new long-term memories?",
-      "options": ["Amygdala", "Hippocampus", "Frontal lobe", "Cerebellum"],
-      "correctAnswer": 1,
+      "options": [
+        "Amygdala",
+        "Frontal lobe",
+        "Cerebellum",
+        "Hippocampus"
+      ],
+      "correctAnswer": 3,
       "explanation": "The hippocampus is crucial for forming new long-term memories and spatial navigation. Damage to this area can result in an inability to form new memories.",
       "difficulty": "medium",
       "category": "science"
@@ -98,8 +148,13 @@
     {
       "id": "bf-11",
       "question": "What is the protective barrier between the bloodstream and the brain called?",
-      "options": ["Meninges", "Blood-brain barrier", "Cerebral cortex", "Dura mater"],
-      "correctAnswer": 1,
+      "options": [
+        "Blood-brain barrier",
+        "Meninges",
+        "Cerebral cortex",
+        "Dura mater"
+      ],
+      "correctAnswer": 0,
       "explanation": "The blood-brain barrier is a highly selective membrane that prevents most substances in the blood from crossing into the brain. It protects the brain from toxins and pathogens.",
       "difficulty": "hard",
       "category": "science"
@@ -107,7 +162,12 @@
     {
       "id": "bf-12",
       "question": "During which stage of sleep does the brain consolidate most memories?",
-      "options": ["Stage 1 (light sleep)", "Stage 2 (moderate sleep)", "Stage 3 (deep sleep)", "REM sleep"],
+      "options": [
+        "Stage 3 (deep sleep)",
+        "Stage 1 (light sleep)",
+        "Stage 2 (moderate sleep)",
+        "REM sleep"
+      ],
       "correctAnswer": 3,
       "explanation": "REM (Rapid Eye Movement) sleep is when the brain is most active in consolidating memories, especially procedural and emotional memories. Deep sleep also helps with declarative memory consolidation.",
       "difficulty": "hard",
@@ -116,7 +176,12 @@
     {
       "id": "bf-13",
       "question": "Approximately how many synaptic connections does the average adult brain have?",
-      "options": ["1 billion", "100 billion", "100 trillion", "1 quadrillion"],
+      "options": [
+        "1 quadrillion",
+        "100 billion",
+        "100 trillion",
+        "1 billion"
+      ],
       "correctAnswer": 2,
       "explanation": "The adult brain has approximately 100 trillion (10^14) synaptic connections. Each neuron can have thousands of connections to other neurons, creating an incredibly complex network.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "bf-14",
       "question": "What part of the brain controls the 'fight or flight' response?",
-      "options": ["Prefrontal cortex", "Hippocampus", "Amygdala", "Cerebellum"],
-      "correctAnswer": 2,
+      "options": [
+        "Prefrontal cortex",
+        "Amygdala",
+        "Hippocampus",
+        "Cerebellum"
+      ],
+      "correctAnswer": 1,
       "explanation": "The amygdala is responsible for the fight-or-flight response and processing emotions, particularly fear. It can trigger rapid emotional reactions before the conscious brain has time to process information.",
       "difficulty": "hard",
       "category": "science"
@@ -134,8 +204,13 @@
     {
       "id": "bf-15",
       "question": "What is the fatty substance that insulates nerve fibers and speeds up neural transmission called?",
-      "options": ["Collagen", "Myelin", "Keratin", "Melanin"],
-      "correctAnswer": 1,
+      "options": [
+        "Myelin",
+        "Collagen",
+        "Keratin",
+        "Melanin"
+      ],
+      "correctAnswer": 0,
       "explanation": "Myelin is a fatty white substance that forms a sheath around nerve fibers, insulating them and greatly increasing the speed of electrical impulse transmission. Loss of myelin is associated with diseases like multiple sclerosis.",
       "difficulty": "hard",
       "category": "science"

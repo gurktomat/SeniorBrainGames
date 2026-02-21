@@ -1,0 +1,173 @@
+{
+  "id": "vintage-aircraft-quiz",
+  "title": "Vintage Aircraft Quiz",
+  "description": "Recall facts about classic planes from the golden age of aviation",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "vintage-aircraft-quiz-1",
+      "question": "The 'Spirit of St. Louis' was flown by Charles Lindbergh on the first solo nonstop transatlantic flight in what year?",
+      "options": [
+        "1931",
+        "1925",
+        "1927",
+        "1929"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-aircraft-quiz-2",
+      "question": "The Sopwith Camel was a famous fighter aircraft from which conflict?",
+      "options": [
+        "Boer War",
+        "World War II",
+        "Spanish Civil War",
+        "World War I"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-aircraft-quiz-3",
+      "question": "The B-17 'Flying Fortress' was a heavy bomber used primarily during which war?",
+      "options": [
+        "World War I",
+        "Vietnam War",
+        "Korean War",
+        "World War II"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-aircraft-quiz-4",
+      "question": "Amelia Earhart disappeared in 1937 while attempting to fly around which body?",
+      "options": [
+        "The world",
+        "The Atlantic Ocean",
+        "The African continent",
+        "The Pacific Ocean"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-aircraft-quiz-5",
+      "question": "The Messerschmitt Bf 109 was the primary fighter aircraft of which country in WWII?",
+      "options": [
+        "Germany",
+        "Soviet Union",
+        "Italy",
+        "Japan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-aircraft-quiz-6",
+      "question": "The 'Spruce Goose,' the largest flying boat ever built, was designed by which aviator?",
+      "options": [
+        "Amelia Earhart",
+        "Jimmy Doolittle",
+        "Charles Lindbergh",
+        "Howard Hughes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-aircraft-quiz-7",
+      "question": "The de Havilland Comet, which entered service in 1952, was the world's first what?",
+      "options": [
+        "Commercial jet airliner",
+        "Helicopter",
+        "Supersonic aircraft",
+        "Flying boat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "vintage-aircraft-quiz-8",
+      "question": "The Zero was a famous WWII fighter plane from which country?",
+      "options": [
+        "Germany",
+        "Japan",
+        "Italy",
+        "United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-aircraft-quiz-9",
+      "question": "The Fokker Dr.I triplane was famously flown by which WWI ace?",
+      "options": [
+        "Eddie Rickenbacker",
+        "The Red Baron (Manfred von Richthofen)",
+        "Rene Fonck",
+        "Billy Bishop"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-aircraft-quiz-10",
+      "question": "The Lockheed Constellation was a distinctive propeller airliner known for its what?",
+      "options": [
+        "Delta wing shape",
+        "Straight wings",
+        "Single large engine",
+        "Triple tail fins"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-aircraft-quiz-11",
+      "question": "The Boeing B-29 Superfortress was the aircraft that dropped atomic bombs on which two cities?",
+      "options": [
+        "Berlin and Munich",
+        "Kyoto and Kobe",
+        "Hiroshima and Nagasaki",
+        "Tokyo and Osaka"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-aircraft-quiz-12",
+      "question": "A 'barnstormer' in the 1920s was a pilot who did what?",
+      "options": [
+        "Delivered mail by air",
+        "Performed aerial stunts and gave rides at fairs",
+        "Built aircraft in barns",
+        "Flew military missions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "vintage-aircraft-quiz-13",
+      "question": "The Hawker Hurricane was a British WWII fighter that played a crucial role in which battle?",
+      "options": [
+        "Battle of the Bulge",
+        "Battle of Midway",
+        "Battle of Stalingrad",
+        "Battle of Britain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "vintage-aircraft-quiz-14",
+      "question": "The Ford Trimotor, nicknamed the 'Tin Goose,' was an early commercial aircraft made primarily of what material?",
+      "options": [
+        "Steel",
+        "Fiberglass",
+        "Corrugated aluminum",
+        "Wood and fabric"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "vintage-aircraft-quiz-15",
+      "question": "Chuck Yeager broke the sound barrier in 1947 in which experimental aircraft?",
+      "options": [
+        "Douglas Skyrocket",
+        "Bell X-1",
+        "North American F-86",
+        "X-15"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

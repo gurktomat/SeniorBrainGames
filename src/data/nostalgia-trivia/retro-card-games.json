@@ -1,0 +1,173 @@
+{
+  "id": "retro-card-games",
+  "title": "Retro Card Games",
+  "description": "From Old Maid to Rummy, test your knowledge of the card games that brought families together around the kitchen table!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "retro-card-games-1",
+      "question": "In the children's card game Old Maid, what is the objective?",
+      "options": [
+        "Get rid of all your cards first",
+        "Collect all four queens",
+        "Avoid being left with the unmatched Old Maid card",
+        "Collect the most pairs"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-card-games-2",
+      "question": "The card game Go Fish is typically recommended for children of what minimum age?",
+      "options": [
+        "8 years old",
+        "3 years old",
+        "4 years old",
+        "6 years old"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-card-games-3",
+      "question": "In the card game War, what happens when both players flip over cards of equal value?",
+      "options": [
+        "The dealer wins",
+        "Both cards are discarded",
+        "The game ends in a tie",
+        "Players declare 'War' and play additional cards"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-card-games-4",
+      "question": "Canasta, hugely popular in the 1950s, originated in which country?",
+      "options": [
+        "Spain",
+        "Uruguay",
+        "Mexico",
+        "Italy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-card-games-5",
+      "question": "How many cards are dealt to each player in a standard game of Gin Rummy?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "13"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-card-games-6",
+      "question": "The card game Crazy Eights gets its name from the fact that eights serve what special function?",
+      "options": [
+        "They end the game",
+        "They score double points",
+        "They are wild cards",
+        "They must be discarded immediately"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-card-games-7",
+      "question": "What popular card game, often played by families, requires players to shout the game's name when they have one card left?",
+      "options": [
+        "Skip-Bo",
+        "Crazy Eights",
+        "Rummy",
+        "Uno"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-card-games-8",
+      "question": "In Bridge, how many players are needed to play a standard game?",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-card-games-9",
+      "question": "What card game, popular in the 1940s-50s, involves matching sets and runs of cards and was named after a type of liquor?",
+      "options": [
+        "Gin Rummy",
+        "Brandy",
+        "Poker",
+        "Whiskey Poker"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-card-games-10",
+      "question": "The card game Slapjack requires players to slap the pile when which card appears?",
+      "options": [
+        "King",
+        "Queen",
+        "Ace",
+        "Jack"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-card-games-11",
+      "question": "In Pinochle, a popular card game among older generations, how many cards are in a Pinochle deck?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "52"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-card-games-12",
+      "question": "What classic card game involves building ascending and descending sequences and is commonly played as a solo (patience) game?",
+      "options": [
+        "Hearts",
+        "Euchre",
+        "Spades",
+        "Solitaire"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-card-games-13",
+      "question": "The children's card game 'Snap' requires players to do what when matching cards appear?",
+      "options": [
+        "Clap their hands",
+        "Stand up quickly",
+        "Shout 'Snap!' and slap the pile",
+        "Snap their fingers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-card-games-14",
+      "question": "Which card game, extremely popular in the 1950s and 1960s, was played by two partnerships and involved bidding and trick-taking?",
+      "options": [
+        "Poker",
+        "Rummy",
+        "Blackjack",
+        "Contract Bridge"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-card-games-15",
+      "question": "What was the name of the specialty card game made by Parker Brothers that used illustrated cards instead of a standard deck?",
+      "options": [
+        "Pit",
+        "Mille Bornes",
+        "Authors",
+        "Flinch"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

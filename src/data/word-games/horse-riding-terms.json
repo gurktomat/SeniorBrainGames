@@ -7,91 +7,166 @@
     {
       "id": "horse-riding-terms-1",
       "question": "What is a 'gelding'?",
-      "options": ["A young female horse", "A castrated male horse", "A wild horse", "A horse used for racing"],
+      "options": [
+        "A young female horse",
+        "A castrated male horse",
+        "A horse used for racing",
+        "A wild horse"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-2",
       "question": "What does 'trot' describe in horse gaits?",
-      "options": ["The slowest gait where only one foot moves at a time", "A two-beat diagonal gait faster than a walk", "The fastest gait at full speed", "A sideways stepping movement"],
+      "options": [
+        "The fastest gait at full speed",
+        "A two-beat diagonal gait faster than a walk",
+        "The slowest gait where only one foot moves at a time",
+        "A sideways stepping movement"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-3",
       "question": "What is a 'pommel' on a saddle?",
-      "options": ["The strap that goes under the horse's belly", "The raised front part of the saddle", "The stirrup where the foot rests", "The blanket placed under the saddle"],
-      "correctAnswer": 1
+      "options": [
+        "The raised front part of the saddle",
+        "The stirrup where the foot rests",
+        "The blanket placed under the saddle",
+        "The strap that goes under the horse's belly"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "horse-riding-terms-4",
       "question": "What does 'canter' refer to?",
-      "options": ["A slow walk", "A three-beat gait between trot and gallop", "Standing still while mounted", "Backing up"],
-      "correctAnswer": 1
+      "options": [
+        "A slow walk",
+        "Backing up",
+        "Standing still while mounted",
+        "A three-beat gait between trot and gallop"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "horse-riding-terms-5",
       "question": "What is a 'bridle'?",
-      "options": ["A protective covering for the horse's legs", "The headgear used to control and direct a horse", "A whip used by the rider", "A blanket thrown over the horse"],
-      "correctAnswer": 1
+      "options": [
+        "A protective covering for the horse's legs",
+        "A whip used by the rider",
+        "The headgear used to control and direct a horse",
+        "A blanket thrown over the horse"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "horse-riding-terms-6",
       "question": "What is a 'farrier'?",
-      "options": ["A horse trainer", "A person who shoes horses", "A horse breeder", "A stable manager"],
-      "correctAnswer": 1
+      "options": [
+        "A horse breeder",
+        "A stable manager",
+        "A person who shoes horses",
+        "A horse trainer"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "horse-riding-terms-7",
       "question": "What does 'dressage' mean?",
-      "options": ["A type of horse racing", "A discipline where horse and rider perform precise, predetermined movements", "Grooming and dressing a horse", "Jumping over obstacles"],
+      "options": [
+        "Grooming and dressing a horse",
+        "A discipline where horse and rider perform precise, predetermined movements",
+        "A type of horse racing",
+        "Jumping over obstacles"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-8",
       "question": "What is a 'foal'?",
-      "options": ["An old retired horse", "A young horse under one year old", "A type of horse breed", "A female horse used for breeding"],
-      "correctAnswer": 1
+      "options": [
+        "An old retired horse",
+        "A type of horse breed",
+        "A female horse used for breeding",
+        "A young horse under one year old"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "horse-riding-terms-9",
       "question": "What is the 'withers' on a horse?",
-      "options": ["The tail area", "The ridge between the shoulder blades, used to measure height", "The lower leg just above the hoof", "The muzzle and nose area"],
-      "correctAnswer": 1
+      "options": [
+        "The muzzle and nose area",
+        "The tail area",
+        "The ridge between the shoulder blades, used to measure height",
+        "The lower leg just above the hoof"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "horse-riding-terms-10",
       "question": "What is a 'girth' in horse riding?",
-      "options": ["The length of the horse from nose to tail", "A strap that goes around the horse's belly to secure the saddle", "The width of a horse's chest", "A measurement of hoof size"],
+      "options": [
+        "The length of the horse from nose to tail",
+        "A strap that goes around the horse's belly to secure the saddle",
+        "The width of a horse's chest",
+        "A measurement of hoof size"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-11",
       "question": "What does 'hands' measure in relation to horses?",
-      "options": ["The length of the horse's mane", "The horse's height, with one hand equaling four inches", "The width of the horse's hooves", "The horse's weight"],
+      "options": [
+        "The width of the horse's hooves",
+        "The horse's height, with one hand equaling four inches",
+        "The horse's weight",
+        "The length of the horse's mane"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-12",
       "question": "What is a 'mare'?",
-      "options": ["A young male horse", "An adult female horse", "A wild mustang", "A horse trained for war"],
-      "correctAnswer": 1
+      "options": [
+        "A young male horse",
+        "A wild mustang",
+        "A horse trained for war",
+        "An adult female horse"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "horse-riding-terms-13",
       "question": "What is 'posting' or 'rising' in horse riding?",
-      "options": ["Sending a horse through the mail system", "Rising and sitting rhythmically in the saddle during a trot", "Standing still in the stirrups", "Leaning forward during a gallop"],
+      "options": [
+        "Leaning forward during a gallop",
+        "Rising and sitting rhythmically in the saddle during a trot",
+        "Standing still in the stirrups",
+        "Sending a horse through the mail system"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-14",
       "question": "What is a 'stallion'?",
-      "options": ["A castrated male horse", "An uncastrated adult male horse", "A young horse of either sex", "A retired racehorse"],
+      "options": [
+        "A castrated male horse",
+        "An uncastrated adult male horse",
+        "A young horse of either sex",
+        "A retired racehorse"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "horse-riding-terms-15",
       "question": "What does 'gallop' describe?",
-      "options": ["A slow, relaxed walk", "The fastest natural gait of a horse with a four-beat rhythm", "A sideways movement", "Walking backward"],
+      "options": [
+        "Walking backward",
+        "The fastest natural gait of a horse with a four-beat rhythm",
+        "A sideways movement",
+        "A slow, relaxed walk"
+      ],
       "correctAnswer": 1
     }
   ]

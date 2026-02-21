@@ -1,0 +1,174 @@
+{
+  "id": "laundry-room-quiz",
+  "title": "Laundry Room Quiz",
+  "description": "Test your knowledge of laundry room essentials, from detergents to care labels and fabric care basics.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "laundry-room-quiz-1",
+      "question": "What does a circle symbol on a clothing care label indicate?",
+      "options": [
+        "Drying instructions",
+        "Ironing instructions",
+        "Washing instructions",
+        "Dry cleaning instructions"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "laundry-room-quiz-2",
+      "question": "Which laundry product is added during the rinse cycle to make fabrics softer and reduce static?",
+      "options": [
+        "Starch",
+        "Bleach",
+        "Fabric softener",
+        "Detergent booster"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "laundry-room-quiz-3",
+      "question": "What is the purpose of a lint trap in a clothes dryer?",
+      "options": [
+        "Catching lint and fiber debris to prevent buildup and fire hazards",
+        "Adding fragrance to clothes",
+        "Heating the air",
+        "Controlling the temperature"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-4",
+      "question": "Which substance is commonly used to whiten white fabrics and disinfect laundry?",
+      "options": [
+        "Chlorine bleach",
+        "Hydrogen peroxide",
+        "Vinegar",
+        "Baking soda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-5",
+      "question": "What does a square with a circle inside represent on a care label?",
+      "options": [
+        "Tumble dry",
+        "Machine wash",
+        "Do not wring",
+        "Hang dry"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-6",
+      "question": "Which laundry item is a flat, heated metal surface used to press wrinkles out of clothing?",
+      "options": [
+        "Press cloth",
+        "Iron",
+        "Mangle",
+        "Steamer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "laundry-room-quiz-7",
+      "question": "What is laundry bluing used for?",
+      "options": [
+        "Adding a trace of blue dye to counteract yellowing in white fabrics",
+        "Removing blue stains",
+        "Dyeing clothes blue",
+        "Softening hard water"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-8",
+      "question": "Which type of detergent is specifically formulated for high-efficiency (HE) washing machines?",
+      "options": [
+        "HE detergent (low-sudsing)",
+        "Washing soda",
+        "Bar soap",
+        "Powder detergent"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-9",
+      "question": "What is an ironing board?",
+      "options": [
+        "A padded, flat surface on legs designed for pressing clothes with an iron",
+        "A drying rack",
+        "A cutting surface for fabric",
+        "A folding table for sorting laundry"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-10",
+      "question": "Which product is sprayed on fabric before ironing to add crispness and stiffness?",
+      "options": [
+        "Wrinkle releaser",
+        "Static guard",
+        "Fabric softener",
+        "Spray starch"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "laundry-room-quiz-11",
+      "question": "What does an X through a symbol on a care label mean?",
+      "options": [
+        "Proceed with caution",
+        "Use extra product",
+        "Extra care needed",
+        "Do not perform that action"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "laundry-room-quiz-12",
+      "question": "Which laundry tool is a collapsible frame used to air-dry clothes indoors?",
+      "options": [
+        "Drying rack",
+        "Retractable hanger",
+        "Garment bag",
+        "Clothesline"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "laundry-room-quiz-13",
+      "question": "What is OxiClean (oxygen bleach) primarily used for?",
+      "options": [
+        "Preventing fabric shrinkage",
+        "Bleaching colored fabrics",
+        "Removing stains and brightening laundry as a color-safe bleach alternative",
+        "Disinfecting washing machines"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "laundry-room-quiz-14",
+      "question": "Which item is placed in the dryer to reduce static cling and add fragrance?",
+      "options": [
+        "Dryer ball",
+        "Scent booster",
+        "Fabric softener pod",
+        "Dryer sheet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "laundry-room-quiz-15",
+      "question": "What is the purpose of a mesh laundry bag?",
+      "options": [
+        "Separating colors from whites",
+        "Protecting delicate items during machine washing",
+        "Storing dirty clothes",
+        "Carrying laundry to the laundromat"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

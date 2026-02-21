@@ -8,8 +8,13 @@
     {
       "id": "vab-1",
       "question": "Which appliance brand used the advertising mascot of a lonely repairman because their machines never broke down?",
-      "options": ["Sears Kenmore", "Maytag", "Whirlpool", "General Electric"],
-      "correctAnswer": 1,
+      "options": [
+        "Whirlpool",
+        "General Electric",
+        "Maytag",
+        "Sears Kenmore"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Maytag Repairman, known as 'the loneliest guy in town,' was introduced in 1967. The character, originally played by Jesse White, became one of the most recognizable advertising mascots in American history.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "vab-2",
       "question": "What brand of television was known for the slogan 'The quality goes in before the name goes on'?",
-      "options": ["RCA", "Zenith", "Magnavox", "Philco"],
-      "correctAnswer": 1,
+      "options": [
+        "Zenith",
+        "Philco",
+        "RCA",
+        "Magnavox"
+      ],
+      "correctAnswer": 0,
       "explanation": "Zenith Electronics used this slogan for decades and was one of the most respected American television manufacturers from the 1940s through the 1980s. The company was eventually sold to LG Electronics in 1999.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -26,8 +36,13 @@
     {
       "id": "vab-3",
       "question": "Which company introduced the first electric refrigerator for home use, called the 'Monitor Top,' in 1927?",
-      "options": ["Frigidaire", "General Electric", "Westinghouse", "Kelvinator"],
-      "correctAnswer": 1,
+      "options": [
+        "General Electric",
+        "Westinghouse",
+        "Frigidaire",
+        "Kelvinator"
+      ],
+      "correctAnswer": 0,
       "explanation": "General Electric's Monitor Top refrigerator, named for its resemblance to the turret of the Civil War ship USS Monitor, was introduced in 1927. Over a million were sold, and some are still working today.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -35,7 +50,12 @@
     {
       "id": "vab-4",
       "question": "What brand name became so synonymous with refrigerators that people commonly used it as a generic term for the appliance?",
-      "options": ["Kelvinator", "Frigidaire", "Amana", "Hotpoint"],
+      "options": [
+        "Amana",
+        "Frigidaire",
+        "Hotpoint",
+        "Kelvinator"
+      ],
       "correctAnswer": 1,
       "explanation": "Frigidaire, originally a product of General Motors, became so dominant in the market that 'Frigidaire' became a generic term for refrigerator in many parts of the world, similar to how 'Kleenex' is used for tissues.",
       "difficulty": "easy",
@@ -44,8 +64,13 @@
     {
       "id": "vab-5",
       "question": "Which electronics company introduced 'His Master's Voice' with a logo featuring a dog listening to a gramophone?",
-      "options": ["Columbia Records", "RCA Victor", "Philips", "Magnavox"],
-      "correctAnswer": 1,
+      "options": [
+        "Columbia Records",
+        "Philips",
+        "Magnavox",
+        "RCA Victor"
+      ],
+      "correctAnswer": 3,
       "explanation": "RCA Victor's iconic logo featured Nipper the dog listening to a gramophone. The image was originally painted by Francis Barraud in 1898. RCA Victor was one of the dominant forces in home electronics for decades.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -53,7 +78,12 @@
     {
       "id": "vab-6",
       "question": "What American appliance brand, founded in 1893, was famous for its stand mixers and became a staple in American kitchens?",
-      "options": ["Hamilton Beach", "Sunbeam", "KitchenAid", "Oster"],
+      "options": [
+        "Oster",
+        "Hamilton Beach",
+        "KitchenAid",
+        "Sunbeam"
+      ],
       "correctAnswer": 2,
       "explanation": "KitchenAid introduced its iconic stand mixer in 1919. The design has remained remarkably similar for over a century, and the mixer became a status symbol in American kitchens, especially from the 1950s onward.",
       "difficulty": "easy",
@@ -62,8 +92,13 @@
     {
       "id": "vab-7",
       "question": "Which brand manufactured the popular 'Toast-R-Oven' that combined a toaster and a small oven?",
-      "options": ["Sunbeam", "General Electric", "Black & Decker", "Proctor-Silex"],
-      "correctAnswer": 2,
+      "options": [
+        "Sunbeam",
+        "Black & Decker",
+        "Proctor-Silex",
+        "General Electric"
+      ],
+      "correctAnswer": 1,
       "explanation": "Black & Decker's Toast-R-Oven, introduced in 1972, was one of the first popular toaster ovens for home use. It became a kitchen staple in millions of American homes during the 1970s and 1980s.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,7 +106,12 @@
     {
       "id": "vab-8",
       "question": "What television brand was famous for its 'cabinet-style' consoles that doubled as living room furniture?",
-      "options": ["Zenith", "Magnavox", "Admiral", "DuMont"],
+      "options": [
+        "Admiral",
+        "Magnavox",
+        "Zenith",
+        "DuMont"
+      ],
       "correctAnswer": 1,
       "explanation": "Magnavox was renowned for its high-quality console televisions and stereos that were designed as elegant furniture pieces. Their console TVs and stereo units were centerpieces of living rooms throughout the 1950s-1970s.",
       "difficulty": "medium",
@@ -80,7 +120,12 @@
     {
       "id": "vab-9",
       "question": "Which company manufactured the Mixmaster, one of the first popular electric food mixers for home use?",
-      "options": ["Hamilton Beach", "Oster", "Sunbeam", "Dormeyer"],
+      "options": [
+        "Oster",
+        "Hamilton Beach",
+        "Sunbeam",
+        "Dormeyer"
+      ],
       "correctAnswer": 2,
       "explanation": "Sunbeam introduced the Mixmaster in 1930, and it became the best-selling electric mixer for decades. The name 'Mixmaster' became so popular it was often used as a generic term for any electric mixer.",
       "difficulty": "hard",
@@ -89,8 +134,13 @@
     {
       "id": "vab-10",
       "question": "What brand of record players and stereo systems used the tagline 'Is it live, or is it Memorex?'",
-      "options": ["Maxell", "TDK", "Memorex", "BASF"],
-      "correctAnswer": 2,
+      "options": [
+        "Memorex",
+        "BASF",
+        "TDK",
+        "Maxell"
+      ],
+      "correctAnswer": 0,
       "explanation": "Memorex's famous advertising campaign featuring Ella Fitzgerald shattering a glass with her voice — then doing the same with a Memorex recording — ran throughout the 1970s and 1980s and became a cultural catchphrase.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "vab-11",
       "question": "Which American company was the leading manufacturer of black-and-white televisions in the 1950s with its 'Predicta' design?",
-      "options": ["Motorola", "Philco", "Admiral", "Emerson"],
-      "correctAnswer": 1,
+      "options": [
+        "Philco",
+        "Emerson",
+        "Motorola",
+        "Admiral"
+      ],
+      "correctAnswer": 0,
       "explanation": "Philco's Predicta television line, introduced in 1958, featured a revolutionary swivel screen that could be turned independently of the base. Though short-lived, the Predicta became a highly sought-after retro collectible.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "vab-12",
       "question": "What company made the 'Osterizer,' one of the most popular home blenders of the mid-20th century?",
-      "options": ["Sunbeam", "Waring", "Oster", "Hamilton Beach"],
-      "correctAnswer": 2,
+      "options": [
+        "Hamilton Beach",
+        "Oster",
+        "Waring",
+        "Sunbeam"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Osterizer blender, first produced in 1946, became synonymous with home blending. John Oster Manufacturing Company created a chrome-and-glass design that graced kitchen counters across America for decades.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "vab-13",
       "question": "Which brand was known for its portable transistor radios that teenagers carried everywhere in the late 1950s and 1960s?",
-      "options": ["Zenith", "Motorola", "Sony", "Regency"],
-      "correctAnswer": 0,
+      "options": [
+        "Sony",
+        "Regency",
+        "Motorola",
+        "Zenith"
+      ],
+      "correctAnswer": 3,
       "explanation": "While Regency made the first transistor radio in 1954, Zenith's Royal series of transistor radios became hugely popular with young people in the late 1950s and 1960s, helping launch portable music listening culture.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "vab-14",
       "question": "What appliance brand popularized the electric can opener for home kitchens in the 1950s?",
-      "options": ["Rival", "Sunbeam", "Proctor-Silex", "Hamilton Beach"],
-      "correctAnswer": 0,
+      "options": [
+        "Sunbeam",
+        "Rival",
+        "Proctor-Silex",
+        "Hamilton Beach"
+      ],
+      "correctAnswer": 1,
       "explanation": "Rival Manufacturing Company helped popularize the electric can opener for home use in the 1950s. Before electric openers, opening cans required manual cranking or a church key, making this a welcomed kitchen innovation.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "vab-15",
       "question": "Which American electronics company, known for its radios and TVs, also manufactured the first commercially successful car radio?",
-      "options": ["RCA", "Philco", "Motorola", "Zenith"],
-      "correctAnswer": 2,
+      "options": [
+        "RCA",
+        "Motorola",
+        "Zenith",
+        "Philco"
+      ],
+      "correctAnswer": 1,
       "explanation": "Motorola got its name from combining 'motor' and 'Victrola' when it introduced its car radio in 1930. The company started as Galvin Manufacturing Corporation and became a major force in consumer electronics and communications.",
       "difficulty": "medium",
       "category": "nostalgia"

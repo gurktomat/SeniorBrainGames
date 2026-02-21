@@ -1,0 +1,173 @@
+{
+  "id": "art-styles-recall",
+  "title": "Art Styles Recall",
+  "description": "Can you identify famous art styles and their key characteristics?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "art-styles-recall-1",
+      "question": "Which art style is characterized by small, visible brushstrokes and an emphasis on light?",
+      "options": [
+        "Baroque",
+        "Surrealism",
+        "Cubism",
+        "Impressionism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-2",
+      "question": "Pablo Picasso and Georges Braque were pioneers of which art movement?",
+      "options": [
+        "Cubism",
+        "Dadaism",
+        "Expressionism",
+        "Fauvism"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "art-styles-recall-3",
+      "question": "Which art movement featured dreamlike imagery and the exploration of the unconscious mind?",
+      "options": [
+        "Realism",
+        "Minimalism",
+        "Pop Art",
+        "Surrealism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-4",
+      "question": "Andy Warhol was a leading figure in which art movement?",
+      "options": [
+        "Abstract Expressionism",
+        "Minimalism",
+        "Art Nouveau",
+        "Pop Art"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-5",
+      "question": "Which style of art focuses on geometric shapes and bold primary colors, pioneered by Mondrian?",
+      "options": [
+        "Bauhaus",
+        "Constructivism",
+        "De Stijl",
+        "Futurism"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "art-styles-recall-6",
+      "question": "The Art Nouveau style was most popular during which period?",
+      "options": [
+        "1950s-1970s",
+        "1920s-1940s",
+        "1890s-1910s",
+        "1850s-1870s"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "art-styles-recall-7",
+      "question": "Which movement emphasized emotional expression through bold colors and distorted forms?",
+      "options": [
+        "Impressionism",
+        "Expressionism",
+        "Realism",
+        "Classicism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "art-styles-recall-8",
+      "question": "Jackson Pollock was famous for which painting technique?",
+      "options": [
+        "Pointillism",
+        "Impasto",
+        "Drip Painting",
+        "Fresco"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "art-styles-recall-9",
+      "question": "Which art style attempted to depict subjects from multiple viewpoints simultaneously?",
+      "options": [
+        "Romanticism",
+        "Realism",
+        "Impressionism",
+        "Cubism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-10",
+      "question": "The Baroque style originated in which country?",
+      "options": [
+        "Netherlands",
+        "France",
+        "Spain",
+        "Italy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-11",
+      "question": "Which art movement celebrated speed, technology, and modernity in early 20th-century Italy?",
+      "options": [
+        "Constructivism",
+        "Suprematism",
+        "Dadaism",
+        "Futurism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "art-styles-recall-12",
+      "question": "Pointillism uses tiny dots of color to create images. Who pioneered this technique?",
+      "options": [
+        "Paul Cezanne",
+        "Georges Seurat",
+        "Claude Monet",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "art-styles-recall-13",
+      "question": "Which art movement was a direct reaction against the horrors of World War I?",
+      "options": [
+        "Romanticism",
+        "Dadaism",
+        "Impressionism",
+        "Neoclassicism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "art-styles-recall-14",
+      "question": "Pre-Raphaelite art was associated with which country?",
+      "options": [
+        "England",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "art-styles-recall-15",
+      "question": "Which style emphasized clean lines, minimal ornamentation, and the phrase 'less is more'?",
+      "options": [
+        "Gothic",
+        "Minimalism",
+        "Art Deco",
+        "Rococo"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "world-street-food-quiz",
+  "title": "World Street Food Quiz",
+  "description": "Match iconic street foods to their countries and cultures of origin",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-street-food-quiz-1",
+      "question": "Pad Thai, a stir-fried noodle dish, is the national dish of which country?",
+      "options": [
+        "Thailand",
+        "Malaysia",
+        "Indonesia",
+        "Vietnam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-street-food-quiz-2",
+      "question": "Empanadas, stuffed pastry turnovers, are a popular street food in which region?",
+      "options": [
+        "Latin America",
+        "Middle East",
+        "Mediterranean",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-street-food-quiz-3",
+      "question": "Takoyaki, ball-shaped snacks filled with octopus, originate from which Japanese city?",
+      "options": [
+        "Hiroshima",
+        "Tokyo",
+        "Osaka",
+        "Kyoto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-street-food-quiz-4",
+      "question": "Falafel, deep-fried balls made from chickpeas, is a staple street food in which region?",
+      "options": [
+        "East Africa",
+        "Middle East",
+        "Southeast Asia",
+        "South Asia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-street-food-quiz-5",
+      "question": "Pho, a fragrant noodle soup, is a beloved street food from which country?",
+      "options": [
+        "Laos",
+        "Thailand",
+        "Cambodia",
+        "Vietnam"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-street-food-quiz-6",
+      "question": "Churros, fried dough pastries often dusted with sugar and cinnamon, originated in which country?",
+      "options": [
+        "France",
+        "Mexico",
+        "Portugal",
+        "Spain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-street-food-quiz-7",
+      "question": "Jerk chicken, marinated and grilled over pimento wood, is a signature dish of which country?",
+      "options": [
+        "Barbados",
+        "Jamaica",
+        "Trinidad",
+        "Haiti"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-street-food-quiz-8",
+      "question": "Doner kebab, meat cooked on a vertical rotisserie, originated in which country?",
+      "options": [
+        "Greece",
+        "Turkey",
+        "Iran",
+        "Lebanon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-street-food-quiz-9",
+      "question": "Pani puri, hollow crispy shells filled with flavored water, is a popular street snack in which country?",
+      "options": [
+        "Nepal",
+        "Bangladesh",
+        "Pakistan",
+        "India"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-street-food-quiz-10",
+      "question": "Arepas, cornmeal cakes that can be stuffed with various fillings, are popular in which countries?",
+      "options": [
+        "Colombia and Venezuela",
+        "Peru and Chile",
+        "Brazil and Argentina",
+        "Mexico and Guatemala"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-street-food-quiz-11",
+      "question": "Banh mi, a sandwich on a baguette with Vietnamese fillings, reflects the culinary influence of which colonial power?",
+      "options": [
+        "France",
+        "Spain",
+        "Britain",
+        "Netherlands"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-street-food-quiz-12",
+      "question": "Crepes, thin pancakes served sweet or savory, are a famous street food in which country?",
+      "options": [
+        "Italy",
+        "France",
+        "Switzerland",
+        "Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-street-food-quiz-13",
+      "question": "Satay, skewered and grilled meat with peanut sauce, is popular street food in which region?",
+      "options": [
+        "Middle East",
+        "South Asia",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-street-food-quiz-14",
+      "question": "Bunny chow, a hollowed-out bread loaf filled with curry, originated in which South African city?",
+      "options": [
+        "Pretoria",
+        "Johannesburg",
+        "Durban",
+        "Cape Town"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-street-food-quiz-15",
+      "question": "Pierogi, filled dumplings, are a beloved street food and national dish of which country?",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Czech Republic",
+        "Poland"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

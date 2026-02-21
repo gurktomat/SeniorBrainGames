@@ -9,40 +9,40 @@
       "question": "Which dance craze of 1960 was popularized by Chubby Checker's hit song of the same name?",
       "options": [
         "The Mashed Potato",
-        "The Twist",
         "The Watusi",
+        "The Twist",
         "The Swim"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-dance-moves-2",
       "question": "What 1950s dance involved partners performing acrobatic moves, throws, and flips?",
       "options": [
+        "The Stroll",
         "The Lindy Hop",
         "The Jive",
-        "The Bop",
-        "The Stroll"
+        "The Bop"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-dance-moves-3",
       "question": "Which TV show, hosted by Dick Clark, helped popularize many dance crazes from 1957 onward?",
       "options": [
-        "Soul Train",
         "American Bandstand",
         "Shindig!",
-        "Hullabaloo"
+        "Hullabaloo",
+        "Soul Train"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-dance-moves-4",
       "question": "What disco dance move involved pointing one hand toward the ceiling and the other toward the floor?",
       "options": [
-        "The Bump",
         "The Hustle",
+        "The Bump",
         "The Saturday Night Fever pose",
         "The Robot"
       ],
@@ -52,10 +52,10 @@
       "id": "retro-dance-moves-5",
       "question": "Which 1962 dance craze mimicked the movements of mashing potatoes?",
       "options": [
-        "The Watusi",
+        "The Frug",
         "The Mashed Potato",
-        "The Monkey",
-        "The Frug"
+        "The Watusi",
+        "The Monkey"
       ],
       "correctAnswer": 1
     },
@@ -63,10 +63,10 @@
       "id": "retro-dance-moves-6",
       "question": "What was the name of the popular 1970s disco line dance performed to Van McCoy's hit?",
       "options": [
-        "The Bus Stop",
+        "The Bump",
         "The Hustle",
-        "The Electric Slide",
-        "The Bump"
+        "The Bus Stop",
+        "The Electric Slide"
       ],
       "correctAnswer": 1
     },
@@ -74,76 +74,76 @@
       "id": "retro-dance-moves-7",
       "question": "Which 1950s dance featured couples walking in two parallel lines, with each couple taking turns dancing down the center?",
       "options": [
-        "The Bop",
         "The Hand Jive",
-        "The Stroll",
-        "The Bunny Hop"
+        "The Bop",
+        "The Bunny Hop",
+        "The Stroll"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "retro-dance-moves-8",
       "question": "What 1980s breakdancing move involved spinning on one's back on the floor?",
       "options": [
-        "The Windmill",
         "The Worm",
+        "The Moonwalk",
         "The Pop and Lock",
-        "The Moonwalk"
+        "The Windmill"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "retro-dance-moves-9",
       "question": "Which dance move did Michael Jackson famously debut on the 1983 Motown 25 TV special?",
       "options": [
-        "The Robot",
         "The Moonwalk",
-        "The Thriller dance",
-        "The Spin"
+        "The Spin",
+        "The Robot",
+        "The Thriller dance"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-dance-moves-10",
       "question": "What 1970s dance involved two people bumping their hips together?",
       "options": [
         "The Hustle",
+        "The Funky Chicken",
         "The Bump",
-        "The Bus Stop",
-        "The Funky Chicken"
+        "The Bus Stop"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-dance-moves-11",
       "question": "Which 1960s dance was inspired by a song by Major Lance and involved swinging your arms?",
       "options": [
-        "The Monkey",
         "The Swim",
-        "The Jerk",
-        "The Freddie"
+        "The Freddie",
+        "The Monkey",
+        "The Jerk"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "retro-dance-moves-12",
       "question": "What was the name of the dance featured in the 1978 movie 'Grease' at the school dance scene?",
       "options": [
-        "The Twist",
-        "The Hand Jive",
         "The Stroll",
-        "The Lindy Hop"
+        "The Lindy Hop",
+        "The Hand Jive",
+        "The Twist"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-dance-moves-13",
       "question": "Which TV show, premiering in 1971, became famous for showcasing soul and funk dance moves?",
       "options": [
+        "In Living Color",
         "American Bandstand",
-        "Solid Gold",
         "Soul Train",
-        "In Living Color"
+        "Solid Gold"
       ],
       "correctAnswer": 2
     },
@@ -151,23 +151,23 @@
       "id": "retro-dance-moves-14",
       "question": "What popular 1960s dance mimicked swimming strokes?",
       "options": [
-        "The Watusi",
-        "The Swim",
         "The Surf",
-        "The Wave"
+        "The Wave",
+        "The Watusi",
+        "The Swim"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-dance-moves-15",
       "question": "Which 1980s dance craze was popularized by the music video for 'Safety Dance' by Men Without Hats?",
       "options": [
         "The New Wave",
-        "The Safety Dance",
         "Pogoing",
-        "Voguing"
+        "Voguing",
+        "The Safety Dance"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

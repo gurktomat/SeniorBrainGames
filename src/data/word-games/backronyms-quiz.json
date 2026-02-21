@@ -7,91 +7,166 @@
     {
       "id": "backronyms-quiz-1",
       "question": "What does the acronym 'SCUBA' stand for?",
-      "options": ["Self-Contained Underwater Breathing Apparatus", "Sub-Coastal Underwater Breathing Aid", "Sealed Container for Underwater Breathing Activity", "Standard Certified Underwater Breathing Apparatus"],
-      "correctAnswer": 0
+      "options": [
+        "Sealed Container for Underwater Breathing Activity",
+        "Self-Contained Underwater Breathing Apparatus",
+        "Sub-Coastal Underwater Breathing Aid",
+        "Standard Certified Underwater Breathing Apparatus"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "backronyms-quiz-2",
       "question": "What does 'LASER' stand for?",
-      "options": ["Light Activated System for Energy Release", "Light Amplification by Stimulated Emission of Radiation", "Linear Amplified Signal for Emission of Radiation", "Luminous Activation by Stimulated Energy Rays"],
-      "correctAnswer": 1
+      "options": [
+        "Light Amplification by Stimulated Emission of Radiation",
+        "Linear Amplified Signal for Emission of Radiation",
+        "Light Activated System for Energy Release",
+        "Luminous Activation by Stimulated Energy Rays"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-3",
       "question": "The word 'RADAR' is actually an acronym. What does it stand for?",
-      "options": ["Radio Detection And Ranging", "Rapid Distance And Recognition", "Radio Directional Antenna Receiver", "Remote Area Detection And Response"],
-      "correctAnswer": 0
+      "options": [
+        "Remote Area Detection And Response",
+        "Radio Directional Antenna Receiver",
+        "Radio Detection And Ranging",
+        "Rapid Distance And Recognition"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "backronyms-quiz-4",
       "question": "What does the initialism 'FAQ' stand for?",
-      "options": ["First Available Question", "Fast Answers Quickly", "Frequently Asked Questions", "Facts And Queries"],
-      "correctAnswer": 2
+      "options": [
+        "First Available Question",
+        "Fast Answers Quickly",
+        "Facts And Queries",
+        "Frequently Asked Questions"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "backronyms-quiz-5",
       "question": "What does 'NASA' stand for?",
-      "options": ["National Air and Space Association", "North American Space Agency", "National Aeronautics and Space Administration", "National Association of Space Administrators"],
-      "correctAnswer": 2
+      "options": [
+        "National Aeronautics and Space Administration",
+        "National Association of Space Administrators",
+        "North American Space Agency",
+        "National Air and Space Association"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-6",
       "question": "The common word 'ZIP' in ZIP code stands for:",
-      "options": ["Zone Improvement Plan", "Zoned Industrial Postal", "Zipping Instant Post", "Zone Identification Protocol"],
-      "correctAnswer": 0
+      "options": [
+        "Zone Identification Protocol",
+        "Zone Improvement Plan",
+        "Zipping Instant Post",
+        "Zoned Industrial Postal"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "backronyms-quiz-7",
       "question": "What does 'RSVP' stand for in the original French?",
-      "options": ["Repondez Seulement Votre Presence", "Repondez S'il Vous Plait", "Retournez Son Visite Promptement", "Recevez Sans Votre Permission"],
-      "correctAnswer": 1
+      "options": [
+        "Repondez S'il Vous Plait",
+        "Repondez Seulement Votre Presence",
+        "Retournez Son Visite Promptement",
+        "Recevez Sans Votre Permission"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-8",
       "question": "What does 'CAPTCHA' stand for?",
-      "options": ["Computer Automated Processing To Check Human Activity", "Completely Automated Public Turing test to tell Computers and Humans Apart", "Central Automated Program To Catch Hacking Attempts", "Computer Analysis Program for Testing Character and Human Access"],
-      "correctAnswer": 1
+      "options": [
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Central Automated Program To Catch Hacking Attempts",
+        "Computer Automated Processing To Check Human Activity",
+        "Computer Analysis Program for Testing Character and Human Access"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-9",
       "question": "What does the acronym 'AWOL' stand for?",
-      "options": ["Always Walking On Leave", "Absent Without Official Leave", "Away Without Leaving", "Armed Without Operating License"],
-      "correctAnswer": 1
+      "options": [
+        "Absent Without Official Leave",
+        "Always Walking On Leave",
+        "Armed Without Operating License",
+        "Away Without Leaving"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-10",
       "question": "What does 'SOS' officially stand for in maritime distress signals?",
-      "options": ["Save Our Ship", "Save Our Souls", "It doesn't stand for anything — it was chosen for its distinctive Morse code pattern", "Send Out Signals"],
-      "correctAnswer": 2
+      "options": [
+        "Save Our Ship",
+        "Send Out Signals",
+        "Save Our Souls",
+        "It doesn't stand for anything — it was chosen for its distinctive Morse code pattern"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "backronyms-quiz-11",
       "question": "What does 'ASAP' stand for?",
-      "options": ["Always Send A Package", "As Soon As Possible", "At Specified Arrival Point", "According to Standard Approved Practice"],
-      "correctAnswer": 1
+      "options": [
+        "Always Send A Package",
+        "According to Standard Approved Practice",
+        "At Specified Arrival Point",
+        "As Soon As Possible"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "backronyms-quiz-12",
       "question": "What does the acronym 'SNAFU' stand for?",
-      "options": ["Systems Not Aligned For Use", "Situation Normal: All Fouled Up", "Standard Notice About Future Updates", "Service Not Available For Users"],
-      "correctAnswer": 1
+      "options": [
+        "Standard Notice About Future Updates",
+        "Service Not Available For Users",
+        "Systems Not Aligned For Use",
+        "Situation Normal: All Fouled Up"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "backronyms-quiz-13",
       "question": "What does 'POTUS' stand for?",
-      "options": ["Power Of The United Senate", "President Of The United States", "Protocol Of The United Services", "Premier Officer of The United System"],
-      "correctAnswer": 1
+      "options": [
+        "President Of The United States",
+        "Premier Officer of The United System",
+        "Power Of The United Senate",
+        "Protocol Of The United Services"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-14",
       "question": "What does 'SMART' stand for in SMART goals?",
-      "options": ["Strategic, Measured, Achievable, Realistic, Timed", "Specific, Measurable, Achievable, Relevant, Time-bound", "Simple, Meaningful, Action-oriented, Reasonable, Trackable", "Structured, Motivating, Attainable, Recorded, Targeted"],
-      "correctAnswer": 1
+      "options": [
+        "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "Simple, Meaningful, Action-oriented, Reasonable, Trackable",
+        "Strategic, Measured, Achievable, Realistic, Timed",
+        "Structured, Motivating, Attainable, Recorded, Targeted"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "backronyms-quiz-15",
       "question": "What does 'TASER' stand for?",
-      "options": ["Targeted Area Shock and Energy Release", "Tom A. Swift's Electric Rifle", "Tactical Anti-Subject Electrical Response", "Thermal Activated Shock Emission Relay"],
+      "options": [
+        "Targeted Area Shock and Energy Release",
+        "Tom A. Swift's Electric Rifle",
+        "Thermal Activated Shock Emission Relay",
+        "Tactical Anti-Subject Electrical Response"
+      ],
       "correctAnswer": 1
     }
   ]

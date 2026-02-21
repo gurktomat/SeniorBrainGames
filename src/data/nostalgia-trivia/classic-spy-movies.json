@@ -8,21 +8,21 @@
       "id": "classic-spy-movies-1",
       "question": "Who played James Bond in the first official Bond film, 'Dr. No' (1962)?",
       "options": [
+        "George Lazenby",
         "Roger Moore",
         "Sean Connery",
-        "David Niven",
-        "George Lazenby"
+        "David Niven"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-spy-movies-2",
       "question": "What was the name of Bond's CIA ally who appeared in several films?",
       "options": [
-        "Jack Ryan",
-        "Felix Leiter",
         "Napoleon Solo",
-        "Illya Kuryakin"
+        "Felix Leiter",
+        "Illya Kuryakin",
+        "Jack Ryan"
       ],
       "correctAnswer": 1
     },
@@ -41,43 +41,43 @@
       "id": "classic-spy-movies-4",
       "question": "In the James Bond films, what is the name of the gadget master who equips Bond?",
       "options": [
-        "M",
         "Q",
-        "Moneypenny",
-        "Jaws"
+        "Jaws",
+        "M",
+        "Moneypenny"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-spy-movies-5",
       "question": "Which Alfred Hitchcock thriller from 1959 features a spy story involving a crop duster attack?",
       "options": [
+        "North by Northwest",
         "Vertigo",
         "The 39 Steps",
-        "North by Northwest",
         "Notorious"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-spy-movies-6",
       "question": "What was James Bond's preferred drink order?",
       "options": [
-        "Scotch on the rocks",
-        "Vodka martini, shaken not stirred",
         "Gin and tonic",
-        "Bourbon neat"
+        "Bourbon neat",
+        "Scotch on the rocks",
+        "Vodka martini, shaken not stirred"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-spy-movies-7",
       "question": "Which 1965 film, based on a John le Carre novel, starred Richard Burton as a Cold War spy?",
       "options": [
-        "The Ipcress File",
+        "The Quiller Memorandum",
         "The Spy Who Came in from the Cold",
-        "Funeral in Berlin",
-        "The Quiller Memorandum"
+        "The Ipcress File",
+        "Funeral in Berlin"
       ],
       "correctAnswer": 1
     },
@@ -85,67 +85,67 @@
       "id": "classic-spy-movies-8",
       "question": "Who played the bumbling spy in the 'Pink Panther' film series?",
       "options": [
-        "Peter Sellers",
         "David Niven",
-        "Michael Caine",
-        "Dean Martin"
+        "Peter Sellers",
+        "Dean Martin",
+        "Michael Caine"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "classic-spy-movies-9",
       "question": "In 'Goldfinger' (1964), what does the villain plan to do to Fort Knox?",
       "options": [
-        "Steal all the gold",
-        "Irradiate the gold with a nuclear device",
+        "Replace the gold with counterfeits",
         "Blow it up entirely",
-        "Replace the gold with counterfeits"
+        "Irradiate the gold with a nuclear device",
+        "Steal all the gold"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-spy-movies-10",
       "question": "Which actor starred as Harry Palmer in 'The Ipcress File' (1965)?",
       "options": [
-        "Michael Caine",
         "Sean Connery",
+        "Michael Caine",
         "Richard Burton",
         "James Coburn"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "classic-spy-movies-11",
       "question": "What was the name of the fictional evil organization that James Bond often battled?",
       "options": [
-        "SMERSH",
         "SPECTRE",
+        "SMERSH",
         "THRUSH",
         "KAOS"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-spy-movies-12",
       "question": "Which 1966 spy spoof starred James Coburn as secret agent Derek Flint?",
       "options": [
-        "The Silencers",
-        "Our Man Flint",
         "Casino Royale",
-        "The Ambushers"
+        "The Silencers",
+        "The Ambushers",
+        "Our Man Flint"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-spy-movies-13",
       "question": "Who played the role of James Bond in 'Live and Let Die' (1973), his first time in the role?",
       "options": [
-        "Sean Connery",
-        "Timothy Dalton",
         "Roger Moore",
-        "George Lazenby"
+        "Sean Connery",
+        "George Lazenby",
+        "Timothy Dalton"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-spy-movies-14",
@@ -153,8 +153,8 @@
       "options": [
         "North by Northwest",
         "Notorious",
-        "The Man Who Knew Too Much",
-        "Saboteur"
+        "Saboteur",
+        "The Man Who Knew Too Much"
       ],
       "correctAnswer": 1
     },
@@ -163,11 +163,11 @@
       "question": "In the Bond film 'From Russia with Love' (1963), what organization is trying to steal a Soviet decoding machine?",
       "options": [
         "MI6",
+        "The CIA",
         "The KGB",
-        "SPECTRE",
-        "The CIA"
+        "SPECTRE"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

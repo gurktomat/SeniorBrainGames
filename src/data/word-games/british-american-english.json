@@ -8,8 +8,13 @@
     {
       "id": "bae-1",
       "question": "What is the British English word for the American 'trunk' (of a car)?",
-      "options": ["Bonnet", "Boot", "Bumper", "Lorry"],
-      "correctAnswer": 1,
+      "options": [
+        "Lorry",
+        "Bonnet",
+        "Boot",
+        "Bumper"
+      ],
+      "correctAnswer": 2,
       "explanation": "In British English, the storage compartment at the rear of a car is called the 'boot,' while Americans call it the 'trunk.'",
       "difficulty": "easy",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "bae-2",
       "question": "What do Americans call what the British call 'biscuits'?",
-      "options": ["Muffins", "Cookies", "Crackers", "Scones"],
-      "correctAnswer": 1,
+      "options": [
+        "Scones",
+        "Muffins",
+        "Cookies",
+        "Crackers"
+      ],
+      "correctAnswer": 2,
       "explanation": "British 'biscuits' are what Americans call 'cookies.' Confusingly, American 'biscuits' are a type of soft, fluffy bread roll that doesn't have a direct British equivalent.",
       "difficulty": "easy",
       "category": "language"
@@ -26,7 +36,12 @@
     {
       "id": "bae-3",
       "question": "In British English, what is a 'flat'?",
-      "options": ["A tire with no air", "An apartment", "A large field", "A type of shoe"],
+      "options": [
+        "A large field",
+        "An apartment",
+        "A type of shoe",
+        "A tire with no air"
+      ],
       "correctAnswer": 1,
       "explanation": "In British English, a 'flat' is an apartment. The word comes from the Old English 'flet' meaning a floor or dwelling.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "bae-4",
       "question": "What is the American English spelling of the British word 'colour'?",
-      "options": ["Colur", "Coler", "Color", "Coulor"],
+      "options": [
+        "Coulor",
+        "Coler",
+        "Color",
+        "Colur"
+      ],
       "correctAnswer": 2,
       "explanation": "Americans spell it 'color' without the 'u.' This spelling difference was largely popularized by Noah Webster's American dictionary in 1828, which simplified many British spellings.",
       "difficulty": "easy",
@@ -44,7 +64,12 @@
     {
       "id": "bae-5",
       "question": "What do the British call the 'hood' of a car?",
-      "options": ["Roof", "Boot", "Bonnet", "Cap"],
+      "options": [
+        "Boot",
+        "Cap",
+        "Bonnet",
+        "Roof"
+      ],
       "correctAnswer": 2,
       "explanation": "The British call the front engine cover of a car the 'bonnet,' while Americans call it the 'hood.'",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "bae-6",
       "question": "What is the British term for an 'elevator'?",
-      "options": ["Riser", "Lift", "Hoist", "Ascender"],
-      "correctAnswer": 1,
+      "options": [
+        "Riser",
+        "Hoist",
+        "Lift",
+        "Ascender"
+      ],
+      "correctAnswer": 2,
       "explanation": "The British call an elevator a 'lift.' Both words have been in use since the 19th century, but different terms became standard in each country.",
       "difficulty": "medium",
       "category": "language"
@@ -62,7 +92,12 @@
     {
       "id": "bae-7",
       "question": "In American English, what is the British 'torch'?",
-      "options": ["A candle", "A lamp", "A flashlight", "A lighter"],
+      "options": [
+        "A lighter",
+        "A candle",
+        "A flashlight",
+        "A lamp"
+      ],
       "correctAnswer": 2,
       "explanation": "A British 'torch' is an American 'flashlight.' In British English, 'torch' refers to a portable battery-powered light, while in American English, 'torch' usually means a flaming stick.",
       "difficulty": "medium",
@@ -71,7 +106,12 @@
     {
       "id": "bae-8",
       "question": "What do the British mean by 'chips'?",
-      "options": ["Potato chips (thin, crispy)", "French fries (thick-cut fried potatoes)", "Chocolate chips", "Wood chips"],
+      "options": [
+        "Chocolate chips",
+        "French fries (thick-cut fried potatoes)",
+        "Potato chips (thin, crispy)",
+        "Wood chips"
+      ],
       "correctAnswer": 1,
       "explanation": "British 'chips' are what Americans call 'French fries' — thick-cut fried potatoes. What Americans call 'chips' (thin, crispy snacks), the British call 'crisps.'",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "bae-9",
       "question": "Which spelling is British English?",
-      "options": ["Theater", "Theater", "Theatre", "Theatr"],
-      "correctAnswer": 2,
+      "options": [
+        "Theater",
+        "Theatre",
+        "Theatr",
+        "Theater"
+      ],
+      "correctAnswer": 1,
       "explanation": "'Theatre' is the British spelling, while 'theater' is the American spelling. The British retained the French '-re' ending, while Americans adopted the '-er' ending.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "bae-10",
       "question": "What do the British call a 'sidewalk'?",
-      "options": ["Pathway", "Footpath", "Pavement", "Walkway"],
-      "correctAnswer": 2,
+      "options": [
+        "Walkway",
+        "Pavement",
+        "Pathway",
+        "Footpath"
+      ],
+      "correctAnswer": 1,
       "explanation": "In British English, the paved path alongside a road for pedestrians is called the 'pavement.' In American English, 'pavement' usually refers to the road surface itself.",
       "difficulty": "medium",
       "category": "language"
@@ -98,8 +148,13 @@
     {
       "id": "bae-11",
       "question": "What is the British English word for 'vacation'?",
-      "options": ["Holiday", "Leave", "Recess", "Retreat"],
-      "correctAnswer": 0,
+      "options": [
+        "Retreat",
+        "Leave",
+        "Holiday",
+        "Recess"
+      ],
+      "correctAnswer": 2,
       "explanation": "The British say 'holiday' where Americans say 'vacation.' In British English, 'going on holiday' means taking a trip, while in American English, 'holiday' primarily refers to a public celebration day.",
       "difficulty": "hard",
       "category": "language"
@@ -107,8 +162,13 @@
     {
       "id": "bae-12",
       "question": "In British English, what is a 'lorry'?",
-      "options": ["A bus", "A truck", "A van", "A taxi"],
-      "correctAnswer": 1,
+      "options": [
+        "A truck",
+        "A taxi",
+        "A bus",
+        "A van"
+      ],
+      "correctAnswer": 0,
       "explanation": "A British 'lorry' is what Americans call a 'truck.' The word 'lorry' is thought to come from the dialect word 'lurry' meaning to pull or tug.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "bae-13",
       "question": "What do Americans call the British 'nappy'?",
-      "options": ["Blanket", "Bib", "Diaper", "Pacifier"],
-      "correctAnswer": 2,
+      "options": [
+        "Blanket",
+        "Diaper",
+        "Bib",
+        "Pacifier"
+      ],
+      "correctAnswer": 1,
       "explanation": "A British 'nappy' is an American 'diaper.' The British word comes from 'napkin,' which itself comes from the Old French 'nappe' meaning tablecloth.",
       "difficulty": "hard",
       "category": "language"
@@ -125,7 +190,12 @@
     {
       "id": "bae-14",
       "question": "What is a 'queue' in British English that Americans would call something else?",
-      "options": ["A line of people waiting", "A type of hairstyle", "A pool cue", "A question"],
+      "options": [
+        "A line of people waiting",
+        "A question",
+        "A pool cue",
+        "A type of hairstyle"
+      ],
       "correctAnswer": 0,
       "explanation": "In British English, 'queue' means a line of people waiting their turn. Americans typically say 'line' or 'stand in line' rather than 'queue' or 'queue up.'",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "bae-15",
       "question": "In British English, what does 'to let' mean on a property sign?",
-      "options": ["For sale", "For rent", "Under construction", "Foreclosed"],
-      "correctAnswer": 1,
+      "options": [
+        "Under construction",
+        "Foreclosed",
+        "For sale",
+        "For rent"
+      ],
+      "correctAnswer": 3,
       "explanation": "'To let' in British English means 'for rent' in American English. While Americans say they 'rent' a property, the British say they 'let' it.",
       "difficulty": "hard",
       "category": "language"

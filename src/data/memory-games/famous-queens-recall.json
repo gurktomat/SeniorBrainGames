@@ -1,0 +1,219 @@
+{
+  "id": "famous-queens-recall",
+  "title": "Famous Queens Recall",
+  "description": "Can you recall the remarkable queens who shaped history?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-queens-recall-1",
+      "question": "Which English queen reigned for over 63 years during the Victorian era?",
+      "options": [
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "Queen Anne",
+        "Queen Mary I"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Queen Victoria reigned from 1837 to 1901, making her reign one of the longest in British history until surpassed by Elizabeth II.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-2",
+      "question": "Which queen was the last pharaoh of ancient Egypt?",
+      "options": [
+        "Cleopatra VII",
+        "Sobekneferu",
+        "Hatshepsut",
+        "Nefertiti"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt, ruling until her death in 30 BC.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-3",
+      "question": "Which French queen was executed during the French Revolution?",
+      "options": [
+        "Marie Antoinette",
+        "Catherine de Medici",
+        "Marie de Medici",
+        "Anne of Brittany"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marie Antoinette, wife of King Louis XVI, was executed by guillotine on October 16, 1793, during the French Revolution.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-4",
+      "question": "Which English queen defeated the Spanish Armada in 1588?",
+      "options": [
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "Queen Mary I",
+        "Queen Anne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Queen Elizabeth I led England to victory against the Spanish Armada in 1588, one of the greatest naval battles in history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-5",
+      "question": "Which Scottish queen was imprisoned and eventually executed by Elizabeth I?",
+      "options": [
+        "Mary of Guise",
+        "Anne of Denmark",
+        "Margaret Tudor",
+        "Mary, Queen of Scots"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mary, Queen of Scots was held captive for 19 years before Elizabeth I ordered her execution in 1587.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-6",
+      "question": "Which queen of the Iceni tribe led a revolt against Roman occupation of Britain?",
+      "options": [
+        "Cartimandua",
+        "Agrippina",
+        "Boudicca",
+        "Zenobia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Queen Boudicca led a major uprising against the Roman Empire in AD 60-61, destroying several Roman settlements including Londinium.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-7",
+      "question": "Which female pharaoh ruled Egypt and is known for her successful trade expedition to Punt?",
+      "options": [
+        "Tiye",
+        "Cleopatra VII",
+        "Hatshepsut",
+        "Nefertiti"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hatshepsut was one of the most successful female pharaohs, known for her prosperous reign and the famous trading expedition to the Land of Punt.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-8",
+      "question": "Which Russian empress modernized Russia and expanded its empire in the 18th century?",
+      "options": [
+        "Alexandra Feodorovna",
+        "Catherine the Great",
+        "Elizabeth of Russia",
+        "Anna of Russia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Catherine the Great ruled Russia from 1762 to 1796, greatly expanding the Russian Empire and promoting the arts and education.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-9",
+      "question": "Which Hawaiian queen was the last sovereign monarch of the Hawaiian Kingdom?",
+      "options": [
+        "Queen Emma",
+        "Queen Kaahumanu",
+        "Queen Kapiolani",
+        "Queen Liliuokalani"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Queen Liliuokalani was the last monarch of Hawaii, overthrown in 1893 by a group of American businessmen and sugar planters.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-10",
+      "question": "Which queen of Castile sponsored Christopher Columbus's voyage to the Americas?",
+      "options": [
+        "Isabella I",
+        "Catherine of Aragon",
+        "Maria of Aragon",
+        "Joanna of Castile"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Queen Isabella I of Castile, along with her husband Ferdinand II of Aragon, sponsored Columbus's 1492 voyage that led to the European discovery of the Americas.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-11",
+      "question": "Which queen consort of Henry VIII was the mother of Elizabeth I?",
+      "options": [
+        "Anne Boleyn",
+        "Catherine of Aragon",
+        "Catherine Parr",
+        "Jane Seymour"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Anne Boleyn was Henry VIII's second wife and the mother of the future Queen Elizabeth I. She was executed in 1536.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-12",
+      "question": "Which queen of Palmyra challenged Roman authority in the 3rd century AD?",
+      "options": [
+        "Semiramis",
+        "Dido",
+        "Boudicca",
+        "Zenobia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Queen Zenobia of Palmyra conquered much of the Roman East before being defeated by Emperor Aurelian in 272 AD.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-13",
+      "question": "Which Danish-born queen became the longest-reigning British monarch?",
+      "options": [
+        "Queen Mary",
+        "Queen Alexandra",
+        "Queen Victoria",
+        "Queen Elizabeth II"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Queen Elizabeth II reigned from 1952 to 2022, surpassing Victoria's record. However, she was not Danish-born -- she was born in London. The question refers to her record-setting reign.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-14",
+      "question": "Which queen of Sweden famously abdicated her throne in 1654 and converted to Catholicism?",
+      "options": [
+        "Queen Ulrika",
+        "Queen Silvia",
+        "Queen Hedwig",
+        "Queen Christina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Queen Christina of Sweden abdicated in 1654, converted to Catholicism, and moved to Rome, where she became a patron of the arts.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-queens-recall-15",
+      "question": "Which Austrian-born queen became known as 'The Great' and was Empress of Austria and Queen of Hungary?",
+      "options": [
+        "Empress Zita",
+        "Maria Antonia",
+        "Maria Theresa",
+        "Empress Elisabeth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maria Theresa ruled the Habsburg dominions from 1740 to 1780, implementing major reforms in education, medicine, and the military.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

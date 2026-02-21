@@ -1,0 +1,174 @@
+{
+  "id": "woodworking-tools-quiz",
+  "title": "Woodworking Tools Quiz",
+  "description": "Test your knowledge of traditional and modern woodworking tools. Can you identify these workshop essentials?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "woodworking-tools-quiz-1",
+      "question": "Which woodworking joint features interlocking fan-shaped pins and tails, prized for its strength and beauty?",
+      "options": [
+        "Dovetail joint",
+        "Box joint",
+        "Mortise and tenon",
+        "Lap joint"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-2",
+      "question": "What is a coping saw used for?",
+      "options": [
+        "Cutting intricate curves and shapes in wood",
+        "Cross-cutting lumber",
+        "Sharpening other tools",
+        "Ripping long boards"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-3",
+      "question": "Which woodworking tool is a rotating machine that spins wood while a cutter shapes it?",
+      "options": [
+        "Jointer",
+        "Wood lathe",
+        "Drill press",
+        "Scroll saw"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodworking-tools-quiz-4",
+      "question": "What is a jointer used for in woodworking?",
+      "options": [
+        "Joining two boards with glue",
+        "Drilling dowel holes",
+        "Cutting joints",
+        "Flattening one face and straightening one edge of a board"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "woodworking-tools-quiz-5",
+      "question": "Which hand tool has a flat steel blade in a wooden or metal body, used to smooth wood surfaces?",
+      "options": [
+        "Hand plane (bench plane)",
+        "Draw knife",
+        "Spokeshave",
+        "Cabinet scraper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-6",
+      "question": "What is a biscuit joiner used for?",
+      "options": [
+        "Cutting slots for oval wooden biscuits to align and join boards",
+        "Drilling pocket holes",
+        "Shaping edges",
+        "Cutting cookies"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-7",
+      "question": "Which tool is a long bar with sliding jaws used to clamp boards together during glue-ups?",
+      "options": [
+        "C-clamp",
+        "Bar clamp (pipe clamp)",
+        "Spring clamp",
+        "Toggle clamp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "woodworking-tools-quiz-8",
+      "question": "What is a spokeshave traditionally used for?",
+      "options": [
+        "Drilling round holes",
+        "Cutting spoke holes",
+        "Measuring spoke lengths",
+        "Shaping curved surfaces like chair legs and wheel spokes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "woodworking-tools-quiz-9",
+      "question": "Which power tool machine holds wood in place and uses a vertical blade to cut precise, smooth boards to thickness?",
+      "options": [
+        "Band saw",
+        "Jointer",
+        "Thickness planer",
+        "Table saw"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodworking-tools-quiz-10",
+      "question": "What is a cabinet scraper used for?",
+      "options": [
+        "Producing a smooth finish on wood by scraping thin shavings, finer than sandpaper",
+        "Cleaning glue residue",
+        "Removing old varnish",
+        "Scraping paint off cabinets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-11",
+      "question": "Which measuring tool has a metal hook at the end and a retractable coiled tape?",
+      "options": [
+        "Steel ruler",
+        "Yardstick",
+        "Folding rule",
+        "Tape measure"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "woodworking-tools-quiz-12",
+      "question": "What is a scroll saw designed to cut?",
+      "options": [
+        "Intricate curves and detailed patterns in thin wood",
+        "Large sheets of plywood",
+        "Thick hardwood boards",
+        "Metal pipes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-13",
+      "question": "Which tool is a flat piece of flexible steel used to apply and smooth wood filler or veneer?",
+      "options": [
+        "Broad knife",
+        "Taping knife",
+        "Putty knife",
+        "Veneer scraper"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "woodworking-tools-quiz-14",
+      "question": "What is a doweling jig used for?",
+      "options": [
+        "Guiding a drill to bore perfectly aligned holes for dowel joints",
+        "Shaping dowels on a lathe",
+        "Cutting dowels to length",
+        "Storing dowels"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "woodworking-tools-quiz-15",
+      "question": "Which adhesive is the most commonly used glue for woodworking joints?",
+      "options": [
+        "Hide glue",
+        "Epoxy",
+        "Super glue (cyanoacrylate)",
+        "Yellow wood glue (PVA/aliphatic resin)"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

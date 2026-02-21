@@ -1,0 +1,173 @@
+{
+  "id": "computer-history-quiz",
+  "title": "Computer History",
+  "description": "Journey through the evolution of computers from room-sized machines to pocket devices",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "computer-history-quiz-1",
+      "question": "What was ENIAC, completed in 1945, considered to be?",
+      "options": [
+        "The first personal computer",
+        "The first laptop",
+        "The first transistor",
+        "One of the first general-purpose electronic computers"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-2",
+      "question": "Who is often called the 'father of the computer' for his work on the Analytical Engine?",
+      "options": [
+        "John von Neumann",
+        "Blaise Pascal",
+        "Charles Babbage",
+        "Alan Turing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "computer-history-quiz-3",
+      "question": "What did the term 'bug' in computing originate from in 1947?",
+      "options": [
+        "A software glitch",
+        "A circuit board defect",
+        "A programming language error",
+        "An actual moth found in a computer relay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-4",
+      "question": "Which company introduced the IBM Personal Computer (PC) in 1981?",
+      "options": [
+        "Hewlett-Packard",
+        "IBM",
+        "Apple",
+        "Microsoft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-5",
+      "question": "What programming language, created in 1959, was designed for business data processing?",
+      "options": [
+        "FORTRAN",
+        "BASIC",
+        "Pascal",
+        "COBOL"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-6",
+      "question": "Who co-founded Apple Computer in a garage in 1976?",
+      "options": [
+        "Larry Page and Sergey Brin",
+        "Bill Gates and Paul Allen",
+        "Steve Jobs and Steve Wozniak",
+        "Michael Dell and Kevin Rollins"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "computer-history-quiz-7",
+      "question": "What was the name of the first commercially successful personal computer, released in 1977?",
+      "options": [
+        "IBM PC",
+        "Commodore PET",
+        "Altair 8800",
+        "Apple II"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-8",
+      "question": "What replaced vacuum tubes in computers, making them smaller and more reliable?",
+      "options": [
+        "Capacitors",
+        "Resistors",
+        "Transistors",
+        "Diodes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "computer-history-quiz-9",
+      "question": "Who is credited with creating the World Wide Web in 1989?",
+      "options": [
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Robert Cailliau",
+        "Marc Andreessen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-10",
+      "question": "What was the name of the first widely used graphical web browser, released in 1993?",
+      "options": [
+        "Internet Explorer",
+        "Mosaic",
+        "Netscape Navigator",
+        "Lynx"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-11",
+      "question": "Which operating system, created by Linus Torvalds in 1991, is open-source?",
+      "options": [
+        "macOS",
+        "Unix",
+        "Windows",
+        "Linux"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "computer-history-quiz-12",
+      "question": "What does the acronym 'RAM' stand for in computing?",
+      "options": [
+        "Remote Access Management",
+        "Random Access Memory",
+        "Rapid Application Module",
+        "Read Access Memory"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "computer-history-quiz-13",
+      "question": "Ada Lovelace is celebrated as the world's first what?",
+      "options": [
+        "Database administrator",
+        "Web designer",
+        "Computer programmer",
+        "Computer engineer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "computer-history-quiz-14",
+      "question": "What storage medium, popular in the 1980s and 1990s, came in 3.5-inch and 5.25-inch sizes?",
+      "options": [
+        "Floppy disk",
+        "CD-ROM",
+        "USB drive",
+        "Zip drive"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "computer-history-quiz-15",
+      "question": "Moore's Law predicted that the number of transistors on a microchip would do what approximately every two years?",
+      "options": [
+        "Triple",
+        "Double",
+        "Stay the same",
+        "Halve"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

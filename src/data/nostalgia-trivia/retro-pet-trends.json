@@ -7,92 +7,167 @@
     {
       "id": "retro-pet-trends-1",
       "question": "What novelty 'pet,' consisting of a smooth stone in a cardboard box with air holes, became a massive fad in 1975?",
-      "options": ["Rock Buddy", "Pet Rock", "Stone Friend", "My Pet Pebble"],
+      "options": [
+        "Stone Friend",
+        "Pet Rock",
+        "My Pet Pebble",
+        "Rock Buddy"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-pet-trends-2",
       "question": "Which German Shepherd became one of the most famous dogs in the world as a silent film star in the 1920s?",
-      "options": ["Lassie", "Rin Tin Tin", "Bullet", "Strongheart"],
-      "correctAnswer": 1
+      "options": [
+        "Lassie",
+        "Strongheart",
+        "Rin Tin Tin",
+        "Bullet"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pet-trends-3",
       "question": "What breed of dog did President Richard Nixon famously mention in his 1952 'Checkers speech'?",
-      "options": ["Cocker Spaniel", "Beagle", "Poodle", "Labrador Retriever"],
-      "correctAnswer": 0
+      "options": [
+        "Beagle",
+        "Cocker Spaniel",
+        "Poodle",
+        "Labrador Retriever"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-pet-trends-4",
       "question": "Which Collie became America's most beloved TV dog, starring in a show that ran from 1954 to 1973?",
-      "options": ["Benji", "Rin Tin Tin", "Lassie", "Old Yeller"],
-      "correctAnswer": 2
+      "options": [
+        "Old Yeller",
+        "Lassie",
+        "Rin Tin Tin",
+        "Benji"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-pet-trends-5",
       "question": "What small aquatic creatures, sold as 'instant pets' through comic book ads starting in 1962, were actually brine shrimp?",
-      "options": ["Sea Monkeys", "Aqua Pets", "Water Babies", "Magic Fish"],
-      "correctAnswer": 0
+      "options": [
+        "Aqua Pets",
+        "Sea Monkeys",
+        "Magic Fish",
+        "Water Babies"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-pet-trends-6",
       "question": "Which president had a famous pair of beagles named Him and Her at the White House?",
-      "options": ["John F. Kennedy", "Lyndon B. Johnson", "Harry Truman", "Dwight Eisenhower"],
-      "correctAnswer": 1
+      "options": [
+        "Lyndon B. Johnson",
+        "Harry Truman",
+        "John F. Kennedy",
+        "Dwight Eisenhower"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-pet-trends-7",
       "question": "What type of small, low-maintenance pet in a bowl became a popular first pet for children in the 1950s and 1960s?",
-      "options": ["Hamster", "Goldfish", "Turtle", "Hermit crab"],
-      "correctAnswer": 1
+      "options": [
+        "Hermit crab",
+        "Turtle",
+        "Goldfish",
+        "Hamster"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pet-trends-8",
       "question": "Which cat food brand used the famous advertising slogan 'Meow Meow Meow Meow' in its catchy jingle starting in the 1970s?",
-      "options": ["Friskies", "9 Lives", "Meow Mix", "Fancy Feast"],
+      "options": [
+        "Friskies",
+        "9 Lives",
+        "Meow Mix",
+        "Fancy Feast"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-pet-trends-9",
       "question": "What famous TV horse, known for being able to 'talk,' starred in a sitcom from 1961 to 1966?",
-      "options": ["Trigger", "Silver", "Mr. Ed", "Fury"],
+      "options": [
+        "Fury",
+        "Silver",
+        "Mr. Ed",
+        "Trigger"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "retro-pet-trends-10",
       "question": "What brand of dog food featured Chuck Wagon ads in the 1970s and 1980s showing a tiny chuck wagon racing through the kitchen?",
-      "options": ["Purina", "Alpo", "Gravy Train", "Mighty Dog"],
-      "correctAnswer": 2
+      "options": [
+        "Mighty Dog",
+        "Gravy Train",
+        "Purina",
+        "Alpo"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-pet-trends-11",
       "question": "Which small green reptile was commonly sold as a pet in dime stores during the 1950s and 1960s before being restricted due to salmonella concerns?",
-      "options": ["Chameleon", "Gecko", "Red-eared slider turtle", "Green anole lizard"],
-      "correctAnswer": 2
+      "options": [
+        "Red-eared slider turtle",
+        "Gecko",
+        "Green anole lizard",
+        "Chameleon"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-pet-trends-12",
       "question": "What electronic egg-shaped virtual pet from Japan became a worldwide craze in 1996-1997?",
-      "options": ["Giga Pet", "Tamagotchi", "Nano Pet", "Digimon"],
-      "correctAnswer": 1
+      "options": [
+        "Giga Pet",
+        "Nano Pet",
+        "Digimon",
+        "Tamagotchi"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-pet-trends-13",
       "question": "Which dog, the mascot of RCA Victor, was famous for sitting and listening to a gramophone in the company's logo?",
-      "options": ["Pal", "Nipper", "Spuds MacKenzie", "Toto"],
-      "correctAnswer": 1
+      "options": [
+        "Pal",
+        "Spuds MacKenzie",
+        "Nipper",
+        "Toto"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-pet-trends-14",
       "question": "What was the name of the Russian dog that became the first animal to orbit the Earth in 1957?",
-      "options": ["Strelka", "Belka", "Laika", "Zvezdochka"],
-      "correctAnswer": 2
+      "options": [
+        "Zvezdochka",
+        "Strelka",
+        "Belka",
+        "Laika"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-pet-trends-15",
       "question": "Which Morris the Cat served as the finicky spokes-cat for what cat food brand starting in 1969?",
-      "options": ["Meow Mix", "Fancy Feast", "9 Lives", "Friskies"],
-      "correctAnswer": 2
+      "options": [
+        "9 Lives",
+        "Friskies",
+        "Fancy Feast",
+        "Meow Mix"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

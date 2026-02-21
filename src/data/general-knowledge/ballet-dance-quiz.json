@@ -1,0 +1,219 @@
+{
+  "id": "ballet-dance-quiz",
+  "title": "Ballet & Dance",
+  "description": "Put on your dancing shoes and test your knowledge of ballet and the world of dance!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "ballet-dance-quiz-1",
+      "question": "Which country is considered the birthplace of classical ballet?",
+      "options": [
+        "Italy",
+        "France",
+        "Russia",
+        "England"
+      ],
+      "correctAnswer": 1,
+      "explanation": "While ballet originated in Italian Renaissance courts, it was formalized and developed as an art form in France under King Louis XIV in the 17th century. The French terminology used in ballet reflects these origins.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-2",
+      "question": "Which Tchaikovsky ballet tells the story of a princess cursed to sleep by a wicked fairy?",
+      "options": [
+        "The Sleeping Beauty",
+        "The Nutcracker",
+        "Giselle",
+        "Swan Lake"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Sleeping Beauty' premiered in 1890 at the Mariinsky Theatre in St. Petersburg. Based on the fairy tale by Charles Perrault, it features some of Tchaikovsky's most beloved music.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-3",
+      "question": "What is a 'pas de deux' in ballet?",
+      "options": [
+        "A dance for two performers",
+        "A curtain call",
+        "A solo performance",
+        "A group formation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A pas de deux (French for 'step of two') is a duet in which two dancers perform together. The grand pas de deux typically includes an adagio, two solos, and a coda.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-4",
+      "question": "Which ballet by Stravinsky caused a riot at its 1913 premiere in Paris?",
+      "options": [
+        "Petrushka",
+        "Firebird",
+        "The Rite of Spring",
+        "Apollo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Rite of Spring' shocked audiences with its dissonant music and Vaslav Nijinsky's unconventional choreography depicting pagan rituals. The premiere at the Théâtre des Champs-Élysées erupted into near-chaos.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-5",
+      "question": "What is the term for dancing on the tips of the toes in ballet?",
+      "options": [
+        "Plié",
+        "Arabesque",
+        "En pointe",
+        "Relevé"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dancing 'en pointe' involves supporting the body's weight on the tips of fully extended feet, using specially reinforced pointe shoes. It became standard for female dancers in the early 19th century.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-6",
+      "question": "Which Russian-born choreographer is considered the father of American ballet?",
+      "options": [
+        "Rudolf Nureyev",
+        "Mikhail Baryshnikov",
+        "Sergei Diaghilev",
+        "George Balanchine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "George Balanchine co-founded the New York City Ballet in 1948 and created over 400 works. His neoclassical style emphasized musicality and athleticism, transforming American ballet.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-7",
+      "question": "In 'The Nutcracker,' what gift does Clara receive on Christmas Eve?",
+      "options": [
+        "A nutcracker doll",
+        "A music box",
+        "A snow globe",
+        "A pair of ballet slippers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clara receives a nutcracker doll from her godfather Drosselmeyer. The doll comes to life and leads her on a magical journey to the Land of Sweets. The ballet premiered in 1892.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-8",
+      "question": "Which legendary Russian dancer defected from the Soviet Union in 1961 while touring with the Kirov Ballet?",
+      "options": [
+        "Vaslav Nijinsky",
+        "Mikhail Baryshnikov",
+        "Alexander Godunov",
+        "Rudolf Nureyev"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rudolf Nureyev made his dramatic defection at Le Bourget airport in Paris. He became one of the most celebrated dancers of the 20th century and frequently partnered with Margot Fonteyn.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-9",
+      "question": "What does 'plié' mean in ballet terminology?",
+      "options": [
+        "To bend",
+        "To turn",
+        "To jump",
+        "To stretch"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A plié (French for 'bent') involves bending the knees while keeping the back straight. It is one of the most fundamental ballet movements and the basis of many steps and jumps.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-10",
+      "question": "Which ballet tells the story of a prince who falls in love with a swan maiden named Odette?",
+      "options": [
+        "La Sylphide",
+        "Swan Lake",
+        "Coppélia",
+        "Giselle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Swan Lake' by Tchaikovsky premiered in 1877. The lead ballerina typically dances dual roles: the pure white swan Odette and the seductive black swan Odile.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-11",
+      "question": "Martha Graham is a pioneering figure in which dance form?",
+      "options": [
+        "Classical ballet",
+        "Tap dance",
+        "Modern dance",
+        "Ballroom dance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Martha Graham revolutionized modern dance with her technique based on contraction and release of the torso. She performed and choreographed for over 70 years, creating 181 works.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-12",
+      "question": "What is a 'tutu' in ballet?",
+      "options": [
+        "A hair ornament",
+        "A skirt worn by ballerinas",
+        "A choreographic formation",
+        "A type of ballet shoe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A tutu is the iconic skirt worn by ballerinas. The classical tutu is short and stiff, projecting horizontally, while the romantic tutu is longer, reaching below the knee.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-13",
+      "question": "Sergei Diaghilev's Ballets Russes was famous for collaborating with which visual artist?",
+      "options": [
+        "Henri Matisse",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Claude Monet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pablo Picasso designed sets and costumes for several Ballets Russes productions, including 'Parade' (1917). Diaghilev also collaborated with Coco Chanel, Henri Matisse, and other leading artists.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-14",
+      "question": "What is an 'arabesque' in ballet?",
+      "options": [
+        "A series of quick jumps",
+        "A bow to the audience",
+        "A position with one leg extended behind the body",
+        "A spinning turn on one foot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In an arabesque, the dancer stands on one leg with the other leg extended straight behind, creating a long, elegant line. It is one of ballet's most iconic and beautiful positions.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "ballet-dance-quiz-15",
+      "question": "Which American dancer and choreographer combined ballet with African American dance traditions?",
+      "options": [
+        "Jerome Robbins",
+        "Bob Fosse",
+        "Alvin Ailey",
+        "Isadora Duncan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alvin Ailey founded the Alvin Ailey American Dance Theater in 1958. His signature work 'Revelations' (1960), set to African American spirituals, is one of the most popular dance works ever created.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

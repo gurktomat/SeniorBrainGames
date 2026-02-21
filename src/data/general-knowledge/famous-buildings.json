@@ -8,8 +8,13 @@
     {
       "id": "fb-1",
       "question": "In which city would you find the Colosseum?",
-      "options": ["Athens", "Rome", "Istanbul", "Cairo"],
-      "correctAnswer": 1,
+      "options": [
+        "Cairo",
+        "Athens",
+        "Rome",
+        "Istanbul"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Colosseum is located in Rome, Italy. Built between 70-80 AD, it is the largest ancient amphitheatre ever built, with a capacity of up to 80,000 spectators.",
       "difficulty": "easy",
       "category": "geography"
@@ -17,8 +22,13 @@
     {
       "id": "fb-2",
       "question": "Which famous building in India was built as a tomb by Emperor Shah Jahan for his wife?",
-      "options": ["Red Fort", "Taj Mahal", "Hawa Mahal", "Mysore Palace"],
-      "correctAnswer": 1,
+      "options": [
+        "Taj Mahal",
+        "Red Fort",
+        "Hawa Mahal",
+        "Mysore Palace"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Taj Mahal in Agra, India, was built between 1632 and 1653 by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. It is considered one of the finest examples of Mughal architecture.",
       "difficulty": "easy",
       "category": "geography"
@@ -26,7 +36,12 @@
     {
       "id": "fb-3",
       "question": "What is the tallest building in the world as of 2024?",
-      "options": ["Shanghai Tower", "Burj Khalifa", "One World Trade Center", "Taipei 101"],
+      "options": [
+        "One World Trade Center",
+        "Burj Khalifa",
+        "Taipei 101",
+        "Shanghai Tower"
+      ],
       "correctAnswer": 1,
       "explanation": "The Burj Khalifa in Dubai, United Arab Emirates, stands at 828 meters (2,717 feet) tall. Completed in 2010, it has held the record for the world's tallest building since its construction.",
       "difficulty": "easy",
@@ -35,7 +50,12 @@
     {
       "id": "fb-4",
       "question": "Which famous opera house has a roof designed to look like sails?",
-      "options": ["La Scala", "Royal Opera House", "Sydney Opera House", "Vienna State Opera"],
+      "options": [
+        "La Scala",
+        "Royal Opera House",
+        "Sydney Opera House",
+        "Vienna State Opera"
+      ],
       "correctAnswer": 2,
       "explanation": "The Sydney Opera House in Australia, designed by Danish architect Jørn Utzon, features a distinctive sail-shaped roof. It was completed in 1973 and became a UNESCO World Heritage Site in 2007.",
       "difficulty": "easy",
@@ -44,7 +64,12 @@
     {
       "id": "fb-5",
       "question": "In which country is the Parthenon located?",
-      "options": ["Italy", "Turkey", "Greece", "Egypt"],
+      "options": [
+        "Turkey",
+        "Italy",
+        "Greece",
+        "Egypt"
+      ],
       "correctAnswer": 2,
       "explanation": "The Parthenon is located on the Acropolis of Athens, Greece. Built between 447-432 BC, it was dedicated to the goddess Athena and is considered the most important surviving building of Classical Greece.",
       "difficulty": "easy",
@@ -53,7 +78,12 @@
     {
       "id": "fb-6",
       "question": "Which architect designed the Guggenheim Museum in New York City?",
-      "options": ["Frank Lloyd Wright", "Le Corbusier", "I. M. Pei", "Ludwig Mies van der Rohe"],
+      "options": [
+        "Frank Lloyd Wright",
+        "I. M. Pei",
+        "Ludwig Mies van der Rohe",
+        "Le Corbusier"
+      ],
       "correctAnswer": 0,
       "explanation": "Frank Lloyd Wright designed the Solomon R. Guggenheim Museum, which opened in 1959. Its distinctive spiral design was revolutionary and remains one of the most recognized buildings in the world.",
       "difficulty": "medium",
@@ -62,7 +92,12 @@
     {
       "id": "fb-7",
       "question": "The Forbidden City, a vast palace complex, is located in which city?",
-      "options": ["Tokyo", "Seoul", "Bangkok", "Beijing"],
+      "options": [
+        "Tokyo",
+        "Bangkok",
+        "Seoul",
+        "Beijing"
+      ],
       "correctAnswer": 3,
       "explanation": "The Forbidden City is located in the heart of Beijing, China. Built between 1406 and 1420, it served as the Chinese imperial palace for nearly 500 years and contains 980 surviving buildings.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "fb-8",
       "question": "Which famous cathedral in Barcelona has been under construction since 1882?",
-      "options": ["Notre-Dame", "Sagrada Família", "St. Peter's Basilica", "Westminster Abbey"],
-      "correctAnswer": 1,
+      "options": [
+        "Sagrada Família",
+        "St. Peter's Basilica",
+        "Westminster Abbey",
+        "Notre-Dame"
+      ],
+      "correctAnswer": 0,
       "explanation": "La Sagrada Família, designed by Antoni Gaudí, has been under construction since 1882. Gaudí devoted the last 15 years of his life to the project, and it is expected to be completed in the 2020s.",
       "difficulty": "medium",
       "category": "geography"
@@ -80,8 +120,13 @@
     {
       "id": "fb-9",
       "question": "The Leaning Tower of Pisa is actually the bell tower of which type of building?",
-      "options": ["A castle", "A cathedral", "A palace", "A university"],
-      "correctAnswer": 1,
+      "options": [
+        "A castle",
+        "A university",
+        "A palace",
+        "A cathedral"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Leaning Tower of Pisa is the freestanding bell tower (campanile) of the Cathedral of Pisa in Italy. Construction began in 1173, and it began leaning during construction due to soft ground on one side.",
       "difficulty": "medium",
       "category": "geography"
@@ -89,8 +134,13 @@
     {
       "id": "fb-10",
       "question": "Which famous building in Paris was originally built as a temporary structure for the 1889 World's Fair?",
-      "options": ["Arc de Triomphe", "Louvre Pyramid", "Eiffel Tower", "Sacré-Cœur"],
-      "correctAnswer": 2,
+      "options": [
+        "Eiffel Tower",
+        "Arc de Triomphe",
+        "Louvre Pyramid",
+        "Sacré-Cœur"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Eiffel Tower was built by Gustave Eiffel's company as the entrance arch for the 1889 World's Fair. It was supposed to be dismantled after 20 years but was saved because of its usefulness as a radio antenna.",
       "difficulty": "medium",
       "category": "geography"
@@ -98,8 +148,13 @@
     {
       "id": "fb-11",
       "question": "Angkor Wat, the largest religious monument in the world, is located in which country?",
-      "options": ["Thailand", "Myanmar", "Cambodia", "Indonesia"],
-      "correctAnswer": 2,
+      "options": [
+        "Myanmar",
+        "Thailand",
+        "Indonesia",
+        "Cambodia"
+      ],
+      "correctAnswer": 3,
       "explanation": "Angkor Wat is located in Siem Reap, Cambodia. Originally built as a Hindu temple in the early 12th century by King Suryavarman II, it gradually transformed into a Buddhist temple by the end of the 12th century.",
       "difficulty": "hard",
       "category": "geography"
@@ -107,8 +162,13 @@
     {
       "id": "fb-12",
       "question": "Which architect designed the glass pyramid entrance of the Louvre Museum?",
-      "options": ["Frank Gehry", "Renzo Piano", "I. M. Pei", "Norman Foster"],
-      "correctAnswer": 2,
+      "options": [
+        "I. M. Pei",
+        "Norman Foster",
+        "Frank Gehry",
+        "Renzo Piano"
+      ],
+      "correctAnswer": 0,
       "explanation": "Chinese-American architect I. M. Pei designed the Louvre Pyramid, which was completed in 1989. The modernist glass pyramid was controversial at first but has become an iconic landmark of Paris.",
       "difficulty": "hard",
       "category": "geography"
@@ -116,8 +176,13 @@
     {
       "id": "fb-13",
       "question": "The Hagia Sophia, built in 537 AD, served as a cathedral and then a mosque. In which city is it located?",
-      "options": ["Athens", "Jerusalem", "Istanbul", "Damascus"],
-      "correctAnswer": 2,
+      "options": [
+        "Istanbul",
+        "Damascus",
+        "Jerusalem",
+        "Athens"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Hagia Sophia is located in Istanbul, Turkey. Built in 537 AD as a Christian cathedral, it was converted to a mosque after the Ottoman conquest of Constantinople in 1453.",
       "difficulty": "hard",
       "category": "geography"
@@ -125,7 +190,12 @@
     {
       "id": "fb-14",
       "question": "Which famous American architect designed 'Fallingwater,' a house built over a waterfall?",
-      "options": ["Louis Sullivan", "Frank Lloyd Wright", "Philip Johnson", "Richard Neutra"],
+      "options": [
+        "Philip Johnson",
+        "Frank Lloyd Wright",
+        "Richard Neutra",
+        "Louis Sullivan"
+      ],
       "correctAnswer": 1,
       "explanation": "Frank Lloyd Wright designed Fallingwater in 1935 for the Kaufmann family in rural Pennsylvania. Built partly over a waterfall on Bear Run, it is considered one of the greatest works of American architecture.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "fb-15",
       "question": "The Alhambra, a palace and fortress complex built by the Moors, is located in which Spanish city?",
-      "options": ["Seville", "Córdoba", "Granada", "Madrid"],
-      "correctAnswer": 2,
+      "options": [
+        "Seville",
+        "Córdoba",
+        "Madrid",
+        "Granada"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Alhambra is located in Granada, Spain. Built primarily during the mid-13th to 14th centuries by the Nasrid dynasty, it is one of the finest examples of Moorish architecture in the world.",
       "difficulty": "hard",
       "category": "geography"

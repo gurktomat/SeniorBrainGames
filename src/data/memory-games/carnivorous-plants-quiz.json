@@ -1,0 +1,173 @@
+{
+  "id": "carnivorous-plants-quiz",
+  "title": "Carnivorous Plants Quiz",
+  "description": "Plants that eat insects and more! Test your knowledge of these fascinating meat-eating botanical wonders.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "carnivorous-plants-quiz-1",
+      "question": "Which carnivorous plant is the most famous, with jaw-like traps that snap shut on insects?",
+      "options": [
+        "Butterwort",
+        "Venus Flytrap",
+        "Sundew",
+        "Pitcher Plant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-2",
+      "question": "The Venus Flytrap is native to a surprisingly small area. Where does it grow naturally?",
+      "options": [
+        "Hawaiian islands",
+        "The Amazon rainforest",
+        "A small area around Wilmington, North Carolina",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "carnivorous-plants-quiz-3",
+      "question": "How does a Sundew plant trap insects?",
+      "options": [
+        "Snap traps like a jaw",
+        "Sticky, glistening droplets on hair-like tentacles",
+        "Suction bladders",
+        "A deep pit filled with liquid"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-4",
+      "question": "Pitcher Plants trap insects using what mechanism?",
+      "options": [
+        "Underground root traps",
+        "Snap traps",
+        "Sticky leaves",
+        "Tubular leaves filled with digestive fluid that insects fall into"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "carnivorous-plants-quiz-5",
+      "question": "Why do carnivorous plants eat insects instead of relying solely on photosynthesis?",
+      "options": [
+        "They are not true plants",
+        "They prefer the taste",
+        "They grow in nutrient-poor soil and need extra nitrogen",
+        "They cannot photosynthesize"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "carnivorous-plants-quiz-6",
+      "question": "How many times can an individual Venus Flytrap leaf snap shut before it stops working?",
+      "options": [
+        "About 3-5 times",
+        "Once",
+        "Unlimited times",
+        "About 50 times"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "carnivorous-plants-quiz-7",
+      "question": "Which carnivorous plant uses tiny, high-speed underwater suction traps to catch aquatic organisms?",
+      "options": [
+        "Aquatic Sundew",
+        "Bladderwort (Utricularia)",
+        "Water Pitcher",
+        "Waterwheel Plant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-8",
+      "question": "The largest Pitcher Plant species, Nepenthes rajah, has been known to trap what kind of animal?",
+      "options": [
+        "Fish",
+        "Birds",
+        "Frogs only",
+        "Small rats and mice"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "carnivorous-plants-quiz-9",
+      "question": "Which carnivorous plant has flat, greasy leaves that trap small insects like flypaper?",
+      "options": [
+        "Venus Flytrap",
+        "Butterwort (Pinguicula)",
+        "Sundew",
+        "Cobra Lily"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-10",
+      "question": "The Cobra Lily (Darlingtonia californica) is named for its hooded leaves that resemble what?",
+      "options": [
+        "A snake's fangs",
+        "A cobra with its hood spread",
+        "A serpent's eyes",
+        "A coiled snake ready to strike"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-11",
+      "question": "How does the Venus Flytrap know to close its trap? What triggers it?",
+      "options": [
+        "It senses heat from the insect",
+        "Trigger hairs inside the trap must be touched twice within seconds",
+        "It responds to the insect's smell",
+        "It detects the insect's weight"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "carnivorous-plants-quiz-12",
+      "question": "Charles Darwin wrote an entire book dedicated to which group of carnivorous plants?",
+      "options": [
+        "Insectivorous Plants (focusing on Sundews)",
+        "Venus Flytraps",
+        "Pitcher Plants",
+        "Bladderworts"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "carnivorous-plants-quiz-13",
+      "question": "Approximately how many known species of carnivorous plants exist worldwide?",
+      "options": [
+        "About 630-800",
+        "Over 5,000",
+        "About 30",
+        "About 100"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "carnivorous-plants-quiz-14",
+      "question": "What type of environment do most carnivorous plants naturally grow in?",
+      "options": [
+        "Boggy, acidic, nutrient-poor wetlands",
+        "Desert sand",
+        "Tropical tree canopies",
+        "Rich, fertile soil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "carnivorous-plants-quiz-15",
+      "question": "The Waterwheel Plant (Aldrovanda vesiculosa) is essentially what?",
+      "options": [
+        "A marine Butterwort",
+        "A swimming Sundew",
+        "A floating, aquatic Venus Flytrap",
+        "An underwater Pitcher Plant"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

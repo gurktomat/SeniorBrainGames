@@ -1,0 +1,173 @@
+{
+  "id": "military-vehicles-quiz",
+  "title": "Military Vehicles Quiz",
+  "description": "Recall facts about tanks, armored vehicles, and other military transport from history",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "military-vehicles-quiz-1",
+      "question": "Tanks were first used in combat during which conflict?",
+      "options": [
+        "Franco-Prussian War",
+        "Korean War",
+        "World War I",
+        "World War II"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "military-vehicles-quiz-2",
+      "question": "The 'Jeep' was originally developed as a military vehicle for which country's armed forces?",
+      "options": [
+        "Soviet Union",
+        "Britain",
+        "Germany",
+        "United States"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "military-vehicles-quiz-3",
+      "question": "The M4 Sherman was a widely used tank in which war?",
+      "options": [
+        "Gulf War",
+        "Vietnam War",
+        "World War II",
+        "World War I"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "military-vehicles-quiz-4",
+      "question": "What does the military acronym 'APC' stand for?",
+      "options": [
+        "Armed Patrol Car",
+        "Armored Personnel Carrier",
+        "Anti-Personnel Cannon",
+        "Artillery Propulsion Craft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "military-vehicles-quiz-5",
+      "question": "The German Tiger tank was feared during World War II primarily for its heavy what?",
+      "options": [
+        "Speed",
+        "Fuel efficiency",
+        "Camouflage technology",
+        "Armor and 88mm gun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "military-vehicles-quiz-6",
+      "question": "The Humvee (HMMWV) replaced which vehicle as the U.S. military's standard light utility vehicle?",
+      "options": [
+        "Studebaker US6",
+        "M35 truck",
+        "Dodge WC series",
+        "M151 Jeep"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "military-vehicles-quiz-7",
+      "question": "An 'amphibious vehicle' is one that can operate on both what?",
+      "options": [
+        "Water and underwater",
+        "Land and air",
+        "Day and night",
+        "Land and water"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "military-vehicles-quiz-8",
+      "question": "The T-34 was a legendary World War II tank produced by which country?",
+      "options": [
+        "Germany",
+        "Soviet Union",
+        "United States",
+        "Britain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "military-vehicles-quiz-9",
+      "question": "What is the primary purpose of a 'mine-resistant ambush protected' (MRAP) vehicle?",
+      "options": [
+        "Protecting occupants from IEDs and ambushes",
+        "Carrying supplies",
+        "Launching missiles",
+        "Artillery bombardment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "military-vehicles-quiz-10",
+      "question": "The Abrams tank, used by the U.S. Army, is named after which general?",
+      "options": [
+        "General Bradley",
+        "General Eisenhower",
+        "General Abrams",
+        "General Patton"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "military-vehicles-quiz-11",
+      "question": "A 'half-track' vehicle is characterized by having what combination?",
+      "options": [
+        "Two engines",
+        "Half armor plating",
+        "Half the normal crew",
+        "Wheels in front and tracks in rear"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "military-vehicles-quiz-12",
+      "question": "The DUKW, nicknamed 'Duck,' was an amphibious vehicle used in which war?",
+      "options": [
+        "World War I",
+        "World War II",
+        "Korean War",
+        "Vietnam War"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "military-vehicles-quiz-13",
+      "question": "Which country developed the Leopard 2 main battle tank?",
+      "options": [
+        "France",
+        "Germany",
+        "Britain",
+        "Sweden"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "military-vehicles-quiz-14",
+      "question": "The British 'Challenger 2' is what type of military vehicle?",
+      "options": [
+        "Main battle tank",
+        "Transport helicopter",
+        "Destroyer ship",
+        "Fighter jet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "military-vehicles-quiz-15",
+      "question": "What does 'IFV' stand for in military vehicle terminology?",
+      "options": [
+        "Interceptor Flight Vehicle",
+        "Infantry Fighting Vehicle",
+        "Internal Fuel Vehicle",
+        "Integrated Force Vehicle"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

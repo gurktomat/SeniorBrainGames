@@ -8,32 +8,32 @@
       "id": "famous-gardens-1",
       "question": "The Gardens of Versailles are located near which European capital?",
       "options": [
+        "Madrid",
         "London",
         "Rome",
-        "Paris",
-        "Madrid"
+        "Paris"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-gardens-2",
       "question": "Which ancient wonder of the world was a legendary garden?",
       "options": [
         "Gardens of Babylon",
-        "Hanging Gardens of Babylon",
+        "Gardens of Alexandria",
         "Gardens of Eden",
-        "Gardens of Alexandria"
+        "Hanging Gardens of Babylon"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-gardens-3",
       "question": "Kew Gardens, a UNESCO World Heritage Site, is located in which city?",
       "options": [
-        "Edinburgh",
         "Dublin",
+        "Paris",
         "London",
-        "Paris"
+        "Edinburgh"
       ],
       "correctAnswer": 2
     },
@@ -41,9 +41,9 @@
       "id": "famous-gardens-4",
       "question": "The Butchart Gardens, a famous floral display garden, is located in which country?",
       "options": [
-        "England",
-        "United States",
         "Australia",
+        "United States",
+        "England",
         "Canada"
       ],
       "correctAnswer": 3
@@ -52,109 +52,109 @@
       "id": "famous-gardens-5",
       "question": "Keukenhof, known as the 'Garden of Europe,' is famous for which type of flower?",
       "options": [
+        "Orchids",
         "Roses",
         "Tulips",
-        "Orchids",
         "Sunflowers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-gardens-6",
       "question": "In which country would you find the traditional Zen rock garden known as a karesansui?",
       "options": [
         "China",
-        "Japan",
         "South Korea",
+        "Japan",
         "Thailand"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-gardens-7",
       "question": "Claude Monet's famous garden, which inspired many of his paintings, is in which French village?",
       "options": [
-        "Arles",
-        "Auvers-sur-Oise",
+        "Aix-en-Provence",
         "Giverny",
-        "Aix-en-Provence"
+        "Auvers-sur-Oise",
+        "Arles"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-gardens-8",
       "question": "The Alhambra's Generalife gardens are located in which Spanish city?",
       "options": [
+        "Granada",
         "Barcelona",
-        "Madrid",
         "Seville",
-        "Granada"
+        "Madrid"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": "famous-gardens-9",
       "question": "Singapore's Gardens by the Bay is famous for its futuristic tree-like structures called what?",
       "options": [
-        "Sky Trees",
-        "Supertrees",
+        "Green Towers",
         "Solar Trees",
-        "Green Towers"
+        "Supertrees",
+        "Sky Trees"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-gardens-10",
       "question": "The Boboli Gardens are located behind which famous Florentine palace?",
       "options": [
         "Palazzo Vecchio",
-        "Pitti Palace",
         "Uffizi Gallery",
-        "Medici Chapel"
+        "Medici Chapel",
+        "Pitti Palace"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-gardens-11",
       "question": "Which famous English garden style aims to look like a natural landscape rather than a formal design?",
       "options": [
+        "English landscape garden",
         "French formal garden",
         "Italian Renaissance garden",
-        "English landscape garden",
         "Dutch garden"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-gardens-12",
       "question": "The Shalimar Gardens, a Mughal garden, are located in which city?",
       "options": [
-        "Delhi",
-        "Agra",
         "Lahore",
-        "Jaipur"
+        "Jaipur",
+        "Delhi",
+        "Agra"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-gardens-13",
       "question": "Longwood Gardens, one of the premier botanical gardens in America, is in which U.S. state?",
       "options": [
-        "New York",
-        "Virginia",
         "Pennsylvania",
-        "Connecticut"
+        "New York",
+        "Connecticut",
+        "Virginia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-gardens-14",
       "question": "The Majorelle Garden, known for its striking cobalt blue buildings, is located in which city?",
       "options": [
         "Cairo",
-        "Tunis",
+        "Casablanca",
         "Marrakech",
-        "Casablanca"
+        "Tunis"
       ],
       "correctAnswer": 2
     },
@@ -162,12 +162,12 @@
       "id": "famous-gardens-15",
       "question": "Which type of traditional garden features carefully pruned miniature trees?",
       "options": [
-        "Herb garden",
-        "Bonsai garden",
         "Rock garden",
-        "Water garden"
+        "Water garden",
+        "Herb garden",
+        "Bonsai garden"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

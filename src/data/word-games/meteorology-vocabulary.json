@@ -1,0 +1,173 @@
+{
+  "id": "meteorology-vocabulary",
+  "title": "Meteorology Vocabulary",
+  "description": "Study the scientific language of weather and climate, from atmospheric phenomena to forecasting techniques and storm systems.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "meteorology-vocabulary-1",
+      "question": "What is a 'barometer' used to measure?",
+      "options": [
+        "Temperature",
+        "Atmospheric pressure",
+        "Wind speed",
+        "Humidity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "meteorology-vocabulary-2",
+      "question": "What does 'isobar' mean on a weather map?",
+      "options": [
+        "A line connecting points of equal atmospheric pressure",
+        "A line marking rainfall amounts",
+        "A line connecting points of equal temperature",
+        "A line showing wind direction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "meteorology-vocabulary-3",
+      "question": "What is the 'troposphere'?",
+      "options": [
+        "The outermost layer of Earth's atmosphere",
+        "The lowest layer of Earth's atmosphere where weather occurs",
+        "The layer that contains the ozone",
+        "The layer closest to the sun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "meteorology-vocabulary-4",
+      "question": "What does 'precipitation' include?",
+      "options": [
+        "Only rain",
+        "All forms of water falling from the atmosphere, including rain, snow, sleet, and hail",
+        "Fog and mist only",
+        "Only snow and ice"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "meteorology-vocabulary-5",
+      "question": "What is a 'cold front'?",
+      "options": [
+        "The boundary where a mass of cold air advances and replaces warmer air",
+        "A temperature reading below freezing",
+        "A snowstorm in winter",
+        "A period of unusually cold weather"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "meteorology-vocabulary-6",
+      "question": "What does 'humidity' measure?",
+      "options": [
+        "The temperature of the air",
+        "The amount of water vapor in the air",
+        "The pressure of the atmosphere",
+        "The speed of the wind"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "meteorology-vocabulary-7",
+      "question": "What is a 'cumulonimbus' cloud?",
+      "options": [
+        "A flat, layered cloud",
+        "A cloud that only forms at night",
+        "A thin, wispy cloud",
+        "A towering, dense cloud associated with thunderstorms"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "meteorology-vocabulary-8",
+      "question": "What does the 'dew point' indicate?",
+      "options": [
+        "The highest temperature of the day",
+        "The time when dew appears on grass",
+        "The temperature at which air becomes saturated and water vapor condenses",
+        "The amount of rainfall expected"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "meteorology-vocabulary-9",
+      "question": "What is an 'anemometer' used for?",
+      "options": [
+        "Measuring air quality",
+        "Measuring temperature",
+        "Measuring wind speed",
+        "Measuring rainfall"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "meteorology-vocabulary-10",
+      "question": "What does 'convection' refer to in meteorology?",
+      "options": [
+        "The reflection of sunlight",
+        "Wind blowing horizontally",
+        "The rotation of Earth",
+        "The vertical movement of air driven by temperature differences"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "meteorology-vocabulary-11",
+      "question": "What is a 'cyclone'?",
+      "options": [
+        "A straight-line wind",
+        "A type of lightning",
+        "A large-scale air mass that rotates around a strong center of low pressure",
+        "A dust storm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "meteorology-vocabulary-12",
+      "question": "What does 'albedo' measure?",
+      "options": [
+        "The speed of a storm",
+        "The depth of snowfall",
+        "The height of clouds",
+        "The proportion of sunlight reflected by a surface"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "meteorology-vocabulary-13",
+      "question": "What is a 'jet stream'?",
+      "options": [
+        "A tropical ocean current",
+        "A stream formed by melting ice",
+        "A type of airplane",
+        "A narrow band of strong wind in the upper atmosphere"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "meteorology-vocabulary-14",
+      "question": "What is 'wind shear'?",
+      "options": [
+        "Wind that blows in a circle",
+        "A sudden change in wind speed or direction over a short distance",
+        "A gentle breeze",
+        "The calming of wind before a storm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "meteorology-vocabulary-15",
+      "question": "What does 'stratosphere' refer to?",
+      "options": [
+        "The ocean floor",
+        "The core of the Earth",
+        "The surface of the moon",
+        "The layer of Earth's atmosphere above the troposphere, containing the ozone layer"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

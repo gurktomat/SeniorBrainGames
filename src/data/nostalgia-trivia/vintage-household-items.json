@@ -8,8 +8,13 @@
     {
       "id": "vhi-1",
       "question": "What was a 'rotary phone' dial used for?",
-      "options": ["Adjusting the volume", "Dialing phone numbers by rotating a numbered disc", "Tuning radio stations", "Setting an alarm"],
-      "correctAnswer": 1,
+      "options": [
+        "Setting an alarm",
+        "Tuning radio stations",
+        "Dialing phone numbers by rotating a numbered disc",
+        "Adjusting the volume"
+      ],
+      "correctAnswer": 2,
       "explanation": "Rotary phones had a circular dial with finger holes numbered 0-9. You placed your finger in the hole and rotated the dial to enter each digit.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "vhi-2",
       "question": "What was a 'mangle' or 'wringer' used for in the home?",
-      "options": ["Pressing fabric and squeezing water from laundry", "Grinding coffee beans", "Mixing cake batter", "Carving meat"],
-      "correctAnswer": 0,
+      "options": [
+        "Carving meat",
+        "Grinding coffee beans",
+        "Mixing cake batter",
+        "Pressing fabric and squeezing water from laundry"
+      ],
+      "correctAnswer": 3,
       "explanation": "A mangle or wringer had two rollers that pressed wet laundry to squeeze out excess water before hanging clothes to dry.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -26,7 +36,12 @@
     {
       "id": "vhi-3",
       "question": "What household appliance was the 'icebox' a predecessor to?",
-      "options": ["Freezer", "Refrigerator", "Air conditioner", "Dishwasher"],
+      "options": [
+        "Freezer",
+        "Refrigerator",
+        "Dishwasher",
+        "Air conditioner"
+      ],
       "correctAnswer": 1,
       "explanation": "The icebox was an insulated cabinet that used blocks of ice to keep food cold, before electric refrigerators became common in the 1930s-40s.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "vhi-4",
       "question": "What was a 'carpet sweeper' used for?",
-      "options": ["Shampooing carpets", "Sweeping carpets without electricity", "Measuring carpet for installation", "Stretching carpet flat"],
-      "correctAnswer": 1,
+      "options": [
+        "Sweeping carpets without electricity",
+        "Stretching carpet flat",
+        "Measuring carpet for installation",
+        "Shampooing carpets"
+      ],
+      "correctAnswer": 0,
       "explanation": "A carpet sweeper was a manual device with rotating brushes that picked up dirt and debris from carpets without needing electricity.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -44,7 +64,12 @@
     {
       "id": "vhi-5",
       "question": "What was the purpose of a 'washboard'?",
-      "options": ["A musical instrument", "Scrubbing clothes by hand", "A kitchen cutting board", "An ironing surface"],
+      "options": [
+        "A kitchen cutting board",
+        "Scrubbing clothes by hand",
+        "A musical instrument",
+        "An ironing surface"
+      ],
       "correctAnswer": 1,
       "explanation": "A washboard had a ridged metal or glass surface used for scrubbing clothes against when doing laundry by hand.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "vhi-6",
       "question": "What did a 'percolator' make?",
-      "options": ["Tea", "Coffee", "Hot chocolate", "Soup"],
-      "correctAnswer": 1,
+      "options": [
+        "Coffee",
+        "Hot chocolate",
+        "Soup",
+        "Tea"
+      ],
+      "correctAnswer": 0,
       "explanation": "A percolator brewed coffee by continuously cycling boiling water through the coffee grounds using gravity and steam pressure.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "vhi-7",
       "question": "What was a 'stereoscope' used for in Victorian and early 20th century homes?",
-      "options": ["Playing music", "Viewing 3D photographs", "Examining insects", "Projecting movies"],
-      "correctAnswer": 1,
+      "options": [
+        "Projecting movies",
+        "Playing music",
+        "Viewing 3D photographs",
+        "Examining insects"
+      ],
+      "correctAnswer": 2,
       "explanation": "A stereoscope was a handheld viewer that combined two slightly different photographs to create a three-dimensional image.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "vhi-8",
       "question": "What was a 'sad iron' or 'flat iron' heated on?",
-      "options": ["An electric outlet", "A stove or fire", "A special heating pad", "It heated itself chemically"],
-      "correctAnswer": 1,
+      "options": [
+        "A special heating pad",
+        "An electric outlet",
+        "A stove or fire",
+        "It heated itself chemically"
+      ],
+      "correctAnswer": 2,
       "explanation": "Before electric irons, sad irons (also called flat irons) were solid metal and had to be heated on a wood stove or over a fire.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,7 +120,12 @@
     {
       "id": "vhi-9",
       "question": "What was the purpose of a 'butter churn'?",
-      "options": ["Cooling butter", "Turning cream into butter", "Melting butter", "Shaping butter into blocks"],
+      "options": [
+        "Melting butter",
+        "Turning cream into butter",
+        "Cooling butter",
+        "Shaping butter into blocks"
+      ],
       "correctAnswer": 1,
       "explanation": "A butter churn was used to agitate cream until it separated into butter and buttermilk, through repeated plunging or cranking.",
       "difficulty": "easy",
@@ -89,7 +134,12 @@
     {
       "id": "vhi-10",
       "question": "What household device was commonly called a 'transistor' in the 1950s and 1960s?",
-      "options": ["A television", "A portable radio", "A calculator", "A record player"],
+      "options": [
+        "A calculator",
+        "A portable radio",
+        "A record player",
+        "A television"
+      ],
       "correctAnswer": 1,
       "explanation": "Portable transistor radios were so popular that people simply called them 'transistors.' They were a teenage must-have in the late 1950s.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "vhi-11",
       "question": "What was a 'chamber pot' used for?",
-      "options": ["Cooking stew", "A nighttime toilet before indoor plumbing", "Storing coins", "Heating water"],
-      "correctAnswer": 1,
+      "options": [
+        "Heating water",
+        "Storing coins",
+        "A nighttime toilet before indoor plumbing",
+        "Cooking stew"
+      ],
+      "correctAnswer": 2,
       "explanation": "A chamber pot was kept under the bed or in a bedside cabinet for use as a toilet during the night, before homes had indoor plumbing.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "vhi-12",
       "question": "What did a 'coal scuttle' hold?",
-      "options": ["Ashes from a fireplace", "Coal for heating", "Water for washing", "Candles"],
-      "correctAnswer": 1,
+      "options": [
+        "Coal for heating",
+        "Water for washing",
+        "Candles",
+        "Ashes from a fireplace"
+      ],
+      "correctAnswer": 0,
       "explanation": "A coal scuttle was a metal bucket used to carry and store coal for fireplaces and stoves that heated the home.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "vhi-13",
       "question": "What was a 'pressure cooker' from the mid-20th century primarily valued for?",
-      "options": ["Making ice cream", "Cooking food much faster using steam pressure", "Preserving food for months", "Baking bread evenly"],
-      "correctAnswer": 1,
+      "options": [
+        "Cooking food much faster using steam pressure",
+        "Preserving food for months",
+        "Baking bread evenly",
+        "Making ice cream"
+      ],
+      "correctAnswer": 0,
       "explanation": "Pressure cookers used sealed, high-pressure steam to dramatically reduce cooking times — a pot roast could be ready in a fraction of the normal time.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -125,7 +190,12 @@
     {
       "id": "vhi-14",
       "question": "What was an 'egg timer' shaped like in its most classic form?",
-      "options": ["A clock face", "An hourglass", "A chicken", "A bell"],
+      "options": [
+        "A bell",
+        "An hourglass",
+        "A chicken",
+        "A clock face"
+      ],
       "correctAnswer": 1,
       "explanation": "The classic egg timer was a small hourglass filled with sand that took about 3 minutes to empty — perfect timing for a soft-boiled egg.",
       "difficulty": "easy",
@@ -134,7 +204,12 @@
     {
       "id": "vhi-15",
       "question": "What was a 'TV dinner' tray typically made of?",
-      "options": ["Plastic", "Aluminum foil", "Ceramic", "Cardboard"],
+      "options": [
+        "Cardboard",
+        "Aluminum foil",
+        "Ceramic",
+        "Plastic"
+      ],
       "correctAnswer": 1,
       "explanation": "TV dinners came in divided aluminum trays that went straight from the freezer to the oven. Swanson introduced them in 1953.",
       "difficulty": "medium",

@@ -1,0 +1,173 @@
+{
+  "id": "turtle-tortoise-quiz",
+  "title": "Turtle & Tortoise Quiz",
+  "description": "Shell out your best answers in this quiz about turtles, tortoises, and terrapins",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "turtle-tortoise-quiz-1",
+      "question": "What is the main difference between a turtle and a tortoise?",
+      "options": [
+        "Tortoises are larger",
+        "Turtles live in water, tortoises live on land",
+        "There is no difference",
+        "Tortoises have harder shells"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-2",
+      "question": "Which giant tortoise species from the Galapagos Islands can live for over 150 years?",
+      "options": [
+        "Radiated Tortoise",
+        "Sulcata Tortoise",
+        "Aldabra Giant Tortoise",
+        "Galapagos Giant Tortoise"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turtle-tortoise-quiz-3",
+      "question": "Which is the largest sea turtle species, reaching up to 7 feet in length and 2,000 pounds?",
+      "options": [
+        "Leatherback Sea Turtle",
+        "Hawksbill",
+        "Green Sea Turtle",
+        "Loggerhead"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turtle-tortoise-quiz-4",
+      "question": "Which sea turtle gets its name from the color of its body fat, caused by its diet of seagrass and algae?",
+      "options": [
+        "Green Sea Turtle",
+        "Hawksbill",
+        "Flatback",
+        "Olive Ridley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turtle-tortoise-quiz-5",
+      "question": "Which freshwater turtle from North America is known for its powerful bite and its spiked, dinosaur-like appearance?",
+      "options": [
+        "Map Turtle",
+        "Alligator Snapping Turtle",
+        "Softshell Turtle",
+        "Common Snapping Turtle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-6",
+      "question": "What unique feature does the alligator snapping turtle use to lure fish into its mouth?",
+      "options": [
+        "A bright colored shell",
+        "A worm-shaped appendage on its tongue",
+        "A special scent",
+        "Bioluminescent spots"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-7",
+      "question": "Which popular pet tortoise from Africa is the third-largest tortoise species and is also called the African spurred tortoise?",
+      "options": [
+        "Red-footed Tortoise",
+        "Leopard Tortoise",
+        "Radiated Tortoise",
+        "Sulcata Tortoise"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turtle-tortoise-quiz-8",
+      "question": "How do sea turtles find their way back to the same beach where they were born to lay their eggs?",
+      "options": [
+        "By smell alone",
+        "By following ocean currents",
+        "By using Earth's magnetic field",
+        "By following the stars"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turtle-tortoise-quiz-9",
+      "question": "Which small, colorful turtle is the most popular pet turtle in the United States?",
+      "options": [
+        "Painted Turtle",
+        "Red-eared Slider",
+        "Mud Turtle",
+        "Box Turtle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-10",
+      "question": "What is a turtle's shell made of?",
+      "options": [
+        "Keratin and bone",
+        "Cartilage",
+        "Hardened skin",
+        "Calcium deposits"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turtle-tortoise-quiz-11",
+      "question": "Which endangered sea turtle has a beautiful shell pattern that was historically used to make jewelry and combs?",
+      "options": [
+        "Loggerhead",
+        "Green Sea Turtle",
+        "Hawksbill Sea Turtle",
+        "Leatherback"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turtle-tortoise-quiz-12",
+      "question": "Which North American turtle can completely close its shell like a box, protecting itself entirely inside?",
+      "options": [
+        "Painted Turtle",
+        "Snapping Turtle",
+        "Musk Turtle",
+        "Box Turtle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turtle-tortoise-quiz-13",
+      "question": "What determines the sex of most turtle and tortoise hatchlings?",
+      "options": [
+        "Size of the egg",
+        "Temperature during incubation",
+        "Time of year laid",
+        "Genetics"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-14",
+      "question": "Which tortoise from Madagascar has a stunning star pattern on each section of its shell?",
+      "options": [
+        "Geometric Tortoise",
+        "Radiated Tortoise",
+        "Leopard Tortoise",
+        "Indian Star Tortoise"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turtle-tortoise-quiz-15",
+      "question": "Which freshwater turtle has a distinctive long neck that it tucks sideways under its shell rather than pulling it straight back?",
+      "options": [
+        "Matamata",
+        "Pig-nosed Turtle",
+        "Softshell Turtle",
+        "Snake-necked Turtle"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

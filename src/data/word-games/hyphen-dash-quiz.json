@@ -1,0 +1,173 @@
+{
+  "id": "hyphen-dash-quiz",
+  "title": "Hyphens & Dashes Quiz",
+  "description": "Hyphens, en dashes, and em dashes each have different jobs. Do you know which to use and when?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "hyphen-dash-quiz-1",
+      "question": "What is the primary use of a hyphen (-)?",
+      "options": [
+        "To separate clauses",
+        "To indicate a range of numbers",
+        "To join compound words or modifiers",
+        "To set off parenthetical remarks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hyphen-dash-quiz-2",
+      "question": "Which is correct? 'She is a well-___ woman.'",
+      "options": [
+        "It depends on position in the sentence",
+        "Both are always wrong",
+        "known (no hyphen: well known)",
+        "known (with hyphen: well-known)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hyphen-dash-quiz-3",
+      "question": "An em dash is used for ___.",
+      "options": [
+        "Indicating number ranges",
+        "Setting off parenthetical information or creating emphasis",
+        "Hyphenating at line breaks",
+        "Joining compound words"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hyphen-dash-quiz-4",
+      "question": "An en dash is typically used for ___.",
+      "options": [
+        "Indicating ranges (e.g., pages 10-20)",
+        "Emphasis in sentences",
+        "Replacing commas",
+        "Joining compound words"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hyphen-dash-quiz-5",
+      "question": "Which is correct?",
+      "options": [
+        "My sister in law is visiting.",
+        "My sister-in-law is visiting.",
+        "My sister - in - law is visiting.",
+        "My sister--in--law is visiting."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hyphen-dash-quiz-6",
+      "question": "Should compound modifiers after a noun be hyphenated? 'The woman is well known.'",
+      "options": [
+        "Only with certain adjectives",
+        "Yes, always: well-known",
+        "No, hyphens are typically dropped after the noun",
+        "Only in formal writing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hyphen-dash-quiz-7",
+      "question": "Which uses an em dash correctly?",
+      "options": [
+        "The answer is clear-study harder.",
+        "The answer is clear--study harder.",
+        "Both B and C are acceptable",
+        "The answer is clear — study harder."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hyphen-dash-quiz-8",
+      "question": "Which compound adjective needs a hyphen?",
+      "options": [
+        "A brightly lit room",
+        "A very tall building",
+        "An extremely cold day",
+        "A two-story house"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hyphen-dash-quiz-9",
+      "question": "Should 'reenter' have a hyphen?",
+      "options": [
+        "Yes: re-enter (to avoid confusion with double 'e')",
+        "It should be written as two words: re enter",
+        "No: reenter is always correct",
+        "Both forms are accepted"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hyphen-dash-quiz-10",
+      "question": "Which prefix usually requires a hyphen?",
+      "options": [
+        "self-",
+        "pre-",
+        "un-",
+        "re-"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hyphen-dash-quiz-11",
+      "question": "When should you hyphenate a number?",
+      "options": [
+        "Only numbers over one hundred",
+        "All numbers should be hyphenated",
+        "Numbers should never be hyphenated",
+        "Only compound numbers twenty-one through ninety-nine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hyphen-dash-quiz-12",
+      "question": "Which is correct for a range?",
+      "options": [
+        "The years 1990 to 2000",
+        "The years 1990-2000",
+        "The years 1990 - 2000",
+        "Both A and C are acceptable"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hyphen-dash-quiz-13",
+      "question": "An em dash can replace which punctuation marks?",
+      "options": [
+        "Periods and question marks",
+        "Apostrophes and quotation marks",
+        "Semicolons only",
+        "Commas, parentheses, or colons"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hyphen-dash-quiz-14",
+      "question": "Which is the correct way to write a fraction as words?",
+      "options": [
+        "Two/thirds",
+        "Two-thirds",
+        "Two - thirds",
+        "Two thirds"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hyphen-dash-quiz-15",
+      "question": "How long is each mark, from shortest to longest?",
+      "options": [
+        "En dash, em dash, hyphen",
+        "Em dash, hyphen, en dash",
+        "Dash, en dash, hyphen",
+        "Hyphen, en dash, em dash"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

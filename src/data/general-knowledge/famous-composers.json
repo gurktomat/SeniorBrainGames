@@ -8,76 +8,76 @@
       "id": "famous-composers-1",
       "question": "Which composer continued to write music even after becoming completely deaf?",
       "options": [
-        "Mozart",
+        "Handel",
         "Bach",
-        "Beethoven",
-        "Handel"
+        "Mozart",
+        "Beethoven"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-composers-2",
       "question": "Wolfgang Amadeus Mozart was a child prodigy from which country?",
       "options": [
+        "Italy",
         "Germany",
         "Austria",
-        "Italy",
         "Hungary"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-composers-3",
       "question": "Which composer wrote 'The Four Seasons,' a set of four violin concertos?",
       "options": [
-        "Johann Sebastian Bach",
-        "Antonio Vivaldi",
+        "Arcangelo Corelli",
         "George Frideric Handel",
-        "Arcangelo Corelli"
+        "Johann Sebastian Bach",
+        "Antonio Vivaldi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-composers-4",
       "question": "Johann Sebastian Bach is best associated with which musical period?",
       "options": [
+        "Classical",
         "Renaissance",
         "Baroque",
-        "Classical",
         "Romantic"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-composers-5",
       "question": "Which Russian composer wrote 'The Nutcracker' ballet?",
       "options": [
-        "Sergei Rachmaninoff",
-        "Igor Stravinsky",
         "Pyotr Ilyich Tchaikovsky",
-        "Nikolai Rimsky-Korsakov"
+        "Sergei Rachmaninoff",
+        "Nikolai Rimsky-Korsakov",
+        "Igor Stravinsky"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-composers-6",
       "question": "Which composer's 'Ninth Symphony' includes the famous 'Ode to Joy' melody?",
       "options": [
         "Brahms",
-        "Mozart",
         "Beethoven",
-        "Schubert"
+        "Schubert",
+        "Mozart"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-composers-7",
-      "question": "Fr\u00e9d\u00e9ric Chopin was a master of which musical instrument?",
+      "question": "Frédéric Chopin was a master of which musical instrument?",
       "options": [
         "Violin",
-        "Organ",
+        "Cello",
         "Piano",
-        "Cello"
+        "Organ"
       ],
       "correctAnswer": 2
     },
@@ -85,21 +85,21 @@
       "id": "famous-composers-8",
       "question": "Which composer wrote the opera 'The Marriage of Figaro'?",
       "options": [
-        "Giuseppe Verdi",
         "Richard Wagner",
         "Wolfgang Amadeus Mozart",
+        "Giuseppe Verdi",
         "Gioachino Rossini"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "famous-composers-9",
       "question": "George Frideric Handel is best known for which oratorio, often performed during the Easter season?",
       "options": [
         "The Creation",
-        "Elijah",
+        "Requiem",
         "Messiah",
-        "Requiem"
+        "Elijah"
       ],
       "correctAnswer": 2
     },
@@ -107,23 +107,23 @@
       "id": "famous-composers-10",
       "question": "Which composer wrote the famous 'Ride of the Valkyries'?",
       "options": [
-        "Richard Strauss",
         "Richard Wagner",
+        "Anton Bruckner",
         "Gustav Mahler",
-        "Anton Bruckner"
+        "Richard Strauss"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-composers-11",
       "question": "Johannes Brahms composed his famous 'Lullaby' in which century?",
       "options": [
-        "17th century",
         "18th century",
-        "19th century",
-        "20th century"
+        "17th century",
+        "20th century",
+        "19th century"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-composers-12",
@@ -131,8 +131,8 @@
       "options": [
         "Mozart",
         "Joseph Haydn",
-        "Schubert",
-        "Beethoven"
+        "Beethoven",
+        "Schubert"
       ],
       "correctAnswer": 1
     },
@@ -140,10 +140,10 @@
       "id": "famous-composers-13",
       "question": "Claude Debussy, known for 'Clair de Lune,' is associated with which musical movement?",
       "options": [
-        "Romanticism",
+        "Neoclassicism",
         "Impressionism",
         "Expressionism",
-        "Neoclassicism"
+        "Romanticism"
       ],
       "correctAnswer": 1
     },
@@ -151,23 +151,23 @@
       "id": "famous-composers-14",
       "question": "Which Italian composer wrote famous operas including 'Aida,' 'La Traviata,' and 'Rigoletto'?",
       "options": [
-        "Giacomo Puccini",
         "Gioachino Rossini",
-        "Giuseppe Verdi",
-        "Gaetano Donizetti"
+        "Gaetano Donizetti",
+        "Giacomo Puccini",
+        "Giuseppe Verdi"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-composers-15",
       "question": "Igor Stravinsky's ballet 'The Rite of Spring' caused a riot at its 1913 premiere in which city?",
       "options": [
         "Vienna",
-        "London",
         "Paris",
+        "London",
         "St. Petersburg"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

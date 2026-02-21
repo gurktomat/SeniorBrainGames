@@ -8,8 +8,13 @@
     {
       "id": "odd-1",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Apple", "Banana", "Carrot", "Strawberry"],
-      "correctAnswer": 2,
+      "options": [
+        "Apple",
+        "Banana",
+        "Strawberry",
+        "Carrot"
+      ],
+      "correctAnswer": 3,
       "explanation": "Carrot is a vegetable, while apple, banana, and strawberry are all fruits.",
       "difficulty": "easy",
       "category": "visual"
@@ -17,8 +22,13 @@
     {
       "id": "odd-2",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Dog", "Cat", "Lizard", "Horse"],
-      "correctAnswer": 2,
+      "options": [
+        "Cat",
+        "Lizard",
+        "Dog",
+        "Horse"
+      ],
+      "correctAnswer": 1,
       "explanation": "Lizard is a reptile, while dog, cat, and horse are all mammals.",
       "difficulty": "easy",
       "category": "visual"
@@ -26,7 +36,12 @@
     {
       "id": "odd-3",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Mars", "Jupiter", "The Sun", "Saturn"],
+      "options": [
+        "Mars",
+        "Jupiter",
+        "The Sun",
+        "Saturn"
+      ],
       "correctAnswer": 2,
       "explanation": "The Sun is a star, while Mars, Jupiter, and Saturn are all planets in our solar system.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "odd-4",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Flute", "Clarinet", "Violin", "Oboe"],
-      "correctAnswer": 2,
+      "options": [
+        "Flute",
+        "Violin",
+        "Clarinet",
+        "Oboe"
+      ],
+      "correctAnswer": 1,
       "explanation": "Violin is a string instrument, while flute, clarinet, and oboe are all woodwind instruments.",
       "difficulty": "easy",
       "category": "visual"
@@ -44,8 +64,13 @@
     {
       "id": "odd-5",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Paris", "Berlin", "Tokyo", "Rome"],
-      "correctAnswer": 2,
+      "options": [
+        "Rome",
+        "Tokyo",
+        "Berlin",
+        "Paris"
+      ],
+      "correctAnswer": 1,
       "explanation": "Tokyo is an Asian capital (Japan), while Paris, Berlin, and Rome are all European capitals.",
       "difficulty": "easy",
       "category": "visual"
@@ -53,8 +78,13 @@
     {
       "id": "odd-6",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Red", "Green", "Blue", "Yellow"],
-      "correctAnswer": 1,
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswer": 2,
       "explanation": "Green is a secondary color (made by mixing blue and yellow), while red, blue, and yellow are the three primary colors.",
       "difficulty": "medium",
       "category": "visual"
@@ -62,8 +92,13 @@
     {
       "id": "odd-7",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Atlantic", "Pacific", "Mediterranean", "Indian"],
-      "correctAnswer": 2,
+      "options": [
+        "Mediterranean",
+        "Pacific",
+        "Atlantic",
+        "Indian"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Mediterranean is a sea, while the Atlantic, Pacific, and Indian are all oceans.",
       "difficulty": "medium",
       "category": "visual"
@@ -71,7 +106,12 @@
     {
       "id": "odd-8",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Hamlet", "Macbeth", "Oliver Twist", "Othello"],
+      "options": [
+        "Othello",
+        "Hamlet",
+        "Oliver Twist",
+        "Macbeth"
+      ],
       "correctAnswer": 2,
       "explanation": "Oliver Twist is a novel by Charles Dickens, while Hamlet, Macbeth, and Othello are all plays by William Shakespeare.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "odd-9",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Skiing", "Ice Hockey", "Tennis", "Figure Skating"],
-      "correctAnswer": 2,
+      "options": [
+        "Tennis",
+        "Skiing",
+        "Figure Skating",
+        "Ice Hockey"
+      ],
+      "correctAnswer": 0,
       "explanation": "Tennis is a summer sport, while skiing, ice hockey, and figure skating are all winter sports.",
       "difficulty": "medium",
       "category": "visual"
@@ -89,8 +134,13 @@
     {
       "id": "odd-10",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Mozart", "Beethoven", "Rembrandt", "Bach"],
-      "correctAnswer": 2,
+      "options": [
+        "Beethoven",
+        "Rembrandt",
+        "Bach",
+        "Mozart"
+      ],
+      "correctAnswer": 1,
       "explanation": "Rembrandt was a painter, while Mozart, Beethoven, and Bach were all composers.",
       "difficulty": "medium",
       "category": "visual"
@@ -98,8 +148,13 @@
     {
       "id": "odd-11",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Eagle", "Sparrow", "Bat", "Robin"],
-      "correctAnswer": 2,
+      "options": [
+        "Bat",
+        "Eagle",
+        "Robin",
+        "Sparrow"
+      ],
+      "correctAnswer": 0,
       "explanation": "A bat is a mammal, while eagle, sparrow, and robin are all birds. Bats fly but are not birds.",
       "difficulty": "medium",
       "category": "visual"
@@ -107,8 +162,13 @@
     {
       "id": "odd-12",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Mercury", "Iron", "Gold", "Oxygen"],
-      "correctAnswer": 3,
+      "options": [
+        "Mercury",
+        "Iron",
+        "Oxygen",
+        "Gold"
+      ],
+      "correctAnswer": 2,
       "explanation": "Oxygen is a gas at room temperature, while mercury, iron, and gold are all metals.",
       "difficulty": "hard",
       "category": "visual"
@@ -116,8 +176,13 @@
     {
       "id": "odd-13",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Nile", "Amazon", "Sahara", "Mississippi"],
-      "correctAnswer": 2,
+      "options": [
+        "Nile",
+        "Sahara",
+        "Mississippi",
+        "Amazon"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Sahara is a desert, while the Nile, Amazon, and Mississippi are all rivers.",
       "difficulty": "hard",
       "category": "visual"
@@ -125,8 +190,13 @@
     {
       "id": "odd-14",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Cello", "Harp", "Trumpet", "Guitar"],
-      "correctAnswer": 2,
+      "options": [
+        "Trumpet",
+        "Guitar",
+        "Harp",
+        "Cello"
+      ],
+      "correctAnswer": 0,
       "explanation": "Trumpet is a brass instrument, while cello, harp, and guitar are all string instruments.",
       "difficulty": "hard",
       "category": "visual"
@@ -134,8 +204,13 @@
     {
       "id": "odd-15",
       "question": "Which item does NOT belong with the others?",
-      "options": ["Granite", "Marble", "Oak", "Limestone"],
-      "correctAnswer": 2,
+      "options": [
+        "Limestone",
+        "Marble",
+        "Granite",
+        "Oak"
+      ],
+      "correctAnswer": 3,
       "explanation": "Oak is a type of wood (from a tree), while granite, marble, and limestone are all types of rock or stone.",
       "difficulty": "hard",
       "category": "visual"

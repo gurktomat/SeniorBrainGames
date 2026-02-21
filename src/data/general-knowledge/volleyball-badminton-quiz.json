@@ -1,0 +1,219 @@
+{
+  "id": "volleyball-badminton-quiz",
+  "title": "Volleyball & Badminton",
+  "description": "How well do you know volleyball and badminton, two exciting net sports?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "volleyball-badminton-quiz-1",
+      "question": "How many players are on each team in indoor volleyball?",
+      "options": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Indoor volleyball teams have 6 players on the court at a time. Players rotate positions after winning a rally from the receiving team, ensuring all players play each position.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-2",
+      "question": "In which country was volleyball invented?",
+      "options": [
+        "United States",
+        "Germany",
+        "Japan",
+        "Brazil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Volleyball was invented in 1895 by William G. Morgan in Holyoke, Massachusetts, USA. Morgan created it as a less physically demanding alternative to basketball.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-3",
+      "question": "What is the shuttlecock (birdie) in badminton made of?",
+      "options": [
+        "Foam and nylon",
+        "Wood and leather",
+        "Rubber and plastic",
+        "Cork and feathers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A traditional badminton shuttlecock consists of a cork base with 16 goose feathers inserted into it. Synthetic (plastic) shuttlecocks are also commonly used in recreational play.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-4",
+      "question": "How many players are on each side in beach volleyball?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Beach volleyball is played with 2 players per team on a sand court. It became an Olympic sport in 1996 at the Atlanta Games.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-5",
+      "question": "Which country has traditionally dominated badminton at the Olympic Games?",
+      "options": [
+        "China",
+        "Indonesia",
+        "Japan",
+        "South Korea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "China has been the dominant force in Olympic badminton, winning the most gold medals. Indonesia, South Korea, and Japan are also strong badminton nations.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-6",
+      "question": "How many sets does a team need to win in indoor volleyball?",
+      "options": [
+        "4 out of 7",
+        "3 out of 5",
+        "2 out of 3",
+        "5 out of 9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indoor volleyball matches are played as best of 5 sets. The first four sets are played to 25 points, while a deciding fifth set is played to 15 points, with a 2-point lead required.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-7",
+      "question": "What is a 'spike' in volleyball?",
+      "options": [
+        "A powerful overhead hit aimed at the opponent's court",
+        "A defensive block",
+        "A type of set",
+        "A serve from the back line"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A spike (or attack hit) is a powerful overhead hit where a player jumps and strikes the ball forcefully downward into the opponent's court. It is the primary offensive weapon in volleyball.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-8",
+      "question": "What is the fastest recorded speed of a badminton smash?",
+      "options": [
+        "About 300 km/h",
+        "About 400 km/h",
+        "About 500 km/h",
+        "About 200 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The fastest badminton smash has been recorded at over 400 km/h (approximately 250 mph), making badminton the fastest racket sport in terms of initial shuttle speed.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-9",
+      "question": "What is the 'libero' position in volleyball?",
+      "options": [
+        "A defensive specialist who wears a different colored jersey",
+        "The team captain",
+        "The setter",
+        "The tallest player on the team"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The libero is a defensive specialist who wears a different colored jersey. They can freely substitute for any back-row player and are not allowed to serve, spike, or play at the net.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-10",
+      "question": "When did badminton become an Olympic sport?",
+      "options": [
+        "1992",
+        "1988",
+        "1984",
+        "1996"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Badminton became a full medal sport at the 1992 Barcelona Olympics. It had been a demonstration sport at the 1972 Munich Games.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-11",
+      "question": "Which country's men's volleyball team is known for a distinctive jumping serve style and has won multiple Olympic golds?",
+      "options": [
+        "Brazil",
+        "United States",
+        "Russia",
+        "Italy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brazil is one of the most successful men's volleyball nations, winning Olympic gold medals and multiple World Championships. They are known for their athleticism and powerful playing style.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-12",
+      "question": "How many points do you need to win a game in badminton?",
+      "options": [
+        "11",
+        "15",
+        "25",
+        "21"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In modern badminton, games are played to 21 points with rally scoring (a point scored on every rally). A player must win by 2 points, with a ceiling of 30 points.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-13",
+      "question": "What is a 'dig' in volleyball?",
+      "options": [
+        "A hand signal from the coach",
+        "A type of serve",
+        "A defensive pass made to save a hard-driven ball",
+        "An illegal hit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dig is a defensive skill used to prevent the ball from touching the court after a spike or attack. It typically involves a forearm pass from a low position.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-14",
+      "question": "In which Asian country is badminton considered the national sport?",
+      "options": [
+        "Japan",
+        "China",
+        "Thailand",
+        "Indonesia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Badminton is considered the national sport of Indonesia, where it is immensely popular. Indonesian players have won numerous Olympic medals and World Championship titles in the sport.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "volleyball-badminton-quiz-15",
+      "question": "How many touches is each team allowed before returning the ball in volleyball?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each team is allowed a maximum of 3 touches (contacts) to return the ball over the net, not counting a block touch. The typical sequence is a pass, set, and spike.",
+      "difficulty": "easy",
+      "category": "sports"
+    }
+  ]
+}

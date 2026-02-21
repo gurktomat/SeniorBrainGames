@@ -8,8 +8,13 @@
     {
       "id": "duo-1",
       "question": "Who was the comedy partner of Dean Martin in their famous duo?",
-      "options": ["Bob Hope", "Jerry Lewis", "Red Skelton", "Milton Berle"],
-      "correctAnswer": 1,
+      "options": [
+        "Jerry Lewis",
+        "Bob Hope",
+        "Red Skelton",
+        "Milton Berle"
+      ],
+      "correctAnswer": 0,
       "explanation": "Dean Martin and Jerry Lewis were one of the most popular comedy teams in the 1940s and 1950s, starring in 16 films together.",
       "difficulty": "easy",
       "category": "entertainment"
@@ -17,8 +22,13 @@
     {
       "id": "duo-2",
       "question": "Lewis and Clark were famous for exploring what part of the United States?",
-      "options": ["The Southeast", "The Northeast", "The Western territories", "Alaska"],
-      "correctAnswer": 2,
+      "options": [
+        "The Northeast",
+        "The Western territories",
+        "Alaska",
+        "The Southeast"
+      ],
+      "correctAnswer": 1,
       "explanation": "Meriwether Lewis and William Clark led the famous expedition (1804-1806) to explore the western territories after the Louisiana Purchase.",
       "difficulty": "easy",
       "category": "history"
@@ -26,8 +36,13 @@
     {
       "id": "duo-3",
       "question": "In the famous ice skating duo, who was Torvill's partner?",
-      "options": ["Dean", "Hunt", "Barry", "Scott"],
-      "correctAnswer": 0,
+      "options": [
+        "Barry",
+        "Scott",
+        "Hunt",
+        "Dean"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jayne Torvill and Christopher Dean won the Olympic gold medal in 1984 for their legendary 'Bolero' ice dance routine.",
       "difficulty": "medium",
       "category": "sports"
@@ -35,8 +50,13 @@
     {
       "id": "duo-4",
       "question": "Which duo created the first successful airplane flight in 1903?",
-      "options": ["The Smith Brothers", "The Warner Brothers", "The Wright Brothers", "The Marx Brothers"],
-      "correctAnswer": 2,
+      "options": [
+        "The Wright Brothers",
+        "The Marx Brothers",
+        "The Warner Brothers",
+        "The Smith Brothers"
+      ],
+      "correctAnswer": 0,
       "explanation": "Orville and Wilbur Wright achieved the first powered flight on December 17, 1903, at Kitty Hawk, North Carolina.",
       "difficulty": "easy",
       "category": "history"
@@ -44,7 +64,12 @@
     {
       "id": "duo-5",
       "question": "Simon & Garfunkel are best known for which hit song?",
-      "options": ["Yesterday", "Bridge Over Troubled Water", "Let It Be", "Hotel California"],
+      "options": [
+        "Hotel California",
+        "Bridge Over Troubled Water",
+        "Yesterday",
+        "Let It Be"
+      ],
       "correctAnswer": 1,
       "explanation": "Paul Simon and Art Garfunkel's 'Bridge Over Troubled Water' (1970) became one of the best-selling singles of all time.",
       "difficulty": "easy",
@@ -53,8 +78,13 @@
     {
       "id": "duo-6",
       "question": "Who was Bonnie Parker's partner in crime?",
-      "options": ["John Dillinger", "Al Capone", "Clyde Barrow", "Pretty Boy Floyd"],
-      "correctAnswer": 2,
+      "options": [
+        "Pretty Boy Floyd",
+        "Clyde Barrow",
+        "Al Capone",
+        "John Dillinger"
+      ],
+      "correctAnswer": 1,
       "explanation": "Bonnie Parker and Clyde Barrow were infamous outlaws who robbed banks and stores across the central United States during the Great Depression.",
       "difficulty": "easy",
       "category": "history"
@@ -62,7 +92,12 @@
     {
       "id": "duo-7",
       "question": "Which famous duo discovered radium together?",
-      "options": ["Watson and Crick", "Marie and Pierre Curie", "Orville and Wilbur Wright", "Lewis and Clark"],
+      "options": [
+        "Orville and Wilbur Wright",
+        "Marie and Pierre Curie",
+        "Watson and Crick",
+        "Lewis and Clark"
+      ],
       "correctAnswer": 1,
       "explanation": "Marie and Pierre Curie discovered radium and polonium together, sharing the 1903 Nobel Prize in Physics.",
       "difficulty": "medium",
@@ -71,7 +106,12 @@
     {
       "id": "duo-8",
       "question": "In the classic comedy duo Laurel and Hardy, who was the thin one?",
-      "options": ["Hardy", "Laurel", "Neither — they were both large", "They alternated roles"],
+      "options": [
+        "Hardy",
+        "Laurel",
+        "They alternated roles",
+        "Neither — they were both large"
+      ],
       "correctAnswer": 1,
       "explanation": "Stan Laurel was the thin, bumbling half of the duo, while Oliver Hardy was the larger, more pompous partner.",
       "difficulty": "easy",
@@ -80,8 +120,13 @@
     {
       "id": "duo-9",
       "question": "Which duo wrote many of The Beatles' most famous songs?",
-      "options": ["Lennon and McCartney", "Lennon and Harrison", "McCartney and Starr", "Harrison and Starr"],
-      "correctAnswer": 0,
+      "options": [
+        "Harrison and Starr",
+        "Lennon and Harrison",
+        "McCartney and Starr",
+        "Lennon and McCartney"
+      ],
+      "correctAnswer": 3,
       "explanation": "John Lennon and Paul McCartney formed one of the most successful songwriting partnerships in music history.",
       "difficulty": "easy",
       "category": "music"
@@ -89,8 +134,13 @@
     {
       "id": "duo-10",
       "question": "Batman's famous partner Robin is also known as what?",
-      "options": ["The Dark Knight", "The Boy Wonder", "The Caped Crusader", "The Night Owl"],
-      "correctAnswer": 1,
+      "options": [
+        "The Dark Knight",
+        "The Night Owl",
+        "The Caped Crusader",
+        "The Boy Wonder"
+      ],
+      "correctAnswer": 3,
       "explanation": "Robin, Batman's sidekick, has been known as 'The Boy Wonder' since his first appearance in 1940.",
       "difficulty": "easy",
       "category": "entertainment"
@@ -98,8 +148,13 @@
     {
       "id": "duo-11",
       "question": "Which famous duo hosted a morning TV show together for decades, known as 'Live'?",
-      "options": ["Donny and Marie", "Regis and Kathie Lee", "Sonny and Cher", "Tom and Jerry"],
-      "correctAnswer": 1,
+      "options": [
+        "Donny and Marie",
+        "Tom and Jerry",
+        "Sonny and Cher",
+        "Regis and Kathie Lee"
+      ],
+      "correctAnswer": 3,
       "explanation": "Regis Philbin and Kathie Lee Gifford co-hosted 'Live with Regis and Kathie Lee' from 1988 to 2000.",
       "difficulty": "medium",
       "category": "entertainment"
@@ -107,7 +162,12 @@
     {
       "id": "duo-12",
       "question": "Watson and Crick are famous for discovering the structure of what?",
-      "options": ["The atom", "DNA", "The cell", "Penicillin"],
+      "options": [
+        "The cell",
+        "DNA",
+        "Penicillin",
+        "The atom"
+      ],
       "correctAnswer": 1,
       "explanation": "James Watson and Francis Crick discovered the double helix structure of DNA in 1953, revolutionizing biology.",
       "difficulty": "medium",
@@ -116,7 +176,12 @@
     {
       "id": "duo-13",
       "question": "Which singing duo had the hit 'I Got You Babe' in 1965?",
-      "options": ["The Everly Brothers", "Simon & Garfunkel", "Sonny & Cher", "The Righteous Brothers"],
+      "options": [
+        "The Everly Brothers",
+        "The Righteous Brothers",
+        "Sonny & Cher",
+        "Simon & Garfunkel"
+      ],
       "correctAnswer": 2,
       "explanation": "Sonny Bono and Cher's 'I Got You Babe' reached number one in 1965 and launched their career as a duo.",
       "difficulty": "easy",
@@ -125,7 +190,12 @@
     {
       "id": "duo-14",
       "question": "Which famous Western duo was played by Paul Newman and Robert Redford?",
-      "options": ["Wyatt Earp and Doc Holliday", "The Lone Ranger and Tonto", "Butch Cassidy and the Sundance Kid", "Jesse and Frank James"],
+      "options": [
+        "Jesse and Frank James",
+        "Wyatt Earp and Doc Holliday",
+        "Butch Cassidy and the Sundance Kid",
+        "The Lone Ranger and Tonto"
+      ],
       "correctAnswer": 2,
       "explanation": "The 1969 film 'Butch Cassidy and the Sundance Kid' starred Newman and Redford as the legendary outlaw pair.",
       "difficulty": "easy",
@@ -134,8 +204,13 @@
     {
       "id": "duo-15",
       "question": "Fred Astaire's most famous dance partner in films was whom?",
-      "options": ["Ginger Rogers", "Judy Garland", "Rita Hayworth", "Cyd Charisse"],
-      "correctAnswer": 0,
+      "options": [
+        "Cyd Charisse",
+        "Ginger Rogers",
+        "Judy Garland",
+        "Rita Hayworth"
+      ],
+      "correctAnswer": 1,
       "explanation": "Fred Astaire and Ginger Rogers starred together in 10 musical films and became the most iconic dance partnership in cinema history.",
       "difficulty": "easy",
       "category": "entertainment"
@@ -143,8 +218,13 @@
     {
       "id": "duo-16",
       "question": "Which duo are the title characters in Shakespeare's most famous love story?",
-      "options": ["Antony and Cleopatra", "Hamlet and Ophelia", "Romeo and Juliet", "Othello and Desdemona"],
-      "correctAnswer": 2,
+      "options": [
+        "Othello and Desdemona",
+        "Antony and Cleopatra",
+        "Hamlet and Ophelia",
+        "Romeo and Juliet"
+      ],
+      "correctAnswer": 3,
       "explanation": "Romeo and Juliet, written around 1597, is perhaps the most famous love story ever written.",
       "difficulty": "easy",
       "category": "literature"
@@ -152,8 +232,13 @@
     {
       "id": "duo-17",
       "question": "Ben & Jerry's ice cream company was founded in what state?",
-      "options": ["New York", "Vermont", "California", "Massachusetts"],
-      "correctAnswer": 1,
+      "options": [
+        "California",
+        "Massachusetts",
+        "New York",
+        "Vermont"
+      ],
+      "correctAnswer": 3,
       "explanation": "Ben Cohen and Jerry Greenfield opened their first ice cream shop in a renovated gas station in Burlington, Vermont, in 1978.",
       "difficulty": "medium",
       "category": "business"
@@ -161,8 +246,13 @@
     {
       "id": "duo-18",
       "question": "Which duo are the famous detective and his partner at 221B Baker Street?",
-      "options": ["Poirot and Hastings", "Holmes and Watson", "Morse and Lewis", "Starsky and Hutch"],
-      "correctAnswer": 1,
+      "options": [
+        "Starsky and Hutch",
+        "Poirot and Hastings",
+        "Morse and Lewis",
+        "Holmes and Watson"
+      ],
+      "correctAnswer": 3,
       "explanation": "Sherlock Holmes and Dr. John Watson, created by Arthur Conan Doyle, are literature's most famous detective duo.",
       "difficulty": "easy",
       "category": "literature"
@@ -170,8 +260,13 @@
     {
       "id": "duo-19",
       "question": "The Everly Brothers were known for their close harmony singing. What were their first names?",
-      "options": ["Tom and Jerry", "Phil and Don", "Bill and Ted", "Jack and John"],
-      "correctAnswer": 1,
+      "options": [
+        "Bill and Ted",
+        "Jack and John",
+        "Phil and Don",
+        "Tom and Jerry"
+      ],
+      "correctAnswer": 2,
       "explanation": "Phil and Don Everly had hits like 'Bye Bye Love' and 'All I Have to Do Is Dream' in the late 1950s and 1960s.",
       "difficulty": "medium",
       "category": "music"
@@ -179,8 +274,13 @@
     {
       "id": "duo-20",
       "question": "Which dynamic duo founded Apple Computer in a garage in 1976?",
-      "options": ["Bill Gates and Paul Allen", "Steve Jobs and Steve Wozniak", "Larry Page and Sergey Brin", "Michael Dell and Kevin Rollins"],
-      "correctAnswer": 1,
+      "options": [
+        "Larry Page and Sergey Brin",
+        "Michael Dell and Kevin Rollins",
+        "Steve Jobs and Steve Wozniak",
+        "Bill Gates and Paul Allen"
+      ],
+      "correctAnswer": 2,
       "explanation": "Steve Jobs and Steve Wozniak founded Apple Computer in the Jobs family garage in Los Altos, California, in 1976.",
       "difficulty": "easy",
       "category": "technology"

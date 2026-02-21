@@ -8,10 +8,10 @@
       "id": "famous-inventions-history-1",
       "question": "Who is credited with inventing the practical incandescent light bulb in 1879?",
       "options": [
-        "Nikola Tesla",
         "Alexander Graham Bell",
+        "George Westinghouse",
         "Thomas Edison",
-        "George Westinghouse"
+        "Nikola Tesla"
       ],
       "correctAnswer": 2
     },
@@ -19,54 +19,54 @@
       "id": "famous-inventions-history-2",
       "question": "Who invented the telephone and was granted a patent for it in 1876?",
       "options": [
-        "Thomas Edison",
-        "Guglielmo Marconi",
         "Alexander Graham Bell",
-        "Nikola Tesla"
+        "Guglielmo Marconi",
+        "Nikola Tesla",
+        "Thomas Edison"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-inventions-history-3",
       "question": "Johannes Gutenberg's invention of the movable type printing press around 1440 revolutionized which field?",
       "options": [
-        "Agriculture",
         "Navigation",
-        "Printing and publishing",
-        "Textile manufacturing"
+        "Textile manufacturing",
+        "Agriculture",
+        "Printing and publishing"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-inventions-history-4",
       "question": "Who are the two brothers credited with achieving the first powered, sustained airplane flight in 1903?",
       "options": [
-        "The Montgolfier Brothers",
         "The Wright Brothers",
+        "The Montgolfier Brothers",
         "The Lumiere Brothers",
         "The Curtis Brothers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-inventions-history-5",
       "question": "Which Scottish scientist discovered penicillin in 1928, revolutionizing medicine?",
       "options": [
-        "Louis Pasteur",
-        "Joseph Lister",
         "Alexander Fleming",
-        "Edward Jenner"
+        "Edward Jenner",
+        "Joseph Lister",
+        "Louis Pasteur"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-inventions-history-6",
       "question": "Who invented the World Wide Web in 1989?",
       "options": [
-        "Bill Gates",
+        "Vint Cerf",
         "Steve Jobs",
         "Tim Berners-Lee",
-        "Vint Cerf"
+        "Bill Gates"
       ],
       "correctAnswer": 2
     },
@@ -75,20 +75,20 @@
       "question": "Which inventor developed the first practical steam engine, powering the Industrial Revolution?",
       "options": [
         "Thomas Newcomen",
+        "George Stephenson",
         "James Watt",
-        "Robert Fulton",
-        "George Stephenson"
+        "Robert Fulton"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "famous-inventions-history-8",
       "question": "Who invented the cotton gin in 1793, which greatly affected agriculture in the American South?",
       "options": [
-        "Benjamin Franklin",
+        "John Deere",
         "Eli Whitney",
-        "Cyrus McCormick",
-        "John Deere"
+        "Benjamin Franklin",
+        "Cyrus McCormick"
       ],
       "correctAnswer": 1
     },
@@ -96,76 +96,76 @@
       "id": "famous-inventions-history-9",
       "question": "Which Italian inventor is credited with developing the first practical radio communication system?",
       "options": [
-        "Nikola Tesla",
-        "Guglielmo Marconi",
         "Alessandro Volta",
-        "Antonio Meucci"
+        "Nikola Tesla",
+        "Antonio Meucci",
+        "Guglielmo Marconi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-inventions-history-10",
       "question": "Who developed the first successful polio vaccine in 1955?",
       "options": [
-        "Louis Pasteur",
-        "Jonas Salk",
+        "Edward Jenner",
         "Albert Sabin",
-        "Edward Jenner"
+        "Louis Pasteur",
+        "Jonas Salk"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-inventions-history-11",
       "question": "Which invention by Karl Benz in 1886 is considered the first true automobile?",
       "options": [
-        "Steam carriage",
         "Benz Patent-Motorwagen",
         "Daimler motor car",
-        "Ford Model T"
+        "Ford Model T",
+        "Steam carriage"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-inventions-history-12",
       "question": "Who invented dynamite in 1867 and later established a famous prize for achievements in science, literature, and peace?",
       "options": [
-        "Alfred Nobel",
-        "Albert Einstein",
+        "Werner Heisenberg",
         "Niels Bohr",
-        "Werner Heisenberg"
+        "Albert Einstein",
+        "Alfred Nobel"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "famous-inventions-history-13",
       "question": "Which American inventor created the phonograph, the first device to record and reproduce sound?",
       "options": [
-        "Alexander Graham Bell",
         "Nikola Tesla",
-        "Thomas Edison",
-        "Emile Berliner"
+        "Alexander Graham Bell",
+        "Emile Berliner",
+        "Thomas Edison"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-inventions-history-14",
       "question": "Who is credited with inventing the first practical sewing machine and making it commercially successful?",
       "options": [
-        "Elias Howe",
         "Isaac Singer",
+        "Elias Howe",
         "Barthelemy Thimonnier",
         "Walter Hunt"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-inventions-history-15",
       "question": "Which English physician pioneered the smallpox vaccine in 1796, leading to the eventual eradication of the disease?",
       "options": [
-        "Alexander Fleming",
         "Louis Pasteur",
+        "Robert Koch",
         "Edward Jenner",
-        "Robert Koch"
+        "Alexander Fleming"
       ],
       "correctAnswer": 2
     }

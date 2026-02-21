@@ -7,91 +7,166 @@
     {
       "id": "famous-walls-barriers-1",
       "question": "The Great Wall of China was primarily built to protect against invasions from which direction?",
-      "options": ["South", "East", "North", "West"],
-      "correctAnswer": 2
+      "options": [
+        "West",
+        "South",
+        "East",
+        "North"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-walls-barriers-2",
       "question": "In what year did the Berlin Wall fall?",
-      "options": ["1987", "1989", "1991", "1985"],
-      "correctAnswer": 1
+      "options": [
+        "1989",
+        "1985",
+        "1991",
+        "1987"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-walls-barriers-3",
       "question": "Hadrian's Wall was built across which country?",
-      "options": ["Scotland", "Wales", "England", "Ireland"],
-      "correctAnswer": 2
+      "options": [
+        "England",
+        "Scotland",
+        "Wales",
+        "Ireland"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-walls-barriers-4",
       "question": "The Western Wall in Jerusalem is a remnant of which ancient structure?",
-      "options": ["King Solomon's Palace", "The Second Temple", "The Tower of David", "The Fortress of Antonia"],
-      "correctAnswer": 1
+      "options": [
+        "King Solomon's Palace",
+        "The Fortress of Antonia",
+        "The Second Temple",
+        "The Tower of David"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-walls-barriers-5",
       "question": "Which Roman emperor ordered the construction of Hadrian's Wall around 122 AD?",
-      "options": ["Augustus", "Nero", "Hadrian", "Trajan"],
-      "correctAnswer": 2
+      "options": [
+        "Augustus",
+        "Nero",
+        "Trajan",
+        "Hadrian"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-walls-barriers-6",
       "question": "The Iron Curtain was a political boundary dividing Europe during which era?",
-      "options": ["World War I", "The Cold War", "The Renaissance", "The Napoleonic Wars"],
+      "options": [
+        "The Renaissance",
+        "The Cold War",
+        "The Napoleonic Wars",
+        "World War I"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-walls-barriers-7",
       "question": "The Antonine Wall, built north of Hadrian's Wall, is located in which present-day country?",
-      "options": ["England", "Wales", "Scotland", "Ireland"],
-      "correctAnswer": 2
+      "options": [
+        "Scotland",
+        "Ireland",
+        "Wales",
+        "England"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-walls-barriers-8",
       "question": "Which ancient city was famous for its massive walls that were considered one of the Seven Wonders of the Ancient World?",
-      "options": ["Athens", "Rome", "Babylon", "Carthage"],
-      "correctAnswer": 2
+      "options": [
+        "Rome",
+        "Athens",
+        "Carthage",
+        "Babylon"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-walls-barriers-9",
       "question": "The Maginot Line was a line of fortifications built by which country before World War II?",
-      "options": ["Germany", "France", "Belgium", "Italy"],
-      "correctAnswer": 1
+      "options": [
+        "Belgium",
+        "Italy",
+        "Germany",
+        "France"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-walls-barriers-10",
       "question": "Approximately how long is the Great Wall of China, including all its branches?",
-      "options": ["5,000 miles", "8,000 miles", "13,000 miles", "20,000 miles"],
-      "correctAnswer": 2
+      "options": [
+        "5,000 miles",
+        "13,000 miles",
+        "8,000 miles",
+        "20,000 miles"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-walls-barriers-11",
       "question": "The Berlin Wall divided which city into East and West sectors?",
-      "options": ["Munich", "Hamburg", "Berlin", "Frankfurt"],
-      "correctAnswer": 2
+      "options": [
+        "Frankfurt",
+        "Berlin",
+        "Hamburg",
+        "Munich"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-walls-barriers-12",
       "question": "The Walls of Constantinople protected which modern-day city for over a thousand years?",
-      "options": ["Athens", "Istanbul", "Cairo", "Baghdad"],
-      "correctAnswer": 1
+      "options": [
+        "Baghdad",
+        "Athens",
+        "Cairo",
+        "Istanbul"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-walls-barriers-13",
       "question": "Which U.S. president famously said 'Mr. Gorbachev, tear down this wall!' in 1987?",
-      "options": ["Jimmy Carter", "George H.W. Bush", "Ronald Reagan", "Bill Clinton"],
+      "options": [
+        "Jimmy Carter",
+        "George H.W. Bush",
+        "Ronald Reagan",
+        "Bill Clinton"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-walls-barriers-14",
       "question": "The ancient walls of which city in Croatia are a popular tourist attraction along the Adriatic Sea?",
-      "options": ["Split", "Dubrovnik", "Zagreb", "Zadar"],
+      "options": [
+        "Split",
+        "Dubrovnik",
+        "Zadar",
+        "Zagreb"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-walls-barriers-15",
       "question": "The Korean Demilitarized Zone (DMZ) separates which two countries?",
-      "options": ["China and Mongolia", "North and South Korea", "Japan and Russia", "Vietnam and Laos"],
+      "options": [
+        "Japan and Russia",
+        "North and South Korea",
+        "China and Mongolia",
+        "Vietnam and Laos"
+      ],
       "correctAnswer": 1
     }
   ]

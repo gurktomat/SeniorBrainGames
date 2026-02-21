@@ -1,0 +1,173 @@
+{
+  "id": "snake-species-quiz",
+  "title": "Snake Species Quiz",
+  "description": "Slither into this quiz about the fascinating world of snakes and their unique traits",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "snake-species-quiz-1",
+      "question": "Which snake is the longest in the world, capable of reaching lengths over 20 feet?",
+      "options": [
+        "King Cobra",
+        "Green Anaconda",
+        "Reticulated Python",
+        "Burmese Python"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "snake-species-quiz-2",
+      "question": "Which snake is the heaviest in the world, weighing up to 550 pounds?",
+      "options": [
+        "Reticulated Python",
+        "African Rock Python",
+        "Burmese Python",
+        "Green Anaconda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "snake-species-quiz-3",
+      "question": "Which venomous snake is the longest in the world, reaching lengths of up to 18 feet?",
+      "options": [
+        "Taipan",
+        "King Cobra",
+        "Eastern Diamondback",
+        "Black Mamba"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "snake-species-quiz-4",
+      "question": "Which African snake is considered the fastest snake in the world, capable of reaching speeds of 12 mph?",
+      "options": [
+        "Puff Adder",
+        "Black Mamba",
+        "Boomslang",
+        "Egyptian Cobra"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "snake-species-quiz-5",
+      "question": "Which North American pit viper has a distinctive rattle at the end of its tail made of keratin segments?",
+      "options": [
+        "Cottonmouth",
+        "Coral Snake",
+        "Copperhead",
+        "Rattlesnake"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "snake-species-quiz-6",
+      "question": "Which brightly colored venomous snake is mimicked by the harmless king snake, remembered by the rhyme 'Red touches yellow, kills a fellow'?",
+      "options": [
+        "Coral Snake",
+        "King Snake",
+        "Milk Snake",
+        "Scarlet Snake"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "snake-species-quiz-7",
+      "question": "Which snake from Southeast Asia can flatten its body and glide through the air between trees?",
+      "options": [
+        "Green Tree Python",
+        "Paradise Tree Snake",
+        "Emerald Tree Boa",
+        "Vine Snake"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "snake-species-quiz-8",
+      "question": "Which cobra species is famous for being used by snake charmers in India and can spread its hood when threatened?",
+      "options": [
+        "Spitting Cobra",
+        "Monocled Cobra",
+        "King Cobra",
+        "Indian Cobra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "snake-species-quiz-9",
+      "question": "Which Australian snake has the most toxic venom of any land snake in the world?",
+      "options": [
+        "Tiger Snake",
+        "Death Adder",
+        "Inland Taipan",
+        "Eastern Brown Snake"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "snake-species-quiz-10",
+      "question": "Which non-venomous snake is one of the most popular pet snakes and comes in many color morphs including albino?",
+      "options": [
+        "Ball Python",
+        "King Snake",
+        "Milk Snake",
+        "Corn Snake"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "snake-species-quiz-11",
+      "question": "Which large constrictor snake is an invasive species causing ecological problems in the Florida Everglades?",
+      "options": [
+        "Reticulated Python",
+        "African Rock Python",
+        "Boa Constrictor",
+        "Burmese Python"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "snake-species-quiz-12",
+      "question": "Which snake gets its name from the white interior of its mouth that it displays as a warning?",
+      "options": [
+        "Cottonmouth",
+        "Copperhead",
+        "White-lipped Pit Viper",
+        "Boomslang"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "snake-species-quiz-13",
+      "question": "Which constrictor found in Central and South America gives live birth rather than laying eggs?",
+      "options": [
+        "Boa Constrictor",
+        "Ball Python",
+        "Reticulated Python",
+        "Burmese Python"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "snake-species-quiz-14",
+      "question": "Which small, harmless snake is commonly found in gardens across North America and has yellow stripes running along its body?",
+      "options": [
+        "Ribbon Snake",
+        "Garter Snake",
+        "Rat Snake",
+        "Racer Snake"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "snake-species-quiz-15",
+      "question": "Which venomous snake from Africa is named for its extremely large fangs and is responsible for more snakebite fatalities in Africa than any other species?",
+      "options": [
+        "Gaboon Viper",
+        "Black Mamba",
+        "Boomslang",
+        "Puff Adder"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

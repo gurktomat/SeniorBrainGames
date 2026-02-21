@@ -1,0 +1,219 @@
+{
+  "id": "famous-art-museums",
+  "title": "Famous Art Museums",
+  "description": "How well do you know the world's greatest art museums and their treasures?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-art-museums-1",
+      "question": "The Louvre Museum in Paris was originally built as what?",
+      "options": [
+        "A university",
+        "A hospital",
+        "A royal palace",
+        "A church"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Louvre began as a medieval fortress in the 12th century and was later transformed into a royal palace. It became a public museum in 1793 during the French Revolution and now houses over 380,000 objects.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-2",
+      "question": "Which museum in New York City is often called 'The Met'?",
+      "options": [
+        "The Guggenheim",
+        "The Whitney Museum",
+        "The Metropolitan Museum of Art",
+        "The Museum of Modern Art"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Metropolitan Museum of Art, founded in 1870, is the largest art museum in the Americas. Its collection spans 5,000 years and includes over 2 million works from virtually every civilization.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-3",
+      "question": "The Uffizi Gallery, home to masterpieces by Botticelli and Leonardo, is located in which Italian city?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Milan",
+        "Venice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Uffizi Gallery in Florence was designed by Giorgio Vasari in 1560 for the Medici family's administrative offices ('uffizi' means 'offices'). It became one of the first modern museums when the Medici opened it to visitors in 1769.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-4",
+      "question": "The Hermitage Museum in St. Petersburg, Russia, is housed in what famous building?",
+      "options": [
+        "St. Basil's Cathedral",
+        "The Winter Palace",
+        "The Kremlin",
+        "The Bolshoi Theatre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Hermitage occupies the Winter Palace and several adjacent buildings. Founded by Empress Catherine the Great in 1764, it has grown to over 3 million items, making it one of the largest museums in the world.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-5",
+      "question": "Which museum's iconic spiral ramp was designed by Frank Lloyd Wright?",
+      "options": [
+        "The Solomon R. Guggenheim Museum",
+        "The Frick Collection",
+        "The Museum of Modern Art",
+        "The Whitney Museum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Solomon R. Guggenheim Museum on Fifth Avenue in New York, completed in 1959, features a continuous spiral ramp that visitors descend while viewing art. It was Frank Lloyd Wright's last major project.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-6",
+      "question": "The British Museum is famous for housing which controversial ancient artifact?",
+      "options": [
+        "The Terracotta Army",
+        "The Dead Sea Scrolls",
+        "The Mona Lisa",
+        "The Rosetta Stone"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Rosetta Stone, key to deciphering Egyptian hieroglyphs, has been in the British Museum since 1802. The museum also holds the Elgin Marbles from the Parthenon, which Greece has long sought to reclaim.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-7",
+      "question": "The Prado Museum in Madrid is particularly renowned for its collection of works by which Spanish painter?",
+      "options": [
+        "Diego Velázquez",
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Prado holds the world's finest collection of Velázquez paintings, including 'Las Meninas.' It also has major works by Goya, El Greco, and Bosch. The museum opened in 1819.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-8",
+      "question": "MoMA (Museum of Modern Art) in New York holds which iconic painting by Vincent van Gogh?",
+      "options": [
+        "The Starry Night",
+        "Sunflowers",
+        "Bedroom in Arles",
+        "Self-Portrait with Bandaged Ear"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Starry Night' (1889), painted while Van Gogh was in an asylum in Saint-Rémy-de-Provence, has been in MoMA's collection since 1941. It is one of the most recognized paintings in the world.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-9",
+      "question": "The Vatican Museums contain which famous artistic treasure?",
+      "options": [
+        "The Birth of Venus",
+        "The Sistine Chapel ceiling",
+        "The Last Supper",
+        "Guernica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Vatican Museums house Michelangelo's Sistine Chapel ceiling and 'The Last Judgment,' along with Raphael's Rooms and an enormous collection of art spanning centuries. Over 6 million people visit annually.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-10",
+      "question": "The Rijksmuseum in Amsterdam is famous for displaying which Rembrandt masterpiece?",
+      "options": [
+        "The Jewish Bride",
+        "The Night Watch",
+        "Self-Portrait with Two Circles",
+        "The Anatomy Lesson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'The Night Watch' (1642) is the Rijksmuseum's most famous painting. The massive canvas (12 by 14 feet) depicts a militia company and is displayed in its own gallery, the museum's 'Gallery of Honour.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-11",
+      "question": "Which museum, opened in 1929, was the first museum dedicated entirely to modern art?",
+      "options": [
+        "The Tate Modern",
+        "The Centre Pompidou",
+        "The Guggenheim",
+        "The Museum of Modern Art (MoMA)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "MoMA was founded in 1929 by three patrons — Lillie P. Bliss, Mary Quinn Sullivan, and Abby Aldrich Rockefeller. It was the first museum devoted exclusively to modern art, housing works from the 1880s to today.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-12",
+      "question": "The Tate Modern in London is housed in a converted what?",
+      "options": [
+        "Power station",
+        "Warehouse",
+        "Railway station",
+        "Church"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Tate Modern opened in 2000 in the converted Bankside Power Station, designed by Sir Giles Gilbert Scott. The massive Turbine Hall, originally housing electricity generators, serves as a dramatic entrance and exhibition space.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-13",
+      "question": "The Centre Pompidou in Paris is known for its unusual architectural feature of having what on the outside?",
+      "options": [
+        "Giant video screens",
+        "Living plants on every surface",
+        "Exposed pipes, ducts, and escalators",
+        "Sculptures covering the walls"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Designed by Renzo Piano and Richard Rogers, the Centre Pompidou (1977) famously displays its structural and mechanical systems on the exterior. Color-coded pipes for water, air, and electricity create a distinctive industrial appearance.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-14",
+      "question": "Which museum in Cairo houses the golden mask of King Tutankhamun?",
+      "options": [
+        "The Alexandria Library",
+        "The British Museum",
+        "The Louvre",
+        "The Egyptian Museum"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Egyptian Museum in Cairo (founded 1902) houses the treasures of Tutankhamun's tomb, discovered by Howard Carter in 1922. The collection includes the famous gold death mask, one of the most recognized artifacts in the world.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-art-museums-15",
+      "question": "What distinctive feature marks the entrance to the Louvre Museum?",
+      "options": [
+        "A glass pyramid",
+        "A golden gate",
+        "A Roman arch",
+        "A marble staircase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The glass and metal pyramid, designed by architect I.M. Pei and completed in 1989, serves as the main entrance to the Louvre. Initially controversial, it has become an iconic symbol of Paris alongside the museum itself.",
+      "difficulty": "easy",
+      "category": "art"
+    }
+  ]
+}

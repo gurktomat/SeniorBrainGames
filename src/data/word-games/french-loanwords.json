@@ -8,10 +8,10 @@
       "id": "french-loanwords-1",
       "question": "The English word 'restaurant' comes from French. What did the original French word mean?",
       "options": [
-        "A place to sit",
-        "A restoring food or drink",
         "A cooking place",
-        "A gathering hall"
+        "A restoring food or drink",
+        "A gathering hall",
+        "A place to sit"
       ],
       "correctAnswer": 1
     },
@@ -21,8 +21,8 @@
       "options": [
         "Kindergarten",
         "Ballet",
-        "Wanderlust",
-        "Angst"
+        "Angst",
+        "Wanderlust"
       ],
       "correctAnswer": 1
     },
@@ -30,54 +30,54 @@
       "id": "french-loanwords-3",
       "question": "The word 'entrepreneur' comes from French. What does it literally mean?",
       "options": [
-        "Money maker",
         "One who undertakes",
+        "Money maker",
         "Business owner",
         "Risk taker"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "french-loanwords-4",
       "question": "What does the French loanword 'cul-de-sac' literally translate to?",
       "options": [
-        "Dead end",
-        "Bottom of the bag",
+        "Closed street",
         "Circle road",
-        "Closed street"
+        "Dead end",
+        "Bottom of the bag"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "french-loanwords-5",
       "question": "Which cooking term borrowed from French means 'to fry lightly in butter or oil'?",
       "options": [
-        "Braise",
-        "Blanch",
         "Saute",
-        "Flambe"
+        "Braise",
+        "Flambe",
+        "Blanch"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "french-loanwords-6",
       "question": "The French loanword 'RSVP' stands for 'Repondez s'il vous plait.' What does it mean?",
       "options": [
         "Please come early",
+        "Reserve your seat",
         "Reply if you please",
-        "Return this card",
-        "Reserve your seat"
+        "Return this card"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "french-loanwords-7",
       "question": "Which of these fashion terms comes from French?",
       "options": [
-        "Lederhosen",
+        "Sari",
         "Boutique",
         "Kimono",
-        "Sari"
+        "Lederhosen"
       ],
       "correctAnswer": 1
     },
@@ -85,12 +85,12 @@
       "id": "french-loanwords-8",
       "question": "What does the French loanword 'faux pas' mean?",
       "options": [
+        "A wrong turn",
         "A false step or social blunder",
         "A fake passport",
-        "A wrong turn",
         "A fashion mistake"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "french-loanwords-9",
@@ -98,8 +98,8 @@
       "options": [
         "A gift",
         "To remember",
-        "A treasure",
-        "To collect"
+        "To collect",
+        "A treasure"
       ],
       "correctAnswer": 1
     },
@@ -107,8 +107,8 @@
       "id": "french-loanwords-10",
       "question": "Which of these words for a type of artistic display comes from French?",
       "options": [
-        "Gallery",
         "Montage",
+        "Gallery",
         "Studio",
         "Both A and B"
       ],
@@ -118,32 +118,32 @@
       "id": "french-loanwords-11",
       "question": "What does the French loanword 'debut' mean?",
       "options": [
-        "An ending",
-        "A first public appearance",
+        "A celebration",
         "A competition",
-        "A celebration"
+        "A first public appearance",
+        "An ending"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "french-loanwords-12",
       "question": "The word 'chauffeur' comes from French. What did it originally mean?",
       "options": [
         "Driver",
-        "Stoker or one who heats",
+        "Coachman",
         "Servant",
-        "Coachman"
+        "Stoker or one who heats"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "french-loanwords-13",
       "question": "Which dessert term is a French loanword meaning 'a small, delicate cake'?",
       "options": [
         "Brownie",
-        "Muffin",
+        "Cookie",
         "Petit four",
-        "Cookie"
+        "Muffin"
       ],
       "correctAnswer": 2
     },
@@ -151,10 +151,10 @@
       "id": "french-loanwords-14",
       "question": "What does the French loanword 'cliche' refer to?",
       "options": [
-        "A photograph",
+        "A French greeting",
         "An overused phrase or idea",
         "A type of accent",
-        "A French greeting"
+        "A photograph"
       ],
       "correctAnswer": 1
     },
@@ -162,12 +162,12 @@
       "id": "french-loanwords-15",
       "question": "The word 'silhouette' comes from French. It is named after what?",
       "options": [
-        "A type of fabric",
-        "A French finance minister, Etienne de Silhouette",
         "A shadow puppet show",
-        "A painting technique"
+        "A painting technique",
+        "A type of fabric",
+        "A French finance minister, Etienne de Silhouette"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

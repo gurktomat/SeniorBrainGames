@@ -8,7 +8,12 @@
     {
       "id": "ba-1",
       "question": "In the alphabet, what letter comes immediately after 'M'?",
-      "options": ["L", "N", "O", "K"],
+      "options": [
+        "O",
+        "N",
+        "K",
+        "L"
+      ],
       "correctAnswer": 1,
       "explanation": "The sequence goes L, M, N, O — so N comes right after M in the English alphabet.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "ba-2",
       "question": "What month comes immediately after June?",
-      "options": ["May", "August", "July", "September"],
-      "correctAnswer": 2,
+      "options": [
+        "September",
+        "August",
+        "May",
+        "July"
+      ],
+      "correctAnswer": 3,
       "explanation": "July follows June in the calendar. July is the seventh month of the year.",
       "difficulty": "easy",
       "category": "memory"
@@ -26,8 +36,13 @@
     {
       "id": "ba-3",
       "question": "What day of the week comes immediately before Thursday?",
-      "options": ["Tuesday", "Friday", "Wednesday", "Monday"],
-      "correctAnswer": 2,
+      "options": [
+        "Wednesday",
+        "Tuesday",
+        "Monday",
+        "Friday"
+      ],
+      "correctAnswer": 0,
       "explanation": "Wednesday comes just before Thursday in the days of the week.",
       "difficulty": "easy",
       "category": "memory"
@@ -35,8 +50,13 @@
     {
       "id": "ba-4",
       "question": "What season comes immediately after winter?",
-      "options": ["Summer", "Autumn", "Spring", "Fall"],
-      "correctAnswer": 2,
+      "options": [
+        "Spring",
+        "Fall",
+        "Autumn",
+        "Summer"
+      ],
+      "correctAnswer": 0,
       "explanation": "Spring follows winter in the seasonal cycle: spring, summer, autumn (fall), winter.",
       "difficulty": "easy",
       "category": "memory"
@@ -44,8 +64,13 @@
     {
       "id": "ba-5",
       "question": "In the rainbow color sequence (ROYGBIV), what color comes immediately after orange?",
-      "options": ["Red", "Green", "Yellow", "Blue"],
-      "correctAnswer": 2,
+      "options": [
+        "Green",
+        "Yellow",
+        "Blue",
+        "Red"
+      ],
+      "correctAnswer": 1,
       "explanation": "The rainbow sequence is Red, Orange, Yellow, Green, Blue, Indigo, Violet — so yellow follows orange.",
       "difficulty": "easy",
       "category": "memory"
@@ -53,8 +78,13 @@
     {
       "id": "ba-6",
       "question": "In our solar system, which planet comes immediately after Earth when moving away from the Sun?",
-      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-      "correctAnswer": 1,
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correctAnswer": 0,
       "explanation": "The order from the Sun is Mercury, Venus, Earth, Mars — so Mars is the next planet after Earth.",
       "difficulty": "medium",
       "category": "memory"
@@ -62,8 +92,13 @@
     {
       "id": "ba-7",
       "question": "In the musical scale 'Do Re Mi Fa Sol La Ti,' what comes immediately after 'Fa'?",
-      "options": ["Mi", "La", "Sol", "Ti"],
-      "correctAnswer": 2,
+      "options": [
+        "Sol",
+        "La",
+        "Mi",
+        "Ti"
+      ],
+      "correctAnswer": 0,
       "explanation": "The solfege scale goes Do, Re, Mi, Fa, Sol, La, Ti — so Sol comes right after Fa.",
       "difficulty": "medium",
       "category": "memory"
@@ -71,8 +106,13 @@
     {
       "id": "ba-8",
       "question": "Going clockwise on a compass, what cardinal direction comes immediately after North?",
-      "options": ["South", "East", "West", "Northwest"],
-      "correctAnswer": 1,
+      "options": [
+        "South",
+        "Northwest",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 2,
       "explanation": "Moving clockwise from North, the order is North, East, South, West — so East comes after North.",
       "difficulty": "medium",
       "category": "memory"
@@ -80,8 +120,13 @@
     {
       "id": "ba-9",
       "question": "What decade came immediately before the 1980s?",
-      "options": ["The 1960s", "The 1990s", "The 1970s", "The 1950s"],
-      "correctAnswer": 2,
+      "options": [
+        "The 1950s",
+        "The 1990s",
+        "The 1960s",
+        "The 1970s"
+      ],
+      "correctAnswer": 3,
       "explanation": "The 1970s came immediately before the 1980s in chronological order.",
       "difficulty": "medium",
       "category": "memory"
@@ -89,8 +134,13 @@
     {
       "id": "ba-10",
       "question": "In Roman numerals, what number comes immediately after IX (9)?",
-      "options": ["XI (11)", "VIII (8)", "X (10)", "XII (12)"],
-      "correctAnswer": 2,
+      "options": [
+        "XII (12)",
+        "X (10)",
+        "VIII (8)",
+        "XI (11)"
+      ],
+      "correctAnswer": 1,
       "explanation": "IX is 9 in Roman numerals, and the next number is X, which represents 10.",
       "difficulty": "medium",
       "category": "memory"
@@ -98,8 +148,13 @@
     {
       "id": "ba-11",
       "question": "In the zodiac, what sign comes immediately after Aries?",
-      "options": ["Pisces", "Gemini", "Taurus", "Leo"],
-      "correctAnswer": 2,
+      "options": [
+        "Pisces",
+        "Taurus",
+        "Gemini",
+        "Leo"
+      ],
+      "correctAnswer": 1,
       "explanation": "The zodiac order begins Aries, Taurus, Gemini — so Taurus follows Aries.",
       "difficulty": "medium",
       "category": "memory"
@@ -107,8 +162,13 @@
     {
       "id": "ba-12",
       "question": "What month comes immediately before October?",
-      "options": ["November", "August", "September", "July"],
-      "correctAnswer": 2,
+      "options": [
+        "July",
+        "August",
+        "November",
+        "September"
+      ],
+      "correctAnswer": 3,
       "explanation": "September is the ninth month and comes right before October, the tenth month.",
       "difficulty": "hard",
       "category": "memory"
@@ -116,7 +176,12 @@
     {
       "id": "ba-13",
       "question": "Which U.S. President served immediately before Abraham Lincoln?",
-      "options": ["Andrew Johnson", "James Buchanan", "Franklin Pierce", "Millard Fillmore"],
+      "options": [
+        "Andrew Johnson",
+        "James Buchanan",
+        "Millard Fillmore",
+        "Franklin Pierce"
+      ],
       "correctAnswer": 1,
       "explanation": "James Buchanan was the 15th President, serving from 1857 to 1861, immediately before Abraham Lincoln became the 16th President.",
       "difficulty": "hard",
@@ -125,7 +190,12 @@
     {
       "id": "ba-14",
       "question": "In the standard order of the five Olympic ring colors from left to right, what color comes immediately after yellow?",
-      "options": ["Blue", "Black", "Green", "Red"],
+      "options": [
+        "Black",
+        "Red",
+        "Green",
+        "Blue"
+      ],
       "correctAnswer": 2,
       "explanation": "The Olympic rings from left to right on the top row are blue, black, red, and on the bottom row yellow, green — so green comes after yellow.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "ba-15",
       "question": "In the alphabet, what letter comes immediately before 'Q'?",
-      "options": ["R", "O", "P", "N"],
-      "correctAnswer": 2,
+      "options": [
+        "N",
+        "P",
+        "O",
+        "R"
+      ],
+      "correctAnswer": 1,
       "explanation": "The sequence goes O, P, Q, R — so P comes immediately before Q in the English alphabet.",
       "difficulty": "hard",
       "category": "memory"

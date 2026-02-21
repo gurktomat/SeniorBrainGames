@@ -1,0 +1,173 @@
+{
+  "id": "philosophical-concepts-quiz",
+  "title": "Philosophical Concepts",
+  "description": "Challenge yourself with fundamental ideas that have shaped human thought",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "philosophical-concepts-quiz-1",
+      "question": "What is 'epistemology' the study of?",
+      "options": [
+        "The mind",
+        "Beauty",
+        "Knowledge and belief",
+        "Morality"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "philosophical-concepts-quiz-2",
+      "question": "The philosophical thought experiment 'Plato's Cave' illustrates what concept?",
+      "options": [
+        "The meaning of justice",
+        "The origin of language",
+        "The existence of God",
+        "The nature of reality vs. perception"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "philosophical-concepts-quiz-3",
+      "question": "What does 'nihilism' generally assert?",
+      "options": [
+        "Nature is the source of all truth",
+        "Knowledge is impossible",
+        "Everything has a divine purpose",
+        "Life is inherently without objective meaning"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "philosophical-concepts-quiz-4",
+      "question": "The 'categorical imperative' is a central concept of which philosopher?",
+      "options": [
+        "Immanuel Kant",
+        "John Stuart Mill",
+        "David Hume",
+        "Friedrich Nietzsche"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "philosophical-concepts-quiz-5",
+      "question": "What is 'utilitarianism' primarily concerned with?",
+      "options": [
+        "Individual rights",
+        "Preserving tradition",
+        "Following divine law",
+        "Maximizing overall happiness or well-being"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "philosophical-concepts-quiz-6",
+      "question": "'Cogito, ergo sum' (I think, therefore I am) addresses what philosophical problem?",
+      "options": [
+        "The nature of beauty",
+        "The existence of God",
+        "The meaning of justice",
+        "The foundation of certain knowledge"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "philosophical-concepts-quiz-7",
+      "question": "What is 'empiricism'?",
+      "options": [
+        "The belief that reason alone leads to knowledge",
+        "The belief that knowledge comes primarily from sensory experience",
+        "The study of empires",
+        "A form of government"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "philosophical-concepts-quiz-8",
+      "question": "The 'social contract' theory was developed by Hobbes, Locke, and which other philosopher?",
+      "options": [
+        "Hegel",
+        "Rousseau",
+        "Voltaire",
+        "Descartes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "philosophical-concepts-quiz-9",
+      "question": "What branch of philosophy deals with questions of right and wrong?",
+      "options": [
+        "Ethics",
+        "Logic",
+        "Metaphysics",
+        "Aesthetics"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "philosophical-concepts-quiz-10",
+      "question": "What is 'determinism'?",
+      "options": [
+        "The study of fate in mythology",
+        "The belief that free will is the highest good",
+        "A political philosophy",
+        "The belief that all events are caused by prior events and conditions"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "philosophical-concepts-quiz-11",
+      "question": "What is 'metaphysics' concerned with?",
+      "options": [
+        "The fundamental nature of reality",
+        "Mathematical proofs",
+        "Political systems",
+        "Physical exercise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "philosophical-concepts-quiz-12",
+      "question": "The 'trolley problem' is a famous thought experiment in which area of philosophy?",
+      "options": [
+        "Ethics",
+        "Aesthetics",
+        "Epistemology",
+        "Logic"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "philosophical-concepts-quiz-13",
+      "question": "What is 'dualism' in philosophy of mind?",
+      "options": [
+        "The study of opposites",
+        "The belief that only physical matter exists",
+        "The view that mind and body are two distinct substances",
+        "The idea that truth is relative"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "philosophical-concepts-quiz-14",
+      "question": "'Occam's Razor' suggests that the best explanation is usually the one that is what?",
+      "options": [
+        "Simplest",
+        "Most popular",
+        "Most complex",
+        "Most ancient"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "philosophical-concepts-quiz-15",
+      "question": "What does 'aesthetics' study?",
+      "options": [
+        "Scientific methods",
+        "Political systems",
+        "The nature of beauty and art",
+        "Religious texts"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

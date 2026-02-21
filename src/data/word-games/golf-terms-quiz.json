@@ -1,0 +1,219 @@
+{
+  "id": "golf-terms-quiz",
+  "title": "Golf Terms Quiz",
+  "description": "From birdies to bogeys, how well do you know the language of golf?",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "golf-terms-quiz-1",
+      "question": "In golf, what is an 'albatross'?",
+      "options": [
+        "One stroke under par",
+        "Two strokes under par",
+        "Three strokes under par",
+        "Four strokes under par"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An albatross (also called a double eagle) is a score of three strokes under par on a single hole, an exceptionally rare achievement.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-2",
+      "question": "What does 'bogey' mean in golf?",
+      "options": [
+        "A score of one stroke over par",
+        "A score of two strokes over par",
+        "A score of even par",
+        "A score of one stroke under par"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bogey is a score of one stroke over par on a single hole. A double bogey is two over par, and a triple bogey is three over.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-3",
+      "question": "In golf, what is the 'fairway'?",
+      "options": [
+        "The closely mown area between the tee and the green",
+        "The putting surface around the hole",
+        "The sand-filled hazard",
+        "The out-of-bounds area beyond the course"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The fairway is the closely mown strip of grass between the tee box and the putting green, considered the ideal area for play.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-4",
+      "question": "What is a 'mulligan' in casual golf?",
+      "options": [
+        "An informal do-over shot not counted",
+        "A course with extra holes",
+        "A penalty stroke",
+        "A type of iron club"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A mulligan is an unofficial, informal second chance to hit a shot without counting the first attempt, used only in casual play, never in tournaments.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-5",
+      "question": "In golf, what is a 'dogleg'?",
+      "options": [
+        "A stance used on uneven ground",
+        "A putting technique",
+        "A club with a curved shaft",
+        "A hole where the fairway bends sharply left or right"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dogleg is a hole where the fairway angles sharply to the left or right, named because its shape resembles a dog's bent hind leg.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-6",
+      "question": "What does 'fore!' mean when shouted on a golf course?",
+      "options": [
+        "A player is teeing off on hole four",
+        "A warning that a ball is heading toward people",
+        "Play is about to resume",
+        "The match is tied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Fore!' is a warning shout used to alert people nearby that a golf ball is heading in their direction and they should take cover.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-7",
+      "question": "In golf, what is the 'rough'?",
+      "options": [
+        "The paved cart path",
+        "The area of longer grass flanking the fairway",
+        "A damaged section of the green",
+        "The teeing ground"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rough is the area of taller, thicker grass on either side of the fairway, making shots more difficult.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-8",
+      "question": "What is a 'fade' in golf?",
+      "options": [
+        "A type of golf club grip",
+        "A shot that rolls along the ground",
+        "A putt that stops short of the hole",
+        "A shot that curves gently from left to right for a right-handed golfer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fade is a controlled shot that curves gently from left to right (for a right-handed player). The opposite shot, curving right to left, is called a draw.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-9",
+      "question": "In golf, what is a 'shank'?",
+      "options": [
+        "A perfect drive down the center",
+        "A divot left on the fairway",
+        "A putt that lips out of the cup",
+        "A shot struck off the hosel of the club, sending it sharply sideways"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A shank is one of golf's most dreaded mis-hits, occurring when the ball strikes the hosel (the joint between the clubhead and shaft), sending it sharply to the right.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-10",
+      "question": "What is a 'handicap' in golf?",
+      "options": [
+        "The total par of the course",
+        "A numerical measure of a golfer's ability used to level competition",
+        "A physical obstacle on the course",
+        "A penalty for slow play"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A handicap is a number representing a golfer's potential ability, allowing players of different skill levels to compete fairly against each other.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-11",
+      "question": "In golf, what is a 'links' course?",
+      "options": [
+        "A coastal course on sandy, treeless terrain",
+        "A course connected to a resort",
+        "A course designed for beginners",
+        "A course with many water hazards"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A links course is a type of golf course built on coastal sandy ground, characterized by few trees, undulating terrain, and exposure to wind. The term comes from Old English for sandy ground.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-12",
+      "question": "What is an 'eagle' in golf?",
+      "options": [
+        "A penalty for hitting into a water hazard",
+        "A score of two strokes under par on a hole",
+        "The mascot of a golf club",
+        "A hole-in-one on a par three"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An eagle is a score of two strokes under par on a single hole, such as scoring a 3 on a par-5 hole.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-13",
+      "question": "In golf, what is a 'bunker'?",
+      "options": [
+        "A sand-filled hollow designed as an obstacle",
+        "A storage area for golf carts",
+        "An underground shelter near the clubhouse",
+        "A raised platform for spectators"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bunker is a depression filled with sand, strategically placed as a hazard on the course. They are commonly found near greens and along fairways.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-14",
+      "question": "What is a 'gimme' in golf?",
+      "options": [
+        "A stroke awarded for a lost ball",
+        "A putt so short that other players agree it can be counted as made without being played",
+        "A warm-up shot before a round",
+        "A free club provided by the course"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A 'gimme' is a putt so short that fellow players concede it and allow the golfer to count it as holed without actually putting, used in casual play.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "golf-terms-quiz-15",
+      "question": "In golf, what does 'the yips' refer to?",
+      "options": [
+        "The sound of a ball hitting the cup",
+        "An involuntary wrist spasm causing missed putts",
+        "Celebratory shouts after a birdie",
+        "A cheer from the gallery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The yips is a condition involving involuntary wrist spasms or freezing that affects a golfer's ability to putt, believed to be caused by anxiety and performance pressure.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

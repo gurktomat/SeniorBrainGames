@@ -1,0 +1,173 @@
+{
+  "id": "grilling-techniques-quiz",
+  "title": "Grilling Techniques Quiz",
+  "description": "Test your knowledge of grilling methods, tips, and techniques for outdoor cooking.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "grilling-techniques-quiz-1",
+      "question": "What is the difference between direct and indirect grilling?",
+      "options": [
+        "Direct uses gas, indirect uses charcoal",
+        "There is no difference",
+        "Direct is for vegetables, indirect is for meat",
+        "Direct cooks food over the heat source, indirect cooks beside it"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grilling-techniques-quiz-2",
+      "question": "What is the 'Maillard reaction' in grilling?",
+      "options": [
+        "The chemical reaction that creates browning and flavor on seared food",
+        "When fat drips and causes flare-ups",
+        "When smoke infuses into the meat",
+        "The softening of vegetables on the grill"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-3",
+      "question": "Why should you let meat rest after grilling before cutting into it?",
+      "options": [
+        "To allow juices to redistribute throughout the meat",
+        "To cool it down for safe handling",
+        "To make it easier to slice",
+        "To let the seasoning absorb"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-4",
+      "question": "What does 'two-zone' grilling refer to?",
+      "options": [
+        "Creating a hot zone and a cooler zone on the same grill",
+        "Cooking two types of food simultaneously",
+        "Grilling on two different rack heights",
+        "Grilling in two separate grills"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-5",
+      "question": "Which wood chips are considered best for grilling poultry?",
+      "options": [
+        "Apple or cherry",
+        "Mesquite",
+        "Oak",
+        "Hickory"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-6",
+      "question": "What is a common way to test if a charcoal grill is at the right temperature for searing?",
+      "options": [
+        "Spray water and see if it boils",
+        "The coals should be black",
+        "Hold your hand 5 inches above the grate — you can only hold it 2-3 seconds",
+        "Wait exactly 30 minutes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "grilling-techniques-quiz-7",
+      "question": "What is 'reverse searing'?",
+      "options": [
+        "Searing meat then refrigerating it",
+        "Cooking meat slowly at low temperature first, then searing at high heat",
+        "Searing with the grill lid closed",
+        "Grilling the bottom of the meat only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grilling-techniques-quiz-8",
+      "question": "Why should you avoid pressing down on burgers with a spatula while grilling?",
+      "options": [
+        "It changes the shape",
+        "It makes the grill dirty",
+        "It cools the meat down",
+        "It squeezes out flavorful juices"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grilling-techniques-quiz-9",
+      "question": "What temperature does the USDA recommend for safely grilled chicken?",
+      "options": [
+        "155°F (68°C)",
+        "180°F (82°C)",
+        "145°F (63°C)",
+        "165°F (74°C)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grilling-techniques-quiz-10",
+      "question": "Planking is a grilling technique that involves cooking food on what?",
+      "options": [
+        "A metal sheet",
+        "Aluminum foil",
+        "A stone slab",
+        "A wooden board (usually cedar)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grilling-techniques-quiz-11",
+      "question": "What is a 'flare-up' on the grill and what causes it?",
+      "options": [
+        "A burst of flame caused by fat dripping onto the heat source",
+        "A temperature spike from opening the lid",
+        "Charcoal breaking apart",
+        "The grill running out of fuel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-12",
+      "question": "When grilling fish, what technique helps prevent the fish from sticking to the grate?",
+      "options": [
+        "Oil the grate and use high heat before placing the fish",
+        "Use only indirect heat",
+        "Wrap it in cheese",
+        "Cook it frozen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "grilling-techniques-quiz-13",
+      "question": "What does a meat thermometer measure that helps determine doneness?",
+      "options": [
+        "Grill temperature",
+        "Surface temperature",
+        "Fat content",
+        "Internal temperature"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "grilling-techniques-quiz-14",
+      "question": "The 'snake method' is a charcoal arrangement technique used for what purpose?",
+      "options": [
+        "Adding smoky flavor rapidly",
+        "Long, slow cooking at low temperatures",
+        "Cooking multiple items at once",
+        "Quick searing at extremely high heat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "grilling-techniques-quiz-15",
+      "question": "Why do many grillers recommend using a chimney starter for charcoal?",
+      "options": [
+        "It works faster than gas",
+        "It is reusable forever",
+        "It makes the coals burn hotter",
+        "It evenly lights charcoal without lighter fluid, avoiding chemical taste"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

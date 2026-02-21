@@ -1,0 +1,173 @@
+{
+  "id": "renewable-energy-quiz",
+  "title": "Renewable Energy",
+  "description": "Learn about solar, wind, and other clean energy technologies powering our future",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "renewable-energy-quiz-1",
+      "question": "What type of renewable energy harnesses the power of sunlight to generate electricity?",
+      "options": [
+        "Biomass",
+        "Hydroelectric",
+        "Geothermal",
+        "Solar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "renewable-energy-quiz-2",
+      "question": "What device converts sunlight directly into electricity?",
+      "options": [
+        "Solar thermal collector",
+        "Wind turbine",
+        "Fuel cell",
+        "Photovoltaic cell"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "renewable-energy-quiz-3",
+      "question": "Which country is the world's largest producer of wind energy?",
+      "options": [
+        "India",
+        "Germany",
+        "China",
+        "United States"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "renewable-energy-quiz-4",
+      "question": "What type of energy comes from the heat within the Earth?",
+      "options": [
+        "Hydroelectric energy",
+        "Tidal energy",
+        "Solar energy",
+        "Geothermal energy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "renewable-energy-quiz-5",
+      "question": "The Three Gorges Dam, the world's largest hydroelectric power station, is located in which country?",
+      "options": [
+        "Brazil",
+        "China",
+        "Canada",
+        "United States"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "renewable-energy-quiz-6",
+      "question": "What renewable energy source uses organic materials like wood, crops, and waste to produce energy?",
+      "options": [
+        "Tidal",
+        "Biomass",
+        "Geothermal",
+        "Nuclear"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "renewable-energy-quiz-7",
+      "question": "Which Scandinavian country generates nearly all its electricity from hydropower?",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "renewable-energy-quiz-8",
+      "question": "What is the main advantage of tidal energy over solar and wind energy?",
+      "options": [
+        "It is cheaper",
+        "It is more predictable and consistent",
+        "It requires less space",
+        "It produces more power"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "renewable-energy-quiz-9",
+      "question": "What element is used in most solar photovoltaic panels?",
+      "options": [
+        "Titanium",
+        "Germanium",
+        "Carbon",
+        "Silicon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "renewable-energy-quiz-10",
+      "question": "Which small European country sometimes produces more than 100% of its electricity needs from wind power?",
+      "options": [
+        "Luxembourg",
+        "Denmark",
+        "Belgium",
+        "Netherlands"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "renewable-energy-quiz-11",
+      "question": "What is a hydrogen fuel cell?",
+      "options": [
+        "A battery that stores hydrogen",
+        "A device that combines hydrogen and oxygen to produce electricity",
+        "A nuclear reactor using hydrogen",
+        "A solar panel coated with hydrogen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "renewable-energy-quiz-12",
+      "question": "What is the term for a building that produces as much energy as it consumes over a year?",
+      "options": [
+        "Net-zero energy building",
+        "Passive house",
+        "Green building",
+        "Smart building"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "renewable-energy-quiz-13",
+      "question": "Iceland uses which renewable energy source extensively due to its volcanic activity?",
+      "options": [
+        "Geothermal energy",
+        "Tidal power",
+        "Solar power",
+        "Wind power"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "renewable-energy-quiz-14",
+      "question": "What type of wind energy installation is built in bodies of water?",
+      "options": [
+        "Urban wind farm",
+        "Onshore wind farm",
+        "Vertical wind farm",
+        "Offshore wind farm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "renewable-energy-quiz-15",
+      "question": "What does the 'photoelectric effect,' explained by Einstein, describe?",
+      "options": [
+        "How light can knock electrons free from a material",
+        "How heat travels through metal",
+        "How wind creates electricity",
+        "How water turbines spin"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

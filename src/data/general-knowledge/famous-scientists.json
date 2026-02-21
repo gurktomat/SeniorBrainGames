@@ -7,8 +7,13 @@
     {
       "id": "scientists-1",
       "question": "Which scientist is famous for describing the laws of motion and universal gravitation?",
-      "options": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Nikola Tesla"],
-      "correctAnswer": 1,
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ],
+      "correctAnswer": 0,
       "explanation": "Isaac Newton published his three laws of motion in 1687 in his landmark work 'Principia Mathematica.' Legend says a falling apple inspired his theory of gravity.",
       "difficulty": "easy",
       "category": "science"
@@ -16,8 +21,13 @@
     {
       "id": "scientists-2",
       "question": "Albert Einstein is best known for which famous equation?",
-      "options": ["F = ma", "E = mc²", "a² + b² = c²", "PV = nRT"],
-      "correctAnswer": 1,
+      "options": [
+        "E = mc²",
+        "a² + b² = c²",
+        "F = ma",
+        "PV = nRT"
+      ],
+      "correctAnswer": 0,
       "explanation": "Einstein's equation E = mc² shows that energy and mass are interchangeable. He published his theory of special relativity in 1905, his 'miracle year.'",
       "difficulty": "easy",
       "category": "science"
@@ -25,8 +35,13 @@
     {
       "id": "scientists-3",
       "question": "Marie Curie was the first woman to win a Nobel Prize. In which field did she win her first?",
-      "options": ["Chemistry", "Physics", "Medicine", "Literature"],
-      "correctAnswer": 1,
+      "options": [
+        "Medicine",
+        "Chemistry",
+        "Literature",
+        "Physics"
+      ],
+      "correctAnswer": 3,
       "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 for her work on radioactivity. She later won a second Nobel in Chemistry in 1911, making her the first person to win two.",
       "difficulty": "medium",
       "category": "science"
@@ -34,7 +49,12 @@
     {
       "id": "scientists-4",
       "question": "Charles Darwin is best known for his theory of what?",
-      "options": ["Relativity", "Electromagnetism", "Evolution by natural selection", "Atomic structure"],
+      "options": [
+        "Electromagnetism",
+        "Atomic structure",
+        "Evolution by natural selection",
+        "Relativity"
+      ],
       "correctAnswer": 2,
       "explanation": "Darwin published 'On the Origin of Species' in 1859 after years of research, including his famous voyage on HMS Beagle to the Galápagos Islands.",
       "difficulty": "easy",
@@ -43,7 +63,12 @@
     {
       "id": "scientists-5",
       "question": "Louis Pasteur is credited with developing what process to kill harmful bacteria in beverages?",
-      "options": ["Fermentation", "Distillation", "Pasteurization", "Homogenization"],
+      "options": [
+        "Fermentation",
+        "Distillation",
+        "Pasteurization",
+        "Homogenization"
+      ],
       "correctAnswer": 2,
       "explanation": "Pasteurization, named after Louis Pasteur, involves heating liquids to kill harmful microorganisms. He also created the first vaccines for rabies and anthrax.",
       "difficulty": "easy",
@@ -52,7 +77,12 @@
     {
       "id": "scientists-6",
       "question": "Galileo Galilei was a pioneer of the telescope. What controversial idea did he champion?",
-      "options": ["The Earth is flat", "The Sun orbits the Earth", "The Earth orbits the Sun", "The Moon is a planet"],
+      "options": [
+        "The Moon is a planet",
+        "The Earth is flat",
+        "The Earth orbits the Sun",
+        "The Sun orbits the Earth"
+      ],
       "correctAnswer": 2,
       "explanation": "Galileo supported the heliocentric model — that Earth revolves around the Sun. The Catholic Church put him under house arrest for the last nine years of his life for this belief.",
       "difficulty": "medium",
@@ -61,8 +91,13 @@
     {
       "id": "scientists-7",
       "question": "Nikola Tesla is best known for his contributions to which type of electrical system?",
-      "options": ["Direct current (DC)", "Alternating current (AC)", "Solar power", "Nuclear power"],
-      "correctAnswer": 1,
+      "options": [
+        "Alternating current (AC)",
+        "Direct current (DC)",
+        "Solar power",
+        "Nuclear power"
+      ],
+      "correctAnswer": 0,
       "explanation": "Tesla championed alternating current (AC) in the famous 'War of Currents' against Edison's direct current. AC became the standard for power transmission worldwide.",
       "difficulty": "medium",
       "category": "science"
@@ -70,8 +105,13 @@
     {
       "id": "scientists-8",
       "question": "Thomas Edison is credited with inventing which of these devices?",
-      "options": ["The telephone", "The phonograph", "The radio", "The television"],
-      "correctAnswer": 1,
+      "options": [
+        "The telephone",
+        "The radio",
+        "The phonograph",
+        "The television"
+      ],
+      "correctAnswer": 2,
       "explanation": "Edison invented the phonograph in 1877, the first device to record and play back sound. He also developed a practical incandescent light bulb and held over 1,000 patents.",
       "difficulty": "medium",
       "category": "science"
@@ -79,8 +119,13 @@
     {
       "id": "scientists-9",
       "question": "Stephen Hawking was famous for his work on which cosmic phenomenon?",
-      "options": ["Neutron stars", "Dark matter", "Black holes", "Supernovae"],
-      "correctAnswer": 2,
+      "options": [
+        "Supernovae",
+        "Black holes",
+        "Neutron stars",
+        "Dark matter"
+      ],
+      "correctAnswer": 1,
       "explanation": "Hawking theorized that black holes emit radiation (now called Hawking radiation). Despite living with ALS for over 50 years, he became one of the most celebrated physicists ever.",
       "difficulty": "medium",
       "category": "science"
@@ -88,8 +133,13 @@
     {
       "id": "scientists-10",
       "question": "Alexander Fleming accidentally discovered which groundbreaking medicine in 1928?",
-      "options": ["Aspirin", "Insulin", "Penicillin", "Morphine"],
-      "correctAnswer": 2,
+      "options": [
+        "Insulin",
+        "Penicillin",
+        "Aspirin",
+        "Morphine"
+      ],
+      "correctAnswer": 1,
       "explanation": "Fleming noticed that mold on a petri dish was killing bacteria, leading to the discovery of penicillin — the world's first widely used antibiotic, saving millions of lives.",
       "difficulty": "easy",
       "category": "science"
@@ -97,7 +147,12 @@
     {
       "id": "scientists-11",
       "question": "James Watson and Francis Crick are famous for discovering the structure of what?",
-      "options": ["The atom", "DNA", "Proteins", "The cell nucleus"],
+      "options": [
+        "The cell nucleus",
+        "DNA",
+        "Proteins",
+        "The atom"
+      ],
       "correctAnswer": 1,
       "explanation": "Watson and Crick described the double helix structure of DNA in 1953. Their work relied heavily on X-ray crystallography data from Rosalind Franklin's laboratory.",
       "difficulty": "medium",
@@ -106,7 +161,12 @@
     {
       "id": "scientists-12",
       "question": "Dmitri Mendeleev is credited with creating what important scientific tool?",
-      "options": ["The microscope", "The periodic table of elements", "The barometer", "The Bunsen burner"],
+      "options": [
+        "The microscope",
+        "The periodic table of elements",
+        "The barometer",
+        "The Bunsen burner"
+      ],
       "correctAnswer": 1,
       "explanation": "Mendeleev published his periodic table in 1869, arranging elements by atomic weight. He even predicted the existence and properties of elements that hadn't been discovered yet.",
       "difficulty": "hard",
@@ -115,8 +175,13 @@
     {
       "id": "scientists-13",
       "question": "The ancient Greek scientist Archimedes is said to have shouted 'Eureka!' after discovering what principle?",
-      "options": ["Gravity", "Buoyancy", "Leverage", "Combustion"],
-      "correctAnswer": 1,
+      "options": [
+        "Buoyancy",
+        "Combustion",
+        "Leverage",
+        "Gravity"
+      ],
+      "correctAnswer": 0,
       "explanation": "According to legend, Archimedes discovered the principle of buoyancy while taking a bath and ran through the streets shouting 'Eureka!' meaning 'I have found it!'",
       "difficulty": "hard",
       "category": "science"
@@ -124,8 +189,13 @@
     {
       "id": "scientists-14",
       "question": "Rosalind Franklin's X-ray images were crucial to understanding the structure of what molecule?",
-      "options": ["RNA", "Hemoglobin", "DNA", "Insulin"],
-      "correctAnswer": 2,
+      "options": [
+        "DNA",
+        "Insulin",
+        "RNA",
+        "Hemoglobin"
+      ],
+      "correctAnswer": 0,
       "explanation": "Franklin's famous 'Photo 51' X-ray image was key evidence for the double helix structure of DNA. Her contribution was largely unrecognized during her lifetime.",
       "difficulty": "hard",
       "category": "science"
@@ -133,8 +203,13 @@
     {
       "id": "scientists-15",
       "question": "Michael Faraday's experiments laid the groundwork for which modern technology?",
-      "options": ["Nuclear reactors", "Electric motors and generators", "Computers", "Satellites"],
-      "correctAnswer": 1,
+      "options": [
+        "Electric motors and generators",
+        "Nuclear reactors",
+        "Computers",
+        "Satellites"
+      ],
+      "correctAnswer": 0,
       "explanation": "Faraday discovered electromagnetic induction in 1831, which is the principle behind electric motors, generators, and transformers that power our modern world.",
       "difficulty": "hard",
       "category": "science"

@@ -1,0 +1,219 @@
+{
+  "id": "lighthouse-engineering-quiz",
+  "title": "Lighthouse Engineering",
+  "description": "Shine a light on your knowledge of lighthouse construction and maritime beacons!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "lighthouse-engineering-quiz-1",
+      "question": "The Lighthouse of Alexandria (Pharos), one of the Seven Wonders of the Ancient World, was located in which country?",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Turkey",
+        "Greece"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Lighthouse of Alexandria was built on the island of Pharos in Alexandria, Egypt, around 280 BC. Standing approximately 100-130 meters tall, it was one of the tallest structures in the ancient world and guided sailors for centuries.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-2",
+      "question": "What revolutionary lens system, invented in 1822, dramatically improved the brightness and range of lighthouse beams?",
+      "options": [
+        "Fresnel lens",
+        "Prism array",
+        "Concave mirror",
+        "Convex lens"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Fresnel lens, invented by French physicist Augustin-Jean Fresnel in 1822, uses concentric rings of prisms to concentrate light into a powerful beam. It could make a lighthouse visible from over 20 miles away.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-3",
+      "question": "The Eddystone Lighthouse, located off the coast of Plymouth, England, was notable for being built on what?",
+      "options": [
+        "A sandy beach",
+        "A cliff face",
+        "An artificial island",
+        "A dangerous reef in the open sea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Eddystone Lighthouse was built on the treacherous Eddystone Rocks, a reef 14 miles south of Plymouth. It has been rebuilt four times since 1698, with each version overcoming the extreme challenges of building on exposed rock in the open sea.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-4",
+      "question": "What is the purpose of a lighthouse's unique flash pattern?",
+      "options": [
+        "To save energy",
+        "To attract fish",
+        "To allow sailors to identify which lighthouse they are seeing",
+        "To signal weather conditions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each lighthouse has a unique flash pattern (called its 'characteristic') so that sailors can identify exactly which lighthouse they are seeing. These patterns are published in nautical charts and 'Light Lists.'",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-5",
+      "question": "Which Scottish engineering family built over 100 lighthouses around Scotland's coast over several generations?",
+      "options": [
+        "The Rennies",
+        "The Telfords",
+        "The Smeatons",
+        "The Stevensons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Stevenson family (including Robert, Alan, David, and Thomas Stevenson) designed and built over 100 lighthouses around Scotland's dangerous coastline over four generations. Robert Louis Stevenson, the famous author, was Thomas's son.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-6",
+      "question": "What was the primary fuel source for most lighthouses before the introduction of electricity?",
+      "options": [
+        "Coal",
+        "Wood",
+        "Whale oil and kerosene",
+        "Natural gas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Whale oil was the primary fuel for lighthouses in the 18th and early 19th centuries, later replaced by kerosene (paraffin oil) in the mid-1800s. Kerosene was cheaper, brighter, and more readily available than whale oil.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-7",
+      "question": "The Cape Hatteras Lighthouse in North Carolina is famous for what remarkable engineering feat completed in 1999?",
+      "options": [
+        "Being converted to solar power",
+        "Being rebuilt from scratch",
+        "Having its light upgraded to laser",
+        "Being moved 2,900 feet to escape erosion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In 1999, the entire 4,830-ton Cape Hatteras Lighthouse was moved 2,900 feet (884 meters) inland to protect it from shoreline erosion. The move took 23 days and is one of the largest structures ever relocated.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-8",
+      "question": "What engineering material did John Smeaton use for the third Eddystone Lighthouse in 1759 that was revolutionary at the time?",
+      "options": [
+        "Brick",
+        "Cast iron",
+        "Granite blocks only",
+        "Hydraulic lime cement (early concrete)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "John Smeaton developed a hydraulic lime cement for the third Eddystone Lighthouse that could set underwater. This early form of concrete was revolutionary and influenced the development of Portland cement and modern concrete.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-9",
+      "question": "A 'lightship' (or 'light vessel') served what purpose?",
+      "options": [
+        "Delivering fuel to lighthouses",
+        "Transporting lighthouse keepers",
+        "Maintaining lighthouse equipment",
+        "Acting as a floating lighthouse in locations where a fixed lighthouse couldn't be built"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A lightship was a vessel anchored at a specific location to serve as a floating lighthouse where it was impractical or impossible to build a permanent structure, such as over deep water, shifting shoals, or busy shipping channels.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-10",
+      "question": "The Tower of Hercules in Spain, still operational, is the oldest known what?",
+      "options": [
+        "Stone tower in Europe",
+        "Roman lighthouse still in use",
+        "Spanish monument",
+        "Maritime signal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tower of Hercules in A Coruna, Spain, is the oldest known Roman lighthouse still in operation. Built in the 1st or 2nd century AD, it stands 55 meters tall and was designated a UNESCO World Heritage Site in 2009.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-11",
+      "question": "What is a 'fog signal' at a lighthouse?",
+      "options": [
+        "A flare launcher",
+        "A radio transmission",
+        "A colored flag system",
+        "An audible warning device used when visibility is poor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fog signal is an audible warning device (such as a foghorn, bell, cannon, or compressed air horn) used at lighthouses and other navigation points when fog or poor visibility makes the light ineffective for guiding ships.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-12",
+      "question": "The Bell Rock Lighthouse, built on a submerged reef off Scotland in 1811, was designed by which engineer?",
+      "options": [
+        "John Smeaton",
+        "James Watt",
+        "Thomas Telford",
+        "Robert Stevenson"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Robert Stevenson designed and built the Bell Rock Lighthouse on a reef that is submerged at high tide, 12 miles off the coast of Angus, Scotland. It is the world's oldest surviving sea-washed lighthouse.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-13",
+      "question": "What largely replaced traditional lighthouses for maritime navigation in the late 20th century?",
+      "options": [
+        "Sonar beacons",
+        "Satellite phones",
+        "GPS and electronic navigation",
+        "Radar systems"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GPS (Global Positioning System) and electronic chart systems largely replaced the navigational role of lighthouses by the late 20th century. Most lighthouses have been automated or decommissioned, though many are preserved as historic monuments.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-14",
+      "question": "The iconic red and white striped West Quoddy Head Lighthouse marks the easternmost point of which country?",
+      "options": [
+        "Canada",
+        "Ireland",
+        "United States (mainland)",
+        "United Kingdom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "West Quoddy Head Lighthouse in Lubec, Maine, marks the easternmost point of the contiguous United States. Its distinctive red and white horizontal stripes make it one of the most photographed lighthouses in America.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "lighthouse-engineering-quiz-15",
+      "question": "What is a 'range light' or 'leading light' system in maritime navigation?",
+      "options": [
+        "Two lights aligned to show a safe channel when in line",
+        "A single very bright light",
+        "A light visible only from one direction",
+        "A rotating colored light"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Range lights (or leading lights) consist of two lights placed at different heights and distances. When a vessel aligns the two lights vertically, it confirms it is on the correct course through a safe channel.",
+      "difficulty": "medium",
+      "category": "engineering"
+    }
+  ]
+}

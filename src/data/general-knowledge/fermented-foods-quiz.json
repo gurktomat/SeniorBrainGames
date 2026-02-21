@@ -1,0 +1,219 @@
+{
+  "id": "fermented-foods-quiz",
+  "title": "Fermented Foods",
+  "description": "Test your knowledge of fermented foods from around the world!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "fermented-foods-quiz-1",
+      "question": "What is the fermented cabbage dish that is a staple of Korean cuisine?",
+      "options": [
+        "Coleslaw",
+        "Sauerkraut",
+        "Pickled cabbage",
+        "Kimchi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kimchi is a traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-2",
+      "question": "Which fermented milk drink originated in the Caucasus Mountains?",
+      "options": [
+        "Ayran",
+        "Lassi",
+        "Kefir",
+        "Buttermilk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kefir originated in the Caucasus Mountains and is made by adding kefir grains to milk, producing a tangy, probiotic-rich drink.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-3",
+      "question": "What Japanese seasoning paste is made from fermented soybeans?",
+      "options": [
+        "Miso",
+        "Furikake",
+        "Ponzu",
+        "Wasabi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Miso is a traditional Japanese seasoning made by fermenting soybeans with salt and a fungus called koji. It is commonly used in soups and sauces.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-4",
+      "question": "Sauerkraut, a fermented cabbage dish, is most closely associated with which country?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Germany"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sauerkraut is strongly associated with German cuisine, though fermented cabbage dishes exist in many European cultures.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-5",
+      "question": "What type of fermentation is used to make yogurt?",
+      "options": [
+        "Lactic acid fermentation",
+        "Acetic acid fermentation",
+        "Alcoholic fermentation",
+        "Butyric acid fermentation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Yogurt is produced through lactic acid fermentation, where bacteria convert lactose (milk sugar) into lactic acid, thickening the milk and giving it a tangy flavor.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-6",
+      "question": "Tempeh, a popular plant-based protein, is made from fermented what?",
+      "options": [
+        "Wheat",
+        "Soybeans",
+        "Lentils",
+        "Rice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tempeh is made from fermented soybeans bound together by a white mycelium. It originated in Indonesia and is a staple protein source.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-7",
+      "question": "What is kombucha?",
+      "options": [
+        "A fermented fruit juice",
+        "A fermented rice wine",
+        "A fermented tea drink",
+        "A fermented milk product"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kombucha is a fermented tea drink made using a symbiotic culture of bacteria and yeast (SCOBY). It has been consumed for centuries in East Asia.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-8",
+      "question": "Which of these cheeses relies heavily on fermentation by mold?",
+      "options": [
+        "Mozzarella",
+        "Cheddar",
+        "Roquefort",
+        "Gouda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roquefort is a blue cheese made with Penicillium roqueforti mold, which creates the distinctive blue-green veins and sharp, tangy flavor.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-9",
+      "question": "What is the main beneficial component found in fermented foods?",
+      "options": [
+        "Antioxidants",
+        "Omega-3 fatty acids",
+        "Fiber",
+        "Probiotics"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fermented foods are rich in probiotics, which are live beneficial bacteria that support gut health and the immune system.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-10",
+      "question": "Natto, a traditional Japanese food with a strong smell, is made from fermented what?",
+      "options": [
+        "Soybeans",
+        "Rice",
+        "Fish",
+        "Seaweed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Natto is made from soybeans fermented with Bacillus subtilis bacteria. It has a strong flavor, sticky texture, and is rich in vitamin K2.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-11",
+      "question": "What fermented condiment is essential in Worcestershire sauce?",
+      "options": [
+        "Fermented anchovies",
+        "Fermented peppers",
+        "Fermented garlic",
+        "Fermented tomatoes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Worcestershire sauce contains fermented anchovies as a key ingredient, along with vinegar, molasses, and various spices. The fermentation process takes months.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-12",
+      "question": "Which country is the birthplace of the fermented soybean paste called doenjang?",
+      "options": [
+        "Thailand",
+        "South Korea",
+        "Japan",
+        "China"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doenjang is a traditional Korean fermented soybean paste that has been a staple of Korean cooking for centuries. It is similar to but distinct from Japanese miso.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-13",
+      "question": "What is the process of making sourdough bread dependent on?",
+      "options": [
+        "Chemical leavening agents",
+        "Wild yeast and lactic acid bacteria",
+        "Baking soda",
+        "Commercial yeast only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sourdough bread uses a starter culture of wild yeast and lactic acid bacteria to leaven the dough, giving it a distinctive tangy flavor and chewy texture.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-14",
+      "question": "Which fermented beverage was historically important for sailors to prevent scurvy?",
+      "options": [
+        "Beer",
+        "Wine",
+        "Mead",
+        "Sauerkraut juice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Captain James Cook brought barrels of sauerkraut on his voyages. The fermented cabbage retained its vitamin C content, helping prevent scurvy among sailors.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "fermented-foods-quiz-15",
+      "question": "What is the traditional Ethiopian fermented flatbread called?",
+      "options": [
+        "Naan",
+        "Injera",
+        "Pita",
+        "Chapati"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Injera is a spongy, sour flatbread made from fermented teff flour. It serves as both a plate and utensil in Ethiopian cuisine.",
+      "difficulty": "medium",
+      "category": "food"
+    }
+  ]
+}

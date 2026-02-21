@@ -1,0 +1,173 @@
+{
+  "id": "periodic-table-recall",
+  "title": "Periodic Table Recall",
+  "description": "Test your memory of chemical elements, their symbols, and atomic numbers from the periodic table.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "periodic-table-recall-1",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Au",
+        "Gd",
+        "Ag",
+        "Go"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "periodic-table-recall-2",
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Carbon",
+        "Lithium",
+        "Hydrogen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "periodic-table-recall-3",
+      "question": "What is the chemical symbol for sodium?",
+      "options": [
+        "No",
+        "So",
+        "Na",
+        "Sd"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-recall-4",
+      "question": "Which element is known as the 'king of chemicals' and is the most widely produced?",
+      "options": [
+        "Sulfuric Acid's element Sulfur",
+        "Iron",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "periodic-table-recall-5",
+      "question": "What is the lightest noble gas?",
+      "options": [
+        "Argon",
+        "Krypton",
+        "Helium",
+        "Neon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-recall-6",
+      "question": "Which element has the symbol 'Fe'?",
+      "options": [
+        "Iron",
+        "Fermium",
+        "Francium",
+        "Fluorine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "periodic-table-recall-7",
+      "question": "What is the most abundant element in Earth's atmosphere?",
+      "options": [
+        "Carbon Dioxide",
+        "Argon",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-recall-8",
+      "question": "Which element has the atomic number 79?",
+      "options": [
+        "Mercury",
+        "Gold",
+        "Silver",
+        "Platinum"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-recall-9",
+      "question": "What is the chemical symbol for tungsten?",
+      "options": [
+        "W",
+        "Tg",
+        "Tn",
+        "Tu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "periodic-table-recall-10",
+      "question": "Which element is liquid at room temperature and used in thermometers?",
+      "options": [
+        "Lead",
+        "Mercury",
+        "Gallium",
+        "Bromine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "periodic-table-recall-11",
+      "question": "What is the chemical symbol for potassium?",
+      "options": [
+        "Po",
+        "Pt",
+        "Ka",
+        "K"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "periodic-table-recall-12",
+      "question": "Which element has the atomic number 6 and is essential to all life?",
+      "options": [
+        "Boron",
+        "Nitrogen",
+        "Oxygen",
+        "Carbon"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "periodic-table-recall-13",
+      "question": "What is the heaviest naturally occurring element?",
+      "options": [
+        "Plutonium",
+        "Radium",
+        "Uranium",
+        "Thorium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-recall-14",
+      "question": "Which element's symbol 'Ag' comes from the Latin word 'argentum'?",
+      "options": [
+        "Argon",
+        "Gold",
+        "Silver",
+        "Aluminum"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "periodic-table-recall-15",
+      "question": "What is the most abundant element in the universe?",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Hydrogen",
+        "Helium"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

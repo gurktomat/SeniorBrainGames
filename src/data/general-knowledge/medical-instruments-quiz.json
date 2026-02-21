@@ -1,0 +1,173 @@
+{
+  "id": "medical-instruments-quiz",
+  "title": "Medical Instruments & Devices",
+  "description": "Test your knowledge of the tools and technologies that revolutionized medicine",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "medical-instruments-quiz-1",
+      "question": "What medical device, invented by René Laennec in 1816, is used to listen to heart and lung sounds?",
+      "options": [
+        "Ophthalmoscope",
+        "Otoscope",
+        "Stethoscope",
+        "Sphygmomanometer"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medical-instruments-quiz-2",
+      "question": "What does an electrocardiogram (ECG or EKG) measure?",
+      "options": [
+        "Blood pressure",
+        "Oxygen levels in blood",
+        "Electrical activity of the heart",
+        "Brain activity"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "medical-instruments-quiz-3",
+      "question": "Who discovered X-rays in 1895, revolutionizing medical imaging?",
+      "options": [
+        "Wilhelm Röntgen",
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medical-instruments-quiz-4",
+      "question": "What does MRI stand for in medical imaging?",
+      "options": [
+        "Molecular Resolution Imaging",
+        "Medical Radiation Imaging",
+        "Micro Radiology Instrument",
+        "Magnetic Resonance Imaging"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-5",
+      "question": "What medical device delivers an electric shock to restore a normal heart rhythm?",
+      "options": [
+        "Ventilator",
+        "Defibrillator",
+        "Pacemaker",
+        "Dialysis machine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-instruments-quiz-6",
+      "question": "What instrument measures blood pressure?",
+      "options": [
+        "Sphygmomanometer",
+        "Thermometer",
+        "Glucometer",
+        "Spirometer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medical-instruments-quiz-7",
+      "question": "What imaging technology uses sound waves to create pictures of the inside of the body?",
+      "options": [
+        "CT scan",
+        "PET scan",
+        "X-ray",
+        "Ultrasound"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-8",
+      "question": "What small device, implanted in the chest, helps regulate an irregular heartbeat?",
+      "options": [
+        "Catheter",
+        "Insulin pump",
+        "Stent",
+        "Pacemaker"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-9",
+      "question": "The pulse oximeter, commonly clipped to a finger, measures what?",
+      "options": [
+        "Heart rate only",
+        "Blood sugar levels",
+        "Body temperature",
+        "Blood oxygen saturation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-10",
+      "question": "What does a CT scan (formerly called a CAT scan) combine to create detailed images?",
+      "options": [
+        "Multiple X-ray images from different angles",
+        "Radio waves and dye",
+        "Infrared light and sensors",
+        "Sound waves and magnets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medical-instruments-quiz-11",
+      "question": "What medical device assists patients who cannot breathe on their own?",
+      "options": [
+        "Defibrillator",
+        "Dialysis machine",
+        "Endoscope",
+        "Ventilator"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-12",
+      "question": "An endoscope is a flexible tube with a camera used to examine what?",
+      "options": [
+        "The inside of the body",
+        "Brain waves",
+        "The skin surface",
+        "Bone density"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "medical-instruments-quiz-13",
+      "question": "What device, first used successfully in the 1940s, filters waste from blood when kidneys fail?",
+      "options": [
+        "Heart-lung machine",
+        "Centrifuge",
+        "Blood transfusion device",
+        "Dialysis machine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "medical-instruments-quiz-14",
+      "question": "What type of laser surgery is commonly used to correct vision problems?",
+      "options": [
+        "CABG",
+        "LASIK",
+        "ERCP",
+        "TURP"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "medical-instruments-quiz-15",
+      "question": "The clinical thermometer was popularized for medical use by which physician in the 1860s?",
+      "options": [
+        "Robert Koch",
+        "Joseph Lister",
+        "Thomas Allbutt",
+        "Florence Nightingale"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

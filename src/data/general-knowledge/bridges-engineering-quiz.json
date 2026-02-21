@@ -1,0 +1,173 @@
+{
+  "id": "bridges-engineering-quiz",
+  "title": "Bridges & Structural Engineering",
+  "description": "Span the globe with questions about famous bridges and the engineering behind them",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "bridges-engineering-quiz-1",
+      "question": "The Golden Gate Bridge, completed in 1937, spans the entrance to which bay?",
+      "options": [
+        "Tampa Bay",
+        "San Francisco Bay",
+        "Hudson Bay",
+        "Chesapeake Bay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bridges-engineering-quiz-2",
+      "question": "What type of bridge uses cables attached to towers to support the deck?",
+      "options": [
+        "Arch bridge",
+        "Suspension bridge",
+        "Beam bridge",
+        "Truss bridge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bridges-engineering-quiz-3",
+      "question": "The Brooklyn Bridge, opened in 1883, was one of the first bridges to use what material?",
+      "options": [
+        "Concrete",
+        "Steel cables",
+        "Titanium",
+        "Aluminum"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bridges-engineering-quiz-4",
+      "question": "Which ancient Roman bridge-building technique used a curved structure to distribute weight?",
+      "options": [
+        "Cantilever",
+        "Truss",
+        "Arch",
+        "Beam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bridges-engineering-quiz-5",
+      "question": "The Akashi Kaikyo Bridge in Japan holds what record?",
+      "options": [
+        "Oldest bridge",
+        "Widest bridge",
+        "Longest suspension bridge span",
+        "Tallest bridge"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bridges-engineering-quiz-6",
+      "question": "What famous bridge in London can be raised to allow ships to pass through?",
+      "options": [
+        "Millennium Bridge",
+        "London Bridge",
+        "Westminster Bridge",
+        "Tower Bridge"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bridges-engineering-quiz-7",
+      "question": "The Millau Viaduct in France is the tallest bridge in the world. What type of bridge is it?",
+      "options": [
+        "Cable-stayed bridge",
+        "Suspension bridge",
+        "Beam bridge",
+        "Arch bridge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bridges-engineering-quiz-8",
+      "question": "What is the main force that bridge engineers must account for?",
+      "options": [
+        "Sound",
+        "Electricity",
+        "Gravity",
+        "Magnetism"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bridges-engineering-quiz-9",
+      "question": "The Tacoma Narrows Bridge famously collapsed in 1940 due to what phenomenon?",
+      "options": [
+        "Flood",
+        "Earthquake",
+        "Wind-induced resonance",
+        "Overloading"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bridges-engineering-quiz-10",
+      "question": "What material are most modern bridges primarily constructed from?",
+      "options": [
+        "Brick",
+        "Stone",
+        "Wood",
+        "Steel and reinforced concrete"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bridges-engineering-quiz-11",
+      "question": "The Ponte Vecchio, a medieval bridge lined with shops, crosses which river in Florence?",
+      "options": [
+        "Po",
+        "Rhine",
+        "Tiber",
+        "Arno"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bridges-engineering-quiz-12",
+      "question": "What type of bridge extends arms from both sides that meet in the middle without external support?",
+      "options": [
+        "Drawbridge",
+        "Truss bridge",
+        "Suspension bridge",
+        "Cantilever bridge"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bridges-engineering-quiz-13",
+      "question": "The Sydney Harbour Bridge in Australia is commonly known by what nickname?",
+      "options": [
+        "The Coathanger",
+        "The Arch",
+        "The Gateway",
+        "The Hanger"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bridges-engineering-quiz-14",
+      "question": "What is the Danyang-Kunshan Grand Bridge in China notable for?",
+      "options": [
+        "Being the oldest bridge",
+        "Being the longest bridge in the world",
+        "Being entirely underwater",
+        "Having the widest span"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bridges-engineering-quiz-15",
+      "question": "What engineering challenge must designers consider when building bridges in earthquake-prone areas?",
+      "options": [
+        "Water pressure",
+        "Seismic isolation and flexibility",
+        "Temperature only",
+        "Wind resistance only"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

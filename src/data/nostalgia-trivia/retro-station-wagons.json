@@ -8,43 +8,43 @@
       "id": "retro-station-wagons-1",
       "question": "What distinctive exterior feature gave 'woodie' station wagons their name?",
       "options": [
-        "Wooden bumpers",
         "Real wood or wood-look paneling on the sides",
-        "Wooden roof racks",
-        "Wooden steering wheels"
+        "Wooden steering wheels",
+        "Wooden bumpers",
+        "Wooden roof racks"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-station-wagons-2",
       "question": "What rear-facing seat in the very back of station wagons was a favorite spot for kids?",
       "options": [
-        "The jump seat",
-        "The third-row rear-facing seat",
         "The rumble seat",
-        "The fold-down bench"
+        "The jump seat",
+        "The fold-down bench",
+        "The third-row rear-facing seat"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-station-wagons-3",
       "question": "Which classic Chevrolet station wagon, produced from the 1950s onward, shared its name with a Western frontier term?",
       "options": [
-        "Chevrolet Impala",
-        "Chevrolet Nomad",
         "Chevrolet Bel Air Wagon",
-        "Chevrolet Brookwood"
+        "Chevrolet Brookwood",
+        "Chevrolet Nomad",
+        "Chevrolet Impala"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-station-wagons-4",
       "question": "What was the term for the simulated wood grain vinyl applied to station wagon exteriors in the 1960s-1980s?",
       "options": [
+        "Woodgrain decal",
         "Wood laminate",
-        "Faux bois",
         "Di-Noc",
-        "Woodgrain decal"
+        "Faux bois"
       ],
       "correctAnswer": 2
     },
@@ -52,10 +52,10 @@
       "id": "retro-station-wagons-5",
       "question": "Which Ford station wagon, produced from 1957 to 1991, became one of America's most popular family cars?",
       "options": [
-        "Ford Fairlane",
+        "Ford Galaxie",
         "Ford Country Squire",
         "Ford Pinto Wagon",
-        "Ford Galaxie"
+        "Ford Fairlane"
       ],
       "correctAnswer": 1
     },
@@ -63,23 +63,23 @@
       "id": "retro-station-wagons-6",
       "question": "In the 'National Lampoon's Vacation' movies, what was the fictional name of the Griswold family's station wagon?",
       "options": [
-        "The Family Truckster",
         "The Road Master",
         "The Wagon Queen",
-        "The Holiday Cruiser"
+        "The Holiday Cruiser",
+        "The Family Truckster"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "retro-station-wagons-7",
       "question": "What type of tailgate on many station wagons could either swing down like a truck or open to the side like a door?",
       "options": [
         "Power liftgate",
+        "Clamshell tailgate",
         "Dual-action tailgate",
-        "Split tailgate",
-        "Clamshell tailgate"
+        "Split tailgate"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-station-wagons-8",
@@ -87,62 +87,62 @@
       "options": [
         "Buick Roadmaster",
         "Buick Century Wagon",
-        "Buick Estate Wagon",
-        "Buick Skylark Wagon"
+        "Buick Skylark Wagon",
+        "Buick Estate Wagon"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "retro-station-wagons-9",
       "question": "Before minivans and SUVs, station wagons were the go-to vehicle for what type of family activity?",
       "options": [
+        "Car shows",
         "Racing",
-        "Family road trips",
         "Off-roading",
-        "Car shows"
+        "Family road trips"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-station-wagons-10",
       "question": "Which Oldsmobile station wagon was known as the 'Vista Cruiser' and featured a raised glass roof panel?",
       "options": [
-        "Oldsmobile Custom Cruiser",
-        "Oldsmobile Vista Cruiser",
         "Oldsmobile Cutlass Cruiser",
-        "Oldsmobile F-85 Wagon"
+        "Oldsmobile F-85 Wagon",
+        "Oldsmobile Vista Cruiser",
+        "Oldsmobile Custom Cruiser"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-station-wagons-11",
       "question": "What compact Volkswagen wagon, a variant of the Beetle platform, became popular in the 1960s and 1970s?",
       "options": [
-        "VW Karmann Ghia",
         "VW Squareback",
-        "VW Thing",
-        "VW Fastback"
+        "VW Fastback",
+        "VW Karmann Ghia",
+        "VW Thing"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-station-wagons-12",
       "question": "What 1970s TV show featured a Brady family station wagon?",
       "options": [
+        "Eight Is Enough",
         "The Partridge Family",
-        "The Brady Bunch",
         "Happy Days",
-        "Eight Is Enough"
+        "The Brady Bunch"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-station-wagons-13",
       "question": "What car accessory mounted on the roof of station wagons was essential for carrying extra luggage?",
       "options": [
-        "Spoiler",
-        "Roof rack",
         "Bug deflector",
+        "Roof rack",
+        "Spoiler",
         "Running boards"
       ],
       "correctAnswer": 1
@@ -151,21 +151,21 @@
       "id": "retro-station-wagons-14",
       "question": "Which type of vehicle largely replaced the station wagon as America's family car in the 1980s?",
       "options": [
-        "Pickup truck",
-        "Sports car",
+        "Sedan",
         "Minivan",
-        "Sedan"
+        "Sports car",
+        "Pickup truck"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "retro-station-wagons-15",
       "question": "What was the Pontiac version of the full-size GM station wagon called in the 1970s?",
       "options": [
-        "Pontiac Catalina Safari",
+        "Pontiac LeMans Wagon",
         "Pontiac Grand Safari",
         "Pontiac Bonneville Wagon",
-        "Pontiac LeMans Wagon"
+        "Pontiac Catalina Safari"
       ],
       "correctAnswer": 1
     }

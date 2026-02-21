@@ -1,0 +1,219 @@
+{
+  "id": "famous-operas-quiz",
+  "title": "Famous Operas",
+  "description": "From tragic love stories to comedic farces, test your knowledge of the world's greatest operas!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-operas-quiz-1",
+      "question": "Which Verdi opera is set in ancient Egypt and features the 'Triumphal March'?",
+      "options": [
+        "Otello",
+        "La Traviata",
+        "Aida",
+        "Nabucco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Aida' (1871) was commissioned for the opening of the Cairo Opera House (though it actually premiered there in 1871). The story of an Ethiopian princess enslaved in Egypt features some of Verdi's grandest music.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-2",
+      "question": "Puccini's 'Madama Butterfly' is set in which country?",
+      "options": [
+        "Japan",
+        "India",
+        "Korea",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Madama Butterfly' (1904) tells the tragic story of Cio-Cio-San, a young Japanese woman who marries an American naval officer in Nagasaki. Her aria 'Un bel dì' is one of opera's most beloved.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-3",
+      "question": "In Mozart's 'The Magic Flute,' what kind of creature is Papageno seeking throughout the opera?",
+      "options": [
+        "A wife",
+        "A golden treasure",
+        "A magic bird",
+        "A lost child"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Papageno, the comic bird-catcher in 'The Magic Flute' (1791), desperately wants to find a wife. He eventually meets his match in Papagena, and their duet 'Pa-Pa-Pa-Papagena!' is a delightful highlight.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-4",
+      "question": "Wagner's 'The Flying Dutchman' tells the story of a ship captain cursed to do what?",
+      "options": [
+        "Never reach shore",
+        "Fight sea monsters",
+        "Sail the seas forever until redeemed by faithful love",
+        "Never find treasure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Flying Dutchman' (1843) follows a captain condemned to sail forever unless he can find a woman faithful unto death. It was one of Wagner's first major operatic successes.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-5",
+      "question": "Verdi's 'Rigoletto' features the famous tenor aria 'La donna è mobile.' What does this title mean?",
+      "options": [
+        "The girl is dancing",
+        "The lady is beautiful",
+        "The woman is fickle",
+        "The lady is mine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'La donna è mobile' means 'Woman is fickle.' Sung by the Duke of Mantua in 'Rigoletto' (1851), it is one of the most recognizable melodies in all of opera. Ironically, the Duke himself is the fickle one.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-6",
+      "question": "Which opera by Puccini tells the story of a painter, a singer, and a villainous police chief in Rome?",
+      "options": [
+        "Turandot",
+        "Gianni Schicchi",
+        "La Bohème",
+        "Tosca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Tosca' (1900) is a dramatic thriller set in 1800 Rome. The singer Tosca, her lover the painter Cavaradossi, and the evil Chief of Police Baron Scarpia are caught in a web of love, politics, and murder.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-7",
+      "question": "Handel's 'Messiah' includes which famous chorus?",
+      "options": [
+        "The Wedding March",
+        "The Ride of the Valkyries",
+        "The Ode to Joy",
+        "The Hallelujah Chorus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Hallelujah Chorus' from Handel's 'Messiah' (1741) is one of the most famous choral works ever written. Tradition holds that King George II stood during its premiere, causing everyone to stand, a custom continued today.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-8",
+      "question": "Leoncavallo's 'Pagliacci' features a clown who murders his wife during what event?",
+      "options": [
+        "A church service",
+        "A commedia dell'arte play-within-a-play",
+        "A carnival parade",
+        "A circus performance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Pagliacci' (1892) tells of a traveling theater troupe. The jealous Canio, playing the clown Pagliaccio, kills his unfaithful wife during their commedia dell'arte performance, blurring the line between art and reality.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-9",
+      "question": "Mozart's 'The Marriage of Figaro' is based on a controversial play by which author?",
+      "options": [
+        "Molière",
+        "Beaumarchais",
+        "Goethe",
+        "Voltaire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pierre Beaumarchais wrote 'The Marriage of Figaro' (1778), a comedy about a clever servant outsmarting his master. The play was banned in several countries for its anti-aristocratic themes before Mozart set it to music in 1786.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-10",
+      "question": "Which opera features the 'Ride of the Valkyries,' often used in films?",
+      "options": [
+        "Tristan und Isolde",
+        "Lohengrin",
+        "Parsifal",
+        "Die Walküre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Ride of the Valkyries' opens Act 3 of Wagner's 'Die Walküre' (1870), the second opera in his Ring Cycle. The Valkyries are warrior maidens who carry fallen heroes to Valhalla. It was famously used in the film 'Apocalypse Now.'",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-11",
+      "question": "Verdi's opera 'La Traviata' is about a courtesan suffering from which illness?",
+      "options": [
+        "Cholera",
+        "Tuberculosis",
+        "Typhoid fever",
+        "Smallpox"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'La Traviata' (1853), based on Alexandre Dumas fils' novel 'The Lady of the Camellias,' tells the story of Violetta, a Parisian courtesan dying of tuberculosis who sacrifices her love for Alfredo.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-12",
+      "question": "Which Donizetti opera features a famous 'mad scene' with coloratura singing?",
+      "options": [
+        "L'elisir d'amore",
+        "Don Pasquale",
+        "Lucia di Lammermoor",
+        "La Fille du régiment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Lucia di Lammermoor' (1835) features one of opera's most demanding mad scenes, where Lucia, forced into an unwanted marriage, loses her mind. The role requires extraordinary vocal agility.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-13",
+      "question": "Gershwin's 'Porgy and Bess' features which famous song?",
+      "options": [
+        "The Way You Look Tonight",
+        "Summertime",
+        "Somewhere Over the Rainbow",
+        "My Funny Valentine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Summertime' from 'Porgy and Bess' (1935) has become one of the most recorded songs in history. The opera, set in a fictional Black community in Charleston, South Carolina, blends jazz, blues, and classical music.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-14",
+      "question": "Which opera house is considered the most famous in the world, located in Milan, Italy?",
+      "options": [
+        "The Royal Opera House",
+        "La Scala",
+        "The Metropolitan Opera",
+        "The Vienna State Opera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Scala (Teatro alla Scala), opened in 1778, is considered the world's premier opera house. Many of the greatest operas by Verdi, Puccini, and Bellini premiered there.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-operas-quiz-15",
+      "question": "In Bizet's 'The Pearl Fishers,' the famous duet is sung by two men who are what?",
+      "options": [
+        "Rivals in love who are also friends",
+        "Father and son",
+        "Brothers",
+        "King and servant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'Au fond du temple saint' duet from 'The Pearl Fishers' (1863) is one of opera's most beautiful. The fishermen Nadir and Zurga swear eternal friendship despite both being in love with the same woman.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

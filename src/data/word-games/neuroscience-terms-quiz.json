@@ -1,0 +1,173 @@
+{
+  "id": "neuroscience-terms-quiz",
+  "title": "Neuroscience Terms Quiz",
+  "description": "Explore the vocabulary of the brain and nervous system, from neurons and synapses to cognitive functions and neurological concepts.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "neuroscience-terms-quiz-1",
+      "question": "What is a 'neuron'?",
+      "options": [
+        "A bone in the skull",
+        "A nerve cell that transmits electrical and chemical signals in the body",
+        "A type of muscle cell",
+        "A hormone in the brain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "neuroscience-terms-quiz-2",
+      "question": "What is a 'synapse'?",
+      "options": [
+        "A nerve ending in the skin",
+        "A brain scan",
+        "The junction between two neurons where signals are transmitted",
+        "A type of brain wave"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "neuroscience-terms-quiz-3",
+      "question": "What is a 'neurotransmitter'?",
+      "options": [
+        "An electrical wire in the brain",
+        "A brain surgery tool",
+        "A type of brain cell",
+        "A chemical messenger that transmits signals across a synapse between neurons"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "neuroscience-terms-quiz-4",
+      "question": "What does 'neuroplasticity' refer to?",
+      "options": [
+        "The brain's ability to reorganize itself by forming new neural connections throughout life",
+        "The rigidity of the spinal cord",
+        "The hardness of the skull",
+        "A type of brain surgery"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "neuroscience-terms-quiz-5",
+      "question": "What is the 'cerebral cortex'?",
+      "options": [
+        "The center of the brain",
+        "The outer layer of the brain responsible for higher functions like thought, reasoning, and language",
+        "The brain stem",
+        "A fluid that surrounds the brain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "neuroscience-terms-quiz-6",
+      "question": "What does 'dopamine' do?",
+      "options": [
+        "It acts as a neurotransmitter associated with pleasure, reward, and motivation",
+        "It regulates body temperature",
+        "It strengthens bones",
+        "It helps with digestion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "neuroscience-terms-quiz-7",
+      "question": "What is the 'hippocampus'?",
+      "options": [
+        "A brain region critical for forming new memories and spatial navigation",
+        "A nerve in the spinal cord",
+        "A bone at the base of the skull",
+        "A gland that produces hormones"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "neuroscience-terms-quiz-8",
+      "question": "What is an 'axon'?",
+      "options": [
+        "A type of brain scan",
+        "A type of brain tumor",
+        "The long, slender projection of a neuron that conducts electrical impulses away from the cell body",
+        "A brain chemical"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "neuroscience-terms-quiz-9",
+      "question": "What does 'serotonin' regulate?",
+      "options": [
+        "Blood sugar",
+        "Bone growth",
+        "Mood, sleep, appetite, and overall sense of well-being",
+        "Muscle contraction"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "neuroscience-terms-quiz-10",
+      "question": "What is the 'amygdala' primarily involved in?",
+      "options": [
+        "Taste",
+        "Hearing",
+        "Processing emotions, especially fear and the fight-or-flight response",
+        "Vision"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "neuroscience-terms-quiz-11",
+      "question": "What is 'myelin'?",
+      "options": [
+        "A fluid in the brain",
+        "A brain hormone",
+        "A type of neuron",
+        "A fatty substance that insulates nerve fibers and speeds up electrical signal transmission"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "neuroscience-terms-quiz-12",
+      "question": "What does 'cognition' refer to?",
+      "options": [
+        "The mental processes involved in gaining knowledge and understanding, including thinking and memory",
+        "The growth of brain cells",
+        "Physical movement",
+        "The sense of touch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "neuroscience-terms-quiz-13",
+      "question": "What is the 'prefrontal cortex' associated with?",
+      "options": [
+        "Basic survival instincts",
+        "Complex behaviors such as planning, decision-making, and personality expression",
+        "Controlling heart rate",
+        "Processing visual information"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "neuroscience-terms-quiz-14",
+      "question": "What is a 'dendrite'?",
+      "options": [
+        "A brain fluid",
+        "A type of brain wave",
+        "A type of skull bone",
+        "A branching extension of a neuron that receives signals from other neurons"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "neuroscience-terms-quiz-15",
+      "question": "What does 'EEG' stand for and measure?",
+      "options": [
+        "Endocrine Evaluation Guide; hormone levels",
+        "External Ear Gauge; hearing ability",
+        "Electronic Energy Graph; energy in muscles",
+        "Electroencephalogram; electrical activity in the brain"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

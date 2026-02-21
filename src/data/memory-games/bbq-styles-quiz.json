@@ -1,0 +1,173 @@
+{
+  "id": "bbq-styles-quiz",
+  "title": "BBQ Styles Quiz",
+  "description": "From Texas brisket to Carolina pulled pork — how well do you know barbecue styles?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bbq-styles-quiz-1",
+      "question": "Which U.S. state is most famous for its slow-smoked beef brisket barbecue?",
+      "options": [
+        "Kansas",
+        "North Carolina",
+        "Tennessee",
+        "Texas"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bbq-styles-quiz-2",
+      "question": "Eastern North Carolina BBQ sauce is primarily based on which ingredient?",
+      "options": [
+        "Mayonnaise",
+        "Tomato",
+        "Vinegar",
+        "Mustard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bbq-styles-quiz-3",
+      "question": "Which city is home to the famous BBQ style that uses a thick, sweet, tomato-based sauce?",
+      "options": [
+        "Lexington",
+        "Kansas City",
+        "Austin",
+        "Memphis"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bbq-styles-quiz-4",
+      "question": "South Carolina is known for a unique BBQ sauce based on which condiment?",
+      "options": [
+        "Ketchup",
+        "Vinegar",
+        "Mustard",
+        "Worcestershire sauce"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bbq-styles-quiz-5",
+      "question": "Memphis-style BBQ is most closely associated with which cut of meat?",
+      "options": [
+        "Pork ribs",
+        "Chicken thighs",
+        "Lamb shoulder",
+        "Beef brisket"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bbq-styles-quiz-6",
+      "question": "What type of wood is traditionally used in Texas Hill Country BBQ?",
+      "options": [
+        "Mesquite",
+        "Cherry",
+        "Post oak",
+        "Hickory"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bbq-styles-quiz-7",
+      "question": "Argentine asado is a BBQ tradition that typically uses what kind of grill?",
+      "options": [
+        "Open wood fire or parrilla",
+        "Smoker box",
+        "Charcoal kettle",
+        "Gas grill"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bbq-styles-quiz-8",
+      "question": "Korean BBQ is commonly cooked at the table and often features which marinated beef dish?",
+      "options": [
+        "Bulgogi",
+        "Kalbi",
+        "Japchae",
+        "Bibimbap"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bbq-styles-quiz-9",
+      "question": "What is the term for the pink ring visible beneath the surface of properly smoked meat?",
+      "options": [
+        "Caramelization ring",
+        "Maillard band",
+        "Sear line",
+        "Smoke ring"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bbq-styles-quiz-10",
+      "question": "In Jamaica, jerk barbecue traditionally uses which type of wood for smoking?",
+      "options": [
+        "Pimento (allspice) wood",
+        "Mahogany",
+        "Bamboo",
+        "Coconut husk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bbq-styles-quiz-11",
+      "question": "What is the name of the traditional Hawaiian underground barbecue cooking method?",
+      "options": [
+        "Luau grill",
+        "Huli-huli",
+        "Hibachi",
+        "Imu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bbq-styles-quiz-12",
+      "question": "The 'low and slow' BBQ method refers to cooking at what general temperature range?",
+      "options": [
+        "450-500°F",
+        "225-275°F",
+        "350-400°F",
+        "100-150°F"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bbq-styles-quiz-13",
+      "question": "Which BBQ term describes the dark, flavorful crust that forms on the outside of smoked meat?",
+      "options": [
+        "Crust",
+        "Rind",
+        "Char",
+        "Bark"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bbq-styles-quiz-14",
+      "question": "Brazilian churrasco is traditionally served in what style at restaurants?",
+      "options": [
+        "Individual plates",
+        "Family style platters",
+        "Rodízio — continuous tableside carving",
+        "Buffet style"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bbq-styles-quiz-15",
+      "question": "Alabama white sauce, used for BBQ chicken, is based on which ingredient?",
+      "options": [
+        "Mayonnaise",
+        "Ranch dressing",
+        "Sour cream",
+        "Greek yogurt"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

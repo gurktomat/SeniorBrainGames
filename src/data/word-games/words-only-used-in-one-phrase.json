@@ -1,0 +1,173 @@
+{
+  "id": "words-only-used-in-one-phrase",
+  "title": "Words Only Used in One Phrase",
+  "description": "Some English words survive only in a single common phrase. Can you identify these rare words and the phrases that keep them alive?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "words-only-used-in-one-phrase-1",
+      "question": "The word 'kith' almost only appears in which phrase?",
+      "options": [
+        "Kith and kernel",
+        "Kith and kind",
+        "Kith and kin",
+        "Kith and caboodle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-only-used-in-one-phrase-2",
+      "question": "What does 'kith' actually mean?",
+      "options": [
+        "Friends and acquaintances",
+        "Distant relatives",
+        "Siblings",
+        "Neighbors"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-only-used-in-one-phrase-3",
+      "question": "The word 'shrift' almost exclusively appears in which phrase?",
+      "options": [
+        "Final shrift",
+        "Short shrift",
+        "Good shrift",
+        "Long shrift"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-only-used-in-one-phrase-4",
+      "question": "What did 'shrift' originally mean?",
+      "options": [
+        "A quick punishment",
+        "A type of gift",
+        "Confession or penance",
+        "A short period of time"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-only-used-in-one-phrase-5",
+      "question": "The word 'dint' survives mainly in which phrase?",
+      "options": [
+        "By dint of",
+        "At the dint",
+        "Dint of luck",
+        "Dint and dash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "words-only-used-in-one-phrase-6",
+      "question": "The word 'umbrage' is mostly found in which expression?",
+      "options": [
+        "Give umbrage",
+        "Without umbrage",
+        "Take umbrage",
+        "Full of umbrage"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-only-used-in-one-phrase-7",
+      "question": "The word 'fettle' primarily appears in which phrase?",
+      "options": [
+        "Out of fettle",
+        "Good fettle",
+        "Old fettle",
+        "In fine fettle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-only-used-in-one-phrase-8",
+      "question": "The word 'deserts' (meaning what you deserve) mainly appears in which phrase?",
+      "options": [
+        "Sweet deserts",
+        "Just deserts",
+        "Barren deserts",
+        "Desert island"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "words-only-used-in-one-phrase-9",
+      "question": "The word 'wreak' is almost exclusively used in which phrase?",
+      "options": [
+        "Wreak revenge",
+        "Wreak destruction",
+        "Wreak damage",
+        "Wreak havoc"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-only-used-in-one-phrase-10",
+      "question": "The word 'caboodle' mainly survives in which expression?",
+      "options": [
+        "The whole caboodle",
+        "Kit and caboodle",
+        "Lock and caboodle",
+        "Both B and C"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-only-used-in-one-phrase-11",
+      "question": "The word 'amok' (or 'amuck') is mainly used in which phrase?",
+      "options": [
+        "Go amok",
+        "Full of amok",
+        "Both B and C",
+        "Run amok"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-only-used-in-one-phrase-12",
+      "question": "The word 'ado' primarily appears in which phrases?",
+      "options": [
+        "A great ado",
+        "In an ado",
+        "Without an ado",
+        "Without further ado / Much ado about nothing"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-only-used-in-one-phrase-13",
+      "question": "The word 'fro' survives mainly in which phrase?",
+      "options": [
+        "Back and fro",
+        "Fro and against",
+        "Here and fro",
+        "To and fro"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "words-only-used-in-one-phrase-14",
+      "question": "The word 'bated' (not 'baited') appears mainly in which phrase?",
+      "options": [
+        "Bated trap",
+        "Bated line",
+        "Bated breath",
+        "Bated hook"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "words-only-used-in-one-phrase-15",
+      "question": "What does 'bated' mean in 'bated breath'?",
+      "options": [
+        "Smelly",
+        "Restrained or held back",
+        "Heavy",
+        "Quick"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

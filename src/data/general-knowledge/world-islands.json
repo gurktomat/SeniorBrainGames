@@ -8,12 +8,12 @@
       "id": "world-islands-1",
       "question": "What is the largest island in the world?",
       "options": [
-        "Borneo",
         "Madagascar",
         "Greenland",
-        "New Guinea"
+        "New Guinea",
+        "Borneo"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-islands-2",
@@ -21,8 +21,8 @@
       "options": [
         "Sri Lanka",
         "Madagascar",
-        "Mauritius",
-        "Seychelles"
+        "Seychelles",
+        "Mauritius"
       ],
       "correctAnswer": 1
     },
@@ -30,65 +30,65 @@
       "id": "world-islands-3",
       "question": "The Galapagos Islands, which inspired Charles Darwin's theory of evolution, belong to which country?",
       "options": [
-        "Peru",
-        "Colombia",
+        "Chile",
         "Ecuador",
-        "Chile"
+        "Peru",
+        "Colombia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-islands-4",
       "question": "Which Mediterranean island is the largest and is home to Mount Etna?",
       "options": [
-        "Sardinia",
         "Corsica",
-        "Crete",
-        "Sicily"
+        "Sicily",
+        "Sardinia",
+        "Crete"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "world-islands-5",
       "question": "Easter Island, famous for its massive stone statues called Moai, belongs to which country?",
       "options": [
-        "Peru",
-        "Chile",
         "New Zealand",
-        "Fiji"
+        "Fiji",
+        "Peru",
+        "Chile"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "world-islands-6",
       "question": "Which island is shared by three countries: Indonesia, Malaysia, and Brunei?",
       "options": [
-        "Sumatra",
-        "Java",
+        "Sulawesi",
         "Borneo",
-        "Sulawesi"
+        "Java",
+        "Sumatra"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-islands-7",
       "question": "What is the largest island in the Caribbean Sea?",
       "options": [
         "Jamaica",
-        "Hispaniola",
         "Cuba",
-        "Puerto Rico"
+        "Puerto Rico",
+        "Hispaniola"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "world-islands-8",
       "question": "Which group of islands, a U.S. state, is located in the central Pacific Ocean?",
       "options": [
         "Guam",
-        "American Samoa",
+        "U.S. Virgin Islands",
         "Hawaii",
-        "U.S. Virgin Islands"
+        "American Samoa"
       ],
       "correctAnswer": 2
     },
@@ -96,21 +96,21 @@
       "id": "world-islands-9",
       "question": "Which island country, located south of India, was formerly known as Ceylon?",
       "options": [
-        "Maldives",
         "Sri Lanka",
-        "Myanmar",
-        "Bangladesh"
+        "Maldives",
+        "Bangladesh",
+        "Myanmar"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "world-islands-10",
       "question": "The Canary Islands, a popular tourist destination, are an autonomous community of which country?",
       "options": [
-        "Portugal",
         "Morocco",
+        "France",
         "Spain",
-        "France"
+        "Portugal"
       ],
       "correctAnswer": 2
     },
@@ -129,32 +129,32 @@
       "id": "world-islands-12",
       "question": "Which Southeast Asian island is the most populated island in the world?",
       "options": [
-        "Sumatra",
-        "Luzon",
         "Java",
-        "Borneo"
+        "Borneo",
+        "Luzon",
+        "Sumatra"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "world-islands-13",
       "question": "Bali, a famous tourist destination known for its temples and rice terraces, is part of which country?",
       "options": [
         "Thailand",
+        "Malaysia",
         "Philippines",
-        "Indonesia",
-        "Malaysia"
+        "Indonesia"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "world-islands-14",
       "question": "Which island, the site of a major World War II battle, is a U.S. territory in the western Pacific?",
       "options": [
         "Midway",
-        "Wake Island",
+        "Saipan",
         "Guam",
-        "Saipan"
+        "Wake Island"
       ],
       "correctAnswer": 2
     },
@@ -162,10 +162,10 @@
       "id": "world-islands-15",
       "question": "Which island nation is made up of over 1,000 coral islands grouped into 26 atolls in the Indian Ocean?",
       "options": [
+        "Mauritius",
         "Seychelles",
-        "Comoros",
         "Maldives",
-        "Mauritius"
+        "Comoros"
       ],
       "correctAnswer": 2
     }

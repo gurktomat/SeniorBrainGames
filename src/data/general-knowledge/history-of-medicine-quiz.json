@@ -1,0 +1,219 @@
+{
+  "id": "history-of-medicine-quiz",
+  "title": "History of Medicine",
+  "description": "Explore the fascinating milestones in the history of medicine!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "history-of-medicine-quiz-1",
+      "question": "Who is often called the 'Father of Medicine'?",
+      "options": [
+        "Paracelsus",
+        "Avicenna",
+        "Hippocrates",
+        "Galen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hippocrates of Kos (c. 460-370 BC) is widely regarded as the Father of Medicine. He established medicine as a profession distinct from philosophy and superstition.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-2",
+      "question": "Who developed the first successful smallpox vaccine in 1796?",
+      "options": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Edward Jenner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Edward Jenner developed the smallpox vaccine by using cowpox material to create immunity, laying the foundation for modern immunology.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-3",
+      "question": "What did Alexander Fleming accidentally discover in 1928?",
+      "options": [
+        "X-rays",
+        "Insulin",
+        "Aspirin",
+        "Penicillin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Alexander Fleming discovered penicillin when he noticed that a mold called Penicillium notatum killed bacteria in a petri dish he had left uncovered.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-4",
+      "question": "Who discovered that germs cause disease, founding the germ theory of medicine?",
+      "options": [
+        "Andreas Vesalius",
+        "Ignaz Semmelweis",
+        "Louis Pasteur",
+        "Florence Nightingale"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Louis Pasteur proved that microorganisms cause disease, developed pasteurization, and created vaccines for rabies and anthrax.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-5",
+      "question": "What medical imaging technology was discovered by Wilhelm Roentgen in 1895?",
+      "options": [
+        "MRI",
+        "CT scan",
+        "X-rays",
+        "Ultrasound"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wilhelm Roentgen discovered X-rays in 1895 and won the first Nobel Prize in Physics in 1901 for this groundbreaking discovery.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-6",
+      "question": "Who introduced antiseptic surgery in the 1860s?",
+      "options": [
+        "William Halsted",
+        "Ambroise Pare",
+        "Joseph Lister",
+        "John Hunter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joseph Lister pioneered antiseptic surgery by using carbolic acid to sterilize surgical instruments and clean wounds, dramatically reducing post-operative infections.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-7",
+      "question": "Which ancient text is the foundation of traditional Chinese medicine?",
+      "options": [
+        "De Materia Medica",
+        "The Vedas",
+        "Canon of Medicine",
+        "Huangdi Neijing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Huangdi Neijing (Yellow Emperor's Classic of Internal Medicine) is the foundational text of traditional Chinese medicine, written over 2,000 years ago.",
+      "difficulty": "hard",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-8",
+      "question": "Who performed the first successful human heart transplant in 1967?",
+      "options": [
+        "Christiaan Barnard",
+        "Michael DeBakey",
+        "Denton Cooley",
+        "Norman Shumway"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dr. Christiaan Barnard performed the first successful human-to-human heart transplant on December 3, 1967, at Groote Schuur Hospital in Cape Town, South Africa.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-9",
+      "question": "What did Frederick Banting and Charles Best discover in 1921?",
+      "options": [
+        "Morphine",
+        "Penicillin",
+        "Insulin",
+        "Aspirin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Banting and Best discovered insulin at the University of Toronto, transforming diabetes from a fatal disease into a manageable condition.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-10",
+      "question": "Florence Nightingale is known as the founder of which profession?",
+      "options": [
+        "Pharmacy",
+        "Physical therapy",
+        "Midwifery",
+        "Modern nursing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Florence Nightingale founded modern nursing during the Crimean War and established the first professional nursing school at St Thomas' Hospital in London in 1860.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-11",
+      "question": "Which disease was declared eradicated by the World Health Organization in 1980?",
+      "options": [
+        "Smallpox",
+        "Polio",
+        "Measles",
+        "Tuberculosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smallpox was officially declared eradicated in 1980 following a global vaccination campaign, making it the first human disease to be completely eradicated.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-12",
+      "question": "Who is credited with developing the polio vaccine in 1955?",
+      "options": [
+        "John Enders",
+        "Albert Sabin",
+        "Jonas Salk",
+        "Maurice Hilleman"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jonas Salk developed the first effective inactivated polio vaccine, which was announced as safe and effective in 1955. He famously refused to patent it.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-13",
+      "question": "What medical practice did Ignaz Semmelweis champion that was initially rejected by the medical community?",
+      "options": [
+        "Vaccination",
+        "Blood transfusions",
+        "Anesthesia",
+        "Handwashing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ignaz Semmelweis discovered that handwashing with chlorinated lime dramatically reduced childbed fever deaths, but his ideas were rejected for decades before being accepted.",
+      "difficulty": "medium",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-14",
+      "question": "The Hippocratic Oath, still referenced by doctors today, originates from which era?",
+      "options": [
+        "Medieval Europe",
+        "Renaissance Italy",
+        "Ancient Rome",
+        "Ancient Greece"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Hippocratic Oath originated in Ancient Greece around the 5th century BC. Modern versions of the oath are still taken by medical graduates worldwide.",
+      "difficulty": "easy",
+      "category": "medicine"
+    },
+    {
+      "id": "history-of-medicine-quiz-15",
+      "question": "What revolutionary medical tool did Rene Laennec invent in 1816?",
+      "options": [
+        "Blood pressure cuff",
+        "Stethoscope",
+        "Syringe",
+        "Thermometer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rene Laennec invented the stethoscope in 1816 after feeling it inappropriate to place his ear directly on a female patient's chest. His first version was a rolled-up paper tube.",
+      "difficulty": "medium",
+      "category": "medicine"
+    }
+  ]
+}

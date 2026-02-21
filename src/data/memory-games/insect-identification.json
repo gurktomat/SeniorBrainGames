@@ -7,91 +7,166 @@
     {
       "id": "insect-identification-1",
       "question": "This small, round beetle is often red or orange with black spots. Gardeners love it because it eats aphids and other plant pests. What insect is this?",
-      "options": ["June Bug", "Ladybug", "Stink Bug", "Japanese Beetle"],
+      "options": [
+        "Stink Bug",
+        "Ladybug",
+        "Japanese Beetle",
+        "June Bug"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "insect-identification-2",
       "question": "This insect has a slender body, large multifaceted eyes, and two pairs of transparent wings. It is an excellent flier and catches mosquitoes mid-flight. What insect is this?",
-      "options": ["Damselfly", "Mayfly", "Dragonfly", "Lacewing"],
-      "correctAnswer": 2
+      "options": [
+        "Dragonfly",
+        "Lacewing",
+        "Damselfly",
+        "Mayfly"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-3",
       "question": "This social insect lives in large colonies with a queen, workers, and drones. It produces honey and beeswax and is essential for pollinating crops. What insect is this?",
-      "options": ["Bumblebee", "Wasp", "Honeybee", "Hornet"],
+      "options": [
+        "Hornet",
+        "Bumblebee",
+        "Honeybee",
+        "Wasp"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "insect-identification-4",
       "question": "This insect is known for its musical chirping sound, produced by rubbing its wings together. It is considered good luck in many cultures and is often kept as a pet in Asia. What insect is this?",
-      "options": ["Grasshopper", "Cicada", "Katydid", "Cricket"],
-      "correctAnswer": 3
+      "options": [
+        "Cricket",
+        "Cicada",
+        "Katydid",
+        "Grasshopper"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-5",
       "question": "This large insect emerges from underground after 13 or 17 years, fills the air with a loud buzzing song, and leaves behind its empty shell on tree trunks. What insect is this?",
-      "options": ["Locust", "Cricket", "Cicada", "Katydid"],
-      "correctAnswer": 2
+      "options": [
+        "Cicada",
+        "Locust",
+        "Katydid",
+        "Cricket"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-6",
       "question": "This nocturnal beetle produces a glowing light from its abdomen through a chemical reaction called bioluminescence. Children often catch them in jars on summer evenings. What insect is this?",
-      "options": ["Glowworm", "Firefly", "Click Beetle", "Lanternfly"],
-      "correctAnswer": 1
+      "options": [
+        "Firefly",
+        "Glowworm",
+        "Lanternfly",
+        "Click Beetle"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-7",
       "question": "This insect has triangular front legs held in a prayer-like position, which it uses to snatch prey with lightning speed. It can turn its head 180 degrees. What insect is this?",
-      "options": ["Walking Stick", "Praying Mantis", "Assassin Bug", "Katydid"],
-      "correctAnswer": 1
+      "options": [
+        "Praying Mantis",
+        "Assassin Bug",
+        "Walking Stick",
+        "Katydid"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-8",
       "question": "This hardworking insect can carry objects 50 times its own body weight and lives in highly organized colonies with specialized roles. What insect is this?",
-      "options": ["Termite", "Ant", "Bee", "Wasp"],
-      "correctAnswer": 1
+      "options": [
+        "Ant",
+        "Termite",
+        "Wasp",
+        "Bee"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-9",
       "question": "This garden insect has long, powerful hind legs for jumping and can leap 20 times its body length. It is often green or brown for camouflage in grass. What insect is this?",
-      "options": ["Cricket", "Flea", "Grasshopper", "Katydid"],
-      "correctAnswer": 2
+      "options": [
+        "Grasshopper",
+        "Katydid",
+        "Flea",
+        "Cricket"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-10",
       "question": "This delicate insect with green, lace-like wings is a gardener's friend because its larvae are voracious predators of aphids, earning the nickname 'aphid lion.' What insect is this?",
-      "options": ["Mayfly", "Green Lacewing", "Damselfly", "Caddisfly"],
-      "correctAnswer": 1
+      "options": [
+        "Mayfly",
+        "Caddisfly",
+        "Green Lacewing",
+        "Damselfly"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "insect-identification-11",
       "question": "This large, fuzzy bee is rounder and more robust than a honeybee. It can fly in cooler temperatures and uses 'buzz pollination' to shake pollen loose from flowers. What insect is this?",
-      "options": ["Carpenter Bee", "Honeybee", "Bumblebee", "Mason Bee"],
-      "correctAnswer": 2
+      "options": [
+        "Mason Bee",
+        "Bumblebee",
+        "Carpenter Bee",
+        "Honeybee"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "insect-identification-12",
       "question": "This insect looks like a twig or branch, using its remarkable camouflage to hide from predators. Some species can grow over 12 inches long. What insect is this?",
-      "options": ["Praying Mantis", "Leaf Insect", "Walking Stick", "Katydid"],
-      "correctAnswer": 2
+      "options": [
+        "Walking Stick",
+        "Katydid",
+        "Leaf Insect",
+        "Praying Mantis"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "insect-identification-13",
       "question": "This common garden insect has bright metallic green and copper coloring. Originally from Japan, it feeds on roses and other garden plants in North America. What insect is this?",
-      "options": ["June Bug", "Japanese Beetle", "Rose Chafer", "Green Stink Bug"],
+      "options": [
+        "June Bug",
+        "Japanese Beetle",
+        "Green Stink Bug",
+        "Rose Chafer"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "insect-identification-14",
       "question": "This beneficial insect resembles a bee but has only two wings, large eyes, and the ability to hover in mid-air. It feeds on nectar and its larvae eat aphids. What insect is this?",
-      "options": ["Robber Fly", "Hoverfly", "Bee Fly", "Horse Fly"],
-      "correctAnswer": 1
+      "options": [
+        "Horse Fly",
+        "Bee Fly",
+        "Hoverfly",
+        "Robber Fly"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "insect-identification-15",
       "question": "This aquatic insect 'walks' on the surface of ponds and streams, using water tension to stay afloat on its long, slender legs. What insect is this?",
-      "options": ["Whirligig Beetle", "Water Boatman", "Water Strider", "Diving Beetle"],
+      "options": [
+        "Diving Beetle",
+        "Water Boatman",
+        "Water Strider",
+        "Whirligig Beetle"
+      ],
       "correctAnswer": 2
     }
   ]

@@ -9,64 +9,64 @@
       "question": "Which 1977 film starring John Travolta became the defining movie of the disco era?",
       "options": [
         "Grease",
+        "Car Wash",
         "Saturday Night Fever",
-        "Thank God It's Friday",
-        "Car Wash"
+        "Thank God It's Friday"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-disco-era-2",
       "question": "Which group performed the iconic disco hit 'Stayin' Alive'?",
       "options": [
+        "Village People",
         "ABBA",
-        "The Bee Gees",
         "KC and the Sunshine Band",
-        "Village People"
+        "The Bee Gees"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-disco-era-3",
       "question": "What was the name of the famous New York City nightclub that became the epicenter of disco culture?",
       "options": [
-        "The Limelight",
-        "Studio 54",
         "CBGB",
-        "The Palladium"
+        "The Palladium",
+        "Studio 54",
+        "The Limelight"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-disco-era-4",
       "question": "Which artist released the hit 'I Will Survive' in 1978?",
       "options": [
         "Donna Summer",
-        "Gloria Gaynor",
         "Diana Ross",
-        "Chaka Khan"
+        "Chaka Khan",
+        "Gloria Gaynor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-disco-era-5",
       "question": "What was Donna Summer's nickname during the disco era?",
       "options": [
         "The Disco Diva",
-        "The Queen of Disco",
+        "The Disco Princess",
         "The First Lady of Dance",
-        "The Disco Princess"
+        "The Queen of Disco"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "classic-disco-era-6",
       "question": "Which Village People hit became a massive disco anthem and dance, using letters as arm movements?",
       "options": [
-        "In the Navy",
         "Macho Man",
+        "Go West",
         "Y.M.C.A.",
-        "Go West"
+        "In the Navy"
       ],
       "correctAnswer": 2
     },
@@ -74,21 +74,21 @@
       "id": "classic-disco-era-7",
       "question": "What type of floor was a signature feature of disco nightclubs?",
       "options": [
-        "Carpeted floor",
         "Light-up dance floor",
-        "Wooden dance floor",
-        "Mirrored floor"
+        "Mirrored floor",
+        "Carpeted floor",
+        "Wooden dance floor"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "classic-disco-era-8",
       "question": "Which 1979 baseball stadium event, intended as a protest against disco, resulted in a riot?",
       "options": [
-        "The Disco Destruction Derby",
+        "Burn the Disco Night",
         "Disco Demolition Night",
-        "The Anti-Disco Rally",
-        "Burn the Disco Night"
+        "The Disco Destruction Derby",
+        "The Anti-Disco Rally"
       ],
       "correctAnswer": 1
     },
@@ -96,21 +96,21 @@
       "id": "classic-disco-era-9",
       "question": "What Donna Summer song, released in 1977, was one of the first major disco hits to use electronic synthesizers extensively?",
       "options": [
-        "Hot Stuff",
-        "Bad Girls",
         "I Feel Love",
-        "Last Dance"
+        "Hot Stuff",
+        "Last Dance",
+        "Bad Girls"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-disco-era-10",
       "question": "Which Swedish group had massive disco-era hits including 'Dancing Queen'?",
       "options": [
-        "Boney M",
+        "Silver Convention",
         "ABBA",
-        "The Bee Gees",
-        "Silver Convention"
+        "Boney M",
+        "The Bee Gees"
       ],
       "correctAnswer": 1
     },
@@ -119,42 +119,42 @@
       "question": "What was the typical fashion accessory associated with the disco era for men?",
       "options": [
         "Cowboy boots",
-        "Platform shoes and wide-collared shirts",
         "Leather jackets",
+        "Platform shoes and wide-collared shirts",
         "Top hats"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-disco-era-12",
       "question": "Which KC and the Sunshine Band hit told everyone to 'shake, shake, shake'?",
       "options": [
-        "Get Down Tonight",
-        "That's the Way (I Like It)",
         "Shake Your Booty",
-        "Boogie Shoes"
+        "Get Down Tonight",
+        "Boogie Shoes",
+        "That's the Way (I Like It)"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "classic-disco-era-13",
       "question": "What overhead fixture was a must-have in every disco, reflecting light around the room?",
       "options": [
+        "A chandelier",
         "A strobe light",
         "A mirror ball",
-        "A chandelier",
         "A lava lamp"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "classic-disco-era-14",
       "question": "Which Chic song from 1978 featured the famous bass line and the lyrics 'Aaahh, freak out!'?",
       "options": [
-        "Good Times",
-        "Le Freak",
         "I Want Your Love",
-        "Dance, Dance, Dance"
+        "Le Freak",
+        "Dance, Dance, Dance",
+        "Good Times"
       ],
       "correctAnswer": 1
     },
@@ -163,11 +163,11 @@
       "question": "At which stadium did Disco Demolition Night take place in 1979?",
       "options": [
         "Yankee Stadium",
-        "Wrigley Field",
         "Comiskey Park",
-        "Shea Stadium"
+        "Shea Stadium",
+        "Wrigley Field"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     }
   ]
 }

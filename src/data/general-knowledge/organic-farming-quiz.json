@@ -1,0 +1,219 @@
+{
+  "id": "organic-farming-quiz",
+  "title": "Organic Farming & Agriculture",
+  "description": "Test your knowledge of organic farming and sustainable agriculture!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "organic-farming-quiz-1",
+      "question": "What does 'organic farming' primarily avoid using?",
+      "options": [
+        "Synthetic pesticides and fertilizers",
+        "Animal manure",
+        "Crop rotation",
+        "Water irrigation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Organic farming avoids the use of synthetic pesticides, herbicides, and fertilizers, relying instead on natural methods to maintain soil health and control pests.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-2",
+      "question": "What farming practice involves growing different crops in succession on the same land?",
+      "options": [
+        "Crop rotation",
+        "Terracing",
+        "Hydroponics",
+        "Monoculture"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Crop rotation involves planting different crops in a planned sequence to improve soil health, reduce pest and disease buildup, and increase nutrient availability.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-3",
+      "question": "What natural process converts kitchen and yard waste into nutrient-rich soil amendment?",
+      "options": [
+        "Composting",
+        "Pasteurization",
+        "Distillation",
+        "Fermentation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Composting is the natural decomposition of organic matter into humus-rich material that improves soil structure, water retention, and nutrient content.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-4",
+      "question": "Which insect is considered the most important pollinator for food crops worldwide?",
+      "options": [
+        "Butterfly",
+        "Dragonfly",
+        "Ladybug",
+        "Honeybee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Honeybees are the most important pollinators for food crops, responsible for pollinating roughly one-third of the food we eat.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-5",
+      "question": "What is the term for growing plants without soil, using mineral nutrient solutions in water?",
+      "options": [
+        "Permaculture",
+        "Hydroponics",
+        "Silviculture",
+        "Aquaculture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hydroponics is a method of growing plants in water-based nutrient solutions without soil. It can use less water and space than traditional farming.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-6",
+      "question": "What is 'cover cropping'?",
+      "options": [
+        "Growing crops in greenhouses",
+        "Growing crops under shade cloth",
+        "Planting crops to protect and enrich soil between seasons",
+        "Covering crops with mulch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cover cropping involves planting crops like clover or rye to protect bare soil, prevent erosion, suppress weeds, and add nutrients back to the soil between growing seasons.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-7",
+      "question": "What beneficial garden insects eat aphids and are welcomed by organic farmers?",
+      "options": [
+        "Fireflies",
+        "Grasshoppers",
+        "Ladybugs",
+        "Crickets"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ladybugs (ladybird beetles) are voracious predators of aphids and other garden pests. A single ladybug can eat up to 5,000 aphids in its lifetime.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-8",
+      "question": "What farming system combines fish farming with growing plants in water?",
+      "options": [
+        "Agroforestry",
+        "Silvopasture",
+        "Aquaponics",
+        "Aeroponics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aquaponics combines aquaculture (fish farming) with hydroponics (growing plants in water). Fish waste provides nutrients for the plants, and the plants filter the water for the fish.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-9",
+      "question": "Which practice involves planting trees alongside crops or livestock?",
+      "options": [
+        "Strip mining",
+        "Clear cutting",
+        "Agroforestry",
+        "Monoculture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Agroforestry integrates trees with crops or livestock, providing shade, wind protection, additional income from tree products, and improved biodiversity.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-10",
+      "question": "What does the USDA Organic label certify about a food product?",
+      "options": [
+        "It contains no calories",
+        "It meets federal organic production standards",
+        "It was locally grown",
+        "It is genetically modified"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The USDA Organic label certifies that food was produced according to federal standards, including restrictions on synthetic pesticides, fertilizers, GMOs, and antibiotics.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-11",
+      "question": "What is 'permaculture'?",
+      "options": [
+        "Large-scale industrial farming",
+        "Permanent concrete structures for farming",
+        "A design system based on natural ecosystem principles",
+        "Growing only perennial crops"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Permaculture is a design philosophy that creates sustainable agricultural systems by mimicking the patterns and relationships found in natural ecosystems.",
+      "difficulty": "hard",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-12",
+      "question": "Which organism is essential for healthy soil and breaks down organic matter?",
+      "options": [
+        "Butterflies",
+        "Earthworms",
+        "Grasshoppers",
+        "Sparrows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earthworms are vital to soil health. They aerate the soil, break down organic matter, and their castings are rich in nutrients that benefit plant growth.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-13",
+      "question": "What is 'integrated pest management' (IPM)?",
+      "options": [
+        "Using only chemical pesticides",
+        "Eliminating all insects from farms",
+        "Growing pest-resistant GMO crops only",
+        "A combination of biological, cultural, and mechanical pest control methods"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Integrated Pest Management (IPM) uses a combination of biological controls, habitat manipulation, and resistant crop varieties to manage pests with minimal environmental impact.",
+      "difficulty": "hard",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-14",
+      "question": "What nitrogen-fixing plants are commonly grown as cover crops to enrich soil?",
+      "options": [
+        "Tomatoes and peppers",
+        "Corn and wheat",
+        "Legumes like clover and beans",
+        "Potatoes and carrots"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Legumes like clover, beans, and peas have bacteria in their root nodules that convert atmospheric nitrogen into a form plants can use, naturally enriching the soil.",
+      "difficulty": "medium",
+      "category": "agriculture"
+    },
+    {
+      "id": "organic-farming-quiz-15",
+      "question": "What is 'mulching' in organic gardening?",
+      "options": [
+        "Removing all vegetation from garden beds",
+        "Plowing soil deeply before planting",
+        "Covering soil with organic material to retain moisture and suppress weeds",
+        "Adding chemicals to the soil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mulching involves covering the soil surface with organic materials like straw, wood chips, or leaves to conserve moisture, suppress weeds, and regulate soil temperature.",
+      "difficulty": "easy",
+      "category": "agriculture"
+    }
+  ]
+}

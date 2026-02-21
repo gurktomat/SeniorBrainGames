@@ -8,8 +8,13 @@
     {
       "id": "po-1",
       "question": "Who was the 1st President of the United States?",
-      "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
-      "correctAnswer": 2,
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correctAnswer": 1,
       "explanation": "George Washington served as the 1st President of the United States from 1789 to 1797. He is often called the 'Father of His Country.'",
       "difficulty": "easy",
       "category": "history"
@@ -17,8 +22,13 @@
     {
       "id": "po-2",
       "question": "Who was the 16th President of the United States?",
-      "options": ["Ulysses S. Grant", "Abraham Lincoln", "Andrew Johnson", "James Buchanan"],
-      "correctAnswer": 1,
+      "options": [
+        "Ulysses S. Grant",
+        "Andrew Johnson",
+        "James Buchanan",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": 3,
       "explanation": "Abraham Lincoln served as the 16th President from 1861 to 1865. He led the nation through the Civil War and abolished slavery.",
       "difficulty": "easy",
       "category": "history"
@@ -26,7 +36,12 @@
     {
       "id": "po-3",
       "question": "Who immediately succeeded John F. Kennedy as president after his assassination?",
-      "options": ["Richard Nixon", "Hubert Humphrey", "Lyndon B. Johnson", "Barry Goldwater"],
+      "options": [
+        "Richard Nixon",
+        "Barry Goldwater",
+        "Lyndon B. Johnson",
+        "Hubert Humphrey"
+      ],
       "correctAnswer": 2,
       "explanation": "Lyndon B. Johnson (the 36th President) was sworn in aboard Air Force One on November 22, 1963, just hours after Kennedy's assassination.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "po-4",
       "question": "Who was the 3rd President of the United States?",
-      "options": ["James Madison", "John Adams", "Alexander Hamilton", "Thomas Jefferson"],
-      "correctAnswer": 3,
+      "options": [
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "James Madison",
+        "John Adams"
+      ],
+      "correctAnswer": 1,
       "explanation": "Thomas Jefferson served as the 3rd President from 1801 to 1809. He was the principal author of the Declaration of Independence.",
       "difficulty": "easy",
       "category": "history"
@@ -44,8 +64,13 @@
     {
       "id": "po-5",
       "question": "Which president served two non-consecutive terms, making him both the 22nd and 24th president?",
-      "options": ["Grover Cleveland", "Benjamin Harrison", "William McKinley", "Chester Arthur"],
-      "correctAnswer": 0,
+      "options": [
+        "Chester Arthur",
+        "Grover Cleveland",
+        "Benjamin Harrison",
+        "William McKinley"
+      ],
+      "correctAnswer": 1,
       "explanation": "Grover Cleveland is the only president to serve two non-consecutive terms (1885-1889 and 1893-1897), making him both the 22nd and 24th president.",
       "difficulty": "easy",
       "category": "history"
@@ -53,8 +78,13 @@
     {
       "id": "po-6",
       "question": "Who was president immediately before Abraham Lincoln?",
-      "options": ["Franklin Pierce", "Millard Fillmore", "James Buchanan", "Andrew Johnson"],
-      "correctAnswer": 2,
+      "options": [
+        "James Buchanan",
+        "Franklin Pierce",
+        "Andrew Johnson",
+        "Millard Fillmore"
+      ],
+      "correctAnswer": 0,
       "explanation": "James Buchanan was the 15th President (1857-1861), serving immediately before Lincoln. He is often considered one of the worst presidents due to his failure to prevent the Civil War.",
       "difficulty": "medium",
       "category": "history"
@@ -62,7 +92,12 @@
     {
       "id": "po-7",
       "question": "Who was the 26th President of the United States?",
-      "options": ["William Howard Taft", "Theodore Roosevelt", "Woodrow Wilson", "William McKinley"],
+      "options": [
+        "William McKinley",
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "William Howard Taft"
+      ],
       "correctAnswer": 1,
       "explanation": "Theodore Roosevelt became the 26th President in 1901 after the assassination of William McKinley. At 42, he was the youngest person to assume the presidency.",
       "difficulty": "medium",
@@ -71,7 +106,12 @@
     {
       "id": "po-8",
       "question": "Who served as president between Harry Truman and John F. Kennedy?",
-      "options": ["Herbert Hoover", "Dwight D. Eisenhower", "Lyndon B. Johnson", "Richard Nixon"],
+      "options": [
+        "Lyndon B. Johnson",
+        "Dwight D. Eisenhower",
+        "Richard Nixon",
+        "Herbert Hoover"
+      ],
       "correctAnswer": 1,
       "explanation": "Dwight D. Eisenhower served as the 34th President from 1953 to 1961, between Truman (33rd) and Kennedy (35th). He was the Supreme Allied Commander in WWII.",
       "difficulty": "medium",
@@ -80,8 +120,13 @@
     {
       "id": "po-9",
       "question": "Who was the 32nd President, serving four terms during the Great Depression and World War II?",
-      "options": ["Harry Truman", "Herbert Hoover", "Franklin D. Roosevelt", "Dwight D. Eisenhower"],
-      "correctAnswer": 2,
+      "options": [
+        "Harry Truman",
+        "Herbert Hoover",
+        "Dwight D. Eisenhower",
+        "Franklin D. Roosevelt"
+      ],
+      "correctAnswer": 3,
       "explanation": "Franklin D. Roosevelt was the 32nd President, serving from 1933 until his death in 1945. He is the only president to serve more than two terms.",
       "difficulty": "medium",
       "category": "history"
@@ -89,8 +134,13 @@
     {
       "id": "po-10",
       "question": "Which president immediately followed Richard Nixon after his resignation?",
-      "options": ["Jimmy Carter", "Gerald Ford", "Ronald Reagan", "Nelson Rockefeller"],
-      "correctAnswer": 1,
+      "options": [
+        "Nelson Rockefeller",
+        "Ronald Reagan",
+        "Gerald Ford",
+        "Jimmy Carter"
+      ],
+      "correctAnswer": 2,
       "explanation": "Gerald Ford became the 38th President on August 9, 1974, after Nixon resigned due to the Watergate scandal. Ford is the only person to serve as president without being elected president or vice president.",
       "difficulty": "medium",
       "category": "history"
@@ -98,8 +148,13 @@
     {
       "id": "po-11",
       "question": "Who was the 7th President of the United States?",
-      "options": ["John Quincy Adams", "Martin Van Buren", "Andrew Jackson", "James Monroe"],
-      "correctAnswer": 2,
+      "options": [
+        "James Monroe",
+        "Andrew Jackson",
+        "Martin Van Buren",
+        "John Quincy Adams"
+      ],
+      "correctAnswer": 1,
       "explanation": "Andrew Jackson served as the 7th President from 1829 to 1837. Known as 'Old Hickory,' he was a populist figure and war hero from the Battle of New Orleans.",
       "difficulty": "hard",
       "category": "history"
@@ -107,8 +162,13 @@
     {
       "id": "po-12",
       "question": "Who was the shortest-serving U.S. president, dying just 31 days after inauguration?",
-      "options": ["Zachary Taylor", "William Henry Harrison", "James A. Garfield", "Warren G. Harding"],
-      "correctAnswer": 1,
+      "options": [
+        "William Henry Harrison",
+        "Zachary Taylor",
+        "Warren G. Harding",
+        "James A. Garfield"
+      ],
+      "correctAnswer": 0,
       "explanation": "William Henry Harrison, the 9th President, served only 31 days in 1841 before dying of pneumonia, making his the shortest presidency in U.S. history.",
       "difficulty": "hard",
       "category": "history"
@@ -116,8 +176,13 @@
     {
       "id": "po-13",
       "question": "Who was the 11th President, known for leading the nation during the Mexican-American War?",
-      "options": ["James K. Polk", "Zachary Taylor", "John Tyler", "Franklin Pierce"],
-      "correctAnswer": 0,
+      "options": [
+        "John Tyler",
+        "Zachary Taylor",
+        "James K. Polk",
+        "Franklin Pierce"
+      ],
+      "correctAnswer": 2,
       "explanation": "James K. Polk served as the 11th President from 1845 to 1849. Under his leadership, the U.S. acquired vast western territories including California and the Southwest.",
       "difficulty": "hard",
       "category": "history"
@@ -125,8 +190,13 @@
     {
       "id": "po-14",
       "question": "Put these presidents in chronological order: Who came first?",
-      "options": ["Calvin Coolidge (30th)", "Warren G. Harding (29th)", "Herbert Hoover (31st)", "Woodrow Wilson (28th)"],
-      "correctAnswer": 3,
+      "options": [
+        "Woodrow Wilson (28th)",
+        "Warren G. Harding (29th)",
+        "Herbert Hoover (31st)",
+        "Calvin Coolidge (30th)"
+      ],
+      "correctAnswer": 0,
       "explanation": "The correct order is: Woodrow Wilson (28th, 1913-1921), Warren G. Harding (29th, 1921-1923), Calvin Coolidge (30th, 1923-1929), and Herbert Hoover (31st, 1929-1933).",
       "difficulty": "hard",
       "category": "history"
@@ -134,8 +204,13 @@
     {
       "id": "po-15",
       "question": "Who was the 21st President, taking office after James A. Garfield's assassination?",
-      "options": ["Rutherford B. Hayes", "Grover Cleveland", "Chester A. Arthur", "Benjamin Harrison"],
-      "correctAnswer": 2,
+      "options": [
+        "Benjamin Harrison",
+        "Rutherford B. Hayes",
+        "Grover Cleveland",
+        "Chester A. Arthur"
+      ],
+      "correctAnswer": 3,
       "explanation": "Chester A. Arthur became the 21st President in 1881 after President Garfield was assassinated. Arthur surprised many by championing civil service reform.",
       "difficulty": "hard",
       "category": "history"

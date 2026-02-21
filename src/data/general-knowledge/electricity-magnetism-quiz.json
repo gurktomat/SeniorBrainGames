@@ -1,0 +1,173 @@
+{
+  "id": "electricity-magnetism-quiz",
+  "title": "Electricity & Magnetism",
+  "description": "Spark your curiosity with questions about electrical and magnetic phenomena",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "electricity-magnetism-quiz-1",
+      "question": "Who is credited with inventing the practical incandescent light bulb?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Michael Faraday",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-2",
+      "question": "Benjamin Franklin's famous kite experiment helped prove that lightning is a form of what?",
+      "options": [
+        "Radiation",
+        "Heat",
+        "Sound",
+        "Electricity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-3",
+      "question": "What unit of electrical resistance is named after German physicist Georg Ohm?",
+      "options": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Watt"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electricity-magnetism-quiz-4",
+      "question": "Who discovered electromagnetic induction, the principle behind electric generators?",
+      "options": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "André-Marie Ampère",
+        "Alessandro Volta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-5",
+      "question": "What type of current flows in one direction only?",
+      "options": [
+        "Static current",
+        "Alternating current (AC)",
+        "Direct current (DC)",
+        "Pulsed current"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-6",
+      "question": "Nikola Tesla championed which type of electrical current for power distribution?",
+      "options": [
+        "Alternating current",
+        "Direct current",
+        "Geothermal current",
+        "Static electricity"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-7",
+      "question": "What is the unit of electrical current named after André-Marie Ampère?",
+      "options": [
+        "Volt",
+        "Coulomb",
+        "Ampere",
+        "Watt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-8",
+      "question": "What natural phenomenon is caused by charged particles from the Sun interacting with Earth's magnetic field?",
+      "options": [
+        "Aurora borealis",
+        "Mirages",
+        "Rainbows",
+        "Lightning"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-9",
+      "question": "Alessandro Volta invented which device, an early form of battery, around 1800?",
+      "options": [
+        "Galvanometer",
+        "Voltaic pile",
+        "Dynamo",
+        "Leyden jar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electricity-magnetism-quiz-10",
+      "question": "What invisible field surrounds a magnet and exerts force on other magnets and magnetic materials?",
+      "options": [
+        "Magnetic field",
+        "Electromagnetic spectrum",
+        "Gravitational field",
+        "Electric field"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-11",
+      "question": "What device transforms voltage from one level to another in electrical power distribution?",
+      "options": [
+        "Transformer",
+        "Resistor",
+        "Capacitor",
+        "Transistor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-12",
+      "question": "James Clerk Maxwell unified electricity and magnetism into a single theory called what?",
+      "options": [
+        "Relativity",
+        "Quantum mechanics",
+        "Thermodynamics",
+        "Electromagnetism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-13",
+      "question": "What material is the best conductor of electricity?",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Gold",
+        "Silver"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-14",
+      "question": "What happens when you rub a balloon on your hair, causing it to stick?",
+      "options": [
+        "Static electricity",
+        "Gravitational pull",
+        "Chemical bonding",
+        "Magnetic attraction"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-15",
+      "question": "What safety device in a home electrical system automatically breaks the circuit when current is too high?",
+      "options": [
+        "Capacitor",
+        "Transformer",
+        "Circuit breaker",
+        "Rectifier"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

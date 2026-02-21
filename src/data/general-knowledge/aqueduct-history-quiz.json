@@ -1,0 +1,219 @@
+{
+  "id": "aqueduct-history-quiz",
+  "title": "Aqueduct History",
+  "description": "Flow through history with questions about ancient and modern aqueduct engineering!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "aqueduct-history-quiz-1",
+      "question": "Which ancient civilization is most famous for building extensive aqueduct systems across its empire?",
+      "options": [
+        "Persians",
+        "Romans",
+        "Egyptians",
+        "Greeks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Romans built the most extensive ancient aqueduct systems, with 11 major aqueducts serving Rome alone by the 3rd century AD. These engineering marvels supplied water for public baths, fountains, and private homes across the empire.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-2",
+      "question": "How did Roman aqueducts primarily move water from source to city?",
+      "options": [
+        "Wind-powered sails",
+        "Animal-powered wheels",
+        "Gravity flow along a gentle downhill slope",
+        "Mechanical pumps"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roman aqueducts relied on gravity, with a carefully calculated gentle downhill gradient (typically 1 in 200) to move water from mountain springs to cities. The precise engineering maintained consistent flow over distances of up to 100 km.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-3",
+      "question": "The Aqueduct of Segovia in Spain, one of the best-preserved Roman aqueducts, was built using what remarkable technique?",
+      "options": [
+        "Dry-stacked granite blocks without mortar",
+        "Wooden framework",
+        "Iron reinforcement",
+        "Copper joints"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Aqueduct of Segovia, built in the 1st or 2nd century AD, consists of approximately 20,000 granite blocks assembled without mortar or clamps. It stands up to 28 meters high and remained in use until the 20th century.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-4",
+      "question": "The Los Angeles Aqueduct, completed in 1913, controversially diverted water from which valley?",
+      "options": [
+        "Central Valley",
+        "San Fernando Valley",
+        "Death Valley",
+        "Owens Valley"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Los Angeles Aqueduct diverted water from the Owens Valley, 233 miles north of the city. Engineered by William Mulholland, it was controversial because it devastated Owens Lake and local farming communities.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-5",
+      "question": "What is a 'qanat,' an ancient water supply system originating in Persia?",
+      "options": [
+        "An underground channel tapping groundwater via a series of shafts",
+        "A dam on a river",
+        "A large reservoir",
+        "A rainwater collection basin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A qanat is an underground water channel that taps a groundwater source and uses gravity to bring water to the surface through a series of vertical access shafts. Invented in ancient Persia around 1000 BC, qanats are still used in arid regions.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-6",
+      "question": "The Aqua Appia, built in 312 BC, was the first aqueduct to serve which ancient city?",
+      "options": [
+        "Rome",
+        "Carthage",
+        "Athens",
+        "Alexandria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Aqua Appia was Rome's first aqueduct, built in 312 BC by the censor Appius Claudius Caecus. It ran mostly underground for about 16 km, bringing water from springs east of Rome to the city center.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-7",
+      "question": "The California Aqueduct, part of the State Water Project, transports water from northern California to where?",
+      "options": [
+        "Nevada",
+        "Southern California",
+        "Central Oregon",
+        "San Francisco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The California Aqueduct is a 701-mile system of canals, tunnels, and pipelines that carries water from the Sacramento-San Joaquin Delta in northern California to Southern California, serving over 25 million people.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-8",
+      "question": "What Roman engineering feature allowed aqueducts to cross valleys and low-lying areas?",
+      "options": [
+        "Wooden troughs",
+        "Underground siphons only",
+        "Tunnels",
+        "Elevated stone arched bridges"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Romans built elevated stone arched bridges (arcades) to carry aqueducts across valleys and low terrain while maintaining the required gradient. The Pont du Gard in France and the Aqueduct of Segovia are famous surviving examples.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-9",
+      "question": "The Catskill Aqueduct, completed in 1917, supplies water to which major American city?",
+      "options": [
+        "Washington D.C.",
+        "Philadelphia",
+        "New York City",
+        "Boston"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Catskill Aqueduct carries water from reservoirs in the Catskill Mountains to New York City, covering about 92 miles. It is part of NYC's water supply system, which is one of the largest unfiltered surface water supplies in the world.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-10",
+      "question": "What is an 'inverted siphon' in aqueduct engineering?",
+      "options": [
+        "An upside-down fountain",
+        "A section where water descends into a valley and rises up the other side under pressure",
+        "A mechanism to reverse water flow",
+        "A device to filter water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An inverted siphon allows an aqueduct to cross a valley by running pipes down one side and up the other. Water pressure from the descending pipe pushes water up the ascending side. Romans used this technique when bridges were impractical.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-11",
+      "question": "The ancient city of Petra in Jordan featured a remarkable water supply system that included what?",
+      "options": [
+        "Windmill-powered pumps",
+        "A massive dam only",
+        "Roman-style arched aqueducts",
+        "Ceramic pipe aqueducts carved into rock"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Petra's Nabataean inhabitants built an ingenious water system including ceramic pipe aqueducts, rock-cut channels, cisterns, and dams. These allowed a city of 30,000 to thrive in the desert by capturing and distributing scarce water resources.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-12",
+      "question": "Sextus Julius Frontinus, appointed Rome's water commissioner in 97 AD, wrote a famous treatise about what?",
+      "options": [
+        "Rome's aqueduct system",
+        "Roman military tactics",
+        "Roman architecture",
+        "Roman law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Frontinus wrote 'De Aquaeductu' (On Aqueducts), a detailed account of Rome's nine aqueducts at that time. His work provides invaluable information about ancient water supply engineering, maintenance, and administration.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-13",
+      "question": "The Colorado River Aqueduct supplies water to which major metropolitan area?",
+      "options": [
+        "Las Vegas",
+        "Phoenix",
+        "San Diego only",
+        "Los Angeles/Southern California"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Colorado River Aqueduct carries water 242 miles from Lake Havasu on the Colorado River to the Los Angeles metropolitan area. Built between 1933 and 1941, it serves approximately 19 million people in Southern California.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "aqueduct-history-quiz-14",
+      "question": "The Aztec city of Tenochtitlan had a dual-pipe aqueduct system from Chapultepec. Why were there two pipes?",
+      "options": [
+        "One for hot water, one for cold",
+        "To supply different parts of the city",
+        "One for drinking, one for irrigation",
+        "So one could be cleaned while the other supplied water"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Aztec double-pipe aqueduct from Chapultepec to Tenochtitlan had two pipes so that one could be shut down for cleaning and maintenance while the other continued to supply fresh water to the city.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "aqueduct-history-quiz-15",
+      "question": "What is the Great Man-Made River project in Libya, sometimes called the world's largest irrigation project?",
+      "options": [
+        "An ocean desalination plant",
+        "A dam system on the Nile",
+        "A canal connecting two rivers",
+        "A pipeline system carrying fossil water from the Sahara to coastal cities"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Great Man-Made River is a network of pipes carrying fossil water from ancient underground aquifers beneath the Sahara Desert to Libya's coastal cities. It supplies approximately 6.5 million cubic meters of water per day.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "founding-fathers-quiz",
+  "title": "Founding Fathers Quiz",
+  "description": "How well do you remember America's Founding Fathers and their contributions?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "founding-fathers-quiz-1",
+      "question": "Who is known as the 'Father of the Constitution'?",
+      "options": [
+        "John Adams",
+        "James Madison",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "James Madison is called the 'Father of the Constitution' for his pivotal role in drafting and promoting the US Constitution and the Bill of Rights.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-2",
+      "question": "Which Founding Father was known for his experiments with electricity?",
+      "options": [
+        "John Adams",
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benjamin Franklin conducted his famous kite experiment in 1752, proving that lightning was electrical in nature.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-3",
+      "question": "Who was the first Secretary of the Treasury?",
+      "options": [
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "John Jay",
+        "James Madison"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alexander Hamilton served as the first Secretary of the Treasury from 1789 to 1795, establishing the nation's financial system.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-4",
+      "question": "Which Founding Father became the second President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "James Madison",
+        "John Adams",
+        "James Monroe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Adams served as the second President from 1797 to 1801, after serving as George Washington's Vice President.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-5",
+      "question": "Who wrote 'Common Sense,' the pamphlet that inspired American independence?",
+      "options": [
+        "Thomas Paine",
+        "Samuel Adams",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thomas Paine published 'Common Sense' in January 1776, arguing powerfully for American independence from Britain.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-6",
+      "question": "Which Founding Father served as the first Chief Justice of the Supreme Court?",
+      "options": [
+        "James Wilson",
+        "John Marshall",
+        "Alexander Hamilton",
+        "John Jay"
+      ],
+      "correctAnswer": 3,
+      "explanation": "John Jay was appointed by George Washington as the first Chief Justice of the United States in 1789, serving until 1795.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-7",
+      "question": "Who gave the famous 'Give me liberty, or give me death!' speech?",
+      "options": [
+        "Thomas Paine",
+        "Samuel Adams",
+        "John Hancock",
+        "Patrick Henry"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Patrick Henry delivered this famous speech on March 23, 1775, urging Virginia to join the American Revolution.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-8",
+      "question": "Which Founding Father's signature is the largest on the Declaration of Independence?",
+      "options": [
+        "John Hancock",
+        "Benjamin Franklin",
+        "John Adams",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "John Hancock, as President of the Continental Congress, signed first and largest, reportedly saying he wanted King George to be able to read it without his spectacles.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-9",
+      "question": "Which Founding Father negotiated the Louisiana Purchase?",
+      "options": [
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "James Monroe",
+        "John Adams"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President Thomas Jefferson negotiated the Louisiana Purchase from France in 1803, doubling the size of the United States.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-10",
+      "question": "Who was Commander-in-Chief of the Continental Army during the Revolutionary War?",
+      "options": [
+        "Marquis de Lafayette",
+        "Alexander Hamilton",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "George Washington was appointed Commander-in-Chief of the Continental Army in 1775 and led the colonies to victory in the Revolutionary War.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-11",
+      "question": "Which Founding Father was killed in a duel with Aaron Burr?",
+      "options": [
+        "John Adams",
+        "Alexander Hamilton",
+        "James Madison",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alexander Hamilton was fatally shot by Vice President Aaron Burr in a duel on July 11, 1804, in Weehawken, New Jersey.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-12",
+      "question": "Who was the primary author of the Federalist Papers along with Hamilton and Jay?",
+      "options": [
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison",
+        "George Mason"
+      ],
+      "correctAnswer": 2,
+      "explanation": "James Madison, along with Alexander Hamilton and John Jay, wrote the Federalist Papers to promote ratification of the Constitution.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-13",
+      "question": "Which Founding Father established the University of Virginia?",
+      "options": [
+        "Thomas Jefferson",
+        "James Madison",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thomas Jefferson founded the University of Virginia in 1819 and personally designed its original buildings and curriculum.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-14",
+      "question": "Which two Founding Fathers both died on July 4, 1826, the 50th anniversary of independence?",
+      "options": [
+        "Jefferson and Adams",
+        "Franklin and Jefferson",
+        "Hamilton and Madison",
+        "Washington and Franklin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Both Thomas Jefferson and John Adams died on July 4, 1826, exactly 50 years after the Declaration of Independence was adopted.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "founding-fathers-quiz-15",
+      "question": "Which Founding Father served as the American ambassador to France during the Revolution?",
+      "options": [
+        "Benjamin Franklin",
+        "James Monroe",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Benjamin Franklin served as the American ambassador to France from 1778 to 1785, securing crucial French support for the American Revolution.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "sculpture-masterpieces",
+  "title": "Sculpture Masterpieces",
+  "description": "From ancient marble to modern metal, test your knowledge of the world's greatest sculptures!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "sculpture-masterpieces-1",
+      "question": "Who sculpted the famous statue of David, completed in 1504?",
+      "options": [
+        "Donatello",
+        "Bernini",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Michelangelo carved David from a single block of Carrara marble when he was just 26 years old. The 17-foot statue stands in the Galleria dell'Accademia in Florence.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-2",
+      "question": "Where is the ancient Greek sculpture 'Venus de Milo' displayed today?",
+      "options": [
+        "The British Museum",
+        "The Louvre Museum",
+        "The Uffizi Gallery",
+        "The Vatican Museums"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Venus de Milo, dating to around 100 BC, was discovered on the Greek island of Milos in 1820. It has been on display at the Louvre in Paris since shortly after its discovery.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-3",
+      "question": "Auguste Rodin's 'The Thinker' was originally designed as part of which larger work?",
+      "options": [
+        "The Monument to Balzac",
+        "The Burghers of Calais",
+        "The Gates of Hell",
+        "The Kiss"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The Thinker' was originally conceived as part of Rodin's monumental bronze doors called 'The Gates of Hell,' inspired by Dante's 'Inferno.' It represented Dante himself contemplating his poem.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-4",
+      "question": "What ancient wonder of the world was a massive statue on the island of Rhodes?",
+      "options": [
+        "The Statue of Zeus at Olympia",
+        "The Colossus of Rhodes",
+        "The Lighthouse of Alexandria",
+        "The Mausoleum at Halicarnassus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Colossus of Rhodes was a 108-foot bronze statue of the sun god Helios, erected in 280 BC. It stood for only 54 years before being toppled by an earthquake.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-5",
+      "question": "Which sculptor created large-scale 'Spider' sculptures that are displayed in cities around the world?",
+      "options": [
+        "Louise Bourgeois",
+        "Georgia O'Keeffe",
+        "Barbara Hepworth",
+        "Yayoi Kusama"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Louise Bourgeois created her famous 'Maman' spider sculptures in the late 1990s. The largest stands over 30 feet tall and represents her mother, who was a weaver.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-6",
+      "question": "Michelangelo's 'Pietà,' depicting Mary holding the body of Jesus, is located in which famous building?",
+      "options": [
+        "The Sistine Chapel",
+        "The Pantheon",
+        "St. Peter's Basilica",
+        "Florence Cathedral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Pietà' (1499) is displayed in St. Peter's Basilica in Vatican City. It is the only work Michelangelo ever signed, reportedly after overhearing visitors attribute it to another sculptor.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-7",
+      "question": "Which American sculptor created 'Bird in Space,' a sleek abstract bronze form?",
+      "options": [
+        "Alexander Calder",
+        "Constantin Brancusi",
+        "Alberto Giacometti",
+        "Henry Moore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Constantin Brancusi, a Romanian-born artist who worked in Paris, created 'Bird in Space' around 1923. When it was shipped to the U.S. in 1926, customs officials tried to tax it as a manufactured object rather than art.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-8",
+      "question": "What material did Alexander Calder famously use to create his 'mobiles'?",
+      "options": [
+        "Sheet metal and wire",
+        "Wood",
+        "Glass",
+        "Clay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alexander Calder invented the mobile — hanging kinetic sculptures made of sheet metal and wire that move with air currents. Marcel Duchamp coined the term 'mobile' for these works in 1931.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-9",
+      "question": "The ancient Egyptian Great Sphinx of Giza has the body of a lion and the head of what?",
+      "options": [
+        "A human",
+        "A jackal",
+        "A ram",
+        "An eagle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Sphinx has a lion's body and a human head, believed to represent Pharaoh Khafre. Carved from limestone bedrock, it is about 240 feet long and 66 feet high.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-10",
+      "question": "Which British sculptor is known for large reclining figure sculptures with organic, rounded forms?",
+      "options": [
+        "Anish Kapoor",
+        "Henry Moore",
+        "Damien Hirst",
+        "Anthony Gormley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Henry Moore became one of the most celebrated sculptors of the 20th century with his trademark reclining figures and abstract forms inspired by the human body and natural landscape.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-11",
+      "question": "Who sculpted 'The Ecstasy of Saint Teresa,' a dramatic Baroque marble sculpture in Rome?",
+      "options": [
+        "Donatello",
+        "Michelangelo",
+        "Gian Lorenzo Bernini",
+        "Antonio Canova"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bernini created 'The Ecstasy of Saint Teresa' (1647-1652) for the Cornaro Chapel in Rome. The theatrical work shows the saint in a swoon as an angel pierces her heart with a golden spear.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-12",
+      "question": "Mount Rushmore features the faces of how many U.S. presidents?",
+      "options": [
+        "Four",
+        "Six",
+        "Three",
+        "Five"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mount Rushmore depicts Washington, Jefferson, Theodore Roosevelt, and Lincoln. Sculptor Gutzon Borglum and 400 workers carved the 60-foot faces between 1927 and 1941.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-13",
+      "question": "Alberto Giacometti is famous for what distinctive style of figure sculpture?",
+      "options": [
+        "Lifelike hyperrealistic figures",
+        "Massive and muscular forms",
+        "Geometric abstract blocks",
+        "Extremely tall and thin elongated figures"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Giacometti's signature style features extremely thin, elongated bronze figures that seem to evoke existential isolation. His 'Walking Man' sculptures are among the most expensive artworks ever sold at auction.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-14",
+      "question": "The Terracotta Army, thousands of life-sized clay soldiers, was buried with which Chinese emperor?",
+      "options": [
+        "Emperor Wu of Han",
+        "Kublai Khan",
+        "Emperor Taizong",
+        "Qin Shi Huang"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Terracotta Army was created to accompany Qin Shi Huang, the first Emperor of China, into the afterlife around 210 BC. Over 8,000 unique figures were discovered by farmers in 1974.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "sculpture-masterpieces-15",
+      "question": "Which French sculptor designed the Statue of Liberty?",
+      "options": [
+        "Auguste Rodin",
+        "Frédéric Auguste Bartholdi",
+        "Aristide Maillol",
+        "Antoine Bourdelle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frédéric Auguste Bartholdi designed the Statue of Liberty, which was a gift from France to the United States. Alexandre Gustave Eiffel engineered the internal iron framework. It was dedicated in 1886.",
+      "difficulty": "medium",
+      "category": "art"
+    }
+  ]
+}

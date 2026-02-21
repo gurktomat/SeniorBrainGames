@@ -1,0 +1,219 @@
+{
+  "id": "railway-stations-quiz",
+  "title": "Famous Railway Stations",
+  "description": "Step onto the platform with questions about the world's most iconic railway stations!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "railway-stations-quiz-1",
+      "question": "Grand Central Terminal in New York City is famous for its Beaux-Arts architecture and which distinctive interior feature?",
+      "options": [
+        "A ceiling mural depicting the night sky",
+        "A giant clock",
+        "Stained glass windows",
+        "A marble fountain"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Grand Central Terminal features a magnificent ceiling mural painted by Paul César Helleu, depicting the Mediterranean sky with zodiac constellations in gold leaf on a cerulean blue background. The terminal opened in 1913.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-2",
+      "question": "St Pancras International in London serves as the terminus for which high-speed rail service?",
+      "options": [
+        "Thalys",
+        "ICE",
+        "Eurostar",
+        "TGV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "St Pancras International is the London terminus for Eurostar services through the Channel Tunnel to Paris, Brussels, and Amsterdam. The Victorian Gothic station was spectacularly restored and reopened for Eurostar in 2007.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-3",
+      "question": "Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus) in Mumbai is an example of which architectural style?",
+      "options": [
+        "Art Deco",
+        "Victorian Gothic Revival",
+        "Modernist",
+        "Mughal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chhatrapati Shivaji Maharaj Terminus in Mumbai is a stunning example of Victorian Gothic Revival architecture with Indian elements. Designed by F.W. Stevens and completed in 1888, it is a UNESCO World Heritage Site.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-4",
+      "question": "Which railway station in the world handles the most passengers daily?",
+      "options": [
+        "Shinjuku Station, Tokyo",
+        "Grand Central Terminal, New York",
+        "Gare du Nord, Paris",
+        "Waterloo Station, London"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shinjuku Station in Tokyo is the world's busiest railway station, handling over 3.5 million passengers daily. It serves multiple rail companies and has over 200 exits, earning it a Guinness World Record.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-5",
+      "question": "Penn Station in New York City, demolished in 1963, inspired what important preservation movement?",
+      "options": [
+        "Urban renewal",
+        "Public transit expansion",
+        "Historic preservation and landmarks legislation",
+        "Environmental protection"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The demolition of the magnificent Beaux-Arts Pennsylvania Station outraged the public and directly led to the creation of the New York City Landmarks Preservation Commission in 1965 and the broader historic preservation movement in America.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-6",
+      "question": "Antwerp Central Station in Belgium is often called what due to its spectacular design?",
+      "options": [
+        "The Golden Station",
+        "The Iron Cathedral",
+        "The Crystal Palace",
+        "The Railway Cathedral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Antwerp Central Station is often called the 'Railway Cathedral' due to its grand dome, ornate stone facade, and cathedral-like interior. Designed by Louis Delacenserie and completed in 1905, it is considered one of the world's most beautiful stations.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-7",
+      "question": "Which railway station's grand trainshed, when completed in 1868, had the largest single-span roof in the world?",
+      "options": [
+        "St Pancras Station",
+        "Waterloo Station",
+        "King's Cross Station",
+        "Paddington Station"
+      ],
+      "correctAnswer": 0,
+      "explanation": "St Pancras Station's trainshed, designed by William Henry Barlow, had a 73-meter (240-foot) single-span iron and glass roof when it opened in 1868. It was the largest enclosed space in the world at the time.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-8",
+      "question": "Union Station in Washington, D.C., was designed in which architectural style and opened in 1907?",
+      "options": [
+        "Beaux-Arts",
+        "Art Deco",
+        "Victorian Gothic",
+        "Art Nouveau"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Washington Union Station was designed by Daniel Burnham in the Beaux-Arts style and opened in 1907. Its grand main hall features 96-foot ceilings with gold leaf coffers and was modeled after Roman baths.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-9",
+      "question": "Kanazawa Station in Japan features a striking entrance structure made of what materials?",
+      "options": [
+        "Carved stone",
+        "Bamboo and paper",
+        "Woven fabric",
+        "Glass and steel in a drum shape (Tsuzumi Gate)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kanazawa Station features the dramatic Tsuzumi Gate, made of glass and steel, inspired by the shape of a traditional Japanese hand drum (tsuzumi). It was named one of the world's most beautiful station entrances.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-10",
+      "question": "The iconic clock at Grand Central Terminal is located above the information booth and is estimated to be worth how much?",
+      "options": [
+        "$50 million",
+        "$10 million",
+        "$1 million",
+        "$20 million"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The four-faced opal clock atop the Grand Central Terminal information booth has been estimated to be worth between $10 and $20 million due to its four opal faces. It has been a beloved meeting spot since the station opened in 1913.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-11",
+      "question": "Atocha Station in Madrid, Spain, is notable for what unusual interior feature?",
+      "options": [
+        "An aquarium",
+        "A museum",
+        "A tropical garden inside the old trainshed",
+        "A swimming pool"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Atocha Station's original 19th-century trainshed was converted into a spectacular indoor tropical garden when the station was expanded in 1992. It contains over 7,000 plants from 260 species, along with a turtle pond.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-12",
+      "question": "The Gare du Nord in Paris is one of Europe's busiest stations. What does its name translate to in English?",
+      "options": [
+        "Gate of the North",
+        "North Station",
+        "Northern Gate",
+        "Station of the North Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gare du Nord translates to 'North Station.' It is the busiest railway station in Europe by passenger numbers, serving as a terminus for trains to northern France, Belgium, Netherlands, Germany, and the UK via Eurostar.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-13",
+      "question": "Platform 9 3/4 from the Harry Potter series is a famous attraction at which London railway station?",
+      "options": [
+        "Victoria",
+        "King's Cross",
+        "Waterloo",
+        "Paddington"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King's Cross Station in London features a Platform 9 3/4 installation complete with a trolley appearing to pass through the wall, inspired by J.K. Rowling's Harry Potter series. It has become one of London's most popular photo opportunities.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-14",
+      "question": "Liege-Guillemins Station in Belgium, designed by Santiago Calatrava, is known for what dramatic architectural feature?",
+      "options": [
+        "Solar panel covered roof",
+        "Underground platforms",
+        "A massive white steel and glass canopy with no front or rear walls",
+        "A revolving restaurant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Liege-Guillemins Station, opened in 2009, features a dramatic sweeping white steel, glass, and concrete canopy designed by Santiago Calatrava. It has no front or back facades, with the canopy arching over the platforms in a flowing organic form.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railway-stations-quiz-15",
+      "question": "What is a 'terminus' or 'terminal' station in railway terminology?",
+      "options": [
+        "The largest station in a city",
+        "A station where all trains stop",
+        "A station at the end of a line where trains must reverse direction",
+        "An underground station"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A terminus (or terminal) station is a station at the end of a railway line where tracks end and trains cannot continue forward. Trains arriving at a terminus must reverse direction or passengers must transfer to continue.",
+      "difficulty": "easy",
+      "category": "engineering"
+    }
+  ]
+}

@@ -19,43 +19,43 @@
       "id": "number-expressions-2",
       "question": "If you are 'at sixes and sevens,' how are you feeling?",
       "options": [
-        "Lucky",
-        "Confused or in a state of disarray",
         "Mathematically inclined",
-        "Between ages six and seven"
+        "Between ages six and seven",
+        "Lucky",
+        "Confused or in a state of disarray"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "number-expressions-3",
       "question": "What does 'a stitch in time saves nine' mean?",
       "options": [
-        "Sewing is an important skill",
-        "Fixing a problem early prevents bigger problems later",
+        "Time heals all wounds",
         "Nine stitches are needed for every repair",
-        "Time heals all wounds"
+        "Sewing is an important skill",
+        "Fixing a problem early prevents bigger problems later"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "number-expressions-4",
       "question": "If someone has 'nine lives,' what quality do they have?",
       "options": [
-        "They are very old",
-        "They repeatedly survive dangerous situations",
+        "They are very cautious",
         "They live in nine different places",
-        "They are very cautious"
+        "They are very old",
+        "They repeatedly survive dangerous situations"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "number-expressions-5",
       "question": "What does 'back to square one' mean?",
       "options": [
-        "Playing a board game",
-        "Returning to the very beginning after a setback",
         "Living at your first home",
-        "Going back to work on Monday"
+        "Returning to the very beginning after a setback",
+        "Going back to work on Monday",
+        "Playing a board game"
       ],
       "correctAnswer": 1
     },
@@ -63,111 +63,111 @@
       "id": "number-expressions-6",
       "question": "If something is 'a dime a dozen,' what does that mean?",
       "options": [
-        "It costs exactly ten cents",
-        "It is very common and not particularly valuable",
         "It is sold in groups of twelve",
-        "It is a bargain"
+        "It is a bargain",
+        "It is very common and not particularly valuable",
+        "It costs exactly ten cents"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "number-expressions-7",
       "question": "What does 'two heads are better than one' mean?",
       "options": [
-        "Having two leaders is best",
-        "Collaboration produces better results",
+        "Two people can eat faster",
         "Double-headed coins are valuable",
-        "Two people can eat faster"
+        "Collaboration produces better results",
+        "Having two leaders is best"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "number-expressions-8",
       "question": "If you 'put two and two together,' what are you doing?",
       "options": [
         "Adding numbers",
-        "Drawing an obvious conclusion from available evidence",
         "Pairing socks",
+        "Drawing an obvious conclusion from available evidence",
         "Making a simple calculation"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "number-expressions-9",
       "question": "What does 'dressed to the nines' mean?",
       "options": [
-        "Wearing the number nine",
         "Dressed in very fancy or elegant clothing",
         "Having nine outfits",
+        "Wearing the number nine",
         "Wearing a uniform"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "number-expressions-10",
       "question": "If someone is a 'ten-percenter,' what are they traditionally known as?",
       "options": [
-        "A tax collector",
         "An agent who takes a 10% commission",
         "A tithe payer",
-        "A discount shopper"
+        "A discount shopper",
+        "A tax collector"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "number-expressions-11",
       "question": "What does 'catch-22' refer to?",
       "options": [
-        "A fishing technique",
-        "A paradoxical situation with no easy escape",
         "Catching 22 fish",
-        "A baseball play"
+        "A baseball play",
+        "A paradoxical situation with no easy escape",
+        "A fishing technique"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "number-expressions-12",
       "question": "If you take 'forty winks,' what are you doing?",
       "options": [
         "Blinking rapidly",
-        "Taking a short nap",
         "Counting to forty",
+        "Taking a short nap",
         "Winking at forty people"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "number-expressions-13",
       "question": "What does 'one in a million' describe?",
       "options": [
-        "Very bad odds",
         "Something or someone exceptionally rare or special",
         "A lottery ticket",
+        "Very bad odds",
         "A population statistic"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "number-expressions-14",
       "question": "If something happens 'once in a blue moon,' how often does it occur?",
       "options": [
-        "Every full moon",
-        "Very rarely",
         "Once a month",
-        "Only at night"
+        "Every full moon",
+        "Only at night",
+        "Very rarely"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "number-expressions-15",
       "question": "What does 'the third degree' mean when given to someone?",
       "options": [
+        "A Masonic rank",
         "A university qualification",
-        "Intense, prolonged questioning",
         "A type of burn",
-        "A Masonic rank"
+        "Intense, prolonged questioning"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

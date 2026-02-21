@@ -8,67 +8,67 @@
       "id": "famous-treaties-1",
       "question": "The Treaty of Versailles in 1919 formally ended which war?",
       "options": [
-        "Franco-Prussian War",
-        "World War I",
         "World War II",
-        "Napoleonic Wars"
+        "Napoleonic Wars",
+        "Franco-Prussian War",
+        "World War I"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-treaties-2",
       "question": "Which treaty, signed in 1803, doubled the size of the United States through a land purchase from France?",
       "options": [
         "Treaty of Paris",
-        "Louisiana Purchase Treaty",
         "Treaty of Ghent",
-        "Adams-On\u00eds Treaty"
+        "Adams-Onís Treaty",
+        "Louisiana Purchase Treaty"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "famous-treaties-3",
       "question": "The Treaty of Tordesillas in 1494 divided the New World between which two countries?",
       "options": [
-        "England and France",
         "Spain and Portugal",
         "Spain and England",
+        "England and France",
         "France and Portugal"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-4",
       "question": "Which 1648 treaty ended the Thirty Years' War in Europe?",
       "options": [
-        "Treaty of Utrecht",
         "Peace of Westphalia",
-        "Treaty of Vienna",
-        "Treaty of Augsburg"
+        "Treaty of Utrecht",
+        "Treaty of Augsburg",
+        "Treaty of Vienna"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-5",
       "question": "The Camp David Accords, brokered by President Jimmy Carter, brought peace between Egypt and which country?",
       "options": [
-        "Jordan",
+        "Lebanon",
         "Syria",
-        "Israel",
-        "Lebanon"
+        "Jordan",
+        "Israel"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-treaties-6",
       "question": "The Treaty of Paris in 1783 recognized the independence of which nation?",
       "options": [
         "Canada",
+        "Haiti",
         "Mexico",
-        "United States",
-        "Haiti"
+        "United States"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-treaties-7",
@@ -76,8 +76,8 @@
       "options": [
         "Trade agreements",
         "Treatment of people in wartime",
-        "Maritime boundaries",
-        "Nuclear disarmament"
+        "Nuclear disarmament",
+        "Maritime boundaries"
       ],
       "correctAnswer": 1
     },
@@ -85,45 +85,45 @@
       "id": "famous-treaties-8",
       "question": "Which treaty established the European Economic Community, a predecessor to the European Union?",
       "options": [
-        "Treaty of Maastricht",
         "Treaty of Rome",
         "Treaty of Lisbon",
-        "Treaty of Amsterdam"
+        "Treaty of Amsterdam",
+        "Treaty of Maastricht"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-9",
       "question": "The Treaty of Ghent, signed in 1814, ended which conflict?",
       "options": [
-        "American Revolution",
         "War of 1812",
+        "French and Indian War",
         "Mexican-American War",
-        "French and Indian War"
+        "American Revolution"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-10",
       "question": "The Antarctic Treaty, signed in 1959, reserved the continent for which primary purpose?",
       "options": [
-        "Military use",
-        "Mining",
         "Peaceful scientific research",
-        "Tourism"
+        "Tourism",
+        "Military use",
+        "Mining"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-11",
       "question": "The Magna Carta, signed in 1215, limited the power of which English king?",
       "options": [
-        "Henry II",
-        "Richard the Lionheart",
         "King John",
-        "Edward I"
+        "Edward I",
+        "Henry II",
+        "Richard the Lionheart"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-12",
@@ -140,34 +140,34 @@
       "id": "famous-treaties-13",
       "question": "The Good Friday Agreement of 1998 brought peace to which region?",
       "options": [
-        "Basque Country",
         "Northern Ireland",
-        "Kosovo",
-        "Cyprus"
+        "Basque Country",
+        "Cyprus",
+        "Kosovo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "famous-treaties-14",
       "question": "The Nuclear Non-Proliferation Treaty (NPT) was signed in which year?",
       "options": [
+        "1972",
         "1958",
         "1963",
-        "1968",
-        "1972"
+        "1968"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "famous-treaties-15",
       "question": "The Treaty of Guadalupe Hidalgo in 1848 ended the war between the United States and which country?",
       "options": [
+        "Mexico",
         "Spain",
         "Britain",
-        "Mexico",
         "Canada"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

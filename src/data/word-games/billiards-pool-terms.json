@@ -1,0 +1,219 @@
+{
+  "id": "billiards-pool-terms",
+  "title": "Billiards & Pool Terms",
+  "description": "Rack 'em up and test your knowledge of billiards vocabulary!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "billiards-pool-terms-1",
+      "question": "In pool, what is a 'scratch'?",
+      "options": [
+        "A shot that barely touches the target ball",
+        "Damaging the tip of the cue",
+        "Pocketing the cue ball, resulting in a foul",
+        "Marking the felt surface"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A scratch occurs when the cue ball is pocketed or driven off the table, resulting in a foul. The incoming player typically gets ball in hand (placement anywhere on the table).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-2",
+      "question": "What does 'English' (or 'side spin') mean in billiards?",
+      "options": [
+        "Speaking with a British accent while playing",
+        "A style of billiards played in England",
+        "The English translation of the rules",
+        "Spin applied to the cue ball by striking it off-center"
+      ],
+      "correctAnswer": 3,
+      "explanation": "English refers to sidespin applied to the cue ball by striking it to the left or right of center, causing it to curve or change direction after hitting a rail or object ball.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-3",
+      "question": "In pool, what is a 'masse' shot?",
+      "options": [
+        "Hitting all balls at once",
+        "A shot using massive force",
+        "An extreme curve shot achieved by striking the cue ball with a nearly vertical cue",
+        "A shot that goes straight down the table"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A massé shot is an advanced technique where the cue is held at a steep angle (nearly vertical) and the cue ball is struck with extreme spin, causing it to curve dramatically.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-4",
+      "question": "What is the 'break' in pool?",
+      "options": [
+        "A pause in the game",
+        "A foul that stops the game",
+        "When the cue stick breaks",
+        "The opening shot that scatters the racked balls"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The break is the opening shot of a game of pool where a player strikes the racked balls with the cue ball, scattering them across the table to begin play.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-5",
+      "question": "In eight-ball pool, what are 'solids' and 'stripes'?",
+      "options": [
+        "Types of pool tables",
+        "The two groups of numbered balls: 1-7 (solid colored) and 9-15 (striped)",
+        "The markings on the table felt",
+        "Different types of cue sticks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In eight-ball, the 15 object balls are divided into solids (balls 1-7, solid colored) and stripes (balls 9-15, with a colored stripe). Each player must pocket their assigned group before the 8-ball.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-6",
+      "question": "What is a 'bank shot' in pool?",
+      "options": [
+        "A shot played in a bank building",
+        "A shot that costs extra money",
+        "A shot where the object ball bounces off one or more cushions before being pocketed",
+        "A shot taken from the bank of the table"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A bank shot is when a player intentionally hits an object ball into one or more cushions (rails) so that it rebounds into a pocket.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-7",
+      "question": "In billiards, what is 'cue ball position' (or 'position play')?",
+      "options": [
+        "The position of the player's hand on the cue",
+        "The angle of the cue stick",
+        "Where the cue ball sits at the start",
+        "The strategy of controlling where the cue ball ends up after each shot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Position play is the skill of controlling where the cue ball comes to rest after each shot, setting up the next shot in a planned sequence to run the table.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-8",
+      "question": "What is 'safety play' in pool?",
+      "options": [
+        "Playing very slowly",
+        "A defensive strategy where a player leaves the cue ball in a difficult position for the opponent",
+        "Wearing protective gear while playing",
+        "Using a safety rail on the table"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Safety play is a defensive tactic where a player intentionally positions the cue ball so the opponent faces a difficult or impossible next shot, rather than attempting a risky offensive shot.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-9",
+      "question": "In pool, what is a 'combination shot' (or 'combo')?",
+      "options": [
+        "A combination of bank and jump shots",
+        "Using two cue sticks",
+        "Pocketing two balls with one shot",
+        "Hitting the cue ball into one object ball which then hits another object ball into a pocket"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A combination shot involves hitting the cue ball into one object ball, which then strikes a second object ball into a pocket, using the first ball as an intermediary.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-10",
+      "question": "What is the 'rack' in pool?",
+      "options": [
+        "A scoring system",
+        "The table itself",
+        "A shelf for cue sticks",
+        "The triangular or diamond-shaped frame used to arrange balls before the break"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The rack is the triangular (in eight-ball) or diamond-shaped (in nine-ball) frame used to tightly arrange the object balls before the opening break shot.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-11",
+      "question": "In billiards, what is a 'jump shot'?",
+      "options": [
+        "A shot where the cue ball is made to jump over an obstructing ball",
+        "The player jumping while shooting",
+        "Bouncing the cue ball on the table",
+        "A shot taken from a standing position"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A jump shot is a technique where the player strikes the cue ball with a downward stroke, causing it to rise off the table surface and jump over an obstructing ball.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-12",
+      "question": "What is a 'run' (or 'running the table') in pool?",
+      "options": [
+        "Pocketing all remaining balls in succession without missing",
+        "Running around the table between shots",
+        "Moving the table to a different location",
+        "A rapid series of bank shots"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Running the table means a player pockets all of their remaining object balls and the game-winning ball in one continuous turn at the table without missing a shot.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-13",
+      "question": "In pool, what is a 'draw shot' (or 'backspin')?",
+      "options": [
+        "A random shot selection",
+        "A shot where the cue ball is struck below center to make it spin backward",
+        "A shot that draws the opponent's attention",
+        "Drawing a picture of the shot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A draw shot is executed by striking the cue ball below its center, imparting backspin that causes the cue ball to reverse direction after contacting the object ball.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-14",
+      "question": "What is the 'kitchen' (or 'behind the line') in pool?",
+      "options": [
+        "The pocket closest to the player",
+        "The table's felt surface",
+        "The snack area in a pool hall",
+        "The area behind the head string where the cue ball is placed after certain fouls"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The kitchen is the area of the table between the head rail and the head string (the second set of diamonds). After certain fouls, the cue ball must be placed in this area.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "billiards-pool-terms-15",
+      "question": "In pool, what does 'slop' (or 'slop shot') mean?",
+      "options": [
+        "A messy table",
+        "A ball that is pocketed unintentionally or by luck",
+        "A poorly maintained cue tip",
+        "Spilling chalk on the table"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A slop shot is when a ball is pocketed by luck rather than intention, such as an unexpected bank or combination. In some rules, slop shots do not count.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

@@ -8,8 +8,13 @@
     {
       "id": "cn-1",
       "question": "What is a group of fish called?",
-      "options": ["A flock", "A herd", "A school", "A pack"],
-      "correctAnswer": 2,
+      "options": [
+        "A school",
+        "A flock",
+        "A herd",
+        "A pack"
+      ],
+      "correctAnswer": 0,
       "explanation": "A group of fish is called a 'school.' The word comes from the Dutch 'schole,' meaning a troop or crowd. A 'shoal' is also used, especially for fish swimming together near the surface.",
       "difficulty": "easy",
       "category": "language"
@@ -17,8 +22,13 @@
     {
       "id": "cn-2",
       "question": "What is a group of wolves called?",
-      "options": ["A pack", "A herd", "A flock", "A swarm"],
-      "correctAnswer": 0,
+      "options": [
+        "A flock",
+        "A swarm",
+        "A pack",
+        "A herd"
+      ],
+      "correctAnswer": 2,
       "explanation": "A group of wolves is called a 'pack.' Wolves are social animals that live and hunt in organized groups with a hierarchical structure.",
       "difficulty": "easy",
       "category": "language"
@@ -26,7 +36,12 @@
     {
       "id": "cn-3",
       "question": "What is a group of bees called?",
-      "options": ["A colony", "A swarm", "A hive", "All of these can be correct"],
+      "options": [
+        "A colony",
+        "A hive",
+        "A swarm",
+        "All of these can be correct"
+      ],
       "correctAnswer": 3,
       "explanation": "All three terms can describe groups of bees! A 'colony' is the whole community, a 'swarm' is a large group on the move, and a 'hive' refers to both the structure and the bees within it.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "cn-4",
       "question": "What is a group of lions called?",
-      "options": ["A pack", "A pride", "A troop", "A band"],
-      "correctAnswer": 1,
+      "options": [
+        "A troop",
+        "A pack",
+        "A pride",
+        "A band"
+      ],
+      "correctAnswer": 2,
       "explanation": "A group of lions is called a 'pride.' Lions are the most social of all big cats, and a pride typically consists of related females, their cubs, and a small number of adult males.",
       "difficulty": "easy",
       "category": "language"
@@ -44,8 +64,13 @@
     {
       "id": "cn-5",
       "question": "What is a group of cows called?",
-      "options": ["A flock", "A school", "A herd", "A colony"],
-      "correctAnswer": 2,
+      "options": [
+        "A herd",
+        "A colony",
+        "A school",
+        "A flock"
+      ],
+      "correctAnswer": 0,
       "explanation": "A group of cows is called a 'herd.' The term 'herd' is used for many large domesticated animals, including cattle, horses, and elephants.",
       "difficulty": "easy",
       "category": "language"
@@ -53,7 +78,12 @@
     {
       "id": "cn-6",
       "question": "What is a group of owls called?",
-      "options": ["A murder", "A parliament", "A conspiracy", "A wisdom"],
+      "options": [
+        "A wisdom",
+        "A parliament",
+        "A conspiracy",
+        "A murder"
+      ],
       "correctAnswer": 1,
       "explanation": "A group of owls is called a 'parliament.' This term dates back to C.S. Lewis's 'The Chronicles of Narnia,' where owls held a parliament. Owls have long been associated with wisdom and deliberation.",
       "difficulty": "medium",
@@ -62,8 +92,13 @@
     {
       "id": "cn-7",
       "question": "What is a group of crows called?",
-      "options": ["A flock", "A murder", "A congress", "A plague"],
-      "correctAnswer": 1,
+      "options": [
+        "A congress",
+        "A plague",
+        "A murder",
+        "A flock"
+      ],
+      "correctAnswer": 2,
       "explanation": "A group of crows is called a 'murder.' This dramatic term dates to the 15th century and may stem from folk tales about crows gathering to judge and punish members of their group.",
       "difficulty": "medium",
       "category": "language"
@@ -71,8 +106,13 @@
     {
       "id": "cn-8",
       "question": "What is a group of geese on the ground called?",
-      "options": ["A skein", "A wedge", "A gaggle", "A plump"],
-      "correctAnswer": 2,
+      "options": [
+        "A plump",
+        "A skein",
+        "A wedge",
+        "A gaggle"
+      ],
+      "correctAnswer": 3,
       "explanation": "A group of geese on the ground is called a 'gaggle,' likely from the cackling sounds they make. When geese are flying in V-formation, they are called a 'skein' or a 'wedge.'",
       "difficulty": "medium",
       "category": "language"
@@ -80,8 +120,13 @@
     {
       "id": "cn-9",
       "question": "What is a group of whales called?",
-      "options": ["A school", "A pod", "A herd", "A shoal"],
-      "correctAnswer": 1,
+      "options": [
+        "A pod",
+        "A school",
+        "A herd",
+        "A shoal"
+      ],
+      "correctAnswer": 0,
       "explanation": "A group of whales is called a 'pod.' The term is also used for dolphins and porpoises. A pod typically consists of related individuals who travel and hunt together.",
       "difficulty": "medium",
       "category": "language"
@@ -89,8 +134,13 @@
     {
       "id": "cn-10",
       "question": "What is a group of flamingos called?",
-      "options": ["A bouquet", "A flamboyance", "A flourish", "A flash"],
-      "correctAnswer": 1,
+      "options": [
+        "A flourish",
+        "A bouquet",
+        "A flash",
+        "A flamboyance"
+      ],
+      "correctAnswer": 3,
       "explanation": "A group of flamingos is called a 'flamboyance.' This fitting name reflects the birds' bright pink plumage and dramatic appearance. Both words share the same root from the French 'flambe' (flame).",
       "difficulty": "medium",
       "category": "language"
@@ -98,7 +148,12 @@
     {
       "id": "cn-11",
       "question": "What is a group of jellyfish called?",
-      "options": ["A bloom", "A cluster", "A school", "A swarm"],
+      "options": [
+        "A bloom",
+        "A swarm",
+        "A cluster",
+        "A school"
+      ],
       "correctAnswer": 0,
       "explanation": "A group of jellyfish is called a 'bloom' (or sometimes a 'smack'). The term 'bloom' is used because large gatherings of jellyfish can appear suddenly, like flowers blooming.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "cn-12",
       "question": "What is a group of rhinoceroses called?",
-      "options": ["A herd", "A crash", "A stampede", "A charge"],
-      "correctAnswer": 1,
+      "options": [
+        "A herd",
+        "A charge",
+        "A crash",
+        "A stampede"
+      ],
+      "correctAnswer": 2,
       "explanation": "A group of rhinoceroses is called a 'crash.' This dramatic collective noun perfectly captures the power and sometimes destructive nature of these massive animals moving together.",
       "difficulty": "hard",
       "category": "language"
@@ -116,8 +176,13 @@
     {
       "id": "cn-13",
       "question": "What is a group of pandas called?",
-      "options": ["A cuddle", "A bamboo", "An embarrassment", "A bundle"],
-      "correctAnswer": 2,
+      "options": [
+        "A bamboo",
+        "A cuddle",
+        "A bundle",
+        "An embarrassment"
+      ],
+      "correctAnswer": 3,
       "explanation": "A group of pandas is called an 'embarrassment.' While pandas are rarely seen in groups in the wild, this whimsical collective noun has become the accepted term.",
       "difficulty": "hard",
       "category": "language"
@@ -125,8 +190,13 @@
     {
       "id": "cn-14",
       "question": "What is a group of ferrets called?",
-      "options": ["A business", "A mischief", "A skulk", "A prickle"],
-      "correctAnswer": 0,
+      "options": [
+        "A mischief",
+        "A prickle",
+        "A skulk",
+        "A business"
+      ],
+      "correctAnswer": 3,
       "explanation": "A group of ferrets is called a 'business.' This term likely comes from the ferret's busy, industrious nature as they constantly explore and investigate their surroundings.",
       "difficulty": "hard",
       "category": "language"
@@ -134,7 +204,12 @@
     {
       "id": "cn-15",
       "question": "What is a group of porcupines called?",
-      "options": ["A spike", "A bristle", "A prickle", "A point"],
+      "options": [
+        "A bristle",
+        "A spike",
+        "A prickle",
+        "A point"
+      ],
       "correctAnswer": 2,
       "explanation": "A group of porcupines is called a 'prickle.' This aptly descriptive collective noun references the porcupine's most notable feature — its sharp, defensive quills.",
       "difficulty": "hard",

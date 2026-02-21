@@ -7,91 +7,166 @@
     {
       "id": "dog-breed-quiz-1",
       "question": "Which large dog breed is known for its golden, flowing coat, gentle temperament, and is one of the most popular family dogs and guide dogs in the world?",
-      "options": ["Labrador Retriever", "Golden Retriever", "Irish Setter", "Cocker Spaniel"],
+      "options": [
+        "Cocker Spaniel",
+        "Golden Retriever",
+        "Labrador Retriever",
+        "Irish Setter"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "dog-breed-quiz-2",
       "question": "Which small, wrinkly-faced dog was originally bred as a companion for Chinese royalty, has a flat nose and large round eyes, and is known for its charming personality?",
-      "options": ["French Bulldog", "Shih Tzu", "Pug", "Pekingese"],
-      "correctAnswer": 2
+      "options": [
+        "Shih Tzu",
+        "Pug",
+        "French Bulldog",
+        "Pekingese"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "dog-breed-quiz-3",
       "question": "Which German breed is known for its black and tan coloring, high intelligence, and is widely used as a police dog, military dog, and search-and-rescue dog?",
-      "options": ["Rottweiler", "Doberman Pinscher", "German Shepherd", "Belgian Malinois"],
-      "correctAnswer": 2
+      "options": [
+        "German Shepherd",
+        "Doberman Pinscher",
+        "Rottweiler",
+        "Belgian Malinois"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dog-breed-quiz-4",
       "question": "Which spotted dog breed is known for its white coat covered in black or liver spots and is historically associated with firehouses and horse-drawn carriages?",
-      "options": ["English Setter", "Pointer", "Dalmatian", "Beagle"],
-      "correctAnswer": 2
+      "options": [
+        "Dalmatian",
+        "Pointer",
+        "Beagle",
+        "English Setter"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dog-breed-quiz-5",
       "question": "Which tiny dog breed from Mexico is the smallest recognized breed in the world, often weighing less than 6 pounds, and has both smooth and long-coat varieties?",
-      "options": ["Yorkshire Terrier", "Maltese", "Papillon", "Chihuahua"],
+      "options": [
+        "Yorkshire Terrier",
+        "Maltese",
+        "Papillon",
+        "Chihuahua"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "dog-breed-quiz-6",
       "question": "Which large, fluffy white dog breed was originally used in the Pyrenees Mountains to guard sheep from wolves and bears, and has a calm, patient temperament?",
-      "options": ["Samoyed", "Great Pyrenees", "Kuvasz", "Maremma Sheepdog"],
+      "options": [
+        "Samoyed",
+        "Great Pyrenees",
+        "Maremma Sheepdog",
+        "Kuvasz"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "dog-breed-quiz-7",
       "question": "Which hound breed has an extremely powerful nose, long droopy ears, loose skin, and has been used for centuries to track people and animals over great distances?",
-      "options": ["Basset Hound", "Beagle", "Bloodhound", "Coonhound"],
-      "correctAnswer": 2
+      "options": [
+        "Coonhound",
+        "Bloodhound",
+        "Beagle",
+        "Basset Hound"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "dog-breed-quiz-8",
       "question": "Which Japanese breed became famous worldwide after the story of Hachiko, has a thick double coat, curled tail, and a dignified, loyal temperament?",
-      "options": ["Shiba Inu", "Akita", "Kai Ken", "Hokkaido"],
-      "correctAnswer": 1
+      "options": [
+        "Shiba Inu",
+        "Hokkaido",
+        "Kai Ken",
+        "Akita"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dog-breed-quiz-9",
       "question": "Which short-legged, long-bodied breed was originally bred in Germany to hunt badgers in their burrows and comes in standard, miniature, and kaninchen sizes?",
-      "options": ["Corgi", "Basset Hound", "Dachshund", "Beagle"],
-      "correctAnswer": 2
+      "options": [
+        "Basset Hound",
+        "Corgi",
+        "Beagle",
+        "Dachshund"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dog-breed-quiz-10",
       "question": "Which elegant sighthound is the fastest dog breed in the world, can reach speeds of 45 miles per hour, and has a slender, aerodynamic build?",
-      "options": ["Whippet", "Saluki", "Greyhound", "Afghan Hound"],
-      "correctAnswer": 2
+      "options": [
+        "Greyhound",
+        "Saluki",
+        "Afghan Hound",
+        "Whippet"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "dog-breed-quiz-11",
       "question": "Which massive breed from the Swiss Alps was originally used to rescue travelers lost in snow, and is known for its gentle nature despite its enormous size?",
-      "options": ["Bernese Mountain Dog", "Newfoundland", "Saint Bernard", "Great Dane"],
+      "options": [
+        "Newfoundland",
+        "Great Dane",
+        "Saint Bernard",
+        "Bernese Mountain Dog"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "dog-breed-quiz-12",
       "question": "Which curly-coated breed comes in standard, miniature, and toy sizes, is considered one of the most intelligent dog breeds, and originated in Germany despite its French association?",
-      "options": ["Bichon Frise", "Poodle", "Portuguese Water Dog", "Lagotto Romagnolo"],
-      "correctAnswer": 1
+      "options": [
+        "Bichon Frise",
+        "Lagotto Romagnolo",
+        "Poodle",
+        "Portuguese Water Dog"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "dog-breed-quiz-13",
       "question": "Which thick-coated spitz breed from Siberia is known for pulling sleds, has striking blue or multicolored eyes, and is famous for its wolf-like appearance?",
-      "options": ["Alaskan Malamute", "Samoyed", "Siberian Husky", "Akita"],
-      "correctAnswer": 2
+      "options": [
+        "Akita",
+        "Siberian Husky",
+        "Alaskan Malamute",
+        "Samoyed"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "dog-breed-quiz-14",
       "question": "Which wrinkly, blue-black tongued breed originated in China, was once used as a guard dog and fighter, and has a distinctive bear-like or hippopotamus-like face?",
-      "options": ["Bullmastiff", "Shar-Pei", "Chow Chow", "Tibetan Mastiff"],
-      "correctAnswer": 1
+      "options": [
+        "Chow Chow",
+        "Tibetan Mastiff",
+        "Bullmastiff",
+        "Shar-Pei"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "dog-breed-quiz-15",
       "question": "Which herding breed from Wales has short legs, large upright ears, a foxy face, and became famous as the favorite breed of Queen Elizabeth II?",
-      "options": ["Shetland Sheepdog", "Border Collie", "Pembroke Welsh Corgi", "Australian Shepherd"],
+      "options": [
+        "Border Collie",
+        "Australian Shepherd",
+        "Pembroke Welsh Corgi",
+        "Shetland Sheepdog"
+      ],
       "correctAnswer": 2
     }
   ]

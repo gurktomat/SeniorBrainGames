@@ -1,0 +1,173 @@
+{
+  "id": "volcanic-landmarks-quiz",
+  "title": "Volcanic Landmarks Quiz",
+  "description": "Explore the world's most famous volcanoes and volcanic landscapes with this fiery geography quiz.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "volcanic-landmarks-quiz-1",
+      "question": "Mount Vesuvius, which destroyed Pompeii in 79 AD, overlooks which modern Italian city?",
+      "options": [
+        "Palermo",
+        "Florence",
+        "Rome",
+        "Naples"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "volcanic-landmarks-quiz-2",
+      "question": "Mount Etna, one of the world's most active volcanoes, is located on which Mediterranean island?",
+      "options": [
+        "Sardinia",
+        "Crete",
+        "Corsica",
+        "Sicily"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "volcanic-landmarks-quiz-3",
+      "question": "Krakatoa (Krakatau), known for its catastrophic 1883 eruption, is located between Java and Sumatra in which country?",
+      "options": [
+        "Malaysia",
+        "Philippines",
+        "Indonesia",
+        "Papua New Guinea"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-4",
+      "question": "Mount St. Helens, which erupted dramatically in 1980, is located in which US state?",
+      "options": [
+        "Washington",
+        "California",
+        "Oregon",
+        "Alaska"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "volcanic-landmarks-quiz-5",
+      "question": "The Yellowstone Caldera, one of the world's largest supervolcanoes, is located primarily in which US state?",
+      "options": [
+        "Montana",
+        "Colorado",
+        "Wyoming",
+        "Idaho"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-6",
+      "question": "Mount Pinatubo, whose 1991 eruption was the second-largest of the 20th century, is located in which country?",
+      "options": [
+        "Papua New Guinea",
+        "Japan",
+        "Philippines",
+        "Indonesia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-7",
+      "question": "Eyjafjallajökull, the Icelandic volcano whose 2010 eruption disrupted European air travel, is covered by what?",
+      "options": [
+        "An ice cap",
+        "Dense forest",
+        "A lake",
+        "Desert sand"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "volcanic-landmarks-quiz-8",
+      "question": "Mauna Loa in Hawaii is the world's largest what type of volcano?",
+      "options": [
+        "Stratovolcano",
+        "Cinder cone",
+        "Shield volcano",
+        "Lava dome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-9",
+      "question": "Cotopaxi, one of the highest active volcanoes in the world, is located in which South American country?",
+      "options": [
+        "Ecuador",
+        "Bolivia",
+        "Peru",
+        "Colombia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "volcanic-landmarks-quiz-10",
+      "question": "Mount Erebus is the southernmost active volcano on Earth. On which continent is it located?",
+      "options": [
+        "Africa",
+        "South America",
+        "Australia",
+        "Antarctica"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "volcanic-landmarks-quiz-11",
+      "question": "The Giant's Causeway in Northern Ireland, with its interlocking basalt columns, was formed by what volcanic process?",
+      "options": [
+        "A lava tube collapse",
+        "Erosion of volcanic ash",
+        "Rapid cooling of lava",
+        "A volcanic explosion"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-12",
+      "question": "Stromboli, a volcano that has been erupting almost continuously for over 2,000 years, is located in which island chain?",
+      "options": [
+        "Azores",
+        "Canary Islands",
+        "Cyclades",
+        "Aeolian Islands"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "volcanic-landmarks-quiz-13",
+      "question": "Santorini in Greece is actually the remains of what volcanic event that occurred around 1600 BC?",
+      "options": [
+        "A submarine eruption",
+        "A volcanic island emergence",
+        "A massive caldera-forming eruption",
+        "A lava flow"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "volcanic-landmarks-quiz-14",
+      "question": "Mount Kilimanjaro in Tanzania has three volcanic cones. Which is the highest and youngest?",
+      "options": [
+        "Kibo",
+        "Mawenzi",
+        "Shira",
+        "Uhuru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "volcanic-landmarks-quiz-15",
+      "question": "The Cappadocia region of Turkey, famous for its fairy chimneys and cave dwellings, was formed by eruptions from which volcanoes?",
+      "options": [
+        "Mount Ararat",
+        "Süphan Dağı",
+        "Erciyes and Hasan Dağı",
+        "Nemrut Dağı"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

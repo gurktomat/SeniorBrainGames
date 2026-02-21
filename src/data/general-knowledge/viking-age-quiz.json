@@ -1,0 +1,173 @@
+{
+  "id": "viking-age-quiz",
+  "title": "Viking Age Quiz",
+  "description": "Set sail with the Norsemen and test your knowledge of Viking exploration, culture, and legendary warriors.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "viking-age-quiz-1",
+      "question": "From which modern-day countries did the Vikings primarily originate?",
+      "options": [
+        "England, Scotland, and Ireland",
+        "Germany, Austria, and Switzerland",
+        "Denmark, Norway, and Sweden",
+        "Finland, Estonia, and Latvia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "viking-age-quiz-2",
+      "question": "Which Viking explorer is credited with reaching North America around 1000 AD?",
+      "options": [
+        "Erik the Red",
+        "Leif Erikson",
+        "Ragnar Lothbrok",
+        "Harald Hardrada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "viking-age-quiz-3",
+      "question": "What was the Viking afterlife hall where warriors slain in battle were said to go?",
+      "options": [
+        "Valhalla",
+        "Asgard",
+        "Hel",
+        "Midgard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "viking-age-quiz-4",
+      "question": "What type of ship were the Vikings famous for building?",
+      "options": [
+        "Triremes",
+        "Galleons",
+        "Carracks",
+        "Longships"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-5",
+      "question": "Which Viking leader founded the first Norse settlement in Greenland?",
+      "options": [
+        "Erik the Red",
+        "Rollo",
+        "Bjorn Ironside",
+        "Leif Erikson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "viking-age-quiz-6",
+      "question": "What writing system did the Vikings use for inscriptions?",
+      "options": [
+        "Cuneiform",
+        "Hieroglyphics",
+        "Ogham",
+        "Runes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-7",
+      "question": "In Norse mythology, who was the chief of the gods?",
+      "options": [
+        "Thor",
+        "Loki",
+        "Freya",
+        "Odin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-8",
+      "question": "What English monastery was famously raided by Vikings in 793 AD, marking the beginning of the Viking Age?",
+      "options": [
+        "Glastonbury Abbey",
+        "Canterbury Cathedral",
+        "Lindisfarne",
+        "Westminster Abbey"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "viking-age-quiz-9",
+      "question": "What was the 'Thing' in Viking society?",
+      "options": [
+        "A trade route",
+        "A type of weapon",
+        "A burial ceremony",
+        "A governing assembly"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-10",
+      "question": "Which Viking leader was granted land in France that became known as Normandy?",
+      "options": [
+        "Sweyn Forkbeard",
+        "Ragnar Lothbrok",
+        "Canute the Great",
+        "Rollo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-11",
+      "question": "What name did the Vikings give to North America when they explored it?",
+      "options": [
+        "Markland",
+        "Helluland",
+        "Vinland",
+        "Norland"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "viking-age-quiz-12",
+      "question": "Which Norse god wielded the hammer Mjolnir?",
+      "options": [
+        "Odin",
+        "Tyr",
+        "Baldur",
+        "Thor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-13",
+      "question": "What was a 'berserker' in Viking culture?",
+      "options": [
+        "A religious priest",
+        "A Viking merchant",
+        "A type of ship",
+        "A fierce warrior who fought in a trance-like fury"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-14",
+      "question": "Which Viking king united Denmark, Norway, and England under his rule?",
+      "options": [
+        "Harald Bluetooth",
+        "Harald Hardrada",
+        "Olaf Tryggvason",
+        "Canute the Great"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "viking-age-quiz-15",
+      "question": "What was the Norse term for the end of the world, a great battle between gods and giants?",
+      "options": [
+        "Bifrost",
+        "Niflheim",
+        "Yggdrasil",
+        "Ragnarok"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

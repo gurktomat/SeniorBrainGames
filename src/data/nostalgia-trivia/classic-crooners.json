@@ -1,0 +1,173 @@
+{
+  "id": "classic-crooners",
+  "title": "Classic Crooners",
+  "description": "Sinatra, Dean Martin, Bing Crosby and more -- how well do you know the smooth-voiced crooners?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-crooners-1",
+      "question": "Frank Sinatra was known by which famous nickname?",
+      "options": [
+        "Ol' Blue Eyes",
+        "All of these",
+        "The Voice",
+        "The Chairman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-2",
+      "question": "Which Bing Crosby song became the best-selling single of all time?",
+      "options": [
+        "White Christmas",
+        "Swinging on a Star",
+        "Pennies from Heaven",
+        "Silent Night"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-crooners-3",
+      "question": "Dean Martin was a member of which famous Las Vegas entertainment group?",
+      "options": [
+        "The Clan",
+        "The Kings of Cool",
+        "The Vegas Boys",
+        "The Rat Pack"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-crooners-4",
+      "question": "What Frank Sinatra song became an anthem about doing things your own way?",
+      "options": [
+        "My Way",
+        "Fly Me to the Moon",
+        "The Way You Look Tonight",
+        "New York, New York"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-crooners-5",
+      "question": "Which crooner was known as 'Mr. Relaxation' and had a hit with 'That's Amore'?",
+      "options": [
+        "Perry Como",
+        "Andy Williams",
+        "Dean Martin",
+        "Bobby Darin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-crooners-6",
+      "question": "Perry Como hosted a popular variety show and was known for what signature wardrobe item?",
+      "options": [
+        "Fedora hats",
+        "Bow ties",
+        "White scarves",
+        "Cardigan sweaters"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-crooners-7",
+      "question": "Bobby Darin's hit 'Mack the Knife' was originally from which musical work?",
+      "options": [
+        "The Threepenny Opera",
+        "West Side Story",
+        "Guys and Dolls",
+        "My Fair Lady"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-crooners-8",
+      "question": "Which crooner hosted a long-running Christmas TV special and recorded 'Moon River'?",
+      "options": [
+        "Vic Damone",
+        "Andy Williams",
+        "Jack Jones",
+        "Mel Torme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-9",
+      "question": "Nat King Cole had a timeless holiday hit with which song?",
+      "options": [
+        "Have Yourself a Merry Little Christmas",
+        "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+        "Let It Snow",
+        "Silver Bells"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-10",
+      "question": "Which crooner recorded 'Unforgettable,' later remixed as a virtual duet with his daughter?",
+      "options": [
+        "Tony Bennett",
+        "Nat King Cole",
+        "Frank Sinatra",
+        "Sammy Davis Jr."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-11",
+      "question": "Tony Bennett had a signature hit about which American city?",
+      "options": [
+        "I Left My Heart in San Francisco",
+        "Moon Over Miami",
+        "New York, New York",
+        "Chicago"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-crooners-12",
+      "question": "Which member of the Rat Pack was known for his impressions and versatility?",
+      "options": [
+        "Dean Martin",
+        "Sammy Davis Jr.",
+        "Frank Sinatra",
+        "Peter Lawford"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-13",
+      "question": "Mel Torme earned what musical nickname for his smooth vocal style?",
+      "options": [
+        "The Velvet Voice",
+        "The Velvet Fog",
+        "The Silk Singer",
+        "The Silver Tongue"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-crooners-14",
+      "question": "Which Las Vegas venue became closely associated with the Rat Pack's performances?",
+      "options": [
+        "Caesars Palace",
+        "The Riviera",
+        "The Flamingo",
+        "The Sands Hotel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-crooners-15",
+      "question": "Bing Crosby starred alongside Bob Hope in how many 'Road to...' comedy films?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

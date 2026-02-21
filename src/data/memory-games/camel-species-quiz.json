@@ -1,0 +1,173 @@
+{
+  "id": "camel-species-quiz",
+  "title": "Camel Species Quiz",
+  "description": "Journey through the desert of knowledge with this quiz about camels and their relatives",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "camel-species-quiz-1",
+      "question": "How many humps does a dromedary camel have?",
+      "options": [
+        "One",
+        "Two",
+        "None",
+        "Three"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "camel-species-quiz-2",
+      "question": "How many humps does a Bactrian camel have?",
+      "options": [
+        "One",
+        "Three",
+        "Two",
+        "None"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camel-species-quiz-3",
+      "question": "What is actually stored inside a camel's hump?",
+      "options": [
+        "Air",
+        "Blood",
+        "Fat",
+        "Water"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camel-species-quiz-4",
+      "question": "Which South American member of the camel family produces extremely fine, valuable wool?",
+      "options": [
+        "Alpaca",
+        "Guanaco",
+        "Vicuna",
+        "Llama"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camel-species-quiz-5",
+      "question": "Which camel relative from South America has been used as a pack animal by Andean cultures for thousands of years?",
+      "options": [
+        "Alpaca",
+        "Vicuna",
+        "Guanaco",
+        "Llama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camel-species-quiz-6",
+      "question": "How much water can a dehydrated camel drink in about 10 minutes?",
+      "options": [
+        "About 15 gallons",
+        "About 30 gallons",
+        "About 5 gallons",
+        "About 50 gallons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camel-species-quiz-7",
+      "question": "Which wild Bactrian camel population is critically endangered with fewer than 1,000 individuals remaining?",
+      "options": [
+        "Turkmen Camel",
+        "Wild Bactrian Camel",
+        "Gobi Camel",
+        "Mongolian Wild Camel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camel-species-quiz-8",
+      "question": "Which South American camelid is the wild ancestor of the alpaca?",
+      "options": [
+        "Huarizo",
+        "Llama",
+        "Vicuna",
+        "Guanaco"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camel-species-quiz-9",
+      "question": "Which feature helps camels protect their eyes during sandstorms?",
+      "options": [
+        "Retractable eyes",
+        "Double rows of long eyelashes",
+        "Extra eyelids",
+        "Transparent eye covers"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "camel-species-quiz-10",
+      "question": "What is the term for the family of animals that includes camels, llamas, alpacas, guanacos, and vicunas?",
+      "options": [
+        "Camelidae",
+        "Cervidae",
+        "Bovidae",
+        "Equidae"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "camel-species-quiz-11",
+      "question": "In which country is camel racing a popular traditional sport, with camels reaching speeds of 40 mph?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "India",
+        "United Arab Emirates"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camel-species-quiz-12",
+      "question": "Which continent has a large feral camel population estimated at over one million, descended from animals imported in the 1800s?",
+      "options": [
+        "North America",
+        "South America",
+        "Africa",
+        "Australia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "camel-species-quiz-13",
+      "question": "How long can a camel survive without drinking water in moderate conditions?",
+      "options": [
+        "About 3 days",
+        "About 1 month",
+        "About 2 weeks",
+        "About 1 week"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "camel-species-quiz-14",
+      "question": "Which South American camelid is the wild ancestor of the domesticated llama?",
+      "options": [
+        "Guanaco",
+        "Alpaca",
+        "Vicuna",
+        "Huarizo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "camel-species-quiz-15",
+      "question": "What special adaptation do camels have on their feet that helps them walk on sand without sinking?",
+      "options": [
+        "Wide, flat, leathery pads",
+        "Webbed toes",
+        "Hooves like horses",
+        "Retractable claws"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

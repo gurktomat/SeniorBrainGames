@@ -1,0 +1,218 @@
+{
+  "id": "bible-trivia",
+  "title": "Bible Trivia for Seniors",
+  "description": "Test your knowledge of the Old and New Testaments — famous verses, biblical characters, and timeless stories!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "bible-1",
+      "question": "How many days did it take God to create the world, according to Genesis?",
+      "options": [
+        "5 days",
+        "7 days",
+        "10 days",
+        "6 days"
+      ],
+      "correctAnswer": 3,
+      "explanation": "According to Genesis, God created the world in 6 days and rested on the 7th day.",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-2",
+      "question": "Who built the ark to save his family and animals from the Great Flood?",
+      "options": [
+        "David",
+        "Noah",
+        "Abraham",
+        "Moses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Noah built the ark at God's command to survive the Great Flood, as told in Genesis chapters 6–9.",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-3",
+      "question": "What are the first four books of the New Testament collectively called?",
+      "options": [
+        "The Psalms",
+        "The Prophets",
+        "The Gospels",
+        "The Epistles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first four books — Matthew, Mark, Luke, and John — are called the Gospels, meaning 'good news.'",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-4",
+      "question": "Who parted the Red Sea to lead the Israelites out of Egypt?",
+      "options": [
+        "Moses",
+        "Elijah",
+        "Aaron",
+        "Joshua"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Moses parted the Red Sea with God's power, allowing the Israelites to escape Pharaoh's army (Exodus 14).",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-5",
+      "question": "How many apostles did Jesus choose?",
+      "options": [
+        "12",
+        "14",
+        "7",
+        "10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jesus chose 12 apostles, also called disciples, to be his closest followers and spread his teachings.",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-6",
+      "question": "Which book of the Bible contains the Ten Commandments?",
+      "options": [
+        "Exodus",
+        "Leviticus",
+        "Deuteronomy",
+        "Genesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Ten Commandments are first given in Exodus chapter 20, when God speaks to Moses on Mount Sinai.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-7",
+      "question": "What is the shortest verse in the Bible?",
+      "options": [
+        "'Jesus wept.'",
+        "'Pray continually.'",
+        "'Rejoice always.'",
+        "'Amen.'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Jesus wept' (John 11:35) is the shortest verse in the King James Bible, just two words long.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-8",
+      "question": "Who was swallowed by a great fish and lived inside it for three days?",
+      "options": [
+        "Elijah",
+        "Jonah",
+        "Daniel",
+        "Job"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jonah was swallowed by a great fish (often called a whale) after trying to flee from God's command to preach in Nineveh.",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-9",
+      "question": "In the parable of the Good Samaritan, who first passed by the injured man without helping?",
+      "options": [
+        "Two soldiers",
+        "A priest and a Levite",
+        "A merchant and a tax collector",
+        "A shepherd and a farmer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Luke 10:25–37, a priest and a Levite both passed by the injured man before the Samaritan stopped to help.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-10",
+      "question": "How many books are in the Bible (Protestant canon)?",
+      "options": [
+        "59",
+        "66",
+        "52",
+        "73"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Protestant Bible contains 66 books — 39 in the Old Testament and 27 in the New Testament.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-11",
+      "question": "Which giant did the young David defeat with a sling and a stone?",
+      "options": [
+        "Goliath",
+        "Og",
+        "Nimrod",
+        "Samson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "David defeated the Philistine giant Goliath with a single stone from his sling, as told in 1 Samuel 17.",
+      "difficulty": "easy",
+      "category": "religion"
+    },
+    {
+      "id": "bible-12",
+      "question": "What gift did the Magi NOT bring to the baby Jesus?",
+      "options": [
+        "Myrrh",
+        "Silver",
+        "Gold",
+        "Frankincense"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The three Magi brought gold, frankincense, and myrrh (Matthew 2:11). Silver was not among the gifts.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-13",
+      "question": "On which mountain did Moses receive the Ten Commandments?",
+      "options": [
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Zion",
+        "Mount Ararat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Moses received the Ten Commandments on Mount Sinai, also known as Mount Horeb, in the Sinai Peninsula.",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-14",
+      "question": "Which apostle is known for denying Jesus three times before the rooster crowed?",
+      "options": [
+        "Judas",
+        "John",
+        "Thomas",
+        "Peter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peter denied knowing Jesus three times on the night of his arrest, just as Jesus had predicted (Luke 22:54–62).",
+      "difficulty": "medium",
+      "category": "religion"
+    },
+    {
+      "id": "bible-15",
+      "question": "What is the last book of the Bible?",
+      "options": [
+        "Revelation",
+        "Jude",
+        "Hebrews",
+        "Acts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Revelation (also called the Apocalypse) is the last book of the Bible, written by the Apostle John.",
+      "difficulty": "easy",
+      "category": "religion"
+    }
+  ]
+}

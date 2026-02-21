@@ -9,64 +9,64 @@
       "question": "During which decade did roller disco become a massive cultural phenomenon?",
       "options": [
         "1960s",
-        "1970s",
         "1980s",
-        "1990s"
+        "1990s",
+        "1970s"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-roller-skating-2",
       "question": "What 1980 musical film starring Olivia Newton-John featured roller skating prominently?",
       "options": [
-        "Grease 2",
         "Xanadu",
         "Flashdance",
+        "Grease 2",
         "Footloose"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-roller-skating-3",
       "question": "What type of roller skates have four wheels arranged in a two-by-two configuration?",
       "options": [
-        "Inline skates",
         "Quad skates",
+        "Hockey skates",
         "Speed skates",
-        "Hockey skates"
+        "Inline skates"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-roller-skating-4",
       "question": "What was the name of the special slow-skate session at roller rinks where couples would skate together?",
       "options": [
-        "Couples skate",
+        "Partner glide",
         "Moonlight roll",
-        "Slow jam",
-        "Partner glide"
+        "Couples skate",
+        "Slow jam"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "retro-roller-skating-5",
       "question": "What famous New York City roller disco club, which opened in 1979, became a celebrity hotspot?",
       "options": [
-        "Studio 54",
-        "The Roxy",
         "CBGB",
-        "Danceteria"
+        "Danceteria",
+        "Studio 54",
+        "The Roxy"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-roller-skating-6",
       "question": "What popular party game was often played at roller rinks where skaters tried to get as low as possible?",
       "options": [
+        "Red light green light",
         "Musical chairs",
-        "Freeze dance",
         "Limbo",
-        "Red light green light"
+        "Freeze dance"
       ],
       "correctAnswer": 2
     },
@@ -74,43 +74,43 @@
       "id": "retro-roller-skating-7",
       "question": "Which 1979 Cher song became an anthem of the roller disco era?",
       "options": [
-        "Believe",
         "If I Could Turn Back Time",
-        "Half-Breed",
-        "Hell on Wheels"
+        "Believe",
+        "Hell on Wheels",
+        "Half-Breed"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "retro-roller-skating-8",
       "question": "What colorful lighting effect was a staple of roller rinks, making white clothing glow?",
       "options": [
-        "Strobe lights",
-        "Black lights",
+        "Laser beams",
         "Spotlights",
-        "Laser beams"
+        "Strobe lights",
+        "Black lights"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-roller-skating-9",
       "question": "What rubber piece on the front of quad roller skates is used for stopping?",
       "options": [
         "Heel brake",
-        "Toe stop",
         "Side guard",
-        "Wheel lock"
+        "Wheel lock",
+        "Toe stop"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-roller-skating-10",
       "question": "What classic roller rink snack bar item came in a paper tray with bright yellow cheese sauce?",
       "options": [
-        "Hot dogs",
+        "Corn dogs",
         "Nachos",
-        "Pretzels",
-        "Corn dogs"
+        "Hot dogs",
+        "Pretzels"
       ],
       "correctAnswer": 1
     },
@@ -118,12 +118,12 @@
       "id": "retro-roller-skating-11",
       "question": "What skating move involves crossing one foot over the other while turning?",
       "options": [
-        "Spin stop",
-        "Crossover",
         "Toe loop",
-        "Backward glide"
+        "Backward glide",
+        "Spin stop",
+        "Crossover"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-roller-skating-12",
@@ -140,23 +140,23 @@
       "id": "retro-roller-skating-13",
       "question": "Which brand of quad roller skates with colorful boots became hugely popular in the 1970s and 1980s?",
       "options": [
+        "Adidas",
         "Nike",
         "Riedell",
-        "Adidas",
         "Converse"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-roller-skating-14",
       "question": "What type of skating race was popular at rinks where skaters competed to be the fastest?",
       "options": [
-        "Derby dash",
         "Speed skate",
-        "Relay race",
-        "Sprint roll"
+        "Sprint roll",
+        "Derby dash",
+        "Relay race"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-roller-skating-15",
@@ -164,10 +164,10 @@
       "options": [
         "Hot Stuff",
         "Bad Girls",
-        "On the Radio",
-        "She Works Hard for the Money"
+        "She Works Hard for the Money",
+        "On the Radio"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     }
   ]
 }

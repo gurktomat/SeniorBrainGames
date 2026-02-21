@@ -8,7 +8,12 @@
     {
       "id": "rfi-1",
       "question": "Which First Lady became a fashion icon known for her pillbox hats and elegant suits in the early 1960s?",
-      "options": ["Mamie Eisenhower", "Lady Bird Johnson", "Jacqueline Kennedy", "Pat Nixon"],
+      "options": [
+        "Lady Bird Johnson",
+        "Pat Nixon",
+        "Jacqueline Kennedy",
+        "Mamie Eisenhower"
+      ],
       "correctAnswer": 2,
       "explanation": "Jacqueline Kennedy revolutionized White House fashion with her sophisticated style. Her pillbox hats, designed by Halston, and elegant Oleg Cassini suits became widely imitated across America.",
       "difficulty": "easy",
@@ -17,8 +22,13 @@
     {
       "id": "rfi-2",
       "question": "What iconic fashion designer introduced the 'New Look' in 1947, featuring cinched waists and full skirts?",
-      "options": ["Coco Chanel", "Christian Dior", "Givenchy", "Balenciaga"],
-      "correctAnswer": 1,
+      "options": [
+        "Coco Chanel",
+        "Balenciaga",
+        "Christian Dior",
+        "Givenchy"
+      ],
+      "correctAnswer": 2,
       "explanation": "Christian Dior's 'New Look,' debuted in his first collection in 1947, marked a dramatic departure from wartime austerity. The full skirts and nipped waists defined women's fashion for the next decade.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -26,7 +36,12 @@
     {
       "id": "rfi-3",
       "question": "Which actress popularized the 'little black dress' when she wore one in the 1961 film 'Breakfast at Tiffany's'?",
-      "options": ["Marilyn Monroe", "Grace Kelly", "Audrey Hepburn", "Elizabeth Taylor"],
+      "options": [
+        "Elizabeth Taylor",
+        "Marilyn Monroe",
+        "Audrey Hepburn",
+        "Grace Kelly"
+      ],
       "correctAnswer": 2,
       "explanation": "Audrey Hepburn's iconic Givenchy black dress in Breakfast at Tiffany's became one of the most famous fashion moments in cinema history. The dress sold at auction in 2006 for over $900,000.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "rfi-4",
       "question": "What was the name of the very short skirt style that became popular in the 1960s?",
-      "options": ["Pencil skirt", "A-line skirt", "Miniskirt", "Wrap skirt"],
-      "correctAnswer": 2,
+      "options": [
+        "Wrap skirt",
+        "Pencil skirt",
+        "A-line skirt",
+        "Miniskirt"
+      ],
+      "correctAnswer": 3,
       "explanation": "The miniskirt, popularized by designer Mary Quant in London and André Courrèges in Paris in the mid-1960s, became a symbol of youth rebellion and the Swinging Sixties cultural revolution.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "rfi-5",
       "question": "Which British model, known for her extremely thin figure and large eyes, became the face of 1960s fashion?",
-      "options": ["Jean Shrimpton", "Twiggy", "Veruschka", "Penelope Tree"],
-      "correctAnswer": 1,
+      "options": [
+        "Veruschka",
+        "Jean Shrimpton",
+        "Penelope Tree",
+        "Twiggy"
+      ],
+      "correctAnswer": 3,
       "explanation": "Twiggy (born Lesley Hornby) became the world's first supermodel at just 16 years old in 1966. Her androgynous look, pixie haircut, and painted-on lower eyelashes defined the mod era.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,7 +78,12 @@
     {
       "id": "rfi-6",
       "question": "What style of pants, extremely wide from the knee down, was a fashion staple of the 1970s?",
-      "options": ["Straight-leg jeans", "Capri pants", "Bell-bottoms", "Palazzo pants"],
+      "options": [
+        "Palazzo pants",
+        "Capri pants",
+        "Bell-bottoms",
+        "Straight-leg jeans"
+      ],
       "correctAnswer": 2,
       "explanation": "Bell-bottoms became the defining pants style of the 1970s. Originally worn by sailors, they were adopted by the counterculture in the late 1960s and became mainstream by the early 1970s.",
       "difficulty": "easy",
@@ -62,8 +92,13 @@
     {
       "id": "rfi-7",
       "question": "Which designer created the wrap dress in 1974 that became a symbol of women's liberation?",
-      "options": ["Donna Karan", "Diane von Furstenberg", "Gloria Vanderbilt", "Halston"],
-      "correctAnswer": 1,
+      "options": [
+        "Donna Karan",
+        "Halston",
+        "Gloria Vanderbilt",
+        "Diane von Furstenberg"
+      ],
+      "correctAnswer": 3,
       "explanation": "Diane von Furstenberg's jersey wrap dress debuted in 1974 and sold over five million units by 1976. It became a symbol of female empowerment because it was both flattering and easy to wear.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "rfi-8",
       "question": "What fashion accessory, consisting of a circular plastic tube worn around the neck, was hugely popular in the 1950s?",
-      "options": ["Pop beads", "Charm bracelet", "Circle pin", "Poodle brooch"],
-      "correctAnswer": 0,
+      "options": [
+        "Poodle brooch",
+        "Circle pin",
+        "Pop beads",
+        "Charm bracelet"
+      ],
+      "correctAnswer": 2,
       "explanation": "Pop beads (also called snap beads) were extremely popular in the 1950s. These plastic beads could be snapped together and apart, allowing girls and women to create custom-length necklaces and bracelets.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,8 +120,13 @@
     {
       "id": "rfi-9",
       "question": "Which American designer was known as the 'King of Disco Fashion' for his flowing designs in the 1970s?",
-      "options": ["Calvin Klein", "Ralph Lauren", "Halston", "Bill Blass"],
-      "correctAnswer": 2,
+      "options": [
+        "Ralph Lauren",
+        "Halston",
+        "Bill Blass",
+        "Calvin Klein"
+      ],
+      "correctAnswer": 1,
       "explanation": "Halston (Roy Halston Frowick) became synonymous with 1970s glamour. His clean, minimalist designs in luxurious fabrics were worn by celebrities at Studio 54 and defined the disco era's elegant style.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -89,7 +134,12 @@
     {
       "id": "rfi-10",
       "question": "What type of collar, very wide and pointed, was a defining fashion feature of 1970s shirts?",
-      "options": ["Mandarin collar", "Peter Pan collar", "Butterfly collar", "Wing collar"],
+      "options": [
+        "Peter Pan collar",
+        "Wing collar",
+        "Butterfly collar",
+        "Mandarin collar"
+      ],
       "correctAnswer": 2,
       "explanation": "The butterfly collar (also called a spread collar) with its exaggerated wide, pointed lapels was a hallmark of 1970s fashion. Often paired with polyester shirts and wide ties, it epitomized the era's bold style.",
       "difficulty": "medium",
@@ -98,8 +148,13 @@
     {
       "id": "rfi-11",
       "question": "Which Hollywood actress was famous for her sweater girl look in the 1940s and 1950s?",
-      "options": ["Bette Davis", "Lana Turner", "Joan Crawford", "Rita Hayworth"],
-      "correctAnswer": 1,
+      "options": [
+        "Joan Crawford",
+        "Rita Hayworth",
+        "Lana Turner",
+        "Bette Davis"
+      ],
+      "correctAnswer": 2,
       "explanation": "Lana Turner earned the nickname 'The Sweater Girl' after appearing in a tight-fitting sweater in the 1937 film 'They Won't Forget.' The look sparked a nationwide fashion trend for form-fitting knitwear.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -107,7 +162,12 @@
     {
       "id": "rfi-12",
       "question": "What iconic 1950s hairstyle for men involved slicking the hair back on the sides into a ridge at the back?",
-      "options": ["The Flat Top", "The Crew Cut", "The Ducktail", "The Pompadour"],
+      "options": [
+        "The Crew Cut",
+        "The Flat Top",
+        "The Ducktail",
+        "The Pompadour"
+      ],
       "correctAnswer": 2,
       "explanation": "The Ducktail (also called a D.A.) involved combing greased hair back on both sides to meet in a ridge at the back of the head, resembling a duck's tail. It was associated with greasers and rock and roll culture.",
       "difficulty": "hard",
@@ -116,7 +176,12 @@
     {
       "id": "rfi-13",
       "question": "Which French fashion designer introduced the bikini swimsuit in 1946?",
-      "options": ["Coco Chanel", "Louis Réard", "Christian Dior", "Pierre Cardin"],
+      "options": [
+        "Pierre Cardin",
+        "Louis Réard",
+        "Coco Chanel",
+        "Christian Dior"
+      ],
       "correctAnswer": 1,
       "explanation": "Louis Réard introduced the modern bikini on July 5, 1946, naming it after Bikini Atoll where atomic bomb tests had recently taken place. It was so scandalous that no model would wear it, so he hired a showgirl.",
       "difficulty": "hard",
@@ -125,8 +190,13 @@
     {
       "id": "rfi-14",
       "question": "What platform shoe style, popular in the 1970s, featured extremely thick soles sometimes several inches high?",
-      "options": ["Go-go boots", "Platform shoes", "Earth shoes", "Clogs"],
-      "correctAnswer": 1,
+      "options": [
+        "Platform shoes",
+        "Go-go boots",
+        "Clogs",
+        "Earth shoes"
+      ],
+      "correctAnswer": 0,
       "explanation": "Platform shoes reached their peak popularity in the 1970s, with some styles featuring soles up to six inches thick. They were worn by both men and women and became closely associated with disco culture.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -134,7 +204,12 @@
     {
       "id": "rfi-15",
       "question": "Which designer's name became synonymous with designer jeans when they launched their denim line in 1978 with the tagline 'Nothing comes between me and my Calvins'?",
-      "options": ["Gloria Vanderbilt", "Jordache", "Calvin Klein", "Sasson"],
+      "options": [
+        "Gloria Vanderbilt",
+        "Jordache",
+        "Calvin Klein",
+        "Sasson"
+      ],
       "correctAnswer": 2,
       "explanation": "Calvin Klein's designer jeans, launched in 1978, became a cultural phenomenon. The 1980 ad campaign featuring 15-year-old Brooke Shields saying 'Nothing comes between me and my Calvins' was both controversial and wildly successful.",
       "difficulty": "hard",

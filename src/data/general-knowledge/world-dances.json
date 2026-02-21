@@ -8,8 +8,13 @@
     {
       "id": "wd-1",
       "question": "The tango is a passionate dance that originated in which country?",
-      "options": ["Spain", "Brazil", "Argentina", "Mexico"],
-      "correctAnswer": 2,
+      "options": [
+        "Argentina",
+        "Spain",
+        "Mexico",
+        "Brazil"
+      ],
+      "correctAnswer": 0,
       "explanation": "The tango originated in the late 19th century in the working-class neighborhoods of Buenos Aires, Argentina, and Montevideo, Uruguay. It blended influences from African, European, and indigenous cultures.",
       "difficulty": "easy",
       "category": "culture"
@@ -17,8 +22,13 @@
     {
       "id": "wd-2",
       "question": "Flamenco is a passionate art form combining dance, singing, and guitar from which country?",
-      "options": ["Portugal", "Italy", "Spain", "Mexico"],
-      "correctAnswer": 2,
+      "options": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "Mexico"
+      ],
+      "correctAnswer": 0,
       "explanation": "Flamenco originated in the Andalusia region of southern Spain. It is recognized by UNESCO as part of the Intangible Cultural Heritage of Humanity and is deeply rooted in Romani culture.",
       "difficulty": "easy",
       "category": "culture"
@@ -26,7 +36,12 @@
     {
       "id": "wd-3",
       "question": "The hula is a traditional dance form from which U.S. state?",
-      "options": ["Alaska", "California", "Hawaii", "Florida"],
+      "options": [
+        "Alaska",
+        "California",
+        "Hawaii",
+        "Florida"
+      ],
       "correctAnswer": 2,
       "explanation": "The hula is a traditional Polynesian dance from Hawaii that uses graceful hand movements and hip swaying to tell stories. It was originally performed as a form of worship and storytelling.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "wd-4",
       "question": "The waltz, a ballroom dance in 3/4 time, became hugely popular in which city in the 18th century?",
-      "options": ["Paris", "London", "Vienna", "Berlin"],
-      "correctAnswer": 2,
+      "options": [
+        "Paris",
+        "Vienna",
+        "Berlin",
+        "London"
+      ],
+      "correctAnswer": 1,
       "explanation": "The waltz became immensely popular in Vienna, Austria, in the late 18th century. Composers like Johann Strauss II, known as the 'Waltz King,' helped popularize it worldwide.",
       "difficulty": "easy",
       "category": "culture"
@@ -44,8 +64,13 @@
     {
       "id": "wd-5",
       "question": "Ballet, as a formalized art form, originated in which country during the Renaissance?",
-      "options": ["France", "Italy", "Russia", "England"],
-      "correctAnswer": 1,
+      "options": [
+        "England",
+        "France",
+        "Italy",
+        "Russia"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ballet originated in the Italian Renaissance courts of the 15th century. It was later developed into a concert dance form in France and Russia, becoming the classical art we know today.",
       "difficulty": "easy",
       "category": "culture"
@@ -53,8 +78,13 @@
     {
       "id": "wd-6",
       "question": "Samba is a lively rhythmic dance most closely associated with the carnival celebrations of which country?",
-      "options": ["Cuba", "Brazil", "Colombia", "Argentina"],
-      "correctAnswer": 1,
+      "options": [
+        "Cuba",
+        "Argentina",
+        "Colombia",
+        "Brazil"
+      ],
+      "correctAnswer": 3,
       "explanation": "Samba is deeply intertwined with Brazilian culture, especially the famous Carnival celebrations in Rio de Janeiro. It has roots in African rhythms brought to Brazil by enslaved people.",
       "difficulty": "medium",
       "category": "culture"
@@ -62,7 +92,12 @@
     {
       "id": "wd-7",
       "question": "Irish step dancing is characterized by which distinctive feature?",
-      "options": ["Rapid arm movements", "Rigid upper body with fast footwork", "Spinning on the head", "Partner lifts"],
+      "options": [
+        "Spinning on the head",
+        "Rigid upper body with fast footwork",
+        "Rapid arm movements",
+        "Partner lifts"
+      ],
       "correctAnswer": 1,
       "explanation": "Irish step dancing is famous for its rigid upper body while the legs and feet perform incredibly fast and intricate footwork. The show 'Riverdance' brought this dance style to global attention in 1994.",
       "difficulty": "medium",
@@ -71,8 +106,13 @@
     {
       "id": "wd-8",
       "question": "The traditional Maori war dance performed by New Zealand's rugby team is called what?",
-      "options": ["Poi", "Haka", "Kapa", "Waiata"],
-      "correctAnswer": 1,
+      "options": [
+        "Kapa",
+        "Waiata",
+        "Poi",
+        "Haka"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Haka is a traditional Maori war dance involving vigorous movements, foot-stamping, chest-beating, and chanting. New Zealand's All Blacks rugby team famously performs it before international matches.",
       "difficulty": "medium",
       "category": "culture"
@@ -80,8 +120,13 @@
     {
       "id": "wd-9",
       "question": "Bharatanatyam, one of the oldest classical dance forms in the world, originates from which country?",
-      "options": ["China", "Japan", "India", "Thailand"],
-      "correctAnswer": 2,
+      "options": [
+        "Japan",
+        "China",
+        "Thailand",
+        "India"
+      ],
+      "correctAnswer": 3,
       "explanation": "Bharatanatyam is one of the oldest classical dance forms of India, originating in the temples of Tamil Nadu over 2,000 years ago. It combines expressive storytelling with precise footwork and hand gestures.",
       "difficulty": "medium",
       "category": "culture"
@@ -89,8 +134,13 @@
     {
       "id": "wd-10",
       "question": "Which dance style, originating in the African American communities of New York City in the 1970s, is a key element of hip-hop culture?",
-      "options": ["Breakdancing", "Tap dancing", "Jazz dance", "Swing"],
-      "correctAnswer": 0,
+      "options": [
+        "Tap dancing",
+        "Swing",
+        "Breakdancing",
+        "Jazz dance"
+      ],
+      "correctAnswer": 2,
       "explanation": "Breakdancing (or breaking) originated in the South Bronx, New York City, in the early 1970s as part of hip-hop culture. It was officially included as an Olympic sport at the 2024 Paris Olympics.",
       "difficulty": "medium",
       "category": "culture"
@@ -98,8 +148,13 @@
     {
       "id": "wd-11",
       "question": "The traditional Georgian dance known as Kartuli is performed by a couple and is characterized by what?",
-      "options": ["Aggressive stomping", "The man never touching the woman", "Underwater movements", "Blindfolded performers"],
-      "correctAnswer": 1,
+      "options": [
+        "Underwater movements",
+        "Aggressive stomping",
+        "Blindfolded performers",
+        "The man never touching the woman"
+      ],
+      "correctAnswer": 3,
       "explanation": "In Kartuli, a romantic Georgian dance, the man never touches the woman and maintains a respectful distance while performing graceful, chivalrous movements. It represents courtship and deep respect.",
       "difficulty": "hard",
       "category": "culture"
@@ -107,8 +162,13 @@
     {
       "id": "wd-12",
       "question": "Capoeira, a martial art disguised as a dance, originated among enslaved people in which country?",
-      "options": ["Cuba", "Haiti", "Brazil", "Jamaica"],
-      "correctAnswer": 2,
+      "options": [
+        "Haiti",
+        "Jamaica",
+        "Cuba",
+        "Brazil"
+      ],
+      "correctAnswer": 3,
       "explanation": "Capoeira was developed by enslaved Africans in Brazil during the 16th century. They disguised their martial arts training as a dance to avoid punishment from slaveholders. It combines acrobatics, music, and movement.",
       "difficulty": "hard",
       "category": "culture"
@@ -116,8 +176,13 @@
     {
       "id": "wd-13",
       "question": "Which traditional Japanese dance form, performed by geisha, is known for its slow, precise movements and use of fans?",
-      "options": ["Kabuki", "Bon Odori", "Nihon Buyo", "Butoh"],
-      "correctAnswer": 2,
+      "options": [
+        "Nihon Buyo",
+        "Butoh",
+        "Kabuki",
+        "Bon Odori"
+      ],
+      "correctAnswer": 0,
       "explanation": "Nihon Buyo (Japanese classical dance) encompasses several traditional dance styles performed by geisha and trained dancers. It features slow, deliberate movements, elegant costumes, and the use of fans and parasols.",
       "difficulty": "hard",
       "category": "culture"
@@ -125,8 +190,13 @@
     {
       "id": "wd-14",
       "question": "The Whirling Dervishes, known for their spinning dance ceremony, belong to which Sufi order founded in the 13th century?",
-      "options": ["Naqshbandi", "Qadiri", "Mevlevi", "Chishti"],
-      "correctAnswer": 2,
+      "options": [
+        "Qadiri",
+        "Mevlevi",
+        "Chishti",
+        "Naqshbandi"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Whirling Dervishes belong to the Mevlevi Order, founded by followers of the 13th-century Persian poet Rumi in Konya, Turkey. Their spinning ceremony, the Sema, is a form of active meditation and worship.",
       "difficulty": "hard",
       "category": "culture"
@@ -134,8 +204,13 @@
     {
       "id": "wd-15",
       "question": "The Czardas is a traditional folk dance from which country, starting slowly and ending in a fast, energetic finale?",
-      "options": ["Poland", "Romania", "Hungary", "Czech Republic"],
-      "correctAnswer": 2,
+      "options": [
+        "Poland",
+        "Hungary",
+        "Romania",
+        "Czech Republic"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Czardas (or Csardas) is a traditional Hungarian folk dance that begins with a slow, melancholic section (lassu) and builds to an exciting, fast-paced finale (friss). It became popular in the 19th century.",
       "difficulty": "hard",
       "category": "culture"

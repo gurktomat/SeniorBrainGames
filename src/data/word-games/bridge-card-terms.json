@@ -1,0 +1,219 @@
+{
+  "id": "bridge-card-terms",
+  "title": "Bridge Card Terms",
+  "description": "Test your knowledge of the classic card game of bridge!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "bridge-card-terms-1",
+      "question": "In bridge, what is the 'dummy'?",
+      "options": [
+        "A player who makes a mistake",
+        "The declarer's partner whose hand is laid face up on the table",
+        "A practice hand",
+        "An unused deck of cards"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In bridge, after the opening lead, the declarer's partner (dummy) lays their hand face up on the table and takes no further active part; the declarer plays both hands.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-2",
+      "question": "What does 'trump' mean in bridge?",
+      "options": [
+        "To discard a card from your hand",
+        "To pass without playing a card",
+        "To play a card of the designated suit that beats cards of other suits",
+        "To play any card"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To trump means to play a card of the trump suit, which wins the trick over cards of any other suit, regardless of rank. The trump suit is determined during bidding.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-3",
+      "question": "In bridge, what is a 'finesse'?",
+      "options": [
+        "A technique attempting to win a trick with a lower card by playing through an opponent",
+        "The final trick of a hand",
+        "A graceful way to shuffle cards",
+        "A bid that ends the auction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A finesse is a play technique where a player leads toward a card combination hoping to win a trick with a lower card, relying on a favorable position of opponent's higher cards.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-4",
+      "question": "What is a 'slam' in bridge?",
+      "options": [
+        "Playing all cards in one turn",
+        "Defeating the opponents by a large margin",
+        "Placing cards forcefully on the table",
+        "Bidding and winning 12 tricks (small slam) or all 13 tricks (grand slam)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A slam is a high-level contract: a small slam requires winning 12 of the 13 tricks, while a grand slam requires winning all 13 tricks, both earning large bonus points.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-5",
+      "question": "In bridge, what is a 'no-trump' contract?",
+      "options": [
+        "A contract with no bidding",
+        "A contract where Donald Trump is not allowed to play",
+        "A hand where all suits are equal in rank",
+        "A hand where no trumping is allowed because no trump suit was designated"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A no-trump contract is one where no suit is designated as trumps. Tricks are won by the highest card of the suit led, making hand evaluation and play technique different.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-6",
+      "question": "What is the 'auction' in bridge?",
+      "options": [
+        "Selling cards to other players",
+        "The bidding phase where players compete to name the contract",
+        "Trading cards between partners",
+        "Choosing seats at the table"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The auction (or bidding) is the phase where all four players make bids to determine the final contract, including the level, the trump suit (or no-trump), and who plays as declarer.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-7",
+      "question": "In bridge, what does 'vulnerable' mean?",
+      "options": [
+        "Having fewer than 10 high-card points",
+        "Having a weak hand",
+        "A team that has already won one game, with higher bonus and penalty stakes",
+        "Being at risk of losing all your cards"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vulnerable is a scoring condition in rubber bridge where a partnership that has won one game faces higher bonuses for making contracts but also higher penalties for failing.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-8",
+      "question": "What is a 'squeeze' play in bridge?",
+      "options": [
+        "Playing quickly to pressure opponents",
+        "Holding cards very tightly",
+        "A technique forcing an opponent to discard a winning card to keep another",
+        "A play that narrows the trump suit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A squeeze is an advanced technique where a player forces an opponent to discard a card they need to protect one suit in order to keep cards protecting another suit.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-9",
+      "question": "In bridge, what is a 'trick'?",
+      "options": [
+        "A special card combination",
+        "A round where each player contributes one card, won by the highest",
+        "A deceptive play",
+        "A bonus score"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A trick is a round of play in which each of the four players contributes one card. The trick is won by the highest trump card played, or if no trump, the highest card of the suit led.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-10",
+      "question": "What does 'double' mean in bridge bidding?",
+      "options": [
+        "Bidding twice in a row",
+        "A bid that increases the scoring stakes of the opponents' contract",
+        "Having two cards of the same rank",
+        "Playing two cards at once"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A double is a call made over an opponent's bid that increases the penalty if they fail to make their contract, but also increases their score if they succeed.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-11",
+      "question": "In bridge, what is the 'opening lead'?",
+      "options": [
+        "The first card played by the defender to the left of the declarer",
+        "The card that starts each trick",
+        "Drawing the first card from the deck",
+        "The first bid of the auction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The opening lead is the first card played after the auction ends, made by the defender sitting to the left of the declarer, before the dummy hand is revealed.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-12",
+      "question": "What are 'high-card points' (HCP) in bridge?",
+      "options": [
+        "A valuation system: Ace=4, King=3, Queen=2, Jack=1",
+        "Points awarded for the highest card played",
+        "Points scored for winning tricks",
+        "The total number of face cards in your hand"
+      ],
+      "correctAnswer": 0,
+      "explanation": "High-card points are a hand evaluation method: Ace counts 4, King counts 3, Queen counts 2, and Jack counts 1, for a total of 40 points in the deck.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-13",
+      "question": "In bridge, what is a 'preemptive bid'?",
+      "options": [
+        "A bid that guarantees game",
+        "A high-level bid with a long suit but limited strength to crowd out opponents",
+        "A defensive signal between partners",
+        "The first bid of any auction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A preemptive bid is a high-level opening or overcall with a long suit but limited high-card strength, intended to consume bidding space and make it harder for opponents to find their best contract.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-14",
+      "question": "What does 'revoke' mean in bridge?",
+      "options": [
+        "Canceling the game",
+        "Failing to follow suit when able to do so",
+        "Taking back a bid",
+        "Playing out of turn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A revoke (or renege) occurs when a player fails to play a card of the suit led despite having one, which is a violation of the rules and results in a penalty.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "bridge-card-terms-15",
+      "question": "In bridge, what is the 'declarer'?",
+      "options": [
+        "The person who declares the rules",
+        "The player who shuffles the cards",
+        "The player who makes the opening lead",
+        "The player who first bid the suit (or no-trump) of the final contract and plays both their hand and dummy's"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The declarer is the player who first named the denomination (suit or no-trump) of the final contract during bidding. They play both their own hand and the dummy's hand.",
+      "difficulty": "easy",
+      "category": "language"
+    }
+  ]
+}

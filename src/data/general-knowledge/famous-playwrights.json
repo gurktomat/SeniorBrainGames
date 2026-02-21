@@ -1,0 +1,219 @@
+{
+  "id": "famous-playwrights",
+  "title": "Famous Playwrights",
+  "description": "From Shakespeare to Arthur Miller, how well do you know the masters of the stage?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-playwrights-1",
+      "question": "Which playwright wrote 'Death of a Salesman' and 'The Crucible'?",
+      "options": [
+        "Tennessee Williams",
+        "Arthur Miller",
+        "Edward Albee",
+        "Eugene O'Neill"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arthur Miller wrote 'Death of a Salesman' (1949) and 'The Crucible' (1953). He is considered one of the greatest American playwrights of the 20th century.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-2",
+      "question": "Tennessee Williams is best known for which play about a faded Southern belle?",
+      "options": [
+        "A Streetcar Named Desire",
+        "Cat on a Hot Tin Roof",
+        "Our Town",
+        "The Glass Menagerie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'A Streetcar Named Desire' (1947) tells the story of Blanche DuBois, who arrives at her sister's home in New Orleans. The original Broadway production starred Marlon Brando as Stanley Kowalski.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-3",
+      "question": "How many plays are attributed to William Shakespeare?",
+      "options": [
+        "About 25",
+        "About 37",
+        "About 50",
+        "About 65"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shakespeare wrote approximately 37 plays (the exact number is debated), along with 154 sonnets and several longer poems. His works span comedies, tragedies, and histories.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-4",
+      "question": "Which Norwegian playwright wrote 'A Doll's House' and 'Hedda Gabler'?",
+      "options": [
+        "Anton Chekhov",
+        "August Strindberg",
+        "Henrik Ibsen",
+        "Bertolt Brecht"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Henrik Ibsen is often called the 'father of modern drama.' 'A Doll's House' (1879) shocked audiences with its portrayal of a woman leaving her husband and children to find herself.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-5",
+      "question": "Which Russian playwright wrote 'The Cherry Orchard' and 'Three Sisters'?",
+      "options": [
+        "Nikolai Gogol",
+        "Maxim Gorky",
+        "Anton Chekhov",
+        "Leo Tolstoy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anton Chekhov revolutionized theater with his subtle, psychologically rich dramas. 'The Cherry Orchard' (1904) explores the decline of the Russian aristocracy and was his final play.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-6",
+      "question": "Who wrote 'Waiting for Godot,' a landmark of absurdist theater?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Harold Pinter",
+        "Eugène Ionesco",
+        "Samuel Beckett"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Samuel Beckett wrote 'Waiting for Godot' in French, first performed in 1953. The play depicts two men waiting endlessly for someone named Godot who never arrives, and is considered a masterpiece of the Theater of the Absurd.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-7",
+      "question": "Which ancient Greek playwright wrote 'Oedipus Rex' and 'Antigone'?",
+      "options": [
+        "Aeschylus",
+        "Euripides",
+        "Aristophanes",
+        "Sophocles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sophocles (c. 496-406 BC) wrote over 120 plays, of which only seven survive complete. 'Oedipus Rex' is often cited as the perfect example of Greek tragedy.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-8",
+      "question": "Oscar Wilde wrote which witty comedy about mistaken identities and the name Ernest?",
+      "options": [
+        "The Importance of Being Earnest",
+        "An Ideal Husband",
+        "A Woman of No Importance",
+        "Lady Windermere's Fan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The Importance of Being Earnest' (1895) is a farcical comedy in which two men each pretend to be named Ernest to win the affections of two women. It is considered Wilde's masterpiece.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-9",
+      "question": "Which German playwright developed 'epic theater' and wrote 'The Threepenny Opera'?",
+      "options": [
+        "Friedrich Schiller",
+        "Bertolt Brecht",
+        "Gerhart Hauptmann",
+        "Georg Büchner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bertolt Brecht developed 'epic theater,' which used techniques to distance the audience emotionally so they would think critically about social issues rather than just feel emotions.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-10",
+      "question": "Eugene O'Neill, America's first great playwright, won how many Pulitzer Prizes for Drama?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eugene O'Neill won four Pulitzer Prizes for Drama and the Nobel Prize in Literature in 1936. His masterwork 'Long Day's Journey into Night' was published posthumously.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-11",
+      "question": "Which French playwright wrote 'Tartuffe' and 'The Misanthrope' in the 17th century?",
+      "options": [
+        "Voltaire",
+        "Jean Racine",
+        "Molière",
+        "Pierre Corneille"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Molière (Jean-Baptiste Poquelin) was the master of French comedy. 'Tartuffe' (1664), which satirized religious hypocrisy, was initially banned by King Louis XIV under pressure from the church.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-12",
+      "question": "Which playwright wrote 'A Raisin in the Sun,' the first play by a Black woman produced on Broadway?",
+      "options": [
+        "Toni Morrison",
+        "Lorraine Hansberry",
+        "Alice Walker",
+        "Maya Angelou"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lorraine Hansberry's 'A Raisin in the Sun' (1959) follows a Black family's struggles on Chicago's South Side. She was just 29 when it premiered, making her the youngest American playwright to win the New York Drama Critics' Circle Award.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-13",
+      "question": "Which Shakespeare play features the line 'To be, or not to be, that is the question'?",
+      "options": [
+        "Macbeth",
+        "King Lear",
+        "Othello",
+        "Hamlet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prince Hamlet speaks this famous soliloquy in Act 3, Scene 1 of Shakespeare's 'Hamlet' (c. 1600). The play is Shakespeare's longest and one of the most performed works in world literature.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-14",
+      "question": "Which Irish playwright wrote 'Pygmalion,' later adapted into the musical 'My Fair Lady'?",
+      "options": [
+        "Sean O'Casey",
+        "Oscar Wilde",
+        "George Bernard Shaw",
+        "Samuel Beckett"
+      ],
+      "correctAnswer": 2,
+      "explanation": "George Bernard Shaw wrote 'Pygmalion' in 1912 about a professor who transforms a Cockney flower girl into a lady. Shaw won the Nobel Prize in Literature in 1925.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "famous-playwrights-15",
+      "question": "Which playwright created 'Who's Afraid of Virginia Woolf?'",
+      "options": [
+        "David Mamet",
+        "Harold Pinter",
+        "Tom Stoppard",
+        "Edward Albee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Edward Albee's 'Who's Afraid of Virginia Woolf?' (1962) depicts a bitter evening of psychological warfare between a married couple and their guests. It won the Tony Award for Best Play.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

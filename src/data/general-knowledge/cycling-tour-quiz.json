@@ -1,0 +1,219 @@
+{
+  "id": "cycling-tour-quiz",
+  "title": "Cycling Grand Tours",
+  "description": "Test your knowledge of professional cycling, the Tour de France, and cycling legends!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "cycling-tour-quiz-1",
+      "question": "What are the three Grand Tours in professional cycling?",
+      "options": [
+        "Tour de France, Giro d'Italia, Tour de Suisse",
+        "Tour de France, Giro d'Italia, Vuelta a Espana",
+        "Tour de France, Tour of Flanders, Paris-Roubaix",
+        "Tour de France, Tour of Britain, Tour of California"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The three Grand Tours are the Tour de France (France), Giro d'Italia (Italy), and Vuelta a Espana (Spain). Each is a multi-stage race lasting about three weeks.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-2",
+      "question": "What color jersey does the overall leader of the Tour de France wear?",
+      "options": [
+        "White",
+        "Green",
+        "Yellow",
+        "Polka dot"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The yellow jersey (maillot jaune) is worn by the overall leader of the Tour de France. It has been used since 1919, reportedly inspired by the yellow pages of the sponsoring newspaper.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-3",
+      "question": "In which year was the first Tour de France held?",
+      "options": [
+        "1896",
+        "1903",
+        "1910",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first Tour de France was held in 1903, organized by the newspaper L'Auto. Maurice Garin won the inaugural race, which covered 2,428 km over six stages.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-4",
+      "question": "What does the green jersey signify in the Tour de France?",
+      "options": [
+        "Best climber",
+        "Points classification leader (sprinter)",
+        "Best young rider",
+        "Most aggressive rider"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The green jersey (maillot vert) is awarded to the leader of the points classification, which rewards consistent high finishes and sprint victories throughout the race.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-5",
+      "question": "Which cyclist holds the record for most Tour de France victories?",
+      "options": [
+        "No one holds it (multiple tied at 5)",
+        "Jacques Anquetil",
+        "Eddy Merckx",
+        "Bernard Hinault"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Four cyclists are tied with 5 Tour de France victories each: Jacques Anquetil, Eddy Merckx, Bernard Hinault, and Miguel Indurain. Lance Armstrong's 7 titles were stripped due to doping.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-6",
+      "question": "What does the polka dot jersey represent in the Tour de France?",
+      "options": [
+        "Best young rider",
+        "Most combative rider",
+        "Sprint points leader",
+        "King of the Mountains (best climber)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The polka dot jersey (maillot a pois) is awarded to the King of the Mountains — the rider who accumulates the most points on designated mountain climbs during the race.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-7",
+      "question": "Which Belgian cyclist is known as 'The Cannibal' for his dominance in the sport?",
+      "options": [
+        "Philippe Gilbert",
+        "Eddy Merckx",
+        "Roger De Vlaeminck",
+        "Freddy Maertens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eddy Merckx was nicknamed 'The Cannibal' because he won so frequently that he seemed to devour his competitors. He won 5 Tours de France, 5 Giros d'Italia, and numerous other races.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-8",
+      "question": "What is a 'peloton' in cycling?",
+      "options": [
+        "A mountain pass",
+        "A type of bicycle",
+        "The main group of riders in a race",
+        "A sprint finish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The peloton is the main group or pack of riders in a road cycling race. Riding in the peloton allows cyclists to conserve energy through drafting, reducing wind resistance by up to 40%.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-9",
+      "question": "What is the famous cobblestone classic race held in northern France?",
+      "options": [
+        "Liege-Bastogne-Liege",
+        "Milan-San Remo",
+        "Paris-Roubaix",
+        "Tour of Flanders"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paris-Roubaix is known as 'The Hell of the North' due to its brutal cobblestone sections. It is one of the five Monument races and one of the oldest and most prestigious one-day races in cycling.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-10",
+      "question": "How long is a typical stage in the Tour de France?",
+      "options": [
+        "100-150 km",
+        "150-200 km",
+        "250-300 km",
+        "50-80 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A typical stage in the Tour de France is between 150-200 km (93-124 miles). The entire race covers approximately 3,500 km over 21 stages plus 2 rest days.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-11",
+      "question": "What is a 'time trial' in cycling?",
+      "options": [
+        "A timed sprint at the finish",
+        "A training exercise",
+        "A race with a time limit",
+        "A race against the clock where riders start individually"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A time trial is a race against the clock where riders start individually at set intervals. Often called 'the race of truth,' it tests a rider's individual ability without the benefit of drafting.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-12",
+      "question": "Which mountain pass in the Tour de France is considered one of the most iconic climbs?",
+      "options": [
+        "Alpe d'Huez",
+        "Mount Olympus",
+        "The Matterhorn",
+        "Mont Blanc"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alpe d'Huez is one of the most iconic climbs in the Tour de France, featuring 21 hairpin bends over 13.8 km. It has been a frequent summit finish since 1952.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-13",
+      "question": "What type of bicycle is used in track cycling?",
+      "options": [
+        "Fixed-gear bike with no brakes",
+        "Road bike with gears",
+        "Mountain bike",
+        "Recumbent bike"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Track cycling uses fixed-gear bicycles with no brakes, no gears, and no freewheel mechanism. The bikes are designed for the velodrome and cannot coast — pedals always turn when the wheels turn.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-14",
+      "question": "When did cycling become part of the modern Olympic Games?",
+      "options": [
+        "1924",
+        "1912",
+        "1896",
+        "1900"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cycling has been part of every modern Olympic Games since the first in Athens in 1896. Track cycling and road cycling were the original disciplines.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "cycling-tour-quiz-15",
+      "question": "What is a 'domestique' in professional cycling?",
+      "options": [
+        "A cycling fan",
+        "A race official",
+        "A support rider who assists the team leader",
+        "A team leader"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A domestique is a team rider who works to support the team leader by pacing, fetching water bottles, shielding from wind, and chasing down breakaway groups.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

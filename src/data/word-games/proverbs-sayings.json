@@ -7,8 +7,13 @@
     {
       "id": "proverb-1",
       "question": "Complete the proverb: \"A stitch in time saves ___\"",
-      "options": ["Nine", "Time", "Money", "Lives"],
-      "correctAnswer": 0,
+      "options": [
+        "Lives",
+        "Nine",
+        "Time",
+        "Money"
+      ],
+      "correctAnswer": 1,
       "explanation": "\"A stitch in time saves nine\" means that fixing a small problem right away prevents it from becoming a much larger one. The idea is that one stitch now avoids nine stitches later.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -16,8 +21,13 @@
     {
       "id": "proverb-2",
       "question": "Complete the proverb: \"The early bird catches the ___\"",
-      "options": ["Fish", "Prize", "Worm", "Seed"],
-      "correctAnswer": 2,
+      "options": [
+        "Worm",
+        "Fish",
+        "Seed",
+        "Prize"
+      ],
+      "correctAnswer": 0,
       "explanation": "\"The early bird catches the worm\" means that those who act promptly or arrive first have the best chance of success. It dates back to a 1670 collection of English proverbs.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -25,7 +35,12 @@
     {
       "id": "proverb-3",
       "question": "Complete the proverb: \"Don't count your chickens before they ___\"",
-      "options": ["Grow up", "Hatch", "Lay eggs", "Come home"],
+      "options": [
+        "Lay eggs",
+        "Hatch",
+        "Grow up",
+        "Come home"
+      ],
       "correctAnswer": 1,
       "explanation": "\"Don't count your chickens before they hatch\" warns against assuming success before it actually happens. Not every egg will produce a chick, so it's wise not to rely on uncertain outcomes.",
       "difficulty": "easy",
@@ -34,8 +49,13 @@
     {
       "id": "proverb-4",
       "question": "Complete the proverb: \"When in Rome, do as the ___ do\"",
-      "options": ["Italians", "Romans", "Locals", "Wise"],
-      "correctAnswer": 1,
+      "options": [
+        "Locals",
+        "Wise",
+        "Romans",
+        "Italians"
+      ],
+      "correctAnswer": 2,
       "explanation": "\"When in Rome, do as the Romans do\" advises adapting to the customs of wherever you find yourself. It is attributed to Saint Ambrose in the 4th century.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -43,8 +63,13 @@
     {
       "id": "proverb-5",
       "question": "Complete the proverb: \"A rolling stone gathers no ___\"",
-      "options": ["Dust", "Speed", "Moss", "Dirt"],
-      "correctAnswer": 2,
+      "options": [
+        "Speed",
+        "Moss",
+        "Dirt",
+        "Dust"
+      ],
+      "correctAnswer": 1,
       "explanation": "\"A rolling stone gathers no moss\" means that a person who keeps moving and never settles down won't accumulate responsibilities or attachments. It dates back to the Latin writer Publilius Syrus.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -52,8 +77,13 @@
     {
       "id": "proverb-6",
       "question": "Complete the proverb: \"People who live in glass houses shouldn't throw ___\"",
-      "options": ["Parties", "Stones", "Tantrums", "Shade"],
-      "correctAnswer": 1,
+      "options": [
+        "Shade",
+        "Tantrums",
+        "Stones",
+        "Parties"
+      ],
+      "correctAnswer": 2,
       "explanation": "\"People who live in glass houses shouldn't throw stones\" means you shouldn't criticize others for faults you share yourself. The saying has been traced back to Geoffrey Chaucer's writings in the 14th century.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -61,8 +91,13 @@
     {
       "id": "proverb-7",
       "question": "Complete the proverb: \"The pen is mightier than the ___\"",
-      "options": ["Fist", "Sword", "Hammer", "Shield"],
-      "correctAnswer": 1,
+      "options": [
+        "Sword",
+        "Shield",
+        "Hammer",
+        "Fist"
+      ],
+      "correctAnswer": 0,
       "explanation": "\"The pen is mightier than the sword\" means that written words and ideas can be more powerful and influential than military force. It was coined by Edward Bulwer-Lytton in his 1839 play 'Richelieu'.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -70,8 +105,13 @@
     {
       "id": "proverb-8",
       "question": "Complete the proverb: \"A bird in the hand is worth two in the ___\"",
-      "options": ["Tree", "Sky", "Bush", "Nest"],
-      "correctAnswer": 2,
+      "options": [
+        "Nest",
+        "Bush",
+        "Tree",
+        "Sky"
+      ],
+      "correctAnswer": 1,
       "explanation": "\"A bird in the hand is worth two in the bush\" means it's better to hold onto something you already have than to risk it for something greater that you might not get. It appears in print as early as the 15th century.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -79,8 +119,13 @@
     {
       "id": "proverb-9",
       "question": "Complete the proverb: \"You can lead a horse to water, but you can't make it ___\"",
-      "options": ["Stay", "Swim", "Drink", "Bathe"],
-      "correctAnswer": 2,
+      "options": [
+        "Swim",
+        "Bathe",
+        "Stay",
+        "Drink"
+      ],
+      "correctAnswer": 3,
       "explanation": "\"You can lead a horse to water, but you can't make it drink\" means you can give someone an opportunity, but you can't force them to take it. It is one of the oldest English proverbs, recorded as early as 1175.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -88,8 +133,13 @@
     {
       "id": "proverb-10",
       "question": "Complete the proverb: \"The road to hell is paved with good ___\"",
-      "options": ["Deeds", "Intentions", "Manners", "Wishes"],
-      "correctAnswer": 1,
+      "options": [
+        "Manners",
+        "Deeds",
+        "Intentions",
+        "Wishes"
+      ],
+      "correctAnswer": 2,
       "explanation": "\"The road to hell is paved with good intentions\" means that merely intending to do good is not enough — what matters is actually following through. The saying is often attributed to Saint Bernard of Clairvaux in the 12th century.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -97,8 +147,13 @@
     {
       "id": "proverb-11",
       "question": "Complete the proverb: \"Discretion is the better part of ___\"",
-      "options": ["Wisdom", "Courage", "Valour", "Honour"],
-      "correctAnswer": 2,
+      "options": [
+        "Honour",
+        "Valour",
+        "Courage",
+        "Wisdom"
+      ],
+      "correctAnswer": 1,
       "explanation": "\"Discretion is the better part of valour\" means that it is often wiser to avoid a dangerous situation than to confront it recklessly. It comes from Shakespeare's 'Henry IV, Part 1', spoken by the character Falstaff.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -106,7 +161,12 @@
     {
       "id": "proverb-12",
       "question": "Complete the proverb: \"A watched pot never ___\"",
-      "options": ["Cools", "Steams", "Boils", "Overflows"],
+      "options": [
+        "Cools",
+        "Overflows",
+        "Boils",
+        "Steams"
+      ],
       "correctAnswer": 2,
       "explanation": "\"A watched pot never boils\" means that time seems to pass more slowly when you're anxiously waiting for something to happen. The saying is often attributed to Benjamin Franklin.",
       "difficulty": "hard",
@@ -115,8 +175,13 @@
     {
       "id": "proverb-13",
       "question": "Complete the proverb: \"Necessity is the mother of ___\"",
-      "options": ["Creation", "Invention", "Progress", "Courage"],
-      "correctAnswer": 1,
+      "options": [
+        "Invention",
+        "Creation",
+        "Courage",
+        "Progress"
+      ],
+      "correctAnswer": 0,
       "explanation": "\"Necessity is the mother of invention\" means that difficult situations inspire creative solutions. The concept traces back to Plato's 'Republic', and the English phrasing became common in the 17th century.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -124,8 +189,13 @@
     {
       "id": "proverb-14",
       "question": "Complete the proverb: \"The apple doesn't fall far from the ___\"",
-      "options": ["Ground", "Orchard", "Branch", "Tree"],
-      "correctAnswer": 3,
+      "options": [
+        "Tree",
+        "Ground",
+        "Orchard",
+        "Branch"
+      ],
+      "correctAnswer": 0,
       "explanation": "\"The apple doesn't fall far from the tree\" means that children often resemble their parents in character or behaviour. The proverb has roots in German and other European languages dating to the 16th century.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -133,8 +203,13 @@
     {
       "id": "proverb-15",
       "question": "Complete the proverb: \"Still waters run ___\"",
-      "options": ["Cold", "Clear", "Deep", "Slow"],
-      "correctAnswer": 2,
+      "options": [
+        "Slow",
+        "Deep",
+        "Cold",
+        "Clear"
+      ],
+      "correctAnswer": 1,
       "explanation": "\"Still waters run deep\" means that a quiet or calm person may have great depth of character, knowledge, or feeling beneath the surface. It dates back to at least the 15th century in English.",
       "difficulty": "hard",
       "category": "vocabulary"

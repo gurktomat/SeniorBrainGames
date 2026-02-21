@@ -8,65 +8,65 @@
       "id": "planet-facts-quiz-1",
       "question": "Which planet is known as the 'Red Planet'?",
       "options": [
-        "Venus",
-        "Jupiter",
         "Mars",
-        "Mercury"
+        "Mercury",
+        "Jupiter",
+        "Venus"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "planet-facts-quiz-2",
       "question": "Which planet is the largest in our solar system?",
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "planet-facts-quiz-3",
+      "question": "Which planet is famous for its prominent ring system?",
       "options": [
         "Saturn",
         "Neptune",
         "Uranus",
         "Jupiter"
       ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "planet-facts-quiz-3",
-      "question": "Which planet is famous for its prominent ring system?",
-      "options": [
-        "Jupiter",
-        "Saturn",
-        "Uranus",
-        "Neptune"
-      ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "planet-facts-quiz-4",
       "question": "Which planet is closest to the Sun?",
       "options": [
-        "Venus",
         "Mercury",
-        "Mars",
-        "Earth"
+        "Earth",
+        "Venus",
+        "Mars"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "planet-facts-quiz-5",
       "question": "Which planet rotates on its side, with an axial tilt of about 98 degrees?",
       "options": [
-        "Neptune",
         "Saturn",
         "Uranus",
-        "Pluto"
+        "Pluto",
+        "Neptune"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "planet-facts-quiz-6",
       "question": "Which planet has the Great Red Spot, a giant storm?",
       "options": [
         "Mars",
-        "Saturn",
+        "Neptune",
         "Jupiter",
-        "Neptune"
+        "Saturn"
       ],
       "correctAnswer": 2
     },
@@ -75,41 +75,41 @@
       "question": "Which planet is often called Earth's 'sister planet' due to its similar size?",
       "options": [
         "Mars",
-        "Mercury",
         "Venus",
+        "Mercury",
         "Neptune"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "planet-facts-quiz-8",
       "question": "Which planet has the strongest winds in the solar system, reaching up to 1,200 mph?",
       "options": [
+        "Uranus",
         "Jupiter",
         "Saturn",
-        "Neptune",
-        "Uranus"
+        "Neptune"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "planet-facts-quiz-9",
       "question": "Which planet has the hottest surface temperature, despite not being closest to the Sun?",
       "options": [
-        "Mercury",
-        "Mars",
         "Venus",
-        "Jupiter"
+        "Jupiter",
+        "Mercury",
+        "Mars"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "planet-facts-quiz-10",
       "question": "Which planet has the largest volcano in the solar system, Olympus Mons?",
       "options": [
         "Venus",
-        "Earth",
         "Jupiter",
+        "Earth",
         "Mars"
       ],
       "correctAnswer": 3
@@ -118,56 +118,56 @@
       "id": "planet-facts-quiz-11",
       "question": "Which planet has the shortest day, rotating once in about 10 hours?",
       "options": [
+        "Neptune",
         "Saturn",
         "Jupiter",
-        "Mars",
-        "Neptune"
+        "Mars"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "planet-facts-quiz-12",
       "question": "Which planet is the only one known to support life?",
       "options": [
-        "Mars",
-        "Venus",
         "Earth",
-        "Europa"
+        "Mars",
+        "Europa",
+        "Venus"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "planet-facts-quiz-13",
       "question": "Which planet takes approximately 165 Earth years to orbit the Sun?",
       "options": [
-        "Saturn",
-        "Uranus",
+        "Pluto",
         "Neptune",
-        "Pluto"
+        "Saturn",
+        "Uranus"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "planet-facts-quiz-14",
       "question": "Which planet has a moon named Titan that has a thick atmosphere?",
       "options": [
-        "Jupiter",
-        "Saturn",
+        "Neptune",
         "Uranus",
-        "Neptune"
+        "Saturn",
+        "Jupiter"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "planet-facts-quiz-15",
       "question": "Which planet has the most moons in our solar system?",
       "options": [
+        "Uranus",
         "Jupiter",
         "Saturn",
-        "Uranus",
         "Neptune"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

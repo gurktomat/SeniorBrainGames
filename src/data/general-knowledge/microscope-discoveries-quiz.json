@@ -1,0 +1,173 @@
+{
+  "id": "microscope-discoveries-quiz",
+  "title": "Microscope Discoveries",
+  "description": "Explore the tiny world revealed by microscopes and the scientists who made key discoveries",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "microscope-discoveries-quiz-1",
+      "question": "Who is credited with building one of the first practical microscopes and observing 'animalcules' (microorganisms)?",
+      "options": [
+        "Robert Hooke",
+        "Hans Janssen",
+        "Antonie van Leeuwenhoek",
+        "Galileo Galilei"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "microscope-discoveries-quiz-2",
+      "question": "Robert Hooke coined which biological term after observing cork under a microscope in 1665?",
+      "options": [
+        "Tissue",
+        "Cell",
+        "Organism",
+        "Nucleus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microscope-discoveries-quiz-3",
+      "question": "What type of microscope uses a beam of electrons instead of light to create images?",
+      "options": [
+        "Phase-contrast microscope",
+        "Electron microscope",
+        "Optical microscope",
+        "Fluorescence microscope"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microscope-discoveries-quiz-4",
+      "question": "What was Louis Pasteur able to disprove using microscopy, leading to the germ theory of disease?",
+      "options": [
+        "Spontaneous generation",
+        "Phlogiston theory",
+        "Humoral theory",
+        "Atomic theory"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microscope-discoveries-quiz-5",
+      "question": "What are the tiny organelles inside cells that produce energy, often called the 'powerhouse of the cell'?",
+      "options": [
+        "Lysosomes",
+        "Ribosomes",
+        "Chloroplasts",
+        "Mitochondria"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microscope-discoveries-quiz-6",
+      "question": "Which type of microscope can produce 3D images of a specimen's surface?",
+      "options": [
+        "Transmission electron microscope",
+        "Light microscope",
+        "Confocal microscope",
+        "Scanning electron microscope"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microscope-discoveries-quiz-7",
+      "question": "What did Alexander Fleming famously discover growing in a petri dish in 1928?",
+      "options": [
+        "Vitamin C",
+        "Aspirin",
+        "Insulin",
+        "Penicillin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microscope-discoveries-quiz-8",
+      "question": "What is the maximum useful magnification of a standard light microscope?",
+      "options": [
+        "About 1,000x",
+        "About 500x",
+        "About 100x",
+        "About 10,000x"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microscope-discoveries-quiz-9",
+      "question": "What did Matthias Schleiden and Theodor Schwann propose in 1839?",
+      "options": [
+        "Evolution theory",
+        "Cell theory",
+        "Atomic theory",
+        "Germ theory"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microscope-discoveries-quiz-10",
+      "question": "What structure, visible under a microscope, carries genetic information in cells?",
+      "options": [
+        "Cell wall",
+        "Cytoplasm",
+        "Vacuole",
+        "Chromosome"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microscope-discoveries-quiz-11",
+      "question": "Which scientist first observed bacteria under a microscope in the 1670s?",
+      "options": [
+        "Robert Koch",
+        "Antonie van Leeuwenhoek",
+        "Louis Pasteur",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microscope-discoveries-quiz-12",
+      "question": "What is the technique of staining specimens to make them more visible under a microscope called?",
+      "options": [
+        "Chromatography",
+        "Histological staining",
+        "Fixation",
+        "Centrifugation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "microscope-discoveries-quiz-13",
+      "question": "The scanning tunneling microscope, which can image individual atoms, was invented in what decade?",
+      "options": [
+        "1960s",
+        "1990s",
+        "1970s",
+        "1980s"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "microscope-discoveries-quiz-14",
+      "question": "What type of blood cells, visible under a microscope, fight infections in the body?",
+      "options": [
+        "White blood cells",
+        "Plasma cells",
+        "Red blood cells",
+        "Platelets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "microscope-discoveries-quiz-15",
+      "question": "Robert Koch used microscopy to identify the bacteria responsible for which deadly disease in 1882?",
+      "options": [
+        "Smallpox",
+        "Typhoid",
+        "Tuberculosis",
+        "Cholera"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

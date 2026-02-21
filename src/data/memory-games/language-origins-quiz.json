@@ -8,8 +8,8 @@
       "id": "language-origins-quiz-1",
       "question": "The English word 'kindergarten' originated from which language?",
       "options": [
-        "Dutch",
         "Swedish",
+        "Dutch",
         "German",
         "Danish"
       ],
@@ -20,9 +20,9 @@
       "question": "The word 'tsunami' comes from which language?",
       "options": [
         "Chinese",
-        "Korean",
+        "Hawaiian",
         "Japanese",
-        "Hawaiian"
+        "Korean"
       ],
       "correctAnswer": 2
     },
@@ -31,41 +31,41 @@
       "question": "The word 'ballet' originated from which language?",
       "options": [
         "Italian",
-        "French",
         "Spanish",
-        "Russian"
+        "Russian",
+        "French"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "language-origins-quiz-4",
       "question": "The word 'algebra' comes from which language?",
       "options": [
-        "Greek",
-        "Latin",
         "Arabic",
-        "Persian"
+        "Persian",
+        "Greek",
+        "Latin"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "language-origins-quiz-5",
       "question": "The word 'piano' originated from which language?",
       "options": [
-        "French",
-        "Spanish",
         "Italian",
+        "Spanish",
+        "French",
         "Portuguese"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "language-origins-quiz-6",
       "question": "The word 'chocolate' is believed to have originated from which language?",
       "options": [
-        "Spanish",
-        "Nahuatl (Aztec)",
         "Portuguese",
+        "Nahuatl (Aztec)",
+        "Spanish",
         "Quechua"
       ],
       "correctAnswer": 1
@@ -74,10 +74,10 @@
       "id": "language-origins-quiz-7",
       "question": "The word 'democracy' comes from which ancient language?",
       "options": [
-        "Latin",
+        "Sanskrit",
         "Greek",
         "Hebrew",
-        "Sanskrit"
+        "Latin"
       ],
       "correctAnswer": 1
     },
@@ -85,32 +85,32 @@
       "id": "language-origins-quiz-8",
       "question": "The word 'safari' originated from which language?",
       "options": [
-        "Zulu",
         "Swahili",
         "Yoruba",
+        "Zulu",
         "Amharic"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "language-origins-quiz-9",
       "question": "The word 'shampoo' comes from which language?",
       "options": [
-        "Arabic",
         "Persian",
         "Hindi",
-        "Turkish"
+        "Turkish",
+        "Arabic"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "language-origins-quiz-10",
       "question": "The word 'ketchup' is believed to have originated from which language?",
       "options": [
-        "Japanese",
-        "Chinese (Hokkien)",
         "Malay",
-        "Thai"
+        "Chinese (Hokkien)",
+        "Thai",
+        "Japanese"
       ],
       "correctAnswer": 1
     },
@@ -118,21 +118,21 @@
       "id": "language-origins-quiz-11",
       "question": "The word 'yoga' originated from which language?",
       "options": [
-        "Hindi",
-        "Sanskrit",
         "Pali",
-        "Tamil"
+        "Tamil",
+        "Sanskrit",
+        "Hindi"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "language-origins-quiz-12",
       "question": "The word 'karate' comes from which language?",
       "options": [
-        "Chinese",
         "Korean",
+        "Thai",
         "Japanese",
-        "Thai"
+        "Chinese"
       ],
       "correctAnswer": 2
     },
@@ -151,10 +151,10 @@
       "id": "language-origins-quiz-14",
       "question": "The word 'boomerang' comes from which language?",
       "options": [
-        "Maori",
-        "Aboriginal Australian (Dharuk)",
         "Hawaiian",
-        "Samoan"
+        "Aboriginal Australian (Dharuk)",
+        "Samoan",
+        "Maori"
       ],
       "correctAnswer": 1
     },
@@ -162,12 +162,12 @@
       "id": "language-origins-quiz-15",
       "question": "The word 'lemon' is believed to have originated from which language?",
       "options": [
+        "Turkish",
         "Greek",
-        "Arabic",
         "Persian",
-        "Turkish"
+        "Arabic"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     }
   ]
 }

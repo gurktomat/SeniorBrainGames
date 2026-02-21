@@ -8,21 +8,21 @@
       "id": "latin-phrases-1",
       "question": "What does the Latin phrase 'carpe diem' mean?",
       "options": [
-        "Love conquers all",
         "Seize the day",
+        "For the people",
         "In good faith",
-        "For the people"
+        "Love conquers all"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "latin-phrases-2",
       "question": "What does 'et cetera' (etc.) literally mean?",
       "options": [
-        "And so forth",
+        "In conclusion",
         "And the rest",
         "For example",
-        "In conclusion"
+        "And so forth"
       ],
       "correctAnswer": 1
     },
@@ -30,65 +30,65 @@
       "id": "latin-phrases-3",
       "question": "The legal term 'habeas corpus' roughly translates to what?",
       "options": [
-        "Guilty as charged",
         "You shall have the body",
+        "Guilty as charged",
         "Innocent until proven",
         "The law is king"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "latin-phrases-4",
       "question": "What does 'vice versa' mean?",
       "options": [
         "Approximately",
+        "Word for word",
         "The other way around",
-        "In place of",
-        "Word for word"
+        "In place of"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "latin-phrases-5",
       "question": "What does the phrase 'bona fide' mean?",
       "options": [
-        "Good faith or genuine",
-        "Good luck",
+        "Good friend",
         "Beautiful day",
-        "Good friend"
+        "Good luck",
+        "Good faith or genuine"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "latin-phrases-6",
       "question": "What does 'per capita' literally translate to?",
       "options": [
-        "Per person",
-        "By the head",
         "For each city",
-        "By population"
+        "By population",
+        "Per person",
+        "By the head"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "latin-phrases-7",
       "question": "The phrase 'alma mater' is used to refer to what?",
       "options": [
+        "A hometown",
         "A loving mother",
-        "One's former school or university",
         "A church",
-        "A hometown"
+        "One's former school or university"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "latin-phrases-8",
       "question": "What does 'status quo' mean?",
       "options": [
-        "A new situation",
+        "A legal ruling",
         "The existing state of affairs",
         "A high rank",
-        "A legal ruling"
+        "A new situation"
       ],
       "correctAnswer": 1
     },
@@ -96,78 +96,78 @@
       "id": "latin-phrases-9",
       "question": "What does 'ad hoc' mean?",
       "options": [
-        "For this specific purpose",
-        "Permanently",
         "By accident",
+        "Permanently",
+        "For this specific purpose",
         "In advance"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "latin-phrases-10",
       "question": "The phrase 'vox populi' translates to what?",
       "options": [
-        "Voice of God",
         "Voice of the people",
         "Popular vote",
-        "Public opinion"
+        "Public opinion",
+        "Voice of God"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "latin-phrases-11",
       "question": "What does 'mea culpa' mean?",
       "options": [
-        "My mistake or my fault",
         "My country",
+        "My mistake or my fault",
         "My cup",
         "My culture"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "latin-phrases-12",
       "question": "What does the phrase 'quid pro quo' mean?",
       "options": [
         "Money for nothing",
-        "Something for something",
+        "Quick response",
         "Question and answer",
-        "Quick response"
+        "Something for something"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "latin-phrases-13",
       "question": "What does 'persona non grata' mean?",
       "options": [
+        "An unwelcome person",
         "A famous person",
         "A grateful person",
-        "An unwelcome person",
         "A personal matter"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "latin-phrases-14",
       "question": "The abbreviation 'e.g.' stands for 'exempli gratia.' What does it mean?",
       "options": [
         "And so on",
+        "In other words",
         "That is to say",
-        "For the sake of example",
-        "In other words"
+        "For the sake of example"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "latin-phrases-15",
       "question": "What does 'cogito, ergo sum' mean?",
       "options": [
         "Knowledge is power",
-        "I think, therefore I am",
         "I came, I saw, I conquered",
+        "I think, therefore I am",
         "To each his own"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

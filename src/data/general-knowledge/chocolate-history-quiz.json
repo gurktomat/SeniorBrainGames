@@ -1,0 +1,219 @@
+{
+  "id": "chocolate-history-quiz",
+  "title": "Chocolate History & Science",
+  "description": "Discover the sweet history and science behind chocolate!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "chocolate-history-quiz-1",
+      "question": "Where did chocolate originate?",
+      "options": [
+        "Mesoamerica",
+        "Africa",
+        "Europe",
+        "Asia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chocolate originated in Mesoamerica, where the ancient Maya and Aztec civilizations cultivated cacao and consumed it as a bitter, spiced beverage over 3,000 years ago.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-2",
+      "question": "What is the main ingredient in chocolate?",
+      "options": [
+        "Cacao beans",
+        "Vanilla beans",
+        "Coffee beans",
+        "Carob pods"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chocolate is made from cacao beans, which are the seeds of the Theobroma cacao tree. The name Theobroma means 'food of the gods' in Greek.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-3",
+      "question": "How did the ancient Aztecs typically consume chocolate?",
+      "options": [
+        "As solid bars",
+        "As a cold, bitter drink with spices",
+        "Mixed with honey",
+        "As a sweet dessert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Aztecs drank chocolate as a cold, frothy, bitter beverage called 'xocolatl,' often flavored with vanilla, chili peppers, and other spices. Sugar was unknown to them.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-4",
+      "question": "Which European country first brought chocolate from the Americas to Europe?",
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "England"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Spanish explorers, including Hernan Cortes, brought cacao beans back to Spain in the 16th century. The Spanish added sugar to the bitter drink, and it quickly became popular among the elite.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-5",
+      "question": "What Swiss chocolatier invented milk chocolate in 1875?",
+      "options": [
+        "Jean Tobler",
+        "Henri Nestle",
+        "Rodolphe Lindt",
+        "Daniel Peter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Daniel Peter invented milk chocolate in 1875 by adding condensed milk (developed by his neighbor Henri Nestle) to chocolate. This created a smoother, sweeter product.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-6",
+      "question": "What chemical compound in chocolate is similar to caffeine and acts as a mild stimulant?",
+      "options": [
+        "Theobromine",
+        "Serotonin",
+        "Melatonin",
+        "Dopamine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Theobromine is the primary stimulant in chocolate. It is similar to caffeine but milder, and it is the reason chocolate is toxic to dogs, who metabolize theobromine much more slowly.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-7",
+      "question": "What is the process called when chocolate develops a white, powdery coating?",
+      "options": [
+        "Blooming",
+        "Crystallization",
+        "Tempering",
+        "Molding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chocolate bloom occurs when fat or sugar rises to the surface, creating a white, powdery coating. While it looks unappetizing, bloomed chocolate is still safe to eat.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-8",
+      "question": "Which country is the world's largest producer of cacao beans?",
+      "options": [
+        "Ghana",
+        "Indonesia",
+        "Ivory Coast (Cote d'Ivoire)",
+        "Brazil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ivory Coast (Cote d'Ivoire) is the world's largest producer of cacao beans, producing about 40% of the global supply. Most of the world's cacao is grown in West Africa.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-9",
+      "question": "What is 'conching' in chocolate making?",
+      "options": [
+        "Mixing and aerating chocolate for smoothness",
+        "Adding milk to chocolate",
+        "Wrapping chocolate in foil",
+        "Harvesting cacao pods"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conching is the process of continuously mixing and aerating heated chocolate for hours or days. It develops flavor, reduces acidity, and creates the smooth texture of fine chocolate.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-10",
+      "question": "What percentage of cacao solids must dark chocolate contain to be considered dark chocolate?",
+      "options": [
+        "At least 35%",
+        "At least 20%",
+        "At least 50%",
+        "At least 70%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "While definitions vary, dark chocolate generally contains at least 50-70% cacao solids. In the US, the FDA requires dark chocolate to contain at least 35% chocolate liquor.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-11",
+      "question": "White chocolate is technically not true chocolate because it lacks what?",
+      "options": [
+        "Milk",
+        "Sugar",
+        "Vanilla",
+        "Cacao solids (cocoa mass)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "White chocolate contains cocoa butter, sugar, and milk but no cacao solids (cocoa mass), which is what gives dark and milk chocolate their brown color and characteristic flavor.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-12",
+      "question": "Cacao beans must undergo which process before they develop their chocolate flavor?",
+      "options": [
+        "Smoking",
+        "Fermentation and roasting",
+        "Freezing",
+        "Boiling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Raw cacao beans are bitter and flavorless. They must be fermented for several days and then roasted to develop the complex flavors we associate with chocolate.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-13",
+      "question": "The Aztecs used cacao beans as what, besides a food ingredient?",
+      "options": [
+        "Medicine only",
+        "Currency",
+        "Building material",
+        "Jewelry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Aztecs used cacao beans as currency. A turkey cost about 100 beans, and a fresh avocado cost about 3 beans. Cacao was literally money that grew on trees.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-14",
+      "question": "Which company produced the first mass-produced chocolate bar in 1847?",
+      "options": [
+        "Hershey's",
+        "Cadbury",
+        "Lindt",
+        "J.S. Fry & Sons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "J.S. Fry & Sons of Bristol, England, produced the first modern chocolate bar in 1847 by combining cocoa butter, cocoa powder, and sugar into a moldable paste.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "chocolate-history-quiz-15",
+      "question": "Why is chocolate toxic to dogs?",
+      "options": [
+        "Because of caffeine only",
+        "Because of the sugar content",
+        "Because of the fat content",
+        "Because dogs cannot metabolize theobromine quickly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dogs metabolize theobromine much more slowly than humans, allowing it to build up to toxic levels. Dark chocolate is more dangerous than milk chocolate due to higher theobromine content.",
+      "difficulty": "easy",
+      "category": "food"
+    }
+  ]
+}

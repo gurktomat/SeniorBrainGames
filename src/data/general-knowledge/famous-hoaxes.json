@@ -7,91 +7,166 @@
     {
       "id": "famous-hoaxes-1",
       "question": "The 'Piltdown Man,' a skull fragment claimed to be a missing evolutionary link, was revealed as a hoax in 1953. Where was it 'found'?",
-      "options": ["France", "Germany", "England", "Scotland"],
-      "correctAnswer": 2
+      "options": [
+        "Germany",
+        "Scotland",
+        "France",
+        "England"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-hoaxes-2",
       "question": "Orson Welles' 1938 radio broadcast of which science fiction story caused widespread panic among listeners?",
-      "options": ["The Time Machine", "War of the Worlds", "The Invisible Man", "20,000 Leagues Under the Sea"],
+      "options": [
+        "20,000 Leagues Under the Sea",
+        "War of the Worlds",
+        "The Time Machine",
+        "The Invisible Man"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-hoaxes-3",
       "question": "The Cardiff Giant, a 10-foot 'petrified man' discovered in 1869, was actually carved from what material?",
-      "options": ["Marble", "Concrete", "Gypsum", "Limestone"],
+      "options": [
+        "Limestone",
+        "Concrete",
+        "Gypsum",
+        "Marble"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-hoaxes-4",
       "question": "In 1983, the 'Hitler Diaries' were revealed to be forgeries. Which German magazine had purchased them?",
-      "options": ["Der Spiegel", "Die Zeit", "Stern", "Bild"],
-      "correctAnswer": 2
+      "options": [
+        "Der Spiegel",
+        "Stern",
+        "Bild",
+        "Die Zeit"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-hoaxes-5",
       "question": "The Loch Ness Monster's most famous photograph, the 'Surgeon's Photograph' of 1934, was later revealed to be what?",
-      "options": ["A floating log", "A toy submarine with a sculpted head", "A swimming elephant", "A manipulated shadow"],
-      "correctAnswer": 1
+      "options": [
+        "A toy submarine with a sculpted head",
+        "A floating log",
+        "A swimming elephant",
+        "A manipulated shadow"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-hoaxes-6",
       "question": "P.T. Barnum's 'Feejee Mermaid' exhibit was actually made by combining a monkey with what other creature?",
-      "options": ["A dolphin", "A seal", "A fish", "A manatee"],
-      "correctAnswer": 2
+      "options": [
+        "A fish",
+        "A manatee",
+        "A dolphin",
+        "A seal"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-hoaxes-7",
       "question": "The Cottingley Fairies photographs, taken by two girls in 1917, fooled which famous author of Sherlock Holmes?",
-      "options": ["H.G. Wells", "Arthur Conan Doyle", "Rudyard Kipling", "Bram Stoker"],
+      "options": [
+        "H.G. Wells",
+        "Arthur Conan Doyle",
+        "Rudyard Kipling",
+        "Bram Stoker"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-hoaxes-8",
       "question": "In 1835, the 'Great Moon Hoax' published in the New York Sun claimed what had been discovered on the Moon?",
-      "options": ["Gold deposits", "Ancient ruins", "Bat-winged humanoids and other life", "Underground oceans"],
-      "correctAnswer": 2
+      "options": [
+        "Ancient ruins",
+        "Underground oceans",
+        "Gold deposits",
+        "Bat-winged humanoids and other life"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-hoaxes-9",
       "question": "Bernie Madoff's Ponzi scheme, uncovered in 2008, defrauded investors of approximately how much?",
-      "options": ["$5 billion", "£17 billion", "$65 billion", "$120 billion"],
-      "correctAnswer": 2
+      "options": [
+        "$120 billion",
+        "$65 billion",
+        "£17 billion",
+        "$5 billion"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-hoaxes-10",
       "question": "The 'Turk,' an 18th-century chess-playing automaton, was actually operated by what?",
-      "options": ["Clockwork gears", "A hidden human chess player", "An early computer", "Trained pigeons"],
-      "correctAnswer": 1
+      "options": [
+        "An early computer",
+        "Clockwork gears",
+        "A hidden human chess player",
+        "Trained pigeons"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-hoaxes-11",
       "question": "Which company's stock price collapsed in 2001 after revelations of massive accounting fraud, becoming the largest bankruptcy in U.S. history at the time?",
-      "options": ["WorldCom", "Enron", "Lehman Brothers", "Tyco"],
-      "correctAnswer": 1
+      "options": [
+        "Tyco",
+        "Lehman Brothers",
+        "WorldCom",
+        "Enron"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-hoaxes-12",
       "question": "The crop circles that appeared in English fields in the 1970s and 80s were eventually claimed by which pair of hoaxers?",
-      "options": ["Smith and Jones", "Doug Bower and Dave Chorley", "Watson and Crick", "Gilbert and Sullivan"],
-      "correctAnswer": 1
+      "options": [
+        "Doug Bower and Dave Chorley",
+        "Gilbert and Sullivan",
+        "Watson and Crick",
+        "Smith and Jones"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-hoaxes-13",
       "question": "Frank Abagnale Jr., whose story was told in the film 'Catch Me If You Can,' successfully impersonated all of the following EXCEPT?",
-      "options": ["An airline pilot", "A doctor", "A lawyer", "A U.S. Senator"],
-      "correctAnswer": 3
+      "options": [
+        "A lawyer",
+        "An airline pilot",
+        "A U.S. Senator",
+        "A doctor"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-hoaxes-14",
       "question": "In 1996, physicist Alan Sokal exposed weaknesses in academic publishing by submitting a nonsensical paper to a journal in which field?",
-      "options": ["Physics", "Cultural studies", "Biology", "Economics"],
+      "options": [
+        "Economics",
+        "Cultural studies",
+        "Biology",
+        "Physics"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "famous-hoaxes-15",
       "question": "Which Italian forger created fake Vermeer paintings so convincing that one was sold to Nazi leader Hermann Göring?",
-      "options": ["Elmyr de Hory", "Han van Meegeren", "Eric Hebborn", "John Drewe"],
+      "options": [
+        "Eric Hebborn",
+        "Han van Meegeren",
+        "John Drewe",
+        "Elmyr de Hory"
+      ],
       "correctAnswer": 1
     }
   ]

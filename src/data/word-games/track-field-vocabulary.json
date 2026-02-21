@@ -1,0 +1,219 @@
+{
+  "id": "track-field-vocabulary",
+  "title": "Track & Field Vocabulary",
+  "description": "Sprint through this quiz about track and field terminology!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "track-field-vocabulary-1",
+      "question": "In track and field, what is a 'false start'?",
+      "options": [
+        "Starting from the wrong lane",
+        "Starting without proper shoes",
+        "Tripping at the start line",
+        "Beginning to run before the starting signal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A false start occurs when an athlete begins their running motion before the starting signal (gun). Under current rules, a single false start results in disqualification.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-2",
+      "question": "What is the 'decathlon' in track and field?",
+      "options": [
+        "A combined event of ten different disciplines over two days",
+        "A competition with ten teams",
+        "A race covering ten miles",
+        "Ten laps around the track"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The decathlon is a combined event consisting of ten track and field disciplines (100m, long jump, shot put, high jump, 400m, 110m hurdles, discus, pole vault, javelin, 1500m) contested over two days.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-3",
+      "question": "In track and field, what is the 'baton' in relay races?",
+      "options": [
+        "A timing device attached to the runner",
+        "A conductor's wand used to start the race",
+        "A marker placed on the track",
+        "A hollow tube passed between runners during a relay"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The baton is a smooth, hollow tube that must be carried and passed hand-to-hand between teammates in a relay race within a designated exchange zone.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-4",
+      "question": "What does 'PB' stand for in track and field?",
+      "options": [
+        "Personal Best",
+        "Performance Bracket",
+        "Professional Body",
+        "Point Balance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PB stands for Personal Best, the best performance (fastest time, longest distance, or highest height) an athlete has achieved in their career in a particular event.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-5",
+      "question": "In the high jump, what is the 'Fosbury Flop'?",
+      "options": [
+        "A technique of going over the bar backward and headfirst",
+        "A failed attempt at clearing the bar",
+        "A celebration after clearing a height",
+        "A type of running approach"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Fosbury Flop, pioneered by Dick Fosbury at the 1968 Olympics, is a high jump technique where the athlete goes over the bar backward and headfirst, arching the back.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-6",
+      "question": "What is the 'steeple' in steeplechase?",
+      "options": [
+        "The finish line structure",
+        "A tall timing pole",
+        "A solid barrier that runners must jump over",
+        "A church tower near the track"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the steeplechase, runners must clear solid barriers (unlike hurdles, they do not fall if hit) and water jumps. The event's name comes from the original cross-country races between church steeples.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-7",
+      "question": "In track and field, what is 'wind-aided' (or 'wind-assisted')?",
+      "options": [
+        "A performance achieved with a tailwind exceeding the legal limit",
+        "Using a fan for cooling",
+        "Running in circles to create wind",
+        "Running in a wind tunnel for training"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A performance is wind-aided when the tailwind exceeds 2.0 meters per second, meaning the result cannot count as a record because the wind provided an unfair advantage.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-8",
+      "question": "What is the 'hammer throw' in track and field?",
+      "options": [
+        "Hitting a target with a mallet",
+        "Throwing a carpenter's hammer",
+        "A relay where teams throw objects",
+        "An event where athletes spin and throw a heavy ball attached to a wire and handle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The hammer throw involves spinning in a circle and releasing a heavy metal ball (16 lb for men, 8.8 lb for women) attached to a steel wire and handle for maximum distance.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-9",
+      "question": "In sprinting, what are 'starting blocks'?",
+      "options": [
+        "Blocks of time reserved for practice",
+        "Building blocks used in training",
+        "Devices anchored to the track providing a rigid surface for sprinters to push against at the start",
+        "Wooden blocks placed as obstacles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Starting blocks are adjustable metal devices fixed to the track surface that sprinters push against to generate maximum force at the start of a race.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-10",
+      "question": "What is a 'photo finish' in track and field?",
+      "options": [
+        "Taking photographs during the race",
+        "When the finish is so close that a high-speed camera image determines the winner",
+        "The final lap of a long-distance race",
+        "Posing for pictures after the race"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A photo finish occurs when competitors cross the finish line so closely together that a high-speed electronic timing camera is needed to determine the order and exact times.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-11",
+      "question": "In track and field, what is the 'triple jump'?",
+      "options": [
+        "Three attempts at the high jump",
+        "Jumping three hurdles in succession",
+        "An event with a hop, step (bound), and jump into a sandpit",
+        "A jump using three springboards"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The triple jump is a field event where the athlete performs a hop (landing on the takeoff foot), a step (landing on the opposite foot), and a jump (landing in the sandpit).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-12",
+      "question": "What does 'DQ' mean in track and field results?",
+      "options": [
+        "Disqualified",
+        "Distance Qualified",
+        "Distance Quota",
+        "Double Qualifying"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DQ stands for disqualified, meaning an athlete has been removed from the results for a rule violation such as a false start, lane infringement, or illegal technique.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-13",
+      "question": "In the pole vault, what is the 'plant'?",
+      "options": [
+        "The pole standing upright",
+        "The moment the vaulter drives the pole tip into the box to begin the vault",
+        "A flower placed at the pit",
+        "The landing area"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The plant is the critical phase where the pole vaulter drives the end of the pole into the box (a metal-lined trough) while transitioning from the approach run into the vault.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-14",
+      "question": "What is a 'scratch' in field events?",
+      "options": [
+        "A foul attempt that does not count",
+        "Withdrawing from the event",
+        "An injury from falling",
+        "A mark on the runway"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A scratch (or foul) in field events such as long jump or javelin is an invalid attempt, typically because the athlete stepped past the foul line, and the attempt does not count.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "track-field-vocabulary-15",
+      "question": "In track and field, what is the 'exchange zone' in relay races?",
+      "options": [
+        "A cooling station between events",
+        "The area where coaches communicate with athletes",
+        "An area where athletes trade equipment",
+        "The designated area within which the baton must be passed between runners"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The exchange zone (or changeover zone) is a marked 30-meter section of the track within which relay runners must complete the baton handoff; passing outside this zone results in disqualification.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

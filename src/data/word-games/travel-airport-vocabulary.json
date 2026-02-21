@@ -1,0 +1,173 @@
+{
+  "id": "travel-airport-vocabulary",
+  "title": "Travel & Airport Vocabulary",
+  "description": "Navigate the world of airport and air travel terminology like a seasoned traveler",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "travel-airport-vocabulary-1",
+      "question": "At an airport, what is a 'layover'?",
+      "options": [
+        "A flight that goes the wrong way",
+        "A delayed flight",
+        "Sleeping at the airport overnight",
+        "A scheduled stop between connecting flights where passengers wait at an intermediate airport"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "travel-airport-vocabulary-2",
+      "question": "In air travel, what does 'boarding pass' refer to?",
+      "options": [
+        "A document that grants a passenger permission to board a specific flight with seat and gate information",
+        "A pass to board a bus",
+        "A frequent flyer card",
+        "A ticket to buy a plane"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "travel-airport-vocabulary-3",
+      "question": "What is a 'red-eye flight'?",
+      "options": [
+        "A dangerous flight route",
+        "A late-night flight that departs at night and arrives early morning, often causing fatigue",
+        "A flight during sunrise",
+        "A flight with red lighting"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "travel-airport-vocabulary-4",
+      "question": "In airport terminology, what is 'customs'?",
+      "options": [
+        "The airport's rules",
+        "Local traditions",
+        "A government checkpoint where travelers' goods are inspected and duties may be collected on imports",
+        "A souvenir shop"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "travel-airport-vocabulary-5",
+      "question": "What does 'carry-on luggage' refer to?",
+      "options": [
+        "Luggage carried by porters",
+        "A small bag that passengers are allowed to bring into the aircraft cabin",
+        "Luggage that is checked",
+        "Oversized bags"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "travel-airport-vocabulary-6",
+      "question": "In travel terminology, what is 'jet lag'?",
+      "options": [
+        "A type of turbulence",
+        "A temporary sleep disorder caused by traveling across multiple time zones, disrupting the body's internal clock",
+        "An engine delay",
+        "A slow aircraft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "travel-airport-vocabulary-7",
+      "question": "At an airport, what is 'duty-free'?",
+      "options": [
+        "Free items for travelers",
+        "A security-free zone",
+        "Shops run by volunteers",
+        "A retail area where goods are sold without local or national taxes and duties"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "travel-airport-vocabulary-8",
+      "question": "What does 'terminal' mean in the context of an airport?",
+      "options": [
+        "A bus station",
+        "The end of a runway",
+        "A building where passengers board and disembark from aircraft",
+        "The last flight of the day"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "travel-airport-vocabulary-9",
+      "question": "In air travel, what is a 'connecting flight'?",
+      "options": [
+        "A flight that requires passengers to change planes at an intermediate airport to reach their destination",
+        "A flight with Wi-Fi",
+        "A flight that connects two countries",
+        "Two planes flying together"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "travel-airport-vocabulary-10",
+      "question": "What does 'tarmac' refer to at an airport?",
+      "options": [
+        "The paved surface area where aircraft taxi, park, and are loaded",
+        "The control tower",
+        "The baggage claim area",
+        "The check-in counter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "travel-airport-vocabulary-11",
+      "question": "In travel, what is an 'itinerary'?",
+      "options": [
+        "A packing list",
+        "A detailed plan or schedule for a journey, including dates, destinations, and activities",
+        "A type of ticket",
+        "A travel insurance policy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "travel-airport-vocabulary-12",
+      "question": "What does 'turbulence' refer to in air travel?",
+      "options": [
+        "A noisy cabin",
+        "Mechanical failure",
+        "Irregular atmospheric motion causing sudden, bumpy movement of the aircraft",
+        "Engine trouble"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "travel-airport-vocabulary-13",
+      "question": "At an airport, what is the 'baggage carousel'?",
+      "options": [
+        "A luggage cart",
+        "A bag scanning machine",
+        "A rotating conveyor belt in the arrivals area where passengers collect their checked bags",
+        "A luggage store"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "travel-airport-vocabulary-14",
+      "question": "In travel terminology, what does 'visa' refer to?",
+      "options": [
+        "A boarding pass",
+        "A credit card",
+        "A travel insurance document",
+        "An official endorsement or permit in a passport allowing entry into a specific country"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "travel-airport-vocabulary-15",
+      "question": "What is an 'airline lounge' at an airport?",
+      "options": [
+        "A duty-free shop",
+        "The airplane cabin",
+        "A private area offering comfortable seating, food, and drinks for premium or qualifying travelers",
+        "A waiting area for all passengers"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

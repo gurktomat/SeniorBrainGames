@@ -9,11 +9,11 @@
       "question": "Which candy bar, introduced in 1930, features nougat, caramel, and peanuts covered in chocolate?",
       "options": [
         "Milky Way",
-        "Snickers",
         "Baby Ruth",
-        "3 Musketeers"
+        "3 Musketeers",
+        "Snickers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-candy-bars-2",
@@ -32,8 +32,8 @@
       "options": [
         "Pixy Stix",
         "Nik-L-Nips",
-        "Fun Dip",
-        "Pop Rocks"
+        "Pop Rocks",
+        "Fun Dip"
       ],
       "correctAnswer": 1
     },
@@ -41,9 +41,9 @@
       "id": "retro-candy-bars-4",
       "question": "What classic candy bar features a crispy wafer covered in chocolate, made by Nestle?",
       "options": [
-        "Butterfinger",
-        "Kit Kat",
         "Twix",
+        "Kit Kat",
+        "Butterfinger",
         "100 Grand"
       ],
       "correctAnswer": 1
@@ -52,10 +52,10 @@
       "id": "retro-candy-bars-5",
       "question": "Which candy, introduced in 1949, comes in a character-shaped dispenser?",
       "options": [
-        "Smarties",
+        "SweeTarts",
         "PEZ",
-        "Necco Wafers",
-        "SweeTarts"
+        "Smarties",
+        "Necco Wafers"
       ],
       "correctAnswer": 1
     },
@@ -63,21 +63,21 @@
       "id": "retro-candy-bars-6",
       "question": "What popular penny candy featured a chewy caramel center wrapped in a hard candy shell?",
       "options": [
-        "Sugar Daddy",
         "Bit-O-Honey",
-        "Goetze's Caramel Creams",
-        "Mary Jane"
+        "Mary Jane",
+        "Sugar Daddy",
+        "Goetze's Caramel Creams"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "retro-candy-bars-7",
       "question": "Which candy bar was named after the horse that won the Kentucky Derby in 1921?",
       "options": [
+        "Bit-O-Honey",
         "Butterfinger",
         "Oh Henry!",
-        "Bit-O-Honey",
-        "None \u2014 this is a common myth about Baby Ruth"
+        "None — this is a common myth about Baby Ruth"
       ],
       "correctAnswer": 3
     },
@@ -85,8 +85,8 @@
       "id": "retro-candy-bars-8",
       "question": "What colorful candy-coated chocolates were first introduced in 1941 for American soldiers?",
       "options": [
-        "Smarties",
         "Skittles",
+        "Smarties",
         "M&M's",
         "Reese's Pieces"
       ],
@@ -97,20 +97,20 @@
       "question": "Which Clark Bar competitor, discontinued and revived multiple times, featured crunchy peanut butter in a chocolate shell?",
       "options": [
         "Zagnut",
-        "Butterfinger",
         "5th Avenue",
+        "Butterfinger",
         "Chick-O-Stick"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "retro-candy-bars-10",
       "question": "What nostalgic candy came as long paper strips dotted with small sugar buttons?",
       "options": [
-        "Candy Necklaces",
+        "Pixy Stix",
         "Candy Buttons",
         "Necco Wafers",
-        "Pixy Stix"
+        "Candy Necklaces"
       ],
       "correctAnswer": 1
     },
@@ -118,20 +118,20 @@
       "id": "retro-candy-bars-11",
       "question": "Which candy bar, introduced in 1928, consists of chocolate-covered coconut?",
       "options": [
-        "Almond Joy",
         "Mounds",
-        "Bounty",
-        "Zero Bar"
+        "Almond Joy",
+        "Zero Bar",
+        "Bounty"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-candy-bars-12",
       "question": "What was the original name of the Twix candy bar when it was first sold in the UK in 1967?",
       "options": [
         "Raider",
-        "Twix",
         "Cookie Crunch",
+        "Twix",
         "Biscuit Bar"
       ],
       "correctAnswer": 0
@@ -140,21 +140,21 @@
       "id": "retro-candy-bars-13",
       "question": "Which classic candy featured flavored powder that you dipped a sugar stick into?",
       "options": [
-        "Pixy Stix",
         "Pop Rocks",
         "Fun Dip",
-        "Zotz"
+        "Zotz",
+        "Pixy Stix"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "retro-candy-bars-14",
       "question": "What candy bar, introduced in 1932, was originally sold as three separate pieces?",
       "options": [
-        "Snickers",
+        "Charleston Chew",
         "3 Musketeers",
         "Milky Way",
-        "Charleston Chew"
+        "Snickers"
       ],
       "correctAnswer": 1
     },
@@ -162,12 +162,12 @@
       "id": "retro-candy-bars-15",
       "question": "Which company produced the iconic Necco Wafers, one of America's oldest candies?",
       "options": [
-        "Hershey",
-        "New England Confectionery Company",
         "Mars",
-        "Wrigley"
+        "Wrigley",
+        "New England Confectionery Company",
+        "Hershey"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

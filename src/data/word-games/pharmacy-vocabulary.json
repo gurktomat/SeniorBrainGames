@@ -1,0 +1,173 @@
+{
+  "id": "pharmacy-vocabulary",
+  "title": "Pharmacy Vocabulary",
+  "description": "Fill your prescription for knowledge with this quiz on pharmacy and pharmaceutical terminology.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "pharmacy-vocabulary-1",
+      "question": "What does the abbreviation 'Rx' stand for in pharmacy?",
+      "options": [
+        "Required examination",
+        "Refill extra",
+        "A symbol derived from the Latin word 'recipe,' meaning 'take'",
+        "Registered pharmaceutical"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-2",
+      "question": "What does 'compounding' mean in pharmacy?",
+      "options": [
+        "Doubling a drug's dosage",
+        "Adding interest to a pharmacy bill",
+        "Custom-preparing medications by mixing individual ingredients to meet a patient's specific needs",
+        "Combining two prescriptions"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-3",
+      "question": "What does 'BID' mean on a prescription?",
+      "options": [
+        "Before intake of dinner",
+        "Before initial dose",
+        "Twice a day",
+        "Best if dissolved"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-4",
+      "question": "What is a 'formulary'?",
+      "options": [
+        "A type of pharmacy license",
+        "A pharmacy's recipe book",
+        "A mathematical formula for drug dosages",
+        "A list of prescription drugs covered by a particular insurance plan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacy-vocabulary-5",
+      "question": "What does 'contraindication' mean?",
+      "options": [
+        "A condition or factor that makes a particular treatment inadvisable",
+        "A positive effect of a drug",
+        "A secondary use for a medication",
+        "A drug that requires a prescription"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacy-vocabulary-6",
+      "question": "What is a 'generic drug'?",
+      "options": [
+        "A medication with the same active ingredients as a brand-name drug but typically sold at a lower price",
+        "A drug available without prescription",
+        "A drug that treats general symptoms",
+        "A low-quality medication"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacy-vocabulary-7",
+      "question": "What does 'PRN' mean on a prescription label?",
+      "options": [
+        "Please request new",
+        "Prior to next refill",
+        "As needed",
+        "Pharmacy registered number"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-8",
+      "question": "What is 'pharmacokinetics'?",
+      "options": [
+        "The study of pharmacy economics",
+        "The speed at which a pharmacy fills prescriptions",
+        "Exercise recommendations on a prescription",
+        "The study of how the body absorbs, distributes, metabolizes, and excretes drugs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacy-vocabulary-9",
+      "question": "What does 'dispense' mean in pharmacy?",
+      "options": [
+        "To prepare and provide medication to a patient according to a prescription",
+        "To throw away expired drugs",
+        "To prescribe a medication",
+        "To return unused medication"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacy-vocabulary-10",
+      "question": "What is an 'excipient'?",
+      "options": [
+        "An inactive substance used as a carrier for the active ingredient in a medication",
+        "A rare drug side effect",
+        "A pharmacist's assistant",
+        "An expired ingredient"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pharmacy-vocabulary-11",
+      "question": "What does 'QD' mean on a prescription?",
+      "options": [
+        "Quickly dissolve",
+        "Quarter dose",
+        "Once a day",
+        "Quite dangerous"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-12",
+      "question": "What is 'bioavailability'?",
+      "options": [
+        "A drug's organic certification",
+        "The shelf life of a medication",
+        "Whether a drug is available at the pharmacy",
+        "The proportion of a drug that enters the bloodstream and has an active effect"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "pharmacy-vocabulary-13",
+      "question": "What does 'titration' mean in pharmacy?",
+      "options": [
+        "Labeling a prescription bottle",
+        "Mixing two liquid medications",
+        "Gradually adjusting the dose of a medication to find the optimal amount",
+        "Testing a drug for purity"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "pharmacy-vocabulary-14",
+      "question": "What is a 'drug interaction'?",
+      "options": [
+        "A meeting between pharmacists",
+        "A situation where one drug affects the activity of another when both are taken together",
+        "A drug's expiration date",
+        "A side effect from a single medication"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "pharmacy-vocabulary-15",
+      "question": "What does 'over-the-counter' (OTC) mean?",
+      "options": [
+        "A medication available for purchase without a prescription",
+        "An expired drug returned to the counter",
+        "A drug passed over the pharmacy counter by a pharmacist",
+        "A drug sold only at a doctor's office"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

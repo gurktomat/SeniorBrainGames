@@ -8,8 +8,13 @@
     {
       "id": "fp-1",
       "question": "Who painted the Mona Lisa?",
-      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Botticelli"],
-      "correctAnswer": 1,
+      "options": [
+        "Michelangelo",
+        "Botticelli",
+        "Raphael",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Mona Lisa was painted by Leonardo da Vinci between 1503 and 1519. It hangs in the Louvre Museum in Paris.",
       "difficulty": "easy",
       "category": "art"
@@ -17,8 +22,13 @@
     {
       "id": "fp-2",
       "question": "Which artist painted 'Starry Night'?",
-      "options": ["Claude Monet", "Paul Cezanne", "Vincent van Gogh", "Edgar Degas"],
-      "correctAnswer": 2,
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cezanne",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
       "explanation": "Vincent van Gogh painted 'The Starry Night' in June 1889 while staying at the Saint-Paul-de-Mausole asylum in Saint-Remy-de-Provence, France.",
       "difficulty": "easy",
       "category": "art"
@@ -26,8 +36,13 @@
     {
       "id": "fp-3",
       "question": "Who painted the ceiling of the Sistine Chapel?",
-      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Caravaggio"],
-      "correctAnswer": 2,
+      "options": [
+        "Michelangelo",
+        "Caravaggio",
+        "Leonardo da Vinci",
+        "Raphael"
+      ],
+      "correctAnswer": 0,
       "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512. The most famous section is 'The Creation of Adam.'",
       "difficulty": "easy",
       "category": "art"
@@ -35,8 +50,13 @@
     {
       "id": "fp-4",
       "question": "Which painting features a woman with a pearl earring, painted by Johannes Vermeer?",
-      "options": ["The Milkmaid", "Girl with a Pearl Earring", "The Lacemaker", "Woman Reading a Letter"],
-      "correctAnswer": 1,
+      "options": [
+        "Girl with a Pearl Earring",
+        "The Milkmaid",
+        "The Lacemaker",
+        "Woman Reading a Letter"
+      ],
+      "correctAnswer": 0,
       "explanation": "'Girl with a Pearl Earring' was painted by Johannes Vermeer around 1665. It is sometimes called the 'Mona Lisa of the North.'",
       "difficulty": "easy",
       "category": "art"
@@ -44,8 +64,13 @@
     {
       "id": "fp-5",
       "question": "Who painted 'The Last Supper'?",
-      "options": ["Michelangelo", "Raphael", "Titian", "Leonardo da Vinci"],
-      "correctAnswer": 3,
+      "options": [
+        "Titian",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Michelangelo"
+      ],
+      "correctAnswer": 1,
       "explanation": "Leonardo da Vinci painted 'The Last Supper' between 1495 and 1498 on the wall of the dining hall at Santa Maria delle Grazie in Milan.",
       "difficulty": "easy",
       "category": "art"
@@ -53,8 +78,13 @@
     {
       "id": "fp-6",
       "question": "Which artist is known for painting 'Water Lilies,' a series of approximately 250 oil paintings?",
-      "options": ["Pierre-Auguste Renoir", "Claude Monet", "Camille Pissarro", "Alfred Sisley"],
-      "correctAnswer": 1,
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Camille Pissarro",
+        "Alfred Sisley"
+      ],
+      "correctAnswer": 0,
       "explanation": "Claude Monet painted his famous Water Lilies series over the last 30 years of his life, inspired by his flower garden at Giverny.",
       "difficulty": "medium",
       "category": "art"
@@ -62,8 +92,13 @@
     {
       "id": "fp-7",
       "question": "Who painted 'The Persistence of Memory,' featuring melting clocks?",
-      "options": ["Pablo Picasso", "Salvador Dali", "Rene Magritte", "Max Ernst"],
-      "correctAnswer": 1,
+      "options": [
+        "Salvador Dali",
+        "Rene Magritte",
+        "Max Ernst",
+        "Pablo Picasso"
+      ],
+      "correctAnswer": 0,
       "explanation": "Salvador Dali painted 'The Persistence of Memory' in 1931. It is one of the most recognizable works of Surrealism.",
       "difficulty": "medium",
       "category": "art"
@@ -71,7 +106,12 @@
     {
       "id": "fp-8",
       "question": "Which painting by Edvard Munch depicts a figure with an agonized expression against a turbulent sky?",
-      "options": ["The Scream", "Anxiety", "Despair", "The Sick Child"],
+      "options": [
+        "The Scream",
+        "Despair",
+        "Anxiety",
+        "The Sick Child"
+      ],
       "correctAnswer": 0,
       "explanation": "'The Scream' was painted by Edvard Munch in 1893. It has become one of the most iconic images of art, symbolizing modern human anxiety.",
       "difficulty": "medium",
@@ -80,7 +120,12 @@
     {
       "id": "fp-9",
       "question": "Who painted 'American Gothic,' showing a farmer and his daughter before a house with a Gothic window?",
-      "options": ["Edward Hopper", "Norman Rockwell", "Grant Wood", "Andrew Wyeth"],
+      "options": [
+        "Edward Hopper",
+        "Andrew Wyeth",
+        "Grant Wood",
+        "Norman Rockwell"
+      ],
       "correctAnswer": 2,
       "explanation": "Grant Wood painted 'American Gothic' in 1930. The models were his sister and his dentist. It is one of the most familiar images in American art.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "fp-10",
       "question": "Which artist painted 'Guernica,' depicting the horrors of the Spanish Civil War?",
-      "options": ["Pablo Picasso", "Joan Miro", "Francisco Goya", "Diego Rivera"],
-      "correctAnswer": 0,
+      "options": [
+        "Joan Miro",
+        "Pablo Picasso",
+        "Diego Rivera",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 1,
       "explanation": "Pablo Picasso painted 'Guernica' in 1937 in response to the bombing of the Basque town of Guernica during the Spanish Civil War.",
       "difficulty": "medium",
       "category": "art"
@@ -98,7 +148,12 @@
     {
       "id": "fp-11",
       "question": "Who painted 'The Birth of Venus,' depicting the goddess emerging from the sea?",
-      "options": ["Raphael", "Titian", "Sandro Botticelli", "Giovanni Bellini"],
+      "options": [
+        "Giovanni Bellini",
+        "Raphael",
+        "Sandro Botticelli",
+        "Titian"
+      ],
       "correctAnswer": 2,
       "explanation": "Sandro Botticelli painted 'The Birth of Venus' around 1485. It is housed in the Uffizi Gallery in Florence, Italy.",
       "difficulty": "hard",
@@ -107,8 +162,13 @@
     {
       "id": "fp-12",
       "question": "Which painting by Georges Seurat pioneered the Pointillist technique?",
-      "options": ["A Sunday Afternoon on the Island of La Grande Jatte", "Bathers at Asnieres", "The Circus", "The Eiffel Tower"],
-      "correctAnswer": 0,
+      "options": [
+        "Bathers at Asnieres",
+        "The Circus",
+        "A Sunday Afternoon on the Island of La Grande Jatte",
+        "The Eiffel Tower"
+      ],
+      "correctAnswer": 2,
       "explanation": "'A Sunday Afternoon on the Island of La Grande Jatte' (1884-1886) by Seurat is the most famous example of Pointillism, using tiny dots of color.",
       "difficulty": "hard",
       "category": "art"
@@ -116,8 +176,13 @@
     {
       "id": "fp-13",
       "question": "Who painted 'Nighthawks,' showing people in a late-night diner?",
-      "options": ["Grant Wood", "Andrew Wyeth", "Edward Hopper", "John Singer Sargent"],
-      "correctAnswer": 2,
+      "options": [
+        "Grant Wood",
+        "Andrew Wyeth",
+        "John Singer Sargent",
+        "Edward Hopper"
+      ],
+      "correctAnswer": 3,
       "explanation": "Edward Hopper painted 'Nighthawks' in 1942. It depicts customers in a downtown diner late at night and is considered his most famous work.",
       "difficulty": "hard",
       "category": "art"
@@ -125,7 +190,12 @@
     {
       "id": "fp-14",
       "question": "Which Dutch master painted 'The Night Watch' in 1642?",
-      "options": ["Johannes Vermeer", "Rembrandt van Rijn", "Frans Hals", "Jan Steen"],
+      "options": [
+        "Frans Hals",
+        "Rembrandt van Rijn",
+        "Johannes Vermeer",
+        "Jan Steen"
+      ],
       "correctAnswer": 1,
       "explanation": "Rembrandt van Rijn painted 'The Night Watch' in 1642. It is one of the most famous Dutch Golden Age paintings and hangs in the Rijksmuseum in Amsterdam.",
       "difficulty": "hard",
@@ -134,8 +204,13 @@
     {
       "id": "fp-15",
       "question": "Who painted 'Christina's World,' showing a woman crawling through a field toward a farmhouse?",
-      "options": ["Edward Hopper", "Andrew Wyeth", "Winslow Homer", "Thomas Eakins"],
-      "correctAnswer": 1,
+      "options": [
+        "Andrew Wyeth",
+        "Edward Hopper",
+        "Thomas Eakins",
+        "Winslow Homer"
+      ],
+      "correctAnswer": 0,
       "explanation": "Andrew Wyeth painted 'Christina's World' in 1948. The woman depicted is Christina Olson, who had a degenerative muscular condition.",
       "difficulty": "hard",
       "category": "art"

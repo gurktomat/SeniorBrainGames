@@ -1,0 +1,219 @@
+{
+  "id": "food-preservation-methods-quiz",
+  "title": "Food Preservation Methods",
+  "description": "How much do you know about the ways we preserve food?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "food-preservation-methods-quiz-1",
+      "question": "What food preservation method involves removing water from food?",
+      "options": [
+        "Fermentation",
+        "Canning",
+        "Pasteurization",
+        "Dehydration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dehydration removes water from food, preventing the growth of bacteria, yeasts, and molds. It is one of the oldest food preservation methods known to humanity.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-2",
+      "question": "Who invented the canning process for preserving food in the early 1800s?",
+      "options": [
+        "John Mason",
+        "Nicolas Appert",
+        "Clarence Birdseye",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nicolas Appert, a French confectioner, invented the canning process around 1810. Napoleon offered a prize for a method to preserve food for his armies, which Appert won.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-3",
+      "question": "What is pasteurization named after?",
+      "options": [
+        "A type of pasta",
+        "A French city",
+        "A dairy breed",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pasteurization is named after Louis Pasteur, who developed the process in the 1860s. It involves heating liquids to kill harmful bacteria without significantly altering taste or nutrition.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-4",
+      "question": "What preservation method uses salt to draw moisture out of food?",
+      "options": [
+        "Freeze-drying",
+        "Irradiation",
+        "Smoking",
+        "Curing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Curing uses salt (and sometimes sugar and nitrates) to draw moisture out of food through osmosis, creating an environment hostile to bacteria. It has been used for thousands of years.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-5",
+      "question": "What is the process of preserving food by submerging it in vinegar called?",
+      "options": [
+        "Marinating",
+        "Pickling",
+        "Brining",
+        "Soaking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pickling preserves food by immersing it in vinegar (acetic acid) or a salt brine. The acidic environment prevents bacterial growth and gives pickled foods their characteristic tangy flavor.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-6",
+      "question": "Who is credited with developing the commercial quick-freezing process for food?",
+      "options": [
+        "John Kellogg",
+        "Clarence Birdseye",
+        "Thomas Edison",
+        "Henry Ford"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clarence Birdseye developed the quick-freezing process in the 1920s after observing how the Inuit preserved fish in the Arctic. His method preserved food quality better than slow freezing.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-7",
+      "question": "What preservation technique exposes food to smoke from burning wood?",
+      "options": [
+        "Grilling",
+        "Roasting",
+        "Charring",
+        "Smoking"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Smoking preserves food by exposing it to smoke from burning wood. The smoke contains antimicrobial compounds, and the heat helps dehydrate the food.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-8",
+      "question": "What is freeze-drying (lyophilization)?",
+      "options": [
+        "Cooling food rapidly to preserve nutrients",
+        "Drying food in a freezer",
+        "Freezing food and then removing ice by sublimation",
+        "Freezing food in liquid nitrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Freeze-drying involves freezing food and then reducing pressure to allow frozen water to sublimate (change from ice directly to vapor), preserving the food's structure and nutrients.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-9",
+      "question": "What natural preservative has been used for thousands of years and is derived from bees?",
+      "options": [
+        "Beeswax",
+        "Royal jelly",
+        "Propolis",
+        "Honey"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Honey has natural preservative properties due to its low moisture content, high sugar concentration, and slightly acidic pH. Archaeologists have found edible honey in ancient Egyptian tombs.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-10",
+      "question": "What is the primary purpose of adding sugar to fruit preserves and jams?",
+      "options": [
+        "To add color",
+        "To make it thicker",
+        "To preserve the fruit by binding water",
+        "Only for flavor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sugar preserves fruit by binding water molecules, making them unavailable to microorganisms. This high sugar concentration creates an inhospitable environment for bacteria and molds.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-11",
+      "question": "What modern preservation technique uses controlled atmosphere to extend the shelf life of produce?",
+      "options": [
+        "UV treatment",
+        "Modified atmosphere packaging (MAP)",
+        "Wax coating",
+        "Vacuum sealing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modified Atmosphere Packaging (MAP) adjusts the levels of oxygen, carbon dioxide, and nitrogen around food to slow ripening and spoilage, extending shelf life.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-12",
+      "question": "What traditional method of preserving meat involves coating it heavily in salt?",
+      "options": [
+        "Brining",
+        "Candying",
+        "Jerky making",
+        "Salt curing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Salt curing involves packing meat in large quantities of salt to draw out moisture. This ancient technique was essential for preserving meat before refrigeration.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-13",
+      "question": "What is the main advantage of vacuum-sealing food for preservation?",
+      "options": [
+        "It adds flavor",
+        "It removes oxygen to slow spoilage",
+        "It adds preservatives",
+        "It cooks the food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vacuum-sealing removes air (and oxygen) from around food, slowing the growth of aerobic bacteria and preventing oxidation that causes food to spoil.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-14",
+      "question": "What preservation process was used to make pemmican, a high-energy food of Native Americans?",
+      "options": [
+        "Smoking and salting",
+        "Freezing and thawing",
+        "Drying meat and mixing it with fat and berries",
+        "Fermentation and canning"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pemmican was made by drying lean meat, pounding it into powder, and mixing it with melted fat and sometimes dried berries. It could last for years and provided concentrated nutrition.",
+      "difficulty": "hard",
+      "category": "food"
+    },
+    {
+      "id": "food-preservation-methods-quiz-15",
+      "question": "What temperature range is known as the 'danger zone' for food safety?",
+      "options": [
+        "200-212°F (93-100°C)",
+        "0-10°F (-18 to -12°C)",
+        "32-40°F (0-4°C)",
+        "40-140°F (4-60°C)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'danger zone' is 40-140°F (4-60°C), where bacteria multiply rapidly. Food should not remain in this temperature range for more than two hours to prevent foodborne illness.",
+      "difficulty": "medium",
+      "category": "food"
+    }
+  ]
+}

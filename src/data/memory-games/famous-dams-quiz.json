@@ -1,0 +1,173 @@
+{
+  "id": "famous-dams-quiz",
+  "title": "Famous Dams Quiz",
+  "description": "Test your knowledge of the world's most impressive dams, from engineering marvels to controversial mega-projects.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-dams-quiz-1",
+      "question": "The Hoover Dam, completed in 1936, was built on which major American river?",
+      "options": [
+        "Mississippi River",
+        "Columbia River",
+        "Colorado River",
+        "Missouri River"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-2",
+      "question": "The Three Gorges Dam, the world's largest power station by installed capacity, is located on which Chinese river?",
+      "options": [
+        "Pearl River",
+        "Yangtze River",
+        "Yellow River",
+        "Mekong River"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-dams-quiz-3",
+      "question": "The Aswan High Dam, completed in 1970, created Lake Nasser in which country?",
+      "options": [
+        "Libya",
+        "Egypt",
+        "Sudan",
+        "Ethiopia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-dams-quiz-4",
+      "question": "The Itaipu Dam, one of the world's largest hydroelectric dams, sits on the border of Brazil and which country?",
+      "options": [
+        "Bolivia",
+        "Argentina",
+        "Uruguay",
+        "Paraguay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-dams-quiz-5",
+      "question": "The Grand Coulee Dam, one of the largest concrete structures in the world, is located in which US state?",
+      "options": [
+        "Washington",
+        "Oregon",
+        "Montana",
+        "Idaho"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-dams-quiz-6",
+      "question": "The Kariba Dam, which created the world's largest man-made reservoir by volume, is on the border of Zambia and which country?",
+      "options": [
+        "Mozambique",
+        "Malawi",
+        "Zimbabwe",
+        "Botswana"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-7",
+      "question": "The Tarbela Dam, one of the largest earth-filled dams in the world, is located in which country?",
+      "options": [
+        "India",
+        "Iran",
+        "Pakistan",
+        "Afghanistan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-8",
+      "question": "The Oroville Dam, the tallest dam in the United States, is located in which state?",
+      "options": [
+        "Colorado",
+        "Nevada",
+        "California",
+        "Arizona"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-9",
+      "question": "The Hoover Dam straddles the border between Nevada and which other US state?",
+      "options": [
+        "Utah",
+        "California",
+        "New Mexico",
+        "Arizona"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-dams-quiz-10",
+      "question": "The Vajont Dam in Italy is remembered for what catastrophic event in 1963?",
+      "options": [
+        "A massive landslide into the reservoir",
+        "An earthquake",
+        "The dam collapsed",
+        "A flood from upstream"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-dams-quiz-11",
+      "question": "The Glen Canyon Dam, which created Lake Powell, is located on the Colorado River in which US state?",
+      "options": [
+        "Colorado",
+        "Nevada",
+        "Arizona",
+        "Utah"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-12",
+      "question": "The Nurek Dam, one of the tallest dams in the world at 300 meters, is located in which Central Asian country?",
+      "options": [
+        "Turkmenistan",
+        "Uzbekistan",
+        "Tajikistan",
+        "Kyrgyzstan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-dams-quiz-13",
+      "question": "The Guri Dam, officially known as the Simón Bolívar Hydroelectric Plant, provides most of the electricity for which country?",
+      "options": [
+        "Venezuela",
+        "Colombia",
+        "Ecuador",
+        "Brazil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-dams-quiz-14",
+      "question": "The Delta Works, one of the most sophisticated flood protection systems in the world, is located in which country?",
+      "options": [
+        "Denmark",
+        "Belgium",
+        "Germany",
+        "Netherlands"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-dams-quiz-15",
+      "question": "The Tennessee Valley Authority (TVA) manages a system of approximately how many dams in the southeastern United States?",
+      "options": [
+        "49",
+        "69",
+        "19",
+        "29"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

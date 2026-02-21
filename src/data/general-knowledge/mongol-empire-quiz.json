@@ -1,0 +1,173 @@
+{
+  "id": "mongol-empire-quiz",
+  "title": "Mongol Empire Quiz",
+  "description": "Ride across the steppes with Genghis Khan and explore the largest contiguous land empire in human history.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "mongol-empire-quiz-1",
+      "question": "Who founded the Mongol Empire in the early 13th century?",
+      "options": [
+        "Genghis Khan",
+        "Tamerlane",
+        "Kublai Khan",
+        "Ogedei Khan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mongol-empire-quiz-2",
+      "question": "What was Genghis Khan's birth name?",
+      "options": [
+        "Subutai",
+        "Batu",
+        "Jochi",
+        "Temujin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mongol-empire-quiz-3",
+      "question": "At its peak, the Mongol Empire held what distinction?",
+      "options": [
+        "Largest contiguous land empire in history",
+        "Most populated empire",
+        "Longest-lasting empire",
+        "Wealthiest empire"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mongol-empire-quiz-4",
+      "question": "What written code of laws did Genghis Khan establish for his empire?",
+      "options": [
+        "The Justinian Code",
+        "Common Law",
+        "Sharia",
+        "The Yasa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mongol-empire-quiz-5",
+      "question": "Which grandson of Genghis Khan conquered China and founded the Yuan Dynasty?",
+      "options": [
+        "Chagatai Khan",
+        "Batu Khan",
+        "Hulagu Khan",
+        "Kublai Khan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mongol-empire-quiz-6",
+      "question": "What European traveler famously visited the court of Kublai Khan and wrote about his experiences?",
+      "options": [
+        "Vasco da Gama",
+        "Ibn Battuta",
+        "Marco Polo",
+        "Christopher Columbus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mongol-empire-quiz-7",
+      "question": "What communication and postal system did the Mongols establish across their empire?",
+      "options": [
+        "The Pony Express",
+        "The Silk Road",
+        "The Royal Mail",
+        "The Yam relay system"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mongol-empire-quiz-8",
+      "question": "Which great Islamic city was devastated by the Mongols under Hulagu Khan in 1258?",
+      "options": [
+        "Mecca",
+        "Cairo",
+        "Damascus",
+        "Baghdad"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mongol-empire-quiz-9",
+      "question": "What was the 'Pax Mongolica'?",
+      "options": [
+        "A period of relative peace and stability across the Mongol Empire",
+        "A Mongol religious holiday",
+        "A type of Mongol warfare",
+        "A peace treaty with China"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mongol-empire-quiz-10",
+      "question": "What type of warfare were the Mongols especially skilled at?",
+      "options": [
+        "Mounted cavalry and archery",
+        "Siege warfare only",
+        "Naval warfare",
+        "Infantry formations"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mongol-empire-quiz-11",
+      "question": "Which Mongol leader established the Golden Horde that ruled over Russia for centuries?",
+      "options": [
+        "Chagatai Khan",
+        "Hulagu Khan",
+        "Batu Khan",
+        "Ogedei Khan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mongol-empire-quiz-12",
+      "question": "What traditional dwelling did the nomadic Mongols live in?",
+      "options": [
+        "Adobe houses",
+        "Tepees",
+        "Gers (yurts)",
+        "Longhouses"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mongol-empire-quiz-13",
+      "question": "What religious policy did the Mongol Empire generally follow?",
+      "options": [
+        "Religious tolerance",
+        "Enforced Buddhism",
+        "Atheism",
+        "Enforced Islam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mongol-empire-quiz-14",
+      "question": "Approximately how many people lived under Mongol rule at the empire's peak?",
+      "options": [
+        "About 500 million",
+        "About 50 million",
+        "About 100 million",
+        "About 10 million"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mongol-empire-quiz-15",
+      "question": "After Genghis Khan's death, the empire was divided among his sons into how many major khanates?",
+      "options": [
+        "Three",
+        "Five",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

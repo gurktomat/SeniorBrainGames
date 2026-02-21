@@ -1,0 +1,174 @@
+{
+  "id": "office-supplies-quiz",
+  "title": "Office Supplies Quiz",
+  "description": "How well do you know everyday office supplies? Test your recall of the items found in desks and supply closets.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "office-supplies-quiz-1",
+      "question": "What office supply uses a spring-loaded mechanism to bind papers together with a thin wire?",
+      "options": [
+        "Stapler",
+        "Binder clip",
+        "Paper clip",
+        "Rubber band"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "office-supplies-quiz-2",
+      "question": "Which office item is a small, rectangular block used to remove pencil marks from paper?",
+      "options": [
+        "Correction tape",
+        "White-out",
+        "Eraser",
+        "Blotter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "office-supplies-quiz-3",
+      "question": "What is a three-hole punch used for?",
+      "options": [
+        "Laminating documents",
+        "Cutting paper to size",
+        "Stapling documents",
+        "Punching holes in paper for binder storage"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "office-supplies-quiz-4",
+      "question": "Which office supply is a transparent adhesive film on a roll, often called by the brand name Scotch?",
+      "options": [
+        "Masking tape",
+        "Cellophane tape (clear tape)",
+        "Packing tape",
+        "Duct tape"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "office-supplies-quiz-5",
+      "question": "What is a letter opener used for?",
+      "options": [
+        "Sealing envelopes",
+        "Slicing open sealed envelopes",
+        "Signing letters",
+        "Folding paper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "office-supplies-quiz-6",
+      "question": "Which office product is a small pad of paper with a lightly adhesive strip on the back, often yellow?",
+      "options": [
+        "Sticky note (Post-it)",
+        "Memo pad",
+        "Index card",
+        "Label"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "office-supplies-quiz-7",
+      "question": "What does a paper shredder do?",
+      "options": [
+        "Laminates important papers",
+        "Scans documents digitally",
+        "Cuts paper into strips or confetti for secure disposal",
+        "Binds documents together"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "office-supplies-quiz-8",
+      "question": "Which item is a flat, spring-loaded metal clip used to hold thick stacks of paper together?",
+      "options": [
+        "Binder clip",
+        "Staple",
+        "Fastener",
+        "Paper clip"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "office-supplies-quiz-9",
+      "question": "What is a highlighter pen used for?",
+      "options": [
+        "Drawing fine lines",
+        "Erasing printed text",
+        "Writing in invisible ink",
+        "Marking text with bright, transparent color for emphasis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "office-supplies-quiz-10",
+      "question": "Which office supply is a circular device with a built-in blade used to cut paper in a straight line?",
+      "options": [
+        "Box cutter",
+        "Scissors",
+        "Craft knife",
+        "Rotary trimmer (paper cutter)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "office-supplies-quiz-11",
+      "question": "What is white-out (correction fluid) used for?",
+      "options": [
+        "Gluing paper",
+        "Cleaning ink stains",
+        "Waterproofing documents",
+        "Covering up written or typed mistakes on paper"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "office-supplies-quiz-12",
+      "question": "Which item is a metal or plastic container that holds multiple file folders upright on a desk?",
+      "options": [
+        "Inbox tray",
+        "Filing cabinet",
+        "Desktop file organizer",
+        "Clipboard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "office-supplies-quiz-13",
+      "question": "What office tool is used to emboss a raised seal onto paper as an official mark?",
+      "options": [
+        "Embosser (seal press)",
+        "Label maker",
+        "Notary stamp",
+        "Rubber stamp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "office-supplies-quiz-14",
+      "question": "Which office supply is a flat board with a clip at the top for holding papers while writing?",
+      "options": [
+        "Clipboard",
+        "Portfolio",
+        "Blotter",
+        "Desk pad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "office-supplies-quiz-15",
+      "question": "What is a rubber stamp pad (ink pad) used for?",
+      "options": [
+        "Providing ink to coat a rubber stamp before pressing",
+        "Cleaning rubber stamps",
+        "Drying wet ink on paper",
+        "Protecting desk surfaces"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

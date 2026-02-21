@@ -1,0 +1,173 @@
+{
+  "id": "insurance-terminology",
+  "title": "Insurance Terminology",
+  "description": "Navigate the world of insurance with this quiz on policy terms, coverage types, and industry jargon.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "insurance-terminology-1",
+      "question": "What is a 'deductible' in insurance?",
+      "options": [
+        "A discount on your premium",
+        "The maximum amount an insurer will pay",
+        "A tax write-off for having insurance",
+        "The amount you must pay out of pocket before insurance coverage kicks in"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-2",
+      "question": "What does 'premium' mean in insurance?",
+      "options": [
+        "The best type of coverage",
+        "The total value of a claim",
+        "The regular payment made to keep an insurance policy active",
+        "A bonus from your insurance company"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "insurance-terminology-3",
+      "question": "What is an 'actuary'?",
+      "options": [
+        "An insurance salesperson",
+        "An insurance company executive",
+        "A professional who uses mathematics and statistics to assess risk and set premiums",
+        "A claims adjuster"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "insurance-terminology-4",
+      "question": "What does 'indemnity' mean in insurance?",
+      "options": [
+        "A type of life insurance",
+        "A penalty for filing too many claims",
+        "An insurance policy for businesses",
+        "Compensation for loss or damage, restoring the insured to their pre-loss financial position"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-5",
+      "question": "What is a 'rider' on an insurance policy?",
+      "options": [
+        "The person who delivers the policy",
+        "An amendment or addition that modifies the terms of the base policy",
+        "The primary policyholder",
+        "A motorcycle insurance requirement"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "insurance-terminology-6",
+      "question": "What does 'liability' coverage protect against?",
+      "options": [
+        "Natural disasters",
+        "Damage to your own property",
+        "Claims made against you for causing injury or damage to others",
+        "Theft of your belongings"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "insurance-terminology-7",
+      "question": "What is 'subrogation' in insurance?",
+      "options": [
+        "The insurer's right to pursue a third party that caused a loss to recover the amount paid on a claim",
+        "Transferring a policy to another person",
+        "Submitting a claim",
+        "Canceling a policy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "insurance-terminology-8",
+      "question": "What does 'co-pay' mean in health insurance?",
+      "options": [
+        "Splitting an insurance policy with a friend",
+        "The employer's share of insurance costs",
+        "A copyrighted insurance plan",
+        "A fixed amount you pay for a covered healthcare service at the time of service"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-9",
+      "question": "What is an 'exclusion' in an insurance policy?",
+      "options": [
+        "Being denied insurance entirely",
+        "A premium discount for good behavior",
+        "A waiting period before coverage begins",
+        "A specific condition or circumstance not covered by the policy"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-10",
+      "question": "What does 'underwriter' mean in insurance?",
+      "options": [
+        "The author of insurance regulations",
+        "A claims processor",
+        "Someone who writes policy documents",
+        "A person who evaluates risk and decides whether to accept or reject insurance applications"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-11",
+      "question": "What is a 'beneficiary'?",
+      "options": [
+        "The person designated to receive the proceeds of an insurance policy",
+        "The company providing insurance",
+        "The insurance agent",
+        "A witness to the policy signing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "insurance-terminology-12",
+      "question": "What does 'aggregate limit' mean?",
+      "options": [
+        "The minimum claim amount",
+        "The maximum total amount an insurer will pay for all claims during a policy period",
+        "The monthly premium cap",
+        "The deductible amount"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "insurance-terminology-13",
+      "question": "What is 'comprehensive coverage' in auto insurance?",
+      "options": [
+        "Coverage for non-collision damage such as theft, vandalism, weather, and animal strikes",
+        "Coverage for all drivers in a household",
+        "Coverage only for collisions",
+        "The most basic liability coverage"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "insurance-terminology-14",
+      "question": "What does 'grace period' mean in insurance?",
+      "options": [
+        "The time to shop for a new policy",
+        "A waiting period before claims can be filed",
+        "A period of free insurance",
+        "Extra time after a premium due date during which the policy remains in effect"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "insurance-terminology-15",
+      "question": "What is a 'claim' in insurance?",
+      "options": [
+        "A statement that you own a policy",
+        "A lawsuit against an insurer",
+        "A formal request to an insurance company for payment based on the terms of the policy",
+        "A quote for a new policy"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

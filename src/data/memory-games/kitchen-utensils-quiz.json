@@ -1,0 +1,174 @@
+{
+  "id": "kitchen-utensils-quiz",
+  "title": "Kitchen Utensils Quiz",
+  "description": "How well do you know your kitchen utensils? Test your recall of common cooking tools and gadgets.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "kitchen-utensils-quiz-1",
+      "question": "What kitchen utensil has a flat, broad blade used for flipping pancakes and burgers?",
+      "options": [
+        "Spatula",
+        "Whisk",
+        "Ladle",
+        "Tongs"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-utensils-quiz-2",
+      "question": "Which utensil is specifically designed with small holes to drain liquid from food?",
+      "options": [
+        "Colander",
+        "Mixing bowl",
+        "Measuring cup",
+        "Funnel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-utensils-quiz-3",
+      "question": "What is a mortar and pestle traditionally used for in the kitchen?",
+      "options": [
+        "Measuring ingredients",
+        "Rolling dough",
+        "Slicing vegetables",
+        "Grinding spices and herbs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-4",
+      "question": "Which tool is used to remove the outer skin of fruits and vegetables?",
+      "options": [
+        "Grater",
+        "Paring knife",
+        "Mandoline",
+        "Peeler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-5",
+      "question": "What is a zester primarily used for?",
+      "options": [
+        "Removing citrus peel in thin strips",
+        "Cutting cheese",
+        "Juicing lemons",
+        "Crushing garlic"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-utensils-quiz-6",
+      "question": "Which kitchen utensil has a long handle and a deep, round bowl for serving soup?",
+      "options": [
+        "Spatula",
+        "Ladle",
+        "Skimmer",
+        "Slotted spoon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "kitchen-utensils-quiz-7",
+      "question": "What is a rolling pin used for?",
+      "options": [
+        "Flattening and shaping dough",
+        "Stirring batter",
+        "Tenderizing meat",
+        "Crushing ice"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-utensils-quiz-8",
+      "question": "Which tool is designed with wire loops for blending and incorporating air into mixtures?",
+      "options": [
+        "Spoon",
+        "Spatula",
+        "Whisk",
+        "Fork"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "kitchen-utensils-quiz-9",
+      "question": "What is a mandoline slicer used for?",
+      "options": [
+        "Playing music",
+        "Grinding coffee",
+        "Opening cans",
+        "Cutting uniform thin slices of vegetables"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-10",
+      "question": "Which utensil is a V-shaped or Y-shaped tool used to remove the skin from potatoes?",
+      "options": [
+        "Pitter",
+        "Scooper",
+        "Corer",
+        "Peeler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-11",
+      "question": "What kitchen tool is used to press garlic cloves into a fine paste?",
+      "options": [
+        "Garlic press",
+        "Nutcracker",
+        "Lemon squeezer",
+        "Meat tenderizer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "kitchen-utensils-quiz-12",
+      "question": "Which utensil has a serrated wheel used to cut pizza into slices?",
+      "options": [
+        "Pastry cutter",
+        "Dough docker",
+        "Bench scraper",
+        "Pizza wheel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-13",
+      "question": "What is a basting brush used for in cooking?",
+      "options": [
+        "Dusting flour on surfaces",
+        "Applying sauces or marinades to food",
+        "Cleaning pans",
+        "Removing burnt food"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "kitchen-utensils-quiz-14",
+      "question": "Which tool features a curved blade that rocks back and forth to mince herbs?",
+      "options": [
+        "Cleaver",
+        "Santoku knife",
+        "Paring knife",
+        "Mezzaluna"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "kitchen-utensils-quiz-15",
+      "question": "What is a candy thermometer specifically designed to measure?",
+      "options": [
+        "Temperature of sugar syrups and candy",
+        "Refrigerator temperature",
+        "Oven temperature",
+        "Room temperature"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

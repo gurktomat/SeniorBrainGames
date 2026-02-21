@@ -1,0 +1,173 @@
+{
+  "id": "electricity-magnetism-quiz",
+  "title": "Electricity & Magnetism Quiz",
+  "description": "From lightning bolts to electromagnets, test your recall of electrical and magnetic concepts and history.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "electricity-magnetism-quiz-1",
+      "question": "What particle carries a negative electric charge?",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Proton",
+        "Positron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electricity-magnetism-quiz-2",
+      "question": "Who demonstrated that lightning is electrical with a kite experiment?",
+      "options": [
+        "Thomas Edison",
+        "Alessandro Volta",
+        "Nikola Tesla",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-3",
+      "question": "What is the unit of electrical resistance?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-4",
+      "question": "What type of current flows in one direction only?",
+      "options": [
+        "Direct current (DC)",
+        "Alternating current (AC)",
+        "Static current",
+        "Pulsating current"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-5",
+      "question": "Which scientist discovered electromagnetic induction?",
+      "options": [
+        "James Clerk Maxwell",
+        "Michael Faraday",
+        "Hans Christian Ørsted",
+        "André-Marie Ampère"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electricity-magnetism-quiz-6",
+      "question": "What does a compass needle point toward?",
+      "options": [
+        "Geographic South Pole",
+        "The Sun",
+        "The nearest mountain",
+        "Magnetic North Pole"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-7",
+      "question": "What material is commonly used in permanent magnets?",
+      "options": [
+        "Aluminum",
+        "Tin",
+        "Iron",
+        "Copper"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-8",
+      "question": "Who unified electricity, magnetism, and light into one theory?",
+      "options": [
+        "James Clerk Maxwell",
+        "Heinrich Hertz",
+        "Michael Faraday",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-9",
+      "question": "What device converts mechanical energy into electrical energy?",
+      "options": [
+        "Generator",
+        "Motor",
+        "Capacitor",
+        "Transformer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-10",
+      "question": "What is the term for the flow of electric charge?",
+      "options": [
+        "Power",
+        "Voltage",
+        "Current",
+        "Resistance"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-11",
+      "question": "What did Hans Christian Ørsted discover in 1820?",
+      "options": [
+        "The photoelectric effect",
+        "Electric current creates a magnetic field",
+        "Superconductivity",
+        "Static electricity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electricity-magnetism-quiz-12",
+      "question": "What type of device stores electrical energy in an electric field?",
+      "options": [
+        "Diode",
+        "Resistor",
+        "Capacitor",
+        "Inductor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electricity-magnetism-quiz-13",
+      "question": "What causes the aurora borealis (Northern Lights)?",
+      "options": [
+        "Volcanic gases",
+        "Moonlight reflection",
+        "Lightning in the upper atmosphere",
+        "Charged particles from the Sun interacting with Earth's magnetic field"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electricity-magnetism-quiz-14",
+      "question": "Which famous rivalry was called the 'War of the Currents'?",
+      "options": [
+        "Edison (DC) vs. Tesla/Westinghouse (AC)",
+        "Franklin vs. Faraday",
+        "Volta vs. Galvani",
+        "Ampère vs. Ohm"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electricity-magnetism-quiz-15",
+      "question": "What happens when you cut a magnet in half?",
+      "options": [
+        "Only one piece retains magnetism",
+        "The magnetism disappears",
+        "Each piece becomes a complete magnet with north and south poles",
+        "One piece becomes north, the other south"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

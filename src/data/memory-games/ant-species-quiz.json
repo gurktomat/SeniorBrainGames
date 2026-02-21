@@ -1,0 +1,173 @@
+{
+  "id": "ant-species-quiz",
+  "title": "Ant Species Quiz",
+  "description": "March through this quiz about the incredible world of ants and their complex societies",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "ant-species-quiz-1",
+      "question": "Which ant species from South America cuts and carries fresh leaves back to its nest to grow fungus for food?",
+      "options": [
+        "Carpenter Ant",
+        "Army Ant",
+        "Leafcutter Ant",
+        "Fire Ant"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ant-species-quiz-2",
+      "question": "Which aggressive ant species, originally from South America, has a painful sting and has become invasive across the southern United States?",
+      "options": [
+        "Bullet Ant",
+        "Argentine Ant",
+        "Red Imported Fire Ant",
+        "Carpenter Ant"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ant-species-quiz-3",
+      "question": "Which Central American ant has the most painful sting of any insect, rating a 4+ on the Schmidt Pain Index?",
+      "options": [
+        "Bullet Ant",
+        "Jack Jumper Ant",
+        "Trap-jaw Ant",
+        "Fire Ant"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ant-species-quiz-4",
+      "question": "Which ant species forms massive raiding columns of millions of individuals that overwhelm and consume anything in their path?",
+      "options": [
+        "Carpenter Ant",
+        "Army Ant",
+        "Leafcutter Ant",
+        "Argentine Ant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ant-species-quiz-5",
+      "question": "Which ant species hollows out wood to build its nests, sometimes causing structural damage to buildings?",
+      "options": [
+        "Termite Ant",
+        "Carpenter Ant",
+        "Harvester Ant",
+        "Wood Ant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "ant-species-quiz-6",
+      "question": "What role does a queen ant serve in the colony?",
+      "options": [
+        "She finds new food sources",
+        "She leads hunting parties",
+        "She lays all the eggs",
+        "She defends the colony"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ant-species-quiz-7",
+      "question": "Which type of ant 'farms' aphids, protecting them and collecting the sweet honeydew they produce?",
+      "options": [
+        "Harvester Ant",
+        "Army Ant",
+        "Fire Ant",
+        "Black Garden Ant"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ant-species-quiz-8",
+      "question": "Which ant species forms 'supercolonies' spanning thousands of miles, with billions of cooperating individuals?",
+      "options": [
+        "Fire Ant",
+        "Carpenter Ant",
+        "Argentine Ant",
+        "Pharaoh Ant"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ant-species-quiz-9",
+      "question": "Which ant can snap its jaws shut at speeds of up to 145 mph, one of the fastest movements in the animal kingdom?",
+      "options": [
+        "Driver Ant",
+        "Bull Ant",
+        "Bullet Ant",
+        "Trap-jaw Ant"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ant-species-quiz-10",
+      "question": "Approximately how many species of ants have been identified worldwide?",
+      "options": [
+        "About 14,000",
+        "About 5,000",
+        "About 2,000",
+        "About 50,000"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ant-species-quiz-11",
+      "question": "Which African ant species is known for its aggressive swarm raids and is sometimes called the 'safari ant'?",
+      "options": [
+        "Weaver Ant",
+        "Bull Ant",
+        "Driver Ant",
+        "Army Ant"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "ant-species-quiz-12",
+      "question": "Which ant uses silk produced by its larvae to weave leaves together, creating elaborate nests in trees?",
+      "options": [
+        "Weaver Ant",
+        "Carpenter Ant",
+        "Leafcutter Ant",
+        "Acacia Ant"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ant-species-quiz-13",
+      "question": "How do ants primarily communicate with each other?",
+      "options": [
+        "Visual signals",
+        "Touch only",
+        "Sound",
+        "Chemical pheromones"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "ant-species-quiz-14",
+      "question": "Which ant species collects and stores seeds in underground granaries, playing an important role in seed dispersal?",
+      "options": [
+        "Harvester Ant",
+        "Carpenter Ant",
+        "Fire Ant",
+        "Thief Ant"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "ant-species-quiz-15",
+      "question": "How much weight can an ant carry relative to its own body weight?",
+      "options": [
+        "About 10 to 50 times",
+        "About 5 times",
+        "About 100 times",
+        "About 500 times"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

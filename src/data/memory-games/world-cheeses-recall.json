@@ -1,0 +1,173 @@
+{
+  "id": "world-cheeses-recall",
+  "title": "World Cheeses Recall",
+  "description": "From Brie to Manchego — test your recall of famous cheeses from around the globe!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-cheeses-recall-1",
+      "question": "Which Italian cheese is traditionally aged in wheels and has a hard, granular texture ideal for grating?",
+      "options": [
+        "Mascarpone",
+        "Mozzarella",
+        "Ricotta",
+        "Parmigiano-Reggiano"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-cheeses-recall-2",
+      "question": "Brie is a soft, creamy cheese that originated in which country?",
+      "options": [
+        "Belgium",
+        "France",
+        "Netherlands",
+        "Switzerland"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-cheeses-recall-3",
+      "question": "Which Greek cheese, traditionally made from sheep's milk, is crumbly and used in salads?",
+      "options": [
+        "Graviera",
+        "Halloumi",
+        "Feta",
+        "Kasseri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-4",
+      "question": "Manchego cheese is produced in the La Mancha region of which country?",
+      "options": [
+        "Mexico",
+        "Spain",
+        "Portugal",
+        "Italy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-cheeses-recall-5",
+      "question": "Which Swiss cheese is famous for its large holes (called 'eyes')?",
+      "options": [
+        "Gruyère",
+        "Raclette",
+        "Emmental",
+        "Appenzeller"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-6",
+      "question": "Roquefort is a blue cheese made from the milk of which animal?",
+      "options": [
+        "Sheep",
+        "Buffalo",
+        "Goat",
+        "Cow"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-cheeses-recall-7",
+      "question": "Which Dutch cheese is known for its round shape and red or yellow wax coating?",
+      "options": [
+        "Gouda",
+        "Maasdam",
+        "Edam",
+        "Leyden"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-8",
+      "question": "Halloumi, a cheese that can be grilled without melting, originates from which island?",
+      "options": [
+        "Malta",
+        "Sicily",
+        "Cyprus",
+        "Crete"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-9",
+      "question": "Which English cheese is traditionally used to make a classic ploughman's lunch?",
+      "options": [
+        "Stilton",
+        "Red Leicester",
+        "Cheddar",
+        "Wensleydale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-10",
+      "question": "Camembert cheese comes from which region of France?",
+      "options": [
+        "Normandy",
+        "Alsace",
+        "Provence",
+        "Burgundy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-cheeses-recall-11",
+      "question": "Which Italian cheese, made from water buffalo milk, is prized for its creamy texture on pizza?",
+      "options": [
+        "Pecorino",
+        "Burrata",
+        "Mozzarella di Bufala",
+        "Provolone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-cheeses-recall-12",
+      "question": "Gruyère cheese is a key ingredient in which classic Swiss dish?",
+      "options": [
+        "Fondue",
+        "Raclette",
+        "Muesli",
+        "Rösti"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-cheeses-recall-13",
+      "question": "Which Scandinavian cheese has a distinctive brown color and sweet, caramel-like flavor?",
+      "options": [
+        "Danablu",
+        "Brunost (brown cheese)",
+        "Jarlsberg",
+        "Havarti"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-cheeses-recall-14",
+      "question": "Pecorino Romano is an Italian cheese made from the milk of which animal?",
+      "options": [
+        "Goat",
+        "Sheep",
+        "Buffalo",
+        "Cow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-cheeses-recall-15",
+      "question": "Which Mexican cheese is a fresh, crumbly white cheese often sprinkled on tacos and beans?",
+      "options": [
+        "Queso fresco",
+        "Cotija",
+        "Oaxaca",
+        "Chihuahua"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

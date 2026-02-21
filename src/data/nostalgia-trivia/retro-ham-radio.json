@@ -1,0 +1,173 @@
+{
+  "id": "retro-ham-radio",
+  "title": "Retro Ham Radio",
+  "description": "CQ CQ! How well do you remember the golden age of amateur (ham) radio from the 1940s through the 1980s?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "retro-ham-radio-1",
+      "question": "What does the common ham radio call 'CQ' mean?",
+      "options": [
+        "Clear Quiet",
+        "Calling any station — seeking contact",
+        "Come Quick",
+        "Code Question"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-ham-radio-2",
+      "question": "What government agency issued amateur radio licenses in the United States?",
+      "options": [
+        "The FCC (Federal Communications Commission)",
+        "The Department of Defense",
+        "The FAA",
+        "The Department of Commerce"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-3",
+      "question": "What type of code did ham radio operators traditionally need to learn to get their license?",
+      "options": [
+        "Morse code",
+        "ASCII code",
+        "Semaphore code",
+        "Binary code"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-4",
+      "question": "What was a 'QSL card' in ham radio?",
+      "options": [
+        "A frequency allocation chart",
+        "A written confirmation of a radio contact, often exchanged by mail",
+        "A license renewal notice",
+        "A repair service voucher"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-ham-radio-5",
+      "question": "What was the common name for the room or space where a ham radio operator kept their equipment?",
+      "options": [
+        "The signal room",
+        "The broadcast booth",
+        "The shack",
+        "The radio den"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-ham-radio-6",
+      "question": "Which popular ham radio manufacturer, known for its 'S-line' series, was a favorite among operators in the 1960s?",
+      "options": [
+        "Collins Radio",
+        "Yaesu",
+        "Heathkit",
+        "Kenwood"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-7",
+      "question": "What did many ham radio hobbyists build from kits sold by Heathkit?",
+      "options": [
+        "Only power supplies",
+        "Only antennas",
+        "Complete radio transceivers and accessories",
+        "Only microphones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-ham-radio-8",
+      "question": "What is 'DX' in ham radio terminology?",
+      "options": [
+        "A type of antenna",
+        "An emergency frequency",
+        "A digital transmission mode",
+        "Long-distance communication, especially with foreign countries"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-ham-radio-9",
+      "question": "What atmospheric phenomenon allowed ham radio operators to communicate over much longer distances than normal?",
+      "options": [
+        "Ionospheric skip (skywave propagation)",
+        "Wind patterns",
+        "Magnetic storms",
+        "Solar flares only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-10",
+      "question": "What was the entry-level ham radio license class called in the United States for many years?",
+      "options": [
+        "Beginner Class",
+        "Starter Class",
+        "Basic Class",
+        "Novice Class"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "retro-ham-radio-11",
+      "question": "What does the term 'rag chewing' mean in ham radio?",
+      "options": [
+        "Fixing a broken microphone",
+        "Having a long, casual conversation",
+        "Testing antenna equipment",
+        "Sending Morse code at high speed"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "retro-ham-radio-12",
+      "question": "Which organization, founded in 1914, is the national association for amateur radio operators in the U.S.?",
+      "options": [
+        "The American Radio Relay League (ARRL)",
+        "The Citizens Band Association",
+        "The National Radio Club",
+        "The Ham Radio Federation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-13",
+      "question": "What publication, produced by the ARRL, was considered the 'bible' of ham radio?",
+      "options": [
+        "The ARRL Handbook",
+        "Amateur Radio Weekly",
+        "Radio World",
+        "QST Magazine only"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "retro-ham-radio-14",
+      "question": "What did ham radio operators call the annual event where they set up portable stations to practice emergency communications?",
+      "options": [
+        "Signal Sprint",
+        "Radio Rally",
+        "Field Day",
+        "Ham Fest"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "retro-ham-radio-15",
+      "question": "What common greeting did ham operators use, short for '73,' at the end of a contact?",
+      "options": [
+        "Best regards",
+        "Good luck",
+        "Goodbye forever",
+        "Over and out"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

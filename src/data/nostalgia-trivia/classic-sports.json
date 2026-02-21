@@ -7,8 +7,13 @@
     {
       "id": "sports-1",
       "question": "Mickey Mantle, the legendary New York Yankees switch-hitter, wore what uniform number throughout his career?",
-      "options": ["3", "5", "7", "9"],
-      "correctAnswer": 2,
+      "options": [
+        "7",
+        "5",
+        "9",
+        "3"
+      ],
+      "correctAnswer": 0,
       "explanation": "Mickey Mantle wore number 7 for the Yankees from 1951 to 1968. The number was retired in his honor in 1969. He actually started with number 6 before switching to 7 in his rookie year.",
       "difficulty": "easy",
       "decade": "1950s",
@@ -17,8 +22,13 @@
     {
       "id": "sports-2",
       "question": "Muhammad Ali shocked the boxing world in 1964 by defeating which 'unbeatable' heavyweight champion?",
-      "options": ["Joe Frazier", "Floyd Patterson", "Sonny Liston", "George Foreman"],
-      "correctAnswer": 2,
+      "options": [
+        "George Foreman",
+        "Sonny Liston",
+        "Joe Frazier",
+        "Floyd Patterson"
+      ],
+      "correctAnswer": 1,
       "explanation": "The 22-year-old Cassius Clay (as he was then known) defeated Sonny Liston on February 25, 1964, when Liston failed to answer the bell for the seventh round. Ali famously shouted 'I shook up the world!'",
       "difficulty": "medium",
       "decade": "1960s",
@@ -27,8 +37,13 @@
     {
       "id": "sports-3",
       "question": "Joe DiMaggio's legendary hitting streak in 1941, which may never be broken, lasted how many consecutive games?",
-      "options": ["49 games", "52 games", "56 games", "61 games"],
-      "correctAnswer": 2,
+      "options": [
+        "56 games",
+        "49 games",
+        "61 games",
+        "52 games"
+      ],
+      "correctAnswer": 0,
       "explanation": "Joe DiMaggio hit safely in 56 consecutive games from May 15 to July 16, 1941. During the streak, he batted .408 with 91 hits. The record has stood for over 80 years.",
       "difficulty": "medium",
       "decade": "1940s",
@@ -37,8 +52,13 @@
     {
       "id": "sports-4",
       "question": "Jackie Robinson broke Major League Baseball's color barrier in 1947 when he took the field for which team?",
-      "options": ["New York Yankees", "Boston Red Sox", "Brooklyn Dodgers", "New York Giants"],
-      "correctAnswer": 2,
+      "options": [
+        "Boston Red Sox",
+        "Brooklyn Dodgers",
+        "New York Yankees",
+        "New York Giants"
+      ],
+      "correctAnswer": 1,
       "explanation": "Jackie Robinson debuted for the Brooklyn Dodgers on April 15, 1947. His courage and talent paved the way for integration in professional sports. His number 42 was retired across all of MLB in 1997.",
       "difficulty": "easy",
       "decade": "1940s",
@@ -47,8 +67,13 @@
     {
       "id": "sports-5",
       "question": "On March 2, 1962, Wilt Chamberlain scored 100 points in a single NBA game. Which team did he play for at the time?",
-      "options": ["Los Angeles Lakers", "Philadelphia Warriors", "San Francisco Warriors", "Philadelphia 76ers"],
-      "correctAnswer": 1,
+      "options": [
+        "Philadelphia Warriors",
+        "Los Angeles Lakers",
+        "San Francisco Warriors",
+        "Philadelphia 76ers"
+      ],
+      "correctAnswer": 0,
       "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks in Hershey, Pennsylvania. No official video of the game exists, only a famous photo of Wilt holding a paper reading '100.'",
       "difficulty": "hard",
       "decade": "1960s",
@@ -57,8 +82,13 @@
     {
       "id": "sports-6",
       "question": "The 1969 'Miracle Mets' stunned baseball by winning the World Series. What had been their best finish in the previous seven seasons?",
-      "options": ["Second-to-last place", "Ninth place (out of ten)", "Last place every year", "They had one winning season"],
-      "correctAnswer": 1,
+      "options": [
+        "They had one winning season",
+        "Second-to-last place",
+        "Ninth place (out of ten)",
+        "Last place every year"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Mets had never finished higher than ninth place before 1969. They went from a 73-89 record in 1968 to winning 100 games and sweeping the heavily favored Baltimore Orioles in the World Series.",
       "difficulty": "hard",
       "decade": "1960s",
@@ -67,8 +97,13 @@
     {
       "id": "sports-7",
       "question": "Secretariat won the 1973 Triple Crown, finishing the Belmont Stakes by how many lengths ahead of the second-place horse?",
-      "options": ["8 lengths", "15 lengths", "25 lengths", "31 lengths"],
-      "correctAnswer": 3,
+      "options": [
+        "31 lengths",
+        "25 lengths",
+        "15 lengths",
+        "8 lengths"
+      ],
+      "correctAnswer": 0,
       "explanation": "Secretariat won the 1973 Belmont Stakes by an astonishing 31 lengths, completing the Triple Crown in one of sport's most dominant performances. His time record for the Belmont still stands today.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -77,7 +112,12 @@
     {
       "id": "sports-8",
       "question": "Billie Jean King defeated Bobby Riggs in the famous 'Battle of the Sexes' tennis match in 1973. Where was the match held?",
-      "options": ["Wimbledon", "Madison Square Garden", "Houston Astrodome", "US Open at Forest Hills"],
+      "options": [
+        "Wimbledon",
+        "US Open at Forest Hills",
+        "Houston Astrodome",
+        "Madison Square Garden"
+      ],
       "correctAnswer": 2,
       "explanation": "The match was held at the Houston Astrodome on September 20, 1973, before 30,492 spectators and an estimated 90 million TV viewers. King won in straight sets, 6-4, 6-3, 6-3.",
       "difficulty": "medium",
@@ -87,8 +127,13 @@
     {
       "id": "sports-9",
       "question": "Joe Namath made his famous guarantee before Super Bowl III in 1969. What did he guarantee?",
-      "options": ["He would throw for 300 yards", "The Jets would win the game", "He would score three touchdowns", "He would be named MVP"],
-      "correctAnswer": 1,
+      "options": [
+        "He would throw for 300 yards",
+        "He would be named MVP",
+        "The Jets would win the game",
+        "He would score three touchdowns"
+      ],
+      "correctAnswer": 2,
       "explanation": "Three days before the game, Namath told a heckler, 'I guarantee it' — meaning a Jets victory. The AFL's Jets then upset the heavily favored NFL champion Baltimore Colts 16-7, validating the AFL-NFL merger.",
       "difficulty": "easy",
       "decade": "1960s",
@@ -97,8 +142,13 @@
     {
       "id": "sports-10",
       "question": "Mark Spitz set a record at the 1972 Munich Olympics by winning how many gold medals in swimming?",
-      "options": ["5", "6", "7", "8"],
-      "correctAnswer": 2,
+      "options": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 1,
       "explanation": "Mark Spitz won seven gold medals at the 1972 Munich Olympics, setting world records in every event. His record stood until Michael Phelps won eight golds in Beijing in 2008.",
       "difficulty": "easy",
       "decade": "1970s",
@@ -107,8 +157,13 @@
     {
       "id": "sports-11",
       "question": "The 1980 'Miracle on Ice' saw the US Olympic hockey team defeat which dominant team in the semifinals at Lake Placid?",
-      "options": ["Canada", "Czechoslovakia", "Soviet Union", "Finland"],
-      "correctAnswer": 2,
+      "options": [
+        "Soviet Union",
+        "Finland",
+        "Canada",
+        "Czechoslovakia"
+      ],
+      "correctAnswer": 0,
       "explanation": "The underdog US team of college players defeated the powerhouse Soviet Union 4-3 on February 22, 1980. Announcer Al Michaels' call — 'Do you believe in miracles? Yes!' — became one of sports' most iconic moments.",
       "difficulty": "easy",
       "decade": "1980s",
@@ -117,8 +172,13 @@
     {
       "id": "sports-12",
       "question": "In 1974, Hank Aaron broke Babe Ruth's all-time home run record by hitting his 715th home run. Which team was Aaron playing for?",
-      "options": ["Milwaukee Brewers", "Atlanta Braves", "Milwaukee Braves", "Cincinnati Reds"],
-      "correctAnswer": 1,
+      "options": [
+        "Milwaukee Brewers",
+        "Milwaukee Braves",
+        "Atlanta Braves",
+        "Cincinnati Reds"
+      ],
+      "correctAnswer": 2,
       "explanation": "Hank Aaron hit number 715 on April 8, 1974, playing for the Atlanta Braves against the Los Angeles Dodgers. He received death threats during the pursuit but showed tremendous courage, finishing his career with 755 home runs.",
       "difficulty": "medium",
       "decade": "1970s",
@@ -127,8 +187,13 @@
     {
       "id": "sports-13",
       "question": "Johnny Unitas, considered one of football's greatest quarterbacks, set a record by throwing touchdown passes in how many consecutive games?",
-      "options": ["33 games", "38 games", "42 games", "47 games"],
-      "correctAnswer": 3,
+      "options": [
+        "47 games",
+        "38 games",
+        "42 games",
+        "33 games"
+      ],
+      "correctAnswer": 0,
       "explanation": "Johnny Unitas threw at least one touchdown pass in 47 consecutive games from 1956 to 1960 while playing for the Baltimore Colts. This record stood for 52 years until Drew Brees broke it in 2012.",
       "difficulty": "hard",
       "decade": "1950s",
@@ -137,8 +202,13 @@
     {
       "id": "sports-14",
       "question": "Arnold Palmer, known as 'The King' of golf, was one of the first athletes to build a massive following of fans. What were his devoted fans called?",
-      "options": ["Palmer's Posse", "Arnie's Army", "The King's Court", "Palmer's Pals"],
-      "correctAnswer": 1,
+      "options": [
+        "The King's Court",
+        "Palmer's Posse",
+        "Arnie's Army",
+        "Palmer's Pals"
+      ],
+      "correctAnswer": 2,
       "explanation": "Arnold Palmer's charismatic playing style and everyman appeal drew huge galleries called 'Arnie's Army.' He won seven major championships and is credited with popularizing golf through television in the 1960s.",
       "difficulty": "medium",
       "decade": "1960s",
@@ -147,8 +217,13 @@
     {
       "id": "sports-15",
       "question": "Jesse Owens won four gold medals at the 1936 Berlin Olympics, defying Adolf Hitler's claims of Aryan supremacy. In which events did he NOT win a gold medal?",
-      "options": ["100 meters", "200 meters", "400 meters", "Long jump"],
-      "correctAnswer": 2,
+      "options": [
+        "Long jump",
+        "100 meters",
+        "200 meters",
+        "400 meters"
+      ],
+      "correctAnswer": 3,
       "explanation": "Jesse Owens won gold in the 100m, 200m, long jump, and 4x100m relay — but not the 400m. His four gold medals in Nazi Germany remain one of the most powerful statements in sports history.",
       "difficulty": "hard",
       "decade": "1940s",

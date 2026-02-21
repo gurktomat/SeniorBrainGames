@@ -1,0 +1,173 @@
+{
+  "id": "garden-vegetables-recall",
+  "title": "Garden Vegetables Recall",
+  "description": "How much do you remember about growing seasons, plant families, and vegetable garden lore? Let's find out!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "garden-vegetables-recall-1",
+      "question": "Which vegetable family includes tomatoes, peppers, eggplants, and potatoes?",
+      "options": [
+        "Fabaceae",
+        "Brassicaceae",
+        "Cucurbitaceae",
+        "Solanaceae (Nightshade)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garden-vegetables-recall-2",
+      "question": "What popular method of raised bed gardening divides the growing space into square-foot sections?",
+      "options": [
+        "Biointensive gardening",
+        "Square Foot Gardening",
+        "Hugelkultur",
+        "Lasagna gardening"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "garden-vegetables-recall-3",
+      "question": "Which vegetable was considered poisonous by many Europeans until the late 1700s?",
+      "options": [
+        "Zucchini",
+        "Eggplant",
+        "Potato",
+        "Tomato"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garden-vegetables-recall-4",
+      "question": "What are the \"Three Sisters\" in Native American companion planting?",
+      "options": [
+        "Tomatoes, basil, and peppers",
+        "Peas, onions, and garlic",
+        "Lettuce, carrots, and radishes",
+        "Corn, beans, and squash"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garden-vegetables-recall-5",
+      "question": "Which root vegetable can be white, yellow, or even purple, and is often mashed as an alternative to potatoes?",
+      "options": [
+        "Turnip",
+        "All of these",
+        "Parsnip",
+        "Rutabaga"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "garden-vegetables-recall-6",
+      "question": "What does \"bolting\" mean when referring to lettuce or spinach?",
+      "options": [
+        "Developing a flower stalk prematurely due to heat",
+        "Growing extra-large leaves",
+        "Falling over from wind",
+        "Attracting too many insects"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garden-vegetables-recall-7",
+      "question": "Brussels sprouts grow in what unusual way on the plant?",
+      "options": [
+        "Along a tall stalk, spiraling upward",
+        "In clusters like grapes",
+        "On trailing vines",
+        "Underground like potatoes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garden-vegetables-recall-8",
+      "question": "Which vegetable is 95% water, making it one of the most hydrating foods?",
+      "options": [
+        "Lettuce",
+        "Cucumber",
+        "Watermelon",
+        "Celery"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "garden-vegetables-recall-9",
+      "question": "What garden practice involves planting a new crop as soon as the previous one is harvested?",
+      "options": [
+        "Intercropping",
+        "Crop rotation",
+        "Succession planting",
+        "Companion planting"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garden-vegetables-recall-10",
+      "question": "Kohlrabi looks unusual compared to most vegetables. What does it most resemble?",
+      "options": [
+        "A green pineapple",
+        "A cluster of mushrooms",
+        "A small pumpkin",
+        "A satellite with antennae (a swollen stem with leaf stalks)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garden-vegetables-recall-11",
+      "question": "Which legume improves soil by \"fixing\" nitrogen from the air into the ground?",
+      "options": [
+        "Beans and peas",
+        "Squash",
+        "Tomatoes",
+        "Corn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garden-vegetables-recall-12",
+      "question": "What is the term for a plant that completes its life cycle in one growing season?",
+      "options": [
+        "Annual",
+        "Perennial",
+        "Evergreen",
+        "Biennial"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "garden-vegetables-recall-13",
+      "question": "Globe, Jerusalem, and Chinese are all types of which vegetable?",
+      "options": [
+        "Cabbage",
+        "Onion",
+        "Pepper",
+        "Artichoke"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "garden-vegetables-recall-14",
+      "question": "Which herb is traditionally planted near tomatoes as a companion plant to repel pests?",
+      "options": [
+        "Cilantro",
+        "Dill",
+        "Basil",
+        "Oregano"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "garden-vegetables-recall-15",
+      "question": "What did World War II-era \"Victory Gardens\" encourage citizens to do?",
+      "options": [
+        "Grow their own food to support the war effort",
+        "Plant trees for timber",
+        "Donate seeds to the military",
+        "Plant flowers for soldiers"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

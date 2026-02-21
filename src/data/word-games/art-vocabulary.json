@@ -8,43 +8,43 @@
       "id": "art-vocabulary-1",
       "question": "What is 'chiaroscuro' in art?",
       "options": [
-        "A type of Italian cheese",
-        "The use of strong contrasts between light and dark",
         "A sculpting technique",
-        "A style of calligraphy"
+        "A style of calligraphy",
+        "The use of strong contrasts between light and dark",
+        "A type of Italian cheese"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "art-vocabulary-2",
       "question": "What does 'fresco' mean in art?",
       "options": [
         "A cold painting",
+        "A French art gallery",
         "A painting done on fresh, wet plaster",
-        "A type of frame",
-        "A French art gallery"
+        "A type of frame"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "art-vocabulary-3",
       "question": "Which art movement is characterized by visible brushstrokes, ordinary subject matter, and emphasis on light?",
       "options": [
+        "Impressionism",
         "Cubism",
         "Surrealism",
-        "Impressionism",
         "Pop Art"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "art-vocabulary-4",
       "question": "What is a 'palette' in art?",
       "options": [
-        "A type of painting",
-        "A board on which an artist mixes colors",
         "A wooden frame for canvas",
-        "A style of brushwork"
+        "A board on which an artist mixes colors",
+        "A style of brushwork",
+        "A type of painting"
       ],
       "correctAnswer": 1
     },
@@ -53,31 +53,31 @@
       "question": "What does 'trompe l'oeil' mean?",
       "options": [
         "A type of mosaic",
-        "An art that deceives the eye into perceiving a painted surface as three-dimensional",
         "A dance movement",
-        "A musical composition"
+        "A musical composition",
+        "An art that deceives the eye into perceiving a painted surface as three-dimensional"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "art-vocabulary-6",
       "question": "What are the three primary colors in traditional color theory?",
       "options": [
+        "Cyan, magenta, yellow",
         "Red, green, blue",
-        "Red, yellow, blue",
         "Orange, green, purple",
-        "Cyan, magenta, yellow"
+        "Red, yellow, blue"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "art-vocabulary-7",
       "question": "What is a 'still life' painting?",
       "options": [
-        "A painting of a calm landscape",
+        "A painting of a person standing still",
         "A painting of inanimate objects like fruit, flowers, or household items",
         "A painting done very slowly",
-        "A painting of a person standing still"
+        "A painting of a calm landscape"
       ],
       "correctAnswer": 1
     },
@@ -85,32 +85,32 @@
       "id": "art-vocabulary-8",
       "question": "What does 'abstract art' refer to?",
       "options": [
-        "Art that depicts realistic scenes",
         "Art that uses shapes, colors, and forms rather than realistic depictions",
         "Art created only with pencils",
-        "Art found in museums"
+        "Art found in museums",
+        "Art that depicts realistic scenes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "art-vocabulary-9",
       "question": "What is 'perspective' in art?",
       "options": [
         "An artist's opinion about their work",
-        "A technique for creating the illusion of depth on a flat surface",
         "The price of a painting",
+        "A technique for creating the illusion of depth on a flat surface",
         "A type of art gallery"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "art-vocabulary-10",
       "question": "What is a 'medium' in art?",
       "options": [
-        "A psychic artist",
+        "An art critic",
         "The material or technique used to create artwork",
         "A medium-sized canvas",
-        "An art critic"
+        "A psychic artist"
       ],
       "correctAnswer": 1
     },
@@ -118,56 +118,56 @@
       "id": "art-vocabulary-11",
       "question": "What is 'pointillism'?",
       "options": [
-        "Art that makes a strong point",
         "A technique using small dots of color that blend when viewed from a distance",
         "A type of sculpture",
-        "Art created with a single point of a pen"
+        "Art created with a single point of a pen",
+        "Art that makes a strong point"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "art-vocabulary-12",
       "question": "What is a 'mural'?",
       "options": [
-        "A small painting on paper",
         "A large artwork painted directly on a wall or ceiling",
         "A type of art brush",
+        "A small painting on paper",
         "A frame for displaying art"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "art-vocabulary-13",
       "question": "What does 'composition' mean in art?",
       "options": [
-        "Writing a song about art",
         "The arrangement of visual elements in a work of art",
+        "Writing a song about art",
         "The chemical makeup of paint",
         "A type of sculpture material"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "art-vocabulary-14",
       "question": "Which art movement featured dream-like, fantastical imagery and was influenced by the unconscious mind?",
       "options": [
-        "Realism",
         "Baroque",
         "Surrealism",
+        "Realism",
         "Minimalism"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "art-vocabulary-15",
       "question": "What is 'impasto' in painting?",
       "options": [
-        "A type of Italian pasta",
-        "A technique where paint is laid on thickly so brushstrokes are visible",
         "A watercolor technique",
-        "An ancient Egyptian art form"
+        "An ancient Egyptian art form",
+        "A technique where paint is laid on thickly so brushstrokes are visible",
+        "A type of Italian pasta"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     }
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "id": "olympic-winter-games-quiz",
+  "title": "Olympic Winter Games",
+  "description": "How much do you know about the Winter Olympics and their thrilling sports?",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "olympic-winter-games-quiz-1",
+      "question": "In which year were the first Winter Olympic Games held?",
+      "options": [
+        "1920",
+        "1932",
+        "1924",
+        "1928"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first Winter Olympic Games were held in Chamonix, France, in 1924. Sixteen nations participated in 16 events across 6 sports.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-2",
+      "question": "Which figure skater won gold medals at both the 1984 and 1988 Winter Olympics?",
+      "options": [
+        "Peggy Fleming",
+        "Katarina Witt",
+        "Dorothy Hamill",
+        "Kristi Yamaguchi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "East German figure skater Katarina Witt won consecutive Olympic gold medals in 1984 (Sarajevo) and 1988 (Calgary), becoming one of only three women to achieve this feat.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-3",
+      "question": "Which country has won the most total medals in Winter Olympic history?",
+      "options": [
+        "United States",
+        "Canada",
+        "Norway",
+        "Germany"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Norway leads all nations in Winter Olympic medals with over 400 total medals. The country excels particularly in cross-country skiing, biathlon, and ski jumping.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-4",
+      "question": "What is the luge?",
+      "options": [
+        "A snowboarding trick",
+        "A small sled ridden feet-first",
+        "A figure skating move",
+        "A type of ski jump"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The luge is a winter sport where athletes ride a small sled feet-first down an ice track at speeds exceeding 90 mph (140 km/h). It has been an Olympic sport since 1964.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-5",
+      "question": "Which city hosted the 2014 Winter Olympics?",
+      "options": [
+        "Sochi",
+        "Turin",
+        "Vancouver",
+        "Pyeongchang"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 2014 Winter Olympics were held in Sochi, Russia. They were the most expensive Olympics ever at the time, costing approximately $51 billion.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-6",
+      "question": "In which Winter Olympic sport do teams sweep the ice with brooms?",
+      "options": [
+        "Ice hockey",
+        "Bobsled",
+        "Curling",
+        "Speed skating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Curling involves sliding granite stones on ice toward a target, while teammates sweep the ice with brooms to control the stone's speed and direction. It has been an Olympic sport since 1998.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-7",
+      "question": "Which speed skater won five gold medals at the 2014 Sochi Winter Olympics?",
+      "options": [
+        "Sven Kramer",
+        "Lee Seung-hoon",
+        "Viktor Ahn",
+        "Shani Davis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Viktor Ahn (born Ahn Hyun-soo) won three gold medals in short track speed skating at Sochi 2014, competing for Russia. He had previously won gold for South Korea in 2006.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-8",
+      "question": "When did snowboarding become an Olympic sport?",
+      "options": [
+        "1992",
+        "1998",
+        "2002",
+        "1994"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Snowboarding made its Olympic debut at the 1998 Nagano Winter Games. Ross Rebagliati of Canada won the first ever Olympic snowboarding gold medal in giant slalom.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-9",
+      "question": "How many athletes ride in a bobsled in the largest bobsled event?",
+      "options": [
+        "Three",
+        "Six",
+        "Four",
+        "Two"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The four-man (or four-person) bobsled is the largest bobsled event at the Winter Olympics. The crew consists of a pilot, brakeman, and two pushers.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-10",
+      "question": "Which country's 1980 Olympic ice hockey team was known as the 'Miracle on Ice'?",
+      "options": [
+        "United States",
+        "Finland",
+        "Canada",
+        "Soviet Union"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The US men's ice hockey team, made up of amateur and college players, defeated the heavily favored Soviet Union team 4-3 at the 1980 Lake Placid Olympics in what is known as the 'Miracle on Ice.'",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-11",
+      "question": "What is the Nordic combined event?",
+      "options": [
+        "Downhill and slalom skiing",
+        "Ski jumping and cross-country skiing",
+        "Luge and bobsled",
+        "Cross-country skiing and biathlon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Nordic combined is a winter sport that combines ski jumping and cross-country skiing. Athletes first compete in ski jumping, and then race in cross-country skiing.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-12",
+      "question": "Which Winter Olympic sport involves athletes performing aerial twists and flips on skis?",
+      "options": [
+        "Alpine skiing",
+        "Ski jumping",
+        "Freestyle skiing aerials",
+        "Nordic combined"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Freestyle skiing aerials involves athletes skiing down a steep ramp (kicker), launching into the air, and performing acrobatic maneuvers including twists and flips before landing.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-13",
+      "question": "Which city will host the 2026 Winter Olympics?",
+      "options": [
+        "Sapporo",
+        "Milan-Cortina",
+        "Stockholm",
+        "Salt Lake City"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 2026 Winter Olympics will be held in Milan and Cortina d'Ampezzo, Italy. It will be the first time Italy hosts the Winter Games since Turin in 2006.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-14",
+      "question": "What is the skeleton in Winter Olympics?",
+      "options": [
+        "A type of ice dancing",
+        "A team relay event",
+        "A head-first sled sport",
+        "A cross-country ski event"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The skeleton is a winter sliding sport where athletes ride a small sled head-first down a frozen track. Athletes reach speeds of over 80 mph (130 km/h) while lying face down.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "olympic-winter-games-quiz-15",
+      "question": "Which male figure skater won three consecutive Olympic gold medals from 1920 to 1928?",
+      "options": [
+        "Karl Schafer",
+        "Gillis Grafstrom",
+        "Sonja Henie",
+        "Dick Button"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Swedish figure skater Gillis Grafstrom won gold medals at the 1920, 1924, and 1928 Olympics, making him one of the most successful figure skaters in Olympic history.",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

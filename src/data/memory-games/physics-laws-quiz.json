@@ -1,0 +1,173 @@
+{
+  "id": "physics-laws-quiz",
+  "title": "Physics Laws Quiz",
+  "description": "From Newton to Einstein, test your recall of the fundamental laws and principles of physics.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "physics-laws-quiz-1",
+      "question": "What does Newton's first law of motion describe?",
+      "options": [
+        "Every action has an equal and opposite reaction",
+        "Force equals mass times acceleration",
+        "An object at rest stays at rest unless acted upon",
+        "Energy cannot be created or destroyed"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-laws-quiz-2",
+      "question": "What is the formula for Einstein's famous mass-energy equivalence?",
+      "options": [
+        "E = mc²",
+        "E = mgh",
+        "E = ½mv²",
+        "E = mv"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "physics-laws-quiz-3",
+      "question": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+      "options": [
+        "Gay-Lussac's Law",
+        "Avogadro's Law",
+        "Charles's Law",
+        "Boyle's Law"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-4",
+      "question": "What does the law of conservation of energy state?",
+      "options": [
+        "Energy is only conserved in closed systems",
+        "Energy can be created from nothing",
+        "Energy always decreases over time",
+        "Energy cannot be created or destroyed, only transformed"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-5",
+      "question": "Which scientist formulated the laws of planetary motion?",
+      "options": [
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-6",
+      "question": "What does Ohm's Law relate?",
+      "options": [
+        "Mass and velocity",
+        "Force and acceleration",
+        "Voltage, current, and resistance",
+        "Pressure and volume"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-laws-quiz-7",
+      "question": "Which law explains why a boat floats on water?",
+      "options": [
+        "Bernoulli's Principle",
+        "Pascal's Law",
+        "Archimedes' Principle",
+        "Newton's Third Law"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-laws-quiz-8",
+      "question": "What is the speed of light in a vacuum, approximately?",
+      "options": [
+        "1,000,000 km/s",
+        "150,000 km/s",
+        "500,000 km/s",
+        "300,000 km/s"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-9",
+      "question": "Which law states that the total entropy of an isolated system always increases over time?",
+      "options": [
+        "Zeroth Law of Thermodynamics",
+        "First Law of Thermodynamics",
+        "Second Law of Thermodynamics",
+        "Third Law of Thermodynamics"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-laws-quiz-10",
+      "question": "What force keeps the planets in orbit around the Sun?",
+      "options": [
+        "Nuclear force",
+        "Electromagnetic force",
+        "Gravitational force",
+        "Centrifugal force"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "physics-laws-quiz-11",
+      "question": "Who proposed that light behaves as both a wave and a particle?",
+      "options": [
+        "Albert Einstein",
+        "Louis de Broglie",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "physics-laws-quiz-12",
+      "question": "Which principle states that it is impossible to know both the position and momentum of a particle exactly?",
+      "options": [
+        "Pauli Exclusion Principle",
+        "Schrödinger's Equation",
+        "Bohr's Correspondence Principle",
+        "Heisenberg Uncertainty Principle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-13",
+      "question": "What is Newton's second law of motion expressed as?",
+      "options": [
+        "V = IR",
+        "E = mc²",
+        "P = mv",
+        "F = ma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "physics-laws-quiz-14",
+      "question": "Which law describes how a changing magnetic field creates an electric field?",
+      "options": [
+        "Gauss's Law",
+        "Faraday's Law of Induction",
+        "Coulomb's Law",
+        "Ampere's Law"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "physics-laws-quiz-15",
+      "question": "What is the unit of force in the International System of Units?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Pascal",
+        "Newton"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

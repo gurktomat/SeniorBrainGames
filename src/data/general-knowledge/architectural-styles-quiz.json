@@ -1,0 +1,219 @@
+{
+  "id": "architectural-styles-quiz",
+  "title": "Architectural Styles",
+  "description": "From Gothic cathedrals to modern skyscrapers, explore the world's great architectural movements!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "architectural-styles-quiz-1",
+      "question": "Gothic architecture, with its pointed arches and flying buttresses, originated in which country?",
+      "options": [
+        "France",
+        "Italy",
+        "England",
+        "Germany"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gothic architecture originated in 12th-century France with the Abbey of Saint-Denis near Paris. The style spread throughout Europe, characterized by pointed arches, ribbed vaults, and large stained glass windows.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-2",
+      "question": "The Parthenon in Athens is a masterpiece of which architectural style?",
+      "options": [
+        "Byzantine",
+        "Romanesque",
+        "Classical Greek",
+        "Roman"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Parthenon (447-432 BC) is the finest example of Classical Greek architecture. Built in the Doric order atop the Acropolis, it was dedicated to the goddess Athena.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-3",
+      "question": "What distinctive feature defines a 'flying buttress' in Gothic architecture?",
+      "options": [
+        "An external arched support that transfers wall weight outward",
+        "A vaulted ceiling",
+        "A tall spire",
+        "A circular window"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Flying buttresses are arched structures extending from the upper walls to free-standing piers. They allowed Gothic builders to create thinner walls with larger windows by transferring the weight of the roof outward.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-4",
+      "question": "The Baroque architectural style is characterized by what quality?",
+      "options": [
+        "Grandeur, drama, and rich ornamentation",
+        "Flat roofs and glass walls",
+        "Extreme simplicity",
+        "Exposed brick and iron"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Baroque architecture (17th-18th centuries) emphasized grandeur, movement, and emotional impact. The Palace of Versailles and St. Peter's Basilica exemplify the style's love of ornament and theatrical effect.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-5",
+      "question": "Frank Lloyd Wright's 'Fallingwater' is an iconic example of which design philosophy?",
+      "options": [
+        "International Style",
+        "Brutalism",
+        "Art Deco",
+        "Organic architecture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fallingwater (1935) in Pennsylvania is built directly over a waterfall, integrating the structure with the natural landscape. Wright's organic architecture sought harmony between human habitation and nature.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-6",
+      "question": "The Art Deco style, popular in the 1920s and 1930s, is exemplified by which New York building?",
+      "options": [
+        "The Flatiron Building",
+        "The Chrysler Building",
+        "The Empire State Building",
+        "The Woolworth Building"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Chrysler Building (1930) is considered the finest example of Art Deco architecture. Its distinctive crown of stainless steel arches and triangular windows, along with eagle gargoyles, epitomize the style's glamour.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-7",
+      "question": "What is the defining feature of a Roman arch compared to earlier Greek construction?",
+      "options": [
+        "It uses wooden beams",
+        "It requires no mortar",
+        "It is always pointed",
+        "It is semicircular and can span larger distances"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Romans perfected the semicircular arch, which could span much greater distances than Greek post-and-lintel construction. This innovation led to aqueducts, the Colosseum, and other monumental structures.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-8",
+      "question": "Which Spanish architect designed the unfinished Sagrada Família basilica in Barcelona?",
+      "options": [
+        "Santiago Calatrava",
+        "Antoni Gaudí",
+        "Ricardo Bofill",
+        "Rafael Moneo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antoni Gaudí devoted 43 years of his life to the Sagrada Família, begun in 1882. His unique style blends Gothic and Art Nouveau forms with nature-inspired organic shapes. Construction continues today.",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-9",
+      "question": "Brutalism, an architectural style popular in the 1950s-1970s, is characterized by the use of what material?",
+      "options": [
+        "Glass and steel",
+        "Red brick",
+        "White marble",
+        "Raw, exposed concrete"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Brutalism takes its name from the French 'béton brut' (raw concrete). The style features massive, monolithic forms and exposed concrete surfaces. Government buildings and universities worldwide were built in this style.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-10",
+      "question": "The dome of the Hagia Sophia in Istanbul is a masterpiece of which architectural tradition?",
+      "options": [
+        "Persian",
+        "Byzantine",
+        "Ottoman",
+        "Roman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Hagia Sophia (537 AD) features a massive dome that seemed to float above the interior. Built as a Christian cathedral under Emperor Justinian, its Byzantine engineering was unmatched for nearly a thousand years.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-11",
+      "question": "What does the term 'International Style' refer to in architecture?",
+      "options": [
+        "Buildings designed for international organizations",
+        "Traditional wooden construction",
+        "Architecture that blends styles from multiple countries",
+        "A modernist style using glass, steel, and minimal ornamentation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The International Style emerged in the 1920s-30s, championed by Le Corbusier, Mies van der Rohe, and Walter Gropius. It emphasized clean lines, glass curtain walls, and the rejection of applied decoration.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-12",
+      "question": "Which architectural style features rounded arches, thick walls, and sturdy pillars, and preceded Gothic?",
+      "options": [
+        "Romanesque",
+        "Renaissance",
+        "Neoclassical",
+        "Tudor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Romanesque architecture (10th-12th centuries) is characterized by semicircular arches, massive stone walls, and barrel vaults. It dominated European church architecture before the Gothic revolution.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-13",
+      "question": "The Guggenheim Museum in Bilbao, designed by Frank Gehry, is an example of which style?",
+      "options": [
+        "Art Deco",
+        "Postmodernism",
+        "High-tech",
+        "Deconstructivism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Guggenheim Bilbao (1997) exemplifies deconstructivist architecture with its flowing, organic titanium-clad forms. Frank Gehry's design transformed the city and demonstrated architecture's power to revitalize urban areas.",
+      "difficulty": "hard",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-14",
+      "question": "Neoclassical architecture, inspired by ancient Greece and Rome, became popular in which century?",
+      "options": [
+        "16th century",
+        "15th century",
+        "18th century",
+        "20th century"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neoclassicism emerged in the mid-18th century, inspired by archaeological discoveries at Pompeii and Herculaneum. Many government buildings, including the U.S. Capitol and the British Museum, were built in this style.",
+      "difficulty": "medium",
+      "category": "art"
+    },
+    {
+      "id": "architectural-styles-quiz-15",
+      "question": "Le Corbusier's 'five points of architecture' included a flat roof garden and what other notable feature?",
+      "options": [
+        "Wooden beams",
+        "Ornamental columns",
+        "Pilotis (supporting columns that raise the building)",
+        "Pointed arches"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le Corbusier's five points (1927) were: pilotis (columns), a free plan, a free facade, ribbon windows, and a roof garden. These principles became foundational to modernist architecture.",
+      "difficulty": "hard",
+      "category": "art"
+    }
+  ]
+}

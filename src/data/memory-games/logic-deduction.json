@@ -8,8 +8,13 @@
     {
       "id": "logic-1",
       "question": "Tom is taller than Sue. Sue is taller than Mike. Who is the shortest?",
-      "options": ["Tom", "Sue", "Mike", "They are all the same height"],
-      "correctAnswer": 2,
+      "options": [
+        "They are all the same height",
+        "Sue",
+        "Tom",
+        "Mike"
+      ],
+      "correctAnswer": 3,
       "explanation": "Since Tom is taller than Sue, and Sue is taller than Mike, Mike must be the shortest of the three.",
       "difficulty": "easy",
       "category": "logic"
@@ -17,8 +22,13 @@
     {
       "id": "logic-2",
       "question": "A farmer has chickens and cows. He counts 8 heads and 22 legs in total. How many cows does he have?",
-      "options": ["2", "3", "4", "5"],
-      "correctAnswer": 1,
+      "options": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "correctAnswer": 0,
       "explanation": "8 heads means 8 animals total. If all 8 were chickens, that would be 16 legs. Each cow adds 2 extra legs (4 instead of 2). We need 22 - 16 = 6 extra legs, so 6 ÷ 2 = 3 cows (and 5 chickens). Check: 3 × 4 + 5 × 2 = 12 + 10 = 22 legs.",
       "difficulty": "medium",
       "category": "logic"
@@ -26,7 +36,12 @@
     {
       "id": "logic-3",
       "question": "What comes next in this sequence? 2, 6, 18, 54, ___",
-      "options": ["108", "162", "72", "216"],
+      "options": [
+        "72",
+        "162",
+        "216",
+        "108"
+      ],
       "correctAnswer": 1,
       "explanation": "Each number is multiplied by 3 to get the next: 2 × 3 = 6, 6 × 3 = 18, 18 × 3 = 54, so 54 × 3 = 162.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "logic-4",
       "question": "Three friends finished a race. Amy did not finish last. Ben finished after Amy. Carl did not finish first. In what order did they finish?",
-      "options": ["Amy, Carl, Ben", "Amy, Ben, Carl", "Carl, Amy, Ben", "Ben, Amy, Carl"],
-      "correctAnswer": 0,
+      "options": [
+        "Amy, Ben, Carl",
+        "Ben, Amy, Carl",
+        "Amy, Carl, Ben",
+        "Carl, Amy, Ben"
+      ],
+      "correctAnswer": 2,
       "explanation": "Ben finished after Amy, so Amy was ahead of Ben. Carl did not finish first, so Amy must be first. Amy did not finish last (confirmed — she's first). Ben finished after Amy, and Carl was not first, so the order is Amy (1st), Carl (2nd), Ben (3rd).",
       "difficulty": "medium",
       "category": "logic"
@@ -44,8 +64,13 @@
     {
       "id": "logic-5",
       "question": "If all roses are flowers, and some flowers fade quickly, which statement MUST be true?",
-      "options": ["All roses fade quickly", "Some roses fade quickly", "No roses fade quickly", "None of these must be true"],
-      "correctAnswer": 3,
+      "options": [
+        "None of these must be true",
+        "All roses fade quickly",
+        "Some roses fade quickly",
+        "No roses fade quickly"
+      ],
+      "correctAnswer": 0,
       "explanation": "We know all roses are flowers, and some flowers fade quickly — but we cannot be certain that any of those quickly-fading flowers are roses. It is possible, but not guaranteed. Therefore, none of the first three statements must be true.",
       "difficulty": "hard",
       "category": "logic"
@@ -53,8 +78,13 @@
     {
       "id": "logic-6",
       "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
-      "options": ["0 degrees", "7.5 degrees", "15 degrees", "90 degrees"],
-      "correctAnswer": 1,
+      "options": [
+        "90 degrees",
+        "15 degrees",
+        "7.5 degrees",
+        "0 degrees"
+      ],
+      "correctAnswer": 2,
       "explanation": "At 3:15, the minute hand points at the 3 (90 degrees from 12). But the hour hand has moved past the 3 by a quarter of the way toward the 4. Each hour mark is 30 degrees, so a quarter is 7.5 degrees. The angle between them is 7.5 degrees.",
       "difficulty": "hard",
       "category": "logic"
@@ -62,8 +92,13 @@
     {
       "id": "logic-7",
       "question": "You have three boxes: one has only apples, one has only oranges, and one has both. All three labels are WRONG. You pick one fruit from the box labeled 'Apples and Oranges' and it's an apple. What does the box labeled 'Oranges' actually contain?",
-      "options": ["Oranges", "Apples", "Apples and Oranges", "It could be either"],
-      "correctAnswer": 2,
+      "options": [
+        "It could be either",
+        "Oranges",
+        "Apples",
+        "Apples and Oranges"
+      ],
+      "correctAnswer": 3,
       "explanation": "Since all labels are wrong, the box labeled 'Apples and Oranges' cannot have both — and you drew an apple, so it must be the 'only apples' box. The box labeled 'Oranges' is also mislabeled, so it cannot contain only oranges. It cannot be apples (that's the box we just identified). So it must contain apples and oranges.",
       "difficulty": "hard",
       "category": "logic"
@@ -71,8 +106,13 @@
     {
       "id": "logic-8",
       "question": "The day after tomorrow is Thursday. What day was it the day before yesterday?",
-      "options": ["Sunday", "Monday", "Tuesday", "Saturday"],
-      "correctAnswer": 0,
+      "options": [
+        "Monday",
+        "Sunday",
+        "Tuesday",
+        "Saturday"
+      ],
+      "correctAnswer": 1,
       "explanation": "If the day after tomorrow is Thursday, then tomorrow is Wednesday, and today is Tuesday. The day before yesterday means two days before today: Tuesday minus 2 days = Sunday.",
       "difficulty": "medium",
       "category": "logic"
@@ -80,8 +120,13 @@
     {
       "id": "logic-9",
       "question": "In a race, you overtake the person in second place. What position are you now in?",
-      "options": ["First place", "Second place", "Third place", "It depends on the race"],
-      "correctAnswer": 1,
+      "options": [
+        "Second place",
+        "Third place",
+        "It depends on the race",
+        "First place"
+      ],
+      "correctAnswer": 0,
       "explanation": "If you overtake the person in second place, you take their position — you are now in second place. You did NOT overtake the person in first place, so you are not in first.",
       "difficulty": "easy",
       "category": "logic"
@@ -89,8 +134,13 @@
     {
       "id": "logic-10",
       "question": "Three light switches outside a room each control one of three bulbs inside. You can only enter the room once. How can you figure out which switch controls which bulb? You turn switch 1 on for 10 minutes, turn it off, then turn switch 2 on, and enter. The bulb that is on is controlled by which switch?",
-      "options": ["Switch 1", "Switch 2", "Switch 3", "Cannot be determined"],
-      "correctAnswer": 1,
+      "options": [
+        "Switch 2",
+        "Switch 3",
+        "Switch 1",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 0,
       "explanation": "Switch 2 is currently on, so the lit bulb is controlled by switch 2. The bulb that is off but warm to the touch is controlled by switch 1 (it was on for 10 minutes). The bulb that is off and cold is controlled by switch 3.",
       "difficulty": "easy",
       "category": "logic"
@@ -98,7 +148,12 @@
     {
       "id": "logic-11",
       "question": "A doctor gives you three pills and tells you to take one every 30 minutes. How long will it take to finish all three pills?",
-      "options": ["90 minutes", "60 minutes", "45 minutes", "30 minutes"],
+      "options": [
+        "45 minutes",
+        "60 minutes",
+        "30 minutes",
+        "90 minutes"
+      ],
       "correctAnswer": 1,
       "explanation": "You take the first pill immediately (time 0). You take the second pill 30 minutes later. You take the third pill 30 minutes after that. Total time: 60 minutes, not 90.",
       "difficulty": "easy",
@@ -107,7 +162,12 @@
     {
       "id": "logic-12",
       "question": "Four people need to cross a bridge at night with one flashlight. They can cross in pairs but must go at the slowest person's speed. Crossing times: 1 min, 2 min, 5 min, 10 min. Someone must bring the flashlight back. What is the fastest they can all cross?",
-      "options": ["17 minutes", "19 minutes", "21 minutes", "15 minutes"],
+      "options": [
+        "17 minutes",
+        "15 minutes",
+        "21 minutes",
+        "19 minutes"
+      ],
       "correctAnswer": 0,
       "explanation": "The optimal strategy: (1) 1-min and 2-min cross together (2 min). (2) 1-min returns with flashlight (1 min). (3) 5-min and 10-min cross together (10 min). (4) 2-min returns with flashlight (2 min). (5) 1-min and 2-min cross together (2 min). Total: 2 + 1 + 10 + 2 + 2 = 17 minutes.",
       "difficulty": "hard",
@@ -116,7 +176,12 @@
     {
       "id": "logic-13",
       "question": "What comes next in this pattern? J, F, M, A, M, J, J, ___",
-      "options": ["A", "S", "K", "O"],
+      "options": [
+        "A",
+        "O",
+        "K",
+        "S"
+      ],
       "correctAnswer": 0,
       "explanation": "These are the first letters of the months: January, February, March, April, May, June, July — so next is August, which starts with 'A'.",
       "difficulty": "medium",
@@ -125,8 +190,13 @@
     {
       "id": "logic-14",
       "question": "There are 12 coins. One is counterfeit and lighter than the rest. Using a balance scale, what is the minimum number of weighings needed to guarantee finding the counterfeit coin?",
-      "options": ["2", "3", "4", "6"],
-      "correctAnswer": 1,
+      "options": [
+        "4",
+        "6",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 3,
       "explanation": "Divide the 12 coins into three groups of 4. Weigh group 1 vs group 2. If they balance, the fake is in group 3. If not, take the lighter group. Now divide the 4 suspect coins into groups: weigh 1 vs 1 from 2 of them. One more weighing identifies the fake. Three weighings are always enough.",
       "difficulty": "hard",
       "category": "logic"
@@ -134,8 +204,13 @@
     {
       "id": "logic-15",
       "question": "Sarah's mother has four children: North, South, East, and ___. What is the fourth child's name?",
-      "options": ["West", "Sarah", "South", "None of the above"],
-      "correctAnswer": 1,
+      "options": [
+        "South",
+        "None of the above",
+        "West",
+        "Sarah"
+      ],
+      "correctAnswer": 3,
       "explanation": "The question says 'Sarah's mother has four children.' So Sarah must be one of them! The fourth child's name is Sarah.",
       "difficulty": "medium",
       "category": "logic"

@@ -1,0 +1,173 @@
+{
+  "id": "famous-palaces-quiz",
+  "title": "Famous Palaces Quiz",
+  "description": "Step inside the world's grandest palaces and test your knowledge of these magnificent royal residences.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "famous-palaces-quiz-1",
+      "question": "The Palace of Versailles, known for its Hall of Mirrors, is located near which European capital?",
+      "options": [
+        "London",
+        "Paris",
+        "Madrid",
+        "Vienna"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-palaces-quiz-2",
+      "question": "Buckingham Palace, the official London residence of the British monarch, has approximately how many rooms?",
+      "options": [
+        "375",
+        "525",
+        "775",
+        "950"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-palaces-quiz-3",
+      "question": "The Forbidden City, the world's largest palace complex, served as the imperial palace for which country's emperors?",
+      "options": [
+        "Japan",
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-palaces-quiz-4",
+      "question": "The Winter Palace in St. Petersburg now houses which famous art museum?",
+      "options": [
+        "The Louvre",
+        "The Tretyakov Gallery",
+        "The Kremlin Museum",
+        "The Hermitage"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-palaces-quiz-5",
+      "question": "Schönbrunn Palace, a 1,441-room former imperial summer residence, is located in which city?",
+      "options": [
+        "Vienna",
+        "Munich",
+        "Prague",
+        "Berlin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-palaces-quiz-6",
+      "question": "The Potala Palace, the former winter residence of the Dalai Lama, is located in which city?",
+      "options": [
+        "Kathmandu",
+        "Lhasa",
+        "Dharamsala",
+        "Thimphu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-palaces-quiz-7",
+      "question": "Neuschwanstein Castle, which inspired the Sleeping Beauty Castle at Disneyland, is located in which country?",
+      "options": [
+        "Germany",
+        "Czech Republic",
+        "Switzerland",
+        "Austria"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-palaces-quiz-8",
+      "question": "The Royal Palace of Madrid is the official residence of the Spanish royal family. Is it still used as their home?",
+      "options": [
+        "No, it is now a museum only",
+        "Yes, they live there full-time",
+        "Yes, but only in summer",
+        "No, it is only used for state ceremonies"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-palaces-quiz-9",
+      "question": "Topkapi Palace, the primary residence of Ottoman sultans for nearly 400 years, is in which city?",
+      "options": [
+        "Baghdad",
+        "Cairo",
+        "Damascus",
+        "Istanbul"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-palaces-quiz-10",
+      "question": "The Grand Palace in Bangkok, Thailand, was built during the reign of which dynasty?",
+      "options": [
+        "Sukhothai",
+        "Ayutthaya",
+        "Chakri",
+        "Thonburi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-palaces-quiz-11",
+      "question": "Mysore Palace, one of India's most visited monuments, is known for being illuminated with how many light bulbs?",
+      "options": [
+        "10,000",
+        "50,000",
+        "200,000",
+        "98,000"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-palaces-quiz-12",
+      "question": "The Palace of Westminster in London is better known as the home of which institution?",
+      "options": [
+        "The Royal Family",
+        "The Bank of England",
+        "The British Parliament",
+        "The Supreme Court"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-palaces-quiz-13",
+      "question": "Peterhof Palace, known as the 'Russian Versailles,' is famous for its elaborate system of what?",
+      "options": [
+        "Underground tunnels",
+        "Glass conservatories",
+        "Fountains",
+        "Hedge mazes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-palaces-quiz-14",
+      "question": "Hampton Court Palace, famous for its maze garden, was a favorite residence of which English king?",
+      "options": [
+        "Henry VII",
+        "Henry VIII",
+        "Charles I",
+        "Edward VI"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-palaces-quiz-15",
+      "question": "The Château de Chambord, the largest château in the Loire Valley, is famous for its double-helix staircase possibly designed by whom?",
+      "options": [
+        "Bernini",
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

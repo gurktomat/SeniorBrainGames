@@ -7,92 +7,167 @@
     {
       "id": "classic-tv-lawyers-1",
       "question": "Which actor starred as the brilliant defense attorney Perry Mason in the original 1957-1966 series?",
-      "options": ["Jack Webb", "Raymond Burr", "E.G. Marshall", "Robert Reed"],
-      "correctAnswer": 1
+      "options": [
+        "Jack Webb",
+        "E.G. Marshall",
+        "Robert Reed",
+        "Raymond Burr"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-lawyers-2",
       "question": "What was the name of Perry Mason's loyal secretary?",
-      "options": ["Della Street", "Kitty Russell", "Miss Moneypenny", "Joan Holloway"],
-      "correctAnswer": 0
+      "options": [
+        "Kitty Russell",
+        "Della Street",
+        "Joan Holloway",
+        "Miss Moneypenny"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-tv-lawyers-3",
       "question": "Who played the district attorney who almost always lost to Perry Mason?",
-      "options": ["William Hopper", "Ray Collins", "William Talman", "Richard Anderson"],
-      "correctAnswer": 2
+      "options": [
+        "Ray Collins",
+        "William Talman",
+        "Richard Anderson",
+        "William Hopper"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-tv-lawyers-4",
       "question": "What was the name of the 1986-1993 legal drama starring Andy Griffith as a folksy defense lawyer?",
-      "options": ["Jake and the Fatman", "Matlock", "L.A. Law", "The Practice"],
-      "correctAnswer": 1
+      "options": [
+        "The Practice",
+        "Jake and the Fatman",
+        "Matlock",
+        "L.A. Law"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-lawyers-5",
       "question": "In 'Matlock,' what Southern city was the setting for Ben Matlock's law practice?",
-      "options": ["Savannah, Georgia", "Atlanta, Georgia", "Nashville, Tennessee", "Charlotte, North Carolina"],
-      "correctAnswer": 1
+      "options": [
+        "Savannah, Georgia",
+        "Nashville, Tennessee",
+        "Atlanta, Georgia",
+        "Charlotte, North Carolina"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-tv-lawyers-6",
       "question": "Which groundbreaking 1960s legal drama featured the firm of Lawrence Preston & Associates?",
-      "options": ["The Defenders", "Owen Marshall, Counselor at Law", "Judd for the Defense", "The Law and Mr. Jones"],
-      "correctAnswer": 0
+      "options": [
+        "The Law and Mr. Jones",
+        "Owen Marshall, Counselor at Law",
+        "Judd for the Defense",
+        "The Defenders"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-lawyers-7",
       "question": "E.G. Marshall and Robert Reed starred as a father-and-son defense team in which series?",
-      "options": ["Owen Marshall, Counselor at Law", "Petrocelli", "The Defenders", "The Paper Chase"],
-      "correctAnswer": 2
+      "options": [
+        "Petrocelli",
+        "Owen Marshall, Counselor at Law",
+        "The Paper Chase",
+        "The Defenders"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-lawyers-8",
       "question": "Which 1980s legal drama, set in a Los Angeles law firm, was created by Steven Bochco?",
-      "options": ["Night Court", "L.A. Law", "The Practice", "Ally McBeal"],
-      "correctAnswer": 1
+      "options": [
+        "L.A. Law",
+        "Night Court",
+        "The Practice",
+        "Ally McBeal"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-tv-lawyers-9",
       "question": "What was Perry Mason's private investigator named?",
-      "options": ["Jim Rockford", "Thomas Magnum", "Paul Drake", "Joe Mannix"],
-      "correctAnswer": 2
+      "options": [
+        "Paul Drake",
+        "Joe Mannix",
+        "Jim Rockford",
+        "Thomas Magnum"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-tv-lawyers-10",
       "question": "Which sitcom featured Harry Anderson as a wacky judge in a Manhattan municipal court?",
-      "options": ["The Practice", "Night Court", "Courthouse", "Judge Harry's Court"],
-      "correctAnswer": 1
+      "options": [
+        "Judge Harry's Court",
+        "The Practice",
+        "Courthouse",
+        "Night Court"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-lawyers-11",
       "question": "Arthur Hill starred as a compassionate California defense attorney in which 1970s series?",
-      "options": ["Petrocelli", "Owen Marshall, Counselor at Law", "The Bold Ones", "Judd for the Defense"],
-      "correctAnswer": 1
+      "options": [
+        "Petrocelli",
+        "The Bold Ones",
+        "Judd for the Defense",
+        "Owen Marshall, Counselor at Law"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-tv-lawyers-12",
       "question": "What classic courtroom show, hosted by real judges, settled small claims cases on television starting in 1981?",
-      "options": ["Judge Judy", "The People's Court", "Divorce Court", "Court TV"],
+      "options": [
+        "Court TV",
+        "The People's Court",
+        "Divorce Court",
+        "Judge Judy"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-tv-lawyers-13",
       "question": "Which actor narrated and occasionally appeared in the legal anthology series 'The Joseph Cotten Show'?",
-      "options": ["Joseph Cotten", "Orson Welles", "James Stewart", "Henry Fonda"],
+      "options": [
+        "Joseph Cotten",
+        "Orson Welles",
+        "Henry Fonda",
+        "James Stewart"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "classic-tv-lawyers-14",
       "question": "In 'L.A. Law,' which character was the suave tax attorney played by Corbin Bernsen?",
-      "options": ["Michael Kuzak", "Arnie Becker", "Douglas Brackman", "Stuart Markowitz"],
-      "correctAnswer": 1
+      "options": [
+        "Arnie Becker",
+        "Michael Kuzak",
+        "Douglas Brackman",
+        "Stuart Markowitz"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-tv-lawyers-15",
       "question": "What beloved character trait did Ben Matlock have that became a running joke on the show?",
-      "options": ["He always wore mismatched socks", "He was extremely frugal and loved hot dogs", "He fell asleep during trials", "He never wore a tie"],
-      "correctAnswer": 1
+      "options": [
+        "He always wore mismatched socks",
+        "He never wore a tie",
+        "He was extremely frugal and loved hot dogs",
+        "He fell asleep during trials"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

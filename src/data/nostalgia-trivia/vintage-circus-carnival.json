@@ -7,91 +7,166 @@
     {
       "id": "vintage-circus-carnival-1",
       "question": "What famous American circus was known as 'The Greatest Show on Earth'?",
-      "options": ["Cole Bros. Circus", "Ringling Bros. and Barnum & Bailey", "Clyde Beatty Circus", "Sells-Floto Circus"],
-      "correctAnswer": 1
+      "options": [
+        "Ringling Bros. and Barnum & Bailey",
+        "Sells-Floto Circus",
+        "Cole Bros. Circus",
+        "Clyde Beatty Circus"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-2",
       "question": "What was the name of P.T. Barnum's famous museum in New York City?",
-      "options": ["Barnum's Grand Palace", "The American Museum", "The Curiosity Shop", "Barnum's Wonderland"],
-      "correctAnswer": 1
+      "options": [
+        "The American Museum",
+        "The Curiosity Shop",
+        "Barnum's Grand Palace",
+        "Barnum's Wonderland"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-3",
       "question": "What is the term for a circus performer who walks on a tightrope high above the ground?",
-      "options": ["Acrobat", "Funambulist", "Trapeze artist", "Aerialist"],
-      "correctAnswer": 1
+      "options": [
+        "Funambulist",
+        "Aerialist",
+        "Acrobat",
+        "Trapeze artist"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-4",
       "question": "The Flying Wallendas were a famous circus family known for performing on what apparatus?",
-      "options": ["Trapeze", "High wire", "Flying rings", "Trampoline"],
-      "correctAnswer": 1
+      "options": [
+        "High wire",
+        "Flying rings",
+        "Trampoline",
+        "Trapeze"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-5",
       "question": "What sweet treat, spun from hot sugar, is a classic carnival food?",
-      "options": ["Caramel apples", "Funnel cake", "Cotton candy", "Taffy"],
-      "correctAnswer": 2
+      "options": [
+        "Cotton candy",
+        "Funnel cake",
+        "Taffy",
+        "Caramel apples"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-6",
       "question": "What is the large tent used for the main circus performances traditionally called?",
-      "options": ["The pavilion", "The big top", "The arena", "The ring tent"],
-      "correctAnswer": 1
+      "options": [
+        "The big top",
+        "The arena",
+        "The pavilion",
+        "The ring tent"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-7",
       "question": "What famous elephant was exhibited by P.T. Barnum and billed as the largest elephant in the world?",
-      "options": ["Babar", "Dumbo", "Jumbo", "Topsy"],
+      "options": [
+        "Topsy",
+        "Babar",
+        "Jumbo",
+        "Dumbo"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-circus-carnival-8",
       "question": "What carnival ride features a rotating platform with decorated horses that move up and down?",
-      "options": ["Ferris wheel", "Tilt-A-Whirl", "Carousel (merry-go-round)", "Scrambler"],
-      "correctAnswer": 2
+      "options": [
+        "Scrambler",
+        "Ferris wheel",
+        "Tilt-A-Whirl",
+        "Carousel (merry-go-round)"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-circus-carnival-9",
       "question": "What was the sideshow attraction where a person appeared to have no body, just a head on a table?",
-      "options": ["The Living Head", "The Invisible Man", "The Headless Woman", "The Spider Lady"],
-      "correctAnswer": 0
+      "options": [
+        "The Headless Woman",
+        "The Invisible Man",
+        "The Spider Lady",
+        "The Living Head"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-circus-carnival-10",
       "question": "What famous circus clown, born Emmett Kelly, was known for his sad-faced 'Weary Willie' character?",
-      "options": ["Bozo", "Emmett Kelly", "Lou Jacobs", "Felix Adler"],
+      "options": [
+        "Lou Jacobs",
+        "Emmett Kelly",
+        "Felix Adler",
+        "Bozo"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-circus-carnival-11",
       "question": "What carnival game requires players to knock over stacked milk bottles with a ball?",
-      "options": ["Ring toss", "Milk bottle throw", "Ball-in-the-basket", "Balloon darts"],
-      "correctAnswer": 1
+      "options": [
+        "Milk bottle throw",
+        "Balloon darts",
+        "Ball-in-the-basket",
+        "Ring toss"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-circus-carnival-12",
       "question": "What was the name of the large revolving ride invented by George Washington Gale Ferris Jr. for the 1893 World's Fair?",
-      "options": ["The Rotary Wheel", "The Ferris Wheel", "The Observation Wheel", "The Sky Ride"],
+      "options": [
+        "The Rotary Wheel",
+        "The Ferris Wheel",
+        "The Observation Wheel",
+        "The Sky Ride"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-circus-carnival-13",
       "question": "What circus act involves a performer being shot from a large cannon-like device?",
-      "options": ["The Flying Trapeze", "The Human Cannonball", "The Daredevil Drop", "The Rocket Man"],
-      "correctAnswer": 1
+      "options": [
+        "The Flying Trapeze",
+        "The Daredevil Drop",
+        "The Human Cannonball",
+        "The Rocket Man"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-circus-carnival-14",
       "question": "What small car gag became a beloved circus comedy routine, with an impossible number of clowns emerging?",
-      "options": ["The clown bicycle", "The clown car", "The clown wagon", "The clown train"],
+      "options": [
+        "The clown wagon",
+        "The clown car",
+        "The clown train",
+        "The clown bicycle"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-circus-carnival-15",
       "question": "What classic carnival attraction uses distorted mirrors to make visitors look tall, short, or wavy?",
-      "options": ["The haunted house", "The funhouse mirrors", "The hall of illusions", "The magic show"],
+      "options": [
+        "The haunted house",
+        "The funhouse mirrors",
+        "The hall of illusions",
+        "The magic show"
+      ],
       "correctAnswer": 1
     }
   ]

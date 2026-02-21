@@ -1,0 +1,174 @@
+{
+  "id": "home-repair-materials-quiz",
+  "title": "Home Repair Materials Quiz",
+  "description": "Test your knowledge of common home repair and building materials. From drywall to insulation, how much do you know?",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "home-repair-materials-quiz-1",
+      "question": "What is drywall (also called sheetrock or gypsum board) made of?",
+      "options": [
+        "Layers of fiberglass",
+        "Cement and sand",
+        "Compressed wood fibers",
+        "A core of gypsum plaster sandwiched between paper facings"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "home-repair-materials-quiz-2",
+      "question": "Which pink or yellow fluffy material is commonly installed in walls and attics for thermal insulation?",
+      "options": [
+        "Cellulose",
+        "Rigid foam board",
+        "Fiberglass batt insulation",
+        "Spray foam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "home-repair-materials-quiz-3",
+      "question": "What is joint compound (mud) used for in home repair?",
+      "options": [
+        "Covering drywall seams, nail holes, and tape to create a smooth wall surface",
+        "Gluing tiles",
+        "Insulating pipes",
+        "Waterproofing basements"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "home-repair-materials-quiz-4",
+      "question": "Which material is a thin, flat piece of wood or asphalt used to cover roofs in overlapping rows?",
+      "options": [
+        "Fascia board",
+        "Flashing",
+        "Underlayment",
+        "Shingle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "home-repair-materials-quiz-5",
+      "question": "What is grout used for?",
+      "options": [
+        "Filling the gaps between tiles to seal and finish the installation",
+        "Leveling floors",
+        "Adhering tiles to walls",
+        "Waterproofing shower pans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "home-repair-materials-quiz-6",
+      "question": "Which building material is a composite panel made of thin wood layers (plies) glued together with alternating grain directions?",
+      "options": [
+        "Particle board",
+        "Plywood",
+        "OSB (oriented strand board)",
+        "MDF (medium-density fiberboard)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "home-repair-materials-quiz-7",
+      "question": "What is flashing used for on a roof?",
+      "options": [
+        "Adding decorative elements",
+        "Ventilating the roof",
+        "Directing water away from joints and seams to prevent leaks",
+        "Insulating the attic"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "home-repair-materials-quiz-8",
+      "question": "Which product is a pre-mixed or powder compound used to fill cracks in concrete?",
+      "options": [
+        "Stucco",
+        "Grout",
+        "Mortar",
+        "Concrete patch (concrete filler)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "home-repair-materials-quiz-9",
+      "question": "What is the purpose of drywall tape used along seams?",
+      "options": [
+        "Reinforcing joints between drywall sheets to prevent cracking",
+        "Decorating walls",
+        "Soundproofing rooms",
+        "Insulating walls"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "home-repair-materials-quiz-10",
+      "question": "Which waterproof membrane is installed behind shower tiles to prevent water damage?",
+      "options": [
+        "Plywood",
+        "Cement board with waterproof membrane (like Kerdi)",
+        "Drywall",
+        "Vapor barrier"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "home-repair-materials-quiz-11",
+      "question": "What is thinset mortar used for?",
+      "options": [
+        "Filling drywall holes",
+        "Sealing windows",
+        "Bonding tiles to floors and walls",
+        "Patching concrete cracks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "home-repair-materials-quiz-12",
+      "question": "Which material is a flexible strip applied around windows and doors to block drafts and moisture?",
+      "options": [
+        "Flashing",
+        "Caulk",
+        "Trim molding",
+        "Weatherstripping"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "home-repair-materials-quiz-13",
+      "question": "What is the standard thickness of most interior residential drywall in the United States?",
+      "options": [
+        "1/2 inch",
+        "1/4 inch",
+        "3/8 inch",
+        "5/8 inch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "home-repair-materials-quiz-14",
+      "question": "Which expanding foam product is sprayed into gaps and cracks around windows and pipes to seal and insulate?",
+      "options": [
+        "Joint compound",
+        "Spray foam insulation (like Great Stuff)",
+        "Liquid nails",
+        "Silicone caulk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "home-repair-materials-quiz-15",
+      "question": "What is cement board used for?",
+      "options": [
+        "Roofing material",
+        "Providing a water-resistant backer for tile in wet areas like showers",
+        "Ceiling panels",
+        "Building foundations"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

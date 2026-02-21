@@ -1,0 +1,173 @@
+{
+  "id": "horse-breeds-quiz",
+  "title": "Horse Breeds Quiz",
+  "description": "Test your knowledge of popular horse breeds and their characteristics",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "horse-breeds-quiz-1",
+      "question": "Which horse breed, originating from Arabia, is known for its distinctive dished face profile, high tail carriage, and exceptional endurance?",
+      "options": [
+        "Morgan",
+        "Arabian",
+        "Thoroughbred",
+        "Andalusian"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-2",
+      "question": "Which large draft horse breed from Scotland has distinctive feathering on its lower legs and is often bay or brown in color?",
+      "options": [
+        "Clydesdale",
+        "Percheron",
+        "Shire",
+        "Belgian"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "horse-breeds-quiz-3",
+      "question": "Which American breed is famous for its spotted coat pattern and was historically associated with the Nez Perce people?",
+      "options": [
+        "Paint Horse",
+        "Appaloosa",
+        "Mustang",
+        "Pinto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-4",
+      "question": "Which breed holds the record as the tallest horse breed in the world, often exceeding 17 hands tall?",
+      "options": [
+        "Clydesdale",
+        "Shire",
+        "Belgian",
+        "Percheron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-5",
+      "question": "Which breed, developed in England for horse racing, is considered the fastest breed over short to medium distances?",
+      "options": [
+        "Standardbred",
+        "Thoroughbred",
+        "Quarter Horse",
+        "Arabian"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-6",
+      "question": "Which compact American breed was named after a schoolteacher and is known for its versatility and willingness to work?",
+      "options": [
+        "Quarter Horse",
+        "Tennessee Walker",
+        "Morgan",
+        "Standardbred"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "horse-breeds-quiz-7",
+      "question": "Which breed from Spain is known for its elegant movements and has been used extensively in classical dressage?",
+      "options": [
+        "Andalusian",
+        "Lusitano",
+        "Friesian",
+        "Lipizzaner"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "horse-breeds-quiz-8",
+      "question": "Which breed is famous for being born dark and gradually turning white with age, and performs at the Spanish Riding School in Vienna?",
+      "options": [
+        "Grey Arabian",
+        "Andalusian",
+        "Lipizzaner",
+        "Camargue"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "horse-breeds-quiz-9",
+      "question": "Which American breed is known for its smooth, four-beat running walk gait that makes it extremely comfortable to ride?",
+      "options": [
+        "Tennessee Walking Horse",
+        "Paso Fino",
+        "Missouri Fox Trotter",
+        "Standardbred"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "horse-breeds-quiz-10",
+      "question": "Which breed from the Netherlands is recognized by its striking black coat, long flowing mane, and feathered feet?",
+      "options": [
+        "Kladruber",
+        "Friesian",
+        "Dales Pony",
+        "Fell Pony"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-11",
+      "question": "Which small, hardy breed from the Shetland Islands is one of the strongest horse breeds relative to its size?",
+      "options": [
+        "Dartmoor Pony",
+        "Shetland Pony",
+        "Connemara Pony",
+        "Welsh Pony"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-12",
+      "question": "Which American breed is considered the fastest horse over a quarter-mile distance, giving it its name?",
+      "options": [
+        "Thoroughbred",
+        "Quarter Horse",
+        "Paint Horse",
+        "Standardbred"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-13",
+      "question": "Which French draft breed is typically grey or black and was used as a war horse in the Middle Ages?",
+      "options": [
+        "Boulonnais",
+        "Belgian",
+        "Breton",
+        "Percheron"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "horse-breeds-quiz-14",
+      "question": "Which wild horse breed roams freely in the American West and is descended from horses brought by Spanish explorers?",
+      "options": [
+        "Brumby",
+        "Mustang",
+        "Camargue",
+        "Przewalski's Horse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "horse-breeds-quiz-15",
+      "question": "Which breed from Iceland is known for having five gaits instead of the usual three, including the unique 'tölt'?",
+      "options": [
+        "Icelandic Horse",
+        "Haflinger",
+        "Norwegian Nordland",
+        "Fjord"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

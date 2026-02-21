@@ -1,0 +1,173 @@
+{
+  "id": "world-festivals-quiz",
+  "title": "World Festivals Quiz",
+  "description": "Test your memory of famous festivals and celebrations from around the globe",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-festivals-quiz-1",
+      "question": "Diwali, the Festival of Lights, is most closely associated with which religion?",
+      "options": [
+        "Jainism",
+        "Buddhism",
+        "Sikhism",
+        "Hinduism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-festivals-quiz-2",
+      "question": "Oktoberfest, the world's largest beer festival, is held annually in which German city?",
+      "options": [
+        "Munich",
+        "Frankfurt",
+        "Hamburg",
+        "Berlin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-festivals-quiz-3",
+      "question": "The Carnival of Rio de Janeiro is famous for parades held at which venue?",
+      "options": [
+        "Copacabana Beach",
+        "Sambadrome",
+        "Maracana Stadium",
+        "Sugarloaf Mountain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-festivals-quiz-4",
+      "question": "Holi, the festival of colors, celebrates the arrival of which season in India?",
+      "options": [
+        "Spring",
+        "Winter",
+        "Monsoon",
+        "Summer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-festivals-quiz-5",
+      "question": "La Tomatina, a festival involving throwing tomatoes, takes place in which country?",
+      "options": [
+        "Mexico",
+        "Italy",
+        "Portugal",
+        "Spain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-festivals-quiz-6",
+      "question": "The Lantern Festival marks the end of which celebration in China?",
+      "options": [
+        "Dragon Boat Festival",
+        "Qingming Festival",
+        "Mid-Autumn Festival",
+        "Chinese New Year"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-festivals-quiz-7",
+      "question": "Mardi Gras is most famously celebrated in which American city?",
+      "options": [
+        "Miami",
+        "New Orleans",
+        "Las Vegas",
+        "New York"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-festivals-quiz-8",
+      "question": "Songkran, the water festival, is the traditional New Year celebration in which country?",
+      "options": [
+        "Thailand",
+        "Laos",
+        "Cambodia",
+        "Vietnam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-festivals-quiz-9",
+      "question": "The Day of the Dead (Dia de los Muertos) is a tradition originating in which country?",
+      "options": [
+        "Spain",
+        "Mexico",
+        "Brazil",
+        "Peru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-festivals-quiz-10",
+      "question": "The Edinburgh Festival Fringe is the world's largest festival of which type?",
+      "options": [
+        "Music",
+        "Film",
+        "Food",
+        "Arts and performance"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-festivals-quiz-11",
+      "question": "Hanami is the Japanese tradition of enjoying the beauty of which type of flower?",
+      "options": [
+        "Plum blossom",
+        "Chrysanthemum",
+        "Cherry blossom",
+        "Lotus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-festivals-quiz-12",
+      "question": "The Venice Carnival is renowned for its elaborate what?",
+      "options": [
+        "Costumes of feathers",
+        "Floats",
+        "Masks",
+        "Fireworks"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-festivals-quiz-13",
+      "question": "Eid al-Fitr marks the end of which Islamic observance?",
+      "options": [
+        "Hajj",
+        "Muharram",
+        "Ramadan",
+        "Mawlid"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-festivals-quiz-14",
+      "question": "The Running of the Bulls is part of the San Fermin festival in which Spanish city?",
+      "options": [
+        "Seville",
+        "Barcelona",
+        "Pamplona",
+        "Madrid"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-festivals-quiz-15",
+      "question": "Carnival is traditionally celebrated in the days leading up to which Christian observance?",
+      "options": [
+        "Lent",
+        "Easter",
+        "Pentecost",
+        "Christmas"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

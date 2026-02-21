@@ -8,8 +8,13 @@
     {
       "id": "ctp-1",
       "question": "What year did Disneyland open in Anaheim, California?",
-      "options": ["1950", "1953", "1955", "1958"],
-      "correctAnswer": 2,
+      "options": [
+        "1950",
+        "1958",
+        "1953",
+        "1955"
+      ],
+      "correctAnswer": 3,
       "explanation": "Disneyland opened on July 17, 1955. The opening day, known as 'Black Sunday,' was plagued with problems including extreme heat, plumbing issues, and counterfeit tickets, but the park quickly became a massive success.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,7 +22,12 @@
     {
       "id": "ctp-2",
       "question": "Which theme park, opened in 1961 in Texas, was the first Six Flags park?",
-      "options": ["Six Flags Over Georgia", "Six Flags Over Texas", "Six Flags Great Adventure", "Six Flags Magic Mountain"],
+      "options": [
+        "Six Flags Magic Mountain",
+        "Six Flags Over Texas",
+        "Six Flags Great Adventure",
+        "Six Flags Over Georgia"
+      ],
       "correctAnswer": 1,
       "explanation": "Six Flags Over Texas opened in Arlington, Texas in 1961. The name refers to the six different nations that have governed Texas: Spain, France, Mexico, the Republic of Texas, the Confederacy, and the United States.",
       "difficulty": "medium",
@@ -26,8 +36,13 @@
     {
       "id": "ctp-3",
       "question": "What was the name of the original roller coaster at Coney Island that opened in 1927 and still operates today?",
-      "options": ["The Thunderbolt", "The Cyclone", "The Tornado", "The Hurricane"],
-      "correctAnswer": 1,
+      "options": [
+        "The Cyclone",
+        "The Tornado",
+        "The Hurricane",
+        "The Thunderbolt"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Cyclone at Coney Island opened on June 26, 1927, and is one of the oldest operating roller coasters in the world. It was designated a New York City landmark in 1988 and is on the National Register of Historic Places.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -35,8 +50,13 @@
     {
       "id": "ctp-4",
       "question": "What was the first theme park ride to use Audio-Animatronics technology?",
-      "options": ["Pirates of the Caribbean", "The Enchanted Tiki Room", "Haunted Mansion", "It's a Small World"],
-      "correctAnswer": 1,
+      "options": [
+        "Pirates of the Caribbean",
+        "Haunted Mansion",
+        "It's a Small World",
+        "The Enchanted Tiki Room"
+      ],
+      "correctAnswer": 3,
       "explanation": "Walt Disney's Enchanted Tiki Room, which opened at Disneyland in 1963, was the first attraction to use Audio-Animatronics. The technology featured robotic birds, flowers, and tiki gods that sang and moved.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "ctp-5",
       "question": "Which classic amusement park in Santa Cruz, California, features one of the oldest operating wooden roller coasters in the world?",
-      "options": ["Pacific Park", "Belmont Park", "Santa Cruz Beach Boardwalk", "Playland"],
-      "correctAnswer": 2,
+      "options": [
+        "Playland",
+        "Santa Cruz Beach Boardwalk",
+        "Belmont Park",
+        "Pacific Park"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Santa Cruz Beach Boardwalk, opened in 1907, is California's oldest surviving amusement park. Its Giant Dipper wooden roller coaster, built in 1924, is a National Historic Landmark.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "ctp-6",
       "question": "What was Walt Disney World's original name for its main theme park when it opened in 1971?",
-      "options": ["Disneyland East", "Walt Disney World", "Magic Kingdom", "Disney's Magic Land"],
-      "correctAnswer": 2,
+      "options": [
+        "Disney's Magic Land",
+        "Walt Disney World",
+        "Disneyland East",
+        "Magic Kingdom"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Magic Kingdom was the first theme park built at the Walt Disney World Resort in Florida, opening on October 1, 1971. Walt Disney himself had envisioned the Florida project but passed away in 1966 before its completion.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -62,7 +92,12 @@
     {
       "id": "ctp-7",
       "question": "Which theme park chain was originally founded by Anheuser-Busch?",
-      "options": ["Cedar Point", "SeaWorld", "Busch Gardens", "Hersheypark"],
+      "options": [
+        "Cedar Point",
+        "SeaWorld",
+        "Busch Gardens",
+        "Hersheypark"
+      ],
       "correctAnswer": 2,
       "explanation": "Busch Gardens was originally created by Anheuser-Busch as hospitality centers adjacent to their breweries. The Tampa, Florida location opened in 1959 and the Williamsburg, Virginia park opened in 1975.",
       "difficulty": "easy",
@@ -71,7 +106,12 @@
     {
       "id": "ctp-8",
       "question": "What famous Disneyland attraction, which opened in 1967, features the song 'Yo Ho (A Pirate's Life for Me)'?",
-      "options": ["Jungle Cruise", "Haunted Mansion", "Pirates of the Caribbean", "Tom Sawyer Island"],
+      "options": [
+        "Jungle Cruise",
+        "Haunted Mansion",
+        "Pirates of the Caribbean",
+        "Tom Sawyer Island"
+      ],
       "correctAnswer": 2,
       "explanation": "Pirates of the Caribbean opened at Disneyland on March 18, 1967. It was the last attraction personally supervised by Walt Disney and later inspired the hugely successful film franchise.",
       "difficulty": "easy",
@@ -80,8 +120,13 @@
     {
       "id": "ctp-9",
       "question": "Which Pennsylvania theme park, centered around a chocolate company, opened to the public in 1907?",
-      "options": ["Dorney Park", "Kennywood", "Hersheypark", "Knoebels"],
-      "correctAnswer": 2,
+      "options": [
+        "Dorney Park",
+        "Hersheypark",
+        "Kennywood",
+        "Knoebels"
+      ],
+      "correctAnswer": 1,
       "explanation": "Hersheypark was created by Milton S. Hershey as a leisure park for employees of the Hershey Chocolate Company. It started as a simple picnic area and has grown into a major theme park with over 70 rides.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -89,8 +134,13 @@
     {
       "id": "ctp-10",
       "question": "What was the name of the massive globe structure that became the icon of the 1964 New York World's Fair?",
-      "options": ["The Sphere", "The Unisphere", "The Globe", "The World Ball"],
-      "correctAnswer": 1,
+      "options": [
+        "The World Ball",
+        "The Sphere",
+        "The Globe",
+        "The Unisphere"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Unisphere, a 140-foot-tall stainless steel globe, was built as the centerpiece of the 1964-65 New York World's Fair in Flushing Meadows. It still stands today as an iconic Queens landmark.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "ctp-11",
       "question": "Which Cedar Point roller coaster, built in 1964, was the first Arrow Dynamics coaster with tubular steel track?",
-      "options": ["Blue Streak", "Cedar Creek Mine Ride", "Corkscrew", "Gemini"],
-      "correctAnswer": 0,
+      "options": [
+        "Cedar Creek Mine Ride",
+        "Gemini",
+        "Corkscrew",
+        "Blue Streak"
+      ],
+      "correctAnswer": 3,
       "explanation": "Cedar Point's Blue Streak, which opened in 1964, is actually a classic wooden coaster. The first tubular steel coaster was the Matterhorn Bobsleds at Disneyland in 1959, designed by Arrow Development.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "ctp-12",
       "question": "What Ohio amusement park, located on the shores of Lake Erie, is known as 'The Roller Coaster Capital of the World'?",
-      "options": ["Kings Island", "Geauga Lake", "Cedar Point", "Coney Island Ohio"],
-      "correctAnswer": 2,
+      "options": [
+        "Coney Island Ohio",
+        "Kings Island",
+        "Geauga Lake",
+        "Cedar Point"
+      ],
+      "correctAnswer": 3,
       "explanation": "Cedar Point in Sandusky, Ohio, has earned its nickname by consistently having among the most roller coasters of any park in the world. The park dates back to 1870, making it one of the oldest in the country.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "ctp-13",
       "question": "Which Disneyland attraction, opened in 1959, was the first tubular steel roller coaster in the world?",
-      "options": ["Space Mountain", "Big Thunder Mountain Railroad", "Matterhorn Bobsleds", "Splash Mountain"],
-      "correctAnswer": 2,
+      "options": [
+        "Space Mountain",
+        "Big Thunder Mountain Railroad",
+        "Splash Mountain",
+        "Matterhorn Bobsleds"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Matterhorn Bobsleds opened at Disneyland on June 14, 1959, and was the world's first tubular steel roller coaster. Built inside a 147-foot replica of the Swiss mountain, it pioneered the technology used in most modern coasters.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "ctp-14",
       "question": "What was the name of the famous New Jersey amusement park known as 'The Nation's Playground' that closed in 1971?",
-      "options": ["Palisades Amusement Park", "Seaside Heights", "Wildwood Boardwalk", "Atlantic City Steel Pier"],
-      "correctAnswer": 0,
+      "options": [
+        "Seaside Heights",
+        "Atlantic City Steel Pier",
+        "Wildwood Boardwalk",
+        "Palisades Amusement Park"
+      ],
+      "correctAnswer": 3,
       "explanation": "Palisades Amusement Park, located on the cliffs of the Hudson River in New Jersey, operated from 1898 to 1971. Freddy 'Boom Boom' Cannon's 1962 hit 'Palisades Park' immortalized it in pop culture.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "ctp-15",
       "question": "Which Disney attraction debuted at the 1964 New York World's Fair before being permanently installed at Disneyland?",
-      "options": ["The Haunted Mansion", "It's a Small World", "Space Mountain", "The Enchanted Tiki Room"],
-      "correctAnswer": 1,
+      "options": [
+        "It's a Small World",
+        "The Haunted Mansion",
+        "The Enchanted Tiki Room",
+        "Space Mountain"
+      ],
+      "correctAnswer": 0,
       "explanation": "It's a Small World debuted as a UNICEF exhibit at the 1964 New York World's Fair. After the fair ended, the attraction was relocated to Disneyland, where it opened in 1966 and has become one of Disney's most iconic rides.",
       "difficulty": "hard",
       "category": "nostalgia"

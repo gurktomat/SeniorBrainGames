@@ -1,0 +1,219 @@
+{
+  "id": "archery-vocabulary",
+  "title": "Archery Vocabulary",
+  "description": "Take aim at this quiz about archery terms and techniques!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "archery-vocabulary-1",
+      "question": "In archery, what is a 'quiver'?",
+      "options": [
+        "A scoring zone on the target",
+        "A container used to hold arrows",
+        "A type of bowstring",
+        "The act of shaking while aiming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A quiver is a container designed to hold arrows, worn on the back, hip, or attached to the bow, keeping arrows organized and readily accessible for shooting.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-2",
+      "question": "What is the 'nock' in archery?",
+      "options": [
+        "The handle of the bow",
+        "A knocking sound when the arrow hits the target",
+        "The grooved fitting on the end of an arrow that clips onto the bowstring",
+        "A type of arrowhead"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The nock is the slotted plastic or horn fitting at the rear end of an arrow that clips onto the bowstring, ensuring the arrow stays in position until released.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-3",
+      "question": "In archery, what is the 'bullseye'?",
+      "options": [
+        "A type of arrow tip",
+        "The center of the target, worth the most points",
+        "A type of bow",
+        "A technique for aiming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The bullseye is the innermost circle of the target, typically worth the highest score (10 points in standard target archery), colored gold or yellow.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-4",
+      "question": "What does 'draw weight' refer to in archery?",
+      "options": [
+        "How heavy the target is",
+        "The weight of the arrow",
+        "The weight of the bow itself",
+        "The force required to pull the bowstring back to full draw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Draw weight is the amount of force (measured in pounds) needed to pull the bowstring back to the full draw length, affecting arrow speed and penetration.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-5",
+      "question": "In archery, what is 'anchor point'?",
+      "options": [
+        "The spot where the bow rests on the ground",
+        "The center point of the bowstring",
+        "Where the target is anchored to the stand",
+        "A consistent reference point on the face where the drawing hand is placed at full draw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The anchor point is a consistent spot on the archer's face (such as the corner of the mouth or chin) where the drawing hand rests at full draw, ensuring consistent aiming.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-6",
+      "question": "What are 'fletching' (or 'vanes') on an arrow?",
+      "options": [
+        "The painted markings for identification",
+        "Metal rings that hold the arrowhead",
+        "Decorative wrappings on the shaft",
+        "The feathers or plastic fins attached to stabilize the arrow in flight"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fletching refers to the feathers or plastic vanes attached near the back of an arrow that stabilize it during flight by creating aerodynamic drag and spin.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-7",
+      "question": "In archery, what is a 'compound bow'?",
+      "options": [
+        "A bow that uses a system of cables and pulleys to reduce holding weight at full draw",
+        "A bow made from multiple materials",
+        "A bow used in a compound (enclosed area)",
+        "Two bows combined into one"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A compound bow uses a system of cables, pulleys (cams), and limbs that provide mechanical advantage, allowing the archer to hold less weight at full draw while storing more energy.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-8",
+      "question": "What is a 'recurve bow' in archery?",
+      "options": [
+        "A bow designed for left-handed archers",
+        "A bow whose limb tips curve away from the archer when unstrung",
+        "A bow with a curved handle",
+        "A bow that can shoot around corners"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A recurve bow has limbs that curve away from the archer when unstrung, storing more energy and delivering more speed than a simple straight-limbed bow of the same draw weight.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-9",
+      "question": "In archery, what does 'Robin Hood' refer to?",
+      "options": [
+        "A style of shooting from horseback",
+        "Donating arrows to beginners",
+        "Wearing a green hat while shooting",
+        "Splitting one arrow with another by hitting it in the nock end"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A 'Robin Hood' is when an archer shoots an arrow directly into the end (nock) of another arrow already in the target, splitting or telescoping it, an extremely rare occurrence.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-10",
+      "question": "What is an 'arm guard' (or 'bracer') used for in archery?",
+      "options": [
+        "Protecting the forearm of the bow arm from the bowstring upon release",
+        "Strengthening arm muscles",
+        "Keeping the arm steady while aiming",
+        "Guarding the arm from sunburn"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An arm guard (bracer) is a protective piece worn on the inside of the bow arm's forearm to prevent the bowstring from slapping the skin upon release.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-11",
+      "question": "In archery, what is the 'riser'?",
+      "options": [
+        "An elevation platform for the archer",
+        "A rising trajectory of the arrow",
+        "A device to raise the target higher",
+        "The central section of the bow where the grip and arrow rest are located"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The riser is the central, non-bending part of the bow that includes the grip, arrow rest, sight mount, and stabilizer bushing. The limbs attach to the top and bottom of the riser.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-12",
+      "question": "What is 'archer's paradox'?",
+      "options": [
+        "A philosophical question about archery",
+        "The bending of the arrow around the bow upon release, yet still hitting the target",
+        "The paradox that heavier arrows fly farther",
+        "The contradiction of wanting to hit the target but being nervous"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Archer's paradox is the phenomenon where the arrow bends and flexes around the bow upon release, yet still flies accurately toward the target due to the arrow's natural oscillation.",
+      "difficulty": "hard",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-13",
+      "question": "In archery, what is a 'broadhead'?",
+      "options": [
+        "A large target used for practice",
+        "A sharp, bladed arrowhead designed for hunting",
+        "A wide stance for stability",
+        "A wide-brimmed hat worn for sun protection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A broadhead is a type of arrowhead with sharp blades designed for hunting, engineered to cause a wide wound channel for an ethical, humane harvest.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-14",
+      "question": "What does 'spine' refer to regarding arrows?",
+      "options": [
+        "The sharp point of the arrowhead",
+        "The backbone of the archer",
+        "The central line of the target",
+        "The stiffness or flexibility of the arrow shaft"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Arrow spine refers to the stiffness of the arrow shaft. Proper spine selection is critical for accuracy, as the arrow must flex appropriately for the bow's draw weight.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "archery-vocabulary-15",
+      "question": "In archery, what is 'clout shooting'?",
+      "options": [
+        "A competition to see who can shoot the farthest",
+        "A form of archery where archers shoot at a flag on the ground from a long distance",
+        "Shooting with great force",
+        "Shooting while blindfolded"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clout shooting is a form of archery where competitors shoot arrows at a high arc toward a flag (the clout) on the ground at distances up to 180 yards, scoring based on proximity.",
+      "difficulty": "hard",
+      "category": "language"
+    }
+  ]
+}

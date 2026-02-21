@@ -1,0 +1,173 @@
+{
+  "id": "bread-types-quiz",
+  "title": "Bread Types Quiz",
+  "description": "Test your knowledge of breads from around the world — from crusty baguettes to soft naan.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "bread-types-quiz-1",
+      "question": "Which French bread is known for its long, thin shape and crispy crust?",
+      "options": [
+        "Croissant",
+        "Pain de Campagne",
+        "Baguette",
+        "Brioche"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bread-types-quiz-2",
+      "question": "Naan bread is a staple of which cuisine?",
+      "options": [
+        "Mexican",
+        "Italian",
+        "Japanese",
+        "Indian"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bread-types-quiz-3",
+      "question": "What type of bread is traditionally twisted into a knot-like shape and has a shiny, brown crust?",
+      "options": [
+        "Pumpernickel",
+        "Challah",
+        "Pretzel",
+        "Pita"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bread-types-quiz-4",
+      "question": "Ciabatta bread originated in which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Portugal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bread-types-quiz-5",
+      "question": "Which bread has a pocket inside, making it ideal for stuffing with fillings?",
+      "options": [
+        "Rye",
+        "Sourdough",
+        "Pita",
+        "Focaccia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bread-types-quiz-6",
+      "question": "Pumpernickel is a dark bread traditionally made with which type of flour?",
+      "options": [
+        "Corn",
+        "Rye",
+        "Wheat",
+        "Oat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bread-types-quiz-7",
+      "question": "Which Jewish bread is braided and often served on the Sabbath?",
+      "options": [
+        "Matzo",
+        "Bagel",
+        "Bialy",
+        "Challah"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bread-types-quiz-8",
+      "question": "Sourdough bread gets its tangy flavor from what?",
+      "options": [
+        "Added vinegar",
+        "Baking soda",
+        "Citric acid",
+        "Wild yeast and bacteria fermentation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "bread-types-quiz-9",
+      "question": "Which flat Italian bread is typically dimpled, drizzled with olive oil, and topped with herbs?",
+      "options": [
+        "Focaccia",
+        "Grissini",
+        "Ciabatta",
+        "Panettone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bread-types-quiz-10",
+      "question": "Tortillas are a staple bread of which cuisine?",
+      "options": [
+        "Ethiopian",
+        "Mexican",
+        "Thai",
+        "Greek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bread-types-quiz-11",
+      "question": "What is the name of the Ethiopian flatbread made from teff flour that is spongy and slightly sour?",
+      "options": [
+        "Injera",
+        "Chapati",
+        "Paratha",
+        "Lavash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "bread-types-quiz-12",
+      "question": "Brioche is a French bread known for its rich taste due to which key ingredient?",
+      "options": [
+        "Olive oil",
+        "Butter and eggs",
+        "Cream cheese",
+        "Honey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bread-types-quiz-13",
+      "question": "Which bread, popular in the American South, is made with cornmeal?",
+      "options": [
+        "Wheat bread",
+        "Rye bread",
+        "Cornbread",
+        "Pumpernickel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "bread-types-quiz-14",
+      "question": "What is the name of the ring-shaped bread that is boiled before being baked?",
+      "options": [
+        "Donut",
+        "Bagel",
+        "Pretzel",
+        "English muffin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "bread-types-quiz-15",
+      "question": "Which Scottish bread is a round, flat quick bread traditionally cooked on a griddle?",
+      "options": [
+        "Crumpet",
+        "Scone",
+        "Bannock",
+        "Oatcake"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

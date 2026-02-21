@@ -1,0 +1,173 @@
+{
+  "id": "plural-rules-quiz",
+  "title": "Plural Rules Quiz",
+  "description": "From regular plurals to the trickiest irregular forms, how well do you know English plural rules?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "plural-rules-quiz-1",
+      "question": "What is the correct plural of 'cactus'?",
+      "options": [
+        "Cacti",
+        "Both A and B are accepted",
+        "Cactuses",
+        "Cactus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plural-rules-quiz-2",
+      "question": "What is the plural of 'child'?",
+      "options": [
+        "Childs",
+        "Childrens",
+        "Childes",
+        "Children"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "plural-rules-quiz-3",
+      "question": "What is the correct plural of 'criterion'?",
+      "options": [
+        "Criterias",
+        "Criteria",
+        "Criteriums",
+        "Criterions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plural-rules-quiz-4",
+      "question": "Which word has the same singular and plural form?",
+      "options": [
+        "Horse",
+        "Dog",
+        "Cat",
+        "Sheep"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "plural-rules-quiz-5",
+      "question": "What is the plural of 'mother-in-law'?",
+      "options": [
+        "Mother-in-lawes",
+        "Mother-in-laws",
+        "Mothers-in-law",
+        "Mothers-in-laws"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-6",
+      "question": "What is the correct plural of 'tomato'?",
+      "options": [
+        "Tomatoe",
+        "Tomatoss",
+        "Tomatoes",
+        "Tomatos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-7",
+      "question": "What is the plural of 'goose'?",
+      "options": [
+        "Gooses",
+        "Goosies",
+        "Geese",
+        "Gice"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-8",
+      "question": "Which plural is correct for 'phenomenon'?",
+      "options": [
+        "Phenomenies",
+        "Phenomenons",
+        "Phenomena",
+        "Phenomenas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-9",
+      "question": "What is the plural of 'roof'?",
+      "options": [
+        "Roves",
+        "Rooves",
+        "Roofs",
+        "Roofes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-10",
+      "question": "How do you make words ending in '-f' or '-fe' plural (like 'knife')?",
+      "options": [
+        "Add -s (knifes)",
+        "It varies by word",
+        "Add -es (knifees)",
+        "Change -f to -ves (knives)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plural-rules-quiz-11",
+      "question": "What is the correct plural of 'octopus'?",
+      "options": [
+        "All three are accepted",
+        "Octopodes",
+        "Octopuses",
+        "Octopi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "plural-rules-quiz-12",
+      "question": "What is the plural of 'analysis'?",
+      "options": [
+        "Analysises",
+        "Analyses",
+        "Analysies",
+        "Analysi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "plural-rules-quiz-13",
+      "question": "Which word does NOT follow the regular '-s' plural rule?",
+      "options": [
+        "Book",
+        "Table",
+        "Mouse",
+        "Chair"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-14",
+      "question": "What is the plural of 'alumnus' (a male graduate)?",
+      "options": [
+        "Alumnies",
+        "Alumnuses",
+        "Alumni",
+        "Alumna"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "plural-rules-quiz-15",
+      "question": "How do you pluralize words ending in '-y' preceded by a consonant (like 'baby')?",
+      "options": [
+        "Change -y to -ies (babies)",
+        "Add -es (babyes)",
+        "Drop -y and add -s (babs)",
+        "Add -s (babys)"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

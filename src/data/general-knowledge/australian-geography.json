@@ -1,0 +1,173 @@
+{
+  "id": "australian-geography",
+  "title": "Australian Geography",
+  "description": "From the Outback to the Great Barrier Reef, discover the unique geography of Australia!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "australian-geography-1",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Brisbane",
+        "Melbourne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "australian-geography-2",
+      "question": "Which is the largest state in Australia by area?",
+      "options": [
+        "South Australia",
+        "Western Australia",
+        "Queensland",
+        "New South Wales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "australian-geography-3",
+      "question": "The Great Barrier Reef is located off the coast of which Australian state?",
+      "options": [
+        "New South Wales",
+        "Queensland",
+        "Victoria",
+        "Western Australia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "australian-geography-4",
+      "question": "Uluru (Ayers Rock) is a sacred site located in which Australian territory?",
+      "options": [
+        "Northern Territory",
+        "Western Australia",
+        "Queensland",
+        "South Australia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "australian-geography-5",
+      "question": "What is the highest mountain in Australia?",
+      "options": [
+        "Mount Bogong",
+        "Mount Kosciuszko",
+        "Mount Townsend",
+        "Mount Ossa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "australian-geography-6",
+      "question": "The Murray River, Australia's longest, flows through how many states?",
+      "options": [
+        "Three",
+        "Five",
+        "Two",
+        "Four"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "australian-geography-7",
+      "question": "Which Australian city is located on the island of Tasmania?",
+      "options": [
+        "Hobart",
+        "Perth",
+        "Adelaide",
+        "Darwin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "australian-geography-8",
+      "question": "The Great Dividing Range runs along which coast of Australia?",
+      "options": [
+        "Eastern coast",
+        "Southern coast",
+        "Western coast",
+        "Northern coast"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "australian-geography-9",
+      "question": "Which vast, mostly uninhabited region makes up the interior of Australia?",
+      "options": [
+        "The Outback",
+        "The Barrens",
+        "The Bush",
+        "The Scrublands"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "australian-geography-10",
+      "question": "Lake Eyre, Australia's largest lake, is notable because it is usually what?",
+      "options": [
+        "Above sea level",
+        "Fresh water",
+        "Frozen",
+        "Dry (a salt flat)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "australian-geography-11",
+      "question": "The Nullarbor Plain stretches along the coast between which two Australian states?",
+      "options": [
+        "Northern Territory and Queensland",
+        "South Australia and Western Australia",
+        "Queensland and New South Wales",
+        "Victoria and Tasmania"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "australian-geography-12",
+      "question": "Which Australian city hosted the 2000 Summer Olympics?",
+      "options": [
+        "Perth",
+        "Melbourne",
+        "Sydney",
+        "Brisbane"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "australian-geography-13",
+      "question": "The Kimberley region, known for its dramatic gorges and waterfalls, is in which state?",
+      "options": [
+        "Northern Territory",
+        "South Australia",
+        "Queensland",
+        "Western Australia"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "australian-geography-14",
+      "question": "Which strait separates Australia from Papua New Guinea?",
+      "options": [
+        "Cook Strait",
+        "Bass Strait",
+        "Torres Strait",
+        "Lombok Strait"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "australian-geography-15",
+      "question": "Darwin, the capital of the Northern Territory, faces which body of water?",
+      "options": [
+        "Timor Sea",
+        "Indian Ocean",
+        "Coral Sea",
+        "Arafura Sea"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

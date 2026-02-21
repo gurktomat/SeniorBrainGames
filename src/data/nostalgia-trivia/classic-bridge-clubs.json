@@ -1,0 +1,173 @@
+{
+  "id": "classic-bridge-clubs",
+  "title": "Classic Bridge Clubs",
+  "description": "Do you remember the golden age of contract bridge? Test your knowledge of this beloved card game and social tradition!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "classic-bridge-clubs-1",
+      "question": "How many players are needed for a standard game of contract bridge?",
+      "options": [
+        "Six",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-bridge-clubs-2",
+      "question": "In bridge, what are the four players traditionally called based on their compass positions?",
+      "options": [
+        "Player 1, 2, 3, and 4",
+        "Lead, Follow, Trump, and Pass",
+        "Dealer, Dummy, Declarer, and Defender",
+        "North, South, East, and West"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-bridge-clubs-3",
+      "question": "Which famous bridge expert wrote the definitive books on bidding and play, including 'Contract Bridge Complete'?",
+      "options": [
+        "Charles Goren",
+        "Omar Sharif",
+        "Ely Culbertson",
+        "Alfred Sheinwold"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-bridge-clubs-4",
+      "question": "What is the term for the phase of bridge where players communicate the strength and distribution of their hands?",
+      "options": [
+        "The scoring",
+        "The bidding (auction)",
+        "The deal",
+        "The play"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-bridge-clubs-5",
+      "question": "What happens to the 'dummy' hand after the bidding is won?",
+      "options": [
+        "It is discarded",
+        "It is shuffled back into the deck",
+        "The dummy player plays it normally",
+        "It is laid face-up on the table and played by the declarer"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-bridge-clubs-6",
+      "question": "What term describes the suit chosen to outrank all other suits during a particular hand?",
+      "options": [
+        "The high suit",
+        "The lead suit",
+        "The power suit",
+        "The trump suit"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "classic-bridge-clubs-7",
+      "question": "What were weekly neighborhood bridge gatherings, often hosted in members' homes on a rotating basis, called?",
+      "options": [
+        "Bridge clubs or bridge groups",
+        "Bridge tournaments",
+        "Whist drives",
+        "Card parties"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-bridge-clubs-8",
+      "question": "What form of competitive bridge, played in clubs and tournaments, uses pre-dealt hands so all tables play the same deals?",
+      "options": [
+        "Rubber bridge",
+        "Duplicate bridge",
+        "Party bridge",
+        "Chicago bridge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-bridge-clubs-9",
+      "question": "What was the traditional refreshment custom at many home bridge club meetings?",
+      "options": [
+        "A full dinner",
+        "Light desserts and coffee or tea served by the hostess",
+        "A potluck meal",
+        "No refreshments"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-bridge-clubs-10",
+      "question": "Which Egyptian-born actor was also known as one of the world's best bridge players?",
+      "options": [
+        "Peter Sellers",
+        "Omar Sharif",
+        "Yul Brynner",
+        "Ricardo Montalban"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "classic-bridge-clubs-11",
+      "question": "What does 'no trump' mean in a bridge bid?",
+      "options": [
+        "The hand is played without any suit being trump",
+        "The bidding is over",
+        "No one can play any cards",
+        "All suits are equally ranked"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-bridge-clubs-12",
+      "question": "What organization governs competitive bridge in the United States?",
+      "options": [
+        "The Bridge Players Association",
+        "The U.S. Card Game Federation",
+        "The American Contract Bridge League (ACBL)",
+        "The National Bridge League"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "classic-bridge-clubs-13",
+      "question": "What newspaper feature helped millions of Americans learn bridge strategy during the mid-20th century?",
+      "options": [
+        "The daily bridge column",
+        "The crossword puzzle",
+        "The comics section",
+        "The sports page"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-bridge-clubs-14",
+      "question": "In bridge scoring, what bonus is earned for bidding and making a 'slam' (all 13 tricks)?",
+      "options": [
+        "A grand slam bonus (1000+ points)",
+        "500 points",
+        "No bonus",
+        "100 points"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "classic-bridge-clubs-15",
+      "question": "What earlier card game, popular in the 19th century, is considered the direct ancestor of modern bridge?",
+      "options": [
+        "Canasta",
+        "Pinochle",
+        "Whist",
+        "Poker"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

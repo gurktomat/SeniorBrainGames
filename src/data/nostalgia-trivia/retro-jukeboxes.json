@@ -8,8 +8,8 @@
       "id": "retro-jukeboxes-1",
       "question": "Which company manufactured the iconic Wurlitzer 1015 jukebox, one of the most recognizable jukeboxes ever made?",
       "options": [
-        "Seeburg",
         "Rock-Ola",
+        "Seeburg",
         "Wurlitzer",
         "AMI"
       ],
@@ -20,31 +20,31 @@
       "question": "What year was the Wurlitzer 1015, nicknamed the 'bubbler,' first produced?",
       "options": [
         "1940",
-        "1946",
         "1952",
+        "1946",
         "1958"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-jukeboxes-3",
       "question": "What colorful tubes filled with rising bubbles gave certain Wurlitzer jukeboxes their distinctive look?",
       "options": [
         "Neon tubes",
-        "Bubble tubes",
         "Lava columns",
-        "Plasma tubes"
+        "Plasma tubes",
+        "Bubble tubes"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-jukeboxes-4",
       "question": "How much did it typically cost to play one song on a jukebox in the 1950s?",
       "options": [
         "A penny",
-        "A nickel",
+        "A quarter",
         "A dime",
-        "A quarter"
+        "A nickel"
       ],
       "correctAnswer": 2
     },
@@ -52,23 +52,23 @@
       "id": "retro-jukeboxes-5",
       "question": "What format of music did jukeboxes originally play before switching to 45 RPM records?",
       "options": [
+        "8-track cartridges",
         "Wax cylinders",
-        "78 RPM records",
         "Reel-to-reel tape",
-        "8-track cartridges"
+        "78 RPM records"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-jukeboxes-6",
       "question": "What type of establishment was most commonly associated with jukeboxes in the 1950s?",
       "options": [
-        "Libraries",
         "Diners and soda shops",
+        "Gas stations",
         "Barbershops",
-        "Gas stations"
+        "Libraries"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-jukeboxes-7",
@@ -96,52 +96,52 @@
       "id": "retro-jukeboxes-9",
       "question": "What was the typical number of song selections available on a popular 1950s jukebox?",
       "options": [
+        "100 songs",
         "10 songs",
-        "24 songs",
         "50 songs",
-        "100 songs"
+        "24 songs"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-jukeboxes-10",
       "question": "Which Seeburg jukebox model, introduced in 1948, was the first to play only 45 RPM records?",
       "options": [
-        "Seeburg M100A",
         "Seeburg Trashcan",
         "Seeburg V200",
-        "Seeburg Discotheque"
+        "Seeburg Discotheque",
+        "Seeburg M100A"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "retro-jukeboxes-11",
       "question": "What was the term for the small printed cards inside the jukebox that listed the available songs?",
       "options": [
-        "Song sheets",
-        "Title strips",
+        "Music labels",
         "Play cards",
-        "Music labels"
+        "Title strips",
+        "Song sheets"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-jukeboxes-12",
       "question": "Which 1950s rock and roll hit by Bill Haley & His Comets was one of the most-played jukebox songs of the decade?",
       "options": [
-        "Hound Dog",
-        "Rock Around the Clock",
+        "Blue Suede Shoes",
         "Johnny B. Goode",
-        "Blue Suede Shoes"
+        "Hound Dog",
+        "Rock Around the Clock"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-jukeboxes-13",
       "question": "What mechanical component inside a jukebox picked up the selected record and placed it on the turntable?",
       "options": [
-        "The selector arm",
         "The tone arm",
+        "The selector arm",
         "The record changer mechanism",
         "The coin sorter"
       ],
@@ -164,8 +164,8 @@
       "options": [
         "A German word for music",
         "The Gullah word 'juke' meaning disorderly or rowdy",
-        "A brand name from the 1920s",
-        "The French word 'jouer' meaning to play"
+        "The French word 'jouer' meaning to play",
+        "A brand name from the 1920s"
       ],
       "correctAnswer": 1
     }

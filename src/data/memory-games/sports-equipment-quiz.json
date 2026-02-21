@@ -1,0 +1,173 @@
+{
+  "id": "sports-equipment-quiz",
+  "title": "Sports Equipment Quiz",
+  "description": "Can you recall which equipment belongs to which sport? Test your memory here",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "sports-equipment-quiz-1",
+      "question": "A 'shuttlecock' is used in which sport?",
+      "options": [
+        "Table tennis",
+        "Tennis",
+        "Squash",
+        "Badminton"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-equipment-quiz-2",
+      "question": "In cricket, what is the wooden implement used to hit the ball called?",
+      "options": [
+        "Stick",
+        "Club",
+        "Racket",
+        "Bat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-equipment-quiz-3",
+      "question": "What piece of equipment do fencers use that is a thin, flexible blade?",
+      "options": [
+        "Foil",
+        "All of these are fencing blades",
+        "Saber",
+        "Epee"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-equipment-quiz-4",
+      "question": "A 'puck' is the flat disk used in which sport?",
+      "options": [
+        "Curling",
+        "Ice hockey",
+        "Field hockey",
+        "Lacrosse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-equipment-quiz-5",
+      "question": "In archery, what is the case that holds arrows called?",
+      "options": [
+        "Holster",
+        "Scabbard",
+        "Sheath",
+        "Quiver"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-equipment-quiz-6",
+      "question": "What is the name of the long stick used to strike balls in billiards or pool?",
+      "options": [
+        "Cue",
+        "Rod",
+        "Staff",
+        "Mace"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-equipment-quiz-7",
+      "question": "In golf, what is the wooden peg called that holds the ball for the first stroke on each hole?",
+      "options": [
+        "Marker",
+        "Tee",
+        "Pin",
+        "Divot"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-equipment-quiz-8",
+      "question": "A 'pommel horse' is a piece of equipment used in which sport?",
+      "options": [
+        "Equestrian",
+        "Polo",
+        "Wrestling",
+        "Gymnastics"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-equipment-quiz-9",
+      "question": "What is the heavy ball thrown in the 'shot put' track and field event made of?",
+      "options": [
+        "Stone",
+        "Wood",
+        "Metal (iron or brass)",
+        "Rubber"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-equipment-quiz-10",
+      "question": "In lacrosse, what is the netted stick used to catch and throw the ball called?",
+      "options": [
+        "Mallet",
+        "Crosse (or stick)",
+        "Racket",
+        "Paddle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "sports-equipment-quiz-11",
+      "question": "A 'balance beam' is an apparatus used in which sport?",
+      "options": [
+        "Diving",
+        "Figure skating",
+        "Cheerleading",
+        "Gymnastics"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "sports-equipment-quiz-12",
+      "question": "What sport uses a 'birdie' as another name for the object being hit?",
+      "options": [
+        "Badminton",
+        "Baseball",
+        "Golf",
+        "Tennis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-equipment-quiz-13",
+      "question": "In bowling, how many pins are set up at the end of the lane in standard ten-pin bowling?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "sports-equipment-quiz-14",
+      "question": "A 'discus' used in track and field is what shape?",
+      "options": [
+        "Flat and circular (disc-shaped)",
+        "Conical",
+        "Cylindrical",
+        "Spherical"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "sports-equipment-quiz-15",
+      "question": "What piece of protective equipment do baseball catchers wear on their face?",
+      "options": [
+        "Goggles",
+        "Visor",
+        "Helmet",
+        "Mask"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

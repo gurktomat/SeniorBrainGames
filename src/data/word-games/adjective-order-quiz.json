@@ -1,0 +1,173 @@
+{
+  "id": "adjective-order-quiz",
+  "title": "Adjective Order Quiz",
+  "description": "English has a natural order for adjectives that native speakers follow instinctively. Can you get it right?",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "adjective-order-quiz-1",
+      "question": "What is the correct order of adjectives in English?",
+      "options": [
+        "Color, size, opinion, material",
+        "Opinion, size, age, shape, color, origin, material, purpose",
+        "Material, origin, color, opinion, size",
+        "Purpose, material, origin, size, opinion"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "adjective-order-quiz-2",
+      "question": "Which sounds most natural?",
+      "options": [
+        "A big red ball",
+        "A red ball big",
+        "A ball big red",
+        "A red big ball"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "adjective-order-quiz-3",
+      "question": "Which is the correct order? 'A ___ table.'",
+      "options": [
+        "large round wooden",
+        "wooden large round",
+        "round large wooden",
+        "wooden round large"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "adjective-order-quiz-4",
+      "question": "Which sounds most natural?",
+      "options": [
+        "A French old beautiful painting",
+        "A beautiful French old painting",
+        "A beautiful old French painting",
+        "An old beautiful French painting"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "adjective-order-quiz-5",
+      "question": "In the standard adjective order, which category comes first?",
+      "options": [
+        "Size",
+        "Age",
+        "Opinion",
+        "Color"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "adjective-order-quiz-6",
+      "question": "Which is correct? 'A ___ car.'",
+      "options": [
+        "sleek new German",
+        "new sleek German",
+        "German sleek new",
+        "new German sleek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "adjective-order-quiz-7",
+      "question": "Which sounds right? 'A ___ house.'",
+      "options": [
+        "old lovely brick",
+        "brick old lovely",
+        "old brick lovely",
+        "lovely old brick"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "adjective-order-quiz-8",
+      "question": "Where does 'age' fall in the standard adjective order?",
+      "options": [
+        "Before opinion",
+        "Last",
+        "After size, before shape",
+        "After color"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "adjective-order-quiz-9",
+      "question": "Which is correct? 'A ___ dress.'",
+      "options": [
+        "lovely long blue silk",
+        "blue long lovely silk",
+        "silk lovely long blue",
+        "long lovely silk blue"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "adjective-order-quiz-10",
+      "question": "Which sounds most natural?",
+      "options": [
+        "Green round small three plastic buttons",
+        "Three small round green plastic buttons",
+        "Plastic three small green round buttons",
+        "Small green round three plastic buttons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "adjective-order-quiz-11",
+      "question": "Where does 'origin' (nationality) fall in the adjective order?",
+      "options": [
+        "After material",
+        "Before opinion",
+        "First position",
+        "After color, before material"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "adjective-order-quiz-12",
+      "question": "Which is correct? 'A ___ knife.'",
+      "options": [
+        "sharp small Japanese steel",
+        "steel small sharp Japanese",
+        "small sharp Japanese steel",
+        "Japanese sharp small steel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "adjective-order-quiz-13",
+      "question": "Why does 'big bad wolf' sound right but 'bad big wolf' sounds wrong?",
+      "options": [
+        "It is an exception to the rule",
+        "Size adjectives always come last",
+        "It is a fixed expression only",
+        "Opinion adjectives (bad) normally come before size (big)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "adjective-order-quiz-14",
+      "question": "Which is correct? 'A ___ bag.'",
+      "options": [
+        "beautiful brown Italian leather",
+        "brown beautiful leather Italian",
+        "Italian beautiful leather brown",
+        "leather Italian brown beautiful"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "adjective-order-quiz-15",
+      "question": "The acronym OSASCOMP helps remember adjective order. What does it stand for?",
+      "options": [
+        "Opinion, Size, Appearance, Shape, Color, Origin, Material, Purpose",
+        "Origin, Size, Age, Shape, Color, Opinion, Material, Purpose",
+        "Opinion, Shape, Age, Size, Color, Origin, Material, Purpose",
+        "Opinion, Size, Age, Shape, Color, Origin, Material, Purpose"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

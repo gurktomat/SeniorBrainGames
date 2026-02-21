@@ -1,0 +1,173 @@
+{
+  "id": "dangling-modifiers",
+  "title": "Dangling Modifiers",
+  "description": "Spot the dangling and misplaced modifiers that can turn sentences into unintentional comedy!",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "dangling-modifiers-1",
+      "question": "Which sentence has a dangling modifier?",
+      "options": [
+        "While I was walking to the store, the rain began.",
+        "The rain began while I walked to the store.",
+        "Walking to the store, the rain began to fall.",
+        "I was walking to the store when it rained."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dangling-modifiers-2",
+      "question": "Which sentence correctly fixes a dangling modifier?",
+      "options": [
+        "Running quickly, she crossed the finish line.",
+        "Crossed was the finish line, running quickly.",
+        "The finish line, running quickly, was crossed.",
+        "Running quickly, the finish line was crossed."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dangling-modifiers-3",
+      "question": "Which sentence contains a misplaced modifier?",
+      "options": [
+        "She drove her kids to school almost every day.",
+        "She drove her kids to school on most days.",
+        "Nearly every day, she drove her kids to school.",
+        "She almost drove her kids to school every day."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dangling-modifiers-4",
+      "question": "What is a dangling modifier?",
+      "options": [
+        "A modifier with too many adjectives",
+        "A modifier that doesn't clearly refer to the word it modifies",
+        "A modifier at the end of a sentence",
+        "A modifier that uses a hyphen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dangling-modifiers-5",
+      "question": "Which sentence has a dangling modifier? 'After reading the book, ___.'",
+      "options": [
+        "Both B and C",
+        "I wrote a review.",
+        "my opinion changed.",
+        "the review was written."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dangling-modifiers-6",
+      "question": "Fix the dangling modifier: 'Covered in mud, the washing machine cleaned the dog's blanket.'",
+      "options": [
+        "The washing machine cleaned the dog's blanket, covered in mud.",
+        "The washing machine, covered in mud, cleaned the blanket.",
+        "Covered in mud, the dog's blanket was cleaned in the washing machine.",
+        "In mud covered, the blanket was washed."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dangling-modifiers-7",
+      "question": "Which sentence has a misplaced modifier?",
+      "options": [
+        "He served sandwiches to the guests on paper plates.",
+        "On paper plates, he served sandwiches to the guests.",
+        "He served the guests sandwiches on paper plates.",
+        "He served sandwiches on paper plates to the guests."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dangling-modifiers-8",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The essay was submitted hoping to win the prize.",
+        "Hoping to win the prize, the essay was submitted.",
+        "Hoping to win the prize, she submitted her essay.",
+        "Submitted was her essay, hoping to win."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dangling-modifiers-9",
+      "question": "Identify the dangling modifier: 'At the age of five, my grandmother taught me to knit.'",
+      "options": [
+        "There is no error.",
+        "'My grandmother' is misplaced.",
+        "'At the age of five' seems to modify 'grandmother' instead of 'me.'",
+        "'Taught' is in the wrong tense."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dangling-modifiers-10",
+      "question": "Which correction fixes the misplaced modifier? 'She only ate vegetables on Mondays.'",
+      "options": [
+        "Only she ate vegetables on Mondays.",
+        "She ate only vegetables on Mondays.",
+        "It depends on the intended meaning.",
+        "She ate vegetables only on Mondays."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "dangling-modifiers-11",
+      "question": "Which sentence has a dangling modifier?",
+      "options": [
+        "While driving to work, a deer crossed the road.",
+        "I saw a deer cross the road while driving.",
+        "A deer crossed the road while I drove to work.",
+        "While I was driving to work, a deer crossed the road."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dangling-modifiers-12",
+      "question": "Where is the modifier misplaced? 'I saw a man on the hill with a telescope.'",
+      "options": [
+        "'On the hill' could modify 'I' or 'man.'",
+        "'Saw' is in the wrong position.",
+        "There is no misplaced modifier.",
+        "'With a telescope' could modify 'I,' 'man,' or 'hill.'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dangling-modifiers-13",
+      "question": "Fix: 'Smelling of fresh flowers, I walked through the garden.'",
+      "options": [
+        "Smelling of fresh flowers, the garden was where I walked.",
+        "Through the garden of fresh flowers, I smelled walking.",
+        "I walked through the garden smelling of fresh flowers.",
+        "I walked through the garden, which smelled of fresh flowers."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "dangling-modifiers-14",
+      "question": "Which word placement causes a misplaced modifier? 'She nearly lost all her money.'",
+      "options": [
+        "The sentence is correct as written.",
+        "'Nearly' should come after 'lost' — 'She lost nearly all her money.'",
+        "'All' is in the wrong position.",
+        "'She' should come after 'nearly.'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "dangling-modifiers-15",
+      "question": "Which sentence avoids a dangling modifier?",
+      "options": [
+        "Born in 1920, the war shaped her childhood.",
+        "The war shaped her childhood, born in 1920.",
+        "In 1920 born, the war shaped her.",
+        "Born in 1920, she grew up during the war."
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

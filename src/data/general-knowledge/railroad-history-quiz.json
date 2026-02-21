@@ -1,0 +1,219 @@
+{
+  "id": "railroad-history-quiz",
+  "title": "Railroad History",
+  "description": "All aboard! Test your knowledge of the history of railroads and train travel!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "railroad-history-quiz-1",
+      "question": "Which English engineer built the 'Rocket,' one of the first successful steam locomotives, in 1829?",
+      "options": [
+        "James Watt",
+        "George Stephenson",
+        "Isambard Kingdom Brunel",
+        "Richard Trevithick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "George Stephenson, along with his son Robert, built the Rocket, which won the Rainhill Trials in 1829. This established the viability of steam locomotives for passenger and freight rail service.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-2",
+      "question": "The Transcontinental Railroad in the United States was completed in 1869 at which location?",
+      "options": [
+        "Promontory Summit, Utah",
+        "Omaha, Nebraska",
+        "Cheyenne, Wyoming",
+        "Sacramento, California"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The First Transcontinental Railroad was completed on May 10, 1869, at Promontory Summit, Utah, where the Central Pacific and Union Pacific railroads met. A ceremonial golden spike was driven to mark the occasion.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-3",
+      "question": "The Trans-Siberian Railway, the longest railway line in the world, connects Moscow to which city?",
+      "options": [
+        "Irkutsk",
+        "Vladivostok",
+        "Beijing",
+        "Novosibirsk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Trans-Siberian Railway runs from Moscow to Vladivostok, covering 9,289 km (5,772 miles). Construction began in 1891 and was completed in 1916, spanning eight time zones across Russia.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-4",
+      "question": "Which country operates the Shinkansen, the world's first high-speed rail system introduced in 1964?",
+      "options": [
+        "Japan",
+        "France",
+        "Germany",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Japan introduced the Shinkansen (bullet train) in 1964, just before the Tokyo Olympics. The initial Tokaido line connected Tokyo and Osaka at speeds up to 210 km/h, revolutionizing rail travel worldwide.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-5",
+      "question": "The Orient Express, made famous in literature, originally ran between Paris and which city?",
+      "options": [
+        "Athens",
+        "Budapest",
+        "Istanbul",
+        "Vienna"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Orient Express was a long-distance passenger train service that ran from Paris to Istanbul (then Constantinople) starting in 1883. It became synonymous with luxury travel and was immortalized in Agatha Christie's novel.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-6",
+      "question": "What gauge (distance between rails) is considered 'standard gauge' used by most railways worldwide?",
+      "options": [
+        "1,435 mm",
+        "1,520 mm",
+        "1,676 mm",
+        "1,000 mm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Standard gauge is 1,435 mm (4 feet 8.5 inches), originally established by George Stephenson. It is used by approximately 60% of the world's railways including most of Europe, North America, and China.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "railroad-history-quiz-7",
+      "question": "Which two railroad companies built the First Transcontinental Railroad in the United States?",
+      "options": [
+        "Central Pacific and Union Pacific",
+        "New York Central and Erie",
+        "Southern Pacific and Santa Fe",
+        "Pennsylvania and Baltimore & Ohio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Central Pacific Railroad built eastward from Sacramento, California, while the Union Pacific Railroad built westward from Omaha, Nebraska. They met at Promontory Summit, Utah, in 1869.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-8",
+      "question": "The TGV high-speed rail system operates in which country?",
+      "options": [
+        "Italy",
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The TGV (Train à Grande Vitesse) is France's high-speed rail service, introduced in 1981. TGV trains regularly operate at speeds up to 320 km/h and hold several speed records.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-9",
+      "question": "What was the primary workforce that built the western portion of the Transcontinental Railroad for the Central Pacific?",
+      "options": [
+        "Irish immigrants",
+        "Chinese immigrants",
+        "Native Americans",
+        "African Americans"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chinese immigrants made up approximately 80-90% of the Central Pacific Railroad's workforce, numbering around 12,000-15,000 workers. They performed dangerous tasks including blasting tunnels through the Sierra Nevada mountains.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-10",
+      "question": "The Stockton and Darlington Railway, opened in 1825, is notable for being the world's first what?",
+      "options": [
+        "Underground railway",
+        "Transcontinental railway",
+        "Electric railway",
+        "Public railway using steam locomotives"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Stockton and Darlington Railway in northeast England, opened on September 27, 1825, was the world's first public railway to use steam locomotives for both passenger and freight service.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-11",
+      "question": "Which railroad magnate was known as 'Commodore' and built the New York Central Railroad empire?",
+      "options": [
+        "Jay Gould",
+        "James J. Hill",
+        "Cornelius Vanderbilt",
+        "Leland Stanford"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cornelius Vanderbilt, known as 'Commodore,' consolidated several small railroads into the New York Central Railroad system in the 1860s-70s, becoming one of the wealthiest Americans in history.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-12",
+      "question": "The Indian Railways network is one of the largest in the world. Approximately how many people does it employ?",
+      "options": [
+        "800,000",
+        "500,000",
+        "1.5 million",
+        "1.2 million"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Indian Railways is one of the world's largest employers, with approximately 1.2 million employees. It operates over 68,000 km of track and carries about 8 billion passengers per year.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-13",
+      "question": "What innovation did George Westinghouse patent in 1869 that dramatically improved railroad safety?",
+      "options": [
+        "Air brake",
+        "Steel rails",
+        "Automatic coupler",
+        "Block signal system"
+      ],
+      "correctAnswer": 0,
+      "explanation": "George Westinghouse patented the air brake in 1869, which allowed engineers to apply brakes on all cars simultaneously from the locomotive. This dramatically improved stopping ability and train safety.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-14",
+      "question": "The Glacier Express in Switzerland is famous for being what kind of train service?",
+      "options": [
+        "The highest altitude train",
+        "The longest non-stop service",
+        "The fastest train in Europe",
+        "The slowest express train in the world"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Glacier Express is marketed as 'the slowest express train in the world,' taking about 8 hours to cover 291 km between Zermatt and St. Moritz while passing through 91 tunnels and over 291 bridges.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "railroad-history-quiz-15",
+      "question": "Which technology does a maglev train use to achieve high speeds with minimal friction?",
+      "options": [
+        "Jet propulsion",
+        "Diesel-electric motors",
+        "Magnetic levitation",
+        "Steam turbines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maglev (magnetic levitation) trains use powerful electromagnets to levitate and propel the train above the track, eliminating wheel-rail friction. The Shanghai Maglev reaches speeds of 431 km/h in regular service.",
+      "difficulty": "easy",
+      "category": "engineering"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "astronomy-facts-recall",
+  "title": "Astronomy Facts Recall",
+  "description": "Explore the cosmos with this quiz! Test your recall of stars, planets, galaxies, and space phenomena.",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "astronomy-facts-recall-1",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Venus",
+        "Mars"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "astronomy-facts-recall-2",
+      "question": "What is the closest star to Earth?",
+      "options": [
+        "Sirius",
+        "The Sun",
+        "Proxima Centauri",
+        "Alpha Centauri A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-3",
+      "question": "How many planets are in our solar system?",
+      "options": [
+        "7",
+        "8",
+        "10",
+        "9"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-4",
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Uranus",
+        "Saturn",
+        "Neptune",
+        "Jupiter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "astronomy-facts-recall-5",
+      "question": "What galaxy do we live in?",
+      "options": [
+        "Andromeda",
+        "Whirlpool",
+        "Triangulum",
+        "Milky Way"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "astronomy-facts-recall-6",
+      "question": "What phenomenon occurs when the Moon passes between the Sun and Earth?",
+      "options": [
+        "Solar eclipse",
+        "Lunar eclipse",
+        "Transit",
+        "Occultation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "astronomy-facts-recall-7",
+      "question": "Which planet has the most prominent ring system?",
+      "options": [
+        "Uranus",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-8",
+      "question": "What is a light-year a measure of?",
+      "options": [
+        "Brightness",
+        "Distance",
+        "Speed",
+        "Time"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-9",
+      "question": "Which planet rotates on its side?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "astronomy-facts-recall-10",
+      "question": "What is the name of the largest known structure in the universe?",
+      "options": [
+        "Sloan Great Wall",
+        "Hercules-Corona Borealis Great Wall",
+        "Boötes Void",
+        "Laniakea Supercluster"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-11",
+      "question": "How long does it take for light from the Sun to reach Earth?",
+      "options": [
+        "About 20 minutes",
+        "About 4 minutes",
+        "About 8 minutes",
+        "About 12 minutes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "astronomy-facts-recall-12",
+      "question": "What is the hottest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "astronomy-facts-recall-13",
+      "question": "What is the name of the region beyond Neptune where many icy bodies orbit?",
+      "options": [
+        "Asteroid Belt",
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Heliosphere"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "astronomy-facts-recall-14",
+      "question": "Which of Jupiter's moons is the largest in the solar system?",
+      "options": [
+        "Europa",
+        "Io",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "astronomy-facts-recall-15",
+      "question": "What type of star will our Sun eventually become?",
+      "options": [
+        "White dwarf",
+        "Black hole",
+        "Red giant forever",
+        "Neutron star"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

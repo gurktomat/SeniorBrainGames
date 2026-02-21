@@ -7,92 +7,167 @@
     {
       "id": "famous-historical-events-1",
       "question": "The storming of the Bastille on July 14, 1789, marked the beginning of which major revolution?",
-      "options": ["American Revolution", "French Revolution", "Russian Revolution", "Industrial Revolution"],
-      "correctAnswer": 1
+      "options": [
+        "Industrial Revolution",
+        "Russian Revolution",
+        "American Revolution",
+        "French Revolution"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-historical-events-2",
       "question": "On which date did the attack on Pearl Harbor bring the United States into World War II?",
-      "options": ["December 7, 1941", "June 6, 1944", "August 15, 1945", "September 1, 1939"],
-      "correctAnswer": 0
+      "options": [
+        "June 6, 1944",
+        "December 7, 1941",
+        "September 1, 1939",
+        "August 15, 1945"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-historical-events-3",
       "question": "The Berlin Wall fell in which year, symbolizing the end of the Cold War division of Europe?",
-      "options": ["1987", "1988", "1989", "1991"],
-      "correctAnswer": 2
+      "options": [
+        "1989",
+        "1988",
+        "1991",
+        "1987"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-historical-events-4",
       "question": "The signing of the Magna Carta in 1215 limited the power of the monarchy in which country?",
-      "options": ["France", "Spain", "England", "Germany"],
-      "correctAnswer": 2
+      "options": [
+        "Germany",
+        "Spain",
+        "France",
+        "England"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-historical-events-5",
       "question": "Which ship sank on its maiden voyage in April 1912 after hitting an iceberg?",
-      "options": ["RMS Lusitania", "RMS Titanic", "SS Normandie", "HMS Britannic"],
-      "correctAnswer": 1
+      "options": [
+        "HMS Britannic",
+        "RMS Lusitania",
+        "SS Normandie",
+        "RMS Titanic"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-historical-events-6",
       "question": "Martin Luther King Jr. delivered his 'I Have a Dream' speech during the 1963 March on which city?",
-      "options": ["Atlanta", "New York", "Washington, D.C.", "Chicago"],
-      "correctAnswer": 2
+      "options": [
+        "Chicago",
+        "Washington, D.C.",
+        "Atlanta",
+        "New York"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-historical-events-7",
       "question": "The assassination of Archduke Franz Ferdinand in 1914 triggered the start of which conflict?",
-      "options": ["The Franco-Prussian War", "World War I", "The Boer War", "The Crimean War"],
-      "correctAnswer": 1
+      "options": [
+        "The Crimean War",
+        "The Franco-Prussian War",
+        "World War I",
+        "The Boer War"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-historical-events-8",
       "question": "D-Day, the Allied invasion of Normandy, took place on June 6 of which year?",
-      "options": ["1942", "1943", "1944", "1945"],
-      "correctAnswer": 2
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-historical-events-9",
       "question": "Nelson Mandela was released from prison in South Africa in which year after 27 years of imprisonment?",
-      "options": ["1988", "1990", "1992", "1994"],
-      "correctAnswer": 1
+      "options": [
+        "1992",
+        "1988",
+        "1990",
+        "1994"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "famous-historical-events-10",
       "question": "The Boston Tea Party of 1773 was a protest against taxes imposed by which country?",
-      "options": ["France", "Spain", "Great Britain", "The Netherlands"],
+      "options": [
+        "Spain",
+        "France",
+        "Great Britain",
+        "The Netherlands"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "famous-historical-events-11",
       "question": "Which treaty, signed in 1919, officially ended World War I?",
-      "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Ghent", "Treaty of Westphalia"],
-      "correctAnswer": 1
+      "options": [
+        "Treaty of Westphalia",
+        "Treaty of Ghent",
+        "Treaty of Paris",
+        "Treaty of Versailles"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "famous-historical-events-12",
       "question": "The Great Fire of London occurred in which year, destroying much of the medieval city?",
-      "options": ["1566", "1616", "1666", "1716"],
-      "correctAnswer": 2
+      "options": [
+        "1666",
+        "1566",
+        "1616",
+        "1716"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-historical-events-13",
       "question": "Apollo 11 achieved the first manned moon landing in which year?",
-      "options": ["1967", "1968", "1969", "1970"],
-      "correctAnswer": 2
+      "options": [
+        "1970",
+        "1969",
+        "1967",
+        "1968"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "famous-historical-events-14",
       "question": "The atomic bombs dropped on Hiroshima and Nagasaki in August 1945 led to the surrender of which nation?",
-      "options": ["Germany", "Italy", "Japan", "Soviet Union"],
-      "correctAnswer": 2
+      "options": [
+        "Japan",
+        "Germany",
+        "Soviet Union",
+        "Italy"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "famous-historical-events-15",
       "question": "The construction of the Transcontinental Railroad in the United States was completed in which year?",
-      "options": ["1859", "1865", "1869", "1876"],
-      "correctAnswer": 2
+      "options": [
+        "1859",
+        "1869",
+        "1865",
+        "1876"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

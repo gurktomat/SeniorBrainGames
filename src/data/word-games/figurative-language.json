@@ -7,91 +7,166 @@
     {
       "id": "figurative-language-1",
       "question": "'The wind whispered through the trees.' What type of figurative language is this?",
-      "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
-      "correctAnswer": 2
+      "options": [
+        "Personification",
+        "Metaphor",
+        "Hyperbole",
+        "Simile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-2",
       "question": "'She was as busy as a bee.' What type of figurative language is this?",
-      "options": ["Metaphor", "Simile", "Alliteration", "Onomatopoeia"],
-      "correctAnswer": 1
+      "options": [
+        "Alliteration",
+        "Metaphor",
+        "Simile",
+        "Onomatopoeia"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "figurative-language-3",
       "question": "'Time is money.' What type of figurative language is this?",
-      "options": ["Simile", "Hyperbole", "Metaphor", "Idiom"],
-      "correctAnswer": 2
+      "options": [
+        "Metaphor",
+        "Hyperbole",
+        "Idiom",
+        "Simile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-4",
       "question": "'I've told you a million times!' What type of figurative language is this?",
-      "options": ["Metaphor", "Personification", "Alliteration", "Hyperbole"],
-      "correctAnswer": 3
+      "options": [
+        "Hyperbole",
+        "Personification",
+        "Alliteration",
+        "Metaphor"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-5",
       "question": "'Peter Piper picked a peck of pickled peppers.' What type of figurative language is this?",
-      "options": ["Onomatopoeia", "Alliteration", "Assonance", "Simile"],
-      "correctAnswer": 1
+      "options": [
+        "Alliteration",
+        "Assonance",
+        "Onomatopoeia",
+        "Simile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-6",
       "question": "'The thunder clapped and the rain pitter-pattered on the roof.' Which word is an example of onomatopoeia?",
-      "options": ["Thunder", "Rain", "Pitter-pattered", "Roof"],
-      "correctAnswer": 2
+      "options": [
+        "Thunder",
+        "Roof",
+        "Rain",
+        "Pitter-pattered"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "figurative-language-7",
       "question": "'Break a leg!' is an example of what?",
-      "options": ["Hyperbole", "Simile", "An idiom", "A metaphor"],
-      "correctAnswer": 2
+      "options": [
+        "An idiom",
+        "A metaphor",
+        "Hyperbole",
+        "Simile"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-8",
       "question": "'The classroom was a zoo.' What type of figurative language is this?",
-      "options": ["Simile", "Hyperbole", "Personification", "Metaphor"],
+      "options": [
+        "Personification",
+        "Simile",
+        "Hyperbole",
+        "Metaphor"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "figurative-language-9",
       "question": "'The stars danced in the night sky.' What type of figurative language is this?",
-      "options": ["Simile", "Personification", "Hyperbole", "Alliteration"],
+      "options": [
+        "Alliteration",
+        "Personification",
+        "Hyperbole",
+        "Simile"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "figurative-language-10",
       "question": "'He was as tall as a giraffe' uses which type of figurative language?",
-      "options": ["Metaphor", "Personification", "Hyperbole", "Simile"],
-      "correctAnswer": 3
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Hyperbole",
+        "Personification"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "figurative-language-11",
       "question": "'O Romeo, Romeo! wherefore art thou Romeo?' The repetition of 'Romeo' is an example of what?",
-      "options": ["Alliteration", "Repetition", "Onomatopoeia", "Simile"],
-      "correctAnswer": 1
+      "options": [
+        "Alliteration",
+        "Onomatopoeia",
+        "Repetition",
+        "Simile"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "figurative-language-12",
       "question": "'Calling a dustman a sanitation engineer' is an example of what?",
-      "options": ["Metaphor", "Euphemism", "Irony", "Simile"],
-      "correctAnswer": 1
+      "options": [
+        "Irony",
+        "Metaphor",
+        "Simile",
+        "Euphemism"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "figurative-language-13",
       "question": "'What a beautiful day!' said during a terrible storm. This is an example of what?",
-      "options": ["Hyperbole", "Simile", "Irony", "Metaphor"],
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Irony",
+        "Hyperbole"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "figurative-language-14",
       "question": "'The sun smiled down on the village.' This combines personification with which technique?",
-      "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
-      "correctAnswer": 1
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Onomatopoeia",
+        "Alliteration"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "figurative-language-15",
       "question": "'Hear the mellow wedding bells' — the repeated 'l' sounds are an example of what?",
-      "options": ["Alliteration", "Consonance", "Assonance", "Rhyme"],
+      "options": [
+        "Assonance",
+        "Consonance",
+        "Rhyme",
+        "Alliteration"
+      ],
       "correctAnswer": 1
     }
   ]

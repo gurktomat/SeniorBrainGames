@@ -8,8 +8,13 @@
     {
       "id": "acl-1",
       "question": "Which of these animals is a mammal?",
-      "options": ["Crocodile", "Dolphin", "Shark", "Iguana"],
-      "correctAnswer": 1,
+      "options": [
+        "Shark",
+        "Iguana",
+        "Dolphin",
+        "Crocodile"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dolphins are mammals. They breathe air, are warm-blooded, give birth to live young, and nurse their babies with milk.",
       "difficulty": "easy",
       "category": "science"
@@ -17,8 +22,13 @@
     {
       "id": "acl-2",
       "question": "Which of these is a reptile?",
-      "options": ["Frog", "Salamander", "Turtle", "Toad"],
-      "correctAnswer": 2,
+      "options": [
+        "Toad",
+        "Turtle",
+        "Frog",
+        "Salamander"
+      ],
+      "correctAnswer": 1,
       "explanation": "Turtles are reptiles. They have scaly skin, are cold-blooded, and lay eggs on land. Frogs, salamanders, and toads are all amphibians.",
       "difficulty": "easy",
       "category": "science"
@@ -26,8 +36,13 @@
     {
       "id": "acl-3",
       "question": "What class of animal is a penguin?",
-      "options": ["Mammal", "Fish", "Bird", "Reptile"],
-      "correctAnswer": 2,
+      "options": [
+        "Bird",
+        "Reptile",
+        "Fish",
+        "Mammal"
+      ],
+      "correctAnswer": 0,
       "explanation": "Penguins are birds (class Aves). Although they cannot fly, they have feathers, lay eggs, and are warm-blooded like all birds.",
       "difficulty": "easy",
       "category": "science"
@@ -35,8 +50,13 @@
     {
       "id": "acl-4",
       "question": "Which of these animals is an amphibian?",
-      "options": ["Gecko", "Newt", "Snake", "Chameleon"],
-      "correctAnswer": 1,
+      "options": [
+        "Chameleon",
+        "Gecko",
+        "Newt",
+        "Snake"
+      ],
+      "correctAnswer": 2,
       "explanation": "Newts are amphibians. They spend part of their life in water and part on land, and undergo metamorphosis from aquatic larvae to adults.",
       "difficulty": "easy",
       "category": "science"
@@ -44,8 +64,13 @@
     {
       "id": "acl-5",
       "question": "Which of these animals is an insect?",
-      "options": ["Spider", "Scorpion", "Ladybug", "Tick"],
-      "correctAnswer": 2,
+      "options": [
+        "Ladybug",
+        "Tick",
+        "Spider",
+        "Scorpion"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ladybugs (ladybirds) are insects with six legs and three body segments. Spiders, scorpions, and ticks are arachnids with eight legs.",
       "difficulty": "easy",
       "category": "science"
@@ -53,8 +78,13 @@
     {
       "id": "acl-6",
       "question": "A whale shark is classified as what type of animal?",
-      "options": ["Whale", "Shark", "Dolphin", "Ray"],
-      "correctAnswer": 1,
+      "options": [
+        "Ray",
+        "Whale",
+        "Dolphin",
+        "Shark"
+      ],
+      "correctAnswer": 3,
       "explanation": "Despite its name and enormous size, a whale shark is indeed a fish — specifically a shark. It is the largest living species of fish.",
       "difficulty": "medium",
       "category": "science"
@@ -62,8 +92,13 @@
     {
       "id": "acl-7",
       "question": "Which of these is a marsupial?",
-      "options": ["Beaver", "Platypus", "Koala", "Porcupine"],
-      "correctAnswer": 2,
+      "options": [
+        "Koala",
+        "Porcupine",
+        "Beaver",
+        "Platypus"
+      ],
+      "correctAnswer": 0,
       "explanation": "Koalas are marsupials, meaning they carry and nurse their young in a pouch. They are native to Australia.",
       "difficulty": "medium",
       "category": "science"
@@ -71,8 +106,13 @@
     {
       "id": "acl-8",
       "question": "Which of these is a crustacean?",
-      "options": ["Octopus", "Lobster", "Clam", "Jellyfish"],
-      "correctAnswer": 1,
+      "options": [
+        "Lobster",
+        "Clam",
+        "Jellyfish",
+        "Octopus"
+      ],
+      "correctAnswer": 0,
       "explanation": "Lobsters are crustaceans with a hard exoskeleton, segmented bodies, and jointed limbs. Octopuses are mollusks, clams are bivalves, and jellyfish are cnidarians.",
       "difficulty": "medium",
       "category": "science"
@@ -80,7 +120,12 @@
     {
       "id": "acl-9",
       "question": "The platypus is best classified as what type of mammal?",
-      "options": ["Marsupial", "Placental mammal", "Monotreme", "Primate"],
+      "options": [
+        "Primate",
+        "Marsupial",
+        "Monotreme",
+        "Placental mammal"
+      ],
       "correctAnswer": 2,
       "explanation": "The platypus is a monotreme — an egg-laying mammal. Monotremes are the most primitive group of living mammals, found only in Australia and New Guinea.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "acl-10",
       "question": "Which of these sea creatures is actually a fish, not a mammal?",
-      "options": ["Porpoise", "Manatee", "Sea lion", "Seahorse"],
-      "correctAnswer": 3,
+      "options": [
+        "Seahorse",
+        "Manatee",
+        "Porpoise",
+        "Sea lion"
+      ],
+      "correctAnswer": 0,
       "explanation": "Seahorses are fish. They breathe through gills and live entirely underwater. Porpoises, manatees, and sea lions are all marine mammals.",
       "difficulty": "medium",
       "category": "science"
@@ -98,8 +148,13 @@
     {
       "id": "acl-11",
       "question": "Which of these animals is a cephalopod?",
-      "options": ["Sea urchin", "Starfish", "Nautilus", "Sea cucumber"],
-      "correctAnswer": 2,
+      "options": [
+        "Sea urchin",
+        "Nautilus",
+        "Sea cucumber",
+        "Starfish"
+      ],
+      "correctAnswer": 1,
       "explanation": "The nautilus is a cephalopod, related to octopuses and squids. Sea urchins, starfish, and sea cucumbers are all echinoderms.",
       "difficulty": "hard",
       "category": "science"
@@ -107,8 +162,13 @@
     {
       "id": "acl-12",
       "question": "What order do bats belong to?",
-      "options": ["Rodentia", "Chiroptera", "Carnivora", "Insectivora"],
-      "correctAnswer": 1,
+      "options": [
+        "Carnivora",
+        "Rodentia",
+        "Chiroptera",
+        "Insectivora"
+      ],
+      "correctAnswer": 2,
       "explanation": "Bats belong to the order Chiroptera, meaning 'hand wing.' They are the only mammals capable of true sustained flight.",
       "difficulty": "hard",
       "category": "science"
@@ -116,8 +176,13 @@
     {
       "id": "acl-13",
       "question": "The tuatara of New Zealand is often mistaken for a lizard, but it belongs to which order?",
-      "options": ["Squamata", "Testudines", "Rhynchocephalia", "Crocodilia"],
-      "correctAnswer": 2,
+      "options": [
+        "Squamata",
+        "Rhynchocephalia",
+        "Crocodilia",
+        "Testudines"
+      ],
+      "correctAnswer": 1,
       "explanation": "Tuataras belong to the order Rhynchocephalia (sometimes called Sphenodontia). They are the sole surviving members of this ancient reptile order.",
       "difficulty": "hard",
       "category": "science"
@@ -125,8 +190,13 @@
     {
       "id": "acl-14",
       "question": "Which of these is a cartilaginous fish rather than a bony fish?",
-      "options": ["Salmon", "Tuna", "Stingray", "Catfish"],
-      "correctAnswer": 2,
+      "options": [
+        "Stingray",
+        "Salmon",
+        "Tuna",
+        "Catfish"
+      ],
+      "correctAnswer": 0,
       "explanation": "Stingrays are cartilaginous fish (class Chondrichthyes), meaning their skeletons are made of cartilage rather than bone, like sharks and skates.",
       "difficulty": "hard",
       "category": "science"
@@ -134,7 +204,12 @@
     {
       "id": "acl-15",
       "question": "The axolotl is a well-known example of which biological phenomenon?",
-      "options": ["Mimicry", "Neoteny", "Symbiosis", "Hibernation"],
+      "options": [
+        "Mimicry",
+        "Neoteny",
+        "Hibernation",
+        "Symbiosis"
+      ],
       "correctAnswer": 1,
       "explanation": "Axolotls exhibit neoteny — they retain their juvenile aquatic features (like gills) throughout adulthood without undergoing full metamorphosis into a terrestrial form.",
       "difficulty": "hard",

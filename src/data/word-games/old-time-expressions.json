@@ -8,12 +8,12 @@
       "id": "expr-1",
       "question": "What does the old expression \"the bee's knees\" mean?",
       "options": [
+        "Something that buzzes with activity",
         "Something very small and insignificant",
         "An outstanding or excellent person or thing",
-        "A painful experience",
-        "Something that buzzes with activity"
+        "A painful experience"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "\"The bee's knees\" became popular in the 1920s flapper era and means something or someone outstanding or excellent. It was part of a trend of nonsense phrases like \"the cat's pajamas\" and \"the cat's meow\" that all meant the same thing — the height of excellence.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -22,10 +22,10 @@
       "id": "expr-2",
       "question": "If someone told you \"don't take any wooden nickels,\" what were they saying?",
       "options": [
-        "Don't collect coins",
+        "Don't gamble your money away",
         "Don't be foolish or get cheated",
         "Don't accept charity",
-        "Don't gamble your money away"
+        "Don't collect coins"
       ],
       "correctAnswer": 1,
       "explanation": "\"Don't take any wooden nickels\" dates back to the early 1900s and was a lighthearted way of saying \"be careful\" or \"don't let anyone swindle you.\" It was commonly used as a parting phrase, similar to \"take care of yourself.\"",
@@ -36,12 +36,12 @@
       "id": "expr-3",
       "question": "What did it mean to call someone a \"wet blanket\"?",
       "options": [
-        "Someone who was always cold",
         "A person who dampens others' enthusiasm or fun",
+        "Someone who cried easily",
         "A heavy sleeper",
-        "Someone who cried easily"
+        "Someone who was always cold"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "A \"wet blanket\" is a person who spoils other people's fun or enthusiasm. The expression dates to the early 1800s and comes from the practice of using a wet blanket to smother a fire — just as the person smothers the enjoyment of others.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -50,12 +50,12 @@
       "id": "expr-4",
       "question": "What does \"23 skidoo\" mean?",
       "options": [
-        "A card game popular in saloons",
+        "A lucky number in gambling",
         "A type of early automobile",
-        "To leave quickly or get out",
-        "A lucky number in gambling"
+        "A card game popular in saloons",
+        "To leave quickly or get out"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "\"23 skidoo\" was one of the first widespread slang expressions in America, popular from around 1906. It means to leave quickly, scram, or get going. Its exact origin is debated, but it was so popular that it became a catchphrase of the early 20th century.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -65,9 +65,9 @@
       "question": "If something was described as \"the cat's pajamas,\" what did that mean?",
       "options": [
         "It was ridiculous or silly",
-        "It was soft and comfortable",
+        "It was old-fashioned",
         "It was wonderful or first-rate",
-        "It was old-fashioned"
+        "It was soft and comfortable"
       ],
       "correctAnswer": 2,
       "explanation": "\"The cat's pajamas\" originated in the 1920s and means something excellent or superlative. Coined during the Jazz Age, it was part of a fad of combining animal names with human clothing or body parts to describe something outstanding, alongside \"the bee's knees\" and \"the cat's meow.\"",
@@ -78,10 +78,10 @@
       "id": "expr-6",
       "question": "What did it mean when someone said \"he really knows his onions\"?",
       "options": [
-        "He is a good cook",
+        "He makes people cry",
         "He is very knowledgeable about a subject",
         "He is a farmer",
-        "He makes people cry"
+        "He is a good cook"
       ],
       "correctAnswer": 1,
       "explanation": "\"Knows his onions\" was 1920s slang meaning someone is very knowledgeable or well-informed about a particular subject. Some etymologists believe it may reference S.G. Onions, a British lexicographer, though this is debated. Similar expressions included \"knows his stuff\" and \"knows his beans.\"",
@@ -93,11 +93,11 @@
       "question": "What was meant by the expression \"burning the midnight oil\"?",
       "options": [
         "Wasting money on unnecessary things",
-        "Working or studying late into the night",
         "Cooking a late-night meal",
-        "Driving a car at night"
+        "Driving a car at night",
+        "Working or studying late into the night"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "\"Burning the midnight oil\" means staying up late to work or study. The expression dates back to the 1600s, when people literally burned oil in lamps to see after dark. It was widely used through the 20th century and remains in use today.",
       "difficulty": "easy",
       "category": "vocabulary"
@@ -106,10 +106,10 @@
       "id": "expr-8",
       "question": "If someone was called a \"drugstore cowboy,\" what did that mean?",
       "options": [
-        "A pharmacist in a western town",
+        "A traveling medicine salesman",
         "A man who loitered in public places to flirt with women",
-        "A rodeo performer who got injured often",
-        "A traveling medicine salesman"
+        "A pharmacist in a western town",
+        "A rodeo performer who got injured often"
       ],
       "correctAnswer": 1,
       "explanation": "A \"drugstore cowboy\" was 1920s–1930s slang for a man who hung around drugstores, street corners, or other public places trying to pick up women, rather than doing honest work. The term implied someone who dressed sharply but was all style and no substance.",
@@ -122,8 +122,8 @@
       "options": [
         "To go grocery shopping",
         "To be fired from a job",
-        "To win a prize",
-        "To go to sleep"
+        "To go to sleep",
+        "To win a prize"
       ],
       "correctAnswer": 1,
       "explanation": "\"Getting the sack\" means being dismissed from employment. The expression may date back to the days when tradesmen carried their own tools in a sack — when an employer handed you your sack, it meant your services were no longer needed. It was common parlance throughout the 20th century.",
@@ -134,12 +134,12 @@
       "id": "expr-10",
       "question": "What was a \"fuddy-duddy\"?",
       "options": [
-        "A type of candy",
-        "A clumsy dancer",
         "An old-fashioned, fussy, or stuffy person",
-        "A children's game"
+        "A children's game",
+        "A clumsy dancer",
+        "A type of candy"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": "A \"fuddy-duddy\" is a person who is old-fashioned, overly conservative, or fussy. The term appeared in the early 1900s and was widely used by the mid-20th century. Its exact origin is uncertain, but it may come from the Scottish word \"duddy\" meaning ragged or shabby.",
       "difficulty": "medium",
       "category": "vocabulary"
@@ -148,12 +148,12 @@
       "id": "expr-11",
       "question": "What did the expression \"sold down the river\" originally mean?",
       "options": [
-        "To be tricked in a business deal",
-        "To move to a town downstream",
+        "To buy cheap goods from a riverboat merchant",
         "To be betrayed, originating from the sale of enslaved people to harsher plantations in the Deep South",
-        "To buy cheap goods from a riverboat merchant"
+        "To move to a town downstream",
+        "To be tricked in a business deal"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "\"Sold down the river\" has a painful origin: it referred to enslaved people in the Upper South being sold to plantations further down the Mississippi River, where conditions were often far more brutal. By the mid-20th century, it came to broadly mean being betrayed or cheated by someone you trusted.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -162,9 +162,9 @@
       "id": "expr-12",
       "question": "If someone was described as being \"on the lam,\" what were they doing?",
       "options": [
-        "Working on a farm",
-        "Fleeing from the law",
         "Riding a horse",
+        "Fleeing from the law",
+        "Working on a farm",
         "Telling lies"
       ],
       "correctAnswer": 1,
@@ -176,12 +176,12 @@
       "id": "expr-13",
       "question": "What did it mean to call someone a \"gadabout\"?",
       "options": [
-        "A nosy gossip",
-        "A person who travels from place to place for pleasure",
         "An inventor or tinkerer",
-        "A pest or nuisance"
+        "A pest or nuisance",
+        "A nosy gossip",
+        "A person who travels from place to place for pleasure"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "A \"gadabout\" is a person who goes from place to place in search of amusement or social activity. The word dates to the early 1800s, combining \"gad\" (to roam or wander) with \"about.\" It was commonly used through the mid-20th century, often with a mildly disapproving tone.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -190,12 +190,12 @@
       "id": "expr-14",
       "question": "What did the expression \"fly off the handle\" mean?",
       "options": [
-        "To leave a room quickly",
-        "To lose one's temper suddenly",
         "To make a careless mistake",
-        "To faint or pass out"
+        "To faint or pass out",
+        "To lose one's temper suddenly",
+        "To leave a room quickly"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "\"Fly off the handle\" means to suddenly lose one's temper. The expression dates to the 1800s American frontier and comes from the real danger of axe heads flying off their handles during chopping — a sudden, uncontrolled, and potentially dangerous event, much like an outburst of anger.",
       "difficulty": "hard",
       "category": "vocabulary"
@@ -204,12 +204,12 @@
       "id": "expr-15",
       "question": "What did it mean to be \"in cahoots\" with someone?",
       "options": [
+        "To be related by marriage",
         "To be secretly plotting or conspiring together",
         "To be living in the same house",
-        "To be competing against each other",
-        "To be related by marriage"
+        "To be competing against each other"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "\"In cahoots\" means to be conspiring or working together secretly, often for dishonest purposes. The word \"cahoot\" appeared in American English in the early 1800s, possibly derived from the French \"cahute\" meaning a small hut or cabin — suggesting people huddled together in secret.",
       "difficulty": "hard",
       "category": "vocabulary"

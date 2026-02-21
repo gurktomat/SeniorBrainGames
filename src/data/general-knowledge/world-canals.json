@@ -7,92 +7,167 @@
     {
       "id": "world-canals-1",
       "question": "The Suez Canal connects the Mediterranean Sea to which other body of water?",
-      "options": ["Persian Gulf", "Red Sea", "Black Sea", "Arabian Sea"],
+      "options": [
+        "Black Sea",
+        "Red Sea",
+        "Persian Gulf",
+        "Arabian Sea"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-canals-2",
       "question": "In which year did the Panama Canal officially open to commercial traffic?",
-      "options": ["1904", "1910", "1914", "1920"],
+      "options": [
+        "1904",
+        "1920",
+        "1914",
+        "1910"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-canals-3",
       "question": "The Erie Canal, completed in 1825, connected the Hudson River to which of the Great Lakes?",
-      "options": ["Lake Michigan", "Lake Ontario", "Lake Huron", "Lake Erie"],
-      "correctAnswer": 3
+      "options": [
+        "Lake Huron",
+        "Lake Erie",
+        "Lake Ontario",
+        "Lake Michigan"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-canals-4",
       "question": "Which European city is famous for its extensive canal system and is sometimes called 'The Venice of the North'?",
-      "options": ["Copenhagen", "Amsterdam", "Hamburg", "Stockholm"],
+      "options": [
+        "Copenhagen",
+        "Amsterdam",
+        "Stockholm",
+        "Hamburg"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-canals-5",
       "question": "The Grand Canal of China, the world's longest artificial waterway, stretches approximately how far?",
-      "options": ["500 miles", "1,100 miles", "1,800 miles", "2,500 miles"],
+      "options": [
+        "500 miles",
+        "1,100 miles",
+        "1,800 miles",
+        "2,500 miles"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-canals-6",
       "question": "Which French engineer initially led the failed attempt to build a sea-level canal in Panama?",
-      "options": ["Gustave Eiffel", "Ferdinand de Lesseps", "Auguste Perret", "Alexandre Lavalley"],
-      "correctAnswer": 1
+      "options": [
+        "Auguste Perret",
+        "Alexandre Lavalley",
+        "Ferdinand de Lesseps",
+        "Gustave Eiffel"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-canals-7",
       "question": "The Kiel Canal connects the North Sea to which other sea, allowing ships to avoid sailing around Denmark?",
-      "options": ["Norwegian Sea", "Baltic Sea", "Barents Sea", "Celtic Sea"],
-      "correctAnswer": 1
+      "options": [
+        "Norwegian Sea",
+        "Barents Sea",
+        "Celtic Sea",
+        "Baltic Sea"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-canals-8",
       "question": "The Corinth Canal cuts through a narrow strip of land in which country?",
-      "options": ["Turkey", "Italy", "Greece", "Croatia"],
-      "correctAnswer": 2
+      "options": [
+        "Italy",
+        "Croatia",
+        "Turkey",
+        "Greece"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-canals-9",
       "question": "Which U.S. president is most closely associated with the construction of the Panama Canal?",
-      "options": ["William McKinley", "Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft"],
-      "correctAnswer": 1
+      "options": [
+        "William McKinley",
+        "Woodrow Wilson",
+        "Theodore Roosevelt",
+        "William Howard Taft"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-canals-10",
       "question": "The Manchester Ship Canal, opened in 1894, allowed ocean-going ships to reach which English city?",
-      "options": ["Liverpool", "Manchester", "Birmingham", "Leeds"],
-      "correctAnswer": 1
+      "options": [
+        "Manchester",
+        "Birmingham",
+        "Liverpool",
+        "Leeds"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-canals-11",
       "question": "How does the Panama Canal move ships between the Atlantic and Pacific oceans?",
-      "options": ["A straight sea-level channel", "A system of locks", "Underground tunnels", "A series of natural rivers"],
-      "correctAnswer": 1
+      "options": [
+        "A system of locks",
+        "A straight sea-level channel",
+        "Underground tunnels",
+        "A series of natural rivers"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-canals-12",
       "question": "The Welland Canal allows ships to bypass which famous natural landmark between Lakes Erie and Ontario?",
-      "options": ["Niagara Falls", "Thousand Islands", "Sleeping Bear Dunes", "Pictured Rocks"],
-      "correctAnswer": 0
+      "options": [
+        "Sleeping Bear Dunes",
+        "Niagara Falls",
+        "Pictured Rocks",
+        "Thousand Islands"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-canals-13",
       "question": "In which country would you find the Göta Canal, connecting the east and west coasts?",
-      "options": ["Norway", "Finland", "Denmark", "Sweden"],
-      "correctAnswer": 3
+      "options": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Denmark"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-canals-14",
       "question": "The Suez Canal was nationalized in 1956 by which Egyptian leader, triggering an international crisis?",
-      "options": ["King Farouk", "Gamal Abdel Nasser", "Anwar Sadat", "Hosni Mubarak"],
-      "correctAnswer": 1
+      "options": [
+        "Anwar Sadat",
+        "King Farouk",
+        "Hosni Mubarak",
+        "Gamal Abdel Nasser"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-canals-15",
       "question": "The Canal du Midi, a 17th-century engineering marvel in southern France, connects the Garonne River to which sea?",
-      "options": ["North Sea", "Atlantic Ocean", "Mediterranean Sea", "Bay of Biscay"],
-      "correctAnswer": 2
+      "options": [
+        "Mediterranean Sea",
+        "Atlantic Ocean",
+        "Bay of Biscay",
+        "North Sea"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

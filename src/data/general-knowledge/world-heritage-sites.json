@@ -7,92 +7,167 @@
     {
       "id": "world-heritage-sites-1",
       "question": "In which country would you find the ancient city of Petra, carved into rose-colored rock?",
-      "options": ["Egypt", "Jordan", "Turkey", "Iran"],
+      "options": [
+        "Iran",
+        "Jordan",
+        "Turkey",
+        "Egypt"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-heritage-sites-2",
       "question": "Machu Picchu, the famous Incan citadel, is located high in which mountain range?",
-      "options": ["The Rockies", "The Himalayas", "The Andes", "The Alps"],
-      "correctAnswer": 2
+      "options": [
+        "The Andes",
+        "The Himalayas",
+        "The Rockies",
+        "The Alps"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "world-heritage-sites-3",
       "question": "The Great Barrier Reef, the world's largest coral reef system, lies off the coast of which country?",
-      "options": ["Indonesia", "Philippines", "Brazil", "Australia"],
+      "options": [
+        "Brazil",
+        "Indonesia",
+        "Philippines",
+        "Australia"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "world-heritage-sites-4",
       "question": "Which UNESCO World Heritage Site in India was built by Emperor Shah Jahan as a mausoleum for his wife?",
-      "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "Hawa Mahal"],
-      "correctAnswer": 0
+      "options": [
+        "Red Fort",
+        "Hawa Mahal",
+        "Qutub Minar",
+        "Taj Mahal"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "world-heritage-sites-5",
       "question": "The historic center of which Italian city is famous for its canals and gondolas?",
-      "options": ["Rome", "Florence", "Venice", "Naples"],
+      "options": [
+        "Florence",
+        "Naples",
+        "Venice",
+        "Rome"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-6",
       "question": "Angkor Wat, the largest religious monument in the world, is located in which country?",
-      "options": ["Thailand", "Vietnam", "Cambodia", "Myanmar"],
+      "options": [
+        "Myanmar",
+        "Vietnam",
+        "Cambodia",
+        "Thailand"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-7",
       "question": "Which World Heritage Site on Easter Island is famous for its massive stone statues called Moai?",
-      "options": ["Rapa Nui National Park", "Torres del Paine", "Galápagos Islands", "Nazca Lines"],
-      "correctAnswer": 0
+      "options": [
+        "Torres del Paine",
+        "Nazca Lines",
+        "Rapa Nui National Park",
+        "Galápagos Islands"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-8",
       "question": "The ancient Roman Colosseum could hold approximately how many spectators?",
-      "options": ["25,000", "50,000", "80,000", "120,000"],
+      "options": [
+        "80,000",
+        "50,000",
+        "25,000",
+        "120,000"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-heritage-sites-9",
       "question": "Which World Heritage Site in Egypt consists of three large pyramids on the Giza plateau?",
-      "options": ["Valley of the Kings", "Memphis and its Necropolis", "Abu Simbel", "Luxor Temple"],
+      "options": [
+        "Luxor Temple",
+        "Memphis and its Necropolis",
+        "Valley of the Kings",
+        "Abu Simbel"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-heritage-sites-10",
       "question": "The Galápagos Islands, which inspired Charles Darwin's theory of evolution, belong to which country?",
-      "options": ["Peru", "Colombia", "Ecuador", "Chile"],
-      "correctAnswer": 2
+      "options": [
+        "Chile",
+        "Ecuador",
+        "Colombia",
+        "Peru"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "world-heritage-sites-11",
       "question": "Stonehenge, the prehistoric stone circle, is located in which English county?",
-      "options": ["Devon", "Wiltshire", "Cornwall", "Somerset"],
-      "correctAnswer": 1
+      "options": [
+        "Somerset",
+        "Devon",
+        "Wiltshire",
+        "Cornwall"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-12",
       "question": "The Historic Ensemble of the Potala Palace is a World Heritage Site in which region?",
-      "options": ["Mongolia", "Nepal", "Tibet (China)", "Bhutan"],
+      "options": [
+        "Bhutan",
+        "Mongolia",
+        "Tibet (China)",
+        "Nepal"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-13",
       "question": "Which African World Heritage Site is a massive waterfall on the Zambezi River, known locally as 'Mosi-oa-Tunya'?",
-      "options": ["Niagara Falls", "Victoria Falls", "Iguazu Falls", "Angel Falls"],
+      "options": [
+        "Iguazu Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Niagara Falls"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "world-heritage-sites-14",
       "question": "The Acropolis, topped by the Parthenon temple, overlooks which European capital city?",
-      "options": ["Rome", "Athens", "Istanbul", "Lisbon"],
-      "correctAnswer": 1
+      "options": [
+        "Lisbon",
+        "Istanbul",
+        "Athens",
+        "Rome"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "world-heritage-sites-15",
       "question": "In which year was the UNESCO World Heritage Convention adopted?",
-      "options": ["1962", "1972", "1982", "1992"],
-      "correctAnswer": 1
+      "options": [
+        "1982",
+        "1992",
+        "1972",
+        "1962"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "id": "world-flags-recall",
+  "title": "World Flags Recall",
+  "description": "Can you recall the distinctive features of flags from around the world? Put your memory to the test!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-flags-recall-1",
+      "question": "Which country's flag features a red circle on a white background, representing the rising sun?",
+      "options": [
+        "Bangladesh",
+        "Palau",
+        "South Korea",
+        "Japan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-flags-recall-2",
+      "question": "The flag of Canada prominently features which leaf in its center?",
+      "options": [
+        "Elm leaf",
+        "Oak leaf",
+        "Maple leaf",
+        "Birch leaf"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-flags-recall-3",
+      "question": "Which country's flag is the only national flag that is not rectangular or square?",
+      "options": [
+        "Nepal",
+        "Vatican City",
+        "Bhutan",
+        "Switzerland"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-flags-recall-4",
+      "question": "The Union Jack, a combination of three crosses, is the flag of which country?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Fiji",
+        "United Kingdom"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-flags-recall-5",
+      "question": "Which Scandinavian country's flag features a white cross on a red background?",
+      "options": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-flags-recall-6",
+      "question": "The flag of Brazil features a blue globe with white stars and a banner. What color is the diamond shape surrounding the globe?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Orange",
+        "White"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-flags-recall-7",
+      "question": "Which African country's flag features a green, white, and green vertical tricolor?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "Ivory Coast",
+        "Ghana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-flags-recall-8",
+      "question": "The flag of which country features a crescent moon and star on a green background?",
+      "options": [
+        "Tunisia",
+        "Algeria",
+        "Turkey",
+        "Pakistan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-flags-recall-9",
+      "question": "Which country's flag features a dragon on a yellow and orange background?",
+      "options": [
+        "China",
+        "Bhutan",
+        "Sri Lanka",
+        "Wales"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-flags-recall-10",
+      "question": "The tricolor flag of green, white, and red (left to right) belongs to which European country?",
+      "options": [
+        "Ireland",
+        "Italy",
+        "Mexico",
+        "Hungary"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-flags-recall-11",
+      "question": "Which country's flag features the Southern Cross constellation and the Union Jack?",
+      "options": [
+        "Fiji",
+        "Australia",
+        "New Zealand",
+        "Tuvalu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-flags-recall-12",
+      "question": "The flag of South Africa is unique for having how many colors?",
+      "options": [
+        "Five",
+        "Four",
+        "Six",
+        "Seven"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-flags-recall-13",
+      "question": "Which country's flag features an eagle perched on a cactus, eating a serpent?",
+      "options": [
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Mexico"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "world-flags-recall-14",
+      "question": "The flag of Switzerland is distinctive for being one of only two square sovereign-state flags. What is on it?",
+      "options": [
+        "A white cross",
+        "A red star",
+        "A shield",
+        "A mountain"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-flags-recall-15",
+      "question": "Which Nordic country's flag has a blue background with a yellow or gold cross?",
+      "options": [
+        "Iceland",
+        "Finland",
+        "Norway",
+        "Sweden"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

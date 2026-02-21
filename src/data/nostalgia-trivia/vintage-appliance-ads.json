@@ -7,91 +7,166 @@
     {
       "id": "vintage-appliance-ads-1",
       "question": "What brand used the slogan 'Better Living Through Chemistry' to promote its household products?",
-      "options": ["Procter & Gamble", "DuPont", "Dow Chemical", "3M"],
+      "options": [
+        "Procter & Gamble",
+        "DuPont",
+        "Dow Chemical",
+        "3M"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "vintage-appliance-ads-2",
       "question": "Which kitchen appliance brand featured the 'Lonely Maytag Repairman' in its TV commercials?",
-      "options": ["Whirlpool", "General Electric", "Maytag", "Kenmore"],
+      "options": [
+        "Whirlpool",
+        "General Electric",
+        "Maytag",
+        "Kenmore"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-appliance-ads-3",
       "question": "What color were most kitchen appliances marketed in during the 1970s as a trendy alternative to white?",
-      "options": ["Baby blue", "Avocado green and harvest gold", "Pink", "Red"],
-      "correctAnswer": 1
+      "options": [
+        "Avocado green and harvest gold",
+        "Red",
+        "Pink",
+        "Baby blue"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-4",
       "question": "Which vacuum cleaner brand was famously sold door-to-door by salesmen who demonstrated it in your home?",
-      "options": ["Hoover", "Kirby", "Electrolux", "All of the above"],
+      "options": [
+        "Electrolux",
+        "Kirby",
+        "Hoover",
+        "All of the above"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "vintage-appliance-ads-5",
       "question": "What GE slogan, introduced in the 1950s, promised that its products would improve everyday life?",
-      "options": ["We Bring Good Things to Life", "Progress Is Our Most Important Product", "Imagination at Work", "The Future Is Electric"],
-      "correctAnswer": 1
+      "options": [
+        "Progress Is Our Most Important Product",
+        "Imagination at Work",
+        "We Bring Good Things to Life",
+        "The Future Is Electric"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-6",
       "question": "What small kitchen appliance, popular in the 1950s, was advertised as making perfect toast every time with a pop-up mechanism?",
-      "options": ["The Toastmaster", "The Hamilton Beach mixer", "The Sunbeam Mixmaster", "The Osterizer"],
-      "correctAnswer": 0
+      "options": [
+        "The Sunbeam Mixmaster",
+        "The Hamilton Beach mixer",
+        "The Osterizer",
+        "The Toastmaster"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-appliance-ads-7",
       "question": "Which brand's stand mixer, introduced in 1919, became a beloved kitchen icon often advertised in women's magazines?",
-      "options": ["Hamilton Beach", "Sunbeam", "KitchenAid", "Cuisinart"],
-      "correctAnswer": 2
+      "options": [
+        "KitchenAid",
+        "Cuisinart",
+        "Sunbeam",
+        "Hamilton Beach"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-8",
       "question": "What was Frigidaire originally a brand of before becoming associated with all refrigerators?",
-      "options": ["Washing machines", "Refrigerators made by General Motors", "Air conditioners", "Dishwashers"],
-      "correctAnswer": 1
+      "options": [
+        "Refrigerators made by General Motors",
+        "Washing machines",
+        "Air conditioners",
+        "Dishwashers"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-9",
       "question": "In vintage ads, what Westinghouse spokesperson would say 'You can be sure if it's Westinghouse'?",
-      "options": ["Betty White", "Betty Furness", "Donna Reed", "Lucille Ball"],
-      "correctAnswer": 1
+      "options": [
+        "Donna Reed",
+        "Betty White",
+        "Betty Furness",
+        "Lucille Ball"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-appliance-ads-10",
       "question": "What revolutionary appliance was advertised in the 1960s as cooking food 'in minutes instead of hours' using microwave technology?",
-      "options": ["The convection oven", "The Radarange microwave oven", "The pressure cooker", "The toaster oven"],
-      "correctAnswer": 1
+      "options": [
+        "The pressure cooker",
+        "The convection oven",
+        "The toaster oven",
+        "The Radarange microwave oven"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "vintage-appliance-ads-11",
       "question": "Which company's washing machine ads in the 1950s often featured happy housewives marveling at their clean laundry?",
-      "options": ["Bendix", "Maytag", "Kenmore", "All major brands used this approach"],
-      "correctAnswer": 3
+      "options": [
+        "All major brands used this approach",
+        "Kenmore",
+        "Maytag",
+        "Bendix"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-12",
       "question": "What Sunbeam appliance, shaped like a flying saucer, became an iconic mid-century design for frying?",
-      "options": ["The Sunbeam electric skillet", "The Sunbeam waffle iron", "The Sunbeam frypan", "The Sunbeam griddle"],
+      "options": [
+        "The Sunbeam electric skillet",
+        "The Sunbeam griddle",
+        "The Sunbeam frypan",
+        "The Sunbeam waffle iron"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "vintage-appliance-ads-13",
       "question": "What Ronco product, advertised on TV with 'Set it and forget it!', became a late-night infomercial staple?",
-      "options": ["The Veg-O-Matic", "The Showtime Rotisserie", "The Pocket Fisherman", "The Inside-the-Shell Egg Scrambler"],
-      "correctAnswer": 1
+      "options": [
+        "The Inside-the-Shell Egg Scrambler",
+        "The Pocket Fisherman",
+        "The Showtime Rotisserie",
+        "The Veg-O-Matic"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "vintage-appliance-ads-14",
       "question": "What classic Ronco kitchen gadget could 'slice, dice, and make julienne fries'?",
-      "options": ["The Chop-O-Matic", "The Ginsu Knife", "The Veg-O-Matic", "The Slice-A-Way"],
-      "correctAnswer": 2
+      "options": [
+        "The Veg-O-Matic",
+        "The Chop-O-Matic",
+        "The Ginsu Knife",
+        "The Slice-A-Way"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "vintage-appliance-ads-15",
       "question": "What type of home appliance did Amana introduce to consumers in 1967 as a countertop model?",
-      "options": ["The dishwasher", "The countertop microwave oven", "The electric can opener", "The food processor"],
+      "options": [
+        "The electric can opener",
+        "The countertop microwave oven",
+        "The food processor",
+        "The dishwasher"
+      ],
       "correctAnswer": 1
     }
   ]

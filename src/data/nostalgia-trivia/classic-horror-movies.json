@@ -7,92 +7,167 @@
     {
       "id": "classic-horror-movies-1",
       "question": "Which 1931 film starred Bela Lugosi as the famous Transylvanian vampire Count?",
-      "options": ["Nosferatu", "Dracula", "The Bat", "London After Midnight"],
-      "correctAnswer": 1
+      "options": [
+        "Nosferatu",
+        "London After Midnight",
+        "The Bat",
+        "Dracula"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-2",
       "question": "In Alfred Hitchcock's 'Psycho' (1960), what is the name of the motel where the famous shower scene takes place?",
-      "options": ["Pinewood Motel", "Bates Motel", "Highway Motel", "Fairvale Motel"],
-      "correctAnswer": 1
+      "options": [
+        "Highway Motel",
+        "Pinewood Motel",
+        "Fairvale Motel",
+        "Bates Motel"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-3",
       "question": "Which actor played the monster in the original 1931 'Frankenstein' film?",
-      "options": ["Bela Lugosi", "Lon Chaney Jr.", "Boris Karloff", "Vincent Price"],
-      "correctAnswer": 2
+      "options": [
+        "Lon Chaney Jr.",
+        "Bela Lugosi",
+        "Vincent Price",
+        "Boris Karloff"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-4",
       "question": "The 1954 film 'Creature from the Black Lagoon' features a monster that is half-man and half what?",
-      "options": ["Bat", "Fish", "Reptile", "Insect"],
-      "correctAnswer": 1
+      "options": [
+        "Insect",
+        "Bat",
+        "Fish",
+        "Reptile"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-horror-movies-5",
       "question": "Which legendary actor, known for his distinctive voice, starred in numerous horror films including 'House of Wax' (1953)?",
-      "options": ["Peter Cushing", "Christopher Lee", "Vincent Price", "Boris Karloff"],
-      "correctAnswer": 2
+      "options": [
+        "Peter Cushing",
+        "Vincent Price",
+        "Boris Karloff",
+        "Christopher Lee"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "classic-horror-movies-6",
       "question": "In the 1968 film 'Night of the Living Dead,' directed by George A. Romero, what type of creatures terrorize the characters?",
-      "options": ["Vampires", "Werewolves", "Zombies", "Ghosts"],
-      "correctAnswer": 2
+      "options": [
+        "Ghosts",
+        "Werewolves",
+        "Vampires",
+        "Zombies"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-7",
       "question": "Which 1973 horror film about a possessed 12-year-old girl was so frightening that some theaters provided barf bags?",
-      "options": ["The Omen", "The Exorcist", "Carrie", "Rosemary's Baby"],
-      "correctAnswer": 1
+      "options": [
+        "Rosemary's Baby",
+        "Carrie",
+        "The Exorcist",
+        "The Omen"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-horror-movies-8",
       "question": "Lon Chaney Sr., known as 'The Man of a Thousand Faces,' starred in which classic 1925 silent horror film?",
-      "options": ["Nosferatu", "The Cabinet of Dr. Caligari", "The Phantom of the Opera", "The Hunchback of Notre Dame"],
-      "correctAnswer": 2
+      "options": [
+        "The Hunchback of Notre Dame",
+        "Nosferatu",
+        "The Cabinet of Dr. Caligari",
+        "The Phantom of the Opera"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-9",
       "question": "Which 1968 Roman Polanski film stars Mia Farrow as a woman who suspects her neighbors have sinister plans for her unborn baby?",
-      "options": ["The Exorcist", "Rosemary's Baby", "The Omen", "Repulsion"],
-      "correctAnswer": 1
+      "options": [
+        "The Omen",
+        "Repulsion",
+        "The Exorcist",
+        "Rosemary's Baby"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-10",
       "question": "In the 1941 film 'The Wolf Man,' who played the title character, Larry Talbot?",
-      "options": ["Boris Karloff", "Bela Lugosi", "Lon Chaney Jr.", "Claude Rains"],
+      "options": [
+        "Boris Karloff",
+        "Bela Lugosi",
+        "Lon Chaney Jr.",
+        "Claude Rains"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "classic-horror-movies-11",
       "question": "Which 1963 Alfred Hitchcock film features flocks of aggressive birds attacking the residents of a California coastal town?",
-      "options": ["Vertigo", "Rear Window", "The Birds", "Marnie"],
-      "correctAnswer": 2
+      "options": [
+        "Rear Window",
+        "Vertigo",
+        "Marnie",
+        "The Birds"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "classic-horror-movies-12",
       "question": "Which British film studio was famous for producing gothic horror films starring Peter Cushing and Christopher Lee from the 1950s-1970s?",
-      "options": ["Ealing Studios", "Pinewood Studios", "Hammer Film Productions", "Rank Organisation"],
-      "correctAnswer": 2
+      "options": [
+        "Hammer Film Productions",
+        "Rank Organisation",
+        "Ealing Studios",
+        "Pinewood Studios"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "classic-horror-movies-13",
       "question": "In the original 1978 'Halloween,' what is the name of the masked killer who terrorizes babysitters?",
-      "options": ["Jason Voorhees", "Michael Myers", "Freddy Krueger", "Leatherface"],
+      "options": [
+        "Jason Voorhees",
+        "Michael Myers",
+        "Freddy Krueger",
+        "Leatherface"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "classic-horror-movies-14",
       "question": "Which 1975 Steven Spielberg film about a great white shark terrorizing a beach town became the first summer blockbuster?",
-      "options": ["The Deep", "Jaws", "Orca", "Piranha"],
-      "correctAnswer": 1
+      "options": [
+        "The Deep",
+        "Orca",
+        "Jaws",
+        "Piranha"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "classic-horror-movies-15",
       "question": "The famous line 'It's alive! It's alive!' is from which classic 1931 horror film?",
-      "options": ["The Mummy", "Dracula", "Frankenstein", "The Invisible Man"],
-      "correctAnswer": 2
+      "options": [
+        "Dracula",
+        "Frankenstein",
+        "The Invisible Man",
+        "The Mummy"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

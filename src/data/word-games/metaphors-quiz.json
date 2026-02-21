@@ -9,77 +9,77 @@
       "question": "Which of the following is a metaphor?",
       "options": [
         "She is as sweet as honey",
-        "She is a ray of sunshine",
         "She runs like the wind",
-        "She looks like a princess"
+        "She looks like a princess",
+        "She is a ray of sunshine"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "metaphors-quiz-2",
       "question": "What does the metaphor 'Time is money' mean?",
       "options": [
         "You can buy time",
-        "Time should not be wasted",
+        "Clocks are expensive",
         "Money grows over time",
-        "Clocks are expensive"
+        "Time should not be wasted"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "metaphors-quiz-3",
       "question": "In 'The world is a stage,' what is being compared to a stage?",
       "options": [
-        "A theater",
-        "Life and the world",
         "A performance",
-        "A building"
+        "A building",
+        "Life and the world",
+        "A theater"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "metaphors-quiz-4",
       "question": "What does the metaphor 'He has a heart of gold' mean?",
       "options": [
-        "He is wealthy",
-        "He is kind and generous",
         "He has a medical condition",
-        "He wears gold jewelry"
+        "He wears gold jewelry",
+        "He is wealthy",
+        "He is kind and generous"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "metaphors-quiz-5",
       "question": "Which sentence contains a metaphor?",
       "options": [
-        "The car zoomed past",
-        "The classroom was a zoo",
         "The dog barked loudly",
-        "The rain fell heavily"
+        "The rain fell heavily",
+        "The car zoomed past",
+        "The classroom was a zoo"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "metaphors-quiz-6",
       "question": "What does 'drowning in work' mean?",
       "options": [
-        "Working near water",
-        "Having too much work to handle",
+        "Swimming at the office",
         "Cleaning up a flood",
-        "Swimming at the office"
+        "Having too much work to handle",
+        "Working near water"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "metaphors-quiz-7",
       "question": "What does the metaphor 'Life is a journey' suggest?",
       "options": [
-        "Everyone should travel",
-        "Life involves progress and experiences along the way",
         "Life is short",
-        "Journeys are important"
+        "Journeys are important",
+        "Life involves progress and experiences along the way",
+        "Everyone should travel"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "metaphors-quiz-8",
@@ -87,8 +87,8 @@
       "options": [
         "He has a heart of a lion",
         "He runs like a cheetah",
-        "He is as tall as a tree",
-        "He eats like a horse"
+        "He eats like a horse",
+        "He is as tall as a tree"
       ],
       "correctAnswer": 0
     },
@@ -96,34 +96,34 @@
       "id": "metaphors-quiz-9",
       "question": "What does 'She has a sharp tongue' mean?",
       "options": [
+        "She speaks very quickly",
         "She speaks harshly or critically",
         "She has a cut on her tongue",
-        "She speaks very quickly",
         "She eats spicy food"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "metaphors-quiz-10",
       "question": "How does a metaphor differ from a simile?",
       "options": [
-        "A metaphor is always about people",
         "A metaphor states something IS something else, without using 'like' or 'as'",
         "A metaphor is shorter",
-        "There is no difference"
+        "There is no difference",
+        "A metaphor is always about people"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "metaphors-quiz-11",
       "question": "What does 'He is the black sheep of the family' mean?",
       "options": [
-        "He wears dark clothing",
-        "He is different or considered the odd one out",
+        "He has dark hair",
         "He raises sheep",
-        "He has dark hair"
+        "He wears dark clothing",
+        "He is different or considered the odd one out"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "metaphors-quiz-12",
@@ -131,8 +131,8 @@
       "options": [
         "He was physically injured",
         "The news was deeply painful emotionally",
-        "He read a crime story",
-        "He collects daggers"
+        "He collects daggers",
+        "He read a crime story"
       ],
       "correctAnswer": 1
     },
@@ -140,10 +140,10 @@
       "id": "metaphors-quiz-13",
       "question": "Which sentence contains a metaphor?",
       "options": [
-        "She danced gracefully",
-        "Her eyes were sparkling diamonds",
         "He walked slowly home",
-        "The flowers smelled sweet"
+        "Her eyes were sparkling diamonds",
+        "The flowers smelled sweet",
+        "She danced gracefully"
       ],
       "correctAnswer": 1
     },
@@ -151,21 +151,21 @@
       "id": "metaphors-quiz-14",
       "question": "What does 'He is a walking encyclopedia' mean?",
       "options": [
+        "He works at a library",
         "He carries books everywhere",
         "He knows a great deal about many subjects",
-        "He works at a library",
         "He reads while walking"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "metaphors-quiz-15",
       "question": "What does the metaphor 'blanket of snow' describe?",
       "options": [
-        "A snow-covered blanket left outside",
+        "A white blanket",
         "A thick, even layer of snow covering everything",
         "A cold night",
-        "A white blanket"
+        "A snow-covered blanket left outside"
       ],
       "correctAnswer": 1
     }

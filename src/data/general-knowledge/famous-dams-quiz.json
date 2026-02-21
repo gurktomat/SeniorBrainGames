@@ -1,0 +1,219 @@
+{
+  "id": "famous-dams-quiz",
+  "title": "Famous Dams of the World",
+  "description": "Test your knowledge of the world's most impressive dams and hydroelectric projects!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-dams-quiz-1",
+      "question": "Which dam on the Colorado River was completed in 1936 and was the world's largest concrete structure at the time?",
+      "options": [
+        "Shasta Dam",
+        "Glen Canyon Dam",
+        "Grand Coulee Dam",
+        "Hoover Dam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hoover Dam, located on the border of Nevada and Arizona, was completed in 1936. It was named after President Herbert Hoover and was the world's tallest dam and largest hydroelectric facility at the time.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-2",
+      "question": "The Three Gorges Dam, the world's largest power station by installed capacity, is located on which river?",
+      "options": [
+        "Mekong River",
+        "Yangtze River",
+        "Yellow River",
+        "Pearl River"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Three Gorges Dam spans the Yangtze River in Hubei province, China. Completed in 2006, it has an installed capacity of 22,500 MW, making it the world's largest hydroelectric power station.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-3",
+      "question": "The Aswan High Dam, completed in 1970, created which massive artificial lake?",
+      "options": [
+        "Lake Kariba",
+        "Lake Victoria",
+        "Lake Nasser",
+        "Lake Chad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Aswan High Dam on the Nile River in Egypt created Lake Nasser, one of the world's largest artificial lakes. The reservoir extends about 550 km, with part of it reaching into Sudan.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-4",
+      "question": "Which dam in Brazil and Paraguay was the world's largest hydroelectric dam before the Three Gorges Dam surpassed it?",
+      "options": [
+        "Itaipu Dam",
+        "Guri Dam",
+        "Tucuruí Dam",
+        "Belo Monte Dam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Itaipu Dam on the Paraná River between Brazil and Paraguay held the record as the world's largest hydroelectric dam from 1984 until the Three Gorges Dam surpassed it. It still produces more annual energy in many years.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-5",
+      "question": "The Grand Coulee Dam, one of the largest concrete structures in the world, is located in which U.S. state?",
+      "options": [
+        "Oregon",
+        "Montana",
+        "Idaho",
+        "Washington"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Grand Coulee Dam is located on the Columbia River in Washington state. Completed in 1942, it is the largest hydropower producer in the United States and one of the largest concrete structures ever built.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-6",
+      "question": "Which catastrophic dam failure in 1975 in China's Henan province caused one of the deadliest infrastructure disasters in history?",
+      "options": [
+        "Gezhouba Dam",
+        "Sanmenxia Dam",
+        "Xiaowan Dam",
+        "Banqiao Dam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Banqiao Dam failed on August 8, 1975, during Typhoon Nina. The resulting flood killed an estimated 170,000 people and displaced millions, making it one of the deadliest dam failures in history.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-7",
+      "question": "The Kariba Dam, creating the world's largest artificial lake by volume, forms the border between which two African countries?",
+      "options": [
+        "Mozambique and Malawi",
+        "Tanzania and Kenya",
+        "Uganda and Congo",
+        "Zambia and Zimbabwe"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Kariba Dam on the Zambezi River forms the border between Zambia and Zimbabwe. Completed in 1959, Lake Kariba is the world's largest artificial lake by volume at approximately 185 cubic kilometers.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-8",
+      "question": "What type of dam is the Hoover Dam?",
+      "options": [
+        "Gravity dam",
+        "Earthfill dam",
+        "Buttress dam",
+        "Arch-gravity dam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hoover Dam is a concrete arch-gravity dam, meaning it curves upstream and uses both the arch shape and its own weight to resist the water pressure. It stands 221 meters (726 feet) tall.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-9",
+      "question": "The Tarbela Dam, one of the largest earth-filled dams in the world, is located in which country?",
+      "options": [
+        "Pakistan",
+        "Iran",
+        "Afghanistan",
+        "India"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Tarbela Dam on the Indus River in Pakistan was completed in 1976. It is one of the largest earth-filled dams in the world and a key component of Pakistan's irrigation and power generation infrastructure.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-10",
+      "question": "Which U.S. dam disaster in 1889 killed over 2,200 people when it failed above Johnstown, Pennsylvania?",
+      "options": [
+        "Teton Dam",
+        "St. Francis Dam",
+        "South Fork Dam",
+        "Austin Dam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The South Fork Dam failed on May 31, 1889, sending a wall of water down on Johnstown, Pennsylvania. The Johnstown Flood killed 2,209 people and was one of the worst disasters in American history.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-11",
+      "question": "The Oroville Dam, the tallest dam in the United States, is located in which state?",
+      "options": [
+        "California",
+        "Arizona",
+        "Nevada",
+        "Colorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Oroville Dam on the Feather River in California stands 770 feet (235 meters) tall, making it the tallest dam in the United States. It made headlines in 2017 when its spillway was severely damaged.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-12",
+      "question": "The Vajont Dam disaster of 1963 in Italy was caused by what event?",
+      "options": [
+        "Massive landslide into the reservoir",
+        "Earthquake",
+        "Flooding from heavy rain",
+        "Structural collapse of the dam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "On October 9, 1963, a massive landslide of about 260 million cubic meters slid into the reservoir behind the Vajont Dam, causing a mega-tsunami that overtopped the dam and killed nearly 2,000 people downstream.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-13",
+      "question": "Glen Canyon Dam, which created Lake Powell, is located on which river?",
+      "options": [
+        "Colorado River",
+        "Rio Grande",
+        "Green River",
+        "Snake River"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glen Canyon Dam on the Colorado River in Arizona was completed in 1966, creating Lake Powell. The reservoir extends into Utah and is one of the largest artificial lakes in the United States.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-14",
+      "question": "Which ancient civilization built some of the earliest known dams, including the Marib Dam in present-day Yemen?",
+      "options": [
+        "Romans",
+        "Persians",
+        "Sabaeans",
+        "Egyptians"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sabaeans of ancient Yemen built the Great Dam of Marib around the 8th century BC. It was one of the engineering wonders of the ancient world and irrigated approximately 25,000 acres of land.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "famous-dams-quiz-15",
+      "question": "The Nurek Dam in Tajikistan was the world's tallest dam until 2013. Approximately how tall is it?",
+      "options": [
+        "300 meters",
+        "400 meters",
+        "200 meters",
+        "500 meters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Nurek Dam stands at 300 meters (984 feet) tall, making it one of the tallest dams in the world. It was surpassed by the Jinping-I Dam in China, which stands at 305 meters.",
+      "difficulty": "hard",
+      "category": "engineering"
+    }
+  ]
+}

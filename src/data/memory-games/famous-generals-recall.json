@@ -1,0 +1,219 @@
+{
+  "id": "famous-generals-recall",
+  "title": "Famous Generals Recall",
+  "description": "Test your knowledge of history's greatest military commanders!",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "famous-generals-recall-1",
+      "question": "Which American general commanded Allied forces on D-Day and later became president?",
+      "options": [
+        "Dwight D. Eisenhower",
+        "Douglas MacArthur",
+        "Omar Bradley",
+        "George Patton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dwight D. Eisenhower served as Supreme Commander of Allied forces in Europe and oversaw the D-Day invasion. He later became the 34th US President.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-2",
+      "question": "Which Confederate general was known as the greatest tactician of the American Civil War?",
+      "options": [
+        "James Longstreet",
+        "Stonewall Jackson",
+        "Robert E. Lee",
+        "J.E.B. Stuart"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Robert E. Lee commanded the Confederate Army of Northern Virginia and is widely regarded as one of the greatest military tacticians in American history.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-3",
+      "question": "Which French military leader crowned himself Emperor in 1804?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Charles de Gaulle",
+        "Marquis de Lafayette",
+        "Louis XIV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Napoleon Bonaparte crowned himself Emperor of France on December 2, 1804, at Notre-Dame Cathedral in Paris.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-4",
+      "question": "Which Union general accepted Robert E. Lee's surrender at Appomattox Court House?",
+      "options": [
+        "William Sherman",
+        "Ulysses S. Grant",
+        "George McClellan",
+        "Philip Sheridan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "General Ulysses S. Grant accepted Lee's surrender on April 9, 1865, effectively ending the American Civil War.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-5",
+      "question": "Which British general defeated Napoleon at the Battle of Waterloo?",
+      "options": [
+        "Bernard Montgomery",
+        "Duke of Wellington",
+        "Horatio Nelson",
+        "Duke of Marlborough"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Duke of Wellington (Arthur Wellesley) defeated Napoleon at Waterloo on June 18, 1815, ending Napoleon's Hundred Days return to power.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-6",
+      "question": "Which American general famously said 'I shall return' when leaving the Philippines in WWII?",
+      "options": [
+        "Dwight Eisenhower",
+        "Douglas MacArthur",
+        "George Patton",
+        "Chester Nimitz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "General Douglas MacArthur made this famous promise when ordered to leave the Philippines in 1942, and he fulfilled it by returning in 1944.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-7",
+      "question": "Which Mongol conqueror built the largest contiguous land empire in history?",
+      "options": [
+        "Tamerlane",
+        "Attila the Hun",
+        "Kublai Khan",
+        "Genghis Khan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Genghis Khan united the Mongol tribes and conquered vast territories stretching from China to Eastern Europe in the 13th century.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-8",
+      "question": "Which WWII American general was known as 'Old Blood and Guts'?",
+      "options": [
+        "George Patton",
+        "Mark Clark",
+        "Omar Bradley",
+        "Douglas MacArthur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "General George S. Patton earned the nickname 'Old Blood and Guts' for his aggressive and bold military leadership during World War II.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-9",
+      "question": "Which British field marshal led the Eighth Army to victory at El Alamein in 1942?",
+      "options": [
+        "Claude Auchinleck",
+        "Bernard Montgomery",
+        "Harold Alexander",
+        "Archibald Wavell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Field Marshal Bernard Montgomery ('Monty') led the British Eighth Army to a decisive victory over Rommel's Afrika Korps at El Alamein in 1942.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-10",
+      "question": "Which German general was known as 'The Desert Fox'?",
+      "options": [
+        "Friedrich Paulus",
+        "Erwin Rommel",
+        "Erich von Manstein",
+        "Heinz Guderian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Erwin Rommel earned the nickname 'The Desert Fox' for his cunning tactics commanding the Afrika Korps in North Africa during WWII.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-11",
+      "question": "Which ancient Roman general reformed the army and was elected consul seven times?",
+      "options": [
+        "Pompey the Great",
+        "Scipio Africanus",
+        "Lucius Sulla",
+        "Gaius Marius"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gaius Marius reformed the Roman army into a professional fighting force and was elected consul an unprecedented seven times.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-12",
+      "question": "Which French general led the Free French Forces during World War II?",
+      "options": [
+        "Charles de Gaulle",
+        "Jean de Lattre de Tassigny",
+        "Henri Giraud",
+        "Philippe Pétain"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Charles de Gaulle led the Free French Forces from London during WWII and later became President of France.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-13",
+      "question": "Which Soviet general led the defense of Stalingrad?",
+      "options": [
+        "Vasily Chuikov",
+        "Georgy Zhukov",
+        "Ivan Konev",
+        "Konstantin Rokossovsky"
+      ],
+      "correctAnswer": 0,
+      "explanation": "General Vasily Chuikov commanded the 62nd Army during the brutal defense of Stalingrad, fighting from building to building against the Germans.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-14",
+      "question": "Which Prussian general helped the Duke of Wellington at Waterloo?",
+      "options": [
+        "August von Gneisenau",
+        "Helmuth von Moltke",
+        "Carl von Clausewitz",
+        "Gebhard von Blücher"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gebhard Leberecht von Blücher led the Prussian army that arrived at Waterloo in time to help Wellington defeat Napoleon decisively.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "famous-generals-recall-15",
+      "question": "Which Roman general defeated Hannibal at the Battle of Zama in 202 BC?",
+      "options": [
+        "Scipio Africanus",
+        "Julius Caesar",
+        "Gaius Marius",
+        "Marcus Aurelius"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Scipio Africanus defeated Hannibal at the Battle of Zama, ending the Second Punic War and earning his honorary name 'Africanus.'",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}

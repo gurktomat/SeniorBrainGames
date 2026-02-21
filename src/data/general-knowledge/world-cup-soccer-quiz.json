@@ -1,0 +1,219 @@
+{
+  "id": "world-cup-soccer-quiz",
+  "title": "FIFA World Cup",
+  "description": "Test your knowledge of the FIFA World Cup, the world's biggest football tournament!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "world-cup-soccer-quiz-1",
+      "question": "Which country hosted and won the first FIFA World Cup in 1930?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Italy",
+        "Uruguay"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final in Montevideo.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-2",
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Brazil",
+        "Argentina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brazil has won the FIFA World Cup a record five times (1958, 1962, 1970, 1994, 2002), more than any other nation.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-3",
+      "question": "Who holds the record for most goals scored in a single World Cup tournament?",
+      "options": [
+        "Pele",
+        "Miroslav Klose",
+        "Gerd Muller",
+        "Just Fontaine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Just Fontaine of France scored 13 goals in the 1958 World Cup in Sweden, a record that still stands. He achieved this feat in just 6 matches.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-4",
+      "question": "Which was the first World Cup to use the penalty shootout to decide matches?",
+      "options": [
+        "1982 Spain",
+        "1978 Argentina",
+        "1986 Mexico",
+        "1970 Mexico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 1982 World Cup in Spain was the first to use penalty shootouts to decide knockout matches. The first shootout occurred in the semi-final between West Germany and France.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-5",
+      "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+      "options": [
+        "Pele",
+        "Zinedine Zidane",
+        "Diego Maradona",
+        "Ronaldo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diego Maradona of Argentina scored the infamous 'Hand of God' goal against England in the 1986 World Cup quarter-final, using his hand to punch the ball into the net.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-6",
+      "question": "Which country won the 2018 FIFA World Cup held in Russia?",
+      "options": [
+        "Belgium",
+        "France",
+        "Croatia",
+        "Brazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "France won the 2018 World Cup, defeating Croatia 4-2 in the final in Moscow. It was France's second World Cup title after their first win in 1998.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-7",
+      "question": "Who is the all-time leading scorer in FIFA World Cup history?",
+      "options": [
+        "Miroslav Klose",
+        "Ronaldo (Brazil)",
+        "Gerd Muller",
+        "Pele"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Germany's Miroslav Klose holds the all-time World Cup scoring record with 16 goals, scored across four tournaments (2002, 2006, 2010, 2014).",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-8",
+      "question": "What happened in the 1950 World Cup final that shocked the football world?",
+      "options": [
+        "Italy beat Brazil",
+        "Uruguay beat Brazil",
+        "Spain beat Argentina",
+        "Germany beat England"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the 1950 World Cup, Uruguay defeated heavily favored Brazil 2-1 in the decisive match at the Maracana in Rio de Janeiro, an event known as the 'Maracanazo.'",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-9",
+      "question": "Which player received a red card in the 2006 World Cup final for a headbutt?",
+      "options": [
+        "Marco Materazzi",
+        "Fabio Cannavaro",
+        "Zinedine Zidane",
+        "Thierry Henry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zinedine Zidane of France headbutted Italy's Marco Materazzi in the chest during the 2006 World Cup final, receiving a red card in what was the last match of his career.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-10",
+      "question": "Which was the first Asian country to host a FIFA World Cup?",
+      "options": [
+        "South Korea",
+        "Both Japan and South Korea",
+        "Japan",
+        "China"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 2002 World Cup was co-hosted by Japan and South Korea, making it the first World Cup held in Asia and the first to be hosted by two countries.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-11",
+      "question": "How often is the FIFA World Cup held?",
+      "options": [
+        "Every 2 years",
+        "Every 4 years",
+        "Every 3 years",
+        "Every 5 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The FIFA World Cup is held every four years. It was not held in 1942 and 1946 due to World War II.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-12",
+      "question": "Which country won the first FIFA Women's World Cup in 1991?",
+      "options": [
+        "Germany",
+        "Sweden",
+        "United States",
+        "Norway"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The United States won the first FIFA Women's World Cup held in China in 1991, defeating Norway 2-1 in the final.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-13",
+      "question": "What is the name of the current FIFA World Cup trophy?",
+      "options": [
+        "The FIFA World Cup Trophy",
+        "The Golden Globe",
+        "The Jules Rimet Trophy",
+        "The Victory Cup"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The current trophy is officially called the FIFA World Cup Trophy. It replaced the Jules Rimet Trophy after Brazil won it permanently in 1970 with their third title.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-14",
+      "question": "Which country won the 2022 FIFA World Cup in Qatar?",
+      "options": [
+        "France",
+        "Croatia",
+        "Argentina",
+        "Brazil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Argentina won the 2022 World Cup in Qatar, defeating France on penalties in what many consider the greatest World Cup final ever played. Lionel Messi scored twice in the final.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": "world-cup-soccer-quiz-15",
+      "question": "Which player has appeared in the most FIFA World Cup matches?",
+      "options": [
+        "Lothar Matthaus",
+        "Paolo Maldini",
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Germany's Lothar Matthaus holds the record for the most World Cup appearances with 25 matches across five tournaments (1982-1998).",
+      "difficulty": "hard",
+      "category": "sports"
+    }
+  ]
+}

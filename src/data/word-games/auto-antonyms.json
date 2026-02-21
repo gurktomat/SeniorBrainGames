@@ -7,92 +7,167 @@
     {
       "id": "auto-antonyms-1",
       "question": "The word 'cleave' can mean to split apart OR to do what?",
-      "options": ["Run away", "Cling together", "Break down", "Stand still"],
-      "correctAnswer": 1
+      "options": [
+        "Stand still",
+        "Break down",
+        "Run away",
+        "Cling together"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "auto-antonyms-2",
       "question": "The word 'sanction' can mean to give official approval OR to do what?",
-      "options": ["Celebrate", "Impose a penalty", "Request permission", "Ignore completely"],
-      "correctAnswer": 1
+      "options": [
+        "Ignore completely",
+        "Request permission",
+        "Impose a penalty",
+        "Celebrate"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "auto-antonyms-3",
       "question": "When you 'dust' a cake, you add powder. But when you 'dust' furniture, you do what?",
-      "options": ["Add polish", "Remove particles", "Paint it", "Cover it up"],
-      "correctAnswer": 1
+      "options": [
+        "Add polish",
+        "Cover it up",
+        "Paint it",
+        "Remove particles"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "auto-antonyms-4",
       "question": "The word 'oversight' can mean careful supervision OR what?",
-      "options": ["A mistake or omission", "An inspection", "A promotion", "A viewpoint"],
-      "correctAnswer": 0
+      "options": [
+        "A viewpoint",
+        "A promotion",
+        "An inspection",
+        "A mistake or omission"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "auto-antonyms-5",
       "question": "'To buckle' can mean to fasten securely. What is its opposite meaning?",
-      "options": ["To shine brightly", "To collapse or give way", "To run quickly", "To stand firm"],
-      "correctAnswer": 1
+      "options": [
+        "To run quickly",
+        "To stand firm",
+        "To collapse or give way",
+        "To shine brightly"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "auto-antonyms-6",
       "question": "If you 'clip' something, you might attach it. But 'clip' can also mean what?",
-      "options": ["To bend", "To polish", "To cut off", "To glue together"],
-      "correctAnswer": 2
+      "options": [
+        "To bend",
+        "To glue together",
+        "To polish",
+        "To cut off"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "auto-antonyms-7",
       "question": "'To seed' a lawn means to add seeds. In cooking, 'to seed' a pepper means what?",
-      "options": ["To plant it", "To cook it", "To remove the seeds", "To add spices"],
+      "options": [
+        "To plant it",
+        "To cook it",
+        "To remove the seeds",
+        "To add spices"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "auto-antonyms-8",
       "question": "'Left' can mean remaining (what's left). It can also mean what?",
-      "options": ["Arrived", "Departed or gone", "Stayed behind", "Waited patiently"],
+      "options": [
+        "Waited patiently",
+        "Departed or gone",
+        "Arrived",
+        "Stayed behind"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "auto-antonyms-9",
       "question": "The word 'fast' can mean moving quickly. As an auto-antonym, it also means what?",
-      "options": ["Slow", "Fixed firmly in place", "Broken apart", "Lightweight"],
-      "correctAnswer": 1
+      "options": [
+        "Slow",
+        "Broken apart",
+        "Fixed firmly in place",
+        "Lightweight"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "auto-antonyms-10",
       "question": "'To screen' can mean to show (a film). What is its opposite meaning?",
-      "options": ["To hide or conceal", "To enlarge", "To brighten", "To record"],
+      "options": [
+        "To hide or conceal",
+        "To record",
+        "To brighten",
+        "To enlarge"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "auto-antonyms-11",
       "question": "'Weather' can mean to endure something. It can also mean what?",
-      "options": ["To strengthen", "To predict", "To wear away or erode", "To shelter from"],
-      "correctAnswer": 2
+      "options": [
+        "To wear away or erode",
+        "To strengthen",
+        "To shelter from",
+        "To predict"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "auto-antonyms-12",
       "question": "The word 'trim' can mean to add decorations (trim a tree). It also means what?",
-      "options": ["To expand", "To cut away excess", "To paint over", "To wrap up"],
+      "options": [
+        "To paint over",
+        "To cut away excess",
+        "To wrap up",
+        "To expand"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "auto-antonyms-13",
       "question": "'To rent' can mean to pay to use something. For a landlord, 'to rent' means what?",
-      "options": ["To demolish", "To purchase", "To allow use in exchange for payment", "To renovate"],
+      "options": [
+        "To purchase",
+        "To renovate",
+        "To allow use in exchange for payment",
+        "To demolish"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "auto-antonyms-14",
       "question": "'Bound' can mean heading toward a destination. As an auto-antonym, it also means what?",
-      "options": ["Free to roam", "Tied up or restricted", "Lost completely", "Moving backwards"],
+      "options": [
+        "Free to roam",
+        "Tied up or restricted",
+        "Moving backwards",
+        "Lost completely"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "auto-antonyms-15",
       "question": "The word 'resigned' can mean quit a position. It can also describe someone who is what?",
-      "options": ["Enthusiastic and eager", "Reluctantly accepting", "Angry and defiant", "Newly appointed"],
-      "correctAnswer": 1
+      "options": [
+        "Angry and defiant",
+        "Enthusiastic and eager",
+        "Newly appointed",
+        "Reluctantly accepting"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

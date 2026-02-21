@@ -1,0 +1,173 @@
+{
+  "id": "famous-laboratories-quiz",
+  "title": "Famous Laboratories",
+  "description": "Explore the world's most renowned research labs where groundbreaking discoveries were made",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "famous-laboratories-quiz-1",
+      "question": "CERN, home to the Large Hadron Collider, is located near the border of which two countries?",
+      "options": [
+        "France and Switzerland",
+        "Belgium and Netherlands",
+        "Italy and Slovenia",
+        "Germany and Austria"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-laboratories-quiz-2",
+      "question": "What particle was discovered at CERN in 2012, confirming a key part of the Standard Model?",
+      "options": [
+        "Higgs boson",
+        "Neutrino",
+        "Quark",
+        "Graviton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-laboratories-quiz-3",
+      "question": "Bell Labs, responsible for many Nobel Prize-winning discoveries, was originally part of which company?",
+      "options": [
+        "AT&T",
+        "IBM",
+        "Westinghouse",
+        "General Electric"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-laboratories-quiz-4",
+      "question": "What was invented at Bell Labs in 1947, revolutionizing electronics?",
+      "options": [
+        "The integrated circuit",
+        "The transistor",
+        "The microprocessor",
+        "The vacuum tube"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-laboratories-quiz-5",
+      "question": "Los Alamos National Laboratory in New Mexico was originally established for what purpose?",
+      "options": [
+        "Medical research",
+        "Space research",
+        "Studying earthquakes",
+        "Developing the atomic bomb"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-6",
+      "question": "NASA's Jet Propulsion Laboratory (JPL) is managed by which university?",
+      "options": [
+        "MIT",
+        "UC Berkeley",
+        "Caltech",
+        "Stanford University"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-laboratories-quiz-7",
+      "question": "The Cavendish Laboratory at which British university has produced 30 Nobel Prize winners?",
+      "options": [
+        "Oxford",
+        "Cambridge",
+        "Imperial College London",
+        "University of Edinburgh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "famous-laboratories-quiz-8",
+      "question": "Fermilab, a major particle physics laboratory, is located near which American city?",
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Boston",
+        "Chicago"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-9",
+      "question": "Thomas Edison's famous laboratory was located in which New Jersey town?",
+      "options": [
+        "Trenton",
+        "Newark",
+        "Princeton",
+        "Menlo Park"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-10",
+      "question": "The Pasteur Institute, a leading biomedical research center, is located in which city?",
+      "options": [
+        "Geneva",
+        "London",
+        "Paris",
+        "Berlin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "famous-laboratories-quiz-11",
+      "question": "What was Marie Curie's laboratory famous for researching?",
+      "options": [
+        "Genetics",
+        "Astronomy",
+        "Bacteriology",
+        "Radioactivity"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-12",
+      "question": "Xerox PARC, a research center in Palo Alto, pioneered which technology in the 1970s?",
+      "options": [
+        "The graphical user interface",
+        "The internet",
+        "Email",
+        "The mobile phone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "famous-laboratories-quiz-13",
+      "question": "MIT's Lincoln Laboratory is primarily known for research in what field?",
+      "options": [
+        "Marine biology",
+        "Renewable energy",
+        "Agricultural science",
+        "Advanced electronics and defense technology"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-14",
+      "question": "The Max Planck Society operates over 80 research institutes primarily in which country?",
+      "options": [
+        "Netherlands",
+        "Austria",
+        "Switzerland",
+        "Germany"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "famous-laboratories-quiz-15",
+      "question": "Sandia National Laboratories focuses primarily on what type of research?",
+      "options": [
+        "Marine biology",
+        "Space exploration",
+        "National security and nuclear weapons",
+        "Climate change"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

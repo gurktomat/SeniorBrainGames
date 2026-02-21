@@ -7,8 +7,13 @@
     {
       "id": "bible-1",
       "question": "According to the Book of Genesis, what did God create on the first day?",
-      "options": ["The sky and seas", "Light", "Animals", "Plants and trees"],
-      "correctAnswer": 1,
+      "options": [
+        "Animals",
+        "The sky and seas",
+        "Light",
+        "Plants and trees"
+      ],
+      "correctAnswer": 2,
       "explanation": "In Genesis 1:3, God said 'Let there be light,' and there was light. This was the very first act of creation.",
       "difficulty": "easy",
       "category": "religion"
@@ -16,8 +21,13 @@
     {
       "id": "bible-2",
       "question": "Who was swallowed by a great fish after trying to flee from God's command?",
-      "options": ["Moses", "Jonah", "Elijah", "Daniel"],
-      "correctAnswer": 1,
+      "options": [
+        "Moses",
+        "Daniel",
+        "Jonah",
+        "Elijah"
+      ],
+      "correctAnswer": 2,
       "explanation": "In the Book of Jonah, God told Jonah to go to Nineveh, but Jonah tried to flee by sea. God sent a great fish that swallowed Jonah for three days and three nights.",
       "difficulty": "easy",
       "category": "religion"
@@ -25,8 +35,13 @@
     {
       "id": "bible-3",
       "question": "Which famous hymn begins with the words 'Amazing grace, how sweet the sound'?",
-      "options": ["How Great Thou Art", "Amazing Grace", "Rock of Ages", "Blessed Assurance"],
-      "correctAnswer": 1,
+      "options": [
+        "How Great Thou Art",
+        "Rock of Ages",
+        "Amazing Grace",
+        "Blessed Assurance"
+      ],
+      "correctAnswer": 2,
       "explanation": "Amazing Grace was written by John Newton in 1772. Newton was a former slave trader who underwent a spiritual conversion and became a clergyman.",
       "difficulty": "easy",
       "category": "religion"
@@ -34,8 +49,13 @@
     {
       "id": "bible-4",
       "question": "How many disciples did Jesus choose?",
-      "options": ["7", "10", "12", "14"],
-      "correctAnswer": 2,
+      "options": [
+        "7",
+        "12",
+        "10",
+        "14"
+      ],
+      "correctAnswer": 1,
       "explanation": "Jesus chose 12 disciples (also called apostles): Peter, Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot.",
       "difficulty": "easy",
       "category": "religion"
@@ -43,7 +63,12 @@
     {
       "id": "bible-5",
       "question": "In the story of David and Goliath, what weapon did David use to defeat the giant?",
-      "options": ["A sword", "A spear", "A sling and a stone", "A bow and arrow"],
+      "options": [
+        "A bow and arrow",
+        "A spear",
+        "A sling and a stone",
+        "A sword"
+      ],
       "correctAnswer": 2,
       "explanation": "In 1 Samuel 17, the young shepherd David defeated the Philistine giant Goliath with a sling and a single smooth stone, striking him in the forehead.",
       "difficulty": "easy",
@@ -52,8 +77,13 @@
     {
       "id": "bible-6",
       "question": "The hymn 'How Great Thou Art' was originally written in which language?",
-      "options": ["English", "German", "Swedish", "Latin"],
-      "correctAnswer": 2,
+      "options": [
+        "Swedish",
+        "Latin",
+        "German",
+        "English"
+      ],
+      "correctAnswer": 0,
       "explanation": "How Great Thou Art was originally a Swedish hymn ('O Store Gud') written by Carl Boberg in 1885. It was later translated into English by Stuart K. Hine in 1949.",
       "difficulty": "medium",
       "category": "religion"
@@ -61,8 +91,13 @@
     {
       "id": "bible-7",
       "question": "According to Genesis, how old was Noah when the great flood began?",
-      "options": ["200 years old", "400 years old", "600 years old", "900 years old"],
-      "correctAnswer": 2,
+      "options": [
+        "200 years old",
+        "600 years old",
+        "900 years old",
+        "400 years old"
+      ],
+      "correctAnswer": 1,
       "explanation": "Genesis 7:6 states that Noah was 600 years old when the floodwaters came upon the earth. According to the Bible, Noah lived to be 950 years old.",
       "difficulty": "hard",
       "category": "religion"
@@ -70,8 +105,13 @@
     {
       "id": "bible-8",
       "question": "Which psalm begins with the words 'The Lord is my shepherd; I shall not want'?",
-      "options": ["Psalm 1", "Psalm 19", "Psalm 23", "Psalm 91"],
-      "correctAnswer": 2,
+      "options": [
+        "Psalm 19",
+        "Psalm 23",
+        "Psalm 1",
+        "Psalm 91"
+      ],
+      "correctAnswer": 1,
       "explanation": "Psalm 23, attributed to King David, is one of the most beloved passages in the Bible. It portrays God as a caring shepherd who provides for and protects His flock.",
       "difficulty": "medium",
       "category": "religion"
@@ -79,7 +119,12 @@
     {
       "id": "bible-9",
       "question": "Who wrote the hymn 'Blessed Assurance'?",
-      "options": ["Charles Wesley", "Isaac Watts", "Fanny Crosby", "John Newton"],
+      "options": [
+        "Isaac Watts",
+        "John Newton",
+        "Fanny Crosby",
+        "Charles Wesley"
+      ],
       "correctAnswer": 2,
       "explanation": "Blessed Assurance was written by Fanny Crosby in 1873, with music by Phoebe Knapp. Fanny Crosby, who was blind from infancy, wrote over 8,000 hymns during her lifetime.",
       "difficulty": "medium",
@@ -88,8 +133,13 @@
     {
       "id": "bible-10",
       "question": "In the New Testament, what miracle did Jesus perform at the wedding in Cana?",
-      "options": ["Healed a blind man", "Turned water into wine", "Walked on water", "Multiplied loaves and fishes"],
-      "correctAnswer": 1,
+      "options": [
+        "Turned water into wine",
+        "Walked on water",
+        "Multiplied loaves and fishes",
+        "Healed a blind man"
+      ],
+      "correctAnswer": 0,
       "explanation": "In John 2:1-11, turning water into wine at the wedding in Cana was Jesus' first recorded miracle. He instructed servants to fill six stone jars with water, which became fine wine.",
       "difficulty": "medium",
       "category": "religion"
@@ -97,7 +147,12 @@
     {
       "id": "bible-11",
       "question": "The hymn 'It Is Well with My Soul' was written by Horatio Spafford after what personal tragedy?",
-      "options": ["The death of his wife", "The loss of his four daughters at sea", "A devastating fire", "A severe illness"],
+      "options": [
+        "A severe illness",
+        "The loss of his four daughters at sea",
+        "The death of his wife",
+        "A devastating fire"
+      ],
       "correctAnswer": 1,
       "explanation": "Horatio Spafford wrote this hymn in 1873 after his four daughters perished when the ship SS Ville du Havre sank in the Atlantic Ocean. His wife survived and sent him a telegram: 'Saved alone.'",
       "difficulty": "hard",
@@ -106,8 +161,13 @@
     {
       "id": "bible-12",
       "question": "According to the Book of Exodus, how many plagues did God send upon Egypt?",
-      "options": ["7", "10", "12", "15"],
-      "correctAnswer": 1,
+      "options": [
+        "12",
+        "7",
+        "10",
+        "15"
+      ],
+      "correctAnswer": 2,
       "explanation": "God sent 10 plagues upon Egypt to convince Pharaoh to release the Israelites from slavery. They included water turned to blood, frogs, gnats, flies, livestock disease, boils, hail, locusts, darkness, and the death of the firstborn.",
       "difficulty": "hard",
       "category": "religion"
@@ -115,7 +175,12 @@
     {
       "id": "bible-13",
       "question": "Which book of the Bible contains the verse 'For God so loved the world, that he gave his only begotten Son'?",
-      "options": ["Matthew", "Mark", "John", "Romans"],
+      "options": [
+        "Romans",
+        "Mark",
+        "John",
+        "Matthew"
+      ],
       "correctAnswer": 2,
       "explanation": "John 3:16 is one of the most widely quoted verses in the Bible. It summarizes the core message of the Christian gospel in a single sentence.",
       "difficulty": "medium",
@@ -124,7 +189,12 @@
     {
       "id": "bible-14",
       "question": "The classic hymn 'Rock of Ages' was written by which author in 1763?",
-      "options": ["Augustus Toplady", "Charles Wesley", "Isaac Watts", "William Cowper"],
+      "options": [
+        "Augustus Toplady",
+        "Isaac Watts",
+        "William Cowper",
+        "Charles Wesley"
+      ],
       "correctAnswer": 0,
       "explanation": "Rock of Ages was written by Anglican clergyman Augustus Toplady in 1763. The hymn uses the metaphor of a rock as a place of shelter, reflecting Toplady's Calvinist theology.",
       "difficulty": "hard",
@@ -133,8 +203,13 @@
     {
       "id": "bible-15",
       "question": "In the Book of Daniel, how many men were thrown into the fiery furnace by King Nebuchadnezzar?",
-      "options": ["1", "2", "3", "4"],
-      "correctAnswer": 2,
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "correctAnswer": 3,
       "explanation": "In Daniel 3, three men — Shadrach, Meshach, and Abednego — were thrown into the fiery furnace for refusing to worship King Nebuchadnezzar's golden statue. They emerged unharmed, and a fourth figure was seen walking with them in the flames.",
       "difficulty": "hard",
       "category": "religion"

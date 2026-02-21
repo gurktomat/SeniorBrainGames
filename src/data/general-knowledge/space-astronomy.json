@@ -7,7 +7,12 @@
     {
       "id": "space-1",
       "question": "How many planets are there in our solar system?",
-      "options": ["7", "8", "9", "10"],
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
       "correctAnswer": 1,
       "explanation": "There are 8 planets in our solar system. Pluto was reclassified as a 'dwarf planet' by the International Astronomical Union in 2006.",
       "difficulty": "easy",
@@ -16,8 +21,13 @@
     {
       "id": "space-2",
       "question": "Who was the first person to walk on the Moon?",
-      "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Yuri Gagarin"],
-      "correctAnswer": 2,
+      "options": [
+        "John Glenn",
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Neil Armstrong"
+      ],
+      "correctAnswer": 3,
       "explanation": "Neil Armstrong took humanity's first steps on the Moon on July 20, 1969, during the Apollo 11 mission, famously saying 'That's one small step for man, one giant leap for mankind.'",
       "difficulty": "easy",
       "category": "science"
@@ -25,8 +35,13 @@
     {
       "id": "space-3",
       "question": "What does a light year measure?",
-      "options": ["Time", "Brightness", "Distance", "Speed"],
-      "correctAnswer": 2,
+      "options": [
+        "Distance",
+        "Speed",
+        "Brightness",
+        "Time"
+      ],
+      "correctAnswer": 0,
       "explanation": "A light year is the distance that light travels in one year — about 5.88 trillion miles. It's used to measure the vast distances between stars and galaxies.",
       "difficulty": "medium",
       "category": "science"
@@ -34,8 +49,13 @@
     {
       "id": "space-4",
       "question": "Which is the largest planet in our solar system?",
-      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
-      "correctAnswer": 2,
+      "options": [
+        "Uranus",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
       "explanation": "Jupiter is so massive that more than 1,300 Earths could fit inside it. Its Great Red Spot is a storm that has been raging for at least 350 years.",
       "difficulty": "easy",
       "category": "science"
@@ -43,8 +63,13 @@
     {
       "id": "space-5",
       "question": "The Sun is primarily composed of which element?",
-      "options": ["Oxygen", "Carbon", "Helium", "Hydrogen"],
-      "correctAnswer": 3,
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Helium",
+        "Carbon"
+      ],
+      "correctAnswer": 1,
       "explanation": "The Sun is about 73% hydrogen and 25% helium. It converts roughly 600 million tons of hydrogen into helium every second through nuclear fusion.",
       "difficulty": "medium",
       "category": "science"
@@ -52,8 +77,13 @@
     {
       "id": "space-6",
       "question": "What type of galaxy is the Milky Way?",
-      "options": ["Elliptical", "Irregular", "Spiral", "Lenticular"],
-      "correctAnswer": 2,
+      "options": [
+        "Spiral",
+        "Elliptical",
+        "Lenticular",
+        "Irregular"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Milky Way is a barred spiral galaxy containing an estimated 100 to 400 billion stars. Our solar system is located on one of its spiral arms.",
       "difficulty": "medium",
       "category": "science"
@@ -61,8 +91,13 @@
     {
       "id": "space-7",
       "question": "The Hubble Space Telescope was launched into orbit in which year?",
-      "options": ["1985", "1990", "1995", "2000"],
-      "correctAnswer": 1,
+      "options": [
+        "2000",
+        "1985",
+        "1995",
+        "1990"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Hubble Space Telescope was launched on April 24, 1990, aboard the Space Shuttle Discovery. It has captured some of the most iconic images of deep space ever seen.",
       "difficulty": "hard",
       "category": "science"
@@ -70,8 +105,13 @@
     {
       "id": "space-8",
       "question": "Approximately how many people can live aboard the International Space Station at one time?",
-      "options": ["3", "6", "10", "15"],
-      "correctAnswer": 1,
+      "options": [
+        "6",
+        "10",
+        "3",
+        "15"
+      ],
+      "correctAnswer": 0,
       "explanation": "The ISS typically houses a crew of 6 astronauts. It orbits Earth about every 90 minutes at an altitude of roughly 250 miles, meaning the crew sees 16 sunrises per day.",
       "difficulty": "medium",
       "category": "science"
@@ -79,7 +119,12 @@
     {
       "id": "space-9",
       "question": "What happens at the center of a black hole?",
-      "options": ["A white dwarf forms", "A singularity exists where gravity is infinite", "Light is produced", "New stars are born"],
+      "options": [
+        "A white dwarf forms",
+        "A singularity exists where gravity is infinite",
+        "Light is produced",
+        "New stars are born"
+      ],
       "correctAnswer": 1,
       "explanation": "At the center of a black hole lies a singularity, a point of theoretically infinite density. Not even light can escape a black hole's gravitational pull.",
       "difficulty": "medium",
@@ -88,8 +133,13 @@
     {
       "id": "space-10",
       "question": "Which NASA rover, launched in 2020, is currently exploring Mars?",
-      "options": ["Spirit", "Opportunity", "Curiosity", "Perseverance"],
-      "correctAnswer": 3,
+      "options": [
+        "Perseverance",
+        "Spirit",
+        "Curiosity",
+        "Opportunity"
+      ],
+      "correctAnswer": 0,
       "explanation": "Perseverance landed on Mars in February 2021 to search for signs of ancient microbial life. It also carried Ingenuity, the first helicopter to fly on another planet.",
       "difficulty": "medium",
       "category": "science"
@@ -97,8 +147,13 @@
     {
       "id": "space-11",
       "question": "In what year was Pluto reclassified from a planet to a dwarf planet?",
-      "options": ["2000", "2003", "2006", "2009"],
-      "correctAnswer": 2,
+      "options": [
+        "2003",
+        "2009",
+        "2000",
+        "2006"
+      ],
+      "correctAnswer": 3,
       "explanation": "The International Astronomical Union reclassified Pluto in 2006 because it hasn't 'cleared the neighborhood' around its orbit — one of the three criteria for full planet status.",
       "difficulty": "hard",
       "category": "science"
@@ -106,8 +161,13 @@
     {
       "id": "space-12",
       "question": "What is the nearest star to Earth, besides the Sun?",
-      "options": ["Sirius", "Alpha Centauri", "Betelgeuse", "Polaris"],
-      "correctAnswer": 1,
+      "options": [
+        "Sirius",
+        "Polaris",
+        "Alpha Centauri",
+        "Betelgeuse"
+      ],
+      "correctAnswer": 2,
       "explanation": "The Alpha Centauri system is about 4.37 light years away. Specifically, Proxima Centauri, a small red dwarf in the system, is the closest at 4.24 light years.",
       "difficulty": "hard",
       "category": "science"
@@ -115,7 +175,12 @@
     {
       "id": "space-13",
       "question": "The asteroid belt in our solar system is located between which two planets?",
-      "options": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Saturn and Uranus"],
+      "options": [
+        "Saturn and Uranus",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Earth and Mars"
+      ],
       "correctAnswer": 1,
       "explanation": "The asteroid belt sits between Mars and Jupiter. It contains millions of rocky objects, though the total mass is less than 4% of Earth's Moon.",
       "difficulty": "easy",
@@ -124,8 +189,13 @@
     {
       "id": "space-14",
       "question": "What are Saturn's famous rings primarily made of?",
-      "options": ["Gas and dust", "Solid rock", "Ice and rock particles", "Liquid metal"],
-      "correctAnswer": 2,
+      "options": [
+        "Gas and dust",
+        "Solid rock",
+        "Liquid metal",
+        "Ice and rock particles"
+      ],
+      "correctAnswer": 3,
       "explanation": "Saturn's rings are mostly composed of ice particles and rocky debris ranging from tiny grains to chunks as large as houses. The rings span up to 282,000 km wide but are remarkably thin.",
       "difficulty": "easy",
       "category": "science"
@@ -133,7 +203,12 @@
     {
       "id": "space-15",
       "question": "The Big Bang theory describes what event?",
-      "options": ["The formation of the Sun", "The origin and expansion of the universe", "The collision of two galaxies", "The birth of a star"],
+      "options": [
+        "The birth of a star",
+        "The origin and expansion of the universe",
+        "The collision of two galaxies",
+        "The formation of the Sun"
+      ],
       "correctAnswer": 1,
       "explanation": "The Big Bang theory states that the universe began as a singularity approximately 13.8 billion years ago and has been expanding ever since. It remains the leading scientific explanation for the origin of the universe.",
       "difficulty": "hard",

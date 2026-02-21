@@ -8,10 +8,10 @@
       "id": "retro-drive-in-movies-1",
       "question": "What year did the first drive-in movie theater open in Camden, New Jersey?",
       "options": [
-        "1928",
+        "1945",
         "1933",
         "1939",
-        "1945"
+        "1928"
       ],
       "correctAnswer": 1
     },
@@ -19,42 +19,42 @@
       "id": "retro-drive-in-movies-2",
       "question": "Who is credited with opening the first drive-in theater in the United States?",
       "options": [
-        "Walt Disney",
         "Richard Hollingshead Jr.",
         "Samuel Goldwyn",
-        "Louis B. Mayer"
+        "Louis B. Mayer",
+        "Walt Disney"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "retro-drive-in-movies-3",
       "question": "During which decade did drive-in theaters reach their peak popularity in America?",
       "options": [
-        "1940s",
-        "1950s",
+        "1970s",
         "1960s",
-        "1970s"
+        "1950s",
+        "1940s"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-movies-4",
       "question": "What was the approximate peak number of drive-in theaters operating in the U.S. during the late 1950s?",
       "options": [
         "About 1,000",
+        "About 7,000",
         "About 2,000",
-        "About 4,000",
-        "About 7,000"
+        "About 4,000"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-movies-5",
       "question": "How did early drive-in theaters deliver sound to the audience before in-car speakers?",
       "options": [
-        "Headphones at each parking spot",
-        "Large outdoor speakers on poles",
         "Wired earbuds from the concession stand",
+        "Large outdoor speakers on poles",
+        "Headphones at each parking spot",
         "Portable transistor radios"
       ],
       "correctAnswer": 1
@@ -65,8 +65,8 @@
       "options": [
         "Cotton candy",
         "Popcorn",
-        "Funnel cakes",
-        "Soft pretzels"
+        "Soft pretzels",
+        "Funnel cakes"
       ],
       "correctAnswer": 1
     },
@@ -74,54 +74,54 @@
       "id": "retro-drive-in-movies-7",
       "question": "Which classic 1978 movie featured a memorable drive-in movie scene with Danny and Sandy?",
       "options": [
+        "American Graffiti",
         "Saturday Night Fever",
         "Grease",
-        "American Graffiti",
         "The Outsiders"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-movies-8",
       "question": "What animated character often appeared in drive-in intermission ads, dancing toward the concession stand?",
       "options": [
-        "A singing hot dog",
-        "A dancing popcorn box",
+        "A tap-dancing soda cup",
         "A waving candy bar",
-        "A tap-dancing soda cup"
+        "A singing hot dog",
+        "A dancing popcorn box"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-movies-9",
       "question": "What type of low-budget horror and sci-fi films were commonly shown at drive-ins?",
       "options": [
         "A-list features",
-        "B movies",
+        "Documentaries",
         "Silent films",
-        "Documentaries"
+        "B movies"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-movies-10",
       "question": "What 1958 sci-fi horror film starring Steve McQueen became a drive-in classic?",
       "options": [
+        "Attack of the 50 Foot Woman",
         "The Fly",
         "The Blob",
-        "Invasion of the Body Snatchers",
-        "Attack of the 50 Foot Woman"
+        "Invasion of the Body Snatchers"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-movies-11",
       "question": "Drive-in theaters were often nicknamed what affectionate term by families?",
       "options": [
-        "Star theaters",
+        "Car-side shows",
         "Passion pits",
         "Moon cinemas",
-        "Car-side shows"
+        "Star theaters"
       ],
       "correctAnswer": 1
     },
@@ -129,10 +129,10 @@
       "id": "retro-drive-in-movies-12",
       "question": "What technology eventually replaced the large pole-mounted speakers at drive-in theaters?",
       "options": [
-        "Bluetooth speakers",
+        "Satellite radio",
         "Individual in-car speakers on posts",
-        "FM radio transmission",
-        "Satellite radio"
+        "Bluetooth speakers",
+        "FM radio transmission"
       ],
       "correctAnswer": 1
     },
@@ -140,34 +140,34 @@
       "id": "retro-drive-in-movies-13",
       "question": "Which 1973 George Lucas film is set partly at a drive-in and celebrates 1960s car culture?",
       "options": [
-        "THX 1138",
-        "American Graffiti",
         "Star Wars",
-        "The Rain People"
+        "The Rain People",
+        "American Graffiti",
+        "THX 1138"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "retro-drive-in-movies-14",
       "question": "What major economic factor contributed to the decline of drive-in theaters in the 1970s and 1980s?",
       "options": [
-        "Rising land values and real estate development",
         "A national movie boycott",
         "Government regulations banning outdoor screens",
-        "Lack of new films being produced"
+        "Lack of new films being produced",
+        "Rising land values and real estate development"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "retro-drive-in-movies-15",
       "question": "What time of year were drive-in theaters typically most popular?",
       "options": [
-        "Winter holidays",
-        "Spring break",
         "Summer months",
-        "Fall harvest season"
+        "Fall harvest season",
+        "Winter holidays",
+        "Spring break"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     }
   ]
 }

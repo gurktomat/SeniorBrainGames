@@ -1,0 +1,173 @@
+{
+  "id": "world-soups-quiz",
+  "title": "World Soups Quiz",
+  "description": "Travel the globe through its soups and stews — from French onion to Japanese miso!",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "world-soups-quiz-1",
+      "question": "Which country is famous for its traditional French onion soup, typically topped with melted Gruyère cheese?",
+      "options": [
+        "Switzerland",
+        "France",
+        "Italy",
+        "Belgium"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-2",
+      "question": "Miso soup is a staple of which cuisine?",
+      "options": [
+        "Korean",
+        "Thai",
+        "Japanese",
+        "Chinese"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-soups-quiz-3",
+      "question": "What is the main ingredient in the cold Spanish soup called gazpacho?",
+      "options": [
+        "Tomato",
+        "Avocado",
+        "Bell pepper",
+        "Cucumber"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-soups-quiz-4",
+      "question": "Tom Yum is a hot and sour soup that originated in which country?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia",
+        "Malaysia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-5",
+      "question": "Which Italian soup features bread, beans, and vegetables, and is sometimes called 'ribollita'?",
+      "options": [
+        "Stracciatella",
+        "Tuscan bread soup",
+        "Pasta e fagioli",
+        "Minestrone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-6",
+      "question": "Borscht is a beetroot soup that is a traditional dish of which Eastern European cuisine?",
+      "options": [
+        "Polish",
+        "Ukrainian",
+        "Hungarian",
+        "Romanian"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-7",
+      "question": "Pho is a fragrant noodle soup that is the national dish of which country?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Laos",
+        "Cambodia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "world-soups-quiz-8",
+      "question": "Which creamy American soup is traditionally made with clams and potatoes?",
+      "options": [
+        "Gumbo",
+        "Chowder",
+        "Bisque",
+        "Cioppino"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-9",
+      "question": "Mulligatawny soup has its origins in which country's cuisine?",
+      "options": [
+        "Sri Lanka",
+        "Pakistan",
+        "India",
+        "Bangladesh"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-soups-quiz-10",
+      "question": "Which Hungarian soup is famous for its rich paprika-flavored broth?",
+      "options": [
+        "Solyanka",
+        "Goulash",
+        "Ciorba",
+        "Borscht"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-11",
+      "question": "Avgolemono is a lemon and egg soup from which country?",
+      "options": [
+        "Turkey",
+        "Cyprus",
+        "Greece",
+        "Lebanon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-soups-quiz-12",
+      "question": "What type of seafood is the main ingredient in a traditional lobster bisque?",
+      "options": [
+        "Crab",
+        "Shrimp",
+        "Lobster",
+        "Crayfish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-soups-quiz-13",
+      "question": "Which Moroccan soup, traditionally served during Ramadan, is called harira?",
+      "options": [
+        "A yogurt soup",
+        "A lentil and tomato soup",
+        "A chicken broth",
+        "A fish stew"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "world-soups-quiz-14",
+      "question": "Gumbo is a hearty soup associated with which region of the United States?",
+      "options": [
+        "The Pacific Northwest",
+        "New England",
+        "Louisiana (Cajun/Creole)",
+        "The Southwest"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "world-soups-quiz-15",
+      "question": "Which cold soup, originating in France, is made from puréed leeks, potatoes, and cream?",
+      "options": [
+        "Gazpacho",
+        "Consommé",
+        "Bouillabaisse",
+        "Vichyssoise"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

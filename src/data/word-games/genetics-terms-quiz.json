@@ -1,0 +1,173 @@
+{
+  "id": "genetics-terms-quiz",
+  "title": "Genetics Terms Quiz",
+  "description": "Unravel the vocabulary of genetics, from DNA and heredity to genetic engineering and the building blocks of life.",
+  "gameCategory": "word-games",
+  "questions": [
+    {
+      "id": "genetics-terms-quiz-1",
+      "question": "What is 'DNA'?",
+      "options": [
+        "A type of protein in the blood",
+        "A chemical found only in plants",
+        "Deoxyribonucleic acid, the molecule that carries genetic instructions for life",
+        "A hormone that controls growth"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "genetics-terms-quiz-2",
+      "question": "What is a 'gene'?",
+      "options": [
+        "A type of enzyme",
+        "A chromosome pair",
+        "A segment of DNA that contains instructions for making a specific protein",
+        "A type of cell"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "genetics-terms-quiz-3",
+      "question": "What does 'dominant' mean in genetics?",
+      "options": [
+        "A trait caused by the environment",
+        "A trait that is expressed when at least one copy of the allele is present",
+        "A trait found only in males",
+        "A trait that skips generations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "genetics-terms-quiz-4",
+      "question": "What is a 'recessive' trait?",
+      "options": [
+        "A trait caused by diet",
+        "A trait that is only expressed when two copies of the allele are present",
+        "A trait that disappears over time",
+        "A trait that always appears"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "genetics-terms-quiz-5",
+      "question": "What is 'heredity'?",
+      "options": [
+        "The passing of traits from parents to offspring",
+        "The classification of species",
+        "The study of fossils",
+        "The aging process of cells"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "genetics-terms-quiz-6",
+      "question": "What does 'genotype' refer to?",
+      "options": [
+        "The number of chromosomes",
+        "The age of an organism",
+        "The physical appearance of an organism",
+        "The genetic makeup of an organism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "genetics-terms-quiz-7",
+      "question": "What is a 'phenotype'?",
+      "options": [
+        "A type of gene mutation",
+        "The DNA sequence of an organism",
+        "The reproductive cells of an organism",
+        "The observable physical characteristics of an organism"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "genetics-terms-quiz-8",
+      "question": "What is 'meiosis'?",
+      "options": [
+        "The repair of damaged DNA",
+        "The growth of new tissue",
+        "A type of cell division that produces sex cells with half the normal number of chromosomes",
+        "Cell division that produces identical cells"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "genetics-terms-quiz-9",
+      "question": "What is an 'allele'?",
+      "options": [
+        "One of two or more versions of a gene",
+        "A complete chromosome",
+        "A type of RNA",
+        "A protein produced by DNA"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "genetics-terms-quiz-10",
+      "question": "What does 'heterozygous' mean?",
+      "options": [
+        "Having extra chromosomes",
+        "Having two different alleles for a particular gene",
+        "Having two identical alleles for a trait",
+        "Having no alleles for a gene"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "genetics-terms-quiz-11",
+      "question": "What is 'RNA'?",
+      "options": [
+        "A chemical in the blood",
+        "A type of protein",
+        "A mineral found in bones",
+        "Ribonucleic acid, a molecule essential for coding, decoding, and expression of genes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "genetics-terms-quiz-12",
+      "question": "What is 'cloning' in genetics?",
+      "options": [
+        "Mixing DNA from different species",
+        "Testing for genetic diseases",
+        "Creating a genetically identical copy of an organism or DNA sequence",
+        "Destroying unwanted genes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "genetics-terms-quiz-13",
+      "question": "What is a 'Punnett square' used for?",
+      "options": [
+        "Measuring the size of genes",
+        "Counting chromosomes under a microscope",
+        "Predicting the probability of offspring inheriting particular traits",
+        "Drawing the shape of DNA"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "genetics-terms-quiz-14",
+      "question": "What does 'CRISPR' refer to in modern genetics?",
+      "options": [
+        "A revolutionary gene-editing technology",
+        "A genetic testing company",
+        "A type of genetic disease",
+        "A method of cloning animals"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "genetics-terms-quiz-15",
+      "question": "What is 'epigenetics'?",
+      "options": [
+        "The study of gene size",
+        "The study of changes in gene expression that do not involve changes to the DNA sequence",
+        "The study of extinct genes",
+        "The study of genetic diseases"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "soccer-vocabulary",
+  "title": "Soccer Vocabulary",
+  "description": "From offsides to bicycle kicks, test your knowledge of soccer terms!",
+  "gameCategory": "word-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "soccer-vocabulary-1",
+      "question": "In soccer, what is the 'offside' rule?",
+      "options": [
+        "A player is penalized for being on the wrong side of the halfway line",
+        "A player cannot stand outside the field boundaries",
+        "A goalkeeper cannot leave the penalty box",
+        "An attacking player cannot be nearer to the goal line than both the ball and the second-to-last defender when the ball is played to them"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The offside rule states a player is offside if they are nearer to the opponent's goal line than both the ball and the second-to-last defender at the moment the ball is played to them.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-2",
+      "question": "What is a 'hat-trick' in soccer?",
+      "options": [
+        "Three assists in a match",
+        "Three consecutive wins",
+        "Performing three tricks with the ball",
+        "Scoring three goals in one match by the same player"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hat-trick is when a single player scores three goals in one match, considered a remarkable individual achievement in soccer.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-3",
+      "question": "In soccer, what is a 'bicycle kick' (or 'overhead kick')?",
+      "options": [
+        "An acrobatic kick where the player kicks the ball overhead while falling backward",
+        "A kick taken from the sideline",
+        "Pedaling the legs while running",
+        "Kicking the ball while riding a bicycle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bicycle kick is a spectacular acrobatic shot where a player throws their body backward into the air and kicks the ball over their own head, often resulting in spectacular goals.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-4",
+      "question": "What does 'stoppage time' (or 'injury time') mean in soccer?",
+      "options": [
+        "The time it takes to stop the game clock",
+        "Additional time added at the end of each half to compensate for delays",
+        "A mandatory break midway through each half",
+        "Time when play is stopped for injuries only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stoppage time is additional time added by the referee at the end of each half to compensate for time lost due to substitutions, injuries, time-wasting, and other stoppages.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-5",
+      "question": "In soccer, what is a 'nutmeg'?",
+      "options": [
+        "A type of defensive tackle",
+        "A spice used to mark the field",
+        "A header scored from a corner kick",
+        "Passing the ball through an opponent's legs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A nutmeg is the act of kicking or passing the ball between an opponent's legs and collecting it on the other side, considered a skilful and often humiliating move.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-6",
+      "question": "What is a 'clean sheet' in soccer?",
+      "options": [
+        "A match in which a team does not concede any goals",
+        "A player receiving no fouls",
+        "A referee's blank notebook",
+        "A new score sheet at the start of a season"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A clean sheet is when a team (particularly the goalkeeper and defense) prevents the opposition from scoring any goals throughout the entire match.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-7",
+      "question": "In soccer, what is a 'free kick'?",
+      "options": [
+        "A kick taken without a goalkeeper",
+        "A kick that doesn't count toward the score",
+        "A kick awarded to a team after a foul by the opposition",
+        "A practice kick before the match"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A free kick is awarded after a foul and can be direct (a goal can be scored directly) or indirect (the ball must touch another player before a goal can be scored).",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-8",
+      "question": "What is a 'derby' in soccer?",
+      "options": [
+        "A horse-racing themed tournament",
+        "A cup competition for amateur teams",
+        "A match between two local rival teams",
+        "A style of defensive play"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A derby (or local derby) is a match between two teams from the same city or region, often characterized by intense rivalry and passionate support.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-9",
+      "question": "In soccer, what is the 'wall' during a free kick?",
+      "options": [
+        "A line of defending players standing together to block the kick",
+        "The goalpost",
+        "The barrier around the stadium",
+        "A tactical formation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The wall is a line of defending players who stand shoulder to shoulder at least 9.15 meters from the ball to block or deflect the free kick.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-10",
+      "question": "What does 'aggregate score' mean in soccer?",
+      "options": [
+        "The combined score over two legs (home and away) of a knockout tie",
+        "The average score of a season",
+        "The highest individual scorer's total",
+        "The score at halftime"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aggregate score is the combined total of goals scored by each team across both legs (home and away matches) in a two-legged knockout tie.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-11",
+      "question": "In soccer, what is 'parking the bus'?",
+      "options": [
+        "The team bus arriving at the stadium",
+        "A celebratory team ride after winning",
+        "A highly defensive strategy with most players behind the ball",
+        "Blocking the entrance to the field"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Parking the bus' is a colloquial term for an extremely defensive tactic where a team puts nearly all its players behind the ball to protect a lead or earn a draw.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-12",
+      "question": "What is a 'penalty shootout' in soccer?",
+      "options": [
+        "A punishment for excessive goal celebrations",
+        "A shooting practice session",
+        "A penalty for shooting too hard",
+        "A tiebreaker method where teams take alternating penalty kicks"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A penalty shootout is used to decide a match that remains tied after extra time, with each team taking alternating penalty kicks, typically five each initially.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-13",
+      "question": "In soccer, what is a 'through ball'?",
+      "options": [
+        "A ball that goes through a player's legs",
+        "A pass played into space behind the defense for a teammate to run onto",
+        "A ball kicked through the goal net",
+        "A shot that goes through the goalkeeper's hands"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A through ball is an attacking pass played into the space behind the defensive line for a teammate to run onto, requiring precise timing and vision.",
+      "difficulty": "medium",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-14",
+      "question": "What does 'VAR' stand for in modern soccer?",
+      "options": [
+        "Verified Athletic Result",
+        "Visual Assessment Review",
+        "Variable Action Replay",
+        "Video Assistant Referee"
+      ],
+      "correctAnswer": 3,
+      "explanation": "VAR stands for Video Assistant Referee, a system introduced to help match officials make correct decisions using video replays for goals, penalties, red cards, and mistaken identity.",
+      "difficulty": "easy",
+      "category": "language"
+    },
+    {
+      "id": "soccer-vocabulary-15",
+      "question": "In soccer, what is a 'brace'?",
+      "options": [
+        "A defensive pairing of two players",
+        "Two goals scored by the same player in one match",
+        "A type of throw-in",
+        "A knee support worn by players"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A brace refers to a player scoring two goals in a single match. Scoring three goals is a hat-trick.",
+      "difficulty": "medium",
+      "category": "language"
+    }
+  ]
+}

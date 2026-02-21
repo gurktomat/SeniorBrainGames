@@ -8,8 +8,13 @@
     {
       "id": "vcm-1",
       "question": "Which car manufacturer introduced the Corvette in 1953?",
-      "options": ["Ford", "Chevrolet", "Dodge", "Pontiac"],
-      "correctAnswer": 1,
+      "options": [
+        "Dodge",
+        "Pontiac",
+        "Chevrolet",
+        "Ford"
+      ],
+      "correctAnswer": 2,
       "explanation": "Chevrolet introduced the Corvette in 1953 as America's first mass-produced sports car. The first models featured a fiberglass body and a Blue Flame six-cylinder engine.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -17,8 +22,13 @@
     {
       "id": "vcm-2",
       "question": "What was the name of Ford's iconic pony car introduced in April 1964?",
-      "options": ["Thunderbird", "Maverick", "Mustang", "Pinto"],
-      "correctAnswer": 2,
+      "options": [
+        "Mustang",
+        "Pinto",
+        "Maverick",
+        "Thunderbird"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Ford Mustang debuted on April 17, 1964, at the New York World's Fair. It was an instant sensation and sold over 400,000 units in its first year.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -26,7 +36,12 @@
     {
       "id": "vcm-3",
       "question": "Which classic car featured distinctive tail fins that reached their peak height in 1959?",
-      "options": ["Chevrolet Bel Air", "Cadillac Eldorado", "Buick Riviera", "Lincoln Continental"],
+      "options": [
+        "Lincoln Continental",
+        "Cadillac Eldorado",
+        "Buick Riviera",
+        "Chevrolet Bel Air"
+      ],
       "correctAnswer": 1,
       "explanation": "The 1959 Cadillac Eldorado featured the tallest tail fins ever put on a production car. These dramatic fins became one of the most iconic design elements of the 1950s.",
       "difficulty": "easy",
@@ -35,8 +50,13 @@
     {
       "id": "vcm-4",
       "question": "What was the Volkswagen Beetle commonly nicknamed in America?",
-      "options": ["The Critter", "The Bug", "The Roller", "The Peanut"],
-      "correctAnswer": 1,
+      "options": [
+        "The Bug",
+        "The Roller",
+        "The Critter",
+        "The Peanut"
+      ],
+      "correctAnswer": 0,
       "explanation": "The Volkswagen Beetle was affectionately called 'The Bug' by Americans. Its quirky rounded shape and affordable price made it one of the best-selling cars of all time.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -44,8 +64,13 @@
     {
       "id": "vcm-5",
       "question": "Which Pontiac muscle car, introduced in 1964, is widely considered the first true muscle car?",
-      "options": ["Firebird", "Trans Am", "GTO", "Grand Prix"],
-      "correctAnswer": 2,
+      "options": [
+        "GTO",
+        "Grand Prix",
+        "Trans Am",
+        "Firebird"
+      ],
+      "correctAnswer": 0,
       "explanation": "The 1964 Pontiac GTO is widely credited as the car that launched the muscle car era. It combined a powerful 389 cubic-inch V8 engine with a mid-size body.",
       "difficulty": "easy",
       "category": "nostalgia"
@@ -53,8 +78,13 @@
     {
       "id": "vcm-6",
       "question": "What distinctive feature did the 1957 Chevrolet Bel Air have on its front end?",
-      "options": ["Hidden headlights", "Chrome bumper bullets", "Pop-up headlamps", "Wraparound windshield"],
-      "correctAnswer": 1,
+      "options": [
+        "Chrome bumper bullets",
+        "Pop-up headlamps",
+        "Hidden headlights",
+        "Wraparound windshield"
+      ],
+      "correctAnswer": 0,
       "explanation": "The 1957 Chevy Bel Air featured prominent chrome 'bumper bullets' or 'Dagmars' on the front bumper, along with a distinctive chrome grille that made it one of the most recognizable cars ever.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -62,8 +92,13 @@
     {
       "id": "vcm-7",
       "question": "Which car company produced the Charger, a popular muscle car of the late 1960s?",
-      "options": ["Plymouth", "Dodge", "Chevrolet", "Oldsmobile"],
-      "correctAnswer": 1,
+      "options": [
+        "Chevrolet",
+        "Plymouth",
+        "Dodge",
+        "Oldsmobile"
+      ],
+      "correctAnswer": 2,
       "explanation": "Dodge produced the Charger, which debuted in 1966. The 1968-1970 models became especially famous, including their appearance as the 'General Lee' in The Dukes of Hazzard.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -71,8 +106,13 @@
     {
       "id": "vcm-8",
       "question": "The 1955 Ford Thunderbird was originally designed as a response to which competitor?",
-      "options": ["Pontiac GTO", "Chevrolet Corvette", "Cadillac Eldorado", "Buick Skylark"],
-      "correctAnswer": 1,
+      "options": [
+        "Chevrolet Corvette",
+        "Pontiac GTO",
+        "Cadillac Eldorado",
+        "Buick Skylark"
+      ],
+      "correctAnswer": 0,
       "explanation": "Ford created the Thunderbird in 1955 as a direct response to the Chevrolet Corvette. Unlike the Corvette, the T-Bird was marketed as a 'personal luxury car' rather than a sports car.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -80,7 +120,12 @@
     {
       "id": "vcm-9",
       "question": "What was the name of the Plymouth muscle car that shared its body with the Dodge Challenger?",
-      "options": ["Road Runner", "Barracuda", "Duster", "Satellite"],
+      "options": [
+        "Satellite",
+        "Barracuda",
+        "Duster",
+        "Road Runner"
+      ],
       "correctAnswer": 1,
       "explanation": "The Plymouth Barracuda and Dodge Challenger were both built on Chrysler's E-body platform starting in 1970. The 'Cuda with a Hemi engine is now one of the most valuable muscle cars.",
       "difficulty": "medium",
@@ -89,8 +134,13 @@
     {
       "id": "vcm-10",
       "question": "Which automaker produced the 442, a popular muscle car option package starting in 1964?",
-      "options": ["Buick", "Pontiac", "Oldsmobile", "Chevrolet"],
-      "correctAnswer": 2,
+      "options": [
+        "Oldsmobile",
+        "Buick",
+        "Chevrolet",
+        "Pontiac"
+      ],
+      "correctAnswer": 0,
       "explanation": "Oldsmobile offered the 442 package, with the numbers originally standing for 4-barrel carburetor, 4-speed manual transmission, and dual exhaust. It became its own model in 1968.",
       "difficulty": "medium",
       "category": "nostalgia"
@@ -98,8 +148,13 @@
     {
       "id": "vcm-11",
       "question": "What was the top speed rating of the original 1963 Chevrolet Corvette Sting Ray's fuel-injected 327 V8?",
-      "options": ["275 horsepower", "300 horsepower", "340 horsepower", "360 horsepower"],
-      "correctAnswer": 3,
+      "options": [
+        "360 horsepower",
+        "275 horsepower",
+        "300 horsepower",
+        "340 horsepower"
+      ],
+      "correctAnswer": 0,
       "explanation": "The 1963 Corvette Sting Ray's top engine option was a fuel-injected 327 cubic-inch V8 rated at 360 horsepower. The '63 was also the only year for the iconic split rear window coupe.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -107,8 +162,13 @@
     {
       "id": "vcm-12",
       "question": "Which car featured the first mass-produced automotive turbocharger in 1962?",
-      "options": ["Chevrolet Corvair Monza Spyder", "Pontiac Tempest", "Ford Falcon Sprint", "Dodge Dart"],
-      "correctAnswer": 0,
+      "options": [
+        "Pontiac Tempest",
+        "Chevrolet Corvair Monza Spyder",
+        "Ford Falcon Sprint",
+        "Dodge Dart"
+      ],
+      "correctAnswer": 1,
       "explanation": "The 1962 Chevrolet Corvair Monza Spyder was one of the first mass-produced turbocharged cars, along with the Oldsmobile Jetfire released the same year.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -116,8 +176,13 @@
     {
       "id": "vcm-13",
       "question": "What was the engine displacement of the famous Chrysler Hemi V8 introduced in 1964 for racing?",
-      "options": ["396 cubic inches", "426 cubic inches", "440 cubic inches", "454 cubic inches"],
-      "correctAnswer": 1,
+      "options": [
+        "396 cubic inches",
+        "454 cubic inches",
+        "440 cubic inches",
+        "426 cubic inches"
+      ],
+      "correctAnswer": 3,
       "explanation": "The 426 Hemi was introduced in 1964 and dominated NASCAR racing that year. Its hemispherical combustion chambers gave it superior power, earning it the nickname 'The Elephant.'",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -125,8 +190,13 @@
     {
       "id": "vcm-14",
       "question": "Which AMC car, produced from 1968 to 1974, was designed by Dick Teague and known for its distinctive short body?",
-      "options": ["Gremlin", "Pacer", "AMX", "Javelin"],
-      "correctAnswer": 2,
+      "options": [
+        "Pacer",
+        "Javelin",
+        "Gremlin",
+        "AMX"
+      ],
+      "correctAnswer": 3,
       "explanation": "The AMC AMX was a two-seat sports car designed by Dick Teague. It was the only American-made two-seat steel-bodied sports car of its era besides the Corvette.",
       "difficulty": "hard",
       "category": "nostalgia"
@@ -134,8 +204,13 @@
     {
       "id": "vcm-15",
       "question": "What was special about the 1970 Plymouth Superbird's rear wing?",
-      "options": ["It was adjustable from inside the car", "It was tall enough to allow the trunk to open", "It was made entirely of aluminum", "It could fold flat at highway speeds"],
-      "correctAnswer": 1,
+      "options": [
+        "It could fold flat at highway speeds",
+        "It was adjustable from inside the car",
+        "It was made entirely of aluminum",
+        "It was tall enough to allow the trunk to open"
+      ],
+      "correctAnswer": 3,
       "explanation": "The Plymouth Superbird's iconic towering rear wing was specifically designed to be high enough to clear the trunk lid so it could still open. The wing and nose cone were developed for NASCAR aerodynamics.",
       "difficulty": "hard",
       "category": "nostalgia"

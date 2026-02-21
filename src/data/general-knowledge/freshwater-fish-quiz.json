@@ -1,0 +1,173 @@
+{
+  "id": "freshwater-fish-quiz",
+  "title": "Freshwater Fish",
+  "description": "Cast your knowledge into the world of rivers, lakes, and streams to learn about freshwater fish species.",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "freshwater-fish-quiz-1",
+      "question": "Which freshwater fish is the largest in North America?",
+      "options": [
+        "Largemouth bass",
+        "White sturgeon",
+        "Channel catfish",
+        "Muskellunge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freshwater-fish-quiz-2",
+      "question": "Salmon are famous for doing what during their life cycle?",
+      "options": [
+        "Living only in salt water",
+        "Migrating to the deep ocean",
+        "Changing color permanently",
+        "Returning to their birthplace to spawn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freshwater-fish-quiz-3",
+      "question": "The piranha, known for its sharp teeth, is native to rivers in which continent?",
+      "options": [
+        "South America",
+        "Asia",
+        "Australia",
+        "Africa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freshwater-fish-quiz-4",
+      "question": "What is the most popular freshwater game fish in the United States?",
+      "options": [
+        "Largemouth bass",
+        "Catfish",
+        "Walleye",
+        "Trout"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freshwater-fish-quiz-5",
+      "question": "The electric eel, which can generate up to 860 volts, is actually classified as what?",
+      "options": [
+        "A lamprey",
+        "A type of catfish",
+        "A knifefish",
+        "A true eel"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freshwater-fish-quiz-6",
+      "question": "Which freshwater fish is known for 'walking' on land using its pectoral fins?",
+      "options": [
+        "Walking catfish",
+        "Snakehead",
+        "Mudskipper",
+        "Lungfish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freshwater-fish-quiz-7",
+      "question": "Lake Malawi in Africa is famous for having over 1,000 species of which type of fish?",
+      "options": [
+        "Catfish",
+        "Cichlids",
+        "Carp",
+        "Tilapia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "freshwater-fish-quiz-8",
+      "question": "The rainbow trout gets its name from what characteristic?",
+      "options": [
+        "Its diet of colorful insects",
+        "Where it's found",
+        "The colorful band along its side",
+        "Its spawning behavior"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freshwater-fish-quiz-9",
+      "question": "Which Asian freshwater fish can breathe air and survive out of water for extended periods?",
+      "options": [
+        "Goldfish",
+        "Arowana",
+        "Snakehead",
+        "Koi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "freshwater-fish-quiz-10",
+      "question": "The arapaima, one of the world's largest freshwater fish, is found in which river system?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Mississippi",
+        "Ganges"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freshwater-fish-quiz-11",
+      "question": "What common aquarium fish was originally domesticated in China over a thousand years ago?",
+      "options": [
+        "Guppy",
+        "Angelfish",
+        "Betta",
+        "Goldfish"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freshwater-fish-quiz-12",
+      "question": "Which type of trout is native to the eastern United States and is the only trout native to the Appalachian Mountains?",
+      "options": [
+        "Brown trout",
+        "Rainbow trout",
+        "Lake trout",
+        "Brook trout"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freshwater-fish-quiz-13",
+      "question": "The paddlefish uses its long snout primarily for what purpose?",
+      "options": [
+        "Fighting rivals",
+        "Breaking through ice",
+        "Digging in mud",
+        "Detecting electrical fields from plankton"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "freshwater-fish-quiz-14",
+      "question": "Which invasive freshwater fish species has become a major problem in the Great Lakes of North America?",
+      "options": [
+        "Asian carp",
+        "Peacock bass",
+        "Tilapia",
+        "Red drum"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "freshwater-fish-quiz-15",
+      "question": "What is the practice of catching fish and then releasing them back into the water called?",
+      "options": [
+        "Trophy fishing",
+        "Fly fishing",
+        "Catch and release",
+        "Sport fishing"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

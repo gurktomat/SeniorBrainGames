@@ -1,0 +1,174 @@
+{
+  "id": "electrical-tools-quiz",
+  "title": "Electrical Tools Quiz",
+  "description": "Test your knowledge of tools and supplies used in electrical work around the home.",
+  "gameCategory": "memory-games",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "electrical-tools-quiz-1",
+      "question": "Which tool is used to test whether an electrical circuit is live or has voltage present?",
+      "options": [
+        "Multimeter",
+        "Voltage tester (non-contact)",
+        "Continuity tester",
+        "Wire stripper"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electrical-tools-quiz-2",
+      "question": "What is a wire stripper used for?",
+      "options": [
+        "Removing the insulation coating from electrical wire without damaging the conductor",
+        "Soldering connections",
+        "Twisting wires together",
+        "Cutting wire to length"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrical-tools-quiz-3",
+      "question": "Which device in an electrical panel automatically shuts off power when a circuit is overloaded?",
+      "options": [
+        "Circuit breaker",
+        "Capacitor",
+        "Surge protector",
+        "Transformer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrical-tools-quiz-4",
+      "question": "What is electrical tape primarily used for?",
+      "options": [
+        "Labeling circuits",
+        "Insulating electrical connections and splices",
+        "Holding wires to walls",
+        "Measuring wire length"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electrical-tools-quiz-5",
+      "question": "Which tool is used to measure voltage, current, and resistance in electrical circuits?",
+      "options": [
+        "Voltmeter only",
+        "Multimeter",
+        "Ammeter only",
+        "Watt meter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electrical-tools-quiz-6",
+      "question": "What are wire nuts (twist-on connectors) used for?",
+      "options": [
+        "Grounding wires",
+        "Insulating wire ends",
+        "Attaching wires to outlets",
+        "Securely joining two or more electrical wires together"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrical-tools-quiz-7",
+      "question": "Which type of pliers has a long, tapered nose for reaching into tight spaces and bending wire?",
+      "options": [
+        "Channel-lock pliers",
+        "Lineman's pliers",
+        "Needle-nose pliers",
+        "Slip-joint pliers"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "electrical-tools-quiz-8",
+      "question": "What is a fish tape used for in electrical work?",
+      "options": [
+        "Measuring wire gauge",
+        "Pulling wire through conduit and walls",
+        "Testing ground connections",
+        "Taping wire connections"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "electrical-tools-quiz-9",
+      "question": "Which safety device is required in bathrooms and kitchens, and trips when it detects a ground fault?",
+      "options": [
+        "GFCI outlet (ground fault circuit interrupter)",
+        "Dimmer switch",
+        "Standard outlet",
+        "AFCI outlet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrical-tools-quiz-10",
+      "question": "What does the color green or bare copper indicate on an electrical wire?",
+      "options": [
+        "Ground wire",
+        "Neutral wire",
+        "Switched wire",
+        "Hot wire"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrical-tools-quiz-11",
+      "question": "Which tool uses heat to melt a metal alloy to join electrical components or wires?",
+      "options": [
+        "Heat gun",
+        "Torch",
+        "Glue gun",
+        "Soldering iron"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrical-tools-quiz-12",
+      "question": "What is conduit used for in electrical installations?",
+      "options": [
+        "Storing extra wire",
+        "Generating electricity",
+        "Connecting to the power grid",
+        "Protecting and routing electrical wiring"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrical-tools-quiz-13",
+      "question": "Which heavy-duty pliers with a built-in cutting edge are the go-to tool for professional electricians?",
+      "options": [
+        "Lineman's pliers (side-cutting pliers)",
+        "Diagonal cutters",
+        "Needle-nose pliers",
+        "Locking pliers"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "electrical-tools-quiz-14",
+      "question": "What is a junction box used for?",
+      "options": [
+        "Testing circuits",
+        "Storing fuses",
+        "Distributing power to a neighborhood",
+        "Enclosing wire connections to protect them and meet building codes"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "electrical-tools-quiz-15",
+      "question": "Which device protects electronics by diverting excess voltage from power surges?",
+      "options": [
+        "Surge protector (power strip with surge protection)",
+        "Uninterruptible power supply",
+        "Voltage regulator",
+        "Extension cord"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

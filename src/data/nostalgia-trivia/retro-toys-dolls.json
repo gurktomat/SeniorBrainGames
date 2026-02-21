@@ -7,92 +7,167 @@
     {
       "id": "retro-toys-dolls-1",
       "question": "In what year was Barbie first introduced by Mattel at the American International Toy Fair?",
-      "options": ["1955", "1957", "1959", "1961"],
-      "correctAnswer": 2
+      "options": [
+        "1957",
+        "1959",
+        "1961",
+        "1955"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-toys-dolls-2",
       "question": "What was the name of the potato-shaped toy, introduced in 1952, that was the first toy advertised on television?",
-      "options": ["Silly Putty", "Mr. Potato Head", "Slinky", "Play-Doh"],
+      "options": [
+        "Slinky",
+        "Mr. Potato Head",
+        "Play-Doh",
+        "Silly Putty"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-toys-dolls-3",
       "question": "Which classic toy, invented in 1943, is a coiled spring that can 'walk' down stairs?",
-      "options": ["Hula Hoop", "Slinky", "Yo-Yo", "Jack-in-the-Box"],
-      "correctAnswer": 1
+      "options": [
+        "Hula Hoop",
+        "Jack-in-the-Box",
+        "Yo-Yo",
+        "Slinky"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-toys-dolls-4",
       "question": "The Easy-Bake Oven, introduced in 1963, originally used what as its heat source?",
-      "options": ["A small gas burner", "Two ordinary light bulbs", "A heating coil", "A solar panel"],
-      "correctAnswer": 1
+      "options": [
+        "Two ordinary light bulbs",
+        "A small gas burner",
+        "A heating coil",
+        "A solar panel"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-toys-dolls-5",
       "question": "What was the name of the fashion doll introduced by Mattel in 1961 as Barbie's boyfriend?",
-      "options": ["Ken", "Steve", "Brad", "Todd"],
-      "correctAnswer": 0
+      "options": [
+        "Brad",
+        "Todd",
+        "Steve",
+        "Ken"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-toys-dolls-6",
       "question": "Which toy, a flat board printed with letters and numbers, was marketed as a way to communicate with spirits?",
-      "options": ["Magic 8-Ball", "Ouija Board", "Crystal Ball Set", "Tarot Card Game"],
-      "correctAnswer": 1
+      "options": [
+        "Tarot Card Game",
+        "Crystal Ball Set",
+        "Ouija Board",
+        "Magic 8-Ball"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-toys-dolls-7",
       "question": "What popular 1960s toy was a screen with two knobs that let you draw by turning horizontal and vertical controls?",
-      "options": ["Spirograph", "Etch A Sketch", "Lite-Brite", "Magna Doodle"],
-      "correctAnswer": 1
+      "options": [
+        "Lite-Brite",
+        "Magna Doodle",
+        "Etch A Sketch",
+        "Spirograph"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "retro-toys-dolls-8",
       "question": "Which toy company created G.I. Joe, the original 12-inch 'action figure,' in 1964?",
-      "options": ["Mattel", "Kenner", "Hasbro", "Marx"],
-      "correctAnswer": 2
+      "options": [
+        "Hasbro",
+        "Mattel",
+        "Marx",
+        "Kenner"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "retro-toys-dolls-9",
       "question": "What classic children's toy, patented in 1956, uses colored plastic pegs pushed into a lit-up board to create glowing pictures?",
-      "options": ["Etch A Sketch", "Spirograph", "Lite-Brite", "Colorforms"],
-      "correctAnswer": 2
+      "options": [
+        "Spirograph",
+        "Lite-Brite",
+        "Colorforms",
+        "Etch A Sketch"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "retro-toys-dolls-10",
       "question": "Which hugely popular 1983 dolls came with adoption papers and were famously difficult to find in stores during the holiday season?",
-      "options": ["Strawberry Shortcake", "Cabbage Patch Kids", "Rainbow Brite", "Care Bears"],
-      "correctAnswer": 1
+      "options": [
+        "Care Bears",
+        "Rainbow Brite",
+        "Strawberry Shortcake",
+        "Cabbage Patch Kids"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-toys-dolls-11",
       "question": "What was the original name of Play-Doh before it was remarketed as a children's toy?",
-      "options": ["Modeling paste", "Wallpaper cleaner", "Art clay", "Craft dough"],
+      "options": [
+        "Art clay",
+        "Wallpaper cleaner",
+        "Craft dough",
+        "Modeling paste"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-toys-dolls-12",
       "question": "The Hula Hoop became a national craze in 1958 when it was manufactured by which toy company?",
-      "options": ["Mattel", "Hasbro", "Wham-O", "Fisher-Price"],
-      "correctAnswer": 2
+      "options": [
+        "Mattel",
+        "Fisher-Price",
+        "Hasbro",
+        "Wham-O"
+      ],
+      "correctAnswer": 3
     },
     {
       "id": "retro-toys-dolls-13",
       "question": "Which classic building toy, made of interlocking plastic bricks, was invented in Denmark in 1949?",
-      "options": ["Lincoln Logs", "Erector Set", "Tinker Toys", "LEGO"],
+      "options": [
+        "Erector Set",
+        "Lincoln Logs",
+        "Tinker Toys",
+        "LEGO"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "retro-toys-dolls-14",
       "question": "What classic 1966 toy consists of a geometric drawing set that uses interlocking gears and colored pens?",
-      "options": ["Etch A Sketch", "Spirograph", "Lite-Brite", "Colorforms"],
+      "options": [
+        "Colorforms",
+        "Spirograph",
+        "Etch A Sketch",
+        "Lite-Brite"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "retro-toys-dolls-15",
       "question": "Which toy, introduced by Ideal in 1959, challenged players to remove body parts without setting off a buzzer?",
-      "options": ["Mouse Trap", "Operation", "Buckaroo", "Don't Break the Ice"],
-      "correctAnswer": 1
+      "options": [
+        "Don't Break the Ice",
+        "Mouse Trap",
+        "Buckaroo",
+        "Operation"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

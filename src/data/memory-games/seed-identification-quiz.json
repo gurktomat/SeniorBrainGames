@@ -1,0 +1,173 @@
+{
+  "id": "seed-identification-quiz",
+  "title": "Seed Identification Quiz",
+  "description": "Seeds are the beginning of plant life! How well do you know seeds, their shapes, and how they travel?",
+  "gameCategory": "memory-games",
+  "questions": [
+    {
+      "id": "seed-identification-quiz-1",
+      "question": "Which tree produces seeds that spin like tiny helicopters as they fall?",
+      "options": [
+        "Elm",
+        "Maple",
+        "Oak",
+        "Birch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seed-identification-quiz-2",
+      "question": "What is the fluffy, white material that helps dandelion seeds float through the air?",
+      "options": [
+        "Pappus (a modified calyx)",
+        "Spider web material",
+        "Silk fibers",
+        "Cotton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seed-identification-quiz-3",
+      "question": "Which large seed washes ashore on tropical beaches and can float across entire oceans?",
+      "options": [
+        "Brazil nut",
+        "Mango seed",
+        "Avocado seed",
+        "Coconut"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seed-identification-quiz-4",
+      "question": "Acorns are the seeds of which type of tree?",
+      "options": [
+        "Hickory",
+        "Chestnut",
+        "Beech",
+        "Oak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seed-identification-quiz-5",
+      "question": "What is the process called when a seed begins to sprout and grow?",
+      "options": [
+        "Propagation",
+        "Fertilization",
+        "Pollination",
+        "Germination"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seed-identification-quiz-6",
+      "question": "Which common garden plant has seeds that stick to clothing and animal fur using tiny hooks?",
+      "options": [
+        "Burdock",
+        "Thistle",
+        "Dandelion",
+        "Milkweed"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seed-identification-quiz-7",
+      "question": "The invention of Velcro was inspired by the seed dispersal mechanism of which plant?",
+      "options": [
+        "Cocklebur",
+        "Beggar's Tick",
+        "Burdock",
+        "Stickweed"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seed-identification-quiz-8",
+      "question": "What is the hard outer covering of a seed called?",
+      "options": [
+        "Husk",
+        "Seed coat (testa)",
+        "Shell",
+        "Bark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seed-identification-quiz-9",
+      "question": "Which edible seeds are tiny, black or white, and were a staple food of the Aztecs?",
+      "options": [
+        "Flax seeds",
+        "Hemp seeds",
+        "Quinoa",
+        "Chia seeds"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seed-identification-quiz-10",
+      "question": "Sunflower seeds are arranged in the flower head following what mathematical pattern?",
+      "options": [
+        "Fibonacci spiral",
+        "Random pattern",
+        "Circular rings",
+        "Grid pattern"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "seed-identification-quiz-11",
+      "question": "Which plant's seed pods explode when touched, flinging seeds several feet away?",
+      "options": [
+        "Petunia",
+        "Poppy",
+        "Snapdragon",
+        "Touch-Me-Not (Impatiens)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "seed-identification-quiz-12",
+      "question": "What is a seed bank, such as the famous Svalbard Global Seed Vault?",
+      "options": [
+        "A laboratory for genetic modification",
+        "A store that sells seeds",
+        "A facility that preserves seeds for conservation",
+        "A garden that grows rare plants"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seed-identification-quiz-13",
+      "question": "Pine nuts, used in pesto and cooking, come from the cones of which type of tree?",
+      "options": [
+        "Cedar",
+        "Pine",
+        "Fir",
+        "Spruce"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "seed-identification-quiz-14",
+      "question": "Some seeds require exposure to cold temperatures before they can germinate. What is this process called?",
+      "options": [
+        "Vernalization",
+        "Scarification",
+        "Stratification",
+        "Dormancy breaking"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "seed-identification-quiz-15",
+      "question": "Which of these is the world's largest seed, weighing up to 40 pounds?",
+      "options": [
+        "Avocado pit",
+        "Jackfruit seed",
+        "Coconut",
+        "Coco de Mer (Double Coconut)"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

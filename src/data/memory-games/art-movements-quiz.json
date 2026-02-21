@@ -7,92 +7,167 @@
     {
       "id": "art-movements-quiz-1",
       "question": "Which art movement is Claude Monet most closely associated with?",
-      "options": ["Cubism", "Impressionism", "Surrealism", "Baroque"],
-      "correctAnswer": 1
+      "options": [
+        "Impressionism",
+        "Cubism",
+        "Baroque",
+        "Surrealism"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "art-movements-quiz-2",
       "question": "Pablo Picasso and Georges Braque were the founders of which art movement?",
-      "options": ["Fauvism", "Dadaism", "Cubism", "Expressionism"],
+      "options": [
+        "Expressionism",
+        "Dadaism",
+        "Cubism",
+        "Fauvism"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-3",
       "question": "Which art movement featured melting clocks and dreamlike imagery, as seen in Salvador Dalí's work?",
-      "options": ["Art Nouveau", "Surrealism", "Pop Art", "Minimalism"],
-      "correctAnswer": 1
+      "options": [
+        "Minimalism",
+        "Pop Art",
+        "Surrealism",
+        "Art Nouveau"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-4",
       "question": "Andy Warhol's Campbell's Soup Cans is a famous example of which art movement?",
-      "options": ["Abstract Expressionism", "Dadaism", "Minimalism", "Pop Art"],
-      "correctAnswer": 3
+      "options": [
+        "Abstract Expressionism",
+        "Pop Art",
+        "Minimalism",
+        "Dadaism"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "art-movements-quiz-5",
       "question": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
-      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Botticelli"],
-      "correctAnswer": 2
+      "options": [
+        "Raphael",
+        "Michelangelo",
+        "Botticelli",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "art-movements-quiz-6",
       "question": "The Art Nouveau movement was known for its use of which type of lines and forms?",
-      "options": ["Straight geometric lines", "Flowing organic curves", "Sharp angular shapes", "Random splatter patterns"],
+      "options": [
+        "Sharp angular shapes",
+        "Flowing organic curves",
+        "Straight geometric lines",
+        "Random splatter patterns"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "art-movements-quiz-7",
       "question": "Which art movement, beginning in the 1940s in New York, featured artists like Jackson Pollock and Mark Rothko?",
-      "options": ["Post-Impressionism", "Abstract Expressionism", "Constructivism", "Futurism"],
+      "options": [
+        "Constructivism",
+        "Abstract Expressionism",
+        "Post-Impressionism",
+        "Futurism"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "art-movements-quiz-8",
       "question": "The Baroque period in art is best characterized by which quality?",
-      "options": ["Simplicity and flat colors", "Dramatic lighting and rich detail", "Geometric abstraction", "Everyday mundane subjects"],
-      "correctAnswer": 1
+      "options": [
+        "Dramatic lighting and rich detail",
+        "Everyday mundane subjects",
+        "Geometric abstraction",
+        "Simplicity and flat colors"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "art-movements-quiz-9",
       "question": "Vincent van Gogh is considered part of which art movement?",
-      "options": ["Impressionism", "Romanticism", "Post-Impressionism", "Realism"],
-      "correctAnswer": 2
+      "options": [
+        "Romanticism",
+        "Post-Impressionism",
+        "Impressionism",
+        "Realism"
+      ],
+      "correctAnswer": 1
     },
     {
       "id": "art-movements-quiz-10",
       "question": "Which early 20th-century movement, led by Henri Matisse, was known for bold, vivid colors?",
-      "options": ["Fauvism", "Pointillism", "Precisionism", "Symbolism"],
-      "correctAnswer": 0
+      "options": [
+        "Pointillism",
+        "Precisionism",
+        "Fauvism",
+        "Symbolism"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-11",
       "question": "The Pre-Raphaelite Brotherhood sought to return to the detail and color of art before which artist?",
-      "options": ["Michelangelo", "Rembrandt", "Raphael", "Caravaggio"],
+      "options": [
+        "Michelangelo",
+        "Caravaggio",
+        "Raphael",
+        "Rembrandt"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-12",
       "question": "Which art movement rejected logic and reason, embracing absurdity and nonsense, partly as a reaction to World War I?",
-      "options": ["Futurism", "Dadaism", "Constructivism", "De Stijl"],
-      "correctAnswer": 1
+      "options": [
+        "Dadaism",
+        "Futurism",
+        "Constructivism",
+        "De Stijl"
+      ],
+      "correctAnswer": 0
     },
     {
       "id": "art-movements-quiz-13",
       "question": "Georges Seurat's technique of painting with small dots of color is associated with which movement?",
-      "options": ["Impressionism", "Expressionism", "Pointillism", "Fauvism"],
+      "options": [
+        "Expressionism",
+        "Fauvism",
+        "Pointillism",
+        "Impressionism"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-14",
       "question": "Which movement, popular in the 1960s and 70s, stripped art down to essential geometric forms and neutral colors?",
-      "options": ["Pop Art", "Minimalism", "Neo-Expressionism", "Photorealism"],
-      "correctAnswer": 1
+      "options": [
+        "Photorealism",
+        "Neo-Expressionism",
+        "Minimalism",
+        "Pop Art"
+      ],
+      "correctAnswer": 2
     },
     {
       "id": "art-movements-quiz-15",
       "question": "Romanticism in art emphasized which of the following themes?",
-      "options": ["Industrial progress", "Emotion, nature, and individualism", "Scientific accuracy", "Urban life and technology"],
-      "correctAnswer": 1
+      "options": [
+        "Industrial progress",
+        "Scientific accuracy",
+        "Emotion, nature, and individualism",
+        "Urban life and technology"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

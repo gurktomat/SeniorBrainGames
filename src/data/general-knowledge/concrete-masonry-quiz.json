@@ -1,0 +1,219 @@
+{
+  "id": "concrete-masonry-quiz",
+  "title": "Concrete & Masonry History",
+  "description": "Build your knowledge about the history and science of concrete and masonry construction!",
+  "gameCategory": "general-knowledge",
+  "gameType": "quiz",
+  "questions": [
+    {
+      "id": "concrete-masonry-quiz-1",
+      "question": "The Romans developed a remarkably durable concrete using volcanic ash. What is this ash called?",
+      "options": [
+        "Pumice",
+        "Calcite",
+        "Pozzolana",
+        "Calcium oxide"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roman concrete (opus caementicium) used pozzolana, volcanic ash from the area near Pozzuoli. Mixed with lime and seawater, it created a concrete so durable that Roman structures like the Pantheon still stand today after 2,000 years.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-2",
+      "question": "Who patented Portland cement in 1824, the key ingredient in modern concrete?",
+      "options": [
+        "Isambard Kingdom Brunel",
+        "James Parker",
+        "Joseph Aspdin",
+        "John Smeaton"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joseph Aspdin, a bricklayer from Leeds, England, patented Portland cement in 1824. He named it 'Portland' because the hardened cement resembled the prestigious Portland stone quarried on the Isle of Portland in Dorset.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-3",
+      "question": "The Pantheon in Rome, built around 125 AD, has an unreinforced concrete dome that is still the largest of its kind. What is its interior diameter?",
+      "options": [
+        "33 meters",
+        "23 meters",
+        "43 meters",
+        "53 meters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pantheon's dome has an interior diameter of 43.3 meters (142 feet), equal to its height. It remains the world's largest unreinforced concrete dome, a testament to Roman engineering excellence.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-4",
+      "question": "What are the three basic ingredients in concrete?",
+      "options": [
+        "Limestone, sand, and water",
+        "Cement, water, and aggregate (sand and gravel)",
+        "Sand, gravel, and water",
+        "Cement, clay, and water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Concrete is made by mixing cement (usually Portland cement), water, and aggregate (a combination of sand and gravel or crushed stone). The cement and water form a paste that binds the aggregate together as it hardens.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-5",
+      "question": "What innovation did Joseph Monier, a French gardener, patent in 1867 that revolutionized construction?",
+      "options": [
+        "Concrete blocks",
+        "Colored concrete",
+        "Reinforced concrete using iron mesh",
+        "Pre-cast concrete"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Joseph Monier patented reinforced concrete in 1867, initially to make stronger garden pots by embedding iron mesh in concrete. This combination of concrete (strong in compression) and iron/steel (strong in tension) transformed construction.",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-6",
+      "question": "What is the primary difference between 'mortar' and 'concrete'?",
+      "options": [
+        "Concrete contains coarse aggregate (gravel) while mortar does not",
+        "They are identical",
+        "Mortar uses more water",
+        "Mortar is stronger"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Concrete contains cement, water, sand, and coarse aggregate (gravel or crushed stone), while mortar contains only cement, water, and fine sand. Mortar is used as a bonding agent between bricks or stones, not as a structural material.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-7",
+      "question": "The Great Wall of China used mortar made from which unusual ingredient mixed with rice flour?",
+      "options": [
+        "Honey",
+        "Egg whites",
+        "Animal blood",
+        "Sticky rice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The mortar used in sections of the Great Wall contained sticky rice (glutinous rice) flour mixed with calcium carbonate. The amylopectin in sticky rice made the mortar stronger and more water-resistant than plain lime mortar.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-8",
+      "question": "What is 'curing' in concrete construction?",
+      "options": [
+        "Adding color to concrete",
+        "Cutting concrete to shape",
+        "Maintaining moisture and temperature for proper hardening",
+        "Testing concrete strength"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Curing is the process of maintaining adequate moisture, temperature, and time to allow concrete to reach its desired strength. Proper curing is essential because the chemical reaction (hydration) between cement and water needs water to continue.",
+      "difficulty": "easy",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-9",
+      "question": "Which architectural style made extensive use of exposed raw concrete, giving rise to the term 'brutalism'?",
+      "options": [
+        "Gothic Revival",
+        "Art Deco",
+        "Brutalist architecture",
+        "Art Nouveau"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brutalist architecture, popular from the 1950s to 1970s, featured bold, monolithic structures made of exposed raw concrete (béton brut in French, from which the name derives). Le Corbusier's work strongly influenced this movement.",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-10",
+      "question": "What causes 'concrete cancer' (also known as alkali-silica reaction)?",
+      "options": [
+        "A chemical reaction between alkalis in cement and silica in aggregates causing expansion",
+        "UV light damage",
+        "Acid rain",
+        "Bacterial growth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Concrete cancer (alkali-silica reaction) occurs when alkalis in Portland cement react with certain forms of silica in the aggregates, forming a gel that absorbs water and expands, causing cracking and structural damage.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-11",
+      "question": "The ancient Egyptians built the pyramids primarily using which type of stone blocks?",
+      "options": [
+        "Sandstone",
+        "Limestone",
+        "Marble",
+        "Granite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Great Pyramids of Giza were primarily built using limestone blocks quarried nearby, with each block weighing approximately 2.5 tons. Granite was used for the internal chambers, and the outer casing was originally polished white limestone.",
+      "difficulty": "easy",
+      "category": "history"
+    },
+    {
+      "id": "concrete-masonry-quiz-12",
+      "question": "What is 'self-healing concrete' designed to do?",
+      "options": [
+        "Use embedded bacteria or capsules to fill cracks when they form",
+        "Change color when damaged",
+        "Repair surface scratches automatically",
+        "Absorb impacts without damage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Self-healing concrete contains bacteria spores or microcapsules of healing agents that are activated when cracks form and water enters. The bacteria produce limestone that fills the cracks, or the capsules release adhesive, extending the concrete's lifespan.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-13",
+      "question": "What is a 'flying form' in concrete construction?",
+      "options": [
+        "A concrete mold shaped like wings",
+        "A type of lightweight concrete",
+        "Large reusable formwork that is moved by crane from floor to floor",
+        "A decorative concrete finish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flying forms are large, reusable sections of formwork (molds) that are lifted by crane from one floor to the next as a building rises. They speed up construction significantly by eliminating the need to build new forms for each floor.",
+      "difficulty": "hard",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-14",
+      "question": "Concrete is the most widely used construction material in the world. Approximately how many tonnes are used globally per year?",
+      "options": [
+        "10 billion",
+        "5 billion",
+        "1 billion",
+        "30 billion"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Approximately 10 billion tonnes of concrete are used worldwide each year, making it the most consumed material on Earth after water. The cement industry alone accounts for about 8% of global carbon dioxide emissions.",
+      "difficulty": "medium",
+      "category": "engineering"
+    },
+    {
+      "id": "concrete-masonry-quiz-15",
+      "question": "What technique did medieval masons use to build tall stone cathedral walls without modern scaffolding?",
+      "options": [
+        "Balloon lifting",
+        "Steel scaffolding",
+        "Wooden centering and progressive construction",
+        "Concrete pumps"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Medieval masons used wooden centering (temporary frameworks) to support arches and vaults during construction, along with progressive building techniques where completed lower sections supported the scaffolding for higher work.",
+      "difficulty": "medium",
+      "category": "history"
+    }
+  ]
+}
