@@ -1681,8 +1681,8 @@ export function GameIcon({
 
 // Category colors
 export const categoryColors: Record<string, string> = {
-  "nostalgia-trivia": "#3B6FC0",
-  "general-knowledge": "#0891B2",
-  "word-games": "#E8983E",
-  "memory-games": "#16A34A",
+  "nostalgia-trivia": "#6366F1",
+  "general-knowledge": "#0EA5E9",
+  "word-games": "#F59E0B",
+  "memory-games": "#10B981",
 };
