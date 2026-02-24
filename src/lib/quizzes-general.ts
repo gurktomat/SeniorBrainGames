@@ -381,6 +381,7 @@ import worldStraits from "@/data/general-knowledge/world-straits.json";
 import worldTidalPhenomena from "@/data/general-knowledge/world-tidal-phenomena.json";
 import worldTradeRoutes from "@/data/general-knowledge/world-trade-routes.json";
 import worldWaterfalls from "@/data/general-knowledge/world-waterfalls.json";
+import wondersOfTheWorld from "@/data/general-knowledge/wonders-of-the-world.json";
 import worldWetlands from "@/data/general-knowledge/world-wetlands.json";
 import worldsLargestCities from "@/data/general-knowledge/worlds-largest-cities.json";
 import worldsLongestRivers from "@/data/general-knowledge/worlds-longest-rivers.json";
@@ -769,6 +770,7 @@ const quizzes: Quiz[] = [
   worldTidalPhenomena as Quiz,
   worldTradeRoutes as Quiz,
   worldWaterfalls as Quiz,
+  wondersOfTheWorld as Quiz,
   worldWetlands as Quiz,
   worldsLargestCities as Quiz,
   worldsLongestRivers as Quiz,

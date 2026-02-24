@@ -1,0 +1,43 @@
+{
+  "id": "classic-hollywood-leading-ladies",
+  "title": "Classic Hollywood Leading Ladies",
+  "description": "How well do you remember the silver screen's most iconic actresses? Test your knowledge of Audrey, Marilyn, and more!",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "chl-1",
+      "question": "Which actress starred as Holly Golightly in the 1961 classic 'Breakfast at Tiffany's'?",
+      "options": ["Audrey Hepburn", "Grace Kelly", "Elizabeth Taylor", "Shirley MacLaine"],
+      "correctAnswer": 0,
+      "explanation": "Audrey Hepburn's portrayal of Holly Golightly is one of the most iconic roles in cinema history."
+    },
+    {
+      "id": "chl-2",
+      "question": "Elizabeth Taylor was the first actress to be paid $1 million for a single role. Which 1963 film was it?",
+      "options": ["Cleopatra", "Cat on a Hot Tin Roof", "Who's Afraid of Virginia Woolf?", "Giant"],
+      "correctAnswer": 0,
+      "explanation": "Taylor received a record-breaking $1 million to play the title role in the epic 'Cleopatra'."
+    },
+    {
+      "id": "chl-3",
+      "question": "Marilyn Monroe famously sang 'Diamonds Are a Girl's Best Friend' in which film?",
+      "options": ["Some Like It Hot", "Gentlemen Prefer Blondes", "The Seven Year Itch", "How to Marry a Millionaire"],
+      "correctAnswer": 1,
+      "explanation": "The iconic musical number takes place in the 1953 film 'Gentlemen Prefer Blondes'."
+    },
+    {
+      "id": "chl-4",
+      "question": "Which leading lady left Hollywood in 1956 to become the Princess of Monaco?",
+      "options": ["Ingrid Bergman", "Lauren Bacall", "Grace Kelly", "Ava Gardner"],
+      "correctAnswer": 2,
+      "explanation": "Grace Kelly retired from acting at age 26 to marry Prince Rainier III of Monaco."
+    },
+    {
+      "id": "chl-5",
+      "question": "Judy Garland is most famous for her role as Dorothy Gale in which 1939 film?",
+      "options": ["Meet Me in St. Louis", "The Wizard of Oz", "A Star Is Born", "Easter Parade"],
+      "correctAnswer": 1,
+      "explanation": "Judy Garland became an international superstar playing Dorothy in 'The Wizard of Oz'."
+    }
+  ]
+}

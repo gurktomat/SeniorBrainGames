@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import Script from "next/script";
 import { Merriweather, Inter } from "next/font/google";
-import NavigationNew from "@/components/NavigationNew";
+import Navigation from "@/components/Navigation";
 import JsonLd from "@/components/JsonLd";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { ProgressProvider } from "@/lib/progress/ProgressProvider";
@@ -116,7 +116,7 @@ export default function RootLayout({
           <a href="#main-content" className="skip-to-content">
             Skip to content
           </a>
-          <NavigationNew />
+          <Navigation />
           <main id="main-content">
             {children}
           </main>

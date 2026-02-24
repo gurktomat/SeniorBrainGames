@@ -1,0 +1,43 @@
+{
+  "id": "wonders-of-the-world",
+  "title": "Wonders of the World",
+  "description": "How well do you know the world's most famous landmarks and ancient wonders? Test your knowledge of history and geography!",
+  "gameCategory": "general-knowledge",
+  "questions": [
+    {
+      "id": "wow-1",
+      "question": "The Great Pyramid of Giza is the only one of the original Seven Wonders of the Ancient World to still exist. Which country is it in?",
+      "options": ["Iraq", "Egypt", "Jordan", "Turkey"],
+      "correctAnswer": 1,
+      "explanation": "The Great Pyramid is in Giza, Egypt, and was built over 4,500 years ago."
+    },
+    {
+      "id": "wow-2",
+      "question": "The Taj Mahal, a magnificent white marble tomb, was built in the 17th century. In which city is it located?",
+      "options": ["Delhi", "Mumbai", "Agra", "Kolkata"],
+      "correctAnswer": 2,
+      "explanation": "The Taj Mahal is in Agra, India, and was commissioned by Mughal Emperor Shah Jahan."
+    },
+    {
+      "id": "wow-3",
+      "question": "Machu Picchu is a 15th-century Incan citadel located in the Andes Mountains of which country?",
+      "options": ["Chile", "Peru", "Bolivia", "Ecuador"],
+      "correctAnswer": 1,
+      "explanation": "Machu Picchu is in Peru and was likely built as an estate for the Incan emperor Pachacuti."
+    },
+    {
+      "id": "wow-4",
+      "question": "The Colosseum, an ancient amphitheater that could hold over 50,000 people, is in which city?",
+      "options": ["Rome", "Athens", "Cairo", "Jerusalem"],
+      "correctAnswer": 0,
+      "explanation": "The Colosseum is the largest amphitheater ever built and is in Rome, Italy."
+    },
+    {
+      "id": "wow-5",
+      "question": "The Great Wall of China stretches across northern China. It was built to protect against which nomadic group?",
+      "options": ["The Huns", "The Mongols", "The Vikings", "The Mayans"],
+      "correctAnswer": 1,
+      "explanation": "The Great Wall was built over many centuries to protect China from raids by nomadic groups from the Eurasian Steppe, especially the Mongols."
+    }
+  ]
+}

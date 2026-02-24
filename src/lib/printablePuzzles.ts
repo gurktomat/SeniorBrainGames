@@ -16,6 +16,7 @@ export const printablePuzzleSections: PrintablePuzzleSectionData[] = [
     description: "Classic crossword grids with across & down clues.",
     iconName: "grid",
     puzzles: [
+      { slug: "crossword-everyday", label: "Everyday Crossword (New)" },
       { slug: "crossword-everyday-words", label: "Everyday Words" },
       { slug: "crossword-classic-movies-music", label: "Classic Movies & Music" },
       { slug: "crossword-around-the-world", label: "Around the World" },
@@ -29,6 +30,7 @@ export const printablePuzzleSections: PrintablePuzzleSectionData[] = [
     description: "Find hidden words in the letter grid.",
     iconName: "search",
     puzzles: [
+      { slug: "word-search-1950s", label: "1950s Nostalgia (New)" },
       { slug: "word-search-nature-words", label: "Nature Words" },
       { slug: "word-search-kitchen-cooking", label: "Kitchen & Cooking" },
       { slug: "word-search-around-the-house", label: "Around the House" },
@@ -38,10 +40,19 @@ export const printablePuzzleSections: PrintablePuzzleSectionData[] = [
     ],
   },
   {
+    title: "Finish the Phrase",
+    description: "Complete the famous sayings and proverbs.",
+    iconName: "edit",
+    puzzles: [
+      { slug: "finish-phrase-proverbs", label: "Classic Proverbs Challenge (New)" },
+    ],
+  },
+  {
     title: "Sudoku",
     description: "Fill the 9×9 grid — every row, column, and box needs 1–9.",
     iconName: "hash",
     puzzles: [
+      { slug: "sudoku-garden", label: "Garden Edition (Easy)" },
       { slug: "sudoku-easy", label: "Easy" },
       { slug: "sudoku-medium", label: "Medium" },
       { slug: "sudoku-hard", label: "Hard" },
@@ -117,6 +128,7 @@ export const printablePuzzleSections: PrintablePuzzleSectionData[] = [
     description: "Find the path from start to finish through the maze.",
     iconName: "route",
     puzzles: [
+      { slug: "maze-nature-walk", label: "Nature Walk (New)" },
       { slug: "maze-easy", label: "Easy" },
       { slug: "maze-medium", label: "Medium" },
       { slug: "maze-hard", label: "Hard" },

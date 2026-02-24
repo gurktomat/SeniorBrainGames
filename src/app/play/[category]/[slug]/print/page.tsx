@@ -1,18 +1,30 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import GamePrintLayout from "@/components/printable/GamePrintLayout";
+import type { GameCategory } from "@/lib/types";
 
 export const metadata: Metadata = { robots: "noindex, nofollow" };
+
 import PrintableQuiz from "@/components/printable/PrintableQuiz";
 import PrintableTrueOrFalse from "@/components/printable/PrintableTrueOrFalse";
+import PrintableRiddles from "@/components/printable/PrintableRiddles";
 import PrintableCrossword from "@/components/printable/PrintableCrossword";
 import PrintableWordSearch from "@/components/printable/PrintableWordSearch";
 import PrintableWordScramble from "@/components/printable/PrintableWordScramble";
-import PrintableRiddles from "@/components/printable/PrintableRiddles";
 import PrintableWordLadder from "@/components/printable/PrintableWordLadder";
 import PrintableCryptogram from "@/components/printable/PrintableCryptogram";
-import { getQuizBySlug, getQuizzesByCategory } from "@/lib/quizzes";
+import PrintableSudoku from "@/components/printable/PrintableSudoku";
+import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
 
+// Nostalgia data
+import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
+import nostalgiaRiddlesData from "@/data/nostalgia-trivia/nostalgia-riddles.json";
+
+// General knowledge data
+import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
+import scienceTrueOrFalseData from "@/data/general-knowledge/science-true-or-false.json";
+
+// Word games data
 import crosswordData from "@/data/word-games/crossword-classic.json";
 import crosswordNatureScienceData from "@/data/word-games/crossword-nature-science.json";
 import wordSearchData from "@/data/word-games/word-search.json";
@@ -26,29 +38,66 @@ import cryptogramData from "@/data/word-games/cryptogram.json";
 import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
 import grammarTFData from "@/data/word-games/grammar-true-or-false.json";
 
-const printableSpecials: Record<string, string> = {
-  "word-scramble": "Word Scramble",
-  "food-word-scramble": "Food Word Scramble",
-  "crossword-classic": "Classic Crossword",
-  "crossword-nature-science": "Nature & Science Crossword",
-  "word-search": "Word Search",
-  "word-search-animals": "Animal Word Search",
-  "word-ladder": "Word Ladder",
-  "word-ladder-challenge": "Word Ladder Challenge",
-  "cryptogram": "Cryptogram",
-  "cryptogram-poetry": "Poetry Cryptogram",
-  "riddle-challenge": "Riddle Challenge",
-  "grammar-true-or-false": "Grammar True or False",
+// Memory games data
+import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
+import sudokuChallengeData from "@/data/memory-games/sudoku-challenge.json";
+import memoryTrueOrFalseData from "@/data/memory-games/memory-true-or-false.json";
+
+const VALID_CATEGORIES: GameCategory[] = ["nostalgia-trivia", "general-knowledge", "word-games", "memory-games"];
+
+const printableSpecials: Record<string, Record<string, string>> = {
+  "nostalgia-trivia": {
+    "nostalgia-riddles": "Nostalgia Riddles",
+    "nostalgia-fact-or-fiction": "Nostalgia Fact or Fiction",
+  },
+  "general-knowledge": {
+    "true-or-false": "True or False",
+    "science-true-or-false": "Science True or False",
+  },
+  "word-games": {
+    "word-scramble": "Word Scramble",
+    "food-word-scramble": "Food Word Scramble",
+    "crossword-classic": "Classic Crossword",
+    "crossword-nature-science": "Nature & Science Crossword",
+    "word-search": "Word Search",
+    "word-search-animals": "Animal Word Search",
+    "word-ladder": "Word Ladder",
+    "word-ladder-challenge": "Word Ladder Challenge",
+    "cryptogram": "Cryptogram",
+    "cryptogram-poetry": "Poetry Cryptogram",
+    "riddle-challenge": "Riddle Challenge",
+    "grammar-true-or-false": "Grammar True or False",
+  },
+  "memory-games": {
+    "sudoku-puzzles": "Sudoku",
+    "sudoku-challenge": "Sudoku Challenge",
+    "memory-true-or-false": "Memory True or False",
+  },
 };
 
 export function generateStaticParams() {
-  const quizSlugs = getQuizzesByCategory("word-games").map((q) => ({ slug: q.id }));
-  const specialSlugs = Object.keys(printableSpecials).map((s) => ({ slug: s }));
-  return [...quizSlugs, ...specialSlugs];
+  return VALID_CATEGORIES.flatMap((category) => {
+    const quizSlugs = getQuizzesByCategory(category).map((q) => ({ category, slug: q.id }));
+    const specialSlugs = Object.keys(printableSpecials[category] ?? {}).map((s) => ({ category, slug: s }));
+    return [...quizSlugs, ...specialSlugs];
+  });
 }
 
 function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers: boolean }) {
   switch (slug) {
+    // Nostalgia
+    case "nostalgia-riddles":
+      return <PrintableRiddles title="Nostalgia Riddles" riddles={nostalgiaRiddlesData.riddles} showAnswers={showAnswers} />;
+    case "nostalgia-fact-or-fiction":
+      return <PrintableTrueOrFalse title={nostalgiaFactOrFictionData.title} statements={nostalgiaFactOrFictionData.statements} showAnswers={showAnswers} />;
+
+    // General knowledge
+    case "true-or-false":
+      return <PrintableTrueOrFalse title={trueOrFalseData.title} statements={trueOrFalseData.statements} showAnswers={showAnswers} />;
+    case "science-true-or-false":
+      return <PrintableTrueOrFalse title={scienceTrueOrFalseData.title} statements={scienceTrueOrFalseData.statements} showAnswers={showAnswers} />;
+
+    // Word games
     case "word-scramble":
       return <PrintableWordScramble title="Word Scramble" puzzles={wordScrambleData.puzzles} showAnswers={showAnswers} />;
     case "food-word-scramble":
@@ -127,37 +176,67 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
       return <PrintableRiddles title="Riddle Challenge" riddles={riddleData.riddles} showAnswers={showAnswers} />;
     case "grammar-true-or-false":
       return <PrintableTrueOrFalse title={grammarTFData.title} statements={grammarTFData.statements} showAnswers={showAnswers} />;
+
+    // Memory games
+    case "sudoku-puzzles":
+      return (
+        <>
+          {sudokuData.puzzles.map((puzzle, i) => (
+            <div key={puzzle.id}>
+              {i > 0 && <div className="print-page-break" />}
+              <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
+            </div>
+          ))}
+        </>
+      );
+    case "sudoku-challenge":
+      return (
+        <>
+          {sudokuChallengeData.puzzles.map((puzzle, i) => (
+            <div key={puzzle.id}>
+              {i > 0 && <div className="print-page-break" />}
+              <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
+            </div>
+          ))}
+        </>
+      );
+    case "memory-true-or-false":
+      return <PrintableTrueOrFalse title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} showAnswers={showAnswers} />;
+
     default:
       return null;
   }
 }
 
-export default async function WordGamesPrintPage({
+export default async function UnifiedPrintPage({
   params,
   searchParams,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ category: string; slug: string }>;
   searchParams: Promise<{ answers?: string }>;
 }) {
-  const { slug } = await params;
+  const { category, slug } = await params;
   const { answers } = await searchParams;
   const showAnswers = answers === "true";
 
+  if (!VALID_CATEGORIES.includes(category as GameCategory)) notFound();
+
   // Quiz game
-  const quiz = getQuizBySlug("word-games", slug);
+  const quiz = getQuizBySlug(category as GameCategory, slug);
   if (quiz) {
     return (
-      <GamePrintLayout backHref={`/word-games/${slug}`} backLabel="Back to Game" title={quiz.title}>
+      <GamePrintLayout backHref={`/play/${category}/${slug}`} backLabel="Back to Game" title={quiz.title}>
         <PrintableQuiz quiz={quiz} showAnswers={showAnswers} />
       </GamePrintLayout>
     );
   }
 
   // Special printable game
-  const title = printableSpecials[slug];
+  const catSpecials = printableSpecials[category] ?? {};
+  const title = catSpecials[slug];
   if (title) {
     return (
-      <GamePrintLayout backHref={`/word-games/${slug}`} backLabel="Back to Game" title={title}>
+      <GamePrintLayout backHref={`/play/${category}/${slug}`} backLabel="Back to Game" title={title}>
         <SpecialPrintContent slug={slug} showAnswers={showAnswers} />
       </GamePrintLayout>
     );

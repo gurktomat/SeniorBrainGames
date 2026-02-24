@@ -12,7 +12,7 @@ export default function PrintableQuiz({
   return (
     <>
       {/* Puzzle */}
-      <div className="print-no-break">
+      <div>
         <h2
           className="mb-4 text-2xl font-bold text-primary"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -23,7 +23,7 @@ export default function PrintableQuiz({
 
         <ol className="space-y-6 text-base">
           {quiz.questions.map((q, i) => (
-            <li key={q.id}>
+            <li key={q.id} className="print-no-break">
               <div className="flex gap-3">
                 <span className="font-bold text-primary">{i + 1}.</span>
                 <div className="flex-1">
@@ -53,7 +53,7 @@ export default function PrintableQuiz({
       {showAnswers && (
         <>
           <div className="print-page-break" />
-          <div className="print-no-break">
+          <div>
             <h2
               className="mb-4 text-2xl font-bold text-primary"
               style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -63,7 +63,7 @@ export default function PrintableQuiz({
 
             <ol className="space-y-3 text-base">
               {quiz.questions.map((q, i) => (
-                <li key={q.id}>
+                <li key={q.id} className="print-no-break">
                   <div className="flex gap-3">
                     <span className="font-bold text-primary">{i + 1}.</span>
                     <div>
