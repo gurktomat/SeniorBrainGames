@@ -92,7 +92,7 @@ const article: BlogArticle = {
 <li><strong>Print extras</strong> for friends, family, or your community group!</li>
 </ul>
 
-<p>Browse the full collection at our <a href="/printable-puzzles">Printable Puzzles</a> page, or explore our <a href="/word-games">online word games</a> and <a href="/memory-games">memory games</a> for more brain exercise.</p>
+<p>Browse the full collection at our <a href="/printable-puzzles">Printable Puzzles</a> page, or explore our <a href="/play/word-games">online word games</a> and <a href="/play/memory-games">memory games</a> for more brain exercise.</p>
 `,
 };
 

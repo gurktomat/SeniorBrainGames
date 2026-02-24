@@ -23,19 +23,19 @@ const article: BlogArticle = {
 <h2>Types of Trivia Games</h2>
 
 <h3>Nostalgia Trivia</h3>
-<p>These questions tap into memories from your younger years — the music you danced to, the TV shows you watched, the events that shaped your world. Nostalgia trivia is especially enjoyable because it combines mental exercise with pleasant memories. Our <a href="/nostalgia-trivia">Nostalgia Trivia</a> category has dozens of quizzes covering everything from classic television to historic events.</p>
+<p>These questions tap into memories from your younger years — the music you danced to, the TV shows you watched, the events that shaped your world. Nostalgia trivia is especially enjoyable because it combines mental exercise with pleasant memories. Our <a href="/play/nostalgia-trivia">Nostalgia Trivia</a> category has dozens of quizzes covering everything from classic television to historic events.</p>
 
 <h3>General Knowledge</h3>
-<p>From science and geography to food and nature, general knowledge trivia tests the breadth of what you know. It is the classic quiz format that covers a little bit of everything. Explore our <a href="/general-knowledge">General Knowledge</a> section for quizzes on topics ranging from world capitals to famous inventions.</p>
+<p>From science and geography to food and nature, general knowledge trivia tests the breadth of what you know. It is the classic quiz format that covers a little bit of everything. Explore our <a href="/play/general-knowledge">General Knowledge</a> section for quizzes on topics ranging from world capitals to famous inventions.</p>
 
 <h3>True or False</h3>
-<p>Sometimes the simplest format is the most fun. True or false questions are quick, accessible, and often surprising — you would be amazed how many "obvious" facts turn out to be false. Try our <a href="/general-knowledge/true-or-false">True or False</a> game for a fast-paced brain challenge.</p>
+<p>Sometimes the simplest format is the most fun. True or false questions are quick, accessible, and often surprising — you would be amazed how many "obvious" facts turn out to be false. Try our <a href="/play/general-knowledge/true-or-false">True or False</a> game for a fast-paced brain challenge.</p>
 
 <h3>Who Am I?</h3>
-<p>These games give you progressive clues about a famous person, place, or thing, and you try to guess the answer with as few clues as possible. They are wonderfully engaging because each clue narrows the possibilities. Play <a href="/nostalgia-trivia/who-am-i">Who Am I?</a> to test your deductive skills.</p>
+<p>These games give you progressive clues about a famous person, place, or thing, and you try to guess the answer with as few clues as possible. They are wonderfully engaging because each clue narrows the possibilities. Play <a href="/play/nostalgia-trivia/who-am-i">Who Am I?</a> to test your deductive skills.</p>
 
 <h3>Timeline Games</h3>
-<p>Can you put historical events in the right order? Timeline games combine knowledge with sequential reasoning. Our <a href="/nostalgia-trivia/nostalgia-timeline-sort">Nostalgia Timeline Sort</a> asks you to arrange events from different decades, testing both your memory and your sense of chronology.</p>
+<p>Can you put historical events in the right order? Timeline games combine knowledge with sequential reasoning. Our <a href="/play/nostalgia-trivia/nostalgia-timeline-sort">Nostalgia Timeline Sort</a> asks you to arrange events from different decades, testing both your memory and your sense of chronology.</p>
 
 <h2>Tips for Enjoying Trivia Games</h2>
 
@@ -55,7 +55,7 @@ const article: BlogArticle = {
 <p>One of the easiest ways to make trivia a habit is through our <a href="/daily-challenge">Daily Challenge</a>. Every day, you get five new questions drawn from across all categories. It takes just a few minutes and builds a streak that keeps you coming back. Many of our players say it is the first thing they do with their morning coffee.</p>
 
 <h2>Start Playing Trivia Today</h2>
-<p>With dozens of trivia quizzes across <a href="/nostalgia-trivia">Nostalgia</a> and <a href="/general-knowledge">General Knowledge</a> categories, there is always something new to discover. Every question you answer — right or wrong — is a workout for your brain. Pick a topic that interests you and dive in. Your decades of knowledge and experience are your greatest advantage.</p>
+<p>With dozens of trivia quizzes across <a href="/play/nostalgia-trivia">Nostalgia</a> and <a href="/play/general-knowledge">General Knowledge</a> categories, there is always something new to discover. Every question you answer — right or wrong — is a workout for your brain. Pick a topic that interests you and dive in. Your decades of knowledge and experience are your greatest advantage.</p>
 `,
 };
 

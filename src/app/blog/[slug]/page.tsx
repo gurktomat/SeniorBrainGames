@@ -132,7 +132,7 @@ export default async function BlogArticlePage({
             Daily Challenge
           </Link>
           <Link
-            href="/word-games"
+            href="/play"
             className="inline-flex items-center gap-2 rounded-xl border-2 border-white/30 bg-white/10 px-6 py-3 text-base font-bold text-white transition-all hover:bg-white/20"
           >
             Browse Games

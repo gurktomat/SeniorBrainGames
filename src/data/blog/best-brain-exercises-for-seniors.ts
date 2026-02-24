@@ -14,15 +14,15 @@ const article: BlogArticle = {
 
 <h2>1. Word Puzzles</h2>
 <p>Crosswords, word searches, and word scrambles are classic brain exercises for good reason. They engage your language centers, boost vocabulary recall, and improve pattern recognition. Studies published in the <em>International Journal of Geriatric Psychiatry</em> found that adults who regularly engage in word puzzles have brain function equivalent to people ten years younger.</p>
-<p>Try our free <a href="/word-games">word games</a> — including crosswords, word scrambles, hangman, and more — all designed with seniors in mind.</p>
+<p>Try our free <a href="/play/word-games">word games</a> — including crosswords, word scrambles, hangman, and more — all designed with seniors in mind.</p>
 
 <h2>2. Memory Card Games</h2>
 <p>Card-matching games are excellent for strengthening short-term memory. By flipping cards to find matching pairs, you exercise spatial memory and concentration. Start with smaller grids and work your way up as your memory improves.</p>
-<p>Our <a href="/memory-games/memory-card-match">Memory Card Match</a> game offers three difficulty levels so you can progress at your own pace.</p>
+<p>Our <a href="/play/memory-games/memory-card-match">Memory Card Match</a> game offers three difficulty levels so you can progress at your own pace.</p>
 
 <h2>3. Trivia Quizzes</h2>
 <p>Trivia is a wonderful brain exercise because it activates long-term memory retrieval. Whether it is history, geography, or pop culture, recalling facts you learned years ago strengthens neural pathways. Nostalgia-themed trivia is especially beneficial — it connects emotional memories with factual recall.</p>
-<p>Explore our <a href="/nostalgia-trivia">Nostalgia Trivia</a> and <a href="/general-knowledge">General Knowledge</a> categories for hundreds of questions.</p>
+<p>Explore our <a href="/play/nostalgia-trivia">Nostalgia Trivia</a> and <a href="/play/general-knowledge">General Knowledge</a> categories for hundreds of questions.</p>
 
 <h2>4. Sudoku and Number Puzzles</h2>
 <p>Number puzzles like Sudoku engage logical thinking and problem-solving skills. They require you to hold multiple possibilities in mind simultaneously, which strengthens working memory. Research from the University of Exeter found that Sudoku players had sharper cognitive function than non-players.</p>
@@ -39,7 +39,7 @@ const article: BlogArticle = {
 
 <h2>8. Pattern Recognition Games</h2>
 <p>Games that ask you to identify patterns — whether in numbers, shapes, or sequences — strengthen analytical thinking. Pattern recognition is a foundational cognitive skill that supports problem-solving in everyday life.</p>
-<p>Our <a href="/memory-games/pattern-recognition">Pattern Recognition</a> game is a great place to start.</p>
+<p>Our <a href="/play/memory-games/pattern-recognition">Pattern Recognition</a> game is a great place to start.</p>
 
 <h2>9. Jigsaw Puzzles</h2>
 <p>Jigsaw puzzles exercise both sides of the brain. The left brain handles logical thinking (sorting pieces by shape), while the right brain handles creative thinking (seeing the big picture). Physical puzzles also improve fine motor skills and provide a meditative, stress-reducing experience.</p>
@@ -49,7 +49,7 @@ const article: BlogArticle = {
 
 <h2>Getting Started</h2>
 <p>The best brain exercise is the one you actually enjoy doing. Start with activities that interest you and gradually try new types of challenges. Aim for at least 15 to 30 minutes of brain exercise daily, and remember — it is never too late to start.</p>
-<p>Ready to exercise your brain? <a href="/word-games">Try our free word games</a>, test your memory with <a href="/memory-games">memory challenges</a>, or start your streak with the <a href="/daily-challenge">Daily Challenge</a>.</p>
+<p>Ready to exercise your brain? <a href="/play/word-games">Try our free word games</a>, test your memory with <a href="/play/memory-games">memory challenges</a>, or start your streak with the <a href="/daily-challenge">Daily Challenge</a>.</p>
 `,
 };
 

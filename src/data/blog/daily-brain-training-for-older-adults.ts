@@ -25,11 +25,11 @@ const article: BlogArticle = {
 <h3>Mid-Morning Deep Exercise (10 minutes)</h3>
 <p>Choose one focused activity that pushes your brain a bit harder:</p>
 <ul>
-<li><strong>Monday:</strong> Word game — try a <a href="/word-games/crossword-classic">crossword</a> or <a href="/word-games/word-scramble">word scramble</a></li>
-<li><strong>Tuesday:</strong> Memory challenge — play <a href="/memory-games/memory-card-match">Memory Card Match</a> or <a href="/memory-games/sequence-memory">Sequence Memory</a></li>
-<li><strong>Wednesday:</strong> Trivia — explore <a href="/nostalgia-trivia">Nostalgia Trivia</a></li>
-<li><strong>Thursday:</strong> Logic puzzle — try <a href="/memory-games/sudoku-puzzles">Sudoku</a> or <a href="/memory-games/pattern-recognition">Pattern Recognition</a></li>
-<li><strong>Friday:</strong> General knowledge — test yourself with <a href="/general-knowledge">General Knowledge</a> quizzes</li>
+<li><strong>Monday:</strong> Word game — try a <a href="/play/word-games/crossword-classic">crossword</a> or <a href="/play/word-games/word-scramble">word scramble</a></li>
+<li><strong>Tuesday:</strong> Memory challenge — play <a href="/play/memory-games/memory-card-match">Memory Card Match</a> or <a href="/play/memory-games/sequence-memory">Sequence Memory</a></li>
+<li><strong>Wednesday:</strong> Trivia — explore <a href="/play/nostalgia-trivia">Nostalgia Trivia</a></li>
+<li><strong>Thursday:</strong> Logic puzzle — try <a href="/play/memory-games/sudoku-puzzles">Sudoku</a> or <a href="/play/memory-games/pattern-recognition">Pattern Recognition</a></li>
+<li><strong>Friday:</strong> General knowledge — test yourself with <a href="/play/general-knowledge">General Knowledge</a> quizzes</li>
 <li><strong>Weekend:</strong> Your choice — revisit your favorites or try something new!</li>
 </ul>
 
@@ -53,7 +53,7 @@ const article: BlogArticle = {
 <li><strong>Number puzzles</strong> build logical reasoning</li>
 <li><strong>Pattern games</strong> improve analytical thinking</li>
 </ul>
-<p>Rotating through our four categories — <a href="/word-games">Word Games</a>, <a href="/memory-games">Memory Games</a>, <a href="/nostalgia-trivia">Nostalgia Trivia</a>, and <a href="/general-knowledge">General Knowledge</a> — naturally provides this variety.</p>
+<p>Rotating through our four categories — <a href="/play/word-games">Word Games</a>, <a href="/play/memory-games">Memory Games</a>, <a href="/play/nostalgia-trivia">Nostalgia Trivia</a>, and <a href="/play/general-knowledge">General Knowledge</a> — naturally provides this variety.</p>
 
 <h3>Start Small</h3>
 <p>If 20 minutes feels like a lot, start with just the Daily Challenge — it takes under five minutes. Once that becomes a habit, gradually add more. Even five minutes a day is far better than nothing.</p>
@@ -72,7 +72,7 @@ const article: BlogArticle = {
 </ul>
 
 <h2>Get Started Today</h2>
-<p>The best time to start a brain training habit is today. Begin with the <a href="/daily-challenge">Daily Challenge</a>, explore our <a href="/word-games">word games</a> and <a href="/memory-games">memory games</a>, or print a <a href="/printable-puzzles">puzzle sheet</a> for some offline brain exercise. Your future self will thank you.</p>
+<p>The best time to start a brain training habit is today. Begin with the <a href="/daily-challenge">Daily Challenge</a>, explore our <a href="/play/word-games">word games</a> and <a href="/play/memory-games">memory games</a>, or print a <a href="/printable-puzzles">puzzle sheet</a> for some offline brain exercise. Your future self will thank you.</p>
 `,
 };
 

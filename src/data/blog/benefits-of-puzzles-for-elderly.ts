@@ -16,7 +16,7 @@ const article: BlogArticle = {
 
 <h2>Memory Improvement</h2>
 <p>One of the most well-documented benefits of puzzles is improved memory. Memory games — such as card matching, pattern recall, and sequence memory — directly exercise short-term and working memory. These same memory systems are involved in everyday tasks like remembering where you put your keys or recalling items on a grocery list.</p>
-<p>Explore our <a href="/memory-games">memory games</a> designed specifically with seniors in mind, including card matching, pattern recognition, and visual memory challenges.</p>
+<p>Explore our <a href="/play/memory-games">memory games</a> designed specifically with seniors in mind, including card matching, pattern recognition, and visual memory challenges.</p>
 
 <h2>Stress Reduction</h2>
 <p>Puzzles promote a state of focused relaxation similar to meditation. When you concentrate on finding the next word in a word search or placing a number in a Sudoku grid, your mind shifts away from worries and stressors. This focused attention can lower cortisol levels and promote a sense of calm accomplishment.</p>
@@ -44,7 +44,7 @@ const article: BlogArticle = {
 <li><strong>Make it enjoyable.</strong> The best puzzle is the one you look forward to doing. If you love words, start with crosswords. If numbers are your thing, try Sudoku.</li>
 </ul>
 
-<p>Ready to experience the benefits for yourself? Browse our <a href="/memory-games">memory games</a>, try a <a href="/printable-puzzles">printable puzzle</a>, or start a streak with the <a href="/daily-challenge">Daily Challenge</a>.</p>
+<p>Ready to experience the benefits for yourself? Browse our <a href="/play/memory-games">memory games</a>, try a <a href="/printable-puzzles">printable puzzle</a>, or start a streak with the <a href="/daily-challenge">Daily Challenge</a>.</p>
 `,
 };
 

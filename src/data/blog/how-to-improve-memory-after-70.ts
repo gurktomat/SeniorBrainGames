@@ -16,10 +16,10 @@ const article: BlogArticle = {
 <p>The "use it or lose it" principle applies strongly to memory. A landmark study published in the <em>New England Journal of Medicine</em> followed older adults for over 20 years and found that those who regularly engaged in mentally stimulating activities had a significantly lower risk of cognitive decline.</p>
 <p>The key is variety and consistency. Different types of brain exercises target different cognitive skills:</p>
 <ul>
-<li><strong>Memory games</strong> like card matching and sequence recall directly train your ability to store and retrieve information. Try our <a href="/memory-games/memory-card-match">Memory Card Match</a> or <a href="/memory-games/sequence-memory">Sequence Memory</a> games.</li>
-<li><strong>Word games</strong> strengthen language processing and vocabulary recall — skills that support clear thinking and communication. Explore our <a href="/word-games">Word Games</a> collection.</li>
-<li><strong>Trivia and knowledge games</strong> exercise long-term memory retrieval, pulling facts from deep storage. Browse our <a href="/nostalgia-trivia">Nostalgia Trivia</a> quizzes.</li>
-<li><strong>Logic puzzles</strong> like <a href="/memory-games/sudoku-puzzles">Sudoku</a> build reasoning skills that support memory organization.</li>
+<li><strong>Memory games</strong> like card matching and sequence recall directly train your ability to store and retrieve information. Try our <a href="/play/memory-games/memory-card-match">Memory Card Match</a> or <a href="/play/memory-games/sequence-memory">Sequence Memory</a> games.</li>
+<li><strong>Word games</strong> strengthen language processing and vocabulary recall — skills that support clear thinking and communication. Explore our <a href="/play/word-games">Word Games</a> collection.</li>
+<li><strong>Trivia and knowledge games</strong> exercise long-term memory retrieval, pulling facts from deep storage. Browse our <a href="/play/nostalgia-trivia">Nostalgia Trivia</a> quizzes.</li>
+<li><strong>Logic puzzles</strong> like <a href="/play/memory-games/sudoku-puzzles">Sudoku</a> build reasoning skills that support memory organization.</li>
 </ul>
 <p>Aim for 15 to 20 minutes of brain exercise daily. Our <a href="/daily-challenge">Daily Challenge</a> is a great way to start — five questions across different categories in just a few minutes.</p>
 
@@ -81,7 +81,7 @@ const article: BlogArticle = {
 <h2>Small Steps, Big Results</h2>
 <p>You do not need to overhaul your entire life to improve your memory. Start with one or two changes — perhaps a daily brain game and a 20-minute walk — and build from there. The brain remains remarkably adaptable at any age. Every memory game you play, every good night of sleep, and every conversation you have contributes to keeping your mind sharp.</p>
 
-<p>Ready to start? Try our <a href="/memory-games">Memory Games</a> for targeted memory exercises, or begin with the <a href="/daily-challenge">Daily Challenge</a> for a quick daily brain workout. Your brain will thank you.</p>
+<p>Ready to start? Try our <a href="/play/memory-games">Memory Games</a> for targeted memory exercises, or begin with the <a href="/daily-challenge">Daily Challenge</a> for a quick daily brain workout. Your brain will thank you.</p>
 `,
 };
 

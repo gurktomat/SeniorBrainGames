@@ -15,7 +15,7 @@ const article: BlogArticle = {
 <h2>Stay Mentally Active</h2>
 <p>The brain thrives on novelty and challenge. Routine tasks — while comfortable — do not push your brain to form new connections. To stay sharp, regularly engage in activities that make you think in new ways.</p>
 <ul>
-<li><strong>Trivia and quizzes</strong> activate long-term memory retrieval. Our <a href="/nostalgia-trivia">Nostalgia Trivia</a> combines the joy of reminiscing with genuine cognitive exercise.</li>
+<li><strong>Trivia and quizzes</strong> activate long-term memory retrieval. Our <a href="/play/nostalgia-trivia">Nostalgia Trivia</a> combines the joy of reminiscing with genuine cognitive exercise.</li>
 <li><strong>Learning something new</strong> — a language, instrument, or craft — creates entirely new neural pathways.</li>
 <li><strong>Strategy games</strong> like chess, bridge, or Sudoku exercise planning and problem-solving skills.</li>
 <li><strong>Reading widely</strong> across different topics keeps your brain processing diverse information.</li>
@@ -70,14 +70,14 @@ const article: BlogArticle = {
 <p>Consistency matters more than intensity. A short daily brain workout is more effective than occasional marathon sessions. Build brain exercise into your routine:</p>
 <ul>
 <li>Morning: A quick <a href="/daily-challenge">Daily Challenge</a> with your coffee</li>
-<li>Afternoon: A <a href="/general-knowledge">General Knowledge</a> quiz or word game</li>
+<li>Afternoon: A <a href="/play/general-knowledge">General Knowledge</a> quiz or word game</li>
 <li>Evening: A relaxing crossword or word search before bed</li>
 </ul>
 
 <h2>The Bottom Line</h2>
 <p>Keeping your mind sharp after 60 is not about any single magic solution. It is about building a lifestyle that combines mental stimulation, physical activity, social connection, good nutrition, quality sleep, and stress management. Start with the areas you enjoy most, and gradually incorporate more brain-healthy habits into your daily life.</p>
 
-<p>Ready to get started? Explore our <a href="/nostalgia-trivia">Nostalgia Trivia</a> for a trip down memory lane, challenge yourself with <a href="/general-knowledge">General Knowledge</a> quizzes, or try a relaxing <a href="/printable-puzzles">printable puzzle</a>.</p>
+<p>Ready to get started? Explore our <a href="/play/nostalgia-trivia">Nostalgia Trivia</a> for a trip down memory lane, challenge yourself with <a href="/play/general-knowledge">General Knowledge</a> quizzes, or try a relaxing <a href="/printable-puzzles">printable puzzle</a>.</p>
 `,
 };
 

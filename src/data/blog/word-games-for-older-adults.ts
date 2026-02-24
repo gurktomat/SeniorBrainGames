@@ -24,25 +24,25 @@ const article: BlogArticle = {
 <h2>Types of Word Games</h2>
 
 <h3>Crossword Puzzles</h3>
-<p>The king of word games. Crosswords combine vocabulary, trivia, wordplay, and logical deduction into one satisfying package. They are particularly good for seniors because they reward knowledge accumulated over a lifetime. Our <a href="/word-games/crossword-classic">Crossword Classic</a> offers puzzles you can solve at your own pace with no time pressure.</p>
+<p>The king of word games. Crosswords combine vocabulary, trivia, wordplay, and logical deduction into one satisfying package. They are particularly good for seniors because they reward knowledge accumulated over a lifetime. Our <a href="/play/word-games/crossword-classic">Crossword Classic</a> offers puzzles you can solve at your own pace with no time pressure.</p>
 
 <h3>Word Search Puzzles</h3>
 <p>Word searches are wonderfully relaxing while still giving your brain a workout. Scanning a grid for hidden words exercises visual attention and pattern recognition. They are also perfect for printing — grab some from our <a href="/printable-puzzles">free printable puzzles</a> page for pencil-and-paper fun.</p>
 
 <h3>Word Scrambles</h3>
-<p>Unscrambling jumbled letters into real words challenges your brain to think flexibly about letter combinations. It is like a mini puzzle for each word. Try our <a href="/word-games/word-scramble">Word Scramble</a> game to see how quickly you can decode the answers.</p>
+<p>Unscrambling jumbled letters into real words challenges your brain to think flexibly about letter combinations. It is like a mini puzzle for each word. Try our <a href="/play/word-games/word-scramble">Word Scramble</a> game to see how quickly you can decode the answers.</p>
 
 <h3>Hangman</h3>
-<p>This classic guessing game tests your vocabulary and letter frequency intuition. Our <a href="/word-games/hangman">Hangman</a> game uses a wide variety of words to keep things interesting round after round.</p>
+<p>This classic guessing game tests your vocabulary and letter frequency intuition. Our <a href="/play/word-games/hangman">Hangman</a> game uses a wide variety of words to keep things interesting round after round.</p>
 
 <h3>Cryptograms</h3>
-<p>In a cryptogram, each letter has been replaced by a different letter, and you need to crack the code to reveal a hidden quote or phrase. It combines vocabulary knowledge with code-breaking logic. Try our <a href="/word-games/cryptogram-challenge">Cryptogram Challenge</a> for a satisfying mental puzzle.</p>
+<p>In a cryptogram, each letter has been replaced by a different letter, and you need to crack the code to reveal a hidden quote or phrase. It combines vocabulary knowledge with code-breaking logic. Try our <a href="/play/word-games/cryptogram-challenge">Cryptogram Challenge</a> for a satisfying mental puzzle.</p>
 
 <h3>Word Ladders</h3>
-<p>Start with one word and change one letter at a time to reach a target word. Each step must form a valid word. It is a creative challenge that exercises flexible thinking. Play our <a href="/word-games/word-ladder">Word Ladder</a> game to test your skills.</p>
+<p>Start with one word and change one letter at a time to reach a target word. Each step must form a valid word. It is a creative challenge that exercises flexible thinking. Play our <a href="/play/word-games/word-ladder">Word Ladder</a> game to test your skills.</p>
 
 <h3>Proverb Completion</h3>
-<p>Can you finish the famous saying? <a href="/word-games/proverb-completion">Proverb Completion</a> taps into your long-term memory and cultural knowledge, asking you to fill in missing words from well-known proverbs and expressions.</p>
+<p>Can you finish the famous saying? <a href="/play/word-games/proverb-completion">Proverb Completion</a> taps into your long-term memory and cultural knowledge, asking you to fill in missing words from well-known proverbs and expressions.</p>
 
 <h2>Getting Started with Word Games</h2>
 
@@ -69,7 +69,7 @@ const article: BlogArticle = {
 <p>These are not just game skills — they translate directly into sharper communication and more confident daily interactions.</p>
 
 <h2>Explore Our Word Games</h2>
-<p>Ready to give your vocabulary a workout? Browse our full collection of <a href="/word-games">Word Games</a> — from relaxing word searches to brain-bending cryptograms, there is something for every skill level. Your love of language is one of your greatest assets. Word games help you keep it sharp.</p>
+<p>Ready to give your vocabulary a workout? Browse our full collection of <a href="/play/word-games">Word Games</a> — from relaxing word searches to brain-bending cryptograms, there is something for every skill level. Your love of language is one of your greatest assets. Word games help you keep it sharp.</p>
 `,
 };
 

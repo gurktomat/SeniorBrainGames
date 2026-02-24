@@ -43,7 +43,7 @@ export default function RelatedGames({
         {selected.map((game) => (
           <Link
             key={game.id}
-            href={`/${category}/${game.id}`}
+            href={`/play/${category}/${game.id}`}
             className="card-playful group flex items-center gap-4 p-4"
           >
             <GameIcon gameId={game.id} color={color} />

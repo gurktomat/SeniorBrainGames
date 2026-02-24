@@ -102,7 +102,7 @@ export const allGames: GameEntry[] = [
     description: g.description,
     category: g.category,
     categoryLabel: categoryInfo[g.category].title,
-    href: `/${g.category}/${g.id}`,
+    href: `/play/${g.category}/${g.id}`,
     keywords: g.keywords,
   })),
   ...getAllQuizzes().map((q) => ({
@@ -111,7 +111,7 @@ export const allGames: GameEntry[] = [
     description: q.description,
     category: q.gameCategory,
     categoryLabel: categoryInfo[q.gameCategory].title,
-    href: `/${q.gameCategory}/${q.id}`,
+    href: `/play/${q.gameCategory}/${q.id}`,
   })),
   ...getAllArticles().map((a) => ({
     id: a.slug,
