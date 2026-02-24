@@ -120,7 +120,7 @@ export default function RootLayout({
           <main id="main-content">
             {children}
           </main>
-          <footer className="no-print mt-16 border-t border-border bg-surface">
+          <footer className="no-print mb-16 mt-16 border-t border-border bg-surface-alt lg:mb-0">
             <div className="mx-auto max-w-6xl px-6 py-12">
               <div className="grid gap-8 sm:grid-cols-3">
                 <div>
@@ -131,37 +131,36 @@ export default function RootLayout({
                     SeniorBrainGames
                   </p>
                   <p className="text-base text-text-muted">
-                    Keep your mind sharp with fun, free brain games designed for everyone.
+                    Train your brain, one game at a time.
                   </p>
                 </div>
                 <div>
                   <p className="mb-3 text-sm font-bold uppercase tracking-wider text-text-muted">
-                    Categories
+                    Quick Links
                   </p>
-                  <nav aria-label="Footer categories" className="flex flex-col gap-2">
-                    <Link href="/nostalgia-trivia" className="text-base text-text-muted transition-colors hover:text-primary">Nostalgia Trivia</Link>
-                    <Link href="/general-knowledge" className="text-base text-text-muted transition-colors hover:text-primary">General Knowledge</Link>
-                    <Link href="/word-games" className="text-base text-text-muted transition-colors hover:text-primary">Word Games</Link>
-                    <Link href="/memory-games" className="text-base text-text-muted transition-colors hover:text-primary">Memory Games</Link>
+                  <nav aria-label="Footer quick links" className="flex flex-col gap-2">
+                    <Link href="/play" className="text-base text-text-muted transition-colors hover:text-primary">Play Games</Link>
+                    <Link href="/progress" className="text-base text-text-muted transition-colors hover:text-primary">My Progress</Link>
+                    <Link href="/discover" className="text-base text-text-muted transition-colors hover:text-primary">Discover</Link>
+                    <Link href="/daily-challenge" className="text-base text-text-muted transition-colors hover:text-primary">Daily Challenge</Link>
+                    <Link href="/printable-puzzles" className="text-base text-text-muted transition-colors hover:text-primary">Printable Puzzles</Link>
                   </nav>
                 </div>
                 <div>
                   <p className="mb-3 text-sm font-bold uppercase tracking-wider text-text-muted">
-                    Site
+                    Info
                   </p>
-                  <nav aria-label="Footer navigation" className="flex flex-col gap-2">
-                    <Link href="/daily-challenge" className="text-base text-text-muted transition-colors hover:text-primary">Daily Challenge</Link>
+                  <nav aria-label="Footer info" className="flex flex-col gap-2">
                     <Link href="/about" className="text-base text-text-muted transition-colors hover:text-primary">About</Link>
-                    <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
-                    <Link href="/printable-puzzles" className="text-base text-text-muted transition-colors hover:text-primary">Printable Puzzles</Link>
-                    <Link href="/blog" className="text-base text-text-muted transition-colors hover:text-primary">Blog</Link>
                     <Link href="/faq" className="text-base text-text-muted transition-colors hover:text-primary">FAQ</Link>
+                    <Link href="/blog" className="text-base text-text-muted transition-colors hover:text-primary">Blog</Link>
+                    <Link href="/privacy" className="text-base text-text-muted transition-colors hover:text-primary">Privacy</Link>
                   </nav>
                 </div>
               </div>
               <div className="mt-10 border-t border-border pt-6 text-center">
                 <p className="text-sm text-text-muted">
-                  &copy; {new Date().getFullYear()} SeniorBrainGames.org. Free brain games for a sharper mind.
+                  &copy; {new Date().getFullYear()} SeniorBrainGames.org &middot; Made with care for seniors.
                 </p>
               </div>
             </div>
