@@ -81,10 +81,10 @@ const faqCategories: { title: string; faqs: FAQ[] }[] = [
         answerJsx: (
           <p>
             There are over 100 brain games across four categories:{" "}
-            <Link href="/nostalgia-trivia" className="text-primary underline hover:no-underline">Nostalgia Trivia</Link>,{" "}
-            <Link href="/general-knowledge" className="text-primary underline hover:no-underline">General Knowledge</Link>,{" "}
-            <Link href="/word-games" className="text-primary underline hover:no-underline">Word Games</Link>, and{" "}
-            <Link href="/memory-games" className="text-primary underline hover:no-underline">Memory Games</Link>.
+            <Link href="/play/nostalgia-trivia" className="text-primary underline hover:no-underline">Nostalgia Trivia</Link>,{" "}
+            <Link href="/play/general-knowledge" className="text-primary underline hover:no-underline">General Knowledge</Link>,{" "}
+            <Link href="/play/word-games" className="text-primary underline hover:no-underline">Word Games</Link>, and{" "}
+            <Link href="/play/memory-games" className="text-primary underline hover:no-underline">Memory Games</Link>.
             There are also 27{" "}
             <Link href="/printable-puzzles" className="text-primary underline hover:no-underline">printable puzzles</Link>{" "}
             you can print and solve with pen and paper.
@@ -168,10 +168,10 @@ const faqCategories: { title: string; faqs: FAQ[] }[] = [
         answerJsx: (
           <p>
             Variety is key. Mixing different types of activities — trivia for recall, word games for language, memory games for working memory, and puzzles for problem-solving — exercises different parts of the brain. SeniorBrainGames offers all of these across{" "}
-            <Link href="/nostalgia-trivia" className="text-primary underline hover:no-underline">trivia</Link>,{" "}
-            <Link href="/word-games" className="text-primary underline hover:no-underline">word games</Link>,{" "}
-            <Link href="/memory-games" className="text-primary underline hover:no-underline">memory games</Link>, and{" "}
-            <Link href="/general-knowledge" className="text-primary underline hover:no-underline">general knowledge</Link>.
+            <Link href="/play/nostalgia-trivia" className="text-primary underline hover:no-underline">trivia</Link>,{" "}
+            <Link href="/play/word-games" className="text-primary underline hover:no-underline">word games</Link>,{" "}
+            <Link href="/play/memory-games" className="text-primary underline hover:no-underline">memory games</Link>, and{" "}
+            <Link href="/play/general-knowledge" className="text-primary underline hover:no-underline">general knowledge</Link>.
           </p>
         ),
       },
@@ -330,7 +330,7 @@ export default function FAQPage() {
             Visit our{" "}
             <Link href="/about" className="text-primary underline hover:no-underline">About page</Link>{" "}
             or start exploring our{" "}
-            <Link href="/word-games" className="text-primary underline hover:no-underline">games</Link>{" "}
+            <Link href="/play/word-games" className="text-primary underline hover:no-underline">games</Link>{" "}
             — no sign-up needed!
           </p>
         </div>

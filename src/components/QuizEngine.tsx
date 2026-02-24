@@ -6,7 +6,12 @@ import QuestionView from "./QuestionView";
 import ResultsView from "./ResultsView";
 import { shuffleArray } from "@/lib/shuffle";
 
-export default function QuizEngine({ quiz }: { quiz: Quiz }) {
+interface QuizEngineProps {
+  quiz: Quiz;
+  onComplete?: (result: QuizResult) => void;
+}
+
+export default function QuizEngine({ quiz, onComplete }: QuizEngineProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<QuizResult["answers"]>([]);
   const [finished, setFinished] = useState(false);
@@ -49,6 +54,10 @@ export default function QuizEngine({ quiz }: { quiz: Quiz }) {
       correctAnswers: answers.filter((a) => a.correct).length,
       answers,
     };
+    if (onComplete) {
+      onComplete(result);
+      return null;
+    }
     return (
       <ResultsView result={result} quiz={shuffledQuiz} onRestart={handleRestart} />
     );

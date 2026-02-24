@@ -5,9 +5,13 @@ import { useRouter } from "next/navigation";
 import { Search, X } from "lucide-react";
 import { allGames, type GameEntry } from "@/lib/gameIndex";
 
-export default function GameSearch() {
-  const [open, setOpen] = useState(false);
-  const [query, setQuery] = useState("");
+export default function GameSearch({
+  initialQuery = "",
+}: {
+  initialQuery?: string;
+}) {
+  const [open, setOpen] = useState(!!initialQuery);
+  const [query, setQuery] = useState(initialQuery);
   const [selectedIndex, setSelectedIndex] = useState(0);
   const router = useRouter();
   const inputRef = useRef<HTMLInputElement>(null);
@@ -16,7 +20,11 @@ export default function GameSearch() {
   const filtered = query.trim()
     ? allGames.filter((g) => {
         const q = query.toLowerCase();
-        return g.title.toLowerCase().includes(q) || g.description.toLowerCase().includes(q);
+        return (
+          g.title.toLowerCase().includes(q) ||
+          g.description.toLowerCase().includes(q) ||
+          g.keywords?.some((k) => k.toLowerCase().includes(q))
+        );
       })
     : [];
 

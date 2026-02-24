@@ -1,0 +1,109 @@
+{
+  "puzzles": [
+    {
+      "id": "word-search-1950s",
+      "type": "word-search",
+      "title": "1950s Nostalgia Word Search",
+      "description": "Find the hidden words related to the 1950s era.",
+      "grid": [
+        "ELVISPRESLEYJuke",
+        "ROCKANDROLLDRIVE",
+        "POODLESKIRTCARSx",
+        "SOCKHOPDINERMALT",
+        "HULAHOOPDOOWOPxx",
+        "GREASEFIFTIESxxx",
+        "TELEVISIONRADIOx",
+        "SUBURBIAIKELIKE",
+        "MARILYNMONROExxx",
+        "JAMESDEANREBELxx"
+      ],
+      "words": [
+        "ELVIS",
+        "ROCKANDROLL",
+        "POODLESKIRT",
+        "SOCKHOP",
+        "DINER",
+        "HULAHOOP",
+        "DOOWOP",
+        "GREASE",
+        "FIFTIES",
+        "TELEVISION",
+        "RADIO",
+        "SUBURBIA",
+        "MARILYN",
+        "JAMESDEAN"
+      ]
+    },
+    {
+      "id": "finish-phrase-proverbs",
+      "type": "finish-phrase",
+      "title": "Classic Proverbs Challenge",
+      "description": "Complete the famous proverbs.",
+      "questions": [
+        { "question": "A penny saved is a penny ______.", "answer": "earned" },
+        { "question": "Actions speak louder than ______.", "answer": "words" },
+        { "question": "All good things must come to an ______.", "answer": "end" },
+        { "question": "Barking dogs seldom ______.", "answer": "bite" },
+        { "question": "Better late than ______.", "answer": "never" },
+        { "question": "Birds of a feather flock ______.", "answer": "together" },
+        { "question": "Don't count your chickens before they ______.", "answer": "hatch" },
+        { "question": "Every cloud has a silver ______.", "answer": "lining" },
+        { "question": "Haste makes ______.", "answer": "waste" },
+        { "question": "Ignorance is ______.", "answer": "bliss" }
+      ]
+    },
+    {
+      "id": "sudoku-garden",
+      "type": "sudoku",
+      "title": "Easy Sudoku: Garden Edition",
+      "description": "Fill the grid with numbers 1-9. A relaxing, easy puzzle.",
+      "grid": [
+        [5, 3, 0, 0, 7, 0, 0, 0, 0],
+        [6, 0, 0, 1, 9, 5, 0, 0, 0],
+        [0, 9, 8, 0, 0, 0, 0, 6, 0],
+        [8, 0, 0, 0, 6, 0, 0, 0, 3],
+        [4, 0, 0, 8, 0, 3, 0, 0, 1],
+        [7, 0, 0, 0, 2, 0, 0, 0, 6],
+        [0, 6, 0, 0, 0, 0, 2, 8, 0],
+        [0, 0, 0, 4, 1, 9, 0, 0, 5],
+        [0, 0, 0, 0, 8, 0, 0, 7, 9]
+      ]
+    },
+    {
+      "id": "crossword-everyday",
+      "type": "crossword",
+      "title": "Everyday Crossword",
+      "description": "Simple clues for everyday words.",
+      "across": [
+        { "number": 1, "clue": "Hot beverage", "answer": "COFFEE" },
+        { "number": 4, "clue": "Not fast", "answer": "SLOW" }
+      ],
+      "down": [
+        { "number": 2, "clue": "Opposite of on", "answer": "OFF" },
+        { "number": 3, "clue": "Evening meal", "answer": "DINNER" }
+      ]
+    },
+    {
+      "id": "maze-nature-walk",
+      "type": "maze",
+      "title": "Nature Walk Maze",
+      "description": "A gentle path through the woods.",
+      "rows": 10,
+      "cols": 10,
+      "grid": [
+        [1, 0, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 0, 1, 0, 0, 0, 0, 0, 0, 1],
+        [1, 0, 1, 0, 1, 1, 1, 1, 0, 1],
+        [1, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+        [1, 1, 1, 1, 1, 0, 1, 1, 1, 1],
+        [1, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+        [1, 0, 1, 1, 1, 1, 1, 1, 0, 1],
+        [1, 0, 1, 0, 0, 0, 0, 0, 0, 1],
+        [1, 0, 0, 0, 1, 1, 1, 1, 0, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+      ],
+      "start": [0, 1],
+      "end": [9, 8]
+    }
+  ]
+}

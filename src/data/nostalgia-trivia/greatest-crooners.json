@@ -1,0 +1,43 @@
+{
+  "id": "greatest-crooners",
+  "title": "Greatest Crooners of the 20th Century",
+  "description": "How well do you remember the golden voices of Frank Sinatra, Dean Martin, and the giants of the crooning era?",
+  "gameCategory": "nostalgia-trivia",
+  "questions": [
+    {
+      "id": "gc-1",
+      "question": "Which crooner was known by the nickname 'Ol' Blue Eyes'?",
+      "options": ["Frank Sinatra", "Dean Martin", "Perry Como", "Nat King Cole"],
+      "correctAnswer": 0,
+      "explanation": "Frank Sinatra earned the nickname Ol' Blue Eyes in the 1940s."
+    },
+    {
+      "id": "gc-2",
+      "question": "Nat King Cole was the first African American to host his own television show. Which year did it premiere?",
+      "options": ["1950", "1954", "1956", "1960"],
+      "correctAnswer": 2,
+      "explanation": "The Nat King Cole Show premiered on NBC in November 1956."
+    },
+    {
+      "id": "gc-3",
+      "question": "Which crooner and comedian famously sang 'That's Amore' in the 1953 film 'The Caddy'?",
+      "options": ["Tony Bennett", "Dean Martin", "Bing Crosby", "Vic Damone"],
+      "correctAnswer": 1,
+      "explanation": "Dean Martin's 'That's Amore' became one of his most beloved signature songs."
+    },
+    {
+      "id": "gc-4",
+      "question": "Bing Crosby's recording of which holiday song is the best-selling single of all time worldwide?",
+      "options": ["I'll Be Home for Christmas", "White Christmas", "Silent Night", "Silver Bells"],
+      "correctAnswer": 1,
+      "explanation": "White Christmas, written by Irving Berlin and sung by Bing Crosby, has sold over 50 million copies."
+    },
+    {
+      "id": "gc-5",
+      "question": "Which crooner is famous for the 1962 classic 'I Left My Heart in San Francisco'?",
+      "options": ["Andy Williams", "Jack Jones", "Tony Bennett", "Mel Tormé"],
+      "correctAnswer": 2,
+      "explanation": "Tony Bennett's signature song became a worldwide hit and an anthem for San Francisco."
+    }
+  ]
+}

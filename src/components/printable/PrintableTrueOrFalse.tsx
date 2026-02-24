@@ -17,7 +17,7 @@ export default function PrintableTrueOrFalse({
   return (
     <>
       {/* Puzzle */}
-      <div className="print-no-break">
+      <div>
         <h2
           className="mb-4 text-2xl font-bold text-primary"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -30,7 +30,7 @@ export default function PrintableTrueOrFalse({
 
         <ol className="space-y-5 text-base">
           {statements.map((s, i) => (
-            <li key={s.id}>
+            <li key={s.id} className="print-no-break">
               <div className="flex gap-3">
                 <span className="font-bold text-primary">{i + 1}.</span>
                 <div className="flex-1">
@@ -62,7 +62,7 @@ export default function PrintableTrueOrFalse({
       {showAnswers && (
         <>
           <div className="print-page-break" />
-          <div className="print-no-break">
+          <div>
             <h2
               className="mb-4 text-2xl font-bold text-primary"
               style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -72,7 +72,7 @@ export default function PrintableTrueOrFalse({
 
             <ol className="space-y-3 text-base">
               {statements.map((s, i) => (
-                <li key={s.id}>
+                <li key={s.id} className="print-no-break">
                   <div className="flex gap-3">
                     <span className="font-bold text-primary">{i + 1}.</span>
                     <div>

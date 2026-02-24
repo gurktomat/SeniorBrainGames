@@ -9,11 +9,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages = [
     { url: baseUrl, changeFrequency: "daily" as const, priority: 1, lastModified },
-    { url: `${baseUrl}/nostalgia-trivia`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
-    { url: `${baseUrl}/general-knowledge`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
-    { url: `${baseUrl}/word-games`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
-    { url: `${baseUrl}/memory-games`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
+    { url: `${baseUrl}/play`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
+    { url: `${baseUrl}/play/nostalgia-trivia`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
+    { url: `${baseUrl}/play/general-knowledge`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
+    { url: `${baseUrl}/play/word-games`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
+    { url: `${baseUrl}/play/memory-games`, changeFrequency: "weekly" as const, priority: 0.9, lastModified },
     { url: `${baseUrl}/daily-challenge`, changeFrequency: "daily" as const, priority: 0.8, lastModified },
+    { url: `${baseUrl}/progress`, changeFrequency: "weekly" as const, priority: 0.7, lastModified },
+    { url: `${baseUrl}/discover`, changeFrequency: "weekly" as const, priority: 0.7, lastModified },
     { url: `${baseUrl}/about`, changeFrequency: "monthly" as const, priority: 0.5, lastModified },
     { url: `${baseUrl}/privacy`, changeFrequency: "monthly" as const, priority: 0.3, lastModified },
     { url: `${baseUrl}/faq`, changeFrequency: "monthly" as const, priority: 0.5, lastModified },
@@ -21,7 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Quiz pages
   const quizPages = getAllQuizzes().map((quiz) => ({
-    url: `${baseUrl}/${quiz.gameCategory}/${quiz.id}`,
+    url: `${baseUrl}/play/${quiz.gameCategory}/${quiz.id}`,
     changeFrequency: "monthly" as const,
     priority: 0.7,
     lastModified,
@@ -31,7 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const gamePages = Object.entries(specialGameSlugs).flatMap(
     ([category, slugs]) =>
       slugs.map((slug) => ({
-        url: `${baseUrl}/${category}/${slug}`,
+        url: `${baseUrl}/play/${category}/${slug}`,
         changeFrequency: "monthly" as const,
         priority: 0.7,
         lastModified,

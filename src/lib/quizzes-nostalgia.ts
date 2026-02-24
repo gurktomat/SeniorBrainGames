@@ -95,6 +95,8 @@ import classicHiFiEquipment from "@/data/nostalgia-trivia/classic-hi-fi-equipmen
 import classicHockeyLegends from "@/data/nostalgia-trivia/classic-hockey-legends.json";
 import classicHollywood from "@/data/nostalgia-trivia/classic-hollywood.json";
 import classicHomeStereos from "@/data/nostalgia-trivia/classic-home-stereos.json";
+import classicHollywoodLeadingLadies from "@/data/nostalgia-trivia/classic-hollywood-leading-ladies.json";
+import greatestCrooners from "@/data/nostalgia-trivia/greatest-crooners.json";
 import classicHorrorMovies from "@/data/nostalgia-trivia/classic-horror-movies.json";
 import classicJazzMusic from "@/data/nostalgia-trivia/classic-jazz-music.json";
 import classicJingles from "@/data/nostalgia-trivia/classic-jingles.json";
@@ -477,6 +479,8 @@ const quizzes: Quiz[] = [
   classicHockeyLegends as Quiz,
   classicHollywood as Quiz,
   classicHomeStereos as Quiz,
+  classicHollywoodLeadingLadies as Quiz,
+  greatestCrooners as Quiz,
   classicHorrorMovies as Quiz,
   classicJazzMusic as Quiz,
   classicJingles as Quiz,

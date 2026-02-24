@@ -14,6 +14,7 @@ import PrintableWordLadder from "@/components/printable/PrintableWordLadder";
 import PrintableCryptogram from "@/components/printable/PrintableCryptogram";
 import PrintableLogicGrid from "@/components/printable/PrintableLogicGrid";
 import PrintableMaze from "@/components/printable/PrintableMaze";
+import PrintableTrueOrFalse from "@/components/printable/PrintableTrueOrFalse";
 
 import crosswordData from "@/data/word-games/crossword-classic.json";
 import crosswordNatureScienceData from "@/data/word-games/crossword-nature-science.json";
@@ -31,8 +32,9 @@ import cryptogramData from "@/data/word-games/cryptogram.json";
 import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
 import logicGridData from "@/data/printable/logic-grid-puzzles.json";
 import mazeData from "@/data/printable/mazes.json";
+import premiumData from "@/data/printable/premium-puzzles.json";
 
-type PuzzleType = "crossword" | "word-search" | "sudoku" | "word-scramble" | "riddles" | "word-ladder" | "cryptogram" | "logic-grid" | "maze";
+type PuzzleType = "crossword" | "word-search" | "sudoku" | "word-scramble" | "riddles" | "word-ladder" | "cryptogram" | "logic-grid" | "maze" | "finish-phrase";
 
 interface PuzzleConfig {
   type: PuzzleType;
@@ -72,11 +74,27 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     title: "Crossword — Nature & Science 3",
     description: "A printable nature and science themed crossword puzzle with answer key.",
   },
+  // Premium - Everyday Crossword
+  "crossword-everyday": {
+    type: "crossword",
+    title: "Crossword — Everyday Words",
+    description: "A simple printable crossword with everyday vocabulary.",
+  },
   // Word Search (1 per puzzle)
+  "word-search-1950s": {
+    type: "word-search",
+    title: "Word Search — 1950s Nostalgia",
+    description: "Find hidden words related to the 1950s era.",
+  },
   "word-search-nature-words": {
     type: "word-search",
     title: "Word Search — Nature Words",
     description: "A printable nature-themed word search puzzle with answer key.",
+  },
+  "finish-phrase-proverbs": {
+    type: "finish-phrase",
+    title: "Classic Proverbs Challenge",
+    description: "Complete the famous proverbs and sayings.",
   },
   "word-search-kitchen-cooking": {
     type: "word-search",
@@ -104,6 +122,11 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     description: "A printable animal-themed word search puzzle with answer key.",
   },
   // Sudoku (1 per puzzle)
+  "sudoku-garden": {
+    type: "sudoku",
+    title: "Sudoku — Garden Edition (Easy)",
+    description: "A relaxing, easy printable sudoku puzzle.",
+  },
   "sudoku-easy": {
     type: "sudoku",
     title: "Sudoku — Easy",
@@ -275,6 +298,11 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
     description: "A printable logic grid puzzle — use clues to match people, treats, and toppings.",
   },
   // Mazes
+  "maze-nature-walk": {
+    type: "maze",
+    title: "Maze — Nature Walk",
+    description: "A gentle printable maze puzzle with solution.",
+  },
   "maze-easy": {
     type: "maze",
     title: "Maze — Easy",
@@ -292,11 +320,7 @@ const puzzleConfigs: Record<string, PuzzleConfig> = {
   },
 };
 
-const allSlugs = Object.keys(puzzleConfigs);
-
-export function generateStaticParams() {
-  return allSlugs.map((slug) => ({ slug }));
-}
+export const dynamicParams = true;
 
 export async function generateMetadata({
   params,
@@ -369,19 +393,46 @@ function PuzzleContent({ slug }: { slug: string }) {
 
   switch (config.type) {
     case "crossword": {
+      if (slug === "crossword-everyday") {
+        const puzzle = premiumData.puzzles.find((p) => p.id === slug) as unknown as React.ComponentProps<typeof PrintableCrossword>["puzzle"];
+        return <PrintableCrossword puzzle={puzzle} />;
+      }
       const entry = crosswordMap[slug];
       const puzzle = entry.data.puzzles[entry.index] as React.ComponentProps<typeof PrintableCrossword>["puzzle"];
       return <PrintableCrossword puzzle={puzzle} />;
     }
     case "word-search": {
+      if (slug === "word-search-1950s") {
+        const puzzle = premiumData.puzzles.find((p) => p.id === slug) as unknown as React.ComponentProps<typeof PrintableWordSearch>["puzzle"];
+        return <PrintableWordSearch puzzle={puzzle} />;
+      }
       const entry = wordSearchMap[slug];
       const puzzle = entry.data.puzzles[entry.index];
       return <PrintableWordSearch puzzle={puzzle} />;
     }
     case "sudoku": {
+      if (slug === "sudoku-garden") {
+        const puzzle = premiumData.puzzles.find((p) => p.id === slug) as unknown as React.ComponentProps<typeof PrintableSudoku>["puzzle"];
+        return <PrintableSudoku puzzle={puzzle} />;
+      }
       const entry = sudokuMap[slug];
       const puzzle = entry.data.puzzles[entry.index];
       return <PrintableSudoku puzzle={puzzle} />;
+    }
+    case "finish-phrase": {
+      const puzzle = premiumData.puzzles.find((p) => p.id === slug) as any;
+      if (!puzzle) return null;
+      return (
+        <PrintableTrueOrFalse
+          title={puzzle.title}
+          statements={puzzle.questions.map((q: any, i: number) => ({
+            id: `q-${i}`,
+            statement: q.question,
+            answer: true, // Placeholder
+            explanation: `Answer: ${q.answer}`,
+          }))}
+        />
+      );
     }
     case "word-scramble": {
       const sheetNum = parseInt(slug.split("-").pop()!, 10);
@@ -417,6 +468,10 @@ function PuzzleContent({ slug }: { slug: string }) {
       return <PrintableLogicGrid puzzle={puzzle} />;
     }
     case "maze": {
+      if (slug === "maze-nature-walk") {
+        const puzzle = premiumData.puzzles.find((p) => p.id === slug) as unknown as React.ComponentProps<typeof PrintableMaze>["puzzle"];
+        return <PrintableMaze puzzle={puzzle} />;
+      }
       const puzzle = mazeData.puzzles[mazeMap[slug]] as React.ComponentProps<typeof PrintableMaze>["puzzle"];
       return <PrintableMaze puzzle={puzzle} />;
     }

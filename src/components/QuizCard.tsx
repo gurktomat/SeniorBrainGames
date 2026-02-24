@@ -17,7 +17,7 @@ export default function QuizCard({
   return (
     <Link
       href={`${basePath}/${quiz.id}`}
-      className="card-enterprise group flex flex-col p-6"
+      className="card-playful group flex flex-col p-6"
     >
       <GameIcon gameId={quiz.id} color={iconColor} />
       <h2
