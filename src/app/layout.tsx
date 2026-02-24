@@ -5,6 +5,7 @@ import { Merriweather, Inter } from "next/font/google";
 import Navigation from "@/components/Navigation";
 import JsonLd from "@/components/JsonLd";
 import { ThemeProvider } from "@/components/ThemeProvider";
+import { ProgressProvider } from "@/lib/progress/ProgressProvider";
 import "./globals.css";
 
 const merriweather = Merriweather({
@@ -100,6 +101,7 @@ export default function RootLayout({
         }}
       >
         <ThemeProvider>
+          <ProgressProvider>
           <JsonLd
             data={{
               "@context": "https://schema.org",
@@ -164,6 +166,7 @@ export default function RootLayout({
               </div>
             </div>
           </footer>
+        </ProgressProvider>
         </ThemeProvider>
       </body>
     </html>
