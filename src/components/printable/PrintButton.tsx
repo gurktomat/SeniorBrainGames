@@ -11,7 +11,7 @@ export default function PrintButton({
   category: string;
   slug: string;
 }) {
-  const base = `/${category}/${slug}/print`;
+  const base = `/play/${category}/${slug}/print`;
 
   return (
     <div className="no-print flex flex-wrap gap-3">

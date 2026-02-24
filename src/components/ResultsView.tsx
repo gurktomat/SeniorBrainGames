@@ -25,7 +25,7 @@ export default function ResultsView({
   else if (percentage >= 50) message = "Not bad! Those were some tricky ones.";
   else message = "Good effort! Why not try again?";
 
-  const categoryPath = quiz.gameCategory ? `/${quiz.gameCategory}` : "/";
+  const categoryPath = quiz.gameCategory ? `/play/${quiz.gameCategory}` : "/";
 
   const circumference = 2 * Math.PI * 54;
   const offset = circumference - (percentage / 100) * circumference;
