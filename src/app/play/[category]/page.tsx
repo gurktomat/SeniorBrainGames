@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
-import { Star, Printer } from "lucide-react";
+import { Sparkles, Printer } from "lucide-react";
 import type { GameCategory } from "@/lib/types";
-import QuizCard from "@/components/QuizCard";
+import GameCardNew from "@/components/GameCardNew";
 import { getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
 import CategoryIcon from "@/components/CategoryIcon";
-import { GameIcon, categoryColors } from "@/lib/gameIcons";
+import { categoryColors } from "@/lib/gameIcons";
 import JsonLd from "@/components/JsonLd";
 import { getCategoryRatings } from "@/lib/db";
 
@@ -157,10 +156,11 @@ export default async function CategoryPage({
   const color = categoryColors[category] ?? "#7C5CFC";
   const printables = printableGames[category] ?? new Set();
 
-  const allGames = [
+  const allGamesList = [
     ...specials.map((g) => ({ id: g.id, title: g.title })),
     ...quizzes.map((q) => ({ id: q.id, title: q.title })),
   ];
+  const totalCount = specials.length + quizzes.length;
 
   return (
     <div>
@@ -173,7 +173,7 @@ export default async function CategoryPage({
           url: `https://seniorbraingames.org/play/${category}`,
           mainEntity: {
             "@type": "ItemList",
-            itemListElement: allGames.map((g, i) => ({
+            itemListElement: allGamesList.map((g, i) => ({
               "@type": "ListItem",
               position: i + 1,
               url: `https://seniorbraingames.org/play/${category}/${g.id}`,
@@ -182,9 +182,11 @@ export default async function CategoryPage({
           },
         }}
       />
+
+      {/* Hero Banner */}
       <div
-        className="mb-12 px-6 py-12 text-center"
-        style={{ background: `linear-gradient(135deg, ${color}15 0%, #F8F9FC 100%)` }}
+        className="px-6 py-12 text-center"
+        style={{ background: `linear-gradient(135deg, ${color}18 0%, var(--color-surface) 100%)` }}
       >
         <div className="mx-auto max-w-3xl">
           <span
@@ -194,63 +196,78 @@ export default async function CategoryPage({
             <CategoryIcon name={info.icon} size={28} strokeWidth={1.75} />
           </span>
           <h1
-            className="mb-3 text-3xl font-bold text-foreground sm:text-4xl"
+            className="mb-2 text-3xl font-bold text-foreground sm:text-4xl"
             style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
           >
             {info.title}
           </h1>
-          <p className="text-lg text-text-muted">{info.description}</p>
+          <p className="mb-2 text-lg text-text-muted">{info.description}</p>
+          <p className="text-sm font-semibold text-text-muted">
+            {totalCount} games to play
+          </p>
         </div>
       </div>
 
-      <div className="mx-auto max-w-6xl px-6 pb-16">
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {specials.map((game) => (
-            <Link
-              key={game.id}
-              href={`/play/${category}/${game.id}`}
-              className="card-playful group relative flex flex-col p-6"
+      {/* Special Challenges Section */}
+      {specials.length > 0 && (
+        <section className="mx-auto max-w-6xl px-6 pt-10 pb-6">
+          <div className="mb-6 flex items-center gap-2">
+            <Sparkles size={20} style={{ color }} />
+            <h2
+              className="text-xl font-bold text-foreground"
+              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
             >
-              {printables.has(game.id) && (
-                <span
-                  className="absolute right-4 top-4 flex items-center gap-1 rounded-full bg-purple-50 px-2.5 py-1 text-xs font-bold text-purple-700"
-                  title="Printable version available"
-                >
-                  <Printer size={12} /> Printable
-                </span>
-              )}
-              <GameIcon gameId={game.id} color={color} />
-              <h2
-                className="mb-2 text-lg font-bold text-foreground"
-                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-              >
-                {game.title}
-              </h2>
-              <p className="mb-4 flex-1 text-base text-text-muted">{game.description}</p>
-              <div className="flex items-center justify-between">
-                <div className="flex items-center gap-2">
-                  <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
-                    {game.count}
+              Special Challenges
+            </h2>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {specials.map((game) => (
+              <div key={game.id} className="relative">
+                {printables.has(game.id) && (
+                  <span
+                    className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-full bg-purple-50 px-2.5 py-1 text-xs font-bold text-purple-700"
+                    title="Printable version available"
+                  >
+                    <Printer size={12} /> Printable
                   </span>
-                  {ratings[game.id] && ratings[game.id].ratingCount >= 3 && (
-                    <span className="flex items-center gap-1 text-sm text-text-muted">
-                      <Star size={14} fill="#f59e0b" stroke="#f59e0b" />
-                      {ratings[game.id].avgRating}
-                    </span>
-                  )}
-                </div>
-                <span className="text-sm font-bold text-primary opacity-0 transition-opacity duration-200 group-hover:opacity-100">
-                  Play &rarr;
-                </span>
+                )}
+                <GameCardNew
+                  title={game.title}
+                  slug={game.id}
+                  category={category}
+                  description={game.description}
+                  count={game.count}
+                  rating={ratings[game.id]}
+                  isSpecial
+                />
               </div>
-            </Link>
-          ))}
+            ))}
+          </div>
+        </section>
+      )}
 
+      {/* All Quizzes Section */}
+      <section className="mx-auto max-w-6xl px-6 pt-6 pb-16">
+        <h2
+          className="mb-6 text-xl font-bold text-foreground"
+          style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+        >
+          All Quizzes
+        </h2>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {quizzes.map((quiz) => (
-            <QuizCard key={quiz.id} quiz={quiz} basePath={`/play/${category}`} iconColor={color} rating={ratings[quiz.id]} />
+            <GameCardNew
+              key={quiz.id}
+              title={quiz.title}
+              slug={quiz.id}
+              category={category}
+              description={quiz.description}
+              count={`${quiz.questions.length} Questions`}
+              rating={ratings[quiz.id]}
+            />
           ))}
         </div>
-      </div>
+      </section>
     </div>
   );
 }
