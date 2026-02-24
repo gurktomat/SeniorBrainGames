@@ -85,7 +85,7 @@ export default function PrintablePuzzlesPage() {
                   <Link
                     key={p.slug}
                     href={`/printable-puzzles/${p.slug}`}
-                    className="card-enterprise flex items-center gap-3 px-5 py-4"
+                    className="card-playful flex items-center gap-3 px-5 py-4"
                   >
                     <Printer className="h-5 w-5 shrink-0 text-primary" />
                     <span className="text-base font-medium text-foreground">

@@ -4,9 +4,7 @@ import { notFound } from "next/navigation";
 import JsonLd from "@/components/JsonLd";
 import { getAllArticles, getArticleBySlug } from "@/lib/blog";
 
-export function generateStaticParams() {
-  return getAllArticles().map((a) => ({ slug: a.slug }));
-}
+export const dynamicParams = true;
 
 export async function generateMetadata({
   params,
@@ -156,7 +154,7 @@ export default async function BlogArticlePage({
               <Link
                 key={r.slug}
                 href={`/blog/${r.slug}`}
-                className="card-enterprise group p-5"
+                className="card-playful group p-5"
               >
                 <h3 className="mb-1 text-lg font-bold text-foreground group-hover:text-primary">
                   {r.title}

@@ -48,7 +48,7 @@ export default function BlogPage() {
           <Link
             key={article.slug}
             href={`/blog/${article.slug}`}
-            className="card-enterprise group p-6"
+            className="card-playful group p-6"
           >
             <div className="mb-2 flex items-center gap-3 text-sm text-text-muted">
               <time dateTime={article.date}>

@@ -129,7 +129,7 @@ export default function MemoryCardEngine({
             <button
               key={level.id}
               onClick={() => startLevel(level)}
-              className="card-enterprise w-full cursor-pointer px-6 py-5 text-left text-xl font-semibold text-foreground"
+              className="card-playful w-full cursor-pointer px-6 py-5 text-left text-xl font-semibold text-foreground"
             >
               {level.name}
             </button>

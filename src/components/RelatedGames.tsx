@@ -44,7 +44,7 @@ export default function RelatedGames({
           <Link
             key={game.id}
             href={`/${category}/${game.id}`}
-            className="card-enterprise group flex items-center gap-4 p-4"
+            className="card-playful group flex items-center gap-4 p-4"
           >
             <GameIcon gameId={game.id} color={color} />
             <span className="text-base font-bold text-foreground transition-colors group-hover:text-primary">

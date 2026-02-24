@@ -197,7 +197,7 @@ function DifficultySelector({
             <button
               key={level.key}
               onClick={() => onSelect(level.key)}
-              className="card-enterprise group flex cursor-pointer flex-col items-center p-6 text-center transition-transform hover:scale-[1.02]"
+              className="card-playful group flex cursor-pointer flex-col items-center p-6 text-center transition-transform hover:scale-[1.02]"
             >
               <span className={`mb-3 rounded-full px-4 py-1.5 text-sm font-bold ${level.color}`}>
                 {cfg.label}
