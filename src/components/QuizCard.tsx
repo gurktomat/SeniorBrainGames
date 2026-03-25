@@ -19,7 +19,7 @@ export default function QuizCard({
       href={`${basePath}/${quiz.id}`}
       className="card-playful group flex flex-col p-6"
     >
-      <GameIcon gameId={quiz.id} color={iconColor} />
+      <GameIcon gameId={quiz.id} category={quiz.gameCategory} color={iconColor} />
       <h2
         className="mb-2 text-lg font-bold text-foreground"
         style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
@@ -29,9 +29,11 @@ export default function QuizCard({
       <p className="mb-4 flex-1 text-base text-text-muted">{quiz.description}</p>
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
-            {quiz.questions.length} Questions
-          </span>
+          {quiz.questions && (
+            <span className="inline-block rounded-full bg-primary-50 px-3 py-1 text-sm font-bold text-primary">
+              {quiz.questions.length} Questions
+            </span>
+          )}
           {rating && rating.ratingCount >= 3 && (
             <span className="flex items-center gap-1 text-sm text-text-muted">
               <Star size={14} fill="#f59e0b" stroke="#f59e0b" />

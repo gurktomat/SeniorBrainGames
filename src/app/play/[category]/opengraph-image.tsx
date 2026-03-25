@@ -1,5 +1,5 @@
 import { generateOgImage } from "@/lib/ogImage";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 export const alt = "Brain Games Category — SeniorBrainGames";

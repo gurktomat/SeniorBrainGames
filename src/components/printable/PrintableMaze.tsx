@@ -7,7 +7,7 @@ interface MazePuzzle {
   grid: number[][];
   start: [number, number];
   end: [number, number];
-  solutionPath: [number, number][];
+  solutionPath?: [number, number][];
 }
 
 function MazeGrid({
@@ -18,7 +18,7 @@ function MazeGrid({
   showSolution?: boolean;
 }) {
   const solutionSet = new Set<string>();
-  if (showSolution) {
+  if (showSolution && Array.isArray(puzzle.solutionPath)) {
     for (const [r, c] of puzzle.solutionPath) {
       solutionSet.add(`${r},${c}`);
     }

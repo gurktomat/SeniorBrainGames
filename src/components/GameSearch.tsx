@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import { Search, X } from "lucide-react";
-import { allGames, type GameEntry } from "@/lib/gameIndex";
+import { searchableGames, type GameEntry } from "@/lib/gameIndex-shared";
 
 export default function GameSearch({
   initialQuery = "",
@@ -18,7 +18,7 @@ export default function GameSearch({
   const listRef = useRef<HTMLDivElement>(null);
 
   const filtered = query.trim()
-    ? allGames.filter((g) => {
+    ? searchableGames.filter((g) => {
         const q = query.toLowerCase();
         return (
           g.title.toLowerCase().includes(q) ||
@@ -84,11 +84,6 @@ export default function GameSearch({
     }
   }, [open]);
 
-  // Reset selected index when results change
-  useEffect(() => {
-    setSelectedIndex(0);
-  }, [query]);
-
   // Scroll selected item into view
   useEffect(() => {
     if (!listRef.current) return;
@@ -143,8 +138,11 @@ export default function GameSearch({
                 ref={inputRef}
                 type="text"
                 value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="Search 100 brain games..."
+                onChange={(e) => {
+                  setQuery(e.target.value);
+                  setSelectedIndex(0);
+                }}
+                placeholder="Search 1,500+ brain games..."
                 className="min-w-0 flex-1 bg-transparent text-lg text-foreground outline-none placeholder:text-text-muted"
                 aria-label="Search games"
                 autoComplete="off"

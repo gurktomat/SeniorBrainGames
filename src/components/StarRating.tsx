@@ -44,7 +44,7 @@ export default function StarRating() {
         if (data.ratingCount) setRatingCount(data.ratingCount);
       })
       .catch(() => {});
-  }, [gameInfo?.slug, gameInfo?.category]);
+  }, [gameInfo]);
 
   if (!gameInfo) return null;
 

@@ -21,19 +21,37 @@ function scoreGuess(guess: number, answer: number): "correct" | "close" | "wrong
 
 export default function EstimationEngine({
   title,
-  questions,
+  questions = [],
 }: {
   title: string;
   questions: EstimationQuestion[];
 }) {
-  const shuffledQuestions = useMemo(() => shuffleArray(questions), [questions]);
+  const safeQuestions = Array.isArray(questions) ? questions : [];
+
+  const shuffledQuestions = useMemo(() => {
+    if (safeQuestions.length === 0) return [];
+    return shuffleArray([...safeQuestions]);
+  }, [safeQuestions]);
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [result, setResult] = useState<"correct" | "close" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
+  if (safeQuestions.length === 0) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8">
+          <h2 className="text-xl font-bold text-foreground">Game data not available</h2>
+          <p className="mt-2 text-text-muted">Please try again later or select a different game.</p>
+        </div>
+      </div>
+    );
+  }
+
   const question = shuffledQuestions[currentIndex];
+  if (!question) return null;
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {

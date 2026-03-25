@@ -1,12 +1,4 @@
-export interface BlogArticle {
-  slug: string;
-  title: string;
-  description: string;
-  date: string;
-  readingTime: string;
-  content: string;
-}
-
+import { type BlogArticle, articleMetadata } from "./blog-shared";
 import bestBrainExercises from "@/data/blog/best-brain-exercises-for-seniors";
 import benefitsOfPuzzles from "@/data/blog/benefits-of-puzzles-for-elderly";
 import freePrintablePuzzles from "@/data/blog/free-printable-puzzles-for-seniors";
@@ -17,6 +9,8 @@ import memoryGames from "@/data/blog/memory-games-for-seniors";
 import wordGames from "@/data/blog/word-games-for-older-adults";
 import triviaGames from "@/data/blog/trivia-games-for-seniors";
 import improveMemory from "@/data/blog/how-to-improve-memory-after-70";
+
+export type { BlogArticle };
 
 const articles: BlogArticle[] = [
   bestBrainExercises,
@@ -31,8 +25,8 @@ const articles: BlogArticle[] = [
   improveMemory,
 ];
 
-export function getAllArticles(): BlogArticle[] {
-  return [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+export function getAllArticles() {
+  return articleMetadata;
 }
 
 export function getArticleBySlug(slug: string): BlogArticle | undefined {

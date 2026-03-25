@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: "My Progress",
   description: "Track your brain training progress, XP, streaks, and badges.",
   alternates: { canonical: "/progress" },
+  robots: {
+    index: false,
+    follow: true,
+  },
 };
 
 export default function ProgressPage() {

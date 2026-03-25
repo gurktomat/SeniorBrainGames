@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import GamePrintLayout from "@/components/printable/GamePrintLayout";
 import type { GameCategory } from "@/lib/types";
+import fs from "fs/promises";
+import path from "path";
+import { printableSpecials as printableRegistry } from "@/lib/printable-shared";
 
 export const metadata: Metadata = { robots: "noindex, nofollow" };
 
@@ -14,120 +17,108 @@ import PrintableWordScramble from "@/components/printable/PrintableWordScramble"
 import PrintableWordLadder from "@/components/printable/PrintableWordLadder";
 import PrintableCryptogram from "@/components/printable/PrintableCryptogram";
 import PrintableSudoku from "@/components/printable/PrintableSudoku";
-import { getQuizBySlug, getQuizzesByCategory, specialGameSlugs } from "@/lib/quizzes";
-
-// Nostalgia data
-import nostalgiaFactOrFictionData from "@/data/nostalgia-trivia/nostalgia-fact-or-fiction.json";
-import nostalgiaRiddlesData from "@/data/nostalgia-trivia/nostalgia-riddles.json";
-
-// General knowledge data
-import trueOrFalseData from "@/data/general-knowledge/true-or-false.json";
-import scienceTrueOrFalseData from "@/data/general-knowledge/science-true-or-false.json";
-
-// Word games data
-import crosswordData from "@/data/word-games/crossword-classic.json";
-import crosswordNatureScienceData from "@/data/word-games/crossword-nature-science.json";
-import wordSearchData from "@/data/word-games/word-search.json";
-import wordSearchAnimalsData from "@/data/word-games/word-search-animals.json";
-import wordScrambleData from "@/data/word-games/word-scramble.json";
-import foodWordScrambleData from "@/data/word-games/food-word-scramble.json";
-import riddleData from "@/data/word-games/riddle-challenge.json";
-import wordLadderData from "@/data/word-games/word-ladder.json";
-import wordLadderChallengeData from "@/data/word-games/word-ladder-challenge.json";
-import cryptogramData from "@/data/word-games/cryptogram.json";
-import cryptogramPoetryData from "@/data/word-games/cryptogram-poetry.json";
-import grammarTFData from "@/data/word-games/grammar-true-or-false.json";
-
-// Memory games data
-import sudokuData from "@/data/memory-games/sudoku-puzzles.json";
-import sudokuChallengeData from "@/data/memory-games/sudoku-challenge.json";
-import memoryTrueOrFalseData from "@/data/memory-games/memory-true-or-false.json";
+import { getQuizBySlug, getQuizzesByCategory } from "@/lib/quizzes";
 
 const VALID_CATEGORIES: GameCategory[] = ["nostalgia-trivia", "general-knowledge", "word-games", "memory-games"];
 
-const printableSpecials: Record<string, Record<string, string>> = {
-  "nostalgia-trivia": {
-    "nostalgia-riddles": "Nostalgia Riddles",
-    "nostalgia-fact-or-fiction": "Nostalgia Fact or Fiction",
-  },
-  "general-knowledge": {
-    "true-or-false": "True or False",
-    "science-true-or-false": "Science True or False",
-  },
-  "word-games": {
-    "word-scramble": "Word Scramble",
-    "food-word-scramble": "Food Word Scramble",
-    "crossword-classic": "Classic Crossword",
-    "crossword-nature-science": "Nature & Science Crossword",
-    "word-search": "Word Search",
-    "word-search-animals": "Animal Word Search",
-    "word-ladder": "Word Ladder",
-    "word-ladder-challenge": "Word Ladder Challenge",
-    "cryptogram": "Cryptogram",
-    "cryptogram-poetry": "Poetry Cryptogram",
-    "riddle-challenge": "Riddle Challenge",
-    "grammar-true-or-false": "Grammar True or False",
-  },
-  "memory-games": {
-    "sudoku-puzzles": "Sudoku",
-    "sudoku-challenge": "Sudoku Challenge",
-    "memory-true-or-false": "Memory True or False",
-  },
+// Display titles for special printable games
+const printableTitles: Record<string, string> = {
+  "nostalgia-riddles": "Nostalgia Riddles",
+  "nostalgia-fact-or-fiction": "Nostalgia Fact or Fiction",
+  "true-or-false": "True or False",
+  "science-true-or-false": "Science True or False",
+  "word-scramble": "Word Scramble",
+  "food-word-scramble": "Food Word Scramble",
+  "crossword-classic": "Classic Crossword",
+  "crossword-nature-science": "Nature & Science Crossword",
+  "word-search": "Word Search",
+  "word-search-animals": "Animal Word Search",
+  "word-ladder": "Word Ladder",
+  "word-ladder-challenge": "Word Ladder Challenge",
+  "cryptogram": "Cryptogram",
+  "cryptogram-poetry": "Poetry Cryptogram",
+  "riddle-challenge": "Riddle Challenge",
+  "grammar-true-or-false": "Grammar True or False",
+  "sudoku-puzzles": "Sudoku",
+  "sudoku-challenge": "Sudoku Challenge",
+  "memory-true-or-false": "Memory True or False",
 };
 
-export function generateStaticParams() {
-  return VALID_CATEGORIES.flatMap((category) => {
-    const quizSlugs = getQuizzesByCategory(category).map((q) => ({ category, slug: q.id }));
-    const specialSlugs = Object.keys(printableSpecials[category] ?? {}).map((s) => ({ category, slug: s }));
-    return [...quizSlugs, ...specialSlugs];
-  });
+async function getSpecialGameData(category: string, slug: string) {
+  try {
+    const dataPath = path.join(process.cwd(), "src/data", category, `${slug}.json`);
+    const content = await fs.readFile(dataPath, "utf-8");
+    return JSON.parse(content);
+  } catch {
+    return null;
+  }
 }
 
-function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers: boolean }) {
+export async function generateStaticParams() {
+  const params = [];
+  for (const category of VALID_CATEGORIES) {
+    const quizzes = await getQuizzesByCategory(category);
+    const quizSlugs = quizzes
+      .filter((q) => q && q.id)
+      .map((q) => ({ category, slug: q.id }));
+    
+    const specialSlugs = (printableRegistry[category] || [])
+      .map((s) => ({ category, slug: s }));
+    params.push(...quizSlugs, ...specialSlugs);
+  }
+  return params.filter(p => p.category && p.slug);
+}
+
+function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: any; showAnswers: boolean }) {
+  if (!data) return <div className="p-8 text-center text-red-600">Game data could not be loaded for printing.</div>;
+
   switch (slug) {
     // Nostalgia
     case "nostalgia-riddles":
-      return <PrintableRiddles title="Nostalgia Riddles" riddles={nostalgiaRiddlesData.riddles} showAnswers={showAnswers} />;
+      return <PrintableRiddles title="Nostalgia Riddles" riddles={data.riddles} showAnswers={showAnswers} />;
     case "nostalgia-fact-or-fiction":
-      return <PrintableTrueOrFalse title={nostalgiaFactOrFictionData.title} statements={nostalgiaFactOrFictionData.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
 
     // General knowledge
     case "true-or-false":
-      return <PrintableTrueOrFalse title={trueOrFalseData.title} statements={trueOrFalseData.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
     case "science-true-or-false":
-      return <PrintableTrueOrFalse title={scienceTrueOrFalseData.title} statements={scienceTrueOrFalseData.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
 
     // Word games
     case "word-scramble":
-      return <PrintableWordScramble title="Word Scramble" puzzles={wordScrambleData.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordScramble title="Word Scramble" puzzles={data.puzzles} showAnswers={showAnswers} />;
     case "food-word-scramble":
-      return <PrintableWordScramble title="Food Word Scramble" puzzles={foodWordScrambleData.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordScramble title="Food Word Scramble" puzzles={data.puzzles} showAnswers={showAnswers} />;
     case "crossword-classic":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {crosswordData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
-              <PrintableCrossword puzzle={puzzle as React.ComponentProps<typeof PrintableCrossword>["puzzle"]} showAnswers={showAnswers} />
+              <PrintableCrossword puzzle={puzzle} showAnswers={showAnswers} />
             </div>
           ))}
         </>
       );
     case "crossword-nature-science":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {crosswordNatureScienceData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
-              <PrintableCrossword puzzle={puzzle as React.ComponentProps<typeof PrintableCrossword>["puzzle"]} showAnswers={showAnswers} />
+              <PrintableCrossword puzzle={puzzle} showAnswers={showAnswers} />
             </div>
           ))}
         </>
       );
     case "word-search":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {wordSearchData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableWordSearch puzzle={puzzle} showAnswers={showAnswers} />
@@ -136,9 +127,10 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "word-search-animals":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {wordSearchAnimalsData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableWordSearch puzzle={puzzle} showAnswers={showAnswers} />
@@ -147,13 +139,14 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "word-ladder":
-      return <PrintableWordLadder title="Word Ladder" puzzles={wordLadderData.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordLadder title="Word Ladder" puzzles={data.puzzles} showAnswers={showAnswers} />;
     case "word-ladder-challenge":
-      return <PrintableWordLadder title="Word Ladder Challenge" puzzles={wordLadderChallengeData.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordLadder title="Word Ladder Challenge" puzzles={data.puzzles} showAnswers={showAnswers} />;
     case "cryptogram":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {cryptogramData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCryptogram puzzle={puzzle} showAnswers={showAnswers} />
@@ -162,9 +155,10 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "cryptogram-poetry":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {cryptogramPoetryData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCryptogram puzzle={puzzle} showAnswers={showAnswers} />
@@ -173,15 +167,16 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "riddle-challenge":
-      return <PrintableRiddles title="Riddle Challenge" riddles={riddleData.riddles} showAnswers={showAnswers} />;
+      return <PrintableRiddles title="Riddle Challenge" riddles={data.riddles} showAnswers={showAnswers} />;
     case "grammar-true-or-false":
-      return <PrintableTrueOrFalse title={grammarTFData.title} statements={grammarTFData.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
 
     // Memory games
     case "sudoku-puzzles":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {sudokuData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
@@ -190,9 +185,10 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "sudoku-challenge":
+      if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {sudokuChallengeData.puzzles.map((puzzle, i) => (
+          {data.puzzles.map((puzzle: any, i: number) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
@@ -201,7 +197,7 @@ function SpecialPrintContent({ slug, showAnswers }: { slug: string; showAnswers:
         </>
       );
     case "memory-true-or-false":
-      return <PrintableTrueOrFalse title={memoryTrueOrFalseData.title} statements={memoryTrueOrFalseData.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
 
     default:
       return null;
@@ -222,8 +218,8 @@ export default async function UnifiedPrintPage({
   if (!VALID_CATEGORIES.includes(category as GameCategory)) notFound();
 
   // Quiz game
-  const quiz = getQuizBySlug(category as GameCategory, slug);
-  if (quiz) {
+  const quiz = await getQuizBySlug(category as GameCategory, slug);
+  if (quiz && Array.isArray(quiz.questions)) {
     return (
       <GamePrintLayout backHref={`/play/${category}/${slug}`} backLabel="Back to Game" title={quiz.title}>
         <PrintableQuiz quiz={quiz} showAnswers={showAnswers} />
@@ -232,12 +228,14 @@ export default async function UnifiedPrintPage({
   }
 
   // Special printable game
-  const catSpecials = printableSpecials[category] ?? {};
-  const title = catSpecials[slug];
-  if (title) {
+  const isPrintable = (printableRegistry[category] || []).includes(slug);
+  const title = printableTitles[slug];
+  
+  if (isPrintable && title) {
+    const data = await getSpecialGameData(category, slug);
     return (
       <GamePrintLayout backHref={`/play/${category}/${slug}`} backLabel="Back to Game" title={title}>
-        <SpecialPrintContent slug={slug} showAnswers={showAnswers} />
+        <SpecialPrintContent slug={slug} data={data} showAnswers={showAnswers} />
       </GamePrintLayout>
     );
   }

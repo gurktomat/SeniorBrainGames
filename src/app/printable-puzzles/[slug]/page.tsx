@@ -403,7 +403,13 @@ function PuzzleContent({ slug }: { slug: string }) {
     }
     case "word-search": {
       if (slug === "word-search-1950s") {
-        const puzzle = premiumData.puzzles.find((p) => p.id === slug) as unknown as React.ComponentProps<typeof PrintableWordSearch>["puzzle"];
+        const rawPuzzle = premiumData.puzzles.find((p) => p.id === slug) as any;
+        const puzzle = {
+          ...rawPuzzle,
+          words: (rawPuzzle.words || []).map((w: any) => 
+            typeof w === "string" ? { word: w, startRow: -1, startCol: -1, endRow: -1, endCol: -1 } : w
+          )
+        } as React.ComponentProps<typeof PrintableWordSearch>["puzzle"];
         return <PrintableWordSearch puzzle={puzzle} />;
       }
       const entry = wordSearchMap[slug];
@@ -420,12 +426,12 @@ function PuzzleContent({ slug }: { slug: string }) {
       return <PrintableSudoku puzzle={puzzle} />;
     }
     case "finish-phrase": {
-      const puzzle = premiumData.puzzles.find((p) => p.id === slug) as any;
+      const puzzle = premiumData.puzzles.find((p) => p.id === slug) as { title: string; questions: { question: string; answer: string }[] } | undefined;
       if (!puzzle) return null;
       return (
         <PrintableTrueOrFalse
           title={puzzle.title}
-          statements={puzzle.questions.map((q: any, i: number) => ({
+          statements={puzzle.questions.map((q, i) => ({
             id: `q-${i}`,
             statement: q.question,
             answer: true, // Placeholder

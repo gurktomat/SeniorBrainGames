@@ -1,14 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { Flame, Calendar, Trophy, Gamepad2 } from "lucide-react";
+import { Flame, Trophy, Gamepad2 } from "lucide-react";
 import { useProgress } from "@/lib/progress/useProgress";
 import { getLevelInfo } from "@/lib/progress/xp";
 import ActivityHeatmap from "./ActivityHeatmap";
 import BadgeGrid from "./BadgeGrid";
 import CategoryBreakdown from "./CategoryBreakdown";
 import { categoryColors } from "@/lib/gameIcons";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 export default function ProgressPageClient() {

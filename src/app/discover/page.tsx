@@ -3,8 +3,7 @@ import Link from "next/link";
 import { ArrowRight, Trophy, Sparkles } from "lucide-react";
 import { collections, getFeaturedCollection } from "@/lib/collections";
 import { getTopRatedGames } from "@/lib/db";
-import { allGames } from "@/lib/gameIndex";
-import { categoryColors } from "@/lib/gameIcons";
+import { searchableGames } from "@/lib/gameIndex-shared";
 import GameCardNew from "@/components/GameCardNew";
 
 export const metadata: Metadata = {
@@ -18,7 +17,7 @@ export const revalidate = 3600;
 function getGameOfTheDay() {
   const today = new Date();
   const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
-  const gamesOnly = allGames.filter((g) => g.category !== "blog");
+  const gamesOnly = searchableGames.filter((g) => g.category !== "blog");
   const index = seed % gamesOnly.length;
   return gamesOnly[index];
 }
@@ -28,7 +27,7 @@ export default async function DiscoverPage() {
   const topRatedRaw = await getTopRatedGames(6);
   const topRated = topRatedRaw
     .map((game) => {
-      const entry = allGames.find((g) => g.id === game.slug);
+      const entry = searchableGames.find((g) => g.id === game.slug);
       if (!entry) return null;
       return { ...entry, avgRating: game.avgRating, ratingCount: game.ratingCount };
     })

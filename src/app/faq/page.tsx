@@ -22,10 +22,10 @@ const faqCategories: { title: string; faqs: FAQ[] }[] = [
       {
         question: "What is SeniorBrainGames?",
         answer:
-          "SeniorBrainGames is a free website with over 100 brain games designed for seniors. It includes trivia, word games, memory challenges, and printable puzzles — all playable instantly in your browser with no downloads or sign-ups.",
+          "SeniorBrainGames is a free website with more than 1,500 brain games designed for seniors. It includes trivia, word games, memory challenges, and printable puzzles — all playable instantly in your browser with no downloads or sign-ups.",
         answerJsx: (
           <p>
-            SeniorBrainGames is a free website with over 100 brain games designed for seniors. It includes trivia, word games, memory challenges, and printable puzzles — all playable instantly in your browser with no downloads or sign-ups.
+            SeniorBrainGames is a free website with more than 1,500 brain games designed for seniors. It includes trivia, word games, memory challenges, and printable puzzles — all playable instantly in your browser with no downloads or sign-ups.
           </p>
         ),
       },
@@ -77,10 +77,10 @@ const faqCategories: { title: string; faqs: FAQ[] }[] = [
       {
         question: "How many games are available?",
         answer:
-          "There are over 100 brain games across four categories: Nostalgia Trivia, General Knowledge, Word Games, and Memory Games. There are also 27 printable puzzles you can print and solve with pen and paper.",
+          "There are more than 1,500 brain games across four categories: Nostalgia Trivia, General Knowledge, Word Games, and Memory Games. There are also 27 printable puzzles you can print and solve with pen and paper.",
         answerJsx: (
           <p>
-            There are over 100 brain games across four categories:{" "}
+            There are more than 1,500 brain games across four categories:{" "}
             <Link href="/play/nostalgia-trivia" className="text-primary underline hover:no-underline">Nostalgia Trivia</Link>,{" "}
             <Link href="/play/general-knowledge" className="text-primary underline hover:no-underline">General Knowledge</Link>,{" "}
             <Link href="/play/word-games" className="text-primary underline hover:no-underline">Word Games</Link>, and{" "}
@@ -235,12 +235,12 @@ const faqCategories: { title: string; faqs: FAQ[] }[] = [
       {
         question: "How can I contact you?",
         answer:
-          "You can reach us through the contact information on our About page. We welcome feedback, suggestions, and questions.",
+          "SeniorBrainGames does not currently offer direct account support or a published support inbox. Because progress is stored locally in your browser, most account issues can be resolved from the Account page by exporting or resetting local data.",
         answerJsx: (
           <p>
-            You can reach us through the contact information on our{" "}
-            <Link href="/about" className="text-primary underline hover:no-underline">About page</Link>.
-            We welcome feedback, suggestions, and questions.
+            SeniorBrainGames does not currently offer direct account support or a published support inbox. Because progress is stored locally in your browser, most account issues can be resolved from the{" "}
+            <Link href="/account" className="text-primary underline hover:no-underline">Account page</Link>{" "}
+            by exporting or resetting local data.
           </p>
         ),
       },

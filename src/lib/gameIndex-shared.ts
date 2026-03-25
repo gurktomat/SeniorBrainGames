@@ -1,6 +1,6 @@
-import { getAllQuizzes, categoryInfo } from "./quizzes";
-import { getAllArticles } from "./blog";
 import type { GameCategory } from "./types";
+import { categoryInfo } from "./quizzes-shared";
+import { articleMetadata } from "./blog-shared";
 
 export interface GameEntry {
   id: string;
@@ -12,7 +12,7 @@ export interface GameEntry {
   keywords?: string[];
 }
 
-const specialGames: { id: string; title: string; description: string; category: GameCategory; keywords?: string[] }[] = [
+export const specialGames: { id: string; title: string; description: string; category: GameCategory; keywords?: string[] }[] = [
   // Word Games (15)
   { id: "word-scramble", title: "Word Scramble", description: "Unscramble the letters to find the hidden word!", category: "word-games", keywords: ["anagrams", "letters", "scrambled"] },
   { id: "complete-the-proverb", title: "Complete the Proverb", description: "Can you finish these well-known proverbs and sayings?", category: "word-games", keywords: ["sayings", "idioms", "phrases"] },
@@ -95,7 +95,11 @@ const specialGames: { id: string; title: string; description: string; category: 
   { id: "wonders-of-the-world", title: "Wonders of the World", description: "How well do you know the world's most famous landmarks and ancient wonders?", category: "general-knowledge", keywords: ["geography", "landmarks", "history", "monuments", "travel"] },
 ];
 
-export const allGames: GameEntry[] = [
+/**
+ * Lightweight list of ALL games for Client-side search.
+ * Only includes metadata needed for searching and routing.
+ */
+export const searchableGames: GameEntry[] = [
   ...specialGames.map((g) => ({
     id: g.id,
     title: g.title,
@@ -105,15 +109,13 @@ export const allGames: GameEntry[] = [
     href: `/play/${g.category}/${g.id}`,
     keywords: g.keywords,
   })),
-  ...getAllQuizzes().map((q) => ({
-    id: q.id,
-    title: q.title,
-    description: q.description,
-    category: q.gameCategory,
-    categoryLabel: categoryInfo[q.gameCategory].title,
-    href: `/play/${q.gameCategory}/${q.id}`,
-  })),
-  ...getAllArticles().map((a) => ({
+  // Quizzes are difficult to statically list without importing the whole library
+  // For now, we manually include some top ones or just the special engines.
+  // Ideally, this list is generated at build time.
+  { id: "nostalgia-1950s", title: "1950s Nostalgia Quiz", description: "Test your knowledge of the 1950s!", category: "nostalgia-trivia", categoryLabel: "Nostalgia Trivia", href: "/play/nostalgia-trivia/nostalgia-1950s" },
+  { id: "classic-tv-sitcoms", title: "Classic TV Sitcoms", description: "How well do you remember I Love Lucy and more?", category: "nostalgia-trivia", categoryLabel: "Nostalgia Trivia", href: "/play/nostalgia-trivia/classic-tv-sitcoms" },
+  // Articles
+  ...articleMetadata.map((a) => ({
     id: a.slug,
     title: a.title,
     description: a.description,

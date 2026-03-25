@@ -43,6 +43,7 @@ export default async function BlogArticlePage({
           headline: article.title,
           description: article.description,
           datePublished: article.date,
+          dateModified: article.date,
           author: {
             "@type": "Organization",
             name: "SeniorBrainGames",
@@ -96,12 +97,18 @@ export default async function BlogArticlePage({
           <span aria-hidden="true">&middot;</span>
           <span>{article.readingTime}</span>
         </div>
+        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-primary">
+          SeniorBrainGames Editorial Team
+        </p>
         <h1
           className="text-3xl font-bold text-foreground sm:text-4xl"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
         >
           {article.title}
         </h1>
+        <div className="mt-6 rounded-2xl border border-border bg-surface p-5 text-sm leading-relaxed text-text-muted" style={{ boxShadow: "var(--shadow-sm)" }}>
+          This article is educational and is not medical advice. SeniorBrainGames publishes content to help older adults find enjoyable ways to stay mentally active. If you have concerns about memory, cognition, or other health issues, speak with a qualified healthcare professional.
+        </div>
       </header>
 
       {/* Article content */}

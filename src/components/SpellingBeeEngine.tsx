@@ -19,13 +19,38 @@ export default function SpellingBeeEngine({
   title: string;
   words: SpellingWord[];
 }) {
-  const shuffledWords = useMemo(() => shuffleArray(words), [words]);
+  const shuffledWords = useMemo(() => {
+    if (!words || !Array.isArray(words)) return [];
+    return shuffleArray(words);
+  }, [words]);
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [showHint, setShowHint] = useState(false);
   const [result, setResult] = useState<"correct" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
+
+  if (!words || !Array.isArray(words) || words.length === 0) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div
+          className="rounded-2xl border border-border bg-surface p-8"
+          style={{ boxShadow: "var(--shadow-lg)" }}
+        >
+          <h2
+            className="mb-2 text-3xl font-bold text-foreground"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            Game data not available
+          </h2>
+          <p className="text-lg text-text-muted">
+            We couldn't load the game data for "{title}". Please try again later.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   const word = shuffledWords[currentIndex];
 

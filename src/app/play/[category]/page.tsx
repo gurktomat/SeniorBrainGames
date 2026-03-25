@@ -8,6 +8,7 @@ import CategoryIcon from "@/components/CategoryIcon";
 import { categoryColors } from "@/lib/gameIcons";
 import JsonLd from "@/components/JsonLd";
 import { getCategoryRatings } from "@/lib/db";
+import { printableSpecials as printableRegistry } from "@/lib/printable-shared";
 
 export const revalidate = 300;
 
@@ -93,16 +94,6 @@ const specialGamesByCategory: Record<string, SpecialGame[]> = {
   ],
 };
 
-const printableGames: Record<string, Set<string>> = {
-  "nostalgia-trivia": new Set(["nostalgia-riddles"]),
-  "general-knowledge": new Set(),
-  "word-games": new Set([
-    "crossword-classic", "word-search", "word-scramble", "riddle-challenge", "word-ladder",
-    "crossword-nature-science", "word-search-animals", "food-word-scramble", "cryptogram-poetry", "word-ladder-challenge",
-  ]),
-  "memory-games": new Set(["sudoku-puzzles", "sudoku-challenge"]),
-};
-
 const categoryMeta: Record<string, { title: string; description: string }> = {
   "nostalgia-trivia": {
     title: "Nostalgia Trivia — 1950s, 60s, 70s & 80s Quizzes",
@@ -151,10 +142,10 @@ export default async function CategoryPage({
   if (!info) notFound();
 
   const specials = specialGamesByCategory[category] ?? [];
-  const quizzes = getQuizzesByCategory(category as GameCategory);
+  const quizzes = await getQuizzesByCategory(category as GameCategory);
   const ratings = await getCategoryRatings(category);
   const color = categoryColors[category] ?? "#7C5CFC";
-  const printables = printableGames[category] ?? new Set();
+  const printables = new Set(printableRegistry[category] || []);
 
   const allGamesList = [
     ...specials.map((g) => ({ id: g.id, title: g.title })),
@@ -192,6 +183,7 @@ export default async function CategoryPage({
           <span
             className="mb-4 inline-flex h-14 w-14 items-center justify-center rounded-2xl"
             style={{ background: color, color: "white" }}
+            aria-hidden="true"
           >
             <CategoryIcon name={info.icon} size={28} strokeWidth={1.75} />
           </span>
@@ -262,7 +254,7 @@ export default async function CategoryPage({
               slug={quiz.id}
               category={category}
               description={quiz.description}
-              count={`${quiz.questions.length} Questions`}
+              count={`${quiz.questions?.length ?? 0} Questions`}
               rating={ratings[quiz.id]}
             />
           ))}

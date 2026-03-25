@@ -45,6 +45,7 @@ export default function NavigationNew() {
   };
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMoreOpen(false);
   }, [pathname]);
 
@@ -58,6 +59,7 @@ export default function NavigationNew() {
           {/* Logo */}
           <Link
             href="/"
+            aria-label="Home"
             className="group flex items-center gap-2.5 text-xl font-black text-primary transition-all hover:opacity-90 sm:text-2xl"
             style={{
               fontFamily: "var(--font-merriweather), var(--font-heading)",
@@ -66,6 +68,7 @@ export default function NavigationNew() {
             <div
               className="flex h-10 w-10 items-center justify-center rounded-xl text-white shadow-md transition-transform group-hover:scale-105"
               style={{ background: "var(--gradient-primary)" }}
+              aria-hidden="true"
             >
               <BrainCircuit size={24} strokeWidth={2.5} />
             </div>

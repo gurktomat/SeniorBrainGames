@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     question: "Are the brain games really free?",
-    answer: "Yes! All 100 brain games on SeniorBrainGames are completely free. No sign-up, no account, no hidden fees — just visit and play.",
+    answer: "Yes! More than 1,500 games on SeniorBrainGames are completely free. No sign-up, no account, no hidden fees — just visit and play.",
   },
   {
     question: "Do brain games help seniors stay sharp?",
@@ -110,6 +110,22 @@ export default function AboutPage() {
             All games are completely free and require no sign-up or account. Just
             visit, play, and enjoy!
           </p>
+
+          <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-sm)" }}>
+            <h2 className="mb-4 text-2xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
+              Support & Data
+            </h2>
+            <p className="text-text-muted">
+              SeniorBrainGames is designed to work without accounts, subscriptions,
+              or server-side progress tracking. Your streaks, badges, and settings
+              are stored locally in your browser, which keeps the experience simple
+              and private.
+            </p>
+            <p className="mt-4 text-text-muted">
+              If you need to manage or clear your local data, use the Account page
+              to export your progress or reset it on this device.
+            </p>
+          </div>
 
           <h2 className="text-2xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
             Frequently Asked Questions

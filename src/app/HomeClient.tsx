@@ -3,7 +3,7 @@
 import { useSearchParams, useRouter } from "next/navigation";
 import { Suspense, useCallback } from "react";
 import GameSearch from "@/components/GameSearch";
-import { allGames } from "@/lib/gameIndex";
+import { searchableGames } from "@/lib/gameIndex-shared";
 import { Shuffle } from "lucide-react";
 
 function SearchHandler() {
@@ -24,7 +24,7 @@ export function SurpriseMeButton() {
 
   const handleSurprise = useCallback(() => {
     // Exclude blog articles from surprise me
-    const gamesOnly = allGames.filter(g => g.category !== "blog");
+    const gamesOnly = searchableGames.filter(g => g.category !== "blog");
     const randomGame = gamesOnly[Math.floor(Math.random() * gamesOnly.length)];
     if (randomGame) {
       router.push(randomGame.href);

@@ -23,7 +23,10 @@ const inter = Inter({
 });
 
 export const viewport: Viewport = {
-  themeColor: "#7C5CFC",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#FAFAF8" },
+    { media: "(prefers-color-scheme: dark)", color: "#0F0D1A" },
+  ],
 };
 
 export const metadata: Metadata = {
@@ -55,6 +58,14 @@ export const metadata: Metadata = {
     capable: true,
     statusBarStyle: "default",
     title: "SeniorBrainGames",
+  },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icon-192x192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512x512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
   },
   openGraph: {
     type: "website",

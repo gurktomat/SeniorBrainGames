@@ -4,7 +4,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { Play, ChevronDown, ChevronUp, Clock, Trophy } from "lucide-react";
 import { categoryColors } from "@/lib/gameIcons";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 interface PreGameScreenProps {

@@ -2,9 +2,8 @@
 
 import { useState, useMemo } from "react";
 import GameCardNew from "@/components/GameCardNew";
-import { allGames } from "@/lib/gameIndex";
+import { searchableGames } from "@/lib/gameIndex-shared";
 import { categoryColors } from "@/lib/gameIcons";
-import type { GameCategory } from "@/lib/types";
 
 const categoryFilters: { id: string; label: string }[] = [
   { id: "all", label: "All" },
@@ -16,21 +15,12 @@ const categoryFilters: { id: string; label: string }[] = [
 
 const PER_PAGE = 24;
 
-interface GameEntry {
-  id: string;
-  title: string;
-  description: string;
-  category: string;
-  categoryLabel: string;
-  href: string;
-}
-
 export default function PlayBrowseClient() {
   const [filter, setFilter] = useState("all");
   const [page, setPage] = useState(0);
 
   const gamesOnly = useMemo(
-    () => allGames.filter((g) => g.category !== "blog") as GameEntry[],
+    () => searchableGames.filter((g) => g.category !== "blog"),
     [],
   );
 

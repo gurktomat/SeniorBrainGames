@@ -139,7 +139,7 @@ function checkWin(board: Cell[][], rows: number, cols: number): boolean {
   return true;
 }
 
-function revealAllMines(board: Cell[][], rows: number, cols: number): Cell[][] {
+function revealAllMines(board: Cell[][]): Cell[][] {
   return board.map((row) =>
     row.map((cell) => (cell.hasMine ? { ...cell, revealed: true } : { ...cell }))
   );
@@ -280,7 +280,7 @@ function MinesweeperGame({
       if (cell.revealed || cell.flagged) return;
 
       if (cell.hasMine) {
-        const finalBoard = revealAllMines(currentBoard, rows, cols);
+        const finalBoard = revealAllMines(currentBoard);
         // Mark the clicked mine specially
         finalBoard[r][c] = { ...finalBoard[r][c], revealed: true };
         setBoard(finalBoard);

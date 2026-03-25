@@ -16,7 +16,7 @@
 
   /* Text */
   --color-text: #1E1B2E;
-  --color-text-muted: #6B7280;
+  --color-text-muted: #4B5563;
   --color-text-light: #9CA3AF;
 
   /* Semantic */
@@ -157,6 +157,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   letter-spacing: -0.01em;
@@ -204,7 +212,10 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-sm);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition:
+    transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .card-playful:hover {
@@ -218,7 +229,10 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-sm);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition:
+    transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .card-enterprise:hover {
@@ -475,5 +489,28 @@ h1, h2, h3, h4, h5, h6 {
   /* Show the site URL on every page */
   .print\:block {
     display: block !important;
+  }
+
+  /* Worksheet specific print styles */
+  .print-worksheet-wrapper {
+    background: transparent !important;
+    padding: 0 !important;
+  }
+  
+  .worksheet-container {
+    padding: 0 !important;
+    box-shadow: none !important;
+    max-width: 100% !important;
+  }
+
+  .worksheet-header {
+    border-bottom-width: 2px !important;
+    margin-bottom: 2rem !important;
+  }
+
+  /* Force background colors and borders to print */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
   }
 }

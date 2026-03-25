@@ -28,7 +28,7 @@ export default function QuestionView({
       </h2>
 
       <div className="mb-6 flex flex-col gap-3" role="group" aria-label="Answer options">
-        {question.options.map((option, i) => {
+        {(question.options || []).map((option, i) => {
           let style =
             "border border-border bg-surface text-foreground hover:border-primary-200 hover:bg-primary-50";
 

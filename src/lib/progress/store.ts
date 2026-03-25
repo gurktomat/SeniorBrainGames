@@ -1,8 +1,6 @@
 import type {
   ProgressState,
   GamePlayRecord,
-  XPGain,
-  BadgeId,
   GamePlayResult,
 } from "./types";
 import { calculateXP, getLevelInfo } from "./xp";

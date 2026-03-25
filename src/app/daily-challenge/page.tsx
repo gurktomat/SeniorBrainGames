@@ -11,8 +11,8 @@ export const metadata: Metadata = {
 
 export const dynamic = "force-dynamic";
 
-export default function DailyChallengePage() {
-  const quiz = getDailyChallenge();
+export default async function DailyChallengePage() {
+  const quiz = await getDailyChallenge();
 
   return <DailyChallengeClient quiz={quiz} />;
 }

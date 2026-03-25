@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import JsonLd from "@/components/JsonLd";
 import { getTopRatedGames } from "@/lib/db";
-import { allGames } from "@/lib/gameIndex";
+import { searchableGames } from "@/lib/gameIndex-shared";
 import DashboardClient from "./DashboardClient";
 
 export const metadata: Metadata = {
@@ -13,7 +13,8 @@ export const revalidate = 3600;
 function getGameOfTheDay() {
   const today = new Date();
   const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
-  const gamesOnly = allGames.filter((g) => g.category !== "blog");
+  const gamesOnly = searchableGames.filter((g) => g.category !== "blog");
+  if (gamesOnly.length === 0) return null;
   const index = seed % gamesOnly.length;
   return gamesOnly[index];
 }
@@ -23,7 +24,7 @@ export default async function Home() {
   const topRatedRaw = await getTopRatedGames(4);
   const topRated = topRatedRaw
     .map((game) => {
-      const entry = allGames.find((g) => g.id === game.slug);
+      const entry = searchableGames.find((g) => g.id === game.slug);
       if (!entry) return null;
       return {
         slug: game.slug,
@@ -59,8 +60,8 @@ export default async function Home() {
       />
       <DashboardClient
         topRated={topRated}
-        gameOfTheDayHref={gameOfTheDay.href}
-        gameOfTheDayTitle={gameOfTheDay.title}
+        gameOfTheDayHref={gameOfTheDay?.href ?? null}
+        gameOfTheDayTitle={gameOfTheDay?.title ?? null}
       />
     </div>
   );

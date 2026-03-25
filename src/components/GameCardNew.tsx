@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Star } from "lucide-react";
 import { GameIcon, categoryColors } from "@/lib/gameIcons";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 interface GameCardNewProps {
@@ -38,7 +38,6 @@ export default function GameCardNew({
   count,
   difficulty,
   rating,
-  isSpecial = false,
 }: GameCardNewProps) {
   const color = categoryColors[category] ?? "#7C5CFC";
   const info = categoryInfo[category as GameCategory];
@@ -58,7 +57,7 @@ export default function GameCardNew({
       <div className="flex flex-col p-5 pl-6">
         {/* Top row: icon + category pill */}
         <div className="mb-3 flex items-start justify-between">
-          <GameIcon gameId={slug} color={color} />
+          <GameIcon gameId={slug} category={category} color={color} />
           <span
             className="rounded-full px-2.5 py-1 text-xs font-bold text-white"
             style={{ background: color }}

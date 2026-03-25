@@ -44,24 +44,25 @@ export default function PrintableCryptogram({ puzzle, showAnswers }: { puzzle: C
 
   return (
     <>
-      {/* Puzzle */}
-      <div className="print-no-break">
-        <p className="mb-4 text-text-muted">
-          Each letter below stands for a different letter. Decode the substitution cipher to
-          reveal the famous quote. A hint and letter frequency table are provided.
-        </p>
+      {/* Puzzle Section */}
+      <div className="mb-12">
+        <div className="mb-8 rounded-lg bg-gray-50 border border-gray-300 p-4 print:bg-transparent print:border-black">
+          <p className="text-base font-medium italic text-black">
+            <span className="font-bold not-italic">Instructions:</span> Each letter below stands for a different letter. Decode the substitution cipher to reveal the famous quote. A hint and letter frequency table are provided.
+          </p>
+        </div>
 
         {/* Encoded text with blanks */}
-        <div className="mb-8" style={{ fontFamily: "monospace" }}>
-          <div className="flex flex-wrap gap-x-6 gap-y-6">
+        <div className="mb-12" style={{ fontFamily: "monospace" }}>
+          <div className="flex flex-wrap gap-x-8 gap-y-8">
             {words.map((word, wi) => (
-              <div key={wi} className="flex gap-0.5">
+              <div key={wi} className="flex gap-1">
                 {word.split("").map((ch, ci) => (
-                  <div key={ci} className="flex flex-col items-center" style={{ width: 28 }}>
-                    <span className="text-xl font-bold">{ch}</span>
+                  <div key={ci} className="flex flex-col items-center" style={{ width: 32 }}>
+                    <span className="text-2xl font-bold text-black">{ch}</span>
                     <span
-                      className="mt-1 block border-b-2 border-gray-400"
-                      style={{ width: 22, height: 20 }}
+                      className="mt-1 block border-b-2 border-black"
+                      style={{ width: 28, height: 24 }}
                     />
                   </div>
                 ))}
@@ -70,41 +71,43 @@ export default function PrintableCryptogram({ puzzle, showAnswers }: { puzzle: C
           </div>
         </div>
 
-        {/* Hint */}
-        <div className="mb-6 rounded border border-gray-300 bg-gray-50 px-4 py-3">
-          <p className="text-base font-semibold">Hint — Starter Letters:</p>
-          <p className="mt-1 text-base" style={{ fontFamily: "monospace" }}>
-            {hints.map((h, i) => (
-              <span key={i}>
-                {i > 0 && "   "}
-                {h.encoded} = {h.plain}
-              </span>
-            ))}
-          </p>
-        </div>
+        <div className="grid gap-6 sm:grid-cols-2">
+          {/* Hint */}
+          <div className="rounded-xl border-2 border-black p-5">
+            <h3 className="mb-2 text-lg font-black uppercase tracking-widest text-black">Hint &mdash; Starter Letters:</h3>
+            <p className="text-xl font-bold" style={{ fontFamily: "monospace" }}>
+              {hints.map((h, i) => (
+                <span key={i}>
+                  {i > 0 && "   "}
+                  {h.encoded} = {h.plain}
+                </span>
+              ))}
+            </p>
+          </div>
 
-        {/* Letter frequency */}
-        <div className="mb-2">
-          <p className="mb-2 text-sm font-semibold text-text-muted">Letter Frequency in Cipher Text:</p>
-          <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm" style={{ fontFamily: "monospace" }}>
-            {letterFreq.map(({ letter, count }) => (
-              <span key={letter}>
-                {letter}:{count}
-              </span>
-            ))}
+          {/* Letter frequency */}
+          <div className="rounded-xl border-2 border-black p-5">
+            <h3 className="mb-2 text-lg font-black uppercase tracking-widest text-black">Letter Frequency:</h3>
+            <div className="flex flex-wrap gap-x-4 gap-y-1 text-base font-medium" style={{ fontFamily: "monospace" }}>
+              {letterFreq.map(({ letter, count }) => (
+                <span key={letter}>
+                  {letter}:{count}
+                </span>
+              ))}
+            </div>
           </div>
         </div>
 
         {/* Scratch area — substitution tracker */}
-        <div className="mt-6 rounded border border-gray-300 px-4 py-3">
-          <p className="mb-2 text-sm font-semibold text-text-muted">Substitution Tracker:</p>
-          <div className="flex flex-wrap gap-1" style={{ fontFamily: "monospace" }}>
+        <div className="mt-6 rounded-xl border-2 border-black p-5">
+          <h3 className="mb-4 text-lg font-black uppercase tracking-widest text-black">Substitution Tracker:</h3>
+          <div className="flex flex-wrap gap-2" style={{ fontFamily: "monospace" }}>
             {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => (
-              <div key={letter} className="flex flex-col items-center" style={{ width: 28 }}>
-                <span className="text-base font-bold">{letter}</span>
+              <div key={letter} className="flex flex-col items-center" style={{ width: 24 }}>
+                <span className="text-lg font-bold text-black">{letter}</span>
                 <span
-                  className="mt-0.5 block border-b-2 border-gray-400"
-                  style={{ width: 20, height: 18 }}
+                  className="mt-1 block border-b-2 border-gray-400 print:border-black"
+                  style={{ width: 20, height: 20 }}
                 />
               </div>
             ))}
@@ -112,53 +115,53 @@ export default function PrintableCryptogram({ puzzle, showAnswers }: { puzzle: C
         </div>
       </div>
 
-      {/* Page break + Answer Key */}
+      {/* Answer Key */}
       {showAnswers !== false && (
         <>
           <div className="print-page-break" />
-          <div className="print-no-break">
+          <div className="mt-12 border-t-4 border-black pt-8">
             <h2
-              className="mb-4 text-2xl font-bold text-primary"
+              className="mb-6 text-2xl font-black text-black"
               style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
             >
-              Answer Key &mdash; {puzzle.title}
+              Answer Key
             </h2>
 
-            <div className="mb-6">
-              <p className="mb-1 text-sm font-semibold text-text-muted">Decoded Quote:</p>
-              <p className="text-xl font-bold" style={{ fontFamily: "monospace" }}>
+            <div className="mb-8">
+              <h3 className="mb-2 text-sm font-bold uppercase tracking-widest text-gray-500 print:text-black">Decoded Quote:</h3>
+              <p className="text-2xl font-bold leading-relaxed text-black" style={{ fontFamily: "monospace" }}>
                 &ldquo;{puzzle.plaintext}&rdquo;
               </p>
-              <p className="mt-1 text-base text-text-muted">&mdash; {puzzle.author}</p>
+              <p className="mt-2 text-lg font-medium italic text-black">&mdash; {puzzle.author}</p>
             </div>
 
             <div>
-              <p className="mb-2 text-sm font-semibold text-text-muted">Full Substitution Key:</p>
+              <h3 className="mb-3 text-sm font-bold uppercase tracking-widest text-gray-500 print:text-black">Full Substitution Key:</h3>
               <div
-                className="inline-block rounded border border-gray-300"
+                className="inline-block rounded-lg border-2 border-black"
                 style={{ fontFamily: "monospace" }}
               >
-                <div className="flex border-b border-gray-300 bg-gray-50">
-                  <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
+                <div className="flex border-b-2 border-black bg-gray-100 print:bg-gray-200">
+                  <span className="px-3 py-2 text-sm font-black uppercase tracking-widest text-black flex items-center border-r-2 border-black" style={{ width: 100 }}>
                     Cipher
                   </span>
                   {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
                     const appears = puzzle.encoded.includes(letter);
                     return appears ? (
-                      <span key={letter} className="px-1.5 py-1 text-center text-sm font-bold" style={{ width: 26 }}>
+                      <span key={letter} className="px-2 py-2 text-center text-lg font-bold text-black border-r border-gray-300 print:border-black" style={{ width: 32 }}>
                         {letter}
                       </span>
                     ) : null;
                   })}
                 </div>
-                <div className="flex">
-                  <span className="px-2 py-1 text-sm font-bold text-text-muted" style={{ width: 80 }}>
+                <div className="flex bg-white">
+                  <span className="px-3 py-2 text-sm font-black uppercase tracking-widest text-black flex items-center border-r-2 border-black" style={{ width: 100 }}>
                     Plain
                   </span>
                   {"ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => {
                     const appears = puzzle.encoded.includes(letter);
                     return appears ? (
-                      <span key={letter} className="px-1.5 py-1 text-center text-sm" style={{ width: 26 }}>
+                      <span key={letter} className="px-2 py-2 text-center text-lg font-medium text-black border-r border-gray-300 print:border-black" style={{ width: 32 }}>
                         {reverseCipher[letter] || "?"}
                       </span>
                     ) : null;

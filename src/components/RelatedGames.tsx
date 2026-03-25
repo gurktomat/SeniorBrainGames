@@ -5,7 +5,7 @@ interface RelatedGamesProps {
   category: string;
   categoryLabel: string;
   currentSlug: string;
-  games: { id: string; title: string }[];
+  games: { id: string; title: string; description: string }[];
 }
 
 export default function RelatedGames({
@@ -44,12 +44,15 @@ export default function RelatedGames({
           <Link
             key={game.id}
             href={`/play/${category}/${game.id}`}
-            className="card-playful group flex items-center gap-4 p-4"
+            className="card-playful group flex items-start gap-4 p-4"
           >
-            <GameIcon gameId={game.id} color={color} />
-            <span className="text-base font-bold text-foreground transition-colors group-hover:text-primary">
-              {game.title}
-            </span>
+            <GameIcon gameId={game.id} category={category} color={color} />
+            <div className="min-w-0">
+              <p className="text-base font-bold text-foreground transition-colors group-hover:text-primary">
+                {game.title}
+              </p>
+              <p className="mt-1 text-sm text-text-muted">{game.description}</p>
+            </div>
           </Link>
         ))}
       </div>

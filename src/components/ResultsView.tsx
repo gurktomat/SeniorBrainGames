@@ -97,8 +97,9 @@ export default function ResultsView({
           Your Answers
         </h3>
         <div className="flex flex-col gap-3">
-          {result.answers.map((answer, i) => {
+          {result.answers && quiz.questions && result.answers.map((answer, i) => {
             const q = quiz.questions[i];
+            if (!q) return null;
             return (
               <div
                 key={q.id}

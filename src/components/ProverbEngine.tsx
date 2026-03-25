@@ -20,11 +20,36 @@ export default function ProverbEngine({
   title: string;
   questions: ProverbQuestion[];
 }) {
-  const shuffledQuestions = useMemo(() => shuffleArray(questions), [questions]);
+  const shuffledQuestions = useMemo(() => {
+    if (!questions || !Array.isArray(questions)) return [];
+    return shuffleArray(questions);
+  }, [questions]);
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
+
+  if (!questions || !Array.isArray(questions) || questions.length === 0) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div
+          className="rounded-2xl border border-border bg-surface p-8"
+          style={{ boxShadow: "var(--shadow-lg)" }}
+        >
+          <h2
+            className="mb-2 text-3xl font-bold text-foreground"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            Game data not available
+          </h2>
+          <p className="text-lg text-text-muted">
+            We couldn't load the game data for "{title}". Please try again later.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   const q = shuffledQuestions[currentIndex];
   const correct = selected !== null && selected === q.correctAnswer;

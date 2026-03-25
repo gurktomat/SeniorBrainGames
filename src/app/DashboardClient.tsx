@@ -2,13 +2,12 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
-import { Flame, Calendar, Trophy, Gamepad2, Shuffle, ArrowRight, Star } from "lucide-react";
+import { Flame, Calendar, Trophy, Gamepad2, ArrowRight, Star } from "lucide-react";
 import { useProgress } from "@/lib/progress/useProgress";
 import { getLevelInfo } from "@/lib/progress/xp";
 import Onboarding from "@/components/Onboarding";
 import { categoryColors } from "@/lib/gameIcons";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 interface TopRatedGame {
@@ -23,8 +22,8 @@ interface TopRatedGame {
 
 interface DashboardClientProps {
   topRated: TopRatedGame[];
-  gameOfTheDayHref: string;
-  gameOfTheDayTitle: string;
+  gameOfTheDayHref: string | null;
+  gameOfTheDayTitle: string | null;
 }
 
 function getGreeting(): string {
@@ -39,7 +38,6 @@ const categoryList: GameCategory[] = ["nostalgia-trivia", "general-knowledge", "
 export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheDayTitle }: DashboardClientProps) {
   const { progress, isLoaded } = useProgress();
   const [onboardingDone, setOnboardingDone] = useState(false);
-  const router = useRouter();
 
   if (!isLoaded) return null;
 
@@ -78,7 +76,7 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
           <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
             <div>
               <h1
-                className="mb-2 text-2xl font-bold text-foreground sm:text-3xl"
+                className="mb-2 text-2xl font-bold text-foreground text-pretty sm:text-3xl"
                 style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
               >
                 {getGreeting()}!
@@ -94,7 +92,7 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
               {/* XP progress bar */}
               <div className="mt-3 h-2 w-48 overflow-hidden rounded-full bg-border">
                 <div
-                  className="h-full rounded-full transition-all"
+                  className="h-full rounded-full transition-[width]"
                   style={{ width: `${levelInfo.progressPercent}%`, background: "var(--gradient-primary)" }}
                 />
               </div>
@@ -114,11 +112,11 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
       <section className="border-b border-border bg-surface px-6 py-6">
         <div className="mx-auto grid max-w-4xl grid-cols-2 gap-4 sm:grid-cols-4">
           <div className="text-center">
-            <p className="text-2xl font-bold text-primary">{gamesPlayedToday}</p>
+            <p className="text-2xl font-bold tabular-nums text-primary">{gamesPlayedToday}</p>
             <p className="text-sm text-text-muted">Games Today</p>
           </div>
           <div className="text-center">
-            <p className="text-2xl font-bold text-accent">{progress.streaks.current}</p>
+            <p className="text-2xl font-bold tabular-nums text-accent">{progress.streaks.current}</p>
             <p className="text-sm text-text-muted">Day Streak</p>
           </div>
           <div className="text-center">
@@ -128,7 +126,7 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
             <p className="text-sm text-text-muted">Best Category</p>
           </div>
           <div className="text-center">
-            <p className="text-2xl font-bold text-foreground">{progress.gamesPlayed.length}</p>
+            <p className="text-2xl font-bold tabular-nums text-foreground">{progress.gamesPlayed.length}</p>
             <p className="text-sm text-text-muted">Total Played</p>
           </div>
         </div>
@@ -138,22 +136,23 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
       {recentGames.length > 0 && (
         <section className="mx-auto max-w-6xl px-6 py-10">
           <h2
-            className="mb-6 text-xl font-bold text-foreground"
+            className="mb-6 text-xl font-bold text-balance text-foreground"
             style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
           >
             Continue Playing
           </h2>
           <div className="flex gap-4 overflow-x-auto pb-2">
             {recentGames.map((g) => {
-              const color = categoryColors[g.category] ?? "#7C5CFC";
               return (
                 <Link
                   key={g.slug}
                   href={`/play/${g.category}/${g.slug}`}
                   className="card-playful flex min-w-[200px] flex-col p-4"
                 >
-                  <div className="mb-2 h-1 w-full rounded-full" style={{ background: color }} />
-                  <p className="text-sm font-bold text-foreground">{g.slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}</p>
+                  <div className="mb-2 h-1 w-full rounded-full" style={{ background: categoryColors[g.category] ?? "#7C5CFC" }} />
+                  <p className="break-words text-pretty text-sm font-bold text-foreground">
+                    {g.slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                  </p>
                   <p className="mt-1 text-xs text-text-muted">{categoryInfo[g.category as GameCategory]?.title ?? g.category}</p>
                 </Link>
               );
@@ -165,7 +164,7 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
       {/* Quick Play Categories */}
       <section className="mx-auto max-w-6xl px-6 py-10">
         <h2
-          className="mb-6 text-xl font-bold text-foreground"
+          className="mb-6 text-xl font-bold text-balance text-foreground"
           style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
         >
           Quick Play
@@ -183,6 +182,7 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
                 <span
                   className="mb-3 flex h-12 w-12 items-center justify-center rounded-xl text-white transition-transform group-hover:scale-110"
                   style={{ background: color }}
+                  aria-hidden="true"
                 >
                   <Gamepad2 size={22} />
                 </span>
@@ -194,52 +194,53 @@ export default function DashboardClient({ topRated, gameOfTheDayHref, gameOfTheD
       </section>
 
       {/* Game of the Day */}
-      <section className="mx-auto max-w-6xl px-6 py-10">
-        <Link
-          href={gameOfTheDayHref}
-          className="card-playful group flex items-center gap-5 overflow-hidden p-6"
-          style={{ background: "var(--gradient-warm)" }}
-        >
-          <span
-            className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl text-white"
-            style={{ background: "var(--gradient-primary)" }}
+      {gameOfTheDayHref && gameOfTheDayTitle && (
+        <section className="mx-auto max-w-6xl px-6 py-10">
+          <Link
+            href={gameOfTheDayHref}
+            className="card-playful group flex items-center gap-5 overflow-hidden p-6"
+            style={{ background: "var(--gradient-warm)" }}
           >
-            <Trophy size={24} />
-          </span>
-          <div className="flex-1">
-            <p className="mb-0.5 text-xs font-bold uppercase tracking-widest text-primary">Game of the Day</p>
-            <h3
-              className="text-lg font-bold text-foreground"
-              style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+            <span
+              className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl text-white"
+              style={{ background: "var(--gradient-primary)" }}
             >
-              {gameOfTheDayTitle}
-            </h3>
-          </div>
-          <ArrowRight size={20} className="text-primary opacity-0 transition-opacity group-hover:opacity-100" />
-        </Link>
-      </section>
+              <Trophy size={24} />
+            </span>
+            <div className="min-w-0 flex-1">
+              <p className="mb-0.5 text-xs font-bold uppercase tracking-widest text-primary">Game of the Day</p>
+              <h3
+                className="break-words text-lg font-bold text-pretty text-foreground"
+                style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+              >
+                {gameOfTheDayTitle}
+              </h3>
+            </div>
+            <ArrowRight size={20} className="text-primary opacity-0 transition-opacity group-hover:opacity-100" />
+          </Link>
+        </section>
+      )}
 
       {/* Top Rated */}
       {topRated.length > 0 && (
         <section className="mx-auto max-w-6xl px-6 pb-16">
           <h2
-            className="mb-6 text-xl font-bold text-foreground"
+            className="mb-6 text-xl font-bold text-balance text-foreground"
             style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
           >
             Top Rated
           </h2>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {topRated.map((game) => {
-              const color = categoryColors[game.category] ?? "#7C5CFC";
               return (
                 <Link
                   key={game.slug}
                   href={game.href}
                   className="card-playful group flex flex-col items-center p-5 text-center"
                 >
-                  <h3 className="mb-1 text-base font-bold text-foreground">{game.title}</h3>
+                  <h3 className="mb-1 break-words text-base font-bold text-pretty text-foreground">{game.title}</h3>
                   <p className="mb-2 text-sm text-text-muted">{game.categoryLabel}</p>
-                  <p className="flex items-center gap-1 text-sm font-semibold text-amber-500">
+                  <p className="flex items-center gap-1 text-sm font-semibold tabular-nums text-amber-500">
                     <Star size={14} fill="#f59e0b" stroke="#f59e0b" />
                     {game.avgRating.toFixed(1)}
                     <span className="font-normal text-text-muted">({game.ratingCount})</span>

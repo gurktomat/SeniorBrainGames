@@ -1,7 +1,7 @@
 "use client";
 
 import { categoryColors } from "@/lib/gameIcons";
-import { categoryInfo } from "@/lib/quizzes";
+import { categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 import type { GamePlayRecord } from "@/lib/progress/types";
 

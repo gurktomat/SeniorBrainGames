@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
-import { Download, Trash2, Cloud, CloudOff, Settings } from "lucide-react";
+import { Download, Trash2, CloudOff, Settings } from "lucide-react";
 import { useProgress } from "@/lib/progress/useProgress";
 import { getLevelInfo } from "@/lib/progress/xp";
 

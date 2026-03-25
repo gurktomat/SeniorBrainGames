@@ -1,8 +1,7 @@
-import { describe, it, expect, beforeEach } from "bun:test";
+import { describe, it, expect } from "bun:test";
 import { createDefaultState } from "./store";
 import { calculateXP } from "./xp";
 import { checkNewBadges } from "./badges";
-import type { ProgressState } from "./types";
 
 // Note: We can't easily test localStorage in bun:test,
 // so we test the pure functions that the store uses.

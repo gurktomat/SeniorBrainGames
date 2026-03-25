@@ -1,5 +1,6 @@
 import { generateOgImage } from "@/lib/ogImage";
-import { getQuizBySlug, specialGameSlugs, getQuizzesByCategory, categoryInfo } from "@/lib/quizzes";
+import { getQuizBySlug, getQuizzesByCategory } from "@/lib/quizzes";
+import { specialGameSlugs, categoryInfo } from "@/lib/quizzes-shared";
 import type { GameCategory } from "@/lib/types";
 
 export const alt = "Brain Game — SeniorBrainGames";
@@ -13,18 +14,23 @@ const VALID_CATEGORIES: GameCategory[] = [
   "memory-games",
 ];
 
-export function generateStaticParams() {
-  return VALID_CATEGORIES.flatMap((category) => {
-    const quizSlugs = getQuizzesByCategory(category).map((q) => ({
-      category,
-      slug: q.id,
-    }));
-    const gameSlugs = (specialGameSlugs[category] || []).map((s) => ({
-      category,
-      slug: s,
-    }));
-    return [...quizSlugs, ...gameSlugs];
-  });
+export async function generateStaticParams() {
+  const params = [];
+  for (const category of VALID_CATEGORIES) {
+    const quizzes = await getQuizzesByCategory(category);
+    const quizSlugs = quizzes
+      .filter((q) => q && q.id)
+      .map((q) => ({ category, slug: q.id }));
+    
+    const gameSlugs = (specialGameSlugs[category] || [])
+      .filter(Boolean)
+      .map((s) => ({
+        category,
+        slug: s,
+      }));
+    params.push(...quizSlugs, ...gameSlugs);
+  }
+  return params.filter(p => p.category && p.slug);
 }
 
 export default async function Image({
@@ -33,7 +39,7 @@ export default async function Image({
   params: Promise<{ category: string; slug: string }>;
 }) {
   const { category, slug } = await params;
-  const quiz = getQuizBySlug(category as GameCategory, slug);
+  const quiz = await getQuizBySlug(category as GameCategory, slug);
   const info = categoryInfo[category as GameCategory];
   const title = quiz?.title || slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 
