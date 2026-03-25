@@ -6,11 +6,10 @@ interface Statement {
 }
 
 export default function PrintableTrueOrFalse({
-  title,
   statements,
   showAnswers,
 }: {
-  title: string;
+  title?: string;
   statements: Statement[];
   showAnswers?: boolean;
 }) {

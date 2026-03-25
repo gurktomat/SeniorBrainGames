@@ -26,7 +26,7 @@ export default function GamePrintLayout({
             {backLabel}
           </Link>
           <div className="flex items-center gap-4">
-            <span className="text-sm text-gray-500 hidden sm:inline">Use "Save as PDF" in print dialog for best results</span>
+            <span className="hidden text-sm text-gray-500 sm:inline">Use &ldquo;Save as PDF&rdquo; in the print dialog for best results</span>
             <PrintPageButton />
           </div>
         </div>

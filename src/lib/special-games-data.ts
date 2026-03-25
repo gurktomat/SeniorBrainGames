@@ -1,5 +1,3 @@
-import type { GameCategory } from "./types";
-
 export const specialGamesMetadata: Record<string, Record<string, { title: string; description: string }>> = {
   "nostalgia-trivia": {
     "timeline-sort": { title: "Timeline Sort", description: "Put historical events in the correct chronological order!" },

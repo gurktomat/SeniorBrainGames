@@ -26,37 +26,28 @@ export default function EstimationEngine({
   title: string;
   questions: EstimationQuestion[];
 }) {
-  const safeQuestions = Array.isArray(questions) ? questions : [];
+  const safeQuestions = useMemo(
+    () => (Array.isArray(questions) ? questions : []),
+    [questions],
+  );
 
   const shuffledQuestions = useMemo(() => {
     if (safeQuestions.length === 0) return [];
     return shuffleArray([...safeQuestions]);
   }, [safeQuestions]);
+  const hasQuestions = shuffledQuestions.length > 0;
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [guess, setGuess] = useState("");
   const [result, setResult] = useState<"correct" | "close" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
-
-  if (safeQuestions.length === 0) {
-    return (
-      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
-        <div className="rounded-2xl border border-border bg-surface p-8">
-          <h2 className="text-xl font-bold text-foreground">Game data not available</h2>
-          <p className="mt-2 text-text-muted">Please try again later or select a different game.</p>
-        </div>
-      </div>
-    );
-  }
-
-  const question = shuffledQuestions[currentIndex];
-  if (!question) return null;
+  const question = hasQuestions ? shuffledQuestions[currentIndex] : null;
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
       e.preventDefault();
-      if (result !== null) return;
+      if (!question || result !== null) return;
       const numGuess = parseInt(guess.replace(/,/g, ""), 10);
       if (isNaN(numGuess)) return;
       const rating = scoreGuess(numGuess, question.answer);
@@ -84,6 +75,19 @@ export default function EstimationEngine({
     setScore(0);
     setFinished(false);
   };
+
+  if (!hasQuestions) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8">
+          <h2 className="text-xl font-bold text-foreground">Game data not available</h2>
+          <p className="mt-2 text-text-muted">Please try again later or select a different game.</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (!question) return null;
 
   if (finished) {
     const maxScore = shuffledQuestions.length * 2;

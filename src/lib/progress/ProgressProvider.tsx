@@ -3,7 +3,6 @@
 import {
   createContext,
   useState,
-  useEffect,
   useCallback,
   type ReactNode,
 } from "react";
@@ -47,14 +46,14 @@ export const ProgressContext = createContext<ProgressContextType>({
 });
 
 export function ProgressProvider({ children }: { children: ReactNode }) {
-  const [progress, setProgress] = useState<ProgressState>(createDefaultState);
-  const [isLoaded, setIsLoaded] = useState(false);
-
-  useEffect(() => {
+  const [progress, setProgress] = useState<ProgressState>(() => {
+    if (typeof window === "undefined") {
+      return createDefaultState();
+    }
     migrateOldStorage();
-    setProgress(getProgress());
-    setIsLoaded(true);
-  }, []);
+    return getProgress();
+  });
+  const [isLoaded] = useState(() => typeof window !== "undefined");
 
   const recordPlay = useCallback(
     (record: Omit<GamePlayRecord, "playedAt">) => {

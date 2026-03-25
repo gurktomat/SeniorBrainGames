@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-require-imports */
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
@@ -52,17 +53,17 @@ const article: BlogArticle = {
   description: "${description}",
   date: "${date}",
   readingTime: "5 min read",
-  content: `
+  content: \`
 ${content.trim()}
-`,
+\`,
 };
 
 export default article;
 `;
 
-  const filePath = path.join(BLOG_DIR, `\${slug}.ts`);
+  const filePath = path.join(BLOG_DIR, `${slug}.ts`);
   fs.writeFileSync(filePath, fileContent);
-  console.log(`✅ Created blog file: \${filePath}`);
+  console.log(`Created blog file: ${filePath}`);
   return slug;
 }
 
@@ -70,23 +71,20 @@ function updateBlogLib(slug) {
   let content = fs.readFileSync(BLOG_LIB_FILE, 'utf-8');
   
   const camelCaseName = toCamelCase(slug);
-  const importStatement = `import \${camelCaseName} from "@/data/blog/\${slug}";`;
+  const importStatement = `import ${camelCaseName} from "@/data/blog/${slug}";`;
   
   // Insert import after the last import statement
   const lastImportIndex = content.lastIndexOf('import');
-  const nextNewlineIndex = content.indexOf('
-', lastImportIndex);
+  const nextNewlineIndex = content.indexOf('\n', lastImportIndex);
   
-  content = content.slice(0, nextNewlineIndex + 1) + importStatement + '
-' + content.slice(nextNewlineIndex + 1);
+  content = `${content.slice(0, nextNewlineIndex + 1)}${importStatement}\n${content.slice(nextNewlineIndex + 1)}`;
   
   // Insert into articles array
   const arrayStart = content.indexOf('const articles: BlogArticle[] = [');
   const arrayEnd = content.indexOf('];', arrayStart);
   
   // Insert right before the closing bracket
-  content = content.slice(0, arrayEnd) + `  \${camelCaseName},
-` + content.slice(arrayEnd);
+  content = `${content.slice(0, arrayEnd)}  ${camelCaseName},\n${content.slice(arrayEnd)}`;
   
   fs.writeFileSync(BLOG_LIB_FILE, content);
   console.log(`✅ Updated src/lib/blog.ts with new article export.`);
@@ -101,8 +99,8 @@ rl.question("Enter Article Title (e.g., 'Best Brain Games for Dementia'): ", (ti
         const slug = createBlogFile(title, description, keyword);
         updateBlogLib(slug);
         console.log(`
-🎉 Success! The article '\${title}' is now live on your site.`);
-        console.log(`You can edit the content at: src/data/blog/\${slug}.ts`);
+Success! The article '${title}' is now live on your site.`);
+        console.log(`You can edit the content at: src/data/blog/${slug}.ts`);
       } catch (err) {
         console.error("Error generating blog:", err);
       }

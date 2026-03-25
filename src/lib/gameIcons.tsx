@@ -17,6 +17,7 @@ export function GameIcon({
   color: string;
   size?: number;
 }) {
+  void gameId;
   let Icon: LucideIcon = Radio;
 
   if (category === "nostalgia-trivia") Icon = Radio;

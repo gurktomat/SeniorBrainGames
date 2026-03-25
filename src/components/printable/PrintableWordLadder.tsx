@@ -8,11 +8,10 @@ interface WordLadderPuzzle {
 }
 
 export default function PrintableWordLadder({
-  title,
   puzzles,
   showAnswers,
 }: {
-  title: string;
+  title?: string;
   puzzles: WordLadderPuzzle[];
   showAnswers?: boolean;
 }) {

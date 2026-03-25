@@ -19,21 +19,19 @@ function getStorageKey(slug: string) {
 export default function StarRating() {
   const pathname = usePathname();
   const gameInfo = getGameInfo(pathname);
+  const storedRating =
+    typeof window !== "undefined" && gameInfo
+      ? Number(localStorage.getItem(getStorageKey(gameInfo.slug)) || 0)
+      : 0;
 
   const [userRating, setUserRating] = useState(0);
   const [hoverRating, setHoverRating] = useState(0);
   const [avgRating, setAvgRating] = useState(0);
   const [ratingCount, setRatingCount] = useState(0);
-  const [submitted, setSubmitted] = useState(false);
+  const [hasLocalSubmission, setHasLocalSubmission] = useState(false);
 
   useEffect(() => {
     if (!gameInfo) return;
-    // Load user's previous rating from localStorage
-    const stored = localStorage.getItem(getStorageKey(gameInfo.slug));
-    if (stored) {
-      setUserRating(Number(stored));
-      setSubmitted(true);
-    }
     // Fetch aggregate
     fetch(
       `/api/ratings?game=${encodeURIComponent(gameInfo.slug)}&category=${encodeURIComponent(gameInfo.category)}`,
@@ -50,7 +48,7 @@ export default function StarRating() {
 
   const handleRate = async (rating: number) => {
     setUserRating(rating);
-    setSubmitted(true);
+    setHasLocalSubmission(true);
     localStorage.setItem(getStorageKey(gameInfo.slug), String(rating));
 
     try {
@@ -71,7 +69,9 @@ export default function StarRating() {
     }
   };
 
-  const displayRating = hoverRating || userRating;
+  const effectiveUserRating = hasLocalSubmission ? userRating : storedRating;
+  const submitted = hasLocalSubmission || storedRating > 0;
+  const displayRating = hoverRating || effectiveUserRating;
 
   return (
     <div className="flex flex-col items-center gap-2 py-3">
@@ -87,7 +87,7 @@ export default function StarRating() {
           <button
             key={star}
             role="radio"
-            aria-checked={userRating === star}
+            aria-checked={effectiveUserRating === star}
             aria-label={`${star} star${star !== 1 ? "s" : ""}`}
             onClick={() => handleRate(star)}
             onMouseEnter={() => setHoverRating(star)}

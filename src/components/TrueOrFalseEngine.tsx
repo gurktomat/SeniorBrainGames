@@ -22,29 +22,17 @@ export default function TrueOrFalseEngine({
     if (!statements || !Array.isArray(statements)) return [];
     return shuffleArray(statements);
   }, [statements]);
+  const hasStatements = shuffledStatements.length > 0;
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [result, setResult] = useState<"correct" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
-
-  if (!statements || !Array.isArray(statements) || statements.length === 0) {
-    return (
-      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
-        <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
-          <h2 className="mb-2 text-3xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
-            Game data not available
-          </h2>
-          <p className="text-lg text-text-muted">We couldn't load the game data for "{title}". Please try again later.</p>
-        </div>
-      </div>
-    );
-  }
-
-  const item = shuffledStatements[currentIndex];
+  const item = hasStatements ? shuffledStatements[currentIndex] : null;
 
   const handleAnswer = useCallback(
     (chosen: boolean) => {
+      if (!item) return;
       if (result !== null) return;
       const isCorrect = chosen === item.answer;
       setResult(isCorrect ? "correct" : "wrong");
@@ -71,6 +59,21 @@ export default function TrueOrFalseEngine({
     setScore(0);
     setFinished(false);
   };
+
+  if (!hasStatements) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div className="rounded-2xl border border-border bg-surface p-8" style={{ boxShadow: "var(--shadow-lg)" }}>
+          <h2 className="mb-2 text-3xl font-bold text-foreground" style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}>
+            Game data not available
+          </h2>
+          <p className="text-lg text-text-muted">We couldn&apos;t load the game data for &ldquo;{title}&rdquo;. Please try again later.</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (!item) return null;
 
   if (finished) {
     const percentage = Math.round((score / shuffledStatements.length) * 100);

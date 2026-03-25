@@ -28,6 +28,7 @@ export default function WhoAmIEngine({
     if (!puzzles || !Array.isArray(puzzles)) return [];
     return shuffleArray(puzzles);
   }, [puzzles]);
+  const hasPuzzles = shuffledPuzzles.length > 0;
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [cluesRevealed, setCluesRevealed] = useState(1);
@@ -35,30 +36,8 @@ export default function WhoAmIEngine({
   const [result, setResult] = useState<"correct" | "wrong" | null>(null);
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
-
-  if (!puzzles || !Array.isArray(puzzles) || puzzles.length === 0) {
-    return (
-      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
-        <div
-          className="rounded-2xl border border-border bg-surface p-8"
-          style={{ boxShadow: "var(--shadow-lg)" }}
-        >
-          <h2
-            className="mb-2 text-3xl font-bold text-foreground"
-            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-          >
-            Game data not available
-          </h2>
-          <p className="text-lg text-text-muted">
-            We couldn't load the game data for "{title}". Please try again later.
-          </p>
-        </div>
-      </div>
-    );
-  }
-
-  const puzzle = shuffledPuzzles[currentIndex];
-  const maxClues = puzzle.clues.length;
+  const puzzle = hasPuzzles ? shuffledPuzzles[currentIndex] : null;
+  const maxClues = puzzle?.clues.length ?? 0;
 
   const advance = useCallback(() => {
     if (currentIndex + 1 < shuffledPuzzles.length) {
@@ -74,6 +53,7 @@ export default function WhoAmIEngine({
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
       e.preventDefault();
+      if (!puzzle) return;
       if (result !== null) return;
       const isCorrect = normalize(guess.trim()) === normalize(puzzle.answer);
       if (isCorrect) {
@@ -100,6 +80,29 @@ export default function WhoAmIEngine({
     setScore(0);
     setFinished(false);
   };
+
+  if (!hasPuzzles) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div
+          className="rounded-2xl border border-border bg-surface p-8"
+          style={{ boxShadow: "var(--shadow-lg)" }}
+        >
+          <h2
+            className="mb-2 text-3xl font-bold text-foreground"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            Game data not available
+          </h2>
+          <p className="text-lg text-text-muted">
+            We couldn&apos;t load the game data for &ldquo;{title}&rdquo;. Please try again later.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (!puzzle) return null;
 
   const maxScore = shuffledPuzzles.length * maxClues;
 

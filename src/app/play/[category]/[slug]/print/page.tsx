@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import type { ComponentProps } from "react";
 import GamePrintLayout from "@/components/printable/GamePrintLayout";
 import type { GameCategory } from "@/lib/types";
 import fs from "fs/promises";
@@ -44,6 +45,21 @@ const printableTitles: Record<string, string> = {
   "memory-true-or-false": "Memory True or False",
 };
 
+type CrosswordPuzzle = ComponentProps<typeof PrintableCrossword>["puzzle"];
+type WordSearchPuzzle = ComponentProps<typeof PrintableWordSearch>["puzzle"];
+type CryptogramPuzzle = ComponentProps<typeof PrintableCryptogram>["puzzle"];
+type SudokuPuzzle = ComponentProps<typeof PrintableSudoku>["puzzle"];
+type RiddleList = ComponentProps<typeof PrintableRiddles>["riddles"];
+type TrueFalseStatements = ComponentProps<typeof PrintableTrueOrFalse>["statements"];
+type WordScramblePuzzles = ComponentProps<typeof PrintableWordScramble>["puzzles"];
+type WordLadderPuzzles = ComponentProps<typeof PrintableWordLadder>["puzzles"];
+type SpecialPrintData = {
+  title?: string;
+  riddles?: RiddleList;
+  statements?: TrueFalseStatements;
+  puzzles?: unknown[];
+};
+
 async function getSpecialGameData(category: string, slug: string) {
   try {
     const dataPath = path.join(process.cwd(), "src/data", category, `${slug}.json`);
@@ -69,32 +85,40 @@ export async function generateStaticParams() {
   return params.filter(p => p.category && p.slug);
 }
 
-function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: any; showAnswers: boolean }) {
+function SpecialPrintContent({
+  slug,
+  data,
+  showAnswers,
+}: {
+  slug: string;
+  data: SpecialPrintData | null;
+  showAnswers: boolean;
+}) {
   if (!data) return <div className="p-8 text-center text-red-600">Game data could not be loaded for printing.</div>;
 
   switch (slug) {
     // Nostalgia
     case "nostalgia-riddles":
-      return <PrintableRiddles title="Nostalgia Riddles" riddles={data.riddles} showAnswers={showAnswers} />;
+      return <PrintableRiddles title="Nostalgia Riddles" riddles={data.riddles ?? []} showAnswers={showAnswers} />;
     case "nostalgia-fact-or-fiction":
-      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements ?? []} showAnswers={showAnswers} />;
 
     // General knowledge
     case "true-or-false":
-      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements ?? []} showAnswers={showAnswers} />;
     case "science-true-or-false":
-      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements ?? []} showAnswers={showAnswers} />;
 
     // Word games
     case "word-scramble":
-      return <PrintableWordScramble title="Word Scramble" puzzles={data.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordScramble title="Word Scramble" puzzles={(data.puzzles as WordScramblePuzzles | undefined) ?? []} showAnswers={showAnswers} />;
     case "food-word-scramble":
-      return <PrintableWordScramble title="Food Word Scramble" puzzles={data.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordScramble title="Food Word Scramble" puzzles={(data.puzzles as WordScramblePuzzles | undefined) ?? []} showAnswers={showAnswers} />;
     case "crossword-classic":
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as CrosswordPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCrossword puzzle={puzzle} showAnswers={showAnswers} />
@@ -106,7 +130,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as CrosswordPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCrossword puzzle={puzzle} showAnswers={showAnswers} />
@@ -118,7 +142,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as WordSearchPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableWordSearch puzzle={puzzle} showAnswers={showAnswers} />
@@ -130,7 +154,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as WordSearchPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableWordSearch puzzle={puzzle} showAnswers={showAnswers} />
@@ -139,14 +163,14 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
         </>
       );
     case "word-ladder":
-      return <PrintableWordLadder title="Word Ladder" puzzles={data.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordLadder title="Word Ladder" puzzles={(data.puzzles as WordLadderPuzzles | undefined) ?? []} showAnswers={showAnswers} />;
     case "word-ladder-challenge":
-      return <PrintableWordLadder title="Word Ladder Challenge" puzzles={data.puzzles} showAnswers={showAnswers} />;
+      return <PrintableWordLadder title="Word Ladder Challenge" puzzles={(data.puzzles as WordLadderPuzzles | undefined) ?? []} showAnswers={showAnswers} />;
     case "cryptogram":
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as CryptogramPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCryptogram puzzle={puzzle} showAnswers={showAnswers} />
@@ -158,7 +182,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as CryptogramPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableCryptogram puzzle={puzzle} showAnswers={showAnswers} />
@@ -167,16 +191,16 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
         </>
       );
     case "riddle-challenge":
-      return <PrintableRiddles title="Riddle Challenge" riddles={data.riddles} showAnswers={showAnswers} />;
+      return <PrintableRiddles title="Riddle Challenge" riddles={data.riddles ?? []} showAnswers={showAnswers} />;
     case "grammar-true-or-false":
-      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements ?? []} showAnswers={showAnswers} />;
 
     // Memory games
     case "sudoku-puzzles":
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as SudokuPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
@@ -188,7 +212,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return (
         <>
-          {data.puzzles.map((puzzle: any, i: number) => (
+          {(data.puzzles as SudokuPuzzle[]).map((puzzle, i) => (
             <div key={puzzle.id}>
               {i > 0 && <div className="print-page-break" />}
               <PrintableSudoku puzzle={puzzle} showAnswers={showAnswers} />
@@ -197,7 +221,7 @@ function SpecialPrintContent({ slug, data, showAnswers }: { slug: string; data: 
         </>
       );
     case "memory-true-or-false":
-      return <PrintableTrueOrFalse title={data.title} statements={data.statements} showAnswers={showAnswers} />;
+      return <PrintableTrueOrFalse title={data.title} statements={data.statements ?? []} showAnswers={showAnswers} />;
 
     default:
       return null;

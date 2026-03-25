@@ -43,7 +43,7 @@ export default function TimelineSortEngine({
             Game data not available
           </h2>
           <p className="text-lg text-text-muted">
-            We couldn't load the game data for "{title}". Please try again later.
+            We couldn&apos;t load the game data for &ldquo;{title}&rdquo;. Please try again later.
           </p>
         </div>
       </div>

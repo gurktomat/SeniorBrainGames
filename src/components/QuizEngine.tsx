@@ -22,37 +22,9 @@ export default function QuizEngine({ quiz, onComplete }: QuizEngineProps) {
     }
     return { ...quiz, questions: shuffleArray(quiz.questions) };
   }, [quiz]);
-
-  if (
-    !quiz ||
-    !quiz.questions ||
-    !Array.isArray(quiz.questions) ||
-    quiz.questions.length === 0
-  ) {
-    return (
-      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
-        <div
-          className="rounded-2xl border border-border bg-surface p-8"
-          style={{ boxShadow: "var(--shadow-lg)" }}
-        >
-          <h2
-            className="mb-2 text-3xl font-bold text-foreground"
-            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
-          >
-            Game data not available
-          </h2>
-          <p className="text-lg text-text-muted">
-            We couldn't load the game data for "{quiz?.title || "this quiz"}". Please try again
-            later.
-          </p>
-        </div>
-      </div>
-    );
-  }
-
-  const question = shuffledQuiz.questions && shuffledQuiz.questions.length > 0 
-    ? shuffledQuiz.questions[currentIndex] 
-    : null;
+  const hasQuestions = Array.isArray(shuffledQuiz.questions) && shuffledQuiz.questions.length > 0;
+  const quizTitle = quiz?.title || "this quiz";
+  const question = hasQuestions ? shuffledQuiz.questions[currentIndex] : null;
 
   const handleAnswer = useCallback(
     (selectedAnswer: number) => {
@@ -78,6 +50,27 @@ export default function QuizEngine({ quiz, onComplete }: QuizEngineProps) {
     setAnswers([]);
     setFinished(false);
   }, []);
+
+  if (!hasQuestions) {
+    return (
+      <div className="mx-auto w-full max-w-2xl px-6 py-8 text-center">
+        <div
+          className="rounded-2xl border border-border bg-surface p-8"
+          style={{ boxShadow: "var(--shadow-lg)" }}
+        >
+          <h2
+            className="mb-2 text-3xl font-bold text-foreground"
+            style={{ fontFamily: "var(--font-merriweather), var(--font-heading)" }}
+          >
+            Game data not available
+          </h2>
+          <p className="text-lg text-text-muted">
+            We couldn&apos;t load the game data for &ldquo;{quizTitle}&rdquo;. Please try again later.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   if (finished) {
     const result: QuizResult = {

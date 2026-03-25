@@ -6,11 +6,10 @@ interface WordScramblePuzzle {
 }
 
 export default function PrintableWordScramble({
-  title,
   puzzles,
   showAnswers,
 }: {
-  title: string;
+  title?: string;
   puzzles: WordScramblePuzzle[];
   showAnswers?: boolean;
 }) {

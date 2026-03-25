@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import type { ComponentProps } from "react";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -35,6 +36,11 @@ import mazeData from "@/data/printable/mazes.json";
 import premiumData from "@/data/printable/premium-puzzles.json";
 
 type PuzzleType = "crossword" | "word-search" | "sudoku" | "word-scramble" | "riddles" | "word-ladder" | "cryptogram" | "logic-grid" | "maze" | "finish-phrase";
+type WordSearchPuzzle = ComponentProps<typeof PrintableWordSearch>["puzzle"];
+type WordSearchWord = WordSearchPuzzle["words"][number];
+type PremiumWordSearchPuzzle = Omit<WordSearchPuzzle, "words"> & {
+  words?: Array<string | WordSearchWord>;
+};
 
 interface PuzzleConfig {
   type: PuzzleType;
@@ -403,13 +409,18 @@ function PuzzleContent({ slug }: { slug: string }) {
     }
     case "word-search": {
       if (slug === "word-search-1950s") {
-        const rawPuzzle = premiumData.puzzles.find((p) => p.id === slug) as any;
-        const puzzle = {
+        const rawPuzzle = premiumData.puzzles.find(
+          (p) => p.id === slug,
+        ) as PremiumWordSearchPuzzle | undefined;
+        if (!rawPuzzle) return null;
+        const puzzle: WordSearchPuzzle = {
           ...rawPuzzle,
-          words: (rawPuzzle.words || []).map((w: any) => 
-            typeof w === "string" ? { word: w, startRow: -1, startCol: -1, endRow: -1, endCol: -1 } : w
-          )
-        } as React.ComponentProps<typeof PrintableWordSearch>["puzzle"];
+          words: (rawPuzzle.words || []).map((word): WordSearchWord =>
+            typeof word === "string"
+              ? { word, startRow: -1, startCol: -1, endRow: -1, endCol: -1 }
+              : word,
+          ),
+        };
         return <PrintableWordSearch puzzle={puzzle} />;
       }
       const entry = wordSearchMap[slug];

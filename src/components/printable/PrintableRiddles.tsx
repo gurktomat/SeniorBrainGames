@@ -6,11 +6,10 @@ interface Riddle {
 }
 
 export default function PrintableRiddles({
-  title,
   riddles,
   showAnswers,
 }: {
-  title: string;
+  title?: string;
   riddles: Riddle[];
   showAnswers?: boolean;
 }) {
