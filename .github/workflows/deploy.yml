@@ -11,8 +11,9 @@ concurrency:
 
 jobs:
   verify:
-    name: Type-check + build
+    name: Type-check + lint
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -21,13 +22,13 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run lint
-      - run: npm run build
-        env:
-          NEXT_TELEMETRY_DISABLED: "1"
-          # Bake Sentry DSN into client chunks on the CI build too, so the CI
-          # build artifact matches what the server rebuild produces.
-          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
-          NEXT_PUBLIC_SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+      # We deliberately skip `next build` on CI — it generates 1500+ static
+      # game pages + OG images which takes 20+ minutes on free-tier runners.
+      # The authoritative build happens in the deploy step on the host, which
+      # has more cores and a primed cache. CI's job is to catch type + lint
+      # errors before they reach the server.
+      - name: Type-check
+        run: npx tsc --noEmit --project tsconfig.ci.json
 
   deploy:
     name: SSH deploy + pm2 restart
