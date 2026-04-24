@@ -14,7 +14,6 @@ type Suit = "S" | "H" | "D" | "C";
 const SUITS: Suit[] = ["S", "H", "D", "C"];
 const SUIT_GLYPH: Record<Suit, string> = { S: "♠", H: "♥", D: "♦", C: "♣" };
 const SUIT_COLOR: Record<Suit, "red" | "black"> = { S: "black", C: "black", H: "red", D: "red" };
-const SUIT_INDEX: Record<Suit, number> = { S: 0, H: 1, D: 2, C: 3 };
 
 const RANKS = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"] as const;
 type Rank = (typeof RANKS)[number];
@@ -219,7 +218,7 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
   const [history, setHistory] = useState<GameState[]>([]);
   const [selected, setSelected] = useState<Source | null>(null);
   const [hint, setHint] = useState<{ source: Source; dest: Destination } | null>(null);
-  const startedAtRef = useRef<number>(Date.now());
+  const [startedAt, setStartedAt] = useState(() => Date.now());
   const recordedRef = useRef(false);
   const { recordPlay } = useProgress();
 
@@ -234,12 +233,12 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
         score: 100,
         totalQuestions: 52,
         correctAnswers: 52,
-        timeSpentMs: Date.now() - startedAtRef.current,
+        timeSpentMs: Date.now() - startedAt,
         isDaily: false,
         isPerfect: history.length <= 60, // heuristic: "efficient win" = few moves
       });
     }
-  }, [won, recordPlay, history.length]);
+  }, [won, recordPlay, history.length, startedAt]);
 
   // clear hint
   useEffect(() => {
@@ -257,7 +256,7 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
     setHistory([]);
     setSelected(null);
     setHint(null);
-    startedAtRef.current = Date.now();
+    setStartedAt(Date.now());
     recordedRef.current = false;
   };
 

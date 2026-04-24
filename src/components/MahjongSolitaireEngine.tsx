@@ -156,13 +156,13 @@ export default function MahjongSolitaireEngine({ title = "Mahjong Solitaire" }: 
   const [selected, setSelected] = useState<number | null>(null);
   const [history, setHistory] = useState<[number, number][]>([]);
   const [hint, setHint] = useState<[number, number] | null>(null);
-  const startedAtRef = useRef<number>(Date.now());
+  const [startedAt, setStartedAt] = useState(() => Date.now());
   const recordedRef = useRef(false);
   const { recordPlay } = useProgress();
 
   const remaining = useMemo(() => tiles.filter((t) => !t.removed).length, [tiles]);
   const won = remaining === 0;
-  const stuck = !won && findHint(tiles) === null;
+  const stuck = useMemo(() => !won && findHint(tiles) === null, [won, tiles]);
 
   useEffect(() => {
     if (won && !recordedRef.current) {
@@ -173,12 +173,12 @@ export default function MahjongSolitaireEngine({ title = "Mahjong Solitaire" }: 
         score: 100,
         totalQuestions: LAYOUT.length / 2,
         correctAnswers: LAYOUT.length / 2,
-        timeSpentMs: Date.now() - startedAtRef.current,
+        timeSpentMs: Date.now() - startedAt,
         isDaily: false,
         isPerfect: history.length === LAYOUT.length / 2, // no undos used
       });
     }
-  }, [won, recordPlay, history.length]);
+  }, [won, recordPlay, history.length, startedAt]);
 
   // Clear hint highlight after 2s
   useEffect(() => {
@@ -192,7 +192,7 @@ export default function MahjongSolitaireEngine({ title = "Mahjong Solitaire" }: 
     setSelected(null);
     setHistory([]);
     setHint(null);
-    startedAtRef.current = Date.now();
+    setStartedAt(Date.now());
     recordedRef.current = false;
   }, []);
 

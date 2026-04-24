@@ -68,7 +68,7 @@ const LINE_PATTERNS: number[][] = (() => {
 
 function checkWin(card: number[], marks: Set<number>): WinInfo | null {
   // blackout first (rarer, bigger)
-  const allMarked = card.every((n, i) => n === 0 || marks.has(n));
+  const allMarked = card.every((n) => n === 0 || marks.has(n));
   if (allMarked) {
     return { pattern: "blackout", cells: Array.from({ length: 25 }, (_, i) => i) };
   }
@@ -82,27 +82,33 @@ function checkWin(card: number[], marks: Set<number>): WinInfo | null {
 // ─── Component ───────────────────────────────────────────────────────────────
 
 export default function BingoEngine({ title = "Bingo" }: BingoEngineProps) {
-  const [phase, setPhase] = useState<Phase>("ready");
+  type UserPhase = "ready" | "playing";
+  const [userPhase, setUserPhase] = useState<UserPhase>("ready");
   const [card, setCard] = useState<number[]>(() => generateCard());
   const [drawn, setDrawn] = useState<number[]>([]); // order of draws
   const [marks, setMarks] = useState<Set<number>>(() => new Set());
   const [autoDraw, setAutoDraw] = useState(true);
   const [paused, setPaused] = useState(false);
   const [soundOn, setSoundOn] = useState(false);
-  const [win, setWin] = useState<WinInfo | null>(null);
   const [startedAt, setStartedAt] = useState<number | null>(null);
   const recordedRef = useRef(false);
   const { recordPlay } = useProgress();
 
   const drawnSet = useMemo(() => new Set(drawn), [drawn]);
+
+  // Win is a derived computation — no setState-in-effect cascade needed.
+  const win = useMemo(
+    () => (userPhase === "playing" ? checkWin(card, marks) : null),
+    [card, marks, userPhase],
+  );
+  const phase: Phase = win ? "won" : userPhase;
   const currentBall = drawn[drawn.length - 1];
 
   const resetGame = useCallback(() => {
     setCard(generateCard());
     setDrawn([]);
     setMarks(new Set());
-    setWin(null);
-    setPhase("ready");
+    setUserPhase("ready");
     setPaused(false);
     setStartedAt(null);
     recordedRef.current = false;
@@ -148,24 +154,14 @@ export default function BingoEngine({ title = "Bingo" }: BingoEngineProps) {
     return () => window.clearInterval(id);
   }, [phase, autoDraw, paused, win, drawOne]);
 
-  // Check for wins whenever marks change
-  useEffect(() => {
-    if (phase !== "playing") return;
-    const result = checkWin(card, marks);
-    if (result) {
-      setWin(result);
-      setPhase("won");
-    }
-  }, [card, marks, phase]);
-
   const onStart = () => {
-    setPhase("playing");
+    setUserPhase("playing");
     setStartedAt(Date.now());
   };
 
   // Record a completed game exactly once
   useEffect(() => {
-    if (phase === "won" && !recordedRef.current) {
+    if (win && !recordedRef.current) {
       recordedRef.current = true;
       recordPlay({
         slug: "bingo",
@@ -175,10 +171,10 @@ export default function BingoEngine({ title = "Bingo" }: BingoEngineProps) {
         correctAnswers: 1,
         timeSpentMs: startedAt ? Date.now() - startedAt : 0,
         isDaily: false,
-        isPerfect: win?.pattern === "blackout",
+        isPerfect: win.pattern === "blackout",
       });
     }
-  }, [phase, recordPlay, startedAt, win]);
+  }, [win, recordPlay, startedAt]);
 
   const onTapCell = (idx: number) => {
     if (phase !== "playing") return;

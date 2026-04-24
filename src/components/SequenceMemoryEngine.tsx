@@ -151,6 +151,7 @@ function SequenceLevelView({
   // ─── Start playback on mount ───────────────────────────────────────────────
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     playSequence(sequence);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
