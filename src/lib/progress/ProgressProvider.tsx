@@ -20,6 +20,7 @@ import {
   migrateOldStorage,
   createDefaultState,
 } from "./store";
+import { trackBadgeEarned, trackGameComplete, trackLevelUp } from "../analytics";
 
 export interface ProgressContextType {
   progress: ProgressState;
@@ -59,6 +60,20 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     (record: Omit<GamePlayRecord, "playedAt">) => {
       const result = recordGamePlay(record);
       setProgress({ ...result.state });
+
+      // Fire GA4 events so Google Analytics shows which games are played,
+      // which ones users finish, and how long they spend. No-op without gtag.
+      trackGameComplete({
+        slug: record.slug,
+        category: record.category,
+        score: record.score,
+        durationSeconds: record.timeSpentMs / 1000,
+        isPerfect: record.isPerfect,
+        isDaily: record.isDaily,
+      });
+      if (result.leveledUp) trackLevelUp(result.state.level);
+      for (const badge of result.newBadges) trackBadgeEarned(badge);
+
       return {
         xpGained: result.xpGained,
         newBadges: result.newBadges,
