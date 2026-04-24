@@ -358,10 +358,24 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
   const showHint = () => setHint(findAnyLegalMove(state));
 
   // ─ Render helpers ──────────────────────────────────────────────────────────
-  const CARD_W = 72;
-  const CARD_H = 104;
-  const STACK_OFFSET_UP = 28;   // face-up tableau card offset
-  const STACK_OFFSET_DOWN = 14; // face-down tableau card offset
+  // Responsive card dimensions — on narrow viewports shrink so all 7 tableau
+  // columns fit without horizontal scroll (the game is unplayable otherwise).
+  const [cardW, setCardW] = useState(72);
+  useEffect(() => {
+    const compute = () => {
+      const avail = Math.min(window.innerWidth - 32, 880);
+      const needed = 7 * 72 + 6 * 12; // 7 cards + 6 gaps at full size
+      const scale = Math.min(1, Math.max(0.6, avail / needed));
+      setCardW(Math.round(72 * scale));
+    };
+    compute();
+    window.addEventListener("resize", compute);
+    return () => window.removeEventListener("resize", compute);
+  }, []);
+  const CARD_W = cardW;
+  const CARD_H = Math.round(cardW * (104 / 72));
+  const STACK_OFFSET_UP = Math.round(cardW * (28 / 72));
+  const STACK_OFFSET_DOWN = Math.round(cardW * (14 / 72));
 
   const isHintSource = (src: Source) =>
     hint && JSON.stringify(hint.source) === JSON.stringify(src);
@@ -498,8 +512,8 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
       </div>
 
       {/* Top row: stock, waste, foundations */}
-      <div className="mb-5 overflow-x-auto rounded-2xl border border-border p-4" style={{ background: "linear-gradient(180deg, rgba(31,110,74,0.04) 0%, rgba(192,138,26,0.04) 100%)" }}>
-        <div className="flex items-start gap-3" style={{ minWidth: CARD_W * 7 + 48 }}>
+      <div className="mb-5 rounded-2xl border border-border p-4" style={{ background: "linear-gradient(180deg, rgba(31,110,74,0.04) 0%, rgba(192,138,26,0.04) 100%)" }}>
+        <div className="flex items-start gap-3">
           {/* Stock */}
           <div className="flex flex-col items-center gap-1" style={{ width: CARD_W }}>
             {state.stock.length > 0 ? (
@@ -572,8 +586,8 @@ export default function SolitaireEngine({ title = "Solitaire" }: SolitaireEngine
       </div>
 
       {/* Tableau */}
-      <div className="overflow-x-auto rounded-2xl border border-border bg-surface p-4">
-        <div className="flex items-start gap-3" style={{ minWidth: CARD_W * 7 + 40 }}>
+      <div className="rounded-2xl border border-border bg-surface p-4">
+        <div className="flex items-start gap-3">
           {state.tableau.map((col, colIdx) => {
             const colHeight = Math.max(
               CARD_H,

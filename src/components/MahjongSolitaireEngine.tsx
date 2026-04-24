@@ -248,9 +248,23 @@ export default function MahjongSolitaireEngine({ title = "Mahjong Solitaire" }: 
   // Tile visual: 48×64px on desktop, 38×52 on mobile. Each grid col is 48/2 = 24 wide,
   // row is 64/2 = 32 tall, so tile footprint overlaps neighbors slightly for the
   // stacked look.
-  const TILE_W = 48;
-  const TILE_H = 64;
-  const LAYER_OFFSET = 3; // px up+left per layer for 3D illusion
+  // Responsive tile dimensions — shrink on narrow viewports so the whole
+  // board is visible (the game is unplayable if you can only see half of it).
+  const [tileW, setTileW] = useState(48);
+  useEffect(() => {
+    const compute = () => {
+      const avail = Math.min(window.innerWidth - 32, 720);
+      const needed = COLS * 48 + 40;
+      const scale = Math.min(1, Math.max(0.55, avail / needed));
+      setTileW(Math.round(48 * scale));
+    };
+    compute();
+    window.addEventListener("resize", compute);
+    return () => window.removeEventListener("resize", compute);
+  }, []);
+  const TILE_W = tileW;
+  const TILE_H = Math.round(tileW * (64 / 48));
+  const LAYER_OFFSET = Math.max(2, Math.round(tileW * (3 / 48)));
   const BOARD_W = COLS * TILE_W + 40;
   const BOARD_H = ROWS * TILE_H + 40;
 
