@@ -12,6 +12,22 @@ export interface BlogArticle extends ArticleMeta {
 
 export const articleMetadata: ArticleMeta[] = [
   {
+    slug: "mahjong-solitaire-for-beginners",
+    title: "Mahjong Solitaire for Beginners: How to Play (Free, Online)",
+    description:
+      "New to Mahjong Solitaire? This plain-English guide covers the rules, the tile types, basic strategy, and how to play for free online — with large, senior-friendly tiles.",
+    date: "2026-04-24",
+    readingTime: "6 min read",
+  },
+  {
+    slug: "bingo-for-seniors-complete-guide",
+    title: "Bingo for Seniors: The Complete Guide (Plus Free Online Bingo)",
+    description:
+      "Everything you need to know about Bingo — why it is so popular with older adults, how to play solo online, and the surprising research showing it is a real cognitive workout.",
+    date: "2026-04-24",
+    readingTime: "6 min read",
+  },
+  {
     slug: "solitaire-mahjong-bingo-benefits-for-seniors",
     title: "Why Solitaire, Mahjong, and Bingo Are So Good for Senior Brains",
     description:

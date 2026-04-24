@@ -10,10 +10,14 @@ import wordGames from "@/data/blog/word-games-for-older-adults";
 import triviaGames from "@/data/blog/trivia-games-for-seniors";
 import improveMemory from "@/data/blog/how-to-improve-memory-after-70";
 import solitaireMahjongBingo from "@/data/blog/solitaire-mahjong-bingo-benefits-for-seniors";
+import mahjongSolitaireBeginners from "@/data/blog/mahjong-solitaire-for-beginners";
+import bingoGuide from "@/data/blog/bingo-for-seniors-complete-guide";
 
 export type { BlogArticle };
 
 const articles: BlogArticle[] = [
+  mahjongSolitaireBeginners,
+  bingoGuide,
   solitaireMahjongBingo,
   bestBrainExercises,
   benefitsOfPuzzles,
