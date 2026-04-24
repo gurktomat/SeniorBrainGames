@@ -45,6 +45,12 @@ import SlidingPuzzleEngine from "@/components/SlidingPuzzleEngine";
 import SequenceMemoryEngine from "@/components/SequenceMemoryEngine";
 import NumberMemoryEngine from "@/components/NumberMemoryEngine";
 import MinesweeperEngine from "@/components/MinesweeperEngine";
+import SolitaireEngine from "@/components/SolitaireEngine";
+import MahjongSolitaireEngine from "@/components/MahjongSolitaireEngine";
+import BingoEngine from "@/components/BingoEngine";
+
+// Self-contained engines that generate their own state and need no JSON data file.
+const DATALESS_SPECIAL_SLUGS = new Set(["minesweeper", "klondike-solitaire", "mahjong-solitaire", "bingo"]);
 
 export const revalidate = 300;
 export const dynamicParams = true;
@@ -77,7 +83,7 @@ function getCategoryLabel(category: string): string {
 }
 
 async function getSpecialGameData(category: string, slug: string) {
-  if (slug === "minesweeper") return null;
+  if (DATALESS_SPECIAL_SLUGS.has(slug)) return null;
   try {
     const dataPath = path.join(process.cwd(), "src/data", category, `${slug}.json`);
     const content = await fs.readFile(dataPath, "utf-8");
@@ -282,7 +288,7 @@ function PageShell({
 // Renders the special game engine for a given slug
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function SpecialGameEngine({ slug, data }: { slug: string; data: any }): React.ReactNode {
-  if (!data && slug !== "minesweeper") return <div>Game data not available.</div>;
+  if (!data && !DATALESS_SPECIAL_SLUGS.has(slug)) return <div>Game data not available.</div>;
 
   switch (slug) {
     // --- Nostalgia ---
@@ -479,6 +485,9 @@ function SpecialGameEngine({ slug, data }: { slug: string; data: any }): React.R
       if (!data?.puzzles) return <div>Data error: puzzles missing</div>;
       return <WhoAmIEngine title={data.title} puzzles={data.puzzles} />;
     case "minesweeper": return <MinesweeperEngine title="Minesweeper" />;
+    case "klondike-solitaire": return <SolitaireEngine title="Solitaire" />;
+    case "mahjong-solitaire": return <MahjongSolitaireEngine title="Mahjong Solitaire" />;
+    case "bingo": return <BingoEngine title="Bingo" />;
     case "nature-card-match": 
       if (!data?.levels) return <div>Data error: levels missing</div>;
       return <MemoryCardEngine title={data.title} levels={data.levels} />;
@@ -542,7 +551,7 @@ export default async function GamePage({
   const isPrintable = isSpecialPrintable(category, slug);
 
   const data = await getSpecialGameData(category, slug);
-  if (!data && slug !== "minesweeper") {
+  if (!data && !DATALESS_SPECIAL_SLUGS.has(slug)) {
     return (
       <PageShell 
         category={typedCategory} 

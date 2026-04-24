@@ -76,5 +76,8 @@ export const specialGamesMetadata: Record<string, Record<string, { title: string
     "sudoku-challenge": { title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!" },
     "sliding-puzzle-challenge": { title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!" },
     "famous-pairs-matching": { title: "Famous Pairs Matching", description: "Match famous duos, partners, and sidekicks from TV, music, and history!" },
+    "klondike-solitaire": { title: "Solitaire", description: "The classic single-player card game — build the four foundations from Ace to King." },
+    "mahjong-solitaire": { title: "Mahjong Solitaire", description: "Clear the stacked tiles by matching free pairs — the calming classic." },
+    "bingo": { title: "Bingo", description: "Mark called numbers on your card — first to complete a row, column, or diagonal wins!" },
   },
 };

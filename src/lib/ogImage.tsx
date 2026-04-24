@@ -1,12 +1,12 @@
 import { ImageResponse } from "next/og";
 
 const categoryColors: Record<string, string> = {
-  "nostalgia-trivia": "#3B6FC0",
-  "general-knowledge": "#0891B2",
-  "word-games": "#E8983E",
-  "memory-games": "#16A34A",
-  "printable-puzzles": "#7C3AED",
-  blog: "#1B4965",
+  "nostalgia-trivia": "#6366F1",
+  "general-knowledge": "#0EA5E9",
+  "word-games": "#F59E0B",
+  "memory-games": "#10B981",
+  "printable-puzzles": "#C08A1A",
+  blog: "#1F6E4A",
 };
 
 export function generateOgImage({
@@ -18,7 +18,7 @@ export function generateOgImage({
   subtitle?: string;
   category?: string;
 }): ImageResponse {
-  const accent = category ? categoryColors[category] || "#E8983E" : "#E8983E";
+  const accent = category ? categoryColors[category] || "#C08A1A" : "#C08A1A";
 
   return new ImageResponse(
     (
@@ -29,7 +29,7 @@ export function generateOgImage({
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          background: "linear-gradient(135deg, #1B4965 0%, #2D6A8F 100%)",
+          background: "linear-gradient(135deg, #1F6E4A 0%, #2F9966 100%)",
           padding: "60px",
         }}
       >

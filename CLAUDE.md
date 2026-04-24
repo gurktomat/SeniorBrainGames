@@ -72,6 +72,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `MathChallengeEngine` — Arithmetic puzzles
 - `NumberMemoryEngine` — Number sequence recall
 - `EstimationEngine` — Numeric estimation with closeness scoring
+- `BingoEngine` — 5×5 bingo card with auto/manual draw and line/blackout win detection (self-contained, no data file)
+- `MahjongSolitaireEngine` — 128-tile 3-layer pyramid, tap-pair matching with free-tile detection, undo + hint (self-contained)
+- `SolitaireEngine` — Klondike: 7 tableau columns, 4 foundations, stock/waste, tap-to-move + double-tap auto-foundation, undo + hint (self-contained)
 
 ## Adding New Games
 

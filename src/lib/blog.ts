@@ -9,10 +9,12 @@ import memoryGames from "@/data/blog/memory-games-for-seniors";
 import wordGames from "@/data/blog/word-games-for-older-adults";
 import triviaGames from "@/data/blog/trivia-games-for-seniors";
 import improveMemory from "@/data/blog/how-to-improve-memory-after-70";
+import solitaireMahjongBingo from "@/data/blog/solitaire-mahjong-bingo-benefits-for-seniors";
 
 export type { BlogArticle };
 
 const articles: BlogArticle[] = [
+  solitaireMahjongBingo,
   bestBrainExercises,
   benefitsOfPuzzles,
   freePrintablePuzzles,

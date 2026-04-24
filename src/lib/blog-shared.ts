@@ -12,6 +12,14 @@ export interface BlogArticle extends ArticleMeta {
 
 export const articleMetadata: ArticleMeta[] = [
   {
+    slug: "solitaire-mahjong-bingo-benefits-for-seniors",
+    title: "Why Solitaire, Mahjong, and Bingo Are So Good for Senior Brains",
+    description:
+      "Three of the most beloved games for older adults are also among the most cognitively valuable. Here is what research says about Solitaire, Mahjong Solitaire, and Bingo — and how to play them online for free.",
+    date: "2026-04-24",
+    readingTime: "7 min read",
+  },
+  {
     slug: "best-brain-exercises-for-seniors",
     title: "10 Best Brain Exercises for Seniors",
     description: "Discover the most effective brain exercises for seniors backed by science. From word puzzles to memory games, learn how to keep your mind sharp and active.",

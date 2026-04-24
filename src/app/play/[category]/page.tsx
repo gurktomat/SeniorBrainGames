@@ -91,6 +91,9 @@ const specialGamesByCategory: Record<string, SpecialGame[]> = {
     { id: "sudoku-challenge", title: "Sudoku Challenge", description: "Fill the grid so every row, column, and 3×3 box contains 1-9!", count: "3 Puzzles" },
     { id: "sliding-puzzle-challenge", title: "Sliding Puzzle Challenge", description: "Slide the numbered tiles into the correct order!", count: "3 Levels" },
     { id: "famous-pairs-matching", title: "Famous Pairs Matching", description: "Match famous duos, partners, and sidekicks from TV, music, and history!", count: "10 Rounds" },
+    { id: "klondike-solitaire", title: "Solitaire", description: "The classic single-player card game — build the four foundations from Ace to King.", count: "Classic" },
+    { id: "mahjong-solitaire", title: "Mahjong Solitaire", description: "Clear the stacked tiles by matching free pairs — the calming classic.", count: "128 Tiles" },
+    { id: "bingo", title: "Bingo", description: "Mark called numbers on your card — first to complete a row, column, or diagonal wins!", count: "Auto-draw" },
   ],
 };
 

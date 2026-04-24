@@ -1,0 +1,78 @@
+name: Deploy to production
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    name: Type-check + build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"
+          # Bake Sentry DSN into client chunks on the CI build too, so the CI
+          # build artifact matches what the server rebuild produces.
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+          NEXT_PUBLIC_SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+
+  deploy:
+    name: SSH deploy + pm2 restart
+    needs: verify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          port: ${{ secrets.DEPLOY_PORT || 22 }}
+          script: |
+            set -euo pipefail
+            cd /var/www/SeniorBrainGames
+
+            # Stash any locally-modified ecosystem config so git pull succeeds,
+            # then re-apply our host-specific edits after the pull.
+            if git diff --quiet -- ecosystem.config.cjs; then
+              HAS_LOCAL_ECO=0
+            else
+              HAS_LOCAL_ECO=1
+              git stash push -- ecosystem.config.cjs
+            fi
+
+            git fetch --prune origin main
+            git reset --hard origin/main
+
+            if [ "$HAS_LOCAL_ECO" = "1" ]; then
+              git stash pop || true
+            fi
+
+            # Ensure cwd/port overrides for this host (idempotent)
+            sed -i 's|cwd: "/home/gurktomat/SeniorBrainGames"|cwd: "/var/www/SeniorBrainGames"|' ecosystem.config.cjs
+            sed -i 's|start -H 0.0.0.0 -p 3000|start -H 127.0.0.1 -p 3100|' ecosystem.config.cjs
+            sed -i 's|HOSTNAME: "0.0.0.0"|HOSTNAME: "127.0.0.1"|' ecosystem.config.cjs
+            sed -i 's|PORT: "3000"|PORT: "3100"|' ecosystem.config.cjs
+
+            npm ci --no-audit --no-fund
+            npm run build
+            pm2 restart seniorbraingames --update-env
+            pm2 save
+
+            # Health check
+            sleep 3
+            curl -fsS http://127.0.0.1:3100/ > /dev/null || { echo "Health check failed"; exit 1; }
+            echo "Deployed successfully"

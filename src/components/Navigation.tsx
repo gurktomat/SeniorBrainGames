@@ -5,7 +5,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
   Search,
-  BrainCircuit,
   Gamepad2,
   BarChart3,
   Calendar,
@@ -14,6 +13,7 @@ import {
   X,
   Flame,
 } from "lucide-react";
+import BrandMark from "./BrandMark";
 import GameSearch from "./GameSearch";
 import ThemeToggle from "./ThemeToggle";
 import { useProgress } from "@/lib/progress/useProgress";
@@ -65,13 +65,13 @@ export default function NavigationNew() {
               fontFamily: "var(--font-merriweather), var(--font-heading)",
             }}
           >
-            <div
-              className="flex h-10 w-10 items-center justify-center rounded-xl text-white shadow-md transition-transform group-hover:scale-105"
+            <span
+              className="flex h-10 w-10 items-center justify-center rounded-xl shadow-md transition-transform group-hover:scale-105"
               style={{ background: "var(--gradient-primary)" }}
               aria-hidden="true"
             >
-              <BrainCircuit size={24} strokeWidth={2.5} />
-            </div>
+              <BrandMark size={26} />
+            </span>
             <span className="hidden tracking-tight sm:inline">
               SeniorBrain<span className="text-secondary">Games</span>
             </span>

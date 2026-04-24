@@ -24,8 +24,8 @@ const inter = Inter({
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#FAFAF8" },
-    { media: "(prefers-color-scheme: dark)", color: "#0F0D1A" },
+    { media: "(prefers-color-scheme: light)", color: "#FBF8F3" },
+    { media: "(prefers-color-scheme: dark)", color: "#0C1410" },
   ],
 };
 
@@ -61,11 +61,15 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
       { url: "/favicon.ico", sizes: "48x48" },
       { url: "/icon-192x192.png", sizes: "192x192", type: "image/png" },
       { url: "/icon-512x512.png", sizes: "512x512", type: "image/png" },
     ],
-    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
+    apple: [
+      { url: "/apple-icon.svg", type: "image/svg+xml" },
+      { url: "/apple-touch-icon.png", sizes: "180x180" },
+    ],
   },
   openGraph: {
     type: "website",

@@ -110,5 +110,8 @@ export const specialGameSlugs: Record<string, string[]> = {
     "sudoku-challenge",
     "sliding-puzzle-challenge",
     "famous-pairs-matching",
+    "klondike-solitaire",
+    "mahjong-solitaire",
+    "bingo",
   ],
 };
