@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Weekly traffic digest output (token-protected URL, never in git)
+public/_status/
